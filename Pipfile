@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 fastapi = "*"
 uvicorn = "*"
+sport80 = "*"
 
 [dev-packages]
 
