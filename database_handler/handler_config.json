@@ -2,5 +2,6 @@
   "sport80_urls": [
     "https://bwl.sport80.com/",
     "https://usaweightlifting.sport80.com/"
-  ]
+  ],
+  "database_root": "database_root"
 }
