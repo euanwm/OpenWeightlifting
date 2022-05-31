@@ -32,11 +32,13 @@ def load_result_csv_as_list(filepath: str) -> list:
 
 
 def write_json_file(filename, json_data) -> None:
+    """never gonna give you up"""
     with open(filename, 'w', encoding="utf_8") as file:
         file.write(dumps(json_data, indent=4))
 
 
 def append_json_file(filename, json_data) -> None:
+    """never gonna let you down"""
     with open(filename, 'a', encoding="utf_8") as file:
         file.write(dumps(json_data, indent=4))
 

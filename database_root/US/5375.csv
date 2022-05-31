@@ -1,0 +1,499 @@
+meet,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+2022 Florida State Championships,2022-05-22,Open Men's 96kg,Vadims Kozevnikovs,95.2,145,149,153,185,192,-199,153,192,345
+2022 Florida State Championships,2022-05-22,Open Men's 89kg,Derek Beauchamp,88.8,140,150,-160,170,-182,-182,150,170,320
+2022 Florida State Championships,2022-05-22,Open Men's 102kg,Stephen Velazquez,98.3,135,140,143,171,176,-180,143,176,319
+2022 Florida State Championships,2022-05-22,Open Men's +109kg,Justin Davila,112.8,130,134,140,160,167,-171,140,167,307
+2022 Florida State Championships,2022-05-22,Open Men's 96kg,Huntington Hayes,95.1,130,135,141,151,162,-163,141,162,303
+2022 Florida State Championships,2022-05-22,Open Men's 102kg,Scott Harris,97.3,-130,-130,130,-170,171,-182,130,171,301
+2022 Florida State Championships,2022-05-22,Open Men's 102kg,Christopher Thomas,99.35,122,-125,-127,165,-170,170,122,170,292
+2022 Florida State Championships,2022-05-22,Open Men's 109kg,Tyler Anderson,105.75,-132,135,-140,-155,156,-165,135,156,291
+2022 Florida State Championships,2022-05-22,Open Men's 102kg,Jason Pendergraph,101.25,122,126,-128,155,160,165,126,165,291
+2022 Florida State Championships,2022-05-22,Open Men's 89kg,Ben Collins,88.7,120,125,130,160,-164,-168,130,160,290
+2022 Florida State Championships,2022-05-22,Open Men's +109kg,Yorick Hessing,125.85,120,125,130,160,-161,0,130,160,290
+2022 Florida State Championships,2022-05-21,Open Men's 73kg,Marcus Dialo,72.3,122,128,130,150,158,-166,130,158,288
+2022 Florida State Championships,2022-05-22,Open Men's 89kg,Daniel Montero,86.55,118,122,-125,160,165,-169,122,165,287
+2022 Florida State Championships,2022-05-21,Open Men's 81kg,Thomas Hart,80.35,120,-124,125,155,160,162,125,162,287
+2022 Florida State Championships,2022-05-22,Open Men's 96kg,Deivy De La Hoz,91.45,124,128,132,154,-159,-160,132,154,286
+2022 Florida State Championships,2022-05-22,Open Men's +109kg,Kenneth Taldi,117.35,125,-130,131,155,-160,0,131,155,286
+2022 Florida State Championships,2022-05-22,Junior Men's +109kg,Devon Briggs,139.65,111,115,120,159,-160,0,120,159,279
+2022 Florida State Championships,2022-05-22,Open Men's 89kg,Arron Tate,87.6,116,121,-126,145,-151,156,121,156,277
+2022 Florida State Championships,2022-05-22,Open Men's 102kg,Tashawn Williams,100.15,118,123,-127,150,153,-159,123,153,276
+2022 Florida State Championships,2022-05-22,Men's Masters (35-39) 96kg,Jason Wyns,95.75,-125,-125,125,150,-155,-156,125,150,275
+2022 Florida State Championships,2022-05-22,Men's Masters (40-44) 89kg,Nicholas Avren,85,125,-130,-131,140,150,-156,125,150,275
+2022 Florida State Championships,2022-05-22,Open Men's 89kg,Case Cosentino,87.7,120,-127,-127,-150,151,-162,120,151,271
+2022 Florida State Championships,2022-05-22,Open Men's 96kg,Gladimy Coffy,94.5,115,120,-125,140,145,150,120,150,270
+2022 Florida State Championships,2022-05-22,Open Men's +109kg,Coleman Prendergast,133.45,110,115,120,136,142,150,120,150,270
+2022 Florida State Championships,2022-05-21,Open Men's 73kg,Chris Santana,72.6,113,117,-120,143,148,153,117,153,270
+2022 Florida State Championships,2022-05-22,Open Men's 109kg,Tate Van Etta,107.95,115,120,-125,145,150,-155,120,150,270
+2022 Florida State Championships,2022-05-21,Junior Men's 81kg,Brayden Edman,78.55,-115,-115,115,-148,148,153,115,153,268
+2022 Florida State Championships,2022-05-22,Men's Masters (40-44) 96kg,James DeNofa,94.9,-115,115,120,140,145,-150,120,145,265
+2022 Florida State Championships,2022-05-22,Open Men's 96kg,Carson McAbee,94.8,-110,112,115,-145,-148,150,115,150,265
+2022 Florida State Championships,2022-05-22,Open Men's 96kg,Peter Higuera,93.8,-112,112,117,140,145,-150,117,145,262
+2022 Florida State Championships,2022-05-22,Open Men's 89kg,Van Richardson,85.1,107,111,114,140,144,147,114,147,261
+2022 Florida State Championships,2022-05-21,Open Men's 81kg,Noah Circelli,80.3,110,115,-120,140,145,-150,115,145,260
+2022 Florida State Championships,2022-05-22,Open Men's 96kg,David Samperi,92.25,109,113,117,133,137,142,117,142,259
+2022 Florida State Championships,2022-05-21,Open Men's 81kg,Jose Barajas,80.25,-111,-111,111,141,-146,146,111,146,257
+2022 Florida State Championships,2022-05-20,Men's 14-15 Age Group 81kg,Kale Bunce,77.9,105,110,115,135,-140,140,115,140,255
+2022 Florida State Championships,2022-05-22,Men's Masters (40-44) +109kg,Robert Adamire,114.2,110,115,-120,140,-145,-145,115,140,255
+2022 Florida State Championships,2022-05-22,Open Men's 96kg,Samuel Perez,94.5,105,109,-112,140,144,-150,109,144,253
+2022 Florida State Championships,2022-05-22,Open Men's 96kg,Nicholas Gauvin,91.45,105,110,-116,125,130,141,110,141,251
+2022 Florida State Championships,2022-05-22,Open Men's 96kg,Gabriel Camacho,95.65,102,107,111,-135,137,140,111,140,251
+2022 Florida State Championships,2022-05-22,Open Men's +109kg,Garrett Flick,115.75,103,107,111,132,136,140,111,140,251
+2022 Florida State Championships,2022-05-22,Open Men's 89kg,Ryan Stemme,88.1,100,104,108,130,-136,142,108,142,250
+2022 Florida State Championships,2022-05-21,Junior Men's 73kg,Julian Sykes,70,97,102,107,131,138,143,107,143,250
+2022 Florida State Championships,2022-05-21,Open Men's 81kg,Brian Gavra,80.95,106,-110,-111,135,138,142,106,142,248
+2022 Florida State Championships,2022-05-22,Men's Masters (35-39) 102kg,Blake Foltz,100.7,102,-107,107,128,134,140,107,140,247
+2022 Florida State Championships,2022-05-22,Junior Men's 89kg,Orlando Garcia,88.2,100,105,-110,129,134,140,105,140,245
+2022 Florida State Championships,2022-05-22,Open Men's 96kg,Mark Mirabueno,94.55,100,-105,106,-135,-137,138,106,138,244
+2022 Florida State Championships,2022-05-20,Men's 16-17 Age Group 81kg,Andres Giron,79.65,95,102,-107,128,135,141,102,141,243
+2022 Florida State Championships,2022-05-22,Open Men's 102kg,Matthew Baar,100.15,105,110,113,120,125,130,113,130,243
+2022 Florida State Championships,2022-05-21,Junior Men's 81kg,Samuel Wainwright,77.85,97,102,-106,129,135,140,102,140,242
+2022 Florida State Championships,2022-05-21,Junior Men's 67kg,Coby Rhodes,66.05,100,105,108,126,130,134,108,134,242
+2022 Florida State Championships,2022-05-22,Junior Men's 96kg,Nadeem Abdin,95.1,107,110,-113,132,-136,-136,110,132,242
+2022 Florida State Championships,2022-05-22,Open Men's 89kg,hal davis jr,83.15,103,108,113,125,-130,-130,113,125,238
+2022 Florida State Championships,2022-05-22,Open Men's 89kg,Christopher Boudreau,87.45,108,-112,-112,130,-135,-136,108,130,238
+2022 Florida State Championships,2022-05-21,Open Men's 61kg,Ruchit Patel,60.75,100,104,105,128,133,-135,105,133,238
+2022 Florida State Championships,2022-05-21,Open Men's 73kg,Kyle Johnson,71.15,102,-107,-107,135,-141,-141,102,135,237
+2022 Florida State Championships,2022-05-22,Open Men's 102kg,Brando Campos,100.3,-105,-105,105,125,130,-140,105,130,235
+2022 Florida State Championships,2022-05-22,Open Men's 89kg,Elias Polanco,88.8,-102,105,-110,125,-130,130,105,130,235
+2022 Florida State Championships,2022-05-22,Men's Masters (35-39) 96kg,Nathan Crane,91.85,100,103,-106,-120,127,131,103,131,234
+2022 Florida State Championships,2022-05-21,Junior Men's 73kg,Terry Dinh,72.55,102,-105,105,123,128,-132,105,128,233
+2022 Florida State Championships,2022-05-22,Men's Masters (40-44) 89kg,Robert Stewart,87.65,101,106,-110,124,127,-130,106,127,233
+2022 Florida State Championships,2022-05-22,Open Women's +87kg,Shala McMillan,140.9,98,102,-105,-123,123,130,102,130,232
+2022 Florida State Championships,2022-05-21,Junior Men's 81kg,Nicholas Pippin,74.75,97,104,-110,-127,128,-135,104,128,232
+2022 Florida State Championships,2022-05-22,Open Men's 89kg,Tyler Kirk,85.8,100,103,-106,120,-125,127,103,127,230
+2022 Florida State Championships,2022-05-22,Junior Men's 89kg,rolando coronado,86.4,-95,95,102,112,120,127,102,127,229
+2022 Florida State Championships,2022-05-21,Open Men's 61kg,Joseph Garcia,60.9,97,102,-105,122,126,-128,102,126,228
+2022 Florida State Championships,2022-05-22,Open Men's 96kg,Felix Navas,94.85,100,105,108,120,-125,-125,108,120,228
+2022 Florida State Championships,2022-05-21,Open Men's 81kg,Paul Behar,80.5,97,101,-105,125,-130,-130,101,125,226
+2022 Florida State Championships,2022-05-21,Junior Men's 73kg,Michael Mollé,72.5,102,-106,-106,124,-128,-128,102,124,226
+2022 Florida State Championships,2022-05-22,Junior Men's 89kg,Giancarlo Soto,87,-100,-101,101,-116,118,125,101,125,226
+2022 Florida State Championships,2022-05-22,Open Men's 89kg,Daniel Vinakovsky,87.55,93,97,-102,122,-126,127,97,127,224
+2022 Florida State Championships,2022-05-21,Men's Masters (35-39) 96kg,Nicholas Nappo,93.65,83,87,92,120,125,130,92,130,222
+2022 Florida State Championships,2022-05-22,Junior Men's 89kg,William Raulerson,85.2,80,85,90,-132,-132,132,90,132,222
+2022 Florida State Championships,2022-05-22,Men's Masters (35-39) 89kg,Dicarlo Thompson,88.5,95,100,-105,121,-127,-134,100,121,221
+2022 Florida State Championships,2022-05-21,Junior Men's 67kg,Myles Higby,66.1,95,-100,-100,122,126,-130,95,126,221
+2022 Florida State Championships,2022-05-22,Open Men's 89kg,Sebastian Enciso,88.5,95,100,-103,120,-124,-125,100,120,220
+2022 Florida State Championships,2022-05-21,Junior Men's 67kg,Christopher Jacobs,66.85,95,98,-101,116,119,122,98,122,220
+2022 Florida State Championships,2022-05-21,Open Men's 73kg,George Lucas,72.45,85,-88,90,120,125,130,90,130,220
+2022 Florida State Championships,2022-05-21,Open Men's 89kg,janardan Bautista,83.6,94,98,101,109,114,118,101,118,219
+2022 Florida State Championships,2022-05-21,Junior Men's 81kg,Peter Lemos,78.9,82,86,90,124,-128,129,90,129,219
+2022 Florida State Championships,2022-05-21,Open Men's 81kg,Jared Ehrlich,79.8,92,96,100,110,115,-120,100,115,215
+2022 Florida State Championships,2022-05-21,Men's Masters (40-44) 73kg,Justin Griffin,70.75,96,-100,-100,116,119,-123,96,119,215
+2022 Florida State Championships,2022-05-21,Men's Masters (35-39) 81kg,Lovensky Frederick,80.4,-88,-90,93,-117,120,-124,93,120,213
+2022 Florida State Championships,2022-05-22,Junior Men's 89kg,Christopher Wilson,82.95,87,89,93,119,-124,-124,93,119,212
+2022 Florida State Championships,2022-05-22,Men's Masters (35-39) 96kg,Camill Anthony,92.25,80,86,89,116,-119,123,89,123,212
+2022 Florida State Championships,2022-05-22,Men's Masters (35-39) 96kg,Sean Schoeneman,92,83,87,91,113,-117,121,91,121,212
+2022 Florida State Championships,2022-05-20,Men's 16-17 Age Group 102kg,Aidan Urena,100.5,83,86,90,110,115,120,90,120,210
+2022 Florida State Championships,2022-05-22,Men's Masters (40-44) 89kg,Jonathan Halbreich,86.75,-90,90,95,105,110,115,95,115,210
+2022 Florida State Championships,2022-05-22,Junior Men's 89kg,Clayton Woodfill,81.7,88,92,-95,118,-125,-125,92,118,210
+2022 Florida State Championships,2022-05-21,Men's Masters (45-49) 96kg,john walz,94.75,84,-88,90,112,116,120,90,120,210
+2022 Florida State Championships,2022-05-21,Open Men's 81kg,Parker Spell,79.5,90,-95,-100,110,114,120,90,120,210
+2022 Florida State Championships,2022-05-21,Junior Men's 81kg,William Wainwright,80.25,-83,-84,84,-124,125,-130,84,125,209
+2022 Florida State Championships,2022-05-21,Open Men's 81kg,Joseph Carabott,75.8,87,90,-93,110,114,118,90,118,208
+2022 Florida State Championships,2022-05-20,Men's 16-17 Age Group 81kg,Sebastian  Russo,78.85,85,88,92,110,116,-120,92,116,208
+2022 Florida State Championships,2022-05-21,Junior Men's 61kg,Dalton Wood,60.45,82,86,-90,112,121,-125,86,121,207
+2022 Florida State Championships,2022-05-21,Men's Masters (35-39) 73kg,Jordan Hartmeyer,72.5,84,88,91,110,115,-120,91,115,206
+2022 Florida State Championships,2022-05-22,Women's Masters (35-39) 76kg,Jennifer Schrage,75.2,86,88,90,108,112,115,90,115,205
+2022 Florida State Championships,2022-05-21,Junior Men's 81kg,Daniel Austin,76.45,87,-90,-90,110,114,118,87,118,205
+2022 Florida State Championships,2022-05-21,Men's Masters (45-49) 89kg,Randal Morales,86.3,83,86,90,108,111,114,90,114,204
+2022 Florida State Championships,2022-05-20,Men's 16-17 Age Group 73kg,Kevin Hill,69,84,89,-93,110,114,-117,89,114,203
+2022 Florida State Championships,2022-05-21,Open Men's 81kg,Vanragde Estella,80.25,84,88,91,108,112,-116,91,112,203
+2022 Florida State Championships,2022-05-21,Open Men's 73kg,Chad Villarroel,71.2,90,-93,-95,108,112,-115,90,112,202
+2022 Florida State Championships,2022-05-22,Junior Women's 71kg,Amerie Daniels,69,78,81,83,114,118,-120,83,118,201
+2022 Florida State Championships,2022-05-21,Open Men's 89kg,Jared  Tallant,88.8,87,-91,-92,112,-116,-116,87,112,199
+2022 Florida State Championships,2022-05-21,Open Men's 81kg,Conner McCullen,79.3,86,-90,92,102,107,-113,92,107,199
+2022 Florida State Championships,2022-05-21,Open Women's 64kg,Madeline Staniszewski,63,85,-88,88,106,111,-115,88,111,199
+2022 Florida State Championships,2022-05-22,Open Women's +87kg,Jasmine Powell,98.9,83,-87,-92,115,-116,0,83,115,198
+2022 Florida State Championships,2022-05-20,Men's 16-17 Age Group 89kg,Rylan Fitzgerald,85.8,78,-85,-87,117,120,-126,78,120,198
+2022 Florida State Championships,2022-05-21,Open Men's 67kg,Ethan Roberts-Fischer,66.75,-83,83,-87,115,-120,-123,83,115,198
+2022 Florida State Championships,2022-05-21,Open Men's 67kg,Luis Eduardo Leal,66.45,-84,-86,86,112,-116,-118,86,112,198
+2022 Florida State Championships,2022-05-22,Open Women's 76kg,Alexia Gonzalez,74.4,81,85,88,100,105,109,88,109,197
+2022 Florida State Championships,2022-05-20,Men's 16-17 Age Group 73kg,Isaiah Cotton,71.85,79,82,-86,110,115,-120,82,115,197
+2022 Florida State Championships,2022-05-22,Open Women's +87kg,Virgina Strough,122.7,78,83,-87,107,113,-115,83,113,196
+2022 Florida State Championships,2022-05-22,Open Women's 71kg,Hunter Harrison,70.3,81,84,86,104,107,110,86,110,196
+2022 Florida State Championships,2022-05-21,Men's Masters (45-49) 73kg,Michael Romero,72.95,86,-90,-93,105,110,-115,86,110,196
+2022 Florida State Championships,2022-05-22,Junior Women's 76kg,Andrea Barrows,73.9,84,-87,-87,108,111,-114,84,111,195
+2022 Florida State Championships,2022-05-21,Open Men's 73kg,JEREMY VILLEGAS,72.25,82,-86,87,-105,105,108,87,108,195
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 81kg,Madison Atwood,79.9,71,80,86,95,108,-112,86,108,194
+2022 Florida State Championships,2022-05-22,Open Women's 76kg,Meghan Karlik,74.8,82,85,-87,102,106,109,85,109,194
+2022 Florida State Championships,2022-05-21,Men's Masters (35-39) 81kg,Frank Umile,80.6,83,86,-90,-108,-108,108,86,108,194
+2022 Florida State Championships,2022-05-20,Men's 16-17 Age Group 73kg,Kody Taylor,72.15,75,80,-86,-108,112,-120,80,112,192
+2022 Florida State Championships,2022-05-21,Junior Men's 67kg,Romeo Thompson,66.8,77,81,85,102,107,-111,85,107,192
+2022 Florida State Championships,2022-05-21,Women's Masters (35-39) 64kg,Christina Richards,63.6,80,83,-86,103,107,-110,83,107,190
+2022 Florida State Championships,2022-05-21,Men's Masters (35-39) 89kg,Seth Davidson,81.8,-75,-75,80,105,110,-115,80,110,190
+2022 Florida State Championships,2022-05-21,Men's Masters (40-44) 81kg,Cheng-Chung Hsu,79.5,85,-88,-91,-105,-105,105,85,105,190
+2022 Florida State Championships,2022-05-22,Men's Masters (40-44) 102kg,Angel D Diaz Cecilio,101.85,75,-81,82,105,108,-112,82,108,190
+2022 Florida State Championships,2022-05-21,Open Men's 73kg,Arden Ellis,72.7,-84,84,-91,100,-106,106,84,106,190
+2022 Florida State Championships,2022-05-22,Open Women's 87kg,Denise Tam,84.8,75,79,-83,103,-107,110,79,110,189
+2022 Florida State Championships,2022-05-22,Open Women's 87kg,Bernadette Anderson,85.2,75,-78,80,101,105,108,80,108,188
+2022 Florida State Championships,2022-05-21,Junior Men's 61kg,Saul Vega,60.1,77,80,83,98,101,105,83,105,188
+2022 Florida State Championships,2022-05-21,Men's Masters (35-39) 73kg,Marc DiGregorio,72.85,77,-80,82,-105,105,-108,82,105,187
+2022 Florida State Championships,2022-05-22,Open Women's 71kg,Anisa Zwolinski,68.6,-75,75,80,102,107,-110,80,107,187
+2022 Florida State Championships,2022-05-21,Men's Masters (35-39) 89kg,Yvens Carrenard,87,-71,71,76,102,107,110,76,110,186
+2022 Florida State Championships,2022-05-21,Open Men's 61kg,Joshua Bayona,60.75,80,-84,-84,95,100,104,80,104,184
+2022 Florida State Championships,2022-05-21,Open Men's 61kg,Reece Selby,59.3,77,-80,80,100,102,104,80,104,184
+2022 Florida State Championships,2022-05-22,Women's Masters (35-39) +87kg,SARAH SOUZA,110.2,77,79,-81,100,105,-108,79,105,184
+2022 Florida State Championships,2022-05-21,Open Women's 59kg,Angelique Matsushima,59,75,78,81,95,99,102,81,102,183
+2022 Florida State Championships,2022-05-22,Open Women's 81kg,Haley Adams,77,-83,83,-87,95,99,-103,83,99,182
+2022 Florida State Championships,2022-05-20,Men's 14-15 Age Group 73kg,Ethan Janssen,72.5,75,79,-83,90,96,102,79,102,181
+2022 Florida State Championships,2022-05-21,Junior Men's 67kg,Christian Giles,63.55,78,80,82,98,-101,-101,82,98,180
+2022 Florida State Championships,2022-05-22,Men's Masters (40-44) 102kg,Ryan Weber,96.5,75,-80,-80,105,-110,-110,75,105,180
+2022 Florida State Championships,2022-05-21,Men's Masters (40-44) 96kg,Jeff Moore,95.45,70,73,-77,100,104,107,73,107,180
+2022 Florida State Championships,2022-05-21,Open Men's 73kg,Robin Donis,71.9,72,75,77,-102,102,-106,77,102,179
+2022 Florida State Championships,2022-05-22,Open Women's 71kg,Samantha Secord,70.2,76,-80,-82,-102,-102,102,76,102,178
+2022 Florida State Championships,2022-05-21,Open Men's 81kg,Andres Noa,78.5,-75,75,-80,95,102,-107,75,102,177
+2022 Florida State Championships,2022-05-20,Men's 16-17 Age Group 67kg,Sidney Sandifer,66.35,67,70,76,89,95,101,76,101,177
+2022 Florida State Championships,2022-05-21,Open Women's 64kg,Camille Capeles,62.9,75,-78,80,94,97,-100,80,97,177
+2022 Florida State Championships,2022-05-21,Men's Masters (45-49) 96kg,Rodney Pierre-Louis,95.45,-79,79,83,87,91,94,83,94,177
+2022 Florida State Championships,2022-05-21,Junior Men's 55kg,Jose Barbiere,54.85,62,70,74,94,-102,102,74,102,176
+2022 Florida State Championships,2022-05-20,Women's 14-15 Age Group 59kg,Emma Heck,57.85,72,75,78,89,94,97,78,97,175
+2022 Florida State Championships,2022-05-22,Open Women's 81kg,Karly Jensen,78.2,78,-81,-81,97,-101,-101,78,97,175
+2022 Florida State Championships,2022-05-21,Junior Men's 73kg,Ethan Bader,72.55,-70,70,75,100,-105,-105,75,100,175
+2022 Florida State Championships,2022-05-21,Open Women's 64kg,allison fleming,64,76,80,-83,90,94,-98,80,94,174
+2022 Florida State Championships,2022-05-20,Men's 16-17 Age Group +102kg,Justin Maynard,125.9,72,76,-80,95,98,-102,76,98,174
+2022 Florida State Championships,2022-05-22,Open Women's 71kg,Carly Puzacke,70,-78,78,-80,-96,96,-101,78,96,174
+2022 Florida State Championships,2022-05-22,Open Women's 87kg,Lilliana Astralaga,86.5,75,79,-82,95,-100,-100,79,95,174
+2022 Florida State Championships,2022-05-21,Open Women's 64kg,Jaimee Linehan,63.1,74,77,80,93,-97,-97,80,93,173
+2022 Florida State Championships,2022-05-21,Junior Men's 61kg,Jakobe Morgan,59.75,75,79,-83,90,94,-100,79,94,173
+2022 Florida State Championships,2022-05-21,Open Women's 59kg,Emily Bennett,57.9,75,78,-81,87,91,95,78,95,173
+2022 Florida State Championships,2022-05-22,Open Women's 81kg,Grace Bustamante,78,74,-77,-78,93,96,99,74,99,173
+2022 Florida State Championships,2022-05-21,Open Women's 55kg,Heather Hudson,54.9,-76,76,-78,-95,95,-100,76,95,171
+2022 Florida State Championships,2022-05-21,Open Women's 55kg,Asia Gonzalez,54.8,72,75,-77,-90,90,95,75,95,170
+2022 Florida State Championships,2022-05-22,Open Women's 71kg,Alexis Alexander,69.6,67,70,73,90,-96,96,73,96,169
+2022 Florida State Championships,2022-05-22,Open Women's 71kg,Erica Hope,68.6,75,78,-80,91,-94,-94,78,91,169
+2022 Florida State Championships,2022-05-22,Open Women's +87kg,Nataly Berrios,120.3,65,68,71,94,-98,98,71,98,169
+2022 Florida State Championships,2022-05-20,Men's 16-17 Age Group 67kg,Roberto Rios,63.7,68,71,-73,91,97,-102,71,97,168
+2022 Florida State Championships,2022-05-22,Open Men's +109kg,Alejandro Medina,127.75,155,162,168,-180,0,0,168,0,168
+2022 Florida State Championships,2022-05-21,Junior Women's 59kg,Emma Nye,58.9,70,73,76,88,91,-94,76,91,167
+2022 Florida State Championships,2022-05-20,Men's 16-17 Age Group 67kg,Sean Lutin,65.9,64,68,72,90,94,-100,72,94,166
+2022 Florida State Championships,2022-05-21,Open Women's 59kg,Heather Sanchez,58.8,70,-73,-73,90,-93,96,70,96,166
+2022 Florida State Championships,2022-05-22,Open Women's 76kg,Delaney Willingham,75.4,68,71,73,88,91,93,73,93,166
+2022 Florida State Championships,2022-05-22,Open Women's 71kg,Anna Zachariou ,67.8,68,71,-74,86,91,94,71,94,165
+2022 Florida State Championships,2022-05-22,Open Women's 81kg,Chyna Degginger,78.3,68,73,-77,88,92,-94,73,92,165
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 59kg,Kailey Papas,58.1,70,72,-74,87,90,92,72,92,164
+2022 Florida State Championships,2022-05-22,Open Women's 71kg,Belia rodriguez rivera,68.5,-68,70,-75,87,91,94,70,94,164
+2022 Florida State Championships,2022-05-22,Open Women's 71kg,Dayana Calvo,66.5,68,72,-76,85,90,-95,72,90,162
+2022 Florida State Championships,2022-05-21,Junior Men's 55kg,Tyler Park,54.05,66,70,-73,88,92,-96,70,92,162
+2022 Florida State Championships,2022-05-22,Open Women's 87kg,Kenisha Jacsaint,86.9,64,68,72,85,-89,90,72,90,162
+2022 Florida State Championships,2022-05-22,Open Women's 81kg,Kristen Braccio,80.9,69,-72,-73,88,92,-95,69,92,161
+2022 Florida State Championships,2022-05-20,Men's 16-17 Age Group 61kg,Bosco Martin Burrows,60.45,-70,75,-80,86,-91,-93,75,86,161
+2022 Florida State Championships,2022-05-20,Men's 16-17 Age Group 67kg,Vasyl Latyk,64.6,64,-67,68,85,89,92,68,92,160
+2022 Florida State Championships,2022-05-20,Men's 16-17 Age Group 67kg,Tyson Tran,64.85,67,-70,70,-90,90,-96,70,90,160
+2022 Florida State Championships,2022-05-22,Junior Women's 71kg,Sydney Yorton,70.8,-66,66,70,87,90,-93,70,90,160
+2022 Florida State Championships,2022-05-21,Men's Masters (50-54) 96kg,Bryon Moraski,94.3,68,70,73,82,-85,86,73,86,159
+2022 Florida State Championships,2022-05-22,Junior Women's 76kg,Olivia Warrington,75.2,64,67,-70,84,87,90,67,90,157
+2022 Florida State Championships,2022-05-21,Men's Masters (35-39) 55kg,Kalen Sumler,54.75,-71,71,-73,86,-90,-90,71,86,157
+2022 Florida State Championships,2022-05-22,Junior Women's 71kg,Rebecca Tatun,66.3,67,70,-73,83,-87,87,70,87,157
+2022 Florida State Championships,2022-05-21,Open Women's 49kg,Kailey Sidders,48.9,68,-71,73,78,81,84,73,84,157
+2022 Florida State Championships,2022-05-22,Open Women's 76kg,Nataly Diaz,73.8,68,-70,-70,86,89,-92,68,89,157
+2022 Florida State Championships,2022-05-21,Open Women's 59kg,Katie Elias,59,67,-70,-72,86,89,-92,67,89,156
+2022 Florida State Championships,2022-05-22,Women's Masters (35-39) 87kg,Sunni DeGracia,85.2,68,-72,72,-83,84,-86,72,84,156
+2022 Florida State Championships,2022-05-22,Open Women's 87kg,Jazmin Peterman,86.4,57,63,70,79,83,86,70,86,156
+2022 Florida State Championships,2022-05-22,Open Women's 76kg,Erika Olivier,73.6,66,-69,-71,85,89,-93,66,89,155
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 59kg,Makiyah  Nickerson,58.6,-65,65,70,80,85,-89,70,85,155
+2022 Florida State Championships,2022-05-22,Open Women's 71kg,Agata Santana,69.4,-72,-73,73,82,-86,-90,73,82,155
+2022 Florida State Championships,2022-05-21,Open Women's 64kg,Caitlyn Meehan,61.5,67,70,-73,80,-84,85,70,85,155
+2022 Florida State Championships,2022-05-20,Men's 16-17 Age Group 81kg,Kai Deiderich,79.9,58,-61,64,82,86,90,64,90,154
+2022 Florida State Championships,2022-05-21,Open Women's 64kg,Alysia Moran,62.7,65,68,-71,80,83,86,68,86,154
+2022 Florida State Championships,2022-05-21,Women's Masters (40-44) 64kg,Jused Melian,63.1,60,64,-69,80,85,89,64,89,153
+2022 Florida State Championships,2022-05-22,Open Women's 76kg,Eliana Castro,75.3,61,65,-70,80,83,87,65,87,152
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 55kg,Izabella Guillan,54.35,62,66,-70,78,82,86,66,86,152
+2022 Florida State Championships,2022-05-22,Women's Masters (35-39) +87kg,Mariellyssa Duffy,115.7,-66,66,69,-79,80,83,69,83,152
+2022 Florida State Championships,2022-05-22,Junior Women's 81kg,Ava Haber,79.8,65,-68,-69,83,85,87,65,87,152
+2022 Florida State Championships,2022-05-21,Junior Men's 55kg,Christian Simmons,54.9,58,62,-65,85,90,-95,62,90,152
+2022 Florida State Championships,2022-05-21,Women's Masters (35-39) 64kg,Denise Lennon,63.4,63,66,68,77,80,84,68,84,152
+2022 Florida State Championships,2022-05-22,Women's Masters (40-44) 71kg,Elizabeth Button,70,65,66,-72,81,86,-92,66,86,152
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 76kg,Katya Stuart,71.3,65,68,68,80,83,-85,68,83,151
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 64kg,Nicole Caamano,63.2,65,68,-71,80,83,-85,68,83,151
+2022 Florida State Championships,2022-05-21,Open Women's 49kg,Omayraliz Ortiz,49,62,65,67,-84,-84,84,67,84,151
+2022 Florida State Championships,2022-05-20,Men's 16-17 Age Group 67kg,Benjamin Berrios,66.3,-68,-72,72,-75,75,78,72,78,150
+2022 Florida State Championships,2022-05-20,Men's 16-17 Age Group 61kg,Bryson Shrimplin,57.85,64,67,70,80,-85,-85,70,80,150
+2022 Florida State Championships,2022-05-20,Men's 16-17 Age Group 67kg,Noel Walters,64.65,-60,-60,60,85,-90,90,60,90,150
+2022 Florida State Championships,2022-05-21,Men's 16-17 Age Group 81kg,Dean Beach,74.35,58,61,-63,84,-87,89,61,89,150
+2022 Florida State Championships,2022-05-21,Junior Women's 64kg,Adriana J Rosa,61.1,-62,62,66,80,84,-87,66,84,150
+2022 Florida State Championships,2022-05-22,Open Women's 76kg,Sarah Kehoe,75.2,65,-69,-71,85,-89,-90,65,85,150
+2022 Florida State Championships,2022-05-21,Open Women's 64kg,Bianca Macias,63.2,59,63,66,75,79,83,66,83,149
+2022 Florida State Championships,2022-05-21,Open Women's 59kg,Lauren Fuhrman,58.8,60,63,66,80,83,-86,66,83,149
+2022 Florida State Championships,2022-05-22,Open Women's 76kg,Maria Carcache valdes,75.2,65,-68,-68,83,-86,-86,65,83,148
+2022 Florida State Championships,2022-05-22,Women's Masters (35-39) +87kg,Rosalyn Coleman,93.7,-65,65,68,76,80,-85,68,80,148
+2022 Florida State Championships,2022-05-21,Open Women's 64kg,Aysia Hill,62.1,59,-62,63,81,85,-88,63,85,148
+2022 Florida State Championships,2022-05-22,Open Women's 76kg,Alexis Boutchie,76,60,64,67,76,80,-85,67,80,147
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 71kg,Angelina Belanger,69.2,62,-64,64,78,81,83,64,83,147
+2022 Florida State Championships,2022-05-22,Open Women's 71kg,Mikayla Fischer,67.2,61,64,67,74,77,80,67,80,147
+2022 Florida State Championships,2022-05-22,Open Women's 76kg,Nicole Sudol,73.4,67,70,-73,77,-81,-81,70,77,147
+2022 Florida State Championships,2022-05-21,Open Women's 64kg,Sabrina Agredo,63.6,63,-66,66,80,-85,-85,66,80,146
+2022 Florida State Championships,2022-05-22,Open Women's +87kg,Caitlin Coates,132.7,60,65,-70,76,81,-85,65,81,146
+2022 Florida State Championships,2022-05-22,Open Men's 109kg,Paul Smith,104,-145,-145,145,-185,0,0,145,0,145
+2022 Florida State Championships,2022-05-22,Open Women's 87kg,Chyenne Pump,86.7,65,-68,-68,80,-85,-85,65,80,145
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group +81kg,Morgan  Fortney,91,57,60,62,-78,79,83,62,83,145
+2022 Florida State Championships,2022-05-22,Open Women's +87kg,Lauren Schreier,100.1,57,60,-64,76,80,84,60,84,144
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 64kg,Alyssa Barcz,63.1,60,-63,63,77,-80,81,63,81,144
+2022 Florida State Championships,2022-05-20,Men's 16-17 Age Group 61kg,Chase Coomer,57.55,62,65,-68,76,79,-82,65,79,144
+2022 Florida State Championships,2022-05-22,Open Women's 76kg,Erin Sly,73.5,58,61,65,75,79,-82,65,79,144
+2022 Florida State Championships,2022-05-22,Open Women's 76kg,Zana Krakic,72.9,63,66,-70,74,77,-80,66,77,143
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 64kg,Dana Quiroz,63.4,59,-62,63,-80,80,-83,63,80,143
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group +81kg,Cara Zuaro,124.4,56,58,61,78,82,-84,61,82,143
+2022 Florida State Championships,2022-05-22,Women's Masters (40-44) 71kg,Olga Kudinova,66.1,-61,61,-65,78,-82,82,61,82,143
+2022 Florida State Championships,2022-05-22,Open Women's 76kg,Jailene Caraballo,73.2,61,63,67,75,-79,-79,67,75,142
+2022 Florida State Championships,2022-05-22,Open Women's 71kg,Cassandra Ritter,70.8,57,-60,60,77,-80,82,60,82,142
+2022 Florida State Championships,2022-05-22,Women's Masters (35-39) 76kg,Maria Lesser,74.6,58,61,-64,-78,78,81,61,81,142
+2022 Florida State Championships,2022-05-21,Junior Women's 59kg,Ariana Reyes,57.3,60,-63,-65,79,82,-84,60,82,142
+2022 Florida State Championships,2022-05-21,Junior Women's 64kg,Kiley Cosentino,62.2,60,62,-65,75,-80,80,62,80,142
+2022 Florida State Championships,2022-05-21,Open Women's 59kg,Jessica Fuhrman,57.5,56,59,62,75,-79,80,62,80,142
+2022 Florida State Championships,2022-05-22,Open Women's 81kg,Danielle Palmer,80.3,61,65,-68,76,-80,-80,65,76,141
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 71kg,Lauryn Hong,67.7,-63,-63,63,78,-81,-83,63,78,141
+2022 Florida State Championships,2022-05-22,Junior Women's 76kg,Sarah Fitzpatrick,75.2,53,57,-60,80,84,-90,57,84,141
+2022 Florida State Championships,2022-05-21,Men's Masters (45-49) 73kg,Francesco Travascio,70.85,56,59,62,79,-82,-84,62,79,141
+2022 Florida State Championships,2022-05-21,Men's Masters (65-69) 96kg,Keith Tillman,92.6,-58,58,61,70,75,80,61,80,141
+2022 Florida State Championships,2022-05-22,Open Women's 71kg,Victoria Rios,68.5,64,-67,-67,76,-80,-80,64,76,140
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 71kg,Ayla Sevilleno,67.8,57,60,62,-73,73,78,62,78,140
+2022 Florida State Championships,2022-05-21,Open Women's 59kg,Isabella Damacena,58,55,60,-63,70,75,80,60,80,140
+2022 Florida State Championships,2022-05-21,Junior Women's 49kg,Sarah Eiswerth,48.7,60,63,-67,-74,77,0,63,77,140
+2022 Florida State Championships,2022-05-22,Men's Masters (55-59) 102kg,Joseph Petruska,99.3,58,61,64,-72,72,76,64,76,140
+2022 Florida State Championships,2022-05-22,Open Women's 71kg,Elizabeth Gomez,69.5,62,-64,-64,73,77,-80,62,77,139
+2022 Florida State Championships,2022-05-21,Open Women's 64kg,Gatschena Appolon,62.6,57,59,61,75,78,-80,61,78,139
+2022 Florida State Championships,2022-05-21,Junior Women's 59kg,Callie Goolgasian,57.8,58,-61,-61,80,-85,-85,58,80,138
+2022 Florida State Championships,2022-05-21,Open Women's 49kg,Kaylin White,48,57,60,-62,75,78,-84,60,78,138
+2022 Florida State Championships,2022-05-22,Open Women's 87kg,Breanna Fowler,85.6,57,-60,-60,76,80,-84,57,80,137
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 71kg,Kinsey BUNCE,70.5,-58,58,61,72,76,-78,61,76,137
+2022 Florida State Championships,2022-05-22,Women's 16-17 Age Group 71kg,kayden arliss,67.4,53,55,-59,-78,78,82,55,82,137
+2022 Florida State Championships,2022-05-22,Women's Masters (35-39) 87kg,Heather Lee,83.3,55,-59,60,70,75,77,60,77,137
+2022 Florida State Championships,2022-05-22,Open Women's 87kg,Madeline Sutherland,86.4,57,59,60,-77,77,-80,60,77,137
+2022 Florida State Championships,2022-05-22,Open Women's 76kg,Nichole Peterson,74.5,58,61,-63,72,75,-78,61,75,136
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 64kg,Leigha Sutton,61.9,55,58,60,73,76,-79,60,76,136
+2022 Florida State Championships,2022-05-21,Open Women's 59kg,Iris Veciana,57.2,58,60,-62,73,76,-79,60,76,136
+2022 Florida State Championships,2022-05-21,Open Women's 64kg,Alysia Lopez,63.3,60,-61,62,72,74,-76,62,74,136
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group +81kg,Emma Gibson,113.6,50,53,55,75,-78,80,55,80,135
+2022 Florida State Championships,2022-05-21,Open Women's 59kg,Erendira Cruz,56.1,55,60,-65,70,75,-80,60,75,135
+2022 Florida State Championships,2022-05-21,Open Women's 49kg,Katie Grob,47.4,57,60,62,73,-76,-77,62,73,135
+2022 Florida State Championships,2022-05-22,Men's Masters (35-39) +109kg,Daniel Russell,111.25,135,-140,-141,-165,0,0,135,0,135
+2022 Florida State Championships,2022-05-22,Women's Masters (45-49) 81kg,Rachelle Carter,78,53,56,59,70,-75,76,59,76,135
+2022 Florida State Championships,2022-05-21,Open Women's 55kg,Daniela Rodriguez,53.5,56,-58,58,76,-79,-79,58,76,134
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group +81kg,Ritch  Duperval ,122,50,53,56,70,75,78,56,78,134
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 81kg,Maddie Carte,80,49,-54,55,74,79,-82,55,79,134
+2022 Florida State Championships,2022-05-21,Open Women's 64kg,Dapheline Jocelin,62.1,55,58,60,68,71,74,60,74,134
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 59kg,danila tuazon,56.1,-51,53,-56,-74,75,80,53,80,133
+2022 Florida State Championships,2022-05-22,Women's Masters (40-44) +87kg,Shamieka Donawa,138.1,54,58,-62,70,75,-78,58,75,133
+2022 Florida State Championships,2022-05-21,Junior Women's 59kg,Delaney Cookman,58.3,50,52,54,72,76,79,54,79,133
+2022 Florida State Championships,2022-05-21,Junior Women's 59kg,Jewel Marino,57.4,55,58,-61,70,74,-76,58,74,132
+2022 Florida State Championships,2022-05-22,Open Women's 76kg,Morgan Cuellar,75.4,54,57,59,73,-75,-75,59,73,132
+2022 Florida State Championships,2022-05-22,Open Women's 76kg,Bailey Blazina,73.7,53,-57,57,71,75,-78,57,75,132
+2022 Florida State Championships,2022-05-21,Open Women's 55kg,Silvia Diaz,54.4,53,57,61,65,70,-73,61,70,131
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 64kg,Grace Hawkins,59.5,-56,-56,56,75,-78,-78,56,75,131
+2022 Florida State Championships,2022-05-22,Women's Masters (35-39) +87kg,SharDae Bellamy,93.6,50,55,58,70,73,-76,58,73,131
+2022 Florida State Championships,2022-05-22,Women's Masters (40-44) 76kg,Jennifer Rice,72.9,-53,54,-57,75,-77,77,54,77,131
+2022 Florida State Championships,2022-05-22,Women's Masters (40-44) +87kg,Yecenia Feliz,106.4,52,54,56,72,75,-78,56,75,131
+2022 Florida State Championships,2022-05-22,Women's Masters (40-44) +87kg,Monica Tokarsky,106.7,57,-60,60,-68,68,71,60,71,131
+2022 Florida State Championships,2022-05-22,Open Women's 71kg,Amanda Fishbein,69.9,-58,-59,60,70,-74,-74,60,70,130
+2022 Florida State Championships,2022-05-20,Men's 14-15 Age Group 81kg,James Rucker,80.1,52,-56,58,67,72,-77,58,72,130
+2022 Florida State Championships,2022-05-20,Women's 14-15 Age Group 59kg,Ayah Muhammad,58.25,-50,50,54,-76,76,-80,54,76,130
+2022 Florida State Championships,2022-05-21,Open Women's 64kg,Darby Bridges,63.4,55,57,-60,70,73,-75,57,73,130
+2022 Florida State Championships,2022-05-22,Open Men's +109kg,George Silvestre,132.5,125,130,-135,-165,0,0,130,0,130
+2022 Florida State Championships,2022-05-21,Junior Women's 64kg,Jordyn Dearth,62.7,53,56,-60,67,70,74,56,74,130
+2022 Florida State Championships,2022-05-22,Junior Men's 96kg,Bryan Santos,95.65,-106,-106,-106,125,-130,130,0,130,130
+2022 Florida State Championships,2022-05-22,Women's Masters (40-44) 71kg,Katie Durkin,70.9,55,-58,-58,-73,73,75,55,75,130
+2022 Florida State Championships,2022-05-22,Open Women's 81kg,Brooke Schamber,79.8,55,-58,59,70,-75,-75,59,70,129
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group +81kg,Rianna  Griffith,99.9,52,55,58,71,-75,-77,58,71,129
+2022 Florida State Championships,2022-05-21,Women's Masters (50-54) 59kg,Billie Fonock,58.5,55,57,61,65,68,-72,61,68,129
+2022 Florida State Championships,2022-05-21,Open Women's 59kg,Judith Young,58,50,-53,53,69,72,75,53,75,128
+2022 Florida State Championships,2022-05-21,Junior Women's 64kg,Camila Rivera,62,53,56,-59,66,69,72,56,72,128
+2022 Florida State Championships,2022-05-22,Junior Women's 71kg,Emily Lochhead,69.9,55,-57,57,68,71,-75,57,71,128
+2022 Florida State Championships,2022-05-22,Women's Masters (40-44) 71kg,Elizabeth Wenzel,69.85,55,58,60,63,65,68,60,68,128
+2022 Florida State Championships,2022-05-21,Junior Women's 49kg,Chloe Stumpf,48.8,49,52,55,69,-72,73,55,73,128
+2022 Florida State Championships,2022-05-21,Open Women's 64kg,Valerie Applebee,60.3,-55,55,-59,66,-70,72,55,72,127
+2022 Florida State Championships,2022-05-21,Junior Women's 55kg,Starla Talton,54.3,50,-55,-55,73,77,-81,50,77,127
+2022 Florida State Championships,2022-05-21,Junior Women's 59kg,Cali Schnur,56.1,52,55,-57,67,72,-76,55,72,127
+2022 Florida State Championships,2022-05-22,Junior Women's 71kg,Madison Middleton,70.3,52,55,-60,65,68,72,55,72,127
+2022 Florida State Championships,2022-05-22,Women's Masters (35-39) 71kg,Ashley Schaefer,67.5,53,55,57,65,67,70,57,70,127
+2022 Florida State Championships,2022-05-21,Women's Masters (35-39) 64kg,Sara Ford,63.3,52,55,-60,68,72,-75,55,72,127
+2022 Florida State Championships,2022-05-21,Open Women's 64kg,Haneen McNamee,63.9,-55,55,58,65,69,-72,58,69,127
+2022 Florida State Championships,2022-05-21,Junior Women's 64kg,Tyra Sulph,62.7,53,56,-59,65,70,-73,56,70,126
+2022 Florida State Championships,2022-05-22,Open Women's 71kg,Stephania Dorado,71,-52,52,55,67,70,-73,55,70,125
+2022 Florida State Championships,2022-05-21,Junior Women's 59kg,Samantha Reidenbach,58.5,51,53,55,68,70,-71,55,70,125
+2022 Florida State Championships,2022-05-22,Junior Women's 87kg,Racheal McCormick,85.8,50,55,-57,70,-75,-75,55,70,125
+2022 Florida State Championships,2022-05-21,Junior Women's 49kg,Jelina Bly,46.6,50,-53,-53,70,-75,75,50,75,125
+2022 Florida State Championships,2022-05-22,Junior Women's 81kg,Brooke Ryerson,77.5,-52,53,-56,68,-71,72,53,72,125
+2022 Florida State Championships,2022-05-20,Men's 16-17 Age Group 61kg,Andrew Colman,57.05,49,52,-55,69,72,-75,52,72,124
+2022 Florida State Championships,2022-05-22,Women's Masters (35-39) 71kg,Diane  Ortiz,66.6,-54,54,56,64,67,-70,56,67,123
+2022 Florida State Championships,2022-05-21,Women's Masters (35-39) 49kg,Fabiola Gaitan,49,-55,55,-58,65,68,-70,55,68,123
+2022 Florida State Championships,2022-05-21,Open Women's 45kg,Aseel Zayed,45,51,53,54,66,68,-71,54,68,122
+2022 Florida State Championships,2022-05-21,Junior Women's 55kg,Adriana DiMeo,54,-52,52,-55,-70,-70,70,52,70,122
+2022 Florida State Championships,2022-05-21,Open Women's 49kg,Ana Figueroa,47.4,49,-52,53,63,68,-70,53,68,121
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 71kg,Hallie England,68,51,52,-55,64,66,69,52,69,121
+2022 Florida State Championships,2022-05-21,Junior Women's 64kg,Krista Lupo,63.7,50,53,56,61,65,-70,56,65,121
+2022 Florida State Championships,2022-05-21,Junior Women's 55kg,jasey neitzke,52.4,44,47,50,65,69,71,50,71,121
+2022 Florida State Championships,2022-05-21,Open Women's 49kg,Nikki Cates,48.3,47,52,-55,68,-72,-72,52,68,120
+2022 Florida State Championships,2022-05-20,Women's 14-15 Age Group +76kg,Raven Lovencin,88.55,50,-53,-54,60,65,70,50,70,120
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 64kg,Addison Frisbee,60,51,54,-56,63,66,-69,54,66,120
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 76kg,Enyjai Tyson,73.4,49,52,54,63,66,-70,54,66,120
+2022 Florida State Championships,2022-05-22,Open Men's 109kg,Anthony Villanueva,106.6,120,-123,-125,-165,0,0,120,0,120
+2022 Florida State Championships,2022-05-21,Junior Women's 64kg,Andie Chin,62.6,49,-51,-51,65,68,71,49,71,120
+2022 Florida State Championships,2022-05-21,Junior Women's 59kg,Rylee Burrell,58.3,52,-55,55,-65,65,-70,55,65,120
+2022 Florida State Championships,2022-05-21,Junior Women's 55kg,Emma Bollinger,54.6,50,52,-54,66,-68,68,52,68,120
+2022 Florida State Championships,2022-05-21,Women's Masters (45-49) 64kg,Kathryn Heppner,63.2,48,51,53,62,65,67,53,67,120
+2022 Florida State Championships,2022-05-20,Women's 14-15 Age Group +76kg,Ava Caldwell,104.1,42,46,50,60,64,69,50,69,119
+2022 Florida State Championships,2022-05-22,Open Women's 81kg,Gabriella Abreu,78.89,55,-58,-58,-64,64,-68,55,64,119
+2022 Florida State Championships,2022-05-21,Open Women's 49kg,Paula Rosas,49,50,-55,-55,65,69,-72,50,69,119
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 71kg,Summer Walz,70.7,45,48,51,60,64,68,51,68,119
+2022 Florida State Championships,2022-05-21,Junior Men's 55kg,Brooks Bennett,54.55,-45,45,48,62,67,71,48,71,119
+2022 Florida State Championships,2022-05-22,Women's Masters (35-39) 81kg,Lorena Pole,80.1,48,52,55,60,64,-67,55,64,119
+2022 Florida State Championships,2022-05-22,Women's Masters (40-44) +87kg,Liesl Carey,113,48,-51,-51,71,-74,-74,48,71,119
+2022 Florida State Championships,2022-05-21,Open Men's 73kg,aleksandr slavich,72.25,-100,-100,-100,116,119,-123,0,119,119
+2022 Florida State Championships,2022-05-20,Women's 14-15 Age Group 76kg,Taylor Thomas,75.5,-50,52,-55,60,63,66,52,66,118
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 49kg,Abigail Davis,47.9,45,-48,48,65,-69,69,48,69,117
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 55kg,Kaitlyn Gallagher,50.6,45,49,-51,61,65,68,49,68,117
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 81kg,Marielisa Ordonez,80.9,44,47,50,64,67,-70,50,67,117
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 64kg,Hailey McDaniel,62.8,46,-49,50,63,65,67,50,67,117
+2022 Florida State Championships,2022-05-21,Women's Masters (35-39) 64kg,Amanda Vogelsong,63.8,49,52,-55,59,62,65,52,65,117
+2022 Florida State Championships,2022-05-21,Women's Masters (35-39) 64kg,michelle libasci,61.8,48,52,-55,65,-70,-71,52,65,117
+2022 Florida State Championships,2022-05-21,Open Women's 49kg,Kaitlin Lacey,48.7,51,-55,-55,66,-70,-70,51,66,117
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 71kg,jada smith,66.1,47,50,-53,63,66,-69,50,66,116
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 49kg,Anna Fiore,47.8,49,52,54,59,62,-64,54,62,116
+2022 Florida State Championships,2022-05-21,Junior Women's 49kg,karma french,48.5,45,48,51,59,62,65,51,65,116
+2022 Florida State Championships,2022-05-21,Open Women's 64kg,Grecia Lara,63.6,54,-56,-56,-62,62,-65,54,62,116
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 55kg,Sophia Milian,53,47,-49,49,63,66,-69,49,66,115
+2022 Florida State Championships,2022-05-21,Open Women's 55kg,Katherine Benacquisto,52,48,52,-55,60,63,-66,52,63,115
+2022 Florida State Championships,2022-05-21,Junior Women's 49kg,Jade Fisher,49,46,50,-53,60,65,-68,50,65,115
+2022 Florida State Championships,2022-05-22,Women's Masters (35-39) 71kg,Jennifer Lemoine,69.15,50,-55,-57,62,65,-68,50,65,115
+2022 Florida State Championships,2022-05-21,Junior Women's 59kg,Alyssa Howry,57.2,-50,50,-53,62,65,-67,50,65,115
+2022 Florida State Championships,2022-05-22,Women's Masters (40-44) 76kg,Hanna Estevez,72.85,43,46,48,63,67,-71,48,67,115
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 71kg,Racheal Cemerci,70,48,50,52,-62,-62,62,52,62,114
+2022 Florida State Championships,2022-05-20,Men's 16-17 Age Group 55kg,Trent Pinero,52.95,41,45,48,62,66,-71,48,66,114
+2022 Florida State Championships,2022-05-21,Women's Masters (35-39) 64kg,Christina Coll,63.4,48,51,-54,58,63,-66,51,63,114
+2022 Florida State Championships,2022-05-21,Open Women's 55kg,Elizabeth Case,53.6,50,-53,-54,64,-66,-66,50,64,114
+2022 Florida State Championships,2022-05-20,Men's 14-15 Age Group 81kg,Parker Hartmeyer,77.55,-42,42,45,60,64,68,45,68,113
+2022 Florida State Championships,2022-05-20,Women's 14-15 Age Group 55kg,Mia Rodriguez,54.25,-48,48,50,60,63,-65,50,63,113
+2022 Florida State Championships,2022-05-20,Men's 16-17 Age Group 49kg,Jude Lombard,46.55,48,-50,50,58,61,63,50,63,113
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 76kg,Madelyn Marcellus,73.2,45,48,-51,60,63,65,48,65,113
+2022 Florida State Championships,2022-05-21,Junior Women's 55kg,Karen Martinez,53.4,49,-51,-52,58,61,64,49,64,113
+2022 Florida State Championships,2022-05-20,Women's 14-15 Age Group 59kg,Carol Martinez,58.3,48,-51,51,58,-61,61,51,61,112
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group +81kg,Olivia Booth,87.7,-45,45,-47,-67,67,-77,45,67,112
+2022 Florida State Championships,2022-05-22,Junior Women's 71kg,Brittney Chang,66.3,49,-53,-53,60,-63,63,49,63,112
+2022 Florida State Championships,2022-05-21,Women's Masters (40-44) 55kg,Alana Middleton,54,48,50,-52,60,62,-64,50,62,112
+2022 Florida State Championships,2022-05-21,Women's Masters (45-49) 55kg,Melissa Merriken,51.3,41,44,-47,60,64,68,44,68,112
+2022 Florida State Championships,2022-05-21,Open Women's 55kg,Amy Lieberman,53.65,42,-45,45,57,62,66,45,66,111
+2022 Florida State Championships,2022-05-21,Women's Masters (50-54) 59kg,Ivette Carcas,58,48,-50,-50,60,63,-65,48,63,111
+2022 Florida State Championships,2022-05-21,Open Women's 55kg,Samantha Gattshall,54.7,47,50,-53,61,-65,-65,50,61,111
+2022 Florida State Championships,2022-05-22,Open Women's 71kg,Rachel Scarboro,69.2,45,47,-50,56,59,63,47,63,110
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 81kg,Aykhia Williams,80,48,-50,50,58,60,-62,50,60,110
+2022 Florida State Championships,2022-05-21,Open Men's 81kg,Jeffrey Payne,79.5,-109,110,-115,-145,-145,-150,110,0,110
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 55kg,Kaylee Carolan,50.9,45,47,-49,63,-66,-68,47,63,110
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 55kg,Jillian Jacobs,53.8,47,-50,-50,-62,62,-65,47,62,109
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 55kg,Emma Kittredge,55,45,47,50,59,-62,-65,50,59,109
+2022 Florida State Championships,2022-05-21,Junior Women's 64kg,Alika Stahl,64,45,49,-51,57,-60,60,49,60,109
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 59kg,Adriana Castro Negron,56.7,42,44,46,58,60,62,46,62,108
+2022 Florida State Championships,2022-05-21,Junior Women's 64kg,zaina shehadeh ,63.1,45,-48,48,60,-64,-65,48,60,108
+2022 Florida State Championships,2022-05-21,Junior Men's 67kg,Evan Marrale,65.75,-79,-80,-80,108,-113,-115,0,108,108
+2022 Florida State Championships,2022-05-21,Women's Masters (40-44) 55kg,Aimee Burroughs,52.6,45,47,49,53,56,59,49,59,108
+2022 Florida State Championships,2022-05-22,Open Men's 89kg,Joshua Schettini,88.7,103,107,-111,0,0,0,107,0,107
+2022 Florida State Championships,2022-05-20,Women's 14-15 Age Group 64kg,Addison Ruocco,63.5,38,41,-44,59,62,66,41,66,107
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 55kg,Jayda Egan,53.25,45,-47,48,55,-58,59,48,59,107
+2022 Florida State Championships,2022-05-22,Women's Masters (50-54) +87kg,Levenda James,98.47,43,-45,45,58,62,-65,45,62,107
+2022 Florida State Championships,2022-05-20,Women's 14-15 Age Group 76kg,Ori Sela,75.35,41,44,47,53,-57,59,47,59,106
+2022 Florida State Championships,2022-05-21,Women's Masters (35-39) 64kg,Juliana Gil,63,40,43,46,60,-64,-65,46,60,106
+2022 Florida State Championships,2022-05-20,Men's 13 Under Age Group 55kg,Preston Merriken,54.7,44,47,49,52,-56,56,49,56,105
+2022 Florida State Championships,2022-05-21,Women's 16-17 Age Group 55kg,Lily Alvarez,54.7,-50,50,-52,55,-58,-59,50,55,105
+2022 Florida State Championships,2022-05-21,Junior Women's 59kg,Courtnie Lee,58.8,40,43,45,54,56,60,45,60,105
+2022 Florida State Championships,2022-05-21,Junior Women's 64kg,Kristina Fardales,62.1,-48,-48,48,-57,57,-60,48,57,105
+2022 Florida State Championships,2022-05-20,Women's 14-15 Age Group 59kg,Sofia Maduro,58.1,40,43,45,55,57,59,45,59,104
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 49kg,Ashley Aun,47.9,40,44,-47,55,-60,60,44,60,104
+2022 Florida State Championships,2022-05-21,Open Men's 67kg,Sean Spraggins,66,100,104,-108,0,0,0,104,0,104
+2022 Florida State Championships,2022-05-21,Women's Masters (40-44) 49kg,Katie Villacres,48.2,-45,-45,45,59,-62,-62,45,59,104
+2022 Florida State Championships,2022-05-22,Women's Masters (45-49) +87kg,Debra Smith,92.95,43,45,-47,57,59,-61,45,59,104
+2022 Florida State Championships,2022-05-20,Men's 14-15 Age Group 55kg,MAURICIO VELASCO,54.25,42,45,-49,-56,57,-60,45,57,102
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 59kg,Isabella  Perez,58.2,42,44,46,54,56,-58,46,56,102
+2022 Florida State Championships,2022-05-22,Women's Masters (45-49) 87kg,Andrea DiRico,86.5,44,-46,46,50,54,56,46,56,102
+2022 Florida State Championships,2022-05-20,Men's 13 Under Age Group +73kg,Bryan Ricardo,75,40,44,47,50,54,-57,47,54,101
+2022 Florida State Championships,2022-05-22,Open Women's 87kg,Victoria Jefferson,85.8,94,-98,101,-123,0,0,101,0,101
+2022 Florida State Championships,2022-05-20,Women's 14-15 Age Group 59kg,Mallory Slaughter,55.15,42,44,46,50,53,55,46,55,101
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group +81kg,Mia White,88.8,38,41,-44,57,-60,60,41,60,101
+2022 Florida State Championships,2022-05-21,Junior Women's 55kg,Dylan Gutierrez,54.3,-42,44,-46,57,-60,-60,44,57,101
+2022 Florida State Championships,2022-05-21,Junior Women's 55kg,courtney  bedford ,51.9,42,44,-46,53,-56,57,44,57,101
+2022 Florida State Championships,2022-05-21,Junior Women's 45kg,Isabella  Paul ,44.3,42,45,-48,53,56,-59,45,56,101
+2022 Florida State Championships,2022-05-21,Men's Masters (70-74) 81kg,Michael Garland,79.7,41,42,44,53,55,57,44,57,101
+2022 Florida State Championships,2022-05-20,Women's 14-15 Age Group 49kg,Sydney Thompson,46.8,40,42,45,49,52,55,45,55,100
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group +81kg,Emma Rizzo,85.9,40,-43,-46,55,58,60,40,60,100
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 81kg,Breanna Pendle,79.7,38,-40,-42,55,-58,61,38,61,99
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 55kg,Alessanra Arias,49.45,40,-42,-42,53,56,59,40,59,99
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 45kg,haley earnest,43.1,40,43,-46,50,53,56,43,56,99
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 55kg,Helaina Thompson,50.85,37,40,42,53,-56,57,42,57,99
+2022 Florida State Championships,2022-05-21,Open Women's 55kg,Ashley Avellan,54.4,35,-38,39,53,56,60,39,60,99
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 55kg,Miranda Orta,54.2,39,41,44,54,-57,-57,44,54,98
+2022 Florida State Championships,2022-05-21,Junior Men's 81kg,Nathanael Combs,77.45,-98,98,-102,-122,-122,0,98,0,98
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 55kg,Maria Mankin,54.05,39,42,-45,50,53,55,42,55,97
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 64kg,Adriana Lopez,63.3,36,38,-40,-57,-58,59,38,59,97
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 64kg,Sophia Marrale,61.8,37,39,42,50,-54,55,42,55,97
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 49kg,Grace Masters,48.3,37,-42,42,52,55,-58,42,55,97
+2022 Florida State Championships,2022-05-21,Junior Women's 55kg,Liliana Stewart,51.35,40,42,-44,50,53,55,42,55,97
+2022 Florida State Championships,2022-05-21,Open Women's 45kg,Jenifer Ramirez,44.4,41,-43,-43,55,-57,-57,41,55,96
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 59kg,Niah Murnan,57.9,37,39,41,48,51,55,41,55,96
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 55kg,Kara Spence,51.8,39,-42,-42,54,57,-60,39,57,96
+2022 Florida State Championships,2022-05-21,Women's Masters (45-49) 71kg,Jennifer Thomas,68.5,38,41,-43,50,-53,53,41,53,94
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 55kg,Emily Andrade,54.05,38,-40,-41,51,53,-55,38,53,91
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 59kg,alexa Walcott,58.8,-37,-37,37,53,54,-55,37,54,91
+2022 Florida State Championships,2022-05-21,Junior Men's 81kg,Darian Simon,80.75,83,88,91,-105,-105,-105,91,0,91
+2022 Florida State Championships,2022-05-20,Men's 13 Under Age Group 49kg,Dylan Brown,48.8,37,-39,40,44,47,50,40,50,90
+2022 Florida State Championships,2022-05-21,Women's Masters (45-49) 71kg,mercedes diaz,69.2,36,38,40,45,49,-53,40,49,89
+2022 Florida State Championships,2022-05-20,Women's 14-15 Age Group 49kg,Ireland OBrien,48.1,35,-38,38,46,-48,50,38,50,88
+2022 Florida State Championships,2022-05-21,Open Men's 81kg,Adrian Arnette,78.1,85,88,-91,-105,-106,-110,88,0,88
+2022 Florida State Championships,2022-05-21,Open Women's 59kg,Cassandra Martinez,58.3,36,-40,40,48,-52,-55,40,48,88
+2022 Florida State Championships,2022-05-20,Women's 14-15 Age Group 71kg,Isabella Ferrara,68.25,34,37,-40,45,48,50,37,50,87
+2022 Florida State Championships,2022-05-20,Women's 14-15 Age Group 45kg,Gabrielle Gutierrez,44,-37,-37,37,45,48,50,37,50,87
+2022 Florida State Championships,2022-05-21,Junior Men's 81kg,Cedric Roberts,80.9,80,84,87,-115,-115,-120,87,0,87
+2022 Florida State Championships,2022-05-22,Junior Women's 71kg,Amber Fazio,67.5,83,86,-89,-103,-103,-103,86,0,86
+2022 Florida State Championships,2022-05-20,Women's 14-15 Age Group 49kg,Ania Haber,48.95,30,33,-36,49,52,-56,33,52,85
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 59kg,Madison Howard,57.6,29,-32,32,49,-52,53,32,53,85
+2022 Florida State Championships,2022-05-21,Junior Women's 55kg,Devyn Gilman,53.75,35,-38,-38,50,-53,-53,35,50,85
+2022 Florida State Championships,2022-05-21,Men's Masters (40-44) 81kg,Tim Hedley,79.1,31,34,36,41,45,49,36,49,85
+2022 Florida State Championships,2022-05-21,Women's Masters (40-44) 64kg,Roxana Michelle Lezama,62.6,34,36,38,40,43,47,38,47,85
+2022 Florida State Championships,2022-05-21,Men's Masters (75-79) 81kg,Arthur Auwaerter,77.05,36,39,40,40,43,45,40,45,85
+2022 Florida State Championships,2022-05-21,Women's Masters (45-49) 71kg,Kellie Adams,71.05,32,34,-36,44,47,50,34,50,84
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 64kg,Elisa Beverly,62,33,35,-37,45,-48,48,35,48,83
+2022 Florida State Championships,2022-05-20,Women's 13 Under Age Group 45kg,Kyla Chardon,44.5,34,-36,36,41,44,46,36,46,82
+2022 Florida State Championships,2022-05-22,Open Women's 76kg,Alicia Fernandez,75.3,76,80,82,-100,-100,-100,82,0,82
+2022 Florida State Championships,2022-05-21,Women's Masters (50-54) 71kg,Christine Vicksen,66.9,35,-37,-37,45,-47,47,35,47,82
+2022 Florida State Championships,2022-05-21,Women's Masters (65-69) 59kg,Janet Gelman,56.95,35,-38,-38,47,-50,-50,35,47,82
+2022 Florida State Championships,2022-05-20,Men's 13 Under Age Group 39kg,Weston McGrath,37.5,-31,32,35,41,43,45,35,45,80
+2022 Florida State Championships,2022-05-20,Women's 13 Under Age Group 40kg,Sienna Burroughs,39.25,33,35,-37,41,43,44,35,44,79
+2022 Florida State Championships,2022-05-21,Open Women's 59kg,Kristen Crenshaw,58.2,74,77,-80,-89,-89,-90,77,0,77
+2022 Florida State Championships,2022-05-21,Junior Men's 61kg,jacob renz,59.6,73,-77,77,-100,-100,-100,77,0,77
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 55kg,Sarah Rubi,52.55,29,31,33,38,41,43,33,43,76
+2022 Florida State Championships,2022-05-20,Women's 14-15 Age Group 55kg,Parker Boothe,49.65,25,-29,29,35,40,45,29,45,74
+2022 Florida State Championships,2022-05-22,Women's Masters (35-39) 71kg,Laura Faulk,70.4,-55,-55,-55,68,-72,74,0,74,74
+2022 Florida State Championships,2022-05-22,Open Women's 71kg,Veronika Kozevnikova,70.7,-73,73,-77,-88,-88,-88,73,0,73
+2022 Florida State Championships,2022-05-20,Women's 13 Under Age Group 40kg,Ryann Fullwood,38.9,29,31,-33,-38,39,41,31,41,72
+2022 Florida State Championships,2022-05-22,Women's Masters (35-39) +87kg,Alycia Mosley,121,71,-74,-74,-82,-82,-82,71,0,71
+2022 Florida State Championships,2022-05-20,Women's 13 Under Age Group 59kg,Chloe Sukola,58.25,27,29,31,33,35,38,31,38,69
+2022 Florida State Championships,2022-05-20,Men's 14-15 Age Group 49kg,Hayden Dunson,46.3,27,30,-33,34,37,-40,30,37,67
+2022 Florida State Championships,2022-05-20,Men's 13 Under Age Group 55kg,Christian Short,51.8,27,-29,30,35,37,-40,30,37,67
+2022 Florida State Championships,2022-05-21,Women's Masters (65-69) 64kg,Leslie Moore,62.7,24,27,30,36,-39,-40,30,36,66
+2022 Florida State Championships,2022-05-20,Men's 13 Under Age Group 55kg,Rylan Matheson,50.4,25,27,29,35,37,-39,29,37,66
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 45kg,Sandra Vega,41.14,-23,23,26,35,38,-41,26,38,64
+2022 Florida State Championships,2022-05-20,Men's 13 Under Age Group 36kg,Rome Barker,35.5,24,26,28,31,33,35,28,35,63
+2022 Florida State Championships,2022-05-21,Women's Masters (55-59) 71kg,Adriana Abdin,67.45,25,-27,-28,35,37,-39,25,37,62
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 49kg,Anabella Callahan,45.8,24,26,28,30,33,-36,28,33,61
+2022 Florida State Championships,2022-05-20,Women's 14-15 Age Group 49kg,Marianne Masters,48.25,21,23,-26,30,33,37,23,37,60
+2022 Florida State Championships,2022-05-21,Junior Women's 55kg,Rio Reynolds,54.35,-46,-46,-46,56,59,-62,0,59,59
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 49kg,Lia Kitchens,47.4,21,24,-26,31,34,-37,24,34,58
+2022 Florida State Championships,2022-05-22,Open Women's 76kg,Lilyana Newman,75.7,53,57,-60,-70,-72,-73,57,0,57
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 76kg,Jada Mosley,74.1,-39,-39,-39,54,-57,57,0,57,57
+2022 Florida State Championships,2022-05-21,Junior Women's 45kg,Megan Carlson,44.3,-40,-41,-41,52,55,-59,0,55,55
+2022 Florida State Championships,2022-05-20,Men's 13 Under Age Group 44kg,Logan Prescott,44,19,20,22,25,28,31,22,31,53
+2022 Florida State Championships,2022-05-20,Women's 13 Under Age Group 30kg,annalee seek,28.1,18,22,-24,26,30,-33,22,30,52
+2022 Florida State Championships,2022-05-20,Men's 13 Under Age Group 39kg,Mason PIERING,37.5,21,23,-24,28,29,-30,23,29,52
+2022 Florida State Championships,2022-05-21,Open Women's 49kg,Angela Farinacci,48.7,51,-53,-53,-68,-68,-68,51,0,51
+2022 Florida State Championships,2022-05-21,Women's Masters (55-59) 71kg,Janine Giovinazzi,70.9,-41,-41,-41,51,-54,0,0,51,51
+2022 Florida State Championships,2022-05-21,Junior Women's 55kg,Gabriella Schwarz,51.85,50,-52,-52,-61,-61,-61,50,0,50
+2022 Florida State Championships,2022-05-22,Women's Masters (75+) +87kg,Betty Fahrer,95.2,22,23,25,22,25,-29,25,25,50
+2022 Florida State Championships,2022-05-20,Women's 13 Under Age Group 30kg,Deanna Vinski,28.95,-19,20,-22,-28,-29,29,20,29,49
+2022 Florida State Championships,2022-05-20,Women's 16-17 Age Group 49kg,Ava Byrd,47.8,43,45,47,-50,-50,-50,47,0,47
+2022 Florida State Championships,2022-05-21,Open Women's 59kg,Jessica  Schmidt,57.5,44,47,-50,-62,-62,-62,47,0,47
+2022 Florida State Championships,2022-05-20,Women's 13 Under Age Group 33kg,Fiona Fuller,32.2,16,20,-22,20,-24,24,20,24,44
+2022 Florida State Championships,2022-05-20,Men's 13 Under Age Group 44kg,Bode King,43.7,15,17,19,23,-25,25,19,25,44
+2022 Florida State Championships,2022-05-22,Women's Masters (40-44) +87kg,Trish  Newell,104.5,40,43,-45,-60,-60,-60,43,0,43
+2022 Florida State Championships,2022-05-20,Men's 13 Under Age Group 32kg,Aydan Ayala,29,15,17,-20,20,-23,24,17,24,41
+2022 Florida State Championships,2022-05-20,Men's 13 Under Age Group 44kg,Thomas Francisco,43.8,16,18,19,20,-23,-23,19,20,39
+2022 Florida State Championships,2022-05-20,Men's 13 Under Age Group 36kg,Enzo Rincones,35.5,-14,-14,14,-19,-19,19,14,19,33
+2022 Florida State Championships,2022-05-20,Women's 14-15 Age Group 40kg,Alani Rose,38.75,26,29,-31,-35,-35,-35,29,0,29
+2022 Florida State Championships,2022-05-20,Men's 13 Under Age Group 32kg,Blayze Mattox,28.5,-13,-15,-15,19,-20,20,0,20,20

@@ -32,6 +32,7 @@ class DatabaseEntry:
     def made_lifts(self) -> int:
         """Yeah...i'll add this in eventually"""
 
+
 @dataclass
 class UKUSResult:
     """

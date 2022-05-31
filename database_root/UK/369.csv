@@ -1,0 +1,29 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Welsh One Day Open,2022-02-13,Men's Senior 102Kg,Filip Taylor,101.8,123,127,-132,-157,157,-167,127,157,284
+Welsh One Day Open,2022-02-13,Men's Senior 96Kg,Keiran Lockwood,92,100,104,108,127,132,-135,108,132,240
+Welsh One Day Open,2022-02-13,Men's Senior 81Kg,William Ridge,79.6,93,96,100,120,124,127,100,127,227
+Welsh One Day Open,2022-02-13,Men's Senior 81Kg,Luke Thompson,79.5,90,95,-100,123,125,-130,95,125,220
+Welsh One Day Open,2022-02-13,Men's Senior 73Kg,Scott Maynard,72.4,85,90,94,115,120,124,94,124,218
+Welsh One Day Open,2022-02-13,Men's Senior 81Kg,William Hardy,80.3,-80,80,88,115,-122,125,88,125,213
+Welsh One Day Open,2022-02-13,Men's Under 23 96Kg,Cearn McDonnell,94,85,90,95,115,-120,-120,95,115,210
+Welsh One Day Open,2022-02-13,Men's Senior 73Kg,Nimai Mehta,70.4,-84,85,-87,107,110,-115,85,110,195
+Welsh One Day Open,2022-02-13,Men's Senior 109Kg,Robert Haley,106.9,65,70,75,95,100,105,75,105,180
+Welsh One Day Open,2022-02-13,Men's Senior 89Kg,Peter Meinzinger,86.6,73,77,-81,91,96,100,77,100,177
+Welsh One Day Open,2022-02-13,Men's Masters (40-44) 81Kg,Simon Pike,79.3,65,68,72,95,105,-108,72,105,177
+Welsh One Day Open,2022-02-13,Men's Under 23 73Kg,Sam Gibbs,72.6,65,70,75,85,90,95,75,95,170
+Welsh One Day Open,2022-02-13,Men's Masters (40-44) 89Kg,Niall Meenan,82.2,60,65,70,80,85,90,70,90,160
+Welsh One Day Open,2022-02-13,Men's Under 23 89Kg,Andreas Makris,83.6,65,70,-73,90,-95,-97,70,90,160
+Welsh One Day Open,2022-02-13,Men's Under 23 96Kg,Daniel Luo,93.9,50,56,63,70,74,80,63,80,143
+Welsh One Day Open,2022-02-13,Women's Senior 71Kg,Sophie Harrison,69.7,-60,60,-63,75,-79,80,60,80,140
+Welsh One Day Open,2022-02-13,Men's Senior 81Kg,Jonathan Oliver,79.2,55,58,60,75,-80,80,60,80,140
+Welsh One Day Open,2022-02-13,Men's Masters (50-54) 61Kg,tony brooks,60.1,60,0,0,70,0,0,60,70,130
+Welsh One Day Open,2022-02-13,Men's Junior Under 20 67Kg,Harry  Sheers ,66,50,55,58,65,70,-75,58,70,128
+Welsh One Day Open,2022-02-13,Men's Under 23 89Kg,Liam Power,84,110,-117,118,-145,-145,-145,118,0,118
+Welsh One Day Open,2022-02-13,Women's Under 23 76Kg,Amy Stuckey,73.7,-43,43,48,53,56,-59,48,56,104
+Welsh One Day Open,2022-02-13,Men's Senior 81Kg,Connor Hoy,77.4,-80,-80,-80,95,100,-105,0,100,100
+Welsh One Day Open,2022-02-13,Women's Under 23 55Kg,Tereza Jancova,54.9,35,-38,38,55,-57,59,38,59,97
+Welsh One Day Open,2022-02-13,Women's Under 23 71Kg,Anna Crabb,68.9,37,40,-42,50,-54,-54,40,50,90
+Welsh One Day Open,2022-02-13,Women's Masters (40-44) 71Kg,Caroline Hurley,70.2,38,-40,-40,50,-54,-54,38,50,88
+Welsh One Day Open,2022-02-13,Women's Senior 71Kg,Natchaya Vaeohansa,68.1,30,35,-38,45,50,-53,35,50,85
+Welsh One Day Open,2022-02-13,Women's Junior Under 20 55Kg,emma brooks,52.9,-37,37,-39,-45,-45,45,37,45,82
+Welsh One Day Open,2022-02-13,Women's Junior Under 20 55Kg,Isabella Sutherland,54.1,25,30,-33,37,41,44,30,44,74

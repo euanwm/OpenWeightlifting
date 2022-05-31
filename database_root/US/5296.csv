@@ -1,0 +1,78 @@
+meet,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+The Iron Game Open 2022,2022-04-23,Open Men's 89kg,Cristofer Martinez,87.6,130,-135,-135,160,-165,165,130,165,295
+The Iron Game Open 2022,2022-04-24,Open Men's 102kg,Ryan Lowrey,101.9,123,128,-131,165,-166,-170,128,165,293
+The Iron Game Open 2022,2022-04-24,Men's Masters (45-49) 96kg,Leonardo Acosta,95.5,-106,106,110,125,130,135,110,135,245
+The Iron Game Open 2022,2022-04-23,Open Men's 81kg,Kristian Gonzalez,78.4,100,104,-108,134,138,-142,104,138,242
+The Iron Game Open 2022,2022-04-23,Open Men's 89kg,Jorge Delapena,87.8,95,-100,-100,125,130,135,95,135,230
+The Iron Game Open 2022,2022-04-23,Open Men's 73kg,Chris Alvarez,72.9,96,99,101,120,125,-130,101,125,226
+The Iron Game Open 2022,2022-04-23,Open Men's 81kg,Nicholas Waring,78.5,84,87,90,114,120,126,90,126,216
+The Iron Game Open 2022,2022-04-24,Open Men's 109kg,Yasdier Esteban,108,85,90,93,115,-125,-125,93,115,208
+The Iron Game Open 2022,2022-04-24,Open Men's 102kg,Pablo Serp,100.8,80,85,91,105,110,116,91,116,207
+The Iron Game Open 2022,2022-04-23,Open Men's 67kg,Luis Eduardo Leal,66.3,83,-86,86,113,116,120,86,120,206
+The Iron Game Open 2022,2022-04-23,Open Men's 81kg,BUM-SOO SHIN,80.7,-88,88,-92,103,-108,108,88,108,196
+The Iron Game Open 2022,2022-04-23,Junior Men's 81kg,Darian Simon,80.3,80,85,90,105,-110,-110,90,105,195
+The Iron Game Open 2022,2022-04-24,Open Women's 76kg,Lauren Enkerud,73.3,76,80,83,97,101,-104,83,101,184
+The Iron Game Open 2022,2022-04-24,Men's Masters (40-44) 102kg,Ryan Weber,97.6,75,-77,77,-105,105,-107,77,105,182
+The Iron Game Open 2022,2022-04-24,Open Men's +109kg,Jordan Perez,131.8,-70,70,75,95,100,-103,75,100,175
+The Iron Game Open 2022,2022-04-23,Junior Men's 67kg,Anthony Campanelli,66.3,62,66,70,90,95,100,70,100,170
+The Iron Game Open 2022,2022-04-24,Open Women's 76kg,Brianna Maxwell,74.3,-70,70,-75,95,100,-105,70,100,170
+The Iron Game Open 2022,2022-04-24,Open Women's +87kg,Ashley Llerena,100.9,65,70,75,88,91,95,75,95,170
+The Iron Game Open 2022,2022-04-23,Women's Masters (35-39) 64kg,Melissa Suarez,64,68,-71,72,88,92,-98,72,92,164
+The Iron Game Open 2022,2022-04-24,Open Women's 76kg,Jessica Rodriguez,74.3,63,67,71,84,87,91,71,91,162
+The Iron Game Open 2022,2022-04-24,Women's Masters (35-39) +87kg,Sunni DeGracia,89.5,68,71,74,82,-87,87,74,87,161
+The Iron Game Open 2022,2022-04-23,Open Women's 59kg,Isabella Damacena,57.8,58,62,66,78,82,86,66,86,152
+The Iron Game Open 2022,2022-04-23,Open Women's 64kg,Sabrina Agredo,63.9,60,-65,65,80,-86,86,65,86,151
+The Iron Game Open 2022,2022-04-24,Open Women's 76kg,Maria Carcache valdes,76,63,65,-68,84,-86,86,65,86,151
+The Iron Game Open 2022,2022-04-24,Open Women's 81kg,Irene Berl,80.4,65,-68,68,80,83,-85,68,83,151
+The Iron Game Open 2022,2022-04-24,Open Women's 71kg,Alexandra Kennerly,66.1,57,61,65,79,81,85,65,85,150
+The Iron Game Open 2022,2022-04-23,Open Women's 64kg,Xiomara Chirinos,63.8,62,65,68,76,79,82,68,82,150
+The Iron Game Open 2022,2022-04-23,Men's 14-15 Age Group 89kg,Michael Escanilla,86.7,60,63,66,78,81,-84,66,81,147
+The Iron Game Open 2022,2022-04-24,Open Women's +87kg,Lauren Schreier,98.5,58,-60,62,76,79,83,62,83,145
+The Iron Game Open 2022,2022-04-23,Open Men's 81kg,Gerard Talbot-Paul,78.1,60,-64,64,70,75,80,64,80,144
+The Iron Game Open 2022,2022-04-24,Open Women's 76kg,Gabrielle Llamo,75,56,59,-63,80,84,-88,59,84,143
+The Iron Game Open 2022,2022-04-23,Open Women's 64kg,Mehrnegar Malek,62.9,61,-64,64,73,76,79,64,79,143
+The Iron Game Open 2022,2022-04-24,Women's Masters (40-44) 64kg,Jused Melian,63.1,55,58,62,70,75,80,62,80,142
+The Iron Game Open 2022,2022-04-23,Men's 16-17 Age Group 61kg,Andre Chavarria,56.7,60,-63,-63,74,78,80,60,80,140
+The Iron Game Open 2022,2022-04-24,Men's Masters (60-64) 102kg,Albert Tamayo,102,50,55,60,70,75,80,60,80,140
+The Iron Game Open 2022,2022-04-23,Open Women's 64kg,Alysia Lopez,64,58,60,-63,70,73,75,60,75,135
+The Iron Game Open 2022,2022-04-23,Open Women's 64kg,Iris Veciana,59.1,-58,58,60,72,75,-78,60,75,135
+The Iron Game Open 2022,2022-04-23,Women's 14-15 Age Group 59kg,Ayah Muhammad,58.6,50,54,58,72,76,-80,58,76,134
+The Iron Game Open 2022,2022-04-23,Junior Women's 55kg,Daniela De Sousa,53.2,55,58,61,67,-70,70,61,70,131
+The Iron Game Open 2022,2022-04-23,Open Women's 64kg,Naomi Anchell,62.3,52,57,-60,-73,73,74,57,74,131
+The Iron Game Open 2022,2022-04-24,Women's Masters (40-44) +87kg,Shamieka Donawa,137.4,50,53,56,65,70,75,56,75,131
+The Iron Game Open 2022,2022-04-23,Open Women's 59kg,Erendira Cruz,58.2,50,55,60,65,70,-76,60,70,130
+The Iron Game Open 2022,2022-04-23,Men's Masters (45-49) 81kg,Joseph Flores,80.3,55,58,60,64,67,-70,60,67,127
+The Iron Game Open 2022,2022-04-23,Open Women's 55kg,Yetsenia Rodriguez,51.6,-52,52,55,65,70,-73,55,70,125
+The Iron Game Open 2022,2022-04-23,Women's Masters (35-39) 49kg,Carla Miranda,49,-49,49,52,67,70,73,52,73,125
+The Iron Game Open 2022,2022-04-24,Women's Masters (35-39) 71kg,Jennifer Lemoine,71,45,50,55,56,62,67,55,67,122
+The Iron Game Open 2022,2022-04-24,Open Women's 71kg,Milagros Espinales,66.2,-39,42,46,65,70,75,46,75,121
+The Iron Game Open 2022,2022-04-23,Junior Women's 64kg,Krista Lupo,64,-50,50,54,60,65,-70,54,65,119
+The Iron Game Open 2022,2022-04-23,Open Women's 64kg,Grecia Lara,63.9,52,54,56,63,-65,-65,56,63,119
+The Iron Game Open 2022,2022-04-24,Women's Masters (40-44) 76kg,Nicole Biscuiti,72,51,54,-57,65,0,0,54,65,119
+The Iron Game Open 2022,2022-04-23,Open Women's 59kg,Alexandra Perez,58.7,47,-50,50,64,-67,67,50,67,117
+The Iron Game Open 2022,2022-04-23,Women's 16-17 Age Group 71kg,Racheal Cemerci,69.5,44,47,50,57,60,63,50,63,113
+The Iron Game Open 2022,2022-04-24,Women's Masters (45-49) 64kg,Victoria Fernandez,64,45,-48,-50,65,68,-72,45,68,113
+The Iron Game Open 2022,2022-04-24,Open Women's +87kg,Jacqueline Francis,91.8,43,46,49,57,60,63,49,63,112
+The Iron Game Open 2022,2022-04-24,Women's Masters (35-39) 71kg,Marissa Rivero,67.3,45,48,51,58,61,-64,51,61,112
+The Iron Game Open 2022,2022-04-23,Open Women's 64kg,Gabriella Borrego,62.9,43,-47,-48,60,64,68,43,68,111
+The Iron Game Open 2022,2022-04-24,Women's Masters (35-39) 87kg,Lorena Pole,81.4,45,48,-52,60,63,-66,48,63,111
+The Iron Game Open 2022,2022-04-23,Open Women's 55kg,Alejandra  Taylor,54.9,40,43,-46,60,64,67,43,67,110
+The Iron Game Open 2022,2022-04-24,Women's Masters (35-39) 49kg,Fabiola Gaitan,48.5,40,45,50,50,55,60,50,60,110
+The Iron Game Open 2022,2022-04-23,Women's 16-17 Age Group 55kg,Jayda Egan,54.4,44,47,-49,52,55,58,47,58,105
+The Iron Game Open 2022,2022-04-23,Open Women's 59kg,Cassandra Martinez,58.9,41,43,-45,50,53,58,43,58,101
+The Iron Game Open 2022,2022-04-23,Open Women's 55kg,Karla Canton,54.7,40,44,-48,56,-59,0,44,56,100
+The Iron Game Open 2022,2022-04-23,Open Women's 59kg,Brianna Zirger,57.3,38,-41,-41,48,52,57,38,57,95
+The Iron Game Open 2022,2022-04-24,Women's Masters (35-39) 81kg,Maureen Cordoba,81,36,39,42,47,50,53,42,53,95
+The Iron Game Open 2022,2022-04-23,Junior Women's 64kg,Zoe Serra,60.1,36,38,-40,49,52,55,38,55,93
+The Iron Game Open 2022,2022-04-23,Junior Women's 64kg,Isabella Roberts,59.2,34,37,40,45,49,-53,40,49,89
+The Iron Game Open 2022,2022-04-24,Women's Masters (65-69) 59kg,Janet Gelman,57.6,-35,35,38,45,48,51,38,51,89
+The Iron Game Open 2022,2022-04-23,Open Men's 73kg,denniel machado,67.6,65,-69,71,-86,-93,-100,71,0,71
+The Iron Game Open 2022,2022-04-23,Men's 14-15 Age Group 55kg,Alejandro Artecona,55,25,27,29,30,33,35,29,35,64
+The Iron Game Open 2022,2022-04-23,Men's 13 Under Age Group 39kg,Mason PIERING,37.2,-18,18,21,25,28,30,21,30,51
+The Iron Game Open 2022,2022-04-24,Women's Masters (75+) +87kg,Betty Fahrer,93.5,18,20,22,20,25,27,22,27,49
+The Iron Game Open 2022,2022-04-23,Open Women's 55kg,Chavely Perez,54,37,41,-45,-46,-46,-46,41,0,41
+The Iron Game Open 2022,2022-04-23,Women's 13 Under Age Group 40kg,Keira Taylor,37,14,16,18,17,19,21,18,21,39
+The Iron Game Open 2022,2022-04-23,Men's 13 Under Age Group 36kg,William Mason Downard,35,13,-16,16,16,19,21,16,21,37
+The Iron Game Open 2022,2022-04-23,Men's 13 Under Age Group 39kg,Julian Soler,39,13,15,-17,16,18,20,15,20,35
+The Iron Game Open 2022,2022-04-23,Men's 13 Under Age Group 49kg,Aydan Ayala,49,10,-12,12,-21,-21,21,12,21,33
+The Iron Game Open 2022,2022-04-23,Men's 13 Under Age Group 36kg,Aiden Lopez-Calleja,35,12,13,14,15,17,18,14,18,32

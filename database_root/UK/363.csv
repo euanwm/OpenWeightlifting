@@ -1,0 +1,56 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Wildboar Winter Open 22,2022-03-06,Men's Senior 109+Kg,Adam James Pugh,127,107,112,-120,146,151,161,112,161,273
+Wildboar Winter Open 22,2022-03-06,Men's Under 23 89Kg,Sam Finch,87.5,111,-115,-120,140,146,150,111,150,261
+Wildboar Winter Open 22,2022-03-06,Men's Masters (35-39) 109+Kg,benjamin iles,129.8,100,-105,-108,145,153,160,100,160,260
+Wildboar Winter Open 22,2022-03-06,Men's Junior Under 20 89Kg,Finley Austin,86,105,110,114,135,142,-146,114,142,256
+Wildboar Winter Open 22,2022-03-06,Men's Senior 89Kg,luke mander,86.8,102,-107,110,140,145,-151,110,145,255
+Wildboar Winter Open 22,2022-03-06,Men's Senior 89Kg,charlie mccloy,87.9,-108,108,112,130,140,-146,112,140,252
+Wildboar Winter Open 22,2022-03-06,Men's Senior 81Kg,axl raguindin,78.6,100,103,105,-121,121,-124,105,121,226
+Wildboar Winter Open 22,2022-03-06,Men's Senior 81Kg,Elliot Hooker,80,92,95,-100,115,121,-125,95,121,216
+Wildboar Winter Open 22,2022-03-06,Men's Senior 89Kg,Luke Bretton,87.9,80,85,-91,115,120,125,85,125,210
+Wildboar Winter Open 22,2022-03-06,Men's Senior 89Kg,Sam Loud,87.9,83,86,90,110,115,-120,90,115,205
+Wildboar Winter Open 22,2022-03-06,Men's Senior 81Kg,Kevin Raguindin,78.1,80,85,92,105,110,-116,92,110,202
+Wildboar Winter Open 22,2022-03-06,Men's Junior Under 20 73Kg,Harry hewitt smith,71.8,80,-83,83,105,108,113,83,113,196
+Wildboar Winter Open 22,2022-03-06,Men's Senior 89Kg,Chris Dallard,86,75,78,83,108,-113,-117,83,108,191
+Wildboar Winter Open 22,2022-03-06,Men's Senior 89Kg,Nick Grew,82.4,78,-82,82,99,104,108,82,108,190
+Wildboar Winter Open 22,2022-03-06,Men's Senior 109Kg,Jack Hammerton,102.4,-80,-80,80,95,100,109,80,109,189
+Wildboar Winter Open 22,2022-03-06,Men's Senior 109Kg,George Latter,108.4,81,85,-90,96,101,103,85,103,188
+Wildboar Winter Open 22,2022-03-06,Men's Youth Under 17 89Kg,Joshua Byett,86.5,72,77,81,98,102,106,81,106,187
+Wildboar Winter Open 22,2022-03-06,Men's Masters (45-49) 89Kg,Steve Harris,85.2,73,75,78,93,97,103,78,103,181
+Wildboar Winter Open 22,2022-03-06,Men's Junior Under 20 81Kg,Joe childs,74.9,75,-78,-78,90,95,-100,75,95,170
+Wildboar Winter Open 22,2022-03-06,Women's Junior Under 20 64Kg,Romi Stern-Dawson,63.8,68,-71,73,85,88,91,73,91,164
+Wildboar Winter Open 22,2022-03-06,Men's Senior 89Kg,Steve Poole,81.9,64,67,72,76,80,85,72,85,157
+Wildboar Winter Open 22,2022-03-06,Women's Youth Under 17 64Kg,Charlize Richards,63.1,63,65,-68,84,87,91,65,91,156
+Wildboar Winter Open 22,2022-03-06,Women's Under 23 71Kg,Rae Trowbridge,70.4,-65,65,68,80,84,88,68,88,156
+Wildboar Winter Open 22,2022-03-06,Women's Senior 81Kg,Cerys Head,77.7,60,64,-68,80,84,88,64,88,152
+Wildboar Winter Open 22,2022-03-06,Women's Senior 71Kg,Eleanor Jenkinson,69.7,62,65,68,75,80,83,68,83,151
+Wildboar Winter Open 22,2022-03-06,Men's Masters (50-54) 81Kg,James Marshall,79.2,60,62,64,80,83,85,64,85,149
+Wildboar Winter Open 22,2022-03-06,Women's Under 23 71Kg,Kody Nordqvist,69.9,65,68,-70,76,-80,81,68,81,149
+Wildboar Winter Open 22,2022-03-06,Women's Senior 59Kg,Kate Rendall,57.8,59,61,-63,79,81,84,61,84,145
+Wildboar Winter Open 22,2022-03-06,Women's Senior 71Kg,Jen Edgecombe,69.9,50,53,56,77,80,82,56,82,138
+Wildboar Winter Open 22,2022-03-06,Men's Masters (65-69) 89Kg,nigel beresford,87.8,52,55,56,72,75,78,56,78,134
+Wildboar Winter Open 22,2022-03-06,Men's Senior 89Kg,George Barsby,88.3,-100,-100,-100,-125,125,128,0,128,128
+Wildboar Winter Open 22,2022-03-06,Women's Masters (35-39) 64Kg,natasha phillips,62.7,50,-53,56,64,68,71,56,71,127
+Wildboar Winter Open 22,2022-03-06,Women's Junior Under 20 64Kg,Millie Scott,63.9,51,53,56,64,67,-70,56,67,123
+Wildboar Winter Open 22,2022-03-06,Women's Senior 71Kg,Hilary Galvin,69.7,53,-56,56,61,64,67,56,67,123
+Wildboar Winter Open 22,2022-03-06,Men's Masters (45-49) 102Kg,Simon Paris,101.3,50,55,60,60,-65,0,60,60,120
+Wildboar Winter Open 22,2022-03-06,Women's Senior 55Kg,Jennifer Cooper,53.8,48,52,-55,58,61,64,52,64,116
+Wildboar Winter Open 22,2022-03-06,Women's Youth Under 15 59Kg,Keira Richards,58.5,46,49,51,61,65,-70,51,65,116
+Wildboar Winter Open 22,2022-03-06,Women's Senior 64Kg,Kate I’Anson,61.6,42,45,48,62,66,-70,48,66,114
+Wildboar Winter Open 22,2022-03-06,Women's Senior 71Kg,Sophie Cartwright,69.9,45,-49,51,55,58,62,51,62,113
+Wildboar Winter Open 22,2022-03-06,Women's Under 23 81Kg,Maria Hames,80.8,47,-49,-49,57,61,65,47,65,112
+Wildboar Winter Open 22,2022-03-06,Women's Youth Under 17 71Kg,Aimee Bulff,67.9,43,45,-50,58,-61,62,45,62,107
+Wildboar Winter Open 22,2022-03-06,Women's Under 23 64Kg,Elinor Dixon,62.6,42,-45,47,57,-61,-61,47,57,104
+Wildboar Winter Open 22,2022-03-06,Women's Youth Under 15 55Kg,Lily Osment,54.9,42,44,-47,48,52,56,44,56,100
+Wildboar Winter Open 22,2022-03-06,Women's Youth Under 17 49Kg,Libby Ellison,48,-38,38,41,52,55,58,41,58,99
+Wildboar Winter Open 22,2022-03-06,Women's Youth Under 17 81Kg,Georgina Mountain,80.3,38,41,44,45,50,55,44,55,99
+Wildboar Winter Open 22,2022-03-06,Women's Under 23 87+Kg,Cerys Blain,95.5,37,40,43,45,49,53,43,53,96
+Wildboar Winter Open 22,2022-03-06,Women's Senior 71Kg,Katie Walden,69.9,-38,38,41,48,51,-54,41,51,92
+Wildboar Winter Open 22,2022-03-06,Women's Junior Under 20 71Kg,Antonia Haddon,65.2,35,-38,38,50,54,-60,38,54,92
+Wildboar Winter Open 22,2022-03-06,Women's Youth Under 17 76Kg,Ava Saunders,73.1,38,-41,41,42,45,49,41,49,90
+Wildboar Winter Open 22,2022-03-06,Women's Under 23 55Kg,Bethany Maitland,53.3,32,35,-38,40,44,48,35,48,83
+Wildboar Winter Open 22,2022-03-06,Women's Senior 71Kg,Amy Burgess ,71,-32,32,35,40,43,48,35,48,83
+Wildboar Winter Open 22,2022-03-06,Women's Youth Under 15 59Kg,Kayleigh Ellison,58.3,30,33,35,40,44,46,35,46,81
+Wildboar Winter Open 22,2022-03-06,Men's Youth Under 15 55Kg,harry jones,50.4,20,23,-26,28,32,35,23,35,58
+Wildboar Winter Open 22,2022-03-06,Men's Youth Under 15 55Kg,harry jones,50.4,20,23,-26,28,32,35,23,35,58
+Wildboar Winter Open 22,2022-03-06,Men's Youth Under 15 55Kg,harry jones,50.4,20,23,-26,28,32,35,23,35,58

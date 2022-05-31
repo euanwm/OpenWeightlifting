@@ -1,0 +1,67 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Scottish Eastern District,2022-04-03,Men's Senior 109Kg,Gary Barker,103.5,110,125,-133,140,160,-165,125,160,285
+Scottish Eastern District,2022-04-03,Men's Under 23 102Kg,Jay Carmichael,96.1,123,-126,126,150,-155,155,126,155,281
+Scottish Eastern District,2022-04-03,Men's Senior 109Kg,John Mcindoe,107.1,115,120,-125,145,155,160,120,160,280
+Scottish Eastern District,2022-04-03,Men's Junior Under 20 96Kg,Aiden Sheeran,92.8,105,-110,110,-150,150,-155,110,150,260
+Scottish Eastern District,2022-04-03,Men's Under 23 109+Kg,Oliver Laming,109.3,-103,103,108,113,118,122,108,122,230
+Scottish Eastern District,2022-04-02,Men's Junior Under 20 81Kg,Aedan Milne,80,95,100,-107,115,120,125,100,125,225
+Scottish Eastern District,2022-04-03,Men's Senior 81Kg,Steven Mcallan,78.6,94,-97,-100,-124,-127,127,94,127,221
+Scottish Eastern District,2022-04-03,Men's Senior 96Kg,Craig Scott,92.1,90,95,101,110,-115,-118,101,110,211
+Scottish Eastern District,2022-04-03,Men's Senior 81Kg,Jacob  Moore,79.4,82,88,93,100,107,112,93,112,205
+Scottish Eastern District,2022-04-03,Women's Senior 87Kg,Emma McCready,85.8,85,87,90,-107,107,110,90,110,200
+Scottish Eastern District,2022-04-02,Men's Junior Under 20 67Kg,ally mcgrath,65.5,80,-84,84,105,108,112,84,112,196
+Scottish Eastern District,2022-04-02,Men's Senior 81Kg,Nathan Mckendrick,80.8,84,88,-91,-107,-108,108,88,108,196
+Scottish Eastern District,2022-04-02,Men's Youth Under 17 73Kg,rhys deeley,68.5,80,85,-88,105,-110,110,85,110,195
+Scottish Eastern District,2022-04-02,Men's Youth Under 15 73Kg,Corey Duncan,73,73,78,81,95,98,101,81,101,182
+Scottish Eastern District,2022-04-02,Men's Senior 81Kg,Kendrick So,78.7,65,70,77,95,-100,100,77,100,177
+Scottish Eastern District,2022-04-02,Men's Under 23 73Kg,Eric Paliotta,70.2,72,75,-78,88,92,96,75,96,171
+Scottish Eastern District,2022-04-03,Men's Senior 81Kg,Jordan Bowie,75.9,70,75,-81,90,95,-100,75,95,170
+Scottish Eastern District,2022-04-02,Women's Senior 64Kg,nikki hamilton,64,70,74,78,86,90,-92,78,90,168
+Scottish Eastern District,2022-04-03,Men's Under 23 89Kg,Connor Griffin,86,-65,65,70,-88,88,95,70,95,165
+Scottish Eastern District,2022-04-02,Men's Senior 61Kg,Apison Wildman,60.4,-73,73,-77,-89,-91,91,73,91,164
+Scottish Eastern District,2022-04-03,Women's Senior 87Kg,Sydney Maxwell,86.6,-70,70,-73,90,94,-97,70,94,164
+Scottish Eastern District,2022-04-03,Men's Senior 89Kg,Kieran McKie,85,58,-62,-65,85,90,97,58,97,155
+Scottish Eastern District,2022-04-03,Men's Masters (35-39) 89Kg,Grant Deans,85.6,68,72,-76,80,-85,-85,72,80,152
+Scottish Eastern District,2022-04-03,Women's Masters (40-44) 71Kg,christine smithson,70.5,-59,60,63,82,84,-87,63,84,147
+Scottish Eastern District,2022-04-03,Women's Masters (35-39) 71Kg,Nicola Grant,70,58,62,65,72,76,80,65,80,145
+Scottish Eastern District,2022-04-02,Women's Senior 64Kg,Stacey Donaldson,62.9,58,-61,61,76,-81,81,61,81,142
+Scottish Eastern District,2022-04-03,Men's Under 23 89Kg,Rowan Humpidge,88.7,-55,58,61,75,78,81,61,81,142
+Scottish Eastern District,2022-04-02,Women's Masters (35-39) 71Kg,Julie Wilson,66.3,56,59,62,70,-74,75,62,75,137
+Scottish Eastern District,2022-04-02,Women's Senior 64Kg,Martyna Hildebrandt,60,-56,56,-58,70,75,-77,56,75,131
+Scottish Eastern District,2022-04-03,Women's Masters (35-39) 87Kg,Janine Slaven,83.8,50,53,55,70,73,76,55,76,131
+Scottish Eastern District,2022-04-03,Women's Masters (40-44) 87+Kg,Helen Robertson,99.1,55,-58,-60,75,-85,-85,55,75,130
+Scottish Eastern District,2022-04-02,Women's Senior 64Kg,Beata Korba,62.4,52,56,-58,64,68,72,56,72,128
+Scottish Eastern District,2022-04-03,Women's Youth Under 15 71Kg,Maddie Rosher,67.6,55,-58,-58,70,73,-76,55,73,128
+Scottish Eastern District,2022-04-03,Women's Senior 59Kg,Hannah Rutherford,58,-53,-53,53,70,73,-75,53,73,126
+Scottish Eastern District,2022-04-03,Women's Senior 71Kg,Amy Cochrane,70,52,55,-58,64,67,70,55,70,125
+Scottish Eastern District,2022-04-03,Women's Senior 71Kg,Niamh Gallagher,68.4,54,-57,-57,68,71,-73,54,71,125
+Scottish Eastern District,2022-04-03,Women's Youth Under 17 71Kg,Hannah Spence,70.3,55,-58,-58,70,-73,-73,55,70,125
+Scottish Eastern District,2022-04-02,Women's Senior 59Kg,Sarah Casement,58.4,55,58,-60,60,65,-70,58,65,123
+Scottish Eastern District,2022-04-03,Women's Senior 71Kg,Mandy Stott,69.6,53,-57,-58,65,69,-72,53,69,122
+Scottish Eastern District,2022-04-02,Women's Senior 64Kg,Giedre Ivaskaite,62.8,44,47,50,65,67,70,50,70,120
+Scottish Eastern District,2022-04-02,Men's Youth Under 15 55Kg,Gregor Wood,54.3,48,51,53,60,-64,66,53,66,119
+Scottish Eastern District,2022-04-02,Women's Junior Under 20 64Kg,Ellie Bissett,63.1,50,-52,52,61,65,67,52,67,119
+Scottish Eastern District,2022-04-02,Women's Senior 64Kg,Joanne Mcgurk,61.7,50,53,-56,63,66,-70,53,66,119
+Scottish Eastern District,2022-04-02,Women's Senior 59Kg,Regan McMillan,57.9,45,48,48,68,-70,-70,48,68,116
+Scottish Eastern District,2022-04-02,Women's Youth Under 17 49Kg,Jorja McNaughton,49,50,-53,-53,60,63,65,50,65,115
+Scottish Eastern District,2022-04-02,Women's Masters (35-39) 64Kg,Colleen McCaskell,60.9,50,-55,-55,57,60,64,50,64,114
+Scottish Eastern District,2022-04-03,Women's Senior 59Kg,Serife Ustuner,56.3,42,45,-48,63,-66,66,45,66,111
+Scottish Eastern District,2022-04-02,Women's Under 23 64Kg,Isabel Flynn,62.3,46,48,51,57,59,-61,51,59,110
+Scottish Eastern District,2022-04-02,Women's Senior 59Kg,Alice Garrett Hindmarsh,58.9,-45,45,50,52,55,58,50,58,108
+Scottish Eastern District,2022-04-02,Women's Senior 59Kg,Caitlin Muirhead,57.6,-45,45,47,57,61,-64,47,61,108
+Scottish Eastern District,2022-04-03,Women's Masters (45-49) 71Kg,Yvonne Spence,65.7,42,44,-46,53,56,-58,44,56,100
+Scottish Eastern District,2022-04-03,Women's Under 23 71Kg,Clara Lilje,70,40,43,-46,50,-55,56,43,56,99
+Scottish Eastern District,2022-04-02,Women's Youth Under 15 64Kg,Athena Pearce,62.8,40,43,-45,53,-55,55,43,55,98
+Scottish Eastern District,2022-04-02,Women's Under 23 59Kg,Ragna Marie Engseth,59,37,40,-42,50,53,56,40,56,96
+Scottish Eastern District,2022-04-02,Women's Under 23 64Kg,Elly Ficca,64,40,-42,-43,53,55,-57,40,55,95
+Scottish Eastern District,2022-04-02,Women's Senior 59Kg,Elizabeth Nightingale,57.7,37,40,42,48,53,-55,42,53,95
+Scottish Eastern District,2022-04-03,Women's Masters (45-49) 76Kg,Jill Muirden,76,36,39,-42,48,-53,53,39,53,92
+Scottish Eastern District,2022-04-02,Women's Senior 64Kg,Verity Brown,63.9,38,40,-42,50,-53,-53,40,50,90
+Scottish Eastern District,2022-04-03,Women's Senior 59Kg,Keegan Cunningham,57.1,35,37,40,45,48,50,40,50,90
+Scottish Eastern District,2022-04-02,Women's Senior 49Kg,Marie  McLaughlin ,47.9,34,36,38,44,46,48,38,48,86
+Scottish Eastern District,2022-04-03,Women's Under 23 71Kg,Natalie Chua,66.1,-35,35,38,40,-44,48,38,48,86
+Scottish Eastern District,2022-04-02,Women's Masters (55-59) 64Kg,Laura Hunter,62.2,32,35,37,45,48,-50,37,48,85
+Scottish Eastern District,2022-04-03,Women's Junior Under 20 64Kg,Emily Logan,63.4,33,35,-37,-43,43,45,35,45,80
+Scottish Eastern District,2022-04-02,Women's Masters (60-64) 59Kg,Eileen Ross,57.4,20,23,-25,30,33,35,23,35,58
+Scottish Eastern District,2022-04-02,Women's Senior 64Kg,Ami Sheridan,62.8,47,-50,-50,-65,-70,-70,47,0,47
+Scottish Eastern District,2022-04-03,Men's Masters (35-39) 81Kg,Darren Marr,80.7,-89,-89,-89,0,0,0,0,0,0
