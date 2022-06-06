@@ -1,0 +1,823 @@
+meet,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+2015 American Open,2015-12-06,Open Men's 105 kg,Wesley Kitts,103.75,-158,160,-164,197,200,-210,160,200,360
+2015 American Open,2015-12-06,Open Men's 105 kg,Ethan Harak,104.95,-156,156,-160,195,200,204,156,204,360
+2015 American Open,2015-12-06,Open Men's 105 kg,D'Angelo Osorio,97.18,157,160,163,-195,-196,196,163,196,359
+2015 American Open,2015-12-06,Open Men's 94 kg,Colin Burns,93.84,165,-171,-171,190,-193,193,165,193,358
+2015 American Open,2015-12-06,Open Men's+105 kg,Michael Kreatsoulas,121.18,150,-156,156,190,195,-202,156,195,351
+2015 American Open,2015-12-06,Open Men's+105 kg,Jason Starks,144.6,152,157,-162,180,185,190,157,190,347
+2015 American Open,2015-12-06,Open Men's 105 kg,Andrew Davis,104.53,151,-156,156,190,-196,-196,156,190,346
+2015 American Open,2015-12-06,Open Men's 105 kg,Justin Meyer,99.7,155,-159,-160,187,-196,-196,155,187,342
+2015 American Open,2015-12-06,Open Men's 85 kg,Anthony Pomponio,84.26,150,155,-157,181,-185,-185,155,181,336
+2015 American Open,2015-12-06,Open Men's 105 kg,Phil Sabatini,102.01,147,-152,-152,-182,182,188,147,188,335
+2015 American Open,2015-12-06,Open Men's 105 kg,Caleb Ward,104.13,143,148,153,170,177,182,153,182,335
+2015 American Open,2015-12-06,Open Men's+105 kg,Christopher Chaney,120.93,157,-161,-162,177,-180,-181,157,177,334
+2015 American Open,2015-12-06,Open Men's 105 kg,Marco Coppola,101.87,141,146,-153,175,-182,186,146,186,332
+2015 American Open,2015-12-06,Open Men's 94 kg,Robert Blackwell,90.3,150,-155,155,170,176,-180,155,176,331
+2015 American Open,2015-12-06,Open Men's 94 kg,Jason Bonnick,92.89,-145,-145,147,172,-179,180,147,180,327
+2015 American Open,2015-12-06,Open Men's 105 kg,Edward Baker,105,140,144,147,170,180,-186,147,180,327
+2015 American Open,2015-12-06,Open Men's+105 kg,Jamie Beard,107.97,-147,147,-152,180,-185,-187,147,180,327
+2015 American Open,2015-12-06,Open Men's+105 kg,Daniel Koppenhaver,126.19,-145,-145,145,175,182,-190,145,182,327
+2015 American Open,2015-12-06,Open Men's+105 kg,Ryan Sennett,137.19,144,148,-152,173,178,-182,148,178,326
+2015 American Open,2015-12-06,Open Men's 105 kg,Benjamin Claridad,101.28,145,-148,-149,-177,-180,180,145,180,325
+2015 American Open,2015-12-06,Open Men's+105 kg,David Jorge,125.93,140,145,-150,170,-178,180,145,180,325
+2015 American Open,2015-12-06,Open Men's 77 kg,Angelo Bianco,76.33,142,147,-150,171,176,0,147,176,323
+2015 American Open,2015-12-06,Open Men's 85 kg,John McGovern,84.64,-138,-138,138,-182,-182,184,138,184,322
+2015 American Open,2015-12-06,Open Men's 105 kg,Joshua Ji,100.01,135,141,-150,165,172,180,141,180,321
+2015 American Open,2015-12-06,Open Men's 105 kg,Jacob Pudenz,104.43,-140,140,143,170,176,-183,143,176,319
+2015 American Open,2015-12-06,Open Men's 77 kg,James Tatum,76.83,145,150,-154,168,-173,-174,150,168,318
+2015 American Open,2015-12-06,Open Men's 85 kg,Frankie Murray,84.7,138,143,-146,170,-175,175,143,175,318
+2015 American Open,2015-12-06,Open Men's+105 kg,Jeffrey Williams,166.22,141,146,-150,-170,170,-182,146,170,316
+2015 American Open,2015-12-06,Open Men's 85 kg,Michael Nackoul,84.38,135,-140,-140,175,180,-183,135,180,315
+2015 American Open,2015-12-06,Open Men's 94 kg,Kyle Hannah,93.96,-142,143,-147,171,-177,-178,143,171,314
+2015 American Open,2015-12-06,Open Men's 85 kg,Nathan Damron,82.76,140,-145,-145,-172,-172,172,140,172,312
+2015 American Open,2015-12-06,Open Men's 94 kg,Bret Brian,92.86,-133,133,136,170,174,-178,136,174,310
+2015 American Open,2015-12-06,Open Men's+105 kg,Justin Wade,111.31,140,150,-153,-160,160,0,150,160,310
+2015 American Open,2015-12-06,Open Men's 105 kg,Dylan Cooper,95.66,133,137,-141,171,-177,-177,137,171,308
+2015 American Open,2015-12-06,Open Men's 105 kg,JAKE BAKER,99.87,135,138,141,160,165,-168,141,165,306
+2015 American Open,2015-12-06,Open Men's 85 kg,Nathan Stemo,83.72,137,-141,143,-162,163,-167,143,163,306
+2015 American Open,2015-12-06,Open Men's 85 kg,Tom Summa,83.78,-136,136,-140,166,170,-175,136,170,306
+2015 American Open,2015-12-06,Open Men's 94 kg,Michael H Cohen,92.16,130,135,138,167,-173,-173,138,167,305
+2015 American Open,2015-12-06,Open Men's+105 kg,Justin Westfall,128.93,133,140,143,162,-168,-169,143,162,305
+2015 American Open,2015-12-06,Open Men's+105 kg,Grant DeBenedictis,155.78,-134,134,-141,165,-171,171,134,171,305
+2015 American Open,2015-12-06,Open Men's 85 kg,Landon De Castroverde,83.7,125,128,131,160,167,173,131,173,304
+2015 American Open,2015-12-06,Open Men's 85 kg,Charles McDonald,84.06,130,135,137,161,167,-170,137,167,304
+2015 American Open,2015-12-06,Open Men's 77 kg,Harrison Maurus,75.42,-128,128,132,-165,165,171,132,171,303
+2015 American Open,2015-12-06,Open Men's 94 kg,Jordan Muere,93.32,-130,130,-134,-168,168,173,130,173,303
+2015 American Open,2015-12-06,Open Men's 105 kg,Erik Blekeberg,100.91,-130,130,138,160,165,-170,138,165,303
+2015 American Open,2015-12-06,Open Men's 94 kg,Trevor McKinnon,90.12,122,128,132,160,-170,170,132,170,302
+2015 American Open,2015-12-06,Open Men's 85 kg,Jordan Cantrell,83.7,-137,137,-140,165,-170,-170,137,165,302
+2015 American Open,2015-12-06,Open Men's 105 kg,Anthony Sannella,101.77,130,-135,-136,160,165,170,130,170,300
+2015 American Open,2015-12-06,Open Men's 85 kg,Zachary Karlins,82.58,127,130,-133,160,165,170,130,170,300
+2015 American Open,2015-12-06,Open Men's+105 kg,Jack Rummells,132.46,135,140,-142,160,-166,-166,140,160,300
+2015 American Open,2015-12-06,Open Men's 69 kg,Clarence Cummings,68.2,125,130,-135,160,170,-177,130,170,300
+2015 American Open,2015-12-06,Open Men's 94 kg,Kirby White,93.34,132,136,-140,162,-167,-167,136,162,298
+2015 American Open,2015-12-06,Open Men's 94 kg,Dan Scanlan,92.72,-137,137,-142,-160,-160,160,137,160,297
+2015 American Open,2015-12-06,Open Men's+105 kg,Brandon Lwowski,107.8,-132,132,-135,-165,165,-170,132,165,297
+2015 American Open,2015-12-06,Open Men's 105 kg,Daniel Russell,104.85,-128,130,134,-162,162,-170,134,162,296
+2015 American Open,2015-12-06,Open Men's 85 kg,Paul Woelmer,84.52,130,-134,-134,-163,163,166,130,166,296
+2015 American Open,2015-12-06,Open Men's 94 kg,Evan Pounds,92.64,125,-130,130,160,165,-170,130,165,295
+2015 American Open,2015-12-06,Open Men's 94 kg,Jaron Jackson,92.91,123,127,130,155,160,165,130,165,295
+2015 American Open,2015-12-06,Open Men's 105 kg,Zachary Herbert,103.9,130,135,140,150,155,-160,140,155,295
+2015 American Open,2015-12-06,Open Men's 105 kg,Caleb Johnson,104.53,124,127,130,165,-169,-169,130,165,295
+2015 American Open,2015-12-06,Open Men's 105 kg,Tyler Vlasak,104.55,130,-140,-140,165,-170,-170,130,165,295
+2015 American Open,2015-12-06,Open Men's 94 kg,Kody Robison,91.52,118,122,126,-163,163,168,126,168,294
+2015 American Open,2015-12-06,Open Men's 105 kg,Matt Hawkins,104.54,-130,130,-134,158,-162,162,130,162,292
+2015 American Open,2015-12-06,Open Men's+105 kg,Robert Kautzmann,114.17,130,-135,-140,-160,162,-168,130,162,292
+2015 American Open,2015-12-06,Open Men's 94 kg,Jeremy Mghenyi,88.07,125,135,140,151,-159,-163,140,151,291
+2015 American Open,2015-12-06,Open Men's 85 kg,Seán Brown,81.54,-127,-127,130,156,161,-165,130,161,291
+2015 American Open,2015-12-06,Open Men's 85 kg,James Ellis,83.76,123,127,130,156,161,-166,130,161,291
+2015 American Open,2015-12-06,Open Men's 77 kg,Brett Silvers,76.56,122,126,130,152,-156,160,130,160,290
+2015 American Open,2015-12-06,Open Men's 94 kg,Alex Lefcakis,92.89,-125,125,-130,165,-170,-171,125,165,290
+2015 American Open,2015-12-06,Open Men's 105 kg,Gregory Bommarito,103.89,130,134,-136,-151,151,156,134,156,290
+2015 American Open,2015-12-06,Open Men's 85 kg,Jon Zajac,82.72,130,-135,135,155,-160,-165,135,155,290
+2015 American Open,2015-12-06,Open Men's 85 kg,Kevin Sullivan,84.06,130,-133,-133,160,-165,-165,130,160,290
+2015 American Open,2015-12-06,Open Men's 77 kg,Mason Groehler,75.56,129,134,-137,155,-160,-160,134,155,289
+2015 American Open,2015-12-06,Open Men's 94 kg,Stephen Butcher,93.04,122,127,132,-157,157,-163,132,157,289
+2015 American Open,2015-12-06,Open Men's 85 kg,John Downey,80.98,126,131,-136,153,-158,158,131,158,289
+2015 American Open,2015-12-06,Open Men's+105 kg,Patrick Kern,117.43,115,121,-126,157,162,168,121,168,289
+2015 American Open,2015-12-06,Open Men's 94 kg,Michael Gingras,92.92,120,-125,125,155,-163,163,125,163,288
+2015 American Open,2015-12-06,Open Men's 105 kg,Chris Harris,101.93,-128,128,-130,-160,160,-165,128,160,288
+2015 American Open,2015-12-06,Open Men's 94 kg,Jason Thomas,92.56,126,130,-133,152,-156,157,130,157,287
+2015 American Open,2015-12-06,Open Men's 94 kg,Jordan Trompke,92.78,-125,125,-130,150,157,162,125,162,287
+2015 American Open,2015-12-06,Open Men's 94 kg,David McKellar,93.13,127,130,-133,150,153,156,130,156,286
+2015 American Open,2015-12-06,Open Men's 105 kg,Austin Byers,103.5,-129,129,-133,-156,157,-162,129,157,286
+2015 American Open,2015-12-06,Open Men's 105 kg,Blue Aldridge,99,117,-123,123,155,159,163,123,163,286
+2015 American Open,2015-12-06,Open Men's 85 kg,Benjamin Barnes,83.44,-125,125,130,150,156,-161,130,156,286
+2015 American Open,2015-12-06,Open Men's 77 kg,Spencer Arnold,76.76,126,-130,131,154,-157,-158,131,154,285
+2015 American Open,2015-12-06,Open Men's 85 kg,Dane Yelovich,83.66,118,122,-127,159,163,-166,122,163,285
+2015 American Open,2015-12-06,Open Men's 85 kg,Collin Worm,84.14,125,-130,130,155,-160,-162,130,155,285
+2015 American Open,2015-12-06,Open Men's 85 kg,Matthew Bergeron,84.24,125,130,-135,155,-160,-160,130,155,285
+2015 American Open,2015-12-06,Open Men's+105 kg,Michael White,125.73,125,-131,-131,156,-160,160,125,160,285
+2015 American Open,2015-12-06,Open Men's 105 kg,Hunter Schurrer,104.91,129,-134,-134,-155,-155,155,129,155,284
+2015 American Open,2015-12-06,Open Men's 77 kg,Nicholas Dondzila,75.9,117,121,-125,155,-160,162,121,162,283
+2015 American Open,2015-12-06,Open Men's 77 kg,Adam Kosna,76.37,121,125,130,-153,153,-160,130,153,283
+2015 American Open,2015-12-06,Open Men's 94 kg,Cameron Griggs,93.71,118,122,-126,155,161,-165,122,161,283
+2015 American Open,2015-12-06,Open Men's 105 kg,Jayson Walser,104.47,120,125,-130,158,-165,-165,125,158,283
+2015 American Open,2015-12-06,Open Men's 69 kg,Caleb WIlliams,68.8,-123,123,-128,155,160,-165,123,160,283
+2015 American Open,2015-12-06,Open Men's 77 kg,Adam Beytin,76.45,120,125,-130,157,-162,-165,125,157,282
+2015 American Open,2015-12-06,Open Men's 94 kg,Adam Young,87.28,120,123,125,151,157,-161,125,157,282
+2015 American Open,2015-12-06,Open Men's 94 kg,Christopher Branam,92.56,122,126,-130,151,156,-160,126,156,282
+2015 American Open,2015-12-06,Open Men's 77 kg,William Bybee,76.57,121,-126,126,155,-158,-158,126,155,281
+2015 American Open,2015-12-06,Open Men's 94 kg,Patrick Mahoney,93.08,125,-130,-130,152,-156,156,125,156,281
+2015 American Open,2015-12-06,Open Men's 105 kg,Michael Ingley,100.46,117,125,-130,155,-162,-164,125,155,280
+2015 American Open,2015-12-06,Open Men's 105 kg,Brandon Lopez,102.31,120,-125,-125,155,160,-165,120,160,280
+2015 American Open,2015-12-06,Open Men's 105 kg,carlos Ramos,103.54,122,-126,127,-148,148,153,127,153,280
+2015 American Open,2015-12-06,Open Men's 105 kg,Darin Weeks,103.97,130,-137,-138,150,-160,-165,130,150,280
+2015 American Open,2015-12-06,Open Men's 85 kg,Kabuati Bob,84.3,116,-120,120,160,-165,-165,120,160,280
+2015 American Open,2015-12-06,Open Men's+105 kg,Donald Jackson,118.24,120,-125,-126,-150,153,160,120,160,280
+2015 American Open,2015-12-06,Open Men's 94 kg,Andrew Dodd,90.8,120,-124,128,138,143,150,128,150,278
+2015 American Open,2015-12-06,Open Men's 94 kg,Logan Dobbs,92.71,120,124,-128,150,154,-159,124,154,278
+2015 American Open,2015-12-06,Open Men's 105 kg,Scott Shimala,103.8,-118,118,125,152,-157,-157,125,152,277
+2015 American Open,2015-12-06,Open Men's 77 kg,Kevin Schmitt,75.89,120,125,-129,151,-156,-156,125,151,276
+2015 American Open,2015-12-06,Open Men's 77 kg,Jason Horikawa,76.78,115,120,-126,150,-155,156,120,156,276
+2015 American Open,2015-12-06,Open Men's 94 kg,Phillip Roberts,93.56,-124,-124,125,-150,-150,151,125,151,276
+2015 American Open,2015-12-06,Open Men's 105 kg,Glen Kalbaugh,100.34,-120,120,126,-150,150,-155,126,150,276
+2015 American Open,2015-12-06,Open Men's 105 kg,Daniel Marrone,102.23,-125,126,-131,150,-155,-155,126,150,276
+2015 American Open,2015-12-06,Open Men's 85 kg,Christopher Kenney,84.1,116,-121,121,150,-155,155,121,155,276
+2015 American Open,2015-12-06,Open Men's 69 kg,Michael Szela,68.71,120,125,-128,151,-155,-159,125,151,276
+2015 American Open,2015-12-06,Open Men's 94 kg,Matthew Buehrle,86.66,116,118,-123,153,-156,157,118,157,275
+2015 American Open,2015-12-06,Open Men's 94 kg,Denis Brown,91.72,120,125,130,-145,-145,145,130,145,275
+2015 American Open,2015-12-06,Open Men's 94 kg,Jameson Dahl,93.14,-120,120,-125,155,-160,-162,120,155,275
+2015 American Open,2015-12-06,Open Men's 105 kg,George Briones,98.04,115,122,124,147,151,-153,124,151,275
+2015 American Open,2015-12-06,Open Men's 85 kg,Jeremy Eck,83.15,122,-126,-127,145,150,153,122,153,275
+2015 American Open,2015-12-06,Open Men's 85 kg,Alexander Beddow,83.46,125,-130,-132,145,150,-156,125,150,275
+2015 American Open,2015-12-06,Open Men's 85 kg,Wilson Fleming,84.54,120,124,-128,145,151,-157,124,151,275
+2015 American Open,2015-12-06,Open Men's+105 kg,William Book,113.51,-120,-120,120,155,-158,-158,120,155,275
+2015 American Open,2015-12-06,Open Men's 94 kg,Shane Robichaud,92.7,115,122,-126,140,-150,152,122,152,274
+2015 American Open,2015-12-06,Open Men's 94 kg,John Sammarco,93.11,114,118,-122,150,156,-165,118,156,274
+2015 American Open,2015-12-06,Open Men's 94 kg,Paul Castaneda,93.67,117,122,-127,148,152,-157,122,152,274
+2015 American Open,2015-12-06,Open Men's 105 kg,Brian Secrest,100.66,118,-119,-122,148,152,155,118,155,273
+2015 American Open,2015-12-06,Open Men's 105 kg,Kenneth Martinez,104.4,-114,-114,115,154,158,-162,115,158,273
+2015 American Open,2015-12-06,Open Men's 105 kg,John Jarman,98.88,-112,-113,113,-152,154,160,113,160,273
+2015 American Open,2015-12-06,Open Men's 85 kg,Sam Jay,84.67,120,123,-126,145,-148,150,123,150,273
+2015 American Open,2015-12-06,Open Men's 77 kg,Jonathan Drozd,76.55,117,121,-126,140,146,150,121,150,271
+2015 American Open,2015-12-06,Open Men's 94 kg,Jaime Acuna,86.4,-116,116,119,152,-155,-155,119,152,271
+2015 American Open,2015-12-06,Open Men's 94 kg,Jason Wyns,93.12,-117,-117,117,146,150,154,117,154,271
+2015 American Open,2015-12-06,Open Men's 85 kg,Joshua Gaskins,82.1,120,-123,123,145,148,-152,123,148,271
+2015 American Open,2015-12-06,Open Men's 69 kg,Dominic Stolle,68.8,120,126,-131,145,-151,-151,126,145,271
+2015 American Open,2015-12-06,Open Men's 77 kg,Jeffrey Jenkins,76.24,120,-124,-125,-145,150,-155,120,150,270
+2015 American Open,2015-12-06,Open Men's 94 kg,Derek Norris,91.21,-122,123,128,-141,-141,142,128,142,270
+2015 American Open,2015-12-06,Open Men's 94 kg,Marcio Forleo,92.4,-120,120,-124,-150,150,-160,120,150,270
+2015 American Open,2015-12-06,Open Men's 94 kg,Andrew Butterworth,92.46,112,-116,-116,158,-165,-165,112,158,270
+2015 American Open,2015-12-06,Open Men's 94 kg,Michael Lee,93.57,118,-122,122,-148,148,-151,122,148,270
+2015 American Open,2015-12-06,Open Men's 105 kg,Isaac LaRonge,103.22,115,-120,120,150,-155,-155,120,150,270
+2015 American Open,2015-12-06,Open Men's 105 kg,Zachary Telander,103.28,117,121,-125,145,-149,149,121,149,270
+2015 American Open,2015-12-06,Open Men's 105 kg,Galen Godbey,103.8,125,-130,-130,-145,145,-152,125,145,270
+2015 American Open,2015-12-06,Open Men's 105 kg,Keith Nelson,104.3,120,124,-127,146,-151,-153,124,146,270
+2015 American Open,2015-12-06,Open Men's 105 kg,Ryan Hansen,104.64,115,-120,-120,155,-160,-163,115,155,270
+2015 American Open,2015-12-06,Open Men's 85 kg,Wyatt Ray,81.9,120,-125,-125,150,-155,-155,120,150,270
+2015 American Open,2015-12-06,Open Men's 85 kg,Zackary Burks,84.02,115,120,-123,-150,150,-155,120,150,270
+2015 American Open,2015-12-06,Open Men's 85 kg,Jason Bongard,84.2,110,115,-121,155,-161,-166,115,155,270
+2015 American Open,2015-12-06,Open Men's+105 kg,Christopher Ryan,110.06,-120,120,-123,150,-155,-155,120,150,270
+2015 American Open,2015-12-06,Open Men's+105 kg,Brian Van Gorder,112.59,-120,-120,120,-146,146,150,120,150,270
+2015 American Open,2015-12-06,Open Men's 77 kg,Jeremy Briggs,75.99,-116,117,121,141,-148,148,121,148,269
+2015 American Open,2015-12-06,Open Men's 77 kg,Jeremy Randolph,75.99,110,115,-120,145,150,154,115,154,269
+2015 American Open,2015-12-06,Open Men's 105 kg,Michael Guglielmo,103,-124,124,-128,-145,145,-150,124,145,269
+2015 American Open,2015-12-06,Open Men's 105 kg,Hunter Clark,103.52,118,123,126,-143,143,-148,126,143,269
+2015 American Open,2015-12-06,Open Men's 85 kg,Anthony Kerr,84.1,120,-125,-128,143,149,-155,120,149,269
+2015 American Open,2015-12-06,Open Men's 85 kg,Anthony Villanueva,84.84,-113,-113,113,156,-162,-162,113,156,269
+2015 American Open,2015-12-06,Open Men's+105 kg,Robert Smith,118.17,-116,-116,116,148,-153,153,116,153,269
+2015 American Open,2015-12-06,Open Men's 94 kg,Nathanael Bacott,92.66,116,-121,-121,146,-151,152,116,152,268
+2015 American Open,2015-12-06,Open Men's 105 kg,Charles Purser Jr.,102.74,118,-122,122,138,-145,146,122,146,268
+2015 American Open,2015-12-06,Open Men's 105 kg,Gabriel Erpelding,102.76,121,125,-130,-143,-143,143,125,143,268
+2015 American Open,2015-12-06,Open Men's 105 kg,Joshua Embree,103.8,118,-123,123,145,-150,-150,123,145,268
+2015 American Open,2015-12-06,Open Men's 105 kg,Thomas Sovocool,104.09,110,115,118,-145,150,-155,118,150,268
+2015 American Open,2015-12-06,Open Men's 105 kg,Cody Needham,98.05,-121,121,-130,-147,147,-161,121,147,268
+2015 American Open,2015-12-06,Open Men's 105 kg,Doug Carter,99.28,118,123,-128,145,-150,-150,123,145,268
+2015 American Open,2015-12-06,Open Men's 85 kg,Devin Newsome,82.7,116,-121,121,-144,146,-151,121,146,267
+2015 American Open,2015-12-06,Open Men's 85 kg,Jarred Smith,83.3,115,120,125,-140,142,-150,125,142,267
+2015 American Open,2015-12-06,Open Men's 94 kg,Marc Sobremesana,86.08,-115,115,121,140,145,-150,121,145,266
+2015 American Open,2015-12-06,Open Men's 94 kg,Christian Cottey,92.73,-112,113,-117,-148,153,-158,113,153,266
+2015 American Open,2015-12-06,Open Men's 105 kg,Douglas Piper,100.02,-120,-120,120,-146,146,-150,120,146,266
+2015 American Open,2015-12-06,Open Men's 85 kg,Jeff Rother,84.7,-118,118,121,145,-149,-150,121,145,266
+2015 American Open,2015-12-06,Open Men's 85 kg,Brandon Carlisle,84.9,-115,120,-127,135,146,-153,120,146,266
+2015 American Open,2015-12-06,Open Men's 77 kg,Jason Marks,76.72,115,-120,-120,145,150,-154,115,150,265
+2015 American Open,2015-12-06,Open Men's 77 kg,Cole Mays,76.92,115,120,-123,141,-145,145,120,145,265
+2015 American Open,2015-12-06,Open Men's 94 kg,Andy Ferrazzoli,89.56,115,120,-125,145,-152,-152,120,145,265
+2015 American Open,2015-12-06,Open Men's 105 kg,Eugene Dushin,102.1,110,115,120,140,145,-150,120,145,265
+2015 American Open,2015-12-06,Open Men's 105 kg,Matthew Adamcheck,104.14,115,-118,-118,150,-153,-153,115,150,265
+2015 American Open,2015-12-06,Open Men's 105 kg,Bradon Luedke,104.8,120,-125,-125,145,-150,0,120,145,265
+2015 American Open,2015-12-06,Open Men's 105 kg,Chester Lau,104.8,-110,110,-115,150,155,-160,110,155,265
+2015 American Open,2015-12-06,Open Men's 85 kg,Alexander Carnall,82.6,120,-125,-125,145,-161,-161,120,145,265
+2015 American Open,2015-12-06,Open Men's 85 kg,Brent Hisaka,84.14,120,125,-128,-140,140,-144,125,140,265
+2015 American Open,2015-12-06,Open Men's 85 kg,William Sullivan,84.3,120,125,-130,140,-145,-145,125,140,265
+2015 American Open,2015-12-06,Open Men's 85 kg,Eastman Ho,84.69,110,113,117,140,144,148,117,148,265
+2015 American Open,2015-12-06,Open Men's 77 kg,Emanuel Aponte,75.3,114,119,121,-143,143,-148,121,143,264
+2015 American Open,2015-12-06,Open Men's 77 kg,Justin Devereux,76.44,111,115,-117,144,149,-154,115,149,264
+2015 American Open,2015-12-06,Open Men's 94 kg,Thomas Borak,92.04,121,-126,-126,-143,-143,143,121,143,264
+2015 American Open,2015-12-06,Open Men's 69 kg,Michael Piscopo,68.9,113,-116,116,-148,-148,148,116,148,264
+2015 American Open,2015-12-06,Open Men's 77 kg,Evan Corneliusen,75.76,111,115,118,137,142,145,118,145,263
+2015 American Open,2015-12-06,Open Men's 77 kg,Ryan Hudson,76.27,112,-115,115,148,-155,-155,115,148,263
+2015 American Open,2015-12-06,Open Men's 94 kg,Shaun Tutor,91.83,105,112,118,145,-155,-156,118,145,263
+2015 American Open,2015-12-06,Open Men's 94 kg,Ashton Renshaw,92.2,105,108,111,144,148,152,111,152,263
+2015 American Open,2015-12-06,Open Men's 105 kg,Cameron Poya,104.51,114,118,-120,145,-149,-149,118,145,263
+2015 American Open,2015-12-06,Open Men's 105 kg,Kevin Obermeier,99.2,118,-123,-124,145,-149,-153,118,145,263
+2015 American Open,2015-12-06,Open Men's 85 kg,Mohammad Alruweai,83.1,120,125,-130,138,-144,-144,125,138,263
+2015 American Open,2015-12-06,Open Men's 77 kg,Troy Fries,75.95,112,-116,117,141,145,-148,117,145,262
+2015 American Open,2015-12-06,Open Men's 77 kg,Jorge Diaz,76.28,110,113,116,140,-145,146,116,146,262
+2015 American Open,2015-12-06,Open Men's 94 kg,Charles Keenan,88.47,112,117,121,135,141,-144,121,141,262
+2015 American Open,2015-12-06,Open Men's 94 kg,Herbert Sheppard,93.16,117,119,-123,-143,-143,143,119,143,262
+2015 American Open,2015-12-06,Open Men's 105 kg,Charles Shipman,101.36,118,122,-126,140,-145,-145,122,140,262
+2015 American Open,2015-12-06,Open Men's 105 kg,Michael Gray,97.96,125,-130,-130,-137,137,-142,125,137,262
+2015 American Open,2015-12-06,Open Men's 85 kg,Brian Matero,81.9,110,-115,115,143,147,-150,115,147,262
+2015 American Open,2015-12-06,Open Men's 85 kg,Jason Longfellow,83,-112,-112,112,145,150,-155,112,150,262
+2015 American Open,2015-12-06,Open Men's 94 kg,Nick Anest,88.47,116,-120,120,141,-146,-147,120,141,261
+2015 American Open,2015-12-06,Open Men's 94 kg,Jason Lavoie,90.82,110,115,119,137,-141,142,119,142,261
+2015 American Open,2015-12-06,Open Men's 85 kg,Eric Kea,84.8,112,116,-120,140,145,-150,116,145,261
+2015 American Open,2015-12-06,Open Men's 105 kg,Heaverth Tan,100.24,-107,107,112,137,142,149,112,149,261
+2015 American Open,2015-12-06,Open Men's 77 kg,Lucca Perretti,74.98,112,115,-117,140,145,-150,115,145,260
+2015 American Open,2015-12-06,Open Men's 77 kg,Chris Smith,76.54,114,117,-120,143,-148,-150,117,143,260
+2015 American Open,2015-12-06,Open Men's 94 kg,Andy Garcia,86.6,-113,-113,113,142,145,147,113,147,260
+2015 American Open,2015-12-06,Open Men's 94 kg,Adam White,91.28,110,115,120,-140,-140,140,120,140,260
+2015 American Open,2015-12-06,Open Men's 94 kg,Alexander Morehouse,92.48,110,115,120,140,-145,-149,120,140,260
+2015 American Open,2015-12-06,Open Men's 94 kg,Alexander Skipper,92.8,111,114,-118,141,146,-152,114,146,260
+2015 American Open,2015-12-06,Open Men's 85 kg,Bryan Simeone,77.8,-110,110,120,-140,140,-149,120,140,260
+2015 American Open,2015-12-06,Open Men's 85 kg,William Mann,83.2,115,120,-124,136,-140,140,120,140,260
+2015 American Open,2015-12-06,Open Men's 85 kg,David Bray,83.8,118,-122,122,-138,138,-141,122,138,260
+2015 American Open,2015-12-06,Open Men's 85 kg,John Birkmeier,83.8,105,108,112,137,142,148,112,148,260
+2015 American Open,2015-12-06,Open Men's 85 kg,Jeremy Ware,84,-115,115,-120,145,-151,-151,115,145,260
+2015 American Open,2015-12-06,Open Men's 85 kg,Cole Willison,84.2,-100,108,112,140,-145,148,112,148,260
+2015 American Open,2015-12-06,Open Men's 85 kg,Elio Sanchez,84.59,-113,113,115,141,145,-152,115,145,260
+2015 American Open,2015-12-06,Open Men's 85 kg,Benjamin Sawyer,84.7,115,120,-125,140,-145,-145,120,140,260
+2015 American Open,2015-12-06,Open Men's 94 kg,Dan Smith,89.29,112,116,119,135,140,-144,119,140,259
+2015 American Open,2015-12-06,Open Men's 94 kg,Nicholas Scudamore,90.82,110,-114,114,145,-152,-152,114,145,259
+2015 American Open,2015-12-06,Open Men's 94 kg,Michael Draper,92.16,108,113,-120,141,146,-150,113,146,259
+2015 American Open,2015-12-06,Open Men's 94 kg,Nathan Doud,92.86,111,-115,118,141,-145,-149,118,141,259
+2015 American Open,2015-12-06,Open Men's 94 kg,Christopher Clyde,93.3,-119,119,-123,136,140,-143,119,140,259
+2015 American Open,2015-12-06,Open Men's 85 kg,Blake Aulds,81.4,111,116,-120,140,143,-146,116,143,259
+2015 American Open,2015-12-06,Open Men's 85 kg,Daniel Billian,83.7,-110,110,116,134,140,143,116,143,259
+2015 American Open,2015-12-06,Open Men's 69 kg,Uli Manzanilla,68.8,108,-113,-113,151,0,0,108,151,259
+2015 American Open,2015-12-06,Open Men's 94 kg,Steven Velkovski,89.9,110,113,-117,-140,140,145,113,145,258
+2015 American Open,2015-12-06,Open Men's 94 kg,Aaron Martinez,90.28,111,-114,-114,143,147,-151,111,147,258
+2015 American Open,2015-12-06,Open Men's 94 kg,Regan Young,91.7,115,-120,-120,-143,-143,143,115,143,258
+2015 American Open,2015-12-06,Open Men's 94 kg,Matthew Barker,93.41,-118,118,-123,140,-145,-145,118,140,258
+2015 American Open,2015-12-06,Open Men's 105 kg,Eugene Shem,94,108,113,118,140,-147,-147,118,140,258
+2015 American Open,2015-12-06,Open Men's 85 kg,Craig Rintoul,82.88,113,-117,-117,140,-145,145,113,145,258
+2015 American Open,2015-12-06,Open Men's 85 kg,Jonathan Cybulski,84.29,-112,-112,113,138,-144,145,113,145,258
+2015 American Open,2015-12-06,Open Men's 85 kg,Garrett Geisbush,84.4,121,-126,-128,137,-143,-145,121,137,258
+2015 American Open,2015-12-06,Open Men's 77 kg,Anthony Altobell,75.49,108,114,-116,-140,143,-150,114,143,257
+2015 American Open,2015-12-06,Open Men's 94 kg,Alex Cadmus,93.04,112,-116,-116,145,-150,-150,112,145,257
+2015 American Open,2015-12-06,Open Men's 85 kg,Geoffrey Steinbacher,82.2,105,110,115,135,142,-150,115,142,257
+2015 American Open,2015-12-06,Open Men's 85 kg,Robert Hall,82.99,-117,117,-122,133,140,-143,117,140,257
+2015 American Open,2015-12-06,Open Men's 85 kg,Alvie Hafen,83.3,110,-115,-115,-143,143,147,110,147,257
+2015 American Open,2015-12-06,Open Men's 85 kg,Matthew Morrison,84.3,105,109,-114,137,142,148,109,148,257
+2015 American Open,2015-12-06,Open Men's 85 kg,Lizandro De Leon,84.4,110,-114,115,135,139,142,115,142,257
+2015 American Open,2015-12-06,Open Men's 85 kg,Robert Arroyo,84.8,113,-118,-118,137,141,144,113,144,257
+2015 American Open,2015-12-06,Open Men's 77 kg,John Pak,75.4,112,115,118,138,-142,-143,118,138,256
+2015 American Open,2015-12-06,Open Men's 77 kg,Anthony Ho,76.2,116,-121,-121,-140,140,-153,116,140,256
+2015 American Open,2015-12-06,Open Men's 77 kg,Travis Parkyn,76.3,108,111,-116,141,145,-150,111,145,256
+2015 American Open,2015-12-06,Open Men's 77 kg,Justin Eicholtz,76.75,-112,112,-115,144,-150,-150,112,144,256
+2015 American Open,2015-12-06,Open Men's 94 kg,C.J Charles,93.11,112,-116,-116,-143,143,144,112,144,256
+2015 American Open,2015-12-06,Open Men's 85 kg,Martin Stern,83.8,-112,-112,112,144,-150,-150,112,144,256
+2015 American Open,2015-12-06,Open Men's 69 kg,Marcus Carrasco,68.8,-110,110,114,138,142,-146,114,142,256
+2015 American Open,2015-12-06,Open Men's 77 kg,Andrew Allen,73.06,107,111,-116,136,140,144,111,144,255
+2015 American Open,2015-12-06,Open Men's 77 kg,Nikolai Kaganovitch,75.24,118,-123,-123,130,137,-142,118,137,255
+2015 American Open,2015-12-06,Open Men's 94 kg,Eric Proe,89.42,-110,-110,110,145,-150,-150,110,145,255
+2015 American Open,2015-12-06,Open Men's 85 kg,Sam Ernst,80.1,-114,114,118,-137,137,-143,118,137,255
+2015 American Open,2015-12-06,Open Men's 85 kg,Andy Wickizer,82.2,107,-112,112,-143,-143,143,112,143,255
+2015 American Open,2015-12-06,Open Men's 85 kg,Vlad Iliescu,82.2,109,-112,-112,141,146,-148,109,146,255
+2015 American Open,2015-12-06,Open Men's 85 kg,Michael Zoda,82.2,108,112,-115,135,140,143,112,143,255
+2015 American Open,2015-12-06,Open Men's 85 kg,John Deane,83.3,105,110,112,135,140,143,112,143,255
+2015 American Open,2015-12-06,Open Men's 85 kg,Travis Westmoreland,83.5,115,-118,-118,135,140,-145,115,140,255
+2015 American Open,2015-12-06,Open Men's 85 kg,Joe Brown,83.5,-108,110,-113,-140,-142,145,110,145,255
+2015 American Open,2015-12-06,Open Men's 85 kg,Andre Jordan,83.7,110,113,117,138,-142,-143,117,138,255
+2015 American Open,2015-12-06,Open Men's 85 kg,Bailey DiMenna,84.1,115,-122,-122,140,-146,-147,115,140,255
+2015 American Open,2015-12-06,Open Men's 94 kg,Matt Johnson,92.95,-113,114,-120,-133,135,140,114,140,254
+2015 American Open,2015-12-06,Open Men's 85 kg,Nicolas Herrera,83.9,-105,-108,108,140,-146,146,108,146,254
+2015 American Open,2015-12-06,Open Men's 85 kg,Andrew Resendez,85,115,-119,-121,136,-139,139,115,139,254
+2015 American Open,2015-12-06,Open Men's 77 kg,Kyonte Johnson,75.88,-108,-108,108,140,145,-150,108,145,253
+2015 American Open,2015-12-06,Open Men's 94 kg,Andrew Cifelli,90.76,113,118,-121,135,-140,-140,118,135,253
+2015 American Open,2015-12-06,Open Men's 85 kg,Jonathan Proctor,83.2,-112,112,118,135,-142,-142,118,135,253
+2015 American Open,2015-12-06,Open Men's 77 kg,Taylor Nox,76.87,-112,112,-115,135,140,-145,112,140,252
+2015 American Open,2015-12-06,Open Men's 105 kg,Jackson Nguyen,101.43,114,-119,-120,-138,138,-144,114,138,252
+2015 American Open,2015-12-06,Open Men's 85 kg,Garrick Sargento,83.3,105,110,-116,137,142,-148,110,142,252
+2015 American Open,2015-12-06,Open Men's 85 kg,Minh Tran,83.4,113,-117,-118,132,136,139,113,139,252
+2015 American Open,2015-12-06,Open Men's 85 kg,Joseph Luplow,83.8,102,-107,107,140,145,-151,107,145,252
+2015 American Open,2015-12-06,Open Men's 85 kg,max dallman,83.8,105,111,116,136,0,0,116,136,252
+2015 American Open,2015-12-06,Open Men's 85 kg,Jonathan ONeill,84.9,111,116,-120,136,-142,-142,116,136,252
+2015 American Open,2015-12-06,Open Men's 62 kg,Sean Hutchinson,61.77,108,113,116,135,-140,-143,116,135,251
+2015 American Open,2015-12-06,Open Men's 85 kg,Aaron Horschig,82.5,107,-112,-113,144,-148,-150,107,144,251
+2015 American Open,2015-12-06,Open Men's 85 kg,Trevor Peterson,83.7,107,-112,114,137,-141,-141,114,137,251
+2015 American Open,2015-12-06,Open Men's 85 kg,Nick Shappee,84.1,111,-115,-115,140,-145,-146,111,140,251
+2015 American Open,2015-12-06,Open Men's 77 kg,Jsymel Tiongson,75.49,110,115,-118,135,-138,-138,115,135,250
+2015 American Open,2015-12-06,Open Men's 77 kg,Vitaliy Lazarenko,76,-120,-120,120,-130,130,-140,120,130,250
+2015 American Open,2015-12-06,Open Men's 77 kg,Soki Bryant,76.3,110,115,-120,135,-140,-141,115,135,250
+2015 American Open,2015-12-06,Open Men's 94 kg,Larry Carroll,91.46,110,-115,-115,135,140,-143,110,140,250
+2015 American Open,2015-12-06,Open Men's 94 kg,Jeb Simmons,92.1,105,110,-115,135,140,-147,110,140,250
+2015 American Open,2015-12-06,Open Men's 94 kg,Andrew Ettinger,92.62,115,-120,-120,135,-140,-140,115,135,250
+2015 American Open,2015-12-06,Open Men's 94 kg,Zachary Seward,93.2,105,-111,-111,145,-152,-155,105,145,250
+2015 American Open,2015-12-06,Open Men's 94 kg,Vincent Som,93.4,110,-114,-115,140,-145,-145,110,140,250
+2015 American Open,2015-12-06,Open Men's 85 kg,Merrek Peters,81.3,100,105,108,142,-147,-147,108,142,250
+2015 American Open,2015-12-06,Open Men's 85 kg,Mitchell Policky,81.5,110,-117,-117,-140,140,-146,110,140,250
+2015 American Open,2015-12-06,Open Men's 85 kg,Tommy Flanagan,81.9,-110,113,-118,137,-141,-141,113,137,250
+2015 American Open,2015-12-06,Open Men's 85 kg,Timothy DeAraujo,83.4,105,110,-113,135,140,-143,110,140,250
+2015 American Open,2015-12-06,Open Men's 69 kg,Melvin Peete,67.4,-110,110,-115,135,140,-145,110,140,250
+2015 American Open,2015-12-06,Open Men's 85 kg,Darren Hansen,83.5,-115,115,-123,-132,135,-140,115,135,250
+2015 American Open,2015-12-06,Open Men's 69 kg,William Cohen,68.4,-113,113,-116,133,137,-143,113,137,250
+2015 American Open,2015-12-06,Open Men's 85 kg,Jesse Rhoades,84.3,110,113,-117,132,137,-144,113,137,250
+2015 American Open,2015-12-06,Open Men's 85 kg,Kevin O'Fallon,84.5,110,-115,-115,-135,135,140,110,140,250
+2015 American Open,2015-12-06,Open Men's 85 kg,Tyler Smith,84.6,-110,110,-112,137,-140,140,110,140,250
+2015 American Open,2015-12-06,Open Men's 77 kg,John Giacalone,76.25,108,112,-115,137,-142,-142,112,137,249
+2015 American Open,2015-12-06,Open Men's 94 kg,David Lee,93.14,110,114,-118,135,-140,-140,114,135,249
+2015 American Open,2015-12-06,Open Men's 77 kg,Carlos Hernandez,75.01,104,108,-111,135,140,-143,108,140,248
+2015 American Open,2015-12-06,Open Men's 77 kg,Ken Toal,75.42,-110,-113,113,-135,135,-140,113,135,248
+2015 American Open,2015-12-06,Open Women's +75 Kg,Marissa Klingseis,101.82,102,106,108,132,138,140,108,140,248
+2015 American Open,2015-12-06,Open Men's 85 kg,Jeff Papenberg,82.5,-110,-110,110,-137,-137,138,110,138,248
+2015 American Open,2015-12-06,Open Men's 85 kg,Dominic Defiesta,82.6,109,115,-120,133,-137,-137,115,133,248
+2015 American Open,2015-12-06,Open Men's 85 kg,Karl Johnson,83.2,105,109,-114,134,139,-146,109,139,248
+2015 American Open,2015-12-06,Open Men's 85 kg,Kristopher Smith,83.6,110,116,-120,128,132,-140,116,132,248
+2015 American Open,2015-12-06,Open Men's 85 kg,Christopher Knizewski,83.8,108,-111,112,136,-141,-142,112,136,248
+2015 American Open,2015-12-06,Open Men's 77 kg,Kyle Donahue,74.66,-110,110,114,133,-140,-142,114,133,247
+2015 American Open,2015-12-06,Open Men's 85 kg,Mykle Shaulis,84.4,110,114,117,125,130,0,117,130,247
+2015 American Open,2015-12-06,Open Men's 85 kg,Christopher Taber,83.2,112,-118,-118,135,-140,-140,112,135,247
+2015 American Open,2015-12-06,Open Men's 85 kg,Matthew Tapply,83.4,107,-111,-111,135,-139,140,107,140,247
+2015 American Open,2015-12-06,Open Men's 77 kg,Domenic Aversa,76.46,105,108,-111,138,-141,-142,108,138,246
+2015 American Open,2015-12-06,Open Men's 94 kg,John Sheffield,93.9,111,116,-121,-130,130,-137,116,130,246
+2015 American Open,2015-12-06,Open Men's 69 kg,Jake Dickerson,68.3,-107,107,111,-134,135,-139,111,135,246
+2015 American Open,2015-12-06,Open Men's 69 kg,Alvin Tajima,68.4,-108,109,-113,137,-142,-142,109,137,246
+2015 American Open,2015-12-06,Open Men's 85 kg,KEVIN FRAME,83.7,108,111,-115,135,-140,-141,111,135,246
+2015 American Open,2015-12-06,Open Men's 85 kg,Jonathan Domin,83.9,-111,-111,111,132,-135,135,111,135,246
+2015 American Open,2015-12-06,Open Men's 85 kg,Aaron Prenger,84.2,-111,111,-120,135,-140,-140,111,135,246
+2015 American Open,2015-12-06,Open Men's 77 kg,Hyun Cho,74.93,-100,-104,104,132,137,141,104,141,245
+2015 American Open,2015-12-06,Open Men's 77 kg,Nathan Reyes,76.12,106,109,-112,136,-139,-139,109,136,245
+2015 American Open,2015-12-06,Open Men's 85 kg,Alex Maclin,83.4,105,110,-114,135,-139,-139,110,135,245
+2015 American Open,2015-12-06,Open Men's 85 kg,Murphy Wilson,83.5,110,-115,-115,135,-140,-140,110,135,245
+2015 American Open,2015-12-06,Open Men's 69 kg,Ryan Sebastian,67.74,100,105,108,131,-136,136,108,136,244
+2015 American Open,2015-12-06,Open Men's 69 kg,Lyall Irwin,68.33,105,-108,108,133,136,-138,108,136,244
+2015 American Open,2015-12-06,Open Men's 85 kg,Michael Reinhardt,83,105,108,111,133,-137,-137,111,133,244
+2015 American Open,2015-12-06,Open Men's 85 kg,Forrest Agee,83.7,-108,108,-113,136,-142,-142,108,136,244
+2015 American Open,2015-12-06,Open Men's 77 kg,Ariel Sandoval,75.38,100,-105,105,130,136,138,105,138,243
+2015 American Open,2015-12-06,Open Men's 77 kg,Jimmy Marquez,76.72,103,108,-112,135,-140,-142,108,135,243
+2015 American Open,2015-12-06,Open Men's 69 kg,Ernie Prempeh,68.36,100,105,-110,-133,133,138,105,138,243
+2015 American Open,2015-12-06,Open Men's 85 kg,Eric Cicci,82.9,-111,111,-114,127,132,-136,111,132,243
+2015 American Open,2015-12-06,Open Men's 85 kg,Dean Saddoris,81.1,-107,107,112,130,-135,-135,112,130,242
+2015 American Open,2015-12-06,Open Men's 85 kg,Austin Shockey,83.9,105,110,-115,132,-139,-140,110,132,242
+2015 American Open,2015-12-06,Open Men's 85 kg,Tim Strauch,84.1,-108,-108,109,133,-137,-137,109,133,242
+2015 American Open,2015-12-06,Open Men's 77 kg,Nick Miner,76.38,103,106,109,132,-136,-136,109,132,241
+2015 American Open,2015-12-06,Open Men's 69 kg,Derek Nguyen,68.67,104,-108,109,-132,132,-137,109,132,241
+2015 American Open,2015-12-06,Open Men's 85 kg,Benjamin Eischens,82.6,107,111,-115,130,-135,-135,111,130,241
+2015 American Open,2015-12-06,Open Men's 85 kg,Aaron Wolf,84,105,-108,-108,136,-140,-142,105,136,241
+2015 American Open,2015-12-06,Open Men's 85 kg,Brian Bender,84.6,106,-109,-110,135,-141,-141,106,135,241
+2015 American Open,2015-12-06,Open Men's 77 kg,Jai Luna,70.84,-101,105,-110,128,-134,135,105,135,240
+2015 American Open,2015-12-06,Open Men's 77 kg,Vinnie Hoffman,75.24,105,-108,-109,135,-140,-140,105,135,240
+2015 American Open,2015-12-06,Open Men's 77 kg,Sergio Mendez-Roca,75.66,-105,105,-112,135,-141,-141,105,135,240
+2015 American Open,2015-12-06,Open Men's 77 kg,Greg Huth,76.1,106,-111,111,129,-132,-133,111,129,240
+2015 American Open,2015-12-06,Open Men's 77 kg,Michael Di Giorgio,76.68,110,-115,-117,-130,130,-137,110,130,240
+2015 American Open,2015-12-06,Open Men's 77 kg,Cole Fandale,76.74,100,-105,-105,130,135,140,100,140,240
+2015 American Open,2015-12-06,Open Men's 69 kg,Blake Barnes,67.5,104,108,-112,132,-137,-137,108,132,240
+2015 American Open,2015-12-06,Open Men's 69 kg,Jonathan Saxton,68.87,103,-106,106,134,-137,-140,106,134,240
+2015 American Open,2015-12-06,Open Men's 85 kg,Mark Kowalczyk,83.7,105,110,-113,-130,130,-137,110,130,240
+2015 American Open,2015-12-06,Open Men's 85 kg,Jacob Briskin,84.5,105,-109,-109,130,-135,135,105,135,240
+2015 American Open,2015-12-06,Open Men's 77 kg,Willie Day,75.3,-102,-104,104,128,132,135,104,135,239
+2015 American Open,2015-12-06,Open Men's 77 kg,James Kuhlman,75.56,98,104,-107,135,-140,-140,104,135,239
+2015 American Open,2015-12-06,Open Men's 69 kg,Anthony Konas,68.47,101,-106,-106,135,138,-145,101,138,239
+2015 American Open,2015-12-06,Open Men's 85 kg,Andrew Eischens,83.6,109,-114,-114,-130,-130,130,109,130,239
+2015 American Open,2015-12-06,Open Men's 85 kg,Nicholas Bailey,83.9,102,105,-106,129,134,0,105,134,239
+2015 American Open,2015-12-06,Open Men's 85 kg,Jeremy Fabregas,84.3,-108,108,-112,131,-136,-137,108,131,239
+2015 American Open,2015-12-06,Open Men's 77 kg,Benjamin Hicks,73.68,103,-107,-107,133,135,-137,103,135,238
+2015 American Open,2015-12-06,Open Men's 85 kg,Joshua Levinson,83.2,95,103,-108,135,-141,-142,103,135,238
+2015 American Open,2015-12-06,Open Men's 85 kg,Austin Newman,84.2,103,-107,-110,131,135,-139,103,135,238
+2015 American Open,2015-12-06,Open Men's 77 kg,Tyler Lonjin,76.06,102,107,-112,-130,130,-134,107,130,237
+2015 American Open,2015-12-06,Open Men's 77 kg,Roger Gesswein,76.38,107,-112,-112,-130,130,-136,107,130,237
+2015 American Open,2015-12-06,Open Men's 77 kg,Chance Valentine,76.56,100,-105,105,132,-135,-135,105,132,237
+2015 American Open,2015-12-06,Open Men's 62 kg,John Stang,61,102,-107,107,-130,130,0,107,130,237
+2015 American Open,2015-12-06,Open Men's 69 kg,Bernabe Chavez,68.98,104,-107,-107,-133,-133,133,104,133,237
+2015 American Open,2015-12-06,Open Men's 77 kg,Marcus Diaz,75.48,-100,101,-103,130,-135,135,101,135,236
+2015 American Open,2015-12-06,Open Men's 77 kg,Nick Ramsey,76.46,102,-106,-106,134,-140,-140,102,134,236
+2015 American Open,2015-12-06,Open Men's 77 kg,Keith Bombar,76.52,103,106,-110,-130,130,-136,106,130,236
+2015 American Open,2015-12-06,Open Men's 69 kg,Matthew Marshall,68.64,95,100,-103,125,130,136,100,136,236
+2015 American Open,2015-12-06,Open Men's 77 kg,Vincent Crupi,75.28,100,-105,-105,135,-140,-140,100,135,235
+2015 American Open,2015-12-06,Open Men's 77 kg,Patrick Steele,76.56,101,-105,105,125,130,-133,105,130,235
+2015 American Open,2015-12-06,Open Men's 85 kg,Kongmong Vanchiasong,84.7,100,103,106,122,126,129,106,129,235
+2015 American Open,2015-12-06,Open Men's 69 kg,Dimitri Kaganovitch,68.5,100,103,107,123,-128,128,107,128,235
+2015 American Open,2015-12-06,Open Men's 85 kg,Wyatt Quintero,82.8,105,-108,-108,130,-137,-137,105,130,235
+2015 American Open,2015-12-06,Open Men's 85 kg,Jonathan Poole,84,-105,105,-110,-130,130,-138,105,130,235
+2015 American Open,2015-12-06,Open Men's 69 kg,Keith Weitz,68.93,100,-104,104,-130,130,-134,104,130,234
+2015 American Open,2015-12-06,Open Men's 85 kg,Roman Rodriguez,82.2,107,-109,109,125,-128,-128,109,125,234
+2015 American Open,2015-12-06,Open Men's 85 kg,Connor Malone,83.5,-106,106,-108,128,-132,-132,106,128,234
+2015 American Open,2015-12-06,Open Men's 77 kg,Anthony McLaughlin,72,100,104,-107,-128,129,-132,104,129,233
+2015 American Open,2015-12-06,Open Men's 77 kg,Jayson Manuta,75.66,100,-107,-107,-130,130,133,100,133,233
+2015 American Open,2015-12-06,Open Men's 77 kg,Grant Harper,76.42,-103,103,-108,-125,125,130,103,130,233
+2015 American Open,2015-12-06,Open Men's 77 kg,Michael Leon,76.84,-103,103,-107,130,-135,-135,103,130,233
+2015 American Open,2015-12-06,Open Men's 77 kg,Joseph Mackie,75.8,-94,-94,95,133,-137,137,95,137,232
+2015 American Open,2015-12-06,Open Men's 77 kg,Jonathan Greg,75.84,100,105,-107,120,125,127,105,127,232
+2015 American Open,2015-12-06,Open Men's 77 kg,Carlton Long,76.22,102,-106,-110,130,-134,-135,102,130,232
+2015 American Open,2015-12-06,Open Men's 77 kg,James Aftosmis,76.26,95,-99,99,-128,128,133,99,133,232
+2015 American Open,2015-12-06,Open Men's 62 kg,Kenny Wilkins,61.5,-102,102,-106,127,-130,130,102,130,232
+2015 American Open,2015-12-06,Open Men's 77 kg,Jeremy Graves,74.54,98,-102,-102,128,133,0,98,133,231
+2015 American Open,2015-12-06,Open Men's 77 kg,Troy Domstead,75.96,-101,101,-103,-126,127,130,101,130,231
+2015 American Open,2015-12-06,Open Men's 69 kg,Van Nguyen,68.6,99,103,-106,128,-131,-131,103,128,231
+2015 American Open,2015-12-06,Open Men's 77 kg,Colton Kelley,75.5,97,100,-103,125,-129,130,100,130,230
+2015 American Open,2015-12-06,Open Men's 77 kg,Joseph Garcia,76,-102,-103,103,127,-130,-132,103,127,230
+2015 American Open,2015-12-06,Open Men's 69 kg,Nicholas Hurndon,68.37,101,-105,105,123,125,-130,105,125,230
+2015 American Open,2015-12-06,Open Men's 69 kg,Guillermo Fernandez,68.39,-100,100,-104,125,130,-133,100,130,230
+2015 American Open,2015-12-06,Open Men's 69 kg,Tony Thai,68.79,99,102,105,125,-129,-129,105,125,230
+2015 American Open,2015-12-06,Open Men's 69 kg,George Hanna,68.8,105,-109,-110,125,-130,0,105,125,230
+2015 American Open,2015-12-06,Open Men's 85 kg,Jorge Reyes,83.3,100,-105,-105,130,0,0,100,130,230
+2015 American Open,2015-12-06,Open Men's 62 kg,Tri Phu,61.56,-106,-106,106,123,-127,-127,106,123,229
+2015 American Open,2015-12-06,Open Men's 77 kg,James Kane,75.4,100,103,-107,120,125,-130,103,125,228
+2015 American Open,2015-12-06,Open Men's 69 kg,Samuel Moncivaez,67.79,-100,100,-105,128,-132,-132,100,128,228
+2015 American Open,2015-12-06,Open Men's 77 kg,Bailey Druck,76.74,100,107,-110,-120,120,-125,107,120,227
+2015 American Open,2015-12-06,Open Men's 69 kg,Emerson Knoebel,68.62,101,-105,-108,122,126,-132,101,126,227
+2015 American Open,2015-12-06,Open Men's 69 kg,Steve Yanda,68.68,97,-102,102,120,125,-130,102,125,227
+2015 American Open,2015-12-06,Open Men's 69 kg,Anthony Marinola,68.52,93,96,99,119,123,127,99,127,226
+2015 American Open,2015-12-06,Open Men's 69 kg,John Bova,68.85,95,98,101,118,122,125,101,125,226
+2015 American Open,2015-12-06,Open Men's 77 kg,Michael Ficarro,75.14,-101,-101,101,124,-128,-129,101,124,225
+2015 American Open,2015-12-06,Open Men's 77 kg,Aaron Gatdula,75.26,95,100,-105,-120,125,-130,100,125,225
+2015 American Open,2015-12-06,Open Men's 77 kg,Alex Tellechea,75.72,-103,104,-106,121,-126,-126,104,121,225
+2015 American Open,2015-12-06,Open Men's 77 kg,Camilo Gutierrez,76.16,-95,-95,95,125,130,-137,95,130,225
+2015 American Open,2015-12-06,Open Men's 77 kg,Joshua Santiago,76.28,100,-103,-103,-125,-125,125,100,125,225
+2015 American Open,2015-12-06,Open Men's 77 kg,Matthew DiDonato,76.94,-105,105,-106,120,-125,-125,105,120,225
+2015 American Open,2015-12-06,Open Men's 77 kg,Aaron Glean-Sealey,76.98,100,-104,105,115,120,-127,105,120,225
+2015 American Open,2015-12-06,Open Men's 77 kg,Blake Dunson,76.98,-100,-100,100,125,-129,-129,100,125,225
+2015 American Open,2015-12-06,Open Men's 62 kg,Andrew Cheung,58.7,95,-101,101,-124,124,-128,101,124,225
+2015 American Open,2015-12-06,Open Men's 69 kg,Jeffrey Edwards,67.98,-100,-100,100,115,120,125,100,125,225
+2015 American Open,2015-12-06,Open Men's 69 kg,Rolland Fayssoux,68.28,95,-99,100,119,-125,125,100,125,225
+2015 American Open,2015-12-06,Open Men's 69 kg,Justin Jindra,68.53,95,-99,99,120,-126,126,99,126,225
+2015 American Open,2015-12-06,Open Men's 69 kg,Nathan Weamer,66.94,-94,-94,94,120,125,130,94,130,224
+2015 American Open,2015-12-06,Open Men's 69 kg,Christopher Yang,67.87,91,-96,96,121,-125,128,96,128,224
+2015 American Open,2015-12-06,Open Men's 77 kg,Cesar Valdez,76.46,100,-105,-105,123,-128,-130,100,123,223
+2015 American Open,2015-12-06,Open Men's 77 kg,Nicholas Cousino,76.74,97,101,-105,118,122,-125,101,122,223
+2015 American Open,2015-12-06,Open Men's 69 kg,Jerry Rodriguez,68.78,96,101,-104,-122,-122,122,101,122,223
+2015 American Open,2015-12-06,Open Men's 62 kg,Jesse Rodriguez,61.9,90,94,97,118,123,125,97,125,222
+2015 American Open,2015-12-06,Open Men's 69 kg,Christian Chiong,67.73,96,100,-104,121,-125,-125,100,121,221
+2015 American Open,2015-12-06,Open Men's 69 kg,Justin Eberhart,68,101,-106,-106,120,-125,-125,101,120,221
+2015 American Open,2015-12-06,Open Men's 77 kg,Ming Loo,75.6,95,-99,99,115,120,-125,99,120,219
+2015 American Open,2015-12-06,Open Men's 69 kg,James Chris Tioseco,67.64,90,-93,94,120,125,-132,94,125,219
+2015 American Open,2015-12-06,Open Men's 69 kg,Martin Peralta,67.9,92,96,-100,-123,-123,123,96,123,219
+2015 American Open,2015-12-06,Open Men's 69 kg,Frank Volrath,68.33,95,-100,100,118,-123,-123,100,118,218
+2015 American Open,2015-12-06,Open Men's 69 kg,Andres Aleman,68.18,91,94,97,-120,-120,120,97,120,217
+2015 American Open,2015-12-06,Open Men's 69 kg,Jaymen Luna,66.57,90,-95,-96,121,125,-129,90,125,215
+2015 American Open,2015-12-06,Open Men's 69 kg,Jeremy Jones,68.89,97,-101,-101,-117,117,-121,97,117,214
+2015 American Open,2015-12-06,Open Women's +75 Kg,Alexandria Ludwig,91.88,-90,90,92,116,120,-132,92,120,212
+2015 American Open,2015-12-06,Open Women's 75 kg,Jessie Stemo,72.95,94,97,99,112,-117,-117,99,112,211
+2015 American Open,2015-12-06,Open Women's 75 kg,Jessica Phillips,74.82,90,93,-96,110,114,118,93,118,211
+2015 American Open,2015-12-06,Open Men's 69 kg,Chad Schreiner,67.64,90,-93,93,115,118,-121,93,118,211
+2015 American Open,2015-12-06,Open Men's 77 kg,Fredrick Nunn,73.51,-85,85,90,120,-125,-125,90,120,210
+2015 American Open,2015-12-06,Open Men's 69 kg,Eduardo Kerese,68.58,-90,90,-100,-120,120,-126,90,120,210
+2015 American Open,2015-12-06,Open Women's +75 Kg,Vanessa Frost,98.64,87,92,-94,116,-120,-121,92,116,208
+2015 American Open,2015-12-06,Open Men's 69 kg,Mike Rosewell,67.68,-90,90,-95,118,-121,-123,90,118,208
+2015 American Open,2015-12-06,Open Men's 62 kg,Aaron Rivero,61.4,86,-90,91,112,116,-119,91,116,207
+2015 American Open,2015-12-06,Men's 14-15 Age Group 62 kg,Jerome Smith,61.09,88,92,-95,-110,110,115,92,115,207
+2015 American Open,2015-12-06,Open Men's 69 kg,Matt Britt,68.72,85,90,-95,111,114,-118,90,114,204
+2015 American Open,2015-12-06,Open Women's +75 Kg,Loree Thornton,81,85,-89,89,105,110,115,89,115,204
+2015 American Open,2015-12-06,Open Men's 56 kg,Brian Reisenauer,55.72,90,94,-98,-110,110,-122,94,110,204
+2015 American Open,2015-12-06,Open Men's 62 kg,Jonathan Mendoza,61.2,85,89,-93,115,-120,-121,89,115,204
+2015 American Open,2015-12-06,Open Men's 62 kg,Alex LeFavi,61.7,88,91,93,-111,111,-114,93,111,204
+2015 American Open,2015-12-06,Open Women's 75 kg,Amy Ferraris,72.84,86,89,92,110,-115,-116,92,110,202
+2015 American Open,2015-12-06,Open Women's 75 kg,Rebecca Gerdon,74.48,88,91,-93,-110,-110,110,91,110,201
+2015 American Open,2015-12-06,Open Women's +75 Kg,KJAYLA MARTIN,96.98,82,85,87,105,110,114,87,114,201
+2015 American Open,2015-12-06,Men's 14-15 Age Group 56 Kg,Jerrone Wynn,55.78,86,-89,-89,110,113,115,86,115,201
+2015 American Open,2015-12-06,Open Women's 63 kg,Maddy Myers,61.6,82,-85,86,110,114,-117,86,114,200
+2015 American Open,2015-12-06,Open Women's +75 Kg,Rachael Davis,87.78,-88,88,-91,-105,108,112,88,112,200
+2015 American Open,2015-12-06,Open Men's 62 kg,Brennan Koeller,60.8,87,-90,90,-110,110,-112,90,110,200
+2015 American Open,2015-12-06,Open Women's 69 kg,Danielle Hudes,68.07,86,89,-92,-106,106,110,89,110,199
+2015 American Open,2015-12-06,Women's 16-17 Age Group +75 kg,Shala McMillan,126.66,84,89,-94,105,110,-115,89,110,199
+2015 American Open,2015-12-06,Open Men's 62 kg,Aaron Powell,61.5,-87,87,-92,-111,111,-117,87,111,198
+2015 American Open,2015-12-06,Open Women's 63 kg,Cecily Basques,62.84,80,82,84,105,109,113,84,113,197
+2015 American Open,2015-12-06,Open Women's +75 Kg,Angela Duvane,111.38,-86,-87,87,106,110,-114,87,110,197
+2015 American Open,2015-12-06,Open Women's 58 kg,Jessica Lucero,57.9,87,90,92,105,-109,-109,92,105,197
+2015 American Open,2015-12-06,Open Women's 63 kg,Vanessa McCoy,62.82,85,88,-91,108,-112,-113,88,108,196
+2015 American Open,2015-12-06,Open Men's 77 kg,Devon Erwin,72.04,88,-90,-90,-106,107,-109,88,107,195
+2015 American Open,2015-12-06,Open Women's 58 kg,Sarabeth Jumper,57.74,82,85,87,102,107,-110,87,107,194
+2015 American Open,2015-12-06,Open Women's 69 kg,Sylvia Hoffman,68.71,-82,-82,83,100,105,109,83,109,192
+2015 American Open,2015-12-06,Open Women's 75 kg,Alessandra Pichelli,74.16,84,-88,-90,-103,103,108,84,108,192
+2015 American Open,2015-12-06,Open Women's +75 Kg,Tiffany Vu,102.09,-79,79,81,105,108,111,81,111,192
+2015 American Open,2015-12-06,Open Men's 56 kg,Michael Berhane,54.96,-86,-86,87,105,0,0,87,105,192
+2015 American Open,2015-12-06,Open Women's 75 kg,Tayler Harris,72.06,78,82,-86,104,109,-114,82,109,191
+2015 American Open,2015-12-06,Open Women's 75 kg,Alexandra LaChance,74.44,77,84,88,93,98,102,88,102,190
+2015 American Open,2015-12-06,Open Men's 77 kg,Nathan Prokop,71.35,70,75,80,100,105,110,80,110,190
+2015 American Open,2015-12-06,Open Women's +75 Kg,Ashley Stephens,113.28,80,84,-88,100,105,-109,84,105,189
+2015 American Open,2015-12-06,Open Women's 63 kg,Jennyfer Roberts,61.52,80,-83,84,98,104,-107,84,104,188
+2015 American Open,2015-12-06,Open Women's 69 kg,Amanda DeBlauw,67.91,81,84,86,100,102,-104,86,102,188
+2015 American Open,2015-12-06,Men's 13 Under Age Group 69 Kg,Dade Stanley,66.19,76,81,83,97,102,105,83,105,188
+2015 American Open,2015-12-06,Open Women's 63 kg,Heather Farmer,62.68,-81,81,-85,-103,103,106,81,106,187
+2015 American Open,2015-12-06,Open Women's 75 kg,Emily Merritt,74.58,77,-81,83,100,104,-110,83,104,187
+2015 American Open,2015-12-06,Open Women's 53 kg,Charis Chan,52.84,84,86,-88,101,-105,-105,86,101,187
+2015 American Open,2015-12-06,Open Women's 69 kg,Allison Truscheit,65.15,-83,84,88,98,-102,-102,88,98,186
+2015 American Open,2015-12-06,Open Women's 69 kg,Natalie Johnson,68.28,80,83,-85,-102,102,103,83,103,186
+2015 American Open,2015-12-06,Open Women's +75 Kg,Shaina Jordan,89.98,85,88,91,95,-99,-99,91,95,186
+2015 American Open,2015-12-06,Open Women's 58 kg,Mathlynn Sasser,57.36,-77,77,80,102,105,106,80,106,186
+2015 American Open,2015-12-06,Open Women's 63 kg,Leslie Givens,62.76,83,-86,-86,102,-104,-104,83,102,185
+2015 American Open,2015-12-06,Open Women's 58 kg,Stephanie Lemmen,57.4,82,85,88,94,-97,97,88,97,185
+2015 American Open,2015-12-06,Open Women's 75 kg,Crystal Plouffe,73.86,79,82,-85,-102,102,-109,82,102,184
+2015 American Open,2015-12-06,Women's Masters (35-39) 63 kg,Jocelyn Forest,61.68,80,83,-86,-100,100,-106,83,100,183
+2015 American Open,2015-12-06,Open Women's 69 kg,Aria Bremner,67.84,78,83,-91,95,100,-105,83,100,183
+2015 American Open,2015-12-06,Open Men's 62 kg,Isaac Nye,60.51,-75,75,80,95,100,103,80,103,183
+2015 American Open,2015-12-06,Open Women's 63 kg,M'Kelle Tomberlin,62.09,74,78,81,94,98,101,81,101,182
+2015 American Open,2015-12-06,Open Women's 69 kg,Crysta Beatty,68.37,-82,82,-86,100,-103,-103,82,100,182
+2015 American Open,2015-12-06,Open Women's 75 kg,Paige Scott,73.02,79,-84,-84,98,103,-108,79,103,182
+2015 American Open,2015-12-06,Open Women's 58 kg,Jordan Grabinoski,57.6,73,-77,77,-100,-105,105,77,105,182
+2015 American Open,2015-12-06,Open Women's 63 kg,Dara Ching,62.64,-81,-81,81,97,100,-103,81,100,181
+2015 American Open,2015-12-06,Open Women's 75 kg,Phoebe Ng,74,-75,75,78,100,103,-107,78,103,181
+2015 American Open,2015-12-06,Open Women's 75 kg,Samantha Kleinschmidt,74.68,81,-84,-84,100,-105,-105,81,100,181
+2015 American Open,2015-12-06,Open Women's 63 kg,Katie Niemeir,62.51,80,83,-85,94,97,-100,83,97,180
+2015 American Open,2015-12-06,Open Women's 75 kg,Laura Barito,74.18,-73,73,76,100,-104,104,76,104,180
+2015 American Open,2015-12-06,Open Men's 62 kg,Eric Siegel,61.7,75,80,-85,-100,100,0,80,100,180
+2015 American Open,2015-12-06,Open Women's 63 kg,Alyssa Sulay,61.28,-81,81,-85,98,-101,-101,81,98,179
+2015 American Open,2015-12-06,Open Women's 69 kg,Sarah Johnson,68.62,75,-78,78,-100,101,-105,78,101,179
+2015 American Open,2015-12-06,Open Women's 63 kg,Danielle Keith,62.36,72,-77,78,90,96,100,78,100,178
+2015 American Open,2015-12-06,Open Women's 69 kg,Olivia Stimpel,67.48,-77,77,80,95,98,-100,80,98,178
+2015 American Open,2015-12-06,Open Women's 58 kg,Cortney Batchelor,56,-81,81,-84,97,-100,-100,81,97,178
+2015 American Open,2015-12-06,Open Women's 63 kg,Amy Suh,60.96,-76,78,80,94,97,-99,80,97,177
+2015 American Open,2015-12-06,Open Women's 63 kg,Erica Faust,62.62,-78,78,81,93,-96,96,81,96,177
+2015 American Open,2015-12-06,Women's Masters (35-39) 69 kg,Robin Leafblad,67.32,68,72,75,95,-100,102,75,102,177
+2015 American Open,2015-12-06,Open Women's 69 kg,Alexis Ericksen,68.4,77,81,-85,91,-96,96,81,96,177
+2015 American Open,2015-12-06,Open Women's 75 kg,Megan Hill,74.44,77,80,-83,94,97,-100,80,97,177
+2015 American Open,2015-12-06,Women's Masters (40-44) 53 kg,Melanie Roach,52.82,74,76,-77,98,101,-104,76,101,177
+2015 American Open,2015-12-06,Open Women's 63 kg,Jaime Gold,61.79,71,78,82,94,-97,-97,82,94,176
+2015 American Open,2015-12-06,Open Women's 63 kg,December Garcia,61.96,75,-78,-78,95,97,101,75,101,176
+2015 American Open,2015-12-06,Open Women's 63 kg,Karla Hernandez Leon,62.68,75,-78,-80,94,101,-105,75,101,176
+2015 American Open,2015-12-06,Open Women's 69 kg,Jilly Jaworske,66.3,76,79,81,95,-98,-99,81,95,176
+2015 American Open,2015-12-06,Open Women's 75 kg,Meriah McLeish,74.4,83,-87,-87,93,-98,-99,83,93,176
+2015 American Open,2015-12-06,Women's 16-17 Age Group +75 kg,Kaitlyn Jarrett,97.4,73,75,78,92,-97,98,78,98,176
+2015 American Open,2015-12-06,Open Men's 94 kg,Douglass Shuttleworth,92.65,-140,-141,-143,175,-180,-180,0,175,175
+2015 American Open,2015-12-06,Open Women's 69 kg,Michelle Maehler,66.9,71,74,-77,96,101,-105,74,101,175
+2015 American Open,2015-12-06,Open Women's 69 kg,Kayla Clark,67.58,72,75,77,98,-102,-102,77,98,175
+2015 American Open,2015-12-06,Open Women's 69 kg,Chelseigh Glisson,68.78,-74,74,77,-93,94,98,77,98,175
+2015 American Open,2015-12-06,Open Women's 75 kg,Shacasia Johnson,73.84,75,-78,-78,-96,96,100,75,100,175
+2015 American Open,2015-12-06,Open Women's +75 Kg,Hannah Crowe,88.15,74,77,80,95,-98,-98,80,95,175
+2015 American Open,2015-12-06,Open Men's 56 kg,Estevan Soto,55.67,75,78,80,95,-100,0,80,95,175
+2015 American Open,2015-12-06,Open Women's 63 kg,Kristin Pope,62.66,76,79,-81,92,95,-97,79,95,174
+2015 American Open,2015-12-06,Open Women's 75 kg,Becky Ashley,71.9,74,77,-80,94,97,-100,77,97,174
+2015 American Open,2015-12-06,Open Women's 75 kg,Sarah Duarte,72.98,75,-83,-83,-99,99,-103,75,99,174
+2015 American Open,2015-12-06,Open Women's 58 kg,Jennifer Butler,57.45,-77,77,-81,-96,-97,97,77,97,174
+2015 American Open,2015-12-06,Open Women's 58 kg,Katherine Lee,57.54,76,-78,78,-96,-96,96,78,96,174
+2015 American Open,2015-12-06,Open Women's 63 kg,Jessica Schubach,61.11,78,-82,-83,90,95,-100,78,95,173
+2015 American Open,2015-12-06,Open Women's 63 kg,Jillian Dowty,62.15,76,80,-83,90,93,-96,80,93,173
+2015 American Open,2015-12-06,Open Women's 63 kg,Lauren Longanecker,62.99,-74,75,77,92,96,-100,77,96,173
+2015 American Open,2015-12-06,Open Women's 69 kg,Kathleen O'Neill,66.02,-77,77,-81,90,93,96,77,96,173
+2015 American Open,2015-12-06,Open Women's 69 kg,Katey Limb,66.4,74,-77,-77,97,99,-105,74,99,173
+2015 American Open,2015-12-06,Open Women's 69 kg,Katie Boyer,67.16,77,80,83,90,-93,-95,83,90,173
+2015 American Open,2015-12-06,Open Women's 69 kg,Brielle Atkin,68.94,79,-84,-84,-94,94,-96,79,94,173
+2015 American Open,2015-12-06,Open Women's 75 kg,Mariah Reyes,72.26,75,-78,-81,88,92,98,75,98,173
+2015 American Open,2015-12-06,Open Women's 75 kg,Kiara Forman,74.11,78,-82,-82,-94,-95,95,78,95,173
+2015 American Open,2015-12-06,Open Women's 75 kg,Lynette Kotraba,74.32,70,73,-76,-96,96,100,73,100,173
+2015 American Open,2015-12-06,Open Women's 63 kg,Marisa Gonzalo,61.69,-70,70,75,92,-96,97,75,97,172
+2015 American Open,2015-12-06,Open Women's 63 kg,Kristi Brewer,62.08,70,73,-76,93,96,99,73,99,172
+2015 American Open,2015-12-06,Open Women's 63 kg,Jacky Bigger,62.68,-76,76,-80,96,-99,-99,76,96,172
+2015 American Open,2015-12-06,Open Women's 69 kg,Amy Obermeier,66.44,-77,78,-82,94,-96,-97,78,94,172
+2015 American Open,2015-12-06,Open Women's 63 kg,Jessie Humeston,63,-76,76,-79,95,-98,-98,76,95,171
+2015 American Open,2015-12-06,Women's Masters (35-39) 63 kg,Kelly Reece,62.35,72,-75,-75,95,98,-102,72,98,170
+2015 American Open,2015-12-06,Open Women's 69 kg,Rachael Stull,67.68,75,-79,-79,93,95,-99,75,95,170
+2015 American Open,2015-12-06,Women's Masters (35-39) 69 kg,Jessica Weisman,67.9,-73,75,80,87,90,-92,80,90,170
+2015 American Open,2015-12-06,Open Women's 58 kg,Jenny Hwa,56.54,72,75,77,-93,93,-97,77,93,170
+2015 American Open,2015-12-06,Open Women's 69 kg,Katie Ziegler,68.02,-73,73,-77,92,-96,96,73,96,169
+2015 American Open,2015-12-06,Open Women's +75 Kg,Samantha Ruehlman,83.52,77,-80,-80,92,-96,-96,77,92,169
+2015 American Open,2015-12-06,Open Women's 58 kg,Christine Na,57.2,74,-78,-78,-95,95,-100,74,95,169
+2015 American Open,2015-12-06,Open Women's 63 kg,Nicole Roggow,62.67,73,-76,-77,95,-98,-99,73,95,168
+2015 American Open,2015-12-06,Open Women's 69 kg,Rachel Garant,65.34,-71,71,-73,95,97,-99,71,97,168
+2015 American Open,2015-12-06,Open Women's 69 kg,Genie Francisco,69,-72,72,-76,-95,96,-100,72,96,168
+2015 American Open,2015-12-06,Open Women's 58 kg,Brittany Chestnut,56.55,72,76,78,88,-90,90,78,90,168
+2015 American Open,2015-12-06,Open Women's 63 kg,Abigail Grove,61.52,70,-74,-74,-93,94,97,70,97,167
+2015 American Open,2015-12-06,Open Women's 69 kg,Megan Farrell,67.28,77,-80,-80,90,-94,-94,77,90,167
+2015 American Open,2015-12-06,Open Women's 69 kg,Abby Suarez,68.68,-69,69,-72,95,98,-101,69,98,167
+2015 American Open,2015-12-06,Open Women's 69 kg,Kinsey Caldwell,68.9,-73,-73,73,90,94,-98,73,94,167
+2015 American Open,2015-12-06,Open Women's 69 kg,Leslie Macedo,68.92,-71,71,-74,96,-100,-101,71,96,167
+2015 American Open,2015-12-06,Men's 14-15 Age Group 50 Kg,Terry Roberson,49.74,68,71,73,89,91,94,73,94,167
+2015 American Open,2015-12-06,Open Women's 58 kg,Remedios Dondoyano,57,70,72,-75,92,95,-98,72,95,167
+2015 American Open,2015-12-06,Open Women's 63 kg,Natalie Stockel,59.91,72,75,-77,88,91,-95,75,91,166
+2015 American Open,2015-12-06,Open Women's 63 kg,Tia Wright,61.41,69,72,-76,91,94,-96,72,94,166
+2015 American Open,2015-12-06,Women's Masters (35-39) 63 kg,Brittany Riesenberg,62.1,73,-77,-78,-93,-93,93,73,93,166
+2015 American Open,2015-12-06,Open Women's 63 kg,Emily Sallome,62.57,-70,70,74,87,92,-96,74,92,166
+2015 American Open,2015-12-06,Open Women's 63 kg,Taylor Lumpp,62.62,-73,-74,74,92,-96,-96,74,92,166
+2015 American Open,2015-12-06,Open Women's 69 kg,Ryen Rae,67.94,-70,-70,70,96,-99,-99,70,96,166
+2015 American Open,2015-12-06,Open Women's 69 kg,Elle Allen,68.56,74,76,-78,90,-92,-92,76,90,166
+2015 American Open,2015-12-06,Open Women's 53 kg,Shantai Dickerson,52.8,70,-74,75,-91,91,-95,75,91,166
+2015 American Open,2015-12-06,Open Women's 63 kg,Heidi Platow,62.11,72,75,-77,87,90,-92,75,90,165
+2015 American Open,2015-12-06,Open Men's 94 kg,Zachary Huse,93.62,-123,-123,-125,160,165,-170,0,165,165
+2015 American Open,2015-12-06,Women's Masters (35-39) 69 kg,Katy Davis,68.2,-75,75,-79,90,-94,-94,75,90,165
+2015 American Open,2015-12-06,Open Women's 58 kg,Caroline Dardini,56.73,73,-76,-77,-90,-91,92,73,92,165
+2015 American Open,2015-12-06,Open Women's 58 kg,Vanessa Long,56.94,71,74,-77,-90,91,-96,74,91,165
+2015 American Open,2015-12-06,Open Women's 63 kg,Amanda Street,62.17,-75,75,-77,-89,89,-91,75,89,164
+2015 American Open,2015-12-06,Open Women's 63 kg,Hillary Tran,62.89,70,-73,73,-91,-91,91,73,91,164
+2015 American Open,2015-12-06,Open Women's 63 kg,Cherisse Taylor,62.96,77,79,-81,85,-89,-90,79,85,164
+2015 American Open,2015-12-06,Open Women's 69 kg,Rae Shih,68.14,-70,70,72,-91,-92,92,72,92,164
+2015 American Open,2015-12-06,Open Women's 63 kg,Adrianne Haider,61.16,70,73,75,88,-92,-95,75,88,163
+2015 American Open,2015-12-06,Women's 16-17 Age Group 63 kg,Celia Gold,62.13,-70,72,-75,86,89,91,72,91,163
+2015 American Open,2015-12-06,Open Women's 63 kg,Katharine Roeber,62.72,-73,73,-75,90,-93,-94,73,90,163
+2015 American Open,2015-12-06,Open Women's 63 kg,Erika Moncada,62.98,73,-75,-75,-90,90,-92,73,90,163
+2015 American Open,2015-12-06,Women's 14-15 Age Group +69 kg,Kuinini Manumua,88.49,-73,-73,76,84,87,-90,76,87,163
+2015 American Open,2015-12-06,Women's 16-17 Age Group 58 kg,Erin Amos,57.08,-71,-71,71,90,92,-95,71,92,163
+2015 American Open,2015-12-06,Open Women's 58 kg,Pamela Eamranond,57.93,70,73,75,-87,87,88,75,88,163
+2015 American Open,2015-12-06,Open Women's 63 kg,Krystle Terrado,60.32,67,70,73,84,89,-93,73,89,162
+2015 American Open,2015-12-06,Open Women's 63 kg,Jessi Howald,60.72,70,72,-74,90,-93,-94,72,90,162
+2015 American Open,2015-12-06,Open Women's 63 kg,Casey Campbell,61.09,70,74,-77,86,-88,88,74,88,162
+2015 American Open,2015-12-06,Open Women's 69 kg,Alex Smith,67.34,67,-72,72,-90,90,-95,72,90,162
+2015 American Open,2015-12-06,Open Women's 53 kg,Kaija Bramwell,52.74,67,70,-73,89,-91,92,70,92,162
+2015 American Open,2015-12-06,Women's 16-17 Age Group 69 kg,Ashleigh Wosny,68.56,68,71,-73,-88,88,90,71,90,161
+2015 American Open,2015-12-06,Open Women's 53 kg,Samantha Lower,52.92,70,73,-75,85,88,-90,73,88,161
+2015 American Open,2015-12-06,Open Women's 63 kg,Christine Barron,61.27,68,72,-77,-88,88,-96,72,88,160
+2015 American Open,2015-12-06,Open Women's 63 kg,Joelle Emery,61.6,68,-71,71,89,-93,-93,71,89,160
+2015 American Open,2015-12-06,Open Women's 63 kg,Shanna Aberson,62.41,71,74,-77,86,-90,-91,74,86,160
+2015 American Open,2015-12-06,Women's Masters (35-39) 48 kg,Kelly Rexroad Williams,47.99,-69,69,72,-88,88,-90,72,88,160
+2015 American Open,2015-12-06,Open Women's 53 kg,Amy Richardson,52.6,72,-75,-75,88,-92,-92,72,88,160
+2015 American Open,2015-12-06,Open Women's 58 kg,Nichole Tabellija,56.86,-68,69,72,88,-91,-93,72,88,160
+2015 American Open,2015-12-06,Open Women's 53 kg,Bethany Hernandez,52.94,66,69,-71,87,-89,90,69,90,159
+2015 American Open,2015-12-06,Open Women's 63 kg,Morgan Vozobule,61.66,-69,69,-72,89,-92,-92,69,89,158
+2015 American Open,2015-12-06,Women's Masters (35-39) 63 kg,Carlee Acevedo-Fuller,62.55,-70,-70,71,83,-86,87,71,87,158
+2015 American Open,2015-12-06,Open Women's 63 kg,Hillary Rizor,62.61,68,71,74,-84,-84,84,74,84,158
+2015 American Open,2015-12-06,Open Women's 58 kg,Suzie Moncivaez,57.08,66,-68,68,-85,87,90,68,90,158
+2015 American Open,2015-12-06,Open Women's 58 kg,Lauren Rutan,57.68,70,-73,-73,-88,88,-91,70,88,158
+2015 American Open,2015-12-06,Open Women's 58 kg,Christine Wiley,56.95,69,72,-75,80,82,85,72,85,157
+2015 American Open,2015-12-06,Open Women's 63 kg,Mariah Walker,62.08,70,-73,-73,80,-85,86,70,86,156
+2015 American Open,2015-12-06,Open Women's 63 kg,Amanda Sullivan,62.39,70,-73,-73,-84,-86,86,70,86,156
+2015 American Open,2015-12-06,Open Women's 69 kg,Sara Coe,67.3,-68,68,-71,88,-91,-91,68,88,156
+2015 American Open,2015-12-06,Open Women's 69 kg,Megan Wetzel,68.88,-66,-66,66,85,88,90,66,90,156
+2015 American Open,2015-12-06,Open Women's 63 kg,Nichol Gagnon,61.35,69,-72,-73,86,-89,-89,69,86,155
+2015 American Open,2015-12-06,Open Women's 69 kg,Mallory Lazell,68.54,-65,-65,65,86,90,-95,65,90,155
+2015 American Open,2015-12-06,Open Men's+105 kg,Daniel Kretzmann,108.72,-121,-121,-121,155,-161,-161,0,155,155
+2015 American Open,2015-12-06,Women's 16-17 Age Group +75 kg,Sage Tills,82.48,65,67,-70,84,86,88,67,88,155
+2015 American Open,2015-12-06,Open Women's 58 kg,Dayna Heiser,58,70,-72,-72,-85,85,-87,70,85,155
+2015 American Open,2015-12-06,Open Women's 58 kg,Lindsay Kinard,56.94,68,-70,-70,-86,-86,86,68,86,154
+2015 American Open,2015-12-06,Open Women's 58 kg,Kelly Todd,57.56,67,70,-73,84,-88,-88,70,84,154
+2015 American Open,2015-12-06,Women's 14-15 Age Group 58 kg,juliette Chang-Fane,57.64,64,-68,-69,85,88,90,64,90,154
+2015 American Open,2015-12-06,Women's 14-15 Age Group 63 kg,Claire Mackey,62.63,-70,70,-73,-84,84,-87,70,84,154
+2015 American Open,2015-12-06,Women's Masters (35-39) 69 kg,Rachel Gamallo,66.52,65,68,-71,86,-90,-90,68,86,154
+2015 American Open,2015-12-06,Open Women's 75 kg,Stephanie Marsh,69.71,67,70,73,77,81,-85,73,81,154
+2015 American Open,2015-12-06,Open Women's 53 kg,Laura Mohler,52.64,63,66,69,82,85,-87,69,85,154
+2015 American Open,2015-12-06,Open Women's 53 kg,Tess Waresmith,52.8,67,69,71,78,81,83,71,83,154
+2015 American Open,2015-12-06,Women's 14-15 Age Group 63 kg,Athena Schrijver,62.65,-64,64,-67,-86,86,90,64,90,154
+2015 American Open,2015-12-06,Open Women's 58 kg,Marie Rochat,56.6,-64,64,-68,87,90,-93,64,90,154
+2015 American Open,2015-12-06,Open Women's 58 kg,Danielle Bloomquist,56.99,66,-69,-71,87,-90,-90,66,87,153
+2015 American Open,2015-12-06,Open Women's 58 kg,Kimberly Webster,57.17,62,66,68,82,85,-87,68,85,153
+2015 American Open,2015-12-06,Open Women's 63 kg,Adrian Dougherty,62.26,67,-70,-70,86,-90,-91,67,86,153
+2015 American Open,2015-12-06,Open Women's 58 kg,Katie Hume,56.24,68,-71,-72,82,-84,84,68,84,152
+2015 American Open,2015-12-06,Women's Masters (35-39) 58 kg,Veronica Aguila,57.15,-67,67,69,83,-86,-86,69,83,152
+2015 American Open,2015-12-06,Open Women's 58 kg,Billi Mayfield,57.66,63,66,-69,83,86,-89,66,86,152
+2015 American Open,2015-12-06,Women's 16-17 Age Group 48 kg,Megan Seegert,48,67,70,-73,-82,-82,82,70,82,152
+2015 American Open,2015-12-06,Men's 14-15 Age Group 56 Kg,Ulysses Yarbrough,53.9,63,66,68,80,-83,84,68,84,152
+2015 American Open,2015-12-06,Open Women's 53 kg,Brittany Malone,52.74,68,-72,-72,-84,84,-87,68,84,152
+2015 American Open,2015-12-06,Open Women's 58 kg,Casey Rohrbaugh,56.87,60,67,-70,80,84,-87,67,84,151
+2015 American Open,2015-12-06,Open Women's 58 kg,Jessica Newton,57.08,-64,64,66,85,-88,-88,66,85,151
+2015 American Open,2015-12-06,Open Women's 58 kg,Rachel Corey,57.58,67,69,-72,82,-85,-85,69,82,151
+2015 American Open,2015-12-06,Women's 14-15 Age Group 58 kg,Kate Wehr,57.97,-67,68,-72,83,-86,-88,68,83,151
+2015 American Open,2015-12-06,Open Women's 53 kg,Laura Redman,52.3,62,-64,64,83,87,-90,64,87,151
+2015 American Open,2015-12-06,Open Women's 58 kg,Courtney Chan,55.59,-64,-64,64,-83,83,86,64,86,150
+2015 American Open,2015-12-06,Open Women's 58 kg,Gaylemarie Kolb,56.57,63,65,-67,85,-89,-90,65,85,150
+2015 American Open,2015-12-06,Open Women's 58 kg,Megan Grantom,56.92,66,70,-73,-80,80,-83,70,80,150
+2015 American Open,2015-12-06,Open Women's 58 kg,Cassie Schmidt,57.69,66,68,-69,80,82,-83,68,82,150
+2015 American Open,2015-12-06,Open Men's 85 kg,Andrew Marquez,84.71,-123,-123,-123,150,-155,-155,0,150,150
+2015 American Open,2015-12-06,Open Women's 58 kg,Tayla Correa,57.8,-67,67,-70,83,-86,0,67,83,150
+2015 American Open,2015-12-06,Open Men's 105 kg,Leo Phillips,101,-115,-115,-115,145,150,-156,0,150,150
+2015 American Open,2015-12-06,Open Men's 105 kg,Dexter Kodat,103.1,-120,-120,-120,140,145,150,0,150,150
+2015 American Open,2015-12-06,Open Women's 53 kg,Cassidy Tipton,52.66,64,67,-70,80,-83,83,67,83,150
+2015 American Open,2015-12-06,Open Women's 58 kg,Devoney Cooke,57.77,63,67,-71,82,-86,-86,67,82,149
+2015 American Open,2015-12-06,Open Women's 53 kg,Reena Tenorio,52.58,64,66,-68,81,83,-85,66,83,149
+2015 American Open,2015-12-06,Women's Masters (35-39) 58 kg,Cherity Lunak,54.7,-68,68,-71,80,-83,-85,68,80,148
+2015 American Open,2015-12-06,Open Women's 53 kg,Sydney Goad,51.72,60,63,65,79,-83,83,65,83,148
+2015 American Open,2015-12-06,Open Men's 85 kg,Ashton Jones,84.3,-111,-111,-112,142,147,-153,0,147,147
+2015 American Open,2015-12-06,Open Women's 58 kg,Perrin Behr,56.73,65,68,-71,79,-82,0,68,79,147
+2015 American Open,2015-12-06,Women's Masters (45-49) 58 kg,Jo Aita,57.03,-62,62,66,76,79,81,66,81,147
+2015 American Open,2015-12-06,Open Women's 63 kg,Amanda Low,62.38,67,-72,-72,-78,78,80,67,80,147
+2015 American Open,2015-12-06,Open Women's 48 kg,Sarah Wright,47.55,61,64,67,80,-85,-85,67,80,147
+2015 American Open,2015-12-06,Open Women's 53 kg,Melissa Villanueva,52.88,62,65,-67,82,-85,-86,65,82,147
+2015 American Open,2015-12-06,Women's Masters (35-39) 58 kg,Kandi Lagas,55.97,58,60,62,84,-88,-88,62,84,146
+2015 American Open,2015-12-06,Open Women's 58 kg,Lizzie Hughes,57.65,58,-62,63,80,83,-87,63,83,146
+2015 American Open,2015-12-06,Open Men's 85 kg,Jesus Lopez,84.3,-115,-115,-115,145,-148,-148,0,145,145
+2015 American Open,2015-12-06,Open Women's 58 kg,Carla Nowicki,56.85,60,63,-66,82,-86,-86,63,82,145
+2015 American Open,2015-12-06,Open Men's 94 kg,Michael Baumgarten,90.6,-111,-111,-111,145,-151,-151,0,145,145
+2015 American Open,2015-12-06,Open Men's+105 kg,Jack Rustman,173.4,-145,145,-151,-185,-185,-187,145,0,145
+2015 American Open,2015-12-06,Open Women's 53 kg,Courtney Reese,52.34,62,-64,-64,80,-83,83,62,83,145
+2015 American Open,2015-12-06,Open Men's 56 kg,Nathan Cerwinske,55.28,60,-65,65,80,-84,-85,65,80,145
+2015 American Open,2015-12-06,Open Women's 58 kg,Erica Parise,57.55,64,-68,-68,80,-83,-83,64,80,144
+2015 American Open,2015-12-06,Open Women's 48 kg,Rebecca Liu,47.44,59,62,-65,79,82,-85,62,82,144
+2015 American Open,2015-12-06,Women's 13 Under Age Group +58 Kg,Marya Drabicki,64.57,60,64,-67,75,80,-85,64,80,144
+2015 American Open,2015-12-06,Women's 14-15 Age Group 53 kg,A'Leah Ross,52.72,60,62,64,80,-84,-85,64,80,144
+2015 American Open,2015-12-06,Women's Masters (35-39) 58 kg,Rachel Batista,56.66,-64,64,-67,76,79,-81,64,79,143
+2015 American Open,2015-12-06,Open Women's 58 kg,Hannah Surber,57.23,64,-70,-70,-79,79,-83,64,79,143
+2015 American Open,2015-12-06,Open Women's 53 kg,Brianna Hooker,52.64,60,-63,-63,80,83,-85,60,83,143
+2015 American Open,2015-12-06,Open Women's 58 kg,Mari Shaw,55.05,60,-63,63,75,-78,79,63,79,142
+2015 American Open,2015-12-06,Open Women's 58 kg,Lauren Rarick,57.29,58,62,-66,76,-80,80,62,80,142
+2015 American Open,2015-12-06,Open Women's 58 kg,Nhu Te,57.98,62,-65,-65,80,-85,-85,62,80,142
+2015 American Open,2015-12-06,Open Women's 58 kg,Kiran Bains,57.24,61,-64,64,-76,77,-81,64,77,141
+2015 American Open,2015-12-06,Open Women's 53 kg,Heather Hudson,52.23,-61,61,65,-76,76,-84,65,76,141
+2015 American Open,2015-12-06,Open Women's 53 kg,Nicole Esposito,52.79,61,64,-66,74,77,-80,64,77,141
+2015 American Open,2015-12-06,Open Women's 53 kg,Alexandra Hamilton,52.98,-56,56,58,78,81,83,58,83,141
+2015 American Open,2015-12-06,Open Men's 77 kg,Lewis Wyatt,75.37,-115,-115,-115,140,-145,-146,0,140,140
+2015 American Open,2015-12-06,Open Men's 105 kg,Raphael Dozzi,99.76,-117,-117,-117,140,-145,-145,0,140,140
+2015 American Open,2015-12-06,Open Men's+105 kg,Thomas Sroka,126.12,-140,140,-145,-175,-175,-175,140,0,140
+2015 American Open,2015-12-06,Open Women's 53 kg,Brandi Wenz,52.6,60,-63,-64,78,80,-82,60,80,140
+2015 American Open,2015-12-06,Open Men's 85 kg,Michael Tirrito,81.94,140,-145,-145,-177,-177,-177,140,0,140
+2015 American Open,2015-12-06,Women's Masters (35-39) 53 kg,KATHY NELSON-PAUL,52.48,61,-64,-65,75,78,-81,61,78,139
+2015 American Open,2015-12-06,Open Women's 53 kg,Jannie Souvannakhot,52.7,-62,-62,64,75,-79,-85,64,75,139
+2015 American Open,2015-12-06,Women's Masters (40-44) 58 kg,Kim Murphy,57.54,62,-67,-67,76,-79,-79,62,76,138
+2015 American Open,2015-12-06,Open Men's 77 kg,Bret Crowe,76.76,-105,-107,-107,134,138,-142,0,138,138
+2015 American Open,2015-12-06,Women's 14-15 Age Group +69 kg,Na'Erykah Goodwin,74.46,55,-58,58,72,77,80,58,80,138
+2015 American Open,2015-12-06,Women's Masters (35-39) 48 kg,Meghan Valentine,47.98,-58,58,61,76,-79,-79,61,76,137
+2015 American Open,2015-12-06,Open Women's 53 kg,Andrea Storlie,51.55,60,-63,-64,74,76,-78,60,76,136
+2015 American Open,2015-12-06,Open Women's 53 kg,Sarah Hanson,51.82,-62,62,-66,73,-76,-77,62,73,135
+2015 American Open,2015-12-06,Open Men's 85 kg,Derek Shugart,78.46,130,135,-140,-160,-160,-160,135,0,135
+2015 American Open,2015-12-06,Open Men's 77 kg,Christopher Weiss,74.74,-102,-102,-102,131,134,-137,0,134,134
+2015 American Open,2015-12-06,Open Women's 53 kg,Meghan Bryant,52.81,-58,58,61,68,73,-77,61,73,134
+2015 American Open,2015-12-06,Open Men's 77 kg,Tyler Moore,75.62,-113,-113,-113,130,133,-140,0,133,133
+2015 American Open,2015-12-06,Open Women's 48 kg,Mary Timoshenko,47.95,58,-61,-61,-71,71,75,58,75,133
+2015 American Open,2015-12-06,Open Women's 53 kg,Amie Jindra,52.27,52,54,56,75,-77,77,56,77,133
+2015 American Open,2015-12-06,Open Men's 85 kg,Alex Madgar,83.9,-115,-115,-115,-132,-132,132,0,132,132
+2015 American Open,2015-12-06,Open Men's 94 kg,Tory Morgan,90.54,120,125,132,-155,-157,-157,132,0,132
+2015 American Open,2015-12-06,Open Women's 48 kg,Gina Giannetti,47.44,57,-60,-60,72,75,-76,57,75,132
+2015 American Open,2015-12-06,Open Men's 105 kg,Kyle Scharenbroch,103.8,130,-135,-137,-155,-155,-155,130,0,130
+2015 American Open,2015-12-06,Open Women's 53 kg,Emily Buckley,50.91,53,55,57,70,-72,73,57,73,130
+2015 American Open,2015-12-06,Open Women's 53 kg,Alana Kuzmik,51.98,54,57,-60,70,73,-76,57,73,130
+2015 American Open,2015-12-06,Women's Masters (35-39) 53 kg,Rebecca Lee,52.14,55,-58,-58,-75,75,-77,55,75,130
+2015 American Open,2015-12-06,Open Women's 48 kg,Amylynne Frankel,46.71,-53,53,56,70,73,-75,56,73,129
+2015 American Open,2015-12-06,Open Women's 53 kg,Wendy Huang,52.17,-55,55,-59,-74,-74,74,55,74,129
+2015 American Open,2015-12-06,Open Men's 85 kg,Andrew Manto,82.8,-103,-103,-103,-128,128,-131,0,128,128
+2015 American Open,2015-12-06,Open Men's 77 kg,Dominick Trozzi,76.79,123,128,-131,-154,-154,-154,128,0,128
+2015 American Open,2015-12-06,Women's 16-17 Age Group 48 kg,Chloe Tacata,46.66,55,58,61,67,-70,-70,61,67,128
+2015 American Open,2015-12-06,Open Men's 85 kg,Samuel Anderson,82.5,124,-127,127,-152,-153,-155,127,0,127
+2015 American Open,2015-12-06,Open Men's 94 kg,Reginald Lominy,93.5,125,127,-130,-140,-140,-141,127,0,127
+2015 American Open,2015-12-06,Open Men's 77 kg,Douglas Berninger,75.64,-95,-95,-95,120,127,-132,0,127,127
+2015 American Open,2015-12-06,Open Men's 77 kg,Perron Jones,74.41,120,-125,126,-155,-157,-158,126,0,126
+2015 American Open,2015-12-06,Open Men's 105 kg,William Lafon,100.21,-125,-125,126,-155,-155,-155,126,0,126
+2015 American Open,2015-12-06,Open Men's 105 kg,Michael Ramage,104.6,126,-130,-130,-162,-163,-163,126,0,126
+2015 American Open,2015-12-06,Open Women's 48 kg,Kelsey Bennett,47.28,-54,54,57,69,-72,-72,57,69,126
+2015 American Open,2015-12-06,Open Women's 48 kg,Kaithlin Reckards,47.78,52,54,58,68,-71,-72,58,68,126
+2015 American Open,2015-12-06,Open Women's 48 kg,Dominique Fufidio,47.88,56,-59,-60,67,-70,70,56,70,126
+2015 American Open,2015-12-06,Men's 13 Under Age Group 44kg,Seth Tom,41.41,51,54,57,63,66,69,57,69,126
+2015 American Open,2015-12-06,Open Men's 69 kg,Damian Harris,68.85,-96,-96,-96,120,-125,125,0,125,125
+2015 American Open,2015-12-06,Open Men's 77 kg,Kora Nan,76.3,-103,-103,-104,125,-128,-130,0,125,125
+2015 American Open,2015-12-06,Open Men's 105 kg,Kris Mares,103.27,-120,-125,125,-160,-167,-167,125,0,125
+2015 American Open,2015-12-06,Open Men's 105 kg,Rufe Bynum,103.54,-125,125,-130,-155,-155,-155,125,0,125
+2015 American Open,2015-12-06,Open Men's 105 kg,Jay Lorino,104.68,-125,-125,125,-145,-147,-147,125,0,125
+2015 American Open,2015-12-06,Women's Masters (35-39) 48 kg,Courtney Yamada-Anderson,47.55,50,-55,55,-70,-70,70,55,70,125
+2015 American Open,2015-12-06,Open Women's 48 kg,SILVANA GONZALEZ,47.22,52,-54,54,68,-71,71,54,71,125
+2015 American Open,2015-12-06,Open Men's+105 kg,Joseph Mcamis,147.46,125,-137,-137,-160,-160,-160,125,0,125
+2015 American Open,2015-12-06,Open Women's 48 kg,Michelle Giannino,47.96,55,-58,-58,68,-72,-72,55,68,123
+2015 American Open,2015-12-06,Open Men's 85 kg,Jesse Walker,82.89,-122,122,-126,-150,-150,-150,122,0,122
+2015 American Open,2015-12-06,Open Men's 94 kg,Jacob Wollach,93.3,122,-126,-127,-152,-153,-153,122,0,122
+2015 American Open,2015-12-06,Open Women's 48 kg,Grace Russo,47.37,46,-49,49,71,73,-76,49,73,122
+2015 American Open,2015-12-06,Open Men's 94 kg,Devin Lopez,92.28,116,121,-125,-143,-143,-143,121,0,121
+2015 American Open,2015-12-06,Open Men's 105 kg,Jordan Williamson,103.92,-121,121,-128,-150,-153,-153,121,0,121
+2015 American Open,2015-12-06,Open Men's 85 kg,Lee Blanchard,82.7,120,-125,-126,-145,-146,-147,120,0,120
+2015 American Open,2015-12-06,Open Men's 85 kg,Cameron Brown,84.2,120,-125,-125,-145,-145,-146,120,0,120
+2015 American Open,2015-12-06,Open Men's 85 kg,Andrew Park,83,119,-124,-124,-150,-150,-150,119,0,119
+2015 American Open,2015-12-06,Open Women's 48 kg,Kristin Iizuka,47.65,52,-56,-56,-66,-67,67,52,67,119
+2015 American Open,2015-12-06,Women's 13 Under Age Group 58kg,Gwendolyn Rojas,55.8,52,55,-57,-64,64,-68,55,64,119
+2015 American Open,2015-12-06,Open Men's 85 kg,Jacob Ceccarelli,84.6,-118,-118,118,-140,-140,-140,118,0,118
+2015 American Open,2015-12-06,Open Men's 77 kg,Kerris Seward,76.33,112,-115,118,-136,-140,-140,118,0,118
+2015 American Open,2015-12-06,Open Men's 85 kg,Teddy Perez,83.2,113,118,-123,-145,-145,0,118,0,118
+2015 American Open,2015-12-06,Women's 14-15 Age Group 53 kg,Mia Zechowy,51.81,49,52,54,59,62,64,54,64,118
+2015 American Open,2015-12-06,Open Men's 77 kg,Victor Ebert,75.6,-98,-99,-99,-116,117,-122,0,117,117
+2015 American Open,2015-12-06,Open Men's 85 kg,Lamar Grier,83.5,112,-116,116,-145,-148,-148,116,0,116
+2015 American Open,2015-12-06,Open Men's 77 kg,Sean McEachern,76.08,-116,116,-120,-146,-146,-146,116,0,116
+2015 American Open,2015-12-06,Open Men's 77 kg,JanJay Mendoza,76.2,-100,-100,-100,-116,-116,116,0,116,116
+2015 American Open,2015-12-06,Open Men's 77 kg,Matt Saeler,75.76,112,-115,115,-131,-131,-131,115,0,115
+2015 American Open,2015-12-06,Men's 13 Under Age Group 50 Kg,Bryant Phelps,45.53,50,-53,-54,-64,65,-67,50,65,115
+2015 American Open,2015-12-06,Open Men's 69 kg,Joseph Ronan,68.6,-110,114,-120,-128,-128,0,114,0,114
+2015 American Open,2015-12-06,Open Men's 85 kg,Nicholas DiMarco,83.8,113,-116,-116,-135,-135,-136,113,0,113
+2015 American Open,2015-12-06,Open Men's 94 kg,Chris Henry,93.03,-112,112,-115,-148,-148,-149,112,0,112
+2015 American Open,2015-12-06,Open Men's 69 kg,Stephen Ngo,68.2,110,-114,-114,-131,-131,-131,110,0,110
+2015 American Open,2015-12-06,Open Men's 85 kg,Brian Platt,83.9,105,110,-114,-140,-140,-145,110,0,110
+2015 American Open,2015-12-06,Open Men's 77 kg,Christopher Gartrell,75.64,-104,104,110,-132,-137,-137,110,0,110
+2015 American Open,2015-12-06,Open Men's 77 kg,Chris Gillen,76.46,-105,106,110,-130,-131,-132,110,0,110
+2015 American Open,2015-12-06,Women's 14-15 Age Group 53 kg,Mckenzie Barnes,51.5,46,49,51,59,-62,-64,51,59,110
+2015 American Open,2015-12-06,Men's 13 Under Age Group 50 Kg,William Prokop,49.79,43,46,48,56,59,62,48,62,110
+2015 American Open,2015-12-06,Open Men's 85 kg,Ben Chianchiano,82.2,-110,-110,110,-135,-135,-135,110,0,110
+2015 American Open,2015-12-06,Open Men's 85 kg,Andrew Domin,82.2,110,-115,-115,-136,-136,-137,110,0,110
+2015 American Open,2015-12-06,Open Men's 85 kg,Jacob Derksen,82.3,109,-112,-112,-135,-135,-135,109,0,109
+2015 American Open,2015-12-06,Open Men's 69 kg,Jeremy Reguerin,68.31,100,104,107,-128,-128,-128,107,0,107
+2015 American Open,2015-12-06,Women's 13 Under Age Group 44kg,Emma Nye,41.83,43,46,48,54,57,59,48,59,107
+2015 American Open,2015-12-06,Open Men's 77 kg,Chris Turnbull,76.28,-105,105,-106,-130,0,0,105,0,105
+2015 American Open,2015-12-06,Open Men's 77 kg,Andrew Davie,76.32,-105,105,-110,-135,-135,-137,105,0,105
+2015 American Open,2015-12-06,Open Men's 69 kg,Daniel Zapata,68.57,-98,100,-102,-130,-131,-131,100,0,100
+2015 American Open,2015-12-06,Open Men's 69 kg,Levi Nielson,68.72,96,98,100,-126,-127,-128,100,0,100
+2015 American Open,2015-12-06,Open Men's 77 kg,Jeremiah Alford,76,100,-104,-105,-130,-130,-130,100,0,100
+2015 American Open,2015-12-06,Women's 16-17 Age Group 48 kg,Anya Penner,47.41,35,39,42,52,55,58,42,58,100
+2015 American Open,2015-12-06,Men's 14-15 Age Group 77 kg,Jaylien Duncan,75.9,-77,-77,-77,95,100,-105,0,100,100
+2015 American Open,2015-12-06,Open Men's 69 kg,Chandler Walker,67.32,-98,98,-102,-126,-126,-126,98,0,98
+2015 American Open,2015-12-06,Open Men's 69 kg,Ryan Ramos,68.49,94,97,-101,-125,-125,-128,97,0,97
+2015 American Open,2015-12-06,Open Men's 69 kg,Kristopher Koehne,68.73,91,96,-97,-121,-127,-127,96,0,96
+2015 American Open,2015-12-06,Open Men's 77 kg,Rob Turner,73.54,96,-101,-101,-120,-123,-125,96,0,96
+2015 American Open,2015-12-06,Women's 14-15 Age Group +69 kg,Shay Carlock,92.67,-75,-75,-75,85,90,95,0,95,95
+2015 American Open,2015-12-06,Open Women's 69 kg,Jennifer Enos,68.38,-71,-71,-74,-94,94,-97,0,94,94
+2015 American Open,2015-12-06,Women's 13 Under Age Group 44kg,Layla Jones,43.71,35,-37,38,55,-57,-57,38,55,93
+2015 American Open,2015-12-06,Open Women's 58 kg,Paula Santos,56.56,-72,-72,-72,92,-95,-97,0,92,92
+2015 American Open,2015-12-06,Open Women's +75 Kg,Melissa Faubus,103.8,84,87,91,-103,-105,-106,91,0,91
+2015 American Open,2015-12-06,Open Women's 63 kg,Maria-Heilsyme Tiongson,62.24,-68,-68,-68,89,-91,-91,0,89,89
+2015 American Open,2015-12-06,Open Women's 63 kg,Erin Blackburn,61.28,-75,-75,-75,85,88,-90,0,88,88
+2015 American Open,2015-12-06,Women's Masters (35-39) 63 kg,Sara Blunck,61.15,-68,-68,-68,84,87,-90,0,87,87
+2015 American Open,2015-12-06,Open Women's 63 kg,Kelly Charniga,62.54,87,-89,0,0,0,0,87,0,87
+2015 American Open,2015-12-06,Open Women's 58 kg,Amanda Berndt,56.94,-64,-64,-64,-85,-85,86,0,86,86
+2015 American Open,2015-12-06,Open Women's 58 kg,Tommie Deprima,57.75,-68,-68,-68,86,-88,-88,0,86,86
+2015 American Open,2015-12-06,Open Men's 69 kg,Brandon Tovey,68.95,85,-90,-90,-120,-120,-120,85,0,85
+2015 American Open,2015-12-06,Open Women's 63 kg,Lindsay Pace,62.47,-69,-70,-70,83,-85,85,0,85,85
+2015 American Open,2015-12-06,Open Women's 69 kg,Chelsea Ryan,67.61,-81,81,-84,-101,-102,-102,81,0,81
+2015 American Open,2015-12-06,Open Women's 58 kg,Claire Weche,57.59,-65,-65,-65,75,80,-85,0,80,80
+2015 American Open,2015-12-06,Open Women's 75 kg,Sarah Rogers,73.64,80,-83,-83,-96,-96,-96,80,0,80
+2015 American Open,2015-12-06,Open Women's 53 kg,Mary Hall,51.72,-64,-64,-64,75,79,-83,0,79,79
+2015 American Open,2015-12-06,Women's 16-17 Age Group 53 kg,Jourdan Delacruz,52.38,75,77,-79,-92,-92,-92,77,0,77
+2015 American Open,2015-12-06,Open Women's 53 kg,Ellen Kercher,52.64,74,-77,77,-93,-93,-93,77,0,77
+2015 American Open,2015-12-06,Open Women's 69 kg,Cynthia Lam,67.32,73,76,-78,-94,-96,-96,76,0,76
+2015 American Open,2015-12-06,Open Women's 53 kg,Leah Fae Cochran,52.76,-58,-58,-61,75,-78,-78,0,75,75
+2015 American Open,2015-12-06,Open Women's 58 kg,Lindsey Stroker,55.74,71,-74,74,-94,-94,-94,74,0,74
+2015 American Open,2015-12-06,Open Women's 53 kg,Deb De Villa,51.93,-60,-60,-60,73,-76,-76,0,73,73
+2015 American Open,2015-12-06,Open Women's 63 kg,Chantel Zandi,60.49,72,-76,-76,-95,-95,-95,72,0,72
+2015 American Open,2015-12-06,Open Women's 63 kg,Stephanie Knote,61,68,71,-74,-85,-85,-85,71,0,71
+2015 American Open,2015-12-06,Open Women's 63 kg,Sandy Johnson,61.71,-71,71,-75,-89,-89,-89,71,0,71
+2015 American Open,2015-12-06,Open Women's 53 kg,Snow Charpentier,51.94,68,71,-74,-92,-95,-96,71,0,71
+2015 American Open,2015-12-06,Open Women's 63 kg,Juliet Fielding,61.83,65,68,-71,-84,-84,-84,68,0,68
+2015 American Open,2015-12-06,Open Women's 53 kg,Christmas Abbott,52.82,66,68,-71,-81,-81,-81,68,0,68
+2015 American Open,2015-12-06,Open Women's 58 kg,Jaquelin Ong,57.19,-67,67,-70,-85,-85,-85,67,0,67
+2015 American Open,2015-12-06,Women's 16-17 Age Group 58 kg,Romy Gold,56.89,63,66,-70,-82,-83,-84,66,0,66
+2015 American Open,2015-12-06,Open Women's 69 kg,Sarah Bond,67.24,-65,65,-69,-87,-87,-87,65,0,65
+2015 American Open,2015-12-06,Open Women's 48 kg,Nicole Blackwell,47.33,-62,62,65,-79,-79,-79,65,0,65
+2015 American Open,2015-12-06,Women's 13 Under Age Group +58 Kg,Nia Walker,79.08,-61,61,65,-80,-80,-80,65,0,65
+2015 American Open,2015-12-06,Open Women's 53 kg,Jenna Earls,52.38,60,63,-66,-80,-80,-80,63,0,63
+2015 American Open,2015-12-06,Open Women's 58 kg,Cheyenne Rahn,55.84,57,61,-64,0,0,0,61,0,61
+2015 American Open,2015-12-06,Women's 13 Under Age Group 53kg,Audrey Rips-Goodwin,51.68,-50,-50,-50,58,60,-62,0,60,60
+2015 American Open,2015-12-06,Open Women's 48 kg,Jessica Liao,47.88,56,-58,-58,0,0,0,56,0,56
+2015 American Open,2015-12-06,Open Men's 69 kg,Keola Rubin,68.48,-105,-107,-107,0,0,0,0,0,0
+2015 American Open,2015-12-06,Open Men's 69 kg,James Knight,68.82,-105,-105,-105,0,0,0,0,0,0
+2015 American Open,2015-12-06,Open Men's 85 kg,Brach Poston,84.4,-110,-110,-110,-127,0,0,0,0,0
+2015 American Open,2015-12-06,Open Men's 85 kg,Zach Dyer,84.6,-120,-120,-120,-143,-143,-143,0,0,0
+2015 American Open,2015-12-06,Open Men's 85 kg,Benjamin Retherford,85,-100,-100,0,-127,0,0,0,0,0
+2015 American Open,2015-12-06,Open Men's 94 kg,Larry Hutchinson,91.84,-122,-127,-132,-153,-157,-160,0,0,0
+2015 American Open,2015-12-06,Open Women's 63 kg,Kathleen Giebler,62.51,-75,-76,-77,-91,-91,-91,0,0,0
+2015 American Open,2015-12-06,Open Men's 77 kg,Ray Cruz,76.32,-120,-120,-120,-135,-135,-135,0,0,0
+2015 American Open,2015-12-06,Open Women's 69 kg,Dionne Kaneshiro,65.8,0,0,0,0,0,0,0,0,0
+2015 American Open,2015-12-06,Open Women's 69 kg,Gwendolyn Sisto,67.24,0,0,0,0,0,0,0,0,0
+2015 American Open,2015-12-06,Open Women's 69 kg,Martha Rogers,67.55,-100,-100,-100,0,0,0,0,0,0
+2015 American Open,2015-12-06,Open Men's 105 kg,Richard Redus,95.4,-130,-130,-130,-170,-170,-176,0,0,0
+2015 American Open,2015-12-06,Open Women's 53 kg,Jacque Payne,52.58,0,0,0,0,0,0,0,0,0
+2015 American Open,2015-12-06,Open Women's 53 kg,Rhiannon Reynolds,52.92,-78,-78,-78,-95,-95,-95,0,0,0

@@ -1,0 +1,48 @@
+meet,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Occam Open,2015-09-13,Open Men's 105 kg,Tyler Bayles,103.45,131,135,140,160,165,-171,140,165,305
+Occam Open,2015-09-13,Open Men's 85 kg,Kevin Lee,83.07,102,-105,-107,-116,198,122,102,198,300
+Occam Open,2015-09-13,Open Men's 85 kg,Devin Newsome,82.38,103,107,116,138,135,150,116,150,266
+Occam Open,2015-09-13,Open Men's+105 kg,Richard Elmquist,112.42,110,115,120,140,-135,136,120,140,260
+Occam Open,2015-09-13,Open Men's 77 kg,Nick Miner,75.42,100,105,110,-127,132,137,110,137,247
+Occam Open,2015-09-13,Open Men's 94 kg,C.J. Easter,92.52,103,0,0,142,0,0,103,142,245
+Occam Open,2015-09-13,Open Men's 94 kg,Nile Henderson,93.04,104,108,0,127,0,0,108,127,235
+Occam Open,2015-09-13,Open Men's 94 kg,Steven Pachan,91.09,96,100,-103,-132,-132,132,100,132,232
+Occam Open,2015-09-13,Open Men's 85 kg,Camilo Gutierrez,81.41,95,98,-100,128,132,-135,98,132,230
+Occam Open,2015-09-13,Open Men's 85 kg,Alex Li,82.91,90,95,100,110,115,-120,100,115,215
+Occam Open,2015-09-13,Open Men's 77 kg,Frederick Ureta,73.67,95,-98,-98,100,116,-120,95,116,211
+Occam Open,2015-09-13,Open Men's 105 kg,John Phelan,102.73,95,95,100,105,110,-116,100,110,210
+Occam Open,2015-09-13,Open Men's 77 kg,Benjamin Cruz,75.97,50,-90,90,105,105,115,90,115,205
+Occam Open,2015-09-13,Open Men's 69 kg,Jose Salazar,67.83,80,83,86,108,111,-115,86,111,197
+Occam Open,2015-09-13,Open Men's 85 kg,Anthony Mattis,80.9,83,87,-91,100,105,110,87,110,197
+Occam Open,2015-09-13,Open Women's +75 Kg,Emelie Wilkes,87.1,88,-91,-93,103,-107,-109,88,103,191
+Occam Open,2015-09-13,Open Men's 77 kg,Tyler Borja,74.39,85,-93,-94,105,-107,-107,85,105,190
+Occam Open,2015-09-13,Open Men's 77 kg,Jay Nacionales,76.15,-77,-80,80,100,-105,105,80,105,185
+Occam Open,2015-09-13,Open Men's 77 kg,Robert Case,76.32,80,85,-90,-100,100,-107,85,100,185
+Occam Open,2015-09-13,Open Men's 85 kg,Patrick Whitmore,80.48,70,75,80,95,-102,102,80,102,182
+Occam Open,2015-09-13,Open Women's 75 kg,Cecelia Barruel,73.6,73,76,79,87,91,-93,79,91,170
+Occam Open,2015-09-13,Open Men's 69 kg,Jose Mendoza,66.7,70,75,78,90,-95,0,78,90,168
+Occam Open,2015-09-13,Open Women's 69 kg,Jennifer Enos,68.9,70,-73,-73,93,96,-98,70,96,166
+Occam Open,2015-09-13,Open Women's 63 kg,Samantha Schulz,62.59,67,-70,70,91,-95,-96,70,91,161
+Occam Open,2015-09-13,Open Women's 58 kg,Brittany Malone,53.4,65,68,-71,77,81,84,68,84,152
+Occam Open,2015-09-13,Open Men's 69 kg,Trevor Menger,64.58,62,-66,68,83,-86,-87,68,83,151
+Occam Open,2015-09-13,Open Women's 58 kg,Kimberly Webster,57,60,64,-66,80,-58,85,64,85,149
+Occam Open,2015-09-13,Open Men's 69 kg,Angelo Salva Cruz,68.95,-64,64,-67,80,-85,-86,64,80,144
+Occam Open,2015-09-13,Open Women's 63 kg,Sarah Mihalek,62.1,60,63,-66,80,-84,-85,63,80,143
+Occam Open,2015-09-13,Open Women's 58 kg,Mary Lathrop,57.5,58,-61,62,71,75,78,62,78,140
+Occam Open,2015-09-13,Open Women's 69 kg,Andrea Searby,63.8,57,60,-63,70,73,-75,60,73,133
+Occam Open,2015-09-13,Open Women's +75 Kg,Anneka Barkey,107.5,41,45,51,79,-85,-85,51,79,130
+Occam Open,2015-09-13,Open Women's +75 Kg,Claudia Piacente,84.3,55,-59,59,65,70,-72,59,70,129
+Occam Open,2015-09-13,Open Women's +75 Kg,Jennifer Deering,98.53,45,48,51,65,68,72,51,72,123
+Occam Open,2015-09-13,Open Women's +75 Kg,Eve Okamura,78.6,-50,53,55,60,65,-7,55,65,120
+Occam Open,2015-09-13,Open Women's 53 kg,Sraineth Flores,48.17,-50,50,-54,62,65,-68,50,65,115
+Occam Open,2015-09-13,Women's Masters (35-39) 53 kg,Nicole Mistretta,51.23,45,47,48,57,59,61,48,61,109
+Occam Open,2015-09-13,Women's 14-15 Age Group 53 kg,Clara Allen,51.4,-40,40,42,58,61,65,42,65,107
+Occam Open,2015-09-13,Open Women's 58 kg,Tanya Cabrera,57.96,45,48,-51,55,58,-60,48,58,106
+Occam Open,2015-09-13,Women's 14-15 Age Group 58 kg,Kori Kelley,57.35,-43,43,46,48,51,54,46,54,100
+Occam Open,2015-09-13,Open Women's 75 kg,Manni Praditt,72.75,40,-43,43,47,50,54,43,54,97
+Occam Open,2015-09-13,Open Women's 58 kg,Lauren Vorhis,56.86,-40,40,-43,50,54,-58,40,54,94
+Occam Open,2015-09-13,Women's Masters (35-39) 75 kg,Rani Asato,70.16,34,36,39,44,45,48,39,48,87
+Occam Open,2015-09-13,Open Women's 69 kg,Alyssa Adams,68.17,-35,-38,38,42,47,-50,38,47,85
+Occam Open,2015-09-13,Open Women's 69 kg,Catherine Crump,68.86,32,34,36,41,-43,45,36,45,81
+Occam Open,2015-09-13,Open Women's 63 kg,Alexa Shippy,61.8,-60,-60,-60,75,78,80,0,80,80
+Occam Open,2015-09-13,Open Women's 63 kg,ANNIE GAULT,62.4,-55,-55,-55,69,71,-74,0,71,71

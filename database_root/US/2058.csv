@@ -1,0 +1,55 @@
+meet,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Industrious Fall Classic,2016-10-01,Open Men's 85 kg,Zach Meyers,82.5,135,145,151,170,177,-183,151,177,328
+Industrious Fall Classic,2016-10-01,Open Men's 105 kg,Matt Hawkins,104.1,125,-128,-130,160,-165,-165,125,160,285
+Industrious Fall Classic,2016-10-01,Open Men's+105 kg,Hunter Schurrer,108.9,128,-130,-132,150,155,-160,128,155,283
+Industrious Fall Classic,2016-10-01,Open Men's+105 kg,Andrew Jackson,123.2,120,125,-130,148,152,-155,125,152,277
+Industrious Fall Classic,2016-10-01,Open Men's 85 kg,Christopher Douglas,79,116,-120,-120,146,150,-152,116,150,266
+Industrious Fall Classic,2016-10-01,Open Men's 85 kg,Kora Nan,79.8,110,-115,116,130,-137,-140,116,130,246
+Industrious Fall Classic,2016-10-01,Open Men's 85 kg,Dylan Bowles,83.5,102,108,114,122,127,-132,114,127,241
+Industrious Fall Classic,2016-10-01,Open Men's 94 kg,MATTHEW MARTIN,91.3,105,-110,-110,132,-137,-141,105,132,237
+Industrious Fall Classic,2016-10-01,Open Men's 94 kg,Spencer Hunsinger,85.9,-96,96,100,120,125,130,100,130,230
+Industrious Fall Classic,2016-10-01,Open Men's 105 kg,Pat Andrew,96.7,96,-100,-101,124,128,131,96,131,227
+Industrious Fall Classic,2016-10-01,Open Men's 85 kg,Jacob Howard,81,85,96,-106,105,115,123,96,123,219
+Industrious Fall Classic,2016-10-01,Open Men's 85 kg,Ryan Lyski,77.9,97,-100,-102,105,110,115,97,115,212
+Industrious Fall Classic,2016-10-01,Open Men's 85 kg,Colin McClelland,82.8,92,94,-97,106,109,112,94,112,206
+Industrious Fall Classic,2016-10-01,Open Men's 85 kg,Tobin Martin,81.9,-72,72,75,-105,112,117,75,117,192
+Industrious Fall Classic,2016-10-01,Open Men's 77 kg,Joshua Weewie,71.7,77,81,85,100,103,106,85,106,191
+Industrious Fall Classic,2016-10-01,Open Men's 94 kg,Preston Greene,88.5,-80,-82,82,103,108,-111,82,108,190
+Industrious Fall Classic,2016-10-01,Open Men's 77 kg,Timothy Darby,76.9,72,76,-81,107,111,-116,76,111,187
+Industrious Fall Classic,2016-10-01,Open Women's 63 kg,Ashley Perkovich,62.3,84,87,90,95,-100,-100,90,95,185
+Industrious Fall Classic,2016-10-01,Open Men's 77 kg,Erik Nygaard,75,75,80,-85,105,-113,-116,80,105,185
+Industrious Fall Classic,2016-10-01,Open Men's 105 kg,Andrew Lentz,96.9,75,78,81,95,-100,100,81,100,181
+Industrious Fall Classic,2016-10-01,Open Men's 77 kg,Chase DeAlba,76.8,64,69,-74,100,-105,106,69,106,175
+Industrious Fall Classic,2016-10-01,Open Women's 63 kg,Uchechi Esonu,62.95,70,74,-77,91,-94,96,74,96,170
+Industrious Fall Classic,2016-10-01,Open Men's 69 kg,Michael Cleeton,62.9,68,70,-72,92,95,97,70,97,167
+Industrious Fall Classic,2016-10-01,Open Men's 69 kg,Chad HUMPHREYS,65.8,70,74,-78,85,90,-95,74,90,164
+Industrious Fall Classic,2016-10-01,Open Women's 63 kg,Rachel Corey,62.55,72,-75,-75,89,-93,-93,72,89,161
+Industrious Fall Classic,2016-10-01,Open Men's 105 kg,Chris Dariotis,98.4,65,-70,-70,85,90,95,65,95,160
+Industrious Fall Classic,2016-10-01,Open Women's 63 kg,Rachel Reyes,62.9,68,-71,-71,88,91,-94,68,91,159
+Industrious Fall Classic,2016-10-01,Open Women's 63 kg,Lauren Stevens,62.55,68,-71,-71,-87,-89,89,68,89,157
+Industrious Fall Classic,2016-10-01,Open Men's 94 kg,Marcus Hysert,88.2,63,66,-70,83,-87,87,66,87,153
+Industrious Fall Classic,2016-10-01,Open Women's 58 kg,Ashley Dvorin,56.5,-66,-66,67,74,77,-80,67,77,144
+Industrious Fall Classic,2016-10-01,Open Women's +75 Kg,Alisha Aufai,90.2,61,65,68,-76,76,-80,68,76,144
+Industrious Fall Classic,2016-10-01,Open Women's 69 kg,Michele Mcdonald,68.5,58,61,-65,75,-79,81,61,81,142
+Industrious Fall Classic,2016-10-01,Open Women's 69 kg,Chelsea Stayton,68.5,61,-64,-64,-78,-78,78,61,78,139
+Industrious Fall Classic,2016-10-01,Open Women's 69 kg,Kayla Jones,65.9,62,65,-68,73,-76,-77,65,73,138
+Industrious Fall Classic,2016-10-01,Open Women's 58 kg,Lindsey Knight,56.15,57,60,-63,69,72,75,60,75,135
+Industrious Fall Classic,2016-10-01,Open Women's 69 kg,Stefanie Hatlin,64.5,58,-61,62,-70,72,-75,62,72,134
+Industrious Fall Classic,2016-10-01,Open Women's 58 kg,Sofina Morales,57.3,55,57,60,66,69,72,60,72,132
+Industrious Fall Classic,2016-10-01,Open Women's 69 kg,Jacky Chan,63.15,59,61,-65,68,71,-74,61,71,132
+Industrious Fall Classic,2016-10-01,Open Women's +75 Kg,Danielle Hull,82.7,53,56,-59,68,72,75,56,75,131
+Industrious Fall Classic,2016-10-01,Open Women's 53 kg,Shawna Savedo,49.8,55,58,-61,68,72,-75,58,72,130
+Industrious Fall Classic,2016-10-01,Open Women's 69 kg,Katherine Baenen-Wigren,68.65,49,52,55,75,-79,-79,55,75,130
+Industrious Fall Classic,2016-10-01,Women's Masters (35-39) +75 kg,Dawn Cargile,95.4,50,53,-58,70,75,-80,53,75,128
+Industrious Fall Classic,2016-10-01,Open Women's 69 kg,Katherine Whitaker,66.8,54,57,-59,67,70,-73,57,70,127
+Industrious Fall Classic,2016-10-01,Open Women's +75 Kg,Ayla Angelini,79.1,50,57,60,60,65,-70,60,65,125
+Industrious Fall Classic,2016-10-01,Open Women's +75 Kg,Ashlyn Mandelin,76.7,-54,55,-61,-65,67,-71,55,67,122
+Industrious Fall Classic,2016-10-01,Open Men's 85 kg,Andre Jordan,83.4,117,120,-123,-147,-151,-151,120,0,120
+Industrious Fall Classic,2016-10-01,Open Women's 48 kg,Gabriela Delgadillo Sarabia,47.3,-48,48,-52,68,-71,-71,48,68,116
+Industrious Fall Classic,2016-10-01,Open Women's 58 kg,Rachel Long,56.8,48,50,-53,58,61,-64,50,61,111
+Industrious Fall Classic,2016-10-01,Women's Masters (35-39) +75 kg,Jaime Humenay,103.8,41,43,45,-59,60,63,45,63,108
+Industrious Fall Classic,2016-10-01,Open Men's 77 kg,KERKER III KEVYN,73.7,106,-110,-110,-145,-146,-150,106,0,106
+Industrious Fall Classic,2016-10-01,Women's 13 Under Age Group 48kg,Katharine Estep,47.9,28,30,32,43,45,48,32,48,80
+Industrious Fall Classic,2016-10-01,Open Women's 63 kg,Kailee Simons,62.55,67,-70,-71,-77,-78,-79,67,0,67
+Industrious Fall Classic,2016-10-01,Women's 13 Under Age Group 39kg,Katie Garland,37.7,25,27,29,32,34,36,29,36,65
+Industrious Fall Classic,2016-10-01,Women's Masters (55-59) 63 kg,Patricia Ray,58.85,24,26,28,35,-38,-38,28,35,63

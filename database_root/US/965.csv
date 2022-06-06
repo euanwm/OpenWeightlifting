@@ -1,0 +1,55 @@
+meet,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Boulder Classic,2013-05-18,Open Men's+105 kg,Josh Stavnes,112.2,115,121,130,138,142,150,130,150,280
+Boulder Classic,2013-05-18,Open Men's 85 kg,James Byers,85,120,125,127,135,140,140,127,140,267
+Boulder Classic,2013-05-18,Open Men's 94 kg,Jason Thomas,93,102,102,107,133,139,144,107,144,251
+Boulder Classic,2013-05-18,Open Men's 105 kg,Christopher Behm,96.6,110,110,102,120,130,135,110,135,245
+Boulder Classic,2013-05-18,Open Men's 105 kg,Charles Janicki,97.3,95,100,105,127,132,137,105,137,242
+Boulder Classic,2013-05-18,Open Men's 94 kg,Kyle Fenton,93,95,100,102,120,125,125,102,125,227
+Boulder Classic,2013-05-18,Open Men's 77 kg,Dalton McGregor,74,96,96,101,115,120,125,101,125,226
+Boulder Classic,2013-05-18,Open Men's 94 kg,Gregory Brown,89.7,95,99,100,115,117,121,100,121,221
+Boulder Classic,2013-05-18,Open Men's+105 kg,Robert Zieba,114.9,80,85,92,114,120,129,92,129,221
+Boulder Classic,2013-05-18,Open Men's 94 kg,Kelly Cirbo,85.7,85,90,95,110,115,116,95,116,211
+Boulder Classic,2013-05-18,Open Men's 94 kg,Samuel Haman,92.6,85,90,90,105,112,120,90,120,210
+Boulder Classic,2013-05-18,Open Men's 94 kg,Robert Schenck,88.4,85,90,95,106,110,112,95,112,207
+Boulder Classic,2013-05-18,Open Men's 77 kg,Cory Sullivan,72.4,85,87,90,105,110,113,90,113,203
+Boulder Classic,2013-05-18,Open Men's 69 kg,Hardu Virks-Lee,67.9,80,84,90,97,104,110,90,110,200
+Boulder Classic,2013-05-18,Open Men's 85 kg,Rob Zehner,81.7,74,80,85,110,112,115,85,115,200
+Boulder Classic,2013-05-18,Open Women's 75 kg,Arlene Ward,70.2,80,84,87,100,105,108,87,108,195
+Boulder Classic,2013-05-18,Open Men's 77 kg,Matthew Muramoto,77,74,78,85,95,102,110,85,110,195
+Boulder Classic,2013-05-18,Open Men's 62 kg,Deion Fraire,60.9,75,80,84,101,106,106,84,106,190
+Boulder Classic,2013-05-18,Open Men's 69 kg,James Kauffman,67.4,78,78,82,97,104,107,82,107,189
+Boulder Classic,2013-05-18,Open Men's 77 kg,Edward Isla,75.2,77,77,77,93,98,102,77,102,179
+Boulder Classic,2013-05-18,Open Men's 77 kg,Michael Herring,75.4,70,75,77,90,95,100,77,100,177
+Boulder Classic,2013-05-18,Open Men's 94 kg,Brian Dwyer,90.9,64,70,77,93,98,99,77,99,176
+Boulder Classic,2013-05-18,Open Men's 85 kg,David Phelps,84.7,67,71,74,90,95,99,74,99,173
+Boulder Classic,2013-05-18,Open Men's 94 kg,Matthew Archer,93,65,70,75,83,88,94,75,94,169
+Boulder Classic,2013-05-18,Open Men's 69 kg,Charlie Kauffman,67.8,70,75,77,78,84,87,77,87,164
+Boulder Classic,2013-05-18,Open Women's 58 kg,Jacque Payne,54.7,70,73,75,80,84,86,75,86,161
+Boulder Classic,2013-05-18,Open Men's 62 kg,Vito Solimene,61.6,65,67,70,84,84,84,70,84,154
+Boulder Classic,2013-05-18,Open Men's 94 kg,Tyler Portenier,93.8,67,70,73,77,81,81,73,81,154
+Boulder Classic,2013-05-18,Open Men's 69 kg,Nathaniel Vieyra,65.2,62,65,68,76,80,84,68,84,152
+Boulder Classic,2013-05-18,Open Men's 85 kg,Timothy Cain,81.3,60,62,66,75,79,83,66,83,149
+Boulder Classic,2013-05-18,Open Women's 75 kg,Raquel Woods,74.3,61,64,66,75,78,81,66,81,147
+Boulder Classic,2013-05-18,Open Men's 77 kg,Brian Wilkins,75.4,50,60,70,60,70,77,70,77,147
+Boulder Classic,2013-05-18,Open Women's +75 Kg,Christy Pratt,75,52,55,59,75,80,85,59,85,144
+Boulder Classic,2013-05-18,Open Women's +75 Kg,Mikaela Hoelsken,75,63,63,63,80,80,80,63,80,143
+Boulder Classic,2013-05-18,Open Men's 85 kg,Joshua Hastings,83.5,52,57,61,68,75,80,61,80,141
+Boulder Classic,2013-05-18,Open Women's 53 kg,Kimberly McLeish,50.2,55,57,60,68,71,72,60,72,132
+Boulder Classic,2013-05-18,Women's Masters (40-44) 69 kg,Lucinda Parham,65.4,55,58,60,65,68,71,60,71,131
+Boulder Classic,2013-05-18,Open Women's 75 kg,Emma Cook,70.2,53,56,60,65,68,70,60,70,130
+Boulder Classic,2013-05-18,Open Men's 85 kg,Thomas Wilson,84.6,50,54,57,65,68,72,57,72,129
+Boulder Classic,2013-05-18,Women's 14-15 Age Group 58 kg,Ruby Haman,58,55,55,58,65,68,70,58,70,128
+Boulder Classic,2013-05-18,Open Women's 63 kg,Tegan Soderlind,60.3,47,52,52,62,66,72,52,72,124
+Boulder Classic,2013-05-18,Women's Masters (35-39) 69 kg,Anna Shoolroy,68.4,50,53,53,63,67,69,53,69,122
+Boulder Classic,2013-05-18,Open Women's 69 kg,Emily Pieper,65.1,50,52,52,63,65,70,52,70,122
+Boulder Classic,2013-05-18,Open Women's 63 kg,Danielle Cain,60.8,43,43,44,53,55,58,44,58,102
+Boulder Classic,2013-05-18,Women's Masters (45-49) 53 kg,stephanie dudash,49.3,38,40,42,51,53,53,42,53,95
+Boulder Classic,2013-05-18,Women's Masters (35-39) 63 kg,Amy Santamaria,60.9,37,39,41,47,49,51,41,51,92
+Boulder Classic,2013-05-18,Women's Masters (60-64) 58 kg,Shirley Callaway,56.7,32,34,35,42,44,46,35,46,81
+Boulder Classic,2013-05-18,Women's Masters (40-44) 58 kg,Julie Edman,57.5,26,29,31,38,41,46,31,46,77
+Boulder Classic,2013-05-18,Open Women's 58 kg,Ali Kammerling,56.1,28,30,32,32,36,40,32,40,72
+Boulder Classic,2013-05-18,Women's 13 Under Age Group 48kg,Paige Holman,46.3,22,26,30,28,33,37,30,37,67
+Boulder Classic,2013-05-18,Men's 13 Under Age Group 50 Kg,Garrison Bailey,48.5,20,24,26,27,30,30,26,30,56
+Boulder Classic,2013-05-18,Men's 13 Under Age Group 35 Kg,Jordan Estrada,34.8,16,20,24,22,26,30,24,30,54
+Boulder Classic,2013-05-18,Men's 13 Under Age Group 44kg,Clay Johnson,41.2,18,20,22,25,27,29,22,29,51
+Boulder Classic,2013-05-18,Women's Masters (70-74) 58 kg,Janis McBee,53.3,20,21,21,25,26,28,21,28,49

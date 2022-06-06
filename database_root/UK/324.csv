@@ -1,0 +1,66 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+2021 BWL Open Series 5,2021-05-31,Men's Senior 109+Kg,Matthew Jones,118.3,128,134,0,160,167,171,134,171,305
+2021 BWL Open Series 5,2021-05-31,Men's Senior 102Kg,Benedict Millson,100.5,133,137,140,153,-160,163,140,163,303
+2021 BWL Open Series 5,2021-05-31,Men's Senior 89Kg,Ollie Cahill,84,130,135,0,155,0,0,135,155,290
+2021 BWL Open Series 5,2021-05-31,Men's Senior 89Kg,Jonathan Biggin,89,130,0,0,155,0,0,130,155,285
+2021 BWL Open Series 5,2021-05-31,Men's Masters (35-39) 109+Kg,Mihai Bagutiu,136.4,125,130,0,150,-155,0,130,150,280
+2021 BWL Open Series 5,2021-05-31,Men's Senior 81Kg,Ryan Sweetman,75.7,115,118,121,148,153,156,121,156,277
+2021 BWL Open Series 5,2021-05-31,Men's Under 23 89Kg,Jason Epton,82.3,120,0,0,150,155,0,120,155,275
+2021 BWL Open Series 5,2021-05-31,Men's Masters (40-44) 109+Kg,iain Couling,123.1,110,120,125,125,135,145,125,145,270
+2021 BWL Open Series 5,2021-05-31,Men's Under 23 96Kg,Stephen Bestman,92.5,110,115,120,140,-145,150,120,150,270
+2021 BWL Open Series 5,2021-05-31,Men's Senior 81Kg,Lawrie Wilkinson,79.8,115,120,0,130,135,0,120,135,255
+2021 BWL Open Series 5,2021-05-31,Men's Senior 96Kg,Tristan Snell,93.5,106,109,112,124,127,130,112,130,242
+2021 BWL Open Series 5,2021-05-31,Men's Masters (40-44) 81Kg,Jamie Mabrouk,78.8,90,94,-97,123,126,129,94,129,223
+2021 BWL Open Series 5,2021-05-31,Men's Junior Under 20 67Kg,James Richardson,66.4,90,95,100,105,110,115,100,115,215
+2021 BWL Open Series 5,2021-05-31,Men's Under 23 61Kg,Yegeun Ji,60.5,85,89,92,113,117,120,92,120,212
+2021 BWL Open Series 5,2021-05-31,Men's Masters (35-39) 89Kg,thomas stringwell,88.3,80,85,90,110,115,-120,90,115,205
+2021 BWL Open Series 5,2021-05-31,Men's Under 23 61Kg,Kieran Stiles,60.8,85,90,-92,100,110,0,90,110,200
+2021 BWL Open Series 5,2021-05-31,Women's Senior 76Kg,Sarah Wiltshire,75.6,86,-89,89,104,-107,107,89,107,196
+2021 BWL Open Series 5,2021-05-31,Women's Senior 87+Kg,Lauren Miller,88.9,81,84,-86,103,108,110,84,110,194
+2021 BWL Open Series 5,2021-05-31,Men's Masters (40-44) 89Kg,Steven McCombe,88.5,90,0,0,100,0,0,90,100,190
+2021 BWL Open Series 5,2021-05-31,Women's Senior 87Kg,Sophie Hammond-Margetson,86.6,80,82,85,102,-105,-105,85,102,187
+2021 BWL Open Series 5,2021-05-31,Men's Masters (40-44) 81Kg,Jason Abraham,80.4,80,83,85,100,-105,-110,85,100,185
+2021 BWL Open Series 5,2021-05-31,Women's Senior 64Kg,Laura Hollobon,61.4,75,78,81,97,-100,100,81,100,181
+2021 BWL Open Series 5,2021-05-31,Women's Youth Under 17 76Kg,Isabella Brown,74,81,83,0,95,97,0,83,97,180
+2021 BWL Open Series 5,2021-05-31,Women's Senior 71Kg,Erin Barton,68,75,78,80,90,95,100,80,100,180
+2021 BWL Open Series 5,2021-05-31,Women's Senior 71Kg,Natasha Osgood,65.8,75,78,80,94,-98,100,80,100,180
+2021 BWL Open Series 5,2021-05-31,Women's Senior 71Kg,Sheli McCoy,66.8,70,75,80,95,-97,100,80,100,180
+2021 BWL Open Series 5,2021-05-31,Women's Under 23 87+Kg,Rebecca Gilbert,92.5,-76,78,80,90,95,100,80,100,180
+2021 BWL Open Series 5,2021-05-31,Women's Senior 64Kg,Laura Hollobon,61.4,75,78,81,97,-100,-100,81,97,178
+2021 BWL Open Series 5,2021-05-31,Women's Senior 87Kg,Alexandra Cave,81.2,70,-74,76,95,100,102,76,102,178
+2021 BWL Open Series 5,2021-05-31,Men's Junior Under 20 67Kg,Hari Kandiah,66.2,70,75,0,90,95,101,75,101,176
+2021 BWL Open Series 5,2021-05-31,Women's Under 23 71Kg,Alice Aitchison,68.7,75,0,0,95,100,0,75,100,175
+2021 BWL Open Series 5,2021-05-31,Men's Junior Under 20 61Kg,Stuart Shilliday,59.6,75,78,80,95,-100,-101,80,95,175
+2021 BWL Open Series 5,2021-05-31,Women's Senior 59Kg,Emma Meek,58.1,73,75,77,-93,93,95,77,95,172
+2021 BWL Open Series 5,2021-05-31,Women's Senior 76Kg,Niamh Menary,71.3,70,75,-78,93,96,0,75,96,171
+2021 BWL Open Series 5,2021-05-31,Men's Masters (35-39) 102Kg,Scott Blackmore,97.9,72,75,0,85,90,-102,75,90,165
+2021 BWL Open Series 5,2021-05-31,Women's Senior 76Kg,Shaelene Stranges,74.2,70,72,-75,85,90,92,72,92,164
+2021 BWL Open Series 5,2021-05-31,Women's Senior 59Kg,Emma Pendle,58.7,64,68,71,82,87,90,71,90,161
+2021 BWL Open Series 5,2021-05-31,Women's Senior 87Kg,maxime van  den dijssel,82.7,66,69,0,90,-94,-98,69,90,159
+2021 BWL Open Series 5,2021-05-31,Women's Senior 64Kg,Hayley Evans,62.7,65,68,70,80,85,87,70,87,157
+2021 BWL Open Series 5,2021-05-31,Women's Senior 87Kg,Emily Nordvang,83.3,68,70,74,80,-85,-88,74,80,154
+2021 BWL Open Series 5,2021-05-31,Women's Masters (35-39) 55Kg,Jane Armour,54.2,60,62,64,83,86,89,64,89,153
+2021 BWL Open Series 5,2021-05-31,Women's Senior 59Kg,Eve Hamilton,57.9,67,0,0,81,0,0,67,81,148
+2021 BWL Open Series 5,2021-05-31,Women's Under 23 81Kg,Annabel Chaffey,79.8,50,55,60,75,80,83,60,83,143
+2021 BWL Open Series 5,2021-05-31,Women's Masters (45-49) 71Kg,Elaine Sims,70.9,56,60,63,76,80,-85,63,80,143
+2021 BWL Open Series 5,2021-05-31,Women's Senior 55Kg,Colette Will,53.5,62,0,0,72,77,79,62,79,141
+2021 BWL Open Series 5,2021-05-31,Women's Under 23 64Kg,Theodora Mitroi,64,60,0,0,78,80,0,60,80,140
+2021 BWL Open Series 5,2021-05-31,Women's Senior 59Kg,Michaela McKay,58.5,64,0,0,75,-80,0,64,75,139
+2021 BWL Open Series 5,2021-05-31,Women's Senior 49Kg,Tammy Wong,48.3,55,57,60,70,75,77,60,77,137
+2021 BWL Open Series 5,2021-05-31,Women's Senior 71Kg,nikki hamilton,64.8,67,0,0,70,0,0,67,70,137
+2021 BWL Open Series 5,2021-05-31,Women's Masters (35-39) 71Kg,Georgina Jimenez,69.2,58,60,62,-70,73,-75,62,73,135
+2021 BWL Open Series 5,2021-05-31,Women's Senior 59Kg,Natasha Ellis,57.6,60,62,-64,-70,72,-74,62,72,134
+2021 BWL Open Series 5,2021-05-31,Women's Senior 71Kg,Grace Harbottle,69.4,54,55,56,71,-74,76,56,76,132
+2021 BWL Open Series 5,2021-05-31,Women's Senior 64Kg,Holly Morton,60.9,55,-58,0,72,76,-80,55,76,131
+2021 BWL Open Series 5,2021-05-31,Women's Senior 87+Kg,Elena Mariuta,97.48,53,56,-58,71,73,75,56,75,131
+2021 BWL Open Series 5,2021-05-31,Women's Under 23 64Kg,Emily Anderton,62.1,49,51,-53,70,-72,74,51,74,125
+2021 BWL Open Series 5,2021-05-31,Women's Masters (35-39) 55Kg,Rosemary McCann,54.2,50,54,57,65,-68,0,57,65,122
+2021 BWL Open Series 5,2021-05-31,Women's Masters (50-54) 64Kg,Maureen McLarnon,61.4,45,50,0,-65,68,0,50,68,118
+2021 BWL Open Series 5,2021-05-31,Women's Masters (40-44) 87+Kg,Clair Fiddaman,90.7,51,53,-55,63,65,-67,53,65,118
+2021 BWL Open Series 5,2021-05-31,Men's Youth Under 17 96Kg,Joshua Farrant,93.2,50,55,58,50,55,60,58,60,118
+2021 BWL Open Series 5,2021-05-31,Men's Masters (35-39) 81Kg,Ramadan Sayed Rabeh,80.8,-88,92,97,-110,-115,-119,97,0,97
+2021 BWL Open Series 5,2021-05-31,Women's Youth Under 17 81Kg,Ava Saunders,77.4,39,41,43,-42,44,46,43,46,89
+2021 BWL Open Series 5,2021-05-31,Women's Masters (35-39) 64Kg,Gemma Ferguson,62.1,40,42,-45,-43,45,-50,42,45,87
+2021 BWL Open Series 5,2021-05-31,Men's Youth Under 17 61Kg,Adam Whitehead,57.2,37,38,39,42,44,45,39,45,84
+2021 BWL Open Series 5,2021-05-31,Women's Youth Under 17 59Kg,Millie Armstrong,56.3,36,0,0,45,-48,0,36,45,81
+2021 BWL Open Series 5,2021-05-31,Women's Youth Under 17 45Kg,Alice Lowry,42.15,21,22,23,25,27,28,23,28,51

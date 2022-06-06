@@ -1,0 +1,44 @@
+meet,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+FDU Open,2013-01-19,Open Men's 85 kg,Muhammad Begaliev,83.49,136,141,145,170,175,180,145,180,325
+FDU Open,2013-01-19,Open Men's 85 kg,Michael Tirrito,83.63,135,135,135,170,170,180,135,180,315
+FDU Open,2013-01-19,Open Men's+105 kg,Robert Kautzmann,112.24,120,130,130,151,160,165,130,165,295
+FDU Open,2013-01-19,Open Men's 94 kg,Brian Platt,90.28,105,110,115,150,155,155,115,155,270
+FDU Open,2013-01-19,Open Men's 94 kg,Christopher Oakley,93.9,106,111,116,130,140,150,116,150,266
+FDU Open,2013-01-19,Open Men's 105 kg,Jim Rutter,94.55,105,110,110,132,140,145,110,145,255
+FDU Open,2013-01-19,Open Men's 62 kg,Darrel Barnes,61.06,100,105,110,130,135,140,110,140,250
+FDU Open,2013-01-19,Open Men's 69 kg,James Corsitto,68.24,100,105,109,130,136,141,109,141,250
+FDU Open,2013-01-19,Open Men's 105 kg,Joel Quintong,97.42,100,105,108,130,137,142,108,142,250
+FDU Open,2013-01-19,Open Men's 94 kg,Eric Mattessich,89.21,100,105,110,115,125,130,110,130,240
+FDU Open,2013-01-19,Open Men's 94 kg,Justin Ciaburri,89.2,101,101,106,126,130,133,106,133,239
+FDU Open,2013-01-19,Open Men's 62 kg,Michael Evans,62,90,95,101,115,120,124,101,124,225
+FDU Open,2013-01-19,Open Men's 94 kg,Dexter Kodat,90.38,96,100,104,114,120,120,104,120,224
+FDU Open,2013-01-19,Open Men's 85 kg,F Dambrie,83.77,90,95,96,110,120,125,96,125,221
+FDU Open,2013-01-19,Open Men's 77 kg,Timothy Moore,72.67,90,95,98,115,120,120,98,120,218
+FDU Open,2013-01-19,Open Men's 94 kg,Robert Garrick,86.8,90,95,95,110,115,115,95,115,210
+FDU Open,2013-01-19,Open Women's 75 kg,Danica Rue,72.53,85,85,89,108,113,117,89,117,206
+FDU Open,2013-01-19,Open Men's 62 kg,Dean Otsuka,61.67,82,86,90,102,105,105,90,105,195
+FDU Open,2013-01-19,Open Men's 62 kg,Michael Graber,60.76,76,79,82,100,105,108,82,108,190
+FDU Open,2013-01-19,Open Men's 62 kg,Kevin Cao,59.32,75,80,80,90,95,100,80,100,180
+FDU Open,2013-01-19,Open Men's 62 kg,Aaron Lin,61.12,75,78,78,95,98,100,78,100,178
+FDU Open,2013-01-19,Open Women's 63 kg,Rizelyx Rivera,61.8,65,72,77,90,95,100,77,100,177
+FDU Open,2013-01-19,Open Women's +75 Kg,Jaclyn Anne,92.26,69,71,74,88,91,0,74,91,165
+FDU Open,2013-01-19,Open Men's 56 kg,Tyler Maizels,55.37,68,71,73,82,86,90,73,90,163
+FDU Open,2013-01-19,Women's Masters (35-39) 69 kg,Patricia Maizels,68.45,65,68,70,82,85,90,70,90,160
+FDU Open,2013-01-19,Open Men's 85 kg,Peter Lee,79.7,60,65,70,80,85,90,70,90,160
+FDU Open,2013-01-19,Open Women's 75 kg,Brooke Nepo,73.27,64,68,68,80,83,84,68,84,152
+FDU Open,2013-01-19,Open Women's +75 Kg,Cait Finn,81.09,62,65,67,80,80,82,67,82,149
+FDU Open,2013-01-19,Open Women's 69 kg,Heather Farmer,67.07,58,61,61,74,77,80,61,80,141
+FDU Open,2013-01-19,Women's Masters (35-39) 63 kg,Angeline Brambley-Moyer,62.69,50,55,60,73,78,80,60,80,140
+FDU Open,2013-01-19,Open Women's +75 Kg,Elda Perez,92.31,47,52,54,70,75,81,54,81,135
+FDU Open,2013-01-19,Open Women's +75 Kg,Elie Dworkin,89.73,57,57,57,70,75,75,57,75,132
+FDU Open,2013-01-19,Open Men's 85 kg,Peter Madow,84.75,130,131,0,0,0,0,131,0,131
+FDU Open,2013-01-19,Open Women's 58 kg,Sarah Henderson,57.34,50,54,56,60,63,64,56,64,120
+FDU Open,2013-01-19,Open Women's 63 kg,Dayna Ceruzzi,62.98,47,49,49,61,64,67,49,67,116
+FDU Open,2013-01-19,Open Women's 63 kg,Lauren Ancona,61.12,45,48,50,60,60,65,50,65,115
+FDU Open,2013-01-19,Open Women's 63 kg,Kaitlyn Fiore,59.39,45,48,50,56,60,64,50,64,114
+FDU Open,2013-01-19,Women's Masters (35-39) 63 kg,Sharon Moran,59.53,45,48,51,55,58,61,51,61,112
+FDU Open,2013-01-19,Open Women's 63 kg,Sarah Tantoco,62.47,47,47,49,55,58,61,49,61,110
+FDU Open,2013-01-19,Open Women's 58 kg,Lindsey Norman,56.26,45,50,51,51,55,55,51,55,106
+FDU Open,2013-01-19,Women's Masters (50-54) 58 kg,JoAnne Sutkin,54.23,39,39,41,50,53,55,41,55,96
+FDU Open,2013-01-19,Open Men's 77 kg,Dante Clementi,73.68,80,85,85,0,0,0,85,0,85
+FDU Open,2013-01-19,Open Men's 69 kg,Aleksey Khomenko,69,75,75,75,0,0,0,75,0,75

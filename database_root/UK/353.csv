@@ -1,0 +1,48 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+2021 BWL Open Series 10,2021-10-31,Men's Senior 96Kg,Allen Brindley,91.6,120,125,131,140,150,160,131,160,291
+2021 BWL Open Series 10,2021-10-31,Men's Senior 96Kg,Andrian Zbirnea,95.7,100,110,120,140,-150,150,120,150,270
+2021 BWL Open Series 10,2021-10-31,Men's Senior 81Kg,Ramadan Sayed Rabeh,78.2,100,-105,108,115,120,123,108,123,231
+2021 BWL Open Series 10,2021-10-31,Men's Senior 109Kg,Alexander Burbridge,108.7,95,100,-102,130,-135,0,100,130,230
+2021 BWL Open Series 10,2021-10-31,Men's Senior 89Kg,Tom Churchill,84.2,88,92,96,111,116,120,96,120,216
+2021 BWL Open Series 10,2021-10-31,Men's Under 23 96Kg,James Wales,94.1,85,90,94,110,120,-125,94,120,214
+2021 BWL Open Series 10,2021-10-31,Men's Senior 67Kg,Ryan Lucas,65.55,88,-91,91,120,-124,-124,91,120,211
+2021 BWL Open Series 10,2021-10-31,Women's Senior 76Kg,Agata Herbert,74.95,90,93,95,100,105,110,95,110,205
+2021 BWL Open Series 10,2021-10-31,Women's Youth Under 17 81+Kg,Emily Sweeney,82.3,84,-86,86,100,105,-108,86,105,191
+2021 BWL Open Series 10,2021-10-31,Women's Senior 71Kg,Caroline Doyle,66.1,79,82,85,100,103,105,85,105,190
+2021 BWL Open Series 10,2021-10-31,Men's Masters (35-39) 73Kg,Stirling Hall,72.6,75,80,-85,100,-105,-107,80,100,180
+2021 BWL Open Series 10,2021-10-31,Men's Masters (35-39) 96Kg,Michael Card,90,65,68,72,97,101,-107,72,101,173
+2021 BWL Open Series 10,2021-10-31,Men's Under 23 89Kg,Pablo Miró,84.2,75,80,0,90,-100,-100,80,90,170
+2021 BWL Open Series 10,2021-10-31,Men's Masters (35-39) 102Kg,Chris Richards,100.4,70,73,75,90,95,-100,75,95,170
+2021 BWL Open Series 10,2021-10-01,Men's Masters (40-44) 102Kg,Jonathan Mackey,100.4,70,73,75,90,95,-100,75,95,170
+2021 BWL Open Series 10,2021-10-31,Women's Senior 71Kg,Shaelene Stranges,69.5,75,77,-80,-90,92,-95,77,92,169
+2021 BWL Open Series 10,2021-10-31,Women's Under 23 87Kg,Alexandra Lesayova,83.25,65,70,72,-92,95,0,72,95,167
+2021 BWL Open Series 10,2021-10-31,Men's Senior 73Kg,Marcel Dutu,67.6,60,63,67,87,90,93,67,93,160
+2021 BWL Open Series 10,2021-10-31,Men's Senior 81Kg,Kendrick So,79.3,60,65,70,80,85,88,70,88,158
+2021 BWL Open Series 10,2021-10-31,Women's Senior 59Kg,Annie Clay,58.3,65,68,70,80,-85,-85,70,80,150
+2021 BWL Open Series 10,2021-10-31,Women's Masters (40-44) 64Kg,CATHERINE MARTIN,63.3,60,63,65,70,75,80,65,80,145
+2021 BWL Open Series 10,2021-10-31,Men's Youth Under 17 89Kg,Richard Doherty,88.6,53,58,63,-70,74,-78,63,74,137
+2021 BWL Open Series 10,2021-10-31,Men's Senior 73Kg,Joshua Hunter,71.1,53,-56,58,72,75,78,58,78,136
+2021 BWL Open Series 10,2021-10-31,Men's Senior 89Kg,Adam Bose,86,58,-63,-67,78,-84,-90,58,78,136
+2021 BWL Open Series 10,2021-10-31,Women's Senior 87Kg,Noemie Walker,81.85,60,-63,0,75,0,0,60,75,135
+2021 BWL Open Series 10,2021-10-31,Men's Youth Under 17 89Kg,Jude Dunne,88.9,53,56,59,-55,70,74,59,74,133
+2021 BWL Open Series 10,2021-10-31,Men's Senior 73Kg,Steven Wright,70.6,50,53,55,73,76,0,55,76,131
+2021 BWL Open Series 10,2021-10-31,Women's Senior 64Kg,Laura Russell,63.2,45,49,-52,63,65,68,49,68,117
+2021 BWL Open Series 10,2021-10-31,Women's Youth Under 17 71Kg,Beth Hammond,70.1,43,47,51,59,63,66,51,66,117
+2021 BWL Open Series 10,2021-10-31,Women's Masters (35-39) 55Kg,Rosemary McCann,53.9,53,0,0,60,63,0,53,63,116
+2021 BWL Open Series 10,2021-10-31,Women's Masters (50-54) 64Kg,Maureen McLarnon,61.5,48,0,0,65,0,0,48,65,113
+2021 BWL Open Series 10,2021-10-31,Women's Masters (35-39) 71Kg,Marnie Prior,69.5,48,50,0,60,63,0,50,63,113
+2021 BWL Open Series 10,2021-10-31,Women's Masters (35-39) 76Kg,Sarah-Anne Duncan,73.8,45,0,0,55,-60,62,45,62,107
+2021 BWL Open Series 10,2021-10-31,Women's Masters (40-44) 87Kg,Clair Fiddaman,86.9,44,46,48,57,59,-61,48,59,107
+2021 BWL Open Series 10,2021-10-31,Women's Senior 49Kg,Rebecca Hall,49,38,40,42,55,-55,60,42,60,102
+2021 BWL Open Series 10,2021-10-31,Women's Under 23 59Kg,Mariana Bela Pilakoutas,58.5,40,45,0,50,55,0,45,55,100
+2021 BWL Open Series 10,2021-10-31,Women's Youth Under 17 71Kg,Hannah Spence,70.2,45,0,0,55,0,0,45,55,100
+2021 BWL Open Series 10,2021-10-31,Women's Senior 64Kg,Jennifer McNaught,62.7,35,40,-44,-55,58,-60,40,58,98
+2021 BWL Open Series 10,2021-10-31,Women's Masters (35-39) 64Kg,Gemma Ferguson,63.5,40,42,44,50,51,-52,44,51,95
+2021 BWL Open Series 10,2021-10-31,Women's Senior 71Kg,Stacey McGhee,69.3,35,40,0,50,55,0,40,55,95
+2021 BWL Open Series 10,2021-10-31,Women's Youth Under 17 59Kg,Naeve Pountney,58.2,34,37,40,50,53,-56,40,53,93
+2021 BWL Open Series 10,2021-10-31,Men's Youth Under 17 73Kg,Finn Neely,68.9,37,39,41,47,49,51,41,51,92
+2021 BWL Open Series 10,2021-10-31,Women's Junior Under 20 59Kg,Jennifer Benton,57.2,28,30,0,40,42,44,30,44,74
+2021 BWL Open Series 10,2021-10-31,Women's Youth Under 15 64Kg,Makayla Hall,61.6,33,35,-38,37,-40,-42,35,37,72
+2021 BWL Open Series 10,2021-10-31,Women's Senior 64Kg,Bethan Watkins,62.5,70,-72,-74,-88,-90,-92,70,0,70
+2021 BWL Open Series 10,2021-10-31,Women's Masters (45-49) 64Kg,Louise Terry,59.95,41,42,0,-54,0,0,42,0,42
+2021 BWL Open Series 10,2021-10-31,Women's Senior 49Kg,Marie  McLaughlin ,47.9,32,0,0,-42,0,0,32,0,32

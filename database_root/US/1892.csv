@@ -1,0 +1,85 @@
+meet,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Athletic Lab Summer Classic,2016-07-17,Open Men's 105 kg,David Lynn,103.6,140,145,146,180,185,185,146,185,331
+Athletic Lab Summer Classic,2016-07-17,Open Men's+105 kg,Steven Gaudet,121.3,120,121,125,170,175,177,125,177,302
+Athletic Lab Summer Classic,2016-07-17,Open Men's+105 kg,Simon Haake,110.4,120,125,130,160,165,165,130,165,295
+Athletic Lab Summer Classic,2016-07-17,Open Men's+105 kg,Trevor Denning,129.9,115,120,123,141,150,160,123,160,283
+Athletic Lab Summer Classic,2016-07-17,Open Men's 105 kg,Jonathan Poole,96.7,120,120,120,155,162,162,120,162,282
+Athletic Lab Summer Classic,2016-07-17,Open Men's 85 kg,Jonathan Domin,84.9,121,126,128,145,150,150,128,150,278
+Athletic Lab Summer Classic,2016-07-17,Open Men's 85 kg,Alexander Carnall,83.9,115,120,120,151,155,155,120,155,275
+Athletic Lab Summer Classic,2016-07-17,Open Men's 85 kg,Geoffrey Steinbacher,84.1,114,117,118,153,156,156,118,156,274
+Athletic Lab Summer Classic,2016-07-17,Open Men's 85 kg,Ethan Hom,83,116,118,120,145,151,152,120,152,272
+Athletic Lab Summer Classic,2016-07-17,Open Men's 105 kg,John Smith,99,111,116,125,130,140,145,125,145,270
+Athletic Lab Summer Classic,2016-07-17,Open Men's 94 kg,Mike Darlington,93.6,116,120,121,140,144,147,121,147,268
+Athletic Lab Summer Classic,2016-07-17,Open Men's 77 kg,Hwan Kim,75.6,110,115,116,135,140,147,116,147,263
+Athletic Lab Summer Classic,2016-07-17,Open Men's+105 kg,Mark Fogleman,121.6,110,113,113,141,146,109,113,146,259
+Athletic Lab Summer Classic,2016-07-17,Open Men's 77 kg,Tyler Simmons,75.5,105,110,111,135,137,141,111,141,252
+Athletic Lab Summer Classic,2016-07-17,Open Men's 85 kg,Branden Fournier,81.5,105,110,111,130,136,141,111,141,252
+Athletic Lab Summer Classic,2016-07-17,Open Men's 105 kg,James Gold,96.7,95,100,106,123,127,131,106,131,237
+Athletic Lab Summer Classic,2016-07-17,Open Men's 85 kg,Ross Copeland,84.3,103,105,109,123,125,125,109,125,234
+Athletic Lab Summer Classic,2016-07-17,Open Men's 94 kg,Cam Demmerle,92.2,99,104,106,120,126,126,106,126,232
+Athletic Lab Summer Classic,2016-07-17,Open Men's 77 kg,Michael Young,76.5,95,100,105,118,123,125,105,125,230
+Athletic Lab Summer Classic,2016-07-17,Open Men's 94 kg,Matthew Rexrode,90.4,80,87,92,120,129,137,92,137,229
+Athletic Lab Summer Classic,2016-07-17,Open Men's+105 kg,Matthew Cates,122.2,95,97,100,121,126,128,100,128,228
+Athletic Lab Summer Classic,2016-07-17,Open Men's 105 kg,James de Klerk,98.6,90,95,95,120,125,130,95,130,225
+Athletic Lab Summer Classic,2016-07-17,Open Men's 77 kg,Joshua Summerfield,76.7,90,97,98,120,123,125,98,125,223
+Athletic Lab Summer Classic,2016-07-17,Open Men's 105 kg,JB Wood,102,90,95,100,110,120,122,100,122,222
+Athletic Lab Summer Classic,2016-07-17,Open Men's 105 kg,Jesse Wise,99,80,87,90,117,125,130,90,130,220
+Athletic Lab Summer Classic,2016-07-17,Open Men's 77 kg,Christopher Colvin,76.7,95,95,95,118,122,125,95,125,220
+Athletic Lab Summer Classic,2016-07-17,Open Men's 105 kg,Matthew Cooney,98.7,92,96,100,108,112,116,100,116,216
+Athletic Lab Summer Classic,2016-07-17,Open Men's 77 kg,John Grace,74.8,90,96,96,115,120,120,96,120,216
+Athletic Lab Summer Classic,2016-07-17,Open Men's 85 kg,Andrew Harmon,83.9,90,91,95,110,114,117,95,117,212
+Athletic Lab Summer Classic,2016-07-17,Open Men's 94 kg,John Lindsey,92,75,82,91,100,110,121,91,121,212
+Athletic Lab Summer Classic,2016-07-17,Open Men's 77 kg,Andrew Deel,75.9,88,88,88,109,110,120,88,120,208
+Athletic Lab Summer Classic,2016-07-17,Open Men's 94 kg,Alan Colvin,91.2,85,90,96,100,105,112,96,112,208
+Athletic Lab Summer Classic,2016-07-17,Open Men's 77 kg,Karl Hamlin,72.9,80,90,95,105,111,111,95,111,206
+Athletic Lab Summer Classic,2016-07-17,Open Men's 85 kg,Jason Novak,84.3,73,77,85,109,113,118,85,118,203
+Athletic Lab Summer Classic,2016-07-17,Open Men's 85 kg,Brandon Fox,80.1,70,75,80,112,117,120,80,120,200
+Athletic Lab Summer Classic,2016-07-17,Open Men's 77 kg,Walker Burnette,76.7,82,86,91,101,106,108,91,108,199
+Athletic Lab Summer Classic,2016-07-17,Open Men's 62 kg,Joseph DarderUquillas,60.2,87,90,90,100,104,105,90,105,195
+Athletic Lab Summer Classic,2016-07-17,Open Men's 77 kg,Kevin Keys,76.1,70,75,82,100,108,112,82,112,194
+Athletic Lab Summer Classic,2016-07-17,Open Men's 85 kg,Benjamin Davis,84.5,80,85,86,101,106,108,86,108,194
+Athletic Lab Summer Classic,2016-07-17,Open Men's 105 kg,oliver risigiarigai,103.4,75,75,79,107,113,113,79,113,192
+Athletic Lab Summer Classic,2016-07-17,Open Women's 63 kg,Dana Paran,62.5,78,82,86,98,101,105,86,105,191
+Athletic Lab Summer Classic,2016-07-17,Open Men's+105 kg,Derek Elder,110,77,79,82,105,108,109,82,109,191
+Athletic Lab Summer Classic,2016-07-17,Open Men's 85 kg,Corey Burton,83.8,75,75,80,97,103,107,80,107,187
+Athletic Lab Summer Classic,2016-07-17,Open Women's 69 kg,Viviane Papp,67.4,70,78,82,95,100,102,82,102,184
+Athletic Lab Summer Classic,2016-07-17,Open Men's 105 kg,Brian Burdette,103.8,70,75,77,90,98,103,77,103,180
+Athletic Lab Summer Classic,2016-07-17,Open Men's 62 kg,Armondo Balotti,61.4,78,81,83,90,95,0,83,95,178
+Athletic Lab Summer Classic,2016-07-17,Open Women's 58 kg,Jessica Newton,56.7,70,74,75,88,93,97,75,97,172
+Athletic Lab Summer Classic,2016-07-17,Open Men's 94 kg,William Kelly,93,66,68,70,88,90,93,70,93,163
+Athletic Lab Summer Classic,2016-07-17,Open Women's 63 kg,Keeli Michael,62.6,63,68,73,79,86,86,73,86,159
+Athletic Lab Summer Classic,2016-07-17,Open Women's +75 Kg,Lindsay Watson,85,62,66,70,80,84,88,70,88,158
+Athletic Lab Summer Classic,2016-07-17,Open Men's 77 kg,David Rubin,76.3,62,64,67,81,88,91,67,91,158
+Athletic Lab Summer Classic,2016-07-17,Open Women's 69 kg,Emily Kuhns,68.6,64,64,66,84,86,88,66,88,154
+Athletic Lab Summer Classic,2016-07-17,Open Women's 63 kg,ashley kiser,62.4,66,68,70,78,80,81,70,81,151
+Athletic Lab Summer Classic,2016-07-17,Open Women's 58 kg,Faith Stewart,58,57,61,65,73,76,80,65,80,145
+Athletic Lab Summer Classic,2016-07-17,Open Women's 58 kg,Kashayla Stanford,55,55,60,63,70,75,81,63,81,144
+Athletic Lab Summer Classic,2016-07-17,Open Men's 69 kg,Paul Jones,67.3,55,60,64,69,73,77,64,77,141
+Athletic Lab Summer Classic,2016-07-17,Open Women's 69 kg,Samantha Kirkland,68,57,60,61,68,74,79,61,79,140
+Athletic Lab Summer Classic,2016-07-17,Women's Masters (35-39) 53 kg,Rebecca Lee,53,57,59,59,73,75,79,59,79,138
+Athletic Lab Summer Classic,2016-07-17,Open Women's 53 kg,LaDonna Byarse,52.6,53,55,55,71,73,76,55,76,131
+Athletic Lab Summer Classic,2016-07-17,Open Women's 58 kg,Charlotte Goins,55.4,50,53,58,60,65,67,58,67,125
+Athletic Lab Summer Classic,2016-07-17,Open Women's 53 kg,Hannah Trinh,53,45,49,51,67,67,74,51,74,125
+Athletic Lab Summer Classic,2016-07-17,Open Women's 63 kg,Taylor Spofford,62.7,50,52,56,64,66,68,56,68,124
+Athletic Lab Summer Classic,2016-07-17,Open Women's 69 kg,Kirstin Shaffer,68.3,48,50,53,65,67,70,53,70,123
+Athletic Lab Summer Classic,2016-07-17,Women's Masters (35-39) 53 kg,Sharon Wilkerson,52.9,48,51,51,62,65,70,51,70,121
+Athletic Lab Summer Classic,2016-07-17,Open Women's 48 kg,Kelly McClintock,48,49,53,-55,66,-70,-70,53,66,119
+Athletic Lab Summer Classic,2016-07-17,Open Women's 69 kg,Shih-Ju Young,68.1,47,50,53,60,63,65,53,65,118
+Athletic Lab Summer Classic,2016-07-17,Open Women's 63 kg,Amanda Brown,60.6,48,50,52,61,64,66,52,66,118
+Athletic Lab Summer Classic,2016-07-17,Open Women's +75 Kg,Alyssa Whiddon,81.4,45,47,47,61,64,67,47,67,114
+Athletic Lab Summer Classic,2016-07-17,Women's 14-15 Age Group +69 kg,Kassidy Wood,90.1,45,45,48,60,65,65,48,65,113
+Athletic Lab Summer Classic,2016-07-17,Open Women's 63 kg,Emily Parker,60.6,42,45,49,56,59,63,49,63,112
+Athletic Lab Summer Classic,2016-07-17,Open Women's 69 kg,Mary Floyd,66.2,45,47,50,52,56,60,50,60,110
+Athletic Lab Summer Classic,2016-07-17,Women's Masters (35-39) 63 kg,Melissa Hill,60.3,40,44,49,53,56,59,49,59,108
+Athletic Lab Summer Classic,2016-07-17,Open Men's+105 kg,William Saja,114.4,42,45,50,52,55,57,50,57,107
+Athletic Lab Summer Classic,2016-07-17,Open Men's 85 kg,Austin Reed,80.4,44,46,47,57,59,59,47,59,106
+Athletic Lab Summer Classic,2016-07-17,Women's Masters (45-49) 69 kg,Margaret Litton,67.4,42,44,46,52,55,57,46,57,103
+Athletic Lab Summer Classic,2016-07-17,Open Women's 63 kg,Nicole De Naeyer,61,37,40,43,50,53,55,43,55,98
+Athletic Lab Summer Classic,2016-07-17,Open Women's 58 kg,Robyn Sanders,58,33,37,41,47,51,55,41,55,96
+Athletic Lab Summer Classic,2016-07-17,Open Women's 63 kg,Holly Ault,62.1,37,39,42,48,51,53,42,53,95
+Athletic Lab Summer Classic,2016-07-17,Open Women's 63 kg,Kathryn Bradshaw,61.3,41,43,43,50,50,50,43,50,93
+Athletic Lab Summer Classic,2016-07-17,Open Women's 63 kg,Colleen Herman,62.7,34,36,38,43,45,47,38,47,85
+Athletic Lab Summer Classic,2016-07-17,Open Women's 48 kg,Stephanie Galvach,42.8,32,35,35,42,45,48,35,48,83
+Athletic Lab Summer Classic,2016-07-17,Women's Masters (35-39) 53 kg,Jennifer Nau,50.4,29,31,34,41,44,47,34,47,81
+Athletic Lab Summer Classic,2016-07-17,Open Women's 63 kg,Rachael Mintz-Cole,62.2,28,31,34,37,40,46,34,46,80
+Athletic Lab Summer Classic,2016-07-17,Open Women's 48 kg,Christina Concepcion,46.5,29,29,32,41,45,47,32,47,79

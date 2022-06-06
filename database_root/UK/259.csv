@@ -1,0 +1,39 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+scottish masters cup,2019-11-16,Men's Masters (35-39) 102Kg,Gareth Owen,98.45,100,-111,111,137,142,-150,111,142,253
+scottish masters cup,2019-11-16,Men's Masters (35-39) 102Kg,Gareth Owen,98.45,100,-111,111,137,142,-150,111,142,253
+scottish masters cup,2019-11-16,Men's Masters (35-39) 81Kg,Scott Battersby,74,80,85,90,102,107,-112,90,107,197
+scottish masters cup,2019-11-16,Men's Masters (35-39) 81Kg,Scott Battersby,74,80,85,90,102,107,-112,90,107,197
+scottish masters cup,2019-11-16,Men's Masters (35-39) 73Kg,John Keenan,72.9,75,80,-85,105,-112,112,80,112,192
+scottish masters cup,2019-11-16,Men's Masters (35-39) 73Kg,John Keenan,72.9,75,80,-85,105,-112,112,80,112,192
+scottish masters cup,2019-11-16,Men's Masters (35-39) 67Kg,Robert Oneill,66.25,83,-86,-86,-106,-106,106,83,106,189
+scottish masters cup,2019-11-16,Men's Masters (35-39) 67Kg,Robert Oneill,66.25,83,-86,-86,-106,-106,106,83,106,189
+scottish masters cup,2019-11-16,Men's Masters (35-39) 73Kg,Darren Grieve,71.95,65,68,71,90,95,101,71,101,172
+scottish masters cup,2019-11-16,Men's Masters (35-39) 73Kg,Darren Grieve,71.95,65,68,71,90,95,101,71,101,172
+scottish masters cup,2019-11-16,Men's Masters (40-44) 81Kg,Andrew MacIntyre,80.5,72,-76,-77,93,97,-101,72,97,169
+scottish masters cup,2019-11-16,Men's Masters (35-39) 81Kg,Andrew McIntyre,80.5,72,-76,-77,93,97,-101,72,97,169
+scottish masters cup,2019-11-16,Men's Masters (55-59) 81Kg,Graeme Nichol,75.75,65,70,-73,85,88,-91,70,88,158
+scottish masters cup,2019-11-16,Men's Masters (55-59) 81Kg,Graeme Nichol,75.75,65,70,-73,85,88,-91,70,88,158
+scottish masters cup,2019-11-16,Men's Masters (35-39) 73Kg,Thomas Connolly,70.5,65,68,-72,-83,0,83,68,83,151
+scottish masters cup,2019-11-16,Men's Masters (35-39) 73Kg,Thomas Connolly,70.5,65,68,-72,-83,-83,83,68,83,151
+scottish masters cup,2019-11-16,Men's Masters (45-49) 89Kg,Steven Lafferty,84.1,60,62,-64,80,85,88,62,88,150
+scottish masters cup,2019-11-16,Men's Masters (45-49) 89Kg,Steven Lafferty,84.1,60,62,-64,80,85,88,62,88,150
+scottish masters cup,2019-11-16,Men's Masters (55-59) 73Kg,Colin Hannah,70.95,60,-65,65,80,-85,-85,65,80,145
+scottish masters cup,2019-11-16,Men's Masters (55-59) 73Kg,Colin Hannah,70.95,60,-65,65,80,-85,-85,65,80,145
+scottish masters cup,2019-11-16,Men's Masters (45-49) 61Kg,Colin Selfridge,58.15,58,63,-67,72,77,79,63,79,142
+scottish masters cup,2019-11-16,Men's Masters (45-49) 61Kg,Colin Selfridge,58.15,58,63,-67,72,77,79,63,79,142
+scottish masters cup,2019-11-16,Women's Masters (40-44) 71Kg,Emma Wilkins,70.65,53,56,-59,-73,73,76,56,76,132
+scottish masters cup,2019-11-16,Women's Masters (40-44) 71Kg,Emma Wilkins,70.65,53,56,-59,-73,73,76,56,76,132
+scottish masters cup,2019-11-16,Men's Masters (55-59) 89Kg,Alex Phillips,85.75,44,46,48,64,67,70,48,70,118
+scottish masters cup,2019-11-16,Men's Masters (35-39) 109+Kg,Richard Tawse,111.25,50,53,55,60,63,-65,55,63,118
+scottish masters cup,2019-11-16,Men's Masters (55-59) 89Kg,Alex Phillips,85.75,44,46,48,64,67,70,48,70,118
+scottish masters cup,2019-11-16,Men's Masters (35-39) 109+Kg,Richard Tawse,111.25,50,53,55,60,63,-65,55,63,118
+scottish masters cup,2019-11-16,Women's Masters (45-49) 64Kg,Yvonne Spence,62.55,42,45,47,53,57,-60,47,57,104
+scottish masters cup,2019-11-16,Women's Masters (45-49) 64Kg,Yvonne Spence,62.55,42,45,47,53,57,-60,47,57,104
+scottish masters cup,2019-11-16,Men's Masters (65-69) 73Kg,George Stuart McConville,68.55,41,45,-48,50,56,-60,45,56,101
+scottish masters cup,2019-11-16,Men's Masters (65-69) 73Kg,George Stuart McConville,68.55,41,45,-48,50,56,-60,45,56,101
+scottish masters cup,2019-11-16,Men's Masters (55-59) 89Kg,Thomas Saez,88.2,-40,40,-45,53,57,-60,40,57,97
+scottish masters cup,2019-11-16,Men's Masters (55-59) 89Kg,Thomas Saez,88.2,-40,40,-45,53,57,-60,40,57,97
+scottish masters cup,2019-11-16,Women's Masters (40-44) 64Kg,Sheryl Paul,62.3,33,36,-39,52,55,-59,36,55,91
+scottish masters cup,2019-11-16,Women's Masters (40-44) 64Kg,Sheryl Paul,62.3,33,36,-39,52,55,-59,36,55,91
+scottish masters cup,2019-11-16,Women's Masters (60-64) 87Kg,claire cameron,82.8,30,32,33,41,43,44,33,44,77
+scottish masters cup,2019-11-16,Women's Masters (60-64) 87Kg,claire cameron,82.8,30,32,33,41,43,44,33,44,77

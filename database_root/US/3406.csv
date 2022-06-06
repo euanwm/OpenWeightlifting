@@ -1,0 +1,44 @@
+meet,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Vero Beach Classic,2018-08-11,Open Men's 96kg,Jason Bonnick,95.7,153,158,-163,176,184,190,158,190,348
+Vero Beach Classic,2018-08-11,Open Men's +109kg,Tylar Reagan,150,130,135,140,162,169,175,140,175,315
+Vero Beach Classic,2018-08-11,Open Men's 102kg,Ben Catania,101.6,130,135,140,162,-168,170,140,170,310
+Vero Beach Classic,2018-08-11,Open Men's 96kg,Noah Blakemore,95.5,-130,130,-140,162,168,172,130,172,302
+Vero Beach Classic,2018-08-11,Open Men's 73kg,Anthony Donato,70.7,87,91,94,117,122,127,94,127,221
+Vero Beach Classic,2018-08-11,Open Men's 73kg,Matt Saeler,73,90,100,-105,110,115,120,100,120,220
+Vero Beach Classic,2018-08-11,Open Men's 67kg,Justin Niles,66.95,-84,-85,85,105,108,-111,85,108,193
+Vero Beach Classic,2018-08-11,Open Men's 61kg,Christopher Jacobs,58.5,71,74,78,87,91,95,78,95,173
+Vero Beach Classic,2018-08-11,Open Women's 81kg,Vanessa Damoulis,79.85,75,-79,81,-92,92,-95,81,92,173
+Vero Beach Classic,2018-08-11,Open Women's 59kg,juliette Chang-Fane,58.2,71,74,77,90,94,-97,77,94,171
+Vero Beach Classic,2018-08-11,Open Men's 61kg,Justin Short,59.6,72,75,-78,87,-91,91,75,91,166
+Vero Beach Classic,2018-08-11,Open Women's 59kg,Jessica Newton,58.85,-69,69,72,88,93,-96,72,93,165
+Vero Beach Classic,2018-08-11,Open Women's 59kg,Nicole Fisher,58.9,-70,70,73,91,-95,-96,73,91,164
+Vero Beach Classic,2018-08-11,Open Women's 64kg,Hunter Harrison,63,65,68,71,85,90,93,71,93,164
+Vero Beach Classic,2018-08-11,Women's 16-17 Age Group 59kg,Chloe Holland,58.15,60,63,-66,79,-83,-83,63,79,142
+Vero Beach Classic,2018-08-11,Open Women's 87kg,Sara Shelton,85.3,49,53,-57,70,75,80,53,80,133
+Vero Beach Classic,2018-08-11,Open Women's +87kg,Virgina Strough,117.85,45,50,55,65,70,-75,55,70,125
+Vero Beach Classic,2018-08-11,Open Women's 49kg,Michelle Roca,48.4,50,52,-55,68,72,-76,52,72,124
+Vero Beach Classic,2018-08-11,Open Women's 64kg,Christina Medina,63.25,-47,47,50,66,70,-73,50,70,120
+Vero Beach Classic,2018-08-11,Open Women's 76kg,Jennifer Neckles,75,50,53,-57,-65,-65,65,53,65,118
+Vero Beach Classic,2018-08-11,Open Women's 71kg,Delaney Willingham,68.25,44,47,50,62,65,68,50,68,118
+Vero Beach Classic,2018-08-11,Women's 16-17 Age Group 76kg,Evelyn Alvarez,72.2,46,49,-52,62,66,-70,49,66,115
+Vero Beach Classic,2018-08-11,Open Men's +109kg,Quan Vo-le,123.5,-110,110,115,-145,-145,-145,115,0,115
+Vero Beach Classic,2018-08-11,Open Women's 59kg,Madison Hannon,58.2,-43,-43,43,65,69,-73,43,69,112
+Vero Beach Classic,2018-08-11,Women's 16-17 Age Group 59kg,Madelene McCain,58.05,42,45,-48,59,-63,64,45,64,109
+Vero Beach Classic,2018-08-11,Women's Masters (35-39) 59kg,Tanya Poppa,58.15,43,46,-52,57,60,63,46,63,109
+Vero Beach Classic,2018-08-11,Women's 16-17 Age Group 71kg,Anne Dickinson,68.35,45,48,-51,60,-65,-65,48,60,108
+Vero Beach Classic,2018-08-11,Women's Masters (35-39) 64kg,LIZETTE GUTIERREZ,59.75,39,45,-48,50,58,-64,45,58,103
+Vero Beach Classic,2018-08-11,Women's 16-17 Age Group 55kg,Maggie Liott,52.85,42,44,-46,52,55,57,44,57,101
+Vero Beach Classic,2018-08-11,Women's 14-15 Age Group 45kg,Alyssa DePalo,43.8,42,-45,45,52,55,-58,45,55,100
+Vero Beach Classic,2018-08-11,Women's 16-17 Age Group 55kg,Grace Dickinson,51.7,-43,43,-45,53,-57,-57,43,53,96
+Vero Beach Classic,2018-08-11,Open Women's 49kg,Kathleen Casto,48.6,40,-43,43,52,-55,-55,43,52,95
+Vero Beach Classic,2018-08-11,Open Women's 71kg,Lillian De Larm,69.45,-37,37,40,51,54,-57,40,54,94
+Vero Beach Classic,2018-08-11,Men's 14-15 Age Group 55kg,Damian Frisco,54,38,41,-44,42,-51,51,41,51,92
+Vero Beach Classic,2018-08-11,Open Men's 81kg,Mitchell Bradley,75,82,87,-90,-108,-108,-108,87,0,87
+Vero Beach Classic,2018-08-11,Open Women's 71kg,kaitlin Golub,65.1,-40,40,-43,-47,47,-50,40,47,87
+Vero Beach Classic,2018-08-11,Men's 13 Under Age Group 44kg,Farhan Sharar,42,31,33,35,42,45,48,35,48,83
+Vero Beach Classic,2018-08-11,Women's 16-17 Age Group 45kg,Hailey Ray,41.95,31,33,35,42,45,-48,35,45,80
+Vero Beach Classic,2018-08-11,Women's 13 Under Age Group +64kg,Mollie McCain,68.3,33,35,-37,43,-45,45,35,45,80
+Vero Beach Classic,2018-08-11,Men's 13 Under Age Group 32kg,Vincent DePalo,29.3,23,25,27,33,35,37,27,37,64
+Vero Beach Classic,2018-08-11,Women's 16-17 Age Group 76kg,Samantha Binard,75.8,25,27,29,30,32,35,29,35,64
+Vero Beach Classic,2018-08-11,Women's 13 Under Age Group 49kg,Carol Martinez,46.4,12,13,15,22,25,27,15,27,42
+Vero Beach Classic,2018-08-11,Women's 13 Under Age Group 30kg,Devoney Villanueva,29.65,11,12,14,16,18,20,14,20,34

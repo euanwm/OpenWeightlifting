@@ -1,0 +1,79 @@
+meet,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Turkey Cup,2014-11-15,Open Men's 105 kg,Zachary Schluender,104.78,130,135,140,150,156,161,140,161,301
+Turkey Cup,2014-11-15,Open Men's 85 kg,Kevin Zybach,84.98,115,120,-131,145,155,-160,120,155,275
+Turkey Cup,2014-11-15,Open Men's 77 kg,Jensen McTavish,76.31,115,-120,120,-142,145,-150,120,145,265
+Turkey Cup,2014-11-15,Open Men's 77 kg,Nathan Mitchell,76.93,115,120,-125,140,-145,145,120,145,265
+Turkey Cup,2014-11-15,Open Men's 105 kg,Adam Wright,96.98,-115,115,-120,135,-140,-140,115,135,250
+Turkey Cup,2014-11-15,Open Men's 77 kg,Cuong Ly,74.81,104,109,-114,-135,135,140,109,140,249
+Turkey Cup,2014-11-15,Open Men's 94 kg,Justin Broadbooks,89.35,105,-110,110,-130,130,135,110,135,245
+Turkey Cup,2014-11-15,Open Men's+105 kg,Patrick Harty,135.03,100,105,-110,-135,135,140,105,140,245
+Turkey Cup,2014-11-15,Open Men's 94 kg,Christian Hobbs,89.48,100,107,-113,137,-144,-144,107,137,244
+Turkey Cup,2014-11-15,Open Men's 105 kg,Tim Sinak,94,100,-105,105,120,-127,-127,105,120,225
+Turkey Cup,2014-11-15,Open Men's 85 kg,D'Andre Polk,84.99,93,97,-100,115,120,125,97,125,222
+Turkey Cup,2014-11-15,Open Men's 85 kg,Erik Phillips,83.32,94,-98,-98,125,-13,-130,94,125,219
+Turkey Cup,2014-11-15,Open Men's 77 kg,Tanne M,76.18,-86,-86,86,130,-136,-136,86,130,216
+Turkey Cup,2014-11-15,Open Men's 62 kg,Gabriel Dawson,61.85,88,-91,-91,110,117,-120,88,117,205
+Turkey Cup,2014-11-15,Open Men's 69 kg,Kevin Myers,68.98,80,86,-90,108,112,118,86,118,204
+Turkey Cup,2014-11-15,Open Men's 69 kg,D'Angelo Ross,64.85,85,-87,-87,109,111,-115,85,111,196
+Turkey Cup,2014-11-15,Open Men's 62 kg,Aaron Powell,61.26,81,-86,86,-102,102,106,86,106,192
+Turkey Cup,2014-11-15,Open Men's 77 kg,Jordan Kroell,71.25,82,-85,-85,105,-110,-110,82,105,187
+Turkey Cup,2014-11-15,Open Men's 69 kg,Max Boone,65.39,-79,-79,79,95,100,-107,79,100,179
+Turkey Cup,2014-11-15,Open Men's 62 kg,Bret Pfeiffer,60.86,-75,75,-79,93,98,-102,75,98,173
+Turkey Cup,2014-11-15,Women's 16-17 Age Group 75 kg,Nicole Tennant,74.58,74,77,-80,90,-94,-94,77,90,167
+Turkey Cup,2014-11-15,Open Women's 75 kg,Casey Zollmann,74.21,-70,70,-73,93,96,-100,70,96,166
+Turkey Cup,2014-11-15,Open Men's 69 kg,Skylar Martin,68.16,72,-76,-76,-90,90,-95,72,90,162
+Turkey Cup,2014-11-15,Women's 14-15 Age Group +69 kg,Rapulu Okolo,72.08,64,-69,70,82,86,-90,70,86,156
+Turkey Cup,2014-11-15,Open Men's 105 kg,Joseph Sigismondo,99.19,-120,-120,-120,-145,-155,155,0,155,155
+Turkey Cup,2014-11-15,Open Women's 63 kg,Kathleen Giebler,62.48,60,65,-67,-74,75,80,65,80,145
+Turkey Cup,2014-11-15,Open Men's 56 kg,Quoc-Thang Tran,55.23,63,-68,-70,75,80,-85,63,80,143
+Turkey Cup,2014-11-15,Women's 16-17 Age Group 58 kg,Camille Caskey,53.64,57,60,-62,-75,76,-79,60,76,136
+Turkey Cup,2014-11-15,Open Women's 69 kg,Christina Elberts,67.77,-58,58,-62,74,-78,78,58,78,136
+Turkey Cup,2014-11-15,Open Women's 75 kg,Aubrie Hackathorn,73.38,-55,55,-61,73,78,81,55,81,136
+Turkey Cup,2014-11-15,Open Women's 63 kg,Leah Reimnitz,60.97,59,62,-64,68,71,-73,62,71,133
+Turkey Cup,2014-11-15,Women's 14-15 Age Group 58 kg,A'Leah Ross,55.3,50,53,55,70,74,76,55,76,131
+Turkey Cup,2014-11-15,Women's 14-15 Age Group 58 kg,Alexa Burks,54,55,58,-61,72,-76,-76,58,72,130
+Turkey Cup,2014-11-15,Women's 14-15 Age Group +69 kg,Victoria Crooks,83.57,54,57,-60,69,73,-75,57,73,130
+Turkey Cup,2014-11-15,Open Women's 53 kg,Miranda Gilley,52.62,55,-60,-60,70,75,-80,55,75,130
+Turkey Cup,2014-11-15,Open Women's 63 kg,Danielle Rider,61.4,60,-62,-62,-70,70,-74,60,70,130
+Turkey Cup,2014-11-15,Women's 14-15 Age Group 63 kg,Emily Camacho,61.85,-54,54,-58,69,71,74,54,74,128
+Turkey Cup,2014-11-15,Open Women's 63 kg,Angelique Matsushima,60.29,50,55,-60,65,70,73,55,73,128
+Turkey Cup,2014-11-15,Open Men's 85 kg,Zackary Burks,84.69,-102,-102,-102,-125,125,0,0,125,125
+Turkey Cup,2014-11-15,Men's 13 Under Age Group +69 Kg,Lance Watkins,70,48,50,-53,68,71,73,50,73,123
+Turkey Cup,2014-11-15,Open Women's 48 kg,Heather Snethen,47.39,53,-55,-55,70,-72,-72,53,70,123
+Turkey Cup,2014-11-15,Open Women's 58 kg,Meagan O'Donnell,56.28,50,-53,-53,68,-71,71,50,71,121
+Turkey Cup,2014-11-15,Open Men's 62 kg,Caleb White,61.2,-88,-88,-93,105,110,115,0,115,115
+Turkey Cup,2014-11-15,Men's 13 Under Age Group 62 Kg,Eli Wilson-Brown,61.29,45,49,52,54,58,-61,52,58,110
+Turkey Cup,2014-11-15,Women's 16-17 Age Group 48 kg,LeAndra Webb,47.92,41,45,50,-52,55,60,50,60,110
+Turkey Cup,2014-11-15,Open Women's 69 kg,Amanda Sciandra,68.87,35,40,45,50,55,56,45,56,101
+Turkey Cup,2014-11-15,Open Women's 58 kg,Evelyn MacKay,56.04,40,-45,-47,50,55,60,40,60,100
+Turkey Cup,2014-11-15,Open Men's 85 kg,Gil Parbey,79.55,-85,-90,-90,100,-105,-108,0,100,100
+Turkey Cup,2014-11-15,Open Women's 75 kg,Sarah Dalton,73.46,40,45,48,45,50,-55,48,50,98
+Turkey Cup,2014-11-15,Open Men's+105 kg,Kevin McNease,136.65,95,-105,-105,-155,-170,-170,95,0,95
+Turkey Cup,2014-11-15,Women's 13 Under Age Group 48kg,Jenna Hoover,45.51,36,-38,38,47,50,-53,38,50,88
+Turkey Cup,2014-11-15,Women's 13 Under Age Group 53kg,Audrey Rips-Goodwin,51.77,-37,37,-40,45,48,50,37,50,87
+Turkey Cup,2014-11-15,Men's 13 Under Age Group 62 Kg,Ethan Crooks,61.02,34,-37,-37,46,49,51,34,51,85
+Turkey Cup,2014-11-15,Women's 13 Under Age Group 44kg,Emma Nye,39.82,35,-38,-38,44,46,48,35,48,83
+Turkey Cup,2014-11-15,Men's 13 Under Age Group 69 Kg,Jackson Ezzell,63.31,28,31,33,41,44,46,33,46,79
+Turkey Cup,2014-11-15,Men's 13 Under Age Group 56 Kg,Caleb Schwerdtfeger,56,28,31,34,40,43,-45,34,43,77
+Turkey Cup,2014-11-15,Women's 13 Under Age Group +58 Kg,Chloe Crooks,68.12,30,-34,-34,41,44,46,30,46,76
+Turkey Cup,2014-11-15,Men's 13 Under Age Group 44kg,Carson Hoover,42.12,26,29,32,37,40,43,32,43,75
+Turkey Cup,2014-11-15,Men's 13 Under Age Group 50 Kg,Ethan Shutts,45.06,27,30,32,37,40,43,32,43,75
+Turkey Cup,2014-11-15,Women's 14-15 Age Group 58 kg,Isabelle Ianni,56.82,-30,30,-34,40,45,-50,30,45,75
+Turkey Cup,2014-11-15,Women's 13 Under Age Group 53kg,Alyia Stillman,49.56,27,30,-32,37,40,43,30,43,73
+Turkey Cup,2014-11-15,Men's 13 Under Age Group +69 Kg,Christopher Lynn,81.75,26,28,30,35,38,40,30,40,70
+Turkey Cup,2014-11-15,Women's Masters (50-54) 58 kg,Pat Okker,57.88,29,31,-33,36,38,-40,31,38,69
+Turkey Cup,2014-11-15,Men's 13 Under Age Group +69 Kg,Kirk McClain,74.84,26,28,30,35,38,-40,30,38,68
+Turkey Cup,2014-11-15,Men's 13 Under Age Group 39kg,Noah Peek,37,26,-28,28,35,38,40,28,40,68
+Turkey Cup,2014-11-15,Open Women's 58 kg,Sabreena Shelton,55.47,25,30,-33,30,-35,35,30,35,65
+Turkey Cup,2014-11-15,Men's 13 Under Age Group 39kg,Connor Gunderson,37.64,23,25,-27,33,-35,35,25,35,60
+Turkey Cup,2014-11-15,Women's 13 Under Age Group 44kg,Sidnee Carr,43.2,22,24,26,30,33,-34,26,33,59
+Turkey Cup,2014-11-15,Women's 13 Under Age Group 58kg,O'lyvia Carriger,55.09,19,20,22,27,30,-31,22,30,52
+Turkey Cup,2014-11-15,Women's 14-15 Age Group +69 kg,Brityn Vreeland,70.93,48,50,-54,-65,-65,-65,50,0,50
+Turkey Cup,2014-11-15,Men's 13 Under Age Group 50 Kg,Gaige Campbell,45.45,17,20,21,22,24,25,21,25,46
+Turkey Cup,2014-11-15,Men's 13 Under Age Group 44kg,Grant Schwerdtfeger,39.68,13,16,-19,20,-25,25,16,25,41
+Turkey Cup,2014-11-15,Open Men's 56 kg,RAFAEL CHACON,48.92,13,15,-17,20,22,24,15,24,39
+Turkey Cup,2014-11-15,Women's 13 Under Age Group 58kg,Kendall Harrison,56.57,12,-15,15,17,20,22,15,22,37
+Turkey Cup,2014-11-15,Women's 13 Under Age Group 31kg,Faith Tenbroek,25.99,-12,-12,12,15,17,20,12,20,32
+Turkey Cup,2014-11-15,Men's 13 Under Age Group 50 Kg,Dawson Meese,44.74,8,10,12,12,15,17,12,17,29
+Turkey Cup,2014-11-15,Women's 14-15 Age Group 44 kg,Cameo Hamm,21.91,9,-11,11,-12,12,13,11,13,24
+Turkey Cup,2014-11-15,Women's 13 Under Age Group 31kg,Gabrielle Thomas,27.83,5,7,8,12,-13,13,8,13,21

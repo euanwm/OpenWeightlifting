@@ -1,0 +1,7 @@
+meet,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Tom's Meet,2015-04-18,Open Men's 105 kg,Michael LaMantia,101.41,110,-115,115,125,-128,128,115,128,243
+Tom's Meet,2015-04-18,Open Men's 105 kg,Christopher Lopez,100.42,-100,100,-105,125,-128,-128,100,125,225
+Tom's Meet,2015-04-18,Open Men's 62 kg,Thomas Donahue,61.07,90,-93,-93,112,116,-120,90,116,206
+Tom's Meet,2015-04-18,Open Men's 105 kg,Iosefo Tuigamala,95.56,-65,65,70,90,95,100,70,100,170
+Tom's Meet,2015-04-18,Open Women's 63 kg,Angelica Cappuccilli,60,33,35,37,40,44,46,37,46,83
+Tom's Meet,2015-04-18,Open Men's 77 kg,Bill Waugh,76.8,30,0,0,40,0,0,30,40,70

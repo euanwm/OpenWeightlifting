@@ -1,0 +1,57 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+NWL Open 2018,2018-09-22,Men's Senior 81Kg,Allan King,76.25,-131,-131,131,150,158,-166,131,158,289
+NWL Open 2018,2018-09-22,Men's Senior 96Kg,Jovanni Briones,93.1,110,115,-120,140,145,-150,115,145,260
+NWL Open 2018,2018-09-22,Men's Under 23 89Kg,Daniel Cope,87.8,105,110,113,-135,135,-143,113,135,248
+NWL Open 2018,2018-09-22,Men's Senior 89Kg,Luke Stopford,82.2,-110,110,115,-130,-130,130,115,130,245
+NWL Open 2018,2018-09-22,Men's Senior 109Kg,robert bobjak,104,95,100,-105,125,135,142,100,142,242
+NWL Open 2018,2018-09-22,Men's Senior 81Kg,Cedric Leduc,74.8,95,100,107,123,128,-133,107,128,235
+NWL Open 2018,2018-09-22,Men's Senior 96Kg,Paul Atkinson,91,95,-100,100,124,131,0,100,131,231
+NWL Open 2018,2018-09-22,Men's Under 23 89Kg,Thomas Bolton,81.2,95,100,-105,120,125,-130,100,125,225
+NWL Open 2018,2018-09-22,Men's Senior 96Kg,Liam Hunt,92.4,96,-100,-100,-128,128,-133,96,128,224
+NWL Open 2018,2018-09-22,Men's Senior 73Kg,Jugal Thapa,68.7,-93,-93,93,120,125,-130,93,125,218
+NWL Open 2018,2018-09-22,Men's Senior 81Kg,Abdelrahman Amer,75.5,-85,85,90,113,120,125,90,125,215
+NWL Open 2018,2018-09-22,Men's Senior 89Kg,Warren Nightingale,84.2,92,-95,-95,113,-118,120,92,120,212
+NWL Open 2018,2018-09-22,Men's Senior 73Kg,Neil Thomas,71.2,82,85,88,118,122,-126,88,122,210
+NWL Open 2018,2018-09-22,Men's Senior 89Kg,Rowan Griffith-Jones,87.6,93,-96,-97,110,-115,117,93,117,210
+NWL Open 2018,2018-09-22,Men's Senior 81Kg,Carlo Richards,77,83,88,90,100,-105,110,90,110,200
+NWL Open 2018,2018-09-22,Men's Under 23 67Kg,Jack Hutchinson,66.15,-85,85,-87,-112,112,-115,85,112,197
+NWL Open 2018,2018-09-22,Men's Senior 89Kg,Phil Caldwell,83,-85,85,90,100,105,-112,90,105,195
+NWL Open 2018,2018-09-22,Men's Senior 73Kg,Mark Mawson,69,78,83,-87,100,105,110,83,110,193
+NWL Open 2018,2018-09-22,Men's Senior 81Kg,Christian Glinister,78.1,75,80,84,100,106,-110,84,106,190
+NWL Open 2018,2018-09-22,Men's Youth Under 17 73Kg,Scott Campbell,71.6,81,-85,-86,105,-110,-110,81,105,186
+NWL Open 2018,2018-09-22,Men's Masters (35-39) 81Kg,ANTHONY WILDE,80.1,78,-81,82,100,104,-106,82,104,186
+NWL Open 2018,2018-09-22,Men's Junior Under 20 81Kg,Ellis Train,77.5,75,80,-85,100,105,-110,80,105,185
+NWL Open 2018,2018-09-22,Men's Masters (35-39) 89Kg,Alan Pickles,82.9,-78,-78,78,100,-105,-105,78,100,178
+NWL Open 2018,2018-09-22,Men's Senior 73Kg,Pól Hendrikur Andreasen,67.3,70,73,76,90,93,96,76,96,172
+NWL Open 2018,2018-09-22,Men's Senior 89Kg,James Bentham,87.5,72,75,-80,92,96,-101,75,96,171
+NWL Open 2018,2018-09-22,Men's Senior 73Kg,Antonio Capavanni,67.2,55,65,72,76,90,96,72,96,168
+NWL Open 2018,2018-09-22,Women's Senior 81Kg,Charlotte Dinsdale,80.9,64,67,-70,85,-88,-88,67,85,152
+NWL Open 2018,2018-09-22,Women's Senior 59Kg,Olga Semenko,57.7,57,61,65,77,80,83,65,83,148
+NWL Open 2018,2018-09-22,Women's Junior Under 20 64Kg,Shannon Peters,62.8,62,64,-66,83,-85,-87,64,83,147
+NWL Open 2018,2018-09-22,Men's Under 23 81Kg,Brandon Jones,73.3,55,-60,-60,75,-80,90,55,90,145
+NWL Open 2018,2018-09-22,Women's Senior 59Kg,Stephanie Best,56.1,-57,57,-60,75,78,82,57,82,139
+NWL Open 2018,2018-09-22,Women's Senior 71Kg,Rhea Jarvis,66.8,58,-61,-62,78,-81,81,58,81,139
+NWL Open 2018,2018-09-22,Women's Senior 71Kg,Anne Marie Meagher,68.8,-55,56,58,71,75,79,58,79,137
+NWL Open 2018,2018-09-22,Women's Senior 87Kg,Rachel Barr,82.8,-60,60,-62,73,75,-78,60,75,135
+NWL Open 2018,2018-09-22,Men's Senior 109+Kg,Nathen Emmett,111,45,50,55,65,-75,80,55,80,135
+NWL Open 2018,2018-09-22,Women's Senior 55Kg,Emma Savage,52.7,57,60,62,70,-73,-76,62,70,132
+NWL Open 2018,2018-09-22,Women's Senior 71Kg,Gussie Beech,66.4,-53,55,57,72,75,-78,57,75,132
+NWL Open 2018,2018-09-22,Women's Senior 59Kg,sally thompson,57.7,-55,55,-60,74,-78,-78,55,74,129
+NWL Open 2018,2018-09-22,Women's Youth Under 17 59Kg,Ellie McManus,57.2,56,-59,-59,65,69,-73,56,69,125
+NWL Open 2018,2018-09-22,Women's Under 23 71Kg,Eleanor Mawson,67.4,50,-53,54,67,70,-72,54,70,124
+NWL Open 2018,2018-09-22,Women's Senior 64Kg,Rebecca Stoner,63.7,52,-55,-57,67,-71,72,52,72,124
+NWL Open 2018,2018-09-22,Women's Under 23 76Kg,Connie Thompson,72.8,50,55,-58,65,68,-71,55,68,123
+NWL Open 2018,2018-09-22,Women's Under 23 71Kg,Amelia Stevenson,69.9,50,52,-56,-65,65,70,52,70,122
+NWL Open 2018,2018-09-22,Women's Senior 64Kg,Sophie Bradshaw,62.7,50,53,-56,68,-71,-71,53,68,121
+NWL Open 2018,2018-09-22,Women's Senior 59Kg,Ashaunna Green,56.6,47,50,-53,61,65,68,50,68,118
+NWL Open 2018,2018-09-22,Women's Under 23 76Kg,Ella Blinkhorn,74.9,-50,50,-54,-67,68,-74,50,68,118
+NWL Open 2018,2018-09-22,Women's Senior 81Kg,Roisin Cryan,76.4,40,45,50,55,60,-65,50,60,110
+NWL Open 2018,2018-09-22,Women's Senior 64Kg,Stephanie Schofield,62.4,43,-45,45,60,64,-68,45,64,109
+NWL Open 2018,2018-09-22,Women's Under 23 87+Kg,Amy Clarke,124.5,35,38,40,50,-55,58,40,58,98
+NWL Open 2018,2018-09-22,Women's Under 23 76Kg,Samantha Archer,73.3,35,37,-40,50,55,58,37,58,95
+NWL Open 2018,2018-09-22,Men's Junior Under 20 89Kg,Gustavo Bossato,85,87,93,-97,-127,-132,-132,93,0,93
+NWL Open 2018,2018-09-22,Women's Senior 59Kg,Louise Robinson,55.8,35,-37,37,50,52,55,37,55,92
+NWL Open 2018,2018-09-22,Women's Masters (55-59) 55Kg,Beverley Pattison,52.4,36,-38,38,48,51,53,38,53,91
+NWL Open 2018,2018-09-22,Women's Senior 87Kg,Svetlana Chynoradska,83.6,33,36,39,43,46,50,39,50,89
+NWL Open 2018,2018-09-22,Women's Under 23 59Kg,Deanna Winter,56.1,-35,35,37,42,-45,-48,37,42,79
+NWL Open 2018,2018-09-22,Men's Senior 61Kg,Adam Bose,60.1,0,0,0,0,0,0,0,0,0

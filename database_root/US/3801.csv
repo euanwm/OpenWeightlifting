@@ -1,0 +1,69 @@
+meet,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+2019 Lock and Load,2019-05-05,Open Men's 102kg,Timothy Hearn,100.4,-120,-120,120,148,-153,-153,120,148,268
+2019 Lock and Load,2019-05-05,Open Men's +109kg,Kevin Frye,147.65,110,117,-122,128,-138,140,117,140,257
+2019 Lock and Load,2019-05-05,Open Men's 96kg,Emanuel Medina,94.63,107,-115,-115,140,-150,150,107,150,257
+2019 Lock and Load,2019-05-05,Open Men's 96kg,Phillip Roberts,94.58,110,116,-121,140,-144,-144,116,140,256
+2019 Lock and Load,2019-05-05,Open Men's 81kg,Micah Kurzyniec,78.75,105,110,-112,124,-130,130,110,130,240
+2019 Lock and Load,2019-05-05,Open Men's 102kg,Mike Taatgen,101.1,90,95,101,130,135,-143,101,135,236
+2019 Lock and Load,2019-05-05,Open Men's 102kg,Kevin Smith,96,100,105,-108,130,-135,-140,105,130,235
+2019 Lock and Load,2019-05-05,Open Men's 81kg,Bryce Newsome,77.9,95,102,-110,123,130,-140,102,130,232
+2019 Lock and Load,2019-05-05,Open Men's 96kg,Geovanni Barron,95.75,90,95,-100,125,130,-135,95,130,225
+2019 Lock and Load,2019-05-05,Open Men's 109kg,Dalton Smith,107.19,-90,90,93,110,115,120,93,120,213
+2019 Lock and Load,2019-05-05,Open Men's 81kg,Jason Krogulski,76.72,85,90,-95,110,115,120,90,120,210
+2019 Lock and Load,2019-05-05,Open Men's 96kg,Steve Burgos,93.9,82,86,90,108,113,117,90,117,207
+2019 Lock and Load,2019-05-05,Open Men's 81kg,Jayson Hatfield,79.9,90,-95,95,110,-115,-115,95,110,205
+2019 Lock and Load,2019-05-05,Open Women's 64kg,Taylor Wilkins,62.3,80,84,87,100,104,108,87,108,195
+2019 Lock and Load,2019-05-05,Open Women's 71kg,Emily McLendon,71,78,82,85,98,102,105,85,105,190
+2019 Lock and Load,2019-05-05,Open Men's +109kg,Michael Soukup,150.18,70,74,78,105,110,-118,78,110,188
+2019 Lock and Load,2019-05-05,Open Men's 89kg,John Epp,86.8,72,75,80,87,90,95,80,95,175
+2019 Lock and Load,2019-05-05,Open Men's +109kg,Kyle Stambler,126.3,65,70,75,85,90,95,75,95,170
+2019 Lock and Load,2019-05-05,Open Women's 81kg,Emma Latimore,77.7,67,-70,-70,93,97,100,67,100,167
+2019 Lock and Load,2019-05-05,Open Women's 87kg,Marissa Roberson,82.6,67,71,75,90,-95,-95,75,90,165
+2019 Lock and Load,2019-05-05,Open Men's 81kg,Christian Origenes,78.7,-70,-70,70,90,95,-100,70,95,165
+2019 Lock and Load,2019-05-05,Open Women's 59kg,TORI COLEMAN,58.9,70,-75,75,85,89,-92,75,89,164
+2019 Lock and Load,2019-05-05,Open Men's 67kg,Zach Herbeck,64,64,67,70,84,88,92,70,92,162
+2019 Lock and Load,2019-05-05,Open Women's 64kg,Emily Akin,62.9,62,66,70,83,87,91,70,91,161
+2019 Lock and Load,2019-05-05,Open Men's 89kg,Raul Platas,87.04,-73,-73,73,88,-92,-92,73,88,161
+2019 Lock and Load,2019-05-05,Open Men's 81kg,Tyler Hernandez,79.7,63,67,70,81,86,90,70,90,160
+2019 Lock and Load,2019-05-05,Open Men's 81kg,Luke Herbeck,81,62,65,68,82,-86,87,68,87,155
+2019 Lock and Load,2019-05-05,Women's Masters (35-39) +87kg,Krystal Cortez,127.2,63,66,-69,82,85,88,66,88,154
+2019 Lock and Load,2019-05-05,Open Women's 71kg,Jami Blackburn,70,67,-70,-70,82,86,-90,67,86,153
+2019 Lock and Load,2019-05-05,Open Women's 71kg,Alexis King,66,62,-67,-67,85,91,-95,62,91,153
+2019 Lock and Load,2019-05-05,Women's Masters (40-44) 71kg,Melissa Knourek,64.5,60,64,67,77,80,83,67,83,150
+2019 Lock and Load,2019-05-05,Open Women's 55kg,Carianne Cregar,53.9,63,-65,65,81,-83,-83,65,81,146
+2019 Lock and Load,2019-05-05,Open Women's 59kg,Meagan Whitson,57.9,60,63,-65,77,80,83,63,83,146
+2019 Lock and Load,2019-05-05,Women's Masters (35-39) 76kg,Adreana Kurzyniec,75.09,-56,57,60,82,86,-89,60,86,146
+2019 Lock and Load,2019-05-05,Open Men's 81kg,Aakash Goliyan,75.6,60,65,70,75,-80,-85,70,75,145
+2019 Lock and Load,2019-05-05,Women's Masters (40-44) 64kg,Venessa Halverson,63.8,60,64,-68,80,-84,-85,64,80,144
+2019 Lock and Load,2019-05-05,Open Men's 61kg,Grayson Brooks,56.47,56,60,63,74,80,-84,63,80,143
+2019 Lock and Load,2019-05-05,Open Men's 73kg,David De La Garza,72.97,54,57,59,70,75,78,59,78,137
+2019 Lock and Load,2019-05-05,Women's Masters (35-39) 55kg,Rebecca Anderson,54.17,-56,57,-59,72,75,-77,57,75,132
+2019 Lock and Load,2019-05-05,Open Men's 102kg,Brandon Keown,101.1,-100,-100,-100,120,126,130,0,130,130
+2019 Lock and Load,2019-05-05,Women's Masters (35-39) 64kg,Caitlin Carter,63.1,49,52,54,65,68,71,54,71,125
+2019 Lock and Load,2019-05-05,Open Women's 71kg,Candice Davis,67.2,49,0,0,73,-76,76,49,76,125
+2019 Lock and Load,2019-05-05,Open Women's 59kg,Stephanie Chu,56.6,50,53,-55,68,-71,71,53,71,124
+2019 Lock and Load,2019-05-05,Open Women's 64kg,Savanna Wilson,62,52,55,-58,61,65,69,55,69,124
+2019 Lock and Load,2019-05-05,Women's 13 Under Age Group 59kg,Victoria Thornton,58.86,48,51,55,64,68,-72,55,68,123
+2019 Lock and Load,2019-05-05,Open Women's +87kg,Kristin Barnes,140,45,48,51,65,69,72,51,72,123
+2019 Lock and Load,2019-05-05,Open Men's 89kg,Andrew DeCrescenzo,85.6,48,52,55,58,-62,65,55,65,120
+2019 Lock and Load,2019-05-05,Women's Masters (45-49) 76kg,Melissa Schlenker,73.68,45,48,51,61,65,68,51,68,119
+2019 Lock and Load,2019-05-05,Open Men's 89kg,Jed Harris,84.82,44,47,50,60,-65,68,50,68,118
+2019 Lock and Load,2019-05-05,Open Women's 71kg,Zoe Alderman,70.6,-46,46,49,62,65,68,49,68,117
+2019 Lock and Load,2019-05-05,Open Women's 76kg,Melanie Hewitt,75.4,48,51,-54,62,65,-68,51,65,116
+2019 Lock and Load,2019-05-05,Women's Masters (45-49) 81kg,Michelle Tye,80.63,43,46,50,56,60,65,50,65,115
+2019 Lock and Load,2019-05-05,Open Men's 89kg,keith lyons,89,110,-115,-115,-130,-130,-130,110,0,110
+2019 Lock and Load,2019-05-05,Open Men's 55kg,Greyson Murtha,53.8,38,42,45,-60,64,-66,45,64,109
+2019 Lock and Load,2019-05-05,Open Women's 59kg,Madeline Walker,58.96,-47,-47,47,61,-64,-64,47,61,108
+2019 Lock and Load,2019-05-05,Women's 13 Under Age Group 45kg,Caitlin Rose Everett,41.25,42,45,47,53,57,60,47,60,107
+2019 Lock and Load,2019-05-05,Women's Masters (45-49) 76kg,Diana Bacon,71.6,43,-46,-47,55,60,63,43,63,106
+2019 Lock and Load,2019-05-05,Men's 14-15 Age Group 73kg,Patrick Murphy,69.6,38,42,45,52,55,58,45,58,103
+2019 Lock and Load,2019-05-05,Women's Masters (55-59) 76kg,Diane McLeod,75.92,42,-44,-45,54,56,59,42,59,101
+2019 Lock and Load,2019-05-05,Open Men's 96kg,Graham Carter,94.96,45,46,47,49,51,54,47,54,101
+2019 Lock and Load,2019-05-05,Open Men's 102kg,Charles Carlton,96.67,40,43,-45,50,-53,53,43,53,96
+2019 Lock and Load,2019-05-05,Women's Masters (45-49) 76kg,Ilaria Prescott,73.86,35,38,40,45,48,50,40,50,90
+2019 Lock and Load,2019-05-05,Women's Masters (40-44) 49kg,Jessica Queneau,48.8,38,40,-42,49,-51,-51,40,49,89
+2019 Lock and Load,2019-05-05,Women's Masters (40-44) 55kg,Shannon Leon,51.3,-31,31,34,38,-42,46,34,46,80
+2019 Lock and Load,2019-05-05,Men's 14-15 Age Group 67kg,Peyton Brimer,66.1,-28,30,-32,34,-38,38,30,38,68
+2019 Lock and Load,2019-05-05,Open Men's 61kg,Brandon Buchanan,58.16,19,22,25,29,32,35,25,35,60
+2019 Lock and Load,2019-05-05,Men's 13 Under Age Group 49kg,Kaden Sepulvado,48.19,18,20,21,25,28,-29,21,28,49
+2019 Lock and Load,2019-05-05,Women's 13 Under Age Group 30kg,Emily Thornton,24.9,13,15,16,19,21,22,16,22,38

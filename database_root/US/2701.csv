@@ -1,0 +1,67 @@
+meet,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+MIA Classic VII,2017-10-08,Open Men's 105 kg,Jeffrey Evans,100.35,135,140,-145,178,185,-190,140,185,325
+MIA Classic VII,2017-10-08,Open Men's+105 kg,Anthony Blanksteen,117.05,-117,120,125,152,157,162,125,162,287
+MIA Classic VII,2017-10-08,Open Men's 62 kg,roy lopez,62,115,125,-128,140,-150,150,125,150,275
+MIA Classic VII,2017-10-08,Open Men's 94 kg,Jarred John,92.95,115,120,-125,135,140,145,120,145,265
+MIA Classic VII,2017-10-08,Open Men's 94 kg,Sean Sporn,92.65,111,-113,-115,-131,132,-135,111,132,243
+MIA Classic VII,2017-10-08,Open Men's 85 kg,Eduardo Yamim,83,105,-115,-115,125,135,-140,105,135,240
+MIA Classic VII,2017-10-08,Open Women's 75 kg,Martha Rogers,69.05,-100,100,103,127,131,135,103,135,238
+MIA Classic VII,2017-10-08,Open Men's 94 kg,Gianni Garces,92.45,103,-108,-112,130,135,-140,103,135,238
+MIA Classic VII,2017-10-08,Open Men's 69 kg,Andres Montenegro,68.7,100,105,107,126,-130,-130,107,126,233
+MIA Classic VII,2017-10-08,Open Men's+105 kg,JORGE SANCHEZ,114.15,95,98,100,123,128,133,100,133,233
+MIA Classic VII,2017-10-08,Open Men's+105 kg,kyle durthaler,114.25,-95,95,100,-125,125,130,100,130,230
+MIA Classic VII,2017-10-08,Open Men's 69 kg,Gabriel Castillo,67.5,-102,102,-108,125,-130,-133,102,125,227
+MIA Classic VII,2017-10-08,Open Men's 94 kg,Matthew Baar,93.85,95,100,-105,115,120,125,100,125,225
+MIA Classic VII,2017-10-08,Open Men's 69 kg,Brandon Pedrosa,66.7,87,93,-100,110,-117,120,93,120,213
+MIA Classic VII,2017-10-08,Open Men's 62 kg,Joseph Garcia,59.5,87,92,94,110,115,118,94,118,212
+MIA Classic VII,2017-10-08,Open Men's 77 kg,Kevin Ruiz-Perez,76.4,-88,-89,90,117,121,-125,90,121,211
+MIA Classic VII,2017-10-08,Open Men's 77 kg,Jose Rodriguez,75.4,90,-94,94,108,112,116,94,116,210
+MIA Classic VII,2017-10-08,Open Men's 62 kg,Ryan Ho,61.9,85,87,-89,117,0,0,87,117,204
+MIA Classic VII,2017-10-08,Open Men's 77 kg,Alejandro Iglesias,74.8,85,88,-91,110,114,-117,88,114,202
+MIA Classic VII,2017-10-08,Open Men's 94 kg,Charles Conti,92.3,85,-93,-95,105,115,-121,85,115,200
+MIA Classic VII,2017-10-08,Open Men's 85 kg,Elias Tillberg,84.05,83,86,-91,103,-107,110,86,110,196
+MIA Classic VII,2017-10-08,Open Men's 77 kg,Stephen Stocker,76.8,-87,87,-88,104,-108,-108,87,104,191
+MIA Classic VII,2017-10-08,Open Women's 69 kg,Melisa Alonso,64.5,75,78,81,90,96,101,81,101,182
+MIA Classic VII,2017-10-08,Open Women's 90 kg,Jessica Lisette Jimenez,86.25,68,72,76,-90,91,95,76,95,171
+MIA Classic VII,2017-10-08,Open Men's 77 kg,Dominic Boddie,76.1,63,67,72,95,99,-105,72,99,171
+MIA Classic VII,2017-10-08,Open Men's 105 kg,David Rubin,99.7,65,68,70,85,-88,88,70,88,158
+MIA Classic VII,2017-10-08,Open Men's 94 kg,Jacob Vermaas,92.55,62,65,67,80,85,90,67,90,157
+MIA Classic VII,2017-10-08,Open Women's 69 kg,Vanessa Rodriguez,67.2,-65,65,68,85,-88,88,68,88,156
+MIA Classic VII,2017-10-08,Open Women's 69 kg,Valery Vasquez,68.9,60,64,67,77,82,85,67,85,152
+MIA Classic VII,2017-10-08,Open Women's 58 kg,Kristen Geist,57.5,68,-71,-71,82,-83,84,68,84,152
+MIA Classic VII,2017-10-08,Open Men's 94 kg,Michael Ben-Hain,89.5,65,-69,-69,82,86,-90,65,86,151
+MIA Classic VII,2017-10-08,Open Women's 58 kg,Stephanie Rivero,57.9,-67,67,-71,70,79,-84,67,79,146
+MIA Classic VII,2017-10-08,Open Women's 53 kg,Edna Guevara Uribe,51.4,56,61,63,77,82,83,63,83,146
+MIA Classic VII,2017-10-08,Open Women's 63 kg,Larissa Carreras,61.8,55,60,67,70,76,-81,67,76,143
+MIA Classic VII,2017-10-08,Women's Masters (40-44) 58 kg,Rachel Batista,56.8,61,64,-67,76,-78,-78,64,76,140
+MIA Classic VII,2017-10-08,Open Men's 85 kg,Ossie Alfonzo,84.1,-110,-110,-110,125,130,137,0,137,137
+MIA Classic VII,2017-10-08,Open Men's 94 kg,Benson Robles,91,125,129,134,-160,-163,-166,134,0,134
+MIA Classic VII,2017-10-08,Open Women's 69 kg,Ana Ruedaquintero,67.9,53,56,58,75,-77,-77,58,75,133
+MIA Classic VII,2017-10-08,Open Women's 58 kg,Stephanie Gautreaux,57.6,52,54,57,70,74,-78,57,74,131
+MIA Classic VII,2017-10-08,Open Men's 77 kg,Cheng-Chung Hsu,73.95,48,52,54,71,73,75,54,75,129
+MIA Classic VII,2017-10-08,Open Women's 63 kg,Alexandra Simkins,61.4,51,54,57,65,68,70,57,70,127
+MIA Classic VII,2017-10-08,Open Women's +90 kg,Rachele Moramarco,110.35,51,54,57,65,69,-72,57,69,126
+MIA Classic VII,2017-10-08,Women's Masters (35-39) 75 kg,Alison Davis,73.3,52,-54,-54,70,-73,73,52,73,125
+MIA Classic VII,2017-10-08,Open Women's 63 kg,Ainara Gastaminsa,62.8,52,-55,-55,68,-70,70,52,70,122
+MIA Classic VII,2017-10-08,Open Men's 105 kg,Robert Charbonneau,100.5,47,-50,51,65,68,71,51,71,122
+MIA Classic VII,2017-10-08,Open Women's 69 kg,Samantha L'Italien,67.3,45,49,53,63,67,-70,53,67,120
+MIA Classic VII,2017-10-08,Women's Masters (35-39) 69 kg,Monica Garcia,66.7,52,55,-58,64,-67,-68,55,64,119
+MIA Classic VII,2017-10-08,Open Women's 63 kg,Angelica Callery,61.7,50,53,-57,60,65,-70,53,65,118
+MIA Classic VII,2017-10-08,Women's Masters (45-49) 58 kg,Ivette Carcas,57.9,-49,-49,49,65,68,-70,49,68,117
+MIA Classic VII,2017-10-08,Women's Masters (45-49) +90 kg,Levenda James,93.4,44,46,-47,62,65,68,46,68,114
+MIA Classic VII,2017-10-08,Women's Masters (45-49) 69 kg,christine barbato,66.1,50,-51,51,63,-65,-65,51,63,114
+MIA Classic VII,2017-10-08,Open Women's 75 kg,Alison Switaj,70.95,45,48,50,58,60,-63,50,60,110
+MIA Classic VII,2017-10-08,Open Women's 53 kg,Katharine Hancock,53,46,-48,-48,62,64,-66,46,64,110
+MIA Classic VII,2017-10-08,Open Women's 58 kg,Lisandra Parra,57.3,38,40,42,57,60,-63,42,60,102
+MIA Classic VII,2017-10-08,Women's 13 Under Age Group +58 Kg,Fairuz Amireh,77.9,40,42,45,48,50,53,45,53,98
+MIA Classic VII,2017-10-08,Open Women's 69 kg,Brittany Rowland,68.8,-75,-75,-75,90,95,-100,0,95,95
+MIA Classic VII,2017-10-08,Women's 13 Under Age Group +58 Kg,Krista Lupo,64.1,40,-42,42,46,48,51,42,51,93
+MIA Classic VII,2017-10-08,Women's Masters (50-54) 58 kg,Diane Fraser,57.37,-40,-40,40,48,50,52,40,52,92
+MIA Classic VII,2017-10-08,Open Men's 94 kg,Christopher Rodriguez,88.6,87,91,-95,-100,-105,-105,91,0,91
+MIA Classic VII,2017-10-08,Open Women's 48 kg,Erin Williams,46.9,32,38,-42,45,50,-55,38,50,88
+MIA Classic VII,2017-10-08,Women's Masters (35-39) 90 kg,Natalie Persaud,86.45,31,35,-37,43,-46,48,35,48,83
+MIA Classic VII,2017-10-08,Open Women's +90 kg,Amanda Bear,113.95,35,38,-40,43,45,-48,38,45,83
+MIA Classic VII,2017-10-08,Women's 13 Under Age Group +58 Kg,Mikaila Persaud,79.05,28,30,33,40,-43,45,33,45,78
+MIA Classic VII,2017-10-08,Women's Masters (50-54) 75 kg,Janine Giovinazzi,72.85,29,-33,-35,38,42,46,29,46,75
+MIA Classic VII,2017-10-08,Women's Masters (60-64) 58 kg,Janet Gelman,57.19,30,-32,-32,30,-32,33,30,33,63
+MIA Classic VII,2017-10-08,Women's 13 Under Age Group 44kg,Melina Ansaroff,39.8,-22,22,24,31,-33,-33,24,31,55

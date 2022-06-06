@@ -1,0 +1,82 @@
+meet,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Frank Spellman Classic,2017-01-15,Open Men's 105 kg,Paul Webster,102.9,120,125,-132,155,-160,-160,125,155,280
+Frank Spellman Classic,2017-01-15,Open Men's 85 kg,Micah Macbeth,83.6,108,113,118,138,143,148,118,148,266
+Frank Spellman Classic,2017-01-15,Open Men's 85 kg,Adam Beytin,83.6,108,113,118,138,143,148,118,148,266
+Frank Spellman Classic,2017-01-15,Open Men's 94 kg,Jason Morstein,93.3,110,-113,113,125,130,-133,113,130,243
+Frank Spellman Classic,2017-01-15,Open Men's+105 kg,Eric Hancock,126.7,95,100,103,130,135,140,103,140,243
+Frank Spellman Classic,2017-01-15,Open Men's+105 kg,R. Joseph Basiura,130.4,95,100,-105,122,127,132,100,132,232
+Frank Spellman Classic,2017-01-15,Open Men's 85 kg,Joseph Cunningham,83.6,90,95,100,115,120,125,100,125,225
+Frank Spellman Classic,2017-01-15,Open Men's 105 kg,Francis Bui,104,93,97,-103,120,125,-130,97,125,222
+Frank Spellman Classic,2017-01-15,Open Men's+105 kg,Bryan Adamson,113.1,90,-94,-95,126,-132,132,90,132,222
+Frank Spellman Classic,2017-01-15,Open Men's 77 kg,Donald Hoff IV,77,85,94,102,110,118,-123,102,118,220
+Frank Spellman Classic,2017-01-15,Open Men's 85 kg,RICHARD SCHAEFFER,81.1,85,89,95,110,116,121,95,121,216
+Frank Spellman Classic,2017-01-15,Open Men's 85 kg,Joe Onorato,83.5,90,-95,-97,120,125,-140,90,125,215
+Frank Spellman Classic,2017-01-15,Open Men's 77 kg,Willard Bryan,76,93,100,-102,105,-112,113,100,113,213
+Frank Spellman Classic,2017-01-15,Open Men's 77 kg,Da'Shawn SERRANO,72.85,80,85,90,110,118,122,90,122,212
+Frank Spellman Classic,2017-01-15,Open Men's 85 kg,Kane Nelson,84,90,94,-100,-111,111,116,94,116,210
+Frank Spellman Classic,2017-01-15,Open Men's 77 kg,Erik Gary,74.9,84,-88,89,110,-114,116,89,116,205
+Frank Spellman Classic,2017-01-15,Open Men's 94 kg,Michael Brown,89.7,85,90,93,105,-110,-112,93,105,198
+Frank Spellman Classic,2017-01-15,Open Men's 77 kg,Joseph Green,76.6,83,86,-90,107,111,-114,86,111,197
+Frank Spellman Classic,2017-01-15,Open Men's 85 kg,Corbin Sipe,84.8,83,87,91,101,106,-110,91,106,197
+Frank Spellman Classic,2017-01-15,Open Men's 105 kg,Anthony Stavenski,101.8,82,87,90,102,-107,107,90,107,197
+Frank Spellman Classic,2017-01-15,Open Men's 77 kg,Jeff Lyons,76.3,-86,-86,86,105,110,-114,86,110,196
+Frank Spellman Classic,2017-01-15,Open Men's+105 kg,Brian Uhlin,120.2,80,85,90,-95,95,101,90,101,191
+Frank Spellman Classic,2017-01-15,Open Men's 85 kg,Alex McInnes,83.1,80,-85,-85,-110,110,-115,80,110,190
+Frank Spellman Classic,2017-01-15,Open Men's 85 kg,Michael Manion,83.5,80,-88,-88,105,109,-113,80,109,189
+Frank Spellman Classic,2017-01-15,Open Men's 85 kg,Christopher Sullivan,83.1,75,80,-83,95,-100,101,80,101,181
+Frank Spellman Classic,2017-01-15,Open Men's 77 kg,John Marinangeli,75.1,70,75,80,90,-95,-98,80,90,170
+Frank Spellman Classic,2017-01-15,Open Men's 105 kg,Isaiah Gutierrez,95.4,-68,70,72,85,95,-100,72,95,167
+Frank Spellman Classic,2017-01-15,Open Women's 69 kg,Meghan Karlik,67.9,70,72,-75,89,-92,-93,72,89,161
+Frank Spellman Classic,2017-01-15,Women's 16-17 Age Group 69 kg,Emma Esterbrook,65,68,-72,-72,83,-87,88,68,88,156
+Frank Spellman Classic,2017-01-15,Open Women's 69 kg,Elizabeth Bartlett,63.2,65,68,-71,85,-89,-90,68,85,153
+Frank Spellman Classic,2017-01-15,Open Women's 69 kg,Kat Dumas,65.3,63,66,-68,75,78,81,66,81,147
+Frank Spellman Classic,2017-01-15,Women's Masters (35-39) 69 kg,Lauren Fiske,65.6,62,-66,-66,78,-82,82,62,82,144
+Frank Spellman Classic,2017-01-15,Open Women's 58 kg,Madeline Storms,57.7,60,63,65,70,74,78,65,78,143
+Frank Spellman Classic,2017-01-15,Open Women's 69 kg,Julie Sebastian,67.1,58,62,-65,-75,-75,75,62,75,137
+Frank Spellman Classic,2017-01-15,Open Men's 69 kg,Colin Dougherty,66.4,50,-55,56,80,-85,-85,56,80,136
+Frank Spellman Classic,2017-01-15,Open Women's 53 kg,Krista Bryan,52.2,55,58,61,70,73,75,61,75,136
+Frank Spellman Classic,2017-01-15,Women's Masters (45-49) 69 kg,Jenny Miller,67.5,57,-61,-62,71,75,79,57,79,136
+Frank Spellman Classic,2017-01-15,Women's 16-17 Age Group 58 kg,Madison Davidson,57.8,55,58,60,70,-74,74,60,74,134
+Frank Spellman Classic,2017-01-15,Open Men's 69 kg,Nicholas Anni,68.9,50,55,-60,70,75,-80,55,75,130
+Frank Spellman Classic,2017-01-15,Open Men's 62 kg,Collin Munyan,57.9,50,53,56,70,-75,-75,56,70,126
+Frank Spellman Classic,2017-01-15,Women's Masters (40-44) 69 kg,Amy Broccoli,67.9,50,52,54,66,-68,68,54,68,122
+Frank Spellman Classic,2017-01-15,Open Women's 63 kg,Claire Leinhauser,62.1,49,52,-55,68,-71,-71,52,68,120
+Frank Spellman Classic,2017-01-15,Women's 16-17 Age Group 63 kg,Orianna Mondello,62.1,-50,-50,50,60,65,70,50,70,120
+Frank Spellman Classic,2017-01-15,Open Women's 69 kg,Taylor Boulden,68.9,46,48,50,60,63,66,50,66,116
+Frank Spellman Classic,2017-01-15,Open Women's 90 kg,Samantha Hoch,88.9,43,48,-51,65,-70,-70,48,65,113
+Frank Spellman Classic,2017-01-15,Women's 14-15 Age Group 53 kg,Ella Grizzle,51.7,48,51,-53,59,62,-65,51,62,113
+Frank Spellman Classic,2017-01-15,Open Women's 63 kg,Thuy-Duong Lau,62.1,42,44,-51,58,62,67,44,67,111
+Frank Spellman Classic,2017-01-15,Open Women's 69 kg,Elizabeth Below,68.3,37,40,50,55,58,60,50,60,110
+Frank Spellman Classic,2017-01-15,Open Men's 85 kg,Michael Harrington,82.6,45,-48,-48,58,63,-66,45,63,108
+Frank Spellman Classic,2017-01-15,Open Women's 63 kg,Emily Pavilonis,59.5,-46,46,-52,57,60,-64,46,60,106
+Frank Spellman Classic,2017-01-15,Women's Masters (40-44) 58 kg,Denise Biancaniello,56.4,41,44,-50,57,60,62,44,62,106
+Frank Spellman Classic,2017-01-15,Open Men's 62 kg,Dan King,62,40,45,48,-55,-55,56,48,56,104
+Frank Spellman Classic,2017-01-15,Open Women's 58 kg,Elizabeth Cowell,56.3,45,48,-51,55,-58,-60,48,55,103
+Frank Spellman Classic,2017-01-15,Open Women's 90 kg,Kristin Kennedy,77.6,42,45,50,48,52,-54,50,52,102
+Frank Spellman Classic,2017-01-15,Women's 16-17 Age Group 58 kg,Lauren Dumas,53.1,35,37,40,53,57,60,40,60,100
+Frank Spellman Classic,2017-01-15,Open Women's 69 kg,Alexis McGinn,65.6,38,40,44,50,53,55,44,55,99
+Frank Spellman Classic,2017-01-15,Open Women's 58 kg,Amanda Schmidt,57.1,38,40,43,48,51,54,43,54,97
+Frank Spellman Classic,2017-01-15,Women's Masters (40-44) 75 kg,TARA PEIFER,70.5,38,40,-42,52,54,56,40,56,96
+Frank Spellman Classic,2017-01-15,Open Women's 69 kg,Stacy Miller Batz,66.2,38,40,42,50,52,54,42,54,96
+Frank Spellman Classic,2017-01-15,Women's Masters (50-54) 69 kg,Sharon McDonnell,68.7,38,-40,42,50,52,54,42,54,96
+Frank Spellman Classic,2017-01-15,Open Men's 77 kg,Kyle Faggiol,76.9,40,-45,-45,50,-55,55,40,55,95
+Frank Spellman Classic,2017-01-15,Women's Masters (45-49) 69 kg,Michelle Picking,65.9,35,38,-41,48,53,56,38,56,94
+Frank Spellman Classic,2017-01-15,Women's 14-15 Age Group 63 kg,Chloe Wilson,60.4,32,34,36,53,56,57,36,57,93
+Frank Spellman Classic,2017-01-15,Women's 16-17 Age Group 53 kg,Carina Dell'Angelo,52.5,34,37,-40,46,50,-54,37,50,87
+Frank Spellman Classic,2017-01-15,Women's 14-15 Age Group 53 kg,Chara Florence,49,36,38,41,45,-48,-51,41,45,86
+Frank Spellman Classic,2017-01-15,Women's 14-15 Age Group 53 kg,Makenzie Reffle,51.1,33,-35,35,42,45,48,35,48,83
+Frank Spellman Classic,2017-01-15,Men's 13 Under Age Group 44kg,Kyle Martin Jr.,43.9,-34,34,38,42,-46,-46,38,42,80
+Frank Spellman Classic,2017-01-15,Men's 13 Under Age Group 39kg,Connor Pennington,37.5,29,34,-36,37,40,42,34,42,76
+Frank Spellman Classic,2017-01-15,Women's 16-17 Age Group 63 kg,Jade Chang,60.4,-32,-32,32,42,44,-46,32,44,76
+Frank Spellman Classic,2017-01-15,Women's 14-15 Age Group 48 kg,Sydney Hilliard,47.5,25,27,29,42,-44,44,29,44,73
+Frank Spellman Classic,2017-01-15,Open Women's 75 kg,Sarabeth Plotkin,71.6,28,30,32,36,38,-41,32,38,70
+Frank Spellman Classic,2017-01-15,Open Women's 53 kg,Anna Weiss,48.4,26,28,-32,38,41,-44,28,41,69
+Frank Spellman Classic,2017-01-15,Women's 14-15 Age Group 53 kg,Zoey Boulin,52.8,28,30,32,35,37,-40,32,37,69
+Frank Spellman Classic,2017-01-15,Women's 13 Under Age Group 53kg,Anna Florence,49.5,25,-28,29,30,33,35,29,35,64
+Frank Spellman Classic,2017-01-15,Men's 13 Under Age Group 50 Kg,Anton Skvortsov,46.5,17,19,21,27,-30,30,21,30,51
+Frank Spellman Classic,2017-01-15,Men's 13 Under Age Group 50 Kg,Evan Colburn,46,15,17,19,20,22,24,19,24,43
+Frank Spellman Classic,2017-01-15,Women's 13 Under Age Group 35kg,Ryley Colburn,32.6,14,16,17,21,22,24,17,24,41
+Frank Spellman Classic,2017-01-15,Women's 13 Under Age Group 35kg,Marlena Shoffner,31.8,12,14,15,20,22,-24,15,22,37
+Frank Spellman Classic,2017-01-15,Women's 13 Under Age Group 44kg,Nicole Bierlmaier,40.1,12,14,16,15,17,19,16,19,35
+Frank Spellman Classic,2017-01-15,Women's 13 Under Age Group 31kg,lili shelton,27.9,10,11,13,14,16,18,13,18,31
+Frank Spellman Classic,2017-01-15,Open Men's 69 kg,ANTON ESTERBROOK,66.6,0,0,0,0,0,0,0,0,0

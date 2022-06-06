@@ -1,0 +1,44 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Oldbury Open 2019,2019-05-11,Men's Senior 81Kg,Joseph Cowen,80.8,115,118,123,135,142,-150,123,142,265
+Oldbury Open 2019,2019-05-11,Men's Masters (35-39) 96Kg,Tom Jolly,91.65,115,118,121,140,-145,-145,121,140,261
+Oldbury Open 2019,2019-05-11,Men's Under 23 81Kg,Mason Symonds,79.5,110,-115,-115,140,146,-151,110,146,256
+Oldbury Open 2019,2019-05-11,Men's Masters (35-39) 109+Kg,benjamin iles,120,96,100,103,135,140,-146,103,140,243
+Oldbury Open 2019,2019-05-11,Men's Senior 102Kg,Adam Dobie,97.75,-105,105,-111,128,132,-135,105,132,237
+Oldbury Open 2019,2019-05-11,Men's Senior 102Kg,Michael Colley,100.2,98,102,-108,125,130,-133,102,130,232
+Oldbury Open 2019,2019-05-11,Men's Youth Under 17 81Kg,Ayo Fadahunsi,77.4,95,-100,100,-120,-120,120,100,120,220
+Oldbury Open 2019,2019-05-11,Men's Under 23 81Kg,Joseph White,79.4,100,-105,-105,115,120,-125,100,120,220
+Oldbury Open 2019,2019-05-11,Men's Senior 81Kg,George Kinnell,78.9,85,90,-93,117,121,125,90,125,215
+Oldbury Open 2019,2019-05-11,Men's Senior 89Kg,Joshua Owens,84.2,88,-92,92,110,115,-120,92,115,207
+Oldbury Open 2019,2019-05-11,Men's Senior 89Kg,Richard Hounsome,85.2,85,-90,90,-110,115,-120,90,115,205
+Oldbury Open 2019,2019-05-11,Men's Senior 73Kg,Ryan Bedwell,72.7,-78,78,84,112,118,-122,84,118,202
+Oldbury Open 2019,2019-05-11,Men's Senior 81Kg,Liam Dunn,80,80,85,-88,95,100,105,85,105,190
+Oldbury Open 2019,2019-05-11,Men's Masters (35-39) 109+Kg,Dawid Esterhuizen,117.6,71,76,81,95,102,107,81,107,188
+Oldbury Open 2019,2019-05-11,Men's Senior 81Kg,Matthew Kingston,79.2,63,67,-73,90,95,100,67,100,167
+Oldbury Open 2019,2019-05-11,Men's Senior 89Kg,Richard Parker,86,55,60,-65,87,92,101,60,101,161
+Oldbury Open 2019,2019-05-11,Men's Youth Under 17 89Kg,Niall Armstrong,82.4,-72,-72,72,84,-88,88,72,88,160
+Oldbury Open 2019,2019-05-11,Men's Masters (40-44) 109+Kg,Christopher Jones,112.5,60,65,70,80,85,90,70,90,160
+Oldbury Open 2019,2019-05-11,Women's Senior 71Kg,Louise Webster,69.8,63,65,68,83,87,90,68,90,158
+Oldbury Open 2019,2019-05-11,Women's Senior 76Kg,Deanna Daley,75.7,68,-71,71,-84,84,87,71,87,158
+Oldbury Open 2019,2019-05-11,Men's Youth Under 17 61Kg,Leo Handy,60,62,66,68,82,86,90,68,90,158
+Oldbury Open 2019,2019-05-11,Men's Youth Under 17 61Kg,Leo Handy,60,62,66,68,82,86,80,68,86,154
+Oldbury Open 2019,2019-05-11,Women's Senior 59Kg,Hayley Evans,57,-55,55,60,75,80,85,60,85,145
+Oldbury Open 2019,2019-05-11,Women's Senior 71Kg,Rhea Jarvis,70.2,60,-62,62,-82,82,-84,62,82,144
+Oldbury Open 2019,2019-05-11,Women's Senior 76Kg,Arabella Bott,73.4,55,60,-65,80,84,-88,60,84,144
+Oldbury Open 2019,2019-05-11,Women's Senior 71Kg,Patricia von Thun,68.3,50,55,-56,65,-70,72,55,72,127
+Oldbury Open 2019,2019-05-11,Women's Senior 59Kg,Alix Barbier,58.9,52,55,-58,-63,65,67,55,67,122
+Oldbury Open 2019,2019-05-11,Women's Masters (40-44) 76Kg,Betina Rodgers-Fee,75.8,48,50,52,65,67,-69,52,67,119
+Oldbury Open 2019,2019-05-11,Women's Youth Under 17 64Kg,Lauren Cooper,63.2,48,51,-54,58,62,66,51,66,117
+Oldbury Open 2019,2019-05-11,Women's Senior 64Kg,Catherine Judd,63.2,53,-56,-57,-63,63,-65,53,63,116
+Oldbury Open 2019,2019-05-11,Women's Masters (35-39) 71Kg,Elizabeth Havers,70.7,-51,51,-53,62,65,-68,51,65,116
+Oldbury Open 2019,2019-05-11,Women's Senior 71Kg,Freya Hibberd,65.7,-45,45,47,65,-68,68,47,68,115
+Oldbury Open 2019,2019-05-11,Women's Under 23 45Kg,Kristine Santos,44.3,-48,48,51,58,-61,61,51,61,112
+Oldbury Open 2019,2019-05-11,Women's Senior 71Kg,Katy-Louise Davies,68.1,45,48,50,57,60,62,50,62,112
+Oldbury Open 2019,2019-05-11,Women's Junior Under 20 64Kg,Trudy Bayliss,62.1,45,48,-51,60,63,-66,48,63,111
+Oldbury Open 2019,2019-05-11,Men's Youth Under 15 55Kg,Jordan Beale,55,35,40,45,55,60,65,45,65,110
+Oldbury Open 2019,2019-05-11,Women's Senior 76Kg,Ashleigh Denton,73.5,45,-50,50,60,-64,-64,50,60,110
+Oldbury Open 2019,2019-05-11,Women's Senior 64Kg,Vicky Blake,60.9,40,42,44,55,57,59,44,59,103
+Oldbury Open 2019,2019-05-11,Women's Senior 87+Kg,Ellen Flower,98.8,35,-40,40,45,-50,-50,40,45,85
+Oldbury Open 2019,2019-05-11,Men's Under 23 89Kg,Daniel Fitzroy-Ezzy,85,35,30,35,35,40,45,35,45,80
+Oldbury Open 2019,2019-05-11,Men's Youth Under 15 61Kg,Jayden Downer,58.4,25,30,-35,35,40,45,30,45,75
+Oldbury Open 2019,2019-05-11,Men's Senior 55Kg,Luke Eardley,54.6,-65,65,-70,-82,-82,-82,65,0,65
+Oldbury Open 2019,2019-05-11,Men's Senior 81Kg,Conor Lynch,80.2,-105,-105,-105,0,0,0,0,0,0

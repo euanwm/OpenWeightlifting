@@ -1,0 +1,52 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Oxford Open 2018,2018-07-21,Men's Senior 96Kg,Luke Etheridge,91.2,110,-117,-117,138,145,-150,110,145,255
+Oxford Open 2018,2018-07-21,Men's Senior 96Kg,Christopher Ward,93,105,-110,-110,140,-145,0,105,140,245
+Oxford Open 2018,2018-07-21,Men's Senior 109+Kg,benjamin iles,124.1,90,-97,-100,-130,140,0,90,140,230
+Oxford Open 2018,2018-07-21,Men's Senior 96Kg,Thomas Bane,91,95,100,-106,125,-130,-130,100,125,225
+Oxford Open 2018,2018-07-21,Men's Under 23 81Kg,Morgan Young,79.7,90,95,-100,112,117,125,95,125,220
+Oxford Open 2018,2018-07-21,Men's Senior 96Kg,Oliver Cooke,90.7,95,100,-105,120,-125,-126,100,120,220
+Oxford Open 2018,2018-07-21,Men's Under 23 89Kg,Benjamin Obee,88.1,85,88,91,110,115,121,91,121,212
+Oxford Open 2018,2018-07-21,Men's Senior 89Kg,Alex Adams,82.8,-90,95,100,110,-115,-116,100,110,210
+Oxford Open 2018,2018-07-21,Men's Under 23 73Kg,Luke Slade,68.9,85,-90,90,105,110,-116,90,110,200
+Oxford Open 2018,2018-07-21,Men's Under 23 89Kg,Darius Vahdati,81.2,85,90,-95,105,-110,110,90,110,200
+Oxford Open 2018,2018-07-21,Men's Under 23 73Kg,George Kinnell,68.9,81,85,-89,115,-120,-120,85,115,200
+Oxford Open 2018,2018-07-21,Men's Senior 89Kg,Richard Hounsome,84.2,80,85,87,100,-110,110,87,110,197
+Oxford Open 2018,2018-07-21,Men's Senior 89Kg,Adam Hemsley,83.2,85,-89,-93,100,105,111,85,111,196
+Oxford Open 2018,2018-07-21,Men's Senior 81Kg,Scott Murch,76.5,81,86,-91,105,-112,-114,86,105,191
+Oxford Open 2018,2018-07-21,Men's Senior 89Kg,Anand Lurati,82.8,-80,80,-87,111,-115,-116,80,111,191
+Oxford Open 2018,2018-07-21,Men's Youth Under 17 81Kg,Salvatore Calderaro,74.9,-70,70,75,90,95,-100,75,95,170
+Oxford Open 2018,2018-07-21,Men's Junior Under 20 73Kg,Sam Finch,68.2,70,73,-76,90,95,-100,73,95,168
+Oxford Open 2018,2018-07-21,Men's Senior 89Kg,Peter Richardson,84.7,70,75,-78,85,-90,90,75,90,165
+Oxford Open 2018,2018-07-21,Men's Youth Under 17 67Kg,Ed Roberts,66.8,70,-73,73,90,-95,-95,73,90,163
+Oxford Open 2018,2018-07-21,Women's Junior Under 20 87Kg,kayley cook,82,65,68,72,80,84,88,72,88,160
+Oxford Open 2018,2018-07-21,Women's Senior 76Kg,Holly Cooney,72.9,60,63,65,85,89,91,65,91,156
+Oxford Open 2018,2018-07-21,Men's Masters (40-44) 81Kg,Simon Raby,76.4,65,68,71,80,85,-95,71,85,156
+Oxford Open 2018,2018-07-21,Men's Youth Under 15 67Kg,Levi Whyte,62.8,62,65,68,68,72,76,68,76,144
+Oxford Open 2018,2018-07-21,Men's Youth Under 17 81Kg,sonny lummes,80.2,61,-61,63,73,77,79,63,79,142
+Oxford Open 2018,2018-07-21,Women's Senior 76Kg,Deanna Daley,74.5,57,61,64,75,74,78,64,78,142
+Oxford Open 2018,2018-07-21,Men's Youth Under 15 102Kg,Murtaza Shah,98.8,45,50,55,68,73,77,55,77,132
+Oxford Open 2018,2018-07-21,Women's Senior 64Kg,Frances Mcsoley,62.9,-57,57,-59,70,73,75,57,75,132
+Oxford Open 2018,2018-07-21,Women's Youth Under 17 71Kg,Laura Helyar,67.9,55,58,61,65,-68,68,61,68,129
+Oxford Open 2018,2018-07-21,Women's Youth Under 15 71Kg,Emily Sweeney,67.7,50,52,55,65,67,70,55,70,125
+Oxford Open 2018,2018-07-21,Women's Senior 64Kg,Charlotte McCoy,60.5,51,55,-58,62,65,68,55,68,123
+Oxford Open 2018,2018-07-21,Women's Senior 81Kg,Beate Mueller,76.3,45,47,-51,-65,65,69,47,69,116
+Oxford Open 2018,2018-07-21,Women's Senior 76Kg,Amy Moore,75,45,-48,48,65,-68,68,48,68,116
+Oxford Open 2018,2018-07-21,Women's Under 23 59Kg,Tanya Sophocleous,57.9,45,47,50,58,62,-68,50,62,112
+Oxford Open 2018,2018-07-21,Women's Senior 71Kg,Patricia von Thun,65.7,43,46,-49,60,63,66,46,66,112
+Oxford Open 2018,2018-07-21,Women's Masters (35-39) 76Kg,Betina Rodgers-Fee,73.4,45,47,0,60,61,63,47,63,110
+Oxford Open 2018,2018-07-21,Women's Senior 71Kg,Vindhya Gobin,65.8,46,49,-51,56,60,-62,49,60,109
+Oxford Open 2018,2018-07-21,Women's Senior 55Kg,Louise Platt,52.8,45,48,-50,55,58,-61,48,58,106
+Oxford Open 2018,2018-07-21,Women's Senior 59Kg,Alix Barbier,58,-48,48,-51,58,-61,-62,48,58,106
+Oxford Open 2018,2018-07-21,Women's Youth Under 15 64Kg,Clarissa Mullem,59.1,42,45,-47,57,-60,60,45,60,105
+Oxford Open 2018,2018-07-21,Women's Junior Under 20 71Kg,Lucy Pearce,68.1,-45,45,47,53,57,-60,47,57,104
+Oxford Open 2018,2018-07-21,Women's Senior 64Kg,Catherine Judd,60.4,41,45,47,53,56,-59,47,56,103
+Oxford Open 2018,2018-07-21,Women's Senior 76Kg,Ashleigh Denton,75.2,41,43,-46,55,-59,-60,43,55,98
+Oxford Open 2018,2018-07-21,Men's Youth Under 15 49Kg,George Burnham,45.6,36,38,40,46,49,50,40,50,90
+Oxford Open 2018,2018-07-21,Women's Youth Under 15 59Kg,Eran Whyte,55.9,35,38,-40,43,46,48,38,48,86
+Oxford Open 2018,2018-07-21,Women's Youth Under 15 76Kg,Isabelle Sperry,73.5,32,33,35,42,-45,45,35,45,80
+Oxford Open 2018,2018-07-21,Women's Youth Under 15 76Kg,Emily Allen,73.2,29,-32,32,38,-40,40,32,40,72
+Oxford Open 2018,2018-07-21,Women's Youth Under 15 45Kg,Sophie Gibson,40.5,15,17,19,20,23,26,19,26,45
+Oxford Open 2018,2018-07-21,Women's Youth Under 17 76Kg,Ilze Ojere,75,0,0,0,0,0,0,0,0,0
+Oxford Open 2018,2018-07-21,Women's Senior 64Kg,Louise Blair,62.9,0,0,0,0,0,0,0,0,0
+Oxford Open 2018,2018-07-21,Men's Senior 102Kg,Stephen Fullicks,101.4,0,0,0,0,0,0,0,0,0
+Oxford Open 2018,2018-07-21,Women's Youth Under 17 76Kg,Ilze Ojere,75,-50,-52,-52,0,0,0,0,0,0

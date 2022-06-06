@@ -1,0 +1,60 @@
+meet,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+2013 Capital City open,2013-04-21,Open Men's+105 kg,Allen Hildebrand,119.08,120,125,130,140,150,155,130,155,285
+2013 Capital City open,2013-04-21,Open Men's+105 kg,Alex Corwin,118.77,110,120,122,141,150,156,122,156,278
+2013 Capital City open,2013-04-21,Open Men's 94 kg,Jeffrey Teach,91.42,105,110,115,135,142,150,115,150,265
+2013 Capital City open,2013-04-21,Open Men's 77 kg,Nu Akalegbere,75.91,100,107,112,135,145,150,112,150,262
+2013 Capital City open,2013-04-21,Open Men's 105 kg,Aaron Naccarato,95.58,112,117,121,135,136,139,121,139,260
+2013 Capital City open,2013-04-21,Open Men's 105 kg,Craig Kilgo,103.59,107,110,114,128,129,129,114,129,243
+2013 Capital City open,2013-04-21,Open Men's 94 kg,John Collins,91.78,95,100,105,125,130,135,105,135,240
+2013 Capital City open,2013-04-21,Open Men's 105 kg,Thomas Sovocool,98.89,95,100,100,132,138,140,100,140,240
+2013 Capital City open,2013-04-21,Open Men's 105 kg,Tyler Payne,101.68,90,95,100,120,130,137,100,137,237
+2013 Capital City open,2013-04-21,Open Men's 85 kg,Jose Cardenas,83.88,100,105,107,120,125,130,107,130,237
+2013 Capital City open,2013-04-21,Open Men's+105 kg,Chukwudi Uraih,123.2,85,85,90,120,130,136,90,136,226
+2013 Capital City open,2013-04-21,Open Men's 105 kg,Patrick Fink,94.82,92,96,100,118,122,123,100,123,223
+2013 Capital City open,2013-04-21,Open Men's 85 kg,Carl Johnson,84.73,100,100,103,110,120,120,103,120,223
+2013 Capital City open,2013-04-21,Open Men's 94 kg,James Lomax,91.58,85,92,100,110,116,118,100,118,218
+2013 Capital City open,2013-04-21,Open Men's 77 kg,Jeffrey Jenkins,73.57,85,90,95,110,122,122,95,122,217
+2013 Capital City open,2013-04-21,Open Men's 77 kg,Anthony Mayo,76.44,86,91,92,116,123,123,92,123,215
+2013 Capital City open,2013-04-21,Open Men's 77 kg,Joshua Dempsey,76.54,85,90,94,107,112,117,94,117,211
+2013 Capital City open,2013-04-21,Open Men's 94 kg,Carey Malec,85.94,89,93,97,110,114,114,97,114,211
+2013 Capital City open,2013-04-21,Open Men's+105 kg,Jon Cooper,115.44,85,91,91,110,115,120,91,120,211
+2013 Capital City open,2013-04-21,Open Men's+105 kg,Alexander Butler,105.48,75,80,85,105,110,120,85,120,205
+2013 Capital City open,2013-04-21,Open Men's 77 kg,Marcos Hernandez,76.35,82,86,87,105,109,115,87,115,202
+2013 Capital City open,2013-04-21,Open Men's 85 kg,Danny Hale,79.19,85,85,90,102,108,110,90,110,200
+2013 Capital City open,2013-04-21,Open Men's 69 kg,Yedong Wei,68.52,85,90,92,105,105,105,92,105,197
+2013 Capital City open,2013-04-21,Open Men's 77 kg,Paul Healy,75.38,85,88,88,100,103,106,88,106,194
+2013 Capital City open,2013-04-21,Open Men's 85 kg,Edward Carter,79.98,80,83,88,93,98,105,88,105,193
+2013 Capital City open,2013-04-21,Open Men's 77 kg,Brent Kwiatkowski,76.39,75,78,80,102,102,110,80,110,190
+2013 Capital City open,2013-04-21,Open Men's 94 kg,Braden Pan,89.38,70,80,85,90,99,105,85,105,190
+2013 Capital City open,2013-04-21,Open Men's 77 kg,Paul Landefeld,75.12,76,80,83,94,99,100,83,100,183
+2013 Capital City open,2013-04-21,Open Men's 94 kg,Sebastian Robertson,93.53,73,75,75,91,96,98,75,98,173
+2013 Capital City open,2013-04-21,Women's Masters (35-39) 69 kg,Patricia Maizels,68.18,67,70,72,88,92,95,72,95,167
+2013 Capital City open,2013-04-21,Open Men's 62 kg,Tyler Maizels,56.1,69,72,73,85,90,90,73,90,163
+2013 Capital City open,2013-04-21,Open Men's 85 kg,Michael Estrada,84.23,63,65,65,90,92,95,65,95,160
+2013 Capital City open,2013-04-21,Open Men's 85 kg,Jason Reams,83.57,58,62,66,88,88,93,66,93,159
+2013 Capital City open,2013-04-21,Open Women's 58 kg,Melissa York,57.22,60,63,66,85,89,91,66,91,157
+2013 Capital City open,2013-04-21,Open Women's 69 kg,Ashleigh Hiott,66.37,58,62,66,81,86,91,66,91,157
+2013 Capital City open,2013-04-21,Open Men's 69 kg,Vincent Le,68.69,50,55,60,75,90,95,60,95,155
+2013 Capital City open,2013-04-21,Open Men's 94 kg,Charles Miller,93.36,60,63,67,80,85,88,67,88,155
+2013 Capital City open,2013-04-21,Women's Masters (40-44) 63 kg,Rebecca Corallo,62.9,58,61,64,75,78,81,64,81,145
+2013 Capital City open,2013-04-21,Open Men's 94 kg,Kenneth Laughton,89,53,57,60,75,80,84,60,84,144
+2013 Capital City open,2013-04-21,Open Men's 105 kg,Reginald Wallace,99.17,67,67,67,73,73,73,67,73,140
+2013 Capital City open,2013-04-21,Open Women's 63 kg,Caitlin Vodopia,61.87,57,60,64,68,68,71,64,71,135
+2013 Capital City open,2013-04-21,Women's Masters (45-49) +75 kg,Laura Sims,98.44,48,52,54,62,65,71,54,71,125
+2013 Capital City open,2013-04-21,Open Men's 77 kg,David Benson,72.35,50,54,57,65,68,68,57,68,125
+2013 Capital City open,2013-04-21,Women's Masters (35-39) 75 kg,Sara Katz,69.96,49,50,50,67,67,70,50,70,120
+2013 Capital City open,2013-04-21,Women's Masters (35-39) 58 kg,Christine Cardwell,56.78,47,47,52,60,62,64,52,64,116
+2013 Capital City open,2013-04-21,Open Women's +75 Kg,Menwei Avriette,85.76,46,48,51,58,62,65,51,65,116
+2013 Capital City open,2013-04-21,Open Men's 77 kg,William Hitchcock,70.69,45,48,50,63,63,65,50,65,115
+2013 Capital City open,2013-04-21,Open Men's 94 kg,Matthew Mazzeo,89.36,43,47,47,60,67,67,47,67,114
+2013 Capital City open,2013-04-21,Women's Masters (35-39) 58 kg,Junay Hom,56.99,43,46,49,55,59,62,49,62,111
+2013 Capital City open,2013-04-21,Open Women's 58 kg,Jaquelin Ong,55.31,42,45,48,53,58,62,48,62,110
+2013 Capital City open,2013-04-21,Women's Masters (40-44) 69 kg,April Mundt,69,37,42,43,44,49,54,43,54,97
+2013 Capital City open,2013-04-21,Open Women's 58 kg,Ashley Hanlon,57.68,35,40,45,42,48,48,45,48,93
+2013 Capital City open,2013-04-21,Women's Masters (40-44) 63 kg,Linda Gaston,63,35,38,39,40,45,48,39,48,87
+2013 Capital City open,2013-04-21,Women's Masters (45-49) +75 kg,Kristina O'Connor,79.86,32,34,36,41,43,46,36,46,82
+2013 Capital City open,2013-04-21,Women's 14-15 Age Group 69 kg,Margaret Bielski,65.9,27,30,32,38,43,45,32,45,77
+2013 Capital City open,2013-04-21,Men's 13 Under Age Group 69 Kg,ELLIOTT JOHNSON,62.48,25,30,32,35,40,44,32,44,76
+2013 Capital City open,2013-04-21,Women's 13 Under Age Group 44kg,Rachel Bielski,41.14,16,18,20,20,23,25,20,25,45
+2013 Capital City open,2013-04-21,Women's 13 Under Age Group 31kg,Talia Lloyd,30.59,14,16,18,16,18,20,18,20,38
+2013 Capital City open,2013-04-21,Men's 13 Under Age Group 31 Kg,Brixton Maizels,21.38,10,11,12,14,15,16,12,16,28

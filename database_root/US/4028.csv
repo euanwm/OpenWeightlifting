@@ -1,0 +1,81 @@
+meet,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+The New England Open,2020-02-16,Men's Masters (40-44) 102kg,Jared Coon,101.8,135,140,145,160,170,-177,145,170,315
+The New England Open,2020-02-16,Open Men's 89kg,Nguyen Huynh,88.7,130,-135,-136,170,175,-180,130,175,305
+The New England Open,2020-02-16,Open Men's +109kg,Jacob Brenza,118,125,130,-135,155,160,165,130,165,295
+The New England Open,2020-02-16,Open Men's 96kg,John Bateman,94.8,110,115,121,145,150,-155,121,150,271
+The New England Open,2020-02-16,Open Men's 81kg,James Gomes,80.7,115,120,121,138,143,-147,121,143,264
+The New England Open,2020-02-16,Junior Men's 89kg,Matthew Tung,88.1,-120,120,-125,143,-148,-148,120,143,263
+The New England Open,2020-02-16,Open Men's 89kg,Steven Eaton,88,110,114,118,135,140,-143,118,140,258
+The New England Open,2020-02-16,Open Men's 81kg,Christopher Haverty,80.3,110,115,-118,137,142,-146,115,142,257
+The New England Open,2020-02-16,Open Men's 89kg,Alexander Ouellet,88.6,105,110,115,-140,140,-145,115,140,255
+The New England Open,2020-02-16,Men's Masters (35-39) 102kg,Alexander Magidow,98.3,105,110,-116,125,-134,-134,110,125,235
+The New England Open,2020-02-16,Open Men's 96kg,brett scott,89.6,-95,95,100,124,130,134,100,134,234
+The New England Open,2020-02-16,Open Men's 81kg,Marcus Weimar,78.5,86,-90,92,122,126,-132,92,126,218
+The New England Open,2020-02-16,Open Men's 89kg,Dylan Lingenau,85.3,-95,95,-100,116,121,-125,95,121,216
+The New England Open,2020-02-16,Open Men's 109kg,Ansel Notman-Wilmerding,105.3,85,90,95,110,115,120,95,120,215
+The New England Open,2020-02-16,Open Men's 73kg,Andrew Simons,72,89,92,-96,108,112,116,92,116,208
+The New England Open,2020-02-16,Men's Masters (45-49) 73kg,Patrick Shea,72.8,90,-93,-93,-116,-116,116,90,116,206
+The New England Open,2020-02-16,Men's Masters (40-44) 89kg,Paul Landi,88.8,83,-87,87,110,115,118,87,118,205
+The New England Open,2020-02-16,Men's Masters (35-39) 81kg,Jason Chan,80.9,-80,80,85,105,110,-115,85,110,195
+The New England Open,2020-02-16,Open Men's 89kg,Peter Roemer,85.3,70,75,80,105,110,115,80,115,195
+The New England Open,2020-02-16,Open Men's 81kg,Trevor Sonovick,78.2,75,80,85,95,102,108,85,108,193
+The New England Open,2020-02-16,Open Men's 96kg,Andre Alvarez,89.5,75,80,-85,95,100,105,80,105,185
+The New England Open,2020-02-16,Junior Men's 102kg,Thane Gallo,96.9,-76,77,-87,101,107,-115,77,107,184
+The New England Open,2020-02-16,Junior Men's 89kg,Ralph Christian Pulido,84.9,78,81,84,90,94,99,84,99,183
+The New England Open,2020-02-16,Men's Masters (60-64) 96kg,Stephen Powell,92.7,78,82,-85,95,99,-102,82,99,181
+The New England Open,2020-02-16,Men's Masters (40-44) 67kg,Jaime Parada,66.2,74,77,-80,99,101,103,77,103,180
+The New England Open,2020-02-16,Open Men's 89kg,Alexander Pimentel,86.6,-70,70,-73,105,110,-115,70,110,180
+The New England Open,2020-02-15,Open Women's 71kg,Amber Marchetto,70.1,72,-75,75,94,97,-100,75,97,172
+The New England Open,2020-02-16,Open Men's 102kg,Curtis Mahan,99.8,70,-75,75,90,95,-100,75,95,170
+The New England Open,2020-02-16,Men's Masters (50-54) 102kg,David Monesmith,101.6,-73,73,-76,-96,96,-101,73,96,169
+The New England Open,2020-02-15,Women's Masters (35-39) 64kg,Coleen Crawford,63.3,70,73,-77,90,95,-98,73,95,168
+The New England Open,2020-02-15,Open Women's +87kg,Mackenzie Roy,97.5,68,72,76,81,86,91,76,91,167
+The New England Open,2020-02-16,Open Men's 73kg,Raj Basu,72.3,70,-75,-75,85,90,95,70,95,165
+The New England Open,2020-02-16,Open Men's 67kg,Jonathan Larcom,66.5,69,-75,-75,89,-93,93,69,93,162
+The New England Open,2020-02-15,Open Women's 71kg,Allison Dotson,69.2,-67,-67,67,85,90,-93,67,90,157
+The New England Open,2020-02-15,Women's Masters (35-39) 59kg,Stephanie Jefferson,58.7,-69,-69,69,83,-86,-87,69,83,152
+The New England Open,2020-02-16,Men's Masters (35-39) 81kg,Samy Daghir,73.2,-65,65,-70,80,87,-91,65,87,152
+The New England Open,2020-02-16,Open Men's 89kg,Roman Ganchin,86.9,56,58,60,81,84,88,60,88,148
+The New England Open,2020-02-15,Open Women's 71kg,Kaitlyn O’Connor,68.1,-64,-64,64,-77,77,80,64,80,144
+The New England Open,2020-02-15,Women's Masters (50-54) 87kg,Andrea Whalen,84.2,54,57,-63,71,76,85,57,85,142
+The New England Open,2020-02-15,Open Women's +87kg,Kaitlin Bennett,112.2,65,-68,-68,70,74,77,65,77,142
+The New England Open,2020-02-15,Open Women's 59kg,Sophie Hu,57.8,53,57,62,68,73,79,62,79,141
+The New England Open,2020-02-15,Open Women's 71kg,Megan Libby,69.3,58,-60,-61,-79,79,81,58,81,139
+The New England Open,2020-02-15,Open Women's 64kg,Caitlin Pond,62.4,52,55,58,74,77,80,58,80,138
+The New England Open,2020-02-15,Open Women's 64kg,Finna Wang,62.8,58,-61,61,70,73,-76,61,73,134
+The New England Open,2020-02-15,Women's Masters (35-39) 64kg,Erin Blette,61.7,52,55,-58,72,-76,76,55,76,131
+The New England Open,2020-02-16,Men's Masters (50-54) 61kg,Eric Kupperstein,59.8,53,-57,57,66,70,74,57,74,131
+The New England Open,2020-02-15,Women's Masters (45-49) 59kg,Elizabeth Burkhart,55,52,-55,55,70,73,-76,55,73,128
+The New England Open,2020-02-15,Open Women's 64kg,McKenzie Leach,62.9,57,59,-62,69,-72,-72,59,69,128
+The New England Open,2020-02-15,Women's Masters (35-39) 64kg,Kathleen Black,62.5,-53,-53,53,70,73,75,53,75,128
+The New England Open,2020-02-15,Women's Masters (35-39) +87kg,Bethany Bessette,100.9,50,52,54,61,64,70,54,70,124
+The New England Open,2020-02-15,Open Women's 71kg,Sarah Dikum,65.8,51,53,56,63,67,-70,56,67,123
+The New England Open,2020-02-15,Open Women's 71kg,Sara Rockwell,67.8,-55,55,-57,-65,65,67,55,67,122
+The New England Open,2020-02-15,Open Women's 76kg,Amy Dean,72.7,50,53,56,60,65,-70,56,65,121
+The New England Open,2020-02-15,Open Women's 76kg,Hayley Ciarrocchi,75.5,45,49,53,61,66,-71,53,66,119
+The New England Open,2020-02-15,Open Women's 59kg,Julie Wenzlow,58.3,47,50,53,62,65,-70,53,65,118
+The New England Open,2020-02-15,Women's Masters (40-44) 87kg,Sarah Owens,86.4,49,52,55,59,62,-64,55,62,117
+The New England Open,2020-02-15,Open Women's 64kg,Casey Quirk,60.9,45,50,-53,63,66,-70,50,66,116
+The New England Open,2020-02-15,Open Women's 71kg,Shealynn Williams,68.9,49,51,-53,-62,-64,64,51,64,115
+The New England Open,2020-02-15,Open Women's 59kg,Stephanie Varno,58.4,41,44,47,59,63,66,47,66,113
+The New England Open,2020-02-15,Women's Masters (40-44) 71kg,Anne Powell,64.5,42,45,47,60,63,66,47,66,113
+The New England Open,2020-02-15,Women's Masters (35-39) 64kg,Helen Lin,59,47,50,-52,55,59,62,50,62,112
+The New England Open,2020-02-15,Open Women's 59kg,Ashley Remillard,58.9,42,46,-48,57,-62,62,46,62,108
+The New England Open,2020-02-16,Men's Masters (60-64) 67kg,Steve Cusack,65.9,45,46,0,57,61,0,46,61,107
+The New England Open,2020-02-15,Women's 14-15 Age Group 71kg,Rylie Rohloff,66.4,40,42,44,56,59,62,44,62,106
+The New England Open,2020-02-15,Women's 16-17 Age Group 64kg,Olivia Sassetti,62.6,39,41,44,56,59,62,44,62,106
+The New England Open,2020-02-15,Women's Masters (50-54) 59kg,Maria Licopoli,57,40,-45,-50,57,64,-70,40,64,104
+The New England Open,2020-02-16,Open Men's 96kg,Sam Mans,93.1,45,47,50,48,51,54,50,54,104
+The New England Open,2020-02-15,Women's Masters (35-39) 71kg,Tracy Wong,67,41,-44,44,52,56,-61,44,56,100
+The New England Open,2020-02-15,Women's Masters (55-59) 71kg,Diane Stone,70.9,38,40,42,52,54,56,42,56,98
+The New England Open,2020-02-15,Women's Masters (35-39) 71kg,Amy Coey,68.3,37,39,-41,56,59,-62,39,59,98
+The New England Open,2020-02-15,Open Women's 64kg,Meghan Beatty,59.5,37,39,41,50,-51,-51,41,50,91
+The New England Open,2020-02-15,Women's Masters (50-54) 71kg,Linda Rawstron,68.6,31,33,34,41,43,45,34,45,79
+The New England Open,2020-02-15,Junior Women's 71kg,Nicole Alexander,70.9,32,-34,34,-41,41,44,34,44,78
+The New England Open,2020-02-15,Open Women's 71kg,Emma Hunt,68.1,28,30,32,42,44,46,32,46,78
+The New England Open,2020-02-15,Women's Masters (50-54) +87kg,Jen Laliberte,113.3,-32,32,33,41,-43,43,33,43,76
+The New England Open,2020-02-15,Open Women's +87kg,Amanda Agostino,134.5,30,-32,32,35,38,41,32,41,73
+The New England Open,2020-02-15,Women's 14-15 Age Group 55kg,Avery Gallagher,50.1,-25,25,26,37,41,45,26,45,71
+The New England Open,2020-02-16,Men's 14-15 Age Group 61kg,Hunter Bramley,56.2,24,26,28,30,33,36,28,36,64
+The New England Open,2020-02-15,Women's 16-17 Age Group 49kg,Caroline Kent,48.2,17,19,21,29,32,34,21,34,55
+The New England Open,2020-02-15,Women's 13 Under Age Group 45kg,Ella Gamache,40.8,10,11,12,20,23,26,12,26,38

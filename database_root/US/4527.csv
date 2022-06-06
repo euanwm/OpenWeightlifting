@@ -1,0 +1,19 @@
+meet,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+COVID-'20 Classic,2020-03-21,Open Men's 81kg,Seth Rogers,80.01,120,120,124,145,150,154,124,154,278
+COVID-'20 Classic,2020-03-21,Open Men's 81kg,Olban Calix,80.64,114,117,117,149,154,157,117,157,274
+COVID-'20 Classic,2020-03-21,Open Men's 81kg,Olban Calix,80.64,114,-117,117,149,154,157,117,157,274
+COVID-'20 Classic,2020-03-21,Open Men's 81kg,Seth Rogers,80.01,-120,-120,124,145,150,-154,124,150,274
+COVID-'20 Classic,2020-03-21,Open Men's 89kg,Michael Rincon,88.35,102,107,111,127,132,137,111,137,248
+COVID-'20 Classic,2020-03-21,Open Men's 89kg,Michael Rincon,88.35,102,107,111,127,132,-137,111,132,243
+COVID-'20 Classic,2020-03-21,Open Men's 81kg,Michael Reives,80.84,81,85,90,120,125,130,90,130,220
+COVID-'20 Classic,2020-03-21,Open Men's 81kg,Michael Reives,80.84,81,85,90,120,125,130,90,130,220
+COVID-'20 Classic,2020-03-21,Open Men's 89kg,Brett Smith,84.34,94,98,98,115,120,120,98,120,218
+COVID-'20 Classic,2020-03-21,Open Men's 89kg,Brett Smith,84.34,84,-98,-98,115,-120,120,84,120,204
+COVID-'20 Classic,2020-03-21,Open Women's 76kg,Hollie Jernigan,75.66,80,83,86,97,101,105,86,105,191
+COVID-'20 Classic,2020-03-21,Open Women's 76kg,Hollie Jernigan,75.66,-80,83,86,97,-101,105,86,105,191
+COVID-'20 Classic,2020-03-21,Open Women's 71kg,Kaylan Lee,68.36,72,76,80,87,93,93,80,93,173
+COVID-'20 Classic,2020-03-21,Open Women's 71kg,Olivia Daynes,70.25,66,70,74,86,91,96,74,96,170
+COVID-'20 Classic,2020-03-21,Open Women's 71kg,Olivia Daynes,70.25,66,70,-74,86,91,96,70,96,166
+COVID-'20 Classic,2020-03-21,Open Women's 71kg,Kaylan Lee,68.36,72,76,-80,87,-93,-93,76,87,163
+COVID-'20 Classic,2020-03-21,Open Women's 64kg,Georgia Mead,60.74,45,49,52,58,62,66,52,66,118
+COVID-'20 Classic,2020-03-21,Junior Women's 64kg,Georgia Mead,60.74,45,49,-52,58,62,-66,49,62,111

@@ -1,0 +1,36 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Hallam Barbell Club Open V 2019,2019-05-18,Men's Senior 109+Kg,Callum Downie,111.2,115,120,-125,-160,160,-171,120,160,280
+Hallam Barbell Club Open V 2019,2019-05-18,Men's Senior 89Kg,Daniel Methenitis,86,90,95,100,123,128,131,100,131,231
+Hallam Barbell Club Open V 2019,2019-05-18,Men's Senior 96Kg,Tom Morris,94.4,-86,92,98,110,115,123,98,123,221
+Hallam Barbell Club Open V 2019,2019-05-18,Men's Senior 81Kg,Matthew Steele,79.4,95,100,-102,115,-120,-120,100,115,215
+Hallam Barbell Club Open V 2019,2019-05-18,Men's Senior 96Kg,Gareth Braisdell,94.2,85,89,-95,115,120,125,89,125,214
+Hallam Barbell Club Open V 2019,2019-05-18,Men's Senior 81Kg,James Walker,78.8,-90,91,-95,110,115,-120,91,115,206
+Hallam Barbell Club Open V 2019,2019-05-18,Men's Masters (40-44) 96Kg,Karl Simpson,92.8,90,95,98,100,-105,105,98,105,203
+Hallam Barbell Club Open V 2019,2019-05-18,Men's Senior 102Kg,Simon Shuttleworth,98.8,82,85,-90,108,112,-115,85,112,197
+Hallam Barbell Club Open V 2019,2019-05-18,Men's Senior 89Kg,Sahand Zanjani pour,88,83,-87,-88,106,-111,-113,83,106,189
+Hallam Barbell Club Open V 2019,2019-05-18,Men's Senior 81Kg,Zak Madin,77.4,80,82,-85,100,105,-107,82,105,187
+Hallam Barbell Club Open V 2019,2019-05-18,Women's Senior 71Kg,Amy Salt,69.8,68,73,77,93,97,102,77,102,179
+Hallam Barbell Club Open V 2019,2019-05-18,Women's Senior 71Kg,Chavon-Grace Ransome,69.9,70,75,80,90,95,-100,80,95,175
+Hallam Barbell Club Open V 2019,2019-05-18,Men's Junior Under 20 96Kg,Matthew Lloyd,92,60,63,70,100,104,-108,70,104,174
+Hallam Barbell Club Open V 2019,2019-05-18,Women's Under 23 59Kg,Jennifer Tong,58.8,-75,76,79,90,93,0,79,93,172
+Hallam Barbell Club Open V 2019,2019-05-18,Men's Masters (40-44) 96Kg,Will Blackhurst,92.8,65,70,76,80,-85,85,76,85,161
+Hallam Barbell Club Open V 2019,2019-05-18,Men's Senior 73Kg,Sean Maloney,69.2,65,70,75,75,80,85,75,85,160
+Hallam Barbell Club Open V 2019,2019-05-18,Men's Under 23 73Kg,Matthew Johnson,73,60,61,-61,90,-95,-95,61,90,151
+Hallam Barbell Club Open V 2019,2019-05-18,Men's Youth Under 15 73Kg,Ted Briscoe,70.3,-56,56,60,-75,75,80,60,80,140
+Hallam Barbell Club Open V 2019,2019-05-18,Men's Masters (50-54) 96Kg,Kevin Smith,93.8,-65,-65,66,70,-84,-84,66,70,136
+Hallam Barbell Club Open V 2019,2019-05-18,Women's Senior 64Kg,Jasmin Naylor,62.6,52,56,60,70,73,76,60,76,136
+Hallam Barbell Club Open V 2019,2019-05-18,Men's Junior Under 20 67Kg,Charlie Webb,66.4,55,58,61,68,71,75,61,75,136
+Hallam Barbell Club Open V 2019,2019-05-18,Women's Masters (40-44) 64Kg,Rebecca Martin,63.2,56,59,-63,73,-76,76,59,76,135
+Hallam Barbell Club Open V 2019,2019-05-18,Women's Senior 64Kg,Stephanie Kotterer,63.6,54,57,-60,68,72,75,57,75,132
+Hallam Barbell Club Open V 2019,2019-05-18,Women's Senior 76Kg,Amelia Stevenson,72.4,-55,55,58,70,-73,73,58,73,131
+Hallam Barbell Club Open V 2019,2019-05-18,Women's Senior 55Kg,Cathy-Ann Myers,50.8,52,54,56,68,70,72,56,72,128
+Hallam Barbell Club Open V 2019,2019-05-18,Men's Masters (50-54) 96Kg,Wayne Richardson,96,50,53,-56,70,-75,-75,53,70,123
+Hallam Barbell Club Open V 2019,2019-05-18,Women's Masters (40-44) 87+Kg,Victoria De Val,94.8,46,-49,50,66,69,72,50,72,122
+Hallam Barbell Club Open V 2019,2019-05-18,Women's Senior 76Kg,Philippa Glendining,72.4,45,48,52,65,68,70,52,70,122
+Hallam Barbell Club Open V 2019,2019-05-18,Women's Senior 76Kg,Roisin Cryan,72.4,48,51,54,60,62,65,54,65,119
+Hallam Barbell Club Open V 2019,2019-05-18,Women's Senior 64Kg,April Edwards,61.6,-45,45,48,-62,62,65,48,65,113
+Hallam Barbell Club Open V 2019,2019-05-18,Women's Senior 59Kg,Samantha Petrean,59,49,-52,-52,58,61,64,49,64,113
+Hallam Barbell Club Open V 2019,2019-05-18,Women's Masters (35-39) 59Kg,Irina Carvalho,58.6,40,42,45,50,55,61,45,61,106
+Hallam Barbell Club Open V 2019,2019-05-18,Women's Masters (35-39) 71Kg,Francesca Webb,69.2,40,43,-45,50,53,56,43,56,99
+Hallam Barbell Club Open V 2019,2019-05-18,Women's Senior 81Kg,Jenny Butcher,80.6,27,30,33,30,33,37,33,37,70
+Hallam Barbell Club Open V 2019,2019-05-18,Women's Senior 71Kg,Chloe Bristow,69,-68,-68,-68,0,0,0,0,0,0

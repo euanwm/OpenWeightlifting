@@ -1,0 +1,15 @@
+meet,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Spring Meet,2016-04-09,Open Men's+105 kg,Marcos Bribiesca,125.5,113,116,120,149,152,-155,120,152,272
+Spring Meet,2016-04-09,Open Men's 77 kg,Dominic Stolle,74.3,115,120,-125,140,146,-151,120,146,266
+Spring Meet,2016-04-09,Open Men's 77 kg,Cal Arrott,71.4,-99,99,103,-119,119,-125,103,119,222
+Spring Meet,2016-04-09,Open Men's 85 kg,Dustin Lewis,83.3,-88,90,-93,-121,127,-132,90,127,217
+Spring Meet,2016-04-09,Open Men's 105 kg,Bryson Murray,99.1,88,-91,91,113,118,122,91,122,213
+Spring Meet,2016-04-09,Open Men's 105 kg,Jackson Uselding,103.5,80,83,-87,118,122,-127,83,122,205
+Spring Meet,2016-04-09,Open Women's 69 kg,Evelyn Valdez,68.6,-66,66,70,86,-91,-92,70,86,156
+Spring Meet,2016-04-09,Open Women's 48 kg,Angelique Reed,47.7,60,63,-65,73,76,-79,63,76,139
+Spring Meet,2016-04-09,Open Women's 63 kg,Susy Flores,60.5,57,-60,-63,70,74,76,57,76,133
+Spring Meet,2016-04-09,Open Women's 63 kg,Bailey Walser,61.6,-52,-52,52,68,71,73,52,73,125
+Spring Meet,2016-04-09,Men's 13 Under Age Group 69 Kg,Conner Holton,62.8,-31,32,-35,43,45,47,32,47,79
+Spring Meet,2016-04-09,{'type': 'unset'},Lincoln Wise,34.5,27,29,-31,38,41,-43,29,41,70
+Spring Meet,2016-04-09,Women's 13 Under Age Group 58kg,Meca Griffin,56.1,21,22,-24,33,-35,-36,22,33,55
+Spring Meet,2016-04-09,Women's 13 Under Age Group 53kg,Faith Allbee,53,20,22,-25,28,31,-33,22,31,53

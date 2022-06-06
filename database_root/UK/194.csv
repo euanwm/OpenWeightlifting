@@ -1,0 +1,56 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Bethnal Green Spring Open 2019,2019-06-30,Men's Under 23 96Kg,Jesse Gilham,93,112,116,120,140,144,150,120,150,270
+Bethnal Green Spring Open 2019,2019-04-14,Men's Senior 81Kg,Ben Ross,80,110,-115,115,140,145,150,115,150,265
+Bethnal Green Spring Open 2019,2019-04-14,Men's Senior 89Kg,Timothy Crew,87.2,110,115,118,-140,142,146,118,146,264
+Bethnal Green Spring Open 2019,2019-06-30,Men's Senior 89Kg,Thomas Leys,86.3,108,112,115,130,-136,136,115,136,251
+Bethnal Green Spring Open 2019,2019-06-30,Men's Under 23 89Kg,Oliver Bracher,87.8,100,105,110,131,135,138,110,138,248
+Bethnal Green Spring Open 2019,2019-04-14,Men's Senior 89Kg,Thomas Leys,85.5,108,111,-115,130,135,-140,111,135,246
+Bethnal Green Spring Open 2019,2019-06-30,Men's Senior 81Kg,Marcel Wallace,76.8,91,96,98,119,125,130,98,130,228
+Bethnal Green Spring Open 2019,2019-06-30,Men's Senior 89Kg,Alexander Dear,84.4,93,97,100,118,123,128,100,128,228
+Bethnal Green Spring Open 2019,2019-04-14,Men's Senior 89Kg,Joe Kelly,88.2,92,-96,97,113,118,122,97,122,219
+Bethnal Green Spring Open 2019,2019-04-14,Men's Senior 81Kg,Matt Olsen,78.5,86,89,-92,104,107,111,89,111,200
+Bethnal Green Spring Open 2019,2019-04-14,Men's Senior 89Kg,Martin Bass,88,80,85,-90,110,115,-120,85,115,200
+Bethnal Green Spring Open 2019,2019-06-30,Men's Masters (40-44) 81Kg,Aaron Holt,80.1,87,90,-93,103,106,-109,90,106,196
+Bethnal Green Spring Open 2019,2019-04-14,Men's Senior 89Kg,Ashley Walke,85.9,77,82,87,100,105,109,87,109,196
+Bethnal Green Spring Open 2019,2019-04-14,Men's Senior 102Kg,Harry Veillard,101,80,85,90,100,-105,106,90,106,196
+Bethnal Green Spring Open 2019,2019-04-14,Men's Senior 81Kg,Matt Olsen,78.5,86,89,-92,104,107,11,89,107,196
+Bethnal Green Spring Open 2019,2019-06-30,Men's Senior 67Kg,Daniel Pogmore,61.2,80,84,88,101,104,107,88,107,195
+Bethnal Green Spring Open 2019,2019-04-14,Men's Senior 96Kg,Kristof Ujvari,93.2,-90,-90,90,100,105,11,90,105,195
+Bethnal Green Spring Open 2019,2019-06-30,Men's Masters (45-49) 81Kg,Lloyd Morgan,81,89,-92,-93,100,105,-109,89,105,194
+Bethnal Green Spring Open 2019,2019-06-30,Men's Under 23 67Kg,Rahul Sood,65,83,86,-90,-105,105,-108,86,105,191
+Bethnal Green Spring Open 2019,2019-04-14,Men's Senior 109Kg,Andrew Johnson,104,81,-85,-85,105,110,-113,81,110,191
+Bethnal Green Spring Open 2019,2019-06-30,Men's Youth Under 17 81Kg,Salvatore Calderaro,75.5,85,-88,-90,100,105,-110,85,105,190
+Bethnal Green Spring Open 2019,2019-06-30,Men's Under 23 67Kg,Sui-Fung Fan,67,83,-86,86,-100,104,-108,86,104,190
+Bethnal Green Spring Open 2019,2019-04-14,Men's Senior 61Kg,Daniel Pogmore,59.7,80,-85,85,100,105,-110,85,105,190
+Bethnal Green Spring Open 2019,2019-04-14,Men's Senior 81Kg,Aaron Holt,80.5,82,85,-89,101,-105,105,85,105,190
+Bethnal Green Spring Open 2019,2019-04-14,Men's Senior 67Kg,Sui-Fung Fan,66.5,85,-88,-88,100,-105,105,85,105,190
+Bethnal Green Spring Open 2019,2019-06-30,Men's Under 23 81Kg,Qusai Nusair,80.9,80,85,88,100,-105,-106,88,100,188
+Bethnal Green Spring Open 2019,2019-04-14,Men's Senior 73Kg,Peter Vuong,72.6,75,80,-85,95,-100,100,80,100,180
+Bethnal Green Spring Open 2019,2019-04-14,Women's Senior 76Kg,Chloé Cassar,72.3,-77,77,-80,94,97,100,77,100,177
+Bethnal Green Spring Open 2019,2019-04-14,Women's Senior 64Kg,Bobbie Ross,64,74,77,-79,88,92,95,77,95,172
+Bethnal Green Spring Open 2019,2019-04-14,Men's Senior 73Kg,Grant Langdon,71.5,-68,70,75,90,94,-101,75,94,169
+Bethnal Green Spring Open 2019,2019-04-14,Women's Senior 81Kg,Lauren Miller,81,-72,-73,73,92,-95,-97,73,92,165
+Bethnal Green Spring Open 2019,2019-04-14,Women's Senior 64Kg,Heather Burt,64,67,70,72,89,-91,91,72,91,163
+Bethnal Green Spring Open 2019,2019-04-14,Men's Senior 96Kg,Christopher Cavanagh,90.3,65,70,75,80,86,-92,75,86,161
+Bethnal Green Spring Open 2019,2019-06-30,Men's Masters (45-49) 89Kg,Jed Mitchell,86.8,-60,60,68,85,90,-97,68,90,158
+Bethnal Green Spring Open 2019,2019-04-14,Women's Senior 71Kg,Darya Levchenko,70.4,65,68,70,85,88,-90,70,88,158
+Bethnal Green Spring Open 2019,2019-06-30,Women's Senior 59Kg,Rachel Hill,59,66,69,-72,85,-89,-89,69,85,154
+Bethnal Green Spring Open 2019,2019-04-14,Men's Senior 67Kg,Ryan Curtis,63.3,71,-73,-75,77,80,-84,71,80,151
+Bethnal Green Spring Open 2019,2019-04-14,Women's Senior 64Kg,Katarina Wiemeyer,63.1,63,65,67,80,83,-85,67,83,150
+Bethnal Green Spring Open 2019,2019-04-14,Men's Senior 81Kg,Chris Oultram,80.2,-55,55,58,80,85,90,58,90,148
+Bethnal Green Spring Open 2019,2019-04-14,Women's Senior 76Kg,Kathryn Darvill,74,60,63,-66,76,79,81,63,81,144
+Bethnal Green Spring Open 2019,2019-04-14,Women's Senior 59Kg,Hayley Ward,58.7,57,61,-64,77,80,-83,61,80,141
+Bethnal Green Spring Open 2019,2019-06-30,Men's Masters (45-49) 67Kg,Theodore Chen,66.6,52,-56,56,72,74,-76,56,74,130
+Bethnal Green Spring Open 2019,2019-04-14,Men's Senior 73Kg,Theodore Chen,68,52,-55,-55,70,73,-76,52,73,125
+Bethnal Green Spring Open 2019,2019-06-30,Women's Junior Under 20 64Kg,Alexandra Musker,63,54,-57,-57,64,67,70,54,70,124
+Bethnal Green Spring Open 2019,2019-04-14,Women's Senior 71Kg,bella barnes,66.8,47,50,-53,60,-65,65,50,65,115
+Bethnal Green Spring Open 2019,2019-04-14,Women's Senior 55Kg,Seema Robbins,53.6,41,-43,43,50,53,-55,43,53,96
+Bethnal Green Spring Open 2019,2019-04-14,Men's Senior 73Kg,Andrzej Skrypij,72.6,37,-40,40,51,53,-55,40,53,93
+Bethnal Green Spring Open 2019,2019-06-30,Women's Youth Under 15 55Kg,Danica Hazell,54.4,37,39,41,45,48,50,41,50,91
+Bethnal Green Spring Open 2019,2019-04-14,Women's Senior 71Kg,Sharon Bowes,64.3,37,39,-41,48,50,52,39,52,91
+Bethnal Green Spring Open 2019,2019-06-30,Men's Masters (70-74) 81Kg,Andrzej Skrypij,76.5,-40,40,-44,-50,-50,50,40,50,90
+Bethnal Green Spring Open 2019,2019-06-30,Women's Masters (55-59) 76Kg,Trisha Forbes,72.3,28,30,32,38,41,43,32,43,75
+Bethnal Green Spring Open 2019,2019-04-14,Women's Senior 71Kg,Katey Byrd,67.9,-74,-75,75,-94,-95,0,75,0,75
+Bethnal Green Spring Open 2019,2019-04-14,Women's Senior 71Kg,Trisha Forbes,65.1,28,30,-31,38,-41,-44,30,38,68
+Bethnal Green Spring Open 2019,2019-06-30,Men's Senior 81Kg,Troy Langdon,79.4,0,0,0,0,0,0,0,0,0
+Bethnal Green Spring Open 2019,2019-04-14,Women's Senior 71Kg,Deborah Alawode,68.7,-76,-76,-76,0,0,0,0,0,0

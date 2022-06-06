@@ -1,0 +1,65 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Virtual BUCS 2021,2021-04-28,Men's Under 23 109Kg,Jordan Sakkas,102.8,138,-142,0,170,-183,-187,138,170,308
+Virtual BUCS 2021,2021-04-28,Men's Under 23 96Kg,Edward Smale,92.4,128,132,136,160,165,-170,136,165,301
+Virtual BUCS 2021,2021-04-28,Men's Senior 96Kg,Myren Madden,92,125,131,133,150,156,0,133,156,289
+Virtual BUCS 2021,2021-04-28,Men's Under 23 109+Kg,Daniel O'Hare,119.4,122,0,0,160,0,0,122,160,282
+Virtual BUCS 2021,2021-04-28,Men's Senior 102Kg,Solomon Ocquaye,101.1,122,-127,0,145,153,0,122,153,275
+Virtual BUCS 2021,2021-04-28,Men's Senior 89Kg,Luke Stopford,88.3,118,-121,122,-142,146,0,122,146,268
+Virtual BUCS 2021,2021-04-28,Men's Senior 96Kg,Haydn Thomason,92.9,110,113,118,-135,142,-150,118,142,260
+Virtual BUCS 2021,2021-04-28,Men's Under 23 89Kg,Sam Finch,87.4,104,107,110,135,-138,141,110,141,251
+Virtual BUCS 2021,2021-04-28,Men's Senior 89Kg,Sebastian Biggins,85.3,100,104,107,130,-137,141,107,141,248
+Virtual BUCS 2021,2021-04-28,Men's Under 23 81Kg,Joseph Harrison,79.8,105,109,112,130,133,135,112,135,247
+Virtual BUCS 2021,2021-04-28,Men's Senior 96Kg,Jonathan Healy,92,100,105,110,130,-135,0,110,130,240
+Virtual BUCS 2021,2021-04-28,Men's Under 23 73Kg,Dawid Cedro,72.75,100,105,107,120,125,-130,107,125,232
+Virtual BUCS 2021,2021-04-28,Men's Senior 89Kg,Max Scholz,88.7,105,110,115,115,-120,-125,115,115,230
+Virtual BUCS 2021,2021-04-28,Men's Senior 109Kg,Alexander Burbridge,107.2,90,95,100,-120,128,0,100,128,228
+Virtual BUCS 2021,2021-04-28,Men's Under 23 89Kg,Josce Syrett,85.95,100,0,0,110,120,0,100,120,220
+Virtual BUCS 2021,2021-04-28,Men's Junior Under 20 73Kg,Joseph Bryant,71.7,92,95,97,109,112,115,97,115,212
+Virtual BUCS 2021,2021-04-28,Men's Under 23 81Kg,Jani Shibuya,79.1,90,94,97,100,110,115,97,115,212
+Virtual BUCS 2021,2021-04-28,Men's Under 23 96Kg,Alex Rahal,94.96,87,90,-95,110,115,120,90,120,210
+Virtual BUCS 2021,2021-04-28,Men's Under 23 89Kg,Cameron McCowan,88.6,84,87,91,108,113,115,91,115,206
+Virtual BUCS 2021,2021-04-28,Men's Under 23 67Kg,Yegeun Ji,61.6,85,90,0,110,-115,115,90,115,205
+Virtual BUCS 2021,2021-04-28,Men's Under 23 81Kg,Thomas Adler,76.9,84,86,88,107,-111,113,88,113,201
+Virtual BUCS 2021,2021-04-28,Men's Junior Under 20 67Kg,Garin Beams,65.8,90,-96,-96,-106,106,110,90,110,200
+Virtual BUCS 2021,2021-04-28,Men's Senior 73Kg,Ji Fung Ethan Lam,71.7,75,80,85,110,115,-120,85,115,200
+Virtual BUCS 2021,2021-04-28,Women's Senior 76Kg,Deborah Alawode,72.9,85,88,-90,108,112,-115,88,112,200
+Virtual BUCS 2021,2021-04-28,Women's Masters (35-39) 81Kg,Rayen Cupid,76.26,82,85,88,103,107,110,88,110,198
+Virtual BUCS 2021,2021-04-28,Men's Under 23 81Kg,Alexander Mitchell,78.5,80,85,88,100,105,-108,88,105,193
+Virtual BUCS 2021,2021-04-28,Men's Senior 89Kg,Reon Seleman,88.9,80,85,90,102,-105,-110,90,102,192
+Virtual BUCS 2021,2021-04-28,Men's Masters (35-39) 89Kg,Paul Chalmers,87.7,80,85,-88,101,-105,0,85,101,186
+Virtual BUCS 2021,2021-04-28,Men's Under 23 89Kg,Harry Wilson,82.4,-75,-80,80,95,-100,105,80,105,185
+Virtual BUCS 2021,2021-04-28,Men's Under 23 81Kg,Ernest Kwok,76.2,70,77,82,90,97,102,82,102,184
+Virtual BUCS 2021,2021-04-28,Women's Under 23 55Kg,Catrin Jones,53.65,78,80,83,-95,100,0,83,100,183
+Virtual BUCS 2021,2021-04-28,Men's Senior 73Kg,Jonathan Morris,72.5,74,78,82,90,95,100,82,100,182
+Virtual BUCS 2021,2021-04-28,Men's Senior 81Kg,Aaron Cheema,80.6,68,75,-78,98,102,106,75,106,181
+Virtual BUCS 2021,2021-04-28,Women's Senior 64Kg,Hannah Crymble,59.9,83,-86,-88,95,98,-101,83,98,181
+Virtual BUCS 2021,2021-04-28,Men's Under 23 96Kg,Alexander Lewis,92.5,-75,78,81,-93,95,-96,81,95,176
+Virtual BUCS 2021,2021-04-28,Men's Under 23 81Kg,Benjamin Sharpley,77.6,70,75,80,85,90,0,80,90,170
+Virtual BUCS 2021,2021-04-28,Men's Senior 96Kg,Nicholas Efrem,94.2,70,73,76,88,91,94,76,94,170
+Virtual BUCS 2021,2021-04-28,Women's Junior Under 20 64Kg,Molly Greenwood,63.2,67,70,72,82,-85,85,72,85,157
+Virtual BUCS 2021,2021-04-28,Women's Under 23 64Kg,Eleanor Clemens,63.3,67,-69,69,80,83,86,69,86,155
+Virtual BUCS 2021,2021-04-28,Men's Senior 81Kg,Adam McKinley,79.2,55,60,64,85,-90,-93,64,85,149
+Virtual BUCS 2021,2021-04-28,Women's Under 23 64Kg,Evie-Rae Turner,62.5,60,65,68,76,-80,80,68,80,148
+Virtual BUCS 2021,2021-04-28,Men's Under 23 109+Kg,Lewis Davies,122.8,63,65,69,70,75,78,69,78,147
+Virtual BUCS 2021,2021-04-28,Women's Under 23 64Kg,Grace Batey,62.3,60,63,65,74,78,81,65,81,146
+Virtual BUCS 2021,2021-04-28,Men's Under 23 89Kg,Guy Parker,83.6,57,62,65,72,77,80,65,80,145
+Virtual BUCS 2021,2021-04-28,Women's Under 23 71Kg,Anushka Bovill,68.1,60,65,0,75,80,-84,65,80,145
+Virtual BUCS 2021,2021-04-28,Women's Masters (35-39) 71Kg,Rebecca Francis,70.2,55,59,62,70,75,79,62,79,141
+Virtual BUCS 2021,2021-04-28,Women's Senior 64Kg,Eleanor Burt,63.1,58,62,0,73,78,0,62,78,140
+Virtual BUCS 2021,2021-04-28,Women's Under 23 64Kg,Jessica Entwistle,62.7,58,60,0,75,78,80,60,80,140
+Virtual BUCS 2021,2021-04-28,Women's Senior 59Kg,Katarzyna Moszyk,58.75,60,62,0,71,75,77,62,77,139
+Virtual BUCS 2021,2021-04-28,Men's Under 23 55Kg,Phillip Tay Jun Yuan,52,53,55,57,72,73,75,57,75,132
+Virtual BUCS 2021,2021-04-28,Women's Under 23 81Kg,Katie McLean,80.5,55,57,59,68,69,70,59,70,129
+Virtual BUCS 2021,2021-04-28,Women's Senior 76Kg,Charlotte Crocker,72.55,50,55,-60,70,73,-76,55,73,128
+Virtual BUCS 2021,2021-04-28,Women's Under 23 76Kg,Madeleine Lyall,75.9,55,57,58,60,65,0,58,65,123
+Virtual BUCS 2021,2021-04-28,Women's Senior 55Kg,Ashaunna Green,54.2,50,52,54,60,63,66,54,66,120
+Virtual BUCS 2021,2021-04-28,Women's Senior 71Kg,Rebecca Stoner,66.4,46,49,51,66,69,-70,51,69,120
+Virtual BUCS 2021,2021-04-28,Women's Under 23 71Kg,Molly Walsh,69.8,46,48,0,61,65,0,48,65,113
+Virtual BUCS 2021,2021-04-28,Women's Under 23 55Kg,Victoria Pi,54.75,47,48,50,50,55,-58,50,55,105
+Virtual BUCS 2021,2021-04-28,Women's Under 23 71Kg,Emily Campbell Harry,67.1,48,-51,-51,57,-62,-66,48,57,105
+Virtual BUCS 2021,2021-04-28,Men's Under 23 109Kg,joshua welch,107.3,100,0,0,-125,-130,0,100,0,100
+Virtual BUCS 2021,2021-04-28,Women's Junior Under 20 55Kg,Eleanor Hopper,54,37,40,42,50,55,-57,42,55,97
+Virtual BUCS 2021,2021-04-28,Women's Under 23 71Kg,Jessica Rhodes,69.4,-40,42,-45,-50,53,55,42,55,97
+Virtual BUCS 2021,2021-04-28,Women's Senior 55Kg,Nurul Ahman,53.5,34,36,38,47,50,52,38,52,90
+Virtual BUCS 2021,2021-04-28,Women's Under 23 55Kg,Sophie Rawlings,53.7,25,30,-32,35,40,-45,30,40,70
+Virtual BUCS 2021,2021-04-28,Women's Under 23 71Kg,Jennifer Muir,70.4,-55,57,-60,-75,0,0,57,0,57

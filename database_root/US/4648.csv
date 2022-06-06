@@ -1,0 +1,60 @@
+meet,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+E.C.B. CLASSIC,2021-01-17,Open Men's 102kg,Jeff Rother,100.7,125,130,0,150,157,0,130,157,287
+E.C.B. CLASSIC,2021-01-17,Open Men's +109kg,Patrick Whitmore,123.7,115,120,125,150,0,161,125,161,286
+E.C.B. CLASSIC,2021-01-17,Open Men's +109kg,Tejay Valenzuela,132.3,115,0,0,145,150,155,115,155,270
+E.C.B. CLASSIC,2021-01-17,Open Men's +109kg,Joseph Rizk,165.5,123,0,0,0,137,145,123,145,268
+E.C.B. CLASSIC,2021-01-17,Open Men's 73kg,Josh Bringas,72.5,110,115,0,140,150,0,115,150,265
+E.C.B. CLASSIC,2021-01-17,Open Men's 96kg,Joey Taua'i Sr,96,0,110,116,139,145,0,116,145,261
+E.C.B. CLASSIC,2021-01-17,Open Men's 109kg,Calvin Manchenko,107,115,0,0,145,0,0,115,145,260
+E.C.B. CLASSIC,2021-01-17,Open Men's 102kg,Fletcher Dugan,100,105,109,112,130,135,0,112,135,247
+E.C.B. CLASSIC,2021-01-17,Open Men's 96kg,Jake Jerzykowski,93.8,104,0,108,128,132,136,108,136,244
+E.C.B. CLASSIC,2021-01-17,Open Men's 102kg,Theodore Gergen,100,98,103,106,120,0,133,106,133,239
+E.C.B. CLASSIC,2021-01-17,Open Men's 96kg,Christian Solis,95.7,100,0,0,126,130,0,100,130,230
+E.C.B. CLASSIC,2021-01-17,Open Men's 96kg,Sean Lane,96,105,0,0,125,0,0,105,125,230
+E.C.B. CLASSIC,2021-01-17,Open Men's 89kg,Bryce Schimmers,88.5,0,104,0,115,120,125,104,125,229
+E.C.B. CLASSIC,2021-01-17,Open Men's 89kg,Neelesh Jaiswal,88.5,93,97,0,128,132,0,97,132,229
+E.C.B. CLASSIC,2021-01-17,Open Men's 96kg,Leo Peralta,96,101,0,0,120,125,0,101,125,226
+E.C.B. CLASSIC,2021-01-17,Open Men's 96kg,William Schaaf,95.1,0,0,96,117,121,125,96,125,221
+E.C.B. CLASSIC,2021-01-17,Open Men's 96kg,Nathan Macancela,94.8,0,95,0,120,125,120,95,125,220
+E.C.B. CLASSIC,2021-01-17,Open Men's 96kg,Kevin Covate,94.8,87,91,95,114,117,120,95,120,215
+E.C.B. CLASSIC,2021-01-17,Men's Masters (35-39) 81kg,Justin Gadus,80.3,92,95,0,115,120,0,95,120,215
+E.C.B. CLASSIC,2021-01-17,Open Men's 81kg,Angelo Joseph Agonoy,79.8,90,0,0,110,0,120,90,120,210
+E.C.B. CLASSIC,2021-01-17,Open Women's +87kg,Megan Bradley,100.5,0,0,84,113,117,120,84,120,204
+E.C.B. CLASSIC,2021-01-17,Open Men's 102kg,Christian Saracay,101.2,80,84,88,107,112,115,88,115,203
+E.C.B. CLASSIC,2021-01-17,Open Men's 81kg,Johnny Gonzales,80.3,78,84,0,106,110,117,84,117,201
+E.C.B. CLASSIC,2021-01-17,Open Men's 73kg,Jonathan White,72.4,84,0,0,111,115,0,84,115,199
+E.C.B. CLASSIC,2021-01-17,Open Men's 73kg,Anthony Duong,72.8,80,85,0,102,105,110,85,110,195
+E.C.B. CLASSIC,2021-01-17,Open Women's 76kg,Kayla Kass,71.8,0,0,82,100,105,109,82,109,191
+E.C.B. CLASSIC,2021-01-17,Open Men's 73kg,Kevin Tran,69.1,77,80,0,100,107,0,80,107,187
+E.C.B. CLASSIC,2021-01-17,Open Men's 73kg,Noah Diver,70.4,70,74,77,95,100,104,77,104,181
+E.C.B. CLASSIC,2021-01-17,Open Men's 81kg,Antoine LeBlanc,80.3,72,75,78,0,0,102,78,102,180
+E.C.B. CLASSIC,2021-01-17,Open Men's 89kg,Nathaniel McClure,83.5,72,74,76,95,100,0,76,100,176
+E.C.B. CLASSIC,2021-01-17,Open Men's 67kg,Dru Richardson,66.1,70,74,0,90,0,95,74,95,169
+E.C.B. CLASSIC,2021-01-17,Open Men's 96kg,Charles Stevenson Jr,93.8,67,69,72,87,91,96,72,96,168
+E.C.B. CLASSIC,2021-01-17,Open Men's 96kg,Jermaine Gestiehr,95.1,64,69,0,97,0,0,69,97,166
+E.C.B. CLASSIC,2021-01-17,Open Women's 59kg,Taylor Roberts,59,70,73,0,87,0,93,73,93,166
+E.C.B. CLASSIC,2021-01-17,Junior Women's 76kg,Kylie Westbrook,73.7,72,0,75,88,0,0,75,88,163
+E.C.B. CLASSIC,2021-01-17,Junior Women's 71kg,Ireland Colson,68.7,60,64,70,85,90,0,70,90,160
+E.C.B. CLASSIC,2021-01-17,Open Women's 55kg,Jordyn Cooley,54.8,64,67,0,85,88,0,67,88,155
+E.C.B. CLASSIC,2021-01-17,Open Women's 71kg,Naoko Miyamoto,70.8,62,0,65,77,82,0,65,82,147
+E.C.B. CLASSIC,2021-01-17,Open Women's 76kg,Jessica Bruno,74.9,55,0,63,73,0,75,63,75,138
+E.C.B. CLASSIC,2021-01-17,Open Women's 76kg,Ava Steffen,75.7,57,60,62,70,74,0,62,74,136
+E.C.B. CLASSIC,2021-01-17,Open Women's 76kg,Kaitlynn Benavidez,74.5,54,57,60,74,0,0,60,74,134
+E.C.B. CLASSIC,2021-01-17,Junior Women's 59kg,gracie thorne,58.7,57,60,0,68,0,72,60,72,132
+E.C.B. CLASSIC,2021-01-17,Open Women's 59kg,Annjeanine Cuevas,58.9,53,55,0,73,0,0,55,73,128
+E.C.B. CLASSIC,2021-01-17,Open Women's 71kg,Julia Teske,68.6,61,64,0,55,58,60,64,60,124
+E.C.B. CLASSIC,2021-01-17,Women's Masters (35-39) 59kg,Natasha Henson,58.9,51,0,0,65,69,73,51,73,124
+E.C.B. CLASSIC,2021-01-17,Open Women's 71kg,Christina Lam,71,47,50,0,65,69,73,50,73,123
+E.C.B. CLASSIC,2021-01-17,Open Women's 64kg,Samantha Stuchul,62.6,50,52,54,61,64,68,54,68,122
+E.C.B. CLASSIC,2021-01-17,Open Women's 81kg,Ileana Jacinto,80.2,0,0,57,65,0,0,57,65,122
+E.C.B. CLASSIC,2021-01-17,Women's Masters (50-54) 64kg,Cary Booth,60.8,50,52,54,60,64,67,54,67,121
+E.C.B. CLASSIC,2021-01-17,Women's Masters (35-39) 81kg,Sian Griffiths,81,46,49,51,66,68,0,51,68,119
+E.C.B. CLASSIC,2021-01-17,Open Women's 64kg,Denise Jackson,62.9,0,50,0,65,68,0,50,68,118
+E.C.B. CLASSIC,2021-01-17,Open Women's 59kg,Allison Browning,58.9,40,45,0,0,65,66,45,66,111
+E.C.B. CLASSIC,2021-01-17,Open Women's 59kg,Chloe Lewis,58.4,50,0,0,60,0,0,50,60,110
+E.C.B. CLASSIC,2021-01-17,Open Women's 59kg,Stephanie Otero,57.5,44,47,49,56,0,60,49,60,109
+E.C.B. CLASSIC,2021-01-17,Open Women's 64kg,Chelsea Covate,61.4,40,43,0,54,57,0,43,57,100
+E.C.B. CLASSIC,2021-01-17,Open Women's 55kg,Megan Anguiano,52,37,40,43,50,0,0,43,50,93
+E.C.B. CLASSIC,2021-01-17,Open Women's 87kg,Priscilla  Quintanilla ,81.6,0,0,0,65,69,0,0,69,69
+E.C.B. CLASSIC,2021-01-17,Women's Masters (60-64) 49kg,Renee Ferguson,47.1,24,25,0,32,0,34,25,34,59
+E.C.B. CLASSIC,2021-01-17,Men's 13 Under Age Group 49kg,Landon Bangerter,48.4,0,22,23,27,29,31,23,31,54

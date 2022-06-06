@@ -1,0 +1,73 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+London Series 4 2018,2018-08-11,Men's Senior 89Kg,Khrystopher Speed,87.05,115,121,127,145,152,158,127,158,285
+London Series 4 2018,2018-08-11,Men's Senior 94Kg,Khrystopher Speed,87.05,115,121,127,145,152,158,127,158,285
+London Series 4 2018,2018-08-11,Men's Senior 105Kg,robert waghorn,103.45,122,-128,-130,-140,140,0,122,140,262
+London Series 4 2018,2018-08-11,Men's Senior 109Kg,robert waghorn,103.45,122,-128,-130,-140,140,0,122,140,262
+London Series 4 2018,2018-08-11,Men's Senior 105Kg,Oliver Wilmot,96.9,105,-110,110,126,130,-133,110,130,240
+London Series 4 2018,2018-08-11,Men's Senior 102Kg,Oliver Wilmot,96.9,105,-110,110,126,130,-133,110,130,240
+London Series 4 2018,2018-08-11,Men's Senior 81Kg,Tayyab Majeed,74.3,102,108,-110,122,128,-131,108,128,236
+London Series 4 2018,2018-08-11,Men's Senior 77Kg,Tayyab Majeed,74.3,102,108,-110,122,128,-131,108,128,236
+London Series 4 2018,2018-08-11,Men's Senior 85Kg,Kevin Tao,78.45,-105,105,110,121,125,-130,110,125,235
+London Series 4 2018,2018-08-11,Men's Senior 81Kg,Kevin Tao,78.45,-105,105,110,121,125,-130,110,125,235
+London Series 4 2018,2018-08-11,Men's Youth Under 17 77Kg,James Hart,72.3,90,94,97,116,-120,125,97,125,222
+London Series 4 2018,2018-08-11,Men's Senior 105Kg,Jordan Stearn,97.75,97,100,103,119,-123,-123,103,119,222
+London Series 4 2018,2018-08-11,Men's Youth Under 17 73Kg,James Hart,72.3,90,94,97,116,-120,125,97,125,222
+London Series 4 2018,2018-08-11,Men's Senior 102Kg,Jordan Stearn,97.75,97,100,103,119,-123,-123,103,119,222
+London Series 4 2018,2018-08-11,Men's Junior Under 20 77Kg,Toby McCarthy,74,92,95,98,110,118,123,98,123,221
+London Series 4 2018,2018-08-11,Men's Junior Under 20 81Kg,Toby McCarthy,74,92,95,98,110,118,123,98,123,221
+London Series 4 2018,2018-08-11,Men's Under 23 85Kg,Sebastian Biggins,83.7,-93,-93,93,120,-125,-127,93,120,213
+London Series 4 2018,2018-08-11,Men's Senior 89Kg,Sebastian Biggins,83.7,-93,-93,93,120,-125,-127,93,120,213
+London Series 4 2018,2018-08-11,Men's Senior +105Kg,Christian Hamilton,120.65,83,85,90,100,110,118,90,118,208
+London Series 4 2018,2018-08-11,Men's Senior 109+Kg,Christian Hamilton,120.65,83,85,90,100,110,118,90,118,208
+London Series 4 2018,2018-08-11,Men's Senior 81Kg,George Matcham,74.5,80,86,-88,115,118,-125,86,118,204
+London Series 4 2018,2018-08-11,Men's Senior 77Kg,George Matcham,74.5,80,85,-88,115,118,-125,85,118,203
+London Series 4 2018,2018-08-11,Women's Senior 55Kg,Amy Williams,54.6,72,-74,74,93,-96,96,74,96,170
+London Series 4 2018,2018-08-11,Men's Senior 77Kg,David Smith,72.75,-75,75,-80,90,94,-97,75,94,169
+London Series 4 2018,2018-08-11,Men's Senior 73Kg,David Smith,72.75,-75,75,-80,90,94,-97,75,94,169
+London Series 4 2018,2018-08-11,Women's Senior 58Kg,Amy Williams,54.6,72,-74,74,93,-96,-96,74,93,167
+London Series 4 2018,2018-08-11,Men's Senior 105Kg,Thomas McKay,100.45,65,71,75,-85,85,90,75,90,165
+London Series 4 2018,2018-08-11,Men's Senior 102Kg,Thomas McKay,100.45,65,71,75,-85,85,90,75,90,165
+London Series 4 2018,2018-08-11,Women's Senior 87Kg,Samantha Williams,86.4,70,73,-75,85,90,-92,73,90,163
+London Series 4 2018,2018-08-11,Women's Senior 90Kg,Samantha Williams,86.4,70,73,-75,85,90,-92,73,90,163
+London Series 4 2018,2018-08-11,Men's Senior 85Kg,Mark Butcher,82.85,69,73,-77,85,88,-91,73,88,161
+London Series 4 2018,2018-08-11,Men's Senior 89Kg,Mark Butcher,82.85,69,73,-77,-85,88,-91,73,88,161
+London Series 4 2018,2018-08-11,Men's Senior 62Kg,Yoofi Essilfie-Conduah,60.45,70,-74,-75,90,-95,-97,70,90,160
+London Series 4 2018,2018-08-11,Men's Senior 61Kg,Yoofi Essilfie-Conduah,60.45,70,-74,-75,90,-95,-97,70,90,160
+London Series 4 2018,2018-08-11,Women's Senior 69Kg,Emma Robinson,63.8,65,69,-72,85,88,90,69,90,159
+London Series 4 2018,2018-08-11,Women's Senior 64Kg,Emma Robinson,63.8,65,69,-72,85,88,90,69,90,159
+London Series 4 2018,2018-08-11,Women's Senior 87+Kg,Pia Kemppi,110.51,66,69,-71,85,-89,-89,69,85,154
+London Series 4 2018,2018-08-11,Women's Senior +90Kg,Pia Kemppi,110.51,66,69,-71,85,-89,-89,69,85,154
+London Series 4 2018,2018-08-11,Women's Senior 64Kg,Lesley Brown,62.16,63,65,67,84,-88,-88,67,84,151
+London Series 4 2018,2018-08-11,Women's Senior 63Kg,Lesley Brown,62.16,63,65,67,84,-88,-88,67,84,151
+London Series 4 2018,2018-08-11,Women's Senior 81Kg,Chloe Whylie,80.84,-66,-66,66,78,82,-87,66,82,148
+London Series 4 2018,2018-08-11,Women's Senior 90Kg,Chloe Whylie,80.84,-66,-66,66,78,82,-87,66,82,148
+London Series 4 2018,2018-08-11,Women's Senior 81Kg,Laura Brenner,80.41,62,-65,65,78,82,-87,65,82,147
+London Series 4 2018,2018-08-11,Women's Senior 90Kg,Laura Brenner,80.41,62,-65,65,78,82,-87,65,82,147
+London Series 4 2018,2018-08-11,Women's Senior 55Kg,Sky Norris,51.67,-64,64,67,80,-85,-85,67,80,147
+London Series 4 2018,2018-08-11,Women's Senior 71Kg,Alexandra Cave,67.13,57,61,65,74,77,80,65,80,145
+London Series 4 2018,2018-08-11,Women's Senior 69Kg,Alexandra Cave,67.31,57,61,65,74,77,80,65,80,145
+London Series 4 2018,2018-08-11,Women's Senior 53Kg,Sky Norris,51.67,-64,64,-67,80,-85,-85,64,80,144
+London Series 4 2018,2018-08-11,Women's Senior 71Kg,Magda Garbacz,66.68,65,68,-70,70,74,-78,68,74,142
+London Series 4 2018,2018-08-11,Women's Senior 87+Kg,Lydia Cunningham,94.52,-60,-60,60,-82,82,-87,60,82,142
+London Series 4 2018,2018-08-11,Women's Senior 69Kg,Magda Garbacz,66.68,65,68,-70,70,74,-78,68,74,142
+London Series 4 2018,2018-08-11,Women's Senior +90Kg,Lydia Cunningham,94.52,-60,-60,60,-82,82,-87,60,82,142
+London Series 4 2018,2018-08-11,Men's Senior 69Kg,Kent Toha,68.15,52,56,-60,73,-77,77,56,77,133
+London Series 4 2018,2018-08-11,Men's Junior Under 20 73Kg,Kent Toha,68.15,52,56,-60,73,-77,77,56,77,133
+London Series 4 2018,2018-08-11,Women's Under 23 64Kg,Bethany Parker,61.31,58,60,-61,69,71,-73,60,71,131
+London Series 4 2018,2018-08-11,Women's Under 23 63Kg,Bethany Parker,61.31,58,60,-61,69,71,-73,60,71,131
+London Series 4 2018,2018-08-11,Women's Masters (35-39) 71Kg,Elena Valtorta,66.05,40,44,48,55,60,65,48,65,113
+London Series 4 2018,2018-08-11,Women's Senior 69Kg,Elena Valtorta,66.05,40,44,48,55,60,65,48,65,113
+London Series 4 2018,2018-08-11,Men's Youth Under 15 62Kg,John Rhodes,60.55,43,47,50,50,55,60,50,60,110
+London Series 4 2018,2018-08-11,Men's Youth Under 15 61Kg,John Rhodes,60.55,43,47,40,50,55,60,47,60,107
+London Series 4 2018,2018-08-11,Women's Senior 49Kg,Naomi Kuyé,47.07,34,38,41,45,50,55,41,55,96
+London Series 4 2018,2018-08-11,Women's Senior 48Kg,Naomi Kuyé,47.07,34,38,41,45,50,55,41,55,96
+London Series 4 2018,2018-08-11,Women's Senior 59Kg,Chloe Little,56.94,40,42,42,50,51,53,42,53,95
+London Series 4 2018,2018-08-11,Women's Senior 58Kg,Chloe Little,56.94,40,41,42,50,51,53,42,53,95
+London Series 4 2018,2018-08-11,Women's Youth Under 15 55Kg,Charlotte Neale,49.3,35,40,-43,47,50,52,40,52,92
+London Series 4 2018,2018-08-11,Women's Youth Under 15 53Kg,Charlotte Neale,49.3,35,40,-43,47,50,52,40,52,92
+London Series 4 2018,2018-08-11,Women's Youth Under 15 49Kg,Taliyah Homewood,47.95,35,38,40,46,49,-52,40,49,89
+London Series 4 2018,2018-08-11,Women's Youth Under 15 48Kg,Taliyah Homewood,47.95,35,38,40,46,49,-52,40,49,89
+London Series 4 2018,2018-08-11,Men's Senior 69Kg,Jack Hutchinson,67.9,85,0,0,-115,-115,-115,85,0,85
+London Series 4 2018,2018-08-11,Men's Senior 73Kg,Jack Hutchinson,67.9,85,0,0,-115,-115,-115,85,0,85
+London Series 4 2018,2018-08-11,Women's Senior 64Kg,Puja Sharma,62.72,32,35,-38,42,-45,45,35,45,80
+London Series 4 2018,2018-08-11,Women's Senior 63Kg,Puja Sharma,62.72,32,35,-38,42,-45,45,35,45,80

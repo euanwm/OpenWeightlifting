@@ -1,0 +1,101 @@
+meet,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 96kg,John McGovern,92.3,-133,134,137,171,174,177,137,177,314
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 109kg,carlos Ramos,107.94,140,-143,-143,165,171,-174,140,171,311
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 96kg,Kody Robison,95.9,127,131,135,168,-172,174,135,174,309
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 109kg,Christian Congden,108.33,128,-133,-133,170,175,-180,128,175,303
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 96kg,Rocky Bragg jr,94.2,130,-136,137,165,-171,-172,137,165,302
+4th Annual Double Barrel Classic,2019-02-10,Open Men's +109kg,Nick DeShane,118.28,124,129,132,150,160,-168,132,160,292
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 102kg,Kornel George,101.76,128,132,-135,148,153,-158,132,153,285
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 102kg,Spencer Troutman,96.7,114,118,122,136,142,-146,122,142,264
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 89kg,William Estes,85.89,-115,115,-122,140,144,148,115,148,263
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 96kg,Dustin Graham,95.4,113,-117,118,133,137,142,118,142,260
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 109kg,Cesar Rivera,107.64,-100,100,105,150,155,-160,105,155,260
+4th Annual Double Barrel Classic,2019-02-10,Open Women's 76kg,Kaylee Montero,72.95,106,110,-115,140,145,-150,110,145,255
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 89kg,Preston Cioffi,87.9,108,-112,112,133,138,-143,112,138,250
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 89kg,Jason Acosta,87.68,-108,108,-113,130,134,-137,108,134,242
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 89kg,Dennis Miller,87.16,100,104,107,130,134,-138,107,134,241
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 96kg,Andres Bradway,94.5,105,-108,108,130,-134,-134,108,130,238
+4th Annual Double Barrel Classic,2019-02-10,Open Men's +109kg,Isaac De La Cruz,117.58,100,103,-106,127,132,-135,103,132,235
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 81kg,Connor Roper,80.1,85,90,95,120,125,131,95,131,226
+4th Annual Double Barrel Classic,2019-02-10,Open Men's +109kg,Bob Ian Pusod,796,92,97,-102,120,125,128,97,128,225
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 89kg,Mitchell Yaffee,88.75,-100,-100,100,120,124,-125,100,124,224
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 96kg,Scott Kellner,95,-96,96,101,121,-126,-126,101,121,222
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 89kg,Robert Crowl,88.2,97,-100,100,118,121,-124,100,121,221
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 81kg,Toulouse-Antonin Roy,79.32,93,97,101,117,-120,-123,101,117,218
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 81kg,David Barron,80.45,94,-97,97,116,120,-123,97,120,217
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 102kg,Ian GUEDRY,101.22,90,-93,93,-117,120,124,93,124,217
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 89kg,Sean McConnell,88.53,-96,-96,96,120,-130,-133,96,120,216
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 81kg,Eric Salcedo,80.68,92,95,98,116,118,-122,98,118,216
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 89kg,Luis Madrigal,87.05,90,-96,96,112,118,-122,96,118,214
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 109kg,Uriel Christian Guzman,106.09,77,82,87,115,120,125,87,125,212
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 89kg,Ryan Martinez,84.44,90,-93,-95,120,122,-125,90,122,212
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 81kg,Michael Peters,80.3,-87,-92,93,-109,114,118,93,118,211
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 73kg,Jonathan White,72.02,-89,89,-94,118,-121,121,89,121,210
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 67kg,Brian Ma,65.95,84,-90,90,110,115,120,90,120,210
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 89kg,Joshua Wilson,88.48,85,-90,90,113,118,-123,90,118,208
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 73kg,Patrick Mara,71.62,88,92,-96,110,115,-119,92,115,207
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 81kg,Rayanthony Joaquin,78.48,86,-90,90,110,-115,115,90,115,205
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 81kg,nicholas ghasb,78.37,83,86,90,115,-119,-120,90,115,205
+4th Annual Double Barrel Classic,2019-02-10,Open Women's 71kg,Jusilla Bridgemon,70.76,81,83,85,111,115,119,85,119,204
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 81kg,BRIAN RUBACH,77.5,-80,83,-86,110,116,120,83,120,203
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 73kg,Juan Gabriel Ylo,72.72,88,-91,91,108,112,-118,91,112,203
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 96kg,Christopher Moore,91.2,80,84,88,110,115,-118,88,115,203
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 89kg,William O'Connell,84.04,85,87,-90,110,113,-118,87,113,200
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 102kg,Travis Angeles,99.62,81,83,87,110,112,-116,87,112,199
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 73kg,Manuel Aguero,71.89,78,82,86,103,108,113,86,113,199
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 81kg,Alfonso Garcia,77.2,84,-89,-89,106,-108,110,84,110,194
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 96kg,Gregory Shaw,94.7,82,84,87,105,107,0,87,107,194
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 73kg,SHOTA MOCHIDA,72.36,75,79,83,105,110,-115,83,110,193
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 67kg,Patrick Gonzales,66.06,86,88,-91,98,101,105,88,105,193
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 102kg,Michael Vasquez,101.23,81,-88,-88,100,105,112,81,112,193
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 81kg,Daniel Garrido,79.19,75,-80,80,100,105,110,80,110,190
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 73kg,Nestor Damasco,71.18,80,-84,-84,102,106,-109,80,106,186
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 73kg,Darrell Albano,72.27,80,82,86,96,98,100,86,100,186
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 73kg,Derek Zallar,71.02,73,-77,77,98,107,-114,77,107,184
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 67kg,Kevin Tran,66.11,70,73,-76,96,99,105,73,105,178
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 73kg,Ryan Espiritu,70.41,-77,77,80,-95,95,98,80,98,178
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 67kg,Christopher Erdos,66.41,75,79,-83,91,-96,96,79,96,175
+4th Annual Double Barrel Classic,2019-02-10,Women's Masters (35-39) +87kg,Sarah Tyler,97.95,75,78,-81,88,92,95,78,95,173
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 55kg,Marvin John Rabanal,53.7,74,-77,78,85,89,-92,78,89,167
+4th Annual Double Barrel Classic,2019-02-10,Open Women's 71kg,Megan Ballard,70.42,-75,75,-78,88,91,-94,75,91,166
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 67kg,Allen Isabelo,66.57,67,71,-75,91,95,-98,71,95,166
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 61kg,Marvin Jay Delfin,58.19,69,73,-77,88,-92,92,73,92,165
+4th Annual Double Barrel Classic,2019-02-10,Open Women's 55kg,Janyce Okamoto,54.21,69,72,-75,92,-96,-100,72,92,164
+4th Annual Double Barrel Classic,2019-02-10,Open Women's 81kg,Lanae Segovia,78.23,67,71,75,85,-89,-89,75,85,160
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 61kg,FRANK LLOYD ARMAS,59.48,67,71,-73,-85,85,88,71,88,159
+4th Annual Double Barrel Classic,2019-02-10,Open Women's 64kg,Chelsea Takaki,63.95,65,70,-73,85,-90,-90,70,85,155
+4th Annual Double Barrel Classic,2019-02-10,Open Women's 71kg,amanda bojak,70.38,-66,67,-70,85,-88,-89,67,85,152
+4th Annual Double Barrel Classic,2019-02-10,Women's Masters (35-39) 81kg,Lesa Vasquez,79.42,61,63,67,80,83,-86,67,83,150
+4th Annual Double Barrel Classic,2019-02-10,Open Women's 59kg,Patricia Victoria Mata,58.98,58,61,63,77,81,84,63,84,147
+4th Annual Double Barrel Classic,2019-02-10,Open Women's 64kg,Bailee Pharris,63.53,64,66,-68,78,81,-82,66,81,147
+4th Annual Double Barrel Classic,2019-02-10,Women's Masters (35-39) 64kg,Heather Spears,63.84,69,-71,-71,75,-78,78,69,78,147
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 89kg,Sean Miller,87.8,60,63,-68,78,82,-86,63,82,145
+4th Annual Double Barrel Classic,2019-02-10,Open Women's 64kg,Desirae Lyall,63.78,50,53,56,74,78,82,56,82,138
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 67kg,Francis Arias,65.92,50,54,58,70,74,78,58,78,136
+4th Annual Double Barrel Classic,2019-02-10,Open Women's 55kg,Lacie Ramos,54.55,57,-60,-60,77,-79,-79,57,77,134
+4th Annual Double Barrel Classic,2019-02-10,Women's Masters (35-39) 49kg,Darlene Fiero,48.68,57,59,-62,71,73,-76,59,73,132
+4th Annual Double Barrel Classic,2019-02-10,Open Women's 71kg,Jessilee Meyer,68.11,52,55,58,65,68,72,58,72,130
+4th Annual Double Barrel Classic,2019-02-10,Women's Masters (35-39) 64kg,Natalie Scoma,61.66,52,58,61,63,-74,-74,61,63,124
+4th Annual Double Barrel Classic,2019-02-10,Women's Masters (35-39) 64kg,Christin Voros,63.97,50,53,55,60,63,66,55,66,121
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 96kg,Douglas Herder,93.8,33,36,40,70,73,80,40,80,120
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 55kg,Tony Hagner,48.42,49,52,55,-55,59,62,55,62,117
+4th Annual Double Barrel Classic,2019-02-10,Open Women's 64kg,Katelyn Kent,63.84,50,52,55,58,61,-63,55,61,116
+4th Annual Double Barrel Classic,2019-02-10,Open Women's 81kg,Natalia Gonzalez,77.8,45,48,51,60,-64,64,51,64,115
+4th Annual Double Barrel Classic,2019-02-10,Open Women's 64kg,Barbara Kim,63.37,48,51,-53,58,62,-65,51,62,113
+4th Annual Double Barrel Classic,2019-02-10,Open Women's 55kg,Janessa Somera,54.91,45,48,50,62,63,-66,50,63,113
+4th Annual Double Barrel Classic,2019-02-10,Women's Masters (35-39) 64kg,Katharine Jeanes,63.65,42,45,-48,59,61,64,45,64,109
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 81kg,Zion Schwarting,78.58,-90,-90,-90,105,108,-112,0,108,108
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 73kg,Jed Pineda,71.02,-83,-83,-85,-102,102,106,0,106,106
+4th Annual Double Barrel Classic,2019-02-10,Women's Masters (40-44) 76kg,Erin Martysz Thies,72.15,40,44,-47,55,58,61,44,61,105
+4th Annual Double Barrel Classic,2019-02-10,Women's Masters (35-39) 59kg,Diane Ybarra,58.52,41,43,45,54,56,59,45,59,104
+4th Annual Double Barrel Classic,2019-02-10,Open Women's 49kg,Amanda Barajas-ritchie,48.31,39,41,42,52,54,-56,42,54,96
+4th Annual Double Barrel Classic,2019-02-10,Open Women's 49kg,Anu Venkatesh,48.8,38,-40,40,-50,50,52,40,52,92
+4th Annual Double Barrel Classic,2019-02-10,Women's Masters (50-54) 49kg,Mary Klein,47.41,-36,36,38,46,48,50,38,50,88
+4th Annual Double Barrel Classic,2019-02-10,Open Women's 64kg,Sage Burgener,63.83,80,82,-84,-95,-95,-95,82,0,82
+4th Annual Double Barrel Classic,2019-02-10,Women's Masters (35-39) 64kg,Ya-Shan Lei,59.85,25,29,31,45,49,51,31,51,82
+4th Annual Double Barrel Classic,2019-02-10,Open Women's 71kg,Carrie Halverson,67.14,30,34,-38,42,47,-52,34,47,81
+4th Annual Double Barrel Classic,2019-02-10,Women's Masters (55-59) 55kg,Terri Kinjo,50.04,32,34,36,42,44,-46,36,44,80
+4th Annual Double Barrel Classic,2019-02-10,Open Women's 76kg,Annie Koensgen,74.31,-66,-67,-67,80,-88,-90,0,80,80
+4th Annual Double Barrel Classic,2019-02-10,Open Women's 71kg,Erica Lillquist,69.51,-58,-59,-59,67,71,-75,0,71,71
+4th Annual Double Barrel Classic,2019-02-10,Open Men's +109kg,Cesar Flores,147.87,-140,-140,-140,0,0,0,0,0,0
+4th Annual Double Barrel Classic,2019-02-10,Open Men's 67kg,Trian Cariaga,66.25,0,0,0,0,0,0,0,0,0

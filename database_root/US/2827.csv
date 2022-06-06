@@ -1,0 +1,159 @@
+meet,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+2018 Baltimore Open,2018-01-28,Open Men's 94 kg,Daniel Lee,93.2,113,116,120,145,150,-156,120,150,270
+2018 Baltimore Open,2018-01-28,Open Men's 85 kg,Roman Rodriguez,83.7,113,-115,115,138,142,148,115,148,263
+2018 Baltimore Open,2018-01-28,Open Men's 77 kg,James Kuhlman,75.9,-112,112,-116,145,-150,150,112,150,262
+2018 Baltimore Open,2018-01-28,Open Men's 105 kg,Mark Alexander,98.45,103,107,111,-135,137,-141,111,137,248
+2018 Baltimore Open,2018-01-28,Open Men's 105 kg,Tim Adams,102.95,100,103,107,131,136,140,107,140,247
+2018 Baltimore Open,2018-01-28,Open Men's 85 kg,John Deane,81.2,105,107,110,-130,130,135,110,135,245
+2018 Baltimore Open,2018-01-28,Open Men's 94 kg,Mark Friedmann,88.3,100,105,110,-127,130,135,110,135,245
+2018 Baltimore Open,2018-01-28,Open Men's 94 kg,Samuel Fariss,92,100,105,110,126,130,135,110,135,245
+2018 Baltimore Open,2018-01-28,Open Men's 77 kg,Antonio Penaloza Nieto,73.9,98,102,105,-130,-130,138,105,138,243
+2018 Baltimore Open,2018-01-28,Open Men's 105 kg,Dustin Dailey,98.35,92,97,102,130,-136,-140,102,130,232
+2018 Baltimore Open,2018-01-28,Open Men's 94 kg,Aviram Giladi,92.45,-95,97,100,125,129,132,100,132,232
+2018 Baltimore Open,2018-01-28,Open Men's+105 kg,Bryant Harris,126.5,98,-101,101,120,125,-130,101,125,226
+2018 Baltimore Open,2018-01-28,Open Men's 105 kg,Joe Fondale,99.45,90,95,100,110,118,125,100,125,225
+2018 Baltimore Open,2018-01-28,Open Men's 94 kg,Kyle Madden,93,84,94,-97,115,125,130,94,130,224
+2018 Baltimore Open,2018-01-28,Open Men's 77 kg,Wardell Bradley,75.7,95,100,105,112,117,-122,105,117,222
+2018 Baltimore Open,2018-01-28,Open Men's 94 kg,Andrew Przybylek,93,90,95,-101,125,-133,-136,95,125,220
+2018 Baltimore Open,2018-01-28,Open Men's 85 kg,Jason Schreiber,83.95,95,-100,100,-115,115,-118,100,115,215
+2018 Baltimore Open,2018-01-28,Open Men's 77 kg,Aaron Brosnan,76.65,93,98,-103,111,-116,116,98,116,214
+2018 Baltimore Open,2018-01-28,Open Women's 69 kg,Mary-Kathryn Peck,66.1,90,94,97,110,115,-118,97,115,212
+2018 Baltimore Open,2018-01-28,Open Men's 85 kg,Thomas Roach,83.7,95,-100,-102,105,112,116,95,116,211
+2018 Baltimore Open,2018-01-28,Open Men's 94 kg,Kieran Bourgeois,92.45,84,87,90,115,118,-121,90,118,208
+2018 Baltimore Open,2018-01-28,Open Men's 94 kg,Arthur Leung,89.25,85,88,-89,120,-125,-125,88,120,208
+2018 Baltimore Open,2018-01-28,Open Men's 94 kg,Youngho Yun,87.4,83,87,-91,110,115,120,87,120,207
+2018 Baltimore Open,2018-01-28,Open Men's 85 kg,Marcus White,83.3,88,92,-98,110,115,-120,92,115,207
+2018 Baltimore Open,2018-01-28,Open Men's 77 kg,Sebastiano Trinh,71.95,-85,87,-92,115,119,-122,87,119,206
+2018 Baltimore Open,2018-01-28,Open Men's 77 kg,Johnny Lam,72.4,91,94,-98,-110,111,-116,94,111,205
+2018 Baltimore Open,2018-01-28,Open Men's 105 kg,Lawrence Korchnak,100.35,88,91,-94,111,114,-121,91,114,205
+2018 Baltimore Open,2018-01-28,Open Men's 69 kg,daniel castillo,66.6,75,-86,86,105,-118,118,86,118,204
+2018 Baltimore Open,2018-01-28,Open Men's 85 kg,Eric Shugars,83.15,93,97,100,99,103,-110,100,103,203
+2018 Baltimore Open,2018-01-28,Open Men's 85 kg,Neil Roberts,84,88,91,-94,108,112,-116,91,112,203
+2018 Baltimore Open,2018-01-28,Open Men's 77 kg,Justin Bailey,72.4,89,92,-95,108,-111,-113,92,108,200
+2018 Baltimore Open,2018-01-28,Open Men's+105 kg,Kenneth Powell Jr,132.65,70,80,85,100,108,115,85,115,200
+2018 Baltimore Open,2018-01-28,Open Men's 105 kg,Jason Luo,103.85,-87,87,89,103,106,109,89,109,198
+2018 Baltimore Open,2018-01-28,Open Men's 85 kg,Brett Myers,83.4,-85,-85,85,-110,-110,111,85,111,196
+2018 Baltimore Open,2018-01-28,Open Men's 69 kg,Gregory Casanova,68.8,81,86,-89,100,106,-112,86,106,192
+2018 Baltimore Open,2018-01-28,Open Men's 94 kg,Brock Shade,89.05,85,-89,-90,-100,100,107,85,107,192
+2018 Baltimore Open,2018-01-28,Open Men's 85 kg,Santiago Munoz,81.55,-80,81,-84,100,105,110,81,110,191
+2018 Baltimore Open,2018-01-28,Open Women's 75 kg,Carey Taylor,70.6,80,83,-86,100,-105,105,83,105,188
+2018 Baltimore Open,2018-01-28,Open Women's 90 kg,Lana Lawrence,78.5,-82,82,86,102,-106,-106,86,102,188
+2018 Baltimore Open,2018-01-28,Open Women's 75 kg,Kristin Vdorick,74.8,74,77,79,103,107,-110,79,107,186
+2018 Baltimore Open,2018-01-28,Open Men's 69 kg,Justin Jeng,68.95,76,-79,80,100,-104,106,80,106,186
+2018 Baltimore Open,2018-01-28,Open Men's 94 kg,Dain Bentley,88.6,78,80,82,-104,104,-111,82,104,186
+2018 Baltimore Open,2018-01-28,Open Men's 105 kg,Trent Gallant,100.4,-81,81,-83,100,105,-109,81,105,186
+2018 Baltimore Open,2018-01-28,Open Men's 77 kg,Augustine Ciardiello,75.75,73,76,80,97,100,103,80,103,183
+2018 Baltimore Open,2018-01-28,Open Men's 105 kg,Thomas Riney Jr,94,75,-80,-80,107,-112,-113,75,107,182
+2018 Baltimore Open,2018-01-28,Open Men's 62 kg,Daryll Andrew Garcia,62,68,73,80,80,97,102,80,102,182
+2018 Baltimore Open,2018-01-28,Open Men's 94 kg,Tarik Yameen,86.2,70,-76,84,-90,97,-101,84,97,181
+2018 Baltimore Open,2018-01-28,Women's Masters (35-39) +90 kg,Ambrea Watts,107.8,74,77,79,96,99,-103,79,99,178
+2018 Baltimore Open,2018-01-28,Open Men's 85 kg,Karriem Hopwood,83.4,75,81,-86,90,-96,96,81,96,177
+2018 Baltimore Open,2018-01-28,Open Men's 77 kg,Marshall Knight,75.95,-72,73,76,92,96,100,76,100,176
+2018 Baltimore Open,2018-01-28,Open Men's 77 kg,Oscar Molina Olmedo,69.75,74,79,-81,93,95,-100,79,95,174
+2018 Baltimore Open,2018-01-28,Open Men's 69 kg,Kevin Lassise,68.9,73,76,-79,90,94,96,76,96,172
+2018 Baltimore Open,2018-01-28,Open Men's 85 kg,Robert O'Day,83.95,72,75,-77,97,-102,-103,75,97,172
+2018 Baltimore Open,2018-01-28,Open Women's 69 kg,Kristen Giladi,67.3,69,72,-75,94,97,99,72,99,171
+2018 Baltimore Open,2018-01-28,Open Men's 69 kg,kim caldwell,68.2,75,-80,-80,90,94,96,75,96,171
+2018 Baltimore Open,2018-01-28,Open Men's 69 kg,Ryan Carver,65.1,71,73,75,89,93,95,75,95,170
+2018 Baltimore Open,2018-01-28,Open Women's 63 kg,Elise Caron,62.2,68,71,74,91,93,95,74,95,169
+2018 Baltimore Open,2018-01-28,Open Men's 77 kg,Matthew Rothman,74.2,-70,70,77,85,91,-100,77,91,168
+2018 Baltimore Open,2018-01-28,Open Men's 105 kg,Matt Eckhout,95.55,70,73,-77,95,-100,-100,73,95,168
+2018 Baltimore Open,2018-01-28,Open Women's 90 kg,Elizabeth Peters,82.8,70,-74,74,88,92,-95,74,92,166
+2018 Baltimore Open,2018-01-28,Open Women's 63 kg,Abigail Richards,62,68,72,75,89,-92,-92,75,89,164
+2018 Baltimore Open,2018-01-28,Open Men's 77 kg,Julian Moore,74.75,65,71,-77,82,88,92,71,92,163
+2018 Baltimore Open,2018-01-28,Women's Masters (35-39) 69 kg,Christy Campbell,68.9,67,-70,70,87,90,-93,70,90,160
+2018 Baltimore Open,2018-01-28,Open Women's 90 kg,Katherine McNabb,88.4,69,71,-75,85,88,-91,71,88,159
+2018 Baltimore Open,2018-01-28,Women's Masters (40-44) 69 kg,Kathryn Nutter,68.85,67,70,73,81,84,-87,73,84,157
+2018 Baltimore Open,2018-01-28,Open Women's 58 kg,Christina Daniel,57.55,-65,65,-66,85,88,91,65,91,156
+2018 Baltimore Open,2018-01-28,Open Women's 69 kg,Alexis Danchak,68.15,-63,63,66,86,90,-94,66,90,156
+2018 Baltimore Open,2018-01-28,Open Women's 63 kg,Elizabeth Bartlett,62.95,62,66,70,80,-84,84,70,84,154
+2018 Baltimore Open,2018-01-28,Open Women's 90 kg,Nicole Flater,85.5,62,65,68,81,85,-89,68,85,153
+2018 Baltimore Open,2018-01-28,Open Women's +90 kg,Cara Notarfrancesco,102.5,58,61,63,82,86,90,63,90,153
+2018 Baltimore Open,2018-01-28,Women's Masters (35-39) 69 kg,Gabrielle Prince,66.95,68,70,72,78,-81,81,72,81,153
+2018 Baltimore Open,2018-01-28,Open Men's 77 kg,Mark Simon,72.6,61,66,69,80,84,-87,69,84,153
+2018 Baltimore Open,2018-01-28,Open Women's 75 kg,Rebecca Claycomb,73.9,-64,64,-68,78,82,86,64,86,150
+2018 Baltimore Open,2018-01-28,Open Men's 85 kg,Donald Glab,83.05,60,-64,65,81,85,-90,65,85,150
+2018 Baltimore Open,2018-01-28,Open Women's 69 kg,Katie Gerchalk,65.7,63,65,-67,-80,80,83,65,83,148
+2018 Baltimore Open,2018-01-28,Open Men's 85 kg,Amey Gawde,81.9,-60,60,63,80,-85,85,63,85,148
+2018 Baltimore Open,2018-01-28,Open Women's 75 kg,Sarah Woodman,73.3,65,-69,-70,73,78,82,65,82,147
+2018 Baltimore Open,2018-01-28,Open Women's 75 kg,Julie McGuire,74.25,-63,-63,63,80,84,-90,63,84,147
+2018 Baltimore Open,2018-01-28,Open Men's 85 kg,Bradley Russell,84.05,55,58,-61,83,86,-89,58,86,144
+2018 Baltimore Open,2018-01-28,Open Women's 69 kg,Stephanie Cooke,66.55,-61,61,-64,76,79,82,61,82,143
+2018 Baltimore Open,2018-01-28,Women's Masters (35-39) 58 kg,Lisa Marquette,55.75,61,-64,-65,74,77,82,61,82,143
+2018 Baltimore Open,2018-01-28,Women's 14-15 Age Group 53 kg,Ella Grizzle,52.3,60,62,64,76,-78,78,64,78,142
+2018 Baltimore Open,2018-01-28,Open Men's 77 kg,Charles Wallace,74.6,56,59,62,80,-85,-85,62,80,142
+2018 Baltimore Open,2018-01-28,Open Women's 58 kg,Emily Baskin,57.95,58,-61,61,75,80,-85,61,80,141
+2018 Baltimore Open,2018-01-28,Open Women's 90 kg,Beth Honcharski,89.3,61,64,-67,71,-74,76,64,76,140
+2018 Baltimore Open,2018-01-28,Women's Masters (35-39) 63 kg,Yvette Schreiber,60.8,58,60,62,73,75,78,62,78,140
+2018 Baltimore Open,2018-01-28,Women's Masters (45-49) 69 kg,Stacy Nichols,66.5,55,58,61,74,-78,79,61,79,140
+2018 Baltimore Open,2018-01-28,Open Women's 69 kg,Jacy Kuhlman,65.1,56,58,60,73,77,80,60,80,140
+2018 Baltimore Open,2018-01-28,Open Women's 63 kg,Catherine Weddle,62.7,-58,59,61,70,74,77,61,77,138
+2018 Baltimore Open,2018-01-28,Open Women's 69 kg,Constance Ross-Kitchens,67.5,53,55,57,77,79,81,57,81,138
+2018 Baltimore Open,2018-01-28,Open Men's 77 kg,Rene Molina,71.7,58,-61,-61,69,72,75,58,75,133
+2018 Baltimore Open,2018-01-28,Open Women's 90 kg,Danielle Pulliam,80.9,-55,55,58,71,74,-80,58,74,132
+2018 Baltimore Open,2018-01-28,Open Women's 63 kg,Caitlin Keating-Bitonti,59.3,-54,-54,54,71,74,77,54,77,131
+2018 Baltimore Open,2018-01-28,Open Men's 94 kg,Jason Young,87.25,55,-62,-63,76,-83,-85,55,76,131
+2018 Baltimore Open,2018-01-28,Open Women's 69 kg,Lindsey Kepner,64.95,-54,54,-57,70,75,77,54,77,131
+2018 Baltimore Open,2018-01-28,Open Women's 63 kg,Samantha Battles,59.45,-55,55,57,67,70,72,57,72,129
+2018 Baltimore Open,2018-01-28,Women's Masters (40-44) 75 kg,Heather Krause,69.3,54,56,59,66,-69,70,59,70,129
+2018 Baltimore Open,2018-01-28,Open Women's 53 kg,Cara Smith,51.55,55,57,60,-66,66,-69,60,66,126
+2018 Baltimore Open,2018-01-28,Women's Masters (40-44) 90 kg,Elizabeth Korchnak,78.6,51,53,-55,70,71,73,53,73,126
+2018 Baltimore Open,2018-01-28,Open Women's 53 kg,Lucy Nguyen,50.45,50,-52,52,67,70,73,52,73,125
+2018 Baltimore Open,2018-01-28,Open Women's 69 kg,Rachel Noah,66.1,53,56,-58,66,69,-73,56,69,125
+2018 Baltimore Open,2018-01-28,Open Women's 63 kg,Erika Hess,59.35,56,-59,-59,64,66,68,56,68,124
+2018 Baltimore Open,2018-01-28,Women's Masters (40-44) +90 kg,Jessica Sandle,105.6,50,56,-59,-65,67,-72,56,67,123
+2018 Baltimore Open,2018-01-28,Open Women's 69 kg,Diana Look,68.7,52,55,-60,-66,66,-69,55,66,121
+2018 Baltimore Open,2018-01-28,Open Women's 53 kg,Kahla Hill,52.75,55,-59,-59,65,-70,-73,55,65,120
+2018 Baltimore Open,2018-01-28,Open Women's 63 kg,Sarah Knox,62.55,49,52,-55,62,65,68,52,68,120
+2018 Baltimore Open,2018-01-28,Women's Masters (35-39) 69 kg,Karla Herdzik,66.05,45,47,49,68,-70,71,49,71,120
+2018 Baltimore Open,2018-01-28,Women's Masters (35-39) 75 kg,Shannon Toback,73.75,50,-52,-52,65,68,70,50,70,120
+2018 Baltimore Open,2018-01-28,Women's Masters (35-39) +90 kg,Lisa Minnick,102.65,48,50,52,68,-71,-71,52,68,120
+2018 Baltimore Open,2018-01-28,Open Women's 69 kg,Kathleen Sheffey,66.75,48,-51,54,60,64,66,54,66,120
+2018 Baltimore Open,2018-01-28,Open Women's 69 kg,Kelly Nichols,68.3,45,48,51,65,68,-71,51,68,119
+2018 Baltimore Open,2018-01-28,Open Women's 69 kg,Sidonie Wade,66.1,48,51,-54,62,65,68,51,68,119
+2018 Baltimore Open,2018-01-28,Open Women's 63 kg,Amanda Rodriguez,61.95,50,-57,-57,68,-73,-78,50,68,118
+2018 Baltimore Open,2018-01-28,Open Women's 69 kg,Rebecca Arseneault,66.05,-47,49,53,57,-62,65,53,65,118
+2018 Baltimore Open,2018-01-28,Open Women's 69 kg,Tamara Breuer,67.4,40,45,51,60,66,-68,51,66,117
+2018 Baltimore Open,2018-01-28,Women's Masters (35-39) 58 kg,Antonia Plazibat,56.7,50,53,-55,61,-64,64,53,64,117
+2018 Baltimore Open,2018-01-28,Open Men's 69 kg,John Spinoso,67.3,43,45,48,63,66,69,48,69,117
+2018 Baltimore Open,2018-01-28,Open Women's 90 kg,Ashley Danquah,83.4,45,48,-50,62,65,68,48,68,116
+2018 Baltimore Open,2018-01-28,Women's Masters (40-44) 58 kg,Amy Knowles,56.05,43,45,47,63,65,67,47,67,114
+2018 Baltimore Open,2018-01-28,Women's Masters (40-44) 63 kg,Moira Fauth,61.6,43,-47,47,63,67,-69,47,67,114
+2018 Baltimore Open,2018-01-28,Open Women's 63 kg,Loretta Bobetich,60.3,43,49,-56,-65,65,-71,49,65,114
+2018 Baltimore Open,2018-01-28,Open Women's 69 kg,Rebekah Maka,63.3,45,-48,48,58,61,65,48,65,113
+2018 Baltimore Open,2018-01-28,Open Women's 69 kg,Maria Manfre,68.15,40,43,46,58,-62,65,46,65,111
+2018 Baltimore Open,2018-01-28,Women's Masters (40-44) 63 kg,Keisha Burchette,62.2,47,49,-51,-57,57,61,49,61,110
+2018 Baltimore Open,2018-01-28,Women's 14-15 Age Group 58 kg,Ava Weeks,55.9,42,46,50,52,57,60,50,60,110
+2018 Baltimore Open,2018-01-28,Open Women's +90 kg,Bente Backer,108.85,43,46,-49,60,63,-65,46,63,109
+2018 Baltimore Open,2018-01-28,Open Women's 63 kg,Dana Monsees,62.3,42,44,46,57,-60,62,46,62,108
+2018 Baltimore Open,2018-01-28,Women's Masters (35-39) 90 kg,Lena Mikulak,87.7,46,48,50,53,56,58,50,58,108
+2018 Baltimore Open,2018-01-28,Women's 13 Under Age Group 58kg,Grace Edwards,54.9,41,44,47,57,60,-64,47,60,107
+2018 Baltimore Open,2018-01-28,Open Men's 85 kg,Michael Owens Jr.,81.6,-107,107,-110,-131,-136,-136,107,0,107
+2018 Baltimore Open,2018-01-28,Open Women's 53 kg,Samantha Labille,51.5,45,-48,48,58,-61,-61,48,58,106
+2018 Baltimore Open,2018-01-28,Women's 14-15 Age Group +69 kg,Leila Herringa,71.85,40,43,46,52,56,60,46,60,106
+2018 Baltimore Open,2018-01-28,Open Women's 58 kg,Brianna Davis,54,39,-43,43,-60,60,63,43,63,106
+2018 Baltimore Open,2018-01-28,Open Women's 53 kg,Courtney Crosby,52.85,45,48,-51,-55,57,-60,48,57,105
+2018 Baltimore Open,2018-01-28,Open Women's 69 kg,Michelle Wagner,65.75,38,47,-52,58,-63,-63,47,58,105
+2018 Baltimore Open,2018-01-28,Open Women's 63 kg,Rachel Ward,59.2,-44,44,47,-54,54,57,47,57,104
+2018 Baltimore Open,2018-01-28,Open Women's 58 kg,Kimberly Ngo,56.65,37,40,42,58,60,62,42,62,104
+2018 Baltimore Open,2018-01-28,Open Women's 58 kg,Diana Agostinho,56.45,42,-46,46,55,-59,-60,46,55,101
+2018 Baltimore Open,2018-01-28,Open Women's 69 kg,Catherine Doyle,65.04,42,45,47,51,54,-57,47,54,101
+2018 Baltimore Open,2018-01-28,Women's Masters (35-39) 63 kg,Jillian Humphreys,60.95,42,44,46,52,-55,55,46,55,101
+2018 Baltimore Open,2018-01-28,Women's Masters (50-54) 69 kg,Maria Lempicki,67.7,40,42,43,-57,57,-58,43,57,100
+2018 Baltimore Open,2018-01-28,Women's Masters (35-39) 69 kg,Brenna Pilot,65.9,40,42,44,48,51,55,44,55,99
+2018 Baltimore Open,2018-01-28,Open Women's 48 kg,Mariel Hana Gaviola,46.85,40,43,-45,51,54,-57,43,54,97
+2018 Baltimore Open,2018-01-28,Open Women's 63 kg,Amy Froehlich,62.5,-40,40,43,53,-57,-57,43,53,96
+2018 Baltimore Open,2018-01-28,Open Women's 75 kg,Corinne Wilhelm-Glab,72.35,35,37,40,50,51,55,40,55,95
+2018 Baltimore Open,2018-01-28,Women's Masters (40-44) 69 kg,Rachel Miller,64.6,36,39,41,48,53,-57,41,53,94
+2018 Baltimore Open,2018-01-28,Women's Masters (45-49) 69 kg,Heather Litvinoff,67.15,37,39,-41,47,50,53,39,53,92
+2018 Baltimore Open,2018-01-28,Open Women's 48 kg,Gwendolyn Nale,46.9,35,37,-41,47,50,53,37,53,90
+2018 Baltimore Open,2018-01-28,Open Women's 69 kg,Becky Wong,65.25,30,33,-38,-54,54,57,33,57,90
+2018 Baltimore Open,2018-01-28,Women's Masters (50-54) 53 kg,Elizabeth Sanchez Pena,51.55,36,-38,39,44,47,50,39,50,89
+2018 Baltimore Open,2018-01-28,Women's Masters (35-39) 58 kg,Tiffany Oscar,56.1,38,-41,-41,45,-49,50,38,50,88
+2018 Baltimore Open,2018-01-28,Women's Masters (45-49) 63 kg,Cheryl Jackson,62.35,33,35,37,42,-45,46,37,46,83
+2018 Baltimore Open,2018-01-28,Open Men's 62 kg,ERIC SONG,61.4,-71,-72,-72,73,76,80,0,80,80
+2018 Baltimore Open,2018-01-28,Open Women's 63 kg,Emilie Jackson,59.3,35,37,-40,40,-45,-46,37,40,77
+2018 Baltimore Open,2018-01-28,Women's Masters (40-44) 63 kg,Jill Hanner,61.95,-50,-50,-50,-62,62,65,0,65,65
+2018 Baltimore Open,2018-01-28,Open Men's 69 kg,Jeffrey Rogers,66.35,60,-63,63,-80,-80,-80,63,0,63
+2018 Baltimore Open,2018-01-28,Women's Masters (65-69) 58 kg,Sara Contente,55.7,23,-24,-25,30,-32,32,23,32,55
+2018 Baltimore Open,2018-01-28,Open Men's 77 kg,Steven Kraft,73.85,-36,-36,-36,44,46,-50,0,46,46

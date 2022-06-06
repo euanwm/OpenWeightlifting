@@ -1,0 +1,451 @@
+meet,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+2016 National Masters Championship,2016-04-03,Open Men's+105 kg,Guillermo Bujanda,120.08,-120,121,126,-160,165,170,126,170,296
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Chad Vaughn,76.74,123,130,-137,145,153,160,130,160,290
+2016 National Masters Championship,2016-04-03,Open Men's+105 kg,Kevin Young,111.07,120,125,130,152,-157,160,130,160,290
+2016 National Masters Championship,2016-04-03,Open Men's+105 kg,Dominic Ahuna,137.8,125,130,135,150,0,0,135,150,285
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Larry Neely,93.05,120,-125,-125,150,-155,157,120,157,277
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Donald Smith,92.8,-117,-117,120,150,155,-157,120,155,275
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Robert Arroyo,91.55,-116,119,120,141,145,149,120,149,269
+2016 National Masters Championship,2016-04-03,Open Men's 105 kg,James (Jim) Storch,103.55,105,110,115,145,151,-155,115,151,266
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Dean Goad,93.6,111,116,-120,138,-146,146,116,146,262
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Geoffrey Steinbacher,82.45,108,-114,117,139,145,-154,117,145,262
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Jared Coon,92.7,110,115,120,142,-147,-152,120,142,262
+2016 National Masters Championship,2016-04-03,Open Men's+105 kg,Gavin Hough,117.55,110,115,120,135,140,-150,120,140,260
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Joseph Szymanek,83.85,107,112,118,136,141,-146,118,141,259
+2016 National Masters Championship,2016-04-03,Open Men's 105 kg,Benjamin Henning,102.9,115,-120,120,134,138,-145,120,138,258
+2016 National Masters Championship,2016-04-03,Open Men's 105 kg,Charles Shipman,103.6,110,115,120,133,137,-145,120,137,257
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Jason Cabal,84.9,110,-115,115,135,141,-144,115,141,256
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Dan Smith,84.35,108,112,117,131,134,138,117,138,255
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Oscar Chaplin,84.25,115,120,125,-130,130,-140,125,130,255
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Terry Morrow,93.2,105,110,-115,130,140,145,110,145,255
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Lizandro De Leon,83.4,110,-114,-115,142,-147,-150,110,142,252
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,William Johns,84.15,111,115,-120,133,136,-140,115,136,251
+2016 National Masters Championship,2016-04-03,Open Men's 105 kg,Brett Andrus,99.32,105,112,-118,125,130,139,112,139,251
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Jeffrey Barnett,92.35,105,109,112,131,137,-141,112,137,249
+2016 National Masters Championship,2016-04-03,Open Men's 105 kg,Miles Davis,100.35,-105,105,110,133,138,-143,110,138,248
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Samuel Fariss,92.5,103,-108,108,130,135,138,108,138,246
+2016 National Masters Championship,2016-04-03,Open Men's 105 kg,Edward Suh,100.78,100,-105,105,135,140,-144,105,140,245
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Kevin Wright,93.09,100,105,108,128,133,135,108,135,243
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Kristopher Fonte,91.35,-103,103,108,130,135,-140,108,135,243
+2016 National Masters Championship,2016-04-03,Open Men's 105 kg,William McLendon,100.9,-106,-106,107,136,-141,-142,107,136,243
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Noel Hernandez,92.85,97,102,105,122,130,137,105,137,242
+2016 National Masters Championship,2016-04-03,Open Men's+105 kg,Jeremy Haller,125.95,-103,103,109,125,130,133,109,133,242
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Robert Van der Heyden,90.55,-112,112,-116,126,-130,130,112,130,242
+2016 National Masters Championship,2016-04-03,Open Men's+105 kg,Duane Hagstrom,122.36,103,108,-110,124,-130,133,108,133,241
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,David Lee,83.3,105,-108,110,120,125,130,110,130,240
+2016 National Masters Championship,2016-04-03,Open Men's 105 kg,Chris Pennington,100.45,98,101,-107,131,-136,137,101,137,238
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Steve Nicholls,93.85,-105,105,112,-125,125,-130,112,125,237
+2016 National Masters Championship,2016-04-03,Open Men's 105 kg,Joe Fondale,97.35,101,-106,106,-126,126,131,106,131,237
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Charles Janicki,92.35,-106,-106,106,126,130,-136,106,130,236
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Joseph Latini,91.35,99,-103,104,-132,132,-133,104,132,236
+2016 National Masters Championship,2016-04-03,Open Men's 105 kg,Mark Williams,102.99,103,106,-110,120,125,128,106,128,234
+2016 National Masters Championship,2016-04-03,Open Men's+105 kg,Eric Cole,124.13,-100,-103,103,131,-137,-142,103,131,234
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Mark Albrecht,76.5,97,101,104,120,129,-137,104,129,233
+2016 National Masters Championship,2016-04-03,Open Men's+105 kg,Gary Miller,105.8,-103,103,-108,-130,130,-138,103,130,233
+2016 National Masters Championship,2016-04-03,Open Men's+105 kg,Alex Jones,171.1,95,-101,-103,-128,128,138,95,138,233
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Thomas Mohlman,93.6,102,-109,-110,130,-141,-142,102,130,232
+2016 National Masters Championship,2016-04-03,Open Men's 105 kg,Don Bell,100.75,98,103,-108,128,-132,-133,103,128,231
+2016 National Masters Championship,2016-04-03,Open Men's 105 kg,Sean Holcey,104.24,101,106,-110,115,120,125,106,125,231
+2016 National Masters Championship,2016-04-03,Open Men's 105 kg,Justin Solsvig,101.05,101,106,-109,125,-131,-131,106,125,231
+2016 National Masters Championship,2016-04-03,Open Men's 105 kg,Donald Robbins,104.4,105,-110,-110,-125,125,-135,105,125,230
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Ralph Ohland,89.65,95,-105,105,125,-131,-135,105,125,230
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Robert Sirkis,71.33,-100,100,-104,125,128,130,100,130,230
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Jary Jackson,76.1,-100,101,-106,121,126,129,101,129,230
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Josue Cano,81.3,-95,95,-101,125,130,135,95,135,230
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Corey Figgins,91.25,100,105,-110,120,125,-130,105,125,230
+2016 National Masters Championship,2016-04-03,Open Men's+105 kg,Jason Brauhn,134.45,97,100,-105,129,-134,-134,100,129,229
+2016 National Masters Championship,2016-04-03,Open Men's 105 kg,Robert Rothera,102.7,93,98,102,120,127,-133,102,127,229
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Nicholas Jimenez,92.25,95,103,-106,125,-131,-134,103,125,228
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Jama Anders,90.44,-96,96,102,120,-126,126,102,126,228
+2016 National Masters Championship,2016-04-03,Open Men's+105 kg,James Malone,111.4,-96,98,-103,127,-133,-137,98,127,225
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,James Aftosmis,76.55,92,-97,97,126,128,-137,97,128,225
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Damien Bielli,90.92,-95,95,100,120,125,-130,100,125,225
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Matthew Mullins,93,-100,100,-102,-125,-125,125,100,125,225
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Petar Petrov,93.36,95,-100,100,125,-130,-130,100,125,225
+2016 National Masters Championship,2016-04-03,Open Men's 105 kg,Sam Dowdy,104,-94,-94,94,111,121,130,94,130,224
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Cory Moore,76.54,95,100,103,114,120,-126,103,120,223
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Michael Caro,89.81,91,96,101,118,122,-126,101,122,223
+2016 National Masters Championship,2016-04-03,Open Men's+105 kg,Derrick Black,116.3,85,90,-95,120,125,131,90,131,221
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Arturo Ruiz,84.05,90,95,-100,115,121,126,95,126,221
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Christopher Crowder,84.25,-100,101,-106,-117,120,-126,101,120,221
+2016 National Masters Championship,2016-04-03,Open Men's 105 kg,Brandon Duffner,97.35,96,-103,-105,125,-133,-133,96,125,221
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Thomas Kraus,92.71,90,-95,95,115,120,125,95,125,220
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Joseph Dressler,76.49,-96,96,100,120,-125,-128,100,120,220
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Roy Manley,92.7,100,-104,-105,-120,-120,120,100,120,220
+2016 National Masters Championship,2016-04-03,Open Men's 105 kg,Neil Kanterman,95,95,98,100,112,116,119,100,119,219
+2016 National Masters Championship,2016-04-03,Open Men's 105 kg,Michael Cohen,104.27,93,96,99,110,115,120,99,120,219
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Eric Jonas,92.52,-95,95,98,120,-124,-124,98,120,218
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Zachary Hunter,92.83,94,-97,97,116,121,0,97,121,218
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Michael Romero,76.2,85,90,96,115,121,-126,96,121,217
+2016 National Masters Championship,2016-04-03,Open Men's 105 kg,Ryan Atkins,103.41,96,-100,101,111,116,-121,101,116,217
+2016 National Masters Championship,2016-04-03,Open Men's 105 kg,Daniel Butler,102.55,-98,98,-102,115,118,-122,98,118,216
+2016 National Masters Championship,2016-04-03,Open Men's+105 kg,Thomas Williams,106.05,93,98,102,109,114,-118,102,114,216
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Christopher Chambers,81.8,93,100,-104,109,-115,115,100,115,215
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Jefferson Mullenax,84.25,87,91,94,112,116,120,94,120,214
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Daniel Baca,90.95,-85,89,93,111,-117,121,93,121,214
+2016 National Masters Championship,2016-04-03,Open Men's+105 kg,Joshua Davis,181.92,92,-99,-100,115,122,-130,92,122,214
+2016 National Masters Championship,2016-04-03,Open Men's 69 kg,John Bova,69,89,91,93,115,118,120,93,120,213
+2016 National Masters Championship,2016-04-03,Open Men's 105 kg,Paul LaDuke,100.2,85,90,95,112,117,-126,95,117,212
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Barry Schroeder,88.15,95,-99,-99,117,-122,-122,95,117,212
+2016 National Masters Championship,2016-04-03,Open Men's+105 kg,Thomas Martin,121.65,93,-98,-98,112,-118,118,93,118,211
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Sean Ploskina,74.09,92,96,-98,111,-114,115,96,115,211
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Jesse Rosser,91.06,-90,-90,92,110,-117,119,92,119,211
+2016 National Masters Championship,2016-04-03,Open Men's 105 kg,Daniel Sands,103.2,95,-100,101,110,-115,-115,101,110,211
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,George Baindurashvili,81.3,88,92,-97,-111,111,118,92,118,210
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Brad Scillian,83.85,88,93,-97,110,-115,117,93,117,210
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,John Douglass,92.49,-90,90,-95,120,-125,-125,90,120,210
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Matt Woisin,75.24,-96,97,-100,113,-116,0,97,113,210
+2016 National Masters Championship,2016-04-03,Open Men's+105 kg,Mark SOLOMON,119.1,95,105,-110,105,-122,-130,105,105,210
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Quint Sudbury,81.55,-90,90,94,-115,115,-120,94,115,209
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Brian Clapp,82.9,85,88,92,117,-122,-126,92,117,209
+2016 National Masters Championship,2016-04-03,Open Men's 105 kg,Jeremy Hall,103.47,-83,83,90,113,119,-128,90,119,209
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Matthew Brennan,76.72,85,88,-91,116,120,-123,88,120,208
+2016 National Masters Championship,2016-04-03,Open Men's 105 kg,Nick Addario,96.05,85,89,-96,-118,118,-128,89,118,207
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Rocky McKay,93.34,97,-100,-101,-110,-110,110,97,110,207
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Michael Craft,92.85,88,-91,91,110,-115,115,91,115,206
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Jeff Dempsey,74.85,70,83,90,90,105,115,90,115,205
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Keith Nautel,82.14,-80,81,-84,116,124,-131,81,124,205
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Osvaldo Ruiz,83.73,90,95,-98,105,110,-112,95,110,205
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Paul Kosnik,85,88,90,95,105,110,-115,95,110,205
+2016 National Masters Championship,2016-04-03,Open Men's 105 kg,Cory Boyd,101.36,86,91,-96,114,-121,-122,91,114,205
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Donovan Conrad,76.45,83,85,87,114,117,-120,87,117,204
+2016 National Masters Championship,2016-04-03,Open Men's 105 kg,David Ragan,104.1,85,90,-95,-105,105,112,90,112,202
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Chuck Rumbley,90.6,84,87,90,105,110,-114,90,110,200
+2016 National Masters Championship,2016-04-03,Open Men's+105 kg,Gregory Deemer,110.35,82,86,90,110,-115,-115,90,110,200
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Sean Burke,82.3,85,-90,90,110,-116,-116,90,110,200
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,David Patterson,92.98,87,90,-93,107,-110,110,90,110,200
+2016 National Masters Championship,2016-04-03,Open Men's 62 kg,Ryan Kennedy,61.78,-88,88,-91,112,-115,-117,88,112,200
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Dennis Bischoff,79.25,84,-87,87,107,110,113,87,113,200
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Steve Hamming,91.05,85,-89,-89,111,115,-118,85,115,200
+2016 National Masters Championship,2016-04-03,Open Men's 69 kg,Jethrowen Cara,68.34,85,-88,-90,103,110,114,85,114,199
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Daniel Kunitz,76.3,80,85,88,110,-115,-116,88,110,198
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Kurt Roderick,75.93,82,-86,86,107,112,-116,86,112,198
+2016 National Masters Championship,2016-04-03,Open Men's+105 kg,Julio Laboy,110.65,86,-89,-91,105,111,-122,86,111,197
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,John Bourgeois,84.2,83,-87,88,103,107,109,88,109,197
+2016 National Masters Championship,2016-04-03,Open Men's 105 kg,Robert Cameron,104.05,-84,84,-88,112,-116,-116,84,112,196
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Tim Trahan,92.55,83,85,-87,105,110,-116,85,110,195
+2016 National Masters Championship,2016-04-03,Open Men's+105 kg,Brian Shockley,106.15,80,85,-88,106,110,-115,85,110,195
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Billy Aguilar,76.75,82,85,-90,-107,-107,110,85,110,195
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Jay Nacionales,75.46,-83,85,-88,105,110,-115,85,110,195
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,DJ Holder,84.6,85,-90,-90,110,-115,-115,85,110,195
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Lee Draper,76.4,85,-90,-95,105,110,-114,85,110,195
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Derek Dragon,83.2,83,86,-89,106,-110,-110,86,106,192
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Michael Goldstein,80.35,80,84,-88,102,107,-111,84,107,191
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Teddy Binette,84.05,78,82,85,102,106,-111,85,106,191
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Henry Hemphill,86.13,90,-95,-95,-100,100,-110,90,100,190
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Vincent Martinez,74.25,-75,75,80,106,110,-114,80,110,190
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,John Floyd,84.8,80,-83,83,100,-105,105,83,105,188
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Richard Condon,75.06,80,-83,-85,100,104,107,80,107,187
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Aaron Anderson,81.8,77,-80,82,100,105,-110,82,105,187
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Bruce Stockwell,92.55,75,80,-85,102,-107,107,80,107,187
+2016 National Masters Championship,2016-04-03,Open Men's 62 kg,Joseph Riccardi,61.23,75,85,87,100,-109,-109,87,100,187
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Kevin Rogers,92.95,80,-85,-85,101,-106,107,80,107,187
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Julian Kaufman,76,86,-89,-89,100,-110,-112,86,100,186
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Jonathan Kiger,76.1,-83,83,-88,103,-107,-107,83,103,186
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,George Pjura,83.1,80,-85,85,100,-102,0,85,100,185
+2016 National Masters Championship,2016-04-03,Open Men's 69 kg,Matthew Konar,68.5,75,82,-84,95,-100,102,82,102,184
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Brad Bremer,91.05,70,75,-80,100,-105,107,75,107,182
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Tom Raven,76.15,-77,77,81,-95,95,101,81,101,182
+2016 National Masters Championship,2016-04-03,Open Men's 105 kg,Juan Sepulveda,99.6,75,80,-84,96,102,-110,80,102,182
+2016 National Masters Championship,2016-04-03,Open Men's+105 kg,Jeffrey Scott,125.15,70,75,80,90,96,102,80,102,182
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Tom Stepp,93.55,-79,81,-84,100,-104,-106,81,100,181
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Frank Pinheiro,75.8,75,-80,80,100,-101,-116,80,100,180
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Chad Adams,82,70,73,-76,100,103,106,73,106,179
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Mark Lane,84.7,77,82,-87,97,-105,-105,82,97,179
+2016 National Masters Championship,2016-04-03,Open Men's 105 kg,David Meltzer,103.6,75,79,-81,95,100,-104,79,100,179
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) +75 kg,Maika Godwin,85.94,78,81,-84,-92,92,96,81,96,177
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Michael Keating,83.05,74,-78,-81,97,-102,102,74,102,176
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 75 kg,Jessica Beal,72.75,75,80,81,90,-95,95,81,95,176
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Thomas Walters,79.78,75,80,-85,95,-101,-101,80,95,175
+2016 National Masters Championship,2016-04-03,Open Men's 69 kg,Eric Heins,68.4,75,80,-85,95,-100,-102,80,95,175
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 69 kg,Mayra Brandt,67.2,75,-80,-82,-97,100,-103,75,100,175
+2016 National Masters Championship,2016-04-03,Open Men's 105 kg,Jim Napier,97.83,70,75,80,90,95,-102,80,95,175
+2016 National Masters Championship,2016-04-03,Open Men's+105 kg,Daniel Boland,110.24,71,74,78,91,96,-100,78,96,174
+2016 National Masters Championship,2016-04-03,Open Men's 69 kg,Barry Myers,67.05,70,-78,80,85,93,-101,80,93,173
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) +75 kg,Nicole Shipos,104.15,67,70,73,90,-96,99,73,99,172
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Berlyn Wedgeworth,77.25,66,-72,72,90,95,100,72,100,172
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Victor Reid,88.43,75,-78,-79,94,97,-102,75,97,172
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) +75 kg,Anna martin,91.95,70,72,74,90,95,97,74,97,171
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Bobby Healey,82.95,75,80,-87,90,-100,-100,80,90,170
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Terry Beers,92.95,65,70,-73,90,95,100,70,100,170
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Walter Warren,93.18,67,72,75,90,95,-102,75,95,170
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Scott Noren,77.2,70,-75,75,95,-100,-100,75,95,170
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Jimmie Kilgore,84.55,75,-80,0,95,-101,-102,75,95,170
+2016 National Masters Championship,2016-04-03,Open Men's 69 kg,Aleksey Khomenko,68.85,65,-72,72,86,-92,95,72,95,167
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 63 kg,Katy Davis,62.71,-77,77,-80,90,-93,-94,77,90,167
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Carlos Rivera,83.84,70,-75,75,-90,90,-96,75,90,165
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Adam Ford,76.1,68,-70,-71,85,91,96,68,96,164
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,joseph derosa,75.93,66,-69,69,88,94,-100,69,94,163
+2016 National Masters Championship,2016-04-03,Open Men's 105 kg,Keith Tillman,94,65,70,73,90,-94,-95,73,90,163
+2016 National Masters Championship,2016-04-03,Open Men's+105 kg,James Mathews,112.51,65,72,-80,85,90,-95,72,90,162
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Michael DiPasquale,83.65,70,-72,-72,92,-95,-95,70,92,162
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 63 kg,Stephanie Hay,61.58,65,69,71,85,90,-93,71,90,161
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,James Ellison,82.85,-70,-70,70,90,-93,-95,70,90,160
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 75 kg,Evelyn Kaiwi-Hernandez,73.65,70,75,-79,-85,85,-94,75,85,160
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Robert Bondiman,79.64,68,72,74,85,-91,-91,74,85,159
+2016 National Masters Championship,2016-04-03,Women's Masters (45-49) +75 kg,Vivian Dawson,111.1,60,65,70,82,88,-94,70,88,158
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 69 kg,Nicole Biscuiti,68.15,65,68,70,85,88,-92,70,88,158
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Henry Deimel,83.91,60,64,67,79,85,90,67,90,157
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Kurt Leverett,76.25,65,-70,70,75,80,86,70,86,156
+2016 National Masters Championship,2016-04-03,Open Men's 69 kg,Daniel Bloomenthal,67.9,60,65,-69,-85,85,90,65,90,155
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Lincoln Brigham,75.35,70,72,75,78,80,-83,75,80,155
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 69 kg,Jessica Walters,68.35,64,-67,-68,85,90,-95,64,90,154
+2016 National Masters Championship,2016-04-03,Women's Masters (50-54) 75 kg,Jodi Stumbo,73.75,63,66,68,78,82,85,68,85,153
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 69 kg,Heather Abel,63.95,65,68,-70,-80,80,85,68,85,153
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 58 kg,Jill Thornton,57.58,66,69,-72,83,-86,-87,69,83,152
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Robert (Bob) Strange,90,63,65,-67,83,87,-90,65,87,152
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Gerald Huth,71.75,65,-68,68,84,-90,-90,68,84,152
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 58 kg,Kandi Lagas,55.77,60,63,-66,83,87,-90,63,87,150
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,John Roten,91.86,60,65,70,70,75,80,70,80,150
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Martin Bolick,90.26,-65,-65,65,85,-90,-90,65,85,150
+2016 National Masters Championship,2016-04-03,Open Men's 105 kg,Thomas Hughes,97.18,55,65,-70,75,85,-90,65,85,150
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) +75 kg,Dionne Slavin,78.82,63,-68,-70,77,86,-91,63,86,149
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Loren Bertocci,84.69,61,64,-67,-80,83,-86,64,83,147
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) +75 kg,Joanna Jones,103.65,60,64,67,72,76,79,67,79,146
+2016 National Masters Championship,2016-04-03,Women's Masters (45-49) 58 kg,Jo Aita,57.86,63,-65,65,77,80,-83,65,80,145
+2016 National Masters Championship,2016-04-03,Women's Masters (45-49) +75 kg,Juli Peterson,103.25,60,-64,65,80,-84,-85,65,80,145
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) 58 kg,Rachel Batista,57.1,61,63,65,74,77,80,65,80,145
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 69 kg,Lindsay Dixon,66.97,65,-69,-69,75,78,80,65,80,145
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Art Donahoe,75.84,58,61,62,81,83,-87,62,83,145
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Donald Glab,83.7,55,60,-62,80,85,-87,60,85,145
+2016 National Masters Championship,2016-04-03,Open Men's 69 kg,Mark Hummel,67.01,55,60,-65,75,80,85,60,85,145
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) 63 kg,Marisol Esquilin,61.86,60,63,66,73,76,78,66,78,144
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) 69 kg,Monique Ames,68.49,60,63,65,72,76,79,65,79,144
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 63 kg,Lauren Fiske,62.83,-62,62,-65,77,80,82,62,82,144
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 69 kg,Ann Dohm,65.1,63,-65,66,74,76,78,66,78,144
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) +75 kg,Leslie Weller,95.55,59,-61,61,79,81,83,61,83,144
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) +75 kg,Heather Wood,96.85,63,-65,-65,78,81,-83,63,81,144
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Jed Harris,76.84,59,62,63,78,80,-82,63,80,143
+2016 National Masters Championship,2016-04-03,Open Men's 69 kg,Gary Karkuff,66.34,-62,62,-65,70,80,-85,62,80,142
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Charles Sullivan,70.51,60,64,-66,76,-78,78,64,78,142
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) 63 kg,Shana Jones,61.9,60,64,-67,75,77,-81,64,77,141
+2016 National Masters Championship,2016-04-03,Women's Masters (45-49) 69 kg,Ronay Hershey,68.9,62,-64,65,75,-80,-80,65,75,140
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,John Seppyes,76.57,55,-60,60,75,80,-86,60,80,140
+2016 National Masters Championship,2016-04-03,Open Men's+105 kg,Thomas Kerrigan,105.64,55,58,-60,75,82,-86,58,82,140
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) 58 kg,Andrea Seward,57.86,60,62,-64,77,-80,-81,62,77,139
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 75 kg,Meghan Russell,72.75,59,-64,-66,-75,75,80,59,80,139
+2016 National Masters Championship,2016-04-03,Open Men's+105 kg,Robert Loofboro,111.53,50,55,60,70,78,-86,60,78,138
+2016 National Masters Championship,2016-04-03,Open Men's 62 kg,Ray Harkness,60.85,-60,60,-67,-72,72,77,60,77,137
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) 63 kg,Christie Green-Horton,60.25,60,62,-64,-75,75,-79,62,75,137
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) 69 kg,Jennifer Lee,63.93,57,60,62,71,75,-80,62,75,137
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 53 kg,Nadia Shatila,51.43,56,59,61,69,72,76,61,76,137
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) +75 kg,Jodi Garcia,75.65,58,-60,-63,72,75,79,58,79,137
+2016 National Masters Championship,2016-04-03,Women's Masters (50-54) +75 kg,Cindy Briggs,77.2,55,57,-60,72,75,79,57,79,136
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 69 kg,Darcy Giaquinto,64.35,-55,-55,55,-77,77,81,55,81,136
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) 58 kg,Jenny Clouse,55.95,57,60,-63,75,-78,-80,60,75,135
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) 69 kg,Velvet Minnick,66.9,55,-57,58,75,77,-80,58,77,135
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) 75 kg,Melissa Siegel,74.85,55,58,60,72,75,-77,60,75,135
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 63 kg,Christine Cardwell,62,57,60,62,68,71,73,62,73,135
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 69 kg,Julie Pryor,66.45,53,-56,56,73,77,79,56,79,135
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) +75 kg,Kylie Douglas,112.5,53,57,-61,70,74,78,57,78,135
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) +75 kg,Bertmarie Rodriguez-Charles,123.3,-58,-58,58,73,77,-83,58,77,135
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Warren Byrd,76.24,53,57,60,65,70,75,60,75,135
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) 69 kg,Pamela Wade,66.53,53,56,60,74,-78,-80,60,74,134
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 63 kg,Stacy Crandall,62.41,53,56,-59,72,75,78,56,78,134
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 69 kg,Jessica Fernandez,67.25,55,59,-63,70,75,-82,59,75,134
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Christopher Kulp,76.85,50,53,-56,75,-81,81,53,81,134
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Clymer Law,93.53,53,-56,56,73,77,-80,56,77,133
+2016 National Masters Championship,2016-04-03,Women's Masters (45-49) 75 kg,Margaret Sinclair,72.25,50,55,-65,-70,70,77,55,77,132
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Greg Parr,80.41,55,58,-61,68,71,74,58,74,132
+2016 National Masters Championship,2016-04-03,Women's Masters (45-49) 75 kg,Elke Lohan,70.95,53,56,-58,69,75,-77,56,75,131
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 75 kg,Jennifer Watts,74.5,57,59,61,-70,70,-73,61,70,131
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 75 kg,Whitney Doel,74.55,50,53,-56,76,78,-82,53,78,131
+2016 National Masters Championship,2016-04-03,Women's Masters (45-49) 75 kg,Jennifer Perrier,70.15,54,-57,58,70,72,-75,58,72,130
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) +75 kg,Suzanne Leathers,79.84,52,-56,57,65,70,73,57,73,130
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 53 kg,Rebecca Lee,52.75,54,55,56,70,72,74,56,74,130
+2016 National Masters Championship,2016-04-03,Open Men's 62 kg,Robert Gilsdorf,61.88,45,50,55,60,70,75,55,75,130
+2016 National Masters Championship,2016-04-03,Women's Masters (45-49) 63 kg,courtney chyrchel,59.36,51,-53,54,70,73,75,54,75,129
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 58 kg,Jennifer Serpe,58,50,53,55,68,71,74,55,74,129
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 75 kg,Katherine Farmer,73.3,53,57,-60,65,70,72,57,72,129
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) +75 kg,Michelle Diltz,86.05,51,-54,54,69,72,75,54,75,129
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Henri Peters,74.98,50,-55,-55,75,79,-85,50,79,129
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) 53 kg,Annia Velazquez Padron,52.16,-55,55,58,65,70,-75,58,70,128
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 69 kg,Morgan White,67.65,-56,56,58,67,70,-72,58,70,128
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,David Lovelace,74.64,50,55,58,65,70,-73,58,70,128
+2016 National Masters Championship,2016-04-03,Women's Masters (45-49) +75 kg,Cynthia Church,88.65,52,54,56,66,69,71,56,71,127
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 69 kg,Lori Harding,68.35,55,57,-61,65,70,-75,57,70,127
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 75 kg,Michael-Lynn Evans,73.85,-55,-55,55,-72,-72,72,55,72,127
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Clarke Holland,71.47,48,52,-55,70,75,-78,52,75,127
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,MIKHAIL KHISHCHENKO,81.35,53,-55,-55,70,74,-76,53,74,127
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) 69 kg,Shannon Whiteman,63.32,45,47,50,66,71,76,50,76,126
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 63 kg,Kristin Lander,62.82,48,52,54,68,72,-75,54,72,126
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 48 kg,ANGELA TUCKER,47.4,50,53,55,66,-69,70,55,70,125
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Jake Holee,91.9,-100,-102,-106,120,125,-135,0,125,125
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) 69 kg,Heather Jeppeson,67.72,53,56,-58,68,-70,-70,56,68,124
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 48 kg,Amylynne Frankel,47.68,52,-55,-55,-69,70,72,52,72,124
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 75 kg,Grace Ursery,73.95,53,-59,-59,66,71,-76,53,71,124
+2016 National Masters Championship,2016-04-03,Women's Masters (45-49) 63 kg,Ramona Cadogan,61.71,51,-55,55,65,68,-72,55,68,123
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) 63 kg,Dianna Scotece,60.82,48,52,-57,61,66,71,52,71,123
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 48 kg,Cristina Gomez,45.89,49,-51,51,69,-72,72,51,72,123
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Stephen Knott,75.91,52,-55,55,60,64,68,55,68,123
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Scott Smith,76.99,50,-52,-53,-73,73,-77,50,73,123
+2016 National Masters Championship,2016-04-03,Women's Masters (45-49) +75 kg,Natalie Ollivierre-Williams,75,55,-57,57,65,-68,-68,57,65,122
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) 63 kg,Tiffani Trobough,60.91,48,-52,53,65,68,-72,53,68,121
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 58 kg,Claire Davenport,57,48,51,-54,65,67,70,51,70,121
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,John Lombardo,81.79,50,53,-55,62,65,68,53,68,121
+2016 National Masters Championship,2016-04-03,Women's Masters (50-54) +75 kg,Gina Rios,93.75,48,51,-53,63,-66,69,51,69,120
+2016 National Masters Championship,2016-04-03,Women's Masters (50-54) +75 kg,Debbie Alexander,127.35,-50,53,55,-62,63,65,55,65,120
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) +75 kg,Holly Black,82.56,47,50,-53,65,70,-74,50,70,120
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) +75 kg,Amy Glockner,85.27,50,-54,55,-65,65,-72,55,65,120
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 48 kg,Melissa Sue Jutras Kamphake,47.62,50,-52,-53,68,70,-72,50,70,120
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 53 kg,Rebecca Anderson,52.27,-48,48,52,65,-68,68,52,68,120
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 63 kg,Lissette Rodriguez,60.82,-50,50,-52,67,70,-73,50,70,120
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 69 kg,Erin Martin,68.9,50,52,-54,65,-68,68,52,68,120
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 69 kg,Heidi White,69,45,-48,49,65,-69,71,49,71,120
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) +75 kg,J. Kathryn Carter,82.45,45,48,50,62,66,70,50,70,120
+2016 National Masters Championship,2016-04-03,Open Men's 69 kg,steve vogel,68.96,45,50,55,42,55,65,55,65,120
+2016 National Masters Championship,2016-04-03,Women's Masters (45-49) 53 kg,Julie Mitchell,51.96,43,-47,47,62,72,-75,47,72,119
+2016 National Masters Championship,2016-04-03,Women's Masters (50-54) 75 kg,Gwen Chamberlin,72.95,45,48,51,58,62,67,51,67,118
+2016 National Masters Championship,2016-04-03,Women's Masters (50-54) +75 kg,Kathy Dahlman,94.85,50,-53,-56,65,68,-71,50,68,118
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 69 kg,Lorraine Morales,67.95,49,51,54,61,64,-68,54,64,118
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) 75 kg,Nica Vasquez,73.45,50,-52,52,-65,-65,65,52,65,117
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Michael Young,76.7,-97,-99,-100,117,-122,-124,0,117,117
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 75 kg,Kimberly Moyer,73.95,46,49,-52,65,-68,68,49,68,117
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Ray Huebschmann,91.36,40,44,47,53,60,70,47,70,117
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Robert Cavano,82.93,46,-48,48,64,67,69,48,69,117
+2016 National Masters Championship,2016-04-03,Women's Masters (45-49) 63 kg,Heather Smith,60.76,46,49,-51,62,64,67,49,67,116
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) 63 kg,Christie McNair,61.9,-50,51,-60,65,-70,-71,51,65,116
+2016 National Masters Championship,2016-04-03,Women's Masters (45-49) 53 kg,Kobra Nabizadeh,52.68,48,50,-53,62,64,66,50,66,116
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 58 kg,Gillian Sakai,57.75,46,50,-54,61,66,-69,50,66,116
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) +75 kg,Mara Arrieta,91.9,47,-50,-51,63,66,69,47,69,116
+2016 National Masters Championship,2016-04-03,Open Men's+105 kg,Robert Chandler,105.78,50,53,55,57,-60,61,55,61,116
+2016 National Masters Championship,2016-04-03,Women's Masters (50-54) 69 kg,Aimee Behrens,66.9,50,-52,54,57,61,-66,54,61,115
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Alex McInnes,82.59,-85,-85,-85,115,-120,-120,0,115,115
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 53 kg,Christina Lynch,51.85,45,48,50,60,-64,65,50,65,115
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,William Broyhill,77.6,48,52,55,60,-65,-65,55,60,115
+2016 National Masters Championship,2016-04-03,Women's Masters (55-59) +75 kg,LJuca Belsito,76.45,42,45,48,63,67,-70,48,67,115
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) +75 kg,Jessica Sandle,108.78,42,47,-50,55,-65,67,47,67,114
+2016 National Masters Championship,2016-04-03,Open Men's 62 kg,Juan Casal,59.9,43,47,-53,63,65,67,47,67,114
+2016 National Masters Championship,2016-04-03,Women's Masters (50-54) 63 kg,Laurie Espinosa,62.85,46,48,-50,60,63,66,48,66,114
+2016 National Masters Championship,2016-04-03,Women's Masters (45-49) 58 kg,Lisa Garrett,56.51,48,50,51,59,62,-65,51,62,113
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 63 kg,Casey Mino,60.85,48,50,-53,60,63,-65,50,63,113
+2016 National Masters Championship,2016-04-03,Open Men's+105 kg,Charles Carlton,119.23,48,-51,-51,-65,65,-70,48,65,113
+2016 National Masters Championship,2016-04-03,Women's Masters (50-54) 63 kg,Elizabeth Axtell,62,-47,47,50,-60,60,63,50,63,113
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) 75 kg,Andrea DiRico,73.2,-46,46,48,62,-64,64,48,64,112
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 63 kg,Jaclyn Joyce,61.53,47,-51,-52,60,65,-68,47,65,112
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 69 kg,Emily Looney,67.15,45,48,-50,60,64,-68,48,64,112
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 75 kg,Christina Chardon,70.15,46,48,-51,61,64,-66,48,64,112
+2016 National Masters Championship,2016-04-03,Open Men's+105 kg,Kim Butts,147.5,44,48,-51,54,60,64,48,64,112
+2016 National Masters Championship,2016-04-03,Women's Masters (50-54) +75 kg,Holly Westall-Toler,96.1,43,46,-48,59,62,65,46,65,111
+2016 National Masters Championship,2016-04-03,Women's Masters (45-49) 75 kg,Deanna Oliver,72.35,-48,48,-51,63,-68,-73,48,63,111
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 69 kg,Ellay Merana,66.35,44,46,-49,58,62,65,46,65,111
+2016 National Masters Championship,2016-04-03,Open Men's+105 kg,Dug Becker,114.15,105,111,-117,-135,-140,-140,111,0,111
+2016 National Masters Championship,2016-04-03,Women's Masters (45-49) 75 kg,Carla OBrien,71.45,44,47,50,56,58,61,50,61,111
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 63 kg,Daisy May Gutierrez,62.38,46,-50,-50,57,64,-70,46,64,110
+2016 National Masters Championship,2016-04-03,Open Men's 69 kg,Glenn Harris,66.61,45,-50,50,50,55,60,50,60,110
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Russell Williams,83.58,47,-49,49,58,61,-64,49,61,110
+2016 National Masters Championship,2016-04-03,Women's Masters (45-49) 58 kg,Mary Graham,55.96,42,44,46,63,-65,-65,46,63,109
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) 58 kg,Celange Murphy,56.3,46,48,-50,-61,61,-65,48,61,109
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) 75 kg,Lavetta Tevis,72.38,38,44,48,49,55,61,48,61,109
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) +75 kg,Bonnie Larson,76.01,43,45,47,58,-60,62,47,62,109
+2016 National Masters Championship,2016-04-03,Women's Masters (55-59) 63 kg,Marcy Rose,60.7,45,-47,48,58,61,-64,48,61,109
+2016 National Masters Championship,2016-04-03,Women's Masters (45-49) 58 kg,Jackie Marsh,54.29,44,48,-51,60,-63,-65,48,60,108
+2016 National Masters Championship,2016-04-03,Women's Masters (45-49) 63 kg,Aimee Yervasi,59.2,-46,47,-50,58,61,-64,47,61,108
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) 53 kg,Kristin Garvin,51.71,44,-48,-52,60,64,-68,44,64,108
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) 69 kg,Susan Hahn,64.2,-44,44,48,56,60,-63,48,60,108
+2016 National Masters Championship,2016-04-03,Women's Masters (50-54) 63 kg,Megan Becker,61.7,42,44,47,58,61,-63,47,61,108
+2016 National Masters Championship,2016-04-03,Women's Masters (50-54) +75 kg,Linda Gray,84.55,45,-50,50,-57,57,-61,50,57,107
+2016 National Masters Championship,2016-04-03,Women's Masters (45-49) 63 kg,Jennifer Alvarez,61.71,43,45,47,56,59,60,47,60,107
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) +75 kg,Annette Skye,78.6,41,43,45,57,59,62,45,62,107
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 75 kg,Martha Gasque,70.55,40,44,-47,53,58,63,44,63,107
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) 63 kg,Elizabeth Wayne,62.05,-46,46,48,56,58,-60,48,58,106
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) 75 kg,Angella Gardener,72.26,46,-49,50,56,-61,-63,50,56,106
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 69 kg,Jennifer Kennedy,67.95,44,-49,-49,62,-66,-68,44,62,106
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 69 kg,Sharon Derr,68.15,41,44,46,55,58,60,46,60,106
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 75 kg,Krista Savage,72.85,40,-44,44,58,62,-66,44,62,106
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 75 kg,Sara Soto,73.65,43,46,-48,-60,60,-64,46,60,106
+2016 National Masters Championship,2016-04-03,Women's Masters (60-64) +75 kg,Jane Black,93.5,44,-47,-47,60,62,-65,44,62,106
+2016 National Masters Championship,2016-04-03,Women's Masters (55-59) 53 kg,Elizabeth Brown,52.25,43,45,46,58,60,-63,46,60,106
+2016 National Masters Championship,2016-04-03,Women's Masters (50-54) 58 kg,Catherine McCloskey,57.9,45,47,48,55,58,-62,48,58,106
+2016 National Masters Championship,2016-04-03,Women's Masters (45-49) 53 kg,Michelle Garner,51.46,40,42,45,60,-64,-64,45,60,105
+2016 National Masters Championship,2016-04-03,Women's Masters (45-49) +75 kg,Jill Nelson,82.3,45,48,50,-52,52,55,50,55,105
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) 69 kg,Mary Miller,64.58,40,-45,45,55,60,-62,45,60,105
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) 75 kg,Laura Barrett,73.5,46,48,-52,50,53,57,48,57,105
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 63 kg,Zionna Hanson,62.45,46,49,-51,56,-60,-61,49,56,105
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 69 kg,Jessica Zamora,66.85,42,-45,45,60,-63,-65,45,60,105
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) 63 kg,Dawn Allen,61.63,39,42,-46,57,-61,61,42,61,103
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 53 kg,Samneang Chheng,52.64,39,43,-46,58,60,-62,43,60,103
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 58 kg,Sarah Pancoast,57.65,38,43,-46,55,60,-63,43,60,103
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) +75 kg,Michelle George,97.25,37,41,43,60,-64,-65,43,60,103
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Kurt Mannchen,76.01,42,-44,-44,58,60,-62,42,60,102
+2016 National Masters Championship,2016-04-03,Open Men's 56 kg,Glenn Murphy,54.9,36,39,40,54,60,62,40,62,102
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) 63 kg,Lora Campbell,62.1,-40,40,44,-57,57,-60,44,57,101
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) +75 kg,Jenny Lutkins,104.6,43,-46,46,52,55,-59,46,55,101
+2016 National Masters Championship,2016-04-03,Women's Masters (45-49) +75 kg,Levenda James,86.1,37,39,41,55,57,59,41,59,100
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) 69 kg,Heather Rider,65.14,38,40,43,55,57,-61,43,57,100
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Bill Waugh,76.13,45,-47,-47,55,0,0,45,55,100
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Thomas Walters,91.32,40,-45,45,50,55,0,45,55,100
+2016 National Masters Championship,2016-04-03,Open Men's+105 kg,Gordon Varnedoe,124.95,38,40,45,50,53,55,45,55,100
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Benjamin Green,81.99,35,40,45,50,55,-60,45,55,100
+2016 National Masters Championship,2016-04-03,Women's Masters (50-54) 58 kg,Julie Foley,56.15,45,-48,-48,55,-58,-58,45,55,100
+2016 National Masters Championship,2016-04-03,Women's Masters (50-54) 69 kg,Angela Thompson,68.65,40,-43,43,54,56,-59,43,56,99
+2016 National Masters Championship,2016-04-03,Women's Masters (45-49) 58 kg,Carol Trees,56.13,40,-43,-44,56,59,-61,40,59,99
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) 63 kg,jessica godino,61.36,41,42,-45,55,-57,57,42,57,99
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Flynn Livingston,74.9,-72,-72,-72,90,97,-103,0,97,97
+2016 National Masters Championship,2016-04-03,Women's Masters (45-49) +75 kg,CECEILIA CHIN,111.5,35,39,-44,51,54,58,39,58,97
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) 63 kg,Mayrim Fraticelli,59.34,39,-41,42,49,51,55,42,55,97
+2016 National Masters Championship,2016-04-03,Women's Masters (50-54) 69 kg,Kathleen Cromwell,68.15,40,-42,-42,56,-59,-59,40,56,96
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) 48 kg,Sonia Pillon,47.96,-45,-45,46,50,-54,-56,46,50,96
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 48 kg,Elizabeth Jones,45.8,40,-43,-45,53,56,-58,40,56,96
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,William Hosken,75.92,40,43,-45,50,53,-55,43,53,96
+2016 National Masters Championship,2016-04-03,Women's Masters (45-49) 53 kg,Jennifer Nelson,52.81,37,39,40,50,52,54,40,54,94
+2016 National Masters Championship,2016-04-03,Women's Masters (45-49) +75 kg,Kendal Bergroschtje,109.1,34,37,40,47,50,53,40,53,93
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Stephen Powell,93.75,88,92,-96,-108,-108,-108,92,0,92
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Joseph Soltysik,90.05,37,-40,-40,48,52,54,37,54,91
+2016 National Masters Championship,2016-04-03,Women's Masters (50-54) 58 kg,Kim Tinney,55.55,37,39,-41,48,50,52,39,52,91
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 58 kg,Kerry Vellake,53.99,35,-39,40,45,50,-54,40,50,90
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 69 kg,Molly Leber,66.78,35,37,-40,50,53,-56,37,53,90
+2016 National Masters Championship,2016-04-03,Women's Masters (45-49) 58 kg,Debra Rominger,57.99,38,-41,41,45,48,-50,41,48,89
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) 53 kg,Kulsoom Abdullah,52.99,35,37,39,50,-55,-57,39,50,89
+2016 National Masters Championship,2016-04-03,Women's Masters (55-59) 58 kg,Deborah Werenko,56.8,35,38,40,45,47,49,40,49,89
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Howard Bovell,69.24,32,35,37,-51,-51,51,37,51,88
+2016 National Masters Championship,2016-04-03,Open Men's 62 kg,David Bolotin,61.71,34,36,38,42,46,50,38,50,88
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Eric Evans,85,87,-91,-91,-107,0,0,87,0,87
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) 69 kg,Kelly Tilley,67.74,38,41,-43,46,-49,-49,41,46,87
+2016 National Masters Championship,2016-04-03,Women's Masters (45-49) 69 kg,Lora Olson,65.89,34,36,38,42,45,48,38,48,86
+2016 National Masters Championship,2016-04-03,Women's Masters (55-59) +75 kg,Diane McLeod,76.65,-38,38,-40,48,-51,-51,38,48,86
+2016 National Masters Championship,2016-04-03,Women's Masters (45-49) +75 kg,Stephanie Walker,83.49,39,-42,-42,-46,-46,46,39,46,85
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) 48 kg,Yulia Kostogorova-Beller,47.33,36,38,-39,45,46,47,38,47,85
+2016 National Masters Championship,2016-04-03,Open Men's 69 kg,Howard Cohen,66.08,35,38,40,40,45,-49,40,45,85
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,Edgar Persons,86.19,35,-40,40,40,45,-50,40,45,85
+2016 National Masters Championship,2016-04-03,Open Men's 56 kg,Dane Hussey,54.69,30,35,-40,40,45,50,35,50,85
+2016 National Masters Championship,2016-04-03,Women's Masters (45-49) +75 kg,Deborah Hanscom,99.95,-59,-59,-60,80,84,-86,0,84,84
+2016 National Masters Championship,2016-04-03,Women's Masters (55-59) 58 kg,Donna Spinola,56.5,33,-36,-38,-43,43,50,33,50,83
+2016 National Masters Championship,2016-04-03,Women's Masters (55-59) 58 kg,Jacqueline Brown,56.9,33,35,37,40,43,46,37,46,83
+2016 National Masters Championship,2016-04-03,Women's Masters (55-59) +75 kg,Mary Hyder,80,32,35,37,42,45,0,37,45,82
+2016 National Masters Championship,2016-04-03,Women's Masters (50-54) 58 kg,Lisa Gagnon,54.55,30,34,-39,45,48,-51,34,48,82
+2016 National Masters Championship,2016-04-03,Women's Masters (60-64) 53 kg,Kim Alderwick,51.2,33,35,37,39,42,44,37,44,81
+2016 National Masters Championship,2016-04-03,Women's Masters (60-64) 63 kg,Rita Warren,61.55,25,31,-34,41,49,50,31,50,81
+2016 National Masters Championship,2016-04-03,Women's Masters (55-59) 48 kg,Elaine Audy,47.5,33,-35,35,43,45,46,35,46,81
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) 69 kg,Sara Wright,66.25,-33,33,36,40,44,-48,36,44,80
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,James Fassett,84.06,32,-34,34,42,44,46,34,46,80
+2016 National Masters Championship,2016-04-03,Women's Masters (60-64) 58 kg,Shirley Callaway,55.15,32,33,34,39,41,44,34,44,78
+2016 National Masters Championship,2016-04-03,Women's Masters (45-49) 53 kg,Jerilyn Goldberg,51.58,-32,-32,32,42,44,45,32,45,77
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 58 kg,Elizabeth Arnold,56.47,30,33,-35,41,44,-46,33,44,77
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 63 kg,Brittany Riesenberg,62.25,74,77,-80,-94,-94,-94,77,0,77
+2016 National Masters Championship,2016-04-03,Women's Masters (60-64) 75 kg,M. Sharon Mau,73.3,30,35,-37,39,42,-46,35,42,77
+2016 National Masters Championship,2016-04-03,Women's Masters (70-74) 63 kg,Laurie Nelson,61.85,30,32,34,38,40,42,34,42,76
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 63 kg,Nicole Geraths,60.83,-59,-60,-60,75,-78,-80,0,75,75
+2016 National Masters Championship,2016-04-03,Women's Masters (50-54) 58 kg,Tina Fusser,55.5,31,33,-35,42,-45,-45,33,42,75
+2016 National Masters Championship,2016-04-03,Women's Masters (50-54) 63 kg,CHERYL SCHUMACHER,62.45,30,-33,33,-41,41,-45,33,41,74
+2016 National Masters Championship,2016-04-03,Open Men's 56 kg,Monroe Nowotny,55.78,30,32,34,32,37,40,34,40,74
+2016 National Masters Championship,2016-04-03,Women's Masters (65-69) +75 kg,Sandra Wallace,78.4,28,30,32,38,40,42,32,42,74
+2016 National Masters Championship,2016-04-03,Women's Masters (55-59) 53 kg,Joni Siplon,50,28,-31,-31,38,41,44,28,44,72
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 63 kg,A. Isabelle Miller,62.75,-60,-60,-63,-70,70,-77,0,70,70
+2016 National Masters Championship,2016-04-03,Women's Masters (65-69) 63 kg,Carol Adams,62.55,28,29,30,38,40,-42,30,40,70
+2016 National Masters Championship,2016-04-03,Women's Masters (65-69) 69 kg,Patsy Marshall,66.75,29,-30,30,36,38,-42,30,38,68
+2016 National Masters Championship,2016-04-03,Women's Masters (40-44) 53 kg,Carolyn Jones,52.45,-51,-51,-51,64,66,-68,0,66,66
+2016 National Masters Championship,2016-04-03,Women's Masters (50-54) 58 kg,Elizabeth Sanchez Pena,56.1,26,-28,-28,32,37,-41,26,37,63
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Joseph Quinn,80.4,58,-63,-63,-75,-75,-75,58,0,58
+2016 National Masters Championship,2016-04-03,Women's Masters (75+) +75 kg,Marilyn Munkres,85.6,22,-25,-25,30,33,35,22,35,57
+2016 National Masters Championship,2016-04-03,Women's Masters (70-74) 69 kg,Barbara Boyer,65.65,23,24,25,28,30,32,25,32,57
+2016 National Masters Championship,2016-04-03,Women's Masters (65-69) +75 kg,Betty Fahrer,92.55,25,26,27,30,-35,-35,27,30,57
+2016 National Masters Championship,2016-04-03,Women's Masters (65-69) 58 kg,Madeline Chen,56.75,24,-25,-25,30,32,-33,24,32,56
+2016 National Masters Championship,2016-04-03,Women's Masters (75+) 53 kg,Janis McBee,50.75,-20,-20,20,26,-28,28,20,28,48
+2016 National Masters Championship,2016-04-03,Women's Masters (55-59) 63 kg,Denise Meanix,61.6,48,-52,-52,-52,-52,0,48,0,48
+2016 National Masters Championship,2016-04-03,Women's Masters (55-59) 58 kg,Joanne Musa,57.95,-46,47,-49,-57,-57,-57,47,0,47
+2016 National Masters Championship,2016-04-03,Open Men's 85 kg,Patrick Baldwin,81.79,-78,-78,-78,0,0,0,0,0,0
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 63 kg,Katie Briggs,62.12,-38,-38,-38,-50,0,0,0,0,0
+2016 National Masters Championship,2016-04-03,Open Men's 94 kg,James Gold,92.65,-100,-100,-100,-128,-128,0,0,0,0
+2016 National Masters Championship,2016-04-03,Women's Masters (35-39) 75 kg,Tracy Hernandez,74.4,-58,-58,-60,-73,-77,-77,0,0,0
+2016 National Masters Championship,2016-04-03,Open Men's 77 kg,Robert Thomas,75.8,-27,0,0,-40,-40,-40,0,0,0

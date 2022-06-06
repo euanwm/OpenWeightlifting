@@ -1,0 +1,67 @@
+meet,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+2020 Oklahoma Open,2020-02-22,Open Men's +109kg,Joshua Morgan,113.8,136,140,-145,-165,-171,171,140,171,311
+2020 Oklahoma Open,2020-02-22,Men's Masters (35-39) 96kg,Timothy Hearn,95.1,-115,115,-120,-145,-145,145,115,145,260
+2020 Oklahoma Open,2020-02-22,Men's 16-17 Age Group +102kg,Xander Parsons,119.8,105,108,110,125,132,140,110,140,250
+2020 Oklahoma Open,2020-02-22,Open Men's 81kg,Parker Foster,77,102,105,-114,-134,-138,138,105,138,243
+2020 Oklahoma Open,2020-02-22,Open Men's 102kg,John McGowan,98.5,100,105,107,-125,125,-130,107,125,232
+2020 Oklahoma Open,2020-02-22,Men's Masters (35-39) 81kg,Toshiro Toyama,73,101,-104,105,120,-124,-125,105,120,225
+2020 Oklahoma Open,2020-02-22,Open Men's 96kg,Daniel Smith,93.7,100,-103,103,115,118,121,103,121,224
+2020 Oklahoma Open,2020-02-22,Open Men's 89kg,Austin Harvanek,88,92,96,-100,118,-123,124,96,124,220
+2020 Oklahoma Open,2020-02-22,Open Men's 89kg,Nicholas Chissoe,83.5,97,-100,100,110,115,-120,100,115,215
+2020 Oklahoma Open,2020-02-22,Men's Masters (40-44) 81kg,Cade Pearson,78.2,-85,85,91,115,120,-124,91,120,211
+2020 Oklahoma Open,2020-02-22,Open Men's 89kg,Harrison Bretz,82.9,90,93,-95,108,-112,112,93,112,205
+2020 Oklahoma Open,2020-02-22,Open Men's 81kg,Caleb Griffin,79.3,75,80,86,-102,106,-112,86,106,192
+2020 Oklahoma Open,2020-02-22,Open Men's 81kg,Brandon Willis,77.8,80,84,86,100,105,-110,86,105,191
+2020 Oklahoma Open,2020-02-22,Junior Men's 81kg,seth long,79.3,-80,-80,80,100,105,110,80,110,190
+2020 Oklahoma Open,2020-02-22,Men's Masters (35-39) 73kg,Jerry Banzet,71.4,82,85,-88,-100,102,-106,85,102,187
+2020 Oklahoma Open,2020-02-22,Men's Masters (50-54) 102kg,Shane Smailey,98.1,70,-76,76,100,105,-110,76,105,181
+2020 Oklahoma Open,2020-02-22,Junior Men's 73kg,Zakary Knight,70.9,72,75,77,95,98,100,77,100,177
+2020 Oklahoma Open,2020-02-22,Open Women's +87kg,Lacie Hickey,102.4,65,68,70,90,95,100,70,100,170
+2020 Oklahoma Open,2020-02-22,Open Women's 55kg,Caroline Essex,53.4,70,74,-77,90,-94,95,74,95,169
+2020 Oklahoma Open,2020-02-22,Open Women's 59kg,Elizabeth Le,58.3,70,72,74,89,92,95,74,95,169
+2020 Oklahoma Open,2020-02-22,Men's Masters (40-44) 73kg,Albert Smith,72,64,67,70,87,91,97,70,97,167
+2020 Oklahoma Open,2020-02-22,Open Men's 89kg,Kyle Meyers,87.2,60,66,72,86,-92,-93,72,86,158
+2020 Oklahoma Open,2020-02-22,Women's Masters (35-39) 64kg,Michele Oller,63.4,60,64,67,79,83,-86,67,83,150
+2020 Oklahoma Open,2020-02-22,Men's Masters (60-64) 89kg,Timothy Rodgers,87.2,59,61,63,81,-84,87,63,87,150
+2020 Oklahoma Open,2020-02-22,Men's Masters (50-54) 89kg,Jeff Bryant,84.5,57,59,61,80,84,-89,61,84,145
+2020 Oklahoma Open,2020-02-22,Women's Masters (35-39) 81kg,Molly Pearson,80.5,56,59,61,75,79,81,61,81,142
+2020 Oklahoma Open,2020-02-22,Men's Masters (40-44) 73kg,Nicholas Davis,70.8,-53,55,61,74,-78,-78,61,74,135
+2020 Oklahoma Open,2020-02-22,Open Women's 76kg,Shelby Pendley,74.9,51,53,-57,76,79,-83,53,79,132
+2020 Oklahoma Open,2020-02-22,Open Men's 89kg,SHEAFFER SMITH,88.3,-97,-97,-101,125,130,-137,0,130,130
+2020 Oklahoma Open,2020-02-22,Men's Masters (60-64) 81kg,David Moore,80.1,50,-53,53,72,-76,76,53,76,129
+2020 Oklahoma Open,2020-02-22,Women's 16-17 Age Group 64kg,Karlee Carrouth,60.9,54,56,58,66,68,70,58,70,128
+2020 Oklahoma Open,2020-02-22,Junior Women's 64kg,Josie Pruett,61.5,44,47,50,68,73,76,50,76,126
+2020 Oklahoma Open,2020-02-22,Women's Masters (50-54) 64kg,Deidre Mooney,63.99,44,47,50,63,66,69,50,69,119
+2020 Oklahoma Open,2020-02-22,Women's Masters (50-54) 71kg,Deidre Mooney,64,44,47,50,63,66,69,50,69,119
+2020 Oklahoma Open,2020-02-22,Open Women's 81kg,Abby Boon,79.4,47,49,51,65,68,-70,51,68,119
+2020 Oklahoma Open,2020-02-22,Open Women's 59kg,Eunisa Lindsey,58.3,48,50,-53,-64,65,-70,50,65,115
+2020 Oklahoma Open,2020-02-22,Open Women's 59kg,Candelaria Tipton,56.6,45,-48,-51,68,-72,-72,45,68,113
+2020 Oklahoma Open,2020-02-22,Men's Masters (35-39) +109kg,Matt Biscoe,118,-107,110,-115,0,0,0,110,0,110
+2020 Oklahoma Open,2020-02-22,Open Women's 55kg,Kristen Rhoads,54.6,45,48,50,55,57,-60,50,57,107
+2020 Oklahoma Open,2020-02-22,Open Women's 64kg,Madison Motil,61.8,40,-45,-45,60,64,66,40,66,106
+2020 Oklahoma Open,2020-02-22,Open Women's 76kg,Sarah Smith,75.8,-45,-45,45,58,61,-64,45,61,106
+2020 Oklahoma Open,2020-02-22,Open Women's 76kg,kALEIGH WEST,74.2,40,43,45,60,-63,-64,45,60,105
+2020 Oklahoma Open,2020-02-22,Open Women's 81kg,Summer Nichols,79.6,44,46,-48,54,56,-60,46,56,102
+2020 Oklahoma Open,2020-02-22,Open Women's 64kg,Brianna Morrison,62.2,43,44,45,54,55,56,45,56,101
+2020 Oklahoma Open,2020-02-22,Men's 14-15 Age Group 81kg,Cade Cink,74.6,-45,47,49,-52,52,-56,49,52,101
+2020 Oklahoma Open,2020-02-22,Open Women's 81kg,Anna Lopez,77.3,-45,45,-47,55,-58,-58,45,55,100
+2020 Oklahoma Open,2020-02-22,Men's Masters (65-69) 81kg,David Stejskal,80.6,-40,40,42,52,55,58,42,58,100
+2020 Oklahoma Open,2020-02-22,Open Women's 64kg,Cicely Johnson,61.8,40,43,-46,52,55,-57,43,55,98
+2020 Oklahoma Open,2020-02-22,Women's Masters (40-44) 71kg,Jeannie Smalygo,70.9,35,40,-44,50,-54,56,40,56,96
+2020 Oklahoma Open,2020-02-22,Open Men's 96kg,Zachary Catella,94.9,-76,-76,-76,86,90,95,0,95,95
+2020 Oklahoma Open,2020-02-22,Women's 16-17 Age Group 55kg,Sidney Erwin,52.7,37,38,40,47,50,54,40,54,94
+2020 Oklahoma Open,2020-02-22,Women's 16-17 Age Group 55kg,Katelyn Beres,52.1,35,37,-39,48,50,54,37,54,91
+2020 Oklahoma Open,2020-02-22,Men's 14-15 Age Group 89kg,Cheii Larney,87.9,34,37,40,45,48,50,40,50,90
+2020 Oklahoma Open,2020-02-22,Men's 14-15 Age Group 73kg,Brody Shuman,71.6,35,37,40,45,47,48,40,48,88
+2020 Oklahoma Open,2020-02-22,Women's 13 Under Age Group 59kg,Brinley Jackson,55,35,37,39,43,45,47,39,47,86
+2020 Oklahoma Open,2020-02-22,Women's Masters (35-39) 59kg,Nicki Ingram,56.3,32,35,37,47,49,-51,37,49,86
+2020 Oklahoma Open,2020-02-22,Open Women's 49kg,Jenna Hartman,45.6,30,-33,35,45,46,47,35,47,82
+2020 Oklahoma Open,2020-02-22,Men's 14-15 Age Group 81kg,Carter Brown,74.9,33,35,37,42,44,-45,37,44,81
+2020 Oklahoma Open,2020-02-22,Men's Masters (45-49) +109kg,Matthew Davidson,114.2,75,-77,79,-100,-100,-100,79,0,79
+2020 Oklahoma Open,2020-02-22,Women's 14-15 Age Group 76kg,Hayden Brandon,74.7,35,37,-38,37,39,41,37,41,78
+2020 Oklahoma Open,2020-02-22,Women's Masters (60-64) 55kg,Carrie Burrows,53.4,25,-27,27,35,37,38,27,38,65
+2020 Oklahoma Open,2020-02-22,Women's 13 Under Age Group +64kg,Isabella Wilhelm,67.9,20,23,26,33,-35,35,26,35,61
+2020 Oklahoma Open,2020-02-22,Women's 13 Under Age Group 49kg,Claire Hoel,46.6,20,22,25,32,-35,35,25,35,60
+2020 Oklahoma Open,2020-02-22,Women's 13 Under Age Group 59kg,Peyton Adee,57.1,25,26,-27,30,33,-34,26,33,59
+2020 Oklahoma Open,2020-02-22,Women's 13 Under Age Group 40kg,Hadley Parsons,38.8,23,25,27,25,28,30,27,30,57
+2020 Oklahoma Open,2020-02-22,Women's 13 Under Age Group 36kg,Joie Jackson,34.7,12,14,15,16,18,20,15,20,35

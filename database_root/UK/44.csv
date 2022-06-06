@@ -1,0 +1,45 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+2017 LSE Series 3,2017-07-22,Men's Senior 105Kg,Forrester Osei,94.1,-140,140,-145,175,181,-185,140,181,321
+2017 LSE Series 3,2017-07-22,Men's Junior Under 20 77Kg,Chris Murray,74.9,118,123,0,135,0,0,123,135,258
+2017 LSE Series 3,2017-07-22,Men's Senior 94Kg,Darren Hotten,92.7,109,113,-118,140,145,-147,113,145,258
+2017 LSE Series 3,2017-07-22,Men's Senior 105Kg,Henry Woodason,100.2,112,-116,-120,130,-140,-146,112,130,242
+2017 LSE Series 3,2017-07-22,Men's Senior 85Kg,Thomas Leys,83.1,102,105,-108,130,-134,0,105,130,235
+2017 LSE Series 3,2017-07-22,Men's Senior 105Kg,Tyler Attree,102.4,100,-105,-108,-130,130,-135,100,130,230
+2017 LSE Series 3,2017-07-22,Men's Senior 69Kg,Michael Pennington,68.9,90,93,96,120,123,126,96,126,222
+2017 LSE Series 3,2017-07-22,Men's Senior 77Kg,Elliot Hooker,75.5,88,-91,-91,110,115,-119,88,115,203
+2017 LSE Series 3,2017-07-22,Men's Senior 105Kg,Richard Turner,102.6,-88,88,-92,107,111,-115,88,111,199
+2017 LSE Series 3,2017-07-22,Men's Junior Under 20 69Kg,DEIVID SUZANSKIJ,63.3,75,80,83,93,98,102,83,102,185
+2017 LSE Series 3,2017-07-22,Men's Senior 85Kg,Joe Kelly,82,77,-80,80,95,100,102,80,102,182
+2017 LSE Series 3,2017-07-22,Men's Senior 85Kg,Lee Adams,77.6,76,-81,81,98,-103,-103,81,98,179
+2017 LSE Series 3,2017-07-22,Men's Senior 94Kg,Paul Weidemann,91.3,-75,75,-78,-93,95,100,75,100,175
+2017 LSE Series 3,2017-07-22,Men's Youth Under 17 77Kg,Luke Nicholls,71.4,70,73,76,90,94,98,76,98,174
+2017 LSE Series 3,2017-07-22,Men's Senior 62Kg,Luke Bennett,59.8,70,-73,73,92,95,-98,73,95,168
+2017 LSE Series 3,2017-07-22,Women's Senior 75Kg,Joanna Howe,70.1,58,61,-65,80,85,90,61,90,151
+2017 LSE Series 3,2017-07-22,Men's Youth Under 15 69Kg,Jacob Finnigan,68.4,58,61,65,65,72,80,65,80,145
+2017 LSE Series 3,2017-07-22,Women's Senior 69Kg,Veera Hawkins,65.3,58,62,-64,70,-75,75,62,75,137
+2017 LSE Series 3,2017-07-22,Women's Senior 69Kg,Elaine Sims,68.3,54,57,-60,76,80,-82,57,80,137
+2017 LSE Series 3,2017-07-22,Women's Senior 69Kg,Courtney Punyer,65.8,-54,54,57,76,80,-82,57,80,137
+2017 LSE Series 3,2017-07-22,Men's Youth Under 17 85Kg,Arran LATEWARD,85,-58,58,60,68,73,77,60,77,137
+2017 LSE Series 3,2017-07-22,Women's Junior Under 20 58Kg,Sky Norris,55.3,53,56,-60,76,80,-82,56,80,136
+2017 LSE Series 3,2017-07-22,Women's Senior 63Kg,Catherine Finch,62.1,53,56,59,70,74,-78,59,74,133
+2017 LSE Series 3,2017-07-22,Women's Junior Under 20 90Kg,Katie Drewett,77.7,50,59,60,65,-70,72,60,72,132
+2017 LSE Series 3,2017-07-22,Women's Senior 69Kg,Siobhan Gillgrass,69,-52,52,57,68,71,-78,57,71,128
+2017 LSE Series 3,2017-07-22,Women's Senior 58Kg,Haylene Ryan-Causer,57.4,54,57,-60,68,-72,-72,57,68,125
+2017 LSE Series 3,2017-07-22,Women's Senior 63Kg,Gilda Trapani,60.7,51,54,-56,65,68,-71,54,68,122
+2017 LSE Series 3,2017-07-22,Men's Youth Under 17 85Kg,Rodolfo Pertudo,84.4,48,53,58,60,64,-68,58,64,122
+2017 LSE Series 3,2017-07-22,Women's Senior 69Kg,Rebecca Francis,64.2,50,-53,-53,65,68,70,50,70,120
+2017 LSE Series 3,2017-07-22,Women's Senior 69Kg,Zoë Freeman,67.9,49,-51,51,62,-65,65,51,65,116
+2017 LSE Series 3,2017-07-22,Women's Senior 58Kg,Victoria Long,57.3,-47,47,-49,64,68,-71,47,68,115
+2017 LSE Series 3,2017-07-22,Women's Senior 58Kg,Jade Ramsay-Overall,57.1,42,45,48,60,62,66,48,66,114
+2017 LSE Series 3,2017-07-22,Women's Senior 63Kg,Ana Baez,60.4,-47,-49,50,58,-62,62,50,62,112
+2017 LSE Series 3,2017-07-22,Women's Senior 69Kg,Grace Spencer,64.9,42,45,48,55,62,-67,48,62,110
+2017 LSE Series 3,2017-07-22,Women's Junior Under 20 63Kg,Chloe Hargreaves,61.6,40,44,48,49,53,59,48,59,107
+2017 LSE Series 3,2017-07-22,Men's Senior 94Kg,Ryan Lateward,93.3,100,-105,107,-130,-130,-130,107,0,107
+2017 LSE Series 3,2017-07-22,Women's Senior 63Kg,Megan Douglas,61.4,40,45,-50,60,-65,-65,45,60,105
+2017 LSE Series 3,2017-07-22,Men's Senior 94Kg,Rikki Hawkins,93.5,-105,105,-108,-130,-130,-130,105,0,105
+2017 LSE Series 3,2017-07-22,Women's Senior 53Kg,Michaela Shaw,52.5,38,40,42,57,59,61,42,61,103
+2017 LSE Series 3,2017-07-22,Women's Youth Under 15 48Kg,Mia Keegan,46.9,40,42,44,-48,48,51,44,51,95
+2017 LSE Series 3,2017-07-22,Men's Senior 69Kg,Artem Alexandrov,68.5,85,90,-96,-115,-120,-120,90,0,90
+2017 LSE Series 3,2017-07-22,Women's Senior 53Kg,Abigail Constante,51.8,-32,32,-35,42,44,-46,32,44,76
+2017 LSE Series 3,2017-07-22,Women's Senior 58Kg,Sarah Hilton,54.3,47,-49,-49,0,0,0,47,0,47
+2017 LSE Series 3,2017-07-22,Men's Senior 105Kg,Christopher Ryan,100.4,-85,-85,-85,0,0,0,0,0,0

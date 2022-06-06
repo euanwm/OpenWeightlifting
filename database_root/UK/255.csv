@@ -1,0 +1,44 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Xmas Bash,2019-12-14,Men's Senior 109+Kg,Jordan Vine,117.8,130,-135,135,160,165,-170,135,165,300
+Xmas Bash,2019-12-14,Men's Senior 81Kg,Jamal Isaac-Shah,79.4,117,121,-126,-157,-160,160,121,160,281
+Xmas Bash,2019-12-14,Men's Under 23 89Kg,Oliver Bracher,86,140,108,-112,140,-145,-148,140,140,280
+Xmas Bash,2019-12-14,Men's Senior 96Kg,Ronald Karim,94.25,113,118,121,137,141,144,121,144,265
+Xmas Bash,2019-12-14,Men's Senior 96Kg,Charlie Earl,94.15,96,101,105,133,137,-140,105,137,242
+Xmas Bash,2019-12-14,Men's Junior Under 20 73Kg,Skip Callard,69.45,-101,103,-107,134,138,-142,103,138,241
+Xmas Bash,2019-12-14,Men's Senior 89Kg,Mitchell Mason,81.25,95,100,105,120,125,130,105,130,235
+Xmas Bash,2019-12-14,Men's Senior 102Kg,Alexander Burbridge,98.6,93,98,-103,125,132,-137,98,132,230
+Xmas Bash,2019-12-14,Men's Junior Under 20 102Kg,Eron Murray,101.2,90,95,97,116,121,127,97,127,224
+Xmas Bash,2019-12-14,Men's Senior 89Kg,Scott Ward,84.55,90,-97,97,117,-125,126,97,126,223
+Xmas Bash,2019-12-14,Men's Senior 89Kg,Kiran Birtwistle,85.15,90,-97,97,117,124,-131,97,124,221
+Xmas Bash,2019-12-14,Men's Under 23 89Kg,Oliver Hernández Fernández,84,92,96,100,115,120,-125,100,120,220
+Xmas Bash,2019-12-14,Men's Senior 89Kg,Sam Youseman,88.85,87,92,95,117,-122,125,95,125,220
+Xmas Bash,2019-12-14,Men's Under 23 67Kg,Kin Liu,63.5,90,94,98,115,-119,120,98,120,218
+Xmas Bash,2019-12-14,Men's Senior 81Kg,George Kinnell,80.25,82,87,91,118,123,126,91,126,217
+Xmas Bash,2019-12-14,Men's Senior 81Kg,Adam Pabani,79.55,95,-100,-100,-115,116,-126,95,116,211
+Xmas Bash,2019-12-14,Men's Senior 89Kg,Matthew Woodward,87.75,90,-93,-94,111,116,121,90,121,211
+Xmas Bash,2019-12-14,Men's Senior 73Kg,Marcus Tan,70.8,87,91,94,101,107,-111,94,107,201
+Xmas Bash,2019-12-14,Men's Senior 81Kg,Marco Necchi-Ghiri,80.05,83,87,90,102,110,-114,90,110,200
+Xmas Bash,2019-12-14,Men's Senior 73Kg,Simon Hayes,72.05,-83,83,87,107,112,-115,87,112,199
+Xmas Bash,2019-12-14,Men's Under 23 81Kg,Kieran Moore,79.2,85,89,92,97,101,107,92,107,199
+Xmas Bash,2019-12-14,Men's Under 23 81Kg,Matthew Dispirito,80.9,-83,83,86,106,110,-114,86,110,196
+Xmas Bash,2019-12-14,Men's Senior 81Kg,Ahsan Khan,80,80,85,-89,105,110,-115,85,110,195
+Xmas Bash,2019-12-14,Men's Senior 96Kg,Krzysztof Piatkowski,95.8,80,83,85,-106,106,110,85,110,195
+Xmas Bash,2019-12-14,Women's Senior 81Kg,Rayen Cupid,77.66,83,86,-90,103,-106,-107,86,103,189
+Xmas Bash,2019-12-14,Men's Under 23 67Kg,Duc Trinh,66.45,80,82,-84,100,104,-108,82,104,186
+Xmas Bash,2019-12-14,Men's Junior Under 20 81Kg,Kent Toha,74.2,70,74,78,-100,100,105,78,105,183
+Xmas Bash,2019-12-14,Women's Senior 87+Kg,Pia Kemppi,112.24,68,-72,72,91,-95,95,72,95,167
+Xmas Bash,2019-12-14,Men's Senior 73Kg,Andrew McKenna],72.2,58,-61,61,78,81,83,61,83,144
+Xmas Bash,2019-12-14,Women's Senior 64Kg,Silvia Szabo,63.66,57,60,-64,78,83,-85,60,83,143
+Xmas Bash,2019-12-14,Women's Senior 59Kg,Sky Norris,57.54,55,57,61,68,71,75,61,75,136
+Xmas Bash,2019-12-14,Women's Senior 55Kg,Samantha Briones,53.05,57,-61,-62,71,-75,75,57,75,132
+Xmas Bash,2019-12-14,Men's Under 23 73Kg,Thomas Adler,71.95,40,0,0,87,-90,-90,40,87,127
+Xmas Bash,2019-12-14,Women's Senior 71Kg,Cerys McCorry,70.63,48,-50,50,65,-68,-68,50,65,115
+Xmas Bash,2019-12-14,Women's Senior 81Kg,Taye Le Monnier,78.43,45,48,50,-55,55,-60,50,55,105
+Xmas Bash,2019-12-14,Women's Senior 49Kg,Naomi Kuyé,47.4,41,46,-50,51,57,-62,46,57,103
+Xmas Bash,2019-12-14,Women's Senior 49Kg,Christina Higgins,48.7,35,38,40,56,-59,-60,40,56,96
+Xmas Bash,2019-12-14,Women's Senior 59Kg,Catherine Raftery,56.32,39,-42,42,50,-54,-55,42,50,92
+Xmas Bash,2019-12-14,Women's Senior 49Kg,Cheryl Crosbie,48.31,35,38,-40,45,48,-50,38,48,86
+Xmas Bash,2019-12-14,Men's Senior 73Kg,Gerard Lee,71.85,85,-88,-88,-110,-110,-100,85,0,85
+Xmas Bash,2019-12-14,Women's Senior 71Kg,Tsatska Enkhbayar,65.32,59,-61,-61,-74,-74,-74,59,0,59
+Xmas Bash,2019-12-14,Men's Junior Under 20 89Kg,Matt Hill,87.55,-90,-90,0,0,0,0,0,0,0
+Xmas Bash,2019-12-14,Men's Senior 81Kg,Henry Friend,79.75,-96,-96,-96,0,0,0,0,0,0

@@ -1,0 +1,85 @@
+meet,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+MIA Classic,2014-07-14,Open Men's 105 kg,Andrew Davis,104.6,140,145,150,185,193,200,150,200,350
+MIA Classic,2014-07-14,Open Men's 85 kg,Leonardo Hernandez,78.6,136,140,142,165,170,173,142,173,315
+MIA Classic,2014-07-14,Open Men's 105 kg,Brandon Jackson,105,130,135,141,160,161,165,141,165,306
+MIA Classic,2014-07-14,Open Men's 94 kg,Brad Bouthot,93.9,130,130,140,155,160,166,140,166,306
+MIA Classic,2014-07-14,Open Men's 105 kg,Reynaldo Fernandez,97.2,116,121,126,148,153,156,126,156,282
+MIA Classic,2014-07-14,Open Men's 77 kg,Blake Caulder,75.8,105,109,113,143,153,153,113,153,266
+MIA Classic,2014-07-14,Open Men's 94 kg,Paul Smith,92.5,115,115,120,140,145,145,120,145,265
+MIA Classic,2014-07-14,Open Men's 105 kg,Luis Lopez,103.4,105,110,115,135,140,147,115,147,262
+MIA Classic,2014-07-14,Open Men's 94 kg,Adrien Tapia,91.7,109,109,114,143,148,148,114,148,262
+MIA Classic,2014-07-14,Open Men's 105 kg,Angelo Castricone,94,100,105,105,140,146,146,105,146,251
+MIA Classic,2014-07-14,Open Men's 77 kg,Andrew Gomez-Rivera,75.6,102,105,105,135,141,143,105,143,248
+MIA Classic,2014-07-14,Open Men's 69 kg,Austin Rodriguez,68,100,102,105,132,140,140,105,140,245
+MIA Classic,2014-07-14,Open Men's 94 kg,Jason Anderson,92.8,102,107,107,122,126,129,107,129,236
+MIA Classic,2014-07-14,Open Men's 77 kg,Tommy Rodriguez,76.5,94,97,98,125,130,135,98,135,233
+MIA Classic,2014-07-14,Open Men's 94 kg,Matthew Brewster,92.6,98,100,103,120,125,130,103,130,233
+MIA Classic,2014-07-14,Open Men's 85 kg,Ariel Adorna,84.1,80,90,100,120,120,132,100,132,232
+MIA Classic,2014-07-14,Open Men's 69 kg,Angel Rodriguez,68.7,90,95,98,128,132,132,98,132,230
+MIA Classic,2014-07-14,Open Men's 77 kg,Kevin Burger,76.9,95,100,104,118,123,126,104,126,230
+MIA Classic,2014-07-14,Open Men's 94 kg,Alex Masson,90.7,95,100,100,125,125,130,100,130,230
+MIA Classic,2014-07-14,Open Men's 77 kg,Justin Kennedy,72.4,91,95,98,120,125,130,98,130,228
+MIA Classic,2014-07-14,Open Men's+105 kg,Zeffrey Nikollaj,109.1,80,88,88,125,125,140,88,140,228
+MIA Classic,2014-07-14,Open Men's 85 kg,Ted Dreaver,84,95,99,105,115,122,122,105,122,227
+MIA Classic,2014-07-14,Open Men's+105 kg,Juan Ruiz,109.2,88,95,95,115,122,130,95,130,225
+MIA Classic,2014-07-14,Open Men's 77 kg,Yandy Roman,73.2,90,95,96,120,125,127,96,127,223
+MIA Classic,2014-07-14,Open Men's 77 kg,John Kraeger,74.8,90,92,100,112,118,122,100,122,222
+MIA Classic,2014-07-14,Open Men's 94 kg,Carlos Arrocha,92.3,93,93,93,120,125,129,93,129,222
+MIA Classic,2014-07-14,Open Men's 77 kg,Carlos Arias,76.2,95,98,98,120,123,123,98,123,221
+MIA Classic,2014-07-14,Open Men's 77 kg,Scott Grondin,74.6,86,93,95,115,120,125,95,125,220
+MIA Classic,2014-07-14,Open Men's 94 kg,Bryan Maldonado,90,92,95,100,115,115,120,100,120,220
+MIA Classic,2014-07-14,Open Men's 77 kg,Carlos Hernandez,76.2,92,92,92,115,125,125,92,125,217
+MIA Classic,2014-07-14,Open Men's 94 kg,Steven Wang,88.5,95,95,95,113,118,120,95,120,215
+MIA Classic,2014-07-14,Open Men's 69 kg,Lyall Irwin,67.6,90,90,94,113,118,119,94,119,213
+MIA Classic,2014-07-14,Open Men's 94 kg,Wallace Frigon,86.5,85,90,95,105,110,115,95,115,210
+MIA Classic,2014-07-14,Open Men's 77 kg,Christopher Betancourt,73.9,87,92,92,100,110,113,92,113,205
+MIA Classic,2014-07-14,Open Men's 105 kg,George Wisdom,104.9,75,85,95,102,102,107,95,107,202
+MIA Classic,2014-07-14,Open Men's 77 kg,William Prince,71.9,82,85,90,105,105,110,90,110,200
+MIA Classic,2014-07-14,Open Men's 69 kg,Mikey Hernandez,66.8,80,85,85,105,110,112,85,112,197
+MIA Classic,2014-07-14,Open Men's 85 kg,Erik Bunten,84.9,80,85,90,100,105,107,90,107,197
+MIA Classic,2014-07-14,Open Men's 105 kg,Dennis Tolentino,98.5,80,85,85,107,107,112,85,112,197
+MIA Classic,2014-07-14,Open Men's 77 kg,Alejandro Iglesias,71.5,85,90,90,105,105,105,90,105,195
+MIA Classic,2014-07-14,Open Men's 105 kg,Daniel Herweg,96.4,75,80,85,100,105,110,85,110,195
+MIA Classic,2014-07-14,Open Men's 69 kg,Luis Cofresi,67,73,77,82,102,104,109,82,109,191
+MIA Classic,2014-07-14,Open Men's 62 kg,Lazaro Rojas,60.2,75,80,85,95,100,105,85,105,190
+MIA Classic,2014-07-14,Open Men's 69 kg,Jake Purcell,66.2,75,79,79,105,110,110,79,110,189
+MIA Classic,2014-07-14,Open Men's 77 kg,Daniel Fetter,75.7,80,82,85,98,100,102,85,102,187
+MIA Classic,2014-07-14,Open Men's 77 kg,Jeff Dempsey,75.8,75,79,83,102,102,103,83,103,186
+MIA Classic,2014-07-14,Open Men's 77 kg,Yunel Perez,73.4,75,80,80,102,105,105,80,105,185
+MIA Classic,2014-07-14,Open Men's 69 kg,Javier Zelaya,66.1,75,78,78,100,102,105,78,105,183
+MIA Classic,2014-07-14,Open Women's 63 kg,Mahassen Paiva,61.9,73,77,80,93,99,102,80,102,182
+MIA Classic,2014-07-14,Open Men's 77 kg,Derek Perez,72.2,75,75,79,100,102,102,79,102,181
+MIA Classic,2014-07-14,Open Men's 69 kg,Arian Adorna,68.4,70,77,80,90,100,100,80,100,180
+MIA Classic,2014-07-14,Open Women's 69 kg,Laura Davie,68.4,70,73,75,91,96,102,75,102,177
+MIA Classic,2014-07-14,Open Men's 69 kg,Michael Velasquez,65.7,78,81,82,87,90,94,82,94,176
+MIA Classic,2014-07-14,Open Men's 69 kg,MANSOOR ALSUGHAYER,66.6,70,70,74,91,93,97,74,97,171
+MIA Classic,2014-07-14,Women's Masters (35-39) +75 kg,Jessica Calvino,106.8,70,74,78,84,89,92,78,92,170
+MIA Classic,2014-07-14,Open Women's +75 Kg,Samantha Seco,81,61,65,68,80,90,95,68,95,163
+MIA Classic,2014-07-14,Open Men's 77 kg,Joseph Robey,71.3,60,64,68,80,84,88,68,88,156
+MIA Classic,2014-07-14,Open Women's 48 kg,Briana Krass,46.8,57,61,65,75,80,82,65,82,147
+MIA Classic,2014-07-14,Women's Masters (35-39) 58 kg,Rachel Batista,56.9,60,63,65,75,79,82,65,82,147
+MIA Classic,2014-07-14,Open Women's 75 kg,Julissa Gil,72.1,54,57,60,75,80,84,60,84,144
+MIA Classic,2014-07-14,Open Women's 75 kg,Chelsea DeLois,73.4,57,61,68,71,71,71,68,71,139
+MIA Classic,2014-07-14,Open Women's 53 kg,Hannah Richards,53,55,55,60,70,76,76,60,76,136
+MIA Classic,2014-07-14,Open Women's 63 kg,Heidi Meyers,62.2,57,59,61,70,72,74,61,74,135
+MIA Classic,2014-07-14,Open Women's 58 kg,Maria Viera,58,55,56,59,65,68,70,59,70,129
+MIA Classic,2014-07-14,Open Women's 69 kg,Stephanie Machin,66.6,48,50,50,65,71,78,50,78,128
+MIA Classic,2014-07-14,Open Women's 53 kg,Annalise Barberi,51.2,48,51,51,69,72,75,51,75,126
+MIA Classic,2014-07-14,Open Women's 69 kg,Cassie Peterinelli,67,50,53,55,62,65,70,55,70,125
+MIA Classic,2014-07-14,Open Women's 63 kg,Cristie Hernandez,62.5,48,51,53,60,64,70,53,70,123
+MIA Classic,2014-07-14,Open Women's +75 Kg,Yanaris Presilla,89.4,50,53,53,65,69,70,53,70,123
+MIA Classic,2014-07-14,Open Women's 69 kg,Ashley Roper,66.1,51,54,54,61,64,66,54,66,120
+MIA Classic,2014-07-14,Open Women's 58 kg,Silvia Gonzalez,57,45,50,53,60,63,64,53,64,117
+MIA Classic,2014-07-14,Open Women's +75 Kg,Anaily Gonzalez,86.2,47,47,47,66,66,69,47,69,116
+MIA Classic,2014-07-14,Open Women's 63 kg,Adriana Galera,62.6,43,45,50,55,60,64,50,64,114
+MIA Classic,2014-07-14,Women's 16-17 Age Group 63 kg,Sydney Rogoff,60.6,47,50,54,50,54,58,54,58,112
+MIA Classic,2014-07-14,Open Women's 75 kg,Andrea Jimenez,72.6,44,46,46,58,61,65,46,65,111
+MIA Classic,2014-07-14,Women's Masters (40-44) 63 kg,Ivette Carcas,61.3,45,47,48,56,59,62,48,62,110
+MIA Classic,2014-07-14,Open Women's 69 kg,Leighann Panico,65.6,47,47,50,45,50,55,50,55,105
+MIA Classic,2014-07-14,Open Women's +75 Kg,Dannah Ventresca,80.8,34,39,43,49,55,60,43,60,103
+MIA Classic,2014-07-14,Women's Masters (40-44) 75 kg,Andrea DiRico,74.7,34,39,43,52,55,58,43,58,101
+MIA Classic,2014-07-14,Open Men's 62 kg,Ernesto Milian,61.2,30,40,45,35,50,55,45,55,100
+MIA Classic,2014-07-14,Open Women's 69 kg,Yariana Perez,67,38,43,43,47,50,55,43,55,98
+MIA Classic,2014-07-14,Women's 14-15 Age Group 58 kg,Kirstyn Lynch,54.8,35,35,38,54,57,59,38,59,97
+MIA Classic,2014-07-14,Women's 14-15 Age Group 63 kg,Haley Zurita,62.1,29,31,32,29,31,32,32,32,64
+MIA Classic,2014-07-14,Women's 14-15 Age Group 44 kg,Natalya Concepcion,38.5,20,20,22,25,28,31,22,31,53

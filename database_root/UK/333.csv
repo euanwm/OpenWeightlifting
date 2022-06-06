@@ -1,0 +1,35 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Lift Me Up,2021-08-29,Men's Senior 109Kg,omar keshta,105.7,138,-143,-145,177,185,-190,138,185,323
+Lift Me Up,2021-08-29,Men's Senior 96Kg,Edmon avetisyan,94.8,-135,135,-142,170,176,-180,135,176,311
+Lift Me Up,2021-08-29,Men's Senior 81Kg,Chris Murray,80.8,137,141,-145,-167,169,-175,141,169,310
+Lift Me Up,2021-08-29,Men's Senior 96Kg,Edward Smale,91.7,132,137,-140,-160,-160,160,137,160,297
+Lift Me Up,2021-08-29,Men's Senior 67Kg,Gareth Evans,66.7,-120,120,-125,145,-150,-152,120,145,265
+Lift Me Up,2021-08-29,Men's Senior 67Kg,Haroon Siraj,66.9,110,-115,115,135,-139,-139,115,135,250
+Lift Me Up,2021-08-29,Men's Senior 89Kg,Christopher Russ,86.6,110,115,-120,130,-135,135,115,135,250
+Lift Me Up,2021-08-29,Men's Senior 89Kg,Kristian McPhee,81.1,103,107,111,-138,138,-146,111,138,249
+Lift Me Up,2021-08-29,Men's Senior 67Kg,Scoop Callard,66.7,96,99,102,131,135,139,102,139,241
+Lift Me Up,2021-08-29,Men's Masters (45-49) 109Kg,Nigel Bluff,108.9,103,-106,-106,-130,-130,130,103,130,233
+Lift Me Up,2021-08-29,Men's Under 23 102Kg,Taylor Probets,101.1,96,-100,100,114,118,-125,100,118,218
+Lift Me Up,2021-08-29,Men's Under 23 61Kg,Yegeun Ji,60.6,89,-93,93,115,119,123,93,123,216
+Lift Me Up,2021-08-29,Men's Under 23 67Kg,Skip Callard,66.8,90,96,0,115,0,0,96,115,211
+Lift Me Up,2021-08-29,Men's Senior 73Kg,Timothy Scrivener,73,-88,88,-91,104,-108,110,88,110,198
+Lift Me Up,2021-08-29,Men's Masters (35-39) 89Kg,Andrew Houston,83,78,81,84,100,104,107,84,107,191
+Lift Me Up,2021-08-29,Men's Under 23 89Kg,Oliver White,86,76,-81,-81,93,98,100,76,100,176
+Lift Me Up,2021-08-29,Women's Masters (35-39) 64Kg,Heather Burt,63.6,70,73,76,88,-92,92,76,92,168
+Lift Me Up,2021-08-29,Women's Senior 55Kg,Noorin Gulam,52.2,68,72,74,81,91,-96,74,91,165
+Lift Me Up,2021-08-29,Women's Senior 71Kg,Holly O'Shea,69.4,66,-69,70,86,90,94,70,94,164
+Lift Me Up,2021-08-29,Women's Senior 64Kg,Emma Pendle,61.6,65,69,-72,85,88,-91,69,88,157
+Lift Me Up,2021-08-29,Men's Senior 96Kg,Thomas Richardson,92.6,11,-114,-116,-145,-145,145,11,145,156
+Lift Me Up,2021-08-29,Women's Senior 81Kg,Charlotte Miles,78.8,58,62,-66,85,88,92,62,92,154
+Lift Me Up,2021-08-29,Women's Senior 49Kg,Hannah Powell,48.1,65,68,-70,85,-88,-88,68,85,153
+Lift Me Up,2021-08-29,Women's Under 23 71Kg,Eleanor Clemens,65.9,60,64,-67,80,84,-86,64,84,148
+Lift Me Up,2021-08-29,Women's Under 23 76Kg,Molly Jeffery,74.8,59,63,66,74,78,-81,66,78,144
+Lift Me Up,2021-08-29,Women's Masters (40-44) 64Kg,JOANNE CALVINO,63.5,56,59,61,76,80,82,61,82,143
+Lift Me Up,2021-08-29,Men's Masters (35-39) 81Kg,Thomas Laycock,80.5,50,55,60,70,75,-81,60,75,135
+Lift Me Up,2021-08-29,Women's Masters (40-44) 55Kg,Georgina Williams,54.2,56,58,-60,71,74,-76,58,74,132
+Lift Me Up,2021-08-29,Men's Senior 102Kg,Eric ODonnell,99.2,47,50,52,75,-80,-80,52,75,127
+Lift Me Up,2021-08-29,Women's Under 23 71Kg,Kody Nordqvist,69,52,-55,55,65,68,-70,55,68,123
+Lift Me Up,2021-08-29,Women's Masters (35-39) 64Kg,Hayley Saunders,63.7,45,49,-53,62,67,71,49,71,120
+Lift Me Up,2021-08-29,Women's Masters (35-39) 55Kg,Natalie Eyers,54.7,-51,-51,51,61,64,-68,51,64,115
+Lift Me Up,2021-08-29,Women's Masters (45-49) 76Kg,sara wallace,75.3,37,-40,40,53,57,61,40,61,101
+Lift Me Up,2021-08-29,Women's Junior Under 20 71Kg,Isabella Roberts,68.7,28,30,-33,-37,-37,0,30,0,30

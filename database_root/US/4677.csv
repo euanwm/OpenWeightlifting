@@ -1,0 +1,43 @@
+meet,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Storm Summer Slam,2021-08-14,Open Men's +109kg,George Silvestre,144.9,120,125,-130,160,170,-177,125,170,295
+Storm Summer Slam,2021-08-14,Open Men's 89kg,Jonathan Betancour,85.3,105,112,120,145,152,160,120,160,280
+Storm Summer Slam,2021-08-14,Open Men's 81kg,Noah Circelli,79.7,106,112,117,140,-145,-150,117,140,257
+Storm Summer Slam,2021-08-14,Open Men's 96kg,Peter Higuera,92.6,100,105,110,130,135,140,110,140,250
+Storm Summer Slam,2021-08-14,Open Men's 102kg,Montgomery Nicholas,101,100,105,-111,120,-125,127,105,127,232
+Storm Summer Slam,2021-08-14,Men's Masters (40-44) 89kg,Robert Stewart,87.7,96,-101,-103,-118,119,124,96,124,220
+Storm Summer Slam,2021-08-14,Open Men's 89kg,omar arzola,85.6,85,89,92,120,125,-130,92,125,217
+Storm Summer Slam,2021-08-14,Open Men's 67kg,Luis Eduardo Leal,67,83,87,-90,110,115,120,87,120,207
+Storm Summer Slam,2021-08-14,Men's Masters (45-49) 89kg,Randal Morales,86.3,80,84,89,101,106,110,89,110,199
+Storm Summer Slam,2021-08-14,Junior Men's 73kg,Aidan Crossman,70.8,78,-82,83,105,112,-117,83,112,195
+Storm Summer Slam,2021-08-14,Open Women's 71kg,Stephanie Rubio,69.3,82,-85,85,100,105,-110,85,105,190
+Storm Summer Slam,2021-08-14,Junior Men's 81kg,Daniel Austin,75.8,77,-82,82,102,-108,-108,82,102,184
+Storm Summer Slam,2021-08-14,Open Women's 76kg,Lauren Enkerud,74.3,77,80,82,94,98,-101,82,98,180
+Storm Summer Slam,2021-08-14,Open Women's 81kg,Nicole Moore,77.7,72,75,-80,97,102,-105,75,102,177
+Storm Summer Slam,2021-08-14,Men's Masters (50-54) 89kg,Glenn Gutheil,85.8,70,74,77,92,95,97,77,97,174
+Storm Summer Slam,2021-08-14,Men's Masters (45-49) 81kg,Michael Ben-Hain,80.7,73,-76,-76,91,-94,-94,73,91,164
+Storm Summer Slam,2021-08-14,Junior Men's 81kg,Allen Uzsinay,79.9,-63,63,67,-90,95,-98,67,95,162
+Storm Summer Slam,2021-08-14,Open Men's 81kg,Jaden Flanagan,79.5,60,66,-73,90,95,-100,66,95,161
+Storm Summer Slam,2021-08-14,Open Women's 64kg,Lisa Benitez,62.5,58,62,62,73,-78,80,62,80,142
+Storm Summer Slam,2021-08-14,Open Women's 64kg,Sabrina Agredo,63.6,60,-63,-64,80,-83,-83,60,80,140
+Storm Summer Slam,2021-08-14,Open Women's 81kg,Irene Berl,80.4,60,-63,-63,70,75,80,60,80,140
+Storm Summer Slam,2021-08-14,Open Women's 76kg,Janine Rubio,76,54,-57,59,65,70,75,59,75,134
+Storm Summer Slam,2021-08-14,Open Women's 55kg,Ashley Castillo,53.7,54,58,62,65,68,71,62,71,133
+Storm Summer Slam,2021-08-14,Men's Masters (45-49) 102kg,Matthew Gough,100.6,50,54,58,70,-74,74,58,74,132
+Storm Summer Slam,2021-08-14,Women's Masters (35-39) 71kg,Carol Arango,67.5,52,-56,58,63,68,73,58,73,131
+Storm Summer Slam,2021-08-14,Open Women's 76kg,Yadelis Barreiro,75.9,55,60,62,65,68,-71,62,68,130
+Storm Summer Slam,2021-08-14,Open Women's 87kg,Lauren Schreier,85.9,54,56,-59,68,-72,73,56,73,129
+Storm Summer Slam,2021-08-14,Women's Masters (35-39) 64kg,michelle libasci,63.8,51,55,-58,68,70,73,55,73,128
+Storm Summer Slam,2021-08-14,Open Women's 55kg,Yetsenia Rodriguez,54.7,-53,54,-57,63,67,-72,54,67,121
+Storm Summer Slam,2021-08-14,Open Women's 87kg,Jennetta George,87,-50,53,56,65,-70,-71,56,65,121
+Storm Summer Slam,2021-08-14,Open Women's 81kg,Gabriella Abreu,80.8,50,52,-56,63,66,-71,52,66,118
+Storm Summer Slam,2021-08-14,Open Women's 64kg,Alyssa Simmons,59.5,45,-50,50,60,63,65,50,65,115
+Storm Summer Slam,2021-08-14,Open Women's +87kg,daniela becerra,91.2,47,50,-55,65,-70,-71,50,65,115
+Storm Summer Slam,2021-08-14,Open Women's 55kg,Silvia Diaz,53.2,-50,-50,50,55,60,-63,50,60,110
+Storm Summer Slam,2021-08-14,Women's Masters (40-44) +87kg,Michelle George,101.3,40,45,48,56,61,-65,48,61,109
+Storm Summer Slam,2021-08-14,Women's Masters (40-44) +87kg,Natalie Persaud,102.6,40,44,-47,56,60,64,44,64,108
+Storm Summer Slam,2021-08-14,Open Women's 76kg,evelyn sosa,74.1,36,38,43,52,56,61,43,61,104
+Storm Summer Slam,2021-08-14,Open Women's 64kg,Yesenia Parrondo,63.9,40,43,-46,45,50,55,43,55,98
+Storm Summer Slam,2021-08-14,Men's Masters (45-49) 73kg,Carmelo Vazquez,72,64,68,72,-96,-96,-98,72,0,72
+Storm Summer Slam,2021-08-14,Men's 13 Under Age Group 36kg,Aidan Rivera,34.6,13,15,17,16,19,23,17,23,40
+Storm Summer Slam,2021-08-14,Men's 13 Under Age Group 36kg,Joshua Mejias,34.4,14,15,16,17,19,23,16,23,39
+Storm Summer Slam,2021-08-14,Men's 13 Under Age Group 32kg,Lex Albert,29.7,10,13,14,14,16,17,14,17,31

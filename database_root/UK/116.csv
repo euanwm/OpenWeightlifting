@@ -1,0 +1,53 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Lakeside Open 2018,2018-08-19,Men's Under 23 109Kg,Christopher Parnaby,104.5,110,-115,117,146,-151,151,117,151,268
+Lakeside Open 2018,2018-08-19,Men's Senior 102Kg,Troy Langdon,100.9,105,110,-115,131,136,142,110,142,252
+Lakeside Open 2018,2018-08-19,Men's Senior 96Kg,Thomas Bane,92.8,100,-103,103,123,-127,-127,103,123,226
+Lakeside Open 2018,2018-08-19,Men's Senior 96Kg,Andrew Varnham,91,83,87,92,117,124,-130,92,124,216
+Lakeside Open 2018,2018-08-19,Men's Senior 89Kg,Jack Roberts,84.1,85,90,95,110,116,-126,95,116,211
+Lakeside Open 2018,2018-08-19,Men's Senior 81Kg,Paul Fender,76,87,92,96,107,-114,-114,96,107,203
+Lakeside Open 2018,2018-08-19,Men's Senior 81Kg,Jamie Hope,74.5,80,-82,85,110,112,117,85,117,202
+Lakeside Open 2018,2018-08-19,Men's Senior 96Kg,Kamil Kucinski,89.4,78,81,85,98,102,106,85,106,191
+Lakeside Open 2018,2018-08-19,Men's Under 23 96Kg,Declan Fields,90.8,82,-87,-87,100,104,108,82,108,190
+Lakeside Open 2018,2018-08-19,Men's Senior 89Kg,Ashley Walke,84.2,72,77,81,100,106,-109,81,106,187
+Lakeside Open 2018,2018-08-19,Men's Senior 81Kg,Henry Hussey,79.5,74,78,81,96,101,-108,81,101,182
+Lakeside Open 2018,2018-08-19,Men's Senior 73Kg,arfon roberts,70.9,76,81,-86,91,96,-102,81,96,177
+Lakeside Open 2018,2018-08-19,Men's Senior 96Kg,Oliver Easterbrook,94,71,74,77,95,99,-104,77,99,176
+Lakeside Open 2018,2018-08-19,Men's Senior 96Kg,Angus Cadden,93.5,65,70,75,-95,95,100,75,100,175
+Lakeside Open 2018,2018-08-19,Men's Junior Under 20 89Kg,Dominic Hatton-Woods,81.9,60,65,71,90,95,101,71,101,172
+Lakeside Open 2018,2018-08-19,Women's Senior 87Kg,Amy Johnson,82.2,60,66,71,87,93,100,71,100,171
+Lakeside Open 2018,2018-08-19,Men's Senior 81Kg,Marcus Nordemann,80.7,-70,70,-73,90,95,100,70,100,170
+Lakeside Open 2018,2018-08-19,Men's Senior 73Kg,Daniel Jeffries,68.5,75,-78,-79,83,86,90,75,90,165
+Lakeside Open 2018,2018-08-19,Men's Senior 81Kg,kristian Clarke,77.3,60,65,70,90,95,-100,70,95,165
+Lakeside Open 2018,2018-08-19,Men's Senior 73Kg,Sam Finch,71.3,70,73,-75,-90,90,-97,73,90,163
+Lakeside Open 2018,2018-08-19,Women's Senior 76Kg,Jasmine Isoyama,73.9,68,-71,71,80,84,88,71,88,159
+Lakeside Open 2018,2018-08-19,Men's Masters (35-39) 89Kg,Rhys Peters,83.9,65,-67,67,80,85,90,67,90,157
+Lakeside Open 2018,2018-08-19,Men's Masters (35-39) 67Kg,Timothy Davis,61.8,60,63,66,80,85,-87,66,85,151
+Lakeside Open 2018,2018-08-19,Women's Under 23 71Kg,Sophie Whiteman,68.9,62,65,-67,73,-76,78,65,78,143
+Lakeside Open 2018,2018-08-19,Women's Senior 71Kg,Rhiannon Devaney,69,57,60,-63,75,78,81,60,81,141
+Lakeside Open 2018,2018-08-19,Men's Senior 81Kg,Simon Smith,73.4,-58,-58,58,75,-80,80,58,80,138
+Lakeside Open 2018,2018-08-19,Women's Senior 71Kg,Sharan Riyat,69,52,55,58,75,78,-81,58,78,136
+Lakeside Open 2018,2018-08-19,Women's Senior 76Kg,Laura Woolford,72.3,55,57,-60,-75,75,77,57,77,134
+Lakeside Open 2018,2018-08-19,Women's Senior 59Kg,Charlotte McCoy,58,55,57,59,70,73,0,59,73,132
+Lakeside Open 2018,2018-08-19,Women's Senior 59Kg,Lucy Barrett,56,49,52,54,70,74,-79,54,74,128
+Lakeside Open 2018,2018-08-19,Women's Senior 76Kg,Beate Mueller,76,47,50,53,65,68,71,53,71,124
+Lakeside Open 2018,2018-08-19,Women's Senior 76Kg,Amy Moore,75,46,49,52,66,69,71,52,71,123
+Lakeside Open 2018,2018-08-19,Women's Senior 71Kg,Charlotte Benson,66.8,47,-50,52,63,67,-70,52,67,119
+Lakeside Open 2018,2018-08-19,Women's Senior 55Kg,Emma Suckling,52.2,50,-52,53,60,63,64,53,64,117
+Lakeside Open 2018,2018-08-19,Women's Masters (40-44) 71Kg,Karen Hawen,68,45,48,50,63,66,-69,50,66,116
+Lakeside Open 2018,2018-08-19,Women's Junior Under 20 71Kg,Lucy Pearce,68.9,48,51,-53,60,64,-67,51,64,115
+Lakeside Open 2018,2018-08-19,Women's Senior 71Kg,Samantha Petrean,64.6,47,50,-52,60,62,64,50,64,114
+Lakeside Open 2018,2018-08-19,Men's Senior 81Kg,Jared Mustafa-Holzapfel,79.5,42,45,48,-64,64,66,48,66,114
+Lakeside Open 2018,2018-08-19,Women's Junior Under 20 64Kg,Charlie Hawkes,63.3,40,43,47,55,58,61,47,61,108
+Lakeside Open 2018,2018-08-19,Women's Senior 81Kg,Madelaine Clavey,77.2,35,39,43,50,56,61,43,61,104
+Lakeside Open 2018,2018-08-19,Women's Masters (40-44) 87+Kg,Elizabeth Cromwell,92.2,45,47,-50,55,-57,57,47,57,104
+Lakeside Open 2018,2018-08-19,Women's Under 23 59Kg,breece stewart,59,41,44,-47,52,55,57,44,57,101
+Lakeside Open 2018,2018-08-19,Women's Under 23 64Kg,Grace Bravery,63.1,38,40,43,50,53,-56,43,53,96
+Lakeside Open 2018,2018-08-19,Women's Youth Under 15 76Kg,Isabella Swain,73.1,32,-35,35,45,50,53,35,53,88
+Lakeside Open 2018,2018-08-19,Women's Youth Under 15 64Kg,Erin Friel,60.2,27,30,35,46,46,50,35,50,85
+Lakeside Open 2018,2018-08-19,Women's Youth Under 17 55Kg,Anya Mistry-Shah,52.8,33,-35,35,45,-47,47,35,47,82
+Lakeside Open 2018,2018-08-19,Women's Masters (60-64) 64Kg,Clio Bellenis,60.1,20,25,30,35,40,45,30,45,75
+Lakeside Open 2018,2018-08-19,Men's Youth Under 15 81Kg,Oliver Pearce,80.9,25,26,30,25,30,-35,30,30,60
+Lakeside Open 2018,2018-08-19,Women's Senior 59Kg,Hannah Edwins,57.6,25,-26,26,27,-30,-30,26,27,53
+Lakeside Open 2018,2018-08-19,Women's Youth Under 15 55Kg,Gabrielle Swain,50.9,17,18,-20,25,27,30,18,30,48
+Lakeside Open 2018,2018-08-19,Women's Senior 71Kg,Penny-Ann Magee,68.5,41,-43,43,-50,0,0,43,0,43
+Lakeside Open 2018,2018-08-19,Women's Under 23 64Kg,Sophie Cath,62.3,-60,-60,-61,0,0,0,0,0,0

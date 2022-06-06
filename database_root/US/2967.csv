@@ -1,0 +1,53 @@
+meet,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+2018 Armor Classic,2018-01-27,Open Men's 105 kg,Jared Barkemeyer,101,-115,120,123,145,-152,155,123,155,278
+2018 Armor Classic,2018-01-27,Open Men's 85 kg,Christopher Douglas,81.9,116,-120,-120,148,-159,160,116,160,276
+2018 Armor Classic,2018-01-27,Open Men's 105 kg,Zachary Rynders,96.2,117,-122,124,145,150,-161,124,150,274
+2018 Armor Classic,2018-01-27,Open Men's 77 kg,David Adeyemo,76,115,-120,-120,147,151,153,115,153,268
+2018 Armor Classic,2018-01-27,Open Men's+105 kg,Connor Halsey,121.3,107,114,-120,140,-150,-153,114,140,254
+2018 Armor Classic,2018-01-27,Open Men's 94 kg,Cody Limas,87,110,114,-118,137,0,0,114,137,251
+2018 Armor Classic,2018-01-27,Open Men's 85 kg,Eli Coman,85,105,110,114,127,133,136,114,136,250
+2018 Armor Classic,2018-01-27,Open Men's 77 kg,Mason Ostrom,73,100,104,-108,125,130,-133,104,130,234
+2018 Armor Classic,2018-01-27,Open Men's 105 kg,Don Bell,97.8,93,98,101,-125,128,-132,101,128,229
+2018 Armor Classic,2018-01-27,Open Men's 77 kg,Jordan Becker,75,-104,104,-108,120,125,-130,104,125,229
+2018 Armor Classic,2018-01-27,Open Men's 85 kg,Travis Muraoka,79,93,97,-101,120,125,130,97,130,227
+2018 Armor Classic,2018-01-27,Open Men's 105 kg,Craig Orwin,97,92,96,-100,117,121,125,96,125,221
+2018 Armor Classic,2018-01-27,Open Men's 94 kg,Jonathan Peters,91.3,92,95,98,113,117,121,98,121,219
+2018 Armor Classic,2018-01-27,Open Men's 85 kg,Jonathan Acevedo,83.65,90,95,96,120,-123,-125,96,120,216
+2018 Armor Classic,2018-01-27,Open Men's 77 kg,Andrew Bueno,71.8,85,90,94,115,120,-123,94,120,214
+2018 Armor Classic,2018-01-27,Open Men's 85 kg,Brian Williams,83.85,-91,93,-95,107,110,114,93,114,207
+2018 Armor Classic,2018-01-27,Open Men's 94 kg,jordan Aldridge,93.15,95,-100,-105,105,-110,110,95,110,205
+2018 Armor Classic,2018-01-27,Open Men's 105 kg,Joseph Menz,102.5,86,89,93,103,107,-111,93,107,200
+2018 Armor Classic,2018-01-27,Open Men's 94 kg,Ryan Joersz,93.95,76,80,85,93,98,103,85,103,188
+2018 Armor Classic,2018-01-27,Open Men's 77 kg,Maxwell Lessman,73.5,64,67,71,89,95,100,71,100,171
+2018 Armor Classic,2018-01-27,Open Men's 85 kg,Johnrey magcaling,84,70,72,75,90,93,-96,75,93,168
+2018 Armor Classic,2018-01-27,Open Men's 77 kg,Charith Madawela,77,66,69,-70,93,96,98,69,98,167
+2018 Armor Classic,2018-01-27,Open Men's 69 kg,Rodrigo Lode,67.6,63,69,74,79,86,90,74,90,164
+2018 Armor Classic,2018-01-27,Open Women's 63 kg,Andrea Van Cleve,62.95,69,71,74,86,89,-93,74,89,163
+2018 Armor Classic,2018-01-27,Open Men's 105 kg,Alejandro Finy,94,-60,60,64,96,98,-100,64,98,162
+2018 Armor Classic,2018-01-27,Open Women's 75 kg,Brittany Brooks,71.9,65,68,-72,85,88,91,68,91,159
+2018 Armor Classic,2018-01-27,Women's Masters (40-44) 63 kg,Susanne Arbore,62.3,64,66,68,82,84,86,68,86,154
+2018 Armor Classic,2018-01-27,Open Men's 77 kg,Andrew Sheng,71.5,60,64,-68,84,-89,90,64,90,154
+2018 Armor Classic,2018-01-27,Open Women's 90 kg,Kimberly Andrew,77.65,65,-69,-69,83,87,-90,65,87,152
+2018 Armor Classic,2018-01-27,Open Women's 90 kg,holly gorman,79.5,63,65,67,75,77,-79,67,77,144
+2018 Armor Classic,2018-01-27,Open Women's 69 kg,Erica Honkonen,68.9,60,63,-66,78,-81,81,63,81,144
+2018 Armor Classic,2018-01-27,Open Women's 58 kg,Coral Malean,57.5,54,57,60,76,79,83,60,83,143
+2018 Armor Classic,2018-01-27,Open Women's 90 kg,Emily Johnson,79,55,58,-62,77,82,85,58,85,143
+2018 Armor Classic,2018-01-27,Open Women's 69 kg,Heidi Dawson,68.4,59,61,63,70,73,77,63,77,140
+2018 Armor Classic,2018-01-27,Open Women's 75 kg,Jamie Kassabian,73,54,56,59,73,76,-79,59,76,135
+2018 Armor Classic,2018-01-27,Women's Masters (35-39) 69 kg,Lauren Plooster,69,52,55,-57,66,68,71,55,71,126
+2018 Armor Classic,2018-01-27,Open Women's 69 kg,Meghan Middleton,64.25,52,55,56,65,-68,68,56,68,124
+2018 Armor Classic,2018-01-27,Open Women's 69 kg,Jessica Kimball,68.15,48,51,55,60,-65,65,55,65,120
+2018 Armor Classic,2018-01-27,Open Women's 69 kg,Sarah Haggard,68.4,49,52,-55,61,64,67,52,67,119
+2018 Armor Classic,2018-01-27,Women's 16-17 Age Group +75 kg,Lannan Ruiz,79.75,50,-52,52,63,66,-68,52,66,118
+2018 Armor Classic,2018-01-27,Women's Masters (35-39) 63 kg,Daisy May Gutierrez,63,-48,48,-51,64,-67,-67,48,64,112
+2018 Armor Classic,2018-01-27,Women's Masters (35-39) 58 kg,Amber Jensen,55.65,48,-50,-50,60,63,-66,48,63,111
+2018 Armor Classic,2018-01-27,Women's Masters (45-49) 58 kg,Kecia Aldridge,57.6,43,45,47,58,60,-62,47,60,107
+2018 Armor Classic,2018-01-27,Men's 13 Under Age Group 44kg,Isaac Paulson,43.5,43,45,47,53,56,59,47,59,106
+2018 Armor Classic,2018-01-27,Open Women's 69 kg,Laura Wilson,66.75,39,42,44,50,-52,53,44,53,97
+2018 Armor Classic,2018-01-27,Open Women's 48 kg,Natalie Davis,47.75,31,34,37,48,50,52,37,52,89
+2018 Armor Classic,2018-01-27,Women's Masters (45-49) 63 kg,April Freeland,62.9,36,-38,39,47,-49,49,39,49,88
+2018 Armor Classic,2018-01-27,Women's Masters (35-39) 58 kg,Kelly Andrews,57.25,35,37,-39,47,48,-50,37,48,85
+2018 Armor Classic,2018-01-27,Women's 14-15 Age Group 53 kg,Lauren Mau,51.05,31,33,36,40,-44,45,36,45,81
+2018 Armor Classic,2018-01-27,Women's 16-17 Age Group 58 kg,Josie Paulson,53.9,33,36,-38,39,42,45,36,45,81
+2018 Armor Classic,2018-01-27,Open Women's 63 kg,Laramie Eckerdt,62.5,55,-60,-60,-73,-73,-75,55,0,55
+2018 Armor Classic,2018-01-27,Women's 13 Under Age Group 44kg,Piper Hollingsworth,39.95,18,20,22,28,30,32,22,32,54

@@ -1,0 +1,53 @@
+meet,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+2015 NYC Experimental Open,2015-02-22,Open Men's+105 kg,Andrew Boerum,106.36,114,120,124,143,-148,-150,124,143,267
+2015 NYC Experimental Open,2015-02-22,Open Men's 69 kg,James Corsitto,68.98,104,109,-114,142,147,-150,109,147,256
+2015 NYC Experimental Open,2015-02-22,Open Men's 85 kg,Benjamin Barnes,79.84,110,-117,-120,135,142,-150,110,142,252
+2015 NYC Experimental Open,2015-02-22,Open Men's 77 kg,Frank Russo,76.96,-110,110,-115,130,137,-148,110,137,247
+2015 NYC Experimental Open,2015-02-22,Open Men's 85 kg,Chad Lanier,84.46,93,97,100,125,130,134,100,134,234
+2015 NYC Experimental Open,2015-02-22,Open Men's 85 kg,Anthony Escandon,81.12,94,100,-109,121,127,133,100,133,233
+2015 NYC Experimental Open,2015-02-22,Open Men's 85 kg,Kevin Neglia,80.94,91,95,-101,118,121,-126,95,121,216
+2015 NYC Experimental Open,2015-02-22,Open Men's 77 kg,Eric Czarnick,70.2,93,97,-100,107,113,118,97,118,215
+2015 NYC Experimental Open,2015-02-22,Open Men's 85 kg,Genry Milskiy,82.52,90,95,100,110,115,-120,100,115,215
+2015 NYC Experimental Open,2015-02-22,Open Men's 85 kg,Jourdan Ramirez,83.66,85,90,100,106,111,-116,100,111,211
+2015 NYC Experimental Open,2015-02-22,Open Men's 77 kg,John Shishido,72.8,70,80,90,95,110,120,90,120,210
+2015 NYC Experimental Open,2015-02-22,Open Men's 94 kg,Patrick Uliano,93.9,88,92,-97,101,-106,110,92,110,202
+2015 NYC Experimental Open,2015-02-22,Open Men's 77 kg,Michael Mora,71.14,83,-88,-89,115,-118,-118,83,115,198
+2015 NYC Experimental Open,2015-02-22,Open Men's 77 kg,Kenneth Bretania,75.46,-84,84,87,110,-113,-115,87,110,197
+2015 NYC Experimental Open,2015-02-22,Open Men's 94 kg,David Urovish,86.04,82,-87,-87,107,113,115,82,115,197
+2015 NYC Experimental Open,2015-02-22,Open Men's 77 kg,Matthew Stevens,76.06,80,84,-87,104,108,110,84,110,194
+2015 NYC Experimental Open,2015-02-22,Open Men's 105 kg,Jordan Barbera,99.6,75,80,85,-105,105,108,85,108,193
+2015 NYC Experimental Open,2015-02-22,Open Men's 77 kg,Mihalis Alisandratos,75.22,80,85,-88,100,106,-110,85,106,191
+2015 NYC Experimental Open,2015-02-22,Open Men's 85 kg,William Palumbo,82.12,70,75,80,102,111,-117,80,111,191
+2015 NYC Experimental Open,2015-02-22,Open Men's 77 kg,Alberto Simon,71.04,78,82,-87,100,105,-110,82,105,187
+2015 NYC Experimental Open,2015-02-22,Open Men's 77 kg,Jeffrey Chen,69.26,-84,-84,84,100,103,-106,84,103,187
+2015 NYC Experimental Open,2015-02-22,Open Men's 105 kg,Daniel Gigante,95.36,75,80,85,85,90,100,85,100,185
+2015 NYC Experimental Open,2015-02-22,Open Men's 94 kg,Patrick McGovern,93.4,80,83,86,95,98,-102,86,98,184
+2015 NYC Experimental Open,2015-02-22,Open Men's+105 kg,Andrew Vasilatos,121.66,70,74,-78,100,106,110,74,110,184
+2015 NYC Experimental Open,2015-02-22,Open Men's+105 kg,Alexander Russo,113.24,74,79,-83,98,-103,103,79,103,182
+2015 NYC Experimental Open,2015-02-22,Open Men's 69 kg,Gregory Hohmann,68.9,71,75,78,95,100,-105,78,100,178
+2015 NYC Experimental Open,2015-02-22,Open Women's 63 kg,Nicole Roggow,62.64,74,78,-81,94,98,-101,78,98,176
+2015 NYC Experimental Open,2015-02-22,Open Men's 77 kg,Kareem Elbasty,72.9,66,-71,-74,100,105,109,66,109,175
+2015 NYC Experimental Open,2015-02-22,Open Men's 77 kg,Adam Cohen,71.38,71,-74,74,90,95,100,74,100,174
+2015 NYC Experimental Open,2015-02-22,Men's 14-15 Age Group 69 kg,Jakub Vogel,67.98,71,74,77,87,91,95,77,95,172
+2015 NYC Experimental Open,2015-02-22,Open Men's 69 kg,Khalil Harrison,66.2,73,77,-82,89,93,95,77,95,172
+2015 NYC Experimental Open,2015-02-22,Open Women's 69 kg,Madi Mansberger,68.34,74,78,-82,94,-97,-98,78,94,172
+2015 NYC Experimental Open,2015-02-22,Open Women's 58 kg,Rhiannon Reynolds,56.98,70,74,-77,90,-95,96,74,96,170
+2015 NYC Experimental Open,2015-02-22,Open Men's 69 kg,Mark Ongeyberg,66.02,60,65,70,75,80,85,70,85,155
+2015 NYC Experimental Open,2015-02-22,Open Men's+105 kg,Dean Warner,105.9,63,-66,67,80,83,86,67,86,153
+2015 NYC Experimental Open,2015-02-22,Open Women's 53 kg,Ricklynn Long,51.54,59,-62,64,77,79,-82,64,79,143
+2015 NYC Experimental Open,2015-02-22,Open Women's 69 kg,Kristiana Maroudas,65.2,55,60,-65,70,78,-85,60,78,138
+2015 NYC Experimental Open,2015-02-22,Open Men's 85 kg,Jeffery Valenti,83.62,-98,-98,-100,120,-125,-128,0,120,120
+2015 NYC Experimental Open,2015-02-22,Open Men's 105 kg,Matthew Kollmeier,94.48,45,-46,50,61,69,-78,50,69,119
+2015 NYC Experimental Open,2015-02-22,Open Women's 58 kg,Julia Morris,56.96,47,50,53,61,66,-70,53,66,119
+2015 NYC Experimental Open,2015-02-22,Open Men's 85 kg,MIKHAIL KHISHCHENKO,80.34,47,51,53,57,61,64,53,64,117
+2015 NYC Experimental Open,2015-02-22,Open Women's 69 kg,Arielle Bloom,65.1,45,50,-55,65,-70,-70,50,65,115
+2015 NYC Experimental Open,2015-02-22,Open Women's 69 kg,Samantha Grzywacz,65.76,43,45,48,61,64,-66,48,64,112
+2015 NYC Experimental Open,2015-02-22,Women's Masters (45-49) 63 kg,Ramona Cadogan,62.6,45,48,-50,55,-59,-59,48,55,103
+2015 NYC Experimental Open,2015-02-22,Open Women's 53 kg,Danielle Irwin,51,40,-43,-43,55,58,-61,40,58,98
+2015 NYC Experimental Open,2015-02-22,Open Women's 53 kg,Katherine McDevitt,51.6,42,45,-47,52,-57,-58,45,52,97
+2015 NYC Experimental Open,2015-02-22,Open Women's 58 kg,Rebecca Jutkowitz,57.94,38,41,43,48,51,-53,43,51,94
+2015 NYC Experimental Open,2015-02-22,Open Women's 75 kg,Sara Soto,73.56,36,39,-41,48,50,53,39,53,92
+2015 NYC Experimental Open,2015-02-22,Open Women's 58 kg,Jillian Steinberg,55.04,37,-40,-40,-53,-53,53,37,53,90
+2015 NYC Experimental Open,2015-02-22,Open Women's 75 kg,Ashley Gold,72.56,64,-68,-70,-83,-87,-87,64,0,64
+2015 NYC Experimental Open,2015-02-22,Men's 13 Under Age Group 50 Kg,Andrew Smith,47.44,22,24,25,33,35,36,25,36,61
+2015 NYC Experimental Open,2015-02-22,Open Men's 77 kg,Daniel Larrow,76.86,-102,-102,-102,0,0,0,0,0,0

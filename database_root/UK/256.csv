@@ -1,0 +1,52 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Wildboar Weightlifting Winter Open,2019-12-15,Men's Senior 102Kg,Liam Rodgers,101.6,133,138,142,143,150,151,142,151,293
+Wildboar Weightlifting Winter Open,2019-12-15,Men's Under 23 89Kg,Ollie Cahill,83.9,125,130,-134,159,-161,-161,130,159,289
+Wildboar Weightlifting Winter Open,2019-12-15,Men's Senior 109+Kg,Adam Pugh,120.3,107,-112,-115,137,143,-150,107,143,250
+Wildboar Weightlifting Winter Open,2019-12-15,Men's Senior 81Kg,Nathan Morgan,79.6,-100,-100,100,125,-129,-129,100,125,225
+Wildboar Weightlifting Winter Open,2019-12-15,Men's Senior 81Kg,axl raguindin,78.9,100,103,106,118,-122,-122,106,118,224
+Wildboar Weightlifting Winter Open,2019-12-15,Men's Senior 81Kg,charlie mccloy,76.6,90,94,98,120,124,-127,98,124,222
+Wildboar Weightlifting Winter Open,2019-12-15,Men's Youth Under 17 81Kg,Finley Austin,77.1,95,98,102,110,-115,115,102,115,217
+Wildboar Weightlifting Winter Open,2019-12-15,Men's Under 23 96Kg,Ryan Kelly,95.5,88,92,-97,105,110,113,92,113,205
+Wildboar Weightlifting Winter Open,2019-12-15,Men's Senior 73Kg,Kevin Raguindin,71.7,80,84,90,105,110,114,90,114,204
+Wildboar Weightlifting Winter Open,2019-12-15,Men's Senior 73Kg,Kevin Raguindin,71.7,80,85,90,105,110,-114,90,110,200
+Wildboar Weightlifting Winter Open,2019-12-15,Men's Senior 73Kg,Kevin Raguindin,71.7,80,85,90,105,110,-114,90,110,200
+Wildboar Weightlifting Winter Open,2019-12-15,Men's Junior Under 20 109Kg,Campbell Hills,102.5,75,80,86,100,106,110,86,110,196
+Wildboar Weightlifting Winter Open,2019-12-15,Women's Masters (35-39) 71Kg,Faye Pittman,70.9,-80,-80,80,103,106,-109,80,106,186
+Wildboar Weightlifting Winter Open,2019-12-15,Men's Senior 81Kg,Robert Palmer,78.4,70,75,80,95,100,-104,80,100,180
+Wildboar Weightlifting Winter Open,2019-12-15,Men's Masters (35-39) 89Kg,Luke Watson,87.8,70,75,-80,95,100,105,75,105,180
+Wildboar Weightlifting Winter Open,2019-12-15,Men's Senior 89Kg,George Taylor,89,70,-83,-83,95,103,-110,70,103,173
+Wildboar Weightlifting Winter Open,2019-12-15,Men's Youth Under 17 102+Kg,Jake Turley,120.2,-75,75,-80,90,94,-98,75,94,169
+Wildboar Weightlifting Winter Open,2019-12-15,Men's Youth Under 17 81Kg,Leon Finnegan,76.9,70,-75,-75,90,93,96,70,96,166
+Wildboar Weightlifting Winter Open,2019-12-15,Men's Senior 67Kg,Sean Aspinall,66.8,70,75,80,80,85,-89,80,85,165
+Wildboar Weightlifting Winter Open,2019-12-15,Women's Senior 64Kg,Chloe Briggs,62.6,72,75,77,88,-92,-92,77,88,165
+Wildboar Weightlifting Winter Open,2019-12-15,Men's Senior 67Kg,Sean Aspinall,66.9,70,75,-80,80,85,-89,75,85,160
+Wildboar Weightlifting Winter Open,2019-12-15,Men's Youth Under 15 73Kg,Llyr Gravell,72.3,65,68,70,76,80,86,70,86,156
+Wildboar Weightlifting Winter Open,2019-12-15,Men's Youth Under 15 73Kg,Llyr Gravell,72.3,65,68,70,76,80,86,70,86,156
+Wildboar Weightlifting Winter Open,2019-12-15,Women's Senior 64Kg,Bethan Watkins,62.4,63,65,67,83,86,-89,67,86,153
+Wildboar Weightlifting Winter Open,2019-12-15,Women's Junior Under 20 71Kg,Rae Trowbridge,70.4,60,64,67,77,80,-84,67,80,147
+Wildboar Weightlifting Winter Open,2019-12-15,Men's Senior 81Kg,luke mander,80.5,-93,-93,-93,130,136,-141,0,136,136
+Wildboar Weightlifting Winter Open,2019-12-15,Men's Youth Under 15 61Kg,Hayden Robins,60.2,50,54,58,67,72,76,58,76,134
+Wildboar Weightlifting Winter Open,2019-12-15,Women's Junior Under 20 71Kg,Jodie Sadler,66,-57,57,-61,69,71,73,57,73,130
+Wildboar Weightlifting Winter Open,2019-12-15,Men's Youth Under 15 61Kg,Hayden Robins,60.2,50,54,58,67,72,-76,58,72,130
+Wildboar Weightlifting Winter Open,2019-12-15,Women's Senior 59Kg,Kate Rendall,58,52,54,-56,73,-75,75,54,75,129
+Wildboar Weightlifting Winter Open,2019-12-15,Women's Senior 81Kg,Cerys Head,76.3,48,52,55,-67,71,-75,55,71,126
+Wildboar Weightlifting Winter Open,2019-12-15,Women's Senior 71Kg,Freya Hibberd,67.5,50,54,-57,68,71,-73,54,71,125
+Wildboar Weightlifting Winter Open,2019-12-15,Women's Senior 64Kg,Katy-Louise Davies,62.4,-50,50,55,64,67,-70,55,67,122
+Wildboar Weightlifting Winter Open,2019-12-15,Women's Senior 76Kg,Elizabeth Griffiths,74.5,48,50,53,-65,65,-70,53,65,118
+Wildboar Weightlifting Winter Open,2019-12-15,Women's Senior 59Kg,Kerry Rodway,58.6,43,46,-51,61,65,69,46,69,115
+Wildboar Weightlifting Winter Open,2019-12-15,Women's Senior 81Kg,Rachel Ellison,79.8,43,46,48,60,65,67,48,67,115
+Wildboar Weightlifting Winter Open,2019-12-15,Men's Senior 89Kg,Benjamin Rose-Miles,88.7,113,-118,-118,-145,-145,-145,113,0,113
+Wildboar Weightlifting Winter Open,2019-12-15,Women's Masters (35-39) 59Kg,Luned Jones,58.2,40,43,45,55,59,62,45,62,107
+Wildboar Weightlifting Winter Open,2019-12-15,Women's Senior 71Kg,natasha phillips,66.9,45,48,-51,53,56,58,48,58,106
+Wildboar Weightlifting Winter Open,2019-12-15,Women's Senior 87Kg,Calli Rouse,84,40,45,-48,54,56,60,45,60,105
+Wildboar Weightlifting Winter Open,2019-12-15,Men's Youth Under 15 73Kg,Adam Cheshire,69.2,35,38,40,53,58,63,40,63,103
+Wildboar Weightlifting Winter Open,2019-12-15,Men's Youth Under 15 73Kg,Adam Cheshire,69.2,35,38,40,53,58,63,40,63,103
+Wildboar Weightlifting Winter Open,2019-12-15,Women's Senior 55Kg,Hiba Khan,54.5,40,44,-48,52,55,58,44,58,102
+Wildboar Weightlifting Winter Open,2019-12-15,Men's Youth Under 15 73Kg,Elliott Brown,68.8,36,40,45,45,50,55,45,55,100
+Wildboar Weightlifting Winter Open,2019-12-15,Men's Youth Under 15 73Kg,Elliott Brown,68.8,36,40,45,45,50,55,45,55,100
+Wildboar Weightlifting Winter Open,2019-12-15,Men's Masters (55-59) 61Kg,Andrew Elliot,60.7,40,-42,42,50,-55,55,42,55,97
+Wildboar Weightlifting Winter Open,2019-12-15,Men's Masters (55-59) 61Kg,Andrew Elliot,60.7,40,-42,42,50,-55,-60,42,50,92
+Wildboar Weightlifting Winter Open,2019-12-15,Men's Youth Under 15 61Kg,Jacob Jones,55.3,35,-39,-40,44,48,51,35,51,86
+Wildboar Weightlifting Winter Open,2019-12-15,Men's Youth Under 15 61Kg,Jacob Jones,55.3,35,-39,-40,44,48,51,35,51,86
+Wildboar Weightlifting Winter Open,2019-12-15,Women's Youth Under 17 55Kg,Melody Beddis,55,30,33,35,45,-47,47,35,47,82
+Wildboar Weightlifting Winter Open,2019-12-15,Women's Youth Under 15 49Kg,Libby Ellison,46.2,30,-33,33,43,46,-50,33,46,79

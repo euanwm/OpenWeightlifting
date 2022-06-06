@@ -1,0 +1,62 @@
+meet,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+BrewCity Open 7,2021-10-09,Open Women's +87kg,Mary Theisen-Lappen,131.67,108,112,116,143,148,153,116,153,269
+BrewCity Open 7,2021-10-09,Open Men's 81kg,Andrew Malec,79.7,-120,121,-125,140,-146,-146,121,140,261
+BrewCity Open 7,2021-10-09,Open Men's 109kg,Alex Smith,103.4,112,-117,-117,140,146,-152,112,146,258
+BrewCity Open 7,2021-10-09,Open Men's +109kg,Jon Schmidt,126.5,110,-115,-115,135,140,145,110,145,255
+BrewCity Open 7,2021-10-09,Men's Masters (45-49) 89kg,Paul Ralston,87.5,95,100,106,135,141,146,106,146,252
+BrewCity Open 7,2021-10-09,Open Men's 89kg,Eric Paz,88.6,102,107,112,127,-132,135,112,135,247
+BrewCity Open 7,2021-10-09,Open Men's 102kg,Nick Woznicki,101.2,100,105,-108,122,127,132,105,132,237
+BrewCity Open 7,2021-10-09,Open Men's 89kg,Dakota Dotson,88.9,-100,100,-104,-125,-127,132,100,132,232
+BrewCity Open 7,2021-10-09,Open Men's 109kg,Samuel Garcia,104.7,95,100,105,123,-129,-130,105,123,228
+BrewCity Open 7,2021-10-09,Open Men's 89kg,Christopher Krieg,87.8,95,98,-101,120,125,-130,98,125,223
+BrewCity Open 7,2021-10-09,Junior Men's 73kg,Jared Johnson,71.7,92,-95,95,115,-119,-119,95,115,210
+BrewCity Open 7,2021-10-09,Open Men's 73kg,Nathaniel Downey,69.3,80,84,88,113,117,121,88,121,209
+BrewCity Open 7,2021-10-09,Open Men's 89kg,Brett Ferstl,87.9,82,86,90,108,-111,112,90,112,202
+BrewCity Open 7,2021-10-09,Open Men's 96kg,Joshua Solie,94.76,78,-85,85,106,-110,115,85,115,200
+BrewCity Open 7,2021-10-09,Men's Masters (45-49) 81kg,Bryan Becker,75.9,82,-86,86,108,113,-118,86,113,199
+BrewCity Open 7,2021-10-09,Men's Masters (45-49) 81kg,Mathew Corr,79.3,75,80,85,105,110,-115,85,110,195
+BrewCity Open 7,2021-10-09,Open Men's 73kg,Michael Larson,72.16,76,-80,-82,105,110,114,76,114,190
+BrewCity Open 7,2021-10-09,Men's 16-17 Age Group 73kg,Joseph Poches,68.79,75,80,85,95,99,104,85,104,189
+BrewCity Open 7,2021-10-09,Men's Masters (35-39) 96kg,Justin Scholer,95.15,70,75,-80,105,110,-115,75,110,185
+BrewCity Open 7,2021-10-09,Men's Masters (35-39) 96kg,Andrew Dick,92.9,70,75,-80,105,110,-113,75,110,185
+BrewCity Open 7,2021-10-09,Open Men's 102kg,Michael Carpenter,101.67,-70,70,-75,100,-108,110,70,110,180
+BrewCity Open 7,2021-10-09,Junior Men's 81kg,Ethan Schultz,79.5,75,-78,-80,95,100,105,75,105,180
+BrewCity Open 7,2021-10-09,Open Women's 64kg,Kimberlea Stonewerth,62.02,81,84,-87,-94,94,-97,84,94,178
+BrewCity Open 7,2021-10-09,Open Men's 89kg,Ethan Taylor,86.07,72,75,78,93,-96,98,78,98,176
+BrewCity Open 7,2021-10-09,Open Men's 81kg,Trevor Everett,79.8,64,68,-72,-96,98,104,68,104,172
+BrewCity Open 7,2021-10-09,Open Women's 59kg,Anna Tanner,58.82,71,73,-75,95,98,-100,73,98,171
+BrewCity Open 7,2021-10-09,Open Women's 71kg,Nicole Bradford,69.85,69,72,75,88,92,96,75,96,171
+BrewCity Open 7,2021-10-09,Open Women's 81kg,Cheris Congo,79.94,68,-71,72,88,91,-94,72,91,163
+BrewCity Open 7,2021-10-09,Open Women's 64kg,Taryn Falligant,61.88,65,70,73,77,82,88,73,88,161
+BrewCity Open 7,2021-10-09,Men's Masters (35-39) +109kg,Wesley Taylor,142.5,60,64,70,75,80,85,70,85,155
+BrewCity Open 7,2021-10-09,Open Women's 71kg,Rebecca Magee,66.45,70,72,-74,80,83,-85,72,83,155
+BrewCity Open 7,2021-10-09,Open Women's 64kg,Anna Boggs,63.04,-62,63,66,75,79,82,66,82,148
+BrewCity Open 7,2021-10-09,Men's 16-17 Age Group 61kg,Timo Mobley-Benoist,59.6,59,61,63,80,-82,82,63,82,145
+BrewCity Open 7,2021-10-09,Open Women's 71kg,Kaitlin Bezier,68.42,58,61,63,75,80,-83,63,80,143
+BrewCity Open 7,2021-10-09,Open Women's 87kg,Stephanie Wolfgang,86.27,-59,59,61,78,81,-82,61,81,142
+BrewCity Open 7,2021-10-09,Women's 16-17 Age Group 59kg,Abigail Schuerman,58.82,55,60,-63,74,76,80,60,80,140
+BrewCity Open 7,2021-10-09,Open Women's 64kg,Jessica LaPhilliph,62.85,57,60,-62,77,-80,-81,60,77,137
+BrewCity Open 7,2021-10-09,Women's 14-15 Age Group 59kg,Lillian Spry,58.93,58,-62,-62,68,72,75,58,75,133
+BrewCity Open 7,2021-10-09,Open Women's 71kg,Marilyn Kostuch,68.55,54,57,62,63,68,71,62,71,133
+BrewCity Open 7,2021-10-09,Open Women's 64kg,Alexandra Wallace,60.73,-55,56,61,68,71,-74,61,71,132
+BrewCity Open 7,2021-10-09,Open Women's 76kg,Allison Gernhardt,74.44,53,56,58,68,72,-75,58,72,130
+BrewCity Open 7,2021-10-09,Men's Masters (35-39) 102kg,Daniel Swank,101.1,128,-132,-132,0,0,0,128,0,128
+BrewCity Open 7,2021-10-09,Men's 16-17 Age Group 67kg,clark ethridge,65.05,48,52,55,65,69,73,55,73,128
+BrewCity Open 7,2021-10-09,Open Women's 76kg,Leah  Kozelek,72.45,48,51,55,63,68,72,55,72,127
+BrewCity Open 7,2021-10-09,Women's 16-17 Age Group 76kg,Kaitlyn Rohan,74.94,47,50,-54,68,70,76,50,76,126
+BrewCity Open 7,2021-10-09,Open Women's 49kg,Dimple Desai,47.44,-57,57,-60,-66,66,-70,57,66,123
+BrewCity Open 7,2021-10-09,Women's Masters (40-44) 64kg,Courtney Ihlenfeld,62,53,-55,55,65,-67,-69,55,65,120
+BrewCity Open 7,2021-10-09,Women's Masters (35-39) +87kg,Natalie O'Connor,110.46,45,47,-49,64,66,70,47,70,117
+BrewCity Open 7,2021-10-09,Women's Masters (40-44) 64kg,Sarah Bartell,61.58,47,49,51,59,61,64,51,64,115
+BrewCity Open 7,2021-10-09,Women's Masters (45-49) 76kg,April Roach,74.48,46,48,51,60,-63,63,51,63,114
+BrewCity Open 7,2021-10-09,Women's Masters (35-39) 59kg,Jenna Snider,57.1,44,46,48,58,62,65,48,65,113
+BrewCity Open 7,2021-10-09,Women's Masters (45-49) 59kg,Sylvia Laughrin,58.53,43,46,-50,53,55,57,46,57,103
+BrewCity Open 7,2021-10-09,Women's Masters (45-49) 76kg,Wendy Ward,74.79,38,41,-45,-55,55,-60,41,55,96
+BrewCity Open 7,2021-10-09,Women's Masters (50-54) 64kg,Deborah Olszewski,61.7,35,37,40,48,52,55,40,55,95
+BrewCity Open 7,2021-10-09,Open Women's 64kg,Claire Sylvestre,60.62,35,37,39,50,53,56,39,56,95
+BrewCity Open 7,2021-10-09,Open Women's 64kg,Mary Lewandowski,64,37,40,-43,-49,49,52,40,52,92
+BrewCity Open 7,2021-10-09,Open Women's 71kg,Lisa Borgstrom,70.62,-64,-64,-64,80,84,-87,0,84,84
+BrewCity Open 7,2021-10-09,Men's 13 Under Age Group 44kg,Braiden Hale,41.95,34,36,-38,44,46,-48,36,46,82
+BrewCity Open 7,2021-10-09,Women's 13 Under Age Group +64kg,Naomi Dick,68.03,25,27,30,32,35,38,30,38,68
+BrewCity Open 7,2021-10-09,Open Women's 71kg,Devon Peterson,68.35,56,-59,59,-74,-74,-75,59,0,59
+BrewCity Open 7,2021-10-09,Women's Masters (40-44) 55kg,Stacey Steirer,52.57,39,41,-43,-57,-57,-57,41,0,41

@@ -1,0 +1,56 @@
+meet,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Barbell Lift Off,2017-02-18,Open Men's 77 kg,Matt Rattay,76.35,128,133,-137,160,165,172,133,172,305
+Barbell Lift Off,2017-02-18,Open Men's 105 kg,Nathan Barna,103.6,115,-120,120,144,152,-160,120,152,272
+Barbell Lift Off,2017-02-18,Open Men's 85 kg,Eric Redman,84.8,116,120,-123,-148,151,-155,120,151,271
+Barbell Lift Off,2017-02-18,Open Men's+105 kg,Kenneth Stephens,115.1,108,115,-120,142,-156,156,115,156,271
+Barbell Lift Off,2017-02-18,Open Men's+105 kg,Christopher Snodgrass,116.7,113,117,-123,140,147,152,117,152,269
+Barbell Lift Off,2017-02-18,Open Men's 105 kg,Drew Longan,98.25,105,110,114,137,142,146,114,146,260
+Barbell Lift Off,2017-02-18,Open Men's+105 kg,Bryan Barnard,121.9,96,-100,120,130,-137,-137,120,130,250
+Barbell Lift Off,2017-02-18,Open Men's+105 kg,Jordan Jurasevich,116.2,110,115,-120,135,-145,-151,115,135,250
+Barbell Lift Off,2017-02-18,Open Men's 94 kg,Taylor Hastings,89.35,95,100,105,135,-140,-142,105,135,240
+Barbell Lift Off,2017-02-18,Open Men's 85 kg,Fred Golden,84.1,100,-105,105,120,125,130,105,130,235
+Barbell Lift Off,2017-02-18,Open Men's 77 kg,Cory Neel,75.85,101,-104,-105,127,129,131,101,131,232
+Barbell Lift Off,2017-02-18,Open Men's 105 kg,Alfred Johnson,104,95,100,103,120,125,128,103,128,231
+Barbell Lift Off,2017-02-18,Open Men's 77 kg,Elias Talcott,76.45,90,94,98,112,119,126,98,126,224
+Barbell Lift Off,2017-02-18,Open Men's 85 kg,Marc Dobbels,81.1,-95,-95,95,123,128,-137,95,128,223
+Barbell Lift Off,2017-02-18,Open Men's 69 kg,John Ellison,66.55,90,94,97,115,120,125,97,125,222
+Barbell Lift Off,2017-02-18,Open Men's 69 kg,Matthew Blas,68.4,87,90,94,113,117,121,94,121,215
+Barbell Lift Off,2017-02-18,Open Men's 94 kg,Jacob Watts,92.5,95,99,-101,114,-122,-122,99,114,213
+Barbell Lift Off,2017-02-18,Open Men's 94 kg,Jacob Diaz,91.75,89,-93,93,-109,111,115,93,115,208
+Barbell Lift Off,2017-02-18,Open Men's 85 kg,James Kelly,82.5,87,-93,-98,116,120,-123,87,120,207
+Barbell Lift Off,2017-02-18,Open Men's 85 kg,Jordan Daniels,83.05,79,81,-85,116,118,-121,81,118,199
+Barbell Lift Off,2017-02-18,Open Men's 94 kg,Louis Johnson,93.7,79,82,-85,-116,-117,117,82,117,199
+Barbell Lift Off,2017-02-18,Open Men's 77 kg,Wesley Mullins,76.3,83,-86,86,-100,100,105,86,105,191
+Barbell Lift Off,2017-02-18,Open Women's 69 kg,Shannon Zimmerman,65.05,73,77,81,98,102,106,81,106,187
+Barbell Lift Off,2017-02-18,Open Men's 77 kg,Jeffrey Stines,74.7,70,-75,75,95,102,-105,75,102,177
+Barbell Lift Off,2017-02-18,Open Men's 77 kg,John (Brad) King,76.1,78,-81,81,-95,-95,95,81,95,176
+Barbell Lift Off,2017-02-18,Open Women's 75 kg,Jessica Snodgrass,73.3,68,70,-75,80,91,95,70,95,165
+Barbell Lift Off,2017-02-18,Open Men's 85 kg,Mark Zarate,78.15,69,74,-81,84,91,-97,74,91,165
+Barbell Lift Off,2017-02-18,Open Men's 77 kg,Jake baldwin,71.95,60,64,70,80,87,92,70,92,162
+Barbell Lift Off,2017-02-18,Open Women's 53 kg,Katrina Kusick,49.85,68,71,-74,-88,89,-92,71,89,160
+Barbell Lift Off,2017-02-18,Open Women's 63 kg,Amy Aponte,62.8,67,-70,-72,87,90,-93,67,90,157
+Barbell Lift Off,2017-02-18,Open Women's 58 kg,Becca Merritt,56.95,66,68,-70,85,88,-91,68,88,156
+Barbell Lift Off,2017-02-18,Open Women's 69 kg,Leasa Rueter,68.8,61,65,-68,77,85,87,65,87,152
+Barbell Lift Off,2017-02-18,Open Women's 69 kg,Madison Woods,65.7,60,63,65,75,79,86,65,86,151
+Barbell Lift Off,2017-02-18,Open Women's 75 kg,Sheila Reeves,73.95,61,63,-66,84,86,-88,63,86,149
+Barbell Lift Off,2017-02-18,Open Women's 69 kg,Kristen Richey,67.75,61,64,-67,79,82,-85,64,82,146
+Barbell Lift Off,2017-02-18,Open Women's 63 kg,Madeline Shine,62.35,57,59,61,78,81,84,61,84,145
+Barbell Lift Off,2017-02-18,Open Women's 63 kg,Jaclyn Fisher,61.85,58,-60,61,71,75,-78,61,75,136
+Barbell Lift Off,2017-02-18,Women's Masters (35-39) 69 kg,Glenna Asmus,67.95,54,57,-60,72,79,-81,57,79,136
+Barbell Lift Off,2017-02-18,Open Women's 63 kg,Tamara scull,59.95,52,54,56,70,75,78,56,78,134
+Barbell Lift Off,2017-02-18,Open Men's 62 kg,Drew Morgan,60.1,52,55,58,68,-72,73,58,73,131
+Barbell Lift Off,2017-02-18,Open Women's +90 kg,Allison Mueller,109.7,59,-61,-61,68,70,-72,59,70,129
+Barbell Lift Off,2017-02-18,Women's 16-17 Age Group 53 kg,Maddie Roggy,52.5,48,-50,52,62,-65,-65,52,62,114
+Barbell Lift Off,2017-02-18,Open Women's 48 kg,Kelly Holtzman,47.5,45,50,-52,55,60,-62,50,60,110
+Barbell Lift Off,2017-02-18,Women's Masters (40-44) 63 kg,Rebecca Hutton,62.6,45,48,-51,53,55,57,48,57,105
+Barbell Lift Off,2017-02-18,Women's 16-17 Age Group +75 kg,Gracie Negri,107.8,37,42,-47,50,54,59,42,59,101
+Barbell Lift Off,2017-02-18,Open Women's 90 kg,Sophie Casalini,81,37,-41,41,45,51,56,41,56,97
+Barbell Lift Off,2017-02-18,Open Women's 90 kg,Maricela Huizar,85.2,37,39,-43,49,53,-57,39,53,92
+Barbell Lift Off,2017-02-18,Open Men's 77 kg,Adam Weaver,75.75,84,-88,-88,-105,-106,-106,84,0,84
+Barbell Lift Off,2017-02-18,Women's 16-17 Age Group 63 kg,Skye McLaughlin,59.45,30,35,-42,35,42,48,35,48,83
+Barbell Lift Off,2017-02-18,Men's 13 Under Age Group 39kg,Dylan Morgan,37.95,32,35,-38,40,45,-48,35,45,80
+Barbell Lift Off,2017-02-18,Open Men's 56 kg,Peter Clark,40.1,20,25,30,35,40,44,30,44,74
+Barbell Lift Off,2017-02-18,Men's 13 Under Age Group 56 Kg,Peter Snyder,50.45,23,26,31,35,40,-45,31,40,71
+Barbell Lift Off,2017-02-18,Open Men's 56 kg,Hayden Ashworth,47.05,-23,23,28,35,40,-45,28,40,68
+Barbell Lift Off,2017-02-18,Women's 13 Under Age Group 35kg,Jaycee Mann,32.25,22,25,28,31,35,38,28,38,66
+Barbell Lift Off,2017-02-18,Men's 13 Under Age Group 44kg,Johnathan Beauchamp,43.5,20,24,28,31,34,36,28,36,64

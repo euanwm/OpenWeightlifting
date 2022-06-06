@@ -1,0 +1,42 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Palace 123,2021-07-23,Men's Under 23 109Kg,omar keshta,105.5,135,-140,-140,175,180,-183,135,180,315
+Palace 123,2021-07-22,Men's Under 23 96Kg,Stephen Bestman,93.7,-120,125,-131,155,160,-166,125,160,285
+Palace 123,2021-07-21,Men's Senior 102Kg,Solomon Ocquaye,101.34,115,120,125,140,148,-154,125,148,273
+Palace 123,2021-07-20,Men's Senior 96Kg,Jonathan Healy,95.1,104,107,-110,132,137,-140,107,137,244
+Palace 123,2021-05-22,Men's Senior 102Kg,Charlie Earl,102,100,-105,105,130,130,135,105,135,240
+Palace 123,2021-05-22,Men's Under 23 81Kg,Skip Callard,81,95,100,105,120,125,131,105,131,236
+Palace 123,2021-05-22,Men's Senior 89Kg,Saeed Asghari,89,94,98,103,122,127,130,103,130,233
+Palace 123,2021-07-19,Men's Senior 89Kg,Saeed Asghari,86.07,103,-107,-107,-125,-130,130,103,130,233
+Palace 123,2021-05-22,Men's Senior 102Kg,Sam Youseman,102,97,101,-103,125,130,-135,101,130,231
+Palace 123,2021-05-22,Men's Senior 81Kg,Panu Yagi,81,92,96,100,118,123,128,100,128,228
+Palace 123,2021-05-22,Men's Under 23 67Kg,Scoop Callard,67,88,92,96,115,120,125,96,125,221
+Palace 123,2021-08-21,Men's Senior 81Kg,Henry Friend,79.1,95,-100,100,112,-117,117,100,117,217
+Palace 123,2021-07-18,Men's Senior 81Kg,Jacek Kondracki,78.7,88,91,95,110,115,120,95,120,215
+Palace 123,2021-05-22,Men's Youth Under 17 96Kg,Jonathan Peters,96,83,87,90,105,115,-120,90,115,205
+Palace 123,2021-08-21,Women's Senior 87Kg,Nicola Stiddard,84.43,83,88,-92,105,110,113,88,113,201
+Palace 123,2021-05-22,Women's Senior 59Kg,Jess Gordon Brown,59,82,-86,88,102,107,110,88,110,198
+Palace 123,2021-07-17,Men's Under 23 61Kg,Priyam Kansara,59.68,84,-88,-90,105,110,-113,84,110,194
+Palace 123,2021-07-29,Women's Senior 71Kg,Erin Barton,69.2,75,79,83,95,100,105,83,105,188
+Palace 123,2021-05-22,Women's Senior 76Kg,Charlotte Davies,76,82,-86,86,100,102,-104,86,102,188
+Palace 123,2021-08-21,Women's Senior 71Kg,Katrina FEKLISTOVA,69.73,-78,78,82,100,105,-108,82,105,187
+Palace 123,2021-07-17,Women's Senior 71Kg,Katrina FEKLISTOVA,70,75,80,82,95,100,103,82,103,185
+Palace 123,2021-05-22,Men's Youth Under 17 73Kg,Mackenzie Clark,73,-75,75,80,100,105,-108,80,105,185
+Palace 123,2021-05-22,Women's Senior 71Kg,Katrina FEKLISTOVA,71,72,76,80,93,-97,97,80,97,177
+Palace 123,2021-05-22,Men's Junior Under 20 61Kg,Tom Scrivens,61,75,-78,78,90,94,94,78,94,172
+Palace 123,2021-08-21,Women's Senior 64Kg,Katarzyna Redka,63.51,67,70,73,93,96,98,73,98,171
+Palace 123,2021-05-22,Women's Senior 59Kg,Amber Sheppard,59,70,73,-75,90,94,96,73,96,169
+Palace 123,2021-07-28,Women's Senior 71Kg,Katarzyna Redka,68.1,68,-71,-71,90,-95,95,68,95,163
+Palace 123,2021-08-21,Women's Under 23 55Kg,Sky Norris,53.8,-69,70,71,84,87,-90,71,87,158
+Palace 123,2021-05-22,Men's Senior 67Kg,Leonard Cox,67,-67,-67,67,85,-88,90,67,90,157
+Palace 123,2021-07-27,Women's Under 23 55Kg,Sky Norris,54,68,-70,-71,-83,-83,83,68,83,151
+Palace 123,2021-08-21,Women's Senior 71Kg,Nina Ochogo,69.6,60,64,67,75,80,83,67,83,150
+Palace 123,2021-05-22,Women's Senior 55Kg,Sky Norris,55,65,68,-70,76,80,82,68,82,150
+Palace 123,2021-08-21,Women's Youth Under 17 81+Kg,Miah Bucknor,84.6,60,63,65,75,78,80,65,80,145
+Palace 123,2021-08-21,Women's Senior 76Kg,Holly Tavana,73.69,57,60,62,70,75,-78,62,75,137
+Palace 123,2021-07-25,Women's Youth Under 17 81+Kg,Miah Bucknor,83.5,57,60,62,71,75,-78,62,75,137
+Palace 123,2021-07-26,Women's Junior Under 20 64Kg,Megan Acomb,63.1,60,64,-67,70,-75,-75,64,70,134
+Palace 123,2021-05-22,Women's Senior 81Kg,Nicola Stiddard,81,-88,-88,-88,105,110,115,0,115,115
+Palace 123,2021-08-21,Women's Masters (40-44) 59Kg,Kelly Vaughan,57.42,46,48,-50,65,-68,-68,48,65,113
+Palace 123,2021-08-21,Women's Masters (55-59) 71Kg,Sharon Bowes,68.37,43,-45,45,55,58,60,45,60,105
+Palace 123,2021-07-24,Women's Masters (40-44) 55Kg,Kelly Vaughan,54.5,41,43,-45,60,62,-65,43,62,105
+Palace 123,2021-08-21,Women's Masters (60-64) 87+Kg,Victoria Man,91.56,35,37,39,50,52,-54,39,52,91
