@@ -1,6 +1,9 @@
 """All API calls will go in here to keep things neat"""
+import json
 from csv import reader
 from os.path import join
+from pprint import pprint
+from typing import Union, Dict
 
 from query_machine import QueryThis
 from result_dataclasses import DatabaseEntry
@@ -12,7 +15,7 @@ class GoRESTYourself:
     def __init__(self):
         self.query_root = QueryThis.query_folder
 
-    def lifter_totals(self, gender="male", start=0, stop=100) -> dict:
+    def lifter_totals(self, gender="male", start=0, stop=100) -> Union[dict[str, str], str]:
         """Default endpoint for the landing page"""
         query_filename: str = f"top_total_{gender}.csv"
         file_data: list = []
@@ -26,10 +29,11 @@ class GoRESTYourself:
         finally:
             for index, line in enumerate(file_data[start:stop:]):
                 line_struct = DatabaseEntry(*line)
-                dicty_boi[index + start] = line_struct.__dict__
-            return dicty_boi
+                dicty_boi[str(index + start)] = line_struct.__dict__
+            return json.dumps(dicty_boi)
 
 
 if __name__ == '__main__':
     api = GoRESTYourself()
-    api.lifter_totals()
+    res = api.lifter_totals()
+    print(res)
