@@ -3,7 +3,7 @@ import os
 import json
 import csv
 
-from time import sleep
+from time import perf_counter
 
 from result_dataclasses import UKUSResult, DatabaseEntry
 from static_helpers import load_result_csv_as_list, append_to_csv, load_csv_as_list
@@ -11,10 +11,11 @@ from static_helpers import load_result_csv_as_list, append_to_csv, load_csv_as_l
 
 class QueryThis:
     """ Hail me for I am the query machine """
+    query_folder = "queries/"
+    results_root = "database_root/"
 
-    def __init__(self, query_folder, results_root):
-        self.query_folder = query_folder
-        self.results_root = results_root
+    def __init__(self):
+        pass
 
     def generate_gender_cats(self):
         """Yep"""
@@ -84,7 +85,7 @@ class QueryThis:
     def sort_by_total(self, gender: str) -> None:
         """Sorts by total and also removes anyone with multiple entries"""
         print(f"Sorting {gender} totals...")
-        buffer: int = 110
+        timer_start = perf_counter()
         filpe: str = os.path.join(self.query_folder, gender + ".csv")
         db_list = load_csv_as_list(filpe)
         shite = sorted(db_list, key=lambda z: int(z[13]), reverse=True)
@@ -97,8 +98,9 @@ class QueryThis:
             for count, y_2 in enumerate(shite):
                 if x_2[3] == y_2[3] and x_2[14] == y_2[14] and x_2 != y_2 and x_2[13] >= y_2[13]:
                     shite.remove(y_2)
-        for x in shite[:buffer:]:
-            append_to_csv(os.path.join(self.query_folder, f"top_100_{gender}.csv"), x)
+        for x in shite:
+            append_to_csv(os.path.join(self.query_folder, f"top_total_{gender}.csv"), x)
+        print(f"sort_by_total completed in {perf_counter() - timer_start} seconds")
 
     def sort_by_ratio(self, gender: str) -> None:
         """Bodyweight ratio to total"""
@@ -115,7 +117,6 @@ class QueryThis:
         sort_it = self.__shit_sorter(db_list)
         for x in sort_it[:buffer:]:
             append_to_csv(os.path.join(self.query_folder, f"top_ratio_{gender}.csv"), x)
-
 
     @staticmethod
     def __shit_sorter(old_shite: list):
@@ -134,12 +135,11 @@ class QueryThis:
 
 
 if __name__ == '__main__':
-    query_folder_root = "queries/"
-    res_root = "database_root/"
-    queerer = QueryThis(query_folder_root, res_root)
+    queerer = QueryThis()
     # queerer.compile_gender_cats()
     # queerer.generate_gender_cats()
     # queerer.collate_all_db()
     # queerer.separate_main_db()
-    # queerer.sort_by_total('female')
-    queerer.sort_by_ratio("female")
+    queerer.sort_by_total('female')
+    queerer.sort_by_total('male')
+    # queerer.sort_by_ratio("female")
