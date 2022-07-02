@@ -5,8 +5,8 @@ import csv
 
 from time import perf_counter
 
-from result_dataclasses import UKUSResult, DatabaseEntry
-from static_helpers import load_result_csv_as_list, append_to_csv, load_csv_as_list
+from database_handler.result_dataclasses import UKUSResult, DatabaseEntry
+from database_handler.static_helpers import load_result_csv_as_list, append_to_csv, load_csv_as_list
 
 
 class QueryThis:

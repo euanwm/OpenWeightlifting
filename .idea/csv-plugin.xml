@@ -45,13 +45,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/queries/top_male.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="/queries/top_ratio_female.csv">
           <value>
             <Attribute>
