@@ -1,5 +1,6 @@
 """main flask page shit"""
-from flask import Flask
+from enum import Enum
+from flask import Flask, request, jsonify
 from database_handler.api_machine import GoRESTYourself
 
 app = Flask(__name__)
@@ -13,21 +14,40 @@ POST delivers new and unique data to the server.
 """
 
 
-@app.route("/", methods=["GET"])
+class HTTP(str, Enum):
+    """HTTP request methods"""
+    GET = "GET"
+    POST = "POST"
+    PUT = "PUT"
+    DELETE = "DELETE"
+    PATCH = "PATCH"
+    OPTION = "OPTION"
+
+
+@app.route("/", methods=[HTTP.GET])
 def index():
     """landing page"""
     return f"Add in the main page shit here"
 
 
-@app.route("/api/lifter_totals/<gender>&start=<start>&stop=<stop>", methods=["GET"])
-def api_lifter_totals(gender="male", start=0, stop=100):
+@app.route("/api/lifter_totals", methods=[HTTP.GET, HTTP.POST])
+def api_lifter_totals():
     """post total bitch"""
+    match request.method:
+        case HTTP.GET:
+            return jsonify(api_function.lifter_totals())
+        case HTTP.POST:
+            # todo: build the payload parser thingy
+            return jsonify(api_function.lifter_totals())
+        case _:
+            return jsonify({"error": "not a valid method"})
 
 
-@app.route("/api/lifter/<name>", methods=["GET"])
+@app.route("/api/lifter/<name>", methods=[HTTP.GET])
 def api_single_lifter(name):
     """lifter performance history"""
-    return api_function.lifter_lookup(name)
+    return jsonify(api_function.lifter_lookup(name))
+
 
 if __name__ == '__main__':
     app.run()

@@ -25,7 +25,7 @@ class GoRESTYourself:
             for index, line in enumerate(file_data[start:stop:]):
                 line_struct = DatabaseEntry(*line)
                 dicty_boi[str(index + start)] = line_struct.__dict__
-            return json.dumps(dicty_boi)
+            return dicty_boi
         except FileNotFoundError:
             return {"get": "fucked"}
 
