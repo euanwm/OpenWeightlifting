@@ -4,10 +4,10 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-fastapi = "*"
 uvicorn = "*"
 sport80 = "*"
 pandas = "*"
+flask = "*"
 
 [dev-packages]
 black = "*"
