@@ -1,0 +1,15 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Glasgow Commonwealth Games,2014-07-24,female,Tegan Napper,47.95,62,65,68,83,87,-91,68,87,155,AUS
+Glasgow Commonwealth Games,2014-07-24,female,Erika Yamasaki,52.64,71,74,76,94,98,99,76,99,175,AUS
+Glasgow Commonwealth Games,2014-07-24,female,Socheata Be,52.51,-73,73,77,92,96,-98,77,96,173,AUS
+Glasgow Commonwealth Games,2014-07-24,female,Seen Lee,57.68,-83,83,87,-103,103,-106,87,103,190,AUS
+Glasgow Commonwealth Games,2014-07-24,female,Kylie Thompson,74.46,84,88,92,-105,-105,105,92,105,197,AUS
+Glasgow Commonwealth Games,2014-07-24,female,Deborah Acason,92.96,105,108,-110,124,128,-130,108,128,236,AUS
+Glasgow Commonwealth Games,2014-07-24,male,Vannara Be,61.80,110,114,116,140,-145,-145,116,140,256,AUS
+Glasgow Commonwealth Games,2014-07-24,male,Francois Etoundi,76.68,137,-140,-141,-170,170,177,137,177,314,AUS
+Glasgow Commonwealth Games,2014-07-24,male,Malek Chamoun,84.55,-140,-140,-140,,,,0,0,0,AUS
+Glasgow Commonwealth Games,2014-07-24,male,Simplice Ribouem,92.92,147,-152,153,188,196,-201,153,196,349,AUS
+Glasgow Commonwealth Games,2014-07-24,male,Robert Galsworthy,104.66,-142,142,-147,-182,-182,183,142,183,325,AUS
+Glasgow Commonwealth Games,2014-07-24,male,Max Dal Santo,104.21,136,-142,-142,167,-176,176,136,176,312,AUS
+Glasgow Commonwealth Games,2014-07-24,male,Damon Kelly,147.06,164,168,171,203,-212,217,171,217,388,AUS
+Glasgow Commonwealth Games,2014-07-24,male,Christopher Rae,145.69,150,156,-162,180,-186,,156,180,336,AUS

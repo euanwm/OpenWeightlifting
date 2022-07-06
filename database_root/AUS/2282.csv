@@ -1,0 +1,13 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Origins,2020-10-16,female,Paula Robinson,44.05,36,-38,38,48,-51,-51,38,48,86,AUS
+Origins,2020-10-16,female,Ebony Goldfinch,58.90,25,28,-30,30,35,40,28,40,68,AUS
+Origins,2020-10-16,female,Skye Baxter,61.50,45,-50,50,60,65,70,50,70,120,AUS
+Origins,2020-10-16,female,Alyce Persich,63.90,45,50,-52,55,60,65,50,65,115,AUS
+Origins,2020-10-16,female,Jacqueline Taylor,62.60,30,-35,-35,45,,,30,45,75,AUS
+Origins,2020-10-16,female,Danielle Scherbarth,74.15,30,32,35,40,45,-50,35,45,80,AUS
+Origins,2020-10-16,male,Jed Stanley,41.25,26,-28,28,-35,35,38,28,38,66,AUS
+Origins,2020-10-16,male,Andre Castro,66.40,-83,83,87,103,107,110,87,110,197,AUS
+Origins,2020-10-16,male,Benjamin La Cunza-Watson,71.80,75,79,84,95,100,102,84,102,186,AUS
+Origins,2020-10-16,male,Justin Caratozzolo,80.35,60,65,70,85,90,100,70,100,170,AUS
+Origins,2020-10-16,male,Derek D'Mellow,95.55,50,55,60,80,85,90,60,90,150,AUS
+Origins,2020-10-16,male,Andrew Mcdowall,112.00,110,115,120,140,-145,145,120,145,265,AUS

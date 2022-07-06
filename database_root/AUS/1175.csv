@@ -1,0 +1,6 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+FISU Universiade,2017-08-20,female,Caity Haniver,68.85,73,-77,77,94,-97,97,77,97,174,AUS
+FISU Universiade,2017-08-20,male,Ling Wei Phillip Liao,61.62,92,-96,-96,113,117,-120,92,117,209,AUS
+FISU Universiade,2017-08-20,male,Beau Garrett,84.28,125,130,-135,155,160,165,130,165,295,AUS
+FISU Universiade,2017-08-20,male,Liam Saxby,84.47,116,120,122,-142,142,146,122,146,268,AUS
+FISU Universiade,2017-08-20,male,Joshua Quinn,104.81,120,-127,127,150,-160,-165,127,150,277,AUS

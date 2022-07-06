@@ -1,0 +1,7 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Triumph Club Competition,2013-08-02,female,Zoe Simon,67.30,42,45,48,45,-50,50,48,50,98,AUS
+Triumph Club Competition,2013-08-02,male,J B,59.20,45,,,50,,,45,50,95,AUS
+Triumph Club Competition,2013-08-02,male,Tom Davison,83.00,-100,-100,100,120,,,100,120,220,AUS
+Triumph Club Competition,2013-08-02,male,Chris Trayes,93.10,90,-90,90,100,110,-115,90,110,200,AUS
+Triumph Club Competition,2013-08-02,male,Howden Clair,91.70,75,-80,-85,100,-105,105,75,105,180,AUS
+Triumph Club Competition,2013-08-02,male,Alex Wallace,96.10,115,120,-127,140,,,120,140,260,AUS

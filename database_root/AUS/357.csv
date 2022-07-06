@@ -1,0 +1,18 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+VWA Open,2013-06-08,female,Alexandra Martin,59.10,37,40,42,45,-48,-48,42,45,87,AUS
+VWA Open,2013-06-08,female,Jessica Partridge,63.70,64,-68,-68,-84,84,-88,64,84,148,AUS
+VWA Open,2013-06-08,female,Hannah Weatherly,65.10,-45,45,-49,55,60,62,45,62,107,AUS
+VWA Open,2013-06-08,female,Kettie Hewett,63.50,35,40,42,50,55,60,42,60,102,AUS
+VWA Open,2013-06-08,female,Abby Dolphin,67.25,35,38,40,45,-50,50,40,50,90,AUS
+VWA Open,2013-06-08,female,Chloe Harrigan,77.60,37,-42,-42,55,-60,-60,37,55,92,AUS
+VWA Open,2013-06-08,female,Kate Linford,107.35,84,-88,-88,-103,,,84,0,0,AUS
+VWA Open,2013-06-08,female,Melissa Spain,54.45,28,31,33,38,40,45,33,45,78,AUS
+VWA Open,2013-06-08,male,Charlie Woodward,74.55,55,-60,-60,62,67,-70,55,67,122,AUS
+VWA Open,2013-06-08,male,Dylan Sorensen,82.30,100,103,-106,125,130,-133,103,130,233,AUS
+VWA Open,2013-06-08,male,Jay Nicoll,84.25,95,-100,-105,125,-130,135,95,135,230,AUS
+VWA Open,2013-06-08,male,Wesley Spargo,81.65,-90,90,95,110,115,-120,95,115,210,AUS
+VWA Open,2013-06-08,male,Alexander Rofe,103.15,75,80,83,90,95,-100,83,95,178,AUS
+VWA Open,2013-06-08,male,Julio Melo,109.05,85,90,-95,107,110,-115,90,110,200,AUS
+VWA Open,2013-06-08,male,Jubal Clarken,115.75,75,80,83,85,90,95,83,95,178,AUS
+VWA Open,2013-06-08,male,Bryan Leech,84.05,60,65,70,80,87,95,70,95,165,AUS
+VWA Open,2013-06-08,male,Ashley Kent,100.80,70,75,80,90,95,100,80,100,180,AUS

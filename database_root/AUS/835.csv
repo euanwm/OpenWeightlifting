@@ -1,0 +1,12 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+NSWWA Open Competition,2015-10-10,female,Janet Adam,51.89,50,-53,-53,63,-66,-66,50,63,113,AUS
+NSWWA Open Competition,2015-10-10,male,Rocky Dean-Shoji,67.14,-78,78,81,100,105,-110,81,105,186,AUS
+NSWWA Open Competition,2015-10-10,male,Tyson Hudson,84.31,-95,-95,95,120,125,-130,95,125,220,AUS
+NSWWA Open Competition,2015-10-10,male,Gerard Lyons,83.18,85,-90,90,-115,115,-120,90,115,205,AUS
+NSWWA Open Competition,2015-10-10,male,James Lyons,79.98,-65,65,70,95,-100,100,70,100,170,AUS
+NSWWA Open Competition,2015-10-10,male,Andrew Pineda,79.96,83,-87,90,-115,,,90,0,0,AUS
+NSWWA Open Competition,2015-10-10,male,Joseph Campbell,80.75,-90,-90,-93,,,,0,0,0,AUS
+NSWWA Open Competition,2015-10-10,male,Nicolas Warren,93.29,95,100,-105,120,127,-134,100,127,227,AUS
+NSWWA Open Competition,2015-10-10,male,Craig Edwards,89.30,78,81,-83,-108,-108,108,81,108,189,AUS
+NSWWA Open Competition,2015-10-10,male,Scott Stefl,73.72,84,89,-93,107,-113,113,89,113,202,AUS
+NSWWA Open Competition,2015-10-10,male,Ashley Mcmahon,95.70,70,75,80,-105,-105,105,80,105,185,AUS

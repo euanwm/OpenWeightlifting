@@ -1,0 +1,25 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Xfit 6168,2019-11-30,female,Jahzarah Bishop-Wiari,38.90,-21,21,22,28,30,34,22,34,56,AUS
+Xfit 6168,2019-11-30,female,Georgia Newick,43.30,14,16,19,19,21,23,19,23,42,AUS
+Xfit 6168,2019-11-30,female,Kaylie Breeze,37.80,14,16,18,19,21,23,18,23,41,AUS
+Xfit 6168,2019-11-30,female,Amelie Reid,37.50,13,15,16,15,18,20,16,20,36,AUS
+Xfit 6168,2019-11-30,female,Ava Grover,35.50,13,14,15,15,17,18,15,18,33,AUS
+Xfit 6168,2019-11-30,female,Charlee Hodges,25.90,11,13,14,17,18,,14,18,32,AUS
+Xfit 6168,2019-11-30,female,Eden Hodges,20.60,8,10,-11,-10,10,11,10,11,21,AUS
+Xfit 6168,2019-11-30,female,Chloe Wright,34.30,8,,,8,9,,8,9,17,AUS
+Xfit 6168,2019-11-30,female,Jasmine Geddes,21.20,4,5,7,5,6,7,7,7,14,AUS
+Xfit 6168,2019-11-30,female,Ruby Wilson,54.70,18,20,22,25,27,,22,27,49,AUS
+Xfit 6168,2019-11-30,female,Talia Joyce,56.50,40,43,-45,-50,50,53,43,53,96,AUS
+Xfit 6168,2019-11-30,female,Madison O’boyle,58.80,-73,-73,-73,,,,0,0,0,AUS
+Xfit 6168,2019-11-30,female,Joanna Harmer,63.80,56,-58,-58,67,-70,71,56,71,127,AUS
+Xfit 6168,2019-11-30,female,Cheryl Falconer,61.90,32,-35,35,40,45,47,35,47,82,AUS
+Xfit 6168,2019-11-30,female,Beverley Murphy,60.70,26,28,30,35,-38,38,30,38,68,AUS
+Xfit 6168,2019-11-30,female,Marie Dawson,69.70,35,,,45,,,35,45,80,AUS
+Xfit 6168,2019-11-30,female,Nicole Mcswain,69.80,34,36,-38,40,42,-46,36,42,78,AUS
+Xfit 6168,2019-11-30,female,Danielle Waller,95.10,40,45,-50,50,55,60,45,60,105,AUS
+Xfit 6168,2019-11-30,male,Jacob Stanesby,31.60,26,28,30,31,33,34,30,34,64,AUS
+Xfit 6168,2019-11-30,male,Toby Macnamara,27.20,8,9,11,11,13,-15,11,13,24,AUS
+Xfit 6168,2019-11-30,male,Tadhg Harmer,19.60,5,6,8,8,9,10,8,10,18,AUS
+Xfit 6168,2019-11-30,male,Adam Mcwhinnie,79.20,40,-43,43,50,53,-57,43,53,96,AUS
+Xfit 6168,2019-11-30,male,Samuel Tate,99.80,55,-61,61,80,85,-88,61,85,146,AUS
+Xfit 6168,2019-11-30,male,Andrew Stanesby,116.40,50,55,60,65,72,-80,60,72,132,AUS

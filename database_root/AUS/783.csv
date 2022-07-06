@@ -1,0 +1,10 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Triumph Club Competition,2015-05-29,female,A P,57.50,53,57,60,70,73,76,60,76,136,AUS
+Triumph Club Competition,2015-05-29,female,Philippa Malone,62.00,-84,84,-87,100,-105,-105,84,100,184,AUS
+Triumph Club Competition,2015-05-29,female,Madeline Sturt,61.80,68,70,-72,88,92,-95,70,92,162,AUS
+Triumph Club Competition,2015-05-29,female,Jarian Hogan,66.80,38,40,41,48,54,59,41,59,100,AUS
+Triumph Club Competition,2015-05-29,male,Abdul Razak,75.90,-100,-100,-102,,,,0,0,0,AUS
+Triumph Club Competition,2015-05-29,male,Aric Johnson,79.10,98,104,110,120,130,-135,110,130,240,AUS
+Triumph Club Competition,2015-05-29,male,Jacob Marquardt,91.10,95,105,-112,120,130,-135,105,130,235,AUS
+Triumph Club Competition,2015-05-29,male,Brenton Remington,90.00,90,-95,95,125,130,-135,95,130,225,AUS
+Triumph Club Competition,2015-05-29,male,James Sell,132.00,110,115,120,136,140,-148,120,140,260,AUS

@@ -1,0 +1,10 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+SAWLA August Open,2020-08-15,female,Erin Gracey,58.70,60,-65,-65,75,77,80,60,80,140,AUS
+SAWLA August Open,2020-08-15,female,Diana Fulga,56.70,27,31,35,30,37,42,35,42,77,AUS
+SAWLA August Open,2020-08-15,female,Kiana Elliott,63.70,75,80,85,105,108,110,85,110,195,AUS
+SAWLA August Open,2020-08-15,female,Zali Simes,61.50,40,45,50,58,64,68,50,68,118,AUS
+SAWLA August Open,2020-08-15,female,Danielle Senior,69.80,73,77,80,92,97,101,80,101,181,AUS
+SAWLA August Open,2020-08-15,female,Joanne Flesfadar,71.90,60,-65,65,70,72,-75,65,72,137,AUS
+SAWLA August Open,2020-08-15,male,Jason Carey,71.90,85,90,-95,,,,90,0,0,AUS
+SAWLA August Open,2020-08-15,male,Frank Elliott,88.20,115,122,-128,147,155,-161,122,155,277,AUS
+SAWLA August Open,2020-08-15,male,Kingston Tranvu,92.40,90,95,-100,-120,120,125,95,125,220,AUS

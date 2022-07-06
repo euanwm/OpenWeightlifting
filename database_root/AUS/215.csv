@@ -1,0 +1,6 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+World Youth Championships,2013-04-06,female,Robin Parr,42.98,30,34,37,47,-51,51,37,51,88,AUS
+World Youth Championships,2013-04-06,male,James Delaney,55.03,67,-71,-71,85,89,-92,67,89,156,AUS
+World Youth Championships,2013-04-06,male,Hamish Adam,55.49,63,-67,67,-77,77,-82,67,77,144,AUS
+World Youth Championships,2013-04-06,male,Joshua Wu,61.16,73,78,82,105,110,-115,82,110,192,AUS
+World Youth Championships,2013-04-06,male,James Norman,61.33,73,78,-82,-103,-103,103,78,103,181,AUS

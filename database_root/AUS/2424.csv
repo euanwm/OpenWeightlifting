@@ -1,0 +1,4 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+HWC Championships,2020-12-12,male,Jacob Tout,66.75,88,-92,-92,110,-113,-113,88,110,198,AUS
+HWC Championships,2020-12-12,male,Kai Longley,88.75,90,94,98,115,120,125,98,125,223,AUS
+HWC Championships,2020-12-12,male,Sean Erb,91.05,105,110,115,125,130,135,115,135,250,AUS

@@ -1,0 +1,17 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+SAWLA May Open,2021-05-22,female,Celine Huynh,44.26,42,46,48,52,56,-60,48,56,104,AUS
+SAWLA May Open,2021-05-22,female,Le Minh Thu Huynh,48.97,55,60,-64,65,78,-80,60,78,138,AUS
+SAWLA May Open,2021-05-22,female,Danielle Senior,69.34,78,81,-84,97,100,-102,81,100,181,AUS
+SAWLA May Open,2021-05-22,female,Joanne Flesfadar,69.56,-60,-64,-64,72,-75,75,0,75,0,AUS
+SAWLA May Open,2021-05-22,male,James Wallace,65.70,83,-86,-86,100,-106,-106,83,100,183,AUS
+SAWLA May Open,2021-05-22,male,Andrew Dodman,66.40,-53,53,-55,72,74,76,53,76,129,AUS
+SAWLA May Open,2021-05-22,male,Lap Nguyen,65.75,-85,-85,-85,100,-103,-103,0,100,0,AUS
+SAWLA May Open,2021-05-22,male,Sebastian Pedroza,72.40,-70,70,-72,83,86,91,70,91,161,AUS
+SAWLA May Open,2021-05-22,male,Lenin Pichiayan,72.60,50,,,70,,,50,70,120,AUS
+SAWLA May Open,2021-05-22,male,Matt Porter,88.98,100,105,-111,-129,129,-141,105,129,234,AUS
+SAWLA May Open,2021-05-22,male,Huw Pearce,88.50,90,92,94,115,117,120,94,120,214,AUS
+SAWLA May Open,2021-05-22,male,Jamie Carroll,84.20,55,60,-65,85,90,-100,60,90,150,AUS
+SAWLA May Open,2021-05-22,male,Kingston Tranvu,94.60,102,-107,107,131,135,-141,107,135,242,AUS
+SAWLA May Open,2021-05-22,male,Travis Whitson,98.18,86,-90,-90,113,116,-120,86,116,202,AUS
+SAWLA May Open,2021-05-22,male,Russell Golding,120.40,60,85,,75,100,115,85,115,200,AUS
+SAWLA May Open,2021-05-22,male,Anthony Formichella,129.40,78,-81,-83,-90,90,-102,78,90,168,AUS

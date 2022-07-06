@@ -1,0 +1,10 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Inner West Club Competition,2017-03-19,female,Katie Yilmaz,48.00,38,40,-43,58,60,-62,40,60,100,AUS
+Inner West Club Competition,2017-03-19,female,Alexandra Watson,88.10,57,-61,-63,75,80,-83,57,80,137,AUS
+Inner West Club Competition,2017-03-19,male,Brenton English,68.30,78,82,-87,95,100,-105,82,100,182,AUS
+Inner West Club Competition,2017-03-19,male,Alex Liang,62.20,55,60,65,70,75,81,65,81,146,AUS
+Inner West Club Competition,2017-03-19,male,Rick Saha,70.50,77,82,-87,105,112,115,82,115,197,AUS
+Inner West Club Competition,2017-03-19,male,Jack Horton,73.50,55,60,65,65,71,77,65,77,142,AUS
+Inner West Club Competition,2017-03-19,male,Ismail Haskara,87.80,50,53,55,70,75,78,55,78,133,AUS
+Inner West Club Competition,2017-03-19,male,Nick Veale,90.10,75,80,86,97,-103,108,86,108,194,AUS
+Inner West Club Competition,2017-03-19,male,Drew Mctavish,114.90,108,113,115,120,-127,131,115,131,246,AUS

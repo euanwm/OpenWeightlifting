@@ -1,0 +1,10 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Inner West Open Competition,2016-11-13,female,Jessica Barkhan,49.80,50,-53,56,65,68,-70,56,68,124,AUS
+Inner West Open Competition,2016-11-13,female,Kushini Jayawardane,53.60,52,55,61,67,72,-75,61,72,133,AUS
+Inner West Open Competition,2016-11-13,female,Carlene Portela,57.10,40,43,-46,52,55,57,43,57,100,AUS
+Inner West Open Competition,2016-11-13,female,Linda Eades,76.40,40,43,-46,55,58,-60,43,58,101,AUS
+Inner West Open Competition,2016-11-13,male,Rick Saha,72.00,78,-84,-85,105,112,117,78,117,195,AUS
+Inner West Open Competition,2016-11-13,male,Celi Varol,76.30,70,74,78,95,-102,-107,78,95,173,AUS
+Inner West Open Competition,2016-11-13,male,Luis Gamez,82.60,75,-80,80,100,-105,-105,80,100,180,AUS
+Inner West Open Competition,2016-11-13,male,James Tennent,82.50,66,-70,70,86,90,-92,70,90,160,AUS
+Inner West Open Competition,2016-11-13,male,Drew Mctavish,109.80,-100,104,-110,120,126,-131,104,126,230,AUS

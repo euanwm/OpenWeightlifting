@@ -1,0 +1,10 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Inner West Open Competition,2015-10-25,female,Joanna Taylor,61.30,44,47,51,-60,-60,-60,51,0,0,AUS
+Inner West Open Competition,2015-10-25,female,Diana D'Alessandro,67.40,45,-48,49,60,65,-70,49,65,114,AUS
+Inner West Open Competition,2015-10-25,female,Clare Weewan,130.00,45,48,52,60,66,73,52,73,125,AUS
+Inner West Open Competition,2015-10-25,male,Stephen Muldoon,79.10,80,86,91,110,115,-121,91,115,206,AUS
+Inner West Open Competition,2015-10-25,male,Michael Nolan,84.20,-90,-91,-91,,,,0,0,0,AUS
+Inner West Open Competition,2015-10-25,male,Jacob Marquardt,92.40,115,120,-125,-150,-150,-150,120,0,0,AUS
+Inner West Open Competition,2015-10-25,male,Jon Delaney,87.40,95,99,101,123,127,-130,101,127,228,AUS
+Inner West Open Competition,2015-10-25,male,Paul Cummins,92.70,80,-85,-85,90,95,102,80,102,182,AUS
+Inner West Open Competition,2015-10-25,male,Drew Mctavish,108.60,-80,83,87,90,95,105,87,105,192,AUS

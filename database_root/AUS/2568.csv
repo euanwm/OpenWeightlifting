@@ -1,0 +1,61 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Ralph Cashmans Open Competition,2021-02-19,female,Jasmine Walker,45.78,35,40,44,55,60,63,44,63,107,AUS
+Ralph Cashmans Open Competition,2021-02-19,female,Jun Yue,47.50,25,-27,27,33,37,-40,27,37,64,AUS
+Ralph Cashmans Open Competition,2021-02-19,female,Katie Yilmaz,50.38,43,46,50,-60,60,-65,50,60,110,AUS
+Ralph Cashmans Open Competition,2021-02-19,female,Cary Huynh,53.45,35,40,-43,53,-58,58,40,58,98,AUS
+Ralph Cashmans Open Competition,2021-02-19,female,Tiffany Williams,51.00,-25,27,-29,36,39,-41,27,39,66,AUS
+Ralph Cashmans Open Competition,2021-02-19,female,Fatima Yakubu,58.72,-87,87,-90,110,113,-115,87,113,200,AUS
+Ralph Cashmans Open Competition,2021-02-19,female,Zoe De Gersigny,58.00,55,60,63,75,80,,63,80,143,AUS
+Ralph Cashmans Open Competition,2021-02-19,female,Ashlee Peet,56.50,30,33,-35,40,43,45,33,45,78,AUS
+Ralph Cashmans Open Competition,2021-02-19,female,Macarena Sosa Bernales,58.76,-45,-45,-45,,,,0,0,0,AUS
+Ralph Cashmans Open Competition,2021-02-19,female,Andriena Elton,63.86,-72,73,-78,89,95,-100,73,95,168,AUS
+Ralph Cashmans Open Competition,2021-02-19,female,Verity Park,63.70,61,64,-67,90,-96,,64,90,154,AUS
+Ralph Cashmans Open Competition,2021-02-19,female,Kristy Yang,63.14,-50,51,55,60,65,71,55,71,126,AUS
+Ralph Cashmans Open Competition,2021-02-19,female,Georgia Oberekar,59.78,45,52,-57,60,65,70,52,70,122,AUS
+Ralph Cashmans Open Competition,2021-02-19,female,Jasmine Arnold Leggo,62.88,50,53,56,64,-69,-69,56,64,120,AUS
+Ralph Cashmans Open Competition,2021-02-19,female,Taiamoni Pakoti,61.84,48,-52,-52,62,67,71,48,71,119,AUS
+Ralph Cashmans Open Competition,2021-02-19,female,Apsar Shaik,59.72,33,36,40,45,50,55,40,55,95,AUS
+Ralph Cashmans Open Competition,2021-02-19,female,Elena Macnamara,63.88,30,33,-35,42,45,-48,33,45,78,AUS
+Ralph Cashmans Open Competition,2021-02-19,female,Patrizia Cocchis,59.18,20,23,25,31,34,36,25,36,61,AUS
+Ralph Cashmans Open Competition,2021-02-19,female,Bronte Wood,61.86,-40,-40,-40,,,,0,0,0,AUS
+Ralph Cashmans Open Competition,2021-02-19,female,Jae Daly,70.42,78,-81,-82,93,-100,-101,78,93,171,AUS
+Ralph Cashmans Open Competition,2021-02-19,female,Natasha Hau,67.74,59,-62,-62,68,72,75,59,75,134,AUS
+Ralph Cashmans Open Competition,2021-02-19,female,Benedicta Gibbs,72.10,50,53,56,-70,71,-75,56,71,127,AUS
+Ralph Cashmans Open Competition,2021-02-19,female,Rosemary Wilson,75.14,50,55,-58,60,68,-73,55,68,123,AUS
+Ralph Cashmans Open Competition,2021-02-19,female,Emmalyne Mitchell,78.92,-73,73,-80,92,97,-101,73,97,170,AUS
+Ralph Cashmans Open Competition,2021-02-19,female,Dimitra Tsiliaskopoulos,90.82,70,75,,100,105,,75,105,180,AUS
+Ralph Cashmans Open Competition,2021-02-19,female,Danica Hampton,99.88,65,-70,75,85,92,-98,75,92,167,AUS
+Ralph Cashmans Open Competition,2021-02-19,female,Lauren Knaggs,107.00,42,45,48,65,71,74,48,74,122,AUS
+Ralph Cashmans Open Competition,2021-02-19,female,Atelaite Tonga,121.42,38,42,45,45,50,-55,45,50,95,AUS
+Ralph Cashmans Open Competition,2021-02-19,female,Baley Yim,99.34,31,35,-38,45,-51,-51,35,45,80,AUS
+Ralph Cashmans Open Competition,2021-02-19,male,Gordon Fu,66.56,100,-106,-106,122,127,130,100,130,230,AUS
+Ralph Cashmans Open Competition,2021-02-19,male,Vincent Wang,66.72,78,82,86,95,100,-105,86,100,186,AUS
+Ralph Cashmans Open Competition,2021-02-19,male,Kam Shun Cheung,66.72,68,73,78,95,-102,-103,78,95,173,AUS
+Ralph Cashmans Open Competition,2021-02-19,male,George Lu,64.44,55,60,65,80,86,-93,65,86,151,AUS
+Ralph Cashmans Open Competition,2021-02-19,male,Jack Yang,72.32,90,-94,98,110,115,120,98,120,218,AUS
+Ralph Cashmans Open Competition,2021-02-19,male,Wesley Truong,69.32,-82,82,86,98,-103,-103,86,98,184,AUS
+Ralph Cashmans Open Competition,2021-02-19,male,Alex Bautista,72.12,65,70,73,90,-95,-98,73,90,163,AUS
+Ralph Cashmans Open Competition,2021-02-19,male,Joshua Younan,67.92,60,64,67,80,84,-87,67,84,151,AUS
+Ralph Cashmans Open Competition,2021-02-19,male,Leo Manny,80.72,105,112,120,135,-145,-145,120,135,255,AUS
+Ralph Cashmans Open Competition,2021-02-19,male,David Vella,79.82,95,-100,-100,122,126,-130,95,126,221,AUS
+Ralph Cashmans Open Competition,2021-02-19,male,Trent La,79.18,75,80,90,100,110,-120,90,110,200,AUS
+Ralph Cashmans Open Competition,2021-02-19,male,Bryton Johnson,78.80,75,-80,-82,95,100,105,75,105,180,AUS
+Ralph Cashmans Open Competition,2021-02-19,male,Tan Nguyen,75.88,75,80,85,92,-97,-100,85,92,177,AUS
+Ralph Cashmans Open Competition,2021-02-19,male,Jose Corcio,78.16,57,60,63,70,74,77,63,77,140,AUS
+Ralph Cashmans Open Competition,2021-02-19,male,Brent Taylor,80.60,93,-96,96,-120,-124,-124,96,0,0,AUS
+Ralph Cashmans Open Competition,2021-02-19,male,Michael Lane,84.52,115,120,-125,145,150,155,120,155,275,AUS
+Ralph Cashmans Open Competition,2021-02-19,male,Ajdin Mujanovic,88.10,94,98,-101,126,130,133,98,133,231,AUS
+Ralph Cashmans Open Competition,2021-02-19,male,Richard Lam,82.38,-90,90,-95,-110,110,116,90,116,206,AUS
+Ralph Cashmans Open Competition,2021-02-19,male,Vianni Tolaram,83.22,55,60,65,90,95,-100,65,95,160,AUS
+Ralph Cashmans Open Competition,2021-02-19,male,Adrian Carey,94.92,110,115,118,146,151,-154,118,151,269,AUS
+Ralph Cashmans Open Competition,2021-02-19,male,Leon Vogeler-Schmid,95.74,116,120,-123,143,148,-151,120,148,268,AUS
+Ralph Cashmans Open Competition,2021-02-19,male,Kevin Le,92.96,100,-110,112,120,-135,-140,112,120,232,AUS
+Ralph Cashmans Open Competition,2021-02-19,male,Bilal Elbatoory,93.90,80,85,90,100,105,110,90,110,200,AUS
+Ralph Cashmans Open Competition,2021-02-19,male,Jacob Marquardt,100.20,140,-145,147,171,180,-189,147,180,327,AUS
+Ralph Cashmans Open Competition,2021-02-19,male,Paul Con,97.20,90,-95,100,110,120,131,100,131,231,AUS
+Ralph Cashmans Open Competition,2021-02-19,male,Matt Meddows,97.32,94,-98,-101,126,131,-135,94,131,225,AUS
+Ralph Cashmans Open Competition,2021-02-19,male,Edward Mandla,100.68,84,88,-91,-100,100,-107,88,100,188,AUS
+Ralph Cashmans Open Competition,2021-02-19,male,Dimitrios Diakovasilis,100.24,60,65,70,-90,-90,90,70,90,160,AUS
+Ralph Cashmans Open Competition,2021-02-19,male,Zack Young,103.42,95,100,105,115,125,135,105,135,240,AUS
+Ralph Cashmans Open Competition,2021-02-19,male,Haroon Shukat,117.36,132,138,-143,150,160,-165,138,160,298,AUS
+Ralph Cashmans Open Competition,2021-02-19,male,Jacob Moyers,120.14,85,90,93,-115,-115,115,93,115,208,AUS

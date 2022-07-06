@@ -1,0 +1,19 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Phoenix Open,2022-02-19,female,Isabella Lowe King,42.00,34,37,-38,41,44,-45,37,44,81,AUS
+Phoenix Open,2022-02-19,female,Tessa Job,55.00,58,62,66,72,76,84,66,84,150,AUS
+Phoenix Open,2022-02-19,female,Meg Elford,54.30,44,47,-50,60,63,-67,47,63,110,AUS
+Phoenix Open,2022-02-19,female,Layla Bloom,62.60,63,-67,-70,87,91,-95,63,91,154,AUS
+Phoenix Open,2022-02-19,female,Emma Lundgren,61.20,56,60,-63,76,80,-84,60,80,140,AUS
+Phoenix Open,2022-02-19,female,Vebica Evans,63.00,33,40,-43,40,45,48,40,48,88,AUS
+Phoenix Open,2022-02-19,female,Rebecca Gulle,66.90,42,46,50,65,70,75,50,75,125,AUS
+Phoenix Open,2022-02-19,female,Katrina Jorna,65.30,43,46,48,53,56,58,48,58,106,AUS
+Phoenix Open,2022-02-19,female,Kanika Pandey,70.95,35,38,41,43,47,-50,41,47,88,AUS
+Phoenix Open,2022-02-19,female,Katya Surwillo,71.25,47,49,52,57,62,65,52,65,117,AUS
+Phoenix Open,2022-02-19,female,Jessica Berry,78.90,55,59,64,70,75,80,64,80,144,AUS
+Phoenix Open,2022-02-19,female,Tanesha Hosking-Mani,88.60,-64,64,66,80,84,87,66,87,153,AUS
+Phoenix Open,2022-02-19,male,Jacob Tout,75.50,103,107,-110,-128,128,-133,107,128,235,AUS
+Phoenix Open,2022-02-19,male,Cheok Seng Lee,79.60,92,97,-102,115,120,125,97,125,222,AUS
+Phoenix Open,2022-02-19,male,Martin Ta,74.40,80,85,-90,95,105,-111,85,105,190,AUS
+Phoenix Open,2022-02-19,male,Scott Pavlovic,88.60,95,-100,100,125,130,132,100,132,232,AUS
+Phoenix Open,2022-02-19,male,Ben Collins,88.00,95,100,105,115,120,125,105,125,230,AUS
+Phoenix Open,2022-02-19,male,Brendan Webster,88.30,60,65,-68,65,70,75,65,75,140,AUS

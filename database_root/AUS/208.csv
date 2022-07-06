@@ -1,0 +1,13 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Cross Fit Challenge,2012-09-08,female,Sara Doyle,50.74,35,-41,41,56,60,63,41,63,104,AUS
+Cross Fit Challenge,2012-09-08,female,Lauren Reynolds,64.34,50,55,58,72,77,-80,58,77,135,AUS
+Cross Fit Challenge,2012-09-08,female,Lucy Randle,69.64,45,47,-50,62,65,68,47,68,115,AUS
+Cross Fit Challenge,2012-09-08,female,Madeleine Mcgarath,74.84,45,49,-51,60,64,-67,49,64,113,AUS
+Cross Fit Challenge,2012-09-08,female,Amanda Allen,71.71,55,60,65,75,-80,82,65,82,147,AUS
+Cross Fit Challenge,2012-09-08,female,Marieke Bout,76.66,45,50,-55,60,-65,65,50,65,115,AUS
+Cross Fit Challenge,2012-09-08,male,Matthew Skrypek,73.08,-85,85,-93,110,-115,-120,85,110,195,AUS
+Cross Fit Challenge,2012-09-08,male,Nathan  Wiese,82.18,80,-85,85,105,110,115,85,115,200,AUS
+Cross Fit Challenge,2012-09-08,male,Ryan Simon,78.98,80,-85,90,105,-110,-110,90,105,195,AUS
+Cross Fit Challenge,2012-09-08,male,Adam Pearce,77.44,75,80,-85,-95,95,-100,80,95,175,AUS
+Cross Fit Challenge,2012-09-08,male,Brendon Ward,90.48,80,85,-91,-105,105,-110,85,105,190,AUS
+Cross Fit Challenge,2012-09-08,male,Jordan Steffens,133.48,120,130,135,160,170,-175,135,170,305,AUS

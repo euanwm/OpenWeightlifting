@@ -1,0 +1,18 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+VWA Qualifier Event 1,2021-02-20,female,Denese Billings,41.75,30,32,34,37,41,44,34,44,78,AUS
+VWA Qualifier Event 1,2021-02-20,female,Jessica Smith,53.85,30,33,34,37,40,43,34,43,77,AUS
+VWA Qualifier Event 1,2021-02-20,female,Natalia Chorobczyk,57.85,68,71,-74,85,88,-92,71,88,159,AUS
+VWA Qualifier Event 1,2021-02-20,female,Patricia Annett,55.45,30,32,34,37,41,43,34,43,77,AUS
+VWA Qualifier Event 1,2021-02-20,female,Bonnie Grylls-Graham,62.25,69,72,-75,81,84,87,72,87,159,AUS
+VWA Qualifier Event 1,2021-02-20,female,Sherri Stephen,78.75,63,67,-70,80,-84,85,67,85,152,AUS
+VWA Qualifier Event 1,2021-02-20,female,Tanesha Hosking-Mani,87.35,55,59,64,78,-83,-84,64,78,142,AUS
+VWA Qualifier Event 1,2021-02-20,male,Prince Prince,78.55,110,117,123,140,-147,,123,140,263,AUS
+VWA Qualifier Event 1,2021-02-20,male,Jabez Teitinga,80.25,90,-95,95,108,113,118,95,118,213,AUS
+VWA Qualifier Event 1,2021-02-20,male,Michael Vincent,78.65,90,95,100,-110,110,-115,100,110,210,AUS
+VWA Qualifier Event 1,2021-02-20,male,Leo Jaszewski,80.95,75,80,,91,96,,80,96,176,AUS
+VWA Qualifier Event 1,2021-02-20,male,Hung Anh Dau,74.95,75,-80,-80,93,97,-101,75,97,172,AUS
+VWA Qualifier Event 1,2021-02-20,male,Bryce Morgan,81.65,98,101,104,115,,,104,115,219,AUS
+VWA Qualifier Event 1,2021-02-20,male,Jake Le Cerf,87.75,90,95,98,103,,,98,103,201,AUS
+VWA Qualifier Event 1,2021-02-20,male,Nicholas Chatgoglou,96.00,98,-101,-101,-123,123,-127,98,123,221,AUS
+VWA Qualifier Event 1,2021-02-20,male,Anthony Schultz,99.90,83,87,92,115,120,-125,92,120,212,AUS
+VWA Qualifier Event 1,2021-02-20,male,Dante Hosking-Mani,97.05,73,77,80,93,97,-100,80,97,177,AUS

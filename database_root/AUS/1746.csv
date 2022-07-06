@@ -1,0 +1,22 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Grizzly’s #1,2018-03-03,female,Ramona Faamausili-Fala,40.80,22,25,-28,30,33,35,25,35,60,AUS
+Grizzly’s #1,2018-03-03,female,Junko Matsuzaki,51.50,23,25,-27,35,41,-42,25,41,66,AUS
+Grizzly’s #1,2018-03-03,female,Topaz-Jean Porter,59.30,22,24,28,30,33,-35,28,33,61,AUS
+Grizzly’s #1,2018-03-03,female,Ruby Carwardine,68.00,47,51,54,62,66,71,54,71,125,AUS
+Grizzly’s #1,2018-03-03,female,Simone Le Dilly,65.80,35,38,-40,42,45,-48,38,45,83,AUS
+Grizzly’s #1,2018-03-03,female,Ella Tomuli-Ah-Kuoi,101.20,50,58,-62,65,70,75,58,75,133,AUS
+Grizzly’s #1,2018-03-03,male,Connor Walton,52.80,22,25,-30,23,28,35,25,35,60,AUS
+Grizzly’s #1,2018-03-03,male,Tavian Porter,44.10,20,22,-25,22,25,-30,22,25,47,AUS
+Grizzly’s #1,2018-03-03,male,William Forward,76.50,63,-66,66,75,81,86,66,86,152,AUS
+Grizzly’s #1,2018-03-03,male,Naruhiro Hori,75.40,82,86,90,107,112,116,90,116,206,AUS
+Grizzly’s #1,2018-03-03,male,Mark Fettuccia,83.90,-103,105,-110,132,136,-140,105,136,241,AUS
+Grizzly’s #1,2018-03-03,male,Matt Helstrip,93.60,131,135,-138,160,165,-170,135,165,300,AUS
+Grizzly’s #1,2018-03-03,male,Samu Banyai,93.40,-100,-100,100,115,119,-122,100,119,219,AUS
+Grizzly’s #1,2018-03-03,male,Tristan Brooker,93.60,60,65,68,95,100,107,68,107,175,AUS
+Grizzly’s #1,2018-03-03,male,Mathias Tomuli-Ah-Kuoi,85.60,42,45,48,53,-59,-59,48,53,101,AUS
+Grizzly’s #1,2018-03-03,male,Adrian Frankling,91.80,-82,-82,82,-100,100,104,82,104,186,AUS
+Grizzly’s #1,2018-03-03,male,Samuel Tate,89.40,50,55,60,75,-77,77,60,77,137,AUS
+Grizzly’s #1,2018-03-03,male,Danny Conroy,93.40,45,50,-55,-65,-68,68,50,68,118,AUS
+Grizzly’s #1,2018-03-03,male,Aiden Wilkins,95.90,85,90,94,110,116,-120,94,116,210,AUS
+Grizzly’s #1,2018-03-03,male,Jonathan Gordon,98.50,52,55,60,80,-85,85,60,85,145,AUS
+Grizzly’s #1,2018-03-03,male,Pat Crowley,109.00,105,110,-115,150,155,160,110,160,270,AUS

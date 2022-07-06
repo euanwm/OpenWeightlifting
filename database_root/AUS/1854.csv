@@ -1,0 +1,11 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Open Club #1,2018-01-20,female,Kenyah Lawler,62.62,72,75,77,90,93,-95,77,93,170,AUS
+Open Club #1,2018-01-20,female,Alexa Henderson,62.92,43,45,48,55,60,65,48,65,113,AUS
+Open Club #1,2018-01-20,female,Dani Simeoni,63.00,42,-45,45,52,55,58,45,58,103,AUS
+Open Club #1,2018-01-20,male,John Preston,68.40,26,28,-30,35,38,40,28,40,68,AUS
+Open Club #1,2018-01-20,male,Nicolas Haridemos,74.60,-90,-90,90,110,115,120,90,120,210,AUS
+Open Club #1,2018-01-20,male,Sean Teasdale,80.60,98,-105,-105,120,,,98,120,218,AUS
+Open Club #1,2018-01-20,male,Tim Corby,91.30,83,88,92,105,110,-116,92,110,202,AUS
+Open Club #1,2018-01-20,male,Andrew Brown,97.40,70,75,80,80,85,-95,80,85,165,AUS
+Open Club #1,2018-01-20,male,Jay Fewson,104.40,97,100,105,132,137,142,105,142,247,AUS
+Open Club #1,2018-01-20,male,Emran Shah,103.00,75,78,81,105,110,-115,81,110,191,AUS
