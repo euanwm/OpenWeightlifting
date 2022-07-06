@@ -1,0 +1,5 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Aphesis Club Competition,2017-07-29,male,George Ivanovski,53.50,26,,,26,,,26,26,52,AUS
+Aphesis Club Competition,2017-07-29,male,Paul Cummins,102.70,77,85,90,100,106,-112,90,106,196,AUS
+Aphesis Club Competition,2017-07-29,male,John Zelenjak,116.30,70,77,82,90,97,103,82,103,185,AUS
+Aphesis Club Competition,2017-07-29,male,Paul Dewar,109.90,50,55,-60,70,74,,55,74,129,AUS

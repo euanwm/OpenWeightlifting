@@ -1,0 +1,7 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+mTOR #1,2020-03-15,female,Natasha Bernard,67.85,55,-57,57,74,78,-81,57,78,135,AUS
+mTOR #1,2020-03-15,male,Daniel Kural,80.35,-88,88,93,115,119,-124,93,119,212,AUS
+mTOR #1,2020-03-15,male,Liam Whinfield,96.00,77,-81,81,105,-109,109,81,109,190,AUS
+mTOR #1,2020-03-15,male,Nikolas Grubelich,95.30,75,80,-85,100,-105,105,80,105,185,AUS
+mTOR #1,2020-03-15,male,Russell Ludt,101.20,128,132,135,157,-161,-161,135,157,292,AUS
+mTOR #1,2020-03-15,male,Jordan Meester,99.75,80,84,87,100,105,108,87,108,195,AUS

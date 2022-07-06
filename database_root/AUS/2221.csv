@@ -1,0 +1,19 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Inner West Barbell Open Competition,2019-06-23,female,Irene Eng,51.70,40,44,-47,50,55,57,44,57,101,AUS
+Inner West Barbell Open Competition,2019-06-23,female,Jaida Price,60.30,40,45,50,60,65,70,50,70,120,AUS
+Inner West Barbell Open Competition,2019-06-23,female,Charlotte Stenning,70.00,-65,65,-70,-83,-83,-83,65,0,0,AUS
+Inner West Barbell Open Competition,2019-06-23,female,Stefanie Fernandez Preiksa,76.20,68,72,75,-91,96,-101,75,96,171,AUS
+Inner West Barbell Open Competition,2019-06-23,female,Dimitra Tsiliaskopoulos,86.70,76,78,,102,-105,106,78,106,184,AUS
+Inner West Barbell Open Competition,2019-06-23,female,Katrina Stewart,81.40,42,45,47,52,55,60,47,60,107,AUS
+Inner West Barbell Open Competition,2019-06-23,female,Rachel Brown,83.90,30,35,-40,50,55,-60,35,55,90,AUS
+Inner West Barbell Open Competition,2019-06-23,male,Nelson Cheng,55.70,40,43,46,50,55,60,46,60,106,AUS
+Inner West Barbell Open Competition,2019-06-23,male,Alexander Lim,66.30,88,-92,-93,110,-128,-128,88,110,198,AUS
+Inner West Barbell Open Competition,2019-06-23,male,Khalil Saniago Saniago,64.70,66,70,-73,98,102,-107,70,102,172,AUS
+Inner West Barbell Open Competition,2019-06-23,male,James Liu,66.10,-50,52,56,67,72,-75,56,72,128,AUS
+Inner West Barbell Open Competition,2019-06-23,male,Lawrence D'Mello,63.90,45,49,52,60,64,67,52,67,119,AUS
+Inner West Barbell Open Competition,2019-06-23,male,Bouachanh Thongvilu,72.70,-68,68,-73,80,-87,-87,68,80,148,AUS
+Inner West Barbell Open Competition,2019-06-23,male,Alan Ji,68.20,50,54,57,67,73,79,57,79,136,AUS
+Inner West Barbell Open Competition,2019-06-23,male,Daniel Hutley,79.00,65,-70,70,90,92,94,70,94,164,AUS
+Inner West Barbell Open Competition,2019-06-23,male,Mihir Marathe,84.90,47,50,55,67,72,-75,55,72,127,AUS
+Inner West Barbell Open Competition,2019-06-23,male,Jesse Austin,99.00,85,89,-93,107,111,117,89,117,206,AUS
+Inner West Barbell Open Competition,2019-06-23,male,Martin Mcgrath,111.40,88,93,96,135,142,-146,96,142,238,AUS

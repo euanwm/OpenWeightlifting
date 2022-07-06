@@ -1,0 +1,16 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+VWA Open,2017-10-28,female,Courtney Chong,50.62,49,51,-53,62,64,-66,51,64,115,AUS
+VWA Open,2017-10-28,female,Dannielle Clohesy,57.42,35,38,41,45,48,51,41,51,92,AUS
+VWA Open,2017-10-28,female,Samantha Mcconnell,62.16,62,-65,65,70,73,77,65,77,142,AUS
+VWA Open,2017-10-28,female,Nicky Cummins,67.97,68,-71,-71,84,-88,88,68,88,156,AUS
+VWA Open,2017-10-28,female,Jessica Dudgeon,68.18,40,-44,-44,60,65,-70,40,65,105,AUS
+VWA Open,2017-10-28,female,Teagan Newman,73.13,68,70,-72,80,83,-85,70,83,153,AUS
+VWA Open,2017-10-28,female,Rochelle Fenech,72.20,64,67,70,-75,-75,75,70,75,145,AUS
+VWA Open,2017-10-28,female,Mackenzie Incoll,86.43,35,38,41,45,50,54,41,54,95,AUS
+VWA Open,2017-10-28,male,James Delaney,68.59,-110,-110,110,-140,140,-147,110,140,250,AUS
+VWA Open,2017-10-28,male,Tony Sok,64.27,80,-85,-85,100,105,-107,80,105,185,AUS
+VWA Open,2017-10-28,male,Cameron Kuszla,82.75,106,110,-114,-123,125,128,110,128,238,AUS
+VWA Open,2017-10-28,male,Malcolm Mcwilliams,84.59,87,92,97,115,120,125,97,125,222,AUS
+VWA Open,2017-10-28,male,Rosson Cacencu,92.74,85,90,95,115,121,125,95,125,220,AUS
+VWA Open,2017-10-28,male,David Chen,91.22,90,-95,95,115,120,-125,95,120,215,AUS
+VWA Open,2017-10-28,male,Joshua Quinn,104.95,-130,-130,-133,-160,-160,,0,0,0,AUS

@@ -1,0 +1,23 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Hills Barbell Open Competition,2021-06-26,female,Aroha Ransfield,51.90,45,48,-50,55,60,63,48,63,111,AUS
+Hills Barbell Open Competition,2021-06-26,female,Jess Sewastenko,58.80,73,77,-80,91,-96,96,77,96,173,AUS
+Hills Barbell Open Competition,2021-06-26,female,Madeline Wu,62.90,68,-73,-73,83,-87,87,68,87,155,AUS
+Hills Barbell Open Competition,2021-06-26,female,Kaitlyn Byrnes,60.20,29,31,33,34,37,40,33,40,73,AUS
+Hills Barbell Open Competition,2021-06-26,female,Taneeka Bettenay,69.20,-74,74,78,96,-100,100,78,100,178,AUS
+Hills Barbell Open Competition,2021-06-26,female,Sacha Elms,70.60,-68,68,71,81,84,87,71,87,158,AUS
+Hills Barbell Open Competition,2021-06-26,female,Christelle Solivet,66.90,42,46,-50,56,60,63,46,63,109,AUS
+Hills Barbell Open Competition,2021-06-26,female,Claudia Duve,68.90,42,45,47,-52,52,-56,47,52,99,AUS
+Hills Barbell Open Competition,2021-06-26,female,Kathryn Mcpherson,70.80,23,25,27,30,-33,-36,27,30,57,AUS
+Hills Barbell Open Competition,2021-06-26,female,Alyssa Walter,105.40,-48,48,51,60,64,67,51,67,118,AUS
+Hills Barbell Open Competition,2021-06-26,male,George Lu,66.70,-72,72,-75,103,-108,-108,72,103,175,AUS
+Hills Barbell Open Competition,2021-06-26,male,Stephen Hernandez,70.00,-70,70,73,95,100,105,73,105,178,AUS
+Hills Barbell Open Competition,2021-06-26,male,Matthew Tran,72.90,70,75,-80,92,-100,100,75,100,175,AUS
+Hills Barbell Open Competition,2021-06-26,male,Ari Ngati,80.80,110,-115,115,-135,-135,135,115,135,250,AUS
+Hills Barbell Open Competition,2021-06-26,male,Mark Grinham,80.60,100,104,109,-115,115,122,109,122,231,AUS
+Hills Barbell Open Competition,2021-06-26,male,Hayden Dark,80.50,97,100,-104,-120,124,,100,124,224,AUS
+Hills Barbell Open Competition,2021-06-26,male,Fabian Garcia,79.50,81,-84,-84,101,-105,-105,81,101,182,AUS
+Hills Barbell Open Competition,2021-06-26,male,Keith Rodriguez,79.10,45,50,55,65,70,75,55,75,130,AUS
+Hills Barbell Open Competition,2021-06-26,male,Vu Tran,83.40,102,106,-110,40,-144,-150,106,40,146,AUS
+Hills Barbell Open Competition,2021-06-26,male,Adrian Carey,95.10,117,121,-124,145,150,-155,121,150,271,AUS
+Hills Barbell Open Competition,2021-06-26,male,Nathan Beves,99.70,102,106,-111,119,125,130,106,130,236,AUS
+Hills Barbell Open Competition,2021-06-26,male,Daniel Wallington,107.90,115,-120,-120,150,156,-160,115,156,271,AUS

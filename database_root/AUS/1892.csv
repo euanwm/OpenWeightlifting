@@ -1,0 +1,12 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Hunter Barbell Open Competition,2018-02-10,female,Katie Yilmaz,50.60,35,40,43,50,55,60,43,60,103,AUS
+Hunter Barbell Open Competition,2018-02-10,female,Bobbie-Jane Souter,88.70,30,35,40,45,50,55,40,55,95,AUS
+Hunter Barbell Open Competition,2018-02-10,male,Max Mcgavern,46.10,20,23,25,30,33,35,25,35,60,AUS
+Hunter Barbell Open Competition,2018-02-10,male,Nelson Harris,64.90,70,75,-80,90,95,100,75,100,175,AUS
+Hunter Barbell Open Competition,2018-02-10,male,Paul Knowles,77.00,90,95,107,120,-130,137,107,137,244,AUS
+Hunter Barbell Open Competition,2018-02-10,male,Fabian Garcia,76.60,75,78,-82,93,-98,-98,78,93,171,AUS
+Hunter Barbell Open Competition,2018-02-10,male,Alex Hersey,82.90,75,80,85,105,110,115,85,115,200,AUS
+Hunter Barbell Open Competition,2018-02-10,male,Brent Taylor,83.20,65,70,75,90,95,100,75,100,175,AUS
+Hunter Barbell Open Competition,2018-02-10,male,Ismail Haskara,82.90,40,45,50,70,75,-80,50,75,125,AUS
+Hunter Barbell Open Competition,2018-02-10,male,Shane Scott,92.50,60,65,70,80,85,90,70,90,160,AUS
+Hunter Barbell Open Competition,2018-02-10,male,Michael Naim,101.00,94,98,-101,-125,-125,125,98,125,223,AUS

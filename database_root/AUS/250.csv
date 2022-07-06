@@ -1,0 +1,8 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Triumph Club Competition,2013-12-06,female,Jessica Barkhan,48.00,39,43,46,51,56,-58,46,56,102,AUS
+Triumph Club Competition,2013-12-06,female,Kiana Elliott,61.70,39,45,50,55,60,,50,60,110,AUS
+Triumph Club Competition,2013-12-06,male,Paul Amiradaki,53.90,46,-50,-50,-62,62,-70,46,62,108,AUS
+Triumph Club Competition,2013-12-06,male,Luke Robinson,74.00,65,-70,70,70,77,80,70,80,150,AUS
+Triumph Club Competition,2013-12-06,male,Elliot Blues,89.70,80,-85,-85,-100,-105,-106,80,0,0,AUS
+Triumph Club Competition,2013-12-06,male,Chris Trayes,92.20,-90,-95,-95,106,-110,-110,0,106,0,AUS
+Triumph Club Competition,2013-12-06,male,Alex Wallace,97.00,110,-115,,,,,110,0,0,AUS

@@ -1,0 +1,10 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+HWC Australia Day,2012-01-21,male,James Delaney,50.25,53,56,-58,68,72,-75,56,72,128,AUS
+HWC Australia Day,2012-01-21,male,Jason Gevrekos,68.10,68,-73,-73,92,96,100,68,100,168,AUS
+HWC Australia Day,2012-01-21,male,John Cichello,84.80,85,-88,-88,107,112,-115,85,112,197,AUS
+HWC Australia Day,2012-01-21,male,Wesley Spargo,77.95,70,-75,75,100,105,-110,75,105,180,AUS
+HWC Australia Day,2012-01-21,male,Scott Norman,90.40,93,96,-98,-110,-111,-111,96,0,0,AUS
+HWC Australia Day,2012-01-21,male,Julio Melo (Jnr),103.35,-87,87,-91,105,-112,,87,105,192,AUS
+HWC Australia Day,2012-01-21,male,Matthew Wragg,132.90,125,-128,-128,157,-167,-167,125,157,282,AUS
+HWC Australia Day,2012-01-21,male,Paul Allen,84.20,70,-75,-75,90,95,100,70,100,170,AUS
+HWC Australia Day,2012-01-21,male,Armando Miotti,92.85,95,101,105,-125,125,132,105,132,237,AUS

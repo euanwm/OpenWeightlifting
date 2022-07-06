@@ -1,0 +1,5 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+SAWLA Feburary Open,2021-02-06,male,Steven Trang,73.00,80,-86,86,110,113,-120,86,113,199,AUS
+SAWLA Feburary Open,2021-02-06,male,John Aik,80.90,71,-80,82,106,110,-116,82,110,192,AUS
+SAWLA Feburary Open,2021-02-06,male,Alexander Ioanni,87.00,80,-85,-86,104,,,80,104,184,AUS
+SAWLA Feburary Open,2021-02-06,male,Michael Takac,100.40,71,76,-81,87,92,-101,76,92,168,AUS

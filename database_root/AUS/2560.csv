@@ -1,0 +1,12 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+The Rev,2021-10-09,female,Grace Tjerkstra,55.00,55,58,60,65,70,73,60,73,133,AUS
+The Rev,2021-10-09,female,Larissa Murfit,58.10,-60,60,-63,80,83,-86,60,83,143,AUS
+The Rev,2021-10-09,female,Samantha Walker,63.50,-49,49,52,60,63,67,52,67,119,AUS
+The Rev,2021-10-09,female,Charlotte Hoy,62.70,35,38,41,44,48,52,41,52,93,AUS
+The Rev,2021-10-09,female,Callie Mcnulty,70.50,40,43,47,52,56,-60,47,56,103,AUS
+The Rev,2021-10-09,female,Meg Eichner,80.70,57,60,63,-77,-77,77,63,77,140,AUS
+The Rev,2021-10-09,female,Jasmine Stimson,85.70,-75,78,82,96,100,-105,82,100,182,AUS
+The Rev,2021-10-09,male,Jason Ager,71.40,97,102,-106,120,125,130,102,130,232,AUS
+The Rev,2021-10-09,male,Luke Delaveris,79.90,85,90,-95,110,-115,-120,90,110,200,AUS
+The Rev,2021-10-09,male,Matt Helstrip,95.80,115,120,-125,145,150,-155,120,150,270,AUS
+The Rev,2021-10-09,male,Ilan Josephs,107.40,80,85,90,-100,100,-105,90,100,190,AUS

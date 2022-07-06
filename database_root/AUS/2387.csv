@@ -1,0 +1,32 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Inner West Barbell Open Competition,2020-07-26,female,Fatima Yakubu,58.64,80,-84,84,100,105,,84,105,189,AUS
+Inner West Barbell Open Competition,2020-07-26,female,Alison Cranston,58.48,61,63,-65,77,80,-84,63,80,143,AUS
+Inner West Barbell Open Competition,2020-07-26,female,Emily Beaumont,63.20,65,-69,-69,84,-88,-88,65,84,149,AUS
+Inner West Barbell Open Competition,2020-07-26,female,Jenya Semenovska,60.42,27,29,-31,36,38,40,29,40,69,AUS
+Inner West Barbell Open Competition,2020-07-26,female,Taneeka Bettenay,68.02,63,-67,67,84,87,-91,67,87,154,AUS
+Inner West Barbell Open Competition,2020-07-26,female,Elizabeth Austin,69.52,57,61,-65,68,73,77,61,77,138,AUS
+Inner West Barbell Open Competition,2020-07-26,female,Christelle Solivet,65.80,30,33,35,40,45,48,35,48,83,AUS
+Inner West Barbell Open Competition,2020-07-26,female,Elena Macnamara,70.42,30,33,35,42,47,-51,35,47,82,AUS
+Inner West Barbell Open Competition,2020-07-26,female,Cathy Mason,67.10,20,22,24,23,25,28,24,28,52,AUS
+Inner West Barbell Open Competition,2020-07-26,female,Stefanie Fernandez Preiksa,78.28,65,70,-75,90,-93,-93,70,90,160,AUS
+Inner West Barbell Open Competition,2020-07-26,female,Evie Kennedy,79.30,60,,,70,,,60,70,130,AUS
+Inner West Barbell Open Competition,2020-07-26,female,Ashlee Pottinger,77.54,40,43,46,55,60,63,46,63,109,AUS
+Inner West Barbell Open Competition,2020-07-26,female,Georgia O'Connor,78.22,35,40,43,55,60,63,43,63,106,AUS
+Inner West Barbell Open Competition,2020-07-26,female,Scout Symons,85.60,35,38,40,50,55,60,40,60,100,AUS
+Inner West Barbell Open Competition,2020-07-26,male,Deacon Mercieca,54.06,57,61,63,75,78,80,63,80,143,AUS
+Inner West Barbell Open Competition,2020-07-26,male,Nelson Cheng,59.34,51,55,59,62,67,72,59,72,131,AUS
+Inner West Barbell Open Competition,2020-07-26,male,Bouachanh Thongvilu,72.18,70,74,-77,85,-93,-93,74,85,159,AUS
+Inner West Barbell Open Competition,2020-07-26,male,Jay Klaithin,71.78,55,60,65,75,80,85,65,85,150,AUS
+Inner West Barbell Open Competition,2020-07-26,male,Anh Minh Ken Nguyen,70.06,85,-89,,,,,85,0,0,AUS
+Inner West Barbell Open Competition,2020-07-26,male,Nicholas Predkowski,72.08,104,-109,110,-125,-125,-132,110,0,0,AUS
+Inner West Barbell Open Competition,2020-07-26,male,Yannick Mifsud,77.16,110,115,-120,136,141,-145,115,141,256,AUS
+Inner West Barbell Open Competition,2020-07-26,male,James Liu,74.00,65,70,-75,87,93,-98,70,93,163,AUS
+Inner West Barbell Open Competition,2020-07-26,male,Vu Tran,83.56,100,-105,105,120,125,130,105,130,235,AUS
+Inner West Barbell Open Competition,2020-07-26,male,Mihir Marathe,82.72,63,67,71,82,87,90,71,90,161,AUS
+Inner West Barbell Open Competition,2020-07-26,male,Damien Adams,88.76,55,60,-65,70,75,80,60,80,140,AUS
+Inner West Barbell Open Competition,2020-07-26,male,Haoping Tang,95.30,102,106,110,120,125,130,110,130,240,AUS
+Inner West Barbell Open Competition,2020-07-26,male,Noah Milford,91.68,95,100,105,115,120,125,105,125,230,AUS
+Inner West Barbell Open Competition,2020-07-26,male,Brian Banez,95.12,65,70,73,75,80,85,73,85,158,AUS
+Inner West Barbell Open Competition,2020-07-26,male,Matt Meddows,96.88,90,95,-98,120,-126,-126,95,120,215,AUS
+Inner West Barbell Open Competition,2020-07-26,male,Jackson Roberts-Young,108.84,-144,-145,-145,,,,0,0,0,AUS
+Inner West Barbell Open Competition,2020-07-26,male,Robert Milsom,162.00,45,50,55,70,75,80,55,80,135,AUS

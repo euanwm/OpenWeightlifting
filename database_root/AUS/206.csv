@@ -1,0 +1,13 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+VWA Open,2012-06-30,female,Leilani Clarken,95.80,48,52,54,68,72,75,54,75,129,AUS
+VWA Open,2012-06-30,male,Oisin Clarken,65.90,47,52,55,60,65,68,55,68,123,AUS
+VWA Open,2012-06-30,male,Lester Ho,76.30,-95,95,100,115,-120,-120,100,115,215,AUS
+VWA Open,2012-06-30,male,Jordan Bender,75.20,85,-90,-90,-112,112,-115,85,112,197,AUS
+VWA Open,2012-06-30,male,Charlie Woodward,74.80,40,45,47,45,50,53,47,53,100,AUS
+VWA Open,2012-06-30,male,Nicodemus Scheelings,81.60,100,105,-108,120,125,127,105,127,232,AUS
+VWA Open,2012-06-30,male,Toby Ferrucci,80.30,100,105,-108,120,125,-130,105,125,230,AUS
+VWA Open,2012-06-30,male,Matthew Pit,83.35,95,100,105,120,-125,125,105,125,230,AUS
+VWA Open,2012-06-30,male,Chris Hogan,90.30,100,105,110,125,130,135,110,135,245,AUS
+VWA Open,2012-06-30,male,Rafael Marini,86.05,65,70,75,95,100,105,75,105,180,AUS
+VWA Open,2012-06-30,male,Zac Grgurevic,98.30,120,125,130,155,160,,130,160,290,AUS
+VWA Open,2012-06-30,male,Marc Mansour,116.25,92,98,-102,110,-119,-119,98,110,208,AUS

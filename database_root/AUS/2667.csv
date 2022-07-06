@@ -1,0 +1,4 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Burleigh Barbell Club_Club competition,2021-10-16,female,Chloe Perkins,54.40,48,50,52,68,70,72,52,72,124,AUS
+Burleigh Barbell Club_Club competition,2021-10-16,female,Emmalyne Mitchell,78.80,-74,77,80,94,-97,97,80,97,177,AUS
+Burleigh Barbell Club_Club competition,2021-10-16,female,Jessie Cheong,78.85,50,55,-60,70,75,78,55,78,133,AUS

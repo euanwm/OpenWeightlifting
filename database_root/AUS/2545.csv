@@ -1,0 +1,21 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+BUBC Xmas comp,2021-12-18,female,Dominika Makosova,54.80,65,67,70,-83,83,85,70,85,155,AUS
+BUBC Xmas comp,2021-12-18,female,Celeste Van Coeverden,57.25,-50,50,53,62,66,70,53,70,123,AUS
+BUBC Xmas comp,2021-12-18,female,Ellen Willis,63.50,36,-38,38,48,50,52,38,52,90,AUS
+BUBC Xmas comp,2021-12-18,female,Bronte Maund,70.30,-50,50,53,70,74,78,53,78,131,AUS
+BUBC Xmas comp,2021-12-18,female,Ebonie Stirling-Gatt,66.00,35,40,44,50,56,-60,44,56,100,AUS
+BUBC Xmas comp,2021-12-18,female,Georgia Carter,70.45,-58,-58,-58,,,,0,0,0,AUS
+BUBC Xmas comp,2021-12-18,female,Madeleine Whatman,74.45,54,57,60,70,73,75,60,75,135,AUS
+BUBC Xmas comp,2021-12-18,female,Ella Duncombe,75.35,50,53,56,65,70,73,56,73,129,AUS
+BUBC Xmas comp,2021-12-18,female,Kasie Hunter,74.50,32,34,35,40,43,45,35,45,80,AUS
+BUBC Xmas comp,2021-12-18,female,Luiza Sartori,86.90,58,62,66,76,80,-84,66,80,146,AUS
+BUBC Xmas comp,2021-12-18,female,Charjae Cracknell,81.55,52,55,-58,70,75,80,55,80,135,AUS
+BUBC Xmas comp,2021-12-18,male,Brayden Williams,72.95,100,104,108,130,134,-140,108,134,242,AUS
+BUBC Xmas comp,2021-12-18,male,Michael Nides,80.95,110,115,-120,136,141,-145,115,141,256,AUS
+BUBC Xmas comp,2021-12-18,male,Jeff Johnson,80.50,50,55,60,70,74,-78,60,74,134,AUS
+BUBC Xmas comp,2021-12-18,male,Ryven Ewing,87.80,-118,118,122,152,-157,-157,122,152,274,AUS
+BUBC Xmas comp,2021-12-18,male,Justin Connor,88.80,90,95,-100,132,-141,-141,95,132,227,AUS
+BUBC Xmas comp,2021-12-18,male,Kiya Drew,95.70,-70,70,-75,100,-105,105,70,105,175,AUS
+BUBC Xmas comp,2021-12-18,male,Jonathon Barnes,95.90,60,65,70,100,104,-108,70,104,174,AUS
+BUBC Xmas comp,2021-12-18,male,Angus Ward,108.75,-105,105,-111,130,134,137,105,137,242,AUS
+BUBC Xmas comp,2021-12-18,male,Marcus Lewis,118.10,120,125,-130,142,-150,-150,125,142,267,AUS

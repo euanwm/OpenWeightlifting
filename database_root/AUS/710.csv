@@ -1,0 +1,8 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Pythons Club Competition,2015-02-08,female,Grace Morrison,71.80,38,40,42,54,57,61,42,61,103,AUS
+Pythons Club Competition,2015-02-08,male,Ben Shadbolt,44.60,21,-24,24,32,34,36,24,36,60,AUS
+Pythons Club Competition,2015-02-08,male,Brett Shadbolt,34.75,18,21,-23,23,25,27,21,27,48,AUS
+Pythons Club Competition,2015-02-08,male,William Forward,76.05,-60,-60,60,80,-82,-82,60,80,140,AUS
+Pythons Club Competition,2015-02-08,male,James Naylor-Pratt,82.40,65,70,-75,85,90,95,70,95,165,AUS
+Pythons Club Competition,2015-02-08,male,Blake Shadbolt,91.95,-100,105,110,125,-130,-133,110,125,235,AUS
+Pythons Club Competition,2015-02-08,male,Brendan Kennedy,89.95,-75,-75,75,90,100,110,75,110,185,AUS

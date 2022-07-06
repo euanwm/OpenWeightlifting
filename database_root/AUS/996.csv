@@ -1,0 +1,10 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+SAWLA October Open,2016-10-21,female,Claire Wilson,60.72,50,-53,53,67,-71,-71,53,67,120,AUS
+SAWLA October Open,2016-10-21,female,Lucy Dolling,74.26,35,39,-42,48,-51,51,39,51,90,AUS
+SAWLA October Open,2016-10-21,female,Carly Allen,89.88,60,65,-68,78,83,-86,65,83,148,AUS
+SAWLA October Open,2016-10-21,female,Tamra Murphy,73.78,40,-44,44,50,-54,54,44,54,98,AUS
+SAWLA October Open,2016-10-21,male,Frank Elliott,78.08,115,122,127,145,-153,-153,127,145,272,AUS
+SAWLA October Open,2016-10-21,male,Vikas Kumar,82.42,90,95,100,110,115,120,100,120,220,AUS
+SAWLA October Open,2016-10-21,male,Mitchell Gustafsson,86.18,105,,,120,123,126,105,126,231,AUS
+SAWLA October Open,2016-10-21,male,Matthew Sulkowski,90.36,75,-81,-81,85,91,96,75,96,171,AUS
+SAWLA October Open,2016-10-21,male,John Humphrys,91.38,36,-41,41,-46,46,-50,41,46,87,AUS

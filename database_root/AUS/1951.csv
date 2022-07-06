@@ -1,0 +1,6 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Pacific Cup,2019-12-07,female,Phoenix Goodwin,46.52,40,44,-48,50,54,-58,44,54,98,AUS
+Pacific Cup,2019-12-07,male,Joshua Wu,72.57,109,113,-117,-143,-143,143,113,143,256,AUS
+Pacific Cup,2019-12-07,male,Conor Macdonald,72.29,85,90,-95,115,122,-128,90,122,212,AUS
+Pacific Cup,2019-12-07,male,Jackson Howie,80.44,115,121,127,145,150,157,127,157,284,AUS
+Pacific Cup,2019-12-07,male,Orion Walsh,145.60,110,115,120,135,140,145,120,145,265,AUS

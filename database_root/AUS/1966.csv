@@ -1,0 +1,9 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Origins,2019-04-05,female,Paige Glenn,75.80,55,58,-60,-75,75,78,58,78,136,AUS
+Origins,2019-04-05,female,Mia Southam,74.10,37,40,42,48,-51,51,42,51,93,AUS
+Origins,2019-04-05,male,Lachlan Turton,55.00,39,42,44,-53,53,56,44,56,100,AUS
+Origins,2019-04-05,male,Emidio Pileggi,27.30,14,16,17,-20,20,-22,17,20,37,AUS
+Origins,2019-04-05,male,Benjamin La Cunza-Watson,64.90,48,-51,51,62,66,-70,51,66,117,AUS
+Origins,2019-04-05,male,Stefan Kiddis,69.20,24,26,-28,30,32,-35,26,32,58,AUS
+Origins,2019-04-05,male,Aysar Bazlee,78.10,70,-77,-80,100,107,-112,70,107,177,AUS
+Origins,2019-04-05,male,Kelvin Hall,83.60,94,97,-101,115,-120,-120,97,115,212,AUS

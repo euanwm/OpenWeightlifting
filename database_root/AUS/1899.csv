@@ -1,0 +1,7 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Inner West Barbell Club Competition,2018-05-06,female,Sabah Chamoun,63.00,71,76,78,96,-101,-102,78,96,174,AUS
+Inner West Barbell Club Competition,2018-05-06,female,Charlotte Veldheer,62.30,50,-55,55,70,75,-78,55,75,130,AUS
+Inner West Barbell Club Competition,2018-05-06,female,Stefanie Dugandzich,68.80,40,43,45,56,61,-67,45,61,106,AUS
+Inner West Barbell Club Competition,2018-05-06,female,Linda Eades,80.10,40,43,-45,53,56,59,43,59,102,AUS
+Inner West Barbell Club Competition,2018-05-06,male,Simon Callander,91.80,75,82,-88,105,112,120,82,120,202,AUS
+Inner West Barbell Club Competition,2018-05-06,male,Jesse Austin,101.30,75,80,-85,100,105,-111,80,105,185,AUS
