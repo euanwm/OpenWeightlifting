@@ -2,6 +2,7 @@
 import csv
 
 from json import load, dumps
+from os.path import join
 
 
 def load_csv_as_list(filepath):
@@ -12,6 +13,14 @@ def load_csv_as_list(filepath):
         for line in csv_reader:
             return_list.append(line)
     return return_list
+
+
+def write_to_csv(base_dir, filepath_name, data):
+    """yes"""
+    print(f"creating {filepath_name}.csv...")
+    with open(join(base_dir, f"{filepath_name}.csv"), 'w', encoding='utf-8') as file_boi:
+        csv_writer = csv.writer(file_boi)
+        csv_writer.writerows(data)
 
 
 def append_to_csv(filepath_name, data):

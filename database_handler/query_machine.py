@@ -3,8 +3,6 @@ import os
 import json
 import csv
 
-from time import sleep
-
 from result_dataclasses import UKUSResult, DatabaseEntry
 from static_helpers import load_result_csv_as_list, append_to_csv, load_csv_as_list
 
