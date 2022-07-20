@@ -5,13 +5,6 @@ from database_handler.api_machine import GoRESTYourself
 
 app = Flask(__name__)
 api_function = GoRESTYourself()
-"""
-GET, PUT, DELETE, and POST.
-GET rectifies and recovers resources
-PUT updates the current data
-DELETE eliminates data
-POST delivers new and unique data to the server.
-"""
 
 
 class HTTP(str, Enum):
@@ -47,6 +40,12 @@ def api_lifter_totals():
 def api_single_lifter(name):
     """lifter performance history"""
     return jsonify(api_function.lifter_lookup(name))
+
+
+@app.route("/api/lookup/<name>", methods=[HTTP.GET])
+def api_search_lifters(name):
+    """will be used in livesearch"""
+    return jsonify(api_function.lifter_suggest(name)) if len(name) >= 2 else jsonify([{"name": None, "country": None}])
 
 
 if __name__ == '__main__':

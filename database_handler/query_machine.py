@@ -2,9 +2,10 @@
 import os
 import json
 import csv
+from time import perf_counter
 
-from result_dataclasses import UKUSResult, DatabaseEntry
-from static_helpers import load_result_csv_as_list, append_to_csv, load_csv_as_list
+from .result_dataclasses import UKUSResult, DatabaseEntry
+from .static_helpers import load_result_csv_as_list, append_to_csv, load_csv_as_list
 
 
 class QueryThis:
@@ -131,6 +132,21 @@ class QueryThis:
                     shite.remove(y_2)
         return shite
 
+    def create_lifter_index(self):
+        """creates a csv file of all lifters"""
+        query_filename = "lifter_names.csv"
+        lifters = []
+        with open(os.path.join(self.query_folder, query_filename), 'w', encoding='utf-8') as big_db:
+            csv_writer = csv.writer(big_db)
+            for country in os.listdir(self.results_root):  # UK / US / etc.
+                for result in os.listdir((os.path.join(self.results_root, country))):
+                    loaded_results = load_result_csv_as_list(os.path.join(self.results_root, country, result))
+                    for single_result in loaded_results:
+                        # every name must be lower case to avoid caps mistakes
+                        row = [single_result[3].lower(), country]
+                        if row not in lifters:
+                            lifters.append(row)
+            csv_writer.writerows(lifters)
 
 if __name__ == '__main__':
     queerer = QueryThis()
@@ -138,6 +154,7 @@ if __name__ == '__main__':
     # queerer.generate_gender_cats()
     # queerer.collate_all_db()
     # queerer.separate_main_db()
-    queerer.sort_by_total('female')
-    queerer.sort_by_total('male')
+    # queerer.sort_by_total('female')
+    # queerer.sort_by_total('male')
     # queerer.sort_by_ratio("female")
+    queerer.create_lifter_index()
