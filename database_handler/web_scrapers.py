@@ -137,9 +137,8 @@ class AustraliaWeightlifting:
     def __init__(self):
         self.getter = requests.Session()
 
-    def lookup_lifter(self, id: int):
-        # /statistics/lifter/id/8600
-        pass
+    def lookup_lifter(self, lifter_id: int):
+        """/statistics/lifter/id/8600"""
 
     def get_event(self, event_id: int):
         """Gets the event page - will need to scrape tables etc"""
@@ -165,13 +164,14 @@ class AustraliaWeightlifting:
 
 def backdate_results(start_id, final_id):
     """meh"""
-    AWF = AustraliaWeightlifting()
+    awf = AustraliaWeightlifting()
     root_dir = "database_root/AUS"
     for id_int in range(start_id, final_id):
         try:
-            write_to_csv(root_dir, id_int, AWF.get_event(id_int))
+            write_to_csv(root_dir, id_int, awf.get_event(id_int))
         except AttributeError:
             print(f"no result under event: {id_int}..")
+
 
 if __name__ == '__main__':
     backdate_results(2798, 3000)

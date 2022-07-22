@@ -1,5 +1,6 @@
 {
     "male": [
+        "male",
         "Men's Masters (35-39) 81Kg",
         "Men's Masters (45-49) 96Kg",
         "Men's Masters (40-44) 102Kg",
@@ -229,6 +230,7 @@
         "Men's 14-15 Age Group 39kg"
     ],
     "female": [
+        "female",
         "Women's Masters (40-44) 71Kg",
         "Women's Masters (40-44) 76Kg",
         "Women's Masters (35-39) 87+Kg",

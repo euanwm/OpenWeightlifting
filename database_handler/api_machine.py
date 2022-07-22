@@ -35,18 +35,17 @@ class GoRESTYourself:
     def lifter_sinclairs(self, gender, start, stop):
         """fuck up the shit above"""
 
-    def lifter_lookup(self, name: str):
+    def lifter_lookup(self, name: dict):
         """this is gonna be hell to cache"""
         return {"name": name, "history": ["comp1", "comp2", "comp3"]}
 
     def lifter_suggest(self, name: str) -> list[dict]:
         """return a list[dict] of lifter names"""
-        lifter_index = "lifter_names.csv"
         search_results = []
-        for indx_name, country in self.lifter_index:
-            boily_boi = {"name": None, "country": None}
+        for indx_name, gender, country in self.lifter_index:
+            boily_boi = {"name": None, "gender": None, "country": None}
             if name in indx_name:
-                boily_boi["name"], boily_boi["country"] = indx_name, country
+                boily_boi["name"], boily_boi['gender'], boily_boi["country"] = indx_name, gender, country
                 search_results.append(boily_boi)
         return search_results
 
@@ -54,4 +53,5 @@ class GoRESTYourself:
 if __name__ == '__main__':
     api = GoRESTYourself()
     #res = api.lifter_totals()
-    api.lifter_suggest("euan")
+    #print(api.lifter_suggest("euan"))
+    api.lifter_lookup({'name': 'euan warren', 'gender': 'male', 'country': 'AUS'})

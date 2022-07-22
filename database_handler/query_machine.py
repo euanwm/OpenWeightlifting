@@ -4,8 +4,8 @@ import json
 import csv
 from time import perf_counter
 
-from .result_dataclasses import UKUSResult, DatabaseEntry
-from .static_helpers import load_result_csv_as_list, append_to_csv, load_csv_as_list
+from result_dataclasses import UKUSResult, DatabaseEntry
+from static_helpers import load_result_csv_as_list, append_to_csv, load_csv_as_list
 
 
 class QueryThis:
@@ -46,6 +46,14 @@ class QueryThis:
         with open("database_handler/gender_categories.json", 'r', encoding='utf-8') as gender_cat_file:
             cat_dict: dict = json.load(gender_cat_file)
         return cat_dict
+
+    def __assign_sex(self, category: str):
+        """did you assume my biological sex? yes"""
+        category_list = self.__load_gender_cats()
+        if category in category_list['male'] or "Men's" in category:
+            return "male"
+        elif category in category_list['female'] or "Women's" in category:
+            return "female"
 
     def collate_all_db(self):
         """Top 100 query, by total initially"""
@@ -142,18 +150,20 @@ class QueryThis:
                 for result in os.listdir((os.path.join(self.results_root, country))):
                     loaded_results = load_result_csv_as_list(os.path.join(self.results_root, country, result))
                     for single_result in loaded_results:
+                        lifter_sex = self.__assign_sex(single_result[2])
                         # every name must be lower case to avoid caps mistakes
-                        row = [single_result[3].lower(), country]
+                        row = [single_result[3].lower(), lifter_sex, country]
                         if row not in lifters:
                             lifters.append(row)
             csv_writer.writerows(lifters)
+
 
 if __name__ == '__main__':
     queerer = QueryThis()
     # queerer.compile_gender_cats()
     # queerer.generate_gender_cats()
     # queerer.collate_all_db()
-    # queerer.separate_main_db()
+    queerer.separate_main_db()
     # queerer.sort_by_total('female')
     # queerer.sort_by_total('male')
     # queerer.sort_by_ratio("female")

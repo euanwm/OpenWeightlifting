@@ -36,10 +36,10 @@ def api_lifter_totals():
             return jsonify({"error": "not a valid method"})
 
 
-@app.route("/api/lifter/<name>", methods=[HTTP.GET])
+@app.route("/api/lifter", methods=[HTTP.POST])
 def api_single_lifter(name):
     """lifter performance history"""
-    return jsonify(api_function.lifter_lookup(name))
+    return jsonify(api_function.lifter_lookup(request.form))
 
 
 @app.route("/api/lookup/<name>", methods=[HTTP.GET])
@@ -49,4 +49,4 @@ def api_search_lifters(name):
 
 
 if __name__ == '__main__':
-    app.run(port=80)
+    app.run()
