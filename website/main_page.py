@@ -1,6 +1,6 @@
 """main flask page shit"""
 from enum import Enum
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, render_template
 from database_handler.api_machine import GoRESTYourself
 
 app = Flask(__name__)
@@ -20,7 +20,7 @@ class HTTP(str, Enum):
 @app.route("/", methods=[HTTP.GET])
 def index():
     """landing page"""
-    return f"Add in the main page shit here"
+    return render_template('index.html')
 
 
 @app.route("/api/lifter_totals", methods=[HTTP.GET, HTTP.POST])
@@ -49,4 +49,4 @@ def api_search_lifters(name):
 
 
 if __name__ == '__main__':
-    app.run()
+    app.run(port=80)
