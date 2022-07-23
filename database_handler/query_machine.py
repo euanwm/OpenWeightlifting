@@ -4,8 +4,8 @@ import json
 import csv
 from time import perf_counter
 
-from result_dataclasses import UKUSResult, DatabaseEntry
-from static_helpers import load_result_csv_as_list, append_to_csv, load_csv_as_list
+from .result_dataclasses import Result, DatabaseEntry
+from .static_helpers import load_result_csv_as_list, append_to_csv, load_csv_as_list
 
 
 class QueryThis:
@@ -34,7 +34,7 @@ class QueryThis:
     def __pick_genders(self, results_list: list, cats: dict):
         """fuck"""
         for entry in results_list:
-            entry_dc = UKUSResult(*entry)
+            entry_dc = Result(*entry)
             if "Men's" in entry_dc.category and entry_dc.category not in cats['male']:
                 cats['male'].append(entry_dc.category)
             elif "Women's" in entry_dc.category and entry_dc.category not in cats['female']:

@@ -23,23 +23,10 @@ def index():
     return render_template('index.html')
 
 
-@app.route("/api/lifter_totals", methods=[HTTP.GET, HTTP.POST])
-def api_lifter_totals():
-    """post total bitch"""
-    match request.method:
-        case HTTP.GET:
-            return jsonify(api_function.lifter_totals())
-        case HTTP.POST:
-            # todo: build the payload parser thingy
-            return jsonify(api_function.lifter_totals())
-        case _:
-            return jsonify({"error": "not a valid method"})
-
-
 @app.route("/api/lifter", methods=[HTTP.POST])
-def api_single_lifter(name):
+def api_single_lifter():
     """lifter performance history"""
-    return jsonify(api_function.lifter_lookup(request.form))
+    return jsonify(api_function.lifter_lookup(request.json))
 
 
 @app.route("/api/lookup/<name>", methods=[HTTP.GET])

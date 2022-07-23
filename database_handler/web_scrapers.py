@@ -154,8 +154,6 @@ class AustraliaWeightlifting:
             x.insert(0, event_name)
         pop_results = remove_unused_columns(final_results)
         gendered_results = assign_gender(pop_results)
-        for x in gendered_results:
-            x.append("AUS")
         final_header = ['event', 'date', 'gender', 'lifter', 'body_weight_(kg)', 'snatch_lift_1', 'snatch_lift_2',
                         'snatch_lift_3', 'c&j_lift_1', 'c&j_lift_2', 'c&j_lift_3', 'best_snatch', 'best_c&j', 'total']
         gendered_results.insert(0, final_header)

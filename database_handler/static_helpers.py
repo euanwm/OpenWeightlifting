@@ -4,6 +4,17 @@ import csv
 from json import load, dumps
 from os.path import join
 
+from .result_dataclasses import Result
+
+
+def results_to_dict(big_list: list) -> list[dict]:
+    """flat list of results into a dict format"""
+    dict_list = []
+    for x in big_list:
+        entry = Result(*x)
+        dict_list.append(entry.__dict__)
+    return dict_list
+
 
 def load_csv_as_list(filepath):
     """csv to list"""

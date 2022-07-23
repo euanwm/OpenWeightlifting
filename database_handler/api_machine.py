@@ -1,13 +1,12 @@
 """All API calls will go in here to keep things neat"""
-import csv
-import json
+import os
 from csv import reader
 from os.path import join
-from typing import Union, Dict
+from typing import Union
 
 from database_handler.query_machine import QueryThis
 from database_handler.result_dataclasses import DatabaseEntry
-from database_handler.static_helpers import load_csv_as_list
+from database_handler.static_helpers import load_csv_as_list, results_to_dict
 
 
 class GoRESTYourself:
@@ -16,6 +15,7 @@ class GoRESTYourself:
     def __init__(self):
         self.query_root = QueryThis.query_folder
         self.lifter_index = load_csv_as_list(join(self.query_root, "lifter_names.csv"))
+        self.db_root = QueryThis.results_root  # meh
 
     def lifter_totals(self, gender="male", start=0, stop=100) -> Union[dict[str, str], str]:
         """Default endpoint for the landing page"""
@@ -35,9 +35,19 @@ class GoRESTYourself:
     def lifter_sinclairs(self, gender, start, stop):
         """fuck up the shit above"""
 
-    def lifter_lookup(self, name: dict):
+    def lifter_lookup(self, lifter_deets: dict):
         """this is gonna be hell to cache"""
-        return {"name": name, "history": ["comp1", "comp2", "comp3"]}
+        db_path = join(self.db_root, lifter_deets['country'])
+        db_csv_paths = os.listdir(db_path)
+        all_csv_data = []
+        lifter_data = []
+        for csv_path in db_csv_paths:
+            all_csv_data.append(load_csv_as_list(join(db_path, csv_path)))
+        for comps in all_csv_data:
+            lifter_data.append([x for x in comps if x[3].lower() == lifter_deets['name']])
+        lifter_data = [x[0] for x in lifter_data if len(x) != 0]
+        lifter_deets['data'] = results_to_dict(lifter_data)
+        return lifter_deets
 
     def lifter_suggest(self, name: str) -> list[dict]:
         """return a list[dict] of lifter names"""
@@ -54,4 +64,4 @@ if __name__ == '__main__':
     api = GoRESTYourself()
     #res = api.lifter_totals()
     #print(api.lifter_suggest("euan"))
-    api.lifter_lookup({'name': 'euan warren', 'gender': 'male', 'country': 'AUS'})
+    api.lifter_lookup({'name': 'euan meston', 'gender': 'male', 'country': 'UK'})
