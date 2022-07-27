@@ -1,13 +1,13 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-RAW Barbell Open Competition,2018-04-08,female,Madeline Wu,62.50,68,-73,-73,85,-88,-88,68,85,153,AUS
-RAW Barbell Open Competition,2018-04-08,female,Elena Macnamara,61.60,30,32,-34,40,45,48,32,48,80,AUS
-RAW Barbell Open Competition,2018-04-08,female,Tyneesha Kerr,64.25,45,48,-52,57,61,65,48,65,113,AUS
-RAW Barbell Open Competition,2018-04-08,male,Mark Guanzon,69.00,95,-100,100,-117,117,-124,100,117,217,AUS
-RAW Barbell Open Competition,2018-04-08,male,Bouachanh Thongvilu,68.50,-60,60,63,70,-74,77,63,77,140,AUS
-RAW Barbell Open Competition,2018-04-08,male,Joshua Wu,73.00,108,-112,-115,145,150,-154,108,150,258,AUS
-RAW Barbell Open Competition,2018-04-08,male,Victor Wollny,75.35,52,-55,-55,65,68,70,52,70,122,AUS
-RAW Barbell Open Competition,2018-04-08,male,Ben Abraham,84.70,100,105,-110,130,-140,-143,105,130,235,AUS
-RAW Barbell Open Competition,2018-04-08,male,Kyle Bruce,85.05,120,-125,-125,146,153,-157,120,153,273,AUS
-RAW Barbell Open Competition,2018-04-08,male,Corey Hele,87.25,90,95,100,120,125,130,100,130,230,AUS
-RAW Barbell Open Competition,2018-04-08,male,Michael Naim,93.95,90,95,-100,120,-125,-125,95,120,215,AUS
-RAW Barbell Open Competition,2018-04-08,male,Matthew Henry,99.70,100,104,108,120,125,-128,108,125,233,AUS
+RAW Barbell Open Competition,2018-04-08,female,Madeline Wu,62.50,68,-73,-73,85,-88,-88,68,85,153
+RAW Barbell Open Competition,2018-04-08,female,Elena Macnamara,61.60,30,32,-34,40,45,48,32,48,80
+RAW Barbell Open Competition,2018-04-08,female,Tyneesha Kerr,64.25,45,48,-52,57,61,65,48,65,113
+RAW Barbell Open Competition,2018-04-08,male,Mark Guanzon,69.00,95,-100,100,-117,117,-124,100,117,217
+RAW Barbell Open Competition,2018-04-08,male,Bouachanh Thongvilu,68.50,-60,60,63,70,-74,77,63,77,140
+RAW Barbell Open Competition,2018-04-08,male,Joshua Wu,73.00,108,-112,-115,145,150,-154,108,150,258
+RAW Barbell Open Competition,2018-04-08,male,Victor Wollny,75.35,52,-55,-55,65,68,70,52,70,122
+RAW Barbell Open Competition,2018-04-08,male,Ben Abraham,84.70,100,105,-110,130,-140,-143,105,130,235
+RAW Barbell Open Competition,2018-04-08,male,Kyle Bruce,85.05,120,-125,-125,146,153,-157,120,153,273
+RAW Barbell Open Competition,2018-04-08,male,Corey Hele,87.25,90,95,100,120,125,130,100,130,230
+RAW Barbell Open Competition,2018-04-08,male,Michael Naim,93.95,90,95,-100,120,-125,-125,95,120,215
+RAW Barbell Open Competition,2018-04-08,male,Matthew Henry,99.70,100,104,108,120,125,-128,108,125,233

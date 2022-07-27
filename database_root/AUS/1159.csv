@@ -1,12 +1,12 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-IWF World Masters Championships,2016-10-01,female,Julie Davis,51.50,25,26,-27,36,37,38,26,38,64,AUS
-IWF World Masters Championships,2016-10-01,female,Colleen Duplock,54.30,25,26,27,34,36,-39,27,36,63,AUS
-IWF World Masters Championships,2016-10-01,female,Diana Loy,57.60,47,52,55,67,72,76,55,76,131,AUS
-IWF World Masters Championships,2016-10-01,female,Valerie Silver,61.60,28,30,-32,-38,38,40,30,40,70,AUS
-IWF World Masters Championships,2016-10-01,female,Lesley Moyle,60.50,26,28,-29,36,38,40,28,40,68,AUS
-IWF World Masters Championships,2016-10-01,female,Grace Morrison,70.80,42,-44,44,54,-58,,44,54,98,AUS
-IWF World Masters Championships,2016-10-01,female,Leandra Miscamble,68.50,31,-33,-33,47,49,-51,31,49,80,AUS
-IWF World Masters Championships,2016-10-01,male,Oliver Briones,60.60,-75,-75,-75,,,,0,0,0,AUS
-IWF World Masters Championships,2016-10-01,male,Musa Kamara,75.40,103,106,110,130,-135,-135,110,130,240,AUS
-IWF World Masters Championships,2016-10-01,male,Robert Davison,75.70,-78,78,-85,110,-115,118,78,118,196,AUS
-IWF World Masters Championships,2016-10-01,male,Rohan Mason,75.30,,,,,,,0,0,0,AUS
+IWF World Masters Championships,2016-10-01,female,Julie Davis,51.50,25,26,-27,36,37,38,26,38,64
+IWF World Masters Championships,2016-10-01,female,Colleen Duplock,54.30,25,26,27,34,36,-39,27,36,63
+IWF World Masters Championships,2016-10-01,female,Diana Loy,57.60,47,52,55,67,72,76,55,76,131
+IWF World Masters Championships,2016-10-01,female,Valerie Silver,61.60,28,30,-32,-38,38,40,30,40,70
+IWF World Masters Championships,2016-10-01,female,Lesley Moyle,60.50,26,28,-29,36,38,40,28,40,68
+IWF World Masters Championships,2016-10-01,female,Grace Morrison,70.80,42,-44,44,54,-58,0,44,54,98
+IWF World Masters Championships,2016-10-01,female,Leandra Miscamble,68.50,31,-33,-33,47,49,-51,31,49,80
+IWF World Masters Championships,2016-10-01,male,Oliver Briones,60.60,-75,-75,-75,0,0,0,0,0,0
+IWF World Masters Championships,2016-10-01,male,Musa Kamara,75.40,103,106,110,130,-135,-135,110,130,240
+IWF World Masters Championships,2016-10-01,male,Robert Davison,75.70,-78,78,-85,110,-115,118,78,118,196
+IWF World Masters Championships,2016-10-01,male,Rohan Mason,75.30,0,0,0,0,0,0,0,0,0

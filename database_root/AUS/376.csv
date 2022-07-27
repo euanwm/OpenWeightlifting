@@ -1,14 +1,14 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-President's Cup Round 8,2013-10-26,female,Charrae Myers,54.58,43,46,-49,55,59,-63,46,59,105,AUS
-President's Cup Round 8,2013-10-26,female,Telyshia Jones,61.86,32,35,38,44,48,52,38,52,90,AUS
-President's Cup Round 8,2013-10-26,male,Dominic Newman,58.86,17,-20,20,30,33,35,20,35,55,AUS
-President's Cup Round 8,2013-10-26,male,David Bannister,66.08,85,90,93,105,110,112,93,112,205,AUS
-President's Cup Round 8,2013-10-26,male,Micah Wade,83.70,-70,70,-75,105,-115,115,70,115,185,AUS
-President's Cup Round 8,2013-10-26,male,Peter Gordon,80.82,60,-62,63,81,83,-86,63,83,146,AUS
-President's Cup Round 8,2013-10-26,male,Will Jones,83.72,-62,62,67,72,-76,76,67,76,143,AUS
-President's Cup Round 8,2013-10-26,male,Kasey Canham,81.22,58,60,63,68,71,74,63,74,137,AUS
-President's Cup Round 8,2013-10-26,male,Dylan Oakford,90.90,95,-100,100,120,-124,124,100,124,224,AUS
-President's Cup Round 8,2013-10-26,male,Josh Peppiatt,91.40,63,67,70,80,85,92,70,92,162,AUS
-President's Cup Round 8,2013-10-26,male,Scott Taylor,96.06,98,102,-106,123,127,-130,102,127,229,AUS
-President's Cup Round 8,2013-10-26,male,Dale Hall-Bowden,90.46,85,90,-93,100,105,-110,90,105,195,AUS
-President's Cup Round 8,2013-10-26,male,Robert Gotts,122.06,-68,68,-71,88,91,92,68,92,160,AUS
+President's Cup Round 8,2013-10-26,female,Charrae Myers,54.58,43,46,-49,55,59,-63,46,59,105
+President's Cup Round 8,2013-10-26,female,Telyshia Jones,61.86,32,35,38,44,48,52,38,52,90
+President's Cup Round 8,2013-10-26,male,Dominic Newman,58.86,17,-20,20,30,33,35,20,35,55
+President's Cup Round 8,2013-10-26,male,David Bannister,66.08,85,90,93,105,110,112,93,112,205
+President's Cup Round 8,2013-10-26,male,Micah Wade,83.70,-70,70,-75,105,-115,115,70,115,185
+President's Cup Round 8,2013-10-26,male,Peter Gordon,80.82,60,-62,63,81,83,-86,63,83,146
+President's Cup Round 8,2013-10-26,male,Will Jones,83.72,-62,62,67,72,-76,76,67,76,143
+President's Cup Round 8,2013-10-26,male,Kasey Canham,81.22,58,60,63,68,71,74,63,74,137
+President's Cup Round 8,2013-10-26,male,Dylan Oakford,90.90,95,-100,100,120,-124,124,100,124,224
+President's Cup Round 8,2013-10-26,male,Josh Peppiatt,91.40,63,67,70,80,85,92,70,92,162
+President's Cup Round 8,2013-10-26,male,Scott Taylor,96.06,98,102,-106,123,127,-130,102,127,229
+President's Cup Round 8,2013-10-26,male,Dale Hall-Bowden,90.46,85,90,-93,100,105,-110,90,105,195
+President's Cup Round 8,2013-10-26,male,Robert Gotts,122.06,-68,68,-71,88,91,92,68,92,160

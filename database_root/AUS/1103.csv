@@ -1,11 +1,11 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Qld Club Challenge Round 4 – Sunshine Coast,2016-10-15,female,Chelsea Nicoll,46.20,-38,-38,-38,,,,0,0,0,AUS
-Qld Club Challenge Round 4 – Sunshine Coast,2016-10-15,female,Lisa Polowyj,61.90,-50,50,-54,68,72,75,50,75,125,AUS
-Qld Club Challenge Round 4 – Sunshine Coast,2016-10-15,female,Angela Barnas,73.70,50,53,55,70,73,-76,55,73,128,AUS
-Qld Club Challenge Round 4 – Sunshine Coast,2016-10-15,female,Dale Donaghue,80.00,45,48,51,55,60,62,51,62,113,AUS
-Qld Club Challenge Round 4 – Sunshine Coast,2016-10-15,male,Mitchell Daniels,69.70,88,92,95,100,105,110,95,110,205,AUS
-Qld Club Challenge Round 4 – Sunshine Coast,2016-10-15,male,Maximilian Clark,83.20,45,50,52,-55,55,61,52,61,113,AUS
-Qld Club Challenge Round 4 – Sunshine Coast,2016-10-15,male,Jakob Daniels,90.60,110,115,-120,140,-147,-153,115,140,255,AUS
-Qld Club Challenge Round 4 – Sunshine Coast,2016-10-15,male,Byron Mcgregor,90.40,85,-90,90,102,107,112,90,112,202,AUS
-Qld Club Challenge Round 4 – Sunshine Coast,2016-10-15,male,Trevor Walz,79.40,57,60,-62,73,80,83,60,83,143,AUS
-Qld Club Challenge Round 4 – Sunshine Coast,2016-10-15,male,Rodney Carr,116.70,100,-105,110,125,130,-140,110,130,240,AUS
+Qld Club Challenge Round 4 – Sunshine Coast,2016-10-15,female,Chelsea Nicoll,46.20,-38,-38,-38,0,0,0,0,0,0
+Qld Club Challenge Round 4 – Sunshine Coast,2016-10-15,female,Lisa Polowyj,61.90,-50,50,-54,68,72,75,50,75,125
+Qld Club Challenge Round 4 – Sunshine Coast,2016-10-15,female,Angela Barnas,73.70,50,53,55,70,73,-76,55,73,128
+Qld Club Challenge Round 4 – Sunshine Coast,2016-10-15,female,Dale Donaghue,80.00,45,48,51,55,60,62,51,62,113
+Qld Club Challenge Round 4 – Sunshine Coast,2016-10-15,male,Mitchell Daniels,69.70,88,92,95,100,105,110,95,110,205
+Qld Club Challenge Round 4 – Sunshine Coast,2016-10-15,male,Maximilian Clark,83.20,45,50,52,-55,55,61,52,61,113
+Qld Club Challenge Round 4 – Sunshine Coast,2016-10-15,male,Jakob Daniels,90.60,110,115,-120,140,-147,-153,115,140,255
+Qld Club Challenge Round 4 – Sunshine Coast,2016-10-15,male,Byron Mcgregor,90.40,85,-90,90,102,107,112,90,112,202
+Qld Club Challenge Round 4 – Sunshine Coast,2016-10-15,male,Trevor Walz,79.40,57,60,-62,73,80,83,60,83,143
+Qld Club Challenge Round 4 – Sunshine Coast,2016-10-15,male,Rodney Carr,116.70,100,-105,110,125,130,-140,110,130,240

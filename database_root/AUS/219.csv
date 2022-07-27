@@ -1,4 +1,4 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-World Junior Championships,2013-05-03,female,Bonnie Sleeman,87.57,71,77,83,92,97,-101,83,97,180,AUS
-World Junior Championships,2013-05-03,male,Matthew Munns,68.86,103,-108,108,120,127,-132,108,127,235,AUS
-World Junior Championships,2013-05-03,male,Liam Larkins,76.88,110,-114,-114,133,-138,-141,110,133,243,AUS
+World Junior Championships,2013-05-03,female,Bonnie Sleeman,87.57,71,77,83,92,97,-101,83,97,180
+World Junior Championships,2013-05-03,male,Matthew Munns,68.86,103,-108,108,120,127,-132,108,127,235
+World Junior Championships,2013-05-03,male,Liam Larkins,76.88,110,-114,-114,133,-138,-141,110,133,243

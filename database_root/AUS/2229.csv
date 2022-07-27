@@ -1,4 +1,4 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-SAWLA September Open,2019-09-14,female,Chelsea Deboo,54.20,30,31,32,40,41,42,32,42,74,AUS
-SAWLA September Open,2019-09-14,male,Anthony Formichella,131.90,-55,55,56,63,68,75,56,75,131,AUS
-SAWLA September Open,2019-09-14,male,Amin Ariaee,111.20,-85,85,-86,-115,-115,-115,85,0,0,AUS
+SAWLA September Open,2019-09-14,female,Chelsea Deboo,54.20,30,31,32,40,41,42,32,42,74
+SAWLA September Open,2019-09-14,male,Anthony Formichella,131.90,-55,55,56,63,68,75,56,75,131
+SAWLA September Open,2019-09-14,male,Amin Ariaee,111.20,-85,85,-86,-115,-115,-115,85,0,0

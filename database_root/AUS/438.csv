@@ -1,4 +1,4 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-WACT Qualifying Competition,2013-12-18,female,Kylie Thompson,68.58,83,-87,-87,97,-102,-102,83,97,180,AUS
-WACT Qualifying Competition,2013-12-18,female,Kerryn Dawson,68.20,35,-37,-37,-50,50,54,35,54,89,AUS
-WACT Qualifying Competition,2013-12-18,male,Michal Dunski,86.26,80,82,-85,105,107,110,82,110,192,AUS
+WACT Qualifying Competition,2013-12-18,female,Kylie Thompson,68.58,83,-87,-87,97,-102,-102,83,97,180
+WACT Qualifying Competition,2013-12-18,female,Kerryn Dawson,68.20,35,-37,-37,-50,50,54,35,54,89
+WACT Qualifying Competition,2013-12-18,male,Michal Dunski,86.26,80,82,-85,105,107,110,82,110,192

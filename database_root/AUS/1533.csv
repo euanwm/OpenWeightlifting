@@ -1,17 +1,17 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-NTWA Open/Masters Competition,2017-09-24,female,Stella O'Donnell,42.88,10,12,14,12,14,18,14,18,32,AUS
-NTWA Open/Masters Competition,2017-09-24,female,Maria Aleta,56.84,10,12,14,12,14,18,14,18,32,AUS
-NTWA Open/Masters Competition,2017-09-24,female,Indiana O'Donnell,57.56,10,11,12,11,12,14,12,14,26,AUS
-NTWA Open/Masters Competition,2017-09-24,female,Tia Landridge,61.15,28,30,32,42,45,47,32,47,79,AUS
-NTWA Open/Masters Competition,2017-09-24,female,Kaitlyn Straube,63.05,13,15,17,14,16,18,17,18,35,AUS
-NTWA Open/Masters Competition,2017-09-24,female,Nyree Slatter,156.40,40,-43,-43,60,-65,65,40,65,105,AUS
-NTWA Open/Masters Competition,2017-09-24,female,Leah Chandler,89.80,30,32,-35,38,42,-45,32,42,74,AUS
-NTWA Open/Masters Competition,2017-09-24,male,Ryan Straube,38.72,10,12,14,13,15,18,14,18,32,AUS
-NTWA Open/Masters Competition,2017-09-24,male,Will Chandler,34.48,10,11,12,11,13,14,12,14,26,AUS
-NTWA Open/Masters Competition,2017-09-24,male,Kyle Odonoghue Ellis,58.98,16,18,20,20,23,26,20,26,46,AUS
-NTWA Open/Masters Competition,2017-09-24,male,Carl Aleta,61.85,16,18,20,20,23,25,20,25,45,AUS
-NTWA Open/Masters Competition,2017-09-24,male,Keiryn Orr,67.15,14,16,18,17,19,22,18,22,40,AUS
-NTWA Open/Masters Competition,2017-09-24,male,Matt Watterson,71.10,60,-70,70,85,-95,95,70,95,165,AUS
-NTWA Open/Masters Competition,2017-09-24,male,Andrew Rideout,83.00,82,86,89,110,-115,115,89,115,204,AUS
-NTWA Open/Masters Competition,2017-09-24,male,Simon Myers,93.95,95,-100,100,-125,125,-130,100,125,225,AUS
-NTWA Open/Masters Competition,2017-09-24,male,Tim Steele,98.50,65,69,-72,85,-90,90,69,90,159,AUS
+NTWA Open/Masters Competition,2017-09-24,female,Stella O'Donnell,42.88,10,12,14,12,14,18,14,18,32
+NTWA Open/Masters Competition,2017-09-24,female,Maria Aleta,56.84,10,12,14,12,14,18,14,18,32
+NTWA Open/Masters Competition,2017-09-24,female,Indiana O'Donnell,57.56,10,11,12,11,12,14,12,14,26
+NTWA Open/Masters Competition,2017-09-24,female,Tia Landridge,61.15,28,30,32,42,45,47,32,47,79
+NTWA Open/Masters Competition,2017-09-24,female,Kaitlyn Straube,63.05,13,15,17,14,16,18,17,18,35
+NTWA Open/Masters Competition,2017-09-24,female,Nyree Slatter,156.40,40,-43,-43,60,-65,65,40,65,105
+NTWA Open/Masters Competition,2017-09-24,female,Leah Chandler,89.80,30,32,-35,38,42,-45,32,42,74
+NTWA Open/Masters Competition,2017-09-24,male,Ryan Straube,38.72,10,12,14,13,15,18,14,18,32
+NTWA Open/Masters Competition,2017-09-24,male,Will Chandler,34.48,10,11,12,11,13,14,12,14,26
+NTWA Open/Masters Competition,2017-09-24,male,Kyle Odonoghue Ellis,58.98,16,18,20,20,23,26,20,26,46
+NTWA Open/Masters Competition,2017-09-24,male,Carl Aleta,61.85,16,18,20,20,23,25,20,25,45
+NTWA Open/Masters Competition,2017-09-24,male,Keiryn Orr,67.15,14,16,18,17,19,22,18,22,40
+NTWA Open/Masters Competition,2017-09-24,male,Matt Watterson,71.10,60,-70,70,85,-95,95,70,95,165
+NTWA Open/Masters Competition,2017-09-24,male,Andrew Rideout,83.00,82,86,89,110,-115,115,89,115,204
+NTWA Open/Masters Competition,2017-09-24,male,Simon Myers,93.95,95,-100,100,-125,125,-130,100,125,225
+NTWA Open/Masters Competition,2017-09-24,male,Tim Steele,98.50,65,69,-72,85,-90,90,69,90,159

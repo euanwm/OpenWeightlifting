@@ -1,4 +1,4 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-OX Club Comp #1,2017-09-15,female,Charlotte Saxton,46.20,-27,27,-30,30,33,-36,27,33,60,AUS
-OX Club Comp #1,2017-09-15,male,William Burrell,42.60,17,19,20,23,25,27,20,27,47,AUS
-OX Club Comp #1,2017-09-15,male,Oliver Saxton,58.00,50,53,56,65,70,-75,56,70,126,AUS
+OX Club Comp #1,2017-09-15,female,Charlotte Saxton,46.20,-27,27,-30,30,33,-36,27,33,60
+OX Club Comp #1,2017-09-15,male,William Burrell,42.60,17,19,20,23,25,27,20,27,47
+OX Club Comp #1,2017-09-15,male,Oliver Saxton,58.00,50,53,56,65,70,-75,56,70,126

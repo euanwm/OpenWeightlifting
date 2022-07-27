@@ -1,23 +1,23 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Arnold International,2015-03-14,female,Emily Scott,47.25,52,57,-60,70,-75,-75,57,70,127,AUS
-Arnold International,2015-03-14,female,Hailee Jarrett,47.40,53,56,-60,68,-71,-71,56,68,124,AUS
-Arnold International,2015-03-14,female,Erika Yamasaki,52.85,76,-80,80,97,101,-106,80,101,181,AUS
-Arnold International,2015-03-14,female,Mary Barter,51.15,52,55,58,-72,72,-76,58,72,130,AUS
-Arnold International,2015-03-14,female,Kiana Elliott,62.40,75,79,-83,86,90,-95,79,90,169,AUS
-Arnold International,2015-03-14,female,Jessica Partridge,62.85,70,73,-75,90,92,-94,73,92,165,AUS
-Arnold International,2015-03-14,female,Roxanne Walker,62.05,70,-73,-73,85,-88,89,70,89,159,AUS
-Arnold International,2015-03-14,female,Rachel Goodman,64.90,-74,-76,77,96,100,-102,77,100,177,AUS
-Arnold International,2015-03-14,female,Camilla Fogagnolo,72.90,82,-85,85,-103,103,-108,85,103,188,AUS
-Arnold International,2015-03-14,female,Clare Cherry,74.15,70,-74,-74,-92,92,-96,70,92,162,AUS
-Arnold International,2015-03-14,female,Jenna Myers,77.50,86,90,94,111,115,120,94,120,214,AUS
-Arnold International,2015-03-14,female,Belinda Van Tienen,81.75,80,84,87,105,110,-113,87,110,197,AUS
-Arnold International,2015-03-14,male,Matthew Munns,69.00,118,-124,-124,-146,146,-152,118,146,264,AUS
-Arnold International,2015-03-14,male,Francois Etoundi,77.00,130,-135,-135,152,156,160,130,160,290,AUS
-Arnold International,2015-03-14,male,Mitchell Delbridge,76.15,120,125,130,145,150,-153,130,150,280,AUS
-Arnold International,2015-03-14,male,Frank Elliott,75.90,122,-128,-128,-145,145,151,122,151,273,AUS
-Arnold International,2015-03-14,male,Daniel Katz,76.60,-120,120,-125,150,-155,-155,120,150,270,AUS
-Arnold International,2015-03-14,male,Liam Larkins,84.75,-123,-123,123,153,-160,-160,123,153,276,AUS
-Arnold International,2015-03-14,male,Matthew Pit,84.55,-120,-120,120,-145,145,150,120,150,270,AUS
-Arnold International,2015-03-14,male,Luke Gardner,84.90,115,119,-123,145,-152,-152,119,145,264,AUS
-Arnold International,2015-03-14,male,Nicodemus Scheelings,91.30,-128,-130,130,150,-155,-157,130,150,280,AUS
-Arnold International,2015-03-14,male,Zac Grgurevic,104.85,135,140,-145,175,-182,182,140,182,322,AUS
+Arnold International,2015-03-14,female,Emily Scott,47.25,52,57,-60,70,-75,-75,57,70,127
+Arnold International,2015-03-14,female,Hailee Jarrett,47.40,53,56,-60,68,-71,-71,56,68,124
+Arnold International,2015-03-14,female,Erika Yamasaki,52.85,76,-80,80,97,101,-106,80,101,181
+Arnold International,2015-03-14,female,Mary Barter,51.15,52,55,58,-72,72,-76,58,72,130
+Arnold International,2015-03-14,female,Kiana Elliott,62.40,75,79,-83,86,90,-95,79,90,169
+Arnold International,2015-03-14,female,Jessica Partridge,62.85,70,73,-75,90,92,-94,73,92,165
+Arnold International,2015-03-14,female,Roxanne Walker,62.05,70,-73,-73,85,-88,89,70,89,159
+Arnold International,2015-03-14,female,Rachel Goodman,64.90,-74,-76,77,96,100,-102,77,100,177
+Arnold International,2015-03-14,female,Camilla Fogagnolo,72.90,82,-85,85,-103,103,-108,85,103,188
+Arnold International,2015-03-14,female,Clare Cherry,74.15,70,-74,-74,-92,92,-96,70,92,162
+Arnold International,2015-03-14,female,Jenna Myers,77.50,86,90,94,111,115,120,94,120,214
+Arnold International,2015-03-14,female,Belinda Van Tienen,81.75,80,84,87,105,110,-113,87,110,197
+Arnold International,2015-03-14,male,Matthew Munns,69.00,118,-124,-124,-146,146,-152,118,146,264
+Arnold International,2015-03-14,male,Francois Etoundi,77.00,130,-135,-135,152,156,160,130,160,290
+Arnold International,2015-03-14,male,Mitchell Delbridge,76.15,120,125,130,145,150,-153,130,150,280
+Arnold International,2015-03-14,male,Frank Elliott,75.90,122,-128,-128,-145,145,151,122,151,273
+Arnold International,2015-03-14,male,Daniel Katz,76.60,-120,120,-125,150,-155,-155,120,150,270
+Arnold International,2015-03-14,male,Liam Larkins,84.75,-123,-123,123,153,-160,-160,123,153,276
+Arnold International,2015-03-14,male,Matthew Pit,84.55,-120,-120,120,-145,145,150,120,150,270
+Arnold International,2015-03-14,male,Luke Gardner,84.90,115,119,-123,145,-152,-152,119,145,264
+Arnold International,2015-03-14,male,Nicodemus Scheelings,91.30,-128,-130,130,150,-155,-157,130,150,280
+Arnold International,2015-03-14,male,Zac Grgurevic,104.85,135,140,-145,175,-182,182,140,182,322

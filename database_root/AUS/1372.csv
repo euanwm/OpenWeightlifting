@@ -1,8 +1,8 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Titans Club Competition,2017-03-11,female,Ailsa Seaton,64.56,50,55,58,65,70,74,58,74,132,AUS
-Titans Club Competition,2017-03-11,female,Linda Eades,77.10,40,44,48,55,58,-62,48,58,106,AUS
-Titans Club Competition,2017-03-11,male,Fabian Garcia,75.02,-72,72,76,92,-95,95,76,95,171,AUS
-Titans Club Competition,2017-03-11,male,Joseph Campbell,83.40,95,98,101,127,132,137,101,137,238,AUS
-Titans Club Competition,2017-03-11,male,Adrian Mena,84.30,90,95,-100,118,122,-127,95,122,217,AUS
-Titans Club Competition,2017-03-11,male,Garry Wong,79.95,50,55,58,72,75,78,58,78,136,AUS
-Titans Club Competition,2017-03-11,male,Tyson Hudson,90.30,90,95,-100,-120,-125,125,95,125,220,AUS
+Titans Club Competition,2017-03-11,female,Ailsa Seaton,64.56,50,55,58,65,70,74,58,74,132
+Titans Club Competition,2017-03-11,female,Linda Eades,77.10,40,44,48,55,58,-62,48,58,106
+Titans Club Competition,2017-03-11,male,Fabian Garcia,75.02,-72,72,76,92,-95,95,76,95,171
+Titans Club Competition,2017-03-11,male,Joseph Campbell,83.40,95,98,101,127,132,137,101,137,238
+Titans Club Competition,2017-03-11,male,Adrian Mena,84.30,90,95,-100,118,122,-127,95,122,217
+Titans Club Competition,2017-03-11,male,Garry Wong,79.95,50,55,58,72,75,78,58,78,136
+Titans Club Competition,2017-03-11,male,Tyson Hudson,90.30,90,95,-100,-120,-125,125,95,125,220

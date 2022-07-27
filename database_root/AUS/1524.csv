@@ -1,5 +1,5 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Toowoomba Club Competition,2017-12-02,female,Tanya Eames,62.60,52,-54,-54,68,-72,-72,52,68,120,AUS
-Toowoomba Club Competition,2017-12-02,female,Mikaela Dorge,64.70,-54,-56,-56,62,64,66,0,66,0,AUS
-Toowoomba Club Competition,2017-12-02,male,Brent Vaughan,84.60,80,85,-90,111,-116,-116,85,111,196,AUS
-Toowoomba Club Competition,2017-12-02,male,Lawson Dingle,104.60,125,-130,132,142,147,151,132,151,283,AUS
+Toowoomba Club Competition,2017-12-02,female,Tanya Eames,62.60,52,-54,-54,68,-72,-72,52,68,120
+Toowoomba Club Competition,2017-12-02,female,Mikaela Dorge,64.70,-54,-56,-56,62,64,66,0,66,0
+Toowoomba Club Competition,2017-12-02,male,Brent Vaughan,84.60,80,85,-90,111,-116,-116,85,111,196
+Toowoomba Club Competition,2017-12-02,male,Lawson Dingle,104.60,125,-130,132,142,147,151,132,151,283

@@ -1,12 +1,12 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Stay True Club Competition,2017-03-04,female,Carley Odonnell,51.30,23,25,27,30,33,36,27,36,63,AUS
-Stay True Club Competition,2017-03-04,female,Jemma Cowper,55.30,35,37,39,50,53,56,39,56,95,AUS
-Stay True Club Competition,2017-03-04,female,Tegan Digby,62.00,40,43,45,54,58,60,45,60,105,AUS
-Stay True Club Competition,2017-03-04,female,Kirra Chandler,71.30,28,30,32,40,42,44,32,44,76,AUS
-Stay True Club Competition,2017-03-04,female,Karlee Catlin,71.30,25,28,30,-30,33,36,30,36,66,AUS
-Stay True Club Competition,2017-03-04,female,Sandra Branson,75.80,28,-30,30,33,35,38,30,38,68,AUS
-Stay True Club Competition,2017-03-04,female,Kimberley King,106.50,33,35,37,43,46,49,37,49,86,AUS
-Stay True Club Competition,2017-03-04,female,Telia Dennis,92.30,32,34,36,42,44,46,36,46,82,AUS
-Stay True Club Competition,2017-03-04,male,Jakob Daniels,84.50,108,112,-115,138,-144,-150,112,138,250,AUS
-Stay True Club Competition,2017-03-04,male,Byron Mcgregor,90.00,80,86,91,-105,110,-115,91,110,201,AUS
-Stay True Club Competition,2017-03-04,male,Thomas O'Brien,142.10,80,85,90,105,110,115,90,115,205,AUS
+Stay True Club Competition,2017-03-04,female,Carley Odonnell,51.30,23,25,27,30,33,36,27,36,63
+Stay True Club Competition,2017-03-04,female,Jemma Cowper,55.30,35,37,39,50,53,56,39,56,95
+Stay True Club Competition,2017-03-04,female,Tegan Digby,62.00,40,43,45,54,58,60,45,60,105
+Stay True Club Competition,2017-03-04,female,Kirra Chandler,71.30,28,30,32,40,42,44,32,44,76
+Stay True Club Competition,2017-03-04,female,Karlee Catlin,71.30,25,28,30,-30,33,36,30,36,66
+Stay True Club Competition,2017-03-04,female,Sandra Branson,75.80,28,-30,30,33,35,38,30,38,68
+Stay True Club Competition,2017-03-04,female,Kimberley King,106.50,33,35,37,43,46,49,37,49,86
+Stay True Club Competition,2017-03-04,female,Telia Dennis,92.30,32,34,36,42,44,46,36,46,82
+Stay True Club Competition,2017-03-04,male,Jakob Daniels,84.50,108,112,-115,138,-144,-150,112,138,250
+Stay True Club Competition,2017-03-04,male,Byron Mcgregor,90.00,80,86,91,-105,110,-115,91,110,201
+Stay True Club Competition,2017-03-04,male,Thomas O'Brien,142.10,80,85,90,105,110,115,90,115,205

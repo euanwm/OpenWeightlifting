@@ -1,8 +1,8 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-SAWLA/ SAWC Open ,2012-08-25,male,Patrick Inglis,72.94,92,97,-101,115,-118,-118,97,115,212,AUS
-SAWLA/ SAWC Open ,2012-08-25,male,Jerome Squires,76.86,75,78,81,100,-105,-105,81,100,181,AUS
-SAWLA/ SAWC Open ,2012-08-25,male,Vikas Kumar,82.94,90,95,100,110,117,121,100,121,221,AUS
-SAWLA/ SAWC Open ,2012-08-25,male,Matthew Randell,93.18,-90,90,-96,122,-130,-130,90,122,212,AUS
-SAWLA/ SAWC Open ,2012-08-25,male,Matthew Sulkowski,91.80,-55,55,60,70,75,77,60,77,137,AUS
-SAWLA/ SAWC Open ,2012-08-25,male,Jared Grimm,108.44,-45,45,50,55,60,65,50,65,115,AUS
-SAWLA/ SAWC Open ,2012-08-25,male,John Humphrys,84.28,41,-44,46,51,-54,-54,46,51,97,AUS
+SAWLA/ SAWC Open ,2012-08-25,male,Patrick Inglis,72.94,92,97,-101,115,-118,-118,97,115,212
+SAWLA/ SAWC Open ,2012-08-25,male,Jerome Squires,76.86,75,78,81,100,-105,-105,81,100,181
+SAWLA/ SAWC Open ,2012-08-25,male,Vikas Kumar,82.94,90,95,100,110,117,121,100,121,221
+SAWLA/ SAWC Open ,2012-08-25,male,Matthew Randell,93.18,-90,90,-96,122,-130,-130,90,122,212
+SAWLA/ SAWC Open ,2012-08-25,male,Matthew Sulkowski,91.80,-55,55,60,70,75,77,60,77,137
+SAWLA/ SAWC Open ,2012-08-25,male,Jared Grimm,108.44,-45,45,50,55,60,65,50,65,115
+SAWLA/ SAWC Open ,2012-08-25,male,John Humphrys,84.28,41,-44,46,51,-54,-54,46,51,97

@@ -1,29 +1,29 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-VWA Open incl Masters GP1,2016-02-27,female,Seen Lee,60.10,-82,82,85,100,-105,105,85,105,190,AUS
-VWA Open incl Masters GP1,2016-02-27,female,Stephanie Aldridge,65.85,68,-70,71,85,-90,-90,71,85,156,AUS
-VWA Open incl Masters GP1,2016-02-27,female,Nicky Cummins,68.10,67,-69,69,78,81,83,69,83,152,AUS
-VWA Open incl Masters GP1,2016-02-27,female,Sofia Kranjec,74.50,70,74,-76,90,-94,-94,74,90,164,AUS
-VWA Open incl Masters GP1,2016-02-27,female,Denese Billings,42.45,30,32,33,38,-40,40,33,40,73,AUS
-VWA Open incl Masters GP1,2016-02-27,female,Bernadette Kinnane,53.60,33,-35,-35,43,45,-47,33,45,78,AUS
-VWA Open incl Masters GP1,2016-02-27,female,Tina Di Carluccio,57.90,35,41,45,50,57,62,45,62,107,AUS
-VWA Open incl Masters GP1,2016-02-27,female,Phillippa Gunter,74.00,57,60,63,68,71,74,63,74,137,AUS
-VWA Open incl Masters GP1,2016-02-27,female,Renee Purbrick,71.95,49,51,52,71,-75,75,52,75,127,AUS
-VWA Open incl Masters GP1,2016-02-27,female,Sarah Wheal,73.80,35,37,40,52,54,56,40,56,96,AUS
-VWA Open incl Masters GP1,2016-02-27,male,James Delaney,64.40,98,101,-103,125,130,133,101,133,234,AUS
-VWA Open incl Masters GP1,2016-02-27,male,Matthew Damches,64.10,68,71,74,85,-88,88,74,88,162,AUS
-VWA Open incl Masters GP1,2016-02-27,male,Calum Trevillion,65.40,58,61,-64,68,72,75,61,75,136,AUS
-VWA Open incl Masters GP1,2016-02-27,male,Dun Chu,71.50,-112,-112,112,-132,-132,133,112,133,245,AUS
-VWA Open incl Masters GP1,2016-02-27,male,Anthony Tsay,74.90,82,86,90,108,112,115,90,115,205,AUS
-VWA Open incl Masters GP1,2016-02-27,male,Michael Censori,84.35,-98,98,102,130,135,140,102,140,242,AUS
-VWA Open incl Masters GP1,2016-02-27,male,Rosson Cacencu,83.50,45,50,54,75,80,-85,54,80,134,AUS
-VWA Open incl Masters GP1,2016-02-27,male,Simplice Ribouem,94.00,150,-155,-155,-180,180,-195,150,180,330,AUS
-VWA Open incl Masters GP1,2016-02-27,male,Tom Webster,87.65,-73,73,76,100,105,108,76,108,184,AUS
-VWA Open incl Masters GP1,2016-02-27,male,Brandon Accardi,102.30,110,115,120,140,-145,-148,120,140,260,AUS
-VWA Open incl Masters GP1,2016-02-27,male,Julio Melo (Jnr),104.35,-100,101,-103,135,-140,-140,101,135,236,AUS
-VWA Open incl Masters GP1,2016-02-27,male,Marc Mansour,102.15,85,90,93,101,114,-120,93,114,207,AUS
-VWA Open incl Masters GP1,2016-02-27,male,Wade Mosse,99.70,-84,-84,84,112,118,-120,84,118,202,AUS
-VWA Open incl Masters GP1,2016-02-27,male,Damien Hewish,57.85,70,-75,75,80,85,90,75,90,165,AUS
-VWA Open incl Masters GP1,2016-02-27,male,Craig Blythman,76.95,90,100,106,100,110,121,106,121,227,AUS
-VWA Open incl Masters GP1,2016-02-27,male,Rohan Mason,75.80,58,61,-63,73,-76,76,61,76,137,AUS
-VWA Open incl Masters GP1,2016-02-27,male,Warren Hellisen,95.50,106,-112,-112,136,-146,-146,106,136,242,AUS
-VWA Open incl Masters GP1,2016-02-27,male,Michael Percy,91.95,82,-86,90,105,110,113,90,113,203,AUS
+VWA Open incl Masters GP1,2016-02-27,female,Seen Lee,60.10,-82,82,85,100,-105,105,85,105,190
+VWA Open incl Masters GP1,2016-02-27,female,Stephanie Aldridge,65.85,68,-70,71,85,-90,-90,71,85,156
+VWA Open incl Masters GP1,2016-02-27,female,Nicky Cummins,68.10,67,-69,69,78,81,83,69,83,152
+VWA Open incl Masters GP1,2016-02-27,female,Sofia Kranjec,74.50,70,74,-76,90,-94,-94,74,90,164
+VWA Open incl Masters GP1,2016-02-27,female,Denese Billings,42.45,30,32,33,38,-40,40,33,40,73
+VWA Open incl Masters GP1,2016-02-27,female,Bernadette Kinnane,53.60,33,-35,-35,43,45,-47,33,45,78
+VWA Open incl Masters GP1,2016-02-27,female,Tina Di Carluccio,57.90,35,41,45,50,57,62,45,62,107
+VWA Open incl Masters GP1,2016-02-27,female,Phillippa Gunter,74.00,57,60,63,68,71,74,63,74,137
+VWA Open incl Masters GP1,2016-02-27,female,Renee Purbrick,71.95,49,51,52,71,-75,75,52,75,127
+VWA Open incl Masters GP1,2016-02-27,female,Sarah Wheal,73.80,35,37,40,52,54,56,40,56,96
+VWA Open incl Masters GP1,2016-02-27,male,James Delaney,64.40,98,101,-103,125,130,133,101,133,234
+VWA Open incl Masters GP1,2016-02-27,male,Matthew Damches,64.10,68,71,74,85,-88,88,74,88,162
+VWA Open incl Masters GP1,2016-02-27,male,Calum Trevillion,65.40,58,61,-64,68,72,75,61,75,136
+VWA Open incl Masters GP1,2016-02-27,male,Dun Chu,71.50,-112,-112,112,-132,-132,133,112,133,245
+VWA Open incl Masters GP1,2016-02-27,male,Anthony Tsay,74.90,82,86,90,108,112,115,90,115,205
+VWA Open incl Masters GP1,2016-02-27,male,Michael Censori,84.35,-98,98,102,130,135,140,102,140,242
+VWA Open incl Masters GP1,2016-02-27,male,Rosson Cacencu,83.50,45,50,54,75,80,-85,54,80,134
+VWA Open incl Masters GP1,2016-02-27,male,Simplice Ribouem,94.00,150,-155,-155,-180,180,-195,150,180,330
+VWA Open incl Masters GP1,2016-02-27,male,Tom Webster,87.65,-73,73,76,100,105,108,76,108,184
+VWA Open incl Masters GP1,2016-02-27,male,Brandon Accardi,102.30,110,115,120,140,-145,-148,120,140,260
+VWA Open incl Masters GP1,2016-02-27,male,Julio Melo (Jnr),104.35,-100,101,-103,135,-140,-140,101,135,236
+VWA Open incl Masters GP1,2016-02-27,male,Marc Mansour,102.15,85,90,93,101,114,-120,93,114,207
+VWA Open incl Masters GP1,2016-02-27,male,Wade Mosse,99.70,-84,-84,84,112,118,-120,84,118,202
+VWA Open incl Masters GP1,2016-02-27,male,Damien Hewish,57.85,70,-75,75,80,85,90,75,90,165
+VWA Open incl Masters GP1,2016-02-27,male,Craig Blythman,76.95,90,100,106,100,110,121,106,121,227
+VWA Open incl Masters GP1,2016-02-27,male,Rohan Mason,75.80,58,61,-63,73,-76,76,61,76,137
+VWA Open incl Masters GP1,2016-02-27,male,Warren Hellisen,95.50,106,-112,-112,136,-146,-146,106,136,242
+VWA Open incl Masters GP1,2016-02-27,male,Michael Percy,91.95,82,-86,90,105,110,113,90,113,203

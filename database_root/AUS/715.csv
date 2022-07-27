@@ -1,15 +1,15 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Assassin Club Competition 1,2015-03-29,male,Sam Matthews,60.10,45,-48,50,60,63,65,50,65,115,AUS
-Assassin Club Competition 1,2015-03-29,female,Tahlea Pileggi,26.15,8,9,10,12,13,14,10,14,24,AUS
-Assassin Club Competition 1,2015-03-29,female,Milijana De Mori,52.80,55,62,65,71,77,80,65,80,145,AUS
-Assassin Club Competition 1,2015-03-29,female,Giveney How,53.00,40,45,50,52,58,62,50,62,112,AUS
-Assassin Club Competition 1,2015-03-29,female,Samantha Caves,67.30,44,46,48,60,-64,-64,48,60,108,AUS
-Assassin Club Competition 1,2015-03-29,female,Hailey Merrick,83.30,45,-50,50,-70,-71,71,50,71,121,AUS
-Assassin Club Competition 1,2015-03-29,female,Meghan Broderick,77.90,40,-45,-45,-60,60,-62,40,60,100,AUS
-Assassin Club Competition 1,2015-03-29,female,Beverley Murphy,58.95,25,28,30,30,35,38,30,38,68,AUS
-Assassin Club Competition 1,2015-03-29,female,Cheryl Falconer,74.75,-28,28,-30,35,40,41,28,41,69,AUS
-Assassin Club Competition 1,2015-03-29,male,Benjamin La Cunza-Watson,38.15,22,25,27,-28,28,33,27,33,60,AUS
-Assassin Club Competition 1,2015-03-29,male,Daniel Wubbels,67.00,95,100,-105,-117,117,-121,100,117,217,AUS
-Assassin Club Competition 1,2015-03-29,male,Christopher Ferguson,75.00,95,100,103,-125,-125,125,103,125,228,AUS
-Assassin Club Competition 1,2015-03-29,male,Chris Sansom,101.80,55,60,-64,88,93,-96,60,93,153,AUS
-Assassin Club Competition 1,2015-03-29,male,Paul Falconer,81.00,45,-45,-45,55,-58,60,45,60,105,AUS
+Assassin Club Competition 1,2015-03-29,male,Sam Matthews,60.10,45,-48,50,60,63,65,50,65,115
+Assassin Club Competition 1,2015-03-29,female,Tahlea Pileggi,26.15,8,9,10,12,13,14,10,14,24
+Assassin Club Competition 1,2015-03-29,female,Milijana De Mori,52.80,55,62,65,71,77,80,65,80,145
+Assassin Club Competition 1,2015-03-29,female,Giveney How,53.00,40,45,50,52,58,62,50,62,112
+Assassin Club Competition 1,2015-03-29,female,Samantha Caves,67.30,44,46,48,60,-64,-64,48,60,108
+Assassin Club Competition 1,2015-03-29,female,Hailey Merrick,83.30,45,-50,50,-70,-71,71,50,71,121
+Assassin Club Competition 1,2015-03-29,female,Meghan Broderick,77.90,40,-45,-45,-60,60,-62,40,60,100
+Assassin Club Competition 1,2015-03-29,female,Beverley Murphy,58.95,25,28,30,30,35,38,30,38,68
+Assassin Club Competition 1,2015-03-29,female,Cheryl Falconer,74.75,-28,28,-30,35,40,41,28,41,69
+Assassin Club Competition 1,2015-03-29,male,Benjamin La Cunza-Watson,38.15,22,25,27,-28,28,33,27,33,60
+Assassin Club Competition 1,2015-03-29,male,Daniel Wubbels,67.00,95,100,-105,-117,117,-121,100,117,217
+Assassin Club Competition 1,2015-03-29,male,Christopher Ferguson,75.00,95,100,103,-125,-125,125,103,125,228
+Assassin Club Competition 1,2015-03-29,male,Chris Sansom,101.80,55,60,-64,88,93,-96,60,93,153
+Assassin Club Competition 1,2015-03-29,male,Paul Falconer,81.00,45,-45,-45,55,-58,60,45,60,105

@@ -1,7 +1,7 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Titans Open Competition,2016-10-22,male,Alex Hersey,84.48,-90,90,-97,-107,107,112,90,112,202,AUS
-Titans Open Competition,2016-10-22,male,Nicholas Stavroulakis,86.84,105,110,112,-130,130,140,112,140,252,AUS
-Titans Open Competition,2016-10-22,male,Sam Larkings,90.66,48,51,54,56,-58,58,54,58,112,AUS
-Titans Open Competition,2016-10-22,male,Adrian Immarrata,84.54,91,96,-101,121,126,131,96,131,227,AUS
-Titans Open Competition,2016-10-22,male,Andrew Stavroulakis,83.58,70,75,80,100,-105,-110,80,100,180,AUS
-Titans Open Competition,2016-10-22,male,Drew Mctavish,110.82,100,107,-113,-120,125,-130,107,125,232,AUS
+Titans Open Competition,2016-10-22,male,Alex Hersey,84.48,-90,90,-97,-107,107,112,90,112,202
+Titans Open Competition,2016-10-22,male,Nicholas Stavroulakis,86.84,105,110,112,-130,130,140,112,140,252
+Titans Open Competition,2016-10-22,male,Sam Larkings,90.66,48,51,54,56,-58,58,54,58,112
+Titans Open Competition,2016-10-22,male,Adrian Immarrata,84.54,91,96,-101,121,126,131,96,131,227
+Titans Open Competition,2016-10-22,male,Andrew Stavroulakis,83.58,70,75,80,100,-105,-110,80,100,180
+Titans Open Competition,2016-10-22,male,Drew Mctavish,110.82,100,107,-113,-120,125,-130,107,125,232

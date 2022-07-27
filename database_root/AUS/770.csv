@@ -1,9 +1,9 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Triumph Club Competition,2015-03-06,female,Jessica Barkhan,48.00,50,53,55,60,63,-67,55,63,118,AUS
-Triumph Club Competition,2015-03-06,female,A P,57.40,55,60,62,73,76,78,62,78,140,AUS
-Triumph Club Competition,2015-03-06,female,Breeanna Harrigan,67.20,40,44,47,60,63,66,47,66,113,AUS
-Triumph Club Competition,2015-03-06,male,Billy Mcmahon,45.30,40,44,47,48,51,55,47,55,102,AUS
-Triumph Club Competition,2015-03-06,male,Aydan McMahon,67.90,-102,-102,102,123,128,130,102,130,232,AUS
-Triumph Club Competition,2015-03-06,male,Luke Robinson,74.70,82,86,-90,-105,-105,-105,86,0,0,AUS
-Triumph Club Competition,2015-03-06,male,Michael Nolan,88.30,82,86,-90,105,-110,110,86,110,196,AUS
-Triumph Club Competition,2015-03-06,male,Jon Delaney,87.70,-90,90,95,110,116,120,95,120,215,AUS
+Triumph Club Competition,2015-03-06,female,Jessica Barkhan,48.00,50,53,55,60,63,-67,55,63,118
+Triumph Club Competition,2015-03-06,female,A P,57.40,55,60,62,73,76,78,62,78,140
+Triumph Club Competition,2015-03-06,female,Breeanna Harrigan,67.20,40,44,47,60,63,66,47,66,113
+Triumph Club Competition,2015-03-06,male,Billy Mcmahon,45.30,40,44,47,48,51,55,47,55,102
+Triumph Club Competition,2015-03-06,male,Aydan McMahon,67.90,-102,-102,102,123,128,130,102,130,232
+Triumph Club Competition,2015-03-06,male,Luke Robinson,74.70,82,86,-90,-105,-105,-105,86,0,0
+Triumph Club Competition,2015-03-06,male,Michael Nolan,88.30,82,86,-90,105,-110,110,86,110,196
+Triumph Club Competition,2015-03-06,male,Jon Delaney,87.70,-90,90,95,110,116,120,95,120,215

@@ -1,32 +1,32 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-NSW Junior/U23 Championships/Open Competition,2019-06-01,female,Hailee Jarrett,54.70,50,54,58,65,72,76,58,76,134,AUS
-NSW Junior/U23 Championships/Open Competition,2019-06-01,female,Zofia Szymanski,55.50,51,-53,-53,66,-69,69,51,69,120,AUS
-NSW Junior/U23 Championships/Open Competition,2019-06-01,female,Emily Medina,58.95,40,-43,-43,55,-57,-60,40,55,95,AUS
-NSW Junior/U23 Championships/Open Competition,2019-06-01,female,Tyneesha Kerr,62.90,52,55,-60,-72,72,75,55,75,130,AUS
-NSW Junior/U23 Championships/Open Competition,2019-06-01,female,Grace Green,62.35,47,-52,53,57,62,65,53,65,118,AUS
-NSW Junior/U23 Championships/Open Competition,2019-06-01,female,Madeline Wu,67.40,65,70,72,83,-86,88,72,88,160,AUS
-NSW Junior/U23 Championships/Open Competition,2019-06-01,female,Eileen Cikamatana,82.65,103,107,112,133,140,145,112,145,257,AUS
-NSW Junior/U23 Championships/Open Competition,2019-06-01,female,Maddisson Jones,84.95,45,-50,50,65,70,-75,50,70,120,AUS
-NSW Junior/U23 Championships/Open Competition,2019-06-01,female,Stephanie Scigala,115.20,50,-55,55,80,-85,-86,55,80,135,AUS
-NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Joshua Doyle,60.35,66,-69,-71,75,80,-85,66,80,146,AUS
-NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Rick Saha,66.30,82,85,-88,110,115,-119,85,115,200,AUS
-NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Gordon Fu,67.00,80,85,90,90,95,101,90,101,191,AUS
-NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Joshua Wu,72.70,-108,108,112,141,146,152,112,152,264,AUS
-NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Nicholas Predkowski,72.35,98,102,-106,117,-126,-126,102,117,219,AUS
-NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Jeffrey Tang,71.30,72,76,-80,102,108,-112,76,108,184,AUS
-NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Lachlan Martin,67.65,-74,-78,78,95,101,105,78,105,183,AUS
-NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Liam Pike,69.60,60,70,78,80,85,90,78,90,168,AUS
-NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Bouachanh Thongvilu,72.60,72,75,-78,84,-87,-88,75,84,159,AUS
-NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Wesley Truong,67.75,60,65,-70,80,-85,85,65,85,150,AUS
-NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Ricky Huang,76.45,95,100,104,120,125,-130,104,125,229,AUS
-NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Nelson Harris,73.80,85,90,95,115,120,125,95,125,220,AUS
-NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Alvin Tobias-Nool,80.45,88,93,95,110,-113,-113,95,110,205,AUS
-NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Ronan Maguero,80.65,-84,85,-90,112,117,-123,85,117,202,AUS
-NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Michael Bettencourt Rodrigues,75.20,65,-70,-70,75,80,85,65,85,150,AUS
-NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Brock Baldwin,86.90,110,-115,118,140,147,150,118,150,268,AUS
-NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Nicholas Capaldi,86.10,85,90,-95,110,115,120,90,120,210,AUS
-NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Jy Dobija,89.00,82,86,91,-105,110,115,91,115,206,AUS
-NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Luke Manny,93.35,-85,85,90,110,115,-120,90,115,205,AUS
-NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Orion Walsh,155.10,120,125,130,150,155,160,130,160,290,AUS
-NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Jackson Roberts-Young,111.85,120,,,150,,,120,150,270,AUS
-NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Mohammad Abr Poosh,118.75,88,95,-100,-105,105,-112,95,105,200,AUS
+NSW Junior/U23 Championships/Open Competition,2019-06-01,female,Hailee Jarrett,54.70,50,54,58,65,72,76,58,76,134
+NSW Junior/U23 Championships/Open Competition,2019-06-01,female,Zofia Szymanski,55.50,51,-53,-53,66,-69,69,51,69,120
+NSW Junior/U23 Championships/Open Competition,2019-06-01,female,Emily Medina,58.95,40,-43,-43,55,-57,-60,40,55,95
+NSW Junior/U23 Championships/Open Competition,2019-06-01,female,Tyneesha Kerr,62.90,52,55,-60,-72,72,75,55,75,130
+NSW Junior/U23 Championships/Open Competition,2019-06-01,female,Grace Green,62.35,47,-52,53,57,62,65,53,65,118
+NSW Junior/U23 Championships/Open Competition,2019-06-01,female,Madeline Wu,67.40,65,70,72,83,-86,88,72,88,160
+NSW Junior/U23 Championships/Open Competition,2019-06-01,female,Eileen Cikamatana,82.65,103,107,112,133,140,145,112,145,257
+NSW Junior/U23 Championships/Open Competition,2019-06-01,female,Maddisson Jones,84.95,45,-50,50,65,70,-75,50,70,120
+NSW Junior/U23 Championships/Open Competition,2019-06-01,female,Stephanie Scigala,115.20,50,-55,55,80,-85,-86,55,80,135
+NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Joshua Doyle,60.35,66,-69,-71,75,80,-85,66,80,146
+NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Rick Saha,66.30,82,85,-88,110,115,-119,85,115,200
+NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Gordon Fu,67.00,80,85,90,90,95,101,90,101,191
+NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Joshua Wu,72.70,-108,108,112,141,146,152,112,152,264
+NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Nicholas Predkowski,72.35,98,102,-106,117,-126,-126,102,117,219
+NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Jeffrey Tang,71.30,72,76,-80,102,108,-112,76,108,184
+NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Lachlan Martin,67.65,-74,-78,78,95,101,105,78,105,183
+NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Liam Pike,69.60,60,70,78,80,85,90,78,90,168
+NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Bouachanh Thongvilu,72.60,72,75,-78,84,-87,-88,75,84,159
+NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Wesley Truong,67.75,60,65,-70,80,-85,85,65,85,150
+NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Ricky Huang,76.45,95,100,104,120,125,-130,104,125,229
+NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Nelson Harris,73.80,85,90,95,115,120,125,95,125,220
+NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Alvin Tobias-Nool,80.45,88,93,95,110,-113,-113,95,110,205
+NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Ronan Maguero,80.65,-84,85,-90,112,117,-123,85,117,202
+NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Michael Bettencourt Rodrigues,75.20,65,-70,-70,75,80,85,65,85,150
+NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Brock Baldwin,86.90,110,-115,118,140,147,150,118,150,268
+NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Nicholas Capaldi,86.10,85,90,-95,110,115,120,90,120,210
+NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Jy Dobija,89.00,82,86,91,-105,110,115,91,115,206
+NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Luke Manny,93.35,-85,85,90,110,115,-120,90,115,205
+NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Orion Walsh,155.10,120,125,130,150,155,160,130,160,290
+NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Jackson Roberts-Young,111.85,120,0,0,150,0,0,120,150,270
+NSW Junior/U23 Championships/Open Competition,2019-06-01,male,Mohammad Abr Poosh,118.75,88,95,-100,-105,105,-112,95,105,200

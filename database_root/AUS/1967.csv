@@ -1,6 +1,6 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-WCW,2019-04-07,female,Elisabeth Miguet,66.30,45,48,50,52,55,57,50,57,107,AUS
-WCW,2019-04-07,female,Tara Pratt,82.60,77,80,83,95,100,-102,83,100,183,AUS
-WCW,2019-04-07,male,Chris Parfitt,80.50,95,100,105,120,125,130,105,130,235,AUS
-WCW,2019-04-07,male,Russell Mathwin,85.40,75,80,85,100,-105,105,85,105,190,AUS
-WCW,2019-04-07,male,Louis Cassell,81.50,60,65,-70,85,90,93,65,93,158,AUS
+WCW,2019-04-07,female,Elisabeth Miguet,66.30,45,48,50,52,55,57,50,57,107
+WCW,2019-04-07,female,Tara Pratt,82.60,77,80,83,95,100,-102,83,100,183
+WCW,2019-04-07,male,Chris Parfitt,80.50,95,100,105,120,125,130,105,130,235
+WCW,2019-04-07,male,Russell Mathwin,85.40,75,80,85,100,-105,105,85,105,190
+WCW,2019-04-07,male,Louis Cassell,81.50,60,65,-70,85,90,93,65,93,158

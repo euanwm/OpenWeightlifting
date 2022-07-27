@@ -1,8 +1,8 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Oly4Kids #1,2018-02-10,female,Zoe Singleton,52.10,12,15,18,15,18,-21,18,18,36,AUS
-Oly4Kids #1,2018-02-10,female,Marie Dawson,61.50,30,35,40,45,50,55,40,55,95,AUS
-Oly4Kids #1,2018-02-10,female,Indi Waller,60.00,25,30,35,35,40,-45,35,40,75,AUS
-Oly4Kids #1,2018-02-10,female,Marnike Swanepoel,92.70,40,-45,45,55,-60,60,45,60,105,AUS
-Oly4Kids #1,2018-02-10,male,Noah Russell,54.10,25,30,35,35,40,45,35,45,80,AUS
-Oly4Kids #1,2018-02-10,male,Jacob Stanesby,27.10,6,9,12,15,17,-19,12,17,29,AUS
-Oly4Kids #1,2018-02-10,male,Jett Hoover,67.10,15,18,20,20,25,30,20,30,50,AUS
+Oly4Kids #1,2018-02-10,female,Zoe Singleton,52.10,12,15,18,15,18,-21,18,18,36
+Oly4Kids #1,2018-02-10,female,Marie Dawson,61.50,30,35,40,45,50,55,40,55,95
+Oly4Kids #1,2018-02-10,female,Indi Waller,60.00,25,30,35,35,40,-45,35,40,75
+Oly4Kids #1,2018-02-10,female,Marnike Swanepoel,92.70,40,-45,45,55,-60,60,45,60,105
+Oly4Kids #1,2018-02-10,male,Noah Russell,54.10,25,30,35,35,40,45,35,45,80
+Oly4Kids #1,2018-02-10,male,Jacob Stanesby,27.10,6,9,12,15,17,-19,12,17,29
+Oly4Kids #1,2018-02-10,male,Jett Hoover,67.10,15,18,20,20,25,30,20,30,50

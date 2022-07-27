@@ -1,11 +1,11 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Inner West Open Competition,2017-09-17,female,Kushini Jayawardane,52.80,52,55,58,67,70,-72,58,70,128,AUS
-Inner West Open Competition,2017-09-17,female,Rheannon Williams,68.10,47,-52,52,-65,65,-70,52,65,117,AUS
-Inner West Open Competition,2017-09-17,female,Elena Macnamara,65.90,25,28,31,35,40,42,31,42,73,AUS
-Inner West Open Competition,2017-09-17,female,Alexandra Watson,86.90,65,-68,-68,80,-81,-85,65,80,145,AUS
-Inner West Open Competition,2017-09-17,male,Andrew Rajeevan,76.30,-95,95,100,125,129,-131,100,129,229,AUS
-Inner West Open Competition,2017-09-17,male,Corey Hele,87.30,-80,-80,82,120,-125,-126,82,120,202,AUS
-Inner West Open Competition,2017-09-17,male,Stephen Johnstone,93.80,-75,-75,-75,,,,0,0,0,AUS
-Inner West Open Competition,2017-09-17,male,Jesse Austin,100.70,70,75,83,90,97,111,83,111,194,AUS
-Inner West Open Competition,2017-09-17,male,Paul Cummins,102.80,85,92,-96,100,110,-116,92,110,202,AUS
-Inner West Open Competition,2017-09-17,male,Drew Mctavish,113.60,-100,-105,-105,,,,0,0,0,AUS
+Inner West Open Competition,2017-09-17,female,Kushini Jayawardane,52.80,52,55,58,67,70,-72,58,70,128
+Inner West Open Competition,2017-09-17,female,Rheannon Williams,68.10,47,-52,52,-65,65,-70,52,65,117
+Inner West Open Competition,2017-09-17,female,Elena Macnamara,65.90,25,28,31,35,40,42,31,42,73
+Inner West Open Competition,2017-09-17,female,Alexandra Watson,86.90,65,-68,-68,80,-81,-85,65,80,145
+Inner West Open Competition,2017-09-17,male,Andrew Rajeevan,76.30,-95,95,100,125,129,-131,100,129,229
+Inner West Open Competition,2017-09-17,male,Corey Hele,87.30,-80,-80,82,120,-125,-126,82,120,202
+Inner West Open Competition,2017-09-17,male,Stephen Johnstone,93.80,-75,-75,-75,0,0,0,0,0,0
+Inner West Open Competition,2017-09-17,male,Jesse Austin,100.70,70,75,83,90,97,111,83,111,194
+Inner West Open Competition,2017-09-17,male,Paul Cummins,102.80,85,92,-96,100,110,-116,92,110,202
+Inner West Open Competition,2017-09-17,male,Drew Mctavish,113.60,-100,-105,-105,0,0,0,0,0,0

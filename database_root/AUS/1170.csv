@@ -1,5 +1,5 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-IWF Youth World Championships,2017-04-01,female,Mia Gaudry,52.35,55,-58,-58,66,-69,69,55,69,124,AUS
-IWF Youth World Championships,2017-04-01,female,Sabah Chamoun,57.87,70,75,78,90,95,-100,78,95,173,AUS
-IWF Youth World Championships,2017-04-01,male,Ben Ward,84.40,118,123,128,146,-151,-152,128,146,274,AUS
-IWF Youth World Championships,2017-04-01,male,Zac Millhouse,83.82,109,-114,114,136,141,-151,114,141,255,AUS
+IWF Youth World Championships,2017-04-01,female,Mia Gaudry,52.35,55,-58,-58,66,-69,69,55,69,124
+IWF Youth World Championships,2017-04-01,female,Sabah Chamoun,57.87,70,75,78,90,95,-100,78,95,173
+IWF Youth World Championships,2017-04-01,male,Ben Ward,84.40,118,123,128,146,-151,-152,128,146,274
+IWF Youth World Championships,2017-04-01,male,Zac Millhouse,83.82,109,-114,114,136,141,-151,114,141,255

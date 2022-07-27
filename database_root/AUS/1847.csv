@@ -1,13 +1,13 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-My Gym Club Competition,2018-12-05,female,Josie Munyard,38.60,8,-11,11,12,14,16,11,16,27,AUS
-My Gym Club Competition,2018-12-05,female,Hope Murning,68.40,51,54,-58,62,65,68,54,68,122,AUS
-My Gym Club Competition,2018-12-05,female,Vicki-Lee Gibson,75.30,42,45,47,54,57,-60,47,57,104,AUS
-My Gym Club Competition,2018-12-05,female,Rachel Munyard,73.60,28,30,-32,38,40,42,30,42,72,AUS
-My Gym Club Competition,2018-12-05,male,Jack Gibson,44.70,37,40,42,46,49,52,42,52,94,AUS
-My Gym Club Competition,2018-12-05,male,Levi Davidson,43.70,20,23,26,31,34,36,26,36,62,AUS
-My Gym Club Competition,2018-12-05,male,Toby Jenkins,30.00,16,18,20,20,23,25,20,25,45,AUS
-My Gym Club Competition,2018-12-05,male,Levi Penrose-Timms,31.70,16,-18,18,18,20,22,18,22,40,AUS
-My Gym Club Competition,2018-12-05,male,Kyle Munyard,56.90,-32,32,34,48,50,52,34,52,86,AUS
-My Gym Club Competition,2018-12-05,male,Harry Rudd,58.90,25,28,30,35,-38,38,30,38,68,AUS
-My Gym Club Competition,2018-12-05,male,Jordan O'Dell,66.30,41,-43,43,50,52,54,43,54,97,AUS
-My Gym Club Competition,2018-12-05,male,John Beavers,90.50,48,51,53,71,73,-76,53,73,126,AUS
+My Gym Club Competition,2018-12-05,female,Josie Munyard,38.60,8,-11,11,12,14,16,11,16,27
+My Gym Club Competition,2018-12-05,female,Hope Murning,68.40,51,54,-58,62,65,68,54,68,122
+My Gym Club Competition,2018-12-05,female,Vicki-Lee Gibson,75.30,42,45,47,54,57,-60,47,57,104
+My Gym Club Competition,2018-12-05,female,Rachel Munyard,73.60,28,30,-32,38,40,42,30,42,72
+My Gym Club Competition,2018-12-05,male,Jack Gibson,44.70,37,40,42,46,49,52,42,52,94
+My Gym Club Competition,2018-12-05,male,Levi Davidson,43.70,20,23,26,31,34,36,26,36,62
+My Gym Club Competition,2018-12-05,male,Toby Jenkins,30.00,16,18,20,20,23,25,20,25,45
+My Gym Club Competition,2018-12-05,male,Levi Penrose-Timms,31.70,16,-18,18,18,20,22,18,22,40
+My Gym Club Competition,2018-12-05,male,Kyle Munyard,56.90,-32,32,34,48,50,52,34,52,86
+My Gym Club Competition,2018-12-05,male,Harry Rudd,58.90,25,28,30,35,-38,38,30,38,68
+My Gym Club Competition,2018-12-05,male,Jordan O'Dell,66.30,41,-43,43,50,52,54,43,54,97
+My Gym Club Competition,2018-12-05,male,John Beavers,90.50,48,51,53,71,73,-76,53,73,126

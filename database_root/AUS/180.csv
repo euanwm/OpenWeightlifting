@@ -1,18 +1,18 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Triumph Open Competition ,2012-07-21,female,Jessica Barkhan,45.10,27,30,-32,35,38,-40,30,38,68,AUS
-Triumph Open Competition ,2012-07-21,female,Zoe Simon,63.10,45,-50,-50,50,55,-56,45,55,100,AUS
-Triumph Open Competition ,2012-07-21,female,Eimear Cradock,83.30,-35,35,40,45,50,-56,40,50,90,AUS
-Triumph Open Competition ,2012-07-21,female,Antonietta Mausillo,72.80,50,55,57,68,72,-75,57,72,129,AUS
-Triumph Open Competition ,2012-07-21,male,Hamish Adam,50.00,45,-50,-52,52,55,60,45,60,105,AUS
-Triumph Open Competition ,2012-07-21,male,Peter Gremos,49.40,-38,38,40,48,-51,-51,40,48,88,AUS
-Triumph Open Competition ,2012-07-21,male,Bassel Rana,61.70,-80,80,85,100,105,-110,85,105,190,AUS
-Triumph Open Competition ,2012-07-21,male,Nishant Paul,65.70,50,55,-60,70,75,-80,55,75,130,AUS
-Triumph Open Competition ,2012-07-21,male,J B,62.10,50,53,55,65,70,-75,55,70,125,AUS
-Triumph Open Competition ,2012-07-21,male,Luke Robinson,63.30,50,55,-58,60,65,68,55,68,123,AUS
-Triumph Open Competition ,2012-07-21,male,Mitchell Boyd,75.30,65,70,-72,90,95,100,70,100,170,AUS
-Triumph Open Competition ,2012-07-21,male,Tom Davison,81.00,-90,90,-94,115,120,-125,90,120,210,AUS
-Triumph Open Competition ,2012-07-21,male,Atul Jose D'Cruz,82.40,68,72,-77,90,-90,90,72,90,162,AUS
-Triumph Open Competition ,2012-07-21,male,Patrick Canavan,81.20,80,85,-90,,,,85,0,0,AUS
-Triumph Open Competition ,2012-07-21,male,Ryan Pasfield,94.90,95,-100,-100,135,140,,95,140,235,AUS
-Triumph Open Competition ,2012-07-21,male,David Rappo,58.20,60,-65,-65,70,74,-77,60,74,134,AUS
-Triumph Open Competition ,2012-07-21,male,Stephen Johnstone,97.20,85,88,-90,108,112,-115,88,112,200,AUS
+Triumph Open Competition ,2012-07-21,female,Jessica Barkhan,45.10,27,30,-32,35,38,-40,30,38,68
+Triumph Open Competition ,2012-07-21,female,Zoe Simon,63.10,45,-50,-50,50,55,-56,45,55,100
+Triumph Open Competition ,2012-07-21,female,Eimear Cradock,83.30,-35,35,40,45,50,-56,40,50,90
+Triumph Open Competition ,2012-07-21,female,Antonietta Mausillo,72.80,50,55,57,68,72,-75,57,72,129
+Triumph Open Competition ,2012-07-21,male,Hamish Adam,50.00,45,-50,-52,52,55,60,45,60,105
+Triumph Open Competition ,2012-07-21,male,Peter Gremos,49.40,-38,38,40,48,-51,-51,40,48,88
+Triumph Open Competition ,2012-07-21,male,Bassel Rana,61.70,-80,80,85,100,105,-110,85,105,190
+Triumph Open Competition ,2012-07-21,male,Nishant Paul,65.70,50,55,-60,70,75,-80,55,75,130
+Triumph Open Competition ,2012-07-21,male,J B,62.10,50,53,55,65,70,-75,55,70,125
+Triumph Open Competition ,2012-07-21,male,Luke Robinson,63.30,50,55,-58,60,65,68,55,68,123
+Triumph Open Competition ,2012-07-21,male,Mitchell Boyd,75.30,65,70,-72,90,95,100,70,100,170
+Triumph Open Competition ,2012-07-21,male,Tom Davison,81.00,-90,90,-94,115,120,-125,90,120,210
+Triumph Open Competition ,2012-07-21,male,Atul Jose D'Cruz,82.40,68,72,-77,90,-90,90,72,90,162
+Triumph Open Competition ,2012-07-21,male,Patrick Canavan,81.20,80,85,-90,0,0,0,85,0,0
+Triumph Open Competition ,2012-07-21,male,Ryan Pasfield,94.90,95,-100,-100,135,140,0,95,140,235
+Triumph Open Competition ,2012-07-21,male,David Rappo,58.20,60,-65,-65,70,74,-77,60,74,134
+Triumph Open Competition ,2012-07-21,male,Stephen Johnstone,97.20,85,88,-90,108,112,-115,88,112,200

@@ -1,12 +1,12 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-TWA - Physique Science QWA Club Challenge - Round 2,2022-06-18,female,Reagan Wood,73.00,20,22,24,27,30,33,24,33,57,AUS
-TWA - Physique Science QWA Club Challenge - Round 2,2022-06-18,female,Kelsey Francis,80.60,64,68,-70,80,85,,68,85,153,AUS
-TWA - Physique Science QWA Club Challenge - Round 2,2022-06-18,female,Selina Richards,77.00,40,44,47,53,-55,55,47,55,102,AUS
-TWA - Physique Science QWA Club Challenge - Round 2,2022-06-18,female,Chloe Kerwick,100.70,66,69,72,80,84,88,72,88,160,AUS
-TWA - Physique Science QWA Club Challenge - Round 2,2022-06-18,female,Siobhaun Hahn,90.30,41,43,45,60,62,-64,45,62,107,AUS
-TWA - Physique Science QWA Club Challenge - Round 2,2022-06-18,male,Archer Turner,53.30,-38,39,-41,56,60,-62,39,60,99,AUS
-TWA - Physique Science QWA Club Challenge - Round 2,2022-06-18,male,Luke Bidgood,68.40,-72,72,76,92,97,101,76,101,177,AUS
-TWA - Physique Science QWA Club Challenge - Round 2,2022-06-18,male,Greg Hobl,80.10,62,67,70,80,85,-88,70,85,155,AUS
-TWA - Physique Science QWA Club Challenge - Round 2,2022-06-18,male,Harvey Steffen,80.00,51,55,59,70,-74,74,59,74,133,AUS
-TWA - Physique Science QWA Club Challenge - Round 2,2022-06-18,male,Lewis Forsythe,74.90,15,18,20,20,22,24,20,24,44,AUS
-TWA - Physique Science QWA Club Challenge - Round 2,2022-06-18,male,Ignatius Papenga,99.20,100,105,-110,131,135,-140,105,135,240,AUS
+TWA - Physique Science QWA Club Challenge - Round 2,2022-06-18,female,Reagan Wood,73.00,20,22,24,27,30,33,24,33,57
+TWA - Physique Science QWA Club Challenge - Round 2,2022-06-18,female,Kelsey Francis,80.60,64,68,-70,80,85,0,68,85,153
+TWA - Physique Science QWA Club Challenge - Round 2,2022-06-18,female,Selina Richards,77.00,40,44,47,53,-55,55,47,55,102
+TWA - Physique Science QWA Club Challenge - Round 2,2022-06-18,female,Chloe Kerwick,100.70,66,69,72,80,84,88,72,88,160
+TWA - Physique Science QWA Club Challenge - Round 2,2022-06-18,female,Siobhaun Hahn,90.30,41,43,45,60,62,-64,45,62,107
+TWA - Physique Science QWA Club Challenge - Round 2,2022-06-18,male,Archer Turner,53.30,-38,39,-41,56,60,-62,39,60,99
+TWA - Physique Science QWA Club Challenge - Round 2,2022-06-18,male,Luke Bidgood,68.40,-72,72,76,92,97,101,76,101,177
+TWA - Physique Science QWA Club Challenge - Round 2,2022-06-18,male,Greg Hobl,80.10,62,67,70,80,85,-88,70,85,155
+TWA - Physique Science QWA Club Challenge - Round 2,2022-06-18,male,Harvey Steffen,80.00,51,55,59,70,-74,74,59,74,133
+TWA - Physique Science QWA Club Challenge - Round 2,2022-06-18,male,Lewis Forsythe,74.90,15,18,20,20,22,24,20,24,44
+TWA - Physique Science QWA Club Challenge - Round 2,2022-06-18,male,Ignatius Papenga,99.20,100,105,-110,131,135,-140,105,135,240

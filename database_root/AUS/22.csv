@@ -1,9 +1,9 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Presidents Cup #1,2012-02-25,female,Tiarna Davis,52.70,,,,,,,38,46,84,AUS
-Presidents Cup #1,2012-02-25,female,Sophie Cowen,57.90,,,,,,,0,52,0,AUS
-Presidents Cup #1,2012-02-25,female,Tayla Jackson,79.60,,,,,,,30,40,70,AUS
-Presidents Cup #1,2012-02-25,male,Dominic Newman,45.91,,,,,,,18,22,40,AUS
-Presidents Cup #1,2012-02-25,male,David Bannister,61.92,,,,,,,87,100,187,AUS
-Presidents Cup #1,2012-02-25,male,Matthew Newman,84.64,,,,,,,55,0,0,AUS
-Presidents Cup #1,2012-02-25,male,Adrian Frankling,45.91,,,,,,,18,22,40,AUS
-Presidents Cup #1,2012-02-25,male,Craig Newman,93.86,,,,,,,40,51,91,AUS
+Presidents Cup #1,2012-02-25,female,Tiarna Davis,52.70,0,0,0,0,0,0,38,46,84
+Presidents Cup #1,2012-02-25,female,Sophie Cowen,57.90,0,0,0,0,0,0,0,52,0
+Presidents Cup #1,2012-02-25,female,Tayla Jackson,79.60,0,0,0,0,0,0,30,40,70
+Presidents Cup #1,2012-02-25,male,Dominic Newman,45.91,0,0,0,0,0,0,18,22,40
+Presidents Cup #1,2012-02-25,male,David Bannister,61.92,0,0,0,0,0,0,87,100,187
+Presidents Cup #1,2012-02-25,male,Matthew Newman,84.64,0,0,0,0,0,0,55,0,0
+Presidents Cup #1,2012-02-25,male,Adrian Frankling,45.91,0,0,0,0,0,0,18,22,40
+Presidents Cup #1,2012-02-25,male,Craig Newman,93.86,0,0,0,0,0,0,40,51,91

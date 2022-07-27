@@ -1,24 +1,24 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-HWC Championships,2013-12-21,female,Socheata Be,52.80,70,-73,73,85,-90,90,73,90,163,AUS
-HWC Championships,2013-12-21,female,Seen Lee,60.60,-80,80,-85,100,105,-110,80,105,185,AUS
-HWC Championships,2013-12-21,female,Jacquie White,62.95,73,-76,-76,90,-94,,73,90,163,AUS
-HWC Championships,2013-12-21,female,Rachel Goodman,62.60,-71,71,-75,-90,90,-95,71,90,161,AUS
-HWC Championships,2013-12-21,female,Jessica Partridge,64.55,70,72,-74,90,92,-94,72,92,164,AUS
-HWC Championships,2013-12-21,female,Clare Cherry,74.15,-67,67,-70,84,87,-90,67,87,154,AUS
-HWC Championships,2013-12-21,female,Belinda Van Tienen,74.80,-83,-83,-83,100,-105,,0,100,0,AUS
-HWC Championships,2013-12-21,female,Bernadette Kinnane,54.45,31,-33,-33,40,42,-44,31,42,73,AUS
-HWC Championships,2013-12-21,male,James Delaney,55.95,76,-80,-81,-95,95,100,76,100,176,AUS
-HWC Championships,2013-12-21,male,Vannara Be,61.85,110,115,120,135,-141,,120,135,255,AUS
-HWC Championships,2013-12-21,male,Jason Gevrekos,68.75,77,-80,-83,100,104,-108,77,104,181,AUS
-HWC Championships,2013-12-21,male,Daniel Katz,76.90,-120,120,125,155,-160,-160,125,155,280,AUS
-HWC Championships,2013-12-21,male,Liam Larkins,81.70,117,121,124,141,-149,-149,124,141,265,AUS
-HWC Championships,2013-12-21,male,Tom Webster,78.35,-70,70,-73,90,-95,95,70,95,165,AUS
-HWC Championships,2013-12-21,male,Scott Norman,89.15,112,117,-120,-132,132,-140,117,132,249,AUS
-HWC Championships,2013-12-21,male,Jared Tyler,92.05,90,-93,-95,-105,105,110,90,110,200,AUS
-HWC Championships,2013-12-21,male,Dexter Tan,91.10,65,70,75,85,93,100,75,100,175,AUS
-HWC Championships,2013-12-21,male,Gordon Laurie,105.00,140,145,-152,160,166,-172,145,166,311,AUS
-HWC Championships,2013-12-21,male,Zac Grgurevic,96.85,125,130,-135,165,170,175,130,175,305,AUS
-HWC Championships,2013-12-21,male,Julio Melo,103.30,100,-103,-103,127,-130,-130,100,127,227,AUS
-HWC Championships,2013-12-21,male,Raymond Butler,94.80,70,-75,-75,-85,90,-95,70,90,160,AUS
-HWC Championships,2013-12-21,male,Matthew Scott,125.90,110,-115,115,145,152,-157,115,152,267,AUS
-HWC Championships,2013-12-21,male,Paul Allen,84.40,73,76,80,95,100,-103,80,100,180,AUS
+HWC Championships,2013-12-21,female,Socheata Be,52.80,70,-73,73,85,-90,90,73,90,163
+HWC Championships,2013-12-21,female,Seen Lee,60.60,-80,80,-85,100,105,-110,80,105,185
+HWC Championships,2013-12-21,female,Jacquie White,62.95,73,-76,-76,90,-94,0,73,90,163
+HWC Championships,2013-12-21,female,Rachel Goodman,62.60,-71,71,-75,-90,90,-95,71,90,161
+HWC Championships,2013-12-21,female,Jessica Partridge,64.55,70,72,-74,90,92,-94,72,92,164
+HWC Championships,2013-12-21,female,Clare Cherry,74.15,-67,67,-70,84,87,-90,67,87,154
+HWC Championships,2013-12-21,female,Belinda Van Tienen,74.80,-83,-83,-83,100,-105,0,0,100,0
+HWC Championships,2013-12-21,female,Bernadette Kinnane,54.45,31,-33,-33,40,42,-44,31,42,73
+HWC Championships,2013-12-21,male,James Delaney,55.95,76,-80,-81,-95,95,100,76,100,176
+HWC Championships,2013-12-21,male,Vannara Be,61.85,110,115,120,135,-141,0,120,135,255
+HWC Championships,2013-12-21,male,Jason Gevrekos,68.75,77,-80,-83,100,104,-108,77,104,181
+HWC Championships,2013-12-21,male,Daniel Katz,76.90,-120,120,125,155,-160,-160,125,155,280
+HWC Championships,2013-12-21,male,Liam Larkins,81.70,117,121,124,141,-149,-149,124,141,265
+HWC Championships,2013-12-21,male,Tom Webster,78.35,-70,70,-73,90,-95,95,70,95,165
+HWC Championships,2013-12-21,male,Scott Norman,89.15,112,117,-120,-132,132,-140,117,132,249
+HWC Championships,2013-12-21,male,Jared Tyler,92.05,90,-93,-95,-105,105,110,90,110,200
+HWC Championships,2013-12-21,male,Dexter Tan,91.10,65,70,75,85,93,100,75,100,175
+HWC Championships,2013-12-21,male,Gordon Laurie,105.00,140,145,-152,160,166,-172,145,166,311
+HWC Championships,2013-12-21,male,Zac Grgurevic,96.85,125,130,-135,165,170,175,130,175,305
+HWC Championships,2013-12-21,male,Julio Melo,103.30,100,-103,-103,127,-130,-130,100,127,227
+HWC Championships,2013-12-21,male,Raymond Butler,94.80,70,-75,-75,-85,90,-95,70,90,160
+HWC Championships,2013-12-21,male,Matthew Scott,125.90,110,-115,115,145,152,-157,115,152,267
+HWC Championships,2013-12-21,male,Paul Allen,84.40,73,76,80,95,100,-103,80,100,180

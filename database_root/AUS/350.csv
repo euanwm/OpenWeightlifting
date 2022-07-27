@@ -1,22 +1,22 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-HWC Australia Day Competition,2013-01-26,female,Clare Cherry,73.75,54,58,62,74,-78,78,62,78,140,AUS
-HWC Australia Day Competition,2013-01-26,female,Kaitlyn Fassina,91.55,-85,85,90,100,105,-111,90,105,195,AUS
-HWC Australia Day Competition,2013-01-26,female,Chloe Harrigan,76.25,32,37,-40,42,47,50,37,50,87,AUS
-HWC Australia Day Competition,2013-01-26,female,Kate Linford,107.20,80,84,-86,,,,84,0,0,AUS
-HWC Australia Day Competition,2013-01-26,female,Vivian Lee,49.15,-55,-55,55,70,75,80,55,80,135,AUS
-HWC Australia Day Competition,2013-01-26,female,Melissa Spain,53.70,25,30,-35,35,40,-45,30,40,70,AUS
-HWC Australia Day Competition,2013-01-26,male,James Delaney,53.75,65,-67,67,85,-90,-90,67,85,152,AUS
-HWC Australia Day Competition,2013-01-26,male,Dexter Chiew,62.90,57,62,65,70,76,82,65,82,147,AUS
-HWC Australia Day Competition,2013-01-26,male,Simon Obery,63.70,55,60,-65,72,77,80,60,80,140,AUS
-HWC Australia Day Competition,2013-01-26,male,Akashdeep Singh Gill,75.70,105,110,113,133,140,142,113,142,255,AUS
-HWC Australia Day Competition,2013-01-26,male,Oisin Clarken,69.15,60,65,-67,74,80,-83,65,80,145,AUS
-HWC Australia Day Competition,2013-01-26,male,Peyman Imani,83.95,84,-88,88,105,-110,-110,88,105,193,AUS
-HWC Australia Day Competition,2013-01-26,male,James Stirton,84.30,70,-75,75,80,85,90,75,90,165,AUS
-HWC Australia Day Competition,2013-01-26,male,Brendan Tuck,83.00,55,60,65,78,82,87,65,87,152,AUS
-HWC Australia Day Competition,2013-01-26,male,Scott Norman,89.10,105,-110,-110,125,130,135,105,135,240,AUS
-HWC Australia Day Competition,2013-01-26,male,Geordie Biss,94.15,90,95,100,120,-127,-127,100,120,220,AUS
-HWC Australia Day Competition,2013-01-26,male,Beau Hiram,103.10,-75,75,-80,90,95,100,75,100,175,AUS
-HWC Australia Day Competition,2013-01-26,male,Alexander Rofe,103.20,60,65,67,75,80,85,67,85,152,AUS
-HWC Australia Day Competition,2013-01-26,male,Joshua Quinn,110.10,130,136,-140,165,173,177,136,177,313,AUS
-HWC Australia Day Competition,2013-01-26,male,Ben Maruskanic,120.60,75,80,-85,95,100,-105,80,100,180,AUS
-HWC Australia Day Competition,2013-01-26,male,Damien Hewish,55.90,65,-70,70,85,90,-92,70,90,160,AUS
+HWC Australia Day Competition,2013-01-26,female,Clare Cherry,73.75,54,58,62,74,-78,78,62,78,140
+HWC Australia Day Competition,2013-01-26,female,Kaitlyn Fassina,91.55,-85,85,90,100,105,-111,90,105,195
+HWC Australia Day Competition,2013-01-26,female,Chloe Harrigan,76.25,32,37,-40,42,47,50,37,50,87
+HWC Australia Day Competition,2013-01-26,female,Kate Linford,107.20,80,84,-86,0,0,0,84,0,0
+HWC Australia Day Competition,2013-01-26,female,Vivian Lee,49.15,-55,-55,55,70,75,80,55,80,135
+HWC Australia Day Competition,2013-01-26,female,Melissa Spain,53.70,25,30,-35,35,40,-45,30,40,70
+HWC Australia Day Competition,2013-01-26,male,James Delaney,53.75,65,-67,67,85,-90,-90,67,85,152
+HWC Australia Day Competition,2013-01-26,male,Dexter Chiew,62.90,57,62,65,70,76,82,65,82,147
+HWC Australia Day Competition,2013-01-26,male,Simon Obery,63.70,55,60,-65,72,77,80,60,80,140
+HWC Australia Day Competition,2013-01-26,male,Akashdeep Singh Gill,75.70,105,110,113,133,140,142,113,142,255
+HWC Australia Day Competition,2013-01-26,male,Oisin Clarken,69.15,60,65,-67,74,80,-83,65,80,145
+HWC Australia Day Competition,2013-01-26,male,Peyman Imani,83.95,84,-88,88,105,-110,-110,88,105,193
+HWC Australia Day Competition,2013-01-26,male,James Stirton,84.30,70,-75,75,80,85,90,75,90,165
+HWC Australia Day Competition,2013-01-26,male,Brendan Tuck,83.00,55,60,65,78,82,87,65,87,152
+HWC Australia Day Competition,2013-01-26,male,Scott Norman,89.10,105,-110,-110,125,130,135,105,135,240
+HWC Australia Day Competition,2013-01-26,male,Geordie Biss,94.15,90,95,100,120,-127,-127,100,120,220
+HWC Australia Day Competition,2013-01-26,male,Beau Hiram,103.10,-75,75,-80,90,95,100,75,100,175
+HWC Australia Day Competition,2013-01-26,male,Alexander Rofe,103.20,60,65,67,75,80,85,67,85,152
+HWC Australia Day Competition,2013-01-26,male,Joshua Quinn,110.10,130,136,-140,165,173,177,136,177,313
+HWC Australia Day Competition,2013-01-26,male,Ben Maruskanic,120.60,75,80,-85,95,100,-105,80,100,180
+HWC Australia Day Competition,2013-01-26,male,Damien Hewish,55.90,65,-70,70,85,90,-92,70,90,160

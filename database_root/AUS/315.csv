@@ -1,11 +1,11 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-SAWLA February Open and SAWC Masters Round 1,2013-02-16,female,Nicole Chamberlain,66.98,58,63,65,73,77,80,65,80,145,AUS
-SAWLA February Open and SAWC Masters Round 1,2013-02-16,male,Jack Strudwicke,74.12,67,72,76,93,97,-103,76,97,173,AUS
-SAWLA February Open and SAWC Masters Round 1,2013-02-16,male,Matthew Toward,81.56,55,60,65,75,80,-86,65,80,145,AUS
-SAWLA February Open and SAWC Masters Round 1,2013-02-16,male,Matthew Randell,93.28,-75,80,85,100,-110,115,85,115,200,AUS
-SAWLA February Open and SAWC Masters Round 1,2013-02-16,male,Max Dal Santo,99.68,120,125,130,150,155,160,130,160,290,AUS
-SAWLA February Open and SAWC Masters Round 1,2013-02-16,male,Richard Baker,107.36,70,75,77,93,97,104,77,104,181,AUS
-SAWLA February Open and SAWC Masters Round 1,2013-02-16,male,Jared Grimm,119.92,55,60,-65,65,70,75,60,75,135,AUS
-SAWLA February Open and SAWC Masters Round 1,2013-02-16,male,John Humphrys,84.30,42,45,-47,52,-55,-55,45,52,97,AUS
-SAWLA February Open and SAWC Masters Round 1,2013-02-16,male,Ben Mulder,98.16,110,115,117,-130,140,150,117,150,267,AUS
-SAWLA February Open and SAWC Masters Round 1,2013-02-16,male,Ashley Dean Pascoe,114.60,55,60,62,80,85,90,62,90,152,AUS
+SAWLA February Open and SAWC Masters Round 1,2013-02-16,female,Nicole Chamberlain,66.98,58,63,65,73,77,80,65,80,145
+SAWLA February Open and SAWC Masters Round 1,2013-02-16,male,Jack Strudwicke,74.12,67,72,76,93,97,-103,76,97,173
+SAWLA February Open and SAWC Masters Round 1,2013-02-16,male,Matthew Toward,81.56,55,60,65,75,80,-86,65,80,145
+SAWLA February Open and SAWC Masters Round 1,2013-02-16,male,Matthew Randell,93.28,-75,80,85,100,-110,115,85,115,200
+SAWLA February Open and SAWC Masters Round 1,2013-02-16,male,Max Dal Santo,99.68,120,125,130,150,155,160,130,160,290
+SAWLA February Open and SAWC Masters Round 1,2013-02-16,male,Richard Baker,107.36,70,75,77,93,97,104,77,104,181
+SAWLA February Open and SAWC Masters Round 1,2013-02-16,male,Jared Grimm,119.92,55,60,-65,65,70,75,60,75,135
+SAWLA February Open and SAWC Masters Round 1,2013-02-16,male,John Humphrys,84.30,42,45,-47,52,-55,-55,45,52,97
+SAWLA February Open and SAWC Masters Round 1,2013-02-16,male,Ben Mulder,98.16,110,115,117,-130,140,150,117,150,267
+SAWLA February Open and SAWC Masters Round 1,2013-02-16,male,Ashley Dean Pascoe,114.60,55,60,62,80,85,90,62,90,152

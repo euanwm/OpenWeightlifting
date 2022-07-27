@@ -1,15 +1,15 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-SA Club Challenge Round 4,2017-08-26,female,Le Minh Thu Huynh,52.76,47,-51,51,57,61,-65,51,61,112,AUS
-SA Club Challenge Round 4,2017-08-26,female,Linda Kyritsis,54.76,40,-43,-43,50,53,56,40,56,96,AUS
-SA Club Challenge Round 4,2017-08-26,female,Candy Huynh,56.90,38,40,-42,48,50,-55,40,50,90,AUS
-SA Club Challenge Round 4,2017-08-26,female,Claire Wilson,56.68,45,-50,-50,51,-55,-55,45,51,96,AUS
-SA Club Challenge Round 4,2017-08-26,female,Joanne Flesfadar,66.88,62,-65,-65,68,70,-72,62,70,132,AUS
-SA Club Challenge Round 4,2017-08-26,female,Tamra Murphy,79.32,40,-45,45,50,-53,53,45,53,98,AUS
-SA Club Challenge Round 4,2017-08-26,male,Lenin Pichiayan,69.10,65,70,-75,90,-95,,70,90,160,AUS
-SA Club Challenge Round 4,2017-08-26,male,Frank Elliott,79.62,120,-130,-135,-150,-150,,120,0,0,AUS
-SA Club Challenge Round 4,2017-08-26,male,John Humphrys,84.48,-33,-33,-33,-43,-43,-43,0,0,0,AUS
-SA Club Challenge Round 4,2017-08-26,male,Wayne Morgan,98.14,-75,75,-81,98,103,-110,75,103,178,AUS
-SA Club Challenge Round 4,2017-08-26,male,Richard Baker,114.96,115,-120,-124,140,145,150,115,150,265,AUS
-SA Club Challenge Round 4,2017-08-26,male,Chris Duthie,119.72,60,65,,80,90,,65,90,155,AUS
-SA Club Challenge Round 4,2017-08-26,male,George Katsambis,118.20,50,60,,65,70,85,60,85,145,AUS
-SA Club Challenge Round 4,2017-08-26,male,Ashley Dean Pascoe,121.02,52,56,-60,70,75,80,56,80,136,AUS
+SA Club Challenge Round 4,2017-08-26,female,Le Minh Thu Huynh,52.76,47,-51,51,57,61,-65,51,61,112
+SA Club Challenge Round 4,2017-08-26,female,Linda Kyritsis,54.76,40,-43,-43,50,53,56,40,56,96
+SA Club Challenge Round 4,2017-08-26,female,Candy Huynh,56.90,38,40,-42,48,50,-55,40,50,90
+SA Club Challenge Round 4,2017-08-26,female,Claire Wilson,56.68,45,-50,-50,51,-55,-55,45,51,96
+SA Club Challenge Round 4,2017-08-26,female,Joanne Flesfadar,66.88,62,-65,-65,68,70,-72,62,70,132
+SA Club Challenge Round 4,2017-08-26,female,Tamra Murphy,79.32,40,-45,45,50,-53,53,45,53,98
+SA Club Challenge Round 4,2017-08-26,male,Lenin Pichiayan,69.10,65,70,-75,90,-95,0,70,90,160
+SA Club Challenge Round 4,2017-08-26,male,Frank Elliott,79.62,120,-130,-135,-150,-150,0,120,0,0
+SA Club Challenge Round 4,2017-08-26,male,John Humphrys,84.48,-33,-33,-33,-43,-43,-43,0,0,0
+SA Club Challenge Round 4,2017-08-26,male,Wayne Morgan,98.14,-75,75,-81,98,103,-110,75,103,178
+SA Club Challenge Round 4,2017-08-26,male,Richard Baker,114.96,115,-120,-124,140,145,150,115,150,265
+SA Club Challenge Round 4,2017-08-26,male,Chris Duthie,119.72,60,65,0,80,90,0,65,90,155
+SA Club Challenge Round 4,2017-08-26,male,George Katsambis,118.20,50,60,0,65,70,85,60,85,145
+SA Club Challenge Round 4,2017-08-26,male,Ashley Dean Pascoe,121.02,52,56,-60,70,75,80,56,80,136

@@ -1,9 +1,9 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Burwood Open Competition,2016-09-03,female,Janet Adam,52.55,50,53,55,68,70,-74,55,70,125,AUS
-Burwood Open Competition,2016-09-03,male,Ian Wee,67.65,90,95,-100,120,125,-128,95,125,220,AUS
-Burwood Open Competition,2016-09-03,male,Joseph Campbell,83.35,92,97,-102,130,-135,-135,97,130,227,AUS
-Burwood Open Competition,2016-09-03,male,Adrian Mena,82.70,88,-93,96,-117,122,-125,96,122,218,AUS
-Burwood Open Competition,2016-09-03,male,Jean-Paul Chung Pin Yong,80.45,81,88,-94,112,118,-123,88,118,206,AUS
-Burwood Open Competition,2016-09-03,male,Andrew Pineda,89.10,85,90,97,115,120,-129,97,120,217,AUS
-Burwood Open Competition,2016-09-03,male,Jacob Marquardt,91.45,-115,-115,-120,,,,0,0,0,AUS
-Burwood Open Competition,2016-09-03,male,Michael Inskip,96.20,120,125,,146,-151,-151,125,146,271,AUS
+Burwood Open Competition,2016-09-03,female,Janet Adam,52.55,50,53,55,68,70,-74,55,70,125
+Burwood Open Competition,2016-09-03,male,Ian Wee,67.65,90,95,-100,120,125,-128,95,125,220
+Burwood Open Competition,2016-09-03,male,Joseph Campbell,83.35,92,97,-102,130,-135,-135,97,130,227
+Burwood Open Competition,2016-09-03,male,Adrian Mena,82.70,88,-93,96,-117,122,-125,96,122,218
+Burwood Open Competition,2016-09-03,male,Jean-Paul Chung Pin Yong,80.45,81,88,-94,112,118,-123,88,118,206
+Burwood Open Competition,2016-09-03,male,Andrew Pineda,89.10,85,90,97,115,120,-129,97,120,217
+Burwood Open Competition,2016-09-03,male,Jacob Marquardt,91.45,-115,-115,-120,0,0,0,0,0,0
+Burwood Open Competition,2016-09-03,male,Michael Inskip,96.20,120,125,0,146,-151,-151,125,146,271

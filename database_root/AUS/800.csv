@@ -1,5 +1,5 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Triumph Club Competition,2015-10-02,female,Philippa Malone,65.70,87,-89,-90,-102,102,105,87,105,192,AUS
-Triumph Club Competition,2015-10-02,male,Jacob Marquardt,92.20,-117,-117,117,140,145,150,117,150,267,AUS
-Triumph Club Competition,2015-10-02,male,Michael Nolan,88.50,90,-93,93,-115,115,-118,93,115,208,AUS
-Triumph Club Competition,2015-10-02,male,Jon Delaney,87.00,-100,-100,-101,,,,0,0,0,AUS
+Triumph Club Competition,2015-10-02,female,Philippa Malone,65.70,87,-89,-90,-102,102,105,87,105,192
+Triumph Club Competition,2015-10-02,male,Jacob Marquardt,92.20,-117,-117,117,140,145,150,117,150,267
+Triumph Club Competition,2015-10-02,male,Michael Nolan,88.50,90,-93,93,-115,115,-118,93,115,208
+Triumph Club Competition,2015-10-02,male,Jon Delaney,87.00,-100,-100,-101,0,0,0,0,0,0

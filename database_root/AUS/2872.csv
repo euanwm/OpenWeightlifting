@@ -1,9 +1,9 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Singapore Weightlifting International,2022-02-25,female,Jess Sewastenko,54.70,73,77,-79,-90,90,-100,77,90,167,AUS
-Singapore Weightlifting International,2022-02-25,female,Brenna Kean,58.35,-78,78,82,104,108,-112,82,108,190,AUS
-Singapore Weightlifting International,2022-02-25,female,Tori Gallegos,58.30,80,-83,-83,103,-107,-107,80,103,183,AUS
-Singapore Weightlifting International,2022-02-25,female,Kiana Elliott,68.60,93,97,100,108,115,120,100,120,220,AUS
-Singapore Weightlifting International,2022-02-25,female,Ebony Gorincu,74.40,88,91,-94,114,118,-121,91,118,209,AUS
-Singapore Weightlifting International,2022-02-25,male,Ryley Porter,80.65,140,144,-147,168,-173,-173,144,168,312,AUS
-Singapore Weightlifting International,2022-02-25,male,Ridge Barredo,95.50,145,149,-153,187,-191,-191,149,187,336,AUS
-Singapore Weightlifting International,2022-02-25,male,Jackson Roberts-Young,108.75,145,-150,-150,194,-198,-198,145,194,339,AUS
+Singapore Weightlifting International,2022-02-25,female,Jess Sewastenko,54.70,73,77,-79,-90,90,-100,77,90,167
+Singapore Weightlifting International,2022-02-25,female,Brenna Kean,58.35,-78,78,82,104,108,-112,82,108,190
+Singapore Weightlifting International,2022-02-25,female,Tori Gallegos,58.30,80,-83,-83,103,-107,-107,80,103,183
+Singapore Weightlifting International,2022-02-25,female,Kiana Elliott,68.60,93,97,100,108,115,120,100,120,220
+Singapore Weightlifting International,2022-02-25,female,Ebony Gorincu,74.40,88,91,-94,114,118,-121,91,118,209
+Singapore Weightlifting International,2022-02-25,male,Ryley Porter,80.65,140,144,-147,168,-173,-173,144,168,312
+Singapore Weightlifting International,2022-02-25,male,Ridge Barredo,95.50,145,149,-153,187,-191,-191,149,187,336
+Singapore Weightlifting International,2022-02-25,male,Jackson Roberts-Young,108.75,145,-150,-150,194,-198,-198,145,194,339

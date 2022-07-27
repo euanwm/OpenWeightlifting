@@ -1,5 +1,5 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-mTOR #1,2018-06-17,female,Natasha Bernard,65.58,43,46,49,60,-65,65,49,65,114,AUS
-mTOR #1,2018-06-17,male,Daniel Kural,76.90,75,80,85,95,-100,-100,85,95,180,AUS
-mTOR #1,2018-06-17,male,Yosuke Kotani,74.65,70,75,80,95,100,105,80,105,185,AUS
-mTOR #1,2018-06-17,male,Dylan Bergin,113.20,-127,127,132,147,152,155,132,155,287,AUS
+mTOR #1,2018-06-17,female,Natasha Bernard,65.58,43,46,49,60,-65,65,49,65,114
+mTOR #1,2018-06-17,male,Daniel Kural,76.90,75,80,85,95,-100,-100,85,95,180
+mTOR #1,2018-06-17,male,Yosuke Kotani,74.65,70,75,80,95,100,105,80,105,185
+mTOR #1,2018-06-17,male,Dylan Bergin,113.20,-127,127,132,147,152,155,132,155,287

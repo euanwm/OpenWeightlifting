@@ -1,10 +1,10 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Inner West Open Competition,2017-11-19,female,Lizzy Pugh,57.20,55,60,-62,65,-70,70,60,70,130,AUS
-Inner West Open Competition,2017-11-19,female,Zofia Szymanski,56.50,-50,50,-52,63,66,-68,50,66,116,AUS
-Inner West Open Competition,2017-11-19,female,Elizabeth Austin,76.50,63,-68,-70,76,81,86,63,86,149,AUS
-Inner West Open Competition,2017-11-19,female,Claudia Bampton,88.90,41,43,46,53,56,60,46,60,106,AUS
-Inner West Open Competition,2017-11-19,male,Brock Baldwin,83.90,90,97,-102,120,127,132,97,132,229,AUS
-Inner West Open Competition,2017-11-19,male,Vu Tran,81.50,97,101,-105,115,119,125,101,125,226,AUS
-Inner West Open Competition,2017-11-19,male,Met Karakus,84.50,95,-100,-103,120,,,95,120,215,AUS
-Inner West Open Competition,2017-11-19,male,Gavin Crown,84.90,95,-101,-105,115,-125,-130,95,115,210,AUS
-Inner West Open Competition,2017-11-19,male,Stephen Johnstone,99.10,70,75,78,90,96,-101,78,96,174,AUS
+Inner West Open Competition,2017-11-19,female,Lizzy Pugh,57.20,55,60,-62,65,-70,70,60,70,130
+Inner West Open Competition,2017-11-19,female,Zofia Szymanski,56.50,-50,50,-52,63,66,-68,50,66,116
+Inner West Open Competition,2017-11-19,female,Elizabeth Austin,76.50,63,-68,-70,76,81,86,63,86,149
+Inner West Open Competition,2017-11-19,female,Claudia Bampton,88.90,41,43,46,53,56,60,46,60,106
+Inner West Open Competition,2017-11-19,male,Brock Baldwin,83.90,90,97,-102,120,127,132,97,132,229
+Inner West Open Competition,2017-11-19,male,Vu Tran,81.50,97,101,-105,115,119,125,101,125,226
+Inner West Open Competition,2017-11-19,male,Met Karakus,84.50,95,-100,-103,120,0,0,95,120,215
+Inner West Open Competition,2017-11-19,male,Gavin Crown,84.90,95,-101,-105,115,-125,-130,95,115,210
+Inner West Open Competition,2017-11-19,male,Stephen Johnstone,99.10,70,75,78,90,96,-101,78,96,174

@@ -1,10 +1,10 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-My Gym Club Competition,2018-05-05,female,Vicki-Lee Gibson,74.70,30,33,35,40,43,45,35,45,80,AUS
-My Gym Club Competition,2018-05-05,male,Jack Gibson,40.00,25,28,29,29,32,35,29,35,64,AUS
-My Gym Club Competition,2018-05-05,male,Kyle Munyard,55.80,25,-28,-28,29,32,35,25,35,60,AUS
-My Gym Club Competition,2018-05-05,male,Levi Davidson,44.20,16,18,20,19,22,26,20,26,46,AUS
-My Gym Club Competition,2018-05-05,male,Conor Sharp,37.50,15,17,19,17,19,21,19,21,40,AUS
-My Gym Club Competition,2018-05-05,male,Mitchell Moore,34.70,15,17,-19,16,18,20,17,20,37,AUS
-My Gym Club Competition,2018-05-05,male,Harry Rudd,57.20,17,22,-25,25,28,31,22,31,53,AUS
-My Gym Club Competition,2018-05-05,male,Joseph Moore,68.00,22,-25,25,28,31,-34,25,31,56,AUS
-My Gym Club Competition,2018-05-05,male,Robert Davidson,74.00,25,-30,30,-35,35,38,30,38,68,AUS
+My Gym Club Competition,2018-05-05,female,Vicki-Lee Gibson,74.70,30,33,35,40,43,45,35,45,80
+My Gym Club Competition,2018-05-05,male,Jack Gibson,40.00,25,28,29,29,32,35,29,35,64
+My Gym Club Competition,2018-05-05,male,Kyle Munyard,55.80,25,-28,-28,29,32,35,25,35,60
+My Gym Club Competition,2018-05-05,male,Levi Davidson,44.20,16,18,20,19,22,26,20,26,46
+My Gym Club Competition,2018-05-05,male,Conor Sharp,37.50,15,17,19,17,19,21,19,21,40
+My Gym Club Competition,2018-05-05,male,Mitchell Moore,34.70,15,17,-19,16,18,20,17,20,37
+My Gym Club Competition,2018-05-05,male,Harry Rudd,57.20,17,22,-25,25,28,31,22,31,53
+My Gym Club Competition,2018-05-05,male,Joseph Moore,68.00,22,-25,25,28,31,-34,25,31,56
+My Gym Club Competition,2018-05-05,male,Robert Davidson,74.00,25,-30,30,-35,35,38,30,38,68

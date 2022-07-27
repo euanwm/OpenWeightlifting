@@ -1,38 +1,38 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-OWF Commonwealth Online Tournament,2022-05-28,female,Dika Toua,49.50,65,69,72,88,93,96,72,96,168,AUS
-OWF Commonwealth Online Tournament,2022-05-28,female,Prescillia Piotrowsky,52.90,64,-66,68,75,-78,-80,68,75,143,AUS
-OWF Commonwealth Online Tournament,2022-05-28,female,Jenly Wini,55.25,80,85,-89,105,110,-112,85,110,195,AUS
-OWF Commonwealth Online Tournament,2022-05-28,female,Myonly Stephen,55.75,70,-73,73,88,92,-95,73,92,165,AUS
-OWF Commonwealth Online Tournament,2022-05-28,female,Sarah Cochrane,65.70,95,100,-102,-116,-116,118,100,118,218,AUS
-OWF Commonwealth Online Tournament,2022-05-28,female,Kiana Elliott,68.00,95,-100,-100,115,118,121,95,121,216,AUS
-OWF Commonwealth Online Tournament,2022-05-28,female,Nancy Genzel Abouke,70.20,85,90,-92,105,110,-114,90,110,200,AUS
-OWF Commonwealth Online Tournament,2022-05-28,female,Emma McIntyre,64.70,81,83,85,97,100,105,85,105,190,AUS
-OWF Commonwealth Online Tournament,2022-05-28,female,Jacinta Sumagaysay,66.30,70,75,-78,95,100,-105,75,100,175,AUS
-OWF Commonwealth Online Tournament,2022-05-28,female,Maximina Uepa,72.65,-92,92,95,-117,117,-121,95,117,212,AUS
-OWF Commonwealth Online Tournament,2022-05-28,female,Megan Signal,71.40,80,84,88,106,-111,-112,88,106,194,AUS
-OWF Commonwealth Online Tournament,2022-05-28,female,Eileen Cikamatana,84.45,105,110,-115,135,140,-145,110,140,250,AUS
-OWF Commonwealth Online Tournament,2022-05-28,female,Hayley Whiting,84.30,90,95,-100,110,115,-120,95,115,210,AUS
-OWF Commonwealth Online Tournament,2022-05-28,female,Ajah Pritchard-Lolo,85.10,75,78,81,90,-95,-100,81,90,171,AUS
-OWF Commonwealth Online Tournament,2022-05-28,female,Feagaiga Stowers,119.05,120,125,127,150,155,-160,127,155,282,AUS
-OWF Commonwealth Online Tournament,2022-05-28,female,Charisma Amoe-Tarrant,156.08,92,97,100,125,-130,135,100,135,235,AUS
-OWF Commonwealth Online Tournament,2022-05-28,female,Kuinini Manumua,105.91,98,101,104,124,127,-130,104,127,231,AUS
-OWF Commonwealth Online Tournament,2022-05-28,female,Manine Lynch,121.30,82,-85,86,-105,110,115,86,115,201,AUS
-OWF Commonwealth Online Tournament,2022-05-28,female,Helen Anastasia Seipua,112.40,-78,78,-82,98,105,-112,78,105,183,AUS
-OWF Commonwealth Online Tournament,2022-05-28,male,Philip Masi,54.56,72,76,82,-92,95,101,82,101,183,AUS
-OWF Commonwealth Online Tournament,2022-05-28,male,Shadrach Cain,60.65,90,92,-95,-110,115,-120,92,115,207,AUS
-OWF Commonwealth Online Tournament,2022-05-28,male,Vaip Nevo Ioane,66.65,117,121,124,155,160,-164,124,160,284,AUS
-OWF Commonwealth Online Tournament,2022-05-28,male,Morea Baru,61.45,110,115,120,147,152,-160,120,152,272,AUS
-OWF Commonwealth Online Tournament,2022-05-28,male,John Tafi,72.35,126,-131,131,155,161,166,131,166,297,AUS
-OWF Commonwealth Online Tournament,2022-05-28,male,Ditto Ika,67.25,106,-111,-111,-140,140,-143,106,140,246,AUS
-OWF Commonwealth Online Tournament,2022-05-28,male,Ezekiel Moses,73.60,121,-125,125,150,155,-160,125,155,280,AUS
-OWF Commonwealth Online Tournament,2022-05-28,male,Vester Villalon,73.60,95,100,105,125,130,135,105,135,240,AUS
-OWF Commonwealth Online Tournament,2022-05-28,male,Cameron McTaggart,86.10,125,,,140,,,125,140,265,AUS
-OWF Commonwealth Online Tournament,2022-05-28,male,Matahi Tahiaipuoho,84.80,120,-125,-125,-150,-150,-150,120,0,0,AUS
-OWF Commonwealth Online Tournament,2022-05-28,male,Don Opeloge,95.35,160,164,167,201,208,-215,167,208,375,AUS
-OWF Commonwealth Online Tournament,2022-05-28,male,Taniela Tuisuva Rainibogi,95.05,145,150,-153,-175,175,180,150,180,330,AUS
-OWF Commonwealth Online Tournament,2022-05-28,male,Ridge Barredo,98.10,145,-150,-155,180,188,-192,145,188,333,AUS
-OWF Commonwealth Online Tournament,2022-05-28,male,David Liti,180.80,165,170,175,205,215,,175,215,390,AUS
-OWF Commonwealth Online Tournament,2022-05-28,male,Koale Junior Tasi Taala,119.40,140,150,-160,-185,-185,190,150,190,340,AUS
-OWF Commonwealth Online Tournament,2022-05-28,male,Sio Pomelile,112.70,120,130,140,160,170,180,140,180,320,AUS
-OWF Commonwealth Online Tournament,2022-05-28,male,Jackson Roberts-Young,114.90,-130,130,,170,180,190,130,190,320,AUS
-OWF Commonwealth Online Tournament,2022-05-28,male,Giovanni Toimata,116.40,115,-120,-120,145,-150,150,115,150,265,AUS
+OWF Commonwealth Online Tournament,2022-05-28,female,Dika Toua,49.50,65,69,72,88,93,96,72,96,168
+OWF Commonwealth Online Tournament,2022-05-28,female,Prescillia Piotrowsky,52.90,64,-66,68,75,-78,-80,68,75,143
+OWF Commonwealth Online Tournament,2022-05-28,female,Jenly Wini,55.25,80,85,-89,105,110,-112,85,110,195
+OWF Commonwealth Online Tournament,2022-05-28,female,Myonly Stephen,55.75,70,-73,73,88,92,-95,73,92,165
+OWF Commonwealth Online Tournament,2022-05-28,female,Sarah Cochrane,65.70,95,100,-102,-116,-116,118,100,118,218
+OWF Commonwealth Online Tournament,2022-05-28,female,Kiana Elliott,68.00,95,-100,-100,115,118,121,95,121,216
+OWF Commonwealth Online Tournament,2022-05-28,female,Nancy Genzel Abouke,70.20,85,90,-92,105,110,-114,90,110,200
+OWF Commonwealth Online Tournament,2022-05-28,female,Emma McIntyre,64.70,81,83,85,97,100,105,85,105,190
+OWF Commonwealth Online Tournament,2022-05-28,female,Jacinta Sumagaysay,66.30,70,75,-78,95,100,-105,75,100,175
+OWF Commonwealth Online Tournament,2022-05-28,female,Maximina Uepa,72.65,-92,92,95,-117,117,-121,95,117,212
+OWF Commonwealth Online Tournament,2022-05-28,female,Megan Signal,71.40,80,84,88,106,-111,-112,88,106,194
+OWF Commonwealth Online Tournament,2022-05-28,female,Eileen Cikamatana,84.45,105,110,-115,135,140,-145,110,140,250
+OWF Commonwealth Online Tournament,2022-05-28,female,Hayley Whiting,84.30,90,95,-100,110,115,-120,95,115,210
+OWF Commonwealth Online Tournament,2022-05-28,female,Ajah Pritchard-Lolo,85.10,75,78,81,90,-95,-100,81,90,171
+OWF Commonwealth Online Tournament,2022-05-28,female,Feagaiga Stowers,119.05,120,125,127,150,155,-160,127,155,282
+OWF Commonwealth Online Tournament,2022-05-28,female,Charisma Amoe-Tarrant,156.08,92,97,100,125,-130,135,100,135,235
+OWF Commonwealth Online Tournament,2022-05-28,female,Kuinini Manumua,105.91,98,101,104,124,127,-130,104,127,231
+OWF Commonwealth Online Tournament,2022-05-28,female,Manine Lynch,121.30,82,-85,86,-105,110,115,86,115,201
+OWF Commonwealth Online Tournament,2022-05-28,female,Helen Anastasia Seipua,112.40,-78,78,-82,98,105,-112,78,105,183
+OWF Commonwealth Online Tournament,2022-05-28,male,Philip Masi,54.56,72,76,82,-92,95,101,82,101,183
+OWF Commonwealth Online Tournament,2022-05-28,male,Shadrach Cain,60.65,90,92,-95,-110,115,-120,92,115,207
+OWF Commonwealth Online Tournament,2022-05-28,male,Vaip Nevo Ioane,66.65,117,121,124,155,160,-164,124,160,284
+OWF Commonwealth Online Tournament,2022-05-28,male,Morea Baru,61.45,110,115,120,147,152,-160,120,152,272
+OWF Commonwealth Online Tournament,2022-05-28,male,John Tafi,72.35,126,-131,131,155,161,166,131,166,297
+OWF Commonwealth Online Tournament,2022-05-28,male,Ditto Ika,67.25,106,-111,-111,-140,140,-143,106,140,246
+OWF Commonwealth Online Tournament,2022-05-28,male,Ezekiel Moses,73.60,121,-125,125,150,155,-160,125,155,280
+OWF Commonwealth Online Tournament,2022-05-28,male,Vester Villalon,73.60,95,100,105,125,130,135,105,135,240
+OWF Commonwealth Online Tournament,2022-05-28,male,Cameron McTaggart,86.10,125,0,0,140,0,0,125,140,265
+OWF Commonwealth Online Tournament,2022-05-28,male,Matahi Tahiaipuoho,84.80,120,-125,-125,-150,-150,-150,120,0,0
+OWF Commonwealth Online Tournament,2022-05-28,male,Don Opeloge,95.35,160,164,167,201,208,-215,167,208,375
+OWF Commonwealth Online Tournament,2022-05-28,male,Taniela Tuisuva Rainibogi,95.05,145,150,-153,-175,175,180,150,180,330
+OWF Commonwealth Online Tournament,2022-05-28,male,Ridge Barredo,98.10,145,-150,-155,180,188,-192,145,188,333
+OWF Commonwealth Online Tournament,2022-05-28,male,David Liti,180.80,165,170,175,205,215,0,175,215,390
+OWF Commonwealth Online Tournament,2022-05-28,male,Koale Junior Tasi Taala,119.40,140,150,-160,-185,-185,190,150,190,340
+OWF Commonwealth Online Tournament,2022-05-28,male,Sio Pomelile,112.70,120,130,140,160,170,180,140,180,320
+OWF Commonwealth Online Tournament,2022-05-28,male,Jackson Roberts-Young,114.90,-130,130,0,170,180,190,130,190,320
+OWF Commonwealth Online Tournament,2022-05-28,male,Giovanni Toimata,116.40,115,-120,-120,145,-150,150,115,150,265

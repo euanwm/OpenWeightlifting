@@ -1,10 +1,10 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Hunter Barbell Open Competition,2018-06-30,female,Katie Yilmaz,47.95,-47,47,-51,63,-67,-67,47,63,110,AUS
-Hunter Barbell Open Competition,2018-06-30,female,Tyneesha Kerr,65.25,45,-48,-48,-57,57,62,45,62,107,AUS
-Hunter Barbell Open Competition,2018-06-30,female,Bobbie-Jane Souter,87.90,40,45,48,60,-65,-65,48,60,108,AUS
-Hunter Barbell Open Competition,2018-06-30,male,Bouachanh Thongvilu,69.00,64,68,-71,74,80,-82,68,80,148,AUS
-Hunter Barbell Open Competition,2018-06-30,male,Jack Davis,73.85,75,80,85,90,95,105,85,105,190,AUS
-Hunter Barbell Open Competition,2018-06-30,male,Fabian Garcia,77.00,75,-78,-78,95,100,-103,75,100,175,AUS
-Hunter Barbell Open Competition,2018-06-30,male,Ismail Haskara,76.85,55,-61,-61,75,81,-86,55,81,136,AUS
-Hunter Barbell Open Competition,2018-06-30,male,Alex Hersey,83.55,100,106,110,130,135,138,110,138,248,AUS
-Hunter Barbell Open Competition,2018-06-30,male,Orion Walsh,147.50,95,100,110,110,120,125,110,125,235,AUS
+Hunter Barbell Open Competition,2018-06-30,female,Katie Yilmaz,47.95,-47,47,-51,63,-67,-67,47,63,110
+Hunter Barbell Open Competition,2018-06-30,female,Tyneesha Kerr,65.25,45,-48,-48,-57,57,62,45,62,107
+Hunter Barbell Open Competition,2018-06-30,female,Bobbie-Jane Souter,87.90,40,45,48,60,-65,-65,48,60,108
+Hunter Barbell Open Competition,2018-06-30,male,Bouachanh Thongvilu,69.00,64,68,-71,74,80,-82,68,80,148
+Hunter Barbell Open Competition,2018-06-30,male,Jack Davis,73.85,75,80,85,90,95,105,85,105,190
+Hunter Barbell Open Competition,2018-06-30,male,Fabian Garcia,77.00,75,-78,-78,95,100,-103,75,100,175
+Hunter Barbell Open Competition,2018-06-30,male,Ismail Haskara,76.85,55,-61,-61,75,81,-86,55,81,136
+Hunter Barbell Open Competition,2018-06-30,male,Alex Hersey,83.55,100,106,110,130,135,138,110,138,248
+Hunter Barbell Open Competition,2018-06-30,male,Orion Walsh,147.50,95,100,110,110,120,125,110,125,235

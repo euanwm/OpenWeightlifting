@@ -1,6 +1,6 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Inner West Open Competition,2018-07-15,female,Charlotte Fladgate,57.70,-55,-58,58,75,-80,-80,58,75,133,AUS
-Inner West Open Competition,2018-07-15,female,Rhian Roussos,65.40,65,-70,-70,77,-82,-82,65,77,142,AUS
-Inner West Open Competition,2018-07-15,female,Coral Fernandez,76.40,34,-37,37,45,-50,50,37,50,87,AUS
-Inner West Open Competition,2018-07-15,female,Julie Austin,88.60,20,23,25,30,33,36,25,36,61,AUS
-Inner West Open Competition,2018-07-15,male,Julius Camilleri,73.40,60,-70,-70,75,80,85,60,85,145,AUS
+Inner West Open Competition,2018-07-15,female,Charlotte Fladgate,57.70,-55,-58,58,75,-80,-80,58,75,133
+Inner West Open Competition,2018-07-15,female,Rhian Roussos,65.40,65,-70,-70,77,-82,-82,65,77,142
+Inner West Open Competition,2018-07-15,female,Coral Fernandez,76.40,34,-37,37,45,-50,50,37,50,87
+Inner West Open Competition,2018-07-15,female,Julie Austin,88.60,20,23,25,30,33,36,25,36,61
+Inner West Open Competition,2018-07-15,male,Julius Camilleri,73.40,60,-70,-70,75,80,85,60,85,145

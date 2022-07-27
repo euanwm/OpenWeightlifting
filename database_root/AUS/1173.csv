@@ -1,9 +1,9 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-IWF Junior World Championships,2017-06-16,female,Michaela Warwick,51.55,60,64,68,75,79,-81,68,79,147,AUS
-IWF Junior World Championships,2017-06-16,female,Sabah Chamoun,62.52,75,80,-83,95,101,-105,80,101,181,AUS
-IWF Junior World Championships,2017-06-16,female,Kiana Elliott,62.85,88,-92,-92,-105,-105,-105,88,0,0,AUS
-IWF Junior World Championships,2017-06-16,male,Hamish Adam,61.77,95,-100,-100,118,123,-127,95,123,218,AUS
-IWF Junior World Championships,2017-06-16,male,Nick Difabio,76.42,110,115,-120,142,147,-155,115,147,262,AUS
-IWF Junior World Championships,2017-06-16,male,Ben Ward,84.74,121,126,131,144,150,157,131,157,288,AUS
-IWF Junior World Championships,2017-06-16,male,Liam Saxby,83.42,115,120,-123,140,-146,-146,120,140,260,AUS
-IWF Junior World Championships,2017-06-16,male,Edward Maxwell,103.20,-121,121,126,-152,152,156,126,156,282,AUS
+IWF Junior World Championships,2017-06-16,female,Michaela Warwick,51.55,60,64,68,75,79,-81,68,79,147
+IWF Junior World Championships,2017-06-16,female,Sabah Chamoun,62.52,75,80,-83,95,101,-105,80,101,181
+IWF Junior World Championships,2017-06-16,female,Kiana Elliott,62.85,88,-92,-92,-105,-105,-105,88,0,0
+IWF Junior World Championships,2017-06-16,male,Hamish Adam,61.77,95,-100,-100,118,123,-127,95,123,218
+IWF Junior World Championships,2017-06-16,male,Nick Difabio,76.42,110,115,-120,142,147,-155,115,147,262
+IWF Junior World Championships,2017-06-16,male,Ben Ward,84.74,121,126,131,144,150,157,131,157,288
+IWF Junior World Championships,2017-06-16,male,Liam Saxby,83.42,115,120,-123,140,-146,-146,120,140,260
+IWF Junior World Championships,2017-06-16,male,Edward Maxwell,103.20,-121,121,126,-152,152,156,126,156,282
