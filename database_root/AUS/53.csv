@@ -1,14 +1,14 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-VWA Open,2012-09-22,female,Amy Dracup,58.00,52,57,60,82,87,-90,60,87,147,AUS
-VWA Open,2012-09-22,female,Miranda Hoare,68.65,52,54,56,58,60,62,56,62,118,AUS
-VWA Open,2012-09-22,female,Christine Wickham,70.35,30,-33,-34,40,44,45,30,45,75,AUS
-VWA Open,2012-09-22,female,Maria Katsouranis,86.50,55,60,63,75,80,-82,63,80,143,AUS
-VWA Open,2012-09-22,female,Keiko Nakai,56.80,25,28,30,34,37,40,30,40,70,AUS
-VWA Open,2012-09-22,female,Elaine Janes,62.15,23,25,27,33,35,-37,27,35,62,AUS
-VWA Open,2012-09-22,male,Dexter Chiew,63.40,-40,45,-50,55,60,65,45,65,110,AUS
-VWA Open,2012-09-22,male,Lester Ho,76.35,-95,-95,95,110,-117,117,95,117,212,AUS
-VWA Open,2012-09-22,male,Matthew Pit,84.00,110,115,-117,130,135,-140,115,135,250,AUS
-VWA Open,2012-09-22,male,Nicodemus Scheelings,82.75,105,110,-112,-125,-125,125,110,125,235,AUS
-VWA Open,2012-09-22,male,Josh West,92.90,-73,73,-76,90,-92,93,73,93,166,AUS
-VWA Open,2012-09-22,male,Frank Parsons,88.85,47,-52,-52,67,72,74,47,74,121,AUS
-VWA Open,2012-09-22,male,Greg Lata,91.25,60,63,-65,77,81,-85,63,81,144,AUS
+VWA Open,2012-09-22,female,Amy Dracup,58.00,52,57,60,82,87,-90,60,87,147
+VWA Open,2012-09-22,female,Miranda Hoare,68.65,52,54,56,58,60,62,56,62,118
+VWA Open,2012-09-22,female,Christine Wickham,70.35,30,-33,-34,40,44,45,30,45,75
+VWA Open,2012-09-22,female,Maria Katsouranis,86.50,55,60,63,75,80,-82,63,80,143
+VWA Open,2012-09-22,female,Keiko Nakai,56.80,25,28,30,34,37,40,30,40,70
+VWA Open,2012-09-22,female,Elaine Janes,62.15,23,25,27,33,35,-37,27,35,62
+VWA Open,2012-09-22,male,Dexter Chiew,63.40,-40,45,-50,55,60,65,45,65,110
+VWA Open,2012-09-22,male,Lester Ho,76.35,-95,-95,95,110,-117,117,95,117,212
+VWA Open,2012-09-22,male,Matthew Pit,84.00,110,115,-117,130,135,-140,115,135,250
+VWA Open,2012-09-22,male,Nicodemus Scheelings,82.75,105,110,-112,-125,-125,125,110,125,235
+VWA Open,2012-09-22,male,Josh West,92.90,-73,73,-76,90,-92,93,73,93,166
+VWA Open,2012-09-22,male,Frank Parsons,88.85,47,-52,-52,67,72,74,47,74,121
+VWA Open,2012-09-22,male,Greg Lata,91.25,60,63,-65,77,81,-85,63,81,144

@@ -1,7 +1,7 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-BIMSC Christmas Competition,2020-12-05,female,Lyla O'Dell,50.90,17,20,24,28,32,-35,24,32,56,AUS
-BIMSC Christmas Competition,2020-12-05,female,Cleo O'Dell,66.70,30,-32,32,40,43,46,32,46,78,AUS
-BIMSC Christmas Competition,2020-12-05,female,Ellanor Elliott,66.30,16,18,20,17,20,25,20,25,45,AUS
-BIMSC Christmas Competition,2020-12-05,male,Jack Gibson,58.70,77,-80,82,95,100,-103,82,100,182,AUS
-BIMSC Christmas Competition,2020-12-05,male,Jordan O'Dell,72.20,61,64,-67,72,-75,75,64,75,139,AUS
-BIMSC Christmas Competition,2020-12-05,male,Kyle Munyard,78.20,52,56,-60,77,-79,-79,56,77,133,AUS
+BIMSC Christmas Competition,2020-12-05,female,Lyla O'Dell,50.90,17,20,24,28,32,-35,24,32,56
+BIMSC Christmas Competition,2020-12-05,female,Cleo O'Dell,66.70,30,-32,32,40,43,46,32,46,78
+BIMSC Christmas Competition,2020-12-05,female,Ellanor Elliott,66.30,16,18,20,17,20,25,20,25,45
+BIMSC Christmas Competition,2020-12-05,male,Jack Gibson,58.70,77,-80,82,95,100,-103,82,100,182
+BIMSC Christmas Competition,2020-12-05,male,Jordan O'Dell,72.20,61,64,-67,72,-75,75,64,75,139
+BIMSC Christmas Competition,2020-12-05,male,Kyle Munyard,78.20,52,56,-60,77,-79,-79,56,77,133

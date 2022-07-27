@@ -1,7 +1,7 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-IWF Youth World Championships,2016-10-20,female,Hailee Jarrett,47.95,50,53,56,-68,-68,-68,56,0,0,AUS
-IWF Youth World Championships,2016-10-20,female,Sabah Chamoun,57.07,65,70,-73,85,90,-93,70,90,160,AUS
-IWF Youth World Championships,2016-10-20,female,Charrae Myers,60.87,65,68,71,85,88,-91,71,88,159,AUS
-IWF Youth World Championships,2016-10-20,female,Annabelle Harwood,61.38,60,65,68,78,83,86,68,86,154,AUS
-IWF Youth World Championships,2016-10-20,male,Ben Ward,83.84,110,115,120,135,141,-146,120,141,261,AUS
-IWF Youth World Championships,2016-10-20,male,Zac Millhouse,81.81,103,107,111,132,-137,137,111,137,248,AUS
+IWF Youth World Championships,2016-10-20,female,Hailee Jarrett,47.95,50,53,56,-68,-68,-68,56,0,0
+IWF Youth World Championships,2016-10-20,female,Sabah Chamoun,57.07,65,70,-73,85,90,-93,70,90,160
+IWF Youth World Championships,2016-10-20,female,Charrae Myers,60.87,65,68,71,85,88,-91,71,88,159
+IWF Youth World Championships,2016-10-20,female,Annabelle Harwood,61.38,60,65,68,78,83,86,68,86,154
+IWF Youth World Championships,2016-10-20,male,Ben Ward,83.84,110,115,120,135,141,-146,120,141,261
+IWF Youth World Championships,2016-10-20,male,Zac Millhouse,81.81,103,107,111,132,-137,137,111,137,248

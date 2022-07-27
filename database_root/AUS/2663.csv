@@ -1,18 +1,18 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-SAWLA December Open,2021-12-18,female,Celine Huynh,44.44,48,-51,51,55,-60,60,51,60,111,AUS
-SAWLA December Open,2021-12-18,female,Annie Huynh,48.97,35,-38,-38,42,45,-49,35,45,80,AUS
-SAWLA December Open,2021-12-18,female,Courtney Wallace,58.96,37,40,42,40,45,-52,42,45,87,AUS
-SAWLA December Open,2021-12-18,female,Zali Simes,61.98,60,-65,-67,75,80,-85,60,80,140,AUS
-SAWLA December Open,2021-12-18,female,Sophie-Min Thomson,90.76,35,37,39,42,46,50,39,50,89,AUS
-SAWLA December Open,2021-12-18,male,Phillip Nguyen,65.90,78,82,-85,-105,-105,105,82,105,187,AUS
-SAWLA December Open,2021-12-18,male,Andrew Dodman,65.60,53,-56,56,76,-79,-82,56,76,132,AUS
-SAWLA December Open,2021-12-18,male,Phu-Qui Pham,80.60,87,-90,90,118,121,-130,90,121,211,AUS
-SAWLA December Open,2021-12-18,male,Jeremy Stahl,75.00,-70,70,80,90,-97,100,80,100,180,AUS
-SAWLA December Open,2021-12-18,male,Kieran Eldridge,83.20,105,-110,110,135,-140,-140,110,135,245,AUS
-SAWLA December Open,2021-12-18,male,Brendon Bone,88.00,65,70,-75,90,95,100,70,100,170,AUS
-SAWLA December Open,2021-12-18,male,Ben Mulder,93.50,115,120,125,147,153,158,125,158,283,AUS
-SAWLA December Open,2021-12-18,male,Amin Ariaee,93.30,-100,100,-105,110,115,-120,100,115,215,AUS
-SAWLA December Open,2021-12-18,male,Sandeep Singh Dhillon,90.06,75,80,85,80,85,90,85,90,175,AUS
-SAWLA December Open,2021-12-18,male,Jingpu Lu,89.40,-53,53,60,70,-80,80,60,80,140,AUS
-SAWLA December Open,2021-12-18,male,Rogier Van Woensel,90.30,-85,-85,-85,100,-105,-105,0,100,0,AUS
-SAWLA December Open,2021-12-18,male,Russell Golding,121.20,100,105,-115,130,135,145,105,145,250,AUS
+SAWLA December Open,2021-12-18,female,Celine Huynh,44.44,48,-51,51,55,-60,60,51,60,111
+SAWLA December Open,2021-12-18,female,Annie Huynh,48.97,35,-38,-38,42,45,-49,35,45,80
+SAWLA December Open,2021-12-18,female,Courtney Wallace,58.96,37,40,42,40,45,-52,42,45,87
+SAWLA December Open,2021-12-18,female,Zali Simes,61.98,60,-65,-67,75,80,-85,60,80,140
+SAWLA December Open,2021-12-18,female,Sophie-Min Thomson,90.76,35,37,39,42,46,50,39,50,89
+SAWLA December Open,2021-12-18,male,Phillip Nguyen,65.90,78,82,-85,-105,-105,105,82,105,187
+SAWLA December Open,2021-12-18,male,Andrew Dodman,65.60,53,-56,56,76,-79,-82,56,76,132
+SAWLA December Open,2021-12-18,male,Phu-Qui Pham,80.60,87,-90,90,118,121,-130,90,121,211
+SAWLA December Open,2021-12-18,male,Jeremy Stahl,75.00,-70,70,80,90,-97,100,80,100,180
+SAWLA December Open,2021-12-18,male,Kieran Eldridge,83.20,105,-110,110,135,-140,-140,110,135,245
+SAWLA December Open,2021-12-18,male,Brendon Bone,88.00,65,70,-75,90,95,100,70,100,170
+SAWLA December Open,2021-12-18,male,Ben Mulder,93.50,115,120,125,147,153,158,125,158,283
+SAWLA December Open,2021-12-18,male,Amin Ariaee,93.30,-100,100,-105,110,115,-120,100,115,215
+SAWLA December Open,2021-12-18,male,Sandeep Singh Dhillon,90.06,75,80,85,80,85,90,85,90,175
+SAWLA December Open,2021-12-18,male,Jingpu Lu,89.40,-53,53,60,70,-80,80,60,80,140
+SAWLA December Open,2021-12-18,male,Rogier Van Woensel,90.30,-85,-85,-85,100,-105,-105,0,100,0
+SAWLA December Open,2021-12-18,male,Russell Golding,121.20,100,105,-115,130,135,145,105,145,250

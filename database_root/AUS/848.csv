@@ -1,10 +1,10 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Odd Socks Open Competition,2016-04-01,female,Mary Macken,52.45,35,38,40,40,44,48,40,48,88,AUS
-Odd Socks Open Competition,2016-04-01,female,Mattie Whaanga,61.55,-47,-47,47,50,-52,-55,47,50,97,AUS
-Odd Socks Open Competition,2016-04-01,female,Linda Eades,77.45,38,41,44,50,54,57,44,57,101,AUS
-Odd Socks Open Competition,2016-04-01,female,Monica Pickering,85.10,50,51,55,65,70,,55,70,125,AUS
-Odd Socks Open Competition,2016-04-01,male,Ling Wei Phillip Liao,61.85,-81,85,-88,100,-110,-110,85,100,185,AUS
-Odd Socks Open Competition,2016-04-01,male,Nicholas Stavroulakis,84.90,95,100,103,120,-125,-125,103,120,223,AUS
-Odd Socks Open Competition,2016-04-01,male,Alex Hersey,83.30,85,90,92,95,100,105,92,105,197,AUS
-Odd Socks Open Competition,2016-04-01,male,Mathew Johns,116.75,-110,110,-115,-130,130,132,110,132,242,AUS
-Odd Socks Open Competition,2016-04-01,male,Peter Ticehurst,82.50,-45,45,50,70,75,-78,50,75,125,AUS
+Odd Socks Open Competition,2016-04-01,female,Mary Macken,52.45,35,38,40,40,44,48,40,48,88
+Odd Socks Open Competition,2016-04-01,female,Mattie Whaanga,61.55,-47,-47,47,50,-52,-55,47,50,97
+Odd Socks Open Competition,2016-04-01,female,Linda Eades,77.45,38,41,44,50,54,57,44,57,101
+Odd Socks Open Competition,2016-04-01,female,Monica Pickering,85.10,50,51,55,65,70,0,55,70,125
+Odd Socks Open Competition,2016-04-01,male,Ling Wei Phillip Liao,61.85,-81,85,-88,100,-110,-110,85,100,185
+Odd Socks Open Competition,2016-04-01,male,Nicholas Stavroulakis,84.90,95,100,103,120,-125,-125,103,120,223
+Odd Socks Open Competition,2016-04-01,male,Alex Hersey,83.30,85,90,92,95,100,105,92,105,197
+Odd Socks Open Competition,2016-04-01,male,Mathew Johns,116.75,-110,110,-115,-130,130,132,110,132,242
+Odd Socks Open Competition,2016-04-01,male,Peter Ticehurst,82.50,-45,45,50,70,75,-78,50,75,125

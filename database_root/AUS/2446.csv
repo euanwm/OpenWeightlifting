@@ -1,9 +1,9 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-NTWA Open and Masters Competition,2020-07-19,female,Darcy Elliston,61.80,-50,52,55,68,71,-75,55,71,126,AUS
-NTWA Open and Masters Competition,2020-07-19,female,Mickayla Perkins,62.85,46,52,55,61,66,-71,55,66,121,AUS
-NTWA Open and Masters Competition,2020-07-19,female,Valentina Cecchi,62.40,45,47,50,65,68,-71,50,68,118,AUS
-NTWA Open and Masters Competition,2020-07-19,female,Jayde Roberts,69.15,45,53,56,60,65,70,56,70,126,AUS
-NTWA Open and Masters Competition,2020-07-19,female,Kelly Rau,67.95,40,43,45,50,55,-60,45,55,100,AUS
-NTWA Open and Masters Competition,2020-07-19,male,Carl Aleta,64.30,54,-56,56,73,76,-79,56,76,132,AUS
-NTWA Open and Masters Competition,2020-07-19,male,Andrew Rideout,80.75,82,86,88,105,110,112,88,112,200,AUS
-NTWA Open and Masters Competition,2020-07-19,male,Artem Li,100.20,100,,,130,,,100,130,230,AUS
+NTWA Open and Masters Competition,2020-07-19,female,Darcy Elliston,61.80,-50,52,55,68,71,-75,55,71,126
+NTWA Open and Masters Competition,2020-07-19,female,Mickayla Perkins,62.85,46,52,55,61,66,-71,55,66,121
+NTWA Open and Masters Competition,2020-07-19,female,Valentina Cecchi,62.40,45,47,50,65,68,-71,50,68,118
+NTWA Open and Masters Competition,2020-07-19,female,Jayde Roberts,69.15,45,53,56,60,65,70,56,70,126
+NTWA Open and Masters Competition,2020-07-19,female,Kelly Rau,67.95,40,43,45,50,55,-60,45,55,100
+NTWA Open and Masters Competition,2020-07-19,male,Carl Aleta,64.30,54,-56,56,73,76,-79,56,76,132
+NTWA Open and Masters Competition,2020-07-19,male,Andrew Rideout,80.75,82,86,88,105,110,112,88,112,200
+NTWA Open and Masters Competition,2020-07-19,male,Artem Li,100.20,100,0,0,130,0,0,100,130,230

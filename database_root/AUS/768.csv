@@ -1,6 +1,6 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Odd Socks Club Competition,2015-02-20,female,Madeline Wu,57.35,52,-56,-56,-70,70,-76,52,70,122,AUS
-Odd Socks Club Competition,2015-02-20,female,A P,57.10,55,58,60,-75,-75,-75,60,0,0,AUS
-Odd Socks Club Competition,2015-02-20,male,Abdul Razak,80.60,90,95,99,110,-115,,99,110,209,AUS
-Odd Socks Club Competition,2015-02-20,male,Yunus Sarun,85.95,90,-95,-95,98,-110,,90,98,188,AUS
-Odd Socks Club Competition,2015-02-20,male,Peter Ticehurst,85.60,45,50,53,70,73,-75,53,73,126,AUS
+Odd Socks Club Competition,2015-02-20,female,Madeline Wu,57.35,52,-56,-56,-70,70,-76,52,70,122
+Odd Socks Club Competition,2015-02-20,female,A P,57.10,55,58,60,-75,-75,-75,60,0,0
+Odd Socks Club Competition,2015-02-20,male,Abdul Razak,80.60,90,95,99,110,-115,0,99,110,209
+Odd Socks Club Competition,2015-02-20,male,Yunus Sarun,85.95,90,-95,-95,98,-110,0,90,98,188
+Odd Socks Club Competition,2015-02-20,male,Peter Ticehurst,85.60,45,50,53,70,73,-75,53,73,126

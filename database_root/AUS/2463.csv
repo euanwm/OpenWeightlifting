@@ -1,19 +1,19 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Open Club Competition #4,2020-09-27,female,Christine Human,54.46,29,31,34,36,39,44,34,44,78,AUS
-Open Club Competition #4,2020-09-27,female,Miriam Marcella Hutchinson,55.28,27,30,33,37,40,43,33,43,76,AUS
-Open Club Competition #4,2020-09-27,female,Dani Simeoni,62.80,-45,45,48,60,63,-67,48,63,111,AUS
-Open Club Competition #4,2020-09-27,female,Renae Docherty,68.02,65,68,70,80,-85,-85,70,80,150,AUS
-Open Club Competition #4,2020-09-27,female,Melanie Bingley,64.24,50,53,56,-83,83,-85,56,83,139,AUS
-Open Club Competition #4,2020-09-27,female,Abeer Orabi,68.04,-35,35,37,50,53,58,37,58,95,AUS
-Open Club Competition #4,2020-09-27,female,Vickie Mackay,71.26,25,26,27,30,32,35,27,35,62,AUS
-Open Club Competition #4,2020-09-27,female,Daniela Cihalova,76.56,41,45,-48,48,51,-53,45,51,96,AUS
-Open Club Competition #4,2020-09-27,female,Ella Naidoo-Golledge,83.34,53,56,59,70,72,75,59,75,134,AUS
-Open Club Competition #4,2020-09-27,male,Troy Roughley,65.70,70,77,-84,90,97,-103,77,97,174,AUS
-Open Club Competition #4,2020-09-27,male,John Preston,69.24,26,-28,-28,33,-37,37,26,37,63,AUS
-Open Club Competition #4,2020-09-27,male,Anthony Canning,79.70,65,70,75,85,92,100,75,100,175,AUS
-Open Club Competition #4,2020-09-27,male,Alistair Buttimore,77.80,55,60,65,75,80,85,65,85,150,AUS
-Open Club Competition #4,2020-09-27,male,Mark Muir,88.60,97,100,-103,134,138,-141,100,138,238,AUS
-Open Club Competition #4,2020-09-27,male,Mitchell Barbara,81.14,-85,-85,85,105,112,-118,85,112,197,AUS
-Open Club Competition #4,2020-09-27,male,Brock Seabrook,86.66,-78,-78,78,98,100,-102,78,100,178,AUS
-Open Club Competition #4,2020-09-27,male,Aaron Coventry,99.86,50,53,57,65,68,72,57,72,129,AUS
-Open Club Competition #4,2020-09-27,male,Grant Haines,114.60,105,110,115,125,133,138,115,138,253,AUS
+Open Club Competition #4,2020-09-27,female,Christine Human,54.46,29,31,34,36,39,44,34,44,78
+Open Club Competition #4,2020-09-27,female,Miriam Marcella Hutchinson,55.28,27,30,33,37,40,43,33,43,76
+Open Club Competition #4,2020-09-27,female,Dani Simeoni,62.80,-45,45,48,60,63,-67,48,63,111
+Open Club Competition #4,2020-09-27,female,Renae Docherty,68.02,65,68,70,80,-85,-85,70,80,150
+Open Club Competition #4,2020-09-27,female,Melanie Bingley,64.24,50,53,56,-83,83,-85,56,83,139
+Open Club Competition #4,2020-09-27,female,Abeer Orabi,68.04,-35,35,37,50,53,58,37,58,95
+Open Club Competition #4,2020-09-27,female,Vickie Mackay,71.26,25,26,27,30,32,35,27,35,62
+Open Club Competition #4,2020-09-27,female,Daniela Cihalova,76.56,41,45,-48,48,51,-53,45,51,96
+Open Club Competition #4,2020-09-27,female,Ella Naidoo-Golledge,83.34,53,56,59,70,72,75,59,75,134
+Open Club Competition #4,2020-09-27,male,Troy Roughley,65.70,70,77,-84,90,97,-103,77,97,174
+Open Club Competition #4,2020-09-27,male,John Preston,69.24,26,-28,-28,33,-37,37,26,37,63
+Open Club Competition #4,2020-09-27,male,Anthony Canning,79.70,65,70,75,85,92,100,75,100,175
+Open Club Competition #4,2020-09-27,male,Alistair Buttimore,77.80,55,60,65,75,80,85,65,85,150
+Open Club Competition #4,2020-09-27,male,Mark Muir,88.60,97,100,-103,134,138,-141,100,138,238
+Open Club Competition #4,2020-09-27,male,Mitchell Barbara,81.14,-85,-85,85,105,112,-118,85,112,197
+Open Club Competition #4,2020-09-27,male,Brock Seabrook,86.66,-78,-78,78,98,100,-102,78,100,178
+Open Club Competition #4,2020-09-27,male,Aaron Coventry,99.86,50,53,57,65,68,72,57,72,129
+Open Club Competition #4,2020-09-27,male,Grant Haines,114.60,105,110,115,125,133,138,115,138,253

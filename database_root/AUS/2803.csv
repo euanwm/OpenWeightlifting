@@ -1,13 +1,13 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Geelong Open 2,2022-06-19,female,Isabella Rampant,53.40,-28,28,30,37,39,-41,30,39,69,AUS
-Geelong Open 2,2022-06-19,female,Madison Boysen-Roberts,63.20,37,40,44,50,55,60,44,60,104,AUS
-Geelong Open 2,2022-06-19,female,Kate Mcrae Stewart,66.70,54,57,60,66,70,73,60,73,133,AUS
-Geelong Open 2,2022-06-19,female,Essence Hunt,73.00,55,60,-65,75,80,85,60,85,145,AUS
-Geelong Open 2,2022-06-19,male,Benjamin Torriero,63.30,25,28,-30,28,32,35,28,35,63,AUS
-Geelong Open 2,2022-06-19,male,Murray Whitwell,79.90,-76,76,80,115,120,-126,80,120,200,AUS
-Geelong Open 2,2022-06-19,male,Spencer Everest Haley,81.00,-45,45,50,68,73,78,50,78,128,AUS
-Geelong Open 2,2022-06-19,male,Daniel Locke,80.90,35,40,-45,50,55,-60,40,55,95,AUS
-Geelong Open 2,2022-06-19,male,Kane Costello,86.60,65,70,-75,80,85,90,70,90,160,AUS
-Geelong Open 2,2022-06-19,male,Keiran Pringle,94.30,85,90,95,105,110,-115,95,110,205,AUS
-Geelong Open 2,2022-06-19,male,Mitchell John Stoop,91.10,-85,85,-95,-110,110,-115,85,110,195,AUS
-Geelong Open 2,2022-06-19,male,Paul Marshall,100.20,25,28,30,28,32,35,30,35,65,AUS
+Geelong Open 2,2022-06-19,female,Isabella Rampant,53.40,-28,28,30,37,39,-41,30,39,69
+Geelong Open 2,2022-06-19,female,Madison Boysen-Roberts,63.20,37,40,44,50,55,60,44,60,104
+Geelong Open 2,2022-06-19,female,Kate Mcrae Stewart,66.70,54,57,60,66,70,73,60,73,133
+Geelong Open 2,2022-06-19,female,Essence Hunt,73.00,55,60,-65,75,80,85,60,85,145
+Geelong Open 2,2022-06-19,male,Benjamin Torriero,63.30,25,28,-30,28,32,35,28,35,63
+Geelong Open 2,2022-06-19,male,Murray Whitwell,79.90,-76,76,80,115,120,-126,80,120,200
+Geelong Open 2,2022-06-19,male,Spencer Everest Haley,81.00,-45,45,50,68,73,78,50,78,128
+Geelong Open 2,2022-06-19,male,Daniel Locke,80.90,35,40,-45,50,55,-60,40,55,95
+Geelong Open 2,2022-06-19,male,Kane Costello,86.60,65,70,-75,80,85,90,70,90,160
+Geelong Open 2,2022-06-19,male,Keiran Pringle,94.30,85,90,95,105,110,-115,95,110,205
+Geelong Open 2,2022-06-19,male,Mitchell John Stoop,91.10,-85,85,-95,-110,110,-115,85,110,195
+Geelong Open 2,2022-06-19,male,Paul Marshall,100.20,25,28,30,28,32,35,30,35,65

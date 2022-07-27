@@ -1,14 +1,14 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-HWC Championships,2021-12-18,female,Hannah Tan,54.00,53,55,-57,63,-66,68,55,68,123,AUS
-HWC Championships,2021-12-18,female,Brennan O'Connell,53.50,-53,-53,53,63,66,-71,53,66,119,AUS
-HWC Championships,2021-12-18,female,Lydia Mccloskey,64.05,62,65,68,80,83,86,68,86,154,AUS
-HWC Championships,2021-12-18,female,Jessica Dudgeon,65.70,55,58,60,73,-77,77,60,77,137,AUS
-HWC Championships,2021-12-18,male,Linh Nguyen,70.95,90,95,-100,110,118,-125,95,118,213,AUS
-HWC Championships,2021-12-18,male,James Delaney,73.45,95,101,106,125,130,137,106,137,243,AUS
-HWC Championships,2021-12-18,male,Jacob Tout,73.80,97,101,-105,120,126,-129,101,126,227,AUS
-HWC Championships,2021-12-18,male,Tim Fitzpatrick,77.80,90,95,-100,110,117,123,95,123,218,AUS
-HWC Championships,2021-12-18,male,Seth Schadendorff,77.15,90,96,100,117,-122,-122,100,117,217,AUS
-HWC Championships,2021-12-18,male,James Hargreaves,85.30,103,-107,-107,125,130,-135,103,130,233,AUS
-HWC Championships,2021-12-18,male,Kai Longley,87.60,98,102,-106,123,127,-132,102,127,229,AUS
-HWC Championships,2021-12-18,male,Bryce Morgan,84.30,95,100,-108,115,120,125,100,125,225,AUS
-HWC Championships,2021-12-18,male,Sean Erb,95.10,110,115,120,145,152,156,120,156,276,AUS
+HWC Championships,2021-12-18,female,Hannah Tan,54.00,53,55,-57,63,-66,68,55,68,123
+HWC Championships,2021-12-18,female,Brennan O'Connell,53.50,-53,-53,53,63,66,-71,53,66,119
+HWC Championships,2021-12-18,female,Lydia Mccloskey,64.05,62,65,68,80,83,86,68,86,154
+HWC Championships,2021-12-18,female,Jessica Dudgeon,65.70,55,58,60,73,-77,77,60,77,137
+HWC Championships,2021-12-18,male,Linh Nguyen,70.95,90,95,-100,110,118,-125,95,118,213
+HWC Championships,2021-12-18,male,James Delaney,73.45,95,101,106,125,130,137,106,137,243
+HWC Championships,2021-12-18,male,Jacob Tout,73.80,97,101,-105,120,126,-129,101,126,227
+HWC Championships,2021-12-18,male,Tim Fitzpatrick,77.80,90,95,-100,110,117,123,95,123,218
+HWC Championships,2021-12-18,male,Seth Schadendorff,77.15,90,96,100,117,-122,-122,100,117,217
+HWC Championships,2021-12-18,male,James Hargreaves,85.30,103,-107,-107,125,130,-135,103,130,233
+HWC Championships,2021-12-18,male,Kai Longley,87.60,98,102,-106,123,127,-132,102,127,229
+HWC Championships,2021-12-18,male,Bryce Morgan,84.30,95,100,-108,115,120,125,100,125,225
+HWC Championships,2021-12-18,male,Sean Erb,95.10,110,115,120,145,152,156,120,156,276

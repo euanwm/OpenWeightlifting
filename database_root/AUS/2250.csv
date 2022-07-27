@@ -1,11 +1,11 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-2019 San Diego Open & Masters World Cup,2019-10-03,female,Mary Macken,48.50,36,38,-41,46,49,-51,38,49,87,AUS
-2019 San Diego Open & Masters World Cup,2019-10-03,female,Ebony Gorincu,70.78,87,-90,-91,108,112,-116,87,112,199,AUS
-2019 San Diego Open & Masters World Cup,2019-10-03,female,Stephanie Davies,70.83,84,87,-91,107,112,-116,87,112,199,AUS
-2019 San Diego Open & Masters World Cup,2019-10-03,female,Deena Henaway,70.36,-42,43,45,53,-58,-60,45,55,100,AUS
-2019 San Diego Open & Masters World Cup,2019-10-03,female,Sue Rennett,72.58,38,43,45,55,-60,60,45,60,105,AUS
-2019 San Diego Open & Masters World Cup,2019-10-03,female,Kaitlyn Fassina,86.68,94,-98,98,110,115,-118,98,115,213,AUS
-2019 San Diego Open & Masters World Cup,2019-10-03,male,Bouachanh Thongvilu,72.38,66,-72,74,75,-85,88,74,88,162,AUS
-2019 San Diego Open & Masters World Cup,2019-10-03,male,Rohan Mason,71.34,53,-56,-56,67,-70,-70,53,67,120,AUS
-2019 San Diego Open & Masters World Cup,2019-10-03,male,John Clow,79.97,53,55,58,70,75,80,58,80,138,AUS
-2019 San Diego Open & Masters World Cup,2019-10-03,male,Brandon Wakeling,74.90,,,,,,,0,0,0,AUS
+2019 San Diego Open & Masters World Cup,2019-10-03,female,Mary Macken,48.50,36,38,-41,46,49,-51,38,49,87
+2019 San Diego Open & Masters World Cup,2019-10-03,female,Ebony Gorincu,70.78,87,-90,-91,108,112,-116,87,112,199
+2019 San Diego Open & Masters World Cup,2019-10-03,female,Stephanie Davies,70.83,84,87,-91,107,112,-116,87,112,199
+2019 San Diego Open & Masters World Cup,2019-10-03,female,Deena Henaway,70.36,-42,43,45,53,-58,-60,45,55,100
+2019 San Diego Open & Masters World Cup,2019-10-03,female,Sue Rennett,72.58,38,43,45,55,-60,60,45,60,105
+2019 San Diego Open & Masters World Cup,2019-10-03,female,Kaitlyn Fassina,86.68,94,-98,98,110,115,-118,98,115,213
+2019 San Diego Open & Masters World Cup,2019-10-03,male,Bouachanh Thongvilu,72.38,66,-72,74,75,-85,88,74,88,162
+2019 San Diego Open & Masters World Cup,2019-10-03,male,Rohan Mason,71.34,53,-56,-56,67,-70,-70,53,67,120
+2019 San Diego Open & Masters World Cup,2019-10-03,male,John Clow,79.97,53,55,58,70,75,80,58,80,138
+2019 San Diego Open & Masters World Cup,2019-10-03,male,Brandon Wakeling,74.90,0,0,0,0,0,0,0,0,0

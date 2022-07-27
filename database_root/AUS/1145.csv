@@ -1,26 +1,26 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Olympifit Club Comp #1,2016-07-03,female,Ramona Pearl Faamausili-Fala,35.10,10,12,15,12,15,-20,15,15,30,AUS
-Olympifit Club Comp #1,2016-07-03,female,Rachel Roberts,58.00,32,36,41,45,50,55,41,55,96,AUS
-Olympifit Club Comp #1,2016-07-03,female,Emily Fleay,63.00,35,45,-55,65,70,75,45,75,120,AUS
-Olympifit Club Comp #1,2016-07-03,female,Aedyn Smith,72.15,40,45,50,60,67,-75,50,67,117,AUS
-Olympifit Club Comp #1,2016-07-03,female,Paige Glenn,99.30,50,55,65,75,80,-85,65,80,145,AUS
-Olympifit Club Comp #1,2016-07-03,female,Ella Tomuli-Ah-Kuoi,96.90,40,45,50,52,-58,58,50,58,108,AUS
-Olympifit Club Comp #1,2016-07-03,female,Karri Della Vedova,90.00,-43,43,-46,55,57,-62,43,57,100,AUS
-Olympifit Club Comp #1,2016-07-03,female,Zoe Stolton,46.35,20,25,30,30,-35,37,30,37,67,AUS
-Olympifit Club Comp #1,2016-07-03,female,Joanne Beer,50.60,22,-26,26,28,32,35,26,35,61,AUS
-Olympifit Club Comp #1,2016-07-03,female,Amanda Foley,63.00,30,35,-37,37,40,42,35,42,77,AUS
-Olympifit Club Comp #1,2016-07-03,female,Cheryl Falconer,61.50,27,-32,32,34,37,40,32,40,72,AUS
-Olympifit Club Comp #1,2016-07-03,female,Christine Runion,61.00,20,23,25,25,30,-33,25,30,55,AUS
-Olympifit Club Comp #1,2016-07-03,female,Vicki Mcgrady,98.60,25,30,33,30,35,40,33,40,73,AUS
-Olympifit Club Comp #1,2016-07-03,male,Josh Stolton,54.50,75,-80,-80,95,100,-106,75,100,175,AUS
-Olympifit Club Comp #1,2016-07-03,male,Phil Mcdowell,75.00,75,80,85,95,100,103,85,103,188,AUS
-Olympifit Club Comp #1,2016-07-03,male,Morgan Beard,74.40,60,-65,65,90,95,-103,65,95,160,AUS
-Olympifit Club Comp #1,2016-07-03,male,Mathias Tomuli-Ah-Kuoi,71.15,32,35,38,38,42,45,38,45,83,AUS
-Olympifit Club Comp #1,2016-07-03,male,Jason Kain,85.00,-95,-100,-100,125,132,136,0,136,0,AUS
-Olympifit Club Comp #1,2016-07-03,male,Jayden Davis,88.00,85,92,98,105,110,115,98,115,213,AUS
-Olympifit Club Comp #1,2016-07-03,male,Mawake Gudgeon,90.75,-87,87,-95,95,105,115,87,115,202,AUS
-Olympifit Club Comp #1,2016-07-03,male,John Sullivan,63.45,25,30,35,30,35,37,35,37,72,AUS
-Olympifit Club Comp #1,2016-07-03,male,Craig Burrows,76.95,50,55,58,70,76,79,58,79,137,AUS
-Olympifit Club Comp #1,2016-07-03,male,Paul Falconer,79.30,-50,50,-55,65,70,-73,50,70,120,AUS
-Olympifit Club Comp #1,2016-07-03,male,Justin Brown,83.40,80,90,93,-105,112,-120,93,112,205,AUS
-Olympifit Club Comp #1,2016-07-03,male,Alan Lewis,84.95,30,35,-38,35,38,40,35,40,75,AUS
+Olympifit Club Comp #1,2016-07-03,female,Ramona Pearl Faamausili-Fala,35.10,10,12,15,12,15,-20,15,15,30
+Olympifit Club Comp #1,2016-07-03,female,Rachel Roberts,58.00,32,36,41,45,50,55,41,55,96
+Olympifit Club Comp #1,2016-07-03,female,Emily Fleay,63.00,35,45,-55,65,70,75,45,75,120
+Olympifit Club Comp #1,2016-07-03,female,Aedyn Smith,72.15,40,45,50,60,67,-75,50,67,117
+Olympifit Club Comp #1,2016-07-03,female,Paige Glenn,99.30,50,55,65,75,80,-85,65,80,145
+Olympifit Club Comp #1,2016-07-03,female,Ella Tomuli-Ah-Kuoi,96.90,40,45,50,52,-58,58,50,58,108
+Olympifit Club Comp #1,2016-07-03,female,Karri Della Vedova,90.00,-43,43,-46,55,57,-62,43,57,100
+Olympifit Club Comp #1,2016-07-03,female,Zoe Stolton,46.35,20,25,30,30,-35,37,30,37,67
+Olympifit Club Comp #1,2016-07-03,female,Joanne Beer,50.60,22,-26,26,28,32,35,26,35,61
+Olympifit Club Comp #1,2016-07-03,female,Amanda Foley,63.00,30,35,-37,37,40,42,35,42,77
+Olympifit Club Comp #1,2016-07-03,female,Cheryl Falconer,61.50,27,-32,32,34,37,40,32,40,72
+Olympifit Club Comp #1,2016-07-03,female,Christine Runion,61.00,20,23,25,25,30,-33,25,30,55
+Olympifit Club Comp #1,2016-07-03,female,Vicki Mcgrady,98.60,25,30,33,30,35,40,33,40,73
+Olympifit Club Comp #1,2016-07-03,male,Josh Stolton,54.50,75,-80,-80,95,100,-106,75,100,175
+Olympifit Club Comp #1,2016-07-03,male,Phil Mcdowell,75.00,75,80,85,95,100,103,85,103,188
+Olympifit Club Comp #1,2016-07-03,male,Morgan Beard,74.40,60,-65,65,90,95,-103,65,95,160
+Olympifit Club Comp #1,2016-07-03,male,Mathias Tomuli-Ah-Kuoi,71.15,32,35,38,38,42,45,38,45,83
+Olympifit Club Comp #1,2016-07-03,male,Jason Kain,85.00,-95,-100,-100,125,132,136,0,136,0
+Olympifit Club Comp #1,2016-07-03,male,Jayden Davis,88.00,85,92,98,105,110,115,98,115,213
+Olympifit Club Comp #1,2016-07-03,male,Mawake Gudgeon,90.75,-87,87,-95,95,105,115,87,115,202
+Olympifit Club Comp #1,2016-07-03,male,John Sullivan,63.45,25,30,35,30,35,37,35,37,72
+Olympifit Club Comp #1,2016-07-03,male,Craig Burrows,76.95,50,55,58,70,76,79,58,79,137
+Olympifit Club Comp #1,2016-07-03,male,Paul Falconer,79.30,-50,50,-55,65,70,-73,50,70,120
+Olympifit Club Comp #1,2016-07-03,male,Justin Brown,83.40,80,90,93,-105,112,-120,93,112,205
+Olympifit Club Comp #1,2016-07-03,male,Alan Lewis,84.95,30,35,-38,35,38,40,35,40,75

@@ -1,42 +1,42 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-VWA Open,2018-03-10,female,Emily Scott,47.89,56,-59,59,70,74,-76,59,74,133,AUS
-VWA Open,2018-03-10,female,Natalia Chorobczyk,52.11,65,68,70,80,86,-90,70,86,156,AUS
-VWA Open,2018-03-10,female,Michaela Warwick,51.74,-65,-65,65,-74,74,-76,65,74,139,AUS
-VWA Open,2018-03-10,female,Quyen Nguyen,52.88,-50,50,-54,-65,65,71,50,71,121,AUS
-VWA Open,2018-03-10,female,Monika Endres,53.00,53,56,-58,67,72,-75,56,72,128,AUS
-VWA Open,2018-03-10,female,Ella Coppelia Mason,49.37,30,33,35,44,-48,50,35,50,85,AUS
-VWA Open,2018-03-10,female,Ashleigh Ricca,57.40,-55,-55,56,66,70,73,56,73,129,AUS
-VWA Open,2018-03-10,female,Annabelle Harwood,62.38,63,-68,68,80,85,88,68,88,156,AUS
-VWA Open,2018-03-10,female,Niamh Meagher,62.47,43,47,50,65,70,-73,50,70,120,AUS
-VWA Open,2018-03-10,female,Bianca Zanghi,60.10,30,33,-35,45,48,50,33,50,83,AUS
-VWA Open,2018-03-10,female,Toni Lane,61.62,55,-58,60,74,77,-80,60,77,137,AUS
-VWA Open,2018-03-10,female,Jessica Berry,67.39,71,-73,-74,90,-93,93,71,93,164,AUS
-VWA Open,2018-03-10,female,Teagan Newman,68.40,73,-76,-76,82,-86,-86,73,82,155,AUS
-VWA Open,2018-03-10,female,Sarah Hart,68.58,57,-60,61,70,-74,-75,61,70,131,AUS
-VWA Open,2018-03-10,female,Jessica Dudgeon,67.26,43,47,-50,64,68,-71,47,68,115,AUS
-VWA Open,2018-03-10,female,Cassandra Soubra,66.86,48,-50,-50,-60,60,-62,48,60,108,AUS
-VWA Open,2018-03-10,female,Jaimie Lambie,73.83,35,40,45,-55,55,-65,45,55,100,AUS
-VWA Open,2018-03-10,female,Sherri Stephen,75.25,53,58,63,75,80,-83,63,80,143,AUS
-VWA Open,2018-03-10,female,Liana Salvucci,82.63,40,43,-46,58,60,62,43,62,105,AUS
-VWA Open,2018-03-10,female,Mackenzie Incoll,83.34,35,40,43,45,-51,51,43,51,94,AUS
-VWA Open,2018-03-10,male,Patrick Cahoon,61.02,63,-68,68,80,85,-90,68,85,153,AUS
-VWA Open,2018-03-10,male,John Lau,63.52,74,77,-80,-80,93,-97,77,93,170,AUS
-VWA Open,2018-03-10,male,Marcus Tan,65.39,30,-33,33,40,45,50,33,50,83,AUS
-VWA Open,2018-03-10,male,Tony Sok,66.77,-80,-82,-82,-95,-95,96,0,96,0,AUS
-VWA Open,2018-03-10,male,Kai Longley,69.77,-83,83,86,104,107,110,86,110,196,AUS
-VWA Open,2018-03-10,male,William Heang,71.53,74,78,-82,90,95,-100,78,95,173,AUS
-VWA Open,2018-03-10,male,Alexander Mifsud,76.64,62,-65,-66,72,76,80,62,80,142,AUS
-VWA Open,2018-03-10,male,Tiew Kai Ting,76.96,88,93,-97,112,117,122,93,122,215,AUS
-VWA Open,2018-03-10,male,Domenic Greco,75.51,58,62,-65,73,-77,-77,62,73,135,AUS
-VWA Open,2018-03-10,male,Hussein Hafez,75.10,48,53,-59,72,76,80,53,80,133,AUS
-VWA Open,2018-03-10,male,Matthew Bellett,79.91,76,80,83,100,-105,105,83,105,188,AUS
-VWA Open,2018-03-10,male,Jason Skurr,77.22,55,60,64,80,85,88,64,88,152,AUS
-VWA Open,2018-03-10,male,Mathew Martin,77.49,60,64,-67,75,80,83,64,83,147,AUS
-VWA Open,2018-03-10,male,Nicodemus Scheelings,93.79,115,120,125,145,-155,-155,125,145,270,AUS
-VWA Open,2018-03-10,male,Sam Le Cerf,90.63,98,102,-111,120,130,135,102,135,237,AUS
-VWA Open,2018-03-10,male,Rosson Cacencu,90.48,98,-102,,-120,120,-126,98,120,218,AUS
-VWA Open,2018-03-10,male,Alan Xue,90.77,85,-90,90,105,110,115,90,115,205,AUS
-VWA Open,2018-03-10,male,Tristan Prazeus,87.44,50,55,60,75,80,85,60,85,145,AUS
-VWA Open,2018-03-10,male,Marco Pellizzari,100.76,60,65,-70,85,90,95,65,95,160,AUS
-VWA Open,2018-03-10,male,Alexander Marcou,100.63,-88,92,-96,108,115,-120,92,115,207,AUS
-VWA Open,2018-03-10,male,Geordie Biss,108.61,115,120,125,145,155,-170,125,155,280,AUS
+VWA Open,2018-03-10,female,Emily Scott,47.89,56,-59,59,70,74,-76,59,74,133
+VWA Open,2018-03-10,female,Natalia Chorobczyk,52.11,65,68,70,80,86,-90,70,86,156
+VWA Open,2018-03-10,female,Michaela Warwick,51.74,-65,-65,65,-74,74,-76,65,74,139
+VWA Open,2018-03-10,female,Quyen Nguyen,52.88,-50,50,-54,-65,65,71,50,71,121
+VWA Open,2018-03-10,female,Monika Endres,53.00,53,56,-58,67,72,-75,56,72,128
+VWA Open,2018-03-10,female,Ella Coppelia Mason,49.37,30,33,35,44,-48,50,35,50,85
+VWA Open,2018-03-10,female,Ashleigh Ricca,57.40,-55,-55,56,66,70,73,56,73,129
+VWA Open,2018-03-10,female,Annabelle Harwood,62.38,63,-68,68,80,85,88,68,88,156
+VWA Open,2018-03-10,female,Niamh Meagher,62.47,43,47,50,65,70,-73,50,70,120
+VWA Open,2018-03-10,female,Bianca Zanghi,60.10,30,33,-35,45,48,50,33,50,83
+VWA Open,2018-03-10,female,Toni Lane,61.62,55,-58,60,74,77,-80,60,77,137
+VWA Open,2018-03-10,female,Jessica Berry,67.39,71,-73,-74,90,-93,93,71,93,164
+VWA Open,2018-03-10,female,Teagan Newman,68.40,73,-76,-76,82,-86,-86,73,82,155
+VWA Open,2018-03-10,female,Sarah Hart,68.58,57,-60,61,70,-74,-75,61,70,131
+VWA Open,2018-03-10,female,Jessica Dudgeon,67.26,43,47,-50,64,68,-71,47,68,115
+VWA Open,2018-03-10,female,Cassandra Soubra,66.86,48,-50,-50,-60,60,-62,48,60,108
+VWA Open,2018-03-10,female,Jaimie Lambie,73.83,35,40,45,-55,55,-65,45,55,100
+VWA Open,2018-03-10,female,Sherri Stephen,75.25,53,58,63,75,80,-83,63,80,143
+VWA Open,2018-03-10,female,Liana Salvucci,82.63,40,43,-46,58,60,62,43,62,105
+VWA Open,2018-03-10,female,Mackenzie Incoll,83.34,35,40,43,45,-51,51,43,51,94
+VWA Open,2018-03-10,male,Patrick Cahoon,61.02,63,-68,68,80,85,-90,68,85,153
+VWA Open,2018-03-10,male,John Lau,63.52,74,77,-80,-80,93,-97,77,93,170
+VWA Open,2018-03-10,male,Marcus Tan,65.39,30,-33,33,40,45,50,33,50,83
+VWA Open,2018-03-10,male,Tony Sok,66.77,-80,-82,-82,-95,-95,96,0,96,0
+VWA Open,2018-03-10,male,Kai Longley,69.77,-83,83,86,104,107,110,86,110,196
+VWA Open,2018-03-10,male,William Heang,71.53,74,78,-82,90,95,-100,78,95,173
+VWA Open,2018-03-10,male,Alexander Mifsud,76.64,62,-65,-66,72,76,80,62,80,142
+VWA Open,2018-03-10,male,Tiew Kai Ting,76.96,88,93,-97,112,117,122,93,122,215
+VWA Open,2018-03-10,male,Domenic Greco,75.51,58,62,-65,73,-77,-77,62,73,135
+VWA Open,2018-03-10,male,Hussein Hafez,75.10,48,53,-59,72,76,80,53,80,133
+VWA Open,2018-03-10,male,Matthew Bellett,79.91,76,80,83,100,-105,105,83,105,188
+VWA Open,2018-03-10,male,Jason Skurr,77.22,55,60,64,80,85,88,64,88,152
+VWA Open,2018-03-10,male,Mathew Martin,77.49,60,64,-67,75,80,83,64,83,147
+VWA Open,2018-03-10,male,Nicodemus Scheelings,93.79,115,120,125,145,-155,-155,125,145,270
+VWA Open,2018-03-10,male,Sam Le Cerf,90.63,98,102,-111,120,130,135,102,135,237
+VWA Open,2018-03-10,male,Rosson Cacencu,90.48,98,-102,0,-120,120,-126,98,120,218
+VWA Open,2018-03-10,male,Alan Xue,90.77,85,-90,90,105,110,115,90,115,205
+VWA Open,2018-03-10,male,Tristan Prazeus,87.44,50,55,60,75,80,85,60,85,145
+VWA Open,2018-03-10,male,Marco Pellizzari,100.76,60,65,-70,85,90,95,65,95,160
+VWA Open,2018-03-10,male,Alexander Marcou,100.63,-88,92,-96,108,115,-120,92,115,207
+VWA Open,2018-03-10,male,Geordie Biss,108.61,115,120,125,145,155,-170,125,155,280

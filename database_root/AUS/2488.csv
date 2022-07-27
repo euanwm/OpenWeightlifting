@@ -1,9 +1,9 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-TWA Physique Science QWA Club Challenge Round 1,2021-02-06,female,Sophie Daley,51.90,37,40,42,49,51,53,42,53,95,AUS
-TWA Physique Science QWA Club Challenge Round 1,2021-02-06,female,Holly Souter,51.60,-27,27,30,36,39,41,30,41,71,AUS
-TWA Physique Science QWA Club Challenge Round 1,2021-02-06,female,Selina Richards,65.50,35,38,-40,40,43,46,38,46,84,AUS
-TWA Physique Science QWA Club Challenge Round 1,2021-02-06,female,Megan Stevens,76.30,38,-40,40,44,-47,48,40,48,88,AUS
-TWA Physique Science QWA Club Challenge Round 1,2021-02-06,male,David Hockins,64.50,75,80,85,95,100,105,85,105,190,AUS
-TWA Physique Science QWA Club Challenge Round 1,2021-02-06,male,Tait Stuart,62.60,50,-55,-55,74,78,-81,50,78,128,AUS
-TWA Physique Science QWA Club Challenge Round 1,2021-02-06,male,Brendon Mccullagh,86.60,90,94,-97,-110,110,114,94,114,208,AUS
-TWA Physique Science QWA Club Challenge Round 1,2021-02-06,male,Lawson Dingle,112.80,110,120,130,140,145,,130,145,275,AUS
+TWA Physique Science QWA Club Challenge Round 1,2021-02-06,female,Sophie Daley,51.90,37,40,42,49,51,53,42,53,95
+TWA Physique Science QWA Club Challenge Round 1,2021-02-06,female,Holly Souter,51.60,-27,27,30,36,39,41,30,41,71
+TWA Physique Science QWA Club Challenge Round 1,2021-02-06,female,Selina Richards,65.50,35,38,-40,40,43,46,38,46,84
+TWA Physique Science QWA Club Challenge Round 1,2021-02-06,female,Megan Stevens,76.30,38,-40,40,44,-47,48,40,48,88
+TWA Physique Science QWA Club Challenge Round 1,2021-02-06,male,David Hockins,64.50,75,80,85,95,100,105,85,105,190
+TWA Physique Science QWA Club Challenge Round 1,2021-02-06,male,Tait Stuart,62.60,50,-55,-55,74,78,-81,50,78,128
+TWA Physique Science QWA Club Challenge Round 1,2021-02-06,male,Brendon Mccullagh,86.60,90,94,-97,-110,110,114,94,114,208
+TWA Physique Science QWA Club Challenge Round 1,2021-02-06,male,Lawson Dingle,112.80,110,120,130,140,145,0,130,145,275

@@ -1,19 +1,19 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-CW Champs Qualifying Event,2013-10-05,female,Tegan Napper,47.85,57,60,62,70,74,-77,62,74,136,AUS
-CW Champs Qualifying Event,2013-10-05,female,Socheata Be,53.85,-71,71,73,88,90,-92,73,90,163,AUS
-CW Champs Qualifying Event,2013-10-05,female,Amy Dracup,57.95,70,-72,-72,-86,86,89,70,89,159,AUS
-CW Champs Qualifying Event,2013-10-05,female,Christine Meier,57.95,70,-72,-72,-88,88,-90,70,88,158,AUS
-CW Champs Qualifying Event,2013-10-05,female,Seen Lee,59.75,-82,82,86,102,-106,-106,86,102,188,AUS
-CW Champs Qualifying Event,2013-10-05,female,Kylie Thompson,68.65,84,87,88,-96,-99,99,88,99,187,AUS
-CW Champs Qualifying Event,2013-10-05,female,Belinda Van Tienen,74.85,83,85,,-105,-105,-105,85,0,0,AUS
-CW Champs Qualifying Event,2013-10-05,female,Kaitlyn Fassina,93.50,-92,92,-100,112,117,121,92,121,213,AUS
-CW Champs Qualifying Event,2013-10-05,female,Kate Linford,107.15,77,80,-83,93,97,100,80,100,180,AUS
-CW Champs Qualifying Event,2013-10-05,male,Francois Etoundi,77.00,132,-136,136,165,170,-174,136,170,306,AUS
-CW Champs Qualifying Event,2013-10-05,male,Daniel Katz,76.75,-120,-120,120,150,155,-160,120,155,275,AUS
-CW Champs Qualifying Event,2013-10-05,male,Malek Chamoun,84.60,125,130,-135,160,170,-175,130,170,300,AUS
-CW Champs Qualifying Event,2013-10-05,male,Liam Larkins,83.35,118,122,-125,144,148,150,122,150,272,AUS
-CW Champs Qualifying Event,2013-10-05,male,Jakob Daniels,82.40,-102,102,107,130,135,-140,107,135,242,AUS
-CW Champs Qualifying Event,2013-10-05,male,Luke Gardner,93.75,118,-123,-123,153,158,163,118,163,281,AUS
-CW Champs Qualifying Event,2013-10-05,male,Zac Grgurevic,93.80,135,-140,-140,-165,-170,,135,0,0,AUS
-CW Champs Qualifying Event,2013-10-05,male,Robert Galsworthy,104.70,140,-145,145,174,180,183,145,183,328,AUS
-CW Champs Qualifying Event,2013-10-05,male,Joshua Quinn,104.60,128,-133,133,-166,166,-171,133,166,299,AUS
+CW Champs Qualifying Event,2013-10-05,female,Tegan Napper,47.85,57,60,62,70,74,-77,62,74,136
+CW Champs Qualifying Event,2013-10-05,female,Socheata Be,53.85,-71,71,73,88,90,-92,73,90,163
+CW Champs Qualifying Event,2013-10-05,female,Amy Dracup,57.95,70,-72,-72,-86,86,89,70,89,159
+CW Champs Qualifying Event,2013-10-05,female,Christine Meier,57.95,70,-72,-72,-88,88,-90,70,88,158
+CW Champs Qualifying Event,2013-10-05,female,Seen Lee,59.75,-82,82,86,102,-106,-106,86,102,188
+CW Champs Qualifying Event,2013-10-05,female,Kylie Thompson,68.65,84,87,88,-96,-99,99,88,99,187
+CW Champs Qualifying Event,2013-10-05,female,Belinda Van Tienen,74.85,83,85,0,-105,-105,-105,85,0,0
+CW Champs Qualifying Event,2013-10-05,female,Kaitlyn Fassina,93.50,-92,92,-100,112,117,121,92,121,213
+CW Champs Qualifying Event,2013-10-05,female,Kate Linford,107.15,77,80,-83,93,97,100,80,100,180
+CW Champs Qualifying Event,2013-10-05,male,Francois Etoundi,77.00,132,-136,136,165,170,-174,136,170,306
+CW Champs Qualifying Event,2013-10-05,male,Daniel Katz,76.75,-120,-120,120,150,155,-160,120,155,275
+CW Champs Qualifying Event,2013-10-05,male,Malek Chamoun,84.60,125,130,-135,160,170,-175,130,170,300
+CW Champs Qualifying Event,2013-10-05,male,Liam Larkins,83.35,118,122,-125,144,148,150,122,150,272
+CW Champs Qualifying Event,2013-10-05,male,Jakob Daniels,82.40,-102,102,107,130,135,-140,107,135,242
+CW Champs Qualifying Event,2013-10-05,male,Luke Gardner,93.75,118,-123,-123,153,158,163,118,163,281
+CW Champs Qualifying Event,2013-10-05,male,Zac Grgurevic,93.80,135,-140,-140,-165,-170,0,135,0,0
+CW Champs Qualifying Event,2013-10-05,male,Robert Galsworthy,104.70,140,-145,145,174,180,183,145,183,328
+CW Champs Qualifying Event,2013-10-05,male,Joshua Quinn,104.60,128,-133,133,-166,166,-171,133,166,299

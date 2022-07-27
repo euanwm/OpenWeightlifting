@@ -1,8 +1,8 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Presidents Cup Round 2 & Club Competition,2014-03-22,female,Charrae Myers,54.90,47,50,-52,62,65,67,50,67,117,AUS
-Presidents Cup Round 2 & Club Competition,2014-03-22,female,Telyshia Jones,64.05,38,41,43,48,-51,54,43,54,97,AUS
-Presidents Cup Round 2 & Club Competition,2014-03-22,female,Lynette Gotts,69.30,22,24,25,25,27,29,25,29,54,AUS
-Presidents Cup Round 2 & Club Competition,2014-03-22,male,Dominic Newman,59.75,22,-25,-25,31,35,38,22,38,60,AUS
-Presidents Cup Round 2 & Club Competition,2014-03-22,male,Jordan Gotts,90.50,26,28,29,-36,36,38,29,38,67,AUS
-Presidents Cup Round 2 & Club Competition,2014-03-22,male,Anthony Wilson,94.80,92,95,98,125,128,130,98,130,228,AUS
-Presidents Cup Round 2 & Club Competition,2014-03-22,male,Robert Gotts,120.45,-65,-65,65,85,90,,65,90,155,AUS
+Presidents Cup Round 2 & Club Competition,2014-03-22,female,Charrae Myers,54.90,47,50,-52,62,65,67,50,67,117
+Presidents Cup Round 2 & Club Competition,2014-03-22,female,Telyshia Jones,64.05,38,41,43,48,-51,54,43,54,97
+Presidents Cup Round 2 & Club Competition,2014-03-22,female,Lynette Gotts,69.30,22,24,25,25,27,29,25,29,54
+Presidents Cup Round 2 & Club Competition,2014-03-22,male,Dominic Newman,59.75,22,-25,-25,31,35,38,22,38,60
+Presidents Cup Round 2 & Club Competition,2014-03-22,male,Jordan Gotts,90.50,26,28,29,-36,36,38,29,38,67
+Presidents Cup Round 2 & Club Competition,2014-03-22,male,Anthony Wilson,94.80,92,95,98,125,128,130,98,130,228
+Presidents Cup Round 2 & Club Competition,2014-03-22,male,Robert Gotts,120.45,-65,-65,65,85,90,0,65,90,155

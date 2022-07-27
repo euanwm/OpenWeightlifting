@@ -1,15 +1,15 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Olympifit #1,2017-07-16,female,Jessie Valas,53.00,40,-45,-45,50,53,-55,40,53,93,AUS
-Olympifit #1,2017-07-16,female,Ryleigh Filmer,54.20,10,12,15,13,16,18,15,18,33,AUS
-Olympifit #1,2017-07-16,female,Rachel Buck,66.40,42,-46,46,55,58,63,46,63,109,AUS
-Olympifit #1,2017-07-16,female,Cheryl Falconer,74.20,-25,30,,35,40,45,30,45,75,AUS
-Olympifit #1,2017-07-16,female,Kate Della-Vedova,78.40,35,40,45,45,50,-54,45,50,95,AUS
-Olympifit #1,2017-07-16,female,Sarah Lester,77.00,20,25,-30,30,35,-40,25,35,60,AUS
-Olympifit #1,2017-07-16,female,Teleah Woods,83.70,25,28,-30,32,35,-37,28,35,63,AUS
-Olympifit #1,2017-07-16,female,Vicki Mcgrady,97.00,35,-40,45,-45,50,55,45,55,100,AUS
-Olympifit #1,2017-07-16,male,Paul Falconer,77.00,40,,,50,,,40,50,90,AUS
-Olympifit #1,2017-07-16,male,Jeffrey De Vries,84.30,50,,,70,,,50,70,120,AUS
-Olympifit #1,2017-07-16,male,Jake Williams,92.00,90,95,-100,110,-115,-116,95,110,205,AUS
-Olympifit #1,2017-07-16,male,Derek D'Mellow,91.80,66,71,73,93,101,,73,101,174,AUS
-Olympifit #1,2017-07-16,male,Craig Burrows,91.50,50,56,58,70,78,80,58,80,138,AUS
-Olympifit #1,2017-07-16,male,Bob Pavone,104.80,50,,,70,,,50,70,120,AUS
+Olympifit #1,2017-07-16,female,Jessie Valas,53.00,40,-45,-45,50,53,-55,40,53,93
+Olympifit #1,2017-07-16,female,Ryleigh Filmer,54.20,10,12,15,13,16,18,15,18,33
+Olympifit #1,2017-07-16,female,Rachel Buck,66.40,42,-46,46,55,58,63,46,63,109
+Olympifit #1,2017-07-16,female,Cheryl Falconer,74.20,-25,30,0,35,40,45,30,45,75
+Olympifit #1,2017-07-16,female,Kate Della-Vedova,78.40,35,40,45,45,50,-54,45,50,95
+Olympifit #1,2017-07-16,female,Sarah Lester,77.00,20,25,-30,30,35,-40,25,35,60
+Olympifit #1,2017-07-16,female,Teleah Woods,83.70,25,28,-30,32,35,-37,28,35,63
+Olympifit #1,2017-07-16,female,Vicki Mcgrady,97.00,35,-40,45,-45,50,55,45,55,100
+Olympifit #1,2017-07-16,male,Paul Falconer,77.00,40,0,0,50,0,0,40,50,90
+Olympifit #1,2017-07-16,male,Jeffrey De Vries,84.30,50,0,0,70,0,0,50,70,120
+Olympifit #1,2017-07-16,male,Jake Williams,92.00,90,95,-100,110,-115,-116,95,110,205
+Olympifit #1,2017-07-16,male,Derek D'Mellow,91.80,66,71,73,93,101,0,73,101,174
+Olympifit #1,2017-07-16,male,Craig Burrows,91.50,50,56,58,70,78,80,58,80,138
+Olympifit #1,2017-07-16,male,Bob Pavone,104.80,50,0,0,70,0,0,50,70,120

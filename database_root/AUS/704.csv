@@ -1,15 +1,15 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Pro Strength & SA Weightlifting Club Open,2015-02-14,female,Maggie Augustyniak,62.08,35,40,43,45,52,-60,43,52,95,AUS
-Pro Strength & SA Weightlifting Club Open,2015-02-14,female,Kirsty Cathcart,83.36,55,-60,-60,70,-73,-73,55,70,125,AUS
-Pro Strength & SA Weightlifting Club Open,2015-02-14,male,Aren Sears,68.00,40,45,-48,50,60,67,45,67,112,AUS
-Pro Strength & SA Weightlifting Club Open,2015-02-14,male,Frank Elliott,76.10,-123,125,-133,145,150,157,125,157,282,AUS
-Pro Strength & SA Weightlifting Club Open,2015-02-14,male,Max Williams,76.88,65,70,75,85,-92,-92,75,85,160,AUS
-Pro Strength & SA Weightlifting Club Open,2015-02-14,male,Mitchell Gustafsson,84.02,-102,-102,102,122,-125,126,102,126,228,AUS
-Pro Strength & SA Weightlifting Club Open,2015-02-14,male,Kieran Eldridge,85.00,90,95,-100,120,130,-135,95,130,225,AUS
-Pro Strength & SA Weightlifting Club Open,2015-02-14,male,Thomas Smith,90.08,-100,100,110,125,132,140,110,140,250,AUS
-Pro Strength & SA Weightlifting Club Open,2015-02-14,male,David Augustyniak,96.10,60,66,75,93,100,107,75,107,182,AUS
-Pro Strength & SA Weightlifting Club Open,2015-02-14,male,Jared Grimm,141.86,80,85,-90,90,100,-106,85,100,185,AUS
-Pro Strength & SA Weightlifting Club Open,2015-02-14,male,Anthony Formichella,118.86,65,70,76,83,85,-95,76,85,161,AUS
-Pro Strength & SA Weightlifting Club Open,2015-02-14,male,John Humphrys,84.92,39,41,43,49,51,-53,43,51,94,AUS
-Pro Strength & SA Weightlifting Club Open,2015-02-14,male,Trent Reinboth,98.32,-87,-87,87,117,-123,-123,87,117,204,AUS
-Pro Strength & SA Weightlifting Club Open,2015-02-14,male,Ashley Dean Pascoe,117.42,-50,55,57,-75,80,85,57,85,142,AUS
+Pro Strength & SA Weightlifting Club Open,2015-02-14,female,Maggie Augustyniak,62.08,35,40,43,45,52,-60,43,52,95
+Pro Strength & SA Weightlifting Club Open,2015-02-14,female,Kirsty Cathcart,83.36,55,-60,-60,70,-73,-73,55,70,125
+Pro Strength & SA Weightlifting Club Open,2015-02-14,male,Aren Sears,68.00,40,45,-48,50,60,67,45,67,112
+Pro Strength & SA Weightlifting Club Open,2015-02-14,male,Frank Elliott,76.10,-123,125,-133,145,150,157,125,157,282
+Pro Strength & SA Weightlifting Club Open,2015-02-14,male,Max Williams,76.88,65,70,75,85,-92,-92,75,85,160
+Pro Strength & SA Weightlifting Club Open,2015-02-14,male,Mitchell Gustafsson,84.02,-102,-102,102,122,-125,126,102,126,228
+Pro Strength & SA Weightlifting Club Open,2015-02-14,male,Kieran Eldridge,85.00,90,95,-100,120,130,-135,95,130,225
+Pro Strength & SA Weightlifting Club Open,2015-02-14,male,Thomas Smith,90.08,-100,100,110,125,132,140,110,140,250
+Pro Strength & SA Weightlifting Club Open,2015-02-14,male,David Augustyniak,96.10,60,66,75,93,100,107,75,107,182
+Pro Strength & SA Weightlifting Club Open,2015-02-14,male,Jared Grimm,141.86,80,85,-90,90,100,-106,85,100,185
+Pro Strength & SA Weightlifting Club Open,2015-02-14,male,Anthony Formichella,118.86,65,70,76,83,85,-95,76,85,161
+Pro Strength & SA Weightlifting Club Open,2015-02-14,male,John Humphrys,84.92,39,41,43,49,51,-53,43,51,94
+Pro Strength & SA Weightlifting Club Open,2015-02-14,male,Trent Reinboth,98.32,-87,-87,87,117,-123,-123,87,117,204
+Pro Strength & SA Weightlifting Club Open,2015-02-14,male,Ashley Dean Pascoe,117.42,-50,55,57,-75,80,85,57,85,142

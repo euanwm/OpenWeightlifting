@@ -1,10 +1,10 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Alice Springs Open and Masters Competition,2021-06-06,female,Sonja Kerr,54.45,48,48,48,68,70,73,48,73,121,AUS
-Alice Springs Open and Masters Competition,2021-06-06,female,Linda Rhodes,65.25,30,32,35,37,43,43,35,37,72,AUS
-Alice Springs Open and Masters Competition,2021-06-06,female,Saineha Fitisemanu,74.20,48,51,54,68,73,76,51,76,127,AUS
-Alice Springs Open and Masters Competition,2021-06-06,female,Holly Parsons,85.75,25,27,30,32,36,42,30,36,66,AUS
-Alice Springs Open and Masters Competition,2021-06-06,male,Gagandeep Ralh,69.55,55,58,60,70,70,75,60,75,135,AUS
-Alice Springs Open and Masters Competition,2021-06-06,male,Stephen Anderson,80.10,45,48,51,65,68,68,51,68,119,AUS
-Alice Springs Open and Masters Competition,2021-06-06,male,Federico Boede Sanchez,84.20,55,60,70,50,70,80,60,80,140,AUS
-Alice Springs Open and Masters Competition,2021-06-06,male,Justin Coe,101.70,95,100,105,140,140,140,105,0,0,AUS
-Alice Springs Open and Masters Competition,2021-06-06,male,Pahou Whakaruru,113.90,40,45,50,50,60,70,50,70,120,AUS
+Alice Springs Open and Masters Competition,2021-06-06,female,Sonja Kerr,54.45,48,48,48,68,70,73,48,73,121
+Alice Springs Open and Masters Competition,2021-06-06,female,Linda Rhodes,65.25,30,32,35,37,43,43,35,37,72
+Alice Springs Open and Masters Competition,2021-06-06,female,Saineha Fitisemanu,74.20,48,51,54,68,73,76,51,76,127
+Alice Springs Open and Masters Competition,2021-06-06,female,Holly Parsons,85.75,25,27,30,32,36,42,30,36,66
+Alice Springs Open and Masters Competition,2021-06-06,male,Gagandeep Ralh,69.55,55,58,60,70,70,75,60,75,135
+Alice Springs Open and Masters Competition,2021-06-06,male,Stephen Anderson,80.10,45,48,51,65,68,68,51,68,119
+Alice Springs Open and Masters Competition,2021-06-06,male,Federico Boede Sanchez,84.20,55,60,70,50,70,80,60,80,140
+Alice Springs Open and Masters Competition,2021-06-06,male,Justin Coe,101.70,95,100,105,140,140,140,105,0,0
+Alice Springs Open and Masters Competition,2021-06-06,male,Pahou Whakaruru,113.90,40,45,50,50,60,70,50,70,120

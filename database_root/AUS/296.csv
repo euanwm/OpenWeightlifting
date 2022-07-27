@@ -1,11 +1,11 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-CrossFit Foxes/Fernwood Open Club Competition,2013-10-12,female,Simone Boase,54.50,25,27,30,40,45,47,30,47,77,AUS
-CrossFit Foxes/Fernwood Open Club Competition,2013-10-12,female,Tayla Teede,54.10,25,26,27,30,35,-36,27,35,62,AUS
-CrossFit Foxes/Fernwood Open Club Competition,2013-10-12,female,Amber Croft,69.00,40,42,45,55,60,65,45,65,110,AUS
-CrossFit Foxes/Fernwood Open Club Competition,2013-10-12,female,Kayler Mcmullin,65.00,25,30,32,45,50,52,32,52,84,AUS
-CrossFit Foxes/Fernwood Open Club Competition,2013-10-12,female,Kym Wilkinson,64.60,26,28,30,35,36,40,30,40,70,AUS
-CrossFit Foxes/Fernwood Open Club Competition,2013-10-12,female,Ange Logan,73.20,26,28,30,38,40,45,30,45,75,AUS
-CrossFit Foxes/Fernwood Open Club Competition,2013-10-12,female,Kayleene French,79.50,30,32,37,45,50,52,37,52,89,AUS
-CrossFit Foxes/Fernwood Open Club Competition,2013-10-12,female,Emma Teede,67.90,40,43,45,52,55,-56,45,55,100,AUS
-CrossFit Foxes/Fernwood Open Club Competition,2013-10-12,female,Brooke Austin,85.90,27,30,-31,45,-47,47,30,47,77,AUS
-CrossFit Foxes/Fernwood Open Club Competition,2013-10-12,male,Michael Teede,79.10,-75,75,80,100,105,-106,80,105,185,AUS
+CrossFit Foxes/Fernwood Open Club Competition,2013-10-12,female,Simone Boase,54.50,25,27,30,40,45,47,30,47,77
+CrossFit Foxes/Fernwood Open Club Competition,2013-10-12,female,Tayla Teede,54.10,25,26,27,30,35,-36,27,35,62
+CrossFit Foxes/Fernwood Open Club Competition,2013-10-12,female,Amber Croft,69.00,40,42,45,55,60,65,45,65,110
+CrossFit Foxes/Fernwood Open Club Competition,2013-10-12,female,Kayler Mcmullin,65.00,25,30,32,45,50,52,32,52,84
+CrossFit Foxes/Fernwood Open Club Competition,2013-10-12,female,Kym Wilkinson,64.60,26,28,30,35,36,40,30,40,70
+CrossFit Foxes/Fernwood Open Club Competition,2013-10-12,female,Ange Logan,73.20,26,28,30,38,40,45,30,45,75
+CrossFit Foxes/Fernwood Open Club Competition,2013-10-12,female,Kayleene French,79.50,30,32,37,45,50,52,37,52,89
+CrossFit Foxes/Fernwood Open Club Competition,2013-10-12,female,Emma Teede,67.90,40,43,45,52,55,-56,45,55,100
+CrossFit Foxes/Fernwood Open Club Competition,2013-10-12,female,Brooke Austin,85.90,27,30,-31,45,-47,47,30,47,77
+CrossFit Foxes/Fernwood Open Club Competition,2013-10-12,male,Michael Teede,79.10,-75,75,80,100,105,-106,80,105,185

@@ -1,14 +1,14 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-NTWA Australia Day Open Competition,2012-01-26,female,Amy Griggs,60.35,,,,,,,45,50,95,AUS
-NTWA Australia Day Open Competition,2012-01-26,female,Emma Ludlow,79.55,,,,,,,35,46,81,AUS
-NTWA Australia Day Open Competition,2012-01-26,female,Kelly Giblin,58.20,,,,,,,50,65,115,AUS
-NTWA Australia Day Open Competition,2012-01-26,female,Kelly Rau,64.70,,,,,,,53,63,116,AUS
-NTWA Australia Day Open Competition,2012-01-26,female,Kylee Pryor,80.65,,,,,,,35,48,83,AUS
-NTWA Australia Day Open Competition,2012-01-26,male,Jeremy Reeves,68.75,,,,,,,52,62,114,AUS
-NTWA Australia Day Open Competition,2012-01-26,male,Aaron Griggs,73.65,,,,,,,75,85,160,AUS
-NTWA Australia Day Open Competition,2012-01-26,male,Michael Finey,80.85,,,,,,,0,75,0,AUS
-NTWA Australia Day Open Competition,2012-01-26,male,Clint Holland,87.55,,,,,,,65,75,140,AUS
-NTWA Australia Day Open Competition,2012-01-26,male,Lachlan Kierns,89.40,,,,,,,60,78,138,AUS
-NTWA Australia Day Open Competition,2012-01-26,male,Jacques Chester,133.95,,,,,,,110,135,245,AUS
-NTWA Australia Day Open Competition,2012-01-26,male,Zakharie Hill-Butcher,119.00,,,,,,,55,75,130,AUS
-NTWA Australia Day Open Competition,2012-01-26,male,Graham Walker,61.00,,,,,,,77,100,177,AUS
+NTWA Australia Day Open Competition,2012-01-26,female,Amy Griggs,60.35,0,0,0,0,0,0,45,50,95
+NTWA Australia Day Open Competition,2012-01-26,female,Emma Ludlow,79.55,0,0,0,0,0,0,35,46,81
+NTWA Australia Day Open Competition,2012-01-26,female,Kelly Giblin,58.20,0,0,0,0,0,0,50,65,115
+NTWA Australia Day Open Competition,2012-01-26,female,Kelly Rau,64.70,0,0,0,0,0,0,53,63,116
+NTWA Australia Day Open Competition,2012-01-26,female,Kylee Pryor,80.65,0,0,0,0,0,0,35,48,83
+NTWA Australia Day Open Competition,2012-01-26,male,Jeremy Reeves,68.75,0,0,0,0,0,0,52,62,114
+NTWA Australia Day Open Competition,2012-01-26,male,Aaron Griggs,73.65,0,0,0,0,0,0,75,85,160
+NTWA Australia Day Open Competition,2012-01-26,male,Michael Finey,80.85,0,0,0,0,0,0,0,75,0
+NTWA Australia Day Open Competition,2012-01-26,male,Clint Holland,87.55,0,0,0,0,0,0,65,75,140
+NTWA Australia Day Open Competition,2012-01-26,male,Lachlan Kierns,89.40,0,0,0,0,0,0,60,78,138
+NTWA Australia Day Open Competition,2012-01-26,male,Jacques Chester,133.95,0,0,0,0,0,0,110,135,245
+NTWA Australia Day Open Competition,2012-01-26,male,Zakharie Hill-Butcher,119.00,0,0,0,0,0,0,55,75,130
+NTWA Australia Day Open Competition,2012-01-26,male,Graham Walker,61.00,0,0,0,0,0,0,77,100,177

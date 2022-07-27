@@ -1,7 +1,7 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Pacific Mini Games,2017-12-05,female,Maddison Power,52.24,52,54,56,63,65,69,56,69,125,AUS
-Pacific Mini Games,2017-12-05,female,Jarian Hogan,68.38,61,64,66,83,-86,86,66,86,152,AUS
-Pacific Mini Games,2017-12-05,male,William Saxton,76.42,95,-100,100,115,120,-126,100,120,220,AUS
-Pacific Mini Games,2017-12-05,male,Liam Saxby,84.78,117,-121,-121,-145,-145,145,117,145,262,AUS
-Pacific Mini Games,2017-12-05,male,John Downes,93.34,-108,108,111,135,140,-145,111,140,251,AUS
-Pacific Mini Games,2017-12-05,male,Edward Maxwell,104.35,117,-122,-122,150,-155,-155,117,150,267,AUS
+Pacific Mini Games,2017-12-05,female,Maddison Power,52.24,52,54,56,63,65,69,56,69,125
+Pacific Mini Games,2017-12-05,female,Jarian Hogan,68.38,61,64,66,83,-86,86,66,86,152
+Pacific Mini Games,2017-12-05,male,William Saxton,76.42,95,-100,100,115,120,-126,100,120,220
+Pacific Mini Games,2017-12-05,male,Liam Saxby,84.78,117,-121,-121,-145,-145,145,117,145,262
+Pacific Mini Games,2017-12-05,male,John Downes,93.34,-108,108,111,135,140,-145,111,140,251
+Pacific Mini Games,2017-12-05,male,Edward Maxwell,104.35,117,-122,-122,150,-155,-155,117,150,267

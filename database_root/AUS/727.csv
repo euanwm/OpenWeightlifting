@@ -1,11 +1,11 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Origins Club Challenge 2,2015-11-13,female,Jaydene Nepia,46.70,40,-45,45,50,55,-58,45,55,100,AUS
-Origins Club Challenge 2,2015-11-13,female,Tahlea Pileggi,28.20,11,12,13,16,17,-19,13,17,30,AUS
-Origins Club Challenge 2,2015-11-13,female,Amara Blackwell,62.90,32,-36,37,50,55,59,37,59,96,AUS
-Origins Club Challenge 2,2015-11-13,female,Stevie-Rei Akroyd,64.00,53,55,60,75,79,82,60,82,142,AUS
-Origins Club Challenge 2,2015-11-13,female,Alecia Lovelock,85.75,45,50,-53,50,55,60,50,60,110,AUS
-Origins Club Challenge 2,2015-11-13,male,Kelvin Hall,84.40,86,-91,91,-107,109,-113,91,109,200,AUS
-Origins Club Challenge 2,2015-11-13,male,Joshua Fletcher,90.50,60,65,72,82,-91,91,72,91,163,AUS
-Origins Club Challenge 2,2015-11-13,male,Chris Sansom,103.40,-65,65,70,90,98,100,70,100,170,AUS
-Origins Club Challenge 2,2015-11-13,male,Warren Young,94.90,-68,-68,70,90,95,101,70,101,171,AUS
-Origins Club Challenge 2,2015-11-13,male,Ross Murace,105.55,-70,70,-74,90,95,-100,70,95,165,AUS
+Origins Club Challenge 2,2015-11-13,female,Jaydene Nepia,46.70,40,-45,45,50,55,-58,45,55,100
+Origins Club Challenge 2,2015-11-13,female,Tahlea Pileggi,28.20,11,12,13,16,17,-19,13,17,30
+Origins Club Challenge 2,2015-11-13,female,Amara Blackwell,62.90,32,-36,37,50,55,59,37,59,96
+Origins Club Challenge 2,2015-11-13,female,Stevie-Rei Akroyd,64.00,53,55,60,75,79,82,60,82,142
+Origins Club Challenge 2,2015-11-13,female,Alecia Lovelock,85.75,45,50,-53,50,55,60,50,60,110
+Origins Club Challenge 2,2015-11-13,male,Kelvin Hall,84.40,86,-91,91,-107,109,-113,91,109,200
+Origins Club Challenge 2,2015-11-13,male,Joshua Fletcher,90.50,60,65,72,82,-91,91,72,91,163
+Origins Club Challenge 2,2015-11-13,male,Chris Sansom,103.40,-65,65,70,90,98,100,70,100,170
+Origins Club Challenge 2,2015-11-13,male,Warren Young,94.90,-68,-68,70,90,95,101,70,101,171
+Origins Club Challenge 2,2015-11-13,male,Ross Murace,105.55,-70,70,-74,90,95,-100,70,95,165

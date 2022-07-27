@@ -1,12 +1,12 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-SCWC Physique Science QWA Club Challenge Round 1,2021-02-06,female,Chloe Saliba,56.70,40,45,50,54,59,62,50,62,112,AUS
-SCWC Physique Science QWA Club Challenge Round 1,2021-02-06,female,Angela Barnas,82.60,58,61,-65,80,85,-91,61,85,146,AUS
-SCWC Physique Science QWA Club Challenge Round 1,2021-02-06,female,Rachel Mcdonald,96.90,48,51,53,57,-61,-65,53,57,110,AUS
-SCWC Physique Science QWA Club Challenge Round 1,2021-02-06,female,Dale Donaghue,89.55,45,48,-51,55,58,61,48,61,109,AUS
-SCWC Physique Science QWA Club Challenge Round 1,2021-02-06,female,Emily Mills,132.55,40,43,45,48,52,55,45,55,100,AUS
-SCWC Physique Science QWA Club Challenge Round 1,2021-02-06,male,Levi Deans,56.26,58,-62,64,77,81,-85,64,81,145,AUS
-SCWC Physique Science QWA Club Challenge Round 1,2021-02-06,male,Maximilian Clark,80.09,-92,-92,-92,,,,0,0,0,AUS
-SCWC Physique Science QWA Club Challenge Round 1,2021-02-06,male,Hunter Jones,84.75,-85,85,-90,110,-115,115,85,115,200,AUS
-SCWC Physique Science QWA Club Challenge Round 1,2021-02-06,male,Jakob Daniels,96.95,115,120,-125,155,-160,-165,120,155,275,AUS
-SCWC Physique Science QWA Club Challenge Round 1,2021-02-06,male,Jarrad Mccarthy,100.75,68,73,-76,88,-93,-93,73,88,161,AUS
-SCWC Physique Science QWA Club Challenge Round 1,2021-02-06,male,Wil Tolputt,108.60,75,80,85,-95,-95,-95,85,0,0,AUS
+SCWC Physique Science QWA Club Challenge Round 1,2021-02-06,female,Chloe Saliba,56.70,40,45,50,54,59,62,50,62,112
+SCWC Physique Science QWA Club Challenge Round 1,2021-02-06,female,Angela Barnas,82.60,58,61,-65,80,85,-91,61,85,146
+SCWC Physique Science QWA Club Challenge Round 1,2021-02-06,female,Rachel Mcdonald,96.90,48,51,53,57,-61,-65,53,57,110
+SCWC Physique Science QWA Club Challenge Round 1,2021-02-06,female,Dale Donaghue,89.55,45,48,-51,55,58,61,48,61,109
+SCWC Physique Science QWA Club Challenge Round 1,2021-02-06,female,Emily Mills,132.55,40,43,45,48,52,55,45,55,100
+SCWC Physique Science QWA Club Challenge Round 1,2021-02-06,male,Levi Deans,56.26,58,-62,64,77,81,-85,64,81,145
+SCWC Physique Science QWA Club Challenge Round 1,2021-02-06,male,Maximilian Clark,80.09,-92,-92,-92,0,0,0,0,0,0
+SCWC Physique Science QWA Club Challenge Round 1,2021-02-06,male,Hunter Jones,84.75,-85,85,-90,110,-115,115,85,115,200
+SCWC Physique Science QWA Club Challenge Round 1,2021-02-06,male,Jakob Daniels,96.95,115,120,-125,155,-160,-165,120,155,275
+SCWC Physique Science QWA Club Challenge Round 1,2021-02-06,male,Jarrad Mccarthy,100.75,68,73,-76,88,-93,-93,73,88,161
+SCWC Physique Science QWA Club Challenge Round 1,2021-02-06,male,Wil Tolputt,108.60,75,80,85,-95,-95,-95,85,0,0

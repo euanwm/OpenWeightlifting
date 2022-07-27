@@ -1,6 +1,6 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Berserker Barbell Club Competition,2019-08-10,female,Megan Harris,64.00,35,37,,50,-52,54,37,54,91,AUS
-Berserker Barbell Club Competition,2019-08-10,female,Katie Harrold,70.95,50,54,56,62,65,68,56,68,124,AUS
-Berserker Barbell Club Competition,2019-08-10,female,Meagan Wellby,73.70,63,65,67,84,-88,-91,67,84,151,AUS
-Berserker Barbell Club Competition,2019-08-10,male,Luke Wells,70.54,50,53,-55,55,58,-60,53,58,111,AUS
-Berserker Barbell Club Competition,2019-08-10,male,Christopher Rhoden,113.85,94,97,-100,-124,125,127,97,127,224,AUS
+Berserker Barbell Club Competition,2019-08-10,female,Megan Harris,64.00,35,37,0,50,-52,54,37,54,91
+Berserker Barbell Club Competition,2019-08-10,female,Katie Harrold,70.95,50,54,56,62,65,68,56,68,124
+Berserker Barbell Club Competition,2019-08-10,female,Meagan Wellby,73.70,63,65,67,84,-88,-91,67,84,151
+Berserker Barbell Club Competition,2019-08-10,male,Luke Wells,70.54,50,53,-55,55,58,-60,53,58,111
+Berserker Barbell Club Competition,2019-08-10,male,Christopher Rhoden,113.85,94,97,-100,-124,125,127,97,127,224

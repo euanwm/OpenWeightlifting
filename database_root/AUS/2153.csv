@@ -1,24 +1,24 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Thunder Barbell Club Competition,2019-11-02,female,Elanze Botha,60.30,45,50,55,-70,70,75,55,75,130,AUS
-Thunder Barbell Club Competition,2019-11-02,female,Emily Furness,60.10,40,-45,45,60,-65,-65,45,60,105,AUS
-Thunder Barbell Club Competition,2019-11-02,female,Tymaniah Newman,63.90,30,35,40,48,55,60,40,60,100,AUS
-Thunder Barbell Club Competition,2019-11-02,female,Peta Grant,60.20,30,35,40,45,50,55,40,55,95,AUS
-Thunder Barbell Club Competition,2019-11-02,female,Tiana Lawton,64.20,50,54,57,60,64,67,57,67,124,AUS
-Thunder Barbell Club Competition,2019-11-02,female,Natasha May,65.10,45,47,-49,65,-68,-68,47,65,112,AUS
-Thunder Barbell Club Competition,2019-11-02,female,Emily De Rooy,78.70,50,-55,-55,80,85,88,50,88,138,AUS
-Thunder Barbell Club Competition,2019-11-02,female,Makkedde Lowis,83.90,47,50,55,60,65,72,55,72,127,AUS
-Thunder Barbell Club Competition,2019-11-02,female,Caitlin Keevers,87.00,35,45,-50,50,55,60,45,60,105,AUS
-Thunder Barbell Club Competition,2019-11-02,male,Jarrod Hautaniemi,79.80,105,113,117,135,140,144,117,144,261,AUS
-Thunder Barbell Club Competition,2019-11-02,male,Jayden Sheldrick,75.00,40,48,55,55,60,65,55,65,120,AUS
-Thunder Barbell Club Competition,2019-11-02,male,Louis Karanicolos,88.20,-80,80,95,100,110,-122,95,110,205,AUS
-Thunder Barbell Club Competition,2019-11-02,male,Anthony Canning,81.30,60,65,70,80,87,-94,70,87,157,AUS
-Thunder Barbell Club Competition,2019-11-02,male,Jeff Gilbert,84.10,50,55,60,70,75,80,60,80,140,AUS
-Thunder Barbell Club Competition,2019-11-02,male,Chris Morganson,88.20,75,-81,81,-80,,,81,0,0,AUS
-Thunder Barbell Club Competition,2019-11-02,male,Mark Henry,91.10,80,87,97,110,122,132,97,132,229,AUS
-Thunder Barbell Club Competition,2019-11-02,male,James Bell,91.10,-75,75,-80,90,100,-110,75,100,175,AUS
-Thunder Barbell Club Competition,2019-11-02,male,Michael Brennan,92.40,48,54,60,-70,70,80,60,80,140,AUS
-Thunder Barbell Club Competition,2019-11-02,male,Alain Youdan,101.00,-65,70,73,80,87,95,73,95,168,AUS
-Thunder Barbell Club Competition,2019-11-02,male,Aaron Orr,100.50,55,60,67,80,-85,85,67,85,152,AUS
-Thunder Barbell Club Competition,2019-11-02,male,Micheal Fowler,96.90,60,70,75,,,,75,0,0,AUS
-Thunder Barbell Club Competition,2019-11-02,male,Kelly Weatherstone,108.60,96,104,110,-130,140,-143,110,140,250,AUS
-Thunder Barbell Club Competition,2019-11-02,male,Lachlan Keevers,114.00,70,-80,85,100,-110,-112,85,100,185,AUS
+Thunder Barbell Club Competition,2019-11-02,female,Elanze Botha,60.30,45,50,55,-70,70,75,55,75,130
+Thunder Barbell Club Competition,2019-11-02,female,Emily Furness,60.10,40,-45,45,60,-65,-65,45,60,105
+Thunder Barbell Club Competition,2019-11-02,female,Tymaniah Newman,63.90,30,35,40,48,55,60,40,60,100
+Thunder Barbell Club Competition,2019-11-02,female,Peta Grant,60.20,30,35,40,45,50,55,40,55,95
+Thunder Barbell Club Competition,2019-11-02,female,Tiana Lawton,64.20,50,54,57,60,64,67,57,67,124
+Thunder Barbell Club Competition,2019-11-02,female,Natasha May,65.10,45,47,-49,65,-68,-68,47,65,112
+Thunder Barbell Club Competition,2019-11-02,female,Emily De Rooy,78.70,50,-55,-55,80,85,88,50,88,138
+Thunder Barbell Club Competition,2019-11-02,female,Makkedde Lowis,83.90,47,50,55,60,65,72,55,72,127
+Thunder Barbell Club Competition,2019-11-02,female,Caitlin Keevers,87.00,35,45,-50,50,55,60,45,60,105
+Thunder Barbell Club Competition,2019-11-02,male,Jarrod Hautaniemi,79.80,105,113,117,135,140,144,117,144,261
+Thunder Barbell Club Competition,2019-11-02,male,Jayden Sheldrick,75.00,40,48,55,55,60,65,55,65,120
+Thunder Barbell Club Competition,2019-11-02,male,Louis Karanicolos,88.20,-80,80,95,100,110,-122,95,110,205
+Thunder Barbell Club Competition,2019-11-02,male,Anthony Canning,81.30,60,65,70,80,87,-94,70,87,157
+Thunder Barbell Club Competition,2019-11-02,male,Jeff Gilbert,84.10,50,55,60,70,75,80,60,80,140
+Thunder Barbell Club Competition,2019-11-02,male,Chris Morganson,88.20,75,-81,81,-80,0,0,81,0,0
+Thunder Barbell Club Competition,2019-11-02,male,Mark Henry,91.10,80,87,97,110,122,132,97,132,229
+Thunder Barbell Club Competition,2019-11-02,male,James Bell,91.10,-75,75,-80,90,100,-110,75,100,175
+Thunder Barbell Club Competition,2019-11-02,male,Michael Brennan,92.40,48,54,60,-70,70,80,60,80,140
+Thunder Barbell Club Competition,2019-11-02,male,Alain Youdan,101.00,-65,70,73,80,87,95,73,95,168
+Thunder Barbell Club Competition,2019-11-02,male,Aaron Orr,100.50,55,60,67,80,-85,85,67,85,152
+Thunder Barbell Club Competition,2019-11-02,male,Micheal Fowler,96.90,60,70,75,0,0,0,75,0,0
+Thunder Barbell Club Competition,2019-11-02,male,Kelly Weatherstone,108.60,96,104,110,-130,140,-143,110,140,250
+Thunder Barbell Club Competition,2019-11-02,male,Lachlan Keevers,114.00,70,-80,85,100,-110,-112,85,100,185

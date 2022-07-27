@@ -1,26 +1,26 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-WWA U15 & U17 Championships / Masters Competition,2017-05-07,female,Charlotte Saxton,43.40,25,-27,27,30,-35,35,27,35,62,AUS
-WWA U15 & U17 Championships / Masters Competition,2017-05-07,female,Ramona Pearl Faamausili-Fala,38.80,15,18,-20,18,22,24,18,24,42,AUS
-WWA U15 & U17 Championships / Masters Competition,2017-05-07,female,Ryleigh Filmer,53.70,10,12,14,15,17,19,14,19,33,AUS
-WWA U15 & U17 Championships / Masters Competition,2017-05-07,female,Cheryl Falconer,70.65,30,,,35,40,-43,30,40,70,AUS
-WWA U15 & U17 Championships / Masters Competition,2017-05-07,female,Mia Maoate-Latimer,72.70,48,50,53,60,-63,64,53,64,117,AUS
-WWA U15 & U17 Championships / Masters Competition,2017-05-07,female,Crystal Oliver,74.65,-40,40,45,55,60,63,45,63,108,AUS
-WWA U15 & U17 Championships / Masters Competition,2017-05-07,female,Sarah Lester,79.95,15,,,17,,,15,17,32,AUS
-WWA U15 & U17 Championships / Masters Competition,2017-05-07,female,Alina Baker,82.35,20,-25,25,30,35,-40,25,35,60,AUS
-WWA U15 & U17 Championships / Masters Competition,2017-05-07,female,Ella Tomuli-Ah-Kuoi,102.60,55,60,-62,70,-75,-75,60,70,130,AUS
-WWA U15 & U17 Championships / Masters Competition,2017-05-07,male,Oliver Saxton,55.75,45,50,-55,60,-65,65,50,65,115,AUS
-WWA U15 & U17 Championships / Masters Competition,2017-05-07,male,Ben Hewett,54.75,42,45,-47,47,51,54,45,54,99,AUS
-WWA U15 & U17 Championships / Masters Competition,2017-05-07,male,Benjamin La Cunza-Watson,53.50,28,32,-35,38,43,46,32,46,78,AUS
-WWA U15 & U17 Championships / Masters Competition,2017-05-07,male,Connor Walton,47.60,20,22,-25,20,25,28,22,28,50,AUS
-WWA U15 & U17 Championships / Masters Competition,2017-05-07,male,Corey Bone,36.00,13,15,-17,20,23,25,15,25,40,AUS
-WWA U15 & U17 Championships / Masters Competition,2017-05-07,male,William Burrell,40.75,13,15,17,18,21,23,17,23,40,AUS
-WWA U15 & U17 Championships / Masters Competition,2017-05-07,male,Victor Liang,68.05,72,80,-83,100,105,-108,80,105,185,AUS
-WWA U15 & U17 Championships / Masters Competition,2017-05-07,male,William Saxton,76.60,85,90,95,110,115,-120,95,115,210,AUS
-WWA U15 & U17 Championships / Masters Competition,2017-05-07,male,Paul Falconer,79.40,40,45,52,50,60,67,52,67,119,AUS
-WWA U15 & U17 Championships / Masters Competition,2017-05-07,male,Alan Lewis,88.80,30,32,35,38,42,45,35,45,80,AUS
-WWA U15 & U17 Championships / Masters Competition,2017-05-07,male,Derek D'Mellow,92.35,60,66,-71,90,,,66,90,156,AUS
-WWA U15 & U17 Championships / Masters Competition,2017-05-07,male,Craig Burrows,89.65,30,,,30,,,30,30,60,AUS
-WWA U15 & U17 Championships / Masters Competition,2017-05-07,male,Justin Paul,96.75,60,65,70,80,85,90,70,90,160,AUS
-WWA U15 & U17 Championships / Masters Competition,2017-05-07,male,Thomas Murrell,97.25,65,68,70,82,85,-88,70,85,155,AUS
-WWA U15 & U17 Championships / Masters Competition,2017-05-07,male,Bob Pavone,107.40,40,45,50,50,60,75,50,75,125,AUS
-WWA U15 & U17 Championships / Masters Competition,2017-05-07,male,Malachi Faamausili-Fala,109.10,93,96,100,113,-116,120,100,120,220,AUS
+WWA U15 & U17 Championships / Masters Competition,2017-05-07,female,Charlotte Saxton,43.40,25,-27,27,30,-35,35,27,35,62
+WWA U15 & U17 Championships / Masters Competition,2017-05-07,female,Ramona Pearl Faamausili-Fala,38.80,15,18,-20,18,22,24,18,24,42
+WWA U15 & U17 Championships / Masters Competition,2017-05-07,female,Ryleigh Filmer,53.70,10,12,14,15,17,19,14,19,33
+WWA U15 & U17 Championships / Masters Competition,2017-05-07,female,Cheryl Falconer,70.65,30,0,0,35,40,-43,30,40,70
+WWA U15 & U17 Championships / Masters Competition,2017-05-07,female,Mia Maoate-Latimer,72.70,48,50,53,60,-63,64,53,64,117
+WWA U15 & U17 Championships / Masters Competition,2017-05-07,female,Crystal Oliver,74.65,-40,40,45,55,60,63,45,63,108
+WWA U15 & U17 Championships / Masters Competition,2017-05-07,female,Sarah Lester,79.95,15,0,0,17,0,0,15,17,32
+WWA U15 & U17 Championships / Masters Competition,2017-05-07,female,Alina Baker,82.35,20,-25,25,30,35,-40,25,35,60
+WWA U15 & U17 Championships / Masters Competition,2017-05-07,female,Ella Tomuli-Ah-Kuoi,102.60,55,60,-62,70,-75,-75,60,70,130
+WWA U15 & U17 Championships / Masters Competition,2017-05-07,male,Oliver Saxton,55.75,45,50,-55,60,-65,65,50,65,115
+WWA U15 & U17 Championships / Masters Competition,2017-05-07,male,Ben Hewett,54.75,42,45,-47,47,51,54,45,54,99
+WWA U15 & U17 Championships / Masters Competition,2017-05-07,male,Benjamin La Cunza-Watson,53.50,28,32,-35,38,43,46,32,46,78
+WWA U15 & U17 Championships / Masters Competition,2017-05-07,male,Connor Walton,47.60,20,22,-25,20,25,28,22,28,50
+WWA U15 & U17 Championships / Masters Competition,2017-05-07,male,Corey Bone,36.00,13,15,-17,20,23,25,15,25,40
+WWA U15 & U17 Championships / Masters Competition,2017-05-07,male,William Burrell,40.75,13,15,17,18,21,23,17,23,40
+WWA U15 & U17 Championships / Masters Competition,2017-05-07,male,Victor Liang,68.05,72,80,-83,100,105,-108,80,105,185
+WWA U15 & U17 Championships / Masters Competition,2017-05-07,male,William Saxton,76.60,85,90,95,110,115,-120,95,115,210
+WWA U15 & U17 Championships / Masters Competition,2017-05-07,male,Paul Falconer,79.40,40,45,52,50,60,67,52,67,119
+WWA U15 & U17 Championships / Masters Competition,2017-05-07,male,Alan Lewis,88.80,30,32,35,38,42,45,35,45,80
+WWA U15 & U17 Championships / Masters Competition,2017-05-07,male,Derek D'Mellow,92.35,60,66,-71,90,0,0,66,90,156
+WWA U15 & U17 Championships / Masters Competition,2017-05-07,male,Craig Burrows,89.65,30,0,0,30,0,0,30,30,60
+WWA U15 & U17 Championships / Masters Competition,2017-05-07,male,Justin Paul,96.75,60,65,70,80,85,90,70,90,160
+WWA U15 & U17 Championships / Masters Competition,2017-05-07,male,Thomas Murrell,97.25,65,68,70,82,85,-88,70,85,155
+WWA U15 & U17 Championships / Masters Competition,2017-05-07,male,Bob Pavone,107.40,40,45,50,50,60,75,50,75,125
+WWA U15 & U17 Championships / Masters Competition,2017-05-07,male,Malachi Faamausili-Fala,109.10,93,96,100,113,-116,120,100,120,220

@@ -1,4 +1,4 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Milton Weightlifting Club_Members only competition,2021-10-23,female,Aisling Scott,68.18,-72,-72,-72,,,,0,0,0,AUS
-Milton Weightlifting Club_Members only competition,2021-10-23,female,Sarah Scott,73.73,56,59,63,74,-78,-80,63,74,137,AUS
-Milton Weightlifting Club_Members only competition,2021-10-23,male,Michael Dunne,101.28,115,-119,-119,-150,-150,-150,115,0,0,AUS
+Milton Weightlifting Club_Members only competition,2021-10-23,female,Aisling Scott,68.18,-72,-72,-72,0,0,0,0,0,0
+Milton Weightlifting Club_Members only competition,2021-10-23,female,Sarah Scott,73.73,56,59,63,74,-78,-80,63,74,137
+Milton Weightlifting Club_Members only competition,2021-10-23,male,Michael Dunne,101.28,115,-119,-119,-150,-150,-150,115,0,0

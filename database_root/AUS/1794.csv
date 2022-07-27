@@ -1,12 +1,12 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Toowoomba Weightlifting Club Competition,2018-05-05,female,Mikaela Dorge,62.20,50,-52,-52,-66,-66,66,50,66,116,AUS
-Toowoomba Weightlifting Club Competition,2018-05-05,female,Emma Stevens,63.10,32,35,-37,38,41,-44,35,41,76,AUS
-Toowoomba Weightlifting Club Competition,2018-05-05,female,Rebecca Gowland,74.10,48,-50,51,59,62,64,51,64,115,AUS
-Toowoomba Weightlifting Club Competition,2018-05-05,female,Megan Stevens,73.80,35,36,38,-42,42,-46,38,42,80,AUS
-Toowoomba Weightlifting Club Competition,2018-05-05,female,Siobhaun Hahn,80.60,42,45,-47,66,68,-70,45,68,113,AUS
-Toowoomba Weightlifting Club Competition,2018-05-05,male,Chevy Sukkar,76.00,101,106,-110,120,125,130,106,130,236,AUS
-Toowoomba Weightlifting Club Competition,2018-05-05,male,Matthew Logovik,76.90,80,84,88,110,115,120,88,120,208,AUS
-Toowoomba Weightlifting Club Competition,2018-05-05,male,Chris Mccallum,76.70,80,84,87,110,115,118,87,118,205,AUS
-Toowoomba Weightlifting Club Competition,2018-05-05,male,Thomas Foster,70.80,80,85,-90,105,110,115,85,115,200,AUS
-Toowoomba Weightlifting Club Competition,2018-05-05,male,Shane Wagner,92.00,110,-115,116,130,135,-140,116,135,251,AUS
-Toowoomba Weightlifting Club Competition,2018-05-05,male,Harley Flowers,89.70,85,90,95,110,115,120,95,120,215,AUS
+Toowoomba Weightlifting Club Competition,2018-05-05,female,Mikaela Dorge,62.20,50,-52,-52,-66,-66,66,50,66,116
+Toowoomba Weightlifting Club Competition,2018-05-05,female,Emma Stevens,63.10,32,35,-37,38,41,-44,35,41,76
+Toowoomba Weightlifting Club Competition,2018-05-05,female,Rebecca Gowland,74.10,48,-50,51,59,62,64,51,64,115
+Toowoomba Weightlifting Club Competition,2018-05-05,female,Megan Stevens,73.80,35,36,38,-42,42,-46,38,42,80
+Toowoomba Weightlifting Club Competition,2018-05-05,female,Siobhaun Hahn,80.60,42,45,-47,66,68,-70,45,68,113
+Toowoomba Weightlifting Club Competition,2018-05-05,male,Chevy Sukkar,76.00,101,106,-110,120,125,130,106,130,236
+Toowoomba Weightlifting Club Competition,2018-05-05,male,Matthew Logovik,76.90,80,84,88,110,115,120,88,120,208
+Toowoomba Weightlifting Club Competition,2018-05-05,male,Chris Mccallum,76.70,80,84,87,110,115,118,87,118,205
+Toowoomba Weightlifting Club Competition,2018-05-05,male,Thomas Foster,70.80,80,85,-90,105,110,115,85,115,200
+Toowoomba Weightlifting Club Competition,2018-05-05,male,Shane Wagner,92.00,110,-115,116,130,135,-140,116,135,251
+Toowoomba Weightlifting Club Competition,2018-05-05,male,Harley Flowers,89.70,85,90,95,110,115,120,95,120,215

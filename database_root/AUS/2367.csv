@@ -1,5 +1,5 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-IWF Online Youth World Cup,2020-11-11,female,Lily Strange,58.20,70,73,73,80,80,80,70,0,0,AUS
-IWF Online Youth World Cup,2020-11-11,female,Tori Gallegos,60.10,73,76,78,92,96,96,76,92,168,AUS
-IWF Online Youth World Cup,2020-11-11,female,Maddison Power,69.95,72,75,78,90,94,101,78,94,172,AUS
-IWF Online Youth World Cup,2020-11-11,male,Max Toller,83.60,90,95,100,115,120,125,100,125,225,AUS
+IWF Online Youth World Cup,2020-11-11,female,Lily Strange,58.20,70,73,73,80,80,80,70,0,0
+IWF Online Youth World Cup,2020-11-11,female,Tori Gallegos,60.10,73,76,78,92,96,96,76,92,168
+IWF Online Youth World Cup,2020-11-11,female,Maddison Power,69.95,72,75,78,90,94,101,78,94,172
+IWF Online Youth World Cup,2020-11-11,male,Max Toller,83.60,90,95,100,115,120,125,100,125,225

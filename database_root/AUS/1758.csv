@@ -1,9 +1,9 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Origins #2,2018-09-14,female,Mia Busby,78.75,38,42,46,55,60,-65,46,60,106,AUS
-Origins #2,2018-09-14,male,Emidio Pileggi,25.95,12,13,14,16,17,-18,14,17,31,AUS
-Origins #2,2018-09-14,male,Lachlan Turton,48.65,35,37,-40,45,48,-50,37,48,85,AUS
-Origins #2,2018-09-14,male,Mac Stanley,32.35,8,9,10,9,10,11,10,11,21,AUS
-Origins #2,2018-09-14,male,Aysar Bazlee,79.20,67,72,76,93,98,105,76,105,181,AUS
-Origins #2,2018-09-14,male,Matthew Walker,84.25,74,79,83,91,100,105,83,105,188,AUS
-Origins #2,2018-09-14,male,Josh Mitchell,129.85,90,-95,-100,115,-125,-125,90,115,205,AUS
-Origins #2,2018-09-14,male,Mina Kiddis,112.55,64,67,70,85,90,-95,70,90,160,AUS
+Origins #2,2018-09-14,female,Mia Busby,78.75,38,42,46,55,60,-65,46,60,106
+Origins #2,2018-09-14,male,Emidio Pileggi,25.95,12,13,14,16,17,-18,14,17,31
+Origins #2,2018-09-14,male,Lachlan Turton,48.65,35,37,-40,45,48,-50,37,48,85
+Origins #2,2018-09-14,male,Mac Stanley,32.35,8,9,10,9,10,11,10,11,21
+Origins #2,2018-09-14,male,Aysar Bazlee,79.20,67,72,76,93,98,105,76,105,181
+Origins #2,2018-09-14,male,Matthew Walker,84.25,74,79,83,91,100,105,83,105,188
+Origins #2,2018-09-14,male,Josh Mitchell,129.85,90,-95,-100,115,-125,-125,90,115,205
+Origins #2,2018-09-14,male,Mina Kiddis,112.55,64,67,70,85,90,-95,70,90,160

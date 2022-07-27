@@ -1,13 +1,13 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Noosa Barbell_ Members only competition,2021-10-09,female,Isla Corbett,54.55,38,41,44,48,51,53,44,53,97,AUS
-Noosa Barbell_ Members only competition,2021-10-09,female,Lee-Ann Crooks,53.60,27,30,33,37,41,-44,33,41,74,AUS
-Noosa Barbell_ Members only competition,2021-10-09,female,Kaiya Ngahina Marsh,62.60,45,48,51,60,64,-67,51,64,115,AUS
-Noosa Barbell_ Members only competition,2021-10-09,female,Maryanne Long,67.35,28,31,35,34,38,-41,35,38,73,AUS
-Noosa Barbell_ Members only competition,2021-10-09,female,Charlene Whitton,71.80,35,38,-41,45,50,-53,38,50,88,AUS
-Noosa Barbell_ Members only competition,2021-10-09,female,Joanne Phillips,99.05,50,-55,55,70,74,-78,55,74,129,AUS
-Noosa Barbell_ Members only competition,2021-10-09,male,Finn Taylor,65.65,25,26,-28,30,33,36,26,36,62,AUS
-Noosa Barbell_ Members only competition,2021-10-09,male,Zac Schwitter,80.95,103,106,-109,130,134,-137,106,134,240,AUS
-Noosa Barbell_ Members only competition,2021-10-09,male,Jack Lafferty,76.45,-54,54,58,75,80,-89,58,80,138,AUS
-Noosa Barbell_ Members only competition,2021-10-09,male,Eli Frew,75.00,34,38,41,43,46,-50,41,46,87,AUS
-Noosa Barbell_ Members only competition,2021-10-09,male,Taj Marsh,89.00,112,118,123,145,151,,123,151,274,AUS
-Noosa Barbell_ Members only competition,2021-10-09,male,Nicholas Hill,83.25,42,46,51,65,70,76,51,76,127,AUS
+Noosa Barbell_ Members only competition,2021-10-09,female,Isla Corbett,54.55,38,41,44,48,51,53,44,53,97
+Noosa Barbell_ Members only competition,2021-10-09,female,Lee-Ann Crooks,53.60,27,30,33,37,41,-44,33,41,74
+Noosa Barbell_ Members only competition,2021-10-09,female,Kaiya Ngahina Marsh,62.60,45,48,51,60,64,-67,51,64,115
+Noosa Barbell_ Members only competition,2021-10-09,female,Maryanne Long,67.35,28,31,35,34,38,-41,35,38,73
+Noosa Barbell_ Members only competition,2021-10-09,female,Charlene Whitton,71.80,35,38,-41,45,50,-53,38,50,88
+Noosa Barbell_ Members only competition,2021-10-09,female,Joanne Phillips,99.05,50,-55,55,70,74,-78,55,74,129
+Noosa Barbell_ Members only competition,2021-10-09,male,Finn Taylor,65.65,25,26,-28,30,33,36,26,36,62
+Noosa Barbell_ Members only competition,2021-10-09,male,Zac Schwitter,80.95,103,106,-109,130,134,-137,106,134,240
+Noosa Barbell_ Members only competition,2021-10-09,male,Jack Lafferty,76.45,-54,54,58,75,80,-89,58,80,138
+Noosa Barbell_ Members only competition,2021-10-09,male,Eli Frew,75.00,34,38,41,43,46,-50,41,46,87
+Noosa Barbell_ Members only competition,2021-10-09,male,Taj Marsh,89.00,112,118,123,145,151,0,123,151,274
+Noosa Barbell_ Members only competition,2021-10-09,male,Nicholas Hill,83.25,42,46,51,65,70,76,51,76,127

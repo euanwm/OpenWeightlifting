@@ -1,6 +1,6 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Olympic Games,2021-07-23,female,Erika Yamasaki,58.75,75,-78,-78,95,-100,-100,75,95,170,AUS
-Olympic Games,2021-07-23,female,Kiana Elliott,63.40,93,97,101,-108,108,-111,101,108,209,AUS
-Olympic Games,2021-07-23,female,Charisma Amoe-Tarrant,154.05,95,100,105,123,128,138,105,138,243,AUS
-Olympic Games,2021-07-23,male,Brandon Wakeling,72.40,115,120,125,158,162,166,125,166,291,AUS
-Olympic Games,2021-07-23,male,Matthew Lydement,108.35,152,158,-165,180,-185,-185,158,180,338,AUS
+Olympic Games,2021-07-23,female,Erika Yamasaki,58.75,75,-78,-78,95,-100,-100,75,95,170
+Olympic Games,2021-07-23,female,Kiana Elliott,63.40,93,97,101,-108,108,-111,101,108,209
+Olympic Games,2021-07-23,female,Charisma Amoe-Tarrant,154.05,95,100,105,123,128,138,105,138,243
+Olympic Games,2021-07-23,male,Brandon Wakeling,72.40,115,120,125,158,162,166,125,166,291
+Olympic Games,2021-07-23,male,Matthew Lydement,108.35,152,158,-165,180,-185,-185,158,180,338

@@ -1,10 +1,10 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-NTWA Open and Masters Competition,2021-04-18,female,Emily Tjung,49.36,37,40,43,48,51,54,43,54,97,AUS
-NTWA Open and Masters Competition,2021-04-18,female,Valentina Cecchi,62.55,46,49,52,70,73,75,52,75,127,AUS
-NTWA Open and Masters Competition,2021-04-18,female,Stacey Kopf,70.15,-43,43,45,55,60,-65,45,60,105,AUS
-NTWA Open and Masters Competition,2021-04-18,female,Amy Llewellyn,66.14,40,43,-44,52,54,-55,43,54,97,AUS
-NTWA Open and Masters Competition,2021-04-18,female,Natalie Danks,75.65,40,44,48,65,70,-75,48,70,118,AUS
-NTWA Open and Masters Competition,2021-04-18,female,Kathryn Smith,104.70,-50,-50,53,68,-70,71,53,71,124,AUS
-NTWA Open and Masters Competition,2021-04-18,male,Cary Shoyer,51.50,23,25,26,26,28,-30,26,28,54,AUS
-NTWA Open and Masters Competition,2021-04-18,male,Jeremy Wong,87.30,-88,-94,94,-103,107,115,94,115,209,AUS
-NTWA Open and Masters Competition,2021-04-18,male,Owen Griggs,102.45,60,65,67,70,75,78,67,78,145,AUS
+NTWA Open and Masters Competition,2021-04-18,female,Emily Tjung,49.36,37,40,43,48,51,54,43,54,97
+NTWA Open and Masters Competition,2021-04-18,female,Valentina Cecchi,62.55,46,49,52,70,73,75,52,75,127
+NTWA Open and Masters Competition,2021-04-18,female,Stacey Kopf,70.15,-43,43,45,55,60,-65,45,60,105
+NTWA Open and Masters Competition,2021-04-18,female,Amy Llewellyn,66.14,40,43,-44,52,54,-55,43,54,97
+NTWA Open and Masters Competition,2021-04-18,female,Natalie Danks,75.65,40,44,48,65,70,-75,48,70,118
+NTWA Open and Masters Competition,2021-04-18,female,Kathryn Smith,104.70,-50,-50,53,68,-70,71,53,71,124
+NTWA Open and Masters Competition,2021-04-18,male,Cary Shoyer,51.50,23,25,26,26,28,-30,26,28,54
+NTWA Open and Masters Competition,2021-04-18,male,Jeremy Wong,87.30,-88,-94,94,-103,107,115,94,115,209
+NTWA Open and Masters Competition,2021-04-18,male,Owen Griggs,102.45,60,65,67,70,75,78,67,78,145

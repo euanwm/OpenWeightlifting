@@ -1,12 +1,12 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Open Competition,2012-10-27,female,Elena Palamara,69.32,72,-76,76,90,94,-97,76,94,170,AUS
-Open Competition,2012-10-27,female,Katharine Johnson,100.91,-80,-80,-80,,,,0,0,0,AUS
-Open Competition,2012-10-27,male,Abdul Razak,72.49,-75,-75,-75,,,,0,0,0,AUS
-Open Competition,2012-10-27,male,Stephen Muldoon,80.30,85,-90,90,113,118,-122,90,118,208,AUS
-Open Competition,2012-10-27,male,Michael Golshani,77.96,85,88,-91,102,107,-108,88,107,195,AUS
-Open Competition,2012-10-27,male,Fabricio Itte,84.55,50,-55,-55,45,50,55,50,55,105,AUS
-Open Competition,2012-10-27,male,Mathew Faul,86.00,82,87,-90,100,-105,105,87,105,192,AUS
-Open Competition,2012-10-27,male,Tom Tombleson,100.97,90,95,-100,130,140,-148,95,140,235,AUS
-Open Competition,2012-10-27,male,Matthew Lilli,97.21,75,-78,78,90,95,-96,78,95,173,AUS
-Open Competition,2012-10-27,male,David Rappo,57.20,55,60,-65,70,-75,-75,60,70,130,AUS
-Open Competition,2012-10-27,male,Stephen Johnstone,97.45,85,-90,90,108,114,-118,90,114,204,AUS
+Open Competition,2012-10-27,female,Elena Palamara,69.32,72,-76,76,90,94,-97,76,94,170
+Open Competition,2012-10-27,female,Katharine Johnson,100.91,-80,-80,-80,0,0,0,0,0,0
+Open Competition,2012-10-27,male,Abdul Razak,72.49,-75,-75,-75,0,0,0,0,0,0
+Open Competition,2012-10-27,male,Stephen Muldoon,80.30,85,-90,90,113,118,-122,90,118,208
+Open Competition,2012-10-27,male,Michael Golshani,77.96,85,88,-91,102,107,-108,88,107,195
+Open Competition,2012-10-27,male,Fabricio Itte,84.55,50,-55,-55,45,50,55,50,55,105
+Open Competition,2012-10-27,male,Mathew Faul,86.00,82,87,-90,100,-105,105,87,105,192
+Open Competition,2012-10-27,male,Tom Tombleson,100.97,90,95,-100,130,140,-148,95,140,235
+Open Competition,2012-10-27,male,Matthew Lilli,97.21,75,-78,78,90,95,-96,78,95,173
+Open Competition,2012-10-27,male,David Rappo,57.20,55,60,-65,70,-75,-75,60,70,130
+Open Competition,2012-10-27,male,Stephen Johnstone,97.45,85,-90,90,108,114,-118,90,114,204

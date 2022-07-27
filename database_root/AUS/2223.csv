@@ -1,6 +1,6 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Coffs Harbour Open,2019-09-29,female,Jana Truban,57.30,33,35,37,45,48,50,37,50,87,AUS
-Coffs Harbour Open,2019-09-29,female,Jami Winnacott,61.95,25,27,30,38,42,45,30,45,75,AUS
-Coffs Harbour Open,2019-09-29,female,Amy Smith,61.05,25,27,-30,35,38,40,27,40,67,AUS
-Coffs Harbour Open,2019-09-29,female,Renee Clough,99.55,47,-50,50,60,65,68,50,68,118,AUS
-Coffs Harbour Open,2019-09-29,male,Demogene Smith,90.90,90,100,-105,115,120,-130,100,120,220,AUS
+Coffs Harbour Open,2019-09-29,female,Jana Truban,57.30,33,35,37,45,48,50,37,50,87
+Coffs Harbour Open,2019-09-29,female,Jami Winnacott,61.95,25,27,30,38,42,45,30,45,75
+Coffs Harbour Open,2019-09-29,female,Amy Smith,61.05,25,27,-30,35,38,40,27,40,67
+Coffs Harbour Open,2019-09-29,female,Renee Clough,99.55,47,-50,50,60,65,68,50,68,118
+Coffs Harbour Open,2019-09-29,male,Demogene Smith,90.90,90,100,-105,115,120,-130,100,120,220

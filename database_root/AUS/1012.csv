@@ -1,9 +1,9 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-NTWA Open and Masters Competition,2016-07-17,female,Leah Sisley,78.25,37,40,45,55,57,62,45,62,107,AUS
-NTWA Open and Masters Competition,2016-07-17,female,Kelly Giblin,59.22,42,44,46,60,63,66,46,66,112,AUS
-NTWA Open and Masters Competition,2016-07-17,female,Kristy Millar,67.45,-35,35,37,52,55,-57,37,55,92,AUS
-NTWA Open and Masters Competition,2016-07-17,female,Leah Chandler,86.95,35,37,39,42,45,-47,39,45,84,AUS
-NTWA Open and Masters Competition,2016-07-17,male,Robert Moore,68.15,60,-64,64,80,84,-87,64,84,148,AUS
-NTWA Open and Masters Competition,2016-07-17,male,Justin Pitts,69.80,-40,40,55,70,85,92,55,92,147,AUS
-NTWA Open and Masters Competition,2016-07-17,male,Andrew Dudley,86.65,58,65,-71,70,80,-90,65,80,145,AUS
-NTWA Open and Masters Competition,2016-07-17,male,David Russell,96.15,55,60,65,-80,80,83,65,83,148,AUS
+NTWA Open and Masters Competition,2016-07-17,female,Leah Sisley,78.25,37,40,45,55,57,62,45,62,107
+NTWA Open and Masters Competition,2016-07-17,female,Kelly Giblin,59.22,42,44,46,60,63,66,46,66,112
+NTWA Open and Masters Competition,2016-07-17,female,Kristy Millar,67.45,-35,35,37,52,55,-57,37,55,92
+NTWA Open and Masters Competition,2016-07-17,female,Leah Chandler,86.95,35,37,39,42,45,-47,39,45,84
+NTWA Open and Masters Competition,2016-07-17,male,Robert Moore,68.15,60,-64,64,80,84,-87,64,84,148
+NTWA Open and Masters Competition,2016-07-17,male,Justin Pitts,69.80,-40,40,55,70,85,92,55,92,147
+NTWA Open and Masters Competition,2016-07-17,male,Andrew Dudley,86.65,58,65,-71,70,80,-90,65,80,145
+NTWA Open and Masters Competition,2016-07-17,male,David Russell,96.15,55,60,65,-80,80,83,65,83,148

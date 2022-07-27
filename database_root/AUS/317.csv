@@ -1,12 +1,12 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-SAWLA April Open,2013-04-20,female,Latoya Davey,58.64,25,27,31,30,33,37,31,37,68,AUS
-SAWLA April Open,2013-04-20,male,Patrick Inglis,73.62,100,105,-110,115,120,125,105,125,230,AUS
-SAWLA April Open,2013-04-20,male,Jack Strudwicke,77.00,73,78,-80,97,-102,102,78,102,180,AUS
-SAWLA April Open,2013-04-20,male,Dylan Nangle,75.76,-62,62,-66,75,-80,85,62,85,147,AUS
-SAWLA April Open,2013-04-20,male,Jerome Squires,80.58,78,-82,-82,100,105,-110,78,105,183,AUS
-SAWLA April Open,2013-04-20,male,Frank Elliott,77.72,100,104,-110,,,,104,0,0,AUS
-SAWLA April Open,2013-04-20,male,Matthew Randell,94.12,-90,95,100,110,-117,-122,100,110,210,AUS
-SAWLA April Open,2013-04-20,male,Arjun Tokhi,76.58,65,70,75,85,90,95,75,95,170,AUS
-SAWLA April Open,2013-04-20,male,John Humphrys,83.48,43,-46,46,52,-56,56,46,56,102,AUS
-SAWLA April Open,2013-04-20,male,Ben Mulder,95.76,110,-115,-115,140,-145,-145,110,140,250,AUS
-SAWLA April Open,2013-04-20,male,Ashley Dean Pascoe,113.02,57,61,-66,82,87,-92,61,87,148,AUS
+SAWLA April Open,2013-04-20,female,Latoya Davey,58.64,25,27,31,30,33,37,31,37,68
+SAWLA April Open,2013-04-20,male,Patrick Inglis,73.62,100,105,-110,115,120,125,105,125,230
+SAWLA April Open,2013-04-20,male,Jack Strudwicke,77.00,73,78,-80,97,-102,102,78,102,180
+SAWLA April Open,2013-04-20,male,Dylan Nangle,75.76,-62,62,-66,75,-80,85,62,85,147
+SAWLA April Open,2013-04-20,male,Jerome Squires,80.58,78,-82,-82,100,105,-110,78,105,183
+SAWLA April Open,2013-04-20,male,Frank Elliott,77.72,100,104,-110,0,0,0,104,0,0
+SAWLA April Open,2013-04-20,male,Matthew Randell,94.12,-90,95,100,110,-117,-122,100,110,210
+SAWLA April Open,2013-04-20,male,Arjun Tokhi,76.58,65,70,75,85,90,95,75,95,170
+SAWLA April Open,2013-04-20,male,John Humphrys,83.48,43,-46,46,52,-56,56,46,56,102
+SAWLA April Open,2013-04-20,male,Ben Mulder,95.76,110,-115,-115,140,-145,-145,110,140,250
+SAWLA April Open,2013-04-20,male,Ashley Dean Pascoe,113.02,57,61,-66,82,87,-92,61,87,148

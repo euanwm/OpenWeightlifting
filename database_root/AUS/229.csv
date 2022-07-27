@@ -1,7 +1,7 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Triumph Club Competition,2013-03-01,female,Pamela Waring,74.60,46,-49,-49,55,-60,-60,46,55,101,AUS
-Triumph Club Competition,2013-03-01,male,James Mann,76.80,80,85,90,105,110,115,90,115,205,AUS
-Triumph Club Competition,2013-03-01,male,Luke Robinson,75.00,-60,-60,-60,65,-70,-70,0,65,0,AUS
-Triumph Club Competition,2013-03-01,male,Chris Trayes,93.30,80,85,-90,-95,95,-100,85,95,180,AUS
-Triumph Club Competition,2013-03-01,male,Howden Clair,90.00,60,65,70,90,100,-105,70,100,170,AUS
-Triumph Club Competition,2013-03-01,male,Alex Wallace,95.00,110,115,-120,130,140,-145,115,140,255,AUS
+Triumph Club Competition,2013-03-01,female,Pamela Waring,74.60,46,-49,-49,55,-60,-60,46,55,101
+Triumph Club Competition,2013-03-01,male,James Mann,76.80,80,85,90,105,110,115,90,115,205
+Triumph Club Competition,2013-03-01,male,Luke Robinson,75.00,-60,-60,-60,65,-70,-70,0,65,0
+Triumph Club Competition,2013-03-01,male,Chris Trayes,93.30,80,85,-90,-95,95,-100,85,95,180
+Triumph Club Competition,2013-03-01,male,Howden Clair,90.00,60,65,70,90,100,-105,70,100,170
+Triumph Club Competition,2013-03-01,male,Alex Wallace,95.00,110,115,-120,130,140,-145,115,140,255

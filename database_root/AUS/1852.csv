@@ -1,7 +1,7 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-SCWC Bob Henderson Shield Competition,2018-12-15,female,Angela Barnas,78.20,60,-63,-66,78,-83,-83,60,78,138,AUS
-SCWC Bob Henderson Shield Competition,2018-12-15,male,Levi Deans,47.18,38,-40,40,48,-50,-50,40,48,88,AUS
-SCWC Bob Henderson Shield Competition,2018-12-15,male,Mitchell Daniels,80.95,98,-103,107,128,134,137,107,137,244,AUS
-SCWC Bob Henderson Shield Competition,2018-12-15,male,Adair Forsyth,84.05,58,61,62,78,81,85,62,85,147,AUS
-SCWC Bob Henderson Shield Competition,2018-12-15,male,Jakob Daniels,95.45,110,115,-122,148,155,-160,115,155,270,AUS
-SCWC Bob Henderson Shield Competition,2018-12-15,male,Matthew Barrett,90.00,50,-53,-55,65,-70,-71,50,65,115,AUS
+SCWC Bob Henderson Shield Competition,2018-12-15,female,Angela Barnas,78.20,60,-63,-66,78,-83,-83,60,78,138
+SCWC Bob Henderson Shield Competition,2018-12-15,male,Levi Deans,47.18,38,-40,40,48,-50,-50,40,48,88
+SCWC Bob Henderson Shield Competition,2018-12-15,male,Mitchell Daniels,80.95,98,-103,107,128,134,137,107,137,244
+SCWC Bob Henderson Shield Competition,2018-12-15,male,Adair Forsyth,84.05,58,61,62,78,81,85,62,85,147
+SCWC Bob Henderson Shield Competition,2018-12-15,male,Jakob Daniels,95.45,110,115,-122,148,155,-160,115,155,270
+SCWC Bob Henderson Shield Competition,2018-12-15,male,Matthew Barrett,90.00,50,-53,-55,65,-70,-71,50,65,115

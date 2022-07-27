@@ -1,16 +1,16 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Heights Barbell Open Competition,2019-08-04,female,Irene Eng,52.80,40,45,48,50,55,-60,48,55,103,AUS
-Heights Barbell Open Competition,2019-08-04,female,Isabelle Del Rio,57.73,42,49,53,60,65,70,53,70,123,AUS
-Heights Barbell Open Competition,2019-08-04,female,Melina Le,58.00,-42,42,45,55,60,-65,45,60,105,AUS
-Heights Barbell Open Competition,2019-08-04,female,Katrina Gini,68.78,63,-66,67,85,-88,-88,67,85,152,AUS
-Heights Barbell Open Competition,2019-08-04,female,Elizabeth Austin,70.12,-60,60,-65,70,-75,75,60,75,135,AUS
-Heights Barbell Open Competition,2019-08-04,female,Kitty Chao,70.74,-40,42,45,55,60,65,45,65,110,AUS
-Heights Barbell Open Competition,2019-08-04,female,Sue Rennett,75.46,39,43,-46,60,63,-65,43,63,106,AUS
-Heights Barbell Open Competition,2019-08-04,male,Deacon Mercieca,45.56,39,42,45,52,55,58,45,58,103,AUS
-Heights Barbell Open Competition,2019-08-04,male,Danny Doan,66.64,60,65,-70,80,85,-90,65,85,150,AUS
-Heights Barbell Open Competition,2019-08-04,male,Corey Hele,88.88,96,-102,-106,130,-135,135,96,135,231,AUS
-Heights Barbell Open Competition,2019-08-04,male,Richard Lam,85.32,78,82,85,95,99,-102,85,99,184,AUS
-Heights Barbell Open Competition,2019-08-04,male,Bryan Ngo,85.68,78,82,-85,97,102,-105,82,102,184,AUS
-Heights Barbell Open Competition,2019-08-04,male,Adrian Carey,93.94,109,-113,113,140,146,,113,146,259,AUS
-Heights Barbell Open Competition,2019-08-04,male,Jason Chin,93.84,80,-100,100,110,130,135,100,135,235,AUS
-Heights Barbell Open Competition,2019-08-04,male,Troy Mcnamara,94.40,94,-98,100,-125,125,130,100,130,230,AUS
+Heights Barbell Open Competition,2019-08-04,female,Irene Eng,52.80,40,45,48,50,55,-60,48,55,103
+Heights Barbell Open Competition,2019-08-04,female,Isabelle Del Rio,57.73,42,49,53,60,65,70,53,70,123
+Heights Barbell Open Competition,2019-08-04,female,Melina Le,58.00,-42,42,45,55,60,-65,45,60,105
+Heights Barbell Open Competition,2019-08-04,female,Katrina Gini,68.78,63,-66,67,85,-88,-88,67,85,152
+Heights Barbell Open Competition,2019-08-04,female,Elizabeth Austin,70.12,-60,60,-65,70,-75,75,60,75,135
+Heights Barbell Open Competition,2019-08-04,female,Kitty Chao,70.74,-40,42,45,55,60,65,45,65,110
+Heights Barbell Open Competition,2019-08-04,female,Sue Rennett,75.46,39,43,-46,60,63,-65,43,63,106
+Heights Barbell Open Competition,2019-08-04,male,Deacon Mercieca,45.56,39,42,45,52,55,58,45,58,103
+Heights Barbell Open Competition,2019-08-04,male,Danny Doan,66.64,60,65,-70,80,85,-90,65,85,150
+Heights Barbell Open Competition,2019-08-04,male,Corey Hele,88.88,96,-102,-106,130,-135,135,96,135,231
+Heights Barbell Open Competition,2019-08-04,male,Richard Lam,85.32,78,82,85,95,99,-102,85,99,184
+Heights Barbell Open Competition,2019-08-04,male,Bryan Ngo,85.68,78,82,-85,97,102,-105,82,102,184
+Heights Barbell Open Competition,2019-08-04,male,Adrian Carey,93.94,109,-113,113,140,146,0,113,146,259
+Heights Barbell Open Competition,2019-08-04,male,Jason Chin,93.84,80,-100,100,110,130,135,100,135,235
+Heights Barbell Open Competition,2019-08-04,male,Troy Mcnamara,94.40,94,-98,100,-125,125,130,100,130,230

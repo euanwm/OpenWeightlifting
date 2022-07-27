@@ -1,7 +1,7 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-OWF Online Cup,2021-06-26,female,Brenna Kean,58.95,62,66,70,90,95,100,70,100,170,AUS
-OWF Online Cup,2021-06-26,female,Darcy Kay,70.24,80,85,-90,105,109,113,85,113,198,AUS
-OWF Online Cup,2021-06-26,female,Ebony Gorincu,72.24,83,85,88,105,-110,-112,88,105,193,AUS
-OWF Online Cup,2021-06-26,female,Eileen Cikamatana,85.12,-115,115,121,145,-153,153,121,153,274,AUS
-OWF Online Cup,2021-06-26,male,Ryley Porter,80.68,-135,-135,-135,,,,0,0,0,AUS
-OWF Online Cup,2021-06-26,male,Matthew Lydement,111.78,155,-160,-165,180,185,-190,155,185,340,AUS
+OWF Online Cup,2021-06-26,female,Brenna Kean,58.95,62,66,70,90,95,100,70,100,170
+OWF Online Cup,2021-06-26,female,Darcy Kay,70.24,80,85,-90,105,109,113,85,113,198
+OWF Online Cup,2021-06-26,female,Ebony Gorincu,72.24,83,85,88,105,-110,-112,88,105,193
+OWF Online Cup,2021-06-26,female,Eileen Cikamatana,85.12,-115,115,121,145,-153,153,121,153,274
+OWF Online Cup,2021-06-26,male,Ryley Porter,80.68,-135,-135,-135,0,0,0,0,0,0
+OWF Online Cup,2021-06-26,male,Matthew Lydement,111.78,155,-160,-165,180,185,-190,155,185,340

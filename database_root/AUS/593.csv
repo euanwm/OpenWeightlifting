@@ -1,6 +1,6 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Commonwealth Youth Games,2015-09-05,female,Hailee Jarrett,47.73,52,54,-56,66,69,-71,54,69,123,AUS
-Commonwealth Youth Games,2015-09-05,female,Yasmin Carter,57.36,52,-56,-56,72,-76,-76,52,72,124,AUS
-Commonwealth Youth Games,2015-09-05,male,Harrison Gaffney,59.95,70,74,78,88,93,98,78,98,176,AUS
-Commonwealth Youth Games,2015-09-05,male,Samuel Reichler,68.12,-93,-93,93,110,115,-120,93,115,208,AUS
-Commonwealth Youth Games,2015-09-05,male,Blake Shadbolt,93.53,105,110,-115,130,-144,-144,110,130,240,AUS
+Commonwealth Youth Games,2015-09-05,female,Hailee Jarrett,47.73,52,54,-56,66,69,-71,54,69,123
+Commonwealth Youth Games,2015-09-05,female,Yasmin Carter,57.36,52,-56,-56,72,-76,-76,52,72,124
+Commonwealth Youth Games,2015-09-05,male,Harrison Gaffney,59.95,70,74,78,88,93,98,78,98,176
+Commonwealth Youth Games,2015-09-05,male,Samuel Reichler,68.12,-93,-93,93,110,115,-120,93,115,208
+Commonwealth Youth Games,2015-09-05,male,Blake Shadbolt,93.53,105,110,-115,130,-144,-144,110,130,240

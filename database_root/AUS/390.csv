@@ -1,6 +1,6 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-WWA Weightlifting Masters Competition,2013-09-28,female,Laila Gampfer,68.10,35,38,41,55,60,65,41,65,106,AUS
-WWA Weightlifting Masters Competition,2013-09-28,female,Storm Falconer-Frankling,70.45,-42,-45,45,52,56,-60,45,56,101,AUS
-WWA Weightlifting Masters Competition,2013-09-28,female,Grace Morrison,68.65,35,37,40,52,55,58,40,58,98,AUS
-WWA Weightlifting Masters Competition,2013-09-28,female,Lisa Burgess,81.95,25,30,35,40,45,50,35,50,85,AUS
-WWA Weightlifting Masters Competition,2013-09-28,male,Adrian Frankling,92.65,75,-78,-78,-100,-100,-100,75,0,0,AUS
+WWA Weightlifting Masters Competition,2013-09-28,female,Laila Gampfer,68.10,35,38,41,55,60,65,41,65,106
+WWA Weightlifting Masters Competition,2013-09-28,female,Storm Falconer-Frankling,70.45,-42,-45,45,52,56,-60,45,56,101
+WWA Weightlifting Masters Competition,2013-09-28,female,Grace Morrison,68.65,35,37,40,52,55,58,40,58,98
+WWA Weightlifting Masters Competition,2013-09-28,female,Lisa Burgess,81.95,25,30,35,40,45,50,35,50,85
+WWA Weightlifting Masters Competition,2013-09-28,male,Adrian Frankling,92.65,75,-78,-78,-100,-100,-100,75,0,0

@@ -1,23 +1,23 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Zubin Weightlifting Open Competition,2018-12-22,female,Isabel Harrison Lorenzi,70.30,78,82,84,100,-105,-105,84,100,184,AUS
-Zubin Weightlifting Open Competition,2018-12-22,female,Linda Eades,79.82,41,45,-49,55,59,-62,45,59,104,AUS
-Zubin Weightlifting Open Competition,2018-12-22,female,Anneliese Mena,80.00,32,35,-38,42,45,48,35,48,83,AUS
-Zubin Weightlifting Open Competition,2018-12-22,female,Najat Khoury,137.20,60,65,68,90,95,-100,68,95,163,AUS
-Zubin Weightlifting Open Competition,2018-12-22,male,Nicholas Viet,58.20,-71,71,80,90,-91,-100,80,90,170,AUS
-Zubin Weightlifting Open Competition,2018-12-22,male,Lawrence D'Mello,61.12,37,41,-44,50,55,59,41,59,100,AUS
-Zubin Weightlifting Open Competition,2018-12-22,male,Gordon Fu,70.42,92,97,101,112,-117,-117,101,112,213,AUS
-Zubin Weightlifting Open Competition,2018-12-22,male,Alan Jessup,70.38,38,43,-47,62,-67,-67,43,62,105,AUS
-Zubin Weightlifting Open Competition,2018-12-22,male,Leo Manny,80.80,110,115,120,138,143,-146,120,143,263,AUS
-Zubin Weightlifting Open Competition,2018-12-22,male,Ricky Huang,75.40,-92,92,-100,-115,-115,115,92,115,207,AUS
-Zubin Weightlifting Open Competition,2018-12-22,male,Fabian Garcia,79.30,75,-80,80,-95,98,-102,80,98,178,AUS
-Zubin Weightlifting Open Competition,2018-12-22,male,Victor Wollny,79.40,-70,70,75,-90,-90,90,75,90,165,AUS
-Zubin Weightlifting Open Competition,2018-12-22,male,Shangwei Wang,73.10,30,34,38,47,50,54,38,54,92,AUS
-Zubin Weightlifting Open Competition,2018-12-22,male,Sunith Gupta,76.50,-65,-70,-70,,,,0,0,0,AUS
-Zubin Weightlifting Open Competition,2018-12-22,male,Mark Guanzon,78.40,105,-110,-110,-132,-136,-136,105,0,0,AUS
-Zubin Weightlifting Open Competition,2018-12-22,male,Kyle Bruce,83.76,-126,128,-132,158,165,,128,165,293,AUS
-Zubin Weightlifting Open Competition,2018-12-22,male,Luke Fulham,95.70,118,123,-127,152,158,-164,123,158,281,AUS
-Zubin Weightlifting Open Competition,2018-12-22,male,Peter Lieu,93.36,110,-115,-115,-135,137,-140,110,137,247,AUS
-Zubin Weightlifting Open Competition,2018-12-22,male,Sina Sobhanei,98.60,90,100,-105,120,130,-135,100,130,230,AUS
-Zubin Weightlifting Open Competition,2018-12-22,male,Edward Mandla,100.80,81,84,88,-104,104,-109,88,104,192,AUS
-Zubin Weightlifting Open Competition,2018-12-22,male,Mauricio Mena,114.60,75,80,-83,100,107,-110,80,107,187,AUS
-Zubin Weightlifting Open Competition,2018-12-22,male,Mohammad Abr Poosh,117.48,80,-85,-86,-90,95,100,80,100,180,AUS
+Zubin Weightlifting Open Competition,2018-12-22,female,Isabel Harrison Lorenzi,70.30,78,82,84,100,-105,-105,84,100,184
+Zubin Weightlifting Open Competition,2018-12-22,female,Linda Eades,79.82,41,45,-49,55,59,-62,45,59,104
+Zubin Weightlifting Open Competition,2018-12-22,female,Anneliese Mena,80.00,32,35,-38,42,45,48,35,48,83
+Zubin Weightlifting Open Competition,2018-12-22,female,Najat Khoury,137.20,60,65,68,90,95,-100,68,95,163
+Zubin Weightlifting Open Competition,2018-12-22,male,Nicholas Viet,58.20,-71,71,80,90,-91,-100,80,90,170
+Zubin Weightlifting Open Competition,2018-12-22,male,Lawrence D'Mello,61.12,37,41,-44,50,55,59,41,59,100
+Zubin Weightlifting Open Competition,2018-12-22,male,Gordon Fu,70.42,92,97,101,112,-117,-117,101,112,213
+Zubin Weightlifting Open Competition,2018-12-22,male,Alan Jessup,70.38,38,43,-47,62,-67,-67,43,62,105
+Zubin Weightlifting Open Competition,2018-12-22,male,Leo Manny,80.80,110,115,120,138,143,-146,120,143,263
+Zubin Weightlifting Open Competition,2018-12-22,male,Ricky Huang,75.40,-92,92,-100,-115,-115,115,92,115,207
+Zubin Weightlifting Open Competition,2018-12-22,male,Fabian Garcia,79.30,75,-80,80,-95,98,-102,80,98,178
+Zubin Weightlifting Open Competition,2018-12-22,male,Victor Wollny,79.40,-70,70,75,-90,-90,90,75,90,165
+Zubin Weightlifting Open Competition,2018-12-22,male,Shangwei Wang,73.10,30,34,38,47,50,54,38,54,92
+Zubin Weightlifting Open Competition,2018-12-22,male,Sunith Gupta,76.50,-65,-70,-70,0,0,0,0,0,0
+Zubin Weightlifting Open Competition,2018-12-22,male,Mark Guanzon,78.40,105,-110,-110,-132,-136,-136,105,0,0
+Zubin Weightlifting Open Competition,2018-12-22,male,Kyle Bruce,83.76,-126,128,-132,158,165,0,128,165,293
+Zubin Weightlifting Open Competition,2018-12-22,male,Luke Fulham,95.70,118,123,-127,152,158,-164,123,158,281
+Zubin Weightlifting Open Competition,2018-12-22,male,Peter Lieu,93.36,110,-115,-115,-135,137,-140,110,137,247
+Zubin Weightlifting Open Competition,2018-12-22,male,Sina Sobhanei,98.60,90,100,-105,120,130,-135,100,130,230
+Zubin Weightlifting Open Competition,2018-12-22,male,Edward Mandla,100.80,81,84,88,-104,104,-109,88,104,192
+Zubin Weightlifting Open Competition,2018-12-22,male,Mauricio Mena,114.60,75,80,-83,100,107,-110,80,107,187
+Zubin Weightlifting Open Competition,2018-12-22,male,Mohammad Abr Poosh,117.48,80,-85,-86,-90,95,100,80,100,180

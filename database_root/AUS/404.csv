@@ -1,7 +1,7 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Pacific Cup Tournament,2014-12-20,female,Tia-Clair Orr,57.20,64,68,71,86,-91,91,71,91,162,AUS
-Pacific Cup Tournament,2014-12-20,female,Jessica Lai,61.20,72,-76,-76,-86,-86,86,72,86,158,AUS
-Pacific Cup Tournament,2014-12-20,female,Camilla Fogagnolo,71.68,-81,81,85,101,106,-108,85,106,191,AUS
-Pacific Cup Tournament,2014-12-20,male,Hamish Adam,61.99,85,-92,-92,-110,110,-115,85,110,195,AUS
-Pacific Cup Tournament,2014-12-20,male,Frank Elliott,76.23,120,125,130,148,153,-158,130,153,283,AUS
-Pacific Cup Tournament,2014-12-20,male,Edward Maxwell,107.65,98,102,104,125,-130,-130,104,125,229,AUS
+Pacific Cup Tournament,2014-12-20,female,Tia-Clair Orr,57.20,64,68,71,86,-91,91,71,91,162
+Pacific Cup Tournament,2014-12-20,female,Jessica Lai,61.20,72,-76,-76,-86,-86,86,72,86,158
+Pacific Cup Tournament,2014-12-20,female,Camilla Fogagnolo,71.68,-81,81,85,101,106,-108,85,106,191
+Pacific Cup Tournament,2014-12-20,male,Hamish Adam,61.99,85,-92,-92,-110,110,-115,85,110,195
+Pacific Cup Tournament,2014-12-20,male,Frank Elliott,76.23,120,125,130,148,153,-158,130,153,283
+Pacific Cup Tournament,2014-12-20,male,Edward Maxwell,107.65,98,102,104,125,-130,-130,104,125,229

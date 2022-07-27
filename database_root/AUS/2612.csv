@@ -1,10 +1,10 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-NT Championships,2021-07-18,female,Sonja Kerr,57.00,46,48,50,68,70,72,50,72,122,AUS
-NT Championships,2021-07-18,female,Elise Lichos,57.34,35,38,42,45,-50,50,42,50,92,AUS
-NT Championships,2021-07-18,female,Samantha Ping-Nam,72.95,57,59,61,-77,77,-79,61,77,138,AUS
-NT Championships,2021-07-18,female,Kathryn Smith,107.65,52,54,55,69,71,73,55,73,128,AUS
-NT Championships,2021-07-18,male,Lincoln Hanson,72.25,80,-85,85,95,100,103,85,103,188,AUS
-NT Championships,2021-07-18,male,Jeremy Wong,88.70,-90,90,95,108,-116,-116,95,108,203,AUS
-NT Championships,2021-07-18,male,Carlos Gallo,84.40,40,45,50,60,65,-70,50,65,115,AUS
-NT Championships,2021-07-18,male,Sean Parkes,92.65,60,-63,63,65,70,75,63,75,138,AUS
-NT Championships,2021-07-18,male,Owen Griggs,99.90,63,66,68,75,78,80,68,80,148,AUS
+NT Championships,2021-07-18,female,Sonja Kerr,57.00,46,48,50,68,70,72,50,72,122
+NT Championships,2021-07-18,female,Elise Lichos,57.34,35,38,42,45,-50,50,42,50,92
+NT Championships,2021-07-18,female,Samantha Ping-Nam,72.95,57,59,61,-77,77,-79,61,77,138
+NT Championships,2021-07-18,female,Kathryn Smith,107.65,52,54,55,69,71,73,55,73,128
+NT Championships,2021-07-18,male,Lincoln Hanson,72.25,80,-85,85,95,100,103,85,103,188
+NT Championships,2021-07-18,male,Jeremy Wong,88.70,-90,90,95,108,-116,-116,95,108,203
+NT Championships,2021-07-18,male,Carlos Gallo,84.40,40,45,50,60,65,-70,50,65,115
+NT Championships,2021-07-18,male,Sean Parkes,92.65,60,-63,63,65,70,75,63,75,138
+NT Championships,2021-07-18,male,Owen Griggs,99.90,63,66,68,75,78,80,68,80,148

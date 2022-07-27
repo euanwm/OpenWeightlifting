@@ -1,8 +1,8 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-SAWLA 1st June Open,2021-06-19,female,Samantha Shen,44.80,50,-52,52,59,61,-65,52,61,113,AUS
-SAWLA 1st June Open,2021-06-19,female,Kiana Elliott,63.75,-90,90,95,105,110,,95,110,205,AUS
-SAWLA 1st June Open,2021-06-19,male,Nelson Nunes Junior,65.30,80,85,91,120,126,-133,91,126,217,AUS
-SAWLA 1st June Open,2021-06-19,male,Andrew Dodman,65.90,53,55,-58,70,75,80,55,80,135,AUS
-SAWLA 1st June Open,2021-06-19,male,Nicky Nguyen,79.90,96,-99,99,-120,125,-130,99,125,224,AUS
-SAWLA 1st June Open,2021-06-19,male,Kingston Tranvu,87.70,102,-107,-109,132,-139,-139,102,132,234,AUS
-SAWLA 1st June Open,2021-06-19,male,Frank Elliott,87.00,120,-124,-125,,,,120,0,0,AUS
+SAWLA 1st June Open,2021-06-19,female,Samantha Shen,44.80,50,-52,52,59,61,-65,52,61,113
+SAWLA 1st June Open,2021-06-19,female,Kiana Elliott,63.75,-90,90,95,105,110,0,95,110,205
+SAWLA 1st June Open,2021-06-19,male,Nelson Nunes Junior,65.30,80,85,91,120,126,-133,91,126,217
+SAWLA 1st June Open,2021-06-19,male,Andrew Dodman,65.90,53,55,-58,70,75,80,55,80,135
+SAWLA 1st June Open,2021-06-19,male,Nicky Nguyen,79.90,96,-99,99,-120,125,-130,99,125,224
+SAWLA 1st June Open,2021-06-19,male,Kingston Tranvu,87.70,102,-107,-109,132,-139,-139,102,132,234
+SAWLA 1st June Open,2021-06-19,male,Frank Elliott,87.00,120,-124,-125,0,0,0,120,0,0

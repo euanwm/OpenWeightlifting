@@ -1,7 +1,7 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-IWF World Junior Championships,2015-06-06,female,Hailee Jarrett,47.82,-54,54,-57,-70,-70,-70,54,0,0,AUS
-IWF World Junior Championships,2015-06-06,female,Kiana Elliott,62.68,83,-86,86,99,101,103,86,103,189,AUS
-IWF World Junior Championships,2015-06-06,female,Rachel Goodman,62.58,73,-77,77,95,-99,-99,77,95,172,AUS
-IWF World Junior Championships,2015-06-06,male,James Norman,68.22,94,100,103,127,131,135,103,135,238,AUS
-IWF World Junior Championships,2015-06-06,male,Aydan McMahon,68.54,100,-105,-105,126,-131,-131,100,126,226,AUS
-IWF World Junior Championships,2015-06-06,male,Leo Lark,75.28,110,115,-117,140,149,-154,115,149,264,AUS
+IWF World Junior Championships,2015-06-06,female,Hailee Jarrett,47.82,-54,54,-57,-70,-70,-70,54,0,0
+IWF World Junior Championships,2015-06-06,female,Kiana Elliott,62.68,83,-86,86,99,101,103,86,103,189
+IWF World Junior Championships,2015-06-06,female,Rachel Goodman,62.58,73,-77,77,95,-99,-99,77,95,172
+IWF World Junior Championships,2015-06-06,male,James Norman,68.22,94,100,103,127,131,135,103,135,238
+IWF World Junior Championships,2015-06-06,male,Aydan McMahon,68.54,100,-105,-105,126,-131,-131,100,126,226
+IWF World Junior Championships,2015-06-06,male,Leo Lark,75.28,110,115,-117,140,149,-154,115,149,264

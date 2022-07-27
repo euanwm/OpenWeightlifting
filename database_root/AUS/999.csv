@@ -1,9 +1,9 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-WAT Club Competition,2016-03-19,female,Stephanie Pickrell,46.15,-35,35,37,52,55,-58,37,55,92,AUS
-WAT Club Competition,2016-03-19,female,Tamara Coleman,58.00,-49,49,52,68,72,-74,52,72,124,AUS
-WAT Club Competition,2016-03-19,female,Millie Cripps,69.45,47,50,53,65,70,75,53,75,128,AUS
-WAT Club Competition,2016-03-19,female,Jan Montesinos,51.15,16,17,18,19,20,21,18,21,39,AUS
-WAT Club Competition,2016-03-19,male,Charles Price,72.65,67,-70,73,85,90,95,73,95,168,AUS
-WAT Club Competition,2016-03-19,male,Lincoln Bowman,84.05,-77,-77,-77,-105,,,0,0,0,AUS
-WAT Club Competition,2016-03-19,male,Ryan Harley,98.70,68,71,74,95,100,103,74,103,177,AUS
-WAT Club Competition,2016-03-19,male,Mick Burton,96.10,75,-78,78,105,109,-113,78,109,187,AUS
+WAT Club Competition,2016-03-19,female,Stephanie Pickrell,46.15,-35,35,37,52,55,-58,37,55,92
+WAT Club Competition,2016-03-19,female,Tamara Coleman,58.00,-49,49,52,68,72,-74,52,72,124
+WAT Club Competition,2016-03-19,female,Millie Cripps,69.45,47,50,53,65,70,75,53,75,128
+WAT Club Competition,2016-03-19,female,Jan Montesinos,51.15,16,17,18,19,20,21,18,21,39
+WAT Club Competition,2016-03-19,male,Charles Price,72.65,67,-70,73,85,90,95,73,95,168
+WAT Club Competition,2016-03-19,male,Lincoln Bowman,84.05,-77,-77,-77,-105,0,0,0,0,0
+WAT Club Competition,2016-03-19,male,Ryan Harley,98.70,68,71,74,95,100,103,74,103,177
+WAT Club Competition,2016-03-19,male,Mick Burton,96.10,75,-78,78,105,109,-113,78,109,187

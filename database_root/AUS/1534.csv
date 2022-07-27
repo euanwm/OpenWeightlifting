@@ -1,21 +1,21 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-NTWA Open/Masters Competition,2017-12-03,female,Alannah Orr,35.38,10,11,12,10,12,14,12,14,26,AUS
-NTWA Open/Masters Competition,2017-12-03,female,Jacinta Sherwell,55.82,17,19,21,25,28,30,21,30,51,AUS
-NTWA Open/Masters Competition,2017-12-03,female,Mickayla Perkins,58.10,-40,45,-47,55,-60,60,45,60,105,AUS
-NTWA Open/Masters Competition,2017-12-03,female,Kelly Giblin,61.10,42,45,47,62,64,66,47,66,113,AUS
-NTWA Open/Masters Competition,2017-12-03,female,Catherine Robinson,66.05,50,54,56,55,-60,60,56,60,116,AUS
-NTWA Open/Masters Competition,2017-12-03,female,Kaitlyn Straube,63.80,15,19,22,18,22,26,22,26,48,AUS
-NTWA Open/Masters Competition,2017-12-03,female,Alexandra Hogan,77.95,40,-43,45,45,48,50,45,50,95,AUS
-NTWA Open/Masters Competition,2017-12-03,female,Leah Chandler,90.40,38,40,42,45,50,-56,42,50,92,AUS
-NTWA Open/Masters Competition,2017-12-03,male,Ryan Straube,38.90,15,18,20,18,22,24,20,24,44,AUS
-NTWA Open/Masters Competition,2017-12-03,male,Will Chandler,34.70,11,13,-15,13,15,17,13,17,30,AUS
-NTWA Open/Masters Competition,2017-12-03,male,Joseph De Luca,37.38,10,11,12,10,12,14,12,14,26,AUS
-NTWA Open/Masters Competition,2017-12-03,male,Ian Orr,60.15,25,28,32,35,40,43,32,43,75,AUS
-NTWA Open/Masters Competition,2017-12-03,male,Kyle Odonoghue Ellis,58.62,23,27,30,25,29,33,30,33,63,AUS
-NTWA Open/Masters Competition,2017-12-03,male,Lachlan Boyle,63.70,35,38,40,45,47,-50,40,47,87,AUS
-NTWA Open/Masters Competition,2017-12-03,male,Keiryn Orr,65.50,18,22,26,22,26,30,26,30,56,AUS
-NTWA Open/Masters Competition,2017-12-03,male,Conan Franks,92.40,50,60,-70,75,90,100,60,100,160,AUS
-NTWA Open/Masters Competition,2017-12-03,male,Manfred Mletsin,85.10,58,60,62,78,-80,80,62,80,142,AUS
-NTWA Open/Masters Competition,2017-12-03,male,Simon Myers,94.50,95,100,-103,125,129,-132,100,129,229,AUS
-NTWA Open/Masters Competition,2017-12-03,male,Tai Bahar,96.85,95,100,107,120,125,-131,107,125,232,AUS
-NTWA Open/Masters Competition,2017-12-03,male,Daniel Robinson,101.15,75,81,-87,95,105,-110,81,105,186,AUS
+NTWA Open/Masters Competition,2017-12-03,female,Alannah Orr,35.38,10,11,12,10,12,14,12,14,26
+NTWA Open/Masters Competition,2017-12-03,female,Jacinta Sherwell,55.82,17,19,21,25,28,30,21,30,51
+NTWA Open/Masters Competition,2017-12-03,female,Mickayla Perkins,58.10,-40,45,-47,55,-60,60,45,60,105
+NTWA Open/Masters Competition,2017-12-03,female,Kelly Giblin,61.10,42,45,47,62,64,66,47,66,113
+NTWA Open/Masters Competition,2017-12-03,female,Catherine Robinson,66.05,50,54,56,55,-60,60,56,60,116
+NTWA Open/Masters Competition,2017-12-03,female,Kaitlyn Straube,63.80,15,19,22,18,22,26,22,26,48
+NTWA Open/Masters Competition,2017-12-03,female,Alexandra Hogan,77.95,40,-43,45,45,48,50,45,50,95
+NTWA Open/Masters Competition,2017-12-03,female,Leah Chandler,90.40,38,40,42,45,50,-56,42,50,92
+NTWA Open/Masters Competition,2017-12-03,male,Ryan Straube,38.90,15,18,20,18,22,24,20,24,44
+NTWA Open/Masters Competition,2017-12-03,male,Will Chandler,34.70,11,13,-15,13,15,17,13,17,30
+NTWA Open/Masters Competition,2017-12-03,male,Joseph De Luca,37.38,10,11,12,10,12,14,12,14,26
+NTWA Open/Masters Competition,2017-12-03,male,Ian Orr,60.15,25,28,32,35,40,43,32,43,75
+NTWA Open/Masters Competition,2017-12-03,male,Kyle Odonoghue Ellis,58.62,23,27,30,25,29,33,30,33,63
+NTWA Open/Masters Competition,2017-12-03,male,Lachlan Boyle,63.70,35,38,40,45,47,-50,40,47,87
+NTWA Open/Masters Competition,2017-12-03,male,Keiryn Orr,65.50,18,22,26,22,26,30,26,30,56
+NTWA Open/Masters Competition,2017-12-03,male,Conan Franks,92.40,50,60,-70,75,90,100,60,100,160
+NTWA Open/Masters Competition,2017-12-03,male,Manfred Mletsin,85.10,58,60,62,78,-80,80,62,80,142
+NTWA Open/Masters Competition,2017-12-03,male,Simon Myers,94.50,95,100,-103,125,129,-132,100,129,229
+NTWA Open/Masters Competition,2017-12-03,male,Tai Bahar,96.85,95,100,107,120,125,-131,107,125,232
+NTWA Open/Masters Competition,2017-12-03,male,Daniel Robinson,101.15,75,81,-87,95,105,-110,81,105,186

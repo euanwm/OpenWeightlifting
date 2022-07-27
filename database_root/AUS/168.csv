@@ -1,7 +1,7 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Triumph Club Competition,2012-07-06,female,Jessica Barkhan,45.00,,,,,,,29,35,64,AUS
-Triumph Club Competition,2012-07-06,male,J B,61.80,,,,,,,50,45,95,AUS
-Triumph Club Competition,2012-07-06,male,Luke Robinson,65.40,,,,,,,57,70,127,AUS
-Triumph Club Competition,2012-07-06,male,Tom Davison,82.00,,,,,,,93,120,213,AUS
-Triumph Club Competition,2012-07-06,male,Deian Cousins,84.20,,,,,,,90,100,190,AUS
-Triumph Club Competition,2012-07-06,male,Edward Maxwell,83.00,,,,,,,53,60,113,AUS
+Triumph Club Competition,2012-07-06,female,Jessica Barkhan,45.00,0,0,0,0,0,0,29,35,64
+Triumph Club Competition,2012-07-06,male,J B,61.80,0,0,0,0,0,0,50,45,95
+Triumph Club Competition,2012-07-06,male,Luke Robinson,65.40,0,0,0,0,0,0,57,70,127
+Triumph Club Competition,2012-07-06,male,Tom Davison,82.00,0,0,0,0,0,0,93,120,213
+Triumph Club Competition,2012-07-06,male,Deian Cousins,84.20,0,0,0,0,0,0,90,100,190
+Triumph Club Competition,2012-07-06,male,Edward Maxwell,83.00,0,0,0,0,0,0,53,60,113
