@@ -1,10 +1,12 @@
 """main flask page shit"""
 from enum import Enum
-from flask import Flask, request, jsonify, render_template
-from database_handler.api_machine import GoRESTYourself
+from flask import Flask, request, jsonify
+from flask_cors import CORS
+from backend.api_machine import GoRESTYourself
 
 app = Flask(__name__)
 api_function = GoRESTYourself()
+CORS(app, resources={r"/api/*": {"origins": "*"}})
 
 
 class HTTP(str, Enum):
@@ -17,10 +19,10 @@ class HTTP(str, Enum):
     OPTION = "OPTION"
 
 
-@app.route("/", methods=[HTTP.GET])
-def index():
-    """landing page"""
-    return render_template('index.html')
+@app.route("/api/top100", methods=[HTTP.GET])
+def default_top100():
+    """bog standard shit"""
+    return jsonify(api_function.lifter_totals())
 
 
 @app.route("/api/lifter", methods=[HTTP.POST])

@@ -167,4 +167,4 @@ if __name__ == '__main__':
     # queerer.sort_by_total('female')
     # queerer.sort_by_total('male')
     # queerer.sort_by_ratio("female")
-    queerer.create_lifter_index()
+    #queerer.create_lifter_index()

@@ -23,7 +23,7 @@ class DatabaseEntry:
     best_snatch: Any
     best_cj: Any
     total: int
-    filepath: Any
+    country: Any
 
 
 @dataclass
