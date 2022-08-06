@@ -12,7 +12,7 @@ class GoRESTYourself:
 
     def __init__(self):
         self.query_root = QueryThis.query_folder
-        self.lifter_index = load_csv_as_list(join(self.query_root, "lifter_names.csv"))
+        self.lifter_index = load_csv_as_list(join(self.query_root, "lifter_index.csv"))
         self.db_root = QueryThis.results_root  # meh
 
     def lifter_totals(self, gender="male", start=0, stop=100) -> Union[list[Dict], Dict]:
