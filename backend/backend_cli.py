@@ -40,6 +40,7 @@ class CLICommands:
         query_handler.create_gender_dbs()
         query_handler.sort_by_total('male')
         query_handler.sort_by_total('female')
+        query_handler.create_comp_reference_index()
 
 
 if __name__ == '__main__':

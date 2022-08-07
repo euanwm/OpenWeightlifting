@@ -97,10 +97,25 @@ class QueryThis:
         write_to_csv(self.query_folder, "female", female_results)
         write_to_csv(self.query_folder, "unknown", unknown_results)
 
+    def create_comp_reference_index(self):
+        """creates a reference index with comp name, country, and filename"""
+        listy = []
+        for country in os.listdir(self.results_root):
+            for result in os.listdir((os.path.join(self.results_root, country))):
+                loaded_results = load_result_csv_as_list(os.path.join(self.results_root, country, result))
+                try:
+                    append_this = [loaded_results[0][0], country, result]
+                    listy.append(append_this)
+                except IndexError:
+                    print(loaded_results)
+        write_to_csv(self.query_folder, "comp_index", listy)
+
+
 
 if __name__ == '__main__':
     queerer = QueryThis()
     # queerer.create_gender_dbs()
     # queerer.create_lifter_index()
-    queerer.sort_by_total('male')
-    queerer.sort_by_total('female')
+    # queerer.sort_by_total('male')
+    # queerer.sort_by_total('female')
+    queerer.create_comp_reference_index()
