@@ -1,0 +1,63 @@
+meet,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+2022-TN State Championship,2022-07-23,Open Men's +109kg,Charles Sweeton,139.75,130,135,-138,-146,146,-147,135,146,281
+2022-TN State Championship,2022-07-23,Open Men's 109kg,William Cooper Jr,106.4,102,111,120,-138,138,152,120,152,272
+2022-TN State Championship,2022-07-23,Open Men's 109kg,Cade Guest,107.65,-115,-120,120,145,-150,-150,120,145,265
+2022-TN State Championship,2022-07-23,Open Men's +109kg,Matthew Rippey,125.3,115,-120,-120,145,-146,-146,115,145,260
+2022-TN State Championship,2022-07-23,Men's Masters (35-39) 96kg,Cardario Jackson,94.45,-108,108,114,-136,138,141,114,141,255
+2022-TN State Championship,2022-07-23,Open Men's 96kg,Ryan Claudy Flood,95.7,110,115,-120,-140,-140,140,115,140,255
+2022-TN State Championship,2022-07-23,Open Men's 81kg,Ricardo Hernandez-Guerrero,79.8,105,111,-116,135,-143,-145,111,135,246
+2022-TN State Championship,2022-07-23,Open Men's 89kg,Brandon Avery,87.45,105,-110,-112,135,-141,-141,105,135,240
+2022-TN State Championship,2022-07-23,Men's Masters (35-39) 96kg,David Wood,94.3,95,100,105,125,130,135,105,135,240
+2022-TN State Championship,2022-07-23,Open Men's 96kg,Timothy Dunnavant,95.2,105,110,-115,-130,130,-134,110,130,240
+2022-TN State Championship,2022-07-23,Open Men's 96kg,Andrew Escoffier,91.4,97,103,-108,-128,131,-137,103,131,234
+2022-TN State Championship,2022-07-23,Junior Men's 89kg,Sawyer Bouton,84.9,105,108,-113,125,-132,-132,108,125,233
+2022-TN State Championship,2022-07-23,Junior Men's 81kg,Casey Freemon,81,-93,-95,95,125,130,138,95,138,233
+2022-TN State Championship,2022-07-23,Open Men's 96kg,Jordan Holland,93.4,105,112,-116,120,-125,-125,112,120,232
+2022-TN State Championship,2022-07-23,Open Men's 81kg,David Head,76.45,95,100,-104,115,120,125,100,125,225
+2022-TN State Championship,2022-07-23,Open Men's 89kg,Matt Rosen,87.8,95,98,102,114,-117,117,102,117,219
+2022-TN State Championship,2022-07-23,Open Men's 81kg,Will McComiskey,80.85,90,96,-102,110,115,120,96,120,216
+2022-TN State Championship,2022-07-23,Junior Men's 73kg,Connor Callaway,70.9,87,-90,90,113,116,120,90,120,210
+2022-TN State Championship,2022-07-23,Men's 16-17 Age Group +102kg,Jacob Birdyshaw,107.9,88,93,98,100,-106,110,98,110,208
+2022-TN State Championship,2022-07-23,Men's Masters (40-44) 89kg,Josué Gerardo Neal Rodriguez,87.5,80,-85,85,116,121,-124,85,121,206
+2022-TN State Championship,2022-07-23,Men's Masters (35-39) 89kg,Eric Jackson,82.4,-90,-90,95,110,-115,-115,95,110,205
+2022-TN State Championship,2022-07-23,Open Men's 73kg,Brian Lee,72.65,85,-88,-88,-111,111,116,85,116,201
+2022-TN State Championship,2022-07-23,Men's Masters (45-49) 96kg,Scott Tinsley,94.35,80,84,87,-107,107,110,87,110,197
+2022-TN State Championship,2022-07-23,Open Men's 96kg,Stephen Lockett,95.5,-85,85,-91,110,-115,-115,85,110,195
+2022-TN State Championship,2022-07-23,Junior Men's 102kg,Thomas Freemon,97.9,80,-84,84,106,111,-116,84,111,195
+2022-TN State Championship,2022-07-23,Junior Men's 61kg,Elias Gerstein,60.5,75,-80,82,100,-105,-105,82,100,182
+2022-TN State Championship,2022-07-23,Men's Masters (45-49) 96kg,Joshua Johnson,93.2,73,77,-81,94,101,105,77,105,182
+2022-TN State Championship,2022-07-23,Women's Masters (40-44) 76kg,Rebecca Brown,75.85,73,76,79,95,98,-101,79,98,177
+2022-TN State Championship,2022-07-23,Open Men's 96kg,Anthony Zamora,93.85,65,70,75,90,-96,96,75,96,171
+2022-TN State Championship,2022-07-23,Junior Men's 96kg,Leo Mackey,91.2,70,-75,-80,90,95,-105,70,95,165
+2022-TN State Championship,2022-07-23,Men's Masters (35-39) 109kg,Nicholas Hamby,106.85,64,-66,66,84,88,94,66,94,160
+2022-TN State Championship,2022-07-23,Men's 16-17 Age Group 73kg,Christopher Mitchell ,69,60,65,70,75,80,87,70,87,157
+2022-TN State Championship,2022-07-23,Men's Masters (45-49) 89kg,Mike Osborn,84.8,65,-70,-71,91,-96,-97,65,91,156
+2022-TN State Championship,2022-07-23,Open Women's 81kg,Courtney Adkins,79.75,-64,65,-71,84,88,89,65,89,154
+2022-TN State Championship,2022-07-23,Open Women's 64kg,Brittany Steward,62.5,-70,-71,72,82,-83,-86,72,82,154
+2022-TN State Championship,2022-07-23,Junior Women's 76kg,Sabrina Oostburg,73.15,56,59,61,80,83,-86,61,83,144
+2022-TN State Championship,2022-07-23,Junior Women's +87kg,Addilyn Campbell,115.2,-57,57,-61,77,81,84,57,84,141
+2022-TN State Championship,2022-07-23,Open Women's 81kg,Georgia Land,77.3,55,59,63,73,-77,78,63,78,141
+2022-TN State Championship,2022-07-23,Women's Masters (35-39) 64kg,Carly Lemmond,63.55,56,59,61,76,-79,79,61,79,140
+2022-TN State Championship,2022-07-23,Women's Masters (35-39) 64kg,Jillian Wagner-Green,62.1,-59,-60,63,74,-76,76,63,76,139
+2022-TN State Championship,2022-07-23,Open Women's 87kg,Lindsey Major,84.95,53,55,57,74,77,-80,57,77,134
+2022-TN State Championship,2022-07-23,Women's Masters (35-39) 71kg,Susanne Kessler,69.4,-55,58,60,70,71,73,60,73,133
+2022-TN State Championship,2022-07-23,Men's 14-15 Age Group 89kg,Colby Brown,87.3,50,54,58,64,69,74,58,74,132
+2022-TN State Championship,2022-07-23,Men's Masters (50-54) 102kg,Billy Jennings Jr,99.3,57,60,-63,66,69,72,60,72,132
+2022-TN State Championship,2022-07-23,Junior Women's 81kg,Katelyn Murray,79.05,55,-60,-60,70,75,-80,55,75,130
+2022-TN State Championship,2022-07-23,Women's Masters (45-49) 71kg,Anastasia Bakhareva,68.75,53,56,-59,68,72,-75,56,72,128
+2022-TN State Championship,2022-07-23,Women's Masters (40-44) 64kg,Aubrey Hutchinson,61.75,53,-57,57,62,67,-70,57,67,124
+2022-TN State Championship,2022-07-23,Women's Masters (40-44) 59kg,Jeanette Orr,56.5,50,53,-55,65,68,70,53,70,123
+2022-TN State Championship,2022-07-23,Men's 14-15 Age Group +89kg,TYLER NIEDERGESES,104.1,48,52,-57,60,65,70,52,70,122
+2022-TN State Championship,2022-07-23,Open Women's 76kg,Rebecca Davis,75.75,52,54,56,65,66,-68,56,66,122
+2022-TN State Championship,2022-07-23,Open Women's 64kg,Brittany Rhodenbaugh,63.5,53,-55,-55,62,65,67,53,67,120
+2022-TN State Championship,2022-07-23,Junior Women's 71kg,Raven Chance,65.8,52,-56,-56,60,-64,-65,52,60,112
+2022-TN State Championship,2022-07-23,Open Men's 81kg,David McCaffery,79.25,-75,-80,-85,-105,107,112,0,112,112
+2022-TN State Championship,2022-07-23,Open Women's 71kg,Alexandra Wilson,68,42,45,48,53,-57,58,48,58,106
+2022-TN State Championship,2022-07-23,Women's 16-17 Age Group 81kg,Paige Lawson,78.5,44,47,50,-53,-55,55,50,55,105
+2022-TN State Championship,2022-07-23,Women's Masters (45-49) +87kg,Jenny Lutkins,115.2,37,40,42,50,53,55,42,55,97
+2022-TN State Championship,2022-07-23,Women's Masters (40-44) 71kg,Kristin Weeks,69.8,35,37,-40,45,-48,48,37,48,85
+2022-TN State Championship,2022-07-23,Women's 14-15 Age Group 64kg,Mallory  Calfee,63.25,27,31,35,40,-45,45,35,45,80
+2022-TN State Championship,2022-07-23,Women's 16-17 Age Group 59kg,Kylie Reeves,57.3,30,-33,-35,40,-43,-43,30,40,70
+2022-TN State Championship,2022-07-23,Men's Masters (80+) 73kg,Robert Southerlan,73,30,31,32,33,34,35,32,35,67
+2022-TN State Championship,2022-07-23,Women's 14-15 Age Group 49kg,Taylor Neal,48.2,15,17,19,24,25,26,19,26,45
+2022-TN State Championship,2022-07-23,Women's 13 Under Age Group 30kg,Rayya Howard,18,10,12,14,16,17,-18,14,17,31

@@ -4,9 +4,7 @@ from csv import reader
 from os.path import join
 from typing import Union, Dict
 
-from database_handler.query_machine import QueryThis
-from database_handler.result_dataclasses import DatabaseEntry
-from database_handler.static_helpers import load_csv_as_list, results_to_dict
+from database_handler import QueryThis, DatabaseEntry, load_csv_as_list, results_to_dict
 
 
 class GoRESTYourself:
@@ -14,7 +12,7 @@ class GoRESTYourself:
 
     def __init__(self):
         self.query_root = QueryThis.query_folder
-        self.lifter_index = load_csv_as_list(join(self.query_root, "lifter_names.csv"))
+        self.lifter_index = load_csv_as_list(join(self.query_root, "lifter_index.csv"))
         self.db_root = QueryThis.results_root  # meh
 
     def lifter_totals(self, gender="male", start=0, stop=100) -> Union[list[Dict], Dict]:
@@ -63,7 +61,7 @@ class GoRESTYourself:
 
 if __name__ == '__main__':
     api = GoRESTYourself()
-    res = api.lifter_totals()
-    print(res)
-    #print(api.lifter_suggest("jaswant"))
+    #res = api.lifter_totals()
+    #print(res)
+    print(api.lifter_suggest("michael farmer"))
     #api.lifter_lookup({'name': 'euan meston', 'gender': 'male', 'country': 'UK'})

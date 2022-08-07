@@ -1,0 +1,4 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+SAWLA July Club Open,2022-07-09,female,Annie Huynh,48.00,43,-45,-45,-52,-52,-52,43,0,0
+SAWLA July Club Open,2022-07-09,male,James Wallace,65.00,-82,-82,82,95,100,105,82,105,187
+SAWLA July Club Open,2022-07-09,male,Amin Ariaee,95.50,100,105,108,110,117,120,108,120,228

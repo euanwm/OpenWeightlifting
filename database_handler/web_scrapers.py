@@ -1,11 +1,12 @@
 """Non-sport80 scraping APIs"""
+import os
 from typing import Union
 
 import requests
 from urllib.parse import urljoin
 from bs4 import BeautifulSoup
 from re import search
-from static_helpers import write_to_csv
+from database_handler.static_helpers import write_to_csv
 
 
 def pull_tables(page_content, id=None) -> Union[list[BeautifulSoup], BeautifulSoup]:
@@ -125,6 +126,13 @@ def assign_gender(big_list: list[list]) -> list[list]:
     return big_list
 
 
+def highest_csv_id(db_folder: list) -> int:
+    """grabs the highest numbered csv"""
+    dropped_type = [int(x[:-4]) for x in db_folder]
+    dropped_type.sort(reverse=True)
+    return dropped_type[0]
+
+
 class AustraliaWeightlifting:
     """API class for AWF"""
 
@@ -159,17 +167,14 @@ class AustraliaWeightlifting:
         gendered_results.insert(0, final_header)
         return gendered_results
 
-
-def backdate_results(start_id, final_id):
-    """meh"""
-    awf = AustraliaWeightlifting()
-    root_dir = "database_root/AUS"
-    for id_int in range(start_id, final_id):
-        try:
-            write_to_csv(root_dir, id_int, awf.get_event(id_int))
-        except AttributeError:
-            print(f"no result under event: {id_int}..")
-
-
-if __name__ == '__main__':
-    backdate_results(2798, 3000)
+    def update_db(self, step=30):
+        """meh"""
+        root_dir = "database_root/AUS"
+        print(f"updating {root_dir.split('/')[1]} database...")
+        dir_contents = os.listdir(root_dir)
+        last_id = highest_csv_id(dir_contents) + 1  # stops writing over the last/highest csv in the directory
+        for id_int in range(last_id, last_id + step):
+            try:
+                write_to_csv(root_dir, id_int, self.get_event(id_int))
+            except AttributeError:
+                print(f"no result under event: {id_int}..")

@@ -37,6 +37,7 @@ class DBHandler:
 
     def update_results(self, year: int = 2022):
         """Yep"""
+        print(f"updating {self.base_dir.split('/')[1]} database...")
         current_dir = os.listdir(self.base_dir)
         new_funcs = SportEighty(self.url, return_dict=False)
         e_index = new_funcs.event_index(year)
