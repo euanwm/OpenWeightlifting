@@ -5,6 +5,7 @@ from datetime import datetime
 
 from database_handler import DBHandler
 from database_handler import AustraliaWeightlifting
+from database_handler import QueryThis
 
 
 class CLICommands:
@@ -32,9 +33,13 @@ class CLICommands:
             case _:
                 sys.exit(f"database not found: {db_name}")
 
-
     def refresh_cache(self):
         """refreshes the query cache"""
+        query_handler = QueryThis()
+        query_handler.create_lifter_index()
+        query_handler.create_gender_dbs()
+        query_handler.sort_by_total('male')
+        query_handler.sort_by_total('female')
 
 
 if __name__ == '__main__':
@@ -45,5 +50,6 @@ if __name__ == '__main__':
             commands.update(argv[2])
         case "--refresh":
             print("refreshing...")
+            commands.refresh_cache()
         case _:
             print("not a command")

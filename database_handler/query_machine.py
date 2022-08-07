@@ -1,11 +1,8 @@
 """ As queries become more complex this will store and update them to speed up responses """
 import os
 import json
-import csv
-from time import perf_counter
 
-from database_handler.result_dataclasses import Result, DatabaseEntry
-from database_handler.static_helpers import load_result_csv_as_list, append_to_csv, load_csv_as_list, write_to_csv
+from database_handler.static_helpers import load_result_csv_as_list, load_csv_as_list, write_to_csv
 
 
 class QueryThis:
@@ -100,8 +97,10 @@ class QueryThis:
         write_to_csv(self.query_folder, "female", female_results)
         write_to_csv(self.query_folder, "unknown", unknown_results)
 
+
 if __name__ == '__main__':
     queerer = QueryThis()
-    #queerer.create_gender_dbs()
-    #queerer.create_lifter_index()
-    #queerer.sort_by_total('male')
+    # queerer.create_gender_dbs()
+    # queerer.create_lifter_index()
+    queerer.sort_by_total('male')
+    queerer.sort_by_total('female')
