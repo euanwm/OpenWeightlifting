@@ -1,7 +1,6 @@
-version: '3.5'
+version: '3.7'
 
 services:
-
   flask-api:
     container_name: app-app
     restart: always
