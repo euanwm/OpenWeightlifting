@@ -3,9 +3,9 @@ import sys
 from sys import argv
 from datetime import datetime
 
-from database_handler import DBHandler
-from database_handler import AustraliaWeightlifting
-from database_handler import QueryThis
+from backend.database_handler import DBHandler
+from backend.database_handler import AustraliaWeightlifting
+from backend.database_handler import QueryThis
 
 
 class CLICommands:

@@ -6,7 +6,7 @@ import requests
 from urllib.parse import urljoin
 from bs4 import BeautifulSoup
 from re import search
-from database_handler.static_helpers import write_to_csv
+from .static_helpers import write_to_csv
 
 
 def pull_tables(page_content, id=None) -> Union[list[BeautifulSoup], BeautifulSoup]:

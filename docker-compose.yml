@@ -1,0 +1,34 @@
+version: '3.7'
+
+services:
+  flask-api:
+    container_name: app-app
+    restart: always
+    build:
+      context: ./backend/
+      dockerfile: Dockerfile
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./backend:/usr/src/app
+    environment:
+      - FLASK_ENV=development
+      - FLASK_APP=backend_main.py
+      - 'RUN=flask run --host=0.0.0.0 --port=5000'
+    command: flask run --host=0.0.0.0 --port=5000
+
+  client:
+    container_name: react-app
+    build:
+      context: ./client
+      dockerfile: Dockerfile
+    volumes:
+      - './client:/usr/src/app'
+      - '/usr/src/app/node_modules'
+    ports:
+      - '3000:3000'
+    depends_on:
+      - "flask-api"
+    environment:
+      - NODE_ENV=development
+      - CHOKIDAR_USEPOLLING=true
