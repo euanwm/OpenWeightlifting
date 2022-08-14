@@ -2,7 +2,7 @@
 import os
 import json
 
-from database_handler.static_helpers import load_result_csv_as_list, load_csv_as_list, write_to_csv
+from .static_helpers import load_result_csv_as_list, load_csv_as_list, write_to_csv
 
 
 class QueryThis:

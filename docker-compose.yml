@@ -27,4 +27,4 @@ services:
     environment:
       - NODE_ENV=development
       - CHOKIDAR_USEPOLLING=true
-      - HOST_URL=http://192.168.99.100:5000
+      - HOST_URL=http://127.0.0.1:5000

@@ -4,7 +4,8 @@ from csv import reader
 from os.path import join
 from typing import Union, Dict
 
-from database_handler import QueryThis, DatabaseEntry, load_csv_as_list, results_to_dict
+from database_handler import QueryThis, DatabaseEntry
+from database_handler.static_helpers import load_csv_as_list, results_to_dict
 
 
 class GoRESTYourself:

@@ -2,7 +2,7 @@
 from enum import Enum
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-from backend.api_machine import GoRESTYourself
+from api_machine import GoRESTYourself
 
 app = Flask(__name__)
 api_function = GoRESTYourself()
@@ -18,6 +18,10 @@ class HTTP(str, Enum):
     PATCH = "PATCH"
     OPTION = "OPTION"
 
+@app.route("/", methods=[HTTP.GET])
+def index():
+    """standard shit"""
+    return {"nothing to see here": None}
 
 @app.route("/api/top100", methods=[HTTP.GET])
 def default_top100():

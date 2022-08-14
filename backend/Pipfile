@@ -6,7 +6,6 @@ name = "pypi"
 [packages]
 uvicorn = "*"
 sport80 = "*"
-pandas = "*"
 flask = "*"
 flask-cors = "*"
 
