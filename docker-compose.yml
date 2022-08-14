@@ -11,6 +11,11 @@ services:
       - "5000:5000"
     volumes:
       - ./backend:/usr/src/app
+    environment:
+      - FLASK_ENV=development
+      - FLASK_APP=backend_main.py
+      - 'RUN=flask run --host=0.0.0.0 --port=5000'
+    command: flask run --host=0.0.0.0 --port=5000
 
   client:
     container_name: react-app
@@ -27,4 +32,3 @@ services:
     environment:
       - NODE_ENV=development
       - CHOKIDAR_USEPOLLING=true
-      - HOST_URL=http://127.0.0.1:3000

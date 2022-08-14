@@ -18,10 +18,6 @@ class HTTP(str, Enum):
     PATCH = "PATCH"
     OPTION = "OPTION"
 
-@app.route("/", methods=[HTTP.GET])
-def index():
-    """standard shit"""
-    return {"nothing to see here": None}
 
 @app.route("/api/top100", methods=[HTTP.GET])
 def default_top100():
@@ -42,4 +38,5 @@ def api_search_lifters(name):
 
 
 if __name__ == '__main__':
-    app.run()
+    app.run(host="0.0.0.0",
+            port=5000)
