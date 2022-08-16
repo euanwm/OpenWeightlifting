@@ -8,7 +8,7 @@ const AxiosPost = () => {
   useEffect(() => {
     const fetchPostList = async () => {
       const { data } = await axios(
-        "http://localhost:5000/api/top100"
+        "http://localhost:5000/api/leaderboard"
       );
       setPosts({ blogs: data });
       console.log(data);
