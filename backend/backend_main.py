@@ -19,10 +19,25 @@ class HTTP(str, Enum):
     OPTION = "OPTION"
 
 
-@app.route("/api/top100", methods=[HTTP.GET])
-def default_top100():
-    """bog standard shit"""
-    return jsonify(api_function.lifter_totals())
+@app.route("/api/leaderboard", methods=[HTTP.GET, HTTP.POST])
+def api_leaderboard():
+    """Pulls the gendered leaderboards
+
+    Example:
+        GET -> resorts to default response which is male, 0 -> 99.
+
+        POST -> payload should look like this -> {"gender: "male", "start": 100, "stop": 200}.
+        The payload can be pure JSON with all double quotes or as explicit integers. It'll catch it.
+    """
+    match request.method:
+        case HTTP.GET:
+            return jsonify(api_function.lifter_totals())
+        case HTTP.POST:
+            try:
+                gender, start, stop = request.json['gender'], request.json['start'], request.json['stop']
+                return jsonify(api_function.lifter_totals(gender, int(start), int(stop)))
+            except:
+                return {"get": "fucked"}
 
 
 @app.route("/api/lifter", methods=[HTTP.POST])
