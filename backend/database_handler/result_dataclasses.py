@@ -4,6 +4,15 @@ from typing import Any
 
 
 @dataclass
+class IWFHeaders:
+    """Standard headers for the IWF events index"""
+    id: int
+    name: str
+    date: str
+    location: str
+
+
+@dataclass
 class DatabaseEntry:
     """
     UNPACK IT BRO (*)\n
