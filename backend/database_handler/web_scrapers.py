@@ -7,7 +7,7 @@ from urllib.parse import urljoin
 from bs4 import BeautifulSoup
 from re import search
 from .static_helpers import write_to_csv
-from .result_dataclasses import IWFHeaders
+from .result_dataclasses import IWFHeaders, Result
 
 
 def pull_tables(page_content, id=None) -> Union[list[BeautifulSoup], BeautifulSoup]:
@@ -277,15 +277,15 @@ class InternationalWF:
                             gender = category.split()[2]
 
                             if name and snatch:
-                                data_snatch["name"] = name
+                                data_snatch["lifter_name"] = name
                                 data_snatch["nation"] = nation
                                 data_snatch["birthdate"] = birthdate
                                 data_snatch["bodyweight"] = bodyweight
                                 data_snatch["group"] = group
-                                data_snatch["snatch1"] = snatch1
-                                data_snatch["snatch2"] = snatch2
-                                data_snatch["snatch3"] = snatch3
-                                data_snatch["snatch"] = snatch
+                                data_snatch["snatch_1"] = snatch1
+                                data_snatch["snatch_2"] = snatch2
+                                data_snatch["snatch_3"] = snatch3
+                                data_snatch["best_snatch"] = snatch
                                 data_snatch["rank_sn"] = rank_sn
                                 data_snatch["category"] = category_number
                                 data_snatch["gender"] = gender
@@ -304,11 +304,11 @@ class InternationalWF:
                             rank_cj = card.find_all("p")[0].text.strip().split()[1]
 
                             if name and jerk:
-                                data_cj["name"] = name
-                                data_cj["jerk1"] = jerk1
-                                data_cj["jerk2"] = jerk2
-                                data_cj["jerk3"] = jerk3
-                                data_cj["jerk"] = jerk
+                                data_cj["lifter_name"] = name
+                                data_cj["cj_1"] = jerk1
+                                data_cj["cj_2"] = jerk2
+                                data_cj["cj_3"] = jerk3
+                                data_cj["best_cj"] = jerk
                                 data_cj["rank_cj"] = rank_cj
 
                             result.append(data_cj)
@@ -323,23 +323,29 @@ class InternationalWF:
                             rank = card.find_all("p")[0].text.strip().split()[1]
 
                             if name and total:
-                                data_total["name"] = name
+                                data_total["lifter_name"] = name
                                 data_total["total"] = total
                                 data_total["rank"] = rank
                             result.append(data_total)
 
             merged_result = {}
             for r in result:
-                key = r["name"]
+                key = r["lifter_name"]
                 merged_result.setdefault(key, {}).update(r)
 
             final_table = list(merged_result.values())
             return True, final_table
         return False, []
 
+    def __convert_to_conform(self, result_data: list, comp_details: list):
+        """ONE OF US, ONE OF US, ONE OF US"""
+        event_and_date = comp_details[1:3:]
+        # todo: make this shit work
+        big_list = [list(x.values()) for x in result_data]
+
     def update_results(self) -> None:
-        result = self.get_results(178)
-        #big_list = [list(x.values()) for x in result]
-        big_list = map(list, [x.values() for x in result])  # More or less readable?
-        for x in big_list:
-            print(x)
+        """Looks at comp index and then updates with values not currently saved"""
+        comp_index = self.fetch_events_list()
+        for comp_info in comp_index[175:176:]:  # start at 1 to avoid the header line
+            comp_results = self.get_results(comp_info[0])
+            self.__convert_to_conform(comp_results, comp_info)
