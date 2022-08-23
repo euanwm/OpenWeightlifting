@@ -1,4 +1,4 @@
-"""Dataclasses for how each federation formats it's event results"""
+"""Dataclasses for how each federation formats its event results"""
 from dataclasses import dataclass
 from typing import Any
 
