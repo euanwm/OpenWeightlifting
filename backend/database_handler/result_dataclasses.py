@@ -45,7 +45,7 @@ class Result:
     date: Any
     category: Any
     lifter_name: Any
-    bodyweight: float
+    bodyweight: Any
     snatch_1: Any
     snatch_2: Any
     snatch_3: Any

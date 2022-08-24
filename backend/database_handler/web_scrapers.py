@@ -1,7 +1,11 @@
 """Non-sport80 scraping APIs"""
+import collections
 import os
+import xml.etree.ElementTree
+from datetime import datetime
 from typing import Union
 
+import bs4.element
 import requests
 from urllib.parse import urljoin
 from bs4 import BeautifulSoup
@@ -258,37 +262,25 @@ class InternationalWF:
                             data_snatch = {}
 
                             name = card.find_all("p")[1].text.strip()
-                            nation = card.find_all("p")[2].text.strip()
-                            birthdate = " ".join(
-                                card.find_all("p")[3].text.strip().split()[1:]
-                            )
                             bodyweight = card.find_all("p")[4].text.strip().split()[1]
-                            group = card.find_all("p")[5].text.strip().split()[1]
                             snatch1 = card.find_all("p")[6].strong.contents[0]
                             snatch2 = card.find_all("p")[7].strong.contents[0]
                             snatch3 = card.find_all("p")[8].strong.contents[0]
                             snatch = card.find_all("p")[9].strong.contents[1]
-                            rank_sn = card.find_all("p")[0].text.strip().split()[1]
 
                             category = (
                                 card.parent.previous_sibling.previous_sibling.previous_sibling.previous_sibling.text.strip()
                             )
-                            category_number = category.split()[0]
                             gender = category.split()[2]
 
                             if name and snatch:
                                 data_snatch["lifter_name"] = name
-                                data_snatch["nation"] = nation
-                                data_snatch["birthdate"] = birthdate
                                 data_snatch["bodyweight"] = bodyweight
-                                data_snatch["group"] = group
                                 data_snatch["snatch_1"] = snatch1
                                 data_snatch["snatch_2"] = snatch2
                                 data_snatch["snatch_3"] = snatch3
                                 data_snatch["best_snatch"] = snatch
-                                data_snatch["rank_sn"] = rank_sn
-                                data_snatch["category"] = category_number
-                                data_snatch["gender"] = gender
+                                data_snatch["category"] = category
                             result.append(data_snatch)
 
                     for cards in cards_container[1::3]:
@@ -301,7 +293,6 @@ class InternationalWF:
                             jerk2 = card.find_all("p")[7].strong.contents[0]
                             jerk3 = card.find_all("p")[8].strong.contents[0]
                             jerk = card.find_all("p")[9].strong.contents[1]
-                            rank_cj = card.find_all("p")[0].text.strip().split()[1]
 
                             if name and jerk:
                                 data_cj["lifter_name"] = name
@@ -309,7 +300,6 @@ class InternationalWF:
                                 data_cj["cj_2"] = jerk2
                                 data_cj["cj_3"] = jerk3
                                 data_cj["best_cj"] = jerk
-                                data_cj["rank_cj"] = rank_cj
 
                             result.append(data_cj)
 
@@ -320,12 +310,10 @@ class InternationalWF:
                             data_total = {}
                             name = card.find_all("p")[1].text.strip()
                             total = card.find_all("p")[8].strong.contents[1]
-                            rank = card.find_all("p")[0].text.strip().split()[1]
 
                             if name and total:
                                 data_total["lifter_name"] = name
                                 data_total["total"] = total
-                                data_total["rank"] = rank
                             result.append(data_total)
 
             merged_result = {}
@@ -334,18 +322,44 @@ class InternationalWF:
                 merged_result.setdefault(key, {}).update(r)
 
             final_table = list(merged_result.values())
+            for line in final_table:
+                for i, (k, v) in enumerate(line.items()):
+                    if isinstance(v, bs4.element.Tag):
+                        line[k] = f"-{v.string}"
             return True, final_table
         return False, []
 
-    def __convert_to_conform(self, result_data: list, comp_details: list):
+    def __convert_to_conform(self, result_data: list[dict], comp_details: list) -> list[list]:
         """ONE OF US, ONE OF US, ONE OF US"""
-        event_and_date = comp_details[1:3:]
-        # todo: make this shit work
-        big_list = [list(x.values()) for x in result_data]
+        insert_me = {'date': self.__conform_date(comp_details[2]),
+                     'event': comp_details[1]}
+        for x in result_data:
+            x.update(insert_me)
+        ordered_results = self.__order_correctly(result_data)
+        return ordered_results
 
     def update_results(self) -> None:
         """Looks at comp index and then updates with values not currently saved"""
         comp_index = self.fetch_events_list()
         for comp_info in comp_index[175:176:]:  # start at 1 to avoid the header line
             comp_results = self.get_results(comp_info[0])
-            self.__convert_to_conform(comp_results, comp_info)
+            comp_result_data = self.__convert_to_conform(comp_results, comp_info)
+            # write_to_csv(comp_result_data)
+
+    @staticmethod
+    def __conform_date(old_date: str) -> str:
+        new_date = datetime.strptime(old_date, "%b %d, %Y")
+        return new_date.strftime("%Y-%m-%d")
+
+    def __order_correctly(self, big_data: list[dict]) -> list[list]:
+        """Arranges columns to match the standard layout of the Result dataclass"""
+        key_order = list(Result.__annotations__)
+        for index, line in enumerate(big_data):
+            res = collections.OrderedDict()
+            for key in key_order:
+                if key in line:
+                    res[key] = line.pop(key)
+            res.update(line.items())
+            big_data[index] = dict(res)
+        return [list(x.values()) for x in big_data]
+
