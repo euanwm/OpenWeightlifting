@@ -1,0 +1,75 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+Malta International Open,2020-02-23,61 kg Men,GROZDEV Stilyan Rosenov,60.65,127,-132,132,150,155,-158,132,155,287
+Malta International Open,2020-02-23,61 kg Men,BRANDHUBER Simon Josef,60.70,125,129,-132,145,150,-155,129,150,279
+Malta International Open,2020-02-23,61 kg Men,BRACHI GARCIA Josue,60.00,120,124,-127,-140,140,145,124,145,269
+Malta International Open,2020-02-23,61 kg Men,MAU Jon Luke,60.80,115,119,123,152,-157,-157,123,152,275
+Malta International Open,2020-02-23,61 kg Men,SCARANTINO Mirco,60.90,117,121,-124,147,-151,-152,121,147,268
+Malta International Open,2020-02-23,67 kg Men,KINGUE MATAM Bernardin Ledoux,67.00,-135,135,-137,162,170,-174,135,170,305
+Malta International Open,2020-02-23,67 kg Men,HERNANDEZ MENDOZA Acoran Juan,66.90,-132,132,-136,156,-160,-161,132,156,288
+Malta International Open,2020-02-23,67 kg Men,PETROV Petr,66.75,128,-132,-133,157,-161,-161,128,157,285
+Malta International Open,2020-02-23,67 kg Men,CASTRO MARINO Victor,67.00,128,-132,-132,-150,153,-156,128,153,281
+Malta International Open,2020-02-23,67 kg Men,LUNGU Daniel,65.40,115,120,-123,133,137,140,120,140,260
+Malta International Open,2020-02-23,73 kg Men,ANDREEV Bozhidar Dimitrov,72.95,147,151,156,180,187,191,156,191,347
+Malta International Open,2020-02-23,73 kg Men,LANG Max Richard,72.94,-145,145,-148,175,-181,-181,145,175,320
+Malta International Open,2020-02-23,73 kg Men,PEDRAK Benjamin Ludovic Matthieu,67.56,-122,125,-128,-145,145,-155,125,145,270
+Malta International Open,2020-02-23,73 kg Men,SANCHEZ LOPEZ David,72.76,-135,0,0,0,0,0,0,0,0
+Malta International Open,2020-02-23,81 kg Men,BEYTULA Yunder Nedim,80.89,150,155,-160,190,-195,197,155,197,352
+Malta International Open,2020-02-23,81 kg Men,BROWN Sean Kevin,80.45,138,142,-146,166,170,174,142,174,316
+Malta International Open,2020-02-23,81 kg Men,TKAC Richard,80.71,131,135,138,-165,166,175,138,175,313
+Malta International Open,2020-02-23,81 kg Men,GONZALEZ BAEZ Alejandro,76.60,135,-140,-140,170,-175,175,135,175,310
+Malta International Open,2020-02-23,89 kg Men,ZWARYCZ Krzysztof Maciej,87.92,150,155,160,190,-195,196,160,196,356
+Malta International Open,2020-02-23,89 kg Men,MUSIC Amar,88.31,130,-135,0,160,0,0,130,160,290
+Malta International Open,2020-02-23,89 kg Men,RETULAINEN Eero Eljas,88.92,-140,-140,-140,170,-180,0,0,170,0
+Malta International Open,2020-02-23,96 kg Men,GRELA Lukasz Roman,96.00,150,155,160,180,185,190,0,0,0
+Malta International Open,2020-02-23,109 kg Men,HRISTOV Hristo Dimitrov,109.00,-177,177,182,205,213,219,182,219,401
+Malta International Open,2020-02-23,109 kg Men,RUIZ I VELASCO Marcos,108.40,160,165,170,190,200,206,170,206,376
+Malta International Open,2020-02-23,109 kg Men,GASIOR Jiri,105.60,145,-150,151,180,-190,-191,151,180,331
+Malta International Open,2020-02-23,109 kg Men,KRYWULT Patrik,107.10,150,-154,-156,176,181,-186,150,181,331
+Malta International Open,2020-02-23,+109 kg Men,NAGY Peter,157.79,172,180,-190,212,-222,-222,180,212,392
+Malta International Open,2020-02-23,+109 kg Men,KUCERA Kamil,156.64,165,170,-175,211,221,227,170,227,397
+Malta International Open,2020-02-23,+109 kg Men,TATARCIK Radoslav,114.79,162,-166,168,176,-181,181,168,181,349
+Malta International Open,2020-02-23,+109 kg Men,ORSAG Jiri,132.59,165,-170,-175,225,233,241,165,241,406
+Malta International Open,2020-02-23,+109 kg Men,SEIM Mart,149.07,160,165,-170,210,220,-227,165,220,385
+Malta International Open,2020-02-23,+109 kg Men,MICHALSKI Arkadiusz,112.72,160,-165,-165,210,-220,0,160,210,370
+Malta International Open,2020-02-23,+109 kg Men,ROININEN Teemu Tapio,141.19,149,154,156,192,-196,196,156,196,352
+Malta International Open,2020-02-23,45 kg Women,THORNTON Tenishia,44.85,-53,53,55,67,-70,70,55,70,125
+Malta International Open,2020-02-23,49 kg Women,OLIVEIRA MADEIRA Luana,48.95,77,-80,-80,93,96,99,77,99,176
+Malta International Open,2020-02-23,49 kg Women,MICHEL Anais,48.75,75,77,-79,-94,94,-97,77,94,171
+Malta International Open,2020-02-23,49 kg Women,PIPILIARIDOU Maria,49.00,70,73,-75,90,-93,-95,73,90,163
+Malta International Open,2020-02-23,49 kg Women,LORENTZ Manon Camille,48.97,71,-73,-74,-87,87,91,71,91,162
+Malta International Open,2020-02-23,49 kg Women,JENSEN Sandra Hoegfeldt,49.00,-70,70,-72,-84,-84,-84,70,0,0
+Malta International Open,2020-02-23,55 kg Women,LOMBARDO Jennifer,54.84,85,88,-90,105,110,-112,88,110,198
+Malta International Open,2020-02-23,55 kg Women,MAGISTRIS Lucrezia,54.88,-85,85,-89,-100,100,-105,85,100,185
+Malta International Open,2020-02-23,55 kg Women,LOCHOWSKA Joanna,54.97,-82,82,-85,104,-108,-108,82,104,186
+Malta International Open,2020-02-23,55 kg Women,RIGAUD Garance Ariette Ouiza,53.92,79,-81,82,-98,98,101,82,101,183
+Malta International Open,2020-02-23,55 kg Women,RITCHEY Alyssa Lynn,53.91,79,-82,-82,100,-104,-105,79,100,179
+Malta International Open,2020-02-23,55 kg Women,BRUHN Katrine Nim,54.87,74,-78,79,96,99,102,79,102,181
+Malta International Open,2020-02-23,55 kg Women,RITO ENOCKSSON Sofia Julia,55.00,71,-73,-74,87,-90,91,71,91,162
+Malta International Open,2020-02-23,55 kg Women,MARKOVIC Marina,54.62,60,-63,66,80,82,85,66,85,151
+Malta International Open,2020-02-23,59 kg Women,TCHAKOUNTE Dora Meiriama,58.70,93,-96,-97,110,114,-116,93,114,207
+Malta International Open,2020-02-23,59 kg Women,BENTELI Konstantina,58.66,88,-91,91,104,108,111,91,111,202
+Malta International Open,2020-02-23,59 kg Women,RETULAINEN Saara Sylvia Amanda,58.89,-84,85,-88,104,109,111,85,111,196
+Malta International Open,2020-02-23,59 kg Women,STERCKX Nina,57.14,82,85,-89,101,105,-108,85,105,190
+Malta International Open,2020-02-23,59 kg Women,GORISEK Ivana,58.72,-71,-72,-72,-81,-81,81,0,81,81
+Malta International Open,2020-02-23,64 kg Women,VUOHIJOKI Anni Teija Orvokki,63.94,89,-91,92,110,-115,116,92,116,208
+Malta International Open,2020-02-23,64 kg Women,FILIPPAZZO Noemi,63.85,88,-90,91,105,-112,-112,91,105,196
+Malta International Open,2020-02-23,64 kg Women,POULSEN Amanda Novakowska,63.57,82,-86,-86,100,104,107,82,107,189
+Malta International Open,2020-02-23,64 kg Women,PAVLIC Petra,62.62,70,-73,75,90,93,-95,75,93,168
+Malta International Open,2020-02-23,71 kg Women,NUIRO Naomy Maeva,65.20,-89,89,92,105,-110,-114,92,105,197
+Malta International Open,2020-02-23,71 kg Women,VOZOBULE Morgan,66.38,85,89,-92,105,109,-113,89,109,198
+Malta International Open,2020-02-23,71 kg Women,RODE Anna,69.12,84,-87,87,106,110,-114,87,110,197
+Malta International Open,2020-02-23,71 kg Women,ZAMMIT STEVENS Yasmin,68.14,82,-85,-85,104,-106,107,82,107,189
+Malta International Open,2020-02-23,71 kg Women,TABONE Roberta,70.07,73,77,-80,95,98,-100,77,98,175
+Malta International Open,2020-02-23,71 kg Women,SWAN Sarah Michelle,65.83,70,73,-76,90,94,-97,73,94,167
+Malta International Open,2020-02-23,76 kg Women,VALENTIN PEREZ Lidia,75.74,95,100,-104,120,125,130,100,130,230
+Malta International Open,2020-02-23,76 kg Women,MITYKO Veronika,72.94,87,91,94,100,104,107,94,107,201
+Malta International Open,2020-02-23,76 kg Women,LINNAMAA Aino,73.85,-82,82,-86,101,-105,106,82,106,188
+Malta International Open,2020-02-23,76 kg Women,ILMARINEN Meri Tuuli Linnea,75.68,-90,-91,-91,-115,115,-118,0,115,0
+Malta International Open,2020-02-23,81 kg Women,NAYO KETCHANKE Gaelle Verlaine,80.36,92,97,102,127,132,-138,102,132,234
+Malta International Open,2020-02-23,81 kg Women,SZUROMI Timea Reka,80.49,90,95,-100,113,-117,117,95,117,212
+Malta International Open,2020-02-23,81 kg Women,SFAMURRI Briana Daniella,80.15,88,92,95,115,119,-125,95,119,214
+Malta International Open,2020-02-23,87 kg Women,RIEGER Patricia,81.42,-99,100,-104,-120,122,-127,100,122,222
+Malta International Open,2020-02-23,87 kg Women,KACZMARCZYK Kinga,86.88,92,96,-99,120,124,-127,96,124,220
+Malta International Open,2020-02-23,87 kg Women,SPRING Rachel,81.25,84,88,-92,-105,105,110,88,110,198
+Malta International Open,2020-02-23,+87 kg Women,VENNEKILDE Marie Louise,88.45,94,98,102,117,-122,-122,102,117,219
+Malta International Open,2020-02-23,+87 kg Women,KAROLAK Magdalena,131.92,90,-96,0,-125,130,-135,90,130,220

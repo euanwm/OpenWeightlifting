@@ -1,0 +1,99 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+Asian Youth Championships,2019-10-19,49 kg Men,PAK Myong Jin,48.88,90,96,100,115,121,-126,100,121,221
+Asian Youth Championships,2019-10-19,49 kg Men,PAK Kang Song,48.95,81,83,85,112,-116,-116,85,112,197
+Asian Youth Championships,2019-10-19,49 kg Men,NGUYEN Van Truong,48.78,-75,75,-82,95,100,-113,75,100,175
+Asian Youth Championships,2019-10-19,55 kg Men,DO Tu Tung,54.34,100,103,109,128,133,137,109,137,246
+Asian Youth Championships,2019-10-19,55 kg Men,MUN Ik Su,54.85,95,100,-104,125,130,134,100,134,234
+Asian Youth Championships,2019-10-19,55 kg Men,JANG Wi Song,54.62,93,98,100,123,126,-128,100,126,226
+Asian Youth Championships,2019-10-19,55 kg Men,AUYELKHANOV Ablay,54.37,93,97,-100,123,-130,130,97,130,227
+Asian Youth Championships,2019-10-19,55 kg Men,YANG Fan-Shun,54.74,-92,92,95,108,-112,-113,95,108,203
+Asian Youth Championships,2019-10-19,55 kg Men,KAO Chih-Lin,54.57,85,89,-92,108,112,115,89,115,204
+Asian Youth Championships,2019-10-19,61 kg Men,FAATHIR Muhammad,60.63,116,119,-122,147,150,153,119,153,272
+Asian Youth Championships,2019-10-19,61 kg Men,BUI Dinh Sang,60.56,116,-120,-120,138,-141,141,116,141,257
+Asian Youth Championships,2019-10-19,61 kg Men,SHIN Rok,60.42,116,-120,-120,147,151,-154,116,151,267
+Asian Youth Championships,2019-10-19,61 kg Men,AKMOLDA Sairamkez,60.89,110,115,-120,140,143,-152,115,143,258
+Asian Youth Championships,2019-10-19,61 kg Men,LIU Yung Fu,60.42,100,105,-109,130,137,-140,105,137,242
+Asian Youth Championships,2019-10-19,61 kg Men,CHO Minjae,58.13,90,95,-100,-120,120,125,95,125,220
+Asian Youth Championships,2019-10-19,61 kg Men,BABAMURADOV Ali,55.55,-95,-95,95,115,120,-123,95,120,215
+Asian Youth Championships,2019-10-19,61 kg Men,ULAANTSETSEG Amarbayar,59.73,77,82,86,100,105,-110,86,105,191
+Asian Youth Championships,2019-10-19,67 kg Men,JEREMY Lalrinnunga,65.92,-131,134,-137,-161,161,165,134,165,299
+Asian Youth Championships,2019-10-19,67 kg Men,JUNIANSYAH Rizki,66.77,120,125,130,145,153,157,130,157,287
+Asian Youth Championships,2019-10-19,67 kg Men,REYIMOV Bektimur,66.59,118,121,-124,140,-145,-145,121,140,261
+Asian Youth Championships,2019-10-19,67 kg Men,OLIMOV Khojiakbar,66.98,119,-122,-123,146,151,154,119,154,273
+Asian Youth Championships,2019-10-19,67 kg Men,TORAYEV Gaygysyz,66.98,115,-119,-119,-140,140,-146,115,140,255
+Asian Youth Championships,2019-10-19,67 kg Men,ISLAM Md Nayemul,66.08,108,-114,114,-130,-132,132,114,132,246
+Asian Youth Championships,2019-10-19,67 kg Men,LIANG Ching-Yen,66.12,-90,90,95,130,135,140,95,140,235
+Asian Youth Championships,2019-10-19,73 kg Men,PARK Hyeongo,72.55,127,130,132,156,-161,-161,132,156,288
+Asian Youth Championships,2019-10-19,73 kg Men,NARIMANOV Asadbek,72.22,126,129,131,155,160,163,131,163,294
+Asian Youth Championships,2019-10-19,73 kg Men,TUKHTAEV Ogabek,72.89,124,126,129,153,157,163,129,163,292
+Asian Youth Championships,2019-10-19,73 kg Men,LEIPHRAKPAM Sadananda Singh,72.89,121,125,-127,150,155,158,125,158,283
+Asian Youth Championships,2019-10-19,73 kg Men,YANG Wei-Ta,70.28,105,-110,112,135,140,145,112,145,257
+Asian Youth Championships,2019-10-19,81 kg Men,NGUYEN Quoc Toan,79.53,130,136,141,156,160,166,141,166,307
+Asian Youth Championships,2019-10-19,81 kg Men,SAPI Yessenkeldi,80.66,125,-130,-130,165,-183,-183,125,165,290
+Asian Youth Championships,2019-10-19,81 kg Men,BAYRAMGELDIYEV Shageldi,77.70,123,-126,-126,150,154,157,123,157,280
+Asian Youth Championships,2019-10-19,81 kg Men,YOO Donghyun,79.73,-120,-122,122,152,156,158,122,158,280
+Asian Youth Championships,2019-10-19,81 kg Men,HUNG Yu-Te,79.38,90,-100,-100,127,132,-140,90,132,222
+Asian Youth Championships,2019-10-19,89 kg Men,ALOTHMAN Ali Yousef A,88.14,135,140,143,170,175,-177,143,175,318
+Asian Youth Championships,2019-10-19,89 kg Men,VUONG Truong Khoi,88.10,127,132,134,160,171,176,134,176,310
+Asian Youth Championships,2019-10-19,89 kg Men,BANG Bonghyun,87.60,127,-131,133,150,158,0,133,158,291
+Asian Youth Championships,2019-10-19,89 kg Men,CHA Byungjun,86.26,120,-125,126,145,151,156,126,156,282
+Asian Youth Championships,2019-10-19,89 kg Men,CHENG Chi Wei,87.49,115,-125,-125,146,153,157,115,157,272
+Asian Youth Championships,2019-10-19,89 kg Men,HU Guang Jin,87.82,105,110,-116,145,-155,155,110,155,265
+Asian Youth Championships,2019-10-19,96 kg Men,BEKBOLAT Rakhat,95.15,144,150,156,176,186,196,156,196,352
+Asian Youth Championships,2019-10-19,102 kg Men,KHAMIDOV Doniyor,101.11,130,136,-140,160,-166,166,136,166,302
+Asian Youth Championships,2019-10-19,102 kg Men,JIANG Shao-Kai,101.41,-115,115,122,145,-155,-160,122,145,267
+Asian Youth Championships,2019-10-19,+102 kg Men,CHA Kang Jin,113.15,152,157,-160,-190,-202,0,157,0,0
+Asian Youth Championships,2019-10-19,+102 kg Men,LEE Seungheon,128.60,146,151,156,180,190,-200,156,190,346
+Asian Youth Championships,2019-10-19,+102 kg Men,MIRZABAEV Mirkhosil,102.10,146,150,154,-176,176,-180,154,176,330
+Asian Youth Championships,2019-10-19,+102 kg Men,LEE Seunghoon,110.35,135,142,147,170,-177,177,147,177,324
+Asian Youth Championships,2019-10-19,+102 kg Men,DAYIYEV Atajan,125.42,143,-147,-148,-176,178,182,143,182,325
+Asian Youth Championships,2019-10-19,+102 kg Men,WENG Zeng Yu,134.83,115,125,130,145,155,160,130,160,290
+Asian Youth Championships,2019-10-19,40 kg Women,PAK Yong,39.96,55,58,60,65,68,72,60,72,132
+Asian Youth Championships,2019-10-19,40 kg Women,HONG Zi-Yu,39.91,48,52,-54,58,63,-65,52,63,115
+Asian Youth Championships,2019-10-19,40 kg Women,MACAWILI VALENZUELA Chariz,39.51,50,-53,-53,63,65,66,50,66,116
+Asian Youth Championships,2019-10-19,40 kg Women,HSIAO Wei-Chen,40.00,-45,45,-48,-55,55,-58,45,55,100
+Asian Youth Championships,2019-10-19,45 kg Women,PAEK Hye Jong,45.00,72,75,77,91,95,-99,77,95,172
+Asian Youth Championships,2019-10-19,45 kg Women,PAK Yu Jong,45.00,73,-75,76,-85,85,87,76,87,163
+Asian Youth Championships,2019-10-19,45 kg Women,NGUYEN Thi Thu Trang,44.90,-73,74,-76,83,86,-90,74,86,160
+Asian Youth Championships,2019-10-19,45 kg Women,NGUYEN Thi Thu Hoai,44.97,68,-71,-71,85,88,-92,68,88,156
+Asian Youth Championships,2019-10-19,45 kg Women,HOJIYEVA Ozoda,44.99,55,58,60,67,70,74,60,74,134
+Asian Youth Championships,2019-10-19,45 kg Women,ZENG Yi Fan,45.00,58,-60,-60,-72,72,76,58,76,134
+Asian Youth Championships,2019-10-19,45 kg Women,BUYANDELGER Erdenezul,44.66,53,56,-59,67,70,-73,56,70,126
+Asian Youth Championships,2019-10-19,45 kg Women,HUANG Yi-Chen,44.77,55,-58,-58,70,73,76,55,76,131
+Asian Youth Championships,2019-10-19,45 kg Women,SEO Gayoung,45.00,50,52,54,68,-71,-72,54,68,122
+Asian Youth Championships,2019-10-19,49 kg Women,WON Hyon Sim,48.56,78,-83,-83,-95,95,-98,78,95,173
+Asian Youth Championships,2019-10-19,49 kg Women,ABDULLAEVA Nigora,48.95,73,76,-79,89,92,94,76,94,170
+Asian Youth Championships,2019-10-19,49 kg Women,RAMOS Rosegie,48.42,70,74,76,88,-92,-93,76,88,164
+Asian Youth Championships,2019-10-19,49 kg Women,HWANG Ryu Gyong,48.87,73,75,-77,93,-96,-96,75,93,168
+Asian Youth Championships,2019-10-19,49 kg Women,VO Thi Ngoc Thanh,48.72,-66,66,-71,85,90,-93,66,90,156
+Asian Youth Championships,2019-10-19,49 kg Women,KIM Hyemin,48.88,-60,60,63,75,-78,78,63,78,141
+Asian Youth Championships,2019-10-19,55 kg Women,PAK Jin Hae,54.98,80,85,87,103,106,110,87,110,197
+Asian Youth Championships,2019-10-19,55 kg Women,KLARISA Juliana,54.35,-74,-74,75,95,100,-104,75,100,175
+Asian Youth Championships,2019-10-19,55 kg Women,LEE Yerim,54.44,69,-72,72,90,-93,-93,72,90,162
+Asian Youth Championships,2019-10-19,55 kg Women,BETUA TABILON Gissele Anne,53.89,63,65,-68,85,88,92,65,92,157
+Asian Youth Championships,2019-10-19,55 kg Women,HSIAO Li-Yun,49.52,60,63,-66,-80,80,85,63,85,148
+Asian Youth Championships,2019-10-19,59 kg Women,KIM Il Gyong,59.00,93,97,99,117,125,129,99,129,228
+Asian Youth Championships,2019-10-19,59 kg Women,ANDRIANI Putri Aulia,58.14,80,84,-86,98,102,-105,84,102,186
+Asian Youth Championships,2019-10-19,59 kg Women,PAK Won Gyong,58.90,80,83,-85,106,114,116,83,116,199
+Asian Youth Championships,2019-10-19,59 kg Women,YBRAY Gulnur,58.74,77,80,82,96,-101,-101,82,96,178
+Asian Youth Championships,2019-10-19,59 kg Women,BOLDBAATAR Khongorzul,58.69,-74,75,-79,-96,97,-101,75,97,172
+Asian Youth Championships,2019-10-19,59 kg Women,HWANG Sooa,57.68,65,69,-72,83,87,-91,69,87,156
+Asian Youth Championships,2019-10-19,59 kg Women,LEE Hayeong,52.66,67,-70,-70,87,-91,-91,67,87,154
+Asian Youth Championships,2019-10-19,64 kg Women,RI Suk,61.78,90,-96,96,122,-127,-127,96,122,218
+Asian Youth Championships,2019-10-19,64 kg Women,KIM Hansol,63.14,78,-82,82,-106,106,110,82,110,192
+Asian Youth Championships,2019-10-19,64 kg Women,LEE Eunhwa,62.22,78,-81,-82,-95,95,100,78,100,178
+Asian Youth Championships,2019-10-19,64 kg Women,HABIBULLOYEVA Fotima,63.68,70,74,76,-88,88,93,76,93,169
+Asian Youth Championships,2019-10-19,64 kg Women,ERDENESUREN Delgertsetseg,63.79,50,-55,-55,60,65,-70,50,65,115
+Asian Youth Championships,2019-10-19,64 kg Women,LAM Thi My Le,62.90,-83,-83,-83,97,101,105,0,105,0
+Asian Youth Championships,2019-10-19,71 kg Women,SARNO PALOMAR Vanessa,69.91,87,91,-94,110,114,118,91,118,209
+Asian Youth Championships,2019-10-19,71 kg Women,UH Ju Hyang,64.96,85,-89,-89,110,-117,119,85,119,204
+Asian Youth Championships,2019-10-19,71 kg Women,SUVONOVA Nigora,69.58,84,-88,-88,104,108,-112,84,108,192
+Asian Youth Championships,2019-10-19,71 kg Women,PARK Dayeon,70.03,78,81,83,95,-100,100,83,100,183
+Asian Youth Championships,2019-10-19,71 kg Women,CHOU Pei-Wen,70.60,75,80,-82,-98,98,101,80,101,181
+Asian Youth Championships,2019-10-19,76 kg Women,JABBOROVA Tursunoy,74.83,98,102,105,-118,118,122,105,122,227
+Asian Youth Championships,2019-10-19,76 kg Women,SON Ara,74.98,78,80,83,108,-116,116,83,116,199
+Asian Youth Championships,2019-10-19,76 kg Women,PAN Yu Ru,75.22,73,77,79,93,97,-101,79,97,176
+Asian Youth Championships,2019-10-19,81 kg Women,HUNG Yun-Chieh,80.38,65,70,73,-85,85,-96,73,85,158
+Asian Youth Championships,2019-10-19,+81 kg Women,PARK Hyejeong,120.44,104,108,110,145,-151,-151,110,145,255
+Asian Youth Championships,2019-10-19,+81 kg Women,SANSYZBAYEVA Aisamal,106.95,100,105,109,-132,132,-140,109,132,241
+Asian Youth Championships,2019-10-19,+81 kg Women,TANG Jia-Chi,98.86,73,78,-81,90,95,100,78,100,178

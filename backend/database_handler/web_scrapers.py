@@ -343,10 +343,12 @@ class InternationalWF:
     def update_results(self) -> None:
         """Looks at comp index and then updates with values not currently saved"""
         comp_index = self.fetch_events_list()
-        for comp_info in comp_index[1::]:  # start at 1 to avoid the header line
-            comp_results = self.get_results(comp_info[0])
-            comp_result_data = self.__convert_to_conform(comp_results, comp_info)
-            write_to_csv(self.iwf_root_dir, comp_info[0], comp_result_data)
+        result_db_ids = [int(x.split(".")[0]) for x in os.listdir(self.iwf_root_dir)]
+        for comp_info in comp_index[1::]:
+            if comp_info[0] not in result_db_ids:
+                comp_results = self.get_results(comp_info[0])
+                comp_result_data = self.__convert_to_conform(comp_results, comp_info)
+                write_to_csv(self.iwf_root_dir, comp_info[0], comp_result_data)
 
     @staticmethod
     def __conform_date(old_date: str) -> str:

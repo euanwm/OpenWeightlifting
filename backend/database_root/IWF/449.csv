@@ -1,0 +1,73 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+Las Vegas International Open,2019-03-07,55 kg Men,KOBASHIGAWA Brey Jutaro,54.83,100,103,-107,125,130,-135,103,130,233
+Las Vegas International Open,2019-03-07,61 kg Men,REISENAUER Brian James,60.65,110,114,-117,-135,135,-140,114,135,249
+Las Vegas International Open,2019-03-07,61 kg Men,ROJAS CONCHA Marcos Antonio,60.90,105,110,113,-140,140,-145,113,140,253
+Las Vegas International Open,2019-03-07,67 kg Men,WISSINGER Jordan Derek,66.74,122,-127,-130,150,155,165,122,165,287
+Las Vegas International Open,2019-03-07,73 kg Men,FREVE-GUERIN Edouard,72.48,-120,-120,120,150,154,156,120,156,276
+Las Vegas International Open,2019-03-07,73 kg Men,SSEMPEREZA Hakim Musoke,70.71,105,110,115,135,140,145,115,145,260
+Las Vegas International Open,2019-03-07,73 kg Men,LEE Alex,70.37,0,0,0,0,0,0,0,0,0
+Las Vegas International Open,2019-03-07,81 kg Men,BELLEMARRE Alex,80.43,149,153,-156,174,179,-182,153,179,332
+Las Vegas International Open,2019-03-07,81 kg Men,KUMAKAWA Yuta,77.19,143,-148,148,-160,160,-165,148,160,308
+Las Vegas International Open,2019-03-07,81 kg Men,HARA Yuki,80.56,-137,137,143,174,181,-187,143,181,324
+Las Vegas International Open,2019-03-07,81 kg Men,WORMALD CISTERNA Kevin Enrique,79.54,132,137,139,165,-170,-170,139,165,304
+Las Vegas International Open,2019-03-07,81 kg Men,KMEGY Mate Jozsef,80.71,-138,-138,138,165,172,175,138,175,313
+Las Vegas International Open,2019-03-07,81 kg Men,DATELLO Frank Anthony,79.87,131,136,-138,162,167,-173,136,167,303
+Las Vegas International Open,2019-03-07,89 kg Men,CANTRELL Jordan Warren,88.92,-155,-160,-160,185,-195,0,0,185,0
+Las Vegas International Open,2019-03-07,89 kg Men,RODRIGUEZ OCASIO Christian Angel,83.52,0,0,0,0,0,0,0,0,0
+Las Vegas International Open,2019-03-07,96 kg Men,MENDEZ PEREZ Arley,93.66,-170,-170,170,200,-207,207,170,207,377
+Las Vegas International Open,2019-03-07,96 kg Men,KIMM Trevor Ryan,95.51,140,145,-150,175,-185,-187,145,175,320
+Las Vegas International Open,2019-03-07,96 kg Men,DOWNEY V John Francis,89.28,135,141,-146,169,176,-183,141,176,317
+Las Vegas International Open,2019-03-07,96 kg Men,BLACKWELL Robert Thomas,92.36,0,0,0,0,0,0,0,0,0
+Las Vegas International Open,2019-03-07,102 kg Men,DAMRON Nathan Charles,98.30,-150,150,-155,191,-200,200,150,200,350
+Las Vegas International Open,2019-03-07,102 kg Men,HARTMAN Travis Keifer,101.15,-140,-140,140,-170,-170,170,140,170,310
+Las Vegas International Open,2019-03-07,102 kg Men,OSORIO Dangelo Antoinne,100.40,0,0,0,0,0,0,0,0,0
+Las Vegas International Open,2019-03-07,109 kg Men,DUER Thomas H,108.30,-146,146,-152,180,-186,-190,146,180,326
+Las Vegas International Open,2019-03-07,109 kg Men,THOMPSON Drake Edwin,106.71,145,-150,-152,-180,-180,180,145,180,325
+Las Vegas International Open,2019-03-07,109 kg Men,VIERA ESPINOZA Hernan Moises,106.33,-140,140,145,-191,191,200,145,200,345
+Las Vegas International Open,2019-03-07,+109 kg Men,WILKES Caine Morgan,146.43,165,172,178,200,210,217,178,217,395
+Las Vegas International Open,2019-03-07,+109 kg Men,NONAKA Masahiro,148.13,165,170,-173,210,219,-226,170,219,389
+Las Vegas International Open,2019-03-07,+109 kg Men,CHINEN Kosuke,143.62,170,175,-180,200,-212,212,175,212,387
+Las Vegas International Open,2019-03-07,+109 kg Men,EVERETT Quinn,148.22,140,-145,145,-193,-193,-193,145,0,0
+Las Vegas International Open,2019-03-07,+109 kg Men,RIGSBY Sean Michael,120.56,125,130,-135,175,-182,182,130,182,312
+Las Vegas International Open,2019-03-07,+109 kg Men,WITTE Keiser Andrew,141.80,0,0,0,0,0,0,0,0,0
+Las Vegas International Open,2019-03-07,+109 kg Men,KITTS Wesley Brian,112.96,0,0,0,0,0,0,0,0,0
+Las Vegas International Open,2019-03-07,45 kg Women,LIM Nicole Anne,45.00,60,-60,-60,75,-80,80,60,80,140
+Las Vegas International Open,2019-03-07,49 kg Women,BRADDOCK Amanda Melissa,48.83,67,71,75,89,92,95,75,95,170
+Las Vegas International Open,2019-03-07,49 kg Women,LANDEROS LOPEZ Katherine Ignacia,48.16,62,65,-67,80,-85,85,65,85,150
+Las Vegas International Open,2019-03-07,49 kg Women,CUEVA URIBE Fiorella Francesca,47.09,62,-65,65,87,90,-93,65,90,155
+Las Vegas International Open,2019-03-07,55 kg Women,LEBLANC-BAZINET Rachel,54.80,80,-84,84,104,-107,107,84,107,191
+Las Vegas International Open,2019-03-07,55 kg Women,SANDI PIZANGO Tessy Karen,54.55,72,75,78,95,100,103,78,103,181
+Las Vegas International Open,2019-03-07,55 kg Women,LEMMEN Stephanie Kristin,54.90,-83,-83,-83,99,-102,-102,0,99,0
+Las Vegas International Open,2019-03-07,55 kg Women,RITCHEY Alyssa Lynn,53.65,0,0,0,0,0,0,0,0,0
+Las Vegas International Open,2019-03-07,59 kg Women,BRAMWELL Kaija Francesca,58.58,82,-85,86,105,-109,109,86,109,195
+Las Vegas International Open,2019-03-07,59 kg Women,NA Christine Yejou,58.83,-82,82,-86,102,106,-109,82,106,188
+Las Vegas International Open,2019-03-07,59 kg Women,HOGAN Caitlin Leigh,56.79,75,78,81,95,100,105,81,105,186
+Las Vegas International Open,2019-03-07,59 kg Women,LEBLANC BAZINET Camille,58.88,-85,-85,-85,-108,108,111,0,111,0
+Las Vegas International Open,2019-03-07,59 kg Women,MCLENDON JUMPER Sarabeth Elizabeth,58.94,-88,-89,-89,106,-109,-111,0,106,0
+Las Vegas International Open,2019-03-07,59 kg Women,TURNER Taylor Nicole,58.83,0,0,0,0,0,0,0,0,0
+Las Vegas International Open,2019-03-07,64 kg Women,CHARRON Maude G,63.45,-94,94,97,115,119,123,97,123,220
+Las Vegas International Open,2019-03-07,64 kg Women,ELAM Hunter Nicole,64.00,91,-94,-96,112,-116,-116,91,112,203
+Las Vegas International Open,2019-03-07,64 kg Women,POPE Kristin,63.85,88,90,-92,105,-109,-110,90,105,195
+Las Vegas International Open,2019-03-07,64 kg Women,LUCERO Jessica Marie,61.60,85,88,-91,100,105,110,88,110,198
+Las Vegas International Open,2019-03-07,64 kg Women,GAAB Marissa Christine,63.40,84,-87,87,106,109,-112,87,109,196
+Las Vegas International Open,2019-03-07,64 kg Women,SIEMENS Rachel Anne,63.60,86,-88,-88,105,108,-111,86,108,194
+Las Vegas International Open,2019-03-07,64 kg Women,LEISHMAN Anjeanette,63.95,78,81,-84,-102,-102,103,81,103,184
+Las Vegas International Open,2019-03-07,71 kg Women,SEAMON Jillian Marie,70.75,-92,92,95,109,-115,-115,95,109,204
+Las Vegas International Open,2019-03-07,71 kg Women,LAYLOR Maya Celeste,70.47,94,-97,-98,115,120,-123,94,120,214
+Las Vegas International Open,2019-03-07,71 kg Women,ISHII Miku,69.61,91,93,-95,-112,112,116,93,116,209
+Las Vegas International Open,2019-03-07,71 kg Women,COOPER Kaitlyn Dawn,70.79,-93,-93,93,115,-117,-117,93,115,208
+Las Vegas International Open,2019-03-07,76 kg Women,ROGERS Martha Ann,71.75,103,106,0,-133,133,-136,106,133,239
+Las Vegas International Open,2019-03-07,76 kg Women,NGARLEM Kristel,74.95,93,96,-100,123,128,-133,96,128,224
+Las Vegas International Open,2019-03-07,76 kg Women,RIEGER Patricia,75.10,-93,94,-98,112,116,-120,94,116,210
+Las Vegas International Open,2019-03-07,76 kg Women,HARRIS Tayler Jordon,75.15,-88,89,-94,-113,-113,113,89,113,202
+Las Vegas International Open,2019-03-07,76 kg Women,ROJAS CASTILLO Lenka Yanara,74.80,84,-87,-87,105,-110,110,84,110,194
+Las Vegas International Open,2019-03-07,81 kg Women,SEKINE Moeri,79.97,85,90,93,110,-116,-116,93,110,203
+Las Vegas International Open,2019-03-07,81 kg Women,SZUROMI Timea Reka,77.30,89,-92,-92,-110,-110,-110,89,0,0
+Las Vegas International Open,2019-03-07,81 kg Women,ARTHUR Jenny Lyvette,80.66,0,0,0,0,0,0,0,0,0
+Las Vegas International Open,2019-03-07,87 kg Women,KLINGSEIS Marissa Eileen,86.58,105,-110,-110,130,135,0,105,135,240
+Las Vegas International Open,2019-03-07,87 kg Women,MORISHITA Imari,86.20,95,-99,-99,115,120,-122,95,120,215
+Las Vegas International Open,2019-03-07,87 kg Women,KLEINSCHMIDT Samantha Noelle,85.24,94,-98,-101,119,-122,-122,94,119,213
+Las Vegas International Open,2019-03-07,87 kg Women,BOROS Viktoria,85.03,82,86,88,98,103,106,88,106,194
+Las Vegas International Open,2019-03-07,87 kg Women,BRADLEY Jessie Nicole,82.15,0,0,0,0,0,0,0,0,0
+Las Vegas International Open,2019-03-07,+87 kg Women,BROWN Mercy Opeyemi,95.34,92,96,98,-120,120,128,98,128,226
+Las Vegas International Open,2019-03-07,+87 kg Women,MANUMUA Kuinini Juanita Mechteld,107.44,90,95,-98,-115,116,-124,95,116,211

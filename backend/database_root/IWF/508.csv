@@ -1,0 +1,312 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+European Championships,2021-04-03,55 kg Men,LUNGU Daniel,54.94,108,-111,113,-127,127,-131,113,127,240
+European Championships,2021-04-03,55 kg Men,SAHIN Muammer,54.88,-109,109,112,-130,-130,130,112,130,242
+European Championships,2021-04-03,55 kg Men,RUSEV Angel Hriskov,54.88,-105,105,111,140,-147,147,111,147,258
+European Championships,2021-04-03,55 kg Men,VORONOVSKYI Dmytro,54.96,106,110,-112,133,137,-140,110,137,247
+European Championships,2021-04-03,55 kg Men,IANCU Valentin-Ionadi,54.98,100,105,108,130,135,140,108,140,248
+European Championships,2021-04-03,55 kg Men,LUCA Marian-Cristian,54.74,103,107,-111,130,-134,-136,107,130,237
+European Championships,2021-04-03,55 kg Men,DOKVADZE Giorgi,54.96,105,-108,-109,124,-129,-129,105,124,229
+European Championships,2021-04-03,55 kg Men,MUHAMMET Akkaya,55.00,98,-104,-107,120,127,-130,98,127,225
+European Championships,2021-04-03,55 kg Men,POLAK Frantisek,54.94,93,-97,97,119,124,127,97,127,224
+European Championships,2021-04-03,61 kg Men,GROZDEV Stilyan Rosenov,60.82,130,134,136,-156,157,160,136,160,296
+European Championships,2021-04-03,61 kg Men,MISHVELIDZE Shota,61.00,-129,131,135,155,-159,-162,135,155,290
+European Championships,2021-04-03,61 kg Men,LAPTSEU Henadz,60.92,128,-132,132,148,154,-159,132,154,286
+European Championships,2021-04-03,61 kg Men,HARDAL Ferdi,60.92,130,-135,-135,157,-161,-161,130,157,287
+European Championships,2021-04-03,61 kg Men,BRANDHUBER Simon Josef,60.80,120,124,127,-145,-145,145,127,145,272
+European Championships,2021-04-03,61 kg Men,MASSIDDA Sergio,60.86,125,-130,-130,145,155,-160,125,155,280
+European Championships,2021-04-03,61 kg Men,RUIU Davide,60.80,-125,125,-130,150,-158,158,125,158,283
+European Championships,2021-04-03,61 kg Men,SHAMILISHVILI Ramini,60.62,124,-128,-128,147,155,-159,124,155,279
+European Championships,2021-04-03,61 kg Men,TOPTAS Caner,60.96,-124,124,-128,142,145,150,124,150,274
+European Championships,2021-04-03,61 kg Men,BRACHI GARCIA Josue,59.72,115,118,121,-138,138,141,121,141,262
+European Championships,2021-04-03,61 kg Men,MAU Jon Luke,60.86,120,-124,-124,155,160,162,120,162,282
+European Championships,2021-04-03,61 kg Men,ZALIPSKYI Pavlo,60.02,117,-121,-123,135,140,-146,117,140,257
+European Championships,2021-04-03,61 kg Men,LEWI Bar,60.86,110,-113,0,0,0,0,110,0,0
+European Championships,2021-04-03,61 kg Men,VLADISAVLJEV Stevan,60.54,110,-113,-113,135,-140,-140,110,135,245
+European Championships,2021-04-03,67 kg Men,ZANNI Mirko,66.74,142,146,148,-170,170,-174,148,170,318
+European Championships,2021-04-03,67 kg Men,GARAEV Zulfat,66.66,140,144,147,167,-172,-172,147,167,314
+European Championships,2021-04-03,67 kg Men,OZBEK Muhammed Furkan,66.96,139,142,145,170,174,178,145,178,323
+European Championships,2021-04-03,67 kg Men,CHKHEIDZE Goga,66.82,134,138,140,165,170,-175,140,170,310
+European Championships,2021-04-03,67 kg Men,HERNANDEZ MENDOZA Acoran Juan,66.56,130,134,139,155,160,-164,139,160,299
+European Championships,2021-04-03,67 kg Men,ANGELOV Petar Sevdalin,66.90,130,135,138,157,162,-169,138,162,300
+European Championships,2021-04-03,67 kg Men,GENCHEV Valentin Rumyanov,66.72,132,136,138,168,173,177,138,177,315
+European Championships,2021-04-03,67 kg Men,KINGUE MATAM Bernardin Ledoux,66.60,133,136,138,-170,170,-174,138,170,308
+European Championships,2021-04-03,67 kg Men,CASTRO MARINO Victor,66.84,128,132,-136,148,-153,-153,132,148,280
+European Championships,2021-04-03,67 kg Men,IVANOU Dzmitry,66.88,130,-135,-135,155,-160,-160,130,155,285
+European Championships,2021-04-03,67 kg Men,GENC Yusuf Fehmi,66.76,125,130,-132,-166,167,-173,130,167,297
+European Championships,2021-04-03,67 kg Men,URBAN Kacper Kamil,66.42,120,125,-129,140,146,-150,125,146,271
+European Championships,2021-04-03,67 kg Men,PETROV Petr,66.94,-132,-132,-132,160,-165,165,0,165,0
+European Championships,2021-04-03,73 kg Men,ISMAYILOV Daniyar,72.72,155,158,160,181,-185,-185,160,181,341
+European Championships,2021-04-03,73 kg Men,ROBU Marin,72.85,151,156,-159,177,-183,183,156,183,339
+European Championships,2021-04-03,73 kg Men,ANDREEV Bozhidar Dimitrov,72.84,152,-156,-157,182,-188,-190,152,182,334
+European Championships,2021-04-03,73 kg Men,CALJA Briken,72.94,152,-157,-157,-183,184,-188,152,184,336
+European Championships,2021-04-03,73 kg Men,ZHARNOUSKI Ilya,72.74,141,146,150,167,173,176,150,176,326
+European Championships,2021-04-03,73 kg Men,PETROV Sergei,72.94,144,149,-153,171,174,-178,149,174,323
+European Championships,2021-04-03,73 kg Men,SANCHEZ LOPEZ David,72.86,143,147,149,-179,179,183,149,183,332
+European Championships,2021-04-03,73 kg Men,ASANIDZE Kakhi,72.84,144,148,-151,172,179,-182,148,179,327
+European Championships,2021-04-03,73 kg Men,LANG Max Richard,72.62,-145,-145,145,175,180,185,145,185,330
+European Championships,2021-04-03,73 kg Men,YUKSEL Batu Han,72.76,144,-148,-148,-172,-172,-172,144,0,0
+European Championships,2021-04-03,73 kg Men,KUDLASZYK Piotr Mateusz,72.72,138,142,-145,174,-179,-182,142,174,316
+European Championships,2021-04-03,73 kg Men,GONZALEZ BAEZ Alejandro,72.62,-140,140,-145,-170,-170,-170,140,0,0
+European Championships,2021-04-03,73 kg Men,STRANSKY Petr,72.70,125,128,131,-155,155,159,131,159,290
+European Championships,2021-04-03,73 kg Men,PROKOFJEVS Vlads,72.64,123,-126,128,154,-159,159,128,159,287
+European Championships,2021-04-03,73 kg Men,KRING Tim,72.94,-127,-127,127,155,-160,-160,127,155,282
+European Championships,2021-04-03,73 kg Men,ZILINSKAS Zilvinas,72.96,118,122,126,146,147,155,126,155,281
+European Championships,2021-04-03,73 kg Men,STRAND Daniel Roness,72.92,117,121,-124,155,160,-163,121,160,281
+European Championships,2021-04-03,73 kg Men,JONSSON Einar Ingi,72.80,110,114,-118,140,-145,145,114,145,259
+European Championships,2021-04-03,81 kg Men,PIZZOLATO Antonino,80.76,159,162,164,195,200,206,164,206,370
+European Championships,2021-04-03,81 kg Men,NASAR Karlos May Hasan,80.84,158,-162,163,194,200,206,163,206,369
+European Championships,2021-04-03,81 kg Men,MUELLER Nico,80.66,152,-157,158,-188,-188,188,158,188,346
+European Championships,2021-04-03,81 kg Men,MATA PEREZ Andres Eduardo,80.76,148,153,157,183,-188,188,157,188,345
+European Championships,2021-04-03,81 kg Men,SUHAREVS Ritvars,80.38,157,-162,-163,190,-193,-195,157,190,347
+European Championships,2021-04-03,81 kg Men,QERIMAJ Erkand,80.88,150,154,156,180,-184,-185,156,180,336
+European Championships,2021-04-03,81 kg Men,IARKIN Viacheslav,80.56,156,-159,-159,184,-191,-192,156,184,340
+European Championships,2021-04-03,81 kg Men,FERNANDEZ GARCIA Alberto,80.74,145,152,-156,-175,175,-181,152,175,327
+European Championships,2021-04-03,81 kg Men,HARUTYUNYAN Rafik,80.94,145,-150,150,187,196,0,150,196,346
+European Championships,2021-04-03,81 kg Men,BEYTULA Yunder Nedim,80.72,150,-153,-153,185,196,-198,150,196,346
+European Championships,2021-04-03,81 kg Men,CHARNIAK Mikalai,80.90,-147,147,-151,175,-178,181,147,181,328
+European Championships,2021-04-03,81 kg Men,BEBEN Patryk Sylwester,80.98,140,-145,-145,-170,170,-180,140,170,310
+European Championships,2021-04-03,81 kg Men,KMEGY Mate Jozsef,80.58,-138,-138,138,-168,-168,-168,138,0,0
+European Championships,2021-04-03,81 kg Men,TKAC Richard,80.78,130,134,137,165,170,-174,137,170,307
+European Championships,2021-04-03,81 kg Men,CETKOVIC Goran,79.48,110,117,123,135,142,-147,123,142,265
+European Championships,2021-04-03,81 kg Men,FERRARI Amos,79.60,-112,-112,112,140,144,-148,112,144,256
+European Championships,2021-04-03,81 kg Men,ERDOGDU Celil,79.36,-151,-151,-151,0,0,0,0,0,0
+European Championships,2021-04-03,81 kg Men,ZWARYCZ Krzysztof Maciej,80.96,-150,-150,-150,0,0,0,0,0,0
+European Championships,2021-04-03,81 kg Men,GODELLI Daniel,80.98,-152,-152,0,0,0,0,0,0,0
+European Championships,2021-04-03,89 kg Men,AVAGYAN Karen,88.76,165,170,175,200,-204,-204,175,200,375
+European Championships,2021-04-03,89 kg Men,DAVITADZE Revaz,88.64,166,171,-176,198,203,-205,171,203,374
+European Championships,2021-04-03,89 kg Men,KARAPETYAN Andranik,88.40,165,170,-175,195,-200,-205,170,195,365
+European Championships,2021-04-03,89 kg Men,CHEPIK Roman,88.90,157,161,164,-194,194,198,164,198,362
+European Championships,2021-04-03,89 kg Men,KOZHAKIN Ruslan,88.98,156,160,162,190,-197,197,162,197,359
+European Championships,2021-04-03,89 kg Men,SHORAJ Krenar,88.72,-150,150,156,190,192,0,156,192,348
+European Championships,2021-04-03,89 kg Men,IAKOVIDIS Theodoros,88.46,-153,153,156,-187,187,191,156,191,347
+European Championships,2021-04-03,89 kg Men,BRATU Tudor,88.26,150,155,-158,185,190,-191,155,190,345
+European Championships,2021-04-03,89 kg Men,HARANIN Siarhei,88.94,-155,155,-160,192,194,196,155,196,351
+European Championships,2021-04-03,89 kg Men,MARTASIDIS Antonis,88.62,150,-153,-153,190,-198,-198,150,190,340
+European Championships,2021-04-03,89 kg Men,MEZINSKIS Armands,88.58,-148,148,-154,187,-193,-194,148,187,335
+European Championships,2021-04-03,89 kg Men,MARIANAKIS Emmanouil,88.78,140,145,-150,170,175,178,145,178,323
+European Championships,2021-04-03,89 kg Men,POLACEK Peter,88.48,-134,135,139,168,173,177,139,177,316
+European Championships,2021-04-03,89 kg Men,SAMKO Karol,88.78,135,-139,-140,180,-185,-185,135,180,315
+European Championships,2021-04-03,89 kg Men,PELTOKANGAS Antti Oskari,88.80,125,130,-132,165,-170,170,130,170,300
+European Championships,2021-04-03,89 kg Men,ROBERTSSON Daniel,85.38,-122,-123,125,-148,-148,-148,125,0,0
+European Championships,2021-04-03,89 kg Men,RETULAINEN Eero Eljas,88.86,0,0,0,0,0,0,0,0,0
+European Championships,2021-04-03,96 kg Men,PLIESNOI Anton,95.86,171,175,180,207,213,-221,180,213,393
+European Championships,2021-04-03,96 kg Men,ASAYONAK Petr,93.66,167,-172,172,202,-207,-207,172,202,374
+European Championships,2021-04-03,96 kg Men,BABAYAN Artur,95.92,163,167,-171,192,-198,-198,167,192,359
+European Championships,2021-04-03,96 kg Men,ADAMUS Bartlomiej Stefan,95.82,160,165,-169,195,202,206,165,206,371
+European Championships,2021-04-03,96 kg Men,HOVHANNISYAN Davit,93.26,-165,165,-170,-195,-195,-195,165,0,0
+European Championships,2021-04-03,96 kg Men,KUPTSOV Georgii,95.98,-165,-165,165,197,203,-207,165,203,368
+European Championships,2021-04-03,96 kg Men,MKRTCHYAN Hakob,95.48,160,-165,-165,205,212,-215,160,212,372
+European Championships,2021-04-03,96 kg Men,YANTSEVYCH Yevhenii,95.66,160,-164,-164,-187,187,-193,160,187,347
+European Championships,2021-04-03,96 kg Men,GOLJASZ Daniel,95.24,147,151,154,187,192,-196,154,192,346
+European Championships,2021-04-03,96 kg Men,SPIESS Jurgen Christian,95.66,153,-158,-160,-190,-192,-196,153,0,0
+European Championships,2021-04-03,96 kg Men,NYKANEN Jesse Juhani,95.92,148,-152,152,177,181,-185,152,181,333
+European Championships,2021-04-03,96 kg Men,KOLAR Josef,95.32,147,-151,-152,180,-187,-187,147,180,327
+European Championships,2021-04-03,96 kg Men,TSCHAN Yannick,95.24,137,140,143,176,180,-184,143,180,323
+European Championships,2021-04-03,96 kg Men,MUSIC Amar,89.34,135,140,-145,165,175,-179,140,175,315
+European Championships,2021-04-03,96 kg Men,GNESSIN Valentin,93.52,-140,140,-144,180,-185,-185,140,180,320
+European Championships,2021-04-03,102 kg Men,DADASHBAYLI Dadash,101.56,170,174,177,202,-207,-210,177,202,379
+European Championships,2021-04-03,102 kg Men,GASPARYAN Samvel,101.70,171,176,-178,209,214,0,176,214,390
+European Championships,2021-04-03,102 kg Men,SHARANKOU Siarhei,101.42,168,172,-175,202,-206,-206,172,202,374
+European Championships,2021-04-03,102 kg Men,MARTIROSYAN Arsen,101.32,165,171,-175,205,209,-212,171,209,380
+European Championships,2021-04-03,102 kg Men,CHKHEIDZE Irakli,101.78,162,167,171,205,-210,-210,171,205,376
+European Championships,2021-04-03,102 kg Men,FISCHEROV David,101.54,160,165,168,205,210,-213,168,210,378
+European Championships,2021-04-03,102 kg Men,MARINOV Vasil Kaloyanov,101.56,167,-172,-173,200,-208,208,167,208,375
+European Championships,2021-04-03,102 kg Men,ARLIONAK Andrei,101.80,165,-169,-169,190,197,201,165,201,366
+European Championships,2021-04-03,102 kg Men,PETROV Fedor,101.50,160,-165,165,201,-206,-206,165,201,366
+European Championships,2021-04-03,102 kg Men,KRYWULT Patrik,101.44,150,155,-158,-180,180,-185,155,180,335
+European Championships,2021-04-03,102 kg Men,MUGURDUMOV Artur,100.30,-150,150,155,-188,190,200,155,200,355
+European Championships,2021-04-03,102 kg Men,NAZAROV Alish,99.10,135,-140,141,160,167,174,141,174,315
+European Championships,2021-04-03,102 kg Men,GRITENCO Artiom,101.46,-140,140,-145,168,-176,-176,140,168,308
+European Championships,2021-04-03,102 kg Men,DIAKOVASILIS Jacob Alexander Panayotis,101.62,-138,-138,140,175,-181,181,140,181,321
+European Championships,2021-04-03,102 kg Men,OSTROVSKY Viktor,96.12,135,-140,-141,170,-174,-174,135,170,305
+European Championships,2021-04-03,109 kg Men,MARTIROSYAN Simon,108.70,-190,-190,190,-227,-227,-227,190,0,0
+European Championships,2021-04-03,109 kg Men,HRISTOV Hristo Dimitrov,108.78,181,186,-190,214,-220,220,186,220,406
+European Championships,2021-04-03,109 kg Men,NANIEV Timur,108.96,180,184,-186,213,217,-223,184,217,401
+European Championships,2021-04-03,109 kg Men,CHUMAK Dmytro,107.56,-181,-181,181,220,-226,226,181,226,407
+European Championships,2021-04-03,109 kg Men,RUIZ I VELASCO Marcos,108.58,175,-180,180,210,215,220,180,220,400
+European Championships,2021-04-03,109 kg Men,MICHALSKI Arkadiusz,108.92,171,174,177,219,-225,-226,177,219,396
+European Championships,2021-04-03,109 kg Men,MARTIROSJAN Sargis,108.58,170,-175,175,-190,-190,190,175,190,365
+European Championships,2021-04-03,109 kg Men,BALAEV Khas-Magomed,108.22,170,175,-177,206,-211,-211,175,206,381
+European Championships,2021-04-03,109 kg Men,PLESNIEKS Arturs,108.50,170,175,-180,213,219,-223,175,219,394
+European Championships,2021-04-03,109 kg Men,TATARCIK Radoslav,108.60,165,-170,170,177,-183,183,170,183,353
+European Championships,2021-04-03,109 kg Men,KASABIJEW Arsen,106.00,165,170,-173,205,212,220,170,220,390
+European Championships,2021-04-03,109 kg Men,SIDISKIS Arnas,108.82,155,160,-165,190,-194,194,160,194,354
+European Championships,2021-04-03,109 kg Men,GASIOR Jiri,107.74,-148,148,151,188,194,-200,151,194,345
+European Championships,2021-04-03,109 kg Men,KESKITALO Hannes Heikki Juhani,108.78,145,150,-153,190,200,0,150,200,350
+European Championships,2021-04-03,+109 kg Men,TALAKHADZE Lasha,176.30,211,217,222,245,253,263,222,263,485
+European Championships,2021-04-03,+109 kg Men,MINASYAN Gor,150.14,205,212,216,240,248,-252,216,248,464
+European Championships,2021-04-03,+109 kg Men,LALAYAN Varazdat,147.68,200,205,-209,240,-250,-250,205,240,445
+European Championships,2021-04-03,+109 kg Men,ZIAZIULIN Eduard,138.74,197,-202,-202,227,-233,-233,197,227,424
+European Championships,2021-04-03,+109 kg Men,SAVCHUK Antoniy,139.56,180,185,190,215,221,228,190,228,418
+European Championships,2021-04-03,+109 kg Men,BIBIK Oleksii,123.70,180,185,189,210,221,0,189,221,410
+European Championships,2021-04-03,+109 kg Men,LITVINOV David,129.82,177,184,188,207,213,-218,188,213,401
+European Championships,2021-04-03,+109 kg Men,NAGY Peter,158.68,-176,176,182,216,222,-229,182,222,404
+European Championships,2021-04-03,+109 kg Men,KUCERA Kamil,159.10,-177,177,182,227,233,-237,182,233,415
+European Championships,2021-04-03,+109 kg Men,KUWORGE Enzo Kofi,158.50,172,176,-180,-222,-222,222,176,222,398
+European Championships,2021-04-03,+109 kg Men,KAJDOCI Tamas,143.26,162,168,172,207,215,218,172,218,390
+European Championships,2021-04-03,+109 kg Men,KAPLAN Yildiray,135.00,165,170,-175,200,-210,211,170,211,381
+European Championships,2021-04-03,+109 kg Men,ARAMNAU Andrei,119.68,160,-170,170,195,205,0,170,205,375
+European Championships,2021-04-03,+109 kg Men,ORSAG Jiri,141.30,-170,170,-175,225,232,-237,170,232,402
+European Championships,2021-04-03,+109 kg Men,TOLLEFSEN Kim Eirik,122.12,155,-160,160,195,201,-206,160,201,361
+European Championships,2021-04-03,+109 kg Men,LITHEN Carl Hampus,143.46,152,156,-159,195,-205,-207,156,195,351
+European Championships,2021-04-03,+109 kg Men,LINDFORS Petri Mikael,123.60,140,144,-148,175,-180,-180,144,175,319
+European Championships,2021-04-03,+109 kg Men,KAJDOCSI Tivadar,124.77,142,-148,-148,180,-190,190,142,190,332
+European Championships,2021-04-03,+109 kg Men,TURMANIDZE Irakli,141.78,-191,-191,-191,0,0,0,0,0,0
+European Championships,2021-04-03,+109 kg Men,ROININEN Teemu Tapio,117.26,0,0,0,0,0,0,0,0,0
+European Championships,2021-04-03,45 kg Women,NGUEN Nadezhda-Mey Tuy,44.90,67,70,72,-83,83,-85,72,83,155
+European Championships,2021-04-03,45 kg Women,GUNES Melisa,44.66,-63,63,68,80,83,-85,68,83,151
+European Championships,2021-04-03,45 kg Women,LOMACHYNSKA Anhelina,44.70,67,-69,-69,-82,82,-85,67,82,149
+European Championships,2021-04-03,45 kg Women,PETROVA Ivana Gerogieva,44.72,65,67,-69,-85,85,-89,67,85,152
+European Championships,2021-04-03,45 kg Women,PANA Adriana Cosmina,44.70,63,66,-69,80,-84,84,66,84,150
+European Championships,2021-04-03,45 kg Women,DUMITRESCU Bianca-Daniela,44.40,-63,64,-68,-78,-78,78,64,78,142
+European Championships,2021-04-03,45 kg Women,ZAGORAC Radmila,44.80,63,-66,-68,-75,75,-78,63,75,138
+European Championships,2021-04-03,45 kg Women,GRABUCEA Ecaterina,44.50,52,54,56,66,69,72,56,72,128
+European Championships,2021-04-03,45 kg Women,MAJER Tihana,44.84,-63,-63,-63,78,-81,81,0,81,0
+European Championships,2021-04-03,49 kg Women,CSENGERI Monica-Suneta,48.78,86,-90,-90,97,100,103,86,103,189
+European Championships,2021-04-03,49 kg Women,SOBOL Kristina Ivanovna,48.80,83,85,-87,-93,93,96,85,96,181
+European Championships,2021-04-03,49 kg Women,IMPERIO Giulia,48.88,76,81,-84,94,97,-100,81,97,178
+European Championships,2021-04-03,49 kg Women,CAMBEI Mihaela-Valentina,48.24,80,-84,-84,96,100,-102,80,100,180
+European Championships,2021-04-03,49 kg Women,ERDOGAN Saziye,48.82,78,-80,-82,97,-99,-101,78,97,175
+European Championships,2021-04-03,49 kg Women,MICHEL Anais,48.58,-75,75,77,95,-97,-97,77,95,172
+European Championships,2021-04-03,49 kg Women,JENSEN Sandra Hoegfeldt,48.70,72,74,76,86,89,91,76,91,167
+European Championships,2021-04-03,49 kg Women,KARASAKAL Nida,48.56,74,-77,-77,-90,90,-95,74,90,164
+European Championships,2021-04-03,49 kg Women,POLAKOWSKA Marlena Ewelina,48.46,72,74,-76,84,-86,-86,74,84,158
+European Championships,2021-04-03,49 kg Women,FERNANDEZ GARCIA Olga Maria,48.90,70,73,-75,90,94,-96,73,94,167
+European Championships,2021-04-03,49 kg Women,HINCU Teodora-Luminita,48.82,68,71,-72,-84,84,-87,71,84,155
+European Championships,2021-04-03,49 kg Women,THORNTON Tenishia,48.52,68,-70,70,85,87,89,70,89,159
+European Championships,2021-04-03,49 kg Women,PIPILIARIDOU Maria,48.50,-68,68,-71,-89,89,-91,68,89,157
+European Championships,2021-04-03,55 kg Women,KONOTOP Kamila,54.98,90,93,95,108,111,113,95,113,208
+European Championships,2021-04-03,55 kg Women,YAYLYAN Izabella,54.74,85,90,-92,105,-110,-110,90,105,195
+European Championships,2021-04-03,55 kg Women,VELI Evagjelia,54.26,87,-89,89,105,-108,-108,89,105,194
+European Championships,2021-04-03,55 kg Women,ERSHOVA Svetlana,54.96,-85,85,88,105,110,112,88,112,200
+European Championships,2021-04-03,55 kg Women,STERCKX Nina,54.14,-87,-87,88,103,-108,109,88,109,197
+European Championships,2021-04-03,55 kg Women,COTRUTA Andreea,53.90,83,-87,87,102,-106,-106,87,102,189
+European Championships,2021-04-03,55 kg Women,LOMBARDO Jennifer,54.62,85,-88,0,0,0,0,85,0,0
+European Championships,2021-04-03,55 kg Women,LOCHOWSKA Joanna,54.92,81,-84,84,102,106,-108,84,106,190
+European Championships,2021-04-03,55 kg Women,HERNANDEZ MARTIN Atenery,54.86,80,83,-85,98,-101,101,83,101,184
+European Championships,2021-04-03,55 kg Women,SAMULIAK Svitlana,54.54,80,-83,83,92,96,-99,83,96,179
+European Championships,2021-04-03,55 kg Women,OVSTHUS Sarah Orteza Hovden,54.08,-83,83,-85,103,-106,-106,83,103,186
+European Championships,2021-04-03,55 kg Women,KENTLI Sumeyye,54.74,80,-83,83,107,110,-113,83,110,193
+European Championships,2021-04-03,55 kg Women,IVANOVA Maya Petrova,54.52,81,-84,-84,100,104,106,81,106,187
+European Championships,2021-04-03,55 kg Women,RIGAUD Garance Ariette Ouiza,54.44,79,-82,-83,99,101,-103,79,101,180
+European Championships,2021-04-03,55 kg Women,LIUKKONEN Laura Anita,54.96,72,75,-77,93,97,-100,75,97,172
+European Championships,2021-04-03,55 kg Women,VANDENABEELE Annelien,54.72,72,-75,75,89,92,94,75,94,169
+European Championships,2021-04-03,55 kg Women,ZALATAROVA Aksana,54.86,70,-73,-73,80,83,-85,70,83,153
+European Championships,2021-04-03,55 kg Women,BRUNO Chiara Filomena,54.50,65,-69,-69,-80,80,84,65,84,149
+European Championships,2021-04-03,55 kg Women,JACOBSEN Rebekka Tao,54.88,-77,-77,-77,0,0,0,0,0,0
+European Championships,2021-04-03,55 kg Women,BRUHN Katrine Nim,54.10,-78,-78,-79,99,103,-105,0,103,0
+European Championships,2021-04-03,55 kg Women,BRAJSHORI Leonora,54.84,-65,0,0,65,68,-70,0,68,0
+European Championships,2021-04-03,59 kg Women,TE Olga,58.74,95,-98,-98,-110,110,115,95,115,210
+European Championships,2021-04-03,59 kg Women,TCHAKOUNTE Dora Meiriama,58.66,92,95,-97,110,-115,115,95,115,210
+European Championships,2021-04-03,59 kg Women,KOZLOVA Aleksandra,58.82,87,91,-93,105,111,-115,91,111,202
+European Championships,2021-04-03,59 kg Women,MARTINEZ SANTIAGO Irene,58.68,90,-92,-92,100,103,-105,90,103,193
+European Championships,2021-04-03,59 kg Women,RETULAINEN Saara Sylvia Amanda,58.58,87,90,-92,108,-110,-111,90,108,198
+European Championships,2021-04-03,59 kg Women,HANHUR Mariia,58.40,89,-93,-93,108,-113,-113,89,108,197
+European Championships,2021-04-03,59 kg Women,SMITH Zoe,58.80,87,-89,89,-111,111,-114,89,111,200
+European Championships,2021-04-03,59 kg Women,ANDERSSON Ine Drablos,58.24,-86,86,88,110,113,-116,88,113,201
+European Championships,2021-04-03,59 kg Women,BIJLEVELD Sanne,58.46,82,85,-87,105,-109,-110,85,105,190
+European Championships,2021-04-03,59 kg Women,WAALER Sol Anette,58.64,83,85,-87,103,105,-107,85,105,190
+European Championships,2021-04-03,59 kg Women,HELGADOTTIR Thuridur Erla,58.22,80,83,-85,100,104,108,83,108,191
+European Championships,2021-04-03,59 kg Women,SKANDI EL ASAAD Mouna,59.00,-79,79,82,103,106,-108,82,106,188
+European Championships,2021-04-03,59 kg Women,AARSTEN Amalie Loevind,58.30,78,-81,-81,98,101,-104,78,101,179
+European Championships,2021-04-03,59 kg Women,LEBBE Nathalie Marie B,58.76,75,78,-81,95,-99,100,78,100,178
+European Championships,2021-04-03,59 kg Women,SZYMANEK Monika Malgorzata,58.66,-78,78,-81,102,106,-110,78,106,184
+European Championships,2021-04-03,59 kg Women,GORISEK Ivana,58.64,69,73,-76,85,-88,-88,73,85,158
+European Championships,2021-04-03,59 kg Women,ARVA Cintia Andrea,58.20,68,-71,-71,91,94,-96,68,94,162
+European Championships,2021-04-03,59 kg Women,MEISTER Scheila,57.90,-77,-78,-78,95,100,-103,0,100,0
+European Championships,2021-04-03,59 kg Women,KOSTOVA Boyanka Minkova,58.74,92,95,-97,111,-116,116,0,0,0
+European Championships,2021-04-03,64 kg Women,TOMA Loredana-Elena,63.90,101,107,114,123,130,-137,114,130,244
+European Championships,2021-04-03,64 kg Women,DAVIES Sarah,63.70,96,98,101,122,126,129,101,129,230
+European Championships,2021-04-03,64 kg Women,ANZOROVA Anastasiia,63.94,94,97,100,117,122,-128,100,122,222
+European Championships,2021-04-03,64 kg Women,SCHWEIZER Lisa Marie,63.38,-97,97,100,118,-121,-121,100,118,218
+European Championships,2021-04-03,64 kg Women,LEVENT Nuray,63.80,94,-97,98,-115,115,-120,98,115,213
+European Championships,2021-04-03,64 kg Women,KONDRASHOVA Iana,63.40,93,-96,96,113,-118,-118,96,113,209
+European Championships,2021-04-03,64 kg Women,GHERMAN Daniela Mariana,63.14,-95,95,-98,110,-115,-115,95,110,205
+European Championships,2021-04-03,64 kg Women,VUOHIJOKI Anni Teija Orvokki,63.74,94,-96,-96,115,118,-120,94,118,212
+European Championships,2021-04-03,64 kg Women,KUSTERER Sabine Beate,63.30,-94,94,-97,113,116,-118,94,116,210
+European Championships,2021-04-03,64 kg Women,ARDALSBAKKE Marit,63.66,87,90,93,-105,105,-108,93,105,198
+European Championships,2021-04-03,64 kg Women,WOLK Wiktoria Krystyna,63.28,85,89,-93,105,-110,110,89,110,199
+European Championships,2021-04-03,64 kg Women,ADOLFSSON Jenny Ji,63.88,82,85,87,103,-108,108,87,108,195
+European Championships,2021-04-03,64 kg Women,POULSEN Amanda Novakowska,62.24,-83,83,-87,-102,102,105,83,105,188
+European Championships,2021-04-03,64 kg Women,MARTINEZ Garoa,63.28,78,82,-87,100,-105,-105,82,100,182
+European Championships,2021-04-03,64 kg Women,SAARHELO Marianne Ellen Vilhelmiina,63.94,-78,78,81,98,-102,-103,81,98,179
+European Championships,2021-04-03,64 kg Women,PUDIVITROVA Eliska,62.74,76,-79,81,96,100,-103,81,100,181
+European Championships,2021-04-03,64 kg Women,PROKIC Aleksandra,62.28,76,80,-83,96,-100,-100,80,96,176
+European Championships,2021-04-03,64 kg Women,SIGURDARDOTTIR Amalia Osk,62.70,74,-78,79,-98,-99,100,79,100,179
+European Championships,2021-04-03,64 kg Women,KALO Sarit,63.54,-75,75,-79,95,-99,-99,75,95,170
+European Championships,2021-04-03,71 kg Women,OLARU Raluca-Andreea,66.50,94,-97,98,112,117,120,98,120,218
+European Championships,2021-04-03,71 kg Women,GODLEY Emily Victoria (ENG),70.42,94,-97,98,122,129,-132,98,129,227
+European Championships,2021-04-03,71 kg Women,DURANTE Alessia,66.54,93,96,97,115,120,122,97,122,219
+European Championships,2021-04-03,71 kg Women,MITYKO Veronika,70.36,-90,90,96,103,106,-108,96,106,202
+European Championships,2021-04-03,71 kg Women,KIREVA Maria-Magdalena Kirilova,70.70,92,95,-97,-108,-108,0,95,0,0
+European Championships,2021-04-03,71 kg Women,HERNANDEZ MARTIN Ilia,70.60,90,-93,93,116,-119,119,93,119,212
+European Championships,2021-04-03,71 kg Women,BRAZAITE Gintare,70.12,92,-94,-95,110,115,118,92,118,210
+European Championships,2021-04-03,71 kg Women,PRISCEPA Natalia,70.72,-92,-92,92,110,114,-117,92,114,206
+European Championships,2021-04-03,71 kg Women,SHCHAPANAVA Alina,65.22,85,89,91,107,112,114,91,114,205
+European Championships,2021-04-03,71 kg Women,HORNA Ivana,70.88,86,89,91,-107,108,-112,91,108,199
+European Championships,2021-04-03,71 kg Women,DZEMIDAVETS Liubou,70.56,85,89,-91,105,108,111,89,111,200
+European Championships,2021-04-03,71 kg Women,ANGONESE Manon,69.66,86,89,-91,107,110,112,89,112,201
+European Championships,2021-04-03,71 kg Women,GUDE Line,69.70,82,85,88,102,-106,107,88,107,195
+European Championships,2021-04-03,71 kg Women,ZAMMIT STEVENS Yasmin,69.74,83,86,88,-102,102,-104,88,102,190
+European Championships,2021-04-03,71 kg Women,KACZMARCZYK Andzelika,70.96,-85,85,88,110,113,-116,88,113,201
+European Championships,2021-04-03,71 kg Women,ALTUN Berfin,65.38,85,88,-90,115,119,121,88,121,209
+European Championships,2021-04-03,71 kg Women,FOMINA Anna,67.82,86,87,-95,109,-115,-116,87,109,196
+European Championships,2021-04-03,71 kg Women,KOURTELIDOU Eleni,70.52,86,-90,-90,109,112,115,86,115,201
+European Championships,2021-04-03,71 kg Women,HAHN Victoria,70.78,86,-89,-90,-105,105,-109,86,105,191
+European Championships,2021-04-03,71 kg Women,TOLSTRUP Laura Vest,70.20,82,85,-88,105,-109,111,85,111,196
+European Championships,2021-04-03,71 kg Women,RONDZIKOVA Nina,68.66,-85,85,-89,103,106,-109,85,106,191
+European Championships,2021-04-03,71 kg Women,OHMAN Marina,70.94,81,84,-87,95,100,-102,84,100,184
+European Championships,2021-04-03,71 kg Women,ROSINSKA Yevheniia,70.36,83,-86,-86,104,-107,-109,83,104,187
+European Championships,2021-04-03,71 kg Women,HERTLOVA Simona,69.54,82,-86,-86,100,104,-107,82,104,186
+European Championships,2021-04-03,71 kg Women,BJELIC Sonja,69.78,80,-85,-86,100,-105,-105,80,100,180
+European Championships,2021-04-03,76 kg Women,DEKHA Iryna,75.94,110,113,-115,130,-135,135,113,135,248
+European Championships,2021-04-03,76 kg Women,SOTIEVA Iana,75.78,105,110,112,130,134,-137,112,134,246
+European Championships,2021-04-03,76 kg Women,ROMANOVA Anastasiia,72.06,106,111,-114,125,130,132,111,132,243
+European Championships,2021-04-03,76 kg Women,NAUMAVA Darya,75.44,100,106,108,127,132,-136,108,132,240
+European Championships,2021-04-03,76 kg Women,STRENIUS Patricia Caroline,74.68,100,104,-107,130,-135,-135,104,130,234
+European Championships,2021-04-03,76 kg Women,WIOR Jolanta Malgorzata,73.98,94,97,99,116,-121,-122,99,116,215
+European Championships,2021-04-03,76 kg Women,RIEGER Patricia,75.74,95,-100,-100,116,120,-123,95,120,215
+European Championships,2021-04-03,76 kg Women,LITOSHYK Ryna,75.46,90,-95,95,110,117,121,95,121,216
+European Championships,2021-04-03,76 kg Women,ANDREASEN Clara,75.76,87,90,-93,103,105,-107,90,105,195
+European Championships,2021-04-03,76 kg Women,HORVATH Laura,75.34,86,89,-91,108,-111,111,89,111,200
+European Championships,2021-04-03,76 kg Women,PEDERSEN Mette Fasmila,73.82,80,83,-86,98,101,-103,83,101,184
+European Championships,2021-04-03,81 kg Women,MARUSHCHAK Alina,77.62,103,106,109,122,127,-131,109,127,236
+European Championships,2021-04-03,81 kg Women,SCHROTH Nina,80.52,97,100,-102,115,118,-121,100,118,218
+European Championships,2021-04-03,81 kg Women,KAYA Rabia,77.90,-96,96,100,115,-120,120,100,120,220
+European Championships,2021-04-03,81 kg Women,NAYO KETCHANKE Gaelle Verlaine,80.30,96,-100,100,126,-131,131,100,131,231
+European Championships,2021-04-03,81 kg Women,SAZANAVETS Dzina,78.50,95,99,-101,116,-121,-121,99,116,215
+European Championships,2021-04-03,81 kg Women,GYURJYAN Liana,80.26,94,98,-100,121,125,129,98,129,227
+European Championships,2021-04-03,81 kg Women,UCAN Dilara,76.34,95,97,-99,116,121,-124,97,121,218
+European Championships,2021-04-03,81 kg Women,ZIELINSKA Weronika,79.16,95,-99,-99,-118,-118,121,95,121,216
+European Championships,2021-04-03,81 kg Women,RUBANOVICH Nikol Bella,78.90,-95,95,-100,110,115,-119,95,115,210
+European Championships,2021-04-03,81 kg Women,SENICOVA Nikola,80.14,86,90,93,-108,109,114,93,114,207
+European Championships,2021-04-03,81 kg Women,SZUROMI Timea Reka,80.64,-92,92,-96,110,-116,-116,92,110,202
+European Championships,2021-04-03,81 kg Women,GADELIA Natia,78.90,85,89,91,105,111,-115,91,111,202
+European Championships,2021-04-03,81 kg Women,MINKOVA Dziyana,79.58,85,-89,89,112,-117,-117,89,112,201
+European Championships,2021-04-03,81 kg Women,SKLENICKOVA Michaela,78.14,-82,82,86,108,112,-115,86,112,198
+European Championships,2021-04-03,87 kg Women,HOTFRID Anastasiia,86.54,108,111,-113,128,-132,-132,111,128,239
+European Championships,2021-04-03,87 kg Women,AKHMEROVA Daria,85.02,103,106,108,132,136,138,108,138,246
+European Championships,2021-04-03,87 kg Women,CILCIC Elena,84.96,103,107,-110,129,134,138,107,138,245
+European Championships,2021-04-03,87 kg Women,RIAZANOVA Daria,85.88,100,-105,105,128,133,135,105,135,240
+European Championships,2021-04-03,87 kg Women,KISIL Valentyna,86.62,100,104,-108,117,-122,-122,104,117,221
+European Championships,2021-04-03,87 kg Women,KACZMARCZYK Kinga,86.92,100,103,-105,127,-134,-134,103,127,230
+European Championships,2021-04-03,87 kg Women,HAKOBYAN Tatev,86.70,101,-106,-106,120,-126,-129,101,120,221
+European Championships,2021-04-03,87 kg Women,KOANDA Solfrid Eila Amena,86.36,95,100,-104,125,130,135,100,135,235
+European Championships,2021-04-03,87 kg Women,FISCHER Sarah,86.42,95,99,-102,118,-123,123,99,123,222
+European Championships,2021-04-03,87 kg Women,VENNEKILDE Marie Louise,86.52,95,-99,-101,116,119,-121,95,119,214
+European Championships,2021-04-03,87 kg Women,JUNHOV-RINDBERG Paula Maria,86.52,92,-95,95,108,113,-115,95,113,208
+European Championships,2021-04-03,87 kg Women,ILMARINEN Meri Tuuli Linnea,81.20,90,92,94,117,120,121,94,121,215
+European Championships,2021-04-03,87 kg Women,ZAKHARCHUK Ina,85.48,-87,87,0,106,109,111,87,111,198
+European Championships,2021-04-03,87 kg Women,BOROS Viktoria,83.50,-85,85,-90,107,-111,-111,85,107,192
+European Championships,2021-04-03,+87 kg Women,CAMPBELL Emily Jade,122.06,115,117,122,145,150,154,122,154,276
+European Championships,2021-04-03,+87 kg Women,LYSENKO Anastasiia,100.88,106,109,116,131,136,0,116,136,252
+European Championships,2021-04-03,+87 kg Women,GUNAL Melike,114.18,105,-108,108,130,-135,135,108,135,243
+European Championships,2021-04-03,+87 kg Women,HRASNOVA Martina,90.56,-99,99,103,112,116,-120,103,116,219
+European Championships,2021-04-03,+87 kg Women,BOYNUEGRI Tugce,87.86,90,95,100,110,116,120,100,120,220
+European Championships,2021-04-03,+87 kg Women,DALALYAN Arpine,110.44,-95,-95,95,126,0,0,95,126,221
+European Championships,2021-04-03,+87 kg Women,VANBELLINGHEN Anna Marie-J A M,87.20,-90,90,94,107,111,114,94,114,208
+European Championships,2021-04-03,+87 kg Women,ANDREIKAVETS Katsiaryna,92.78,85,89,-91,107,111,114,89,114,203
+European Championships,2021-04-03,+87 kg Women,BORODINA Krystyna,88.84,-85,85,88,110,113,116,88,116,204
+European Championships,2021-04-03,+87 kg Women,BAZSO Bianka,88.12,83,-87,-87,109,113,-115,83,113,196
+European Championships,2021-04-03,+87 kg Women,GYURUS Barbara,122.58,79,-83,83,99,103,-107,83,103,186
+European Championships,2021-04-03,+87 kg Women,KRALOVA Tereza,97.68,80,-83,-84,100,105,107,80,107,187

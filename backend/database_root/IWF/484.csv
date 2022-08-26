@@ -1,0 +1,123 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+Asian Junior Championships,2019-10-19,55 kg Men,PAK Chung Guk,54.80,108,111,112,-135,-135,135,112,135,247
+Asian Junior Championships,2019-10-19,55 kg Men,QUAN Dac Tri,54.71,104,109,-112,-131,131,-134,109,131,240
+Asian Junior Championships,2019-10-19,55 kg Men,DO Tu Tung,54.34,100,103,109,128,133,137,109,137,246
+Asian Junior Championships,2019-10-19,55 kg Men,PANG Un Chol,54.90,105,108,-110,133,-136,-140,108,133,241
+Asian Junior Championships,2019-10-19,55 kg Men,ANDREAN PUTRA Albin,54.96,98,-102,-105,115,125,-132,98,125,223
+Asian Junior Championships,2019-10-19,55 kg Men,AUYELKHANOV Ablay,54.37,93,97,-100,123,-130,130,97,130,227
+Asian Junior Championships,2019-10-19,55 kg Men,KAO Chun-Chieh,54.57,87,90,-93,107,110,-113,90,110,200
+Asian Junior Championships,2019-10-19,55 kg Men,WANG Ting-Wei,54.83,-90,90,-93,105,-110,-110,90,105,195
+Asian Junior Championships,2019-10-19,61 kg Men,KIM Chung Guk,60.90,-125,-125,125,155,159,-169,125,159,284
+Asian Junior Championships,2019-10-19,61 kg Men,LY Quang Vinh,59.97,120,-123,124,140,-145,-145,124,140,264
+Asian Junior Championships,2019-10-19,61 kg Men,O Won Gwan,60.97,117,121,123,145,150,-153,123,150,273
+Asian Junior Championships,2019-10-19,61 kg Men,SETIAWAN Muhammad Halim,60.43,116,-121,122,147,152,154,122,154,276
+Asian Junior Championships,2019-10-19,61 kg Men,BUI Dinh Sang,60.56,116,-120,-120,138,-141,141,116,141,257
+Asian Junior Championships,2019-10-19,61 kg Men,PACALDO ZAMORA Dave Llyod,60.72,110,-115,115,140,145,-150,115,145,260
+Asian Junior Championships,2019-10-19,61 kg Men,AKMOLDA Sairamkez,60.89,110,115,-120,140,143,-152,115,143,258
+Asian Junior Championships,2019-10-19,61 kg Men,BAE Moonsu,60.57,110,-115,115,142,148,153,115,153,268
+Asian Junior Championships,2019-10-19,61 kg Men,ABDUKHALILOV Nurdiyor,60.93,107,111,-114,134,139,143,111,143,254
+Asian Junior Championships,2019-10-19,61 kg Men,CHANG Hsiu-Wei,60.59,100,105,-108,-120,120,130,105,130,235
+Asian Junior Championships,2019-10-19,61 kg Men,BABAMURADOV Ali,55.55,-95,-95,95,115,120,-123,95,120,215
+Asian Junior Championships,2019-10-19,67 kg Men,RI Ryong Hyon,66.82,130,135,139,166,173,-183,139,173,312
+Asian Junior Championships,2019-10-19,67 kg Men,YASIN Mohammad,66.75,130,135,138,155,160,-164,138,160,298
+Asian Junior Championships,2019-10-19,67 kg Men,JEREMY Lalrinnunga,65.92,-131,134,-137,-161,161,165,134,165,299
+Asian Junior Championships,2019-10-19,67 kg Men,ALMAZYADI Nawaf Mohammed S,66.71,120,126,-131,156,-162,162,126,162,288
+Asian Junior Championships,2019-10-19,67 kg Men,REYIMOV Bektimur,66.59,118,121,-124,140,-145,-145,121,140,261
+Asian Junior Championships,2019-10-19,67 kg Men,OLIMOV Khojiakbar,66.98,119,-122,-123,146,151,154,119,154,273
+Asian Junior Championships,2019-10-19,67 kg Men,TORAYEV Gaygysyz,66.98,115,-119,-119,-140,140,-146,115,140,255
+Asian Junior Championships,2019-10-19,67 kg Men,ISLAM Md Nayemul,66.08,108,-114,114,-130,-132,132,114,132,246
+Asian Junior Championships,2019-10-19,73 kg Men,ABDULLAH Rahmat Erwin,72.74,141,145,147,171,175,179,147,179,326
+Asian Junior Championships,2019-10-19,73 kg Men,KO Myong Ho,72.41,137,142,144,171,-175,175,144,175,319
+Asian Junior Championships,2019-10-19,73 kg Men,NGUYEN Van Hieu,72.31,-135,138,142,-166,169,-173,142,169,311
+Asian Junior Championships,2019-10-19,73 kg Men,MEREDOV Maksad,72.06,136,-139,139,-173,-173,-173,139,0,0
+Asian Junior Championships,2019-10-19,73 kg Men,RO Chung Ryol,72.44,138,-141,-141,0,0,0,138,0,0
+Asian Junior Championships,2019-10-19,73 kg Men,SHIN Bi,72.14,130,135,138,173,175,-180,138,175,313
+Asian Junior Championships,2019-10-19,73 kg Men,SHEULI Achinta,72.86,133,-138,-138,163,167,170,133,170,303
+Asian Junior Championships,2019-10-19,73 kg Men,NARIMANOV Asadbek,72.22,126,129,131,155,160,163,131,163,294
+Asian Junior Championships,2019-10-19,73 kg Men,TUKHTAEV Ogabek,72.89,124,126,129,153,157,163,129,163,292
+Asian Junior Championships,2019-10-19,73 kg Men,LEE Youngmin,72.23,121,-126,126,162,-169,-170,126,162,288
+Asian Junior Championships,2019-10-19,73 kg Men,LEIPHRAKPAM Sadananda Singh,72.89,121,125,-127,150,155,158,125,158,283
+Asian Junior Championships,2019-10-19,81 kg Men,TOSHTEMIROV Mukhammadkodir,77.51,148,152,156,178,182,186,156,186,342
+Asian Junior Championships,2019-10-19,81 kg Men,MOLDODOSOV Emil,80.79,147,-151,-151,175,180,184,147,184,331
+Asian Junior Championships,2019-10-19,81 kg Men,ANNABERDIYEV Rustem,79.59,-140,140,146,168,-173,-173,146,168,314
+Asian Junior Championships,2019-10-19,81 kg Men,RO Kwang Ryol,80.87,-145,145,-150,185,187,-198,145,187,332
+Asian Junior Championships,2019-10-19,81 kg Men,NGUYEN Quoc Toan,79.53,130,136,141,156,160,166,141,166,307
+Asian Junior Championships,2019-10-19,81 kg Men,SHOHRADOV Shatlyk,79.29,-140,140,-146,-170,170,176,140,176,316
+Asian Junior Championships,2019-10-19,81 kg Men,JEONG Sumin,76.19,-132,132,137,-155,156,-160,137,156,293
+Asian Junior Championships,2019-10-19,81 kg Men,BODAH Jones,80.86,115,122,127,140,-150,150,127,150,277
+Asian Junior Championships,2019-10-19,81 kg Men,SAPI Yessenkeldi,80.66,125,-130,-130,165,-183,-183,125,165,290
+Asian Junior Championships,2019-10-19,89 kg Men,ADILETULY Nurgissa,88.91,155,160,163,185,191,194,163,194,357
+Asian Junior Championships,2019-10-19,89 kg Men,ZAFARJONOV Sarvarbek,82.27,156,-161,161,185,191,-194,161,191,352
+Asian Junior Championships,2019-10-19,89 kg Men,YEOM Dahoon,88.10,155,160,-164,190,-195,198,160,198,358
+Asian Junior Championships,2019-10-19,89 kg Men,PAK Kum Il,88.74,-152,152,158,196,-201,-201,158,196,354
+Asian Junior Championships,2019-10-19,89 kg Men,ALOTHMAN Ali Yousef A,88.14,135,140,143,170,175,-177,143,175,318
+Asian Junior Championships,2019-10-19,89 kg Men,DONG Bing-Cheng,88.62,132,137,-140,-160,160,173,137,173,310
+Asian Junior Championships,2019-10-19,89 kg Men,VUONG Truong Khoi,88.10,127,132,134,160,171,176,134,176,310
+Asian Junior Championships,2019-10-19,89 kg Men,TABIQUE FEBRA John Dexter,88.44,120,125,130,150,155,-160,130,155,285
+Asian Junior Championships,2019-10-19,89 kg Men,HSIEH Tzu-Hao,87.67,115,122,-127,155,164,-167,122,164,286
+Asian Junior Championships,2019-10-19,96 kg Men,YANG Tae Bong,95.62,152,157,160,192,197,201,160,201,361
+Asian Junior Championships,2019-10-19,96 kg Men,BEKBOLAT Rakhat,95.15,144,150,156,176,186,196,156,196,352
+Asian Junior Championships,2019-10-19,96 kg Men,ANTROPOV Artyom,95.30,145,150,-153,195,-208,-208,150,195,345
+Asian Junior Championships,2019-10-19,96 kg Men,JEONG Yonghun,89.42,137,-141,-144,176,-186,-186,137,176,313
+Asian Junior Championships,2019-10-19,96 kg Men,BAE Jaeik,91.36,133,137,-142,155,0,0,137,155,292
+Asian Junior Championships,2019-10-19,96 kg Men,JIANG Tai-Wei,94.34,115,120,125,165,170,-176,125,170,295
+Asian Junior Championships,2019-10-19,96 kg Men,PADULLO ECIJA John Kevin,91.85,-120,120,-126,-145,145,150,120,150,270
+Asian Junior Championships,2019-10-19,102 kg Men,KHOJIEV Azimjon,98.57,141,144,146,174,179,185,146,185,331
+Asian Junior Championships,2019-10-19,102 kg Men,KIM Kyunghwan,99.21,137,142,145,167,175,-178,145,175,320
+Asian Junior Championships,2019-10-19,102 kg Men,KHAMIDOV Doniyor,101.11,130,136,-140,160,-166,166,136,166,302
+Asian Junior Championships,2019-10-19,102 kg Men,HO Wei-Ting,101.48,129,135,-140,166,168,176,135,176,311
+Asian Junior Championships,2019-10-19,102 kg Men,TAN Charles Yong Wen,98.11,85,-91,-92,100,106,110,85,110,195
+Asian Junior Championships,2019-10-19,109 kg Men,HWANG Sangun,108.03,165,170,-175,201,206,0,170,206,376
+Asian Junior Championships,2019-10-19,109 kg Men,JANG Hyejun,107.85,155,160,-163,185,-200,-205,160,185,345
+Asian Junior Championships,2019-10-19,109 kg Men,MIRZABAEV Mirkhosil,102.10,146,150,154,-176,176,-180,154,176,330
+Asian Junior Championships,2019-10-19,109 kg Men,ENRIQUEZ Clyde Kent Casimiro,105.79,110,115,-122,150,-155,-155,115,150,265
+Asian Junior Championships,2019-10-19,45 kg Women,KHONG My Phuong,44.45,-72,72,75,83,86,-88,75,86,161
+Asian Junior Championships,2019-10-19,45 kg Women,PHAM Dinh Thi,44.56,71,-73,-73,88,91,94,71,94,165
+Asian Junior Championships,2019-10-19,45 kg Women,DALABEHERA Jhilli,44.45,67,-70,-70,85,89,-93,67,89,156
+Asian Junior Championships,2019-10-19,45 kg Women,HOJIYEVA Ozoda,44.99,55,58,60,67,70,74,60,74,134
+Asian Junior Championships,2019-10-19,45 kg Women,BUYANDELGER Erdenezul,44.66,53,56,-59,67,70,-73,56,70,126
+Asian Junior Championships,2019-10-19,45 kg Women,SHI Yue-Shan,44.70,50,53,-57,65,-70,-70,53,65,118
+Asian Junior Championships,2019-10-19,49 kg Women,AISAH Windy Cantika,47.90,79,-83,84,-98,98,102,84,102,186
+Asian Junior Championships,2019-10-19,49 kg Women,HAN Jong Sim,48.56,80,-84,-85,100,107,109,80,109,189
+Asian Junior Championships,2019-10-19,49 kg Women,ABDULLAEVA Nigora,48.95,73,76,-79,89,92,94,76,94,170
+Asian Junior Championships,2019-10-19,49 kg Women,VO Thi Ngoc Thanh,48.72,-66,66,-71,85,90,-93,66,90,156
+Asian Junior Championships,2019-10-19,49 kg Women,HUANG Yu-Han,48.89,-65,65,-69,-85,85,-90,65,85,150
+Asian Junior Championships,2019-10-19,49 kg Women,MUN Jeongseon,47.52,-69,-69,-69,87,-91,-93,0,87,0
+Asian Junior Championships,2019-10-19,55 kg Women,KIM Ji Hyang,54.86,87,-91,91,112,115,117,91,117,208
+Asian Junior Championships,2019-10-19,55 kg Women,CHOE Ye Song,54.90,-88,88,-92,105,108,110,88,110,198
+Asian Junior Championships,2019-10-19,55 kg Women,NGUYEN Thi Thuy Tien,54.21,82,-88,-89,-110,-111,111,82,111,193
+Asian Junior Championships,2019-10-19,55 kg Women,SOROKHAIBAM Bindyarani Devi,53.24,77,-81,81,100,104,-107,81,104,185
+Asian Junior Championships,2019-10-19,55 kg Women,PARK Seonyeong,53.73,70,75,-80,85,90,-95,75,90,165
+Asian Junior Championships,2019-10-19,55 kg Women,SOREN Sneha,51.90,-69,69,-72,-97,-97,97,69,97,166
+Asian Junior Championships,2019-10-19,59 kg Women,KIM Il Gyong,59.00,93,97,99,117,125,129,99,129,228
+Asian Junior Championships,2019-10-19,59 kg Women,YBRAY Gulnur,58.74,77,80,82,96,-101,-101,82,96,178
+Asian Junior Championships,2019-10-19,59 kg Women,HUANG Ya-Ting,58.22,75,78,-80,95,100,102,78,102,180
+Asian Junior Championships,2019-10-19,59 kg Women,BOLDBAATAR Khongorzul,58.69,-74,75,-79,-96,97,-101,75,97,172
+Asian Junior Championships,2019-10-19,59 kg Women,CHOLPONBEK KYZY Raushan,58.37,73,-76,-77,90,96,-101,73,96,169
+Asian Junior Championships,2019-10-19,59 kg Women,HIPOLITO Jane Linete,58.21,65,70,-75,88,93,-95,70,93,163
+Asian Junior Championships,2019-10-19,59 kg Women,KIM Minju,58.63,65,-69,-70,80,85,-89,65,85,150
+Asian Junior Championships,2019-10-19,59 kg Women,VINATASARI Nur,58.01,-76,-76,0,0,0,0,0,0,0
+Asian Junior Championships,2019-10-19,64 kg Women,FAYZULLAEVA Kumushkhon,63.35,-94,94,97,120,123,125,97,125,222
+Asian Junior Championships,2019-10-19,64 kg Women,RI Suk,61.78,90,-96,96,122,-127,-127,96,122,218
+Asian Junior Championships,2019-10-19,64 kg Women,CHOE Kyong Sun,63.82,95,-98,-98,121,-128,-128,95,121,216
+Asian Junior Championships,2019-10-19,64 kg Women,RAMADANI Tsabitha Alfiah,63.42,85,-91,-91,98,102,-105,85,102,187
+Asian Junior Championships,2019-10-19,64 kg Women,PARK Sumin,63.16,85,-91,-91,100,104,-107,85,104,189
+Asian Junior Championships,2019-10-19,64 kg Women,HABIBULLOYEVA Fotima,63.68,70,74,76,-88,88,93,76,93,169
+Asian Junior Championships,2019-10-19,64 kg Women,LAM Thi My Le,62.90,-83,-83,-83,97,101,105,0,105,0
+Asian Junior Championships,2019-10-19,71 kg Women,SONG Kuk Hyang,70.38,95,103,108,130,135,139,108,139,247
+Asian Junior Championships,2019-10-19,71 kg Women,HURSANOVA Laylohon,70.18,77,81,84,98,-102,-102,84,98,182
+Asian Junior Championships,2019-10-19,71 kg Women,AKTAR Mabia,65.42,75,80,-84,102,105,-109,80,105,185
+Asian Junior Championships,2019-10-19,76 kg Women,KIM Kyong Ryong,75.10,102,106,108,127,133,-137,108,133,241
+Asian Junior Championships,2019-10-19,76 kg Women,LEE Min Ji,73.51,90,99,105,116,121,123,105,123,228
+Asian Junior Championships,2019-10-19,76 kg Women,JABBOROVA Tursunoy,74.83,98,102,105,-118,118,122,105,122,227
+Asian Junior Championships,2019-10-19,81 kg Women,KIM Un Song,76.54,98,103,106,125,131,-133,106,131,237
+Asian Junior Championships,2019-10-19,81 kg Women,KUZGANBAYEVA Karina,80.91,90,93,96,117,-121,122,96,122,218
+Asian Junior Championships,2019-10-19,81 kg Women,JANG Hyeonju,78.60,92,95,-97,-120,120,-124,95,120,215
+Asian Junior Championships,2019-10-19,81 kg Women,KAO Zhu-Yun,80.42,80,83,86,100,-105,106,86,106,192
+Asian Junior Championships,2019-10-19,87 kg Women,RI Il Ok,81.22,97,99,102,128,-131,-133,102,128,230
+Asian Junior Championships,2019-10-19,87 kg Women,SEO Minji,86.34,90,95,98,110,115,118,98,118,216
+Asian Junior Championships,2019-10-19,87 kg Women,DAVRONOVA Dolera,86.86,88,-92,-92,117,119,-122,88,119,207
+Asian Junior Championships,2019-10-19,+87 kg Women,LEE Seon Mi,118.35,117,123,127,143,150,-154,127,150,277
+Asian Junior Championships,2019-10-19,+87 kg Women,SANSYZBAYEVA Aisamal,106.95,100,105,109,-132,132,-140,109,132,241
+Asian Junior Championships,2019-10-19,+87 kg Women,HO Thi ha Phuong,90.76,85,-91,-91,101,106,-111,85,106,191
+Asian Junior Championships,2019-10-19,+87 kg Women,HAN Yu-Jou,113.90,75,80,85,95,100,105,85,105,190

@@ -1,0 +1,73 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+II International Senior CSLP Cup,2018-12-07,55 kg Men,GARCIA PEREZ Jairo Luis,55.00,105,110,112,126,131,135,112,135,247
+II International Senior CSLP Cup,2018-12-07,55 kg Men,SANCHEZ GUTIERREZ Winder Alejandro,54.00,-97,97,-101,-123,123,-127,97,123,220
+II International Senior CSLP Cup,2018-12-07,61 kg Men,ZURITA VALLEJO Cristhian David,60.20,121,124,127,143,-147,147,127,147,274
+II International Senior CSLP Cup,2018-12-07,61 kg Men,LUGO RODRIGUEZ Wilkeinner Nahun,61.00,113,116,120,142,146,151,120,151,271
+II International Senior CSLP Cup,2018-12-07,61 kg Men,BERNA GONZALEZ Carlos Andres,61.00,117,-122,-122,-153,-154,154,117,154,271
+II International Senior CSLP Cup,2018-12-07,61 kg Men,MARTINEZ CASTILLO Ronnier Zaed,60.60,110,113,115,138,141,-146,115,141,256
+II International Senior CSLP Cup,2018-12-07,61 kg Men,SERNA MENDOZA Jhon Jairo,60.60,107,112,-115,138,145,150,112,150,262
+II International Senior CSLP Cup,2018-12-07,61 kg Men,LEYES Jonatan Martin,59.60,93,98,-100,120,125,-127,98,125,223
+II International Senior CSLP Cup,2018-12-07,67 kg Men,MAYORA PERNA Julio Ruben,66.75,140,145,-149,-173,-173,173,145,173,318
+II International Senior CSLP Cup,2018-12-07,67 kg Men,FIGUEROA MOSQUERA Oscar Albeiro,66.20,-137,137,-142,175,-182,182,137,182,319
+II International Senior CSLP Cup,2018-12-07,67 kg Men,ESCALONA MORENO Kervis Eidy,66.80,125,-130,-130,152,-157,159,125,159,284
+II International Senior CSLP Cup,2018-12-07,67 kg Men,VARGAS VIGORENA Ignacio Omar,66.20,95,100,103,125,-130,130,103,130,233
+II International Senior CSLP Cup,2018-12-07,67 kg Men,BRAVO BADILLA Daniel,66.20,75,78,81,95,100,105,81,105,186
+II International Senior CSLP Cup,2018-12-07,73 kg Men,SANCHEZ RIVERO Junior Antonio,70.60,135,-140,140,164,168,-171,140,168,308
+II International Senior CSLP Cup,2018-12-07,73 kg Men,CASTRO PALMA Darvin Jesus,72.20,136,-141,-143,165,-173,-173,136,165,301
+II International Senior CSLP Cup,2018-12-07,81 kg Men,MONTES HURTADO Hugo Fernando,81.00,145,150,154,180,-185,-186,154,180,334
+II International Senior CSLP Cup,2018-12-07,81 kg Men,SOLIS ARBOLEDA Juan Felipe,80.20,148,152,154,186,192,-195,154,192,346
+II International Senior CSLP Cup,2018-12-07,81 kg Men,BALZA GARCIA Renson Rafael,80.40,140,146,153,180,-184,185,153,185,338
+II International Senior CSLP Cup,2018-12-07,81 kg Men,COOPER Travis Daniel,80.80,132,136,-140,170,175,181,136,181,317
+II International Senior CSLP Cup,2018-12-07,81 kg Men,ALVAREZ CORTES Ignacio Nicolas,79.00,-98,98,106,120,129,-133,106,129,235
+II International Senior CSLP Cup,2018-12-07,81 kg Men,AVALOS VELASQUEZ Brandon,79.60,83,89,92,106,-113,-113,92,106,198
+II International Senior CSLP Cup,2018-12-07,89 kg Men,VALLENILLA SANCHEZ Keydomar Giovanni,88.00,154,-159,160,191,-200,0,160,191,351
+II International Senior CSLP Cup,2018-12-07,89 kg Men,MORENO TORRES Jhor Esneider,85.80,155,159,-161,185,-190,0,159,185,344
+II International Senior CSLP Cup,2018-12-07,89 kg Men,CUEVAS IBORRA Nicolas Rodrigo,88.00,117,122,-125,140,0,0,122,140,262
+II International Senior CSLP Cup,2018-12-07,89 kg Men,SCHADE Tyler Jonathan,88.00,-122,-122,122,156,-161,-163,122,156,278
+II International Senior CSLP Cup,2018-12-07,96 kg Men,RIVAS MOSQUERA Jhonatan,95.00,167,-173,-181,200,-205,0,167,200,367
+II International Senior CSLP Cup,2018-12-07,96 kg Men,RODALLEGAS CARVAJAL Brayan Santiago,89.20,-156,156,-162,191,-197,199,156,199,355
+II International Senior CSLP Cup,2018-12-07,96 kg Men,FERRIN ARROYO Paul Alexander,95.40,150,153,155,190,196,198,155,198,353
+II International Senior CSLP Cup,2018-12-07,96 kg Men,ARIAS MOSQUERA Jeyson Alonso,94.00,145,151,154,185,195,-199,154,195,349
+II International Senior CSLP Cup,2018-12-07,96 kg Men,JUANICO PUPPO Enrique,94.80,125,130,-135,155,160,-165,130,160,290
+II International Senior CSLP Cup,2018-12-07,96 kg Men,ZAPATA PRIETO Camilo Esteban,94.40,120,-125,127,151,158,-164,127,158,285
+II International Senior CSLP Cup,2018-12-07,102 kg Men,FERREIRA DIAZ Angelo,101.40,98,102,-106,120,123,126,102,126,228
+II International Senior CSLP Cup,2018-12-07,109 kg Men,ARROYO VALDEZ Jorge David,107.80,-170,170,176,-190,190,-195,176,190,366
+II International Senior CSLP Cup,2018-12-07,109 kg Men,GONZALEZ BARRIOS Jesus Abrahan,108.40,165,172,-176,-205,-205,-205,172,0,0
+II International Senior CSLP Cup,2018-12-07,109 kg Men,PICUN ROUX Diego Emiliano,103.40,125,134,139,150,160,-166,139,160,299
+II International Senior CSLP Cup,2018-12-07,+109 kg Men,SALAS MANGUIS Fernando Fabricio,168.00,150,160,165,190,201,0,165,201,366
+II International Senior CSLP Cup,2018-12-07,+109 kg Men,BAEZA CARCAMO Melinton Fernando,115.60,115,122,-127,145,152,156,122,156,278
+II International Senior CSLP Cup,2018-12-07,45 kg Women,ECHANDIA ZARATE Katherin Oriana,45.00,-66,66,69,85,-90,-90,69,85,154
+II International Senior CSLP Cup,2018-12-07,45 kg Women,BERRIO ZULUAGA Manuela Andrea,45.00,-66,66,68,-89,89,92,68,92,160
+II International Senior CSLP Cup,2018-12-07,49 kg Women,MONSALVE PATINO Laura Alejandra,49.00,68,71,-73,90,-93,-93,71,90,161
+II International Senior CSLP Cup,2018-12-07,49 kg Women,BURGOS ORTIZ Lely Berlitt,49.00,67,-70,-71,85,-90,-90,67,85,152
+II International Senior CSLP Cup,2018-12-07,55 kg Women,RODRIGUEZ GOMEZ Genesis Lourdes,55.00,93,96,-98,0,0,0,96,0,0
+II International Senior CSLP Cup,2018-12-07,55 kg Women,ESCOBAR GUERRERO Maria Alexandra,55.00,88,91,-94,110,114,-117,91,114,205
+II International Senior CSLP Cup,2018-12-07,55 kg Women,SINISTERRA TORRES Yenny,55.00,80,85,-89,105,-111,-111,85,105,190
+II International Senior CSLP Cup,2018-12-07,55 kg Women,LEMMEN Stephanie Kristin,54.80,79,-82,82,97,100,-102,82,100,182
+II International Senior CSLP Cup,2018-12-07,55 kg Women,NIETO GARRIDO Isabel Isabella,54.40,75,81,-83,-95,95,-102,81,95,176
+II International Senior CSLP Cup,2018-12-07,55 kg Women,SAXON Jessica Marie,55.00,-77,-78,-78,-98,98,101,0,101,0
+II International Senior CSLP Cup,2018-12-07,59 kg Women,LOBON VIAFARA Maria Camila,58.80,90,-92,92,110,114,116,92,116,208
+II International Senior CSLP Cup,2018-12-07,59 kg Women,MORALES DEL AGUILA Rosalba Estela,58.80,85,89,-91,-112,112,120,89,120,209
+II International Senior CSLP Cup,2018-12-07,59 kg Women,VENEGAS VALERA Anyelin Maria,58.40,86,-90,-90,-110,-110,-110,86,0,0
+II International Senior CSLP Cup,2018-12-07,59 kg Women,GOMEZ VALDIVIA Janeth,57.40,-87,-87,-87,-105,105,-109,0,105,0
+II International Senior CSLP Cup,2018-12-07,64 kg Women,SILGADO ATENCIO Rosive Andrea,63.20,95,-98,-98,122,-125,126,95,126,221
+II International Senior CSLP Cup,2018-12-07,64 kg Women,PEREA MURILLO Sandra Milena,63.80,95,-98,-98,120,124,-126,95,124,219
+II International Senior CSLP Cup,2018-12-07,64 kg Women,FIGUEROA ROLDAN Yusleidy Mariana,62.20,90,94,-96,121,-125,-126,94,121,215
+II International Senior CSLP Cup,2018-12-07,64 kg Women,RODRIGUEZ MARTINEZ Yaritcelis Daniela,63.20,85,-88,-88,-105,-105,105,85,105,190
+II International Senior CSLP Cup,2018-12-07,64 kg Women,PALACIOS Joana Valeria,63.80,85,-88,-88,105,-110,-110,85,105,190
+II International Senior CSLP Cup,2018-12-07,64 kg Women,CASADEVALL Maria Luz,60.60,80,83,-87,96,101,-106,83,101,184
+II International Senior CSLP Cup,2018-12-07,64 kg Women,PORTELA MILICHIO Mercedes Noemi,63.40,70,75,-78,90,-95,95,75,95,170
+II International Senior CSLP Cup,2018-12-07,64 kg Women,VASQUEZ Katalina,63.20,-56,56,-61,71,-75,-78,56,71,127
+II International Senior CSLP Cup,2018-12-07,71 kg Women,SANCHEZ PERINAN Mari Leivis,70.80,100,105,107,120,125,-130,107,125,232
+II International Senior CSLP Cup,2018-12-07,71 kg Women,PALACIOS DAJOMES Angie Paola,64.20,91,98,100,115,-121,-121,100,115,215
+II International Senior CSLP Cup,2018-12-07,71 kg Women,ESCOBAR AGUIRRE Hellen Andrea,70.40,-97,97,99,120,125,-130,99,125,224
+II International Senior CSLP Cup,2018-12-07,71 kg Women,MOLAYA CABRERA Euquerys Alejandra,67.20,85,88,90,-108,-108,108,90,108,198
+II International Senior CSLP Cup,2018-12-07,71 kg Women,TAPIA ZAMORA Sofia Paulina Elena,65.40,60,-65,65,75,80,-85,65,80,145
+II International Senior CSLP Cup,2018-12-07,76 kg Women,DAJOMES BARRERA Neisi Patricia,75.40,101,105,108,120,125,0,108,125,233
+II International Senior CSLP Cup,2018-12-07,76 kg Women,SOLIS ARBOLEDA Leidy Yessenia,75.60,-100,102,106,131,135,-140,106,135,241
+II International Senior CSLP Cup,2018-12-07,76 kg Women,MIRANDA Grisselle,75.40,55,60,63,73,78,81,63,81,144
+II International Senior CSLP Cup,2018-12-07,81 kg Women,CHIRINOS LEON Dayana Aracelis,80.20,95,-98,98,121,126,131,98,131,229
+II International Senior CSLP Cup,2018-12-07,87 kg Women,PEREZ REVERON Naryury Alexandra,86.80,102,107,-110,130,135,-137,107,135,242
+II International Senior CSLP Cup,2018-12-07,87 kg Women,SALAZAR ARCE Tamara Yajaira,81.40,100,105,-107,130,136,138,105,138,243
+II International Senior CSLP Cup,2018-12-07,+87 kg Women,AYOVI CABEZAS Lisseth Betzaida,124.80,102,108,110,131,136,140,110,140,250
+II International Senior CSLP Cup,2018-12-07,+87 kg Women,MORILLO PENA Mirufay Jesuith,94.60,-95,-95,95,115,-120,-120,95,115,210

@@ -1,0 +1,45 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+San Diego International Open,2019-10-02,67 kg Men,PINEDA ZETA Edgar Ismael,66.31,110,120,-125,150,-160,-165,120,150,270
+San Diego International Open,2019-10-02,67 kg Men,MARTINEZ CASTILLO Ronnier Zaed,66.81,110,-113,-113,135,-141,143,110,143,253
+San Diego International Open,2019-10-02,81 kg Men,WAKELING Brandon Dean,74.90,0,0,0,0,0,0,0,0,0
+San Diego International Open,2019-10-02,89 kg Men,COOPER Travis Daniel,88.94,137,-141,-141,173,179,-185,137,179,316
+San Diego International Open,2019-10-02,102 kg Men,MARTINEZ CASTILLO Mario Omar,100.72,130,135,140,160,170,-174,140,170,310
+San Diego International Open,2019-10-02,102 kg Men,DECRISTOFARO Anthony,100.49,132,136,-140,170,175,-182,136,175,311
+San Diego International Open,2019-10-02,102 kg Men,TAATGEN Mike,99.81,93,-98,98,128,133,-140,98,133,231
+San Diego International Open,2019-10-02,+109 kg Men,LEMUS CALANCHE Gilberto Antonio,126.34,150,160,0,-190,190,-200,160,190,350
+San Diego International Open,2019-10-02,+109 kg Men,EVERETT Quinn,148.54,150,-155,-155,193,203,-210,150,203,353
+San Diego International Open,2019-10-02,49 kg Women,ZHANG Rong,48.83,86,90,-92,105,-110,-110,90,105,195
+San Diego International Open,2019-10-02,49 kg Women,REICHARDT Hayley Marie,48.88,75,-78,78,99,-102,-102,78,99,177
+San Diego International Open,2019-10-02,49 kg Women,BRADDOCK Amanda Melissa,48.81,-76,76,-79,93,96,-99,76,96,172
+San Diego International Open,2019-10-02,55 kg Women,ZHANG Wanqiong,54.15,90,95,99,115,120,-123,99,120,219
+San Diego International Open,2019-10-02,55 kg Women,LI Yajun,54.56,95,-98,-98,115,120,125,95,125,220
+San Diego International Open,2019-10-02,55 kg Women,KAMINSKI Hannah,54.97,-75,75,78,93,96,99,78,99,177
+San Diego International Open,2019-10-02,55 kg Women,WRIGHT Sarah Elizabeth,54.13,72,74,76,-91,-93,-98,76,0,0
+San Diego International Open,2019-10-02,55 kg Women,BURGOS ORTIZ Lely Berlitt,51.03,67,-71,71,88,-92,-92,71,88,159
+San Diego International Open,2019-10-02,55 kg Women,CHULUUNBAATAR Nyamzul,54.44,63,67,-70,80,-85,86,67,86,153
+San Diego International Open,2019-10-02,55 kg Women,BRAJSHORI Leonora,54.37,-61,61,-64,-81,-81,81,61,81,142
+San Diego International Open,2019-10-02,55 kg Women,KRZYSZTON Olga,54.79,55,57,-59,-75,-75,-75,57,0,0
+San Diego International Open,2019-10-02,55 kg Women,LIAO Qiuyun,53.91,0,0,0,0,0,0,0,0,0
+San Diego International Open,2019-10-02,55 kg Women,JIANG Huihua,50.12,0,0,0,0,0,0,0,0,0
+San Diego International Open,2019-10-02,59 kg Women,LUO Xiaomin,58.75,98,103,-106,-123,-123,123,103,123,226
+San Diego International Open,2019-10-02,59 kg Women,BREWER Kristi,58.83,81,-84,85,108,112,115,85,115,200
+San Diego International Open,2019-10-02,59 kg Women,BRAMWELL Kaija Francesca,58.72,80,83,-86,105,109,112,83,112,195
+San Diego International Open,2019-10-02,64 kg Women,HUANG Ting,63.70,102,106,-108,123,130,-133,106,130,236
+San Diego International Open,2019-10-02,64 kg Women,GANZORIG Anuujin,63.26,81,86,-90,100,103,0,86,103,189
+San Diego International Open,2019-10-02,64 kg Women,STEPHENS Taylor Michelle,63.78,84,-87,-88,100,105,-108,84,105,189
+San Diego International Open,2019-10-02,71 kg Women,GORINCU Ebony,70.78,87,-90,-91,108,112,-116,87,112,199
+San Diego International Open,2019-10-02,71 kg Women,DAVIES Stephanie Lisa,70.83,84,87,-91,107,112,-116,87,112,199
+San Diego International Open,2019-10-02,76 kg Women,BREMNER Aria Kellyn,75.14,85,89,93,109,113,-118,93,113,206
+San Diego International Open,2019-10-02,81 kg Women,MUNKHJANTSAN Ankhtsetseg,80.87,96,100,-102,114,118,121,100,121,221
+San Diego International Open,2019-10-02,81 kg Women,ERISMAN Lindsay,80.60,88,91,-94,113,-118,-118,91,113,204
+San Diego International Open,2019-10-02,81 kg Women,NG Phoebe Hoi-Kay,80.49,-87,87,90,-112,113,118,90,118,208
+San Diego International Open,2019-10-02,87 kg Women,KANG Yue,86.13,115,120,123,145,-152,-152,123,145,268
+San Diego International Open,2019-10-02,87 kg Women,JIA Weipeng,86.59,-112,-112,112,135,140,-146,112,140,252
+San Diego International Open,2019-10-02,87 kg Women,AO Hui,85.58,105,-110,-112,-136,-136,136,105,136,241
+San Diego International Open,2019-10-02,87 kg Women,KLINGSEIS Marissa Eileen,86.79,100,-105,-105,130,135,-140,100,135,235
+San Diego International Open,2019-10-02,87 kg Women,FASSINA Kaitlyn Jade Judges,86.68,94,-98,98,110,115,-118,98,115,213
+San Diego International Open,2019-10-02,87 kg Women,RIOTTO Juliana Rose,85.91,97,-100,-100,120,-125,-130,97,120,217
+San Diego International Open,2019-10-02,+87 kg Women,ZHOU Xiaoman,159.06,125,132,-138,165,172,-180,132,172,304
+San Diego International Open,2019-10-02,+87 kg Women,MANUMUA Kuinini Juanita Mechteld,106.23,92,95,98,-108,112,117,98,117,215
+San Diego International Open,2019-10-02,+87 kg Women,ERDENEBAT Bilegsaikhan,87.22,87,92,-95,107,113,117,92,117,209
+San Diego International Open,2019-10-02,+87 kg Women,SALIM MOUSSA Arzy Zahia,103.21,-65,65,-70,85,-90,92,65,92,157
