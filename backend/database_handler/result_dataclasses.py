@@ -1,6 +1,15 @@
-"""Dataclasses for how each federation formats it's event results"""
+"""Dataclasses for how each federation formats its event results"""
 from dataclasses import dataclass
 from typing import Any
+
+
+@dataclass
+class IWFHeaders:
+    """Standard headers for the IWF events index"""
+    id: int
+    name: str
+    date: str
+    location: str
 
 
 @dataclass
@@ -36,7 +45,7 @@ class Result:
     date: Any
     category: Any
     lifter_name: Any
-    bodyweight: float
+    bodyweight: Any
     snatch_1: Any
     snatch_2: Any
     snatch_3: Any

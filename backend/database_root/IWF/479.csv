@@ -1,0 +1,84 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+12th Mediterranean Cup,2019-10-04,61 kg Men,BRACHI GARCIA Josue,60.55,-122,122,-126,140,145,-150,122,145,267
+12th Mediterranean Cup,2019-10-04,61 kg Men,SCARANTINO Mirco,60.95,-122,-122,-125,0,0,0,0,0,0
+12th Mediterranean Cup,2019-10-04,67 kg Men,HERNANDEZ MENDOZA Acoran Juan,66.80,128,132,-135,150,-155,155,132,155,287
+12th Mediterranean Cup,2019-10-04,67 kg Men,SEZER Bunyami,66.45,115,121,-125,130,134,-136,121,134,255
+12th Mediterranean Cup,2019-10-04,73 kg Men,ISMAYILOV Daniyar,69.75,150,154,-156,-170,175,181,154,181,335
+12th Mediterranean Cup,2019-10-04,73 kg Men,CALJA Briken,72.80,145,151,-155,175,-181,-185,151,175,326
+12th Mediterranean Cup,2019-10-04,73 kg Men,LIKHARAD Vadzim,72.75,140,148,151,165,176,-185,151,176,327
+12th Mediterranean Cup,2019-10-04,73 kg Men,ESPOSITO Salvatore,72.80,-135,-135,-135,0,0,0,0,0,0
+12th Mediterranean Cup,2019-10-04,81 kg Men,QERIMAJ Erkand,80.75,-151,153,156,183,187,190,156,190,346
+12th Mediterranean Cup,2019-10-04,81 kg Men,ASAYONAK Petr,80.99,146,152,-155,175,186,188,152,188,340
+12th Mediterranean Cup,2019-10-04,81 kg Men,GODELLI Daniel,80.85,-150,150,-156,-180,-181,181,150,181,331
+12th Mediterranean Cup,2019-10-04,81 kg Men,ZWARYCZ Krzysztof Maciej,80.90,-145,145,-148,-180,181,-189,145,181,326
+12th Mediterranean Cup,2019-10-04,81 kg Men,BINI Michael,78.15,65,70,75,85,90,-95,75,90,165
+12th Mediterranean Cup,2019-10-04,89 kg Men,IAKOVIDIS Theodoros,88.65,154,158,161,185,190,-193,161,190,351
+12th Mediterranean Cup,2019-10-04,89 kg Men,SHORAJ Krenar,88.35,146,151,-155,186,-191,-191,151,186,337
+12th Mediterranean Cup,2019-10-04,89 kg Men,MATA PEREZ Andres Eduardo,84.00,140,145,150,175,180,185,150,185,335
+12th Mediterranean Cup,2019-10-04,89 kg Men,MENONI Enzo Anthony Vincent,88.80,140,-146,146,-170,-170,170,146,170,316
+12th Mediterranean Cup,2019-10-04,89 kg Men,RETULAINEN Eero Eljas,89.00,143,-147,-147,180,186,-191,143,186,329
+12th Mediterranean Cup,2019-10-04,89 kg Men,GNESSIN Valentin,89.00,-138,-138,138,175,179,-182,138,179,317
+12th Mediterranean Cup,2019-10-04,89 kg Men,FARETIE Sony Xavier,88.70,-128,130,134,-162,162,167,134,167,301
+12th Mediterranean Cup,2019-10-04,89 kg Men,MUSCAT Matthew John,88.35,-113,113,-117,145,-149,-150,113,145,258
+12th Mediterranean Cup,2019-10-04,96 kg Men,TSIKHANTSOU Yauheni,95.80,160,166,-171,195,0,0,166,195,361
+12th Mediterranean Cup,2019-10-04,96 kg Men,SPIESS Jurgen Christian,95.85,153,158,161,-191,-196,196,161,196,357
+12th Mediterranean Cup,2019-10-04,96 kg Men,ARAT Ibrahim,95.50,154,-159,-160,192,-197,-197,154,192,346
+12th Mediterranean Cup,2019-10-04,96 kg Men,MARKOULAS Georgios,96.00,150,-155,-155,-190,-190,-190,150,0,0
+12th Mediterranean Cup,2019-10-04,96 kg Men,CURCURUTO Matteo,94.35,135,140,145,170,175,-180,145,175,320
+12th Mediterranean Cup,2019-10-04,96 kg Men,KOSMAC Anze,91.00,-130,-130,130,-150,151,156,130,156,286
+12th Mediterranean Cup,2019-10-04,96 kg Men,BERNARDI Robin,95.00,80,-85,-85,100,105,110,80,110,190
+12th Mediterranean Cup,2019-10-04,102 kg Men,MUGURDUMOV Artur,101.15,155,160,164,190,200,207,164,207,371
+12th Mediterranean Cup,2019-10-04,102 kg Men,ONICA Nicolae,98.90,140,145,150,170,180,-190,150,180,330
+12th Mediterranean Cup,2019-10-04,102 kg Men,AGUSTIN Gianni,101.05,100,110,-117,-125,-125,125,110,125,235
+12th Mediterranean Cup,2019-10-04,109 kg Men,ARAMNAU Andrei,108.50,165,0,0,195,0,0,165,195,360
+12th Mediterranean Cup,2019-10-04,109 kg Men,ELVAN Resul,103.80,142,145,-148,175,182,188,145,188,333
+12th Mediterranean Cup,2019-10-04,109 kg Men,WISEMAN Kevin,107.35,140,-144,-144,173,181,-187,140,181,321
+12th Mediterranean Cup,2019-10-04,109 kg Men,SKEDELJ Jure,106.85,-125,-125,125,-155,155,160,125,160,285
+12th Mediterranean Cup,2019-10-04,109 kg Men,MICHALSKI Arkadiusz,107.65,-165,0,0,0,0,0,0,0,0
+12th Mediterranean Cup,2019-10-04,+109 kg Men,ZIAZIULIN Eduard,134.95,176,-186,186,211,0,0,186,211,397
+12th Mediterranean Cup,2019-10-04,+109 kg Men,LITVINOV David,127.25,175,180,185,205,-213,-215,185,205,390
+12th Mediterranean Cup,2019-10-04,+109 kg Men,OLSHANETSKYI Igor,126.15,155,-160,160,196,201,-213,160,201,361
+12th Mediterranean Cup,2019-10-04,+109 kg Men,RUIZ I VELASCO Marcos,110.80,160,165,0,180,-190,190,165,190,355
+12th Mediterranean Cup,2019-10-04,45 kg Women,GIACOMONE Maria Belen,44.35,-48,-48,-48,0,0,0,0,0,0
+12th Mediterranean Cup,2019-10-04,49 kg Women,LORENTZ Manon Camille,49.00,-78,-78,80,95,-98,-98,80,95,175
+12th Mediterranean Cup,2019-10-04,49 kg Women,MICHEL Anais,48.70,77,-79,79,98,100,102,79,102,181
+12th Mediterranean Cup,2019-10-04,49 kg Women,ERDOGAN Saziye,47.55,70,73,-75,-90,90,93,73,93,166
+12th Mediterranean Cup,2019-10-04,49 kg Women,PIPILIARIDOU Maria,48.90,70,72,-73,91,94,-96,72,94,166
+12th Mediterranean Cup,2019-10-04,49 kg Women,RUSSO Giorgia,49.00,65,69,-71,85,95,-100,69,95,164
+12th Mediterranean Cup,2019-10-04,49 kg Women,BUTKOVA Iuliya,49.00,61,65,67,75,80,-83,67,80,147
+12th Mediterranean Cup,2019-10-04,55 kg Women,LOMBARDO Jennifer,54.25,82,85,86,108,-111,-112,86,108,194
+12th Mediterranean Cup,2019-10-04,55 kg Women,LOCHOWSKA Joanna,54.00,70,75,-80,100,0,0,75,100,175
+12th Mediterranean Cup,2019-10-04,55 kg Women,MARZI Marika,54.05,53,-55,55,65,68,-71,55,68,123
+12th Mediterranean Cup,2019-10-04,59 kg Women,BENTELI Konstantina,58.35,-90,90,94,112,115,116,94,116,210
+12th Mediterranean Cup,2019-10-04,59 kg Women,ALEMANNO Maria Grazia,58.70,90,92,94,110,-114,-114,94,110,204
+12th Mediterranean Cup,2019-10-04,59 kg Women,TCHAKOUNTE Dora Meiriama,58.75,88,-93,93,-108,108,113,93,113,206
+12th Mediterranean Cup,2019-10-04,59 kg Women,MCLENDON JUMPER Sarabeth Elizabeth,58.60,89,91,-93,-113,-113,-113,91,0,0
+12th Mediterranean Cup,2019-10-04,59 kg Women,RETULAINEN Saara Sylvia Amanda,59.00,85,-89,-89,-105,-105,-106,85,0,0
+12th Mediterranean Cup,2019-10-04,59 kg Women,OZKAN Cansel,56.30,80,-85,85,-93,93,95,85,95,180
+12th Mediterranean Cup,2019-10-04,59 kg Women,NA Christine Yejou,58.80,79,82,-85,102,106,-108,82,106,188
+12th Mediterranean Cup,2019-10-04,59 kg Women,STESL Nastasja,59.00,70,73,75,88,91,94,75,94,169
+12th Mediterranean Cup,2019-10-04,64 kg Women,LEPSA Irina-Lacramioara,62.65,95,100,103,118,123,127,103,127,230
+12th Mediterranean Cup,2019-10-04,64 kg Women,BORDIGNON Giorgia,63.70,96,99,101,-120,-120,120,101,120,221
+12th Mediterranean Cup,2019-10-04,64 kg Women,KUSTERER Sabine Beate,63.60,93,-97,97,111,114,116,97,116,213
+12th Mediterranean Cup,2019-10-04,64 kg Women,SCHWEIZER Lisa Marie,63.65,91,94,-97,-108,108,110,94,110,204
+12th Mediterranean Cup,2019-10-04,64 kg Women,OZKAN Aysel,63.40,83,86,90,100,105,-107,90,105,195
+12th Mediterranean Cup,2019-10-04,64 kg Women,JUNG Beata,63.95,-88,-88,89,102,105,-108,89,105,194
+12th Mediterranean Cup,2019-10-04,64 kg Women,ALICI Burcu,61.40,75,80,82,95,100,103,82,103,185
+12th Mediterranean Cup,2019-10-04,64 kg Women,BIJLEVELD Sanne,59.75,72,76,79,96,-99,-100,79,96,175
+12th Mediterranean Cup,2019-10-04,64 kg Women,GROENEVELD Iris,63.30,68,71,74,90,93,95,74,95,169
+12th Mediterranean Cup,2019-10-04,71 kg Women,MISERENDINO Giulia,64.80,87,90,93,100,104,-107,93,104,197
+12th Mediterranean Cup,2019-10-04,71 kg Women,COOPER Kaitlyn Dawn,71.00,90,92,-94,108,-112,115,92,115,207
+12th Mediterranean Cup,2019-10-04,71 kg Women,ZAMMIT STEVENS Yasmin,69.35,82,85,-87,102,-105,-105,85,102,187
+12th Mediterranean Cup,2019-10-04,71 kg Women,TABONE Roberta,68.60,71,74,76,91,94,-96,76,94,170
+12th Mediterranean Cup,2019-10-04,71 kg Women,DERMICEK Hermana,69.95,64,69,70,76,-81,81,70,81,151
+12th Mediterranean Cup,2019-10-04,71 kg Women,STEFFENS Melissa,69.10,-65,65,-70,90,94,98,65,98,163
+12th Mediterranean Cup,2019-10-04,71 kg Women,BULZONI Carlotta,67.65,-48,-48,48,58,62,-66,48,62,110
+12th Mediterranean Cup,2019-10-04,76 kg Women,NAUMAVA Darya,75.15,95,100,105,120,127,131,105,131,236
+12th Mediterranean Cup,2019-10-04,76 kg Women,SAZANAVETS Dzina,75.35,-93,93,96,110,115,119,96,119,215
+12th Mediterranean Cup,2019-10-04,76 kg Women,RIEGER Patricia,74.95,90,95,-98,110,-115,115,95,115,210
+12th Mediterranean Cup,2019-10-04,76 kg Women,ILMARINEN Meri Tuuli Linnea,75.85,92,-95,-95,119,-122,122,92,122,214
+12th Mediterranean Cup,2019-10-04,76 kg Women,WIOR Jolanta Malgorzata,73.25,80,85,88,100,0,0,88,100,188
+12th Mediterranean Cup,2019-10-04,76 kg Women,LOWIK Nikki Merel Elisabeth,73.95,75,-78,78,88,92,96,78,96,174
+12th Mediterranean Cup,2019-10-04,81 kg Women,VALENTIN PEREZ Lidia,79.25,95,100,105,120,125,130,105,130,235
+12th Mediterranean Cup,2019-10-04,87 kg Women,NAYO KETCHANKE Gaelle Verlaine,82.30,0,0,0,0,0,0,0,0,0
+12th Mediterranean Cup,2019-10-04,+87 kg Women,CRNJAC Ana,97.20,61,66,-70,79,-85,85,66,85,151

@@ -1,0 +1,89 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+EGAT's Cup International Weightlifting Championships,2019-01-07,55 kg Men,SOMBOON-UAN Thada,54.85,95,-100,100,115,120,125,100,125,225
+EGAT's Cup International Weightlifting Championships,2019-01-07,61 kg Men,ITOKAZU Yoichi,61.00,-128,128,133,156,160,-163,133,160,293
+EGAT's Cup International Weightlifting Championships,2019-01-07,61 kg Men,BARU Morea,60.95,115,120,124,152,157,-161,124,157,281
+EGAT's Cup International Weightlifting Championships,2019-01-07,67 kg Men,DENI,66.90,132,-138,-141,161,171,-175,132,171,303
+EGAT's Cup International Weightlifting Championships,2019-01-07,67 kg Men,JEREMY Lalrinnunga,65.10,123,128,131,150,157,-161,131,157,288
+EGAT's Cup International Weightlifting Championships,2019-01-07,67 kg Men,KATOATAU Ruben,66.95,120,125,-128,-160,-160,160,125,160,285
+EGAT's Cup International Weightlifting Championships,2019-01-07,67 kg Men,ARTYKOV Izzat,67.00,115,120,-126,140,150,-157,120,150,270
+EGAT's Cup International Weightlifting Championships,2019-01-07,73 kg Men,TRIYATNO,73.00,137,142,-146,170,180,-185,142,180,322
+EGAT's Cup International Weightlifting Championships,2019-01-07,73 kg Men,THANEEWAN Nonthaphat,72.90,139,142,-146,-165,165,170,142,170,312
+EGAT's Cup International Weightlifting Championships,2019-01-07,73 kg Men,BAK Joohyo,72.10,136,141,-146,172,181,-186,141,181,322
+EGAT's Cup International Weightlifting Championships,2019-01-07,73 kg Men,MIYAMOTO Masanori,72.75,130,135,140,168,173,--,140,173,313
+EGAT's Cup International Weightlifting Championships,2019-01-07,73 kg Men,TABAROUA Taretiita Baraniko,72.90,115,120,-125,155,160,165,120,165,285
+EGAT's Cup International Weightlifting Championships,2019-01-07,81 kg Men,SAMENOV Nurlybek,80.90,145,150,153,170,180,-185,153,180,333
+EGAT's Cup International Weightlifting Championships,2019-01-07,81 kg Men,YOU Jaesik,80.85,145,-150,-151,163,0,0,145,163,308
+EGAT's Cup International Weightlifting Championships,2019-01-07,81 kg Men,MCTAGGART Cameron David,80.20,125,130,133,153,158,161,133,161,294
+EGAT's Cup International Weightlifting Championships,2019-01-07,81 kg Men,ELLIOTT Frank Donald,80.75,123,127,131,-154,-154,-154,131,0,0
+EGAT's Cup International Weightlifting Championships,2019-01-07,81 kg Men,SIVALINGAM Sathish Kumar,80.95,90,0,0,110,0,0,90,110,200
+EGAT's Cup International Weightlifting Championships,2019-01-07,89 kg Men,TAWNOK Banyat,88.35,148,153,155,171,-177,177,155,177,332
+EGAT's Cup International Weightlifting Championships,2019-01-07,89 kg Men,BOONLANG Weeraphat,87.95,145,150,154,176,179,185,154,185,339
+EGAT's Cup International Weightlifting Championships,2019-01-07,89 kg Men,PARK Mu Sung,87.95,135,141,-146,170,-178,178,141,178,319
+EGAT's Cup International Weightlifting Championships,2019-01-07,89 kg Men,ANYALEWECHI Michael Chinemerem,84.30,136,140,-146,-154,-160,-160,140,0,0
+EGAT's Cup International Weightlifting Championships,2019-01-07,89 kg Men,KATOATAU David,88.75,115,120,-125,155,160,-165,120,160,280
+EGAT's Cup International Weightlifting Championships,2019-01-07,96 kg Men,HAN Junghoon,95.85,158,162,-166,201,-208,208,162,208,370
+EGAT's Cup International Weightlifting Championships,2019-01-07,96 kg Men,ROSTAMI Kianoush,95.65,160,-187,-187,205,211,-220,160,211,371
+EGAT's Cup International Weightlifting Championships,2019-01-07,96 kg Men,THAKUR Vikas,95.85,150,154,157,190,196,-201,157,196,353
+EGAT's Cup International Weightlifting Championships,2019-01-07,96 kg Men,RAGALA Venkat Rahul,90.30,143,-147,149,177,-181,183,149,183,332
+EGAT's Cup International Weightlifting Championships,2019-01-07,96 kg Men,MCDONALD Charles Ray,89.10,130,-135,135,167,-172,-175,135,167,302
+EGAT's Cup International Weightlifting Championships,2019-01-07,102 kg Men,RASULBEKOV Bekdoolot,98.70,150,157,-162,190,-202,-202,157,190,347
+EGAT's Cup International Weightlifting Championships,2019-01-07,102 kg Men,SHAIKHIDINOV Alikhan,101.40,-140,140,145,170,180,-185,145,180,325
+EGAT's Cup International Weightlifting Championships,2019-01-07,109 kg Men,SEO Huiyeop,108.35,166,173,-177,205,0,0,173,205,378
+EGAT's Cup International Weightlifting Championships,2019-01-07,109 kg Men,BERSANOV Ibragim,108.90,165,172,-177,195,200,-205,172,200,372
+EGAT's Cup International Weightlifting Championships,2019-01-07,109 kg Men,JIN Yunseong,102.55,165,-173,-174,195,-208,-208,165,195,360
+EGAT's Cup International Weightlifting Championships,2019-01-07,109 kg Men,LYDEMENT Matthew Ryan,108.10,145,150,-153,170,-175,175,150,175,325
+EGAT's Cup International Weightlifting Championships,2019-01-07,109 kg Men,PARDEEP Singh,102.45,120,130,140,160,170,0,140,170,310
+EGAT's Cup International Weightlifting Championships,2019-01-07,109 kg Men,JUNGBLUT Tanumafili Malietoa,108.70,135,-140,140,180,187,-192,140,187,327
+EGAT's Cup International Weightlifting Championships,2019-01-07,+109 kg Men,HAM Sang Il,142.60,170,176,185,210,-225,227,185,227,412
+EGAT's Cup International Weightlifting Championships,2019-01-07,+109 kg Men,LITI David Andrew,168.70,163,169,173,218,223,-227,173,223,396
+EGAT's Cup International Weightlifting Championships,2019-01-07,+109 kg Men,ABUBAKAROV Selimkhan,159.70,160,170,-175,190,200,-210,170,200,370
+EGAT's Cup International Weightlifting Championships,2019-01-07,49 kg Women,MIRABAI Chanu Saikhom,49.00,-79,79,82,104,107,110,82,110,192
+EGAT's Cup International Weightlifting Championships,2019-01-07,49 kg Women,MIYAKE Hiromi,48.90,78,80,-81,-100,100,103,80,103,183
+EGAT's Cup International Weightlifting Championships,2019-01-07,49 kg Women,TOUA Loa Dika,48.95,74,78,-81,101,-106,-106,78,101,179
+EGAT's Cup International Weightlifting Championships,2019-01-07,49 kg Women,KO Bogeum,47.65,60,65,70,80,0,0,70,80,150
+EGAT's Cup International Weightlifting Championships,2019-01-07,49 kg Women,CALMA Dayalani Reiko Vida,46.45,46,49,-51,58,60,-62,49,60,109
+EGAT's Cup International Weightlifting Championships,2019-01-07,55 kg Women,JIANG Huihua,50.90,88,92,-95,110,115,118,92,118,210
+EGAT's Cup International Weightlifting Championships,2019-01-07,55 kg Women,SADOYAMA Ayana,53.35,79,81,83,98,101,103,83,103,186
+EGAT's Cup International Weightlifting Championships,2019-01-07,55 kg Women,HANHUR Mariia,54.85,80,82,-84,94,97,100,82,100,182
+EGAT's Cup International Weightlifting Championships,2019-01-07,55 kg Women,HOSOMI Ayaka,54.65,73,-76,77,94,-98,-98,77,94,171
+EGAT's Cup International Weightlifting Championships,2019-01-07,55 kg Women,JANG Eunbi,54.65,75,-78,-78,95,98,-101,75,98,173
+EGAT's Cup International Weightlifting Championships,2019-01-07,55 kg Women,LIFU Mary Kini,54.80,68,73,75,88,-92,-92,75,88,163
+EGAT's Cup International Weightlifting Championships,2019-01-07,59 kg Women,LUO Xiaomin,59.00,97,101,104,-118,118,-125,104,118,222
+EGAT's Cup International Weightlifting Championships,2019-01-07,59 kg Women,ZHANG Yujuan,59.00,95,98,-100,123,-128,-130,98,123,221
+EGAT's Cup International Weightlifting Championships,2019-01-07,59 kg Women,ANDOH Mikiko,58.95,85,90,94,115,121,125,94,125,219
+EGAT's Cup International Weightlifting Championships,2019-01-07,59 kg Women,TURNER Taylor Nicole,58.90,-86,86,89,105,-110,0,89,105,194
+EGAT's Cup International Weightlifting Championships,2019-01-07,59 kg Women,SINGH Swati,58.75,82,-86,86,105,109,-113,86,109,195
+EGAT's Cup International Weightlifting Championships,2019-01-07,59 kg Women,KIM Sohwa,58.70,80,83,85,100,103,-105,85,103,188
+EGAT's Cup International Weightlifting Championships,2019-01-07,59 kg Women,WINI Jenly Tegu,58.80,80,84,-87,106,110,114,84,114,198
+EGAT's Cup International Weightlifting Championships,2019-01-07,59 kg Women,HAM Eunji,57.85,75,80,83,105,110,-115,83,110,193
+EGAT's Cup International Weightlifting Championships,2019-01-07,59 kg Women,KOPPARTHI Shireesha,58.90,75,79,-82,105,110,-114,79,110,189
+EGAT's Cup International Weightlifting Championships,2019-01-07,59 kg Women,LEE Seen,58.85,-72,72,76,94,98,101,76,101,177
+EGAT's Cup International Weightlifting Championships,2019-01-07,59 kg Women,ANUFRIYEVA Lidiya,58.45,70,-75,75,90,95,99,75,99,174
+EGAT's Cup International Weightlifting Championships,2019-01-07,59 kg Women,SUMAGAYSAY Jacinta Irene Untalan,58.80,63,65,-68,90,93,-95,65,93,158
+EGAT's Cup International Weightlifting Championships,2019-01-07,59 kg Women,JAGADDHITA Acchedya,58.50,90,95,97,112,117,-120,0,0,0
+EGAT's Cup International Weightlifting Championships,2019-01-07,64 kg Women,HUANG Ting,64.00,100,105,-107,120,130,135,105,135,240
+EGAT's Cup International Weightlifting Championships,2019-01-07,64 kg Women,ELLIOTT Kiana Rose,63.65,87,92,96,108,112,-115,96,112,208
+EGAT's Cup International Weightlifting Championships,2019-01-07,64 kg Women,KIM Yera,63.80,80,86,89,101,106,-110,89,106,195
+EGAT's Cup International Weightlifting Championships,2019-01-07,64 kg Women,COCHRANE Sarah Maureen,62.50,80,85,88,100,105,-110,88,105,193
+EGAT's Cup International Weightlifting Championships,2019-01-07,64 kg Women,PANNA Aysha Khatun,62.70,50,-50,50,62,65,68,50,68,118
+EGAT's Cup International Weightlifting Championships,2019-01-07,71 kg Women,LEE Jieun,69.70,95,98,100,-113,115,-119,100,115,215
+EGAT's Cup International Weightlifting Championships,2019-01-07,71 kg Women,STRENIUS Patricia Caroline,70.75,94,97,-100,123,130,133,97,133,230
+EGAT's Cup International Weightlifting Championships,2019-01-07,71 kg Women,LAYLOR Maya Celeste,70.90,-94,94,96,-117,117,-120,96,117,213
+EGAT's Cup International Weightlifting Championships,2019-01-07,71 kg Women,COOPER Kaitlyn Dawn,70.80,91,-95,95,115,118,-121,95,118,213
+EGAT's Cup International Weightlifting Championships,2019-01-07,71 kg Women,RWAHWIRE Quinnie Uzaca,70.95,-83,83,85,105,110,-115,85,110,195
+EGAT's Cup International Weightlifting Championships,2019-01-07,71 kg Women,BAKAEKIRI Tiiau,70.45,73,-77,77,95,-100,100,77,100,177
+EGAT's Cup International Weightlifting Championships,2019-01-07,76 kg Women,SU Xiaoqiong,72.45,106,111,115,136,141,146,115,146,261
+EGAT's Cup International Weightlifting Championships,2019-01-07,76 kg Women,KIM Suhyeon,73.35,95,100,105,125,135,-140,105,135,240
+EGAT's Cup International Weightlifting Championships,2019-01-07,76 kg Women,MUN Minhee,75.00,90,93,96,110,114,120,96,120,216
+EGAT's Cup International Weightlifting Championships,2019-01-07,76 kg Women,FORD Ariel Marie,75.75,-91,-91,91,-112,112,-116,91,112,203
+EGAT's Cup International Weightlifting Championships,2019-01-07,76 kg Women,ANDREWS-NAHU Kanah Shenelle,75.30,-87,87,-92,100,105,110,87,110,197
+EGAT's Cup International Weightlifting Championships,2019-01-07,76 kg Women,DAVIES Stephanie Lisa,71.30,85,-90,-90,-110,110,-113,85,110,195
+EGAT's Cup International Weightlifting Championships,2019-01-07,81 kg Women,KANG Yue,79.35,100,105,110,130,135,140,110,140,250
+EGAT's Cup International Weightlifting Championships,2019-01-07,81 kg Women,JANG Hyeonju,76.15,85,90,95,110,115,-120,95,115,210
+EGAT's Cup International Weightlifting Championships,2019-01-07,87 kg Women,KLINGSEIS Marissa Eileen,86.60,102,107,-110,132,-137,137,107,137,244
+EGAT's Cup International Weightlifting Championships,2019-01-07,87 kg Women,SHIMAMOTO Mami,86.75,99,103,105,-118,118,122,105,122,227
+EGAT's Cup International Weightlifting Championships,2019-01-07,+87 kg Women,ZHOU Xiaoman,159.25,130,137,141,170,180,-186,141,180,321
+EGAT's Cup International Weightlifting Championships,2019-01-07,+87 kg Women,LEE Seon Mi,119.00,115,120,-126,141,148,-153,120,148,268
+EGAT's Cup International Weightlifting Championships,2019-01-07,+87 kg Women,JIA Weipeng,96.90,110,116,-121,140,147,153,116,153,269
+EGAT's Cup International Weightlifting Championships,2019-01-07,+87 kg Women,AKMAL Nurul,110.75,103,106,111,140,147,149,111,149,260
+EGAT's Cup International Weightlifting Championships,2019-01-07,+87 kg Women,AMOE-TARRANT Charisma Precious,133.00,100,105,-107,140,-146,-146,105,140,245

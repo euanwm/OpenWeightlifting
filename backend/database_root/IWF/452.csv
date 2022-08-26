@@ -1,0 +1,323 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+European Championships,2019-04-06,55 kg Men,SCARANTINO Mirco,54.88,110,112,116,136,140,145,116,145,261
+European Championships,2019-04-06,55 kg Men,SAHIN Muammer,54.88,-110,-111,112,125,132,135,112,135,247
+European Championships,2019-04-06,55 kg Men,LUCA Marian-Cristian,54.72,103,109,111,130,134,-137,111,134,245
+European Championships,2019-04-06,55 kg Men,RUSEV Angel Hriskov,54.98,105,110,-112,-136,138,146,110,146,256
+European Championships,2019-04-06,55 kg Men,MUSOKHRANOV Oleg,54.78,108,-111,-111,130,-134,135,108,135,243
+European Championships,2019-04-06,55 kg Men,LUNGU Daniel,54.84,102,-106,106,120,-125,-125,106,120,226
+European Championships,2019-04-06,55 kg Men,IANCU Valentin-Ionadi,54.94,102,-107,-107,130,-134,-136,102,130,232
+European Championships,2019-04-06,55 kg Men,MASSIDDA Sergio,54.92,-100,100,-105,125,-130,-130,100,125,225
+European Championships,2019-04-06,55 kg Men,MUHAMMET Akkaya,54.94,88,-93,93,108,115,120,93,120,213
+European Championships,2019-04-06,61 kg Men,LAPTSEU Henadz,60.60,126,130,133,150,-152,153,133,153,286
+European Championships,2019-04-06,61 kg Men,SEZER Bunyami,60.94,129,132,-134,145,149,151,132,151,283
+European Championships,2019-04-06,61 kg Men,HARDAL Ferdi,60.94,-123,124,127,148,151,155,127,155,282
+European Championships,2019-04-06,61 kg Men,MISHVELIDZE Shota,60.98,125,-129,-129,-147,149,156,125,156,281
+European Championships,2019-04-06,61 kg Men,BRACHI GARCIA Josue,59.98,122,125,-128,145,148,-151,125,148,273
+European Championships,2019-04-06,61 kg Men,SHAMILISHVILI Ramini,60.60,121,-124,124,144,149,152,124,152,276
+European Championships,2019-04-06,61 kg Men,GAINUTDINOV Rais,60.85,115,-120,120,-143,143,147,120,147,267
+European Championships,2019-04-06,61 kg Men,RUIU Davide,60.90,115,120,-123,145,149,-153,120,149,269
+European Championships,2019-04-06,61 kg Men,MAU Jon Luke,60.86,115,119,-121,-149,149,154,119,154,273
+European Championships,2019-04-06,61 kg Men,SUKHOTSKYI Dmytro,60.70,110,114,117,135,-140,140,117,140,257
+European Championships,2019-04-06,61 kg Men,CIOTOIU Ilie-Constantin,60.78,117,-121,-121,146,-151,-152,117,146,263
+European Championships,2019-04-06,61 kg Men,ZALIPSKYI Pavlo,59.40,-112,112,116,135,-140,140,116,140,256
+European Championships,2019-04-06,61 kg Men,ENEV Stoyan,60.84,-115,115,-119,150,-154,-155,115,150,265
+European Championships,2019-04-06,61 kg Men,POLAK Frantisek,60.25,102,106,-110,130,135,-140,106,135,241
+European Championships,2019-04-06,67 kg Men,ISMAYILOV Daniyar,66.50,145,147,-154,-165,-165,-166,147,0,0
+European Championships,2019-04-06,67 kg Men,BRANDHUBER Simon Josef,66.78,140,143,146,160,165,-168,146,165,311
+European Championships,2019-04-06,67 kg Men,ZANNI Mirko,66.74,-140,140,142,163,-167,-167,142,163,305
+European Championships,2019-04-06,67 kg Men,CHKHEIDZE Goga,66.72,132,136,139,165,169,-173,139,169,308
+European Championships,2019-04-06,67 kg Men,KINGUE MATAM Bernardin Ledoux,66.84,137,-141,-141,169,172,175,137,175,312
+European Championships,2019-04-06,67 kg Men,VIZITIU Daniel-Florin,66.82,135,-140,-140,155,-159,160,135,160,295
+European Championships,2019-04-06,67 kg Men,KHALIBEKOV Feliks,66.94,-132,132,135,153,158,-161,135,158,293
+European Championships,2019-04-06,67 kg Men,ANGELOV Petar Sevdalin,66.74,125,130,133,156,-163,-163,133,156,289
+European Championships,2019-04-06,67 kg Men,EVANS Gareth Irfon (WAL),66.68,125,-130,-130,150,155,160,125,160,285
+European Championships,2019-04-06,67 kg Men,SIRAJ Mohammed Haroon,66.64,110,115,-120,-138,-138,-138,115,0,0
+European Championships,2019-04-06,67 kg Men,HERNANDEZ MENDOZA Acoran Juan,66.54,-133,-133,-133,155,159,161,0,161,0
+European Championships,2019-04-06,73 kg Men,CALJA Briken,72.84,152,156,-160,-183,183,-188,156,183,339
+European Championships,2019-04-06,73 kg Men,ANDREEV Bozhidar Dimitrov,72.84,148,153,-157,181,187,192,153,192,345
+European Championships,2019-04-06,73 kg Men,LIKHARAD Vadzim,72.86,153,-156,-157,-176,176,182,153,182,335
+European Championships,2019-04-06,73 kg Men,PETROV Sergei,72.80,145,150,-154,173,-180,-181,150,173,323
+European Championships,2019-04-06,73 kg Men,ROBU Marin,72.82,140,145,148,168,173,-176,148,173,321
+European Championships,2019-04-06,73 kg Men,ILHAN Ramazan,71.28,143,148,-151,163,-168,-170,148,163,311
+European Championships,2019-04-06,73 kg Men,SANCHEZ LOPEZ David,72.88,143,-147,147,177,-183,183,147,183,330
+European Championships,2019-04-06,73 kg Men,OZBEK Muhammed Furkan,72.88,140,145,-148,174,180,-184,145,180,325
+European Championships,2019-04-06,73 kg Men,MALAKMADZE Archil,72.16,133,138,141,160,167,-171,141,167,308
+European Championships,2019-04-06,73 kg Men,GRIGORYAN Armen,72.88,140,-145,-145,170,-175,-175,140,170,310
+European Championships,2019-04-06,73 kg Men,KLIM Ivan,72.70,140,0,0,0,0,0,140,0,0
+European Championships,2019-04-06,73 kg Men,KRING Tim,72.94,-134,134,138,165,169,-172,138,169,307
+European Championships,2019-04-06,73 kg Men,PETROV Petr,72.46,133,-137,-137,163,171,-175,133,171,304
+European Championships,2019-04-06,73 kg Men,DUMITRASCU Paul,72.38,132,-136,-137,172,177,-182,132,177,309
+European Championships,2019-04-06,73 kg Men,KHALILOV Kanan,72.76,120,124,-128,140,-144,145,124,145,269
+European Championships,2019-04-06,81 kg Men,SUHAREVS Ritvars,80.76,155,160,162,183,187,192,162,192,354
+European Championships,2019-04-06,81 kg Men,MATA PEREZ Andres Eduardo,80.62,152,157,160,-187,-187,187,160,187,347
+European Championships,2019-04-06,81 kg Men,QERIMAJ Erkand,80.74,155,157,159,188,-193,-194,159,188,347
+European Championships,2019-04-06,81 kg Men,ASAYONAK Petr,80.56,-159,159,-162,191,195,196,159,196,355
+European Championships,2019-04-06,81 kg Men,ERDOGDU Celil,80.50,-153,153,156,182,191,196,156,196,352
+European Championships,2019-04-06,81 kg Men,PIZZOLATO Antonino,80.92,-155,155,-160,190,195,201,155,201,356
+European Championships,2019-04-06,81 kg Men,MUELLER Nico,80.52,150,155,-159,190,-195,-196,155,190,345
+European Championships,2019-04-06,81 kg Men,LOZKA Ihar,80.20,146,151,155,185,-193,-195,155,185,340
+European Championships,2019-04-06,81 kg Men,LANG Max Richard,80.28,150,-154,154,180,-186,187,154,187,341
+European Championships,2019-04-06,81 kg Men,ZWARYCZ Krzysztof Maciej,80.62,-152,152,-156,183,-186,-187,152,183,335
+European Championships,2019-04-06,81 kg Men,HARUTYUNYAN Rafik,80.98,145,150,-153,185,189,194,150,194,344
+European Championships,2019-04-06,81 kg Men,OLIVER Jack Simon,80.38,142,146,-150,172,-176,176,146,176,322
+European Championships,2019-04-06,81 kg Men,MARECEK Petr,80.12,141,-146,146,163,168,173,146,173,319
+European Championships,2019-04-06,81 kg Men,AUKHADOV Apti,80.90,145,-150,-150,180,0,0,145,180,325
+European Championships,2019-04-06,81 kg Men,GONZALEZ BAEZ Alejandro,80.70,140,145,-148,175,-180,-180,145,175,320
+European Championships,2019-04-06,81 kg Men,ALAM Omed,79.70,139,142,145,170,174,-177,145,174,319
+European Championships,2019-04-06,81 kg Men,BROWN Sean Kevin,80.60,144,-147,-147,167,171,-175,144,171,315
+European Championships,2019-04-06,81 kg Men,TKAC Richard,80.76,137,141,-144,169,175,-179,141,175,316
+European Championships,2019-04-06,81 kg Men,KMEGY Mate Jozsef,80.50,-140,140,-143,168,-172,176,140,176,316
+European Championships,2019-04-06,81 kg Men,MURRAY Christopher John,78.16,131,135,139,161,-165,165,139,165,304
+European Championships,2019-04-06,81 kg Men,TEBIDZE Lomia,79.68,130,134,137,163,170,-179,137,170,307
+European Championships,2019-04-06,81 kg Men,ALIGULIYEV Kanan,80.36,125,131,135,-162,165,171,135,171,306
+European Championships,2019-04-06,81 kg Men,ROZSNYIK Ervin,80.06,135,-140,-140,165,-170,-170,135,165,300
+European Championships,2019-04-06,81 kg Men,JONSSON Einar Ingi,74.16,110,115,-120,140,-145,147,115,147,262
+European Championships,2019-04-06,81 kg Men,KRASNIQI Arbnor,80.94,-95,-95,95,-115,115,120,95,120,215
+European Championships,2019-04-06,81 kg Men,GODELLI Daniel,80.56,-160,-161,-161,0,0,0,0,0,0
+European Championships,2019-04-06,89 kg Men,DAVITADZE Revaz,88.22,164,167,170,194,-199,200,170,200,370
+European Championships,2019-04-06,89 kg Men,HOVHANNISYAN Davit,88.50,155,160,165,185,192,195,165,195,360
+European Championships,2019-04-06,89 kg Men,MKRTCHYAN Hakob,88.82,160,164,-166,201,207,0,164,207,371
+European Championships,2019-04-06,89 kg Men,ADAMUS Bartlomiej Stefan,89.00,152,157,-160,187,-192,193,157,193,350
+European Championships,2019-04-06,89 kg Men,CIOBANU Tudor,88.38,149,-155,156,187,-192,192,156,192,348
+European Championships,2019-04-06,89 kg Men,MENONI Enzo Anthony Vincent,88.14,148,152,155,173,-178,-178,155,173,328
+European Championships,2019-04-06,89 kg Men,SHORAJ Krenar,88.06,155,-160,-161,195,-200,-201,155,195,350
+European Championships,2019-04-06,89 kg Men,GOLOGAN Marin,88.02,-152,152,-157,186,193,-196,152,193,345
+European Championships,2019-04-06,89 kg Men,MEZINSKIS Armands,87.74,142,147,151,181,187,193,151,193,344
+European Championships,2019-04-06,89 kg Men,MARTASIDIS Antonis,88.36,-150,150,-155,190,-195,-195,150,190,340
+European Championships,2019-04-06,89 kg Men,SUNGU Burak,87.34,143,148,-152,165,170,-175,148,170,318
+European Championships,2019-04-06,89 kg Men,MUSIC Amar,87.40,138,142,-145,170,175,-180,142,175,317
+European Championships,2019-04-06,89 kg Men,VAUTARD Brandon Robert Jean,88.08,-140,140,-145,192,-197,-197,140,192,332
+European Championships,2019-04-06,89 kg Men,NYKANEN Jesse Juhani,88.92,139,-143,-143,-170,-170,-171,139,0,0
+European Championships,2019-04-06,89 kg Men,KOLAR Josef,88.40,133,136,139,165,170,-175,139,170,309
+European Championships,2019-04-06,89 kg Men,POLACEK Peter,87.96,-135,135,-140,170,175,180,135,180,315
+European Championships,2019-04-06,89 kg Men,SIRCELJ David,81.48,115,-119,-121,143,148,-152,115,148,263
+European Championships,2019-04-06,89 kg Men,KLOS Kacper,86.64,0,0,0,0,0,0,0,0,0
+European Championships,2019-04-06,89 kg Men,KACINSKAS Irmantas,88.20,143,148,-152,170,175,-180,0,0,0
+European Championships,2019-04-06,89 kg Men,MUDREUSKI Maksim,88.80,156,161,166,183,-190,190,0,0,0
+European Championships,2019-04-06,96 kg Men,TSIKHANTSOU Yauheni,95.66,170,174,178,204,210,222,178,222,400
+European Championships,2019-04-06,96 kg Men,PLIESNOI Anton,95.66,165,170,173,198,-204,204,173,204,377
+European Championships,2019-04-06,96 kg Men,PYROHOV Kyryl,95.70,163,168,171,189,-194,194,171,194,365
+European Championships,2019-04-06,96 kg Men,KLIMONOV Egor,95.78,162,166,168,-205,206,210,168,210,378
+European Championships,2019-04-06,96 kg Men,KHUGAEV Khetag,95.22,165,-170,-171,201,-210,-213,165,201,366
+European Championships,2019-04-06,96 kg Men,SZMEJA Pawel,95.68,162,165,-168,-182,185,190,165,190,355
+European Championships,2019-04-06,96 kg Men,IAKOVIDIS Theodoros,92.92,158,-163,163,192,197,-201,163,197,360
+European Championships,2019-04-06,96 kg Men,SPIESS Jurgen Christian,95.58,158,162,-165,192,-198,-200,162,192,354
+European Championships,2019-04-06,96 kg Men,ZAKASHEVSKYI Pavlo,95.60,156,160,-163,190,195,198,160,198,358
+European Championships,2019-04-06,96 kg Men,MARKOULAS Georgios,95.78,-155,155,160,195,200,-205,160,200,360
+European Championships,2019-04-06,96 kg Men,KAIKILEKOFE Israel Setino,92.00,153,158,-160,188,-191,191,158,191,349
+European Championships,2019-04-06,96 kg Men,ARAT Ibrahim,95.60,153,157,-161,-190,191,-198,157,191,348
+European Championships,2019-04-06,96 kg Men,KULIK Pawel,95.66,-150,151,156,191,196,203,156,203,359
+European Championships,2019-04-06,96 kg Men,MUGURDUMOV Artur,95.82,154,-158,-159,190,197,-200,154,197,351
+European Championships,2019-04-06,96 kg Men,KOZEVNIKOVS Vadims,95.32,153,-157,-157,200,-207,207,153,207,360
+European Championships,2019-04-06,96 kg Men,AVETISYAN Edmon,95.68,142,147,152,179,184,190,152,190,342
+European Championships,2019-04-06,96 kg Men,LI-CIN-CHAI Tomas,95.40,-145,145,150,175,180,-185,150,180,330
+European Championships,2019-04-06,96 kg Men,RETULAINEN Eero Eljas,95.94,-148,-148,150,184,-188,188,150,188,338
+European Championships,2019-04-06,96 kg Men,ISMAYILOV Kamran,95.82,145,148,-151,180,185,-188,148,185,333
+European Championships,2019-04-06,96 kg Men,NABIYEV Nailkhan,95.44,142,147,-150,182,187,190,147,190,337
+European Championships,2019-04-06,96 kg Men,DARVILLE Simon Kastbjerg,95.86,137,-145,-145,170,180,-185,137,180,317
+European Championships,2019-04-06,96 kg Men,MUSIC Ensar,89.72,120,125,-130,160,-170,175,125,175,300
+European Championships,2019-04-06,96 kg Men,ONICA Nicolae,95.22,-160,-160,0,0,0,0,0,0,0
+European Championships,2019-04-06,102 kg Men,CHUMAK Dmytro,101.42,171,-175,175,210,216,-229,175,216,391
+European Championships,2019-04-06,102 kg Men,STRALTSOU Vadzim,100.68,161,167,170,201,-206,206,170,206,376
+European Championships,2019-04-06,102 kg Men,CHKHEIDZE Irakli,101.38,163,167,169,-202,-203,203,169,203,372
+European Championships,2019-04-06,102 kg Men,MARTIROSYAN Arsen,101.76,160,-165,168,-200,200,-205,168,200,368
+European Championships,2019-04-06,102 kg Men,GASPARYAN Samvel,101.50,-168,-168,168,209,-216,-217,168,209,377
+European Championships,2019-04-06,102 kg Men,GRELA Lukasz Roman,97.26,158,162,166,185,190,193,166,193,359
+European Championships,2019-04-06,102 kg Men,SIDISKIS Arnas,101.50,155,160,165,186,-191,-192,165,186,351
+European Championships,2019-04-06,102 kg Men,GRISKOVS Janis,100.88,155,161,165,195,-201,205,165,205,370
+European Championships,2019-04-06,102 kg Men,REVA Kostiantyn,101.82,161,-166,-166,200,207,-216,161,207,368
+European Championships,2019-04-06,102 kg Men,KUZIC Nenad,101.42,160,-164,-165,200,-206,-208,160,200,360
+European Championships,2019-04-06,102 kg Men,KARINA Endri,101.36,160,-167,-169,-190,190,-195,160,190,350
+European Championships,2019-04-06,102 kg Men,ELVAN Resul,101.68,155,160,-167,-194,-196,196,160,196,356
+European Championships,2019-04-06,102 kg Men,PENT Leho,100.12,140,147,152,165,177,185,152,185,337
+European Championships,2019-04-06,102 kg Men,NAZAROV Alish,100.38,142,147,151,176,181,-185,151,181,332
+European Championships,2019-04-06,102 kg Men,GASIOR Jiri,101.10,-143,143,-147,180,185,-190,143,185,328
+European Championships,2019-04-06,102 kg Men,STANULIS Zygimantas,100.58,0,0,0,0,0,0,0,0,0
+European Championships,2019-04-06,109 kg Men,MARTIROSYAN Simon,108.98,187,192,-197,225,235,0,192,235,427
+European Championships,2019-04-06,109 kg Men,BOCHKOV Rodion,108.96,182,187,192,213,-218,218,192,218,410
+European Championships,2019-04-06,109 kg Men,ARAMNAU Andrei,108.50,181,186,190,216,221,-226,190,221,411
+European Championships,2019-04-06,109 kg Men,NANIEV Timur,109.00,176,182,186,215,-225,-225,186,215,401
+European Championships,2019-04-06,109 kg Men,GOSPODINOV Vasil Georgiev,108.02,176,181,-183,215,-222,-225,181,215,396
+European Championships,2019-04-06,109 kg Men,MARTIROSJAN Sargis,108.22,177,181,-183,200,206,-211,181,206,387
+European Championships,2019-04-06,109 kg Men,RUIZ I VELASCO Marcos,107.50,170,175,180,200,-207,-207,180,200,380
+European Championships,2019-04-06,109 kg Men,PLESNIEKS Arturs,108.46,175,180,-184,218,225,-232,180,225,405
+European Championships,2019-04-06,109 kg Men,MICHALSKI Arkadiusz,108.84,173,176,179,221,-233,-233,179,221,400
+European Championships,2019-04-06,109 kg Men,ZAITSEV Roman,108.22,166,169,173,-208,208,-217,173,208,381
+European Championships,2019-04-06,109 kg Men,HRISTOV Hristo Dimitrov,108.66,167,172,-176,198,204,0,172,204,376
+European Championships,2019-04-06,109 kg Men,TATARCIK Radoslav,108.46,167,-171,172,183,-186,0,172,183,355
+European Championships,2019-04-06,109 kg Men,BIBIK Oleksii,108.48,168,-173,-173,195,-203,-203,168,195,363
+European Championships,2019-04-06,109 kg Men,HOFMANN Matthaeus Klaus Lorant Georg,107.32,163,-168,168,193,-198,-198,168,193,361
+European Championships,2019-04-06,109 kg Men,FISCHER David,108.50,-165,165,-170,200,-210,0,165,200,365
+European Championships,2019-04-06,109 kg Men,KOVAC Matej,108.74,163,-167,-167,197,-199,199,163,199,362
+European Championships,2019-04-06,109 kg Men,BOXALL Owen Gordon Edward,107.08,155,-162,-165,190,-197,-198,155,190,345
+European Championships,2019-04-06,109 kg Men,KRYWULT Patrik,106.56,150,154,-158,181,185,-188,154,185,339
+European Championships,2019-04-06,109 kg Men,AGREN Stefan Vilhelm Mauritz,109.00,-148,148,151,183,188,193,151,193,344
+European Championships,2019-04-06,109 kg Men,LICHOVOJ Sergej,104.78,148,-154,-154,172,180,-187,148,180,328
+European Championships,2019-04-06,109 kg Men,HEIKKINEN Jani Petteri,107.81,-140,140,145,173,180,184,145,184,329
+European Championships,2019-04-06,+109 kg Men,TALAKHADZE Lasha,170.10,208,218,0,245,260,0,218,260,478
+European Championships,2019-04-06,+109 kg Men,TURMANIDZE Irakli,139.15,195,201,206,227,234,241,206,241,447
+European Championships,2019-04-06,+109 kg Men,MINASYAN Gor,152.25,200,-205,-205,222,-234,0,200,222,422
+European Championships,2019-04-06,+109 kg Men,ZIAZIULIN Eduard,132.80,191,196,-199,-221,221,227,196,227,423
+European Championships,2019-04-06,+109 kg Men,ALEKSANYAN Ruben,153.10,190,195,-200,240,245,0,195,245,440
+European Championships,2019-04-06,+109 kg Men,SAVCHUK Antoniy,136.70,180,185,190,220,-225,0,190,220,410
+European Championships,2019-04-06,+109 kg Men,NAGY Peter,155.95,180,185,-188,210,219,-223,185,219,404
+European Championships,2019-04-06,+109 kg Men,KUCERA Kamil,153.40,177,182,-187,225,-236,236,182,236,418
+European Championships,2019-04-06,+109 kg Men,LITVINOV David,126.50,173,177,181,202,208,212,181,212,393
+European Championships,2019-04-06,+109 kg Men,ORSAG Jiri,130.00,175,-179,180,225,235,-242,180,235,415
+European Championships,2019-04-06,+109 kg Men,KAJDOCI Tamas,145.80,165,170,-175,210,215,-220,170,215,385
+European Championships,2019-04-06,+109 kg Men,KUWORGE Enzo Kofi,146.40,160,165,-170,206,213,217,165,217,382
+European Championships,2019-04-06,+109 kg Men,COULLET Anthony Jean Pierre,147.80,155,160,-165,205,212,-223,160,212,372
+European Championships,2019-04-06,+109 kg Men,KAJDOCSI Tivadar,129.60,150,155,160,200,-210,-210,160,200,360
+European Championships,2019-04-06,+109 kg Men,KRUZEL Ondrej,118.44,150,-155,156,183,190,0,156,190,346
+European Championships,2019-04-06,+109 kg Men,TOLLEFSEN Kim Eirik,122.68,155,-158,-161,195,199,-202,155,199,354
+European Championships,2019-04-06,+109 kg Men,LITHEN Carl Hampus,143.52,146,150,154,193,-200,-202,154,193,347
+European Championships,2019-04-06,+109 kg Men,ROININEN Teemu Tapio,141.54,151,-156,-156,-193,-195,-195,151,0,0
+European Championships,2019-04-06,+109 kg Men,SEIM Mart,149.80,0,0,0,0,0,0,0,0,0
+European Championships,2019-04-06,45 kg Women,ERDOGAN Saziye,44.96,70,73,75,88,-91,-91,75,88,163
+European Championships,2019-04-06,45 kg Women,ASAYONAK Yuliya,44.74,64,67,69,81,-83,-83,69,81,150
+European Championships,2019-04-06,45 kg Women,PETROVA Ivana Gerogieva,45.00,65,67,69,83,85,89,69,89,158
+European Championships,2019-04-06,45 kg Women,DOGAN Ayse,44.76,64,66,68,-81,81,-85,68,81,149
+European Championships,2019-04-06,45 kg Women,PANA Adriana Cosmina,44.62,62,65,-68,-82,82,84,65,84,149
+European Championships,2019-04-06,45 kg Women,POWELL Hannah Louise (WAL),44.62,60,-63,63,78,80,83,63,83,146
+European Championships,2019-04-06,45 kg Women,KUDLASZYK Paulina Magdalena,44.96,-55,55,58,70,-73,73,58,73,131
+European Championships,2019-04-06,45 kg Women,GIACOMONE Maria Belen,44.08,48,51,-54,60,64,-70,51,64,115
+European Championships,2019-04-06,49 kg Women,ANDRIES Elena-Ramona,48.78,82,85,87,100,103,-105,87,103,190
+European Championships,2019-04-06,49 kg Women,SOBOL Kristina Ivanovna,48.72,80,83,85,-91,91,95,85,95,180
+European Championships,2019-04-06,49 kg Women,MICHEL Anais,48.34,77,79,-81,97,-100,-100,79,97,176
+European Championships,2019-04-06,49 kg Women,LORENTZ Manon Camille,48.90,78,-81,-81,95,99,-101,78,99,177
+European Championships,2019-04-06,49 kg Women,RUSSO Giorgia,48.76,72,-75,75,98,100,103,75,103,178
+European Championships,2019-04-06,49 kg Women,ROBSON Kelly-Jo,48.60,65,68,70,-84,-84,-84,70,0,0
+European Championships,2019-04-06,49 kg Women,PANDOVA Daniela Ivanova,48.84,67,70,-72,88,91,-94,70,91,161
+European Championships,2019-04-06,49 kg Women,BAYAV Pelinsu,48.54,-70,70,-73,-90,90,93,70,93,163
+European Championships,2019-04-06,49 kg Women,ZACHAREK Agnieszka,48.72,65,-68,-68,84,-87,-88,65,84,149
+European Championships,2019-04-06,49 kg Women,BUTKOVA Iuliya,48.74,60,-64,64,77,80,82,64,82,146
+European Championships,2019-04-06,49 kg Women,PIPILIARIDOU Maria,48.97,60,63,-65,90,96,-98,63,96,159
+European Championships,2019-04-06,49 kg Women,JIMSHELEISHVILI Khatuna,48.68,56,59,62,70,74,-77,62,74,136
+European Championships,2019-04-06,55 kg Women,MAGISTRIS Lucrezia,54.80,90,-93,-93,-106,-106,-106,90,0,0
+European Championships,2019-04-06,55 kg Women,ERSHOVA Svetlana,54.44,85,88,90,105,108,-110,90,108,198
+European Championships,2019-04-06,55 kg Women,LOCHOWSKA Joanna,54.68,-87,87,-90,107,112,0,87,112,199
+European Championships,2019-04-06,55 kg Women,HANHUR Mariia,54.70,83,-86,86,-100,100,-103,86,100,186
+European Championships,2019-04-06,55 kg Women,NOVITSKAIA Kristina,54.50,82,85,-87,-105,-105,105,85,105,190
+European Championships,2019-04-06,55 kg Women,STERCKX Nina,54.40,77,80,82,96,-100,101,82,101,183
+European Championships,2019-04-06,55 kg Women,PSYSHCHANITSA Liudmila,54.74,82,-85,-85,105,-109,-109,82,105,187
+European Championships,2019-04-06,55 kg Women,HERNANDEZ MARTIN Atenery,54.72,79,-81,81,97,100,-102,81,100,181
+European Championships,2019-04-06,55 kg Women,ROOS Anna Angelica Ulrika,54.60,78,80,81,101,103,-106,81,103,184
+European Championships,2019-04-06,55 kg Women,LOMBARDO Jennifer,53.82,-80,-81,81,103,-106,-107,81,103,184
+European Championships,2019-04-06,55 kg Women,OVSTHUS Sarah Orteza Hovden,54.26,77,79,-81,100,-103,-103,79,100,179
+European Championships,2019-04-06,55 kg Women,ZALATAROVA Aksana,54.86,75,78,-80,87,90,-93,78,90,168
+European Championships,2019-04-06,55 kg Women,JACOBSEN Rebekka Tao,54.92,76,-78,78,100,-103,-103,78,100,178
+European Championships,2019-04-06,55 kg Women,BRUHN Katrine Nim,54.92,74,77,-79,94,-97,-97,77,94,171
+European Championships,2019-04-06,55 kg Women,WILLIAMS Amy Louise,54.60,72,75,-77,93,-97,98,75,98,173
+European Championships,2019-04-06,55 kg Women,JENSEN Sandra Hoegfeldt,54.36,73,-75,-76,88,91,93,73,93,166
+European Championships,2019-04-06,55 kg Women,COBAN BASOL Aysegul,54.74,73,-76,-78,100,106,-109,73,106,179
+European Championships,2019-04-06,55 kg Women,LANDGREN Anna Cecilia,54.28,69,-71,71,90,-94,-94,71,90,161
+European Championships,2019-04-06,55 kg Women,ARVA Cintia Andrea,54.12,65,-68,68,87,90,-92,68,90,158
+European Championships,2019-04-06,55 kg Women,MARKOVIC Marina,54.02,58,60,-62,75,80,-82,60,80,140
+European Championships,2019-04-06,55 kg Women,BRAJSHORI Leonora,54.92,-66,-66,-66,-78,79,81,0,81,0
+European Championships,2019-04-06,59 kg Women,KOHA Rebeka,58.44,97,101,-104,116,120,-125,101,120,221
+European Championships,2019-04-06,59 kg Women,YAYLYAN Izabella,58.64,90,-95,96,111,-116,-116,96,111,207
+European Championships,2019-04-06,59 kg Women,KOZLOVA Aleksandra,58.94,93,-96,96,110,115,117,96,117,213
+European Championships,2019-04-06,59 kg Women,BENTELI Konstantina,58.68,92,95,-97,112,-116,-118,95,112,207
+European Championships,2019-04-06,59 kg Women,HULPAN Florina-Sorina,58.56,-92,92,95,113,117,-119,95,117,212
+European Championships,2019-04-06,59 kg Women,TCHAKOUNTE Dora Meiriama,58.52,90,94,-97,105,110,-112,94,110,204
+European Championships,2019-04-06,59 kg Women,ALEEVA Tatiana,58.64,92,94,-95,112,118,120,94,120,214
+European Championships,2019-04-06,59 kg Women,KUSTERER Sabine Beate,58.52,-91,91,94,-110,-110,0,94,0,0
+European Championships,2019-04-06,59 kg Women,PENCIU Andreea,58.72,88,91,93,102,-105,-105,93,102,195
+European Championships,2019-04-06,59 kg Women,ALEMANNO Maria Grazia,58.86,90,-93,-93,108,-110,-110,90,108,198
+European Championships,2019-04-06,59 kg Women,IVASIUK Veronika,58.52,85,-88,89,100,103,105,89,105,194
+European Championships,2019-04-06,59 kg Women,SAARHELO Marianne Ellen Vilhelmiina,58.84,82,85,88,100,104,108,88,108,196
+European Championships,2019-04-06,59 kg Women,HELGADOTTIR Thuridur Erla,58.58,81,84,87,102,-105,-106,87,102,189
+European Championships,2019-04-06,59 kg Women,CAKIN Aysegul,58.78,83,86,-89,109,-114,-116,86,109,195
+European Championships,2019-04-06,59 kg Women,AARSTEN Amalie Loevind,58.48,79,-82,83,101,104,107,83,107,190
+European Championships,2019-04-06,59 kg Women,WAALER Sol Anette,58.32,83,-85,-86,-106,106,-109,83,106,189
+European Championships,2019-04-06,59 kg Women,ANDERSSON Ine Drablos,58.62,-82,82,-85,102,-107,-107,82,102,184
+European Championships,2019-04-06,59 kg Women,ADOLFSSON Jenny Ji,58.74,80,-82,82,100,-103,-104,82,100,182
+European Championships,2019-04-06,59 kg Women,SANCHEZ FERRER Alba,58.74,78,81,-83,103,107,-110,81,107,188
+European Championships,2019-04-06,59 kg Women,SKANDI EL ASAAD Mouna,58.78,78,81,-83,-103,-104,0,81,0,0
+European Championships,2019-04-06,59 kg Women,IVANOVA Daniela,58.52,79,81,-83,100,-104,105,81,105,186
+European Championships,2019-04-06,59 kg Women,BLATCH Olivia Louise,58.70,79,-81,-82,98,100,102,79,102,181
+European Championships,2019-04-06,59 kg Women,KALO Sarit,58.48,-78,78,-80,98,-102,-102,78,98,176
+European Championships,2019-04-06,59 kg Women,STESL Nastasja,58.54,72,75,-78,89,92,-95,75,92,167
+European Championships,2019-04-06,59 kg Women,LEBBE Nathalie Marie B,58.42,74,-77,-77,93,-96,96,74,96,170
+European Championships,2019-04-06,64 kg Women,TOMA Loredana-Elena,63.86,106,111,-114,125,128,-132,111,128,239
+European Championships,2019-04-06,64 kg Women,LEPSA Irina-Lacramioara,63.38,98,-100,102,121,124,127,102,127,229
+European Championships,2019-04-06,64 kg Women,BORDIGNON Giorgia,63.60,95,99,101,121,-123,-123,101,121,222
+European Championships,2019-04-06,64 kg Women,TURIEVA Tima,63.30,95,-99,99,115,120,-124,99,120,219
+European Championships,2019-04-06,64 kg Women,DAVIES Sarah,63.46,93,96,98,121,-125,125,98,125,223
+European Championships,2019-04-06,64 kg Women,SMITH Zoe,63.90,92,96,-98,122,126,128,96,128,224
+European Championships,2019-04-06,64 kg Women,JUNG Beata,63.74,90,93,-96,103,-106,-106,93,103,196
+European Championships,2019-04-06,64 kg Women,SCHWEIZER Lisa Marie,63.34,90,93,-95,108,111,-113,93,111,204
+European Championships,2019-04-06,64 kg Women,VUOHIJOKI Anni Teija Orvokki,63.76,93,-96,-96,-116,116,-121,93,116,209
+European Championships,2019-04-06,64 kg Women,ALTUN Berfin,63.44,90,93,-95,115,-122,-123,93,115,208
+European Championships,2019-04-06,64 kg Women,ARDALSBAKKE Marit,63.86,87,90,92,102,-105,-105,92,102,194
+European Championships,2019-04-06,64 kg Women,SHATOVA Galya Anetova,63.54,88,-91,92,107,-111,111,92,111,203
+European Championships,2019-04-06,64 kg Women,RETULAINEN Saara Sylvia Amanda,63.76,85,89,91,-105,-106,106,91,106,197
+European Championships,2019-04-06,64 kg Women,DE GREGORIO LORENZO Ana,63.70,90,-93,-94,103,-106,-106,90,103,193
+European Championships,2019-04-06,64 kg Women,LEVENT Nuray,63.44,90,-95,-98,112,117,-122,90,117,207
+European Championships,2019-04-06,64 kg Women,SHYMECHKO Yuliia,63.78,86,89,-91,112,116,-120,89,116,205
+European Championships,2019-04-06,64 kg Women,GHERMAN Daniela Mariana,62.24,-87,87,-89,99,103,-106,87,103,190
+European Championships,2019-04-06,64 kg Women,ZAMMIT STEVENS Yasmin,63.84,81,84,86,100,103,-105,86,103,189
+European Championships,2019-04-06,64 kg Women,POULSEN Amanda Novakowska,63.16,-82,82,-86,100,104,-107,82,104,186
+European Championships,2019-04-06,64 kg Women,HORNA Ivana,63.54,77,-80,81,98,101,-103,81,101,182
+European Championships,2019-04-06,64 kg Women,BIJLEVELD Sanne,62.74,73,77,80,94,-98,98,80,98,178
+European Championships,2019-04-06,64 kg Women,VEPKHVADZE Maka,63.56,65,69,73,85,89,92,73,92,165
+European Championships,2019-04-06,64 kg Women,PUDIVITROVA Eliska,63.16,-78,-78,-78,-95,95,101,0,101,0
+European Championships,2019-04-06,71 kg Women,ROMANOVA Anastasiia,70.38,103,108,112,123,128,-131,112,128,240
+European Championships,2019-04-06,71 kg Women,MOLIE Madalina-Bianca,64.96,95,98,101,-111,111,114,101,114,215
+European Championships,2019-04-06,71 kg Women,RUBANOVICH Nikol Bella,70.54,90,94,96,103,-106,-106,96,103,199
+European Championships,2019-04-06,71 kg Women,AKERLUND Maria Charlotte,68.88,-94,94,96,114,117,118,96,118,214
+European Championships,2019-04-06,71 kg Women,GODLEY Emily Victoria (ENG),69.74,-93,93,-96,117,-120,123,93,123,216
+European Championships,2019-04-06,71 kg Women,KASIRYE Ruth Nanozzi,67.34,-93,-93,93,112,116,-118,93,116,209
+European Championships,2019-04-06,71 kg Women,KOURTELIDOU Eleni,70.30,87,91,-93,-112,-112,112,91,112,203
+European Championships,2019-04-06,71 kg Women,MIKHALENKA Anastasiya,70.10,87,-90,90,112,117,-119,90,117,207
+European Championships,2019-04-06,71 kg Women,AKERLUND Ida Melina,70.72,84,86,88,106,-112,112,88,112,200
+European Championships,2019-04-06,71 kg Women,OHMAN Marina,67.74,84,87,-89,100,-103,-103,87,100,187
+European Championships,2019-04-06,71 kg Women,MITYKO Veronika,70.60,83,-86,87,101,-104,-104,87,101,188
+European Championships,2019-04-06,71 kg Women,BENNETT Sally Elizabeth,69.24,83,86,-88,-102,-102,102,86,102,188
+European Championships,2019-04-06,71 kg Women,HERTLOVA Simona,69.02,-85,85,-88,101,104,-107,85,104,189
+European Championships,2019-04-06,71 kg Women,RONDZIKOVA Nina,68.26,79,83,-85,99,102,-105,83,102,185
+European Championships,2019-04-06,71 kg Women,NIELSEN Julie Hougaard,69.90,-82,-83,83,93,97,101,83,101,184
+European Championships,2019-04-06,71 kg Women,PEDERSEN Mette Fasmila,70.64,78,81,-84,90,95,-98,81,95,176
+European Championships,2019-04-06,76 kg Women,VALENTIN PEREZ Lidia,75.50,105,108,-110,130,133,-136,108,133,241
+European Championships,2019-04-06,76 kg Women,NAUMAVA Darya,74.48,100,104,106,126,131,136,106,136,242
+European Championships,2019-04-06,76 kg Women,NAYO KETCHANKE Gaelle Verlaine,75.64,103,-106,-107,0,0,0,103,0,0
+European Championships,2019-04-06,76 kg Women,STRENIUS Patricia Caroline,72.94,96,99,101,125,-129,132,101,132,233
+European Championships,2019-04-06,76 kg Women,WIOR Jolanta Malgorzata,74.42,93,96,98,115,-119,-120,98,115,213
+European Championships,2019-04-06,76 kg Women,WIEJAK Malgorzata Antonina,74.40,95,-98,98,118,121,-123,98,121,219
+European Championships,2019-04-06,76 kg Women,RIEGER Patricia,74.68,-94,94,97,112,116,119,97,119,216
+European Championships,2019-04-06,76 kg Women,NARIN Dilara,75.52,90,-95,96,120,-127,-129,96,120,216
+European Championships,2019-04-06,76 kg Women,SENICOVA Nikola,75.54,87,91,94,108,112,-117,94,112,206
+European Championships,2019-04-06,76 kg Women,SAZANAVETS Dzina,75.40,88,92,94,107,-110,-110,94,107,201
+European Championships,2019-04-06,76 kg Women,ILMARINEN Meri Tuuli Linnea,75.84,-94,94,-97,-118,120,-123,94,120,214
+European Championships,2019-04-06,76 kg Women,CILCIC Elena,75.50,88,-92,92,112,115,119,92,119,211
+European Championships,2019-04-06,76 kg Women,SZUROMI Timea Reka,75.68,88,91,-93,107,110,-112,91,110,201
+European Championships,2019-04-06,76 kg Women,SKLENICKOVA Michaela,74.54,-82,82,85,103,-107,-107,85,103,188
+European Championships,2019-04-06,76 kg Women,DERMICEK Hermana,71.48,60,64,66,74,78,80,66,80,146
+European Championships,2019-04-06,76 kg Women,GADELIA Natia,75.28,57,61,64,77,83,85,64,85,149
+European Championships,2019-04-06,76 kg Women,TABEL Tabea Hannah,75.10,0,0,0,0,0,0,0,0,0
+European Championships,2019-04-06,76 kg Women,DEKHA Iryna,75.44,0,0,0,0,0,0,0,0,0
+European Championships,2019-04-06,81 kg Women,VANBELLINGHEN Anna Marie-J A M,80.56,98,101,103,118,-121,-121,103,118,221
+European Championships,2019-04-06,81 kg Women,SCHROTH Nina,80.40,96,100,102,116,120,-123,102,120,222
+European Championships,2019-04-06,81 kg Women,GYURJYAN Liana,76.76,90,94,97,115,120,-125,97,120,217
+European Championships,2019-04-06,81 kg Women,KAYA Rabia,77.24,91,96,-99,113,118,-121,96,118,214
+European Championships,2019-04-06,81 kg Women,HENERALAVA Volha,79.90,90,95,-98,105,113,-117,95,113,208
+European Championships,2019-04-06,81 kg Women,KRYLOV Mona,80.50,80,84,-86,98,-101,-101,84,98,182
+European Championships,2019-04-06,81 kg Women,KONSTANTINIDI Eleni,79.98,93,97,-100,119,124,126,0,0,0
+European Championships,2019-04-06,87 kg Women,PASKHINA Kseniia,86.72,103,107,110,127,132,-138,110,132,242
+European Championships,2019-04-06,87 kg Women,MSTIEVA Diana,86.64,104,-108,110,130,-135,-137,110,130,240
+European Championships,2019-04-06,87 kg Women,HAKOBYAN Tatev,86.92,-105,-105,105,125,-130,-130,105,125,230
+European Championships,2019-04-06,87 kg Women,FISCHER Sarah,86.08,97,102,-105,125,129,-133,102,129,231
+European Championships,2019-04-06,87 kg Women,MAGAT Krisztina,86.18,92,95,-97,114,117,-120,95,117,212
+European Championships,2019-04-06,87 kg Women,VENNEKILDE Marie Louise,86.66,92,-96,-97,115,-120,121,92,121,213
+European Championships,2019-04-06,87 kg Women,BOROS Viktoria,86.06,82,-86,-86,98,-102,103,82,103,185
+European Championships,2019-04-06,87 kg Women,KACZMARCZYK Kinga,86.48,-95,0,0,0,0,0,0,0,0
+European Championships,2019-04-06,+87 kg Women,KASHIRINA Tatiana,105.76,140,146,-150,174,180,185,146,185,331
+European Championships,2019-04-06,+87 kg Women,LYSENKO Anastasiia,104.40,116,120,-124,145,148,-151,120,148,268
+European Championships,2019-04-06,+87 kg Women,CAMPBELL Emily Jade,118.74,108,-112,115,140,145,-150,115,145,260
+European Championships,2019-04-06,+87 kg Women,DALALYAN Arpine,116.78,100,105,-109,135,-141,-141,105,135,240
+European Championships,2019-04-06,+87 kg Women,GUNAL Melike,110.78,95,100,104,120,127,-131,104,127,231
+European Championships,2019-04-06,+87 kg Women,MIERZEJEWSKA Aleksandra Emilia,144.26,-100,-100,101,125,-130,-131,101,125,226
+European Championships,2019-04-06,+87 kg Women,KAROLAK Magdalena,127.64,96,-100,-101,125,131,-135,96,131,227
+European Championships,2019-04-06,+87 kg Women,GYURUS Barbara,121.66,82,85,-87,101,-105,-106,85,101,186
+European Championships,2019-04-06,+87 kg Women,KRALOVA Tereza,94.56,78,82,84,92,96,-100,84,96,180
+European Championships,2019-04-06,+87 kg Women,CRNJAC Ana,97.82,64,-69,69,77,81,84,69,84,153

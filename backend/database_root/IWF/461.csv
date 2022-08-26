@@ -1,0 +1,63 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+British International Open,2019-06-07,73 kg Men,PETROV Petr,70.85,127,131,135,155,160,-171,135,160,295
+British International Open,2019-06-07,73 kg Men,EVANS Gareth Irfon (WAL),69.95,124,128,131,-155,155,-160,131,155,286
+British International Open,2019-06-07,73 kg Men,CONFIANCE Rick Yves,71.10,110,115,-120,138,-143,-143,115,138,253
+British International Open,2019-06-07,73 kg Men,STRAND Daniel Roness,72.50,-117,-121,-121,0,0,0,0,0,0
+British International Open,2019-06-07,81 kg Men,ULANOV Denis,80.80,140,145,0,180,0,0,145,180,325
+British International Open,2019-06-07,81 kg Men,BROWN Sean Kevin,80.05,138,-143,-143,166,-171,-171,138,166,304
+British International Open,2019-06-07,81 kg Men,MURRAY Christopher John,80.45,133,-137,-137,-152,152,-157,133,152,285
+British International Open,2019-06-07,81 kg Men,OLIVER Jack Simon,80.35,0,0,0,0,0,0,0,0,0
+British International Open,2019-06-07,96 kg Men,ILYIN Ilya,95.90,-155,155,165,180,185,-190,165,185,350
+British International Open,2019-06-07,96 kg Men,PYROHOV Kyryl,94.65,155,160,163,175,183,188,163,188,351
+British International Open,2019-06-07,96 kg Men,AVETISYAN Edmon,95.85,144,149,-155,170,-180,180,149,180,329
+British International Open,2019-06-07,96 kg Men,STANULIS Zygimantas,95.90,155,-160,-163,0,0,0,0,0,0
+British International Open,2019-06-07,102 kg Men,PENT Leho,99.95,140,146,-153,165,175,185,146,185,331
+British International Open,2019-06-07,102 kg Men,GASIOR Jiri,101.65,136,141,-145,171,-181,-185,141,171,312
+British International Open,2019-06-07,109 kg Men,CHUMAK Dmytro,103.60,165,170,-175,200,210,-215,170,210,380
+British International Open,2019-06-07,109 kg Men,SIDISKIS Arnas,107.10,151,157,160,185,190,-195,160,190,350
+British International Open,2019-06-07,109 kg Men,BOXALL Owen Gordon Edward,108.05,150,-157,-160,-190,190,200,150,200,350
+British International Open,2019-06-07,109 kg Men,KRYWULT Patrik,107.60,140,145,149,170,176,-180,149,176,325
+British International Open,2019-06-07,109 kg Men,KESKITALO Hannes Heikki Juhani,104.60,135,140,-145,-182,182,186,140,186,326
+British International Open,2019-06-07,109 kg Men,OCONCHUBHAIR Seamus,107.25,132,-137,137,173,-177,177,137,177,314
+British International Open,2019-06-07,+109 kg Men,KUCERA Kamil,152.50,-165,165,170,205,215,225,170,225,395
+British International Open,2019-06-07,+109 kg Men,ORSAG Jiri,130.60,-160,160,166,210,220,230,166,230,396
+British International Open,2019-06-07,+109 kg Men,KUWORGE Enzo Kofi,149.20,-160,160,0,200,210,0,160,210,370
+British International Open,2019-06-07,+109 kg Men,SEIM Mart,147.05,0,0,0,0,0,0,0,0,0
+British International Open,2019-06-07,49 kg Women,ZHANG Rong,48.20,85,90,-93,105,-110,-110,90,105,195
+British International Open,2019-06-07,49 kg Women,ROBSON Kelly-Jo,48.75,66,69,-71,-84,84,87,69,87,156
+British International Open,2019-06-07,49 kg Women,POWELL Hannah Louise (WAL),47.00,61,64,66,82,85,-89,66,85,151
+British International Open,2019-06-07,55 kg Women,ANDRIES Elena-Ramona,54.05,80,84,-88,85,95,-102,84,95,179
+British International Open,2019-06-07,55 kg Women,OVSTHUS Sarah Orteza Hovden,54.75,79,81,83,99,102,-104,83,102,185
+British International Open,2019-06-07,55 kg Women,MORROW Fraer Letitia,54.45,-78,78,-81,97,100,102,78,102,180
+British International Open,2019-06-07,55 kg Women,SAXON Jessica Marie,54.80,-77,-77,77,-102,-102,-102,77,0,0
+British International Open,2019-06-07,55 kg Women,WILLIAMS Amy Louise,54.75,-73,73,76,96,-100,-100,76,96,172
+British International Open,2019-06-07,55 kg Women,RITO ENOCKSSON Sofia Julia,54.95,-69,70,-73,-86,87,-90,70,87,157
+British International Open,2019-06-07,59 kg Women,MCLENDON JUMPER Sarabeth Elizabeth,58.65,90,-92,93,-111,-111,-111,93,0,0
+British International Open,2019-06-07,59 kg Women,WAALER Sol Anette,58.75,82,-85,-85,105,-108,-109,82,105,187
+British International Open,2019-06-07,59 kg Women,BLATCH Olivia Louise,58.90,80,-82,-82,103,-106,-107,80,103,183
+British International Open,2019-06-07,59 kg Women,TONG Jennifer Ellen,58.20,75,78,-81,92,-95,-97,78,92,170
+British International Open,2019-06-07,59 kg Women,MEISTER Scheila,58.55,66,70,-72,-85,-85,-85,70,0,0
+British International Open,2019-06-07,64 kg Women,DAVIES Sarah,63.70,96,99,101,-123,123,-127,101,123,224
+British International Open,2019-06-07,64 kg Women,SMITH Zoe,63.85,91,94,100,120,125,-130,100,125,225
+British International Open,2019-06-07,64 kg Women,SAARHELO Marianne Ellen Vilhelmiina,63.60,84,88,-90,105,-110,-113,88,105,193
+British International Open,2019-06-07,64 kg Women,POPE Kristin,63.95,-88,-88,-88,0,0,0,0,0,0
+British International Open,2019-06-07,71 kg Women,TOMA Loredana-Elena,68.05,105,113,-116,125,-131,131,113,131,244
+British International Open,2019-06-07,71 kg Women,HUANG Ting,67.30,95,-100,-103,115,120,126,95,126,221
+British International Open,2019-06-07,71 kg Women,BENNETT Sally Elizabeth,69.15,-86,87,-91,103,106,109,87,109,196
+British International Open,2019-06-07,71 kg Women,PRETORIUS Mona,65.05,76,80,-83,99,102,105,80,105,185
+British International Open,2019-06-07,76 kg Women,HARRIS Tayler Jordon,72.95,83,87,91,110,-115,-116,91,110,201
+British International Open,2019-06-07,76 kg Women,HERTLOVA Simona,71.20,83,87,89,100,105,108,89,108,197
+British International Open,2019-06-07,76 kg Women,JAEGGI Nora,75.00,-87,87,89,111,114,117,89,117,206
+British International Open,2019-06-07,81 kg Women,SFAMURRI Briana Daniella,78.50,88,91,94,114,120,-125,94,120,214
+British International Open,2019-06-07,81 kg Women,CUPID Rayen Selina Solaire,76.45,-87,87,90,-106,-106,106,90,106,196
+British International Open,2019-06-07,81 kg Women,NG Phoebe Hoi-Kay,79.40,86,-89,-90,111,112,116,86,116,202
+British International Open,2019-06-07,81 kg Women,SKLENICKOVA Michaela,76.10,75,79,81,96,100,193,81,103,184
+British International Open,2019-06-07,87 kg Women,KANG Yue,85.55,110,115,118,143,150,-153,118,150,268
+British International Open,2019-06-07,87 kg Women,RIOTTO Juliana Rose,86.75,100,103,-106,123,-130,-130,103,123,226
+British International Open,2019-06-07,87 kg Women,VANBELLINGHEN Anna Marie-J A M,84.70,93,97,-101,113,118,-122,97,118,215
+British International Open,2019-06-07,87 kg Women,AO Hui,85.30,0,0,0,0,0,0,0,0,0
+British International Open,2019-06-07,+87 kg Women,ZHOU Xiaoman,157.70,123,130,135,-165,165,-175,135,165,300
+British International Open,2019-06-07,+87 kg Women,CAMPBELL Emily Jade,119.30,110,-114,114,-141,141,-147,114,141,255
+British International Open,2019-06-07,+87 kg Women,JIA Weipeng,87.80,108,-113,113,138,143,-146,113,143,256
+British International Open,2019-06-07,+87 kg Women,BROWN Mercy Opeyemi,99.50,92,-97,97,122,-126,0,97,122,219
+British International Open,2019-06-07,+87 kg Women,KRALOVA Tereza,95.55,-77,-77,-77,0,0,0,0,0,0

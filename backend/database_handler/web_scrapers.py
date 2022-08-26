@@ -1,12 +1,16 @@
 """Non-sport80 scraping APIs"""
+import collections
 import os
+from datetime import datetime
 from typing import Union
 
+import bs4.element
 import requests
 from urllib.parse import urljoin
 from bs4 import BeautifulSoup
 from re import search
 from .static_helpers import write_to_csv
+from .result_dataclasses import IWFHeaders, Result
 
 
 def pull_tables(page_content, id=None) -> Union[list[BeautifulSoup], BeautifulSoup]:
@@ -178,3 +182,190 @@ class AustraliaWeightlifting:
                 write_to_csv(root_dir, id_int, self.get_event(id_int))
             except AttributeError:
                 print(f"no result under event: {id_int}..")
+
+
+class InternationalWF:
+    """Scraper for the IWF site"""
+    IWF_ROOT_URL = "https://iwf.sport"
+    EVENT_URLS = ["https://iwf.sport/results/results-by-events/?event_type=all&event_age=all&event_nation=all",
+                  "https://iwf.sport/results/results-by-events/results-by-events-old-bw/?event_type=all&event_age=all&event_nation=all"]
+
+    def __init__(self, db_root_dir: str):
+        self.iwf_root_dir = db_root_dir
+
+    def fetch_events_list(self) -> list:
+        """Returns all the available event IDs"""
+        all_bw_data = []
+        for url in self.EVENT_URLS:
+            req = requests.get(url)
+            content = req.text
+
+            soup = BeautifulSoup(content, 'html.parser').find('div', 'cards')
+            event_ids = []
+            for event_id in soup.find_all('a', 'card', href=True):
+                event_ids.append(int(event_id['href'].replace('?event_id=', '')))
+
+            event_name = []
+            for event in soup.find_all('span', 'text'):
+                event_name.append(event.get_text())
+
+            event_dates = []
+            for date in soup.find_all('div', 'col-md-2 col-4 not__cell__767'):
+                event_dates.append(date.get_text().strip())
+
+            event_locations = []
+            for country in soup.find_all('div', 'col-md-3 col-4 not__cell__767'):
+                event_locations.append(country.get_text().strip())
+
+            zip_it = list(zip(event_ids, event_name, event_dates, event_locations))
+            all_bw_data.extend(zip_it)
+
+        all_bw_data = sorted(all_bw_data, key=lambda x: x[0], reverse=False)
+        all_bw_data.insert(0, [x for x in IWFHeaders.__annotations__])
+
+        return all_bw_data
+
+    def get_results(self, event_id: int) -> Union[list[dict], bool]:
+        """Fetches competition data using the result_id integer"""
+        page_data = self.__load_results_page(event_id)
+        success, data = self.__scrape_result_info(page_data)
+        if success:
+            return data
+        return False
+
+    def __load_results_page(self, event_id: int) -> BeautifulSoup:
+        """Loads the event page for the competition, new weight cats are 441 and above"""
+        target_url = f"{self.IWF_ROOT_URL}/results/results-by-events?event_id={event_id}"
+        if event_id <= 440:  # Go on, be pedantic...
+            target_url = f"{self.IWF_ROOT_URL}/results/results-by-events/results-by-events-old-bw?event_id={event_id}"
+        r = requests.get(target_url, headers={"Content-Type": "text/html; charset=UTF-8"})
+        html = r.text
+        return BeautifulSoup(html, "html.parser")
+
+    @staticmethod
+    def __scrape_result_info(soup_data):
+        """Compiles table data into list[dict] format"""
+        result_container = soup_data.find_all("div", {"class": "result__container"})
+        bw_and_lifts = tuple(Result.__annotations__)[4::]
+        if len(result_container) != 0:
+            result = []
+            for div_id in result_container:
+                if (
+                        div_id.get("id") == "men_snatchjerk"
+                        or div_id.get("id") == "women_snatchjerk"
+                ):
+
+                    cards_container = div_id.find_all("div", {"class": "cards"})
+                    for cards in cards_container[::3]:
+                        card_container = cards.find_all("div", {"class": "card"})
+
+                        for card in card_container[1:]:
+                            data_snatch = {}
+
+                            name = card.find_all("p")[1].text.strip()
+                            bodyweight = card.find_all("p")[4].text.strip().split()[1]
+                            snatch1 = card.find_all("p")[6].strong.contents[0]
+                            snatch2 = card.find_all("p")[7].strong.contents[0]
+                            snatch3 = card.find_all("p")[8].strong.contents[0]
+                            snatch = card.find_all("p")[9].strong.contents[1]
+
+                            category = (
+                                card.parent.previous_sibling.previous_sibling.previous_sibling.previous_sibling.text.strip()
+                            )
+
+                            if name and snatch:
+                                data_snatch["lifter_name"] = name
+                                data_snatch["bodyweight"] = bodyweight
+                                data_snatch["snatch_1"] = snatch1
+                                data_snatch["snatch_2"] = snatch2
+                                data_snatch["snatch_3"] = snatch3
+                                data_snatch["best_snatch"] = snatch
+                                data_snatch["category"] = category
+                            result.append(data_snatch)
+
+                    for cards in cards_container[1::3]:
+                        card_container = cards.find_all("div", {"class": "card"})
+
+                        for card in card_container[1:]:
+                            data_cj = {}
+                            name = card.find_all("p")[1].text.strip()
+                            jerk1 = card.find_all("p")[6].strong.contents[0]
+                            jerk2 = card.find_all("p")[7].strong.contents[0]
+                            jerk3 = card.find_all("p")[8].strong.contents[0]
+                            jerk = card.find_all("p")[9].strong.contents[1]
+
+                            if name and jerk:
+                                data_cj["lifter_name"] = name
+                                data_cj["cj_1"] = jerk1
+                                data_cj["cj_2"] = jerk2
+                                data_cj["cj_3"] = jerk3
+                                data_cj["best_cj"] = jerk
+
+                            result.append(data_cj)
+
+                    for cards in cards_container[2::3]:
+                        card_container = cards.find_all("div", {"class": "card"})
+
+                        for card in card_container[1:]:
+                            data_total = {}
+                            name = card.find_all("p")[1].text.strip()
+                            total = card.find_all("p")[8].strong.contents[1]
+
+                            if name and total:
+                                data_total["lifter_name"] = name
+                                data_total["total"] = total
+                            result.append(data_total)
+
+            merged_result = {}
+            for r in result:
+                key = r["lifter_name"]
+                merged_result.setdefault(key, {}).update(r)
+
+            final_table = list(merged_result.values())
+            for line in final_table:
+                for i, (k, v) in enumerate(line.items()):
+                    if isinstance(v, bs4.element.Tag):
+                        line[k] = f"-{v.string.strip(' ')}"  # Annoyingly, double-digit lifts have a space in them
+                    elif v == '---' and k in bw_and_lifts:
+                        line[k] = 0
+            return True, final_table
+        return False, []
+
+    def __convert_to_conform(self, result_data: list[dict], comp_details: list) -> list[list]:
+        """ONE OF US, ONE OF US, ONE OF US"""
+        insert_me = {'date': self.__conform_date(comp_details[2]),
+                     'event': comp_details[1]}
+        for x in result_data:
+            x.update(insert_me)
+        ordered_results = self.__order_correctly(result_data)
+        return ordered_results
+
+    def update_results(self) -> None:
+        """Looks at comp index and then updates with values not currently saved"""
+        comp_index = self.fetch_events_list()
+        result_db_ids = [int(x.split(".")[0]) for x in os.listdir(self.iwf_root_dir)]
+        for comp_info in comp_index[1::]:
+            if comp_info[0] not in result_db_ids:
+                comp_results = self.get_results(comp_info[0])
+                comp_result_data = self.__convert_to_conform(comp_results, comp_info)
+                write_to_csv(self.iwf_root_dir, comp_info[0], comp_result_data)
+
+    @staticmethod
+    def __conform_date(old_date: str) -> str:
+        new_date = datetime.strptime(old_date, "%b %d, %Y")
+        return new_date.strftime("%Y-%m-%d")
+
+    @staticmethod
+    def __order_correctly(big_data: list[dict]) -> list[list]:
+        """Arranges columns to match the standard layout of the Result dataclass"""
+        key_order = list(Result.__annotations__)
+        for index, line in enumerate(big_data):
+            res = collections.OrderedDict()
+            for key in key_order:
+                if key in line:
+                    res[key] = line.pop(key)
+            res.update(line.items())
+            big_data[index] = dict(res)
+        ordered_data = [list(x.values()) for x in big_data]
+        ordered_data.insert(0, key_order)
+        return ordered_data

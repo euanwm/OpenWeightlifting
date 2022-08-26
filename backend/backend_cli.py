@@ -4,7 +4,7 @@ from sys import argv
 from datetime import datetime
 
 from backend.database_handler import DBHandler
-from backend.database_handler import AustraliaWeightlifting
+from backend.database_handler import AustraliaWeightlifting, InternationalWF
 from backend.database_handler import QueryThis
 
 
@@ -13,6 +13,9 @@ class CLICommands:
     def update(self, db_name):
         """updates all databases"""
         match db_name:
+            case "iwf":
+                iwf_db = InternationalWF("database_root/IWF")
+                iwf_db.update_results()
             case "uk":
                 uk_db = DBHandler("https://bwl.sport80.com/", "database_root/UK")
                 uk_db.update_results(datetime.now().year)

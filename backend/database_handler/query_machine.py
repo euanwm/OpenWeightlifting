@@ -68,7 +68,7 @@ class QueryThis:
                 loaded_results = load_result_csv_as_list(os.path.join(self.results_root, country, result))
                 for single_result in loaded_results:
                     lifter_sex = self.__assign_sex(single_result[2])
-                    # every name must be lower case to avoid caps mistakes
+                    # every name must be lowercase to avoid caps mistakes
                     row = [single_result[3].lower(), lifter_sex, country]
                     if row not in lifters:
                         lifters.append(row)

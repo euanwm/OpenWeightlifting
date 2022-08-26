@@ -1,0 +1,75 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+Cup of the Blue Swords,2019-08-28,55 kg Men,HIGASHINO Ryota,54.55,100,-105,-105,120,-125,-130,100,120,220
+Cup of the Blue Swords,2019-08-28,61 kg Men,HIRAI Kaito,59.20,100,105,-110,133,140,147,105,147,252
+Cup of the Blue Swords,2019-08-28,67 kg Men,PETROV Petr,66.95,124,128,131,152,158,162,131,162,293
+Cup of the Blue Swords,2019-08-28,67 kg Men,CASTRO MARINO Victor,67.00,125,-130,130,145,150,-155,130,150,280
+Cup of the Blue Swords,2019-08-28,67 kg Men,GOTO Taiga,64.45,115,-119,-119,135,-140,-140,115,135,250
+Cup of the Blue Swords,2019-08-28,67 kg Men,MAU Jon Luke,64.80,110,-114,114,140,145,150,114,150,264
+Cup of the Blue Swords,2019-08-28,73 kg Men,BRANDHUBER Simon Josef,69.25,135,139,-142,155,160,-165,139,160,299
+Cup of the Blue Swords,2019-08-28,73 kg Men,HERNANDEZ MENDOZA Acoran Juan,70.00,130,135,-140,158,162,165,135,165,300
+Cup of the Blue Swords,2019-08-28,73 kg Men,KINGUE MATAM Bernardin Ledoux,69.15,-138,-138,-139,0,0,0,0,0,0
+Cup of the Blue Swords,2019-08-28,81 kg Men,LANG Max Richard,74.55,140,145,147,170,177,182,147,182,329
+Cup of the Blue Swords,2019-08-28,89 kg Men,IAKOVIDIS Theodoros,88.35,155,-160,160,185,192,-196,160,192,352
+Cup of the Blue Swords,2019-08-28,89 kg Men,MUELLER Nico,82.80,145,150,155,180,187,192,155,192,347
+Cup of the Blue Swords,2019-08-28,89 kg Men,ZWARYCZ Krzysztof Maciej,84.00,145,150,-155,175,180,-185,150,180,330
+Cup of the Blue Swords,2019-08-28,89 kg Men,COOPER Travis Daniel,88.55,-141,-141,141,-177,179,-183,141,179,320
+Cup of the Blue Swords,2019-08-28,89 kg Men,TKAC Richard,84.40,120,125,0,145,-150,155,125,155,280
+Cup of the Blue Swords,2019-08-28,96 kg Men,JANG Yeonhak,94.80,160,165,-170,190,195,-200,165,195,360
+Cup of the Blue Swords,2019-08-28,96 kg Men,PYROHOV Kyryl,94.05,161,-166,-166,-182,182,190,161,190,351
+Cup of the Blue Swords,2019-08-28,96 kg Men,KULIK Pawel,94.80,150,-155,156,190,-196,-197,156,190,346
+Cup of the Blue Swords,2019-08-28,96 kg Men,SANCHEZ LOPEZ Manuel,95.80,150,155,-157,190,-195,-197,155,190,345
+Cup of the Blue Swords,2019-08-28,96 kg Men,MARKOULAS Georgios,95.90,148,153,-156,185,-193,-193,153,185,338
+Cup of the Blue Swords,2019-08-28,96 kg Men,GRELA Lukasz Roman,96.00,-150,150,0,176,0,0,150,176,326
+Cup of the Blue Swords,2019-08-28,96 kg Men,SAMKO Karol,92.90,135,140,142,-185,190,-193,142,190,332
+Cup of the Blue Swords,2019-08-28,96 kg Men,ADAMUS Bartlomiej Stefan,90.80,140,-145,-145,170,175,-180,140,175,315
+Cup of the Blue Swords,2019-08-28,96 kg Men,VAUTARD Brandon Robert Jean,93.30,-139,-139,139,191,195,-201,139,195,334
+Cup of the Blue Swords,2019-08-28,96 kg Men,KAIKILEKOFE Israel Setino,91.75,-148,-148,-148,0,0,0,0,0,0
+Cup of the Blue Swords,2019-08-28,102 kg Men,SPIESS Jurgen Christian,98.75,148,-153,153,185,-190,195,153,195,348
+Cup of the Blue Swords,2019-08-28,102 kg Men,GASIOR Jiri,101.60,-140,140,-144,175,180,-184,140,180,320
+Cup of the Blue Swords,2019-08-28,109 kg Men,MARTIROSJAN Sargis,108.55,172,176,-180,195,200,207,176,207,383
+Cup of the Blue Swords,2019-08-28,109 kg Men,REVA Kostiantyn,102.90,160,-165,-165,190,200,-210,160,200,360
+Cup of the Blue Swords,2019-08-28,109 kg Men,KRYWULT Patrik,107.75,150,155,158,180,-190,-190,158,180,338
+Cup of the Blue Swords,2019-08-28,109 kg Men,KOVAC Matej,108.95,0,0,0,0,0,0,0,0,0
+Cup of the Blue Swords,2019-08-28,+109 kg Men,ORSAG Jiri,130.70,-175,175,-180,222,238,-261,175,238,413
+Cup of the Blue Swords,2019-08-28,+109 kg Men,RUIZ I VELASCO Marcos,112.65,160,170,175,195,0,0,175,195,370
+Cup of the Blue Swords,2019-08-28,+109 kg Men,MICHALSKI Arkadiusz,111.35,-165,-165,0,0,0,0,0,0,0
+Cup of the Blue Swords,2019-08-28,+109 kg Men,COULLET Anthony Jean Pierre,148.35,-158,-158,-158,0,0,0,0,0,0
+Cup of the Blue Swords,2019-08-28,+109 kg Men,KUCERA Kamil,153.10,-175,-180,-180,0,0,0,0,0,0
+Cup of the Blue Swords,2019-08-28,45 kg Women,SUZUKI Rira,44.95,68,71,-74,92,-95,-98,71,92,163
+Cup of the Blue Swords,2019-08-28,49 kg Women,WRIGHT Sarah Elizabeth,48.45,72,-75,-75,-91,91,-96,72,91,163
+Cup of the Blue Swords,2019-08-28,49 kg Women,PIPILIARIDOU Maria,48.95,68,71,-72,-91,91,-95,71,91,162
+Cup of the Blue Swords,2019-08-28,49 kg Women,YANAGIDA Mizuki,48.95,66,68,70,85,-91,91,70,91,161
+Cup of the Blue Swords,2019-08-28,49 kg Women,ANDO Chisuzu,48.80,66,-68,-68,80,83,-86,66,83,149
+Cup of the Blue Swords,2019-08-28,55 kg Women,KONOTOP Kamila,54.80,84,87,89,100,104,107,89,107,196
+Cup of the Blue Swords,2019-08-28,55 kg Women,LEMMEN Stephanie Kristin,54.90,80,-83,83,97,-100,-100,83,97,180
+Cup of the Blue Swords,2019-08-28,55 kg Women,HERNANDEZ MARTIN Atenery,54.70,80,82,-84,100,-102,102,82,102,184
+Cup of the Blue Swords,2019-08-28,55 kg Women,LOCHOWSKA Joanna,54.50,-80,80,-84,104,-107,107,80,107,187
+Cup of the Blue Swords,2019-08-28,55 kg Women,MICHEL Anais,50.30,77,79,-81,95,98,-101,79,98,177
+Cup of the Blue Swords,2019-08-28,55 kg Women,LORENTZ Manon Camille,50.70,-78,-78,-79,0,0,0,0,0,0
+Cup of the Blue Swords,2019-08-28,59 kg Women,BENTELI Konstantina,58.80,-90,-90,90,108,111,-115,90,111,201
+Cup of the Blue Swords,2019-08-28,59 kg Women,STERCKX Nina,55.15,80,-83,83,-98,-102,102,83,102,185
+Cup of the Blue Swords,2019-08-28,59 kg Women,EMERY Joelle,58.50,-81,81,-84,95,-102,102,81,102,183
+Cup of the Blue Swords,2019-08-28,59 kg Women,JACOBSEN Rebekka Tao,57.55,70,0,0,90,0,0,70,90,160
+Cup of the Blue Swords,2019-08-28,64 kg Women,TCHAKOUNTE Dora Meiriama,60.05,90,94,-97,-107,107,110,94,110,204
+Cup of the Blue Swords,2019-08-28,64 kg Women,KUSTERER Sabine Beate,63.50,91,94,-97,110,114,-116,94,114,208
+Cup of the Blue Swords,2019-08-28,64 kg Women,SAARHELO Marianne Ellen Vilhelmiina,63.85,87,90,-92,-110,110,114,90,114,204
+Cup of the Blue Swords,2019-08-28,64 kg Women,VUOHIJOKI Anni Teija Orvokki,63.70,-91,-92,-93,0,0,0,0,0,0
+Cup of the Blue Swords,2019-08-28,71 kg Women,ALWINE Meredith Leigh,70.90,96,-100,102,125,130,-135,102,130,232
+Cup of the Blue Swords,2019-08-28,71 kg Women,SCHWEIZER Lisa Marie,64.30,-90,90,93,104,107,-110,93,107,200
+Cup of the Blue Swords,2019-08-28,76 kg Women,DEKHA Iryna,75.70,-103,103,105,120,125,130,105,130,235
+Cup of the Blue Swords,2019-08-28,76 kg Women,WIOR Jolanta Malgorzata,73.30,91,-93,-93,110,-113,-113,91,110,201
+Cup of the Blue Swords,2019-08-28,76 kg Women,MITSUKE Eri,71.05,-90,90,-95,105,110,-115,90,110,200
+Cup of the Blue Swords,2019-08-28,76 kg Women,HERTLOVA Simona,72.15,83,87,-90,103,-107,-109,87,103,190
+Cup of the Blue Swords,2019-08-28,76 kg Women,KOURTELIDOU Eleni,71.75,0,0,0,0,0,0,0,0,0
+Cup of the Blue Swords,2019-08-28,81 kg Women,VALENTIN PEREZ Lidia,77.35,-103,103,-106,120,0,0,103,120,223
+Cup of the Blue Swords,2019-08-28,81 kg Women,BRADLEY Jessie Nicole,80.45,99,102,-105,-130,134,-139,102,134,236
+Cup of the Blue Swords,2019-08-28,81 kg Women,CHINEN Himeno,79.70,90,94,-97,115,-120,-120,94,115,209
+Cup of the Blue Swords,2019-08-28,81 kg Women,RIEGER Patricia,78.80,0,0,0,0,0,0,0,0,0
+Cup of the Blue Swords,2019-08-28,87 kg Women,VANBELLINGHEN Anna Marie-J A M,84.75,99,-102,104,118,-123,-123,104,118,222
+Cup of the Blue Swords,2019-08-28,87 kg Women,SKLENICKOVA Michaela,81.10,-80,80,-85,100,105,-108,80,105,185
+Cup of the Blue Swords,2019-08-28,87 kg Women,KACZMARCZYK Kinga,87.00,75,-80,80,105,110,0,80,110,190
+Cup of the Blue Swords,2019-08-28,87 kg Women,SCHROTH Nina,82.95,-98,-98,0,0,0,0,0,0,0
+Cup of the Blue Swords,2019-08-28,87 kg Women,KONSTANTINIDI Eleni,86.35,-85,85,90,110,115,-118,0,0,0
+Cup of the Blue Swords,2019-08-28,+87 kg Women,FISCHER Sarah,90.35,95,-100,-100,115,120,129,95,129,224
+Cup of the Blue Swords,2019-08-28,+87 kg Women,MIERZEJEWSKA Aleksandra Emilia,141.10,90,95,-100,0,0,0,95,0,0
+Cup of the Blue Swords,2019-08-28,+87 kg Women,KRALOVA Tereza,90.75,75,80,83,90,-95,-95,83,90,173

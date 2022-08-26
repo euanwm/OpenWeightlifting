@@ -1,0 +1,63 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+Australian Open,2020-02-28,61 kg Men,BARU Morea,61.00,115,-120,120,145,155,160,120,160,280
+Australian Open,2020-02-28,61 kg Men,BRECHTEFELD Elson Edward,60.86,95,100,105,-125,125,-135,105,125,230
+Australian Open,2020-02-28,67 kg Men,IOANE Vaipava Nevo,65.96,121,-126,-126,161,-165,165,121,165,286
+Australian Open,2020-02-28,67 kg Men,KATOATAU Ruben,66.94,120,-124,-124,155,161,-165,120,161,281
+Australian Open,2020-02-28,73 kg Men,MOSES Ezekiel,72.72,-123,123,127,153,158,162,127,162,289
+Australian Open,2020-02-28,73 kg Men,DOGUAPE Larko,72.66,120,125,-128,155,160,163,125,163,288
+Australian Open,2020-02-28,73 kg Men,DELANEY James Joseph,71.98,113,117,-120,-148,148,-155,117,148,265
+Australian Open,2020-02-28,73 kg Men,PREDKOWSKI Nicholas,72.72,102,0,0,0,0,0,102,0,0
+Australian Open,2020-02-28,81 kg Men,PORTER Ryley James,79.56,135,140,142,152,157,162,142,162,304
+Australian Open,2020-02-28,81 kg Men,ALIKLIK Ika,79.14,122,-127,127,156,-160,-160,127,156,283
+Australian Open,2020-02-28,81 kg Men,LAPUA Lapua Tuau,80.66,120,-124,124,155,160,163,124,163,287
+Australian Open,2020-02-28,81 kg Men,DETUDAMO Uea,75.62,120,-123,-123,150,155,-158,120,155,275
+Australian Open,2020-02-28,81 kg Men,LIM Kang Yin,79.58,-120,120,-123,146,151,155,120,155,275
+Australian Open,2020-02-28,81 kg Men,WU Joshua Luke James Vain Kyang,76.20,113,117,-120,148,153,156,117,156,273
+Australian Open,2020-02-28,81 kg Men,WAKELING Brandon Dean,74.76,0,0,0,0,0,0,0,0,0
+Australian Open,2020-02-28,89 kg Men,MCTAGGART Cameron David,85.86,133,137,140,160,165,170,140,170,310
+Australian Open,2020-02-28,89 kg Men,LANE Michael Donnelly Joseph,87.06,128,134,-138,162,-167,-167,134,162,296
+Australian Open,2020-02-28,89 kg Men,SEKONE-FRASER Douglas Liva,88.68,125,130,-133,155,-161,-162,130,155,285
+Australian Open,2020-02-28,89 kg Men,GREGSON Joel Stephen,88.20,122,126,130,160,-167,-167,130,160,290
+Australian Open,2020-02-28,89 kg Men,SAXBY Liam Christopher,88.88,125,-129,-131,148,154,-161,125,154,279
+Australian Open,2020-02-28,89 kg Men,COOK Marcincy,88.42,115,120,-125,140,-145,145,120,145,265
+Australian Open,2020-02-28,96 kg Men,OPELOGE Don,95.10,-156,156,164,196,203,210,164,210,374
+Australian Open,2020-02-28,96 kg Men,CHEAH En Wei John,95.10,128,132,135,158,162,165,135,165,300
+Australian Open,2020-02-28,96 kg Men,JORDAN Robert,95.78,128,-133,-136,155,-162,-173,128,155,283
+Australian Open,2020-02-28,102 kg Men,TONGA Sione,101.38,-120,120,126,150,160,-165,126,160,286
+Australian Open,2020-02-28,102 kg Men,KATOATAU David,101.56,110,-120,120,156,166,170,120,170,290
+Australian Open,2020-02-28,109 kg Men,LYDEMENT Matthew Ryan,108.96,153,158,161,177,182,-185,161,182,343
+Australian Open,2020-02-28,109 kg Men,MAO Sanele,107.16,146,154,-162,190,-201,-201,154,190,344
+Australian Open,2020-02-28,109 kg Men,ROBERTS-YOUNG Jackson George,108.42,143,147,-150,180,185,-197,147,185,332
+Australian Open,2020-02-28,109 kg Men,QUINN Joshua Thomas,108.96,122,126,-128,149,-156,-163,126,149,275
+Australian Open,2020-02-28,+109 kg Men,LUI Lauititi,133.68,167,174,-179,-202,203,-215,174,203,377
+Australian Open,2020-02-28,+109 kg Men,POMELILE Sio Talakai,116.34,135,140,-145,175,-183,-185,140,175,315
+Australian Open,2020-02-28,49 kg Women,TOUA Loa Dika,48.86,65,70,-74,85,90,95,70,95,165
+Australian Open,2020-02-28,55 kg Women,YAMASAKI Erika Yuriko Iris,54.90,72,-75,-75,85,90,93,72,93,165
+Australian Open,2020-02-28,55 kg Women,LIFU Mary Kini,54.92,-70,70,-74,85,90,-93,70,90,160
+Australian Open,2020-02-28,55 kg Women,SUMAGAYSAY Jacinta Irene Untalan,54.60,60,-65,65,85,90,-95,65,90,155
+Australian Open,2020-02-28,59 kg Women,WINI Jenly Tegu,58.70,-75,75,80,95,-100,100,80,100,180
+Australian Open,2020-02-28,64 kg Women,ELLIOTT Kiana Rose,63.12,90,95,100,110,114,0,100,114,214
+Australian Open,2020-02-28,64 kg Women,COCHRANE Sarah Maureen,63.22,-88,88,93,110,-115,-117,93,110,203
+Australian Open,2020-02-28,64 kg Women,MCINTYRE Emma,63.60,-77,77,-81,-97,-97,97,77,97,174
+Australian Open,2020-02-28,64 kg Women,WEDD Georgia,63.64,62,65,69,-89,89,93,69,93,162
+Australian Open,2020-02-28,71 kg Women,ABOUKE Nancy Genzel,69.08,83,-87,87,105,-111,111,87,111,198
+Australian Open,2020-02-28,71 kg Women,UEPA Maximina,67.40,82,86,-88,-100,102,-107,86,102,188
+Australian Open,2020-02-28,71 kg Women,YOO Mina,67.80,81,83,-86,100,103,-105,83,103,186
+Australian Open,2020-02-28,71 kg Women,DRAIN Holly,70.48,77,80,83,92,-95,-95,83,92,175
+Australian Open,2020-02-28,71 kg Women,KAY Darcy Amelia,69.96,-78,78,82,100,105,107,82,107,189
+Australian Open,2020-02-28,71 kg Women,CHAMOUN Sabah,67.52,78,-82,-83,105,110,-114,78,110,188
+Australian Open,2020-02-28,71 kg Women,CHAPMAN Kelsie,70.70,73,77,-80,93,97,-100,77,97,174
+Australian Open,2020-02-28,71 kg Women,BAKAEKIRI Tiiau,70.38,-75,75,-80,95,100,104,75,104,179
+Australian Open,2020-02-28,71 kg Women,DAVIES Stephanie Lisa,69.44,-87,-87,-87,0,0,0,0,0,0
+Australian Open,2020-02-28,76 kg Women,MUN Minhee,74.92,91,95,97,114,120,125,97,125,222
+Australian Open,2020-02-28,76 kg Women,GODLEY Emily Victoria (ENG),72.34,93,-96,96,120,123,127,96,127,223
+Australian Open,2020-02-28,76 kg Women,SIGNAL Megan Ann,72.30,90,94,-96,113,-118,118,94,118,212
+Australian Open,2020-02-28,76 kg Women,GORINCU Ebony,74.44,-86,86,90,108,-113,-113,90,108,198
+Australian Open,2020-02-28,76 kg Women,LABAUSA Antonette,74.96,70,-74,74,-95,95,-100,74,95,169
+Australian Open,2020-02-28,81 kg Women,CIKAMATANA Eileen Floanna Maria,80.92,105,110,-116,130,135,140,110,140,250
+Australian Open,2020-02-28,87 kg Women,FASSINA Kaitlyn Jade Judges,86.86,97,100,102,-116,120,-122,102,120,222
+Australian Open,2020-02-28,+87 kg Women,HUBBARD Laurel,136.54,124,-130,133,-145,-146,-151,133,0,0
+Australian Open,2020-02-28,+87 kg Women,SIPAIA Iuniarra,126.44,105,110,-113,145,150,-153,110,150,260
+Australian Open,2020-02-28,+87 kg Women,KIM Jihyeon,127.82,98,101,105,135,141,-146,105,141,246
+Australian Open,2020-02-28,+87 kg Women,AMOE-TARRANT Charisma Precious,150.32,100,-105,-105,141,-147,-147,100,141,241
+Australian Open,2020-02-28,+87 kg Women,DETENAMO Roviel,91.36,73,77,80,98,-102,102,80,102,182

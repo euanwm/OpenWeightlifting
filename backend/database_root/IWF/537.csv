@@ -1,0 +1,66 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+Canadian Invitational,2022-02-26,67 kg Men,CRUZ Jet,66.20,98,101,105,120,125,-129,105,125,230
+Canadian Invitational,2022-02-26,67 kg Men,XU Cheng,66.10,93,-97,100,123,127,-132,100,127,227
+Canadian Invitational,2022-02-26,73 kg Men,FREVE-GUERIN Edouard,72.20,-125,125,128,155,-158,158,128,158,286
+Canadian Invitational,2022-02-26,73 kg Men,DARSIGNY Matt Joseph Alec,71.40,124,127,-129,-153,-153,157,127,157,284
+Canadian Invitational,2022-02-26,73 kg Men,LIAO Andy,71.00,105,-109,-112,-133,133,-141,105,133,238
+Canadian Invitational,2022-02-26,81 kg Men,GUERTIN Samuel,80.00,-140,140,-145,172,-178,-181,140,172,312
+Canadian Invitational,2022-02-26,81 kg Men,VACHON Nicolas,81.00,137,-141,-143,176,180,-185,137,180,317
+Canadian Invitational,2022-02-26,81 kg Men,BROWN McKay,79.40,-116,116,119,-137,-137,137,119,137,256
+Canadian Invitational,2022-02-26,81 kg Men,SITU Tony,80.40,110,-114,116,-138,141,-146,116,141,257
+Canadian Invitational,2022-02-26,81 kg Men,WU Pat,80.70,113,-117,-117,132,137,-144,113,137,250
+Canadian Invitational,2022-02-26,89 kg Men,DODD Daniel,88.80,137,-141,-143,171,176,-182,137,176,313
+Canadian Invitational,2022-02-26,89 kg Men,BARDIER Maxime,86.30,-130,130,-135,155,160,-165,130,160,290
+Canadian Invitational,2022-02-26,89 kg Men,ROSS Tyler,86.90,117,120,-122,145,-150,152,120,152,272
+Canadian Invitational,2022-02-26,89 kg Men,FERGUSON Alexander,85.90,113,117,-120,143,147,-151,117,147,264
+Canadian Invitational,2022-02-26,89 kg Men,LUCK Mitchell,88.90,109,114,-119,-140,140,145,114,145,259
+Canadian Invitational,2022-02-26,89 kg Men,PRIDHAM Tyler,88.70,112,116,-120,142,-146,-146,116,142,258
+Canadian Invitational,2022-02-26,96 kg Men,BLANCHET Jean-Christophe,93.30,138,142,-145,176,-181,-181,142,176,318
+Canadian Invitational,2022-02-26,96 kg Men,PRETTY Andrew,95.10,-136,-136,138,167,-175,-177,138,167,305
+Canadian Invitational,2022-02-26,96 kg Men,GRIFFITH Daniel,91.10,107,112,120,145,152,-160,120,152,272
+Canadian Invitational,2022-02-26,96 kg Men,DALEY James Francis,94.70,110,-115,-115,135,-141,-141,110,135,245
+Canadian Invitational,2022-02-26,96 kg Men,CLARKE Quontana,93.20,90,95,-100,120,-125,125,95,125,220
+Canadian Invitational,2022-02-26,102 kg Men,GRIEVE Thomas,101.10,-127,127,-132,157,-163,163,127,163,290
+Canadian Invitational,2022-02-26,109 kg Men,BESSETTE Pierre-Alexandre,102.10,153,158,161,175,179,-183,161,179,340
+Canadian Invitational,2022-02-26,109 kg Men,SANTAVY Noah,102.10,148,152,-155,183,-189,-189,152,183,335
+Canadian Invitational,2022-02-26,109 kg Men,BOILEAU Patrick,107.30,125,-130,130,170,175,180,130,180,310
+Canadian Invitational,2022-02-26,+109 kg Men,EVERETT Quinn Ivan Clark,142.90,-153,153,158,-195,195,203,158,203,361
+Canadian Invitational,2022-02-26,+109 kg Men,BENCSIK Miklos,140.10,-148,-148,148,200,-214,-214,148,200,348
+Canadian Invitational,2022-02-26,+109 kg Men,BARON-MORASSE Robin,161.50,134,-139,-139,-167,167,170,134,170,304
+Canadian Invitational,2022-02-26,49 kg Women,KAMINSKI Hannah,48.70,67,70,73,84,87,90,73,90,163
+Canadian Invitational,2022-02-26,49 kg Women,GENDRON Marie-Pier,49.00,63,65,-67,80,82,-84,65,82,147
+Canadian Invitational,2022-02-26,49 kg Women,BROWN Isabella,46.90,59,62,64,69,-73,-73,64,69,133
+Canadian Invitational,2022-02-26,49 kg Women,JEFFREY Joanne,49.00,-59,-59,-59,0,0,0,0,0,0
+Canadian Invitational,2022-02-26,55 kg Women,BRADDOCK Amanda Melissa,53.60,75,79,-83,90,93,-96,79,93,172
+Canadian Invitational,2022-02-26,55 kg Women,JOHNSON Haylee,54.80,-71,71,-74,90,0,0,71,90,161
+Canadian Invitational,2022-02-26,55 kg Women,ANDRAS Maria Elena,54.60,65,68,-70,79,-82,82,68,82,150
+Canadian Invitational,2022-02-26,55 kg Women,WONG Vicky,53.70,62,65,-68,74,-78,-79,65,74,139
+Canadian Invitational,2022-02-26,59 kg Women,DARSIGNY Tali,59.00,-85,-85,85,103,106,108,85,108,193
+Canadian Invitational,2022-02-26,59 kg Women,SIMONEAU Charlotte,58.60,78,80,82,97,100,102,82,102,184
+Canadian Invitational,2022-02-26,59 kg Women,KNOWLTON Monica,57.80,75,80,-83,-107,-107,-108,80,0,0
+Canadian Invitational,2022-02-26,59 kg Women,GULA Hannah,57.80,-78,78,80,92,97,-100,80,97,177
+Canadian Invitational,2022-02-26,59 kg Women,SHEPARD Kayla,58.20,74,-77,77,97,101,103,77,103,180
+Canadian Invitational,2022-02-26,59 kg Women,ATHANS Zoe,58.40,75,-78,-78,95,99,-102,75,99,174
+Canadian Invitational,2022-02-26,59 kg Women,MCGREGOR Taylor,58.10,70,73,-76,-91,91,-95,73,91,164
+Canadian Invitational,2022-02-26,59 kg Women,CAMERON Georgia Grace,58.10,70,73,-75,88,91,-94,73,91,164
+Canadian Invitational,2022-02-26,59 kg Women,ALLERT Paige,58.50,66,-69,70,80,83,86,70,86,156
+Canadian Invitational,2022-02-26,64 kg Women,ELAM Hunter Nicole,64.00,90,93,-96,109,114,-119,93,114,207
+Canadian Invitational,2022-02-26,64 kg Women,THOMPSON Abra,62.50,71,-74,-74,-90,90,93,71,93,164
+Canadian Invitational,2022-02-26,71 kg Women,ASHWORTH Alexis,70.50,92,95,98,115,-119,122,98,122,220
+Canadian Invitational,2022-02-26,71 kg Women,BEDWARD Shania Sophia,70.90,-90,91,95,111,-118,119,95,119,214
+Canadian Invitational,2022-02-26,71 kg Women,TRUPP Megan,66.80,85,88,91,104,108,111,91,111,202
+Canadian Invitational,2022-02-26,71 kg Women,JOHNSON Samuella Jo,69.90,81,-84,-86,99,102,-105,81,102,183
+Canadian Invitational,2022-02-26,71 kg Women,HARDING Kennedy,70.10,75,-79,79,95,-100,102,79,102,181
+Canadian Invitational,2022-02-26,71 kg Women,KO Sharon,69.90,73,-75,75,-94,94,-98,75,94,169
+Canadian Invitational,2022-02-26,71 kg Women,RIEWE Kirsten,69.00,71,74,-76,86,-89,90,74,90,164
+Canadian Invitational,2022-02-26,71 kg Women,LEE Kathryn,69.70,69,71,-73,88,91,-93,71,91,162
+Canadian Invitational,2022-02-26,71 kg Women,LENZEN Nicole,69.70,66,-69,70,86,-90,-90,70,86,156
+Canadian Invitational,2022-02-26,76 kg Women,MESSIER Andreanne,75.90,90,-94,-95,110,-115,-115,90,110,200
+Canadian Invitational,2022-02-26,76 kg Women,WHYLIE Chloe Rebecca,75.10,76,80,83,93,-97,-97,83,93,176
+Canadian Invitational,2022-02-26,76 kg Women,BHABRA Amreesa,71.40,76,-79,80,93,-97,97,80,97,177
+Canadian Invitational,2022-02-26,81 kg Women,COL Christine,80.50,77,80,83,-94,94,-99,83,94,177
+Canadian Invitational,2022-02-26,81 kg Women,PHAN Sandy,76.10,-71,72,77,92,95,-98,77,95,172
+Canadian Invitational,2022-02-26,87 kg Women,DUMAS Rosalie,82.00,94,-98,-98,110,-116,-116,94,110,204
+Canadian Invitational,2022-02-26,87 kg Women,HENDERSON Yvgeni,85.40,70,73,-76,93,-98,-98,73,93,166
+Canadian Invitational,2022-02-26,+87 kg Women,FRIESEN Emma,114.50,-103,-103,103,120,125,-130,103,125,228
+Canadian Invitational,2022-02-26,+87 kg Women,LOVE Etta Mae,105.50,90,93,95,110,115,-120,95,115,210
