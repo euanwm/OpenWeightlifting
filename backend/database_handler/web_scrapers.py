@@ -1,7 +1,6 @@
 """Non-sport80 scraping APIs"""
 import collections
 import os
-import xml.etree.ElementTree
 from datetime import datetime
 from typing import Union
 
@@ -243,9 +242,11 @@ class InternationalWF:
         html = r.text
         return BeautifulSoup(html, "html.parser")
 
-    def __scrape_result_info(self, soup_data):
+    @staticmethod
+    def __scrape_result_info(soup_data):
         """Compiles table data into list[dict] format"""
         result_container = soup_data.find_all("div", {"class": "result__container"})
+        bw_and_lifts = tuple(Result.__annotations__)[4::]
         if len(result_container) != 0:
             result = []
             for div_id in result_container:
@@ -271,7 +272,6 @@ class InternationalWF:
                             category = (
                                 card.parent.previous_sibling.previous_sibling.previous_sibling.previous_sibling.text.strip()
                             )
-                            gender = category.split()[2]
 
                             if name and snatch:
                                 data_snatch["lifter_name"] = name
@@ -325,7 +325,9 @@ class InternationalWF:
             for line in final_table:
                 for i, (k, v) in enumerate(line.items()):
                     if isinstance(v, bs4.element.Tag):
-                        line[k] = f"-{v.string}"
+                        line[k] = f"-{v.string.strip(' ')}"  # Annoyingly, double-digit lifts have a space in them
+                    elif v == '---' and k in bw_and_lifts:
+                        line[k] = 0
             return True, final_table
         return False, []
 
@@ -351,7 +353,8 @@ class InternationalWF:
         new_date = datetime.strptime(old_date, "%b %d, %Y")
         return new_date.strftime("%Y-%m-%d")
 
-    def __order_correctly(self, big_data: list[dict]) -> list[list]:
+    @staticmethod
+    def __order_correctly(big_data: list[dict]) -> list[list]:
         """Arranges columns to match the standard layout of the Result dataclass"""
         key_order = list(Result.__annotations__)
         for index, line in enumerate(big_data):
