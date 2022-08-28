@@ -19,6 +19,12 @@ class HTTP(str, Enum):
     OPTION = "OPTION"
 
 
+@app.route("/", methods=[HTTP.GET])
+def default():
+    """SLASH"""
+    return {"error": "nothing to see here..."}
+
+
 @app.route("/api/leaderboard", methods=[HTTP.GET, HTTP.POST])
 def api_leaderboard():
     """Pulls the gendered leaderboards
