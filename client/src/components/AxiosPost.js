@@ -8,7 +8,7 @@ const AxiosPost = () => {
   useEffect(() => {
     const fetchPostList = async () => {
       const { data } = await axios(
-        "http://localhost:5000/api/leaderboard"
+        "https://openweightlifting.herokuapp.com/api/leaderboard"
       );
       setPosts({ blogs: data });
       console.log(data);

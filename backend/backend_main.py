@@ -19,6 +19,12 @@ class HTTP(str, Enum):
     OPTION = "OPTION"
 
 
+@app.route("/api/", methods=[HTTP.GET])
+def default():
+    """SLASH"""
+    return {"error": "nothing to see here..."}
+
+
 @app.route("/api/leaderboard", methods=[HTTP.GET, HTTP.POST])
 def api_leaderboard():
     """Pulls the gendered leaderboards
@@ -53,5 +59,4 @@ def api_search_lifters(name):
 
 
 if __name__ == '__main__':
-    app.run(host="0.0.0.0",
-            port=5000)
+    app.run()

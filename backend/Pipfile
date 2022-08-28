@@ -8,6 +8,7 @@ uvicorn = "*"
 sport80 = "*"
 flask = "*"
 flask-cors = "*"
+gunicorn = "*"
 
 [dev-packages]
 black = "*"
