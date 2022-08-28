@@ -19,7 +19,7 @@ class HTTP(str, Enum):
     OPTION = "OPTION"
 
 
-@app.route("/", methods=[HTTP.GET])
+@app.route("/api/", methods=[HTTP.GET])
 def default():
     """SLASH"""
     return {"error": "nothing to see here..."}
@@ -59,5 +59,4 @@ def api_search_lifters(name):
 
 
 if __name__ == '__main__':
-    app.run(host="0.0.0.0",
-            port=8000)
+    app.run()
