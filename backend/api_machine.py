@@ -15,16 +15,27 @@ class GoRESTYourself:
         self.query_root = QueryThis.query_folder
         self.lifter_index = load_csv_as_list(join(self.query_root, "lifter_index.csv"))
         self.db_root = QueryThis.results_root  # meh
+        self.leaderboard_data_male = self.__load_file_data('male')
+        self.leaderboard_data_female = self.__load_file_data('female')
+        self.leaderboard_dict = {'male': self.leaderboard_data_male, 'female': self.leaderboard_data_female}
+
+    def __load_file_data(self, gender: str):
+        """Loads queries data - only for the total leaderboard"""
+        if gender not in ('male', 'female'):
+            raise Exception("Not a valid gender")
+        query_cache_file: str = f"top_total_{gender}.csv"
+        with open(join(self.query_root, query_cache_file), 'r', encoding="utf-8") as query_file:
+            csv_reader = reader(query_file)
+            file_data = [x for x in csv_reader]
+        return file_data
 
     def lifter_totals(self, gender="male", start=0, stop=99) -> Union[list[Dict], Dict]:
         """Default endpoint for the landing page"""
-        query_cache_file: str = f"top_total_{gender}.csv"
+        if gender not in ('male', 'female'):
+            return {"error": "gender not valid"}
         dicty_boi: list = []
         try:
-            with open(join(self.query_root, query_cache_file), 'r', encoding="utf-8") as query_file:
-                csv_reader = reader(query_file)
-                file_data = [x for x in csv_reader]
-            for index, line in enumerate(file_data[start:stop:]):
+            for index, line in enumerate(self.leaderboard_dict[gender][start:stop:]):
                 line_struct = DatabaseEntry(*line).__dict__
                 line_struct['id'] = index + start
                 dicty_boi.append(line_struct)
@@ -64,5 +75,5 @@ if __name__ == '__main__':
     api = GoRESTYourself()
     #res = api.lifter_totals()
     #print(res)
-    print(api.lifter_suggest("michael farmer"))
+    print(api.lifter_totals())
     #api.lifter_lookup({'name': 'euan meston', 'gender': 'male', 'country': 'UK'})
