@@ -19,7 +19,7 @@ class GoRESTYourself:
         self.leaderboard_data_female = self.__load_file_data('female')
         self.leaderboard_dict = {'male': self.leaderboard_data_male, 'female': self.leaderboard_data_female}
 
-    def __load_file_data(self, gender: str):
+    def __load_file_data(self, gender: str) -> list[list]:
         """Loads queries data - only for the total leaderboard"""
         if gender not in ('male', 'female'):
             raise Exception("Not a valid gender")
