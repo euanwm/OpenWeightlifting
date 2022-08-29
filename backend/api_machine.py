@@ -75,5 +75,5 @@ if __name__ == '__main__':
     api = GoRESTYourself()
     #res = api.lifter_totals()
     #print(res)
-    print(api.lifter_totals())
+    print(api.lifter_totals(gender='female', start=300, stop=303))
     #api.lifter_lookup({'name': 'euan meston', 'gender': 'male', 'country': 'UK'})
