@@ -16,7 +16,7 @@ const DataTable = ({ lifters }) => (
       <Table.Column>Total</Table.Column>
     </Table.Header>
     <Table.Body>
-      { lifters.map((lifter, i) => (
+      {lifters.map((lifter, i) => (
         <Table.Row key={`lifter-${i + 1}`}>
           <Table.Cell>{i + 1}</Table.Cell>
           <Table.Cell>{lifter.lifter_name}</Table.Cell>
@@ -32,6 +32,12 @@ const DataTable = ({ lifters }) => (
         </Table.Row>
       ))}
     </Table.Body>
+    <Table.Pagination
+      align="center"
+      rowsPerPage={50}
+      onPageChange={(page) => console.log({ page })}
+      css={{ margin: '20px 0' }}
+    />
   </Table>
 )
 
