@@ -18,7 +18,7 @@ services:
     command: flask run --host=0.0.0.0 --port=5000
 
   client:
-    container_name: react-app
+    container_name: next-app
     build:
       context: ./client
       dockerfile: Dockerfile

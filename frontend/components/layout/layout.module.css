@@ -1,0 +1,32 @@
+.navbar {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  padding: 24px 24px 0;
+}
+
+.logo {
+  height: 76px;
+  width: 150px;
+  position: relative;
+}
+
+.themeSelector {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 13px;
+}
+
+.themeIconDark {
+  color: white;
+}
+
+.themeIconLight {
+  color: #7e868c;
+}
+
+.themeIconDark, .themeIconLight {
+  margin-top: 2px;
+}
