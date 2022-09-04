@@ -8,9 +8,9 @@ import styles from './layout.module.css'
 import Logo from '../../public/OWL-logo.png'
 
 const Layout = ({ children }) => {
-  const { setTheme, theme } = useNextTheme();
+  const { setTheme } = useNextTheme();
   const { isDark } = useTheme();
-  const themeIconClass = theme === 'dark' ? styles.themeIconDark : styles.themeIconLight
+  const themeIconClass = isDark ? styles.themeIconDark : styles.themeIconLight
 
   return (
     <Container xl>
