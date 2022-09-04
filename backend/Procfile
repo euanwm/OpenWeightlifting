@@ -1,1 +1,1 @@
-web: uvicorn backend_main:app --host=0.0.0.0 --post=80
+web: uvicorn backend_main:app --host=0.0.0.0 --port=80
