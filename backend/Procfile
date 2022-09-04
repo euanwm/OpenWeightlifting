@@ -1,1 +1,1 @@
-web: gunicorn backend_main:app
+web: uvicorn backend_main:app --host=0.0.0.0 --port=${PORT:-80}
