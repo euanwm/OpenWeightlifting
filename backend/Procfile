@@ -1,1 +1,1 @@
-web: gunicorn -w 2 -k uvicorn.workers.UvicornWorker backend_main:app --host=0.0.0.0 --port=80
+web: gunicorn -w 2 -k uvicorn.workers.UvicornWorker backend_main:app --bind=0.0.0.0:80
