@@ -9,6 +9,7 @@ sport80 = "*"
 flask = "*"
 flask-cors = "*"
 gunicorn = "*"
+pydantic = "*"
 
 [dev-packages]
 black = "*"
