@@ -10,6 +10,7 @@ sport80 = "*"
 flask = "*"
 flask-cors = "*"
 gunicorn = "*"
+fastapi = "*"
 
 [dev-packages]
 black = "*"
