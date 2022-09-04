@@ -1,5 +1,4 @@
 """main flask page shit"""
-from enum import Enum
 from pydantic import BaseModel
 from api_machine import GoRESTYourself
 from fastapi import FastAPI
