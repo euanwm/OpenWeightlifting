@@ -3,12 +3,12 @@
   width: 100%;
   justify-content: space-between;
   align-items: center;
-  padding: 24px 24px 0;
+  padding: 24px 0 0;
 }
 
 .logo {
   height: 76px;
-  width: 150px;
+  width: 100px;
   position: relative;
 }
 
@@ -40,4 +40,10 @@
 
 .themeIconDark, .themeIconLight {
   margin-top: 2px;
+}
+
+@media (min-width: 600px) {
+  .logo {
+    width: 150px;
+  }
 }

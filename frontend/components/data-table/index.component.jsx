@@ -7,7 +7,7 @@ const tableHeaderStyles = {
 }
 
 const DataTable = ({ lifters }) => (
-  <Table selectionMode="single" striped aria-label="Open weight lifting lifters results table" css={{ tableLayout: 'fixed', textAlign: 'center', width: "auto", minWidth: "100%" }} containerCss={{ overflowX: "scroll" }}>
+  <Table selectionMode="single" striped aria-label="Open weight lifting lifters results table" css={{ tableLayout: 'fixed', textAlign: 'center', width: "auto", paddingLeft: "0", paddingRight: "0" }}>
     <Table.Header>
       <Table.Column css={tableHeaderStyles}>Position</Table.Column>
       <Table.Column css={tableHeaderStyles}>Lifter</Table.Column>

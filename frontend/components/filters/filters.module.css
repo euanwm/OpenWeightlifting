@@ -3,12 +3,13 @@
   width: 100%;
   justify-content: space-between;
   align-items: center;
-  padding: 24px 24px 0;
+  padding: 24px 0 0;
 }
 
 .genderWrapper {
   display: flex;
   flex-direction: column;
+  width: 100%;
 }
 
 .genderWrapper > label {
@@ -18,7 +19,7 @@
 }
 
 .selectContainer {
-  min-width: 15ch;
+  width: 100%;
   border: 1px solid var(--nextui-colors-accents0);
   border-radius: 12px;
   padding: 10px;
@@ -51,4 +52,10 @@
   font-size: inherit;
   cursor: inherit;
   line-height: inherit;
+}
+
+@media (min-width: 600px) {
+  .genderWrapper {
+    width: auto;
+  }
 }

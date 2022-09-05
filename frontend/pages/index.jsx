@@ -40,9 +40,7 @@ const Home = ({ data }) => {
   return (
     <>
       <Filters currentGender={currentGender} handleGenderChange={handleGenderChange} />
-      <div style={{ overflowX: "scroll" }}>
-        {currentLifterList && <DataTable lifters={currentLifterList} />}
-      </div>
+      {currentLifterList && <DataTable lifters={currentLifterList} />}
     </>
   )
 }
