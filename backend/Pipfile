@@ -4,11 +4,13 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+pydantic = "*"
 uvicorn = "*"
 sport80 = "*"
 flask = "*"
 flask-cors = "*"
 gunicorn = "*"
+fastapi = "*"
 
 [dev-packages]
 black = "*"
