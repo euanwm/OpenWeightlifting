@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import { Container, Switch, useTheme } from '@nextui-org/react'
 import { useTheme as useNextTheme } from 'next-themes'
-import { FaSun, FaMoon } from 'react-icons/fa'
+import { FaSun, FaMoon, FaGithub } from 'react-icons/fa'
 
 import styles from './layout.module.css'
 
@@ -18,13 +18,16 @@ const Layout = ({ children }) => {
         <div className={styles.logo}>
           <Image src={Logo} layout='fill' objectFit='contain' />
         </div>
-        <div className={styles.themeSelector}>
-          <FaSun size='24px' className={themeIconClass} />
-          <Switch
-            checked={isDark}
-            onChange={(e) => setTheme(e.target.checked ? 'dark' : 'light')}
-          />
-          <FaMoon size='20px' className={themeIconClass} />
+        <div className={styles.linkContainer}>
+          <a href="https://github.com/euanwm/OpenWeightlifting" target="_blank"><FaGithub size='30px' className={themeIconClass} /></a>
+          <div className={styles.themeSelector}>
+            <FaSun size='24px' className={themeIconClass} />
+            <Switch
+              checked={isDark}
+              onChange={(e) => setTheme(e.target.checked ? 'dark' : 'light')}
+            />
+            <FaMoon size='20px' className={themeIconClass} />
+          </div>
         </div>
       </nav>
       {children}

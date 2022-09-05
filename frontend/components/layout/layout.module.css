@@ -12,6 +12,17 @@
   position: relative;
 }
 
+.linkContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.linkContainer > a {
+  display: flex;
+}
+
 .themeSelector {
   display: flex;
   justify-content: center;
