@@ -6,7 +6,7 @@ const fetchLifterData = async (gender, start, stop) => {
   const bodyContent = JSON.stringify({
     "gender": gender || "male",
     "start": start || 0,
-    "stop": stop || 100
+    "stop": stop || 500
   })
 
   const res = await fetch('https://owl-production-backend.herokuapp.com/api/leaderboard', {
@@ -31,7 +31,7 @@ const Home = ({ data }) => {
     if (newGender !== currentGender) {
       setCurrentGender(newGender)
 
-      const newLifters = await fetchLifterData(newGender, 0, 100)
+      const newLifters = await fetchLifterData(newGender, 0, 500)
 
       setCurrentLifterList(newLifters)
     }
@@ -40,7 +40,9 @@ const Home = ({ data }) => {
   return (
     <>
       <Filters currentGender={currentGender} handleGenderChange={handleGenderChange} />
-      {currentLifterList && <DataTable lifters={currentLifterList} />}
+      <div style={{ overflowX: "scroll" }}>
+        {currentLifterList && <DataTable lifters={currentLifterList} />}
+      </div>
     </>
   )
 }

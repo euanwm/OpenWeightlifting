@@ -1,19 +1,25 @@
 import { Table } from "@nextui-org/react"
 
+const tableHeaderStyles = {
+  textAlign: "center",
+  whiteSpace: "nowrap",
+  padding: "5px 10px"
+}
+
 const DataTable = ({ lifters }) => (
-  <Table selectionMode="single" striped aria-label="Open weight lifting lifters results table">
+  <Table selectionMode="single" striped aria-label="Open weight lifting lifters results table" css={{ tableLayout: 'fixed', textAlign: 'center', width: "auto", minWidth: "100%" }} containerCss={{ overflowX: "scroll" }}>
     <Table.Header>
-      <Table.Column>Position</Table.Column>
-      <Table.Column>Lifter</Table.Column>
-      <Table.Column>Country</Table.Column>
-      <Table.Column>Bodyweight</Table.Column>
-      <Table.Column>Snatch 1</Table.Column>
-      <Table.Column>Snatch 2</Table.Column>
-      <Table.Column>Snatch 3</Table.Column>
-      <Table.Column>Clean & Jerk 1</Table.Column>
-      <Table.Column>Clean & Jerk 2</Table.Column>
-      <Table.Column>Clean & Jerk 3</Table.Column>
-      <Table.Column>Total</Table.Column>
+      <Table.Column css={tableHeaderStyles}>Position</Table.Column>
+      <Table.Column css={tableHeaderStyles}>Lifter</Table.Column>
+      <Table.Column css={tableHeaderStyles}>Country</Table.Column>
+      <Table.Column css={tableHeaderStyles}>Bodyweight</Table.Column>
+      <Table.Column css={tableHeaderStyles}>Snatch 1</Table.Column>
+      <Table.Column css={tableHeaderStyles}>Snatch 2</Table.Column>
+      <Table.Column css={tableHeaderStyles}>Snatch 3</Table.Column>
+      <Table.Column css={tableHeaderStyles}>Clean & Jerk 1</Table.Column>
+      <Table.Column css={tableHeaderStyles}>Clean & Jerk 2</Table.Column>
+      <Table.Column css={tableHeaderStyles}>Clean & Jerk 3</Table.Column>
+      <Table.Column css={tableHeaderStyles}>Total</Table.Column>
     </Table.Header>
     <Table.Body>
       {lifters.map((lifter, i) => (

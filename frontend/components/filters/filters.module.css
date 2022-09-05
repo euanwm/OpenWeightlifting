@@ -5,3 +5,50 @@
   align-items: center;
   padding: 24px 24px 0;
 }
+
+.genderWrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.genderWrapper > label {
+  margin-left: 10px;
+  font-size: var(--nextui-fontSizes-xs);
+  color: var(--nextui-colors-accents7);
+}
+
+.selectContainer {
+  min-width: 15ch;
+  border: 1px solid var(--nextui-colors-accents0);
+  border-radius: 12px;
+  padding: 10px;
+  font-size: 1.25rem;
+  cursor: pointer;
+  line-height: 1.1;
+  background-color: var(--nextui-colors-accents0);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.selectContainer::after {
+  display: block;
+  content: "";
+  width: 0.8em;
+  height: 0.5em;
+  background-color: var(--nextui-colors-accents7);
+  clip-path: polygon(100% 0%, 0 0%, 50% 100%);
+}
+
+.select {
+  appearance: none;
+  background-color: transparent;
+  border: none;
+  padding: 0 1em 0 0;
+  margin: 0;
+  width: 100%;
+  font-family: inherit;
+  font-size: inherit;
+  cursor: inherit;
+  line-height: inherit;
+}
