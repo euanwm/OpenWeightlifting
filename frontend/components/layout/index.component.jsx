@@ -16,10 +16,10 @@ const Layout = ({ children }) => {
     <Container xl>
       <nav className={styles.navbar}>
         <div className={styles.logo}>
-          <Image src={Logo} layout='fill' objectFit='contain' />
+          <Image src={Logo} layout='fill' objectFit='contain' alt='Open Weight Lifting' />
         </div>
         <div className={styles.linkContainer}>
-          <a href="https://github.com/euanwm/OpenWeightlifting" target="_blank"><FaGithub size='30px' className={themeIconClass} /></a>
+          <a href="https://github.com/euanwm/OpenWeightlifting" target="_blank" rel="noreferrer"><FaGithub size='30px' className={themeIconClass} /></a>
           <div className={styles.themeSelector}>
             <FaSun size='24px' className={themeIconClass} />
             <Switch
