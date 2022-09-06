@@ -2,13 +2,21 @@
 from pydantic import BaseModel
 from api_machine import GoRESTYourself
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
 api_function = GoRESTYourself()
 
+origins = ['https://owl-production-backend.herokuapp.com/',
+           'http://www.openweightlifting.org']
 
-# todo: setup CORS workaround
-# CORS(app, resources={r"/api/*": {"origins": "*"}})
+app.add_middleware(
+    CORSMiddleware,
+    allows_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"]
+)
 
 
 class SingleLifterData(BaseModel):

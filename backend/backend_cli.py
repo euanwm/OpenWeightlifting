@@ -33,6 +33,8 @@ class CLICommands:
                 us_db.update_results(year)
                 aus_db = AustraliaWeightlifting()
                 aus_db.update_db()
+                iwf_db = InternationalWF("database_root/IWF")
+                iwf_db.update_results()
             case _:
                 sys.exit(f"database not found: {db_name}")
 
