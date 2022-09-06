@@ -1,7 +1,7 @@
 import React from 'react';
 import Document, { Html, Head, Main, NextScript } from 'next/document';
 import { CssBaseline } from '@nextui-org/react';
-import Script from 'next/script'
+import {GA_TRACKING_ID} from "../components/gtag";
 
 class MyDocument extends Document {
   static async getInitialProps(ctx) {
@@ -16,21 +16,16 @@ class MyDocument extends Document {
     return (
       <Html lang="en">
         <Head>{CssBaseline.flush()}
-          <div className="container">
-            <Script
-              src="https://www.googletagmanager.com/gtag/js?id=G-NJZS5B4Y3R"
-              strategy="afterInteractive"
-            />
-            <Script id="google-analytics" strategy="afterInteractive">
-              {`
-                window.dataLayer = window.dataLayer || [];
-                function gtag(){window.dataLayer.push(arguments);}
-                gtag('js', new Date());
-      
-                gtag('config', 'G-NJZS5B4Y3R');
-              `}
-            </Script>
-          </div>
+          {/* Global Site Tag (gtag.js) - Google Analytics */}
+          <script async src={`https://www.googletagmanager.com/gtag/js?id=${GA_TRACKING_ID}`}/>
+          <script dangerouslySetInnerHTML={{__html: `
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', '${GA_TRACKING_ID}', {
+              page_path: window.location.pathname,
+            });
+          `,}}/>
         </Head>
         <body>
           <Main />
