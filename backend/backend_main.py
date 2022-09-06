@@ -12,7 +12,7 @@ origins = ['https://owl-production-backend.herokuapp.com/',
 
 app.add_middleware(
     CORSMiddleware,
-    allows_origins=origins,
+    allow_origins=origins,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"]
