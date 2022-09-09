@@ -8,7 +8,8 @@ app = FastAPI()
 api_function = GoRESTYourself()
 
 origins = ['https://owl-production-backend.herokuapp.com/',
-           'http://www.openweightlifting.org']
+           'http://www.openweightlifting.org',
+           'https://www.openweightlifting.org']
 
 app.add_middleware(
     CORSMiddleware,
