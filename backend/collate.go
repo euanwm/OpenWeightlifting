@@ -10,25 +10,6 @@ import (
 
 const databaseRoot string = "database_root"
 
-//RecordedLift Standard layout of data for entries
-type RecordedLift struct {
-	event      string
-	date       string
-	gender     string
-	name       string
-	bodyweight float32
-	sn1        float32
-	sn2        float32
-	sn3        float32
-	cj1        float32
-	cj2        float32
-	cj3        float32
-	bestSn     float32
-	bestCJ     float32
-	total      float32
-	federation string
-} //todo: do something with this
-
 func main() {
 	dirs := getFedDirs()
 	var allData [][]string
