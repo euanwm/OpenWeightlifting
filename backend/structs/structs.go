@@ -1,7 +1,7 @@
 package structs
 
-// RecordedLiftLeaderboard Standard struct that we'll use for storing lift data
-type RecordedLiftLeaderboard struct {
+// LiftEntry Standard struct that we'll use for storing lift data
+type LiftEntry struct {
 	event      string
 	date       string
 	gender     string
