@@ -9,7 +9,7 @@ const fetchLifterData = async (gender, start, stop) => {
     "stop": stop || 500
   })
 
-  const res = await fetch('https://api.openweightlifting.org/api/leaderboard', {
+  const res = await fetch('https://api.openweightlifting.org/leaderboard', {
     method: "POST",
     headers: {
       "Accept": "*/*",
