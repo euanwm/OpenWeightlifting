@@ -179,7 +179,9 @@ class AustraliaWeightlifting:
         last_id = highest_csv_id(dir_contents) + 1  # stops writing over the last/highest csv in the directory
         for id_int in range(last_id, last_id + step):
             try:
-                write_to_csv(root_dir, id_int, self.get_event(id_int))
+                event = self.get_event(id_int)
+                if len(event) > 1:
+                    write_to_csv(root_dir, id_int, self.get_event(id_int))
             except AttributeError:
                 print(f"no result under event: {id_int}..")
 
