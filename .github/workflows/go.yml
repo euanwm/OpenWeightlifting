@@ -21,9 +21,9 @@ jobs:
     - name: Build
       run: |
         cd backend/
-        go build -v backend/
+        go build -v
 
     - name: Test
       run: |
         cd backend/
-        go test -v backend/
+        go test -v
