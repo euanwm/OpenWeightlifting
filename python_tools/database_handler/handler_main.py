@@ -66,14 +66,3 @@ class DBHandler:
         start_year = 2022
         while self.create_results(start_year):
             start_year -= 1
-
-
-if __name__ == '__main__':
-    shite = DBHandler("https://usaweightlifting.sport80.com/",
-                      "database_root/US")
-    # shite.create_results(2022) - uncomment if you're setting it up initially
-    shite.update_results()  # comment/delete if you're setting it up initially
-    pish = DBHandler("https://bwl.sport80.com/",
-                     "database_root/UK")
-    # pish.create_results(2022)
-    pish.update_results()

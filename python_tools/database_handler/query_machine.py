@@ -109,13 +109,3 @@ class QueryThis:
                 except IndexError:
                     print(loaded_results)
         write_to_csv(self.query_folder, "comp_index", listy)
-
-
-
-if __name__ == '__main__':
-    queerer = QueryThis()
-    # queerer.create_gender_dbs()
-    # queerer.create_lifter_index()
-    # queerer.sort_by_total('male')
-    # queerer.sort_by_total('female')
-    queerer.create_comp_reference_index()
