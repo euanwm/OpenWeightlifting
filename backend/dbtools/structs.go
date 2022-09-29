@@ -28,5 +28,6 @@ type Entry struct {
 	BestSn     string  `json:"best_snatch"`
 	BestCJ     string  `json:"best_cj"`
 	Total      float32 `json:"total"`
+	Sinclair   float32 `json:"sinclair"`
 	Federation string  `json:"country"`
 }
