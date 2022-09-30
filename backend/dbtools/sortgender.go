@@ -6,12 +6,14 @@ import (
 )
 
 const (
-	Male    string = "male"
-	Female  string = "female"
-	Unknown string = "unknown"
+	Male     string = "male"
+	Female   string = "female"
+	Unknown  string = "unknown"
+	Total    string = "total"
+	Sinclair string = "sinclair"
 )
 
-// SortGender Splits results into 3 categories, male, female, and unknown
+// SortGender Splits results into 3 categories, male, female, and unknown then sorts the male and female by descending total
 func SortGender(bigData [][]string) (male []Entry, female []Entry, unknown []Entry) {
 	for _, contents := range bigData {
 		dataStruct := assignStruct(contents)
@@ -52,12 +54,13 @@ func regGenderCheck(entry *Entry) (gender string) {
 
 func assignStruct(line []string) (lineStruct Entry) {
 	floatTotal, _ := strconv.ParseFloat(line[13], 32)
+	floatBodyweight, _ := strconv.ParseFloat(line[4], 32)
 	lineStruct = Entry{
 		Event:      line[0],
 		Date:       line[1],
 		Gender:     line[2],
 		Name:       line[3],
-		Bodyweight: line[4],
+		Bodyweight: floatBodyweight,
 		Sn1:        line[5],
 		Sn2:        line[6],
 		Sn3:        line[7],
@@ -66,7 +69,8 @@ func assignStruct(line []string) (lineStruct Entry) {
 		CJ3:        line[10],
 		BestSn:     line[11],
 		BestCJ:     line[12],
-		Total:      float32(floatTotal),
+		Total:      floatTotal,
+		Sinclair:   0.0,
 		Federation: line[14],
 	}
 	return

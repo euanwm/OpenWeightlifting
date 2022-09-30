@@ -1,8 +1,6 @@
 package dbtools
 
 import (
-	"encoding/csv"
-	"fmt"
 	"log"
 	"os"
 	"path"
@@ -12,13 +10,11 @@ const databaseRoot string = "database_root"
 
 func CollateAll() (allData [][]string) {
 	dirs := getFedDirs()
-	//var allData [][]string
 	for _, fed := range dirs {
 		var allResults [][]string
 		allResults = loadAllFedEvents(fed)
 		allData = append(allData, allResults...)
 	}
-	//writeCSV("alldata.csv", allData)
 	return allData
 }
 
@@ -39,39 +35,11 @@ func loadAllFedEvents(federation string) (allEvents [][]string) {
 		log.Fatal(err)
 	}
 	for _, file := range allFiles {
-		eventData := loadCsvFile(federationPath, file.Name(), true)
+		eventData := LoadCsvFile(federationPath, file.Name(), true)
 		eventData = insertFederation(eventData, federation)
 		allEvents = append(allEvents, eventData...)
 	}
 	return
-}
-
-//Returns the contents of a CSV file as a nested slice with an option to skip the header line but in a lazy AF way
-func loadCsvFile(federation string, filename string, skipHeader bool) (csvContents [][]string) {
-	filepath := path.Join(federation, filename)
-	openFile, err := os.Open(filepath)
-	if err != nil {
-		log.Fatal(err)
-	}
-	reader := csv.NewReader(openFile)
-	csvContents, _ = reader.ReadAll()
-	if skipHeader == true {
-		return csvContents[1:]
-	}
-	return csvContents
-}
-
-//writeCSV Writes CSV file, first arg is the filepath/name. Second is the bigSlice data.
-func writeCSV(csvFp string, bigSlice [][]string) {
-	newCsvFile, err := os.Create(csvFp)
-	if err != nil {
-		log.Fatal(err)
-	}
-	writer := csv.NewWriter(newCsvFile)
-	writeData := writer.WriteAll(bigSlice)
-	if writeData != nil {
-		fmt.Println(writeData)
-	}
 }
 
 //Returns a slice of the named directories within the database.

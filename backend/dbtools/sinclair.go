@@ -12,22 +12,22 @@ const (
 	bFemale = 153.655
 )
 
-// CalcSinclair Calculates the sinclair of a result passed to it. todo: add in the struct shit bit
-func CalcSinclair(total float64, bodyweight float64, male bool) (sinclairScore float64) {
+// CalcSinclair Calculates the sinclair of a result passed to it. We are using ONLY the Senior coefficient because
+// the Masters coefficient is absolute nonsense.
+func CalcSinclair(result *Entry, male bool) {
 	var coEffA = aMale
 	var coEffB = bMale
 	if male == false {
 		coEffA = aFemale
 		coEffB = bFemale
 	}
-	if bodyweight <= coEffB {
-		var X = math.Log10(bodyweight / coEffB)
+	if result.Bodyweight <= coEffB {
+		var X = math.Log10(result.Bodyweight / coEffB)
 		var expX = math.Pow(X, 2)
 		var coEffExp = coEffA * expX
 		var expSum = math.Pow(10, coEffExp)
-		sinclairScore = total * expSum
+		result.Sinclair = result.Total * expSum
 	} else {
-		sinclairScore = total
+		result.Sinclair = result.Total
 	}
-	return sinclairScore
 }

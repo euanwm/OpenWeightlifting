@@ -4,6 +4,13 @@ import (
 	"sort"
 )
 
+// SortSinclair Descending order by entry sinclair
+func SortSinclair(sliceStructs []Entry) {
+	sort.Slice(sliceStructs, func(i, j int) bool {
+		return sliceStructs[i].Sinclair > sliceStructs[j].Sinclair
+	})
+}
+
 // SortTotal Descending order by entry total
 func SortTotal(sliceStructs []Entry) {
 	sort.Slice(sliceStructs, func(i, j int) bool {
@@ -11,7 +18,7 @@ func SortTotal(sliceStructs []Entry) {
 	})
 }
 
-func OnlyTopBestTotal(bigData []Entry) (finalData []Entry) {
+func KeepTopPerformance(bigData []Entry) (finalData []Entry) {
 	bigData = dropBombs(bigData)
 	var names []string
 	var position []int

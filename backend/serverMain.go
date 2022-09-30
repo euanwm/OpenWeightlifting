@@ -28,6 +28,23 @@ func postLeaderboard(c *gin.Context) {
 	}
 }
 
+func postSinclairs(c *gin.Context) {
+	log.Println("postSinclair called...")
+	body := dbtools.LeaderboardPayload{}
+	if err := c.BindJSON(&body); err != nil {
+		c.AbortWithError(http.StatusBadRequest, err)
+		return
+	}
+	switch body.Gender {
+	case dbtools.Male:
+		c.JSON(http.StatusOK, processedLeaderboard.MaleSinclairs[body.Start:body.Stop])
+	case dbtools.Female:
+		c.JSON(http.StatusOK, processedLeaderboard.FemaleSinclairs[body.Start:body.Stop])
+	default:
+		log.Println("Some cunts being wild with it...")
+	}
+}
+
 func buildDatabase() (leaderboardTotal *dbtools.LeaderboardData) {
 	log.Println("buildDatabase called...")
 	bigData := dbtools.CollateAll()
@@ -35,8 +52,10 @@ func buildDatabase() (leaderboardTotal *dbtools.LeaderboardData) {
 	dbtools.SortTotal(female)
 	dbtools.SortTotal(male)
 	leaderboardTotal = &dbtools.LeaderboardData{
-		MaleTotals:   dbtools.OnlyTopBestTotal(male),
-		FemaleTotals: dbtools.OnlyTopBestTotal(female),
+		MaleTotals:      dbtools.KeepTopPerformance(male),
+		FemaleTotals:    dbtools.KeepTopPerformance(female),
+		MaleSinclairs:   nil,
+		FemaleSinclairs: nil,
 	}
 	return leaderboardTotal
 }
@@ -54,6 +73,7 @@ func main() {
 	r := gin.Default()
 	r.Use(cors.New(CORSConfig()))
 	r.POST("leaderboard", postLeaderboard)
+	r.POST("sinclair", postSinclairs)
 	err := r.Run()
 	if err != nil {
 		log.Fatal("Failed to run server")
