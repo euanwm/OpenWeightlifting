@@ -52,10 +52,10 @@ func buildDatabase() (leaderboardTotal *structs.LeaderboardData) {
 	bigData := dbtools.CollateAll()
 	male, female, _ := dbtools.SortGender(bigData) // Throwaway the unknown genders as they're likely really young kids
 	leaderboardTotal = &structs.LeaderboardData{
-		MaleTotals:      dbtools.TopPerformance(male, enum.Total, enum.Male),
-		FemaleTotals:    dbtools.TopPerformance(female, enum.Total, enum.Female),
-		MaleSinclairs:   dbtools.TopPerformance(male, enum.Sinclair, enum.Male),
-		FemaleSinclairs: dbtools.TopPerformance(female, enum.Sinclair, enum.Female),
+		MaleTotals:      dbtools.TopPerformance(male, enum.Total),
+		FemaleTotals:    dbtools.TopPerformance(female, enum.Total),
+		MaleSinclairs:   dbtools.TopPerformance(male, enum.Sinclair),
+		FemaleSinclairs: dbtools.TopPerformance(female, enum.Sinclair),
 	}
 	return leaderboardTotal
 }

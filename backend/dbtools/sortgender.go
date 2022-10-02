@@ -4,14 +4,12 @@ import (
 	"backend/enum"
 	"backend/sinclair"
 	"backend/structs"
-	"log"
 	"regexp"
 	"strconv"
 )
 
 // SortGender Splits results into 3 categories, male, female, and unknown.
 func SortGender(bigData [][]string) (male []structs.Entry, female []structs.Entry, unknown []structs.Entry) {
-	log.Println("SortGender called...")
 	for _, contents := range bigData {
 		dataStruct := assignStruct(contents)
 		gender := setGender(&dataStruct)
@@ -63,7 +61,7 @@ func assignStruct(line []string) (lineStruct structs.Entry) {
 		Date:       line[1],
 		Gender:     line[2],
 		Name:       line[3],
-		Bodyweight: floatBodyweight,
+		Bodyweight: float32(floatBodyweight),
 		Sn1:        line[5],
 		Sn2:        line[6],
 		Sn3:        line[7],
@@ -72,7 +70,7 @@ func assignStruct(line []string) (lineStruct structs.Entry) {
 		CJ3:        line[10],
 		BestSn:     line[11],
 		BestCJ:     line[12],
-		Total:      floatTotal,
+		Total:      float32(floatTotal),
 		Sinclair:   0.0,
 		Federation: line[14],
 	}

@@ -8,6 +8,15 @@ import (
 	"path"
 )
 
+func Contains(sl []string, name string) bool {
+	for _, value := range sl {
+		if value == name {
+			return true
+		}
+	}
+	return false
+}
+
 // LoadCsvFile Returns the contents of a CSV file as a nested slice with an option to skip the header line but in a lazy AF way
 func LoadCsvFile(folder string, filename string, skipHeader bool) (csvContents [][]string) {
 	filepath := path.Join(folder, filename)

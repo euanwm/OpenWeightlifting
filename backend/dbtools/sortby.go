@@ -3,7 +3,6 @@ package dbtools
 import (
 	"backend/enum"
 	"backend/structs"
-	"log"
 	"sort"
 )
 
@@ -21,8 +20,7 @@ func SortTotal(sliceStructs []structs.Entry) {
 	})
 }
 
-func TopPerformance(bigData []structs.Entry, sortBy string, gender string) (finalData []structs.Entry) {
-	log.Println("Building query " + sortBy + ":" + gender)
+func TopPerformance(bigData []structs.Entry, sortBy string) (finalData []structs.Entry) {
 	switch sortBy {
 	case enum.Total:
 		SortTotal(bigData)
@@ -33,7 +31,7 @@ func TopPerformance(bigData []structs.Entry, sortBy string, gender string) (fina
 	var names []string
 	var position []int
 	for i, d := range bigData {
-		if contains(names, d.Name) == false {
+		if Contains(names, d.Name) == false {
 			position = append(position, i)
 			names = append(names, d.Name)
 		}
@@ -42,15 +40,6 @@ func TopPerformance(bigData []structs.Entry, sortBy string, gender string) (fina
 		finalData = append(finalData, bigData[position])
 	}
 	return
-}
-
-func contains(sl []string, name string) bool {
-	for _, value := range sl {
-		if value == name {
-			return true
-		}
-	}
-	return false
 }
 
 // dropBombs Removes people who failed to register a total
