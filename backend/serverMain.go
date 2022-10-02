@@ -2,6 +2,8 @@ package main
 
 import (
 	"backend/dbtools"
+	"backend/enum"
+	"backend/structs"
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
 	"log"
@@ -13,15 +15,15 @@ var processedLeaderboard = buildDatabase()
 //Main leaderboard function
 func postLeaderboard(c *gin.Context) {
 	log.Println("postLeaderboard called...")
-	body := dbtools.LeaderboardPayload{}
+	body := structs.LeaderboardPayload{}
 	if err := c.BindJSON(&body); err != nil {
 		c.AbortWithError(http.StatusBadRequest, err)
 		return
 	}
 	switch body.Gender {
-	case dbtools.Male:
+	case enum.Male:
 		c.JSON(http.StatusOK, processedLeaderboard.MaleTotals[body.Start:body.Stop])
-	case dbtools.Female:
+	case enum.Female:
 		c.JSON(http.StatusOK, processedLeaderboard.FemaleTotals[body.Start:body.Stop])
 	default:
 		log.Println("Some cunts being wild with it...")
@@ -30,32 +32,30 @@ func postLeaderboard(c *gin.Context) {
 
 func postSinclairs(c *gin.Context) {
 	log.Println("postSinclair called...")
-	body := dbtools.LeaderboardPayload{}
+	body := structs.LeaderboardPayload{}
 	if err := c.BindJSON(&body); err != nil {
 		c.AbortWithError(http.StatusBadRequest, err)
 		return
 	}
 	switch body.Gender {
-	case dbtools.Male:
+	case enum.Male:
 		c.JSON(http.StatusOK, processedLeaderboard.MaleSinclairs[body.Start:body.Stop])
-	case dbtools.Female:
+	case enum.Female:
 		c.JSON(http.StatusOK, processedLeaderboard.FemaleSinclairs[body.Start:body.Stop])
 	default:
 		log.Println("Some cunts being wild with it...")
 	}
 }
 
-func buildDatabase() (leaderboardTotal *dbtools.LeaderboardData) {
+func buildDatabase() (leaderboardTotal *structs.LeaderboardData) {
 	log.Println("buildDatabase called...")
 	bigData := dbtools.CollateAll()
 	male, female, _ := dbtools.SortGender(bigData) // Throwaway the unknown genders as they're likely really young kids
-	dbtools.SortTotal(female)
-	dbtools.SortTotal(male)
-	leaderboardTotal = &dbtools.LeaderboardData{
-		MaleTotals:      dbtools.KeepTopPerformance(male),
-		FemaleTotals:    dbtools.KeepTopPerformance(female),
-		MaleSinclairs:   nil,
-		FemaleSinclairs: nil,
+	leaderboardTotal = &structs.LeaderboardData{
+		MaleTotals:      dbtools.TopPerformance(male, enum.Total, enum.Male),
+		FemaleTotals:    dbtools.TopPerformance(female, enum.Total, enum.Female),
+		MaleSinclairs:   dbtools.TopPerformance(male, enum.Sinclair, enum.Male),
+		FemaleSinclairs: dbtools.TopPerformance(female, enum.Sinclair, enum.Female),
 	}
 	return leaderboardTotal
 }

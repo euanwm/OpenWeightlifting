@@ -1,4 +1,4 @@
-package dbtools
+package structs
 
 type LeaderboardData struct {
 	MaleTotals      []Entry
@@ -14,7 +14,7 @@ type LeaderboardPayload struct {
 	Gender string `json:"gender"`
 }
 
-// Entry Standard struct that we'll use for storing raw lift data
+// Entry Standard structs that we'll use for storing raw lift data
 type Entry struct {
 	Event      string  `json:"event"`
 	Date       string  `json:"date"`
