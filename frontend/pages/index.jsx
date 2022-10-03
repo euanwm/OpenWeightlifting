@@ -2,11 +2,12 @@ import { useState } from "react"
 import DataTable from "../components/data-table/index.component"
 import Filters from "../components/filters/index.component"
 
-const fetchLifterData = async (gender, start, stop) => {
+const fetchLifterData = async (gender, start, stop, sortby) => {
   const bodyContent = JSON.stringify({
     "gender": gender || "male",
     "start": start || 0,
-    "stop": stop || 500
+    "stop": stop || 500,
+    "sortby": sortby || "total"
   })
 
   const res = await fetch('https://api.openweightlifting.org/leaderboard', {
