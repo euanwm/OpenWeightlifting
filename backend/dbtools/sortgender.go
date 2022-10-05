@@ -1,63 +1,67 @@
 package dbtools
 
 import (
+	"backend/enum"
+	"backend/sinclair"
+	"backend/structs"
 	"regexp"
 	"strconv"
 )
 
-const (
-	Male    string = "male"
-	Female  string = "female"
-	Unknown string = "unknown"
-)
-
-// SortGender Splits results into 3 categories, male, female, and unknown
-func SortGender(bigData [][]string) (male []Entry, female []Entry, unknown []Entry) {
+// SortGender Splits results into 3 categories, male, female, and unknown.
+func SortGender(bigData [][]string) (male []structs.Entry, female []structs.Entry, unknown []structs.Entry) {
 	for _, contents := range bigData {
 		dataStruct := assignStruct(contents)
 		gender := setGender(&dataStruct)
 		switch gender {
-		case Male:
+		case enum.Male:
+			if dataStruct.Total > 0 && dataStruct.Bodyweight > 0 {
+				sinclair.CalcSinclair(&dataStruct, true)
+			}
 			male = append(male, dataStruct)
-		case Female:
+		case enum.Female:
+			if dataStruct.Total > 0 && dataStruct.Bodyweight > 0 {
+				sinclair.CalcSinclair(&dataStruct, false)
+			}
 			female = append(female, dataStruct)
-		case Unknown:
+		case enum.Unknown:
 			unknown = append(unknown, dataStruct)
 		}
 	}
 	return
 }
 
-func setGender(entry *Entry) (gender string) {
-	if entry.Gender == Male || regGenderCheck(entry) == Male {
-		return Male
-	} else if entry.Gender == Female || regGenderCheck(entry) == Female {
-		return Female
+func setGender(entry *structs.Entry) (gender string) {
+	if entry.Gender == enum.Male || regGenderCheck(entry) == enum.Male {
+		return enum.Male
+	} else if entry.Gender == enum.Female || regGenderCheck(entry) == enum.Female {
+		return enum.Female
 	} else {
-		return Unknown
+		return enum.Unknown
 	}
 }
 
-func regGenderCheck(entry *Entry) (gender string) {
+func regGenderCheck(entry *structs.Entry) (gender string) {
 	searchMale, _ := regexp.Match("Men", []byte(entry.Gender))
 	searchFemale, _ := regexp.Match("Women", []byte(entry.Gender))
 	if searchMale == true {
-		return Male
+		return enum.Male
 	} else if searchFemale == true {
-		return Female
+		return enum.Female
 	} else {
-		return Unknown
+		return enum.Unknown
 	}
 }
 
-func assignStruct(line []string) (lineStruct Entry) {
+func assignStruct(line []string) (lineStruct structs.Entry) {
 	floatTotal, _ := strconv.ParseFloat(line[13], 32)
-	lineStruct = Entry{
+	floatBodyweight, _ := strconv.ParseFloat(line[4], 32)
+	lineStruct = structs.Entry{
 		Event:      line[0],
 		Date:       line[1],
 		Gender:     line[2],
 		Name:       line[3],
-		Bodyweight: line[4],
+		Bodyweight: float32(floatBodyweight),
 		Sn1:        line[5],
 		Sn2:        line[6],
 		Sn3:        line[7],
@@ -67,6 +71,7 @@ func assignStruct(line []string) (lineStruct Entry) {
 		BestSn:     line[11],
 		BestCJ:     line[12],
 		Total:      float32(floatTotal),
+		Sinclair:   0.0,
 		Federation: line[14],
 	}
 	return

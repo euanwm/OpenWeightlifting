@@ -1,8 +1,10 @@
-package dbtools
+package structs
 
 type LeaderboardData struct {
-	MaleTotals   []Entry
-	FemaleTotals []Entry
+	MaleTotals      []Entry
+	FemaleTotals    []Entry
+	MaleSinclairs   []Entry
+	FemaleSinclairs []Entry
 }
 
 // LeaderboardPayload Incoming request payload
@@ -10,15 +12,16 @@ type LeaderboardPayload struct {
 	Start  int    `json:"start"`
 	Stop   int    `json:"stop"`
 	Gender string `json:"gender"`
+	SortBy string `json:"sortby"`
 }
 
-// Entry Standard struct that we'll use for storing raw lift data
+// Entry Standard structs that we'll use for storing raw lift data
 type Entry struct {
 	Event      string  `json:"event"`
 	Date       string  `json:"date"`
 	Gender     string  `json:"gender"`
 	Name       string  `json:"lifter_name"`
-	Bodyweight string  `json:"bodyweight"`
+	Bodyweight float32 `json:"bodyweight"`
 	Sn1        string  `json:"snatch_1"`
 	Sn2        string  `json:"snatch_2"`
 	Sn3        string  `json:"snatch_3"`
@@ -28,5 +31,6 @@ type Entry struct {
 	BestSn     string  `json:"best_snatch"`
 	BestCJ     string  `json:"best_cj"`
 	Total      float32 `json:"total"`
+	Sinclair   float32 `json:"sinclair"`
 	Federation string  `json:"country"`
 }
