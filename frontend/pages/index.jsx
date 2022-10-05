@@ -24,23 +24,27 @@ const fetchLifterData = async (gender, start, stop, sortby) => {
 
 const Home = ({ data }) => {
   const [currentGender, setCurrentGender] = useState("male")
+  const [sortBy, setSortBy] = useState("total")
   const [currentLifterList, setCurrentLifterList] = useState(data)
 
   const handleGenderChange = async (event) => {
-    const newGender = event.target.value
+    const newFilter = event.target.value
+    let newLifters;
 
-    if (newGender !== currentGender) {
-      setCurrentGender(newGender)
-
-      const newLifters = await fetchLifterData(newGender, 0, 500)
-
-      setCurrentLifterList(newLifters)
+    if (newFilter === "female" || newFilter === "male") {
+        setCurrentGender(newFilter)
+        newLifters = await fetchLifterData(newFilter, 0, 500, sortBy);
+        setCurrentLifterList(newLifters)
+    } else if (newFilter === "total" || newFilter === "sinclair") {
+        setSortBy(newFilter)
+        newLifters = await fetchLifterData(currentGender, 0, 500, newFilter);
+        setCurrentLifterList(newLifters)
     }
   }
 
   return (
     <>
-      <Filters currentGender={currentGender} handleGenderChange={handleGenderChange} />
+      <Filters currentGender={currentGender} sortBy={sortBy} handleGenderChange={handleGenderChange} />
       {currentLifterList && <DataTable lifters={currentLifterList} />}
     </>
   )
