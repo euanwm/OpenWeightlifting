@@ -20,6 +20,7 @@ const DataTable = ({ lifters }) => (
       <Table.Column css={tableHeaderStyles}>Clean & Jerk 2</Table.Column>
       <Table.Column css={tableHeaderStyles}>Clean & Jerk 3</Table.Column>
       <Table.Column css={tableHeaderStyles}>Total</Table.Column>
+      <Table.Column css={tableHeaderStyles}>Sinclair</Table.Column>
     </Table.Header>
     <Table.Body>
       {lifters.map((lifter, i) => (
@@ -35,6 +36,7 @@ const DataTable = ({ lifters }) => (
           <Table.Cell>{lifter.cj_2}</Table.Cell>
           <Table.Cell>{lifter.cj_3}</Table.Cell>
           <Table.Cell>{lifter.total}</Table.Cell>
+          <Table.Cell>{lifter.sinclair}</Table.Cell>
         </Table.Row>
       ))}
     </Table.Body>

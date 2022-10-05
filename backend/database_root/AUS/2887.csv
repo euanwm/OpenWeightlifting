@@ -1,0 +1,4 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Bounce Weightlifting Club competition,2022-09-10,female,Imogen Crowell,79.70,55,58,62,76,80,,62,80,142
+Bounce Weightlifting Club competition,2022-09-10,male,Ryven Ewing,89.90,90,,,110,,,90,110,200
+Bounce Weightlifting Club competition,2022-09-10,male,Ben Ward,106.80,90,,,110,,,90,110,200
