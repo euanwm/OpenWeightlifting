@@ -22,14 +22,14 @@ type Entry struct {
 	Gender     string  `json:"gender"`
 	Name       string  `json:"lifter_name"`
 	Bodyweight float32 `json:"bodyweight"`
-	Sn1        string  `json:"snatch_1"`
-	Sn2        string  `json:"snatch_2"`
-	Sn3        string  `json:"snatch_3"`
-	CJ1        string  `json:"cj_1"`
-	CJ2        string  `json:"cj_2"`
-	CJ3        string  `json:"cj_3"`
-	BestSn     string  `json:"best_snatch"`
-	BestCJ     string  `json:"best_cj"`
+	Sn1        float32 `json:"snatch_1"`
+	Sn2        float32 `json:"snatch_2"`
+	Sn3        float32 `json:"snatch_3"`
+	CJ1        float32 `json:"cj_1"`
+	CJ2        float32 `json:"cj_2"`
+	CJ3        float32 `json:"cj_3"`
+	BestSn     float32 `json:"best_snatch"`
+	BestCJ     float32 `json:"best_cj"`
 	Total      float32 `json:"total"`
 	Sinclair   float32 `json:"sinclair"`
 	Federation string  `json:"country"`

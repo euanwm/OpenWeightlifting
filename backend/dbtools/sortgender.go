@@ -5,7 +5,6 @@ import (
 	"backend/sinclair"
 	"backend/structs"
 	"regexp"
-	"strconv"
 )
 
 // SortGender Splits results into 3 categories, male, female, and unknown.
@@ -54,23 +53,21 @@ func regGenderCheck(entry *structs.Entry) (gender string) {
 }
 
 func assignStruct(line []string) (lineStruct structs.Entry) {
-	floatTotal, _ := strconv.ParseFloat(line[13], 32)
-	floatBodyweight, _ := strconv.ParseFloat(line[4], 32)
 	lineStruct = structs.Entry{
 		Event:      line[0],
 		Date:       line[1],
 		Gender:     line[2],
 		Name:       line[3],
-		Bodyweight: float32(floatBodyweight),
-		Sn1:        line[5],
-		Sn2:        line[6],
-		Sn3:        line[7],
-		CJ1:        line[8],
-		CJ2:        line[9],
-		CJ3:        line[10],
-		BestSn:     line[11],
-		BestCJ:     line[12],
-		Total:      float32(floatTotal),
+		Bodyweight: Float(line[4]),
+		Sn1:        Float(line[5]),
+		Sn2:        Float(line[6]),
+		Sn3:        Float(line[7]),
+		CJ1:        Float(line[8]),
+		CJ2:        Float(line[9]),
+		CJ3:        Float(line[10]),
+		BestSn:     Float(line[11]),
+		BestCJ:     Float(line[12]),
+		Total:      Float(line[13]),
 		Sinclair:   0.0,
 		Federation: line[14],
 	}
