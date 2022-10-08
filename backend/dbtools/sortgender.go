@@ -14,12 +14,12 @@ func SortGender(bigData [][]string) (male []structs.Entry, female []structs.Entr
 		gender := setGender(&dataStruct)
 		switch gender {
 		case enum.Male:
-			if dataStruct.Total > 0 && dataStruct.Bodyweight > 0 {
+			if dataStruct.Total > 0 && dataStruct.Total < enum.MaxTotal && dataStruct.Bodyweight > enum.MinimumBodyweight {
 				sinclair.CalcSinclair(&dataStruct, true)
 			}
 			male = append(male, dataStruct)
 		case enum.Female:
-			if dataStruct.Total > 0 && dataStruct.Bodyweight > 0 {
+			if dataStruct.Total > 0 && dataStruct.Total < enum.MaxTotal && dataStruct.Bodyweight > enum.MinimumBodyweight {
 				sinclair.CalcSinclair(&dataStruct, false)
 			}
 			female = append(female, dataStruct)
