@@ -6,8 +6,17 @@ import (
 	"log"
 	"os"
 	"path"
+	"strconv"
 )
 
+//Float - Converts a string containing a float32 to exactly that
+func Float(preFloatStr string) (retFloat float32) {
+	convFloat, _ := strconv.ParseFloat(preFloatStr, 32)
+	retFloat = float32(convFloat)
+	return
+}
+
+//Contains - Returns true if a substring within a string exists
 func Contains(sl []string, name string) bool {
 	for _, value := range sl {
 		if value == name {
