@@ -1,19 +1,32 @@
 .filters {
   display: flex;
   width: 100%;
-  justify-content: space-between;
-  align-items: center;
+  justify-content: left;
+  alignment: left;
   padding: 24px 0 0;
+  flex-direction: row;
 }
 
 .genderWrapper {
   display: flex;
   flex-direction: column;
-  width: 100%;
+  width: auto;
+}
+
+.sinclairWrapper {
+  display: flex;
+  flex-direction: column;
+  width: auto;
 }
 
 .genderWrapper > label {
-  margin-left: 10px;
+  margin-left: 20%;
+  font-size: var(--nextui-fontSizes-xs);
+  color: var(--nextui-colors-accents7);
+}
+
+.sinclairWrapper > label {
+  margin-left: 20%;
   font-size: var(--nextui-fontSizes-xs);
   color: var(--nextui-colors-accents7);
 }

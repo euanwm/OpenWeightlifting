@@ -10,14 +10,16 @@ const Filters = ({ currentGender, sortBy, handleGenderChange }) => (
                   <option value="female">Female</option>
               </select>
           </div>
+      </div>
+      <div className={styles.sinclairWrapper}>
         <label htmlFor="sortBy">Total/Sinclair</label>
         <div className={styles.selectContainer}>
             <select className={styles.select} id="sortBy" value={sortBy} onChange={(e) => handleGenderChange(e)}>
                 <option value="total">Total</option>
                 <option value="sinclair">Sinclair</option>
         </select>
+        </div>
       </div>
-    </div>
   </div>
 )
 
