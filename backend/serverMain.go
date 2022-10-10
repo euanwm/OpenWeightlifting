@@ -14,32 +14,14 @@ var processedLeaderboard = buildDatabase()
 
 //Main leaderboard function
 func postLeaderboard(c *gin.Context) {
-	log.Println("postLeaderboard called...")
 	body := structs.LeaderboardPayload{}
 	if err := c.BindJSON(&body); err != nil {
 		c.AbortWithError(http.StatusBadRequest, err)
 		return
 	}
-	switch body.SortBy {
-	case enum.Total:
-		switch body.Gender {
-		case enum.Male:
-			c.JSON(http.StatusOK, processedLeaderboard.MaleTotals[body.Start:body.Stop])
-		case enum.Female:
-			c.JSON(http.StatusOK, processedLeaderboard.FemaleTotals[body.Start:body.Stop])
-		default:
-			log.Println("Some cunts being wild with it...")
-		}
-	case enum.Sinclair:
-		switch body.Gender {
-		case enum.Male:
-			c.JSON(http.StatusOK, processedLeaderboard.MaleSinclairs[body.Start:body.Stop])
-		case enum.Female:
-			c.JSON(http.StatusOK, processedLeaderboard.FemaleSinclairs[body.Start:body.Stop])
-		default:
-			log.Println("Some cunts being wild with it...")
-		}
-	}
+	//todo: add in query checker so it doesn't shit the bed on a bad query
+	c.JSON(http.StatusOK, processedLeaderboard.Query(body.SortBy, body.Gender, body.Start, body.Stop))
+
 }
 
 func buildDatabase() (leaderboardTotal *structs.LeaderboardData) {
