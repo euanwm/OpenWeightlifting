@@ -1,6 +1,6 @@
 import styles from './filters.module.css'
 
-const Filters = ({ currentGender, sortBy, selectFederation, handleGenderChange }) => (
+const Filters = ({ currentGender, sortBy, handleGenderChange }) => (
   <div className={styles.filters}>
       <div className={styles.genderWrapper}>
           <label htmlFor="genderSelect">Gender</label>
@@ -20,7 +20,7 @@ const Filters = ({ currentGender, sortBy, selectFederation, handleGenderChange }
         </select>
         </div>
       </div>
-    </div>
+  </div>
 )
 
 export default Filters

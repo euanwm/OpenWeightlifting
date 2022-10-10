@@ -1,8 +1,8 @@
 .filters {
   display: flex;
   width: 100%;
-  justify-content: space-between;
-  align-items: center;
+  justify-content: left;
+  alignment: left;
   padding: 24px 0 0;
   flex-direction: row;
 }
@@ -10,7 +10,13 @@
 .genderWrapper {
   display: flex;
   flex-direction: column;
-  width: 100%;
+  width: auto;
+}
+
+.sinclairWrapper {
+  display: flex;
+  flex-direction: column;
+  width: auto;
 }
 
 .genderWrapper > label {
@@ -19,26 +25,8 @@
   color: var(--nextui-colors-accents7);
 }
 
-.sinclairWrapper {
-  display: flex;
-  flex-direction: column;
-  width: 10%;
-}
-
 .sinclairWrapper > label {
   margin-left: 20%;
-  font-size: var(--nextui-fontSizes-xs);
-  color: var(--nextui-colors-accents7);
-}
-
-.federationWrapper {
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-}
-
-.federationWrapper > label {
-  margin-left: 10px;
   font-size: var(--nextui-fontSizes-xs);
   color: var(--nextui-colors-accents7);
 }
