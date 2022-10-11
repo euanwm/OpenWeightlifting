@@ -7,15 +7,15 @@ const (
 	Total    string = "total"
 	Sinclair string = "sinclair"
 	//BWL - British Weightlifting
-	BWL string = "bwl"
+	BWL string = "UK"
 	//USAW - United States of America Weightlifting
-	USAW string = "usaw"
+	USAW string = "US"
 	//IWF - Internation Weightlifting Federation
-	IWF string = "iwf"
+	IWF string = "IWF"
 	//ALLFEDS - Pretty self-explanatory
 	ALLFEDS string = "allfeds"
 	//AWF - Australian Weightlifting Federation
-	AWF               string  = "awf"
+	AWF               string  = "AUS"
 	MaxTotal          float32 = 510
 	MinimumBodyweight float32 = 20
 )

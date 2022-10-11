@@ -5,25 +5,25 @@ import (
 	"log"
 )
 
-func (e LeaderboardData) Query(sortBy string, gender string, start int, stop int) []Entry {
+func (e LeaderboardData) Query(sortBy string, gender string) []Entry {
 	switch sortBy {
 	case enum.Total:
 		switch gender {
 		case enum.Male:
-			return e.MaleTotals[start:stop]
+			return e.MaleTotals
 		case enum.Female:
-			return e.FemaleTotals[start:stop]
+			return e.FemaleTotals
 		default:
-			log.Println("Some cunts being wild with it...")
+			log.Println("Some cunts being wild with totals...")
 		}
 	case enum.Sinclair:
-		switch sortBy {
+		switch gender {
 		case enum.Male:
-			return e.MaleSinclairs[start:stop]
+			return e.MaleSinclairs
 		case enum.Female:
-			return e.FemaleSinclairs[start:stop]
+			return e.FemaleSinclairs
 		default:
-			log.Println("Some cunts being wild with it...")
+			log.Println("Some cunts being wild with sinclairs...")
 		}
 	}
 	return nil

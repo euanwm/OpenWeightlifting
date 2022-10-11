@@ -19,9 +19,14 @@ func postLeaderboard(c *gin.Context) {
 		c.AbortWithError(http.StatusBadRequest, err)
 		return
 	}
-	//todo: add in query checker so it doesn't shit the bed on a bad query
-	c.JSON(http.StatusOK, processedLeaderboard.Query(body.SortBy, body.Gender, body.Start, body.Stop))
+	//todo: add in query checker, so it doesn't shit the bed on a bad query
+	if body.Federation != enum.ALLFEDS {
+		fedData := dbtools.FilterFederation(processedLeaderboard.Query(body.SortBy, body.Gender), body.Federation, body.Start, body.Stop)
+		c.JSON(http.StatusOK, fedData)
 
+	} else {
+		c.JSON(http.StatusOK, processedLeaderboard.Query(body.SortBy, body.Gender)[body.Start:body.Stop])
+	}
 }
 
 func buildDatabase() (leaderboardTotal *structs.LeaderboardData) {
