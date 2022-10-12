@@ -6,6 +6,22 @@ import (
 	"sort"
 )
 
+//FilterFederation - Returns a slice of structs relating to the selected federation
+func FilterFederation(bigData []structs.Entry, federation string, start int, stop int) (filteredData []structs.Entry) {
+	var sliceLen = stop - start
+	var indexCount int
+	for _, lift := range bigData {
+		if lift.Federation == federation && indexCount < start {
+			indexCount++
+		} else if lift.Federation == federation && indexCount >= start {
+			filteredData = append(filteredData, lift)
+		} else if len(filteredData) == sliceLen {
+			return
+		}
+	}
+	return nil
+}
+
 // SortSinclair Descending order by entry sinclair
 func SortSinclair(sliceStructs []structs.Entry) {
 	sort.Slice(sliceStructs, func(i, j int) bool {
