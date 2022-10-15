@@ -19,7 +19,7 @@ func FilterFederation(bigData []structs.Entry, federation string, start int, sto
 			return
 		}
 	}
-	return nil
+	return filteredData[start:stop]
 }
 
 // SortSinclair Descending order by entry sinclair

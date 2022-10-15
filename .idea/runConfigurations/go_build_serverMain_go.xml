@@ -2,6 +2,7 @@
   <configuration default="false" name="go build serverMain.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
     <module name="OpenWeightlifting" />
     <working_directory value="$PROJECT_DIR$/backend/" />
+    <parameters value="local" />
     <kind value="FILE" />
     <directory value="$PROJECT_DIR$" />
     <filePath value="$PROJECT_DIR$/backend/serverMain.go" />
