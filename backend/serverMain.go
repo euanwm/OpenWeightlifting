@@ -4,10 +4,12 @@ import (
 	"backend/dbtools"
 	"backend/enum"
 	"backend/structs"
+	"fmt"
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
 	"log"
 	"net/http"
+	"os"
 )
 
 var processedLeaderboard = buildDatabase()
@@ -53,7 +55,12 @@ func CORSConfig() cors.Config {
 
 func main() {
 	r := gin.Default()
-	r.Use(cors.New(CORSConfig()))
+	//It's not a great solution but it'll work
+	if len(os.Args) > 1 && os.Args[1] == "local" {
+		fmt.Println("Local mode - Disabling CORS nonsense")
+	} else {
+		r.Use(cors.New(CORSConfig()))
+	}
 	r.POST("leaderboard", postLeaderboard)
 	err := r.Run()
 	if err != nil {
