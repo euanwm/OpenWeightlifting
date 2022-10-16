@@ -4,7 +4,7 @@ import (
 	"backend/enum"
 	"backend/sinclair"
 	"backend/structs"
-	"regexp"
+	"strings"
 )
 
 // SortGender Splits results into 3 categories, male, female, and unknown.
@@ -31,21 +31,13 @@ func SortGender(bigData [][]string) (male []structs.Entry, female []structs.Entr
 }
 
 func setGender(entry *structs.Entry) (gender string) {
-	if entry.Gender == enum.Male || regGenderCheck(entry) == enum.Male {
+	if entry.Gender == enum.Male {
 		return enum.Male
-	} else if entry.Gender == enum.Female || regGenderCheck(entry) == enum.Female {
+	} else if entry.Gender == enum.Female {
 		return enum.Female
-	} else {
-		return enum.Unknown
-	}
-}
-
-func regGenderCheck(entry *structs.Entry) (gender string) {
-	searchMale, _ := regexp.Match("Men", []byte(entry.Gender))
-	searchFemale, _ := regexp.Match("Women", []byte(entry.Gender))
-	if searchMale == true {
+	} else if strings.Contains(entry.Gender, "Men") {
 		return enum.Male
-	} else if searchFemale == true {
+	} else if strings.Contains(entry.Gender, "Women") {
 		return enum.Female
 	} else {
 		return enum.Unknown
