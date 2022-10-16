@@ -4,7 +4,6 @@ import (
 	"backend/dbtools"
 	"backend/enum"
 	"backend/structs"
-	"fmt"
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
 	"log"
@@ -44,9 +43,14 @@ func buildDatabase() (leaderboardTotal *structs.LeaderboardData) {
 	return leaderboardTotal
 }
 
-func CORSConfig() cors.Config {
+func CORSConfig(localEnv bool) cors.Config {
 	corsConfig := cors.DefaultConfig()
-	corsConfig.AllowOrigins = []string{"https://www.openweightlifting.org"}
+	if localEnv {
+		log.Println("Local mode - Disabling CORS nonsense")
+		corsConfig.AllowOrigins = []string{"https://www.openweightlifting.org", "http://localhost:3000"}
+	} else {
+		corsConfig.AllowOrigins = []string{"https://www.openweightlifting.org"}
+	}
 	corsConfig.AllowCredentials = true
 	corsConfig.AddAllowHeaders("Access-Control-Allow-Headers", "access-control-allow-origin, access-control-allow-headers", "Content-Type", "X-XSRF-TOKEN", "Accept", "Origin", "X-Requested-With", "Authorization")
 	corsConfig.AddAllowMethods("GET", "POST", "PUT", "DELETE")
@@ -57,9 +61,9 @@ func main() {
 	r := gin.Default()
 	//It's not a great solution but it'll work
 	if len(os.Args) > 1 && os.Args[1] == "local" {
-		fmt.Println("Local mode - Disabling CORS nonsense")
+		r.Use(cors.New(CORSConfig(true)))
 	} else {
-		r.Use(cors.New(CORSConfig()))
+		r.Use(cors.New(CORSConfig(false)))
 	}
 	r.POST("leaderboard", postLeaderboard)
 	err := r.Run()
