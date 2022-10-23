@@ -1,5 +1,11 @@
 package structs
 
+type TestPayload struct {
+	Hour int
+	Min  int
+	Sec  int
+}
+
 type LeaderboardData struct {
 	MaleTotals      []Entry
 	FemaleTotals    []Entry
