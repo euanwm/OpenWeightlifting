@@ -9,9 +9,16 @@ import (
 	"log"
 	"net/http"
 	"os"
+	"time"
 )
 
 var processedLeaderboard = buildDatabase()
+
+func getTest(c *gin.Context) {
+	hour, min, sec := time.Now().Clock()
+	retStruct := structs.TestPayload{Hour: hour, Min: min, Sec: sec}
+	c.JSON(http.StatusOK, retStruct)
+}
 
 //Main leaderboard function
 func postLeaderboard(c *gin.Context) {
@@ -65,6 +72,7 @@ func main() {
 	} else {
 		r.Use(cors.New(CORSConfig(false)))
 	}
+	r.GET("test", getTest)
 	r.POST("leaderboard", postLeaderboard)
 	err := r.Run()
 	if err != nil {
