@@ -6,6 +6,11 @@ type TestPayload struct {
 	Sec  int
 }
 
+type AllData struct {
+	Names []string
+	Lifts []Entry
+}
+
 type LeaderboardData struct {
 	MaleTotals      []Entry
 	FemaleTotals    []Entry
