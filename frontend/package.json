@@ -17,6 +17,9 @@
     "react-icons": "^4.4.0"
   },
   "devDependencies": {
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@mui/material": "^5.10.10",
     "eslint": "8.23.0",
     "eslint-config-next": "12.2.5",
     "eslint-config-prettier": "^8.5.0",
