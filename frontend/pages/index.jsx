@@ -1,62 +1,94 @@
-import { useState } from "react"
-import DataTable from "../components/data-table/index.component"
-import Filters from "../components/filters/index.component"
+import { useState, useEffect } from 'react'
+import { useTheme } from '@nextui-org/react'
+import { ThemeProvider, createTheme } from '@mui/material/styles'
+import CssBaseline from '@mui/material/CssBaseline'
 
-const fetchLifterData = async (gender, start, stop, sortby, federation) => {
+import DataTable from '../components/data-table/index.component'
+import Filters from '../components/filters/index.component'
+
+const fetchLifterData = async (
+  gender = 'male',
+  start = 0,
+  stop = 500,
+  sortby = 'total',
+  federation = 'allfeds',
+) => {
   const bodyContent = JSON.stringify({
-    "gender": gender || "male",
-    "start": start || 0,
-    "stop": stop || 500,
-    "sortby": sortby || "total",
-    "federation": federation || "allfeds"
+    gender,
+    start,
+    stop,
+    sortby,
+    federation,
   })
 
   const res = await fetch('https://api.openweightlifting.org/leaderboard', {
-    method: "POST",
+    method: 'POST',
     headers: {
-      "Accept": "*/*",
-      "Content-Type": "application/json"
+      Accept: '*/*',
+      'Content-Type': 'application/json',
     },
-    body: bodyContent
-  }).catch((error) => console.error(error))
+    body: bodyContent,
+  }).catch(error => console.error(error))
 
   return await res.json()
 }
 
+const darkTheme = createTheme({
+  palette: {
+    mode: 'dark',
+  },
+})
+
+const lightTheme = createTheme({
+  palette: {
+    mode: 'light',
+  },
+})
+
 const Home = ({ data }) => {
-  const [currentGender, setCurrentGender] = useState("male")
-  const [sortBy, setSortBy] = useState("total")
-  const [federation, setFederation] = useState("allfeds")
+  const [currentGender, setCurrentGender] = useState('male')
+  const [sortBy, setSortBy] = useState('total')
+  const [federation, setFederation] = useState('allfeds')
   const [currentLifterList, setCurrentLifterList] = useState(data)
+  const { isDark } = useTheme()
 
-  //todo: refactor this bit below
-  const handleGenderChange = async (event) => {
-    const newFilter = event.target.value
-    let newLifters;
+  useEffect(() => {
+    async function callFetchLisfterData() {
+      setCurrentLifterList(
+        await fetchLifterData(currentGender, 0, 500, sortBy, federation),
+      )
+    }
 
-    if (newFilter === "female" || newFilter === "male") {
-        setCurrentGender(newFilter)
-        newLifters = await fetchLifterData(newFilter, 0, 500, sortBy, federation);
-        setCurrentLifterList(newLifters)
-    } else if (newFilter === "total" || newFilter === "sinclair") {
-        setSortBy(newFilter)
-        newLifters = await fetchLifterData(currentGender, 0, 500, newFilter, federation);
-        setCurrentLifterList(newLifters)
-    } else if (newFilter.match("UK|US|AUS|allfeds|IWF")) {
-        setFederation(newFilter)
-        newLifters = await fetchLifterData(currentGender, 0, 500, sortBy, newFilter);
-        setCurrentLifterList(newLifters)
+    callFetchLisfterData()
+  }, [currentGender, sortBy, federation])
+
+  const handleGenderChange = newFilter => {
+    const { type, value } = newFilter
+    switch (type) {
+      case 'gender':
+        setCurrentGender(value)
+        break
+      case 'sortBy':
+        setSortBy(value)
+        break
+      default:
+        setFederation(value)
     }
   }
 
   return (
-    <>
-      <Filters currentGender={currentGender} sortBy={sortBy} federation={federation} handleGenderChange={handleGenderChange} />
+    <ThemeProvider theme={isDark ? darkTheme : lightTheme}>
+      <CssBaseline />
+      <Filters
+        currentGender={currentGender}
+        sortBy={sortBy}
+        federation={federation}
+        handleGenderChange={handleGenderChange}
+      />
       {currentLifterList && <DataTable lifters={currentLifterList} />}
-    </>
+    </ThemeProvider>
   )
 }
-
 
 export async function getServerSideProps() {
   const data = await fetchLifterData()

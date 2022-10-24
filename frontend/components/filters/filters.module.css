@@ -1,86 +1,22 @@
 .filters {
-  display: flex;
-  width: 100%;
-  justify-content: left;
-  alignment: left;
-  padding: 24px 0 0;
-  flex-direction: row;
-}
-
-.genderWrapper {
-  display: flex;
-  flex-direction: column;
-  width: auto;
-}
-
-.sinclairWrapper {
-  display: flex;
-  flex-direction: column;
-  width: auto;
-}
-
-.federationWrapper {
-  display: flex;
-  flex-direction: column;
-  width: auto;
-}
-
-.federationWrapper > label {
-  margin-left: 20%;
-  font-size: var(--nextui-fontSizes-xs);
-  color: var(--nextui-colors-accents7);
-}
-
-.genderWrapper > label {
-  margin-left: 20%;
-  font-size: var(--nextui-fontSizes-xs);
-  color: var(--nextui-colors-accents7);
-}
-
-.sinclairWrapper > label {
-  margin-left: 20%;
-  font-size: var(--nextui-fontSizes-xs);
-  color: var(--nextui-colors-accents7);
+  margin-top: 20px;
+  margin-bottom: 10px;
 }
 
 .selectContainer {
-  width: 100%;
-  border: 1px solid var(--nextui-colors-accents0);
-  border-radius: 12px;
-  padding: 10px;
-  font-size: 1.25rem;
-  cursor: pointer;
-  line-height: 1.1;
-  background-color: var(--nextui-colors-accents0);
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  width: 100px;
 }
 
-.selectContainer::after {
-  display: block;
-  content: "";
-  width: 0.8em;
-  height: 0.5em;
-  background-color: var(--nextui-colors-accents7);
-  clip-path: polygon(100% 0%, 0 0%, 50% 100%);
-}
-
-.select {
-  appearance: none;
-  background-color: transparent;
-  border: none;
-  padding: 0 1em 0 0;
-  margin: 0;
-  width: 100%;
-  font-family: inherit;
-  font-size: inherit;
-  cursor: inherit;
-  line-height: inherit;
+.selectContainer + .selectContainer {
+  margin-left: 5px;
 }
 
 @media (min-width: 600px) {
-  .genderWrapper {
-    width: auto;
+  .selectContainer {
+    width: 120px;
+  }
+  
+  .selectContainer + .selectContainer {
+    margin-left: 15px;
   }
 }

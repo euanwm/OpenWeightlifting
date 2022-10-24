@@ -1,37 +1,88 @@
+import NativeSelect from '@mui/material/NativeSelect'
+import InputLabel from '@mui/material/InputLabel'
+import FormControl from '@mui/material/FormControl'
+
 import styles from './filters.module.css'
+
+const genderList = [
+  { value: 'male', label: 'Male' },
+  { value: 'female', label: 'Female' },
+]
+
+const sortByList = [
+  { value: 'total', label: 'Total' },
+  { value: 'sinclair', label: 'Sinclair' },
+]
+
+const federationList = [
+  { value: 'allfeds', label: 'ALL' },
+  { value: 'UK', label: 'UK' },
+  { value: 'US', label: 'US' },
+  { value: 'AUS', label: 'AUS' },
+  { value: 'IWF', label: 'IWF' },
+]
 
 const Filters = ({ currentGender, sortBy, federation, handleGenderChange }) => (
   <div className={styles.filters}>
-      <div className={styles.genderWrapper}>
-          <label htmlFor="genderSelect">Gender</label>
-          <div className={styles.selectContainer}>
-              <select className={styles.select} id="genderSelect" value={currentGender} onChange={(e) => handleGenderChange(e)}>
-                  <option value="male">Male</option>
-                  <option value="female">Female</option>
-              </select>
-          </div>
-      </div>
-      <div className={styles.sinclairWrapper}>
-        <label htmlFor="sortBy">Total/Sinclair</label>
-        <div className={styles.selectContainer}>
-            <select className={styles.select} id="sortBy" value={sortBy} onChange={(e) => handleGenderChange(e)}>
-                <option value="total">Total</option>
-                <option value="sinclair">Sinclair</option>
-        </select>
-        </div>
-      </div>
-      <div className={styles.federationWrapper}>
-          <label htmlFor="federation">Federation</label>
-          <div className={styles.selectContainer}>
-              <select className={styles.select} id="federation" value={federation} onChange={(e) => handleGenderChange(e)}>
-                  <option value="allfeds">ALL</option>
-                  <option value="UK">UK</option>
-                  <option value="US">US</option>
-                  <option value="AUS">AUS</option>
-                  <option value="IWF">IWF</option>
-              </select>
-          </div>
-      </div>
+    <FormControl className={styles.selectContainer}>
+      <InputLabel variant="standard" htmlFor="genderSelect">
+        Gender
+      </InputLabel>
+      <NativeSelect
+        id="genderSelect"
+        label="Gender"
+        value={currentGender}
+        onChange={e =>
+          handleGenderChange({ type: 'gender', value: e.target.value })
+        }
+      >
+        {genderList.map(item => (
+          <option key={item.value} value={item.value}>
+            {item.label}
+          </option>
+        ))}
+      </NativeSelect>
+    </FormControl>
+
+    <FormControl className={styles.selectContainer}>
+      <InputLabel variant="standard" htmlFor="sortBySelect">
+        Total/Sinclair
+      </InputLabel>
+      <NativeSelect
+        id="sortBySelect"
+        label="Total/Sinclair"
+        value={sortBy}
+        onChange={e =>
+          handleGenderChange({ type: 'sortBy', value: e.target.value })
+        }
+      >
+        {sortByList.map(item => (
+          <option key={item.value} value={item.value}>
+            {item.label}
+          </option>
+        ))}
+      </NativeSelect>
+    </FormControl>
+
+    <FormControl className={styles.selectContainer}>
+      <InputLabel variant="standard" htmlFor="federationSelect">
+        Federation
+      </InputLabel>
+      <NativeSelect
+        id="federationSelect"
+        label="Federation"
+        value={federation}
+        onChange={e =>
+          handleGenderChange({ type: 'federation', value: e.target.value })
+        }
+      >
+        {federationList.map(item => (
+          <option key={item.value} value={item.value}>
+            {item.label}
+          </option>
+        ))}
+      </NativeSelect>
+    </FormControl>
   </div>
 )
 
