@@ -20,6 +20,11 @@ func getTest(c *gin.Context) {
 	c.JSON(http.StatusOK, retStruct)
 }
 
+func getSearchName(c *gin.Context) {
+	search := structs.NameSearch{NameStr: c.Query("name")}
+	results := structs.NameSearchResults{}
+}
+
 //Main leaderboard function
 func postLeaderboard(c *gin.Context) {
 	body := structs.LeaderboardPayload{}
@@ -42,10 +47,11 @@ func buildDatabase() (leaderboardTotal *structs.LeaderboardData) {
 	bigData := dbtools.CollateAll()
 	male, female, _ := dbtools.SortGender(bigData) // Throwaway the unknown genders as they're likely really young kids
 	leaderboardTotal = &structs.LeaderboardData{
-		MaleTotals:      dbtools.TopPerformance(male, enum.Total),
-		FemaleTotals:    dbtools.TopPerformance(female, enum.Total),
-		MaleSinclairs:   dbtools.TopPerformance(male, enum.Sinclair),
-		FemaleSinclairs: dbtools.TopPerformance(female, enum.Sinclair),
+		AllNames:        append(male.ProcessNames(), female.ProcessNames()...),
+		MaleTotals:      dbtools.TopPerformance(male.Lifts, enum.Total),
+		FemaleTotals:    dbtools.TopPerformance(female.Lifts, enum.Total),
+		MaleSinclairs:   dbtools.TopPerformance(male.Lifts, enum.Sinclair),
+		FemaleSinclairs: dbtools.TopPerformance(female.Lifts, enum.Sinclair),
 	}
 	return leaderboardTotal
 }
@@ -74,6 +80,7 @@ func main() {
 	}
 	r.GET("test", getTest)
 	r.POST("leaderboard", postLeaderboard)
+	r.GET("search", getSearchName)
 	err := r.Run()
 	if err != nil {
 		log.Fatal("Failed to run server")

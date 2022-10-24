@@ -1,4 +1,4 @@
-package dbtools
+package utilities
 
 import (
 	"encoding/csv"

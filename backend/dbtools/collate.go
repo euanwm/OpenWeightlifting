@@ -1,6 +1,7 @@
 package dbtools
 
 import (
+	"backend/utilities"
 	"log"
 	"os"
 	"path"
@@ -35,7 +36,7 @@ func loadAllFedEvents(federation string) (allEvents [][]string) {
 		log.Fatal(err)
 	}
 	for _, file := range allFiles {
-		eventData := LoadCsvFile(federationPath, file.Name(), true)
+		eventData := utilities.LoadCsvFile(federationPath, file.Name(), true)
 		eventData = insertFederation(eventData, federation)
 		allEvents = append(allEvents, eventData...)
 	}

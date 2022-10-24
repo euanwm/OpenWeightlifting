@@ -4,11 +4,12 @@ import (
 	"backend/enum"
 	"backend/sinclair"
 	"backend/structs"
+	"backend/utilities"
 	"strings"
 )
 
 // SortGender Splits results into 3 categories, male, female, and unknown.
-func SortGender(bigData [][]string) (male []structs.Entry, female []structs.Entry, unknown []structs.Entry) {
+func SortGender(bigData [][]string) (male structs.AllData, female structs.AllData, unknown structs.AllData) {
 	for _, contents := range bigData {
 		dataStruct := assignStruct(contents)
 		gender := setGender(&dataStruct)
@@ -17,14 +18,14 @@ func SortGender(bigData [][]string) (male []structs.Entry, female []structs.Entr
 			if dataStruct.Total > 0 && dataStruct.Total < enum.MaxTotal && dataStruct.Bodyweight > enum.MinimumBodyweight {
 				sinclair.CalcSinclair(&dataStruct, true)
 			}
-			male = append(male, dataStruct)
+			male.Lifts = append(male.Lifts, dataStruct)
 		case enum.Female:
 			if dataStruct.Total > 0 && dataStruct.Total < enum.MaxTotal && dataStruct.Bodyweight > enum.MinimumBodyweight {
 				sinclair.CalcSinclair(&dataStruct, false)
 			}
-			female = append(female, dataStruct)
+			female.Lifts = append(female.Lifts, dataStruct)
 		case enum.Unknown:
-			unknown = append(unknown, dataStruct)
+			unknown.Lifts = append(unknown.Lifts, dataStruct)
 		}
 	}
 	return
@@ -50,16 +51,16 @@ func assignStruct(line []string) (lineStruct structs.Entry) {
 		Date:       line[1],
 		Gender:     line[2],
 		Name:       line[3],
-		Bodyweight: Float(line[4]),
-		Sn1:        Float(line[5]),
-		Sn2:        Float(line[6]),
-		Sn3:        Float(line[7]),
-		CJ1:        Float(line[8]),
-		CJ2:        Float(line[9]),
-		CJ3:        Float(line[10]),
-		BestSn:     Float(line[11]),
-		BestCJ:     Float(line[12]),
-		Total:      Float(line[13]),
+		Bodyweight: utilities.Float(line[4]),
+		Sn1:        utilities.Float(line[5]),
+		Sn2:        utilities.Float(line[6]),
+		Sn3:        utilities.Float(line[7]),
+		CJ1:        utilities.Float(line[8]),
+		CJ2:        utilities.Float(line[9]),
+		CJ3:        utilities.Float(line[10]),
+		BestSn:     utilities.Float(line[11]),
+		BestCJ:     utilities.Float(line[12]),
+		Total:      utilities.Float(line[13]),
 		Sinclair:   0.0,
 		Federation: line[14],
 	}

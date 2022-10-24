@@ -3,6 +3,7 @@ package dbtools
 import (
 	"backend/enum"
 	"backend/structs"
+	"backend/utilities"
 	"sort"
 )
 
@@ -47,7 +48,7 @@ func TopPerformance(bigData []structs.Entry, sortBy string) (finalData []structs
 	var names []string
 	var position []int
 	for i, d := range bigData {
-		if Contains(names, d.Name) == false {
+		if utilities.Contains(names, d.Name) == false {
 			position = append(position, i)
 			names = append(names, d.Name)
 		}

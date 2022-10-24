@@ -2,8 +2,18 @@ package structs
 
 import (
 	"backend/enum"
+	"backend/utilities"
 	"log"
 )
+
+func (e AllData) ProcessNames() (names []string) {
+	for _, lift := range e.Lifts {
+		if utilities.Contains(names, lift.Name) == false {
+			names = append(names, lift.Name)
+		}
+	}
+	return
+}
 
 func (e LeaderboardData) Query(sortBy string, gender string) []Entry {
 	switch sortBy {
