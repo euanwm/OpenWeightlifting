@@ -6,7 +6,20 @@ type TestPayload struct {
 	Sec  int
 }
 
+type AllData struct {
+	Lifts []Entry
+}
+
+type NameSearchResults struct {
+	Names []string `json:"names"`
+}
+
+type NameSearch struct {
+	NameStr string
+}
+
 type LeaderboardData struct {
+	AllNames        []string
 	MaleTotals      []Entry
 	FemaleTotals    []Entry
 	MaleSinclairs   []Entry

@@ -3,6 +3,7 @@ package main
 import (
 	"backend/dbtools"
 	"backend/enum"
+	"backend/lifter"
 	"backend/structs"
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
@@ -18,6 +19,13 @@ func getTest(c *gin.Context) {
 	hour, min, sec := time.Now().Clock()
 	retStruct := structs.TestPayload{Hour: hour, Min: min, Sec: sec}
 	c.JSON(http.StatusOK, retStruct)
+}
+
+func getSearchName(c *gin.Context) {
+	search := structs.NameSearch{NameStr: c.Query("name")}
+	suggestions := lifter.NameSearch(search.NameStr, &processedLeaderboard.AllNames)
+	results := structs.NameSearchResults{Names: processedLeaderboard.FetchNames(suggestions)}
+	c.JSON(http.StatusOK, results)
 }
 
 //Main leaderboard function
@@ -42,10 +50,11 @@ func buildDatabase() (leaderboardTotal *structs.LeaderboardData) {
 	bigData := dbtools.CollateAll()
 	male, female, _ := dbtools.SortGender(bigData) // Throwaway the unknown genders as they're likely really young kids
 	leaderboardTotal = &structs.LeaderboardData{
-		MaleTotals:      dbtools.TopPerformance(male, enum.Total),
-		FemaleTotals:    dbtools.TopPerformance(female, enum.Total),
-		MaleSinclairs:   dbtools.TopPerformance(male, enum.Sinclair),
-		FemaleSinclairs: dbtools.TopPerformance(female, enum.Sinclair),
+		AllNames:        append(male.ProcessNames(), female.ProcessNames()...),
+		MaleTotals:      dbtools.TopPerformance(male.Lifts, enum.Total),
+		FemaleTotals:    dbtools.TopPerformance(female.Lifts, enum.Total),
+		MaleSinclairs:   dbtools.TopPerformance(male.Lifts, enum.Sinclair),
+		FemaleSinclairs: dbtools.TopPerformance(female.Lifts, enum.Sinclair),
 	}
 	return leaderboardTotal
 }
@@ -74,6 +83,7 @@ func main() {
 	}
 	r.GET("test", getTest)
 	r.POST("leaderboard", postLeaderboard)
+	r.GET("search", getSearchName)
 	err := r.Run()
 	if err != nil {
 		log.Fatal("Failed to run server")
