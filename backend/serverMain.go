@@ -3,6 +3,7 @@ package main
 import (
 	"backend/dbtools"
 	"backend/enum"
+	"backend/lifter"
 	"backend/structs"
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
@@ -22,7 +23,9 @@ func getTest(c *gin.Context) {
 
 func getSearchName(c *gin.Context) {
 	search := structs.NameSearch{NameStr: c.Query("name")}
-	results := structs.NameSearchResults{}
+	suggestions := lifter.NameSearch(search.NameStr, &processedLeaderboard.AllNames)
+	results := structs.NameSearchResults{Names: processedLeaderboard.FetchNames(suggestions)}
+	c.JSON(http.StatusOK, results)
 }
 
 //Main leaderboard function

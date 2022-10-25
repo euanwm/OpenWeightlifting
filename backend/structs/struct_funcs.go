@@ -6,6 +6,13 @@ import (
 	"log"
 )
 
+func (e LeaderboardData) FetchNames(posSlice []int) (names []string) {
+	for _, position := range posSlice {
+		names = append(names, e.AllNames[position])
+	}
+	return
+}
+
 func (e AllData) ProcessNames() (names []string) {
 	for _, lift := range e.Lifts {
 		if utilities.Contains(names, lift.Name) == false {
