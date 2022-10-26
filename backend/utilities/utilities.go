@@ -3,9 +3,9 @@ package utilities
 import (
 	"encoding/csv"
 	"fmt"
+	"io"
 	"log"
 	"os"
-	"path"
 	"strconv"
 )
 
@@ -27,15 +27,10 @@ func Contains(sl []string, name string) bool {
 }
 
 // LoadCsvFile Returns the contents of a CSV file as a nested slice with an option to skip the header line but in a lazy AF way
-func LoadCsvFile(folder string, filename string, skipHeader bool) (csvContents [][]string) {
-	filepath := path.Join(folder, filename)
-	openFile, err := os.Open(filepath)
-	if err != nil {
-		log.Fatal(err)
-	}
-	reader := csv.NewReader(openFile)
+func LoadCsvFile(file io.Reader, skipHeader bool) (csvContents [][]string) {
+	reader := csv.NewReader(file)
 	csvContents, _ = reader.ReadAll()
-	if skipHeader == true {
+	if skipHeader {
 		return csvContents[1:]
 	}
 	return csvContents
