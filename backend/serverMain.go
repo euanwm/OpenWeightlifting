@@ -29,6 +29,10 @@ func getSearchName(c *gin.Context) {
 	c.JSON(http.StatusOK, results)
 }
 
+func getLifterRecord(c *gin.Context) {
+	// Yep...
+}
+
 //Main leaderboard function
 func postLeaderboard(c *gin.Context) {
 	body := structs.LeaderboardPayload{}
