@@ -21,7 +21,7 @@ const fetchLifterData = async (
     federation,
   })
 
-  const res = await fetch('https://api.openweightlifting.org/leaderboard', {
+  const res = await fetch(`${process.env.API}/leaderboard`, {
     method: 'POST',
     headers: {
       Accept: '*/*',
@@ -91,7 +91,12 @@ const Home = ({ data }) => {
 }
 
 export async function getServerSideProps() {
-  const data = await fetchLifterData()
+  let data;
+  try {
+    data = await fetchLifterData()
+  } catch {
+    data = []
+  }
 
   return { props: { data } }
 }

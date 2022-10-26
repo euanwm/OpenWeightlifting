@@ -1,17 +1,19 @@
 # base image
 FROM node:18.7.0
+ARG API
+ENV API $API
 
-# set working directory
-RUN mkdir /usr/src/app
 WORKDIR /usr/src/app
 
-# add `/usr/src/app/node_modules/.bin` to $PATH
-ENV PATH /usr/src/app/node_modules/.bin:$PATH
-
 # install and cache app dependencies
-COPY package.json /usr/src/app/package.json
+COPY package.json package-lock.json .
 RUN npm install
-RUN npm install react-scripts@1.1.1 -g
+
+# copy the rest of the files
+COPY . .
+
+# build
+RUN --mount=type=cache,target=/usr/src/app/.next/cache npm run build
 
 # start app
 CMD ["npm", "start"]

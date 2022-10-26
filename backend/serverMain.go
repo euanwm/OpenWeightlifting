@@ -5,12 +5,13 @@ import (
 	"backend/enum"
 	"backend/lifter"
 	"backend/structs"
-	"github.com/gin-contrib/cors"
-	"github.com/gin-gonic/gin"
 	"log"
 	"net/http"
 	"os"
 	"time"
+
+	"github.com/gin-contrib/cors"
+	"github.com/gin-gonic/gin"
 )
 
 var processedLeaderboard = buildDatabase()
