@@ -1,13 +1,11 @@
 package dbtools
 
 import (
+	database "backend/database_root"
 	"backend/utilities"
 	"log"
-	"os"
 	"path"
 )
-
-const databaseRoot string = "database_root"
 
 func CollateAll() (allData [][]string) {
 	dirs := getFedDirs()
@@ -30,15 +28,21 @@ func insertFederation(event [][]string, federation string) (newEventData [][]str
 
 //Returns an unsorted nested slice of all events from a single federation/organiser
 func loadAllFedEvents(federation string) (allEvents [][]string) {
-	federationPath := path.Join(databaseRoot, federation)
-	allFiles, err := os.ReadDir(federationPath)
+	allFiles, err := database.Database.ReadDir(federation)
 	if err != nil {
 		log.Fatal(err)
 	}
 	for _, file := range allFiles {
-		eventData := utilities.LoadCsvFile(federationPath, file.Name(), true)
-		eventData = insertFederation(eventData, federation)
-		allEvents = append(allEvents, eventData...)
+		func() {
+			fileHandle, err := database.Database.Open(path.Join(federation, file.Name()))
+			if err != nil {
+				log.Fatal(err)
+			}
+			defer fileHandle.Close()
+			eventData := utilities.LoadCsvFile(fileHandle, true)
+			eventData = insertFederation(eventData, federation)
+			allEvents = append(allEvents, eventData...)
+		}()
 	}
 	return
 }
@@ -46,7 +50,7 @@ func loadAllFedEvents(federation string) (allEvents [][]string) {
 //Returns a slice of the named directories within the database.
 //All directories must be named by federation/organiser.
 func getFedDirs() (federationDirs []string) {
-	dirs, err := os.ReadDir(databaseRoot)
+	dirs, err := database.Database.ReadDir(".")
 	if err != nil {
 		log.Fatal(err)
 	}
