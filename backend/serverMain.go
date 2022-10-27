@@ -14,7 +14,7 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
-var processedLeaderboard = buildDatabase()
+var processedLeaderboard structs.LeaderboardData
 
 func getTest(c *gin.Context) {
 	hour, min, sec := time.Now().Clock()
@@ -46,18 +46,18 @@ func postLeaderboard(c *gin.Context) {
 	}
 }
 
-func buildDatabase() (leaderboardTotal *structs.LeaderboardData) {
+func buildDatabase() {
 	log.Println("buildDatabase called...")
 	bigData := dbtools.CollateAll()
 	male, female, _ := dbtools.SortGender(bigData) // Throwaway the unknown genders as they're likely really young kids
-	leaderboardTotal = &structs.LeaderboardData{
+	leaderboardTotal := &structs.LeaderboardData{
 		AllNames:        append(male.ProcessNames(), female.ProcessNames()...),
 		MaleTotals:      dbtools.TopPerformance(male.Lifts, enum.Total),
 		FemaleTotals:    dbtools.TopPerformance(female.Lifts, enum.Total),
 		MaleSinclairs:   dbtools.TopPerformance(male.Lifts, enum.Sinclair),
 		FemaleSinclairs: dbtools.TopPerformance(female.Lifts, enum.Sinclair),
 	}
-	return leaderboardTotal
+	processedLeaderboard = *leaderboardTotal
 }
 
 func CORSConfig(localEnv bool) cors.Config {
@@ -75,6 +75,7 @@ func CORSConfig(localEnv bool) cors.Config {
 }
 
 func main() {
+	go buildDatabase()
 	r := gin.Default()
 	//It's not a great solution but it'll work
 	if len(os.Args) > 1 && os.Args[1] == "local" {
