@@ -12,22 +12,14 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        node-version: [18.x]
     steps:
     - uses: actions/checkout@v3
-    - name: Use Node.js ${{ matrix.node-version }}
+    - name: Use Node.js 18.X
       uses: actions/setup-node@v3
       with:
-        node-version: ${{ matrix.node-version }}
+        node-version: "18.X"
         cache: 'npm'
-    - run: |
-        cd frontend/
-        npm ci
-    - run: |
-        cd frontend/    
-        npm run build --if-present
-    - run: |
-        cd frontend/
-        npm test
+        cache-dependency-path: frontend/package-lock.json
+    - run: npm ci
+    - run: npm run build --if-present
+    - run: npm test
