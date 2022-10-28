@@ -17,6 +17,12 @@ func NameSearch(nameStr string, nameList *[]string) (namePositions []int) {
 }
 
 // FetchLifts should use the exact string provided (case-sensitive) by NameSearch
-func FetchLifts(name structs.NameSearch) (lifts structs.LifterHistory) {
+func FetchLifts(name structs.NameSearch, leaderboard *structs.LeaderboardData) (lifterData structs.LifterHistory) {
+	lifterData.NameStr = name.NameStr
+	for _, lift := range leaderboard.AllData {
+		if lift.Name == name.NameStr {
+			lifterData.Lifts = append(lifterData.Lifts, lift)
+		}
+	}
 	return
 }
