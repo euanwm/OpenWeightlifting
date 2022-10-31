@@ -5,6 +5,7 @@ import (
 	"backend/structs"
 	"backend/utilities"
 	"sort"
+	"time"
 )
 
 //FilterFederation - Returns a slice of structs relating to the selected federation
@@ -35,6 +36,17 @@ func SortTotal(sliceStructs []structs.Entry) {
 	sort.Slice(sliceStructs, func(i, j int) bool {
 		return sliceStructs[i].Total > sliceStructs[j].Total
 	})
+}
+
+// SortDate Ascending order by lift date
+func SortDate(liftData []structs.Entry) []structs.Entry {
+	const rfc3339partial string = "T15:04:05Z" // todo - manually subscribe to the RFC3339 string instead (?)
+	sort.Slice(liftData, func(i, j int) bool {
+		liftI, _ := time.Parse(time.RFC3339, liftData[i].Date+rfc3339partial)
+		liftJ, _ := time.Parse(time.RFC3339, liftData[j].Date+rfc3339partial)
+		return liftI.Before(liftJ)
+	})
+	return liftData
 }
 
 func TopPerformance(bigData []structs.Entry, sortBy string) (finalData []structs.Entry) {

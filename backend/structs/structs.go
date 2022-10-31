@@ -18,8 +18,14 @@ type NameSearch struct {
 	NameStr string
 }
 
+type LifterHistory struct {
+	NameStr string  `json:"name"`
+	Lifts   []Entry `json:"lifts"`
+}
+
 type LeaderboardData struct {
 	AllNames        []string
+	AllData         []Entry
 	MaleTotals      []Entry
 	FemaleTotals    []Entry
 	MaleSinclairs   []Entry
