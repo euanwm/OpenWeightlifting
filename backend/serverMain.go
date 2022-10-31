@@ -35,6 +35,7 @@ func postLifterRecord(c *gin.Context) {
 		c.AbortWithError(http.StatusBadRequest, err)
 	}
 	lifterDetails := lifter.FetchLifts(lifterSearch, &processedLeaderboard)
+	lifterDetails.Lifts = dbtools.SortDate(lifterDetails.Lifts)
 	c.JSON(http.StatusOK, lifterDetails)
 }
 
