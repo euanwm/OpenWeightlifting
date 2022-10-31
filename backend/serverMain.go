@@ -36,7 +36,11 @@ func postLifterRecord(c *gin.Context) {
 	}
 	lifterDetails := lifter.FetchLifts(lifterSearch, &processedLeaderboard)
 	lifterDetails.Lifts = dbtools.SortDate(lifterDetails.Lifts)
-	c.JSON(http.StatusOK, lifterDetails)
+	if len(lifterDetails.Lifts) != 0 {
+		c.JSON(http.StatusOK, lifterDetails)
+	} else if len(lifterDetails.Lifts) == 0 {
+		c.JSON(http.StatusNoContent, nil)
+	}
 }
 
 //Main leaderboard function
