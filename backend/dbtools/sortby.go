@@ -49,14 +49,14 @@ func SortDate(liftData []structs.Entry) []structs.Entry {
 	return liftData
 }
 
-func TopPerformance(bigData []structs.Entry, sortBy string) (finalData []structs.Entry) {
+func TopPerformance(bigData []structs.Entry, sortBy string, maxSize int) (finalData []structs.Entry) {
 	switch sortBy {
 	case enum.Total:
 		SortTotal(bigData)
 	case enum.Sinclair:
 		SortSinclair(bigData)
 	}
-	bigData = dropBombs(bigData)
+	//bigData = dropBombs(bigData) may need this in the future
 	var names []string
 	var position []int
 	for i, d := range bigData {
@@ -64,9 +64,12 @@ func TopPerformance(bigData []structs.Entry, sortBy string) (finalData []structs
 			position = append(position, i)
 			names = append(names, d.Name)
 		}
+		if len(names) == maxSize {
+			break
+		}
 	}
-	for _, position := range position {
-		finalData = append(finalData, bigData[position])
+	for _, posInt := range position {
+		finalData = append(finalData, bigData[posInt])
 	}
 	return
 }
