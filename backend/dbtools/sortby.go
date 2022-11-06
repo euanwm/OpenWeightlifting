@@ -21,6 +21,9 @@ func FilterFederation(bigData []structs.Entry, federation string, start int, sto
 			return
 		}
 	}
+	if len(filteredData[start:]) < sliceLen {
+		return filteredData[start:]
+	}
 	return filteredData[start:stop]
 }
 
