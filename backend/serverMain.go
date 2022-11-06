@@ -64,7 +64,7 @@ func buildDatabase() {
 	log.Println("buildDatabase called...")
 	bigData := dbtools.CollateAll()
 	male, female, _ := dbtools.SortGender(bigData) // Throwaway the unknown genders as they're likely really young kids
-	const maxSize int = 1000
+	const maxSize int = 5000
 	leaderboardTotal := &structs.LeaderboardData{
 		AllNames:        append(male.ProcessNames(), female.ProcessNames()...),
 		AllData:         append(male.Lifts, female.Lifts...),
