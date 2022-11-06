@@ -1,0 +1,73 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+III South American Youth Games,2022-05-06,55 kg Men,TORRES Benjamin,54.60,85,89,93,105,-110,111,93,111,204
+III South American Youth Games,2022-05-06,55 kg Men,FLORES GARCIA Yohanderson Jose,54.40,-82,82,85,105,109,113,85,113,198
+III South American Youth Games,2022-05-06,55 kg Men,VARGAS MOYA Reny Sebastian,54.80,81,-84,-84,104,-109,110,81,110,191
+III South American Youth Games,2022-05-06,55 kg Men,MEZA Domingo Francisco,52.60,65,70,75,90,95,-100,75,95,170
+III South American Youth Games,2022-05-06,61 kg Men,BLANDON PENA Luis Alfonso,60.20,103,108,110,132,-137,-139,110,132,242
+III South American Youth Games,2022-05-06,61 kg Men,GARCIA SISO David Alejandro,60.80,105,-109,109,131,139,-143,109,139,248
+III South American Youth Games,2022-05-06,61 kg Men,TAVARES DE OLIVEIRA Mateus,59.80,85,90,95,108,112,115,95,115,210
+III South American Youth Games,2022-05-06,61 kg Men,GARCIA CAYCHO Claudio,60.00,85,88,91,106,109,-112,91,109,200
+III South American Youth Games,2022-05-06,61 kg Men,RUIZ DIAZ Tobias Ali,58.30,86,90,-93,115,-121,121,90,121,211
+III South American Youth Games,2022-05-06,67 kg Men,ELIZALDE CASTRO Franchesco Joel,66.00,108,112,117,120,130,134,117,134,251
+III South American Youth Games,2022-05-06,67 kg Men,RODRIGUEZ Angel,65.40,106,112,116,125,-132,-136,116,125,241
+III South American Youth Games,2022-05-06,67 kg Men,ESTUPINAN VACACELA Erick Wellington,64.10,96,100,104,122,126,131,104,131,235
+III South American Youth Games,2022-05-06,67 kg Men,NASCIMENTO COSTA Joao Victor,65.80,95,100,-105,120,125,-131,100,125,225
+III South American Youth Games,2022-05-06,67 kg Men,OSUNA PENA Luis Miguel,65.00,92,97,100,117,121,127,100,127,227
+III South American Youth Games,2022-05-06,67 kg Men,AVALOS Lautaro Benjamin,66.10,88,92,95,117,121,-127,95,121,216
+III South American Youth Games,2022-05-06,67 kg Men,TORRES VASQUEZ Sebastian Ignacio,66.30,-90,90,-95,110,116,120,90,120,210
+III South American Youth Games,2022-05-06,67 kg Men,BOGADO Kyle,66.70,-90,-90,90,115,121,125,90,125,215
+III South American Youth Games,2022-05-06,67 kg Men,MARTINEZ MARTINEZ Guillermo,65.40,70,76,-80,90,-96,96,76,96,172
+III South American Youth Games,2022-05-06,73 kg Men,SILVA ANGULO Hidver,71.20,98,101,-103,125,129,131,101,131,232
+III South American Youth Games,2022-05-06,73 kg Men,ROLDAN MENDEZ Jandry Leonel,72.30,-96,96,100,121,-127,131,100,131,231
+III South American Youth Games,2022-05-06,73 kg Men,CABRAL Julian,70.70,91,-96,96,112,116,118,96,118,214
+III South American Youth Games,2022-05-06,73 kg Men,GARCIA CORREA Miguel Angel,71.40,-95,95,-97,-114,114,118,95,118,213
+III South American Youth Games,2022-05-06,81 kg Men,RAMOS DIAZ Felipe,79.80,110,115,119,140,145,150,119,150,269
+III South American Youth Games,2022-05-06,81 kg Men,RAMIREZ MARTINEZ Elkin Shamir,78.20,110,115,118,142,147,152,118,152,270
+III South American Youth Games,2022-05-06,81 kg Men,MONTOYA MAYO Ronaldo Andres,79.40,-114,114,-118,135,140,-145,114,140,254
+III South American Youth Games,2022-05-06,81 kg Men,OLIVERA DELFINO Ramiro Valentin,75.50,-105,105,110,145,157,-161,110,157,267
+III South American Youth Games,2022-05-06,81 kg Men,IGLESIA Juan,78.20,90,95,-100,-117,-117,-117,95,0,0
+III South American Youth Games,2022-05-06,81 kg Men,CASTILLO Adriano,78.00,84,87,-90,-112,112,116,87,116,203
+III South American Youth Games,2022-05-06,+81 kg Men,MARTINEZ ROBLEDO Jhon Mario,113.30,127,130,135,155,160,170,135,170,305
+III South American Youth Games,2022-05-06,+81 kg Men,ASTO SAITEROS Kevin Mateo,116.30,120,125,128,152,156,160,128,160,288
+III South American Youth Games,2022-05-06,+81 kg Men,LEON AVELLA Carlos Enrique,90.90,116,121,126,145,153,-163,126,153,279
+III South American Youth Games,2022-05-06,+81 kg Men,DE SOUSA PESSANHA Matheus,89.90,110,-115,116,142,150,-155,116,150,266
+III South American Youth Games,2022-05-06,+81 kg Men,MESA Joaquin,92.00,107,112,115,130,135,-144,115,135,250
+III South American Youth Games,2022-05-06,+81 kg Men,REVECO MARCHANT Simon Eduardo,96.20,105,-110,110,122,127,131,110,131,241
+III South American Youth Games,2022-05-06,45 kg Women,ESTRADA VELEZ Lawren Sofia,41.30,52,54,56,67,70,73,56,73,129
+III South American Youth Games,2022-05-06,45 kg Women,ARREAGA CHICA Samantha Dalila,44.60,51,-54,-55,64,67,-70,51,67,118
+III South American Youth Games,2022-05-06,45 kg Women,TEZEN MONTERO Shany Tabita Elena,43.30,-45,45,47,63,65,-68,47,65,112
+III South American Youth Games,2022-05-06,49 kg Women,MONTILLA MADRID Kerlys Maria,47.70,65,69,71,85,90,-94,71,90,161
+III South American Youth Games,2022-05-06,49 kg Women,ALVES DE SOUZA TAVARES Giovanna,48.70,61,66,70,80,-85,-85,70,80,150
+III South American Youth Games,2022-05-06,49 kg Women,GREFA VARGAS Nayeli Cristina,48.30,-60,60,-63,73,76,-78,60,76,136
+III South American Youth Games,2022-05-06,49 kg Women,VEGA Magali Ailen,48.00,54,57,60,68,72,77,60,77,137
+III South American Youth Games,2022-05-06,55 kg Women,FERNANDEZ Violeta,51.90,65,68,-71,75,80,-83,68,80,148
+III South American Youth Games,2022-05-06,55 kg Women,MONZON PICHETTI Luana,54.60,57,-60,61,71,73,75,61,75,136
+III South American Youth Games,2022-05-06,55 kg Women,GONZALEZ SERRANO Marianny Greidimar,52.40,-56,56,60,70,73,75,60,75,135
+III South American Youth Games,2022-05-06,55 kg Women,DE LIMA SANTOS Beatriz Kamille,53.20,55,-58,60,-71,73,76,60,76,136
+III South American Youth Games,2022-05-06,55 kg Women,MURILLO LEMOS Nicol Dayhana,54.10,-70,-70,-70,0,0,0,0,0,0
+III South American Youth Games,2022-05-06,55 kg Women,MONCAYO FUENTES Brithany Judith,54.00,-67,-67,-67,0,0,0,0,0,0
+III South American Youth Games,2022-05-06,59 kg Women,RENGIFO CHIRINOS Claudia Alejandra,58.30,77,81,83,95,-100,100,83,100,183
+III South American Youth Games,2022-05-06,59 kg Women,SINISTERRA ANGULO Dubaney,56.60,76,80,82,97,100,104,82,104,186
+III South American Youth Games,2022-05-06,59 kg Women,PALACIOS DAJOME Jessica Isabel,57.50,74,78,81,95,99,103,81,103,184
+III South American Youth Games,2022-05-06,59 kg Women,AYALA Milena Madelein,57.10,70,73,75,88,92,97,75,97,172
+III South American Youth Games,2022-05-06,59 kg Women,DA SILVA PIOVESAN Marcella,58.20,-67,69,73,80,-84,-86,73,80,153
+III South American Youth Games,2022-05-06,59 kg Women,LUQUE MATAMALA Aneliz Yoceliana,59.10,65,69,-72,82,-86,86,69,86,155
+III South American Youth Games,2022-05-06,59 kg Women,DOMINGUEZ VASQUEZ Dana Xiomara,57.60,57,60,63,76,79,82,63,82,145
+III South American Youth Games,2022-05-06,64 kg Women,SEGURA GRUESO Ingrid Vanesa,63.10,84,89,92,107,112,-114,92,112,204
+III South American Youth Games,2022-05-06,64 kg Women,SILVA FERNANDEZ Keily Carolina,62.10,75,82,-85,90,98,102,82,102,184
+III South American Youth Games,2022-05-06,64 kg Women,CALIXTO PALACIOS Jacqueline Alexa,60.10,66,69,71,85,89,-93,71,89,160
+III South American Youth Games,2022-05-06,64 kg Women,PAREDES VASQUEZ Jheysi Dayana,63.10,65,68,70,85,89,93,70,93,163
+III South American Youth Games,2022-05-06,64 kg Women,APARICIO Kelly,63.50,63,67,-69,84,87,-90,67,87,154
+III South American Youth Games,2022-05-06,64 kg Women,BASUALDO Melody Brisila,62.60,-63,63,-68,80,85,-90,63,85,148
+III South American Youth Games,2022-05-06,64 kg Women,LOPEZ Julieta,63.00,60,-64,-64,83,87,-92,60,87,147
+III South American Youth Games,2022-05-06,64 kg Women,ZAPATA TRONCOSO Alanis Thamar,63.20,60,-63,-63,-75,75,80,60,80,140
+III South American Youth Games,2022-05-06,64 kg Women,CAPIA FLORES Anali,62.70,45,53,-56,65,70,-74,53,70,123
+III South American Youth Games,2022-05-06,64 kg Women,COUTINHO DE BRITO Eduarda,62.00,-50,50,-54,60,65,70,50,70,120
+III South American Youth Games,2022-05-06,+64 kg Women,TYSFOROD RIVAS Yairan Sofia,104.20,85,95,-100,108,115,121,95,121,216
+III South American Youth Games,2022-05-06,+64 kg Women,PAVON FUENTES Leidy Pamela,115.80,-80,80,85,100,105,110,85,110,195
+III South American Youth Games,2022-05-06,+64 kg Women,MARCHIONNI Yamila Juliana,142.00,71,75,79,93,98,105,79,105,184
+III South American Youth Games,2022-05-06,+64 kg Women,MARTINEZ Mariangela,75.20,75,-79,79,94,99,106,79,106,185
+III South American Youth Games,2022-05-06,+64 kg Women,ROCHA GRIMALDI RIZZO Laila,71.20,70,75,78,-82,83,-89,78,83,161
+III South American Youth Games,2022-05-06,+64 kg Women,MAYORGA IGOR Constanza Muriel A,67.10,60,65,70,83,88,-92,70,88,158
+III South American Youth Games,2022-05-06,+64 kg Women,GONZALES MANCILLA Malena,72.80,50,55,58,65,70,75,58,75,133
+III South American Youth Games,2022-05-06,+64 kg Women,ZARATE Elena,65.20,53,-56,-57,63,-68,-75,53,63,116

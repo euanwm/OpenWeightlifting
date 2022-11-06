@@ -1,0 +1,51 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+WIT House LDN Autumn Open,2022-10-22,Men's Senior 89Kg,Jack Saunders,88.05,95,100,-105,120,125,130,100,130,230
+WIT House LDN Autumn Open,2022-10-22,Men's Senior 102Kg,Maximilian Nagy,97.5,92,-96,-98,-120,-124,124,92,124,216
+WIT House LDN Autumn Open,2022-10-22,Men's Senior 109+Kg,michael markunas,118.1,-85,90,-97,115,120,125,90,125,215
+WIT House LDN Autumn Open,2022-10-22,Men's Under 23 89Kg,Ygor Alvarez Azevedo,84.85,89,92,96,112,116,-122,96,116,212
+WIT House LDN Autumn Open,2022-10-22,Men's Senior 61Kg,Seth Casidsid,60.5,87,-91,91,-113,113,116,91,116,207
+WIT House LDN Autumn Open,2022-10-22,Men's Senior 96Kg,Jordan-Sonny Archer-Murphy,92,88,-93,-95,107,113,-120,88,113,201
+WIT House LDN Autumn Open,2022-10-22,Men's Senior 81Kg,Christian Beltran,79.75,85,90,93,105,-108,-112,93,105,198
+WIT House LDN Autumn Open,2022-10-22,Men's Senior 81Kg,Benjamin Johnson,80.4,83,-87,-90,105,110,-115,83,110,193
+WIT House LDN Autumn Open,2022-10-22,Men's Senior 81Kg,Tetsuo Hayashi,78.2,75,80,85,100,105,-110,85,105,190
+WIT House LDN Autumn Open,2022-10-22,Men's Senior 81Kg,Thomas Volpato,79.25,80,85,-90,101,-106,-106,85,101,186
+WIT House LDN Autumn Open,2022-10-22,Men's Senior 96Kg,RAYAN BANNAI,93.9,68,73,78,95,-103,106,78,106,184
+WIT House LDN Autumn Open,2022-10-22,Women's Senior 87Kg,Alexandra Cave,82.6,73,77,81,96,101,-106,81,101,182
+WIT House LDN Autumn Open,2022-10-22,Men's Under 23 81Kg,Rupert Yeung,80.55,70,75,-81,-100,102,106,75,106,181
+WIT House LDN Autumn Open,2022-10-22,Men's Senior 67Kg,Federico Mondelli,66.05,73,78,-82,90,-95,97,78,97,175
+WIT House LDN Autumn Open,2022-10-22,Men's Senior 89Kg,Prince Haastrup,82.5,70,-75,-80,90,95,105,70,105,175
+WIT House LDN Autumn Open,2022-10-22,Men's Senior 89Kg,Samuel Jularbal,88,70,73,-76,93,96,101,73,101,174
+WIT House LDN Autumn Open,2022-10-22,Women's Senior 71Kg,Zoe Goodchild,70.3,75,79,-83,90,95,-100,79,95,174
+WIT House LDN Autumn Open,2022-10-22,Men's Masters (40-44) 89Kg,Richard Rigby,86.6,70,75,-80,-95,-95,95,75,95,170
+WIT House LDN Autumn Open,2022-10-22,Men's Senior 89Kg,Luke Wells,83.15,58,61,66,87,90,95,66,95,161
+WIT House LDN Autumn Open,2022-10-22,Men's Senior 81Kg,George Winfield,79.1,58,62,-66,90,95,-100,62,95,157
+WIT House LDN Autumn Open,2022-10-22,Men's Senior 67Kg,Chris Milsom,65.65,62,-65,66,83,87,90,66,90,156
+WIT House LDN Autumn Open,2022-10-22,Women's Senior 81Kg,Laura Cook,79.8,63,66,70,83,86,-88,70,86,156
+WIT House LDN Autumn Open,2022-10-22,Men's Senior 73Kg,Yoofi Essilfie-Conduah,71.5,62,66,-70,83,86,89,66,89,155
+WIT House LDN Autumn Open,2022-10-22,Men's Junior Under 20 61Kg,Rhys Hall,56.35,62,65,69,78,82,86,69,86,155
+WIT House LDN Autumn Open,2022-10-22,Men's Senior 89Kg,Kevin Synnott,88.85,60,65,-68,87,-90,90,65,90,155
+WIT House LDN Autumn Open,2022-10-22,Men's Senior 81Kg,Sean Goh,75.45,57,60,-63,84,88,92,60,92,152
+WIT House LDN Autumn Open,2022-10-22,Women's Masters (35-39) 71Kg,Emilia Budahazy,69.8,60,63,66,75,79,83,66,83,149
+WIT House LDN Autumn Open,2022-10-22,Women's Masters (40-44) 71Kg,Samantha Bunker,70.25,65,-68,-69,75,78,81,65,81,146
+WIT House LDN Autumn Open,2022-10-22,Women's Masters (40-44) 87Kg,elizabeth Williams,86.4,55,59,62,75,80,-83,62,80,142
+WIT House LDN Autumn Open,2022-10-22,Women's Senior 59Kg,Sulakhsna Gunnoo,59,60,63,-66,70,74,-80,63,74,137
+WIT House LDN Autumn Open,2022-10-22,Women's Senior 76Kg,Georgie Dawson,75.9,60,-63,-65,-77,77,-82,60,77,137
+WIT House LDN Autumn Open,2022-10-22,Women's Senior 59Kg,sheryll pak,57.1,53,-56,56,65,69,-73,56,69,125
+WIT House LDN Autumn Open,2022-10-22,Women's Senior 59Kg,Harriet Renkin,55.85,50,-53,-55,71,73,75,50,75,125
+WIT House LDN Autumn Open,2022-10-22,Women's Senior 81Kg,Milly Fawcett,78.4,-50,50,55,-65,67,70,55,70,125
+WIT House LDN Autumn Open,2022-10-22,Women's Senior 76Kg,Kristina Utting,75,52,-54,55,61,65,-67,55,65,120
+WIT House LDN Autumn Open,2022-10-22,Women's Masters (35-39) 64Kg,Rhiannon Coleman,61.9,45,48,-51,65,68,-71,48,68,116
+WIT House LDN Autumn Open,2022-10-22,Women's Senior 55Kg,Sophie Fielding,54.55,50,-53,53,62,-65,-65,53,62,115
+WIT House LDN Autumn Open,2022-10-22,Women's Under 23 64Kg,Mollie Ruler,63.45,-48,48,51,60,-63,64,51,64,115
+WIT House LDN Autumn Open,2022-10-22,Women's Senior 59Kg,Sapna Chandaria,58.25,45,48,50,60,-64,64,50,64,114
+WIT House LDN Autumn Open,2022-10-22,Women's Senior 59Kg,Alexia Shao,57.55,45,-48,50,55,59,64,50,64,114
+WIT House LDN Autumn Open,2022-10-22,Women's Masters (35-39) 55Kg,Chloe Motion,54.6,45,48,-50,55,58,-60,48,58,106
+WIT House LDN Autumn Open,2022-10-22,Women's Senior 59Kg,Kerry Jumawan,58.45,43,45,47,51,53,-55,47,53,100
+WIT House LDN Autumn Open,2022-10-22,Women's Senior 71Kg,Sofia Gjertsson,70.3,41,43,45,-52,53,55,45,55,100
+WIT House LDN Autumn Open,2022-10-22,Women's Senior 81Kg,Maya Darnton,76.1,39,41,44,55,-58,-60,44,55,99
+WIT House LDN Autumn Open,2022-10-22,Women's Masters (35-39) 64Kg,Melanie Mihill,59.2,40,-42,-42,-57,57,-59,40,57,97
+WIT House LDN Autumn Open,2022-10-22,Women's Masters (35-39) 87+Kg,Siobhan Nolan,101.5,37,-41,-41,55,-59,59,37,59,96
+WIT House LDN Autumn Open,2022-10-22,Women's Masters (40-44) 87Kg,Claire barclay,86.5,36,-38,-40,-55,55,-59,36,55,91
+WIT House LDN Autumn Open,2022-10-22,Women's Senior 55Kg,Rebecca Hoskyns,50.2,27,-29,30,34,38,41,30,41,71
+WIT House LDN Autumn Open,2022-10-22,Women's Senior 59Kg,Mehnaz Patel,58.55,-22,22,24,25,-28,29,24,29,53
+WIT House LDN Autumn Open,2022-10-22,Women's Senior 55Kg,Emily Przeslak,53.65,42,44,46,-53,-54,-54,46,0,0
