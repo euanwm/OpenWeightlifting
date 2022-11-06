@@ -1,0 +1,184 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+Asian Championships,2022-10-06,55 kg Men,GIA THANH Lai,54.97,118,120,-123,142,-146,-146,120,142,262
+Asian Championships,2022-10-06,55 kg Men,AL SALEEM Mansour,54.48,113,-117,119,135,140,-145,119,140,259
+Asian Championships,2022-10-06,55 kg Men,CHONTEY Arli,54.95,113,116,-118,137,140,144,116,144,260
+Asian Championships,2022-10-06,55 kg Men,JR. AGAD Fernando,54.88,-108,108,-112,135,-139,-141,108,135,243
+Asian Championships,2022-10-06,55 kg Men,ADI NUGROHO Satrio,54.68,-107,107,-112,-136,138,-141,107,138,245
+Asian Championships,2022-10-06,55 kg Men,ABDULLAH ANBAR AHMED M. Basel,51.53,70,76,79,90,98,103,79,103,182
+Asian Championships,2022-10-06,55 kg Men,NASOD Thy,54.19,-75,75,-78,95,98,-102,75,98,173
+Asian Championships,2022-10-06,61 kg Men,JIA Xionghui,60.74,135,140,-146,147,-156,156,140,156,296
+Asian Championships,2022-10-06,61 kg Men,TRAN ANH TUAN Nguyen,60.65,126,132,134,156,161,-164,134,161,295
+Asian Championships,2022-10-06,61 kg Men,SAPUTRA Ricko,60.44,125,131,133,158,-164,-164,133,158,291
+Asian Championships,2022-10-06,61 kg Men,ALSALEEM Seraj,60.71,116,120,124,148,-155,-155,124,148,272
+Asian Championships,2022-10-06,61 kg Men,SINGH CHANAMBAM Rishikanta,60.82,-117,117,120,147,-151,151,120,151,271
+Asian Championships,2022-10-06,61 kg Men,ASKARI Majid,60.96,110,-117,117,126,132,-140,117,132,249
+Asian Championships,2022-10-06,61 kg Men,THIRUMURUGAN Madhavan,60.86,116,-120,-120,140,144,147,116,147,263
+Asian Championships,2022-10-06,61 kg Men,MATKERIMOV Ihtiyor,60.95,116,-119,-120,140,-145,-145,116,140,256
+Asian Championships,2022-10-06,61 kg Men,ALIYEV Otepbergen,60.96,115,-121,-121,145,-150,-150,115,145,260
+Asian Championships,2022-10-06,61 kg Men,ANIQ KASDAN Mohamad,60.42,108,113,-117,143,150,160,113,160,273
+Asian Championships,2022-10-06,61 kg Men,WANG Chu-Yang,60.84,110,-115,-115,-130,130,-135,110,130,240
+Asian Championships,2022-10-06,61 kg Men,MURATBEK UULU Ishimbek,60.57,108,-115,-115,142,-150,150,108,150,258
+Asian Championships,2022-10-06,61 kg Men,KALITIT Ali,59.92,96,100,-105,116,121,125,100,125,225
+Asian Championships,2022-10-06,61 kg Men,ABU BAKAR Nashrul,60.83,92,96,100,123,-127,-128,100,123,223
+Asian Championships,2022-10-06,61 kg Men,TANG Chi-Chung,60.77,-110,-110,-110,135,-141,-141,0,135,0
+Asian Championships,2022-10-06,67 kg Men,ERGASHEV Adkhamjon,66.92,134,-138,138,169,173,176,138,176,314
+Asian Championships,2022-10-06,67 kg Men,YASIN Mohammad,66.51,132,-136,137,160,166,-171,137,166,303
+Asian Championships,2022-10-06,67 kg Men,DOUNGSRI Anucha,66.08,-133,133,136,165,-168,-170,136,165,301
+Asian Championships,2022-10-06,67 kg Men,SAVELYEV Anatoliy,66.93,125,130,135,160,164,-167,135,164,299
+Asian Championships,2022-10-06,67 kg Men,AZNIL BIDIN Muhamad,64.63,125,130,-135,155,161,-167,130,161,291
+Asian Championships,2022-10-06,67 kg Men,YAGMYROV Hydyrberdi,66.99,126,130,-133,150,-151,-156,130,150,280
+Asian Championships,2022-10-06,67 kg Men,MARKIO Tario,66.94,123,-126,-126,154,158,-162,123,158,281
+Asian Championships,2022-10-06,67 kg Men,CHOI Hanju,66.41,112,116,-120,140,147,151,116,151,267
+Asian Championships,2022-10-06,67 kg Men,LOY YI LIANG Kester,66.42,107,-111,-111,-133,-133,-133,107,0,0
+Asian Championships,2022-10-06,73 kg Men,JUNIANSYAH Rizki,72.59,147,152,-158,-186,-186,-186,152,0,0
+Asian Championships,2022-10-06,73 kg Men,XIANG Shulin,71.89,138,143,-148,178,-183,-183,143,178,321
+Asian Championships,2022-10-06,73 kg Men,YOKUBOV Doston,72.75,135,138,140,176,182,-185,140,182,322
+Asian Championships,2022-10-06,73 kg Men,ALMAZYADI Nawaf,69.55,133,137,139,163,170,-177,139,170,309
+Asian Championships,2022-10-06,73 kg Men,CHEN Wang-Heng,72.10,130,-135,-136,150,160,-165,130,160,290
+Asian Championships,2022-10-06,73 kg Men,AITBAY Bexultan,72.92,120,-125,125,160,-170,-171,125,160,285
+Asian Championships,2022-10-06,81 kg Men,LU Delin,80.58,161,165,-170,179,183,188,165,188,353
+Asian Championships,2022-10-06,81 kg Men,TOSHTEMIROV Mukhammadkodir,80.66,154,-159,-160,183,192,-199,154,192,346
+Asian Championships,2022-10-06,81 kg Men,ERWIN ABDULLAH Rahmat,75.67,141,151,0,181,191,198,151,198,349
+Asian Championships,2022-10-06,81 kg Men,CHUANG Sheng-Min,79.70,145,-150,150,-180,-180,-180,150,0,0
+Asian Championships,2022-10-06,81 kg Men,BAUDARBEKOV Renat,80.98,140,-145,146,180,187,-191,146,187,333
+Asian Championships,2022-10-06,81 kg Men,TUKHTAEV Ogabek,80.76,138,141,145,178,184,189,145,189,334
+Asian Championships,2022-10-06,81 kg Men,TORAYEV Gaygysyz,78.04,136,-140,142,172,177,-181,142,177,319
+Asian Championships,2022-10-06,81 kg Men,AJAYA BABU Valluri,80.62,132,-137,137,157,162,165,137,165,302
+Asian Championships,2022-10-06,81 kg Men,ANWAR Furqan,80.91,127,132,-136,157,161,163,132,163,295
+Asian Championships,2022-10-06,81 kg Men,YUAN YEE Loh,80.26,130,-140,-140,150,-158,-160,130,150,280
+Asian Championships,2022-10-06,81 kg Men,CAI Zhi-Hao,80.28,-116,116,125,150,-160,163,125,163,288
+Asian Championships,2022-10-06,81 kg Men,AHMED HASAN MOHAMMED Huthefh,76.16,-80,80,-90,-100,100,-110,80,100,180
+Asian Championships,2022-10-06,89 kg Men,MOLDODOSOV Emil,88.86,161,164,166,191,-195,195,166,195,361
+Asian Championships,2022-10-06,89 kg Men,BEKTAY Assylzhan,88.90,157,162,165,191,195,197,165,197,362
+Asian Championships,2022-10-06,89 kg Men,ZAREI Mohammad,88.91,160,-164,165,-192,-192,0,165,0,0
+Asian Championships,2022-10-06,89 kg Men,ZAFARJONOV Sarvarbek,88.63,158,163,-166,182,-196,0,163,182,345
+Asian Championships,2022-10-06,89 kg Men,CHATRAEI Masoud,88.98,-161,162,-166,191,196,-201,162,196,358
+Asian Championships,2022-10-06,89 kg Men,SHOHRADOV Shatlyk,88.99,-159,160,-164,190,-195,-199,160,190,350
+Asian Championships,2022-10-06,89 kg Men,STAROVERKIN Kirill,88.26,147,151,153,173,177,-180,153,177,330
+Asian Championships,2022-10-06,89 kg Men,OLIMOV Khojiakbar,88.27,146,-151,152,185,191,-195,152,191,343
+Asian Championships,2022-10-06,89 kg Men,ANNABERDIYEV Rustem,88.64,-150,150,-156,180,-186,-192,150,180,330
+Asian Championships,2022-10-06,89 kg Men,ZUL ILMI Muhammad,88.25,145,-152,-152,0,0,0,145,0,0
+Asian Championships,2022-10-06,89 kg Men,JEONG Yonghun,88.12,-140,140,145,-180,185,-193,145,185,330
+Asian Championships,2022-10-06,89 kg Men,CHEN Hsiang-Yu,88.73,-140,140,-146,-180,180,-186,140,180,320
+Asian Championships,2022-10-06,89 kg Men,TUGNAIT Nikhil,88.92,137,-141,-141,164,168,171,137,171,308
+Asian Championships,2022-10-06,89 kg Men,ALI HUSAIN Husain,88.71,120,126,-130,157,-162,162,126,162,288
+Asian Championships,2022-10-06,89 kg Men,MD SHAKAYET HOSSAIN Pranto,87.99,125,-130,-130,0,0,0,125,0,0
+Asian Championships,2022-10-06,96 kg Men,PAREDES MONTANO Lesman,95.58,178,182,0,205,210,215,182,215,397
+Asian Championships,2022-10-06,96 kg Men,CHEN Po-Jen,95.52,-172,172,177,195,201,206,177,206,383
+Asian Championships,2022-10-06,96 kg Men,ADILETULY Nurgissa,95.39,167,172,-176,198,204,-212,172,204,376
+Asian Championships,2022-10-06,96 kg Men,HASANBAYEV Davranbek,95.27,161,165,-169,170,180,-186,165,180,345
+Asian Championships,2022-10-06,96 kg Men,BEIRALVAND Reza,95.88,156,163,-168,192,-199,202,163,202,365
+Asian Championships,2022-10-06,96 kg Men,MOEINI SEDEH Alireza,89.72,-162,162,-168,180,-186,186,162,186,348
+Asian Championships,2022-10-06,96 kg Men,ANTROPOV Artyom,95.96,-158,158,-162,210,219,-221,158,219,377
+Asian Championships,2022-10-06,96 kg Men,USAROV Sunnatilla,95.78,157,-164,-166,187,-192,-192,157,187,344
+Asian Championships,2022-10-06,96 kg Men,AL-BADRAWI Hayder,95.90,156,-161,-161,-192,-193,-193,156,0,0
+Asian Championships,2022-10-06,96 kg Men,AL-CHLAIHAWI Layth,95.87,156,-160,-160,192,197,-200,156,197,353
+Asian Championships,2022-10-06,96 kg Men,MATYAKUBOV Shahzadbek,89.28,148,151,155,177,182,190,155,190,345
+Asian Championships,2022-10-06,96 kg Men,NOMOZOV Kurbonmurod,95.80,-145,148,152,-181,-184,184,152,184,336
+Asian Championships,2022-10-06,96 kg Men,ALOTHMAN Ali,95.51,140,-148,-149,165,175,182,140,182,322
+Asian Championships,2022-10-06,96 kg Men,ASHIKUR Rahman,94.89,115,120,125,150,155,-160,125,155,280
+Asian Championships,2022-10-06,102 kg Men,AMRIDDINOV Sharofiddin,101.87,161,166,172,191,196,-201,172,196,368
+Asian Championships,2022-10-06,102 kg Men,ELBAKH Fares,99.91,171,-175,-176,215,0,0,171,215,386
+Asian Championships,2022-10-06,102 kg Men,DEHDAR Reza,100.64,170,-176,-176,202,-221,-222,170,202,372
+Asian Championships,2022-10-06,102 kg Men,BEKBOLAT Rakhat,101.40,150,160,-165,190,-209,-209,160,190,350
+Asian Championships,2022-10-06,102 kg Men,SINGH Harcharan,101.94,144,-148,148,171,175,179,148,179,327
+Asian Championships,2022-10-06,102 kg Men,SEHRAWAT Harshit,101.74,135,140,144,174,179,184,144,184,328
+Asian Championships,2022-10-06,109 kg Men,MOTAMEDI SEDEH Rasoul,104.03,170,174,180,215,217,0,180,217,397
+Asian Championships,2022-10-06,109 kg Men,RASULBEKOV Bekdoolot,103.99,165,170,173,206,211,216,173,216,389
+Asian Championships,2022-10-06,109 kg Men,AZIZI Amir,108.97,166,-172,-172,195,204,208,166,208,374
+Asian Championships,2022-10-06,109 kg Men,DONG Bing-Cheng,107.68,165,-170,-171,203,206,210,165,210,375
+Asian Championships,2022-10-06,109 kg Men,ALKHAZAL Ali,104.69,160,-166,-166,190,-200,204,160,204,364
+Asian Championships,2022-10-06,109 kg Men,AMJAD RATHORE Usman,108.32,135,140,144,175,182,186,144,186,330
+Asian Championships,2022-10-06,109 kg Men,RUBAIAWI Ali,108.11,-170,-171,-172,-200,201,207,0,207,0
+Asian Championships,2022-10-06,+109 kg Men,MINASYAN Gor,150.76,201,205,210,237,-242,242,210,242,452
+Asian Championships,2022-10-06,+109 kg Men,DAVOUDI Ali,176.64,195,-201,-202,238,243,-250,195,243,438
+Asian Championships,2022-10-06,+109 kg Men,DADRASASL Mohsen,172.20,183,190,-196,217,-225,0,190,217,407
+Asian Championships,2022-10-06,+109 kg Men,HSIEH Yun-Ting,124.48,-175,175,-182,-211,0,0,175,0,0
+Asian Championships,2022-10-06,+109 kg Men,MIRZABAEV Mirkhosil,127.01,162,-170,171,190,201,-206,171,201,372
+Asian Championships,2022-10-06,+109 kg Men,JIN Cheng,138.28,-170,170,-180,210,-218,0,170,210,380
+Asian Championships,2022-10-06,+109 kg Men,TOYCHYYEV Hojamuhammet,149.36,160,168,-174,200,205,213,168,213,381
+Asian Championships,2022-10-06,+109 kg Men,PANYA Rungsuriya,123.43,152,157,-161,190,-196,196,157,196,353
+Asian Championships,2022-10-06,+109 kg Men,ABDULLAH BUTT Muhammad,135.87,140,-145,145,180,0,0,145,180,325
+Asian Championships,2022-10-06,+109 kg Men,ALYAMI Turki,114.57,137,141,-145,-165,165,171,141,171,312
+Asian Championships,2022-10-06,45 kg Women,MY PHUONG Khong,44.94,74,76,78,-88,88,-92,78,88,166
+Asian Championships,2022-10-06,45 kg Women,NAFISATUL HARIROH Siti,44.64,68,71,-73,-87,88,91,71,91,162
+Asian Championships,2022-10-06,45 kg Women,SHARAD GARUD Harshada,44.89,-65,65,68,81,84,-87,68,84,152
+Asian Championships,2022-10-06,45 kg Women,JEAN RAMOS Rose,44.91,67,-70,-70,82,85,-87,67,85,152
+Asian Championships,2022-10-06,45 kg Women,HONG Zi-Yu,44.71,65,67,-69,-83,83,-86,67,83,150
+Asian Championships,2022-10-06,45 kg Women,KHOIRUNNISA Najla,44.25,60,-65,-65,-75,-75,-75,60,0,0
+Asian Championships,2022-10-06,45 kg Women,ALTASSAN Ghadah,44.15,43,45,-47,58,61,-65,45,61,106
+Asian Championships,2022-10-06,49 kg Women,WANG Jiali,48.70,-80,81,-85,100,103,105,81,105,186
+Asian Championships,2022-10-06,49 kg Women,THI MY DUNG Tran,48.74,-79,80,-82,-93,-93,-93,80,0,0
+Asian Championships,2022-10-06,49 kg Women,PANFILOVA Jamila,48.99,76,79,-81,86,89,-92,79,89,168
+Asian Championships,2022-10-06,49 kg Women,LIN Cheng Jing,48.67,-79,79,-81,96,100,102,79,102,181
+Asian Championships,2022-10-06,49 kg Women,DALABEHERA Jhilli,48.95,74,-77,77,90,94,-98,77,94,171
+Asian Championships,2022-10-06,49 kg Women,YADAV Gyaneshwari,48.87,72,76,-79,88,92,95,76,95,171
+Asian Championships,2022-10-06,49 kg Women,JUMABAYEVA Yulduz,48.98,-73,75,-77,94,97,-101,75,97,172
+Asian Championships,2022-10-06,49 kg Women,HUANG Yi-Chen,48.84,68,-72,72,88,94,-97,72,94,166
+Asian Championships,2022-10-06,49 kg Women,BALABAYUK Darya,48.80,68,71,-73,80,84,-86,71,84,155
+Asian Championships,2022-10-06,49 kg Women,ALROWITEA Monerah,48.44,45,48,50,58,62,65,50,65,115
+Asian Championships,2022-10-06,55 kg Women,YU Linglong,54.89,90,95,-98,115,-121,-121,95,115,210
+Asian Championships,2022-10-06,55 kg Women,CHINSHANLO Zulfiya,54.92,90,93,95,120,125,-130,95,125,220
+Asian Championships,2022-10-06,55 kg Women,ABDULLAEVA Nigora,54.96,82,84,87,100,104,106,87,106,193
+Asian Championships,2022-10-06,55 kg Women,CANTIKA AISAH Windy,52.95,80,83,86,98,103,106,86,106,192
+Asian Championships,2022-10-06,55 kg Women,YODSARN Poisian,54.57,80,83,-87,101,105,-107,83,105,188
+Asian Championships,2022-10-06,55 kg Women,SHERMETOVA Kristina,54.93,-82,-83,83,-104,-105,-107,83,0,0
+Asian Championships,2022-10-06,55 kg Women,KLARISA Juliana,54.50,78,-81,-81,100,103,-107,78,103,181
+Asian Championships,2022-10-06,55 kg Women,DAS Shrabani,54.95,74,77,-80,100,104,-107,77,104,181
+Asian Championships,2022-10-06,55 kg Women,ABDULNABI SHAKEEB Eman,54.23,-54,54,56,70,73,-75,56,73,129
+Asian Championships,2022-10-06,55 kg Women,SAFIAH SIDEK Liyana,53.44,52,55,-57,65,68,70,55,70,125
+Asian Championships,2022-10-06,59 kg Women,THI TAM Quang,58.39,93,-96,-96,110,115,-119,93,115,208
+Asian Championships,2022-10-06,59 kg Women,ENKHBAATAR Enkhtamir,58.87,86,89,92,106,-112,-112,92,106,198
+Asian Championships,2022-10-06,59 kg Women,LONG Xue,57.92,87,91,-94,-118,-118,118,91,118,209
+Asian Championships,2022-10-06,59 kg Women,THI DUYEN Hoang,58.85,-90,90,-93,109,-113,-113,90,109,199
+Asian Championships,2022-10-06,59 kg Women,BETEYOB Natasya,57.49,85,89,-91,111,-115,116,89,116,205
+Asian Championships,2022-10-06,59 kg Women,NELLY Nelly,58.65,84,-87,-87,108,-113,-115,84,108,192
+Asian Championships,2022-10-06,59 kg Women,HUANG Ya-Ting,58.70,81,-83,83,100,103,-106,83,103,186
+Asian Championships,2022-10-06,59 kg Women,BASAMI Poupak,58.28,75,-80,-80,95,-100,-100,75,95,170
+Asian Championships,2022-10-06,59 kg Women,ALSHEHRI Alanoud,58.53,63,67,70,76,80,83,70,83,153
+Asian Championships,2022-10-06,64 kg Women,THI HONG THANH Pham,63.47,92,96,100,114,117,0,100,117,217
+Asian Championships,2022-10-06,64 kg Women,CHONTAVIN Thipwara,63.04,89,-91,91,-110,110,-113,91,110,201
+Asian Championships,2022-10-06,64 kg Women,SARAH Sarah,60.70,85,89,-91,105,109,112,89,112,201
+Asian Championships,2022-10-06,64 kg Women,LI Wei-Chia,63.20,85,88,-90,101,107,111,88,111,199
+Asian Championships,2022-10-06,64 kg Women,KESHAVARZ Fatemeh,63.01,80,-86,-86,100,-106,-106,80,100,180
+Asian Championships,2022-10-06,64 kg Women,ABUSHAWISH Sara,62.63,70,75,-81,85,90,95,75,95,170
+Asian Championships,2022-10-06,71 kg Women,YANG Qiuxia,68.74,100,103,106,120,122,-130,106,122,228
+Asian Championships,2022-10-06,71 kg Women,KADYROVA Gulnabat,70.50,96,100,102,-117,117,-120,102,117,219
+Asian Championships,2022-10-06,71 kg Women,GANZORIG Anuujin,67.23,95,99,-102,116,-121,-121,99,116,215
+Asian Championships,2022-10-06,71 kg Women,ALFIAH Ramadani Tsabitha,65.49,93,96,-101,113,-117,118,96,118,214
+Asian Championships,2022-10-06,71 kg Women,ANGGI Restu,66.58,88,-92,92,-117,117,120,92,120,212
+Asian Championships,2022-10-06,71 kg Women,RAZZAGHI Elaheh,70.55,85,90,-92,111,-116,-116,90,111,201
+Asian Championships,2022-10-06,71 kg Women,LI Xing-En,70.51,85,90,-93,-110,110,-116,90,110,200
+Asian Championships,2022-10-06,71 kg Women,YONESI Forough,67.55,75,80,83,95,100,-103,83,100,183
+Asian Championships,2022-10-06,71 kg Women,MABIA Aktar,67.10,73,76,79,97,101,104,79,104,183
+Asian Championships,2022-10-06,71 kg Women,ALI ABDULLA YAHYA Zainab,66.13,70,73,76,88,91,-96,76,91,167
+Asian Championships,2022-10-06,71 kg Women,SULAIMANI Mada,70.15,68,73,-77,88,95,-100,73,95,168
+Asian Championships,2022-10-06,71 kg Women,ALMADANI Mai,71.00,-65,65,69,80,85,-91,69,85,154
+Asian Championships,2022-10-06,71 kg Women,CHEN Wen-Huei,68.93,-98,-98,-99,0,0,0,0,0,0
+Asian Championships,2022-10-06,76 kg Women,PENG Cuiting,74.27,115,-120,-120,116,124,128,115,128,243
+Asian Championships,2022-10-06,76 kg Women,OTGONBAYAR Darkhijav,75.15,-94,95,98,108,115,-119,98,115,213
+Asian Championships,2022-10-06,76 kg Women,NURLYBEKOVA Aray,75.93,90,94,97,118,124,-127,97,124,221
+Asian Championships,2022-10-06,76 kg Women,KHONGTHONG Duangkamon,75.43,-93,93,96,123,125,-127,96,125,221
+Asian Championships,2022-10-06,76 kg Women,SUVONOVA Nigora,75.97,-87,87,-91,111,116,-119,87,116,203
+Asian Championships,2022-10-06,76 kg Women,ARJOMANDKHAH Abrisham,75.60,85,-90,-91,110,-115,-117,85,110,195
+Asian Championships,2022-10-06,76 kg Women,ZEBDIEH Dema,74.59,70,75,80,90,95,-100,80,95,175
+Asian Championships,2022-10-06,76 kg Women,FAHD NAJI BAQASS Hanan,73.61,-60,60,64,78,-82,-82,64,78,142
+Asian Championships,2022-10-06,81 kg Women,HOSSEINI Seyedehelham,80.67,97,100,102,121,125,-128,102,125,227
+Asian Championships,2022-10-06,81 kg Women,NAKAJIMA Motoka,80.77,97,-100,100,-119,119,123,100,123,223
+Asian Championships,2022-10-06,81 kg Women,ADASHBAEVA Rigina,80.19,94,97,-101,115,-119,-119,97,115,212
+Asian Championships,2022-10-06,81 kg Women,RUSTAMOVA Anamjan,80.56,90,-93,94,114,-118,-118,94,114,208
+Asian Championships,2022-10-06,81 kg Women,OMAROVA Aisha,78.51,93,-96,-98,117,121,124,93,124,217
+Asian Championships,2022-10-06,81 kg Women,KUZGANBAYEVA Karina,79.09,90,-94,-94,-113,113,-116,90,113,203
+Asian Championships,2022-10-06,81 kg Women,VERMA Vanshita,80.32,85,88,-91,108,112,116,88,116,204
+Asian Championships,2022-10-06,87 kg Women,MUNKHJANTSAN Ankhtsetseg,86.90,111,114,-116,-135,135,-145,114,135,249
+Asian Championships,2022-10-06,87 kg Women,JABBOROVA Tursunoy,86.44,103,107,112,123,127,130,112,130,242
+Asian Championships,2022-10-06,87 kg Women,LO Ying-Yuan,83.47,104,108,110,126,130,133,110,133,243
+Asian Championships,2022-10-06,87 kg Women,TIAN Chia-Hsin,86.12,96,99,-102,124,128,131,99,131,230
+Asian Championships,2022-10-06,87 kg Women,YESZHANOVA Aiym,84.31,90,93,96,120,123,-126,96,123,219
+Asian Championships,2022-10-06,87 kg Women,MST TANIA Khatun,81.06,-60,60,64,70,75,-78,64,75,139
+Asian Championships,2022-10-06,+87 kg Women,MUPTILDA Aizada,127.87,113,117,120,147,152,157,120,157,277
+Asian Championships,2022-10-06,+87 kg Women,KOVALCHUK Lyubov,126.82,110,-113,115,140,146,151,115,151,266
+Asian Championships,2022-10-06,+87 kg Women,AKMAL Nurul,123.33,105,110,114,142,148,153,114,153,267
+Asian Championships,2022-10-06,+87 kg Women,WANG Ling-Chen,106.51,100,106,-111,130,137,141,106,141,247
+Asian Championships,2022-10-06,+87 kg Women,MARIYA MURIYADEN THIMOTHY Ann,124.94,85,89,92,114,-118,118,92,118,210
+Asian Championships,2022-10-06,+87 kg Women,YOUSEFIABPARDEH Fatemeh,122.87,-90,90,-93,121,128,131,90,131,221

@@ -1,0 +1,5 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Halloween Throwdown,2022-10-29,male,Sachin Gautam,66.85,-56,56,-60,75,-79,-79,56,75,131
+Halloween Throwdown,2022-10-29,male,Nimesh Gurung,70.25,-55,-55,-56,75,-80,80,0,80,0
+Halloween Throwdown,2022-10-29,male,Maximiliano Erpel,80.15,-64,68,73,82,87,-93,73,87,160
+Halloween Throwdown,2022-10-29,male,Daniel Wood,100.00,75,78,82,93,98,104,82,104,186
