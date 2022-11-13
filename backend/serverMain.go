@@ -23,10 +23,12 @@ func getTest(c *gin.Context) {
 }
 
 func getSearchName(c *gin.Context) {
-	search := structs.NameSearch{NameStr: c.Query("name")}
-	suggestions := lifter.NameSearch(search.NameStr, &processedLeaderboard.AllNames)
-	results := structs.NameSearchResults{Names: processedLeaderboard.FetchNames(suggestions)}
-	c.JSON(http.StatusOK, results)
+	if len(c.Query("name")) >= 3 {
+		search := structs.NameSearch{NameStr: c.Query("name")}
+		suggestions := lifter.NameSearch(search.NameStr, &processedLeaderboard.AllNames)
+		results := structs.NameSearchResults{Names: processedLeaderboard.FetchNames(suggestions)}
+		c.JSON(http.StatusOK, results)
+	}
 }
 
 func postLifterRecord(c *gin.Context) {
