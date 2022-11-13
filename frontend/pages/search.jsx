@@ -3,7 +3,6 @@ import { useState } from 'react';
 const SearchLifters = async (
     lifterName = ''
 ) => {
-    const bodyContent = JSON.stringify({lifterName})
     const urlQuery = `${process.env.API}/search?name=` + lifterName
 
     const res = await fetch(urlQuery, {
@@ -20,7 +19,7 @@ const SearchLifters = async (
 const SearchFilter = ({  }) => {
     let oldSearch = ""
     const [searchInput, SetSearchInput] = useState("");
-    let FilteredData = [{"name": "None"}]
+    let FilteredData = {"names": []}
     if (searchInput.length >= 3 && searchInput !== oldSearch) {
         let FilteredData = SearchLifters(searchInput)
         oldSearch = searchInput
@@ -36,7 +35,7 @@ const SearchFilter = ({  }) => {
                                 <div className="row justify-content-between align-items-center">
                                     <div className="col-md-3">
                                             <h5 className="text-primary">
-                                                {FilteredData.length} results found.
+                                                {FilteredData['names'].length} results found.
                                             </h5>
                                     </div>
                                     <div className="col-md-3">
@@ -56,15 +55,7 @@ const SearchFilter = ({  }) => {
                                         </tr>
                                         </thead>
                                         <tbody>
-                                        {FilteredData.map((data, index) => {
-                                            const { id, name } = data;
-                                            return (
-                                                <tr key={index}>
-                                                    <td>{id}</td>
-                                                    <td>{name}</td>
-                                                </tr>
-                                            );
-                                        })}
+                                        NAMES HERE
                                         </tbody>
                                     </table>
                                 </div>
