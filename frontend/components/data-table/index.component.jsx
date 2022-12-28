@@ -1,5 +1,14 @@
-import {Popover, Table, Button, Text} from "@nextui-org/react"
+import {Table} from "@nextui-org/react"
 import {AllDetails} from "./AllDetails"
+
+const tableStyle = {
+    tableLayout: 'fixed',
+    textAlign: 'center',
+    width: "auto",
+    height: "auto",
+    paddingLeft: "0",
+    paddingRight: "0",
+}
 
 const tableHeaderStyles = {
   textAlign: "center",
@@ -8,13 +17,13 @@ const tableHeaderStyles = {
 }
 
 const DataTable = ({ lifters }) => (
-  <Table selectionMode="single" striped aria-label="Open weight lifting lifters results table" css={{ tableLayout: 'fixed', textAlign: 'center', width: "auto", paddingLeft: "0", paddingRight: "0" }}>
+  <Table selectionMode="single" striped aria-label="Open weight lifting lifters results table" css={tableStyle}>
     <Table.Header>
-      <Table.Column css={tableHeaderStyles}>Position</Table.Column>
+      <Table.Column css={tableHeaderStyles}>Rank</Table.Column>
       <Table.Column css={tableHeaderStyles}>Lifter</Table.Column>
       <Table.Column css={tableHeaderStyles}>Federation</Table.Column>
-      <Table.Column css={tableHeaderStyles}>Best Snatch</Table.Column>
-      <Table.Column css={tableHeaderStyles}>Best Clean & Jerk</Table.Column>
+      <Table.Column css={tableHeaderStyles}>Top Snatch</Table.Column>
+      <Table.Column css={tableHeaderStyles}>Top Clean & Jerk</Table.Column>
       <Table.Column css={tableHeaderStyles}>Total</Table.Column>
       <Table.Column css={tableHeaderStyles}>Sinclair</Table.Column>
       <Table.Column css={tableHeaderStyles}>Details</Table.Column>

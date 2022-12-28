@@ -1,23 +1,35 @@
-import { Popover, Table, Button, Text } from "@nextui-org/react"
+import { Popover, Table, Button } from "@nextui-org/react"
 
 const tableHeaderStyles = {
+    fontSize: '$sm',
     textAlign: "center",
     whiteSpace: "nowrap",
-    padding: "5px 10px"
+}
+
+const tableBodyStyle = {
+    fontSize: '$sm'
+}
+
+const tableLayoutStyle = {
+    tableLayout: 'fixed',
+    textAlign: 'center',
+    width: "auto",
+    paddingLeft: "0",
+    paddingRight: "0"
 }
 
 export const AllDetails = ({full_comp}) => {
     return (
-        <Popover>
+        <Popover placement="left">
             <Popover.Trigger>
                 <Button auto flat>More details...</Button>
             </Popover.Trigger>
             <Popover.Content>
-                <Table selectionMode="single" striped aria-label="Open weight lifting lifters extended results table" css={{ tableLayout: 'fixed', textAlign: 'center', width: "auto", paddingLeft: "0", paddingRight: "0" }}>
+                <Table selectionMode="single" striped aria-label="Open weight lifting lifters extended results table" css={tableLayoutStyle}>
                     <Table.Header>
-                        <Table.Column css={tableHeaderStyles}>Event - {full_comp.event}</Table.Column>
+                        <Table.Column css={tableHeaderStyles}>{full_comp.event}</Table.Column>
                     </Table.Header>
-                    <Table.Body>
+                    <Table.Body css={tableBodyStyle}>
                         <Table.Row>
                             <Table.Cell>Event Date: {full_comp.date}</Table.Cell>
                         </Table.Row><Table.Row>
