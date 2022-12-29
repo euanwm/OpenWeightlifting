@@ -12,6 +12,7 @@ const fetchLifterData = async (
   stop = 500,
   sortby = 'total',
   federation = 'allfeds',
+  weightclass = 'ALL'
 ) => {
   const bodyContent = JSON.stringify({
     gender,
@@ -19,6 +20,7 @@ const fetchLifterData = async (
     stop,
     sortby,
     federation,
+    weightclass
   })
 
   const res = await fetch(`${process.env.API}/leaderboard`, {
@@ -49,27 +51,32 @@ const Home = ({ data }) => {
   const [currentGender, setCurrentGender] = useState('male')
   const [sortBy, setSortBy] = useState('total')
   const [federation, setFederation] = useState('allfeds')
+  const [weightclass, setWeightclass] = useState('all')
   const [currentLifterList, setCurrentLifterList] = useState(data)
   const { isDark } = useTheme()
 
   useEffect(() => {
     async function callFetchLisfterData() {
       setCurrentLifterList(
-        await fetchLifterData(currentGender, 0, 500, sortBy, federation),
+        await fetchLifterData(currentGender, 0, 500, sortBy, federation, weightclass),
       )
     }
 
     callFetchLisfterData()
-  }, [currentGender, sortBy, federation])
+  }, [currentGender, sortBy, federation, weightclass])
 
   const handleGenderChange = newFilter => {
     const { type, value } = newFilter
+    console.log(type, value)
     switch (type) {
       case 'gender':
         setCurrentGender(value)
         break
       case 'sortBy':
         setSortBy(value)
+        break
+      case 'weightclass':
+        setWeightclass(value)
         break
       default:
         setFederation(value)
@@ -84,6 +91,7 @@ const Home = ({ data }) => {
         sortBy={sortBy}
         federation={federation}
         handleGenderChange={handleGenderChange}
+        weightClass={weightclass}
       />
       {currentLifterList && <DataTable lifters={currentLifterList} />}
     </ThemeProvider>
