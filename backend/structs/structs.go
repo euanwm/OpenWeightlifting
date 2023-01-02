@@ -34,11 +34,12 @@ type LeaderboardData struct {
 
 // LeaderboardPayload Incoming request payload
 type LeaderboardPayload struct {
-	Start      int    `json:"start"`
-	Stop       int    `json:"stop"`
-	Gender     string `json:"gender"`
-	SortBy     string `json:"sortby"`
-	Federation string `json:"federation"`
+	Start       int    `json:"start"`
+	Stop        int    `json:"stop"`
+	Gender      string `json:"gender"`
+	SortBy      string `json:"sortby"`
+	Federation  string `json:"federation"`
+	WeightClass string `json:"weightclass"`
 }
 
 // Entry Standard structs that we'll use for storing raw lift data

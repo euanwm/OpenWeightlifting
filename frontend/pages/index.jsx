@@ -12,7 +12,7 @@ const fetchLifterData = async (
   stop = 500,
   sortby = 'total',
   federation = 'allfeds',
-  weightclass = 'ALL'
+  weightclass = 'allcats'
 ) => {
   const bodyContent = JSON.stringify({
     gender,
