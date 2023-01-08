@@ -6,6 +6,10 @@ import (
 	"log"
 )
 
+func (e Entry) FetchWeightClass() WeightClass {
+	return WeightClass{}
+}
+
 func (e LeaderboardData) FetchNames(posSlice []int) (names []string) {
 	for _, position := range posSlice {
 		names = append(names, e.AllNames[position])

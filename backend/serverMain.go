@@ -49,12 +49,14 @@ func postLifterRecord(c *gin.Context) {
 func postLeaderboard(c *gin.Context) {
 	body := structs.LeaderboardPayload{}
 	if err := c.BindJSON(&body); err != nil {
-		c.AbortWithError(http.StatusBadRequest, err)
+		abortErr := c.AbortWithError(http.StatusBadRequest, err)
+		log.Println(abortErr)
 		return
 	}
 	//todo: add in query checker, so it doesn't shit the bed on a bad query
-	if body.Federation != enum.ALLFEDS {
-		fedData := dbtools.FilterFederation(processedLeaderboard.Query(body.SortBy, body.Gender), body.Federation, body.Start, body.Stop)
+
+	if body != enum.DefaultPayload {
+		fedData := dbtools.Filter(processedLeaderboard.Query(body.SortBy, body.Gender), body.Federation, body.WeightClass, body.Start, body.Stop)
 		c.JSON(http.StatusOK, fedData)
 
 	} else {

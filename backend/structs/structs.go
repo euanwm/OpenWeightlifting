@@ -1,5 +1,10 @@
 package structs
 
+type WeightClass struct {
+	Upper float32
+	Lower float32
+}
+
 type TestPayload struct {
 	Hour int
 	Min  int

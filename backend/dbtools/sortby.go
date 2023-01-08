@@ -8,8 +8,8 @@ import (
 	"time"
 )
 
-//FilterFederation - Returns a slice of structs relating to the selected federation
-func FilterFederation(bigData []structs.Entry, federation string, start int, stop int) (filteredData []structs.Entry) {
+//Filter - Returns a slice of structs relating to the selected filter selection
+func Filter(bigData []structs.Entry, federation string, weightclass string, start int, stop int) (filteredData []structs.Entry) {
 	var sliceLen = stop - start
 	var indexCount int
 	for _, lift := range bigData {
