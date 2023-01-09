@@ -9,22 +9,22 @@ import (
 )
 
 //Filter - Returns a slice of structs relating to the selected filter selection
-func Filter(bigData []structs.Entry, federation string, weightclass string, start int, stop int) (filteredData []structs.Entry) {
-	var sliceLen = stop - start
+func Filter(bigData []structs.Entry, filterQuery structs.LeaderboardPayload) (filteredData []structs.Entry) {
+	var sliceLen = filterQuery.Stop - filterQuery.Start
 	var indexCount int
 	for _, lift := range bigData {
-		if lift.Federation == federation && indexCount < start {
+		if lift.Federation == filterQuery.Federation && indexCount < filterQuery.Start {
 			indexCount++
-		} else if lift.Federation == federation && indexCount >= start {
+		} else if lift.Federation == filterQuery.Federation && indexCount >= filterQuery.Start {
 			filteredData = append(filteredData, lift)
 		} else if len(filteredData) == sliceLen {
 			return
 		}
 	}
-	if len(filteredData[start:]) < sliceLen {
-		return filteredData[start:]
+	if len(filteredData[filterQuery.Start:]) < sliceLen {
+		return filteredData[filterQuery.Start:]
 	}
-	return filteredData[start:stop]
+	return filteredData[filterQuery.Start:filterQuery.Stop]
 }
 
 // SortSinclair Descending order by entry sinclair

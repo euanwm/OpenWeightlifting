@@ -6,8 +6,11 @@ import (
 	"log"
 )
 
-func (e Entry) FetchWeightClass() WeightClass {
-	return WeightClass{}
+func (e Entry) WithinWeightClass(gender string, catData WeightClass) bool {
+	if catData.Gender == gender && catData.Upper >= e.Bodyweight && catData.Lower <= e.Bodyweight {
+		return true
+	}
+	return false
 }
 
 func (e LeaderboardData) FetchNames(posSlice []int) (names []string) {
