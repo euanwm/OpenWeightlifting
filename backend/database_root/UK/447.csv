@@ -1,0 +1,57 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Wildboar Autumn Open,2022-10-22,Men's Senior 109+Kg,Adam James Pugh,131.96,107,115,120,144,152,162,120,162,282
+Wildboar Autumn Open,2022-10-22,Men's Senior 89Kg,Greg Stumbles,89,115,119,121,150,154,157,121,157,278
+Wildboar Autumn Open,2022-10-22,Men's Senior 81Kg,William Ridge,80.7,105,108,111,138,-141,141,111,141,252
+Wildboar Autumn Open,2022-10-22,Men's Masters (35-39) 109+Kg,benjamin iles,127.6,95,-102,-102,135,142,-150,95,142,237
+Wildboar Autumn Open,2022-10-22,Men's Under 23 89Kg,Charlie Yip,85.3,92,97,102,120,127,132,102,132,234
+Wildboar Autumn Open,2022-10-22,Men's Senior 89Kg,Shau Mafuna,84.7,95,99,103,127,-132,-132,103,127,230
+Wildboar Autumn Open,2022-10-22,Men's Senior 96Kg,Peter Featherstone,92.9,90,95,100,110,115,120,100,120,220
+Wildboar Autumn Open,2022-10-22,Men's Junior Under 20 81Kg,Johnny Adams,74.8,85,90,96,107,111,116,96,116,212
+Wildboar Autumn Open,2022-10-22,Men's Senior 96Kg,Lewis Wong,95.9,88,91,95,109,114,-121,95,114,209
+Wildboar Autumn Open,2022-10-22,Men's Youth Under 17 89Kg,Joshua Byett,88.8,84,-88,92,105,-108,111,92,111,203
+Wildboar Autumn Open,2022-10-22,Men's Junior Under 20 109+Kg,Jake Turley,138.6,87,90,-93,108,112,-115,90,112,202
+Wildboar Autumn Open,2022-10-22,Men's Under 23 96Kg,leon brady,95.2,78,82,86,108,113,-118,86,113,199
+Wildboar Autumn Open,2022-10-22,Men's Senior 73Kg,Jia Run Liang,72.4,80,83,86,102,106,110,86,110,196
+Wildboar Autumn Open,2022-10-22,Men's Masters (35-39) 89Kg,Luke Kelly,88.6,75,79,-82,93,101,104,79,104,183
+Wildboar Autumn Open,2022-10-22,Men's Junior Under 20 96Kg,Logan Brain,95.2,68,73,75,102,107,-112,75,107,182
+Wildboar Autumn Open,2022-10-22,Men's Senior 81Kg,Jake Howden,80.1,72,-76,78,93,-98,98,78,98,176
+Wildboar Autumn Open,2022-10-22,Women's Senior 87Kg,Jasmine Isoyama,84,68,71,75,88,91,95,75,95,170
+Wildboar Autumn Open,2022-10-22,Women's Senior 71Kg,Danielle Williams ,65.9,68,71,74,83,86,89,74,89,163
+Wildboar Autumn Open,2022-10-22,Women's Junior Under 20 87+Kg,Isobelle Garrett,115.4,63,67,70,80,89,-93,70,89,159
+Wildboar Autumn Open,2022-10-22,Women's Junior Under 20 71Kg,Romi Stern-Dawson,66,70,-73,-76,84,88,-92,70,88,158
+Wildboar Autumn Open,2022-10-22,Men's Senior 89Kg,Joe McCoy,88.7,63,65,67,85,89,-92,67,89,156
+Wildboar Autumn Open,2022-10-22,Women's Senior 64Kg,Kate Rendall,62.8,60,63,66,83,86,88,66,88,154
+Wildboar Autumn Open,2022-10-22,Men's Senior 89Kg,Phil Clayton,88.3,60,-65,66,80,85,87,66,87,153
+Wildboar Autumn Open,2022-10-22,Men's Masters (40-44) 102Kg,David Nash,101.4,58,62,65,75,79,85,65,85,150
+Wildboar Autumn Open,2022-10-22,Men's Masters (45-49) 89Kg,David Liddington,88.4,58,63,-68,78,83,-87,63,83,146
+Wildboar Autumn Open,2022-10-23,Women's Youth Under 17 71Kg,Xcena Pasqualin,70.4,53,56,60,75,80,85,60,85,145
+Wildboar Autumn Open,2022-10-22,Men's Under 23 89Kg,Rohan Parry,87.1,50,55,60,75,80,-85,60,80,140
+Wildboar Autumn Open,2022-10-22,Women's Senior 71Kg,Jen Edgecombe,70.6,-57,57,60,79,-82,-84,60,79,139
+Wildboar Autumn Open,2022-10-22,Men's Senior 67Kg,Ryan Blakemore,65.3,57,60,-64,70,74,78,60,78,138
+Wildboar Autumn Open,2022-10-22,Men's Masters (45-49) 102Kg,Kenneth Taylor,101.2,55,59,-62,73,76,79,59,79,138
+Wildboar Autumn Open,2022-10-22,Women's Under 23 59Kg,Gabby Sully-Dunbar,57.2,-60,60,63,-75,75,-78,63,75,138
+Wildboar Autumn Open,2022-10-22,Women's Masters (35-39) 76Kg,Gemma  Sharples ,72.9,55,-58,58,72,75,-78,58,75,133
+Wildboar Autumn Open,2022-10-22,Women's Senior 64Kg,Emma Sipson,63.8,52,56,60,65,69,72,60,72,132
+Wildboar Autumn Open,2022-10-22,Men's Masters (60-64) 61Kg,Andrew Elliot,60.7,45,47,-50,80,54,-60,47,80,127
+Wildboar Autumn Open,2022-10-22,Women's Masters (35-39) 64Kg,Kerry Rodway,63,47,50,54,65,69,72,54,72,126
+Wildboar Autumn Open,2022-10-22,Men's Masters (45-49) 102Kg,Simon Paris,101.7,55,-58,-58,70,-75,-80,55,70,125
+Wildboar Autumn Open,2022-10-22,Women's Senior 71Kg,Ellen Shipton,68.5,43,-46,47,59,63,-67,47,63,110
+Wildboar Autumn Open,2022-10-22,Women's Under 23 71Kg,Robyn Lloyd,67.3,-48,48,-50,59,60,-65,48,60,108
+Wildboar Autumn Open,2022-10-22,Women's Senior 81Kg,Kathryn Ryan,78.2,43,45,-47,57,59,62,45,62,107
+Wildboar Autumn Open,2022-10-22,Men's Youth Under 15 81Kg,Max Andrews,80.1,40,43,45,50,55,60,45,60,105
+Wildboar Autumn Open,2022-10-22,Women's Senior 59Kg,Frankie McLean,57.8,41,44,47,50,54,57,47,57,104
+Wildboar Autumn Open,2022-10-22,Women's Youth Under 17 49Kg,Libby Ellison,47.1,42,45,-47,52,58,-60,45,58,103
+Wildboar Autumn Open,2022-10-22,Women's Masters (60-64) 55Kg,Patricia Tenn,54.4,42,46,48,50,53,55,48,55,103
+Wildboar Autumn Open,2022-10-22,Men's Youth Under 15 89Kg,cooper wilson,82.5,35,40,43,50,55,60,43,60,103
+Wildboar Autumn Open,2022-10-22,Women's Youth Under 15 59Kg,Lily Osment,59,40,43,-47,50,54,58,43,58,101
+Wildboar Autumn Open,2022-10-22,Men's Senior 89Kg,Martyn Daw,82.8,37,-41,41,50,55,58,41,58,99
+Wildboar Autumn Open,2022-10-22,Women's Junior Under 20 55Kg,Lily Crowther,53.8,38,40,-44,50,-54,57,40,57,97
+Wildboar Autumn Open,2022-10-22,Women's Senior 59Kg,Kirsty Robathan-Smith,58.5,39,41,43,50,54,-59,43,54,97
+Wildboar Autumn Open,2022-10-22,Women's Under 23 55Kg,Bethany Maitland,54.3,35,39,-42,44,48,-52,39,48,87
+Wildboar Autumn Open,2022-10-22,Women's Youth Under 15 59Kg,Kayleigh Ellison,59,34,36,-38,46,50,-52,36,50,86
+Wildboar Autumn Open,2022-10-22,Men's Youth Under 15 55Kg,harry jones,53.9,30,33,35,38,40,44,35,44,79
+Wildboar Autumn Open,2022-10-22,Women's Masters (50-54) 71Kg,Teresa Mytton,68.2,27,31,33,37,41,45,33,45,78
+Wildboar Autumn Open,2022-10-22,Women's Masters (45-49) 64Kg,Claire Case,63.2,25,27,30,35,38,41,30,41,71
+Wildboar Autumn Open,2022-10-22,Women's Masters (55-59) 81Kg,Helen Barnett,78.8,30,32,-34,30,-33,33,32,33,65
+Wildboar Autumn Open,2022-10-22,Men's Youth Under 15 49Kg,Charlie Liddington,47,16,20,-23,-24,24,27,20,27,47
+Wildboar Autumn Open,2022-10-22,Men's Youth Under 15 49Kg,Charlie  Jenkins,33.1,15,18,19,17,21,26,19,26,45
