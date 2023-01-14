@@ -103,14 +103,13 @@ func buildDatabase() {
 	log.Println("buildDatabase called...")
 	bigData := dbtools.CollateAll()
 	male, female, _ := dbtools.SortGender(bigData) // Throwaway the unknown genders as they're likely really young kids
-	const maxSize int = 10000
 	leaderboardTotal := &structs.LeaderboardData{
 		AllNames:        append(male.ProcessNames(), female.ProcessNames()...),
 		AllData:         append(male.Lifts, female.Lifts...),
-		MaleTotals:      dbtools.TopPerformance(male.Lifts, enum.Total, maxSize),
-		FemaleTotals:    dbtools.TopPerformance(female.Lifts, enum.Total, maxSize),
-		MaleSinclairs:   dbtools.TopPerformance(male.Lifts, enum.Sinclair, maxSize),
-		FemaleSinclairs: dbtools.TopPerformance(female.Lifts, enum.Sinclair, maxSize),
+		MaleTotals:      dbtools.TopPerformance(male.Lifts, enum.Total),
+		FemaleTotals:    dbtools.TopPerformance(female.Lifts, enum.Total),
+		MaleSinclairs:   dbtools.TopPerformance(male.Lifts, enum.Sinclair),
+		FemaleSinclairs: dbtools.TopPerformance(female.Lifts, enum.Sinclair),
 	}
 	processedLeaderboard = *leaderboardTotal
 	log.Println("Database READY")

@@ -55,7 +55,7 @@ func SortDate(liftData []structs.Entry) []structs.Entry {
 	return liftData
 }
 
-func TopPerformance(bigData []structs.Entry, sortBy string, maxSize int) (finalData []structs.Entry) {
+func TopPerformance(bigData []structs.Entry, sortBy string) (finalData []structs.Entry) {
 	switch sortBy {
 	case enum.Total:
 		SortTotal(bigData)
@@ -69,9 +69,6 @@ func TopPerformance(bigData []structs.Entry, sortBy string, maxSize int) (finalD
 		if utilities.Contains(names, d.Name) == false {
 			position = append(position, i)
 			names = append(names, d.Name)
-		}
-		if len(names) == maxSize {
-			break
 		}
 	}
 	for _, posInt := range position {
