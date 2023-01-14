@@ -6,6 +6,16 @@ import (
 	"log"
 )
 
+func (e Entry) WithinWeightClass(gender string, catData WeightClass) bool {
+	if catData.Gender == enum.ALLCATS {
+		return true
+	}
+	if catData.Gender == gender && catData.Upper >= e.Bodyweight && catData.Lower <= e.Bodyweight {
+		return true
+	}
+	return false
+}
+
 func (e LeaderboardData) FetchNames(posSlice []int) (names []string) {
 	for _, position := range posSlice {
 		names = append(names, e.AllNames[position])

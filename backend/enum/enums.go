@@ -14,8 +14,11 @@ const (
 	IWF string = "IWF"
 	//ALLFEDS - Pretty self-explanatory
 	ALLFEDS string = "allfeds"
+	//ALLWEIGHTS - Yes
+	ALLCATS string = "allcats"
 	//AWF - Australian Weightlifting Federation
 	AWF               string  = "AUS"
 	MaxTotal          float32 = 510
 	MinimumBodyweight float32 = 20
+	MaximumBodyweight float32 = 300
 )
