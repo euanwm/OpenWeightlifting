@@ -9,13 +9,16 @@ import (
 )
 
 //Filter - Returns a slice of structs relating to the selected filter selection
-func Filter(bigData []structs.Entry, filterQuery structs.LeaderboardPayload) (filteredData []structs.Entry) {
+func Filter(bigData []structs.Entry, filterQuery structs.LeaderboardPayload, weightCat structs.WeightClass) (filteredData []structs.Entry) {
 	var sliceLen = filterQuery.Stop - filterQuery.Start
 	var indexCount int
 	for _, lift := range bigData {
-		if lift.Federation == filterQuery.Federation && indexCount < filterQuery.Start {
+		if filterQuery.Federation == enum.ALLFEDS {
+			filterQuery.Federation = lift.Federation
+		}
+		if lift.Federation == filterQuery.Federation && lift.WithinWeightClass(filterQuery.Gender, weightCat) && indexCount < filterQuery.Start {
 			indexCount++
-		} else if lift.Federation == filterQuery.Federation && indexCount >= filterQuery.Start {
+		} else if lift.Federation == filterQuery.Federation && lift.WithinWeightClass(filterQuery.Gender, weightCat) && indexCount >= filterQuery.Start {
 			filteredData = append(filteredData, lift)
 		} else if len(filteredData) == sliceLen {
 			return

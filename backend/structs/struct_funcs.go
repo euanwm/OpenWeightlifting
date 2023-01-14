@@ -7,6 +7,9 @@ import (
 )
 
 func (e Entry) WithinWeightClass(gender string, catData WeightClass) bool {
+	if catData.Gender == enum.ALLCATS {
+		return true
+	}
 	if catData.Gender == gender && catData.Upper >= e.Bodyweight && catData.Lower <= e.Bodyweight {
 		return true
 	}
