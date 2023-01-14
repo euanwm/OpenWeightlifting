@@ -51,7 +51,7 @@ const Home = ({ data }) => {
   const [currentGender, setCurrentGender] = useState('male')
   const [sortBy, setSortBy] = useState('total')
   const [federation, setFederation] = useState('allfeds')
-  const [weightclass, setWeightclass] = useState('all')
+  const [weightclass, setWeightclass] = useState('allcats')
   const [currentLifterList, setCurrentLifterList] = useState(data)
   const { isDark } = useTheme()
 
