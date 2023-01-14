@@ -1,0 +1,78 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+The Scottish WL Open,2022-11-06,Men's Senior 109Kg,John Mcindoe,107.2,122,127,131,157,162,-165,131,162,293
+The Scottish WL Open,2022-11-06,Men's Senior 109+Kg,Nate Rainer,125.35,123,131,-135,140,145,-151,131,145,276
+The Scottish WL Open,2022-11-06,Men's Senior 109Kg,Matthew Byers,106.35,-122,122,-126,145,150,-155,122,150,272
+The Scottish WL Open,2022-11-06,Men's Senior 89Kg,Allen Brindley,88.55,120,-125,-125,150,-157,-157,120,150,270
+The Scottish WL Open,2022-11-06,Men's Senior 109Kg,Jason Hagart,107.65,115,119,-122,140,145,-150,119,145,264
+The Scottish WL Open,2022-11-06,Men's Under 23 109+Kg,Ewan Harrison,146.55,105,110,115,135,140,145,115,145,260
+The Scottish WL Open,2022-11-05,Men's Senior 81Kg,Iain Wilson,78.65,105,109,112,136,140,145,112,145,257
+The Scottish WL Open,2022-11-06,Men's Under 23 102Kg,Jake Jardine,101.45,100,105,110,140,145,-150,110,145,255
+The Scottish WL Open,2022-11-06,Men's Junior Under 20 96Kg,Josh Murray,95.7,-102,102,110,125,133,-138,110,133,243
+The Scottish WL Open,2022-11-06,Men's Senior 109+Kg,Ronan Wallace,113.3,-105,107,-112,123,129,133,107,133,240
+The Scottish WL Open,2022-11-05,Men's Senior 73Kg,Gilbert North,72.6,100,105,-108,125,-130,130,105,130,235
+The Scottish WL Open,2022-11-05,Men's Junior Under 20 81Kg,Callum Holland,78.55,100,105,-108,130,-136,-136,105,130,235
+The Scottish WL Open,2022-11-05,Men's Senior 73Kg,Lucas Clarke,73,100,104,-108,130,-135,-135,104,130,234
+The Scottish WL Open,2022-11-06,Men's Senior 102Kg,Matej Papp,99.85,100,-104,-105,127,133,-138,100,133,233
+The Scottish WL Open,2022-11-06,Men's Under 23 89Kg,Cameron McCowan,87.8,94,97,100,114,-117,118,100,118,218
+The Scottish WL Open,2022-11-05,Men's Senior 81Kg,Steven Mcallan,78.4,92,96,-100,116,-121,121,96,121,217
+The Scottish WL Open,2022-11-05,Men's Senior 81Kg,Adam Bryce,79.2,88,-92,-92,116,121,125,88,125,213
+The Scottish WL Open,2022-11-06,Men's Under 23 89Kg,George Lansdown,85.05,92,97,-101,110,115,-122,97,115,212
+The Scottish WL Open,2022-11-06,Men's Senior 89Kg,Nathan Mckendrick,85.5,88,92,-95,110,115,118,92,118,210
+The Scottish WL Open,2022-11-06,Men's Senior 96Kg,Murray Wallace,92.75,-95,-95,95,115,-120,-120,95,115,210
+The Scottish WL Open,2022-11-06,Men's Junior Under 20 102Kg,Euan Mclauchlan,99.9,90,-95,-97,110,115,-120,90,115,205
+The Scottish WL Open,2022-11-05,Men's Senior 67Kg,Kieran Hart,66.85,83,-86,87,112,116,-120,87,116,203
+The Scottish WL Open,2022-11-05,Men's Junior Under 20 67Kg,ally mcgrath,64.7,84,87,-90,-110,113,-118,87,113,200
+The Scottish WL Open,2022-11-06,Men's Junior Under 20 109+Kg,euan fitzpatrick,132.25,82,86,90,105,110,-115,90,110,200
+The Scottish WL Open,2022-11-06,Men's Under 23 109+Kg,Euan McGuigan,117,-85,85,-90,105,113,-120,85,113,198
+The Scottish WL Open,2022-11-06,Men's Under 23 89Kg,Cameron sinclair,84.7,75,80,83,100,105,110,83,110,193
+The Scottish WL Open,2022-11-05,Women's Under 23 71Kg,Alice Aitchison,70.3,-83,83,-86,108,-114,-114,83,108,191
+The Scottish WL Open,2022-11-06,Men's Under 23 109+Kg,Charlie Simpson,127.65,75,82,90,100,-107,-110,90,100,190
+The Scottish WL Open,2022-11-06,Men's Masters (40-44) 89Kg,Chris Johnston,85.95,80,-84,-84,-104,104,-107,80,104,184
+The Scottish WL Open,2022-11-05,Men's Senior 73Kg,Marcel Dutu,69.5,-73,73,-75,100,-105,105,73,105,178
+The Scottish WL Open,2022-11-05,Men's Junior Under 20 73Kg,Innes Urquhart,70.05,73,76,78,93,-96,96,78,96,174
+The Scottish WL Open,2022-11-05,Men's Under 23 73Kg,Finn McSwiggan,71.8,70,-75,-76,97,-105,-105,70,97,167
+The Scottish WL Open,2022-11-05,Men's Senior 67Kg,Jordan Bowie,66.55,75,-78,-78,88,-90,-90,75,88,163
+The Scottish WL Open,2022-11-05,Men's Under 23 67Kg,Lewis Angus,65.95,67,70,-74,88,91,-95,70,91,161
+The Scottish WL Open,2022-11-05,Men's Senior 61Kg,Aaron Black,60.95,-60,60,65,-85,85,94,65,94,159
+The Scottish WL Open,2022-11-05,Men's Under 23 61Kg,Cameron  Colville,60.15,-68,68,73,-85,-85,85,73,85,158
+The Scottish WL Open,2022-11-05,Women's Masters (35-39) 55Kg,Jodey Hughes,55,60,65,-67,82,86,-90,65,86,151
+The Scottish WL Open,2022-11-05,Men's Junior Under 20 67Kg,Finlay Waddell,66.15,60,63,-65,80,83,85,63,85,148
+The Scottish WL Open,2022-11-06,Women's Masters (40-44) 76Kg,christine smithson,73.2,59,62,-65,80,83,86,62,86,148
+The Scottish WL Open,2022-11-05,Women's Senior 71Kg,Shona Mckirdy,70.7,62,65,-67,74,77,80,65,80,145
+The Scottish WL Open,2022-11-05,Women's Senior 59Kg,Katarzyna Moszyk,58,63,66,-71,77,-81,-82,66,77,143
+The Scottish WL Open,2022-11-05,Women's Under 23 71Kg,Elizaveta Abel,70.5,57,60,63,75,78,80,63,80,143
+The Scottish WL Open,2022-11-05,Women's Masters (35-39) 71Kg,Julie Wilson,67.1,60,63,-66,77,80,-81,63,80,143
+The Scottish WL Open,2022-11-05,Women's Senior 64Kg,Sarah Casement,63.4,-64,-65,65,70,74,-78,65,74,139
+The Scottish WL Open,2022-11-05,Women's Under 23 71Kg,Hannah Langdon,65.9,60,63,-65,-72,72,-75,63,72,135
+The Scottish WL Open,2022-11-05,Women's Junior Under 20 55Kg,Alivia Smith,55,58,61,63,-70,70,-73,63,70,133
+The Scottish WL Open,2022-11-05,Women's Senior 64Kg,Martyna Hildebrandt,61.5,-57,57,60,73,-76,-76,60,73,133
+The Scottish WL Open,2022-11-05,Women's Senior 64Kg,Beata Korba,60.3,57,-60,-60,-72,72,75,57,75,132
+The Scottish WL Open,2022-11-06,Women's Masters (35-39) 81Kg,Sarah-Anne Duncan,78.4,50,54,56,72,76,-80,56,76,132
+The Scottish WL Open,2022-11-05,Women's Senior 64Kg,Chloe Kynoch,63.8,50,53,56,65,69,75,56,75,131
+The Scottish WL Open,2022-11-06,Women's Youth Under 17 76Kg,Hannah Spence,75.9,55,58,61,-70,70,-74,61,70,131
+The Scottish WL Open,2022-11-05,Women's Senior 81Kg,Nicole McIntosh,77.7,48,50,53,68,71,74,53,74,127
+The Scottish WL Open,2022-11-05,Women's Senior 71Kg,Hayleigh Wishart,70.4,47,51,55,65,69,72,55,72,127
+The Scottish WL Open,2022-11-06,Women's Masters (40-44) 87+Kg,Helen Robertson,102.6,-54,54,-57,68,-72,73,54,73,127
+The Scottish WL Open,2022-11-05,Women's Under 23 71Kg,Eilidh Gilchrist,69.9,50,53,-55,67,70,73,53,73,126
+The Scottish WL Open,2022-11-05,Women's Senior 59Kg,Regan McMillan,58.1,45,48,50,68,70,72,50,72,122
+The Scottish WL Open,2022-11-05,Women's Senior 64Kg,Alice Garrett Hindmarsh,64,51,54,-57,-66,66,-72,54,66,120
+The Scottish WL Open,2022-11-06,Women's Senior 76Kg,Stacey McGhee,73.8,45,48,51,65,68,-71,51,68,119
+The Scottish WL Open,2022-11-05,Women's Under 23 59Kg,Ragna Marie Engseth,59,51,-54,-55,-66,-66,66,51,66,117
+The Scottish WL Open,2022-11-05,Women's Under 23 64Kg,Niamh Summers,62.9,48,50,-52,63,66,-68,50,66,116
+The Scottish WL Open,2022-11-05,Women's Senior 64Kg,Marge Urquhart,62.5,45,50,-54,60,65,-70,50,65,115
+The Scottish WL Open,2022-11-05,Women's Senior 64Kg,Ami Sheridan,63.2,47,-50,-50,63,67,-70,47,67,114
+The Scottish WL Open,2022-11-06,Women's Masters (40-44) 87+Kg,Jillian McMenemy,87.2,45,47,-50,63,-65,66,47,66,113
+The Scottish WL Open,2022-11-05,Women's Junior Under 20 64Kg,Katie Ferguson,62.3,42,46,48,57,60,63,48,63,111
+The Scottish WL Open,2022-11-05,Women's Senior 71Kg,Abbie McAlpine,69.5,46,-49,50,59,61,-63,50,61,111
+The Scottish WL Open,2022-11-05,Women's Junior Under 20 45Kg,Alex Mackay,43.6,41,43,45,61,-63,65,45,65,110
+The Scottish WL Open,2022-11-05,Women's Senior 71Kg,Stephanie Boyd,69.9,40,43,46,55,60,64,46,64,110
+The Scottish WL Open,2022-11-05,Women's Under 23 71Kg,Elly Ficca,65.1,43,45,47,55,58,60,47,60,107
+The Scottish WL Open,2022-11-05,Women's Senior 64Kg,Rosie Bennett,63.7,40,-45,46,55,60,-64,46,60,106
+The Scottish WL Open,2022-11-05,Women's Senior 71Kg,Niamh Young,68.3,-40,40,44,58,62,-66,44,62,106
+The Scottish WL Open,2022-11-05,Women's Senior 71Kg,Heather Mcilraith,69.7,44,46,48,52,54,-56,48,54,102
+The Scottish WL Open,2022-11-05,Women's Senior 49Kg,Marie  McLaughlin ,48.4,34,37,40,44,47,50,40,50,90
+The Scottish WL Open,2022-11-05,Women's Masters (55-59) 64Kg,Laura Hunter,63,-35,-35,35,45,48,51,35,51,86
+The Scottish WL Open,2022-11-05,Men's Under 23 73Kg,Eric Paliotta,70.7,-72,-72,-75,0,0,0,0,0,0
+The Scottish WL Open,2022-11-06,Men's Under 23 89Kg,Fouad Ghareeb,87.95,-103,103,-107,-125,-125,-125,103,0,0
+The Scottish WL Open,2022-11-06,Men's Senior 89Kg,Thomas Zacharis,87.55,-95,95,-100,-120,-120,-125,95,0,0
+The Scottish WL Open,2022-11-06,Women's Masters (35-39) 87Kg,Janine Slaven,83,60,63,-65,0,0,0,63,0,0
