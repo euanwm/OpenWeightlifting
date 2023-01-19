@@ -89,8 +89,6 @@ func postLeaderboard(c *gin.Context) {
 	//todo: add in query checker, so it doesn't shit the bed on a bad query
 
 	if body != DefaultPayload {
-		log.Println("Filter applied...")
-		log.Println(WeightClassList[body.WeightClass])
 		fedData := dbtools.Filter(processedLeaderboard.Query(body.SortBy, body.Gender), body, WeightClassList[body.WeightClass])
 		c.JSON(http.StatusOK, fedData)
 
