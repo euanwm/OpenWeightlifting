@@ -8,26 +8,39 @@ import (
 	"time"
 )
 
+func removeFollowingLifts(bigData []structs.Entry) (filteredData []structs.Entry) {
+	var names []string
+	var position []int
+	for i, d := range bigData {
+		if utilities.Contains(names, d.Name) == false {
+			position = append(position, i)
+			names = append(names, d.Name)
+		}
+	}
+	for _, posInt := range position {
+		filteredData = append(filteredData, bigData[posInt])
+	}
+	return
+}
+
 //Filter - Returns a slice of structs relating to the selected filter selection
 func Filter(bigData []structs.Entry, filterQuery structs.LeaderboardPayload, weightCat structs.WeightClass) (filteredData []structs.Entry) {
-	var sliceLen = filterQuery.Stop - filterQuery.Start
-	var indexCount int
 	for _, lift := range bigData {
 		if filterQuery.Federation == enum.ALLFEDS {
 			filterQuery.Federation = lift.Federation
 		}
-		if lift.Federation == filterQuery.Federation && lift.WithinWeightClass(filterQuery.Gender, weightCat) && indexCount < filterQuery.Start {
-			indexCount++
-		} else if lift.Federation == filterQuery.Federation && lift.WithinWeightClass(filterQuery.Gender, weightCat) && indexCount >= filterQuery.Start {
+		if lift.Federation == filterQuery.Federation && lift.WithinWeightClass(filterQuery.Gender, weightCat) {
 			filteredData = append(filteredData, lift)
-		} else if len(filteredData) == sliceLen {
-			return
+		}
+		if len(filteredData) >= filterQuery.Stop {
+			filteredData = removeFollowingLifts(filteredData)
+			if len(filteredData) >= filterQuery.Stop {
+				return
+			}
 		}
 	}
-	if len(filteredData[filterQuery.Start:]) < sliceLen {
-		return filteredData[filterQuery.Start:]
-	}
-	return filteredData[filterQuery.Start:filterQuery.Stop]
+	filteredData = removeFollowingLifts(filteredData)
+	return
 }
 
 // SortSinclair Descending order by entry sinclair
@@ -55,25 +68,14 @@ func SortDate(liftData []structs.Entry) []structs.Entry {
 	return liftData
 }
 
-func TopPerformance(bigData []structs.Entry, sortBy string) (finalData []structs.Entry) {
+func SortLiftsBy(bigData []structs.Entry, sortBy string) (finalData []structs.Entry) {
 	switch sortBy {
 	case enum.Total:
 		SortTotal(bigData)
 	case enum.Sinclair:
 		SortSinclair(bigData)
 	}
-	//bigData = dropBombs(bigData) may need this in the future
-	var names []string
-	var position []int
-	for i, d := range bigData {
-		if utilities.Contains(names, d.Name) == false {
-			position = append(position, i)
-			names = append(names, d.Name)
-		}
-	}
-	for _, posInt := range position {
-		finalData = append(finalData, bigData[posInt])
-	}
+	finalData = append(finalData, bigData...)
 	return
 }
 
