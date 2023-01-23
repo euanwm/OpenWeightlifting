@@ -2,10 +2,7 @@ package utilities
 
 import (
 	"encoding/csv"
-	"fmt"
 	"io"
-	"log"
-	"os"
 	"strconv"
 )
 
@@ -34,17 +31,4 @@ func LoadCsvFile(file io.Reader, skipHeader bool) (csvContents [][]string) {
 		return csvContents[1:]
 	}
 	return csvContents
-}
-
-//WriteCSV Writes CSV file, first arg is the filepath/name. Second is the bigSlice data.
-func WriteCSV(csvFp string, bigSlice [][]string) {
-	newCsvFile, err := os.Create(csvFp)
-	if err != nil {
-		log.Fatal(err)
-	}
-	writer := csv.NewWriter(newCsvFile)
-	writeData := writer.WriteAll(bigSlice)
-	if writeData != nil {
-		fmt.Println(writeData)
-	}
 }

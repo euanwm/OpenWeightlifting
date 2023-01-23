@@ -34,7 +34,7 @@ func getSearchName(c *gin.Context) {
 func postLifterRecord(c *gin.Context) {
 	lifterSearch := structs.NameSearch{}
 	if err := c.BindJSON(&lifterSearch); err != nil {
-		c.AbortWithError(http.StatusBadRequest, err)
+		_ = c.AbortWithError(http.StatusBadRequest, err)
 	}
 	lifterDetails := lifter.FetchLifts(lifterSearch, &processedLeaderboard)
 	lifterDetails.Lifts = dbtools.SortDate(lifterDetails.Lifts)

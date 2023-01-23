@@ -78,15 +78,3 @@ func SortLiftsBy(bigData []structs.Entry, sortBy string) (finalData []structs.En
 	finalData = append(finalData, bigData...)
 	return
 }
-
-// dropBombs Removes people who failed to register a total
-func dropBombs(bigData []structs.Entry) (newData []structs.Entry) {
-	cutoffInt := 0
-	for i, meh := range bigData {
-		if meh.Total == 0 && cutoffInt == 0 {
-			cutoffInt = i
-		}
-	}
-	newData = bigData[:cutoffInt]
-	return
-}

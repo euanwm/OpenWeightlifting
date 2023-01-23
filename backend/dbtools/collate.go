@@ -1,8 +1,9 @@
 package dbtools
 
 import (
-	database "backend/database_root"
+	database "backend/event_data"
 	"backend/utilities"
+	"io/fs"
 	"log"
 	"path"
 )
@@ -38,7 +39,12 @@ func loadAllFedEvents(federation string) (allEvents [][]string) {
 			if err != nil {
 				log.Fatal(err)
 			}
-			defer fileHandle.Close()
+			defer func(fileHandle fs.File) {
+				err := fileHandle.Close()
+				if err != nil {
+					log.Fatal(err)
+				}
+			}(fileHandle)
 			eventData := utilities.LoadCsvFile(fileHandle, true)
 			eventData = insertFederation(eventData, federation)
 			allEvents = append(allEvents, eventData...)
