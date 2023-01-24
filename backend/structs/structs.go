@@ -31,7 +31,6 @@ type LifterHistory struct {
 
 type LeaderboardData struct {
 	AllNames        []string
-	AllData         []Entry
 	MaleTotals      []Entry
 	FemaleTotals    []Entry
 	MaleSinclairs   []Entry

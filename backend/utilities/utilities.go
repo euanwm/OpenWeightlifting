@@ -23,12 +23,9 @@ func Contains(sl []string, name string) bool {
 	return false
 }
 
-// LoadCsvFile Returns the contents of a CSV file as a nested slice with an option to skip the header line but in a lazy AF way
-func LoadCsvFile(file io.Reader, skipHeader bool) (csvContents [][]string) {
+// LoadCsvFile Returns the contents of a CSV file as a nested slice minus the header line
+func LoadCsvFile(file io.Reader) (csvContents [][]string) {
 	reader := csv.NewReader(file)
 	csvContents, _ = reader.ReadAll()
-	if skipHeader {
-		return csvContents[1:]
-	}
-	return csvContents
+	return csvContents[1:]
 }
