@@ -63,7 +63,6 @@ func buildDatabase() {
 	male, female, _ := dbtools.SortGender(bigData) // Throwaway the unknown genders as they're likely really young kids
 	leaderboardTotal := &structs.LeaderboardData{
 		AllNames:        append(male.ProcessNames(), female.ProcessNames()...),
-		AllData:         append(male.Lifts, female.Lifts...),
 		MaleTotals:      dbtools.SortLiftsBy(male.Lifts, enum.Total),
 		FemaleTotals:    dbtools.SortLiftsBy(female.Lifts, enum.Total),
 		MaleSinclairs:   dbtools.SortLiftsBy(male.Lifts, enum.Sinclair),
