@@ -45,7 +45,7 @@ func loadAllFedEvents(federation string) (allEvents [][]string) {
 					log.Fatal(err)
 				}
 			}(fileHandle)
-			eventData := utilities.LoadCsvFile(fileHandle, true)
+			eventData := utilities.LoadCsvFile(fileHandle)
 			eventData = insertFederation(eventData, federation)
 			allEvents = append(allEvents, eventData...)
 		}()
