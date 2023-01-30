@@ -5,13 +5,11 @@ import "backend/utilities"
 var instaHandles = map[string]string{
 	"Euan Meston":      "scream_and_jerk",
 	"KRYSTAL CAMPBELL": "da.real.krys",
-	"shite":            "poo_poo_land",
-	"otherShite":       "pee_pee_land",
 }
 
-func CheckUserList(lifterName string) string {
+func CheckUserList(lifterName string) (bool, string) {
 	if utilities.MapContains(lifterName, instaHandles) {
-		return instaHandles[lifterName]
+		return true, instaHandles[lifterName]
 	}
-	return ""
+	return false, ""
 }
