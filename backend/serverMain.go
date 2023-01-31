@@ -22,19 +22,6 @@ func getTest(c *gin.Context) {
 	c.JSON(http.StatusOK, retStruct)
 }
 
-func getInstagram(c *gin.Context) {
-	lifterNameQuery := c.Query("name")
-	if len(lifterNameQuery) == 0 {
-		c.JSON(http.StatusBadRequest, nil)
-	}
-	success, igHandle := lifter.CheckUserList(lifterNameQuery)
-	if success {
-		c.JSON(http.StatusOK, igHandle)
-	} else if success == false {
-		c.JSON(http.StatusNoContent, nil)
-	}
-}
-
 func getSearchName(c *gin.Context) {
 	if len(c.Query("name")) >= 3 {
 		search := structs.NameSearch{NameStr: c.Query("name")}
@@ -112,7 +99,6 @@ func main() {
 	r.POST("leaderboard", postLeaderboard)
 	r.GET("search", getSearchName)
 	r.POST("lifter", postLifterRecord)
-	r.GET("instagram", getInstagram)
 	err := r.Run()
 	if err != nil {
 		log.Fatal("Failed to run server")
