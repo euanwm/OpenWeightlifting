@@ -1,5 +1,7 @@
-import {Table} from "@nextui-org/react"
-import {AllDetails} from "./AllDetails"
+import { Table } from "@nextui-org/react"
+import { AllDetails } from "./AllDetails"
+import { IconContext } from 'react-icons'
+import { FaInstagram } from "react-icons/fa";
 
 const tableStyle = {
     tableLayout: 'fixed',
@@ -17,10 +19,11 @@ const tableHeaderStyles = {
 }
 
 const DataTable = ({ lifters }) => (
-  <Table selectionMode="single" striped aria-label="Open weight lifting lifters results table" css={tableStyle}>
+  <Table striped aria-label="Open weight lifting lifters results table" css={tableStyle}>
     <Table.Header>
       <Table.Column css={tableHeaderStyles}>Rank</Table.Column>
       <Table.Column css={tableHeaderStyles}>Lifter</Table.Column>
+      <Table.Column></Table.Column>
       <Table.Column css={tableHeaderStyles}>Federation</Table.Column>
       <Table.Column css={tableHeaderStyles}>Top Snatch</Table.Column>
       <Table.Column css={tableHeaderStyles}>Top Clean & Jerk</Table.Column>
@@ -32,8 +35,17 @@ const DataTable = ({ lifters }) => (
       {lifters.map((lifter, i) => (
         <Table.Row key={`lifter-${i + 1}`}>
           <Table.Cell>{i + 1}</Table.Cell>
-          <Table.Cell>{lifter.lifter_name}</Table.Cell>
-          <Table.Cell>{lifter.country}</Table.Cell>
+          <Table.Cell align='center'>{lifter.lifter_name}</Table.Cell>
+            <Table.Cell>
+                <IconContext.Provider value={{ style: { verticalAlign: 'middle' } }}>
+                {lifter.instagram.length > 0 &&
+                    <button onClick={event => window.open('https://www.instagram.com/' + lifter.instagram, '_blank')}>
+                        <FaInstagram size={20} />
+                    </button>
+                }
+                </IconContext.Provider>
+            </Table.Cell>
+            <Table.Cell>{lifter.country}</Table.Cell>
             <Table.Cell>{lifter.best_snatch}</Table.Cell>
             <Table.Cell>{lifter.best_cj}</Table.Cell>
           <Table.Cell>{lifter.total}</Table.Cell>
