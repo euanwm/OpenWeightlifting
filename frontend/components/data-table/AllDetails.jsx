@@ -25,7 +25,7 @@ export const AllDetails = ({full_comp}) => {
                 <Button auto flat>More details...</Button>
             </Popover.Trigger>
             <Popover.Content>
-                <Table selectionMode="single" striped aria-label="Open weight lifting lifters extended results table" css={tableLayoutStyle}>
+                <Table striped aria-label="Open weight lifting lifters extended results table" css={tableLayoutStyle}>
                     <Table.Header>
                         <Table.Column css={tableHeaderStyles}>{full_comp.event}</Table.Column>
                     </Table.Header>

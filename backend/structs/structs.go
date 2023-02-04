@@ -65,4 +65,5 @@ type Entry struct {
 	Total      float32 `json:"total"`
 	Sinclair   float32 `json:"sinclair"`
 	Federation string  `json:"country"`
+	Instagram  string  `json:"instagram"`
 }

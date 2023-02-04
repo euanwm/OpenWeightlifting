@@ -13,6 +13,16 @@ func Float(preFloatStr string) (retFloat float32) {
 	return
 }
 
+//MapContains - Returns true if the map/dict matches the primary/index data
+func MapContains(StrQuery string, mapData map[string]string) bool {
+	for index, _ := range mapData {
+		if index == StrQuery {
+			return true
+		}
+	}
+	return false
+}
+
 //Contains - Returns true if a substring within a string exists
 func Contains(sl []string, name string) bool {
 	for _, value := range sl {

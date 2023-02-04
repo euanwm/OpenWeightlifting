@@ -2,6 +2,7 @@ package dbtools
 
 import (
 	"backend/enum"
+	"backend/lifter"
 	"backend/structs"
 	"backend/utilities"
 	"sort"
@@ -30,6 +31,10 @@ func Filter(bigData []structs.Entry, filterQuery structs.LeaderboardPayload, wei
 			filterQuery.Federation = lift.Federation
 		}
 		if lift.Federation == filterQuery.Federation && lift.WithinWeightClass(filterQuery.Gender, weightCat) {
+			linkedIG, igHandle := lifter.CheckUserList(lift.Name)
+			if linkedIG {
+				lift.Instagram = igHandle
+			}
 			filteredData = append(filteredData, lift)
 		}
 		if len(filteredData) >= filterQuery.Stop {
