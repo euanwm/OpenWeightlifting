@@ -9,13 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@nextui-org/react": "^1.0.0-beta.10",
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
     "@mui/material": "^5.10.11",
+    "@nextui-org/react": "^1.0.0-beta.10",
+    "chart.js": "^4.2.0",
     "next": "12.2.5",
     "next-themes": "^0.2.0",
     "react": "18.2.0",
+    "react-chartjs-2": "^5.2.0",
     "react-dom": "18.2.0",
     "react-hotjar": "^5.1.0",
     "react-icons": "^4.4.0"

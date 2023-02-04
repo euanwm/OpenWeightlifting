@@ -1,7 +1,9 @@
 import { Table } from "@nextui-org/react"
 import { AllDetails } from "./AllDetails"
 import { IconContext } from 'react-icons'
-import { FaInstagram } from "react-icons/fa";
+import { FaInstagram } from "react-icons/fa"
+import { VscGraphLine } from 'react-icons/vsc'
+import { LifterGraph } from "./LifterGraph";
 
 const tableStyle = {
     tableLayout: 'fixed',
@@ -43,6 +45,10 @@ const DataTable = ({ lifters }) => (
                         <FaInstagram size={20} />
                     </button>
                 }
+                &nbsp;&nbsp;&nbsp;&nbsp;
+                    <button onClick={LifterGraph(lifter.lifter_name)}>
+                <VscGraphLine size={20}/>
+                    </button>
                 </IconContext.Provider>
             </Table.Cell>
             <Table.Cell>{lifter.country}</Table.Cell>
