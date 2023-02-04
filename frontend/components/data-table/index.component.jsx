@@ -46,7 +46,9 @@ const DataTable = ({ lifters }) => (
                     </button>
                 }
                 &nbsp;&nbsp;&nbsp;&nbsp;
-                    <button onClick={LifterGraph(lifter.lifter_name)}>
+                    <button onClick={
+                        <LifterGraph lifter_name={lifter.lifter_name}/>
+                    }>
                 <VscGraphLine size={20}/>
                     </button>
                 </IconContext.Provider>
