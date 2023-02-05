@@ -46,7 +46,7 @@ const weightClassList = [
   { value: 'F87+', label: 'Women\'s +87kg' }
 ]
 
-const Filters = ({ currentGender, sortBy, federation, handleGenderChange, weightClass }) => (
+export const Filters = ({ currentGender, sortBy, federation, handleGenderChange, weightClass }) => (
   <div className={styles.filters}>
     <FormControl className={styles.selectContainer}>
       <InputLabel variant="standard" htmlFor="genderSelect">
@@ -113,21 +113,19 @@ const Filters = ({ currentGender, sortBy, federation, handleGenderChange, weight
         Weight Class
       </InputLabel>
       <NativeSelect
-          id="weightSelect"
-          label="Weight Class"
-          value={weightClass}
-          onChange={e =>
-              handleGenderChange({ type: 'weightclass', value: e.target.value })
-          }
+        id="weightSelect"
+        label="Weight Class"
+        value={weightClass}
+        onChange={e =>
+          handleGenderChange({ type: 'weightclass', value: e.target.value })
+        }
       >
         {weightClassList.map(item => (
-            <option key={item.value} value={item.value}>
-              {item.label}
-            </option>
+          <option key={item.value} value={item.value}>
+            {item.label}
+          </option>
         ))}
       </NativeSelect>
     </FormControl>
   </div>
 )
-
-export default Filters

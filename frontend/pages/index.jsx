@@ -3,8 +3,8 @@ import { useTheme } from '@nextui-org/react'
 import { ThemeProvider, createTheme } from '@mui/material/styles'
 import CssBaseline from '@mui/material/CssBaseline'
 
-import DataTable from '../components/data-table/index.component'
-import Filters from '../components/filters/index.component'
+import { DataTable } from '../components/data-table/index.component'
+import { Filters } from '../components/filters/index.component'
 
 const fetchLifterData = async (
   gender = 'male',
