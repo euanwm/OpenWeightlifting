@@ -13,4 +13,6 @@ const (
 	MaxTotal          float32 = 510
 	MinimumBodyweight float32 = 20
 	MaximumBodyweight float32 = 300
+	BestSnatch        string  = "BestSn"
+	BestCJ            string  = "BestCJ"
 )

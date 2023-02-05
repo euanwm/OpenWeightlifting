@@ -24,6 +24,16 @@ type NameSearch struct {
 	NameStr string
 }
 
+type ChartData struct {
+	Dates   []string       `json:"labels"`
+	SubData []ChartSubData `json:"datasets"`
+}
+
+type ChartSubData struct {
+	Title     string    `json:"label"`
+	DataSlice []float32 `json:"data"`
+}
+
 type LifterHistory struct {
 	NameStr string  `json:"name"`
 	Lifts   []Entry `json:"lifts"`
