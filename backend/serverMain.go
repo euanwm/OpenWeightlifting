@@ -38,8 +38,9 @@ func postLifterRecord(c *gin.Context) {
 	}
 	lifterDetails := lifter.FetchLifts(lifterSearch, &processedLeaderboard)
 	lifterDetails.Lifts = dbtools.SortDate(lifterDetails.Lifts)
+	finalPayload := lifterDetails.GenerateChartData()
 	if len(lifterDetails.Lifts) != 0 {
-		c.JSON(http.StatusOK, lifterDetails)
+		c.JSON(http.StatusOK, finalPayload)
 	} else if len(lifterDetails.Lifts) == 0 {
 		c.JSON(http.StatusNoContent, nil)
 	}
