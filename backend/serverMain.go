@@ -3,6 +3,7 @@ package main
 import (
 	"backend/dbtools"
 	"backend/enum"
+	"backend/events"
 	"backend/lifter"
 	"backend/structs"
 	"log"
@@ -28,6 +29,19 @@ func getSearchName(c *gin.Context) {
 		suggestions := lifter.NameSearch(search.NameStr, &processedLeaderboard.AllNames)
 		results := structs.NameSearchResults{Names: processedLeaderboard.FetchNames(suggestions)}
 		c.JSON(http.StatusOK, results)
+	}
+}
+
+func getEventResult(c *gin.Context) {
+	eventSearch := structs.NameSearch{}
+	if err := c.BindJSON(&eventSearch); err != nil {
+		_ = c.AbortWithError(http.StatusBadRequest, err)
+	}
+	eventData := events.FetchEvent(eventSearch.NameStr, &processedLeaderboard)
+	if len(eventData) != 0 {
+		c.JSON(http.StatusOK, eventData)
+	} else {
+		c.JSON(http.StatusNoContent, nil)
 	}
 }
 
@@ -100,6 +114,7 @@ func main() {
 	r.POST("leaderboard", postLeaderboard)
 	r.GET("search", getSearchName)
 	r.POST("lifter", postLifterRecord)
+	r.GET("event", getEventResult)
 	err := r.Run()
 	if err != nil {
 		log.Fatal("Failed to run server")
