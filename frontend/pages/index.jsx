@@ -1,10 +1,11 @@
 import { useState, useEffect } from 'react'
-import { useTheme } from '@nextui-org/react'
+import { useTheme, Modal } from '@nextui-org/react'
 import { ThemeProvider, createTheme } from '@mui/material/styles'
 import CssBaseline from '@mui/material/CssBaseline'
 
 import { DataTable } from '../components/data-table/index.component'
 import { Filters } from '../components/filters/index.component'
+import { LifterGraph } from '../components/lifter-graph/index.component'
 
 const fetchLifterData = async (
   gender = 'male',
@@ -53,6 +54,7 @@ const Home = ({ data }) => {
   const [federation, setFederation] = useState('allfeds')
   const [weightclass, setWeightclass] = useState('allcats')
   const [currentLifterList, setCurrentLifterList] = useState(data)
+  const [showLifterGraph, setShowLifterGraph] = useState(false)
   const { isDark } = useTheme()
 
   useEffect(() => {
@@ -83,18 +85,27 @@ const Home = ({ data }) => {
     }
   }
 
+  const openLifterGraphHandler = () => setShowLifterGraph(true)
+
+  const closeLifterGraphHandler = () => setShowLifterGraph(false)
+
   return (
-    <ThemeProvider theme={isDark ? darkTheme : lightTheme}>
-      <CssBaseline />
-      <Filters
-        currentGender={currentGender}
-        sortBy={sortBy}
-        federation={federation}
-        handleGenderChange={handleGenderChange}
-        weightClass={weightclass}
-      />
-      {currentLifterList && <DataTable lifters={currentLifterList} />}
-    </ThemeProvider>
+    <>
+      <ThemeProvider theme={isDark ? darkTheme : lightTheme}>
+        <CssBaseline />
+        <Filters
+          currentGender={currentGender}
+          sortBy={sortBy}
+          federation={federation}
+          handleGenderChange={handleGenderChange}
+          weightClass={weightclass}
+        />
+        {currentLifterList && <DataTable lifters={currentLifterList} openLifterGraphHandler={openLifterGraphHandler} />}
+      </ThemeProvider>
+      <Modal closeButton blur aria-labelledby="modal-title" open={showLifterGraph} onClose={closeLifterGraphHandler} width={600}>
+        <LifterGraph />
+      </Modal>
+    </>
   )
 }
 

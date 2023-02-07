@@ -1,5 +1,4 @@
 import { Table } from "@nextui-org/react"
-import { IconContext } from 'react-icons'
 import { FaInstagram } from "react-icons/fa"
 import { VscGraphLine } from 'react-icons/vsc'
 import { useTheme } from '@nextui-org/react'
@@ -24,9 +23,20 @@ const tableHeaderStyles = {
   padding: "5px 10px"
 }
 
-export const DataTable = ({ lifters }) => {
+export const DataTable = ({ lifters, openLifterGraphHandler }) => {
   const { isDark } = useTheme();
   const themeIconClass = isDark ? styles.themeIconDark : styles.themeIconLight
+
+  const getLifterData = async (lifterName) => {
+    // const res = await fetch(`${process.env.API}/lifter`, {
+    //   method: 'POST',
+    //   headers: {
+    //     Accept: '*/*',
+    //     'Content-Type': 'application/json',
+    //   },
+    //   body: { 'NameStr': lifter_name },
+    // }).catch(error => console.error(error))
+  }
 
   const generateLifterRow = (lifter, lifterNo) => {
     const { lifter_name, instagram, country, best_snatch, best_cj, total, sinclair } = lifter
@@ -36,17 +46,14 @@ export const DataTable = ({ lifters }) => {
         <Table.Cell>{lifterNo}</Table.Cell>
         <Table.Cell align='center'>{lifter_name}</Table.Cell>
         <Table.Cell>
-          <IconContext.Provider value={{ style: { verticalAlign: 'middle' } }}>
+          <div className={styles.iconContainer}>
             {instagram.length > 0 && (
               <a href={`https://www.instagram.com/${instagram}`} target="_blank" rel="noreferrer noopener"><FaInstagram size={25} className={themeIconClass} /></a>
             )}
-            &nbsp;&nbsp;&nbsp;&nbsp;
-            <button onClick={
-              <LifterGraph lifter_name={lifter_name} />
-            }>
-              <VscGraphLine size={20} />
+            <button onClick={openLifterGraphHandler} className={styles.graphButton}>
+              <VscGraphLine size={25} className={themeIconClass} />
             </button>
-          </IconContext.Provider>
+          </div>
         </Table.Cell>
         <Table.Cell>{country}</Table.Cell>
         <Table.Cell>{best_snatch}</Table.Cell>

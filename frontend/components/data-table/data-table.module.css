@@ -1,7 +1,33 @@
+.iconContainer {
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+  align-items: center;
+}
+
+.iconContainer a,
+.iconContainer button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.iconContainer a:hover,
+.iconContainer button:hover {
+  transform: scale(1.1);
+}
+
 .themeIconDark {
   color: #ffffff;
 }
 
 .themeIconLight {
   color: #7e868c;
+}
+
+.graphButton {
+  padding: 0;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
 }
