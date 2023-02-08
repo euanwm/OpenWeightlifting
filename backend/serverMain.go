@@ -32,7 +32,7 @@ func getSearchName(c *gin.Context) {
 	}
 }
 
-func getEventResult(c *gin.Context) {
+func postEventResult(c *gin.Context) {
 	eventSearch := structs.NameSearch{}
 	if err := c.BindJSON(&eventSearch); err != nil {
 		_ = c.AbortWithError(http.StatusBadRequest, err)
@@ -114,7 +114,7 @@ func main() {
 	r.POST("leaderboard", postLeaderboard)
 	r.GET("search", getSearchName)
 	r.POST("lifter", postLifterRecord)
-	r.GET("event", getEventResult)
+	r.POST("event", postEventResult)
 	err := r.Run()
 	if err != nil {
 		log.Fatal("Failed to run server")
