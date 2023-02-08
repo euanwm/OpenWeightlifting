@@ -6,6 +6,26 @@ import (
 	"log"
 )
 
+func (e LifterHistory) GenerateChartData() ChartData {
+	var data ChartData
+	for _, lift := range e.Lifts {
+		data.Dates = append(data.Dates, lift.Date)
+	}
+	data.SubData = append(data.SubData, ChartSubData{
+		Title:     "Competition Total",
+		DataSlice: IterateFloatSlice(e.Lifts, enum.Total),
+	})
+	data.SubData = append(data.SubData, ChartSubData{
+		Title:     "Best Snatch",
+		DataSlice: IterateFloatSlice(e.Lifts, enum.BestSnatch),
+	})
+	data.SubData = append(data.SubData, ChartSubData{
+		Title:     "Best C&J",
+		DataSlice: IterateFloatSlice(e.Lifts, enum.BestCJ),
+	})
+	return data
+}
+
 func (e Entry) WithinWeightClass(gender string, catData WeightClass) bool {
 	if catData.Gender == enum.ALLCATS {
 		return true
