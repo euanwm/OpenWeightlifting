@@ -46,7 +46,7 @@ func postLifterRecord(c *gin.Context) {
 	}
 }
 
-//Main leaderboard function
+// Main leaderboard function
 func postLeaderboard(c *gin.Context) {
 	body := structs.LeaderboardPayload{}
 	if err := c.BindJSON(&body); err != nil {
@@ -87,8 +87,27 @@ func CORSConfig(localEnv bool) cors.Config {
 	return corsConfig
 }
 
+// Redirect http → https
+// TODO: move to a platform that can handle this outside of the application.
+func redirect(w http.ResponseWriter, req *http.Request) {
+	// remove/add not default ports from req.Host
+	target := "https://" + req.Host + req.URL.Path
+	if len(req.URL.RawQuery) > 0 {
+		target += "?" + req.URL.RawQuery
+	}
+	log.Printf("redirect to: %s", target)
+	http.Redirect(w, req, target,
+		// see comments below and consider the codes 308, 302, or 301
+		http.StatusPermanentRedirect)
+}
+
 func main() {
 	go buildDatabase()
+	// start basic http server using redirect.
+	// TODO: probably a way to do this with gin but I don't know.
+	go http.ListenAndServe(":8081", http.HandlerFunc(redirect))
+
+	// start gin
 	r := gin.Default()
 	//It's not a great solution but it'll work
 	if len(os.Args) > 1 && os.Args[1] == "local" {
