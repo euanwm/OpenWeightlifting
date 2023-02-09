@@ -4,7 +4,6 @@ import { VscGraphLine } from 'react-icons/vsc'
 import { useTheme } from '@nextui-org/react'
 
 import { AllDetails } from "../all-details/index.component"
-import { LifterGraph } from "../lifter-graph/index.component";
 
 import styles from './data-table.module.css'
 
@@ -27,17 +26,6 @@ export const DataTable = ({ lifters, openLifterGraphHandler }) => {
   const { isDark } = useTheme();
   const themeIconClass = isDark ? styles.themeIconDark : styles.themeIconLight
 
-  const getLifterData = async (lifterName) => {
-    // const res = await fetch(`${process.env.API}/lifter`, {
-    //   method: 'POST',
-    //   headers: {
-    //     Accept: '*/*',
-    //     'Content-Type': 'application/json',
-    //   },
-    //   body: { 'NameStr': lifter_name },
-    // }).catch(error => console.error(error))
-  }
-
   const generateLifterRow = (lifter, lifterNo) => {
     const { lifter_name, instagram, country, best_snatch, best_cj, total, sinclair } = lifter
 
@@ -50,7 +38,7 @@ export const DataTable = ({ lifters, openLifterGraphHandler }) => {
             {instagram.length > 0 && (
               <a href={`https://www.instagram.com/${instagram}`} target="_blank" rel="noreferrer noopener"><FaInstagram size={25} className={themeIconClass} /></a>
             )}
-            <button onClick={openLifterGraphHandler} className={styles.graphButton}>
+            <button onClick={() => openLifterGraphHandler(lifter_name)} className={styles.graphButton}>
               <VscGraphLine size={25} className={themeIconClass} />
             </button>
           </div>

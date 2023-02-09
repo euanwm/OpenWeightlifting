@@ -36,6 +36,23 @@ const fetchLifterData = async (
   return await res.json()
 }
 
+const fetchLifterGraphData = async (lifterName) => {
+  const bodyContent = JSON.stringify({
+    "NameStr": lifterName
+  })
+
+  const res = await fetch(`${process.env.API}/lifter`, {
+    method: 'POST',
+    headers: {
+      Accept: '*/*',
+      'Content-Type': 'application/json',
+    },
+    body: bodyContent,
+  }).catch(error => console.error(error))
+
+  return await res.json()
+}
+
 const darkTheme = createTheme({
   palette: {
     mode: 'dark',
@@ -55,6 +72,8 @@ const Home = ({ data }) => {
   const [weightclass, setWeightclass] = useState('allcats')
   const [currentLifterList, setCurrentLifterList] = useState(data)
   const [showLifterGraph, setShowLifterGraph] = useState(false)
+  const [currentLifterGraph, setCurrentLifterGraph] = useState()
+  const [isGraphLoading, setIsGraphLoading] = useState(false)
   const { isDark } = useTheme()
 
   useEffect(() => {
@@ -85,7 +104,20 @@ const Home = ({ data }) => {
     }
   }
 
-  const openLifterGraphHandler = () => setShowLifterGraph(true)
+  const openLifterGraphHandler = (lifterName) => {
+    // async function callFetchLifterGraphData() {
+    //   console.log(lifterName)
+    //   setCurrentLifterGraph(
+    //     await fetchLifterGraphData(lifterName)
+    //   )
+    // }
+
+
+    fetchLifterGraphData(lifterName)
+      .then((data) => setCurrentLifterGraph(data))
+      .then(() => setShowLifterGraph(true))
+    // setShowLifterGraph(true)
+  }
 
   const closeLifterGraphHandler = () => setShowLifterGraph(false)
 
@@ -103,7 +135,7 @@ const Home = ({ data }) => {
         {currentLifterList && <DataTable lifters={currentLifterList} openLifterGraphHandler={openLifterGraphHandler} />}
       </ThemeProvider>
       <Modal closeButton blur aria-labelledby="modal-title" open={showLifterGraph} onClose={closeLifterGraphHandler} width={600}>
-        <LifterGraph />
+        <LifterGraph data={currentLifterGraph} />
       </Modal>
     </>
   )
