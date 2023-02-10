@@ -27,30 +27,63 @@ export const LifterGraph = ({ data }) => {
     labels: labels,
     datasets: [{
       ...datasets[0],
-      fill: false,
-      borderColor: 'blue',
-      tension: 0.1
+      borderColor: '#0072F5',
+      backgroundColor: '#3694FF'
     }, {
       ...datasets[1],
-      fill: false,
-      borderColor: 'red',
-      tension: 0.1
+      borderColor: '#17C964',
+      backgroundColor: '#78F2AD'
     }, {
       ...datasets[2],
-      fill: false,
-      borderColor: 'green',
-      tension: 0.1
+      borderColor: '#F31260',
+      backgroundColor: '#F75F94'
     }]
   }
 
-  console.log(processedData)
+  const config = {
+    color: 'white',
+    layout: {
+      padding: 20
+    },
+    elements: {
+      point: {
+        radius: 4,
+        borderWidth: 0,
+        hitRadius: 2
+      },
+      line: {
+        tension: 0.1,
+        borderCapStyle: 'round',
+        fill: false,
+        borderWidth: 2
+      }
+    },
+    scales: {
+      x: {
+        grid: {
+          color: '#313538'
+        }
+      },
+      y: {
+        grid: {
+          color: '#313538'
+        }
+      }
+    },
+    plugins: {
+      legend: {
+        position: 'bottom',
+        labels: {
+          boxHeight: 15,
+          boxWidth: 15
+        },
+      }
+    },
+  }
 
   return (
-    <div style={{
-      padding: '2rem'
-    }}>
-      {/* <h4>{lifter_name}: History (Total)</h4> */}
-      < Line data={processedData} width={200} height={200} />
-    </div >
+    <>
+      <Line data={processedData} options={config} />
+    </>
   )
 };

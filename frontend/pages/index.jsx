@@ -71,9 +71,10 @@ const Home = ({ data }) => {
   const [federation, setFederation] = useState('allfeds')
   const [weightclass, setWeightclass] = useState('allcats')
   const [currentLifterList, setCurrentLifterList] = useState(data)
+  const [currentLifterName, setCurrentLifterName] = useState()
   const [showLifterGraph, setShowLifterGraph] = useState(false)
   const [currentLifterGraph, setCurrentLifterGraph] = useState()
-  const [isGraphLoading, setIsGraphLoading] = useState(false)
+  const [isGraphLoading, setIsGraphLoading] = useState(true)
   const { isDark } = useTheme()
 
   useEffect(() => {
@@ -105,18 +106,12 @@ const Home = ({ data }) => {
   }
 
   const openLifterGraphHandler = (lifterName) => {
-    // async function callFetchLifterGraphData() {
-    //   console.log(lifterName)
-    //   setCurrentLifterGraph(
-    //     await fetchLifterGraphData(lifterName)
-    //   )
-    // }
-
-
+    setIsGraphLoading(true)
+    setCurrentLifterName(lifterName)
     fetchLifterGraphData(lifterName)
       .then((data) => setCurrentLifterGraph(data))
       .then(() => setShowLifterGraph(true))
-    // setShowLifterGraph(true)
+      .then(() => setIsGraphLoading(false))
   }
 
   const closeLifterGraphHandler = () => setShowLifterGraph(false)
@@ -134,8 +129,13 @@ const Home = ({ data }) => {
         />
         {currentLifterList && <DataTable lifters={currentLifterList} openLifterGraphHandler={openLifterGraphHandler} />}
       </ThemeProvider>
-      <Modal closeButton blur aria-labelledby="modal-title" open={showLifterGraph} onClose={closeLifterGraphHandler} width={600}>
-        <LifterGraph data={currentLifterGraph} />
+      <Modal closeButton blur open={showLifterGraph} onClose={closeLifterGraphHandler} width={1000}>
+        <h3>{currentLifterName}: History (Total)</h3>
+        {isGraphLoading ? (
+          <h4>Loading...</h4>
+        ) : (
+          <LifterGraph data={currentLifterGraph} lifterName={currentLifterName} />
+        )}
       </Modal>
     </>
   )
