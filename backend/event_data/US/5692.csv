@@ -1,0 +1,71 @@
+meet,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+2023 RVA Open,2023-01-28,Open Men's 89kg,Caleb Goodman,87.5,125,130,138,165,-175,-182,138,165,303
+2023 RVA Open,2023-01-28,Junior Men's 81kg,Addison Gosline,80.4,102,110,115,-135,135,140,115,140,255
+2023 RVA Open,2023-01-28,Open Men's +109kg,Kirk Jennings,119,108,113,-118,130,135,-140,113,135,248
+2023 RVA Open,2023-01-28,Junior Men's 102kg,Caleb Tiron,98.7,95,100,104,125,131,-137,104,131,235
+2023 RVA Open,2023-01-28,Open Men's 102kg,Nathan Schwartz,99,105,-110,110,120,125,-130,110,125,235
+2023 RVA Open,2023-01-28,Open Men's 109kg,Jake Fralin,103.5,-100,105,110,115,-120,125,110,125,235
+2023 RVA Open,2023-01-28,Open Men's 96kg,Jonathan Nelson,93.5,-100,101,-106,128,133,-137,101,133,234
+2023 RVA Open,2023-01-28,Open Men's 96kg,Grayson Jones,95.8,96,-99,100,115,118,-121,100,118,218
+2023 RVA Open,2023-01-28,Open Men's 89kg,Marc Rappa,83.7,95,100,-105,-116,117,-125,100,117,217
+2023 RVA Open,2023-01-28,Open Men's 96kg,Justin Hawley,94.6,90,93,96,110,115,120,96,120,216
+2023 RVA Open,2023-01-28,Men's Masters (35-39) 102kg,Thomas Hartman,100,96,-98,-99,117,118,120,96,120,216
+2023 RVA Open,2023-01-28,Men's Masters (40-44) 96kg,Joe Daniel,94.5,80,-87,90,110,122,-125,90,122,212
+2023 RVA Open,2023-01-28,Open Men's 96kg,Reiley Rice,91.8,90,95,-100,107,112,115,95,115,210
+2023 RVA Open,2023-01-28,Open Men's 102kg,Maxwell Davis,98,90,93,95,110,-115,115,95,115,210
+2023 RVA Open,2023-01-28,Junior Men's +109kg,Vincent Shelah,113.7,87,91,96,108,113,-120,96,113,209
+2023 RVA Open,2023-01-28,Open Men's 81kg,Ben Zwilling,80.6,87,91,94,103,108,113,94,113,207
+2023 RVA Open,2023-01-28,Men's Masters (35-39) 81kg,Michael Pertoso,81,90,-96,96,110,-115,-115,96,110,206
+2023 RVA Open,2023-01-28,Men's Masters (35-39) 89kg,Peter Barr,85.9,82,85,-88,120,-125,-128,85,120,205
+2023 RVA Open,2023-01-28,Men's Masters (55-59) 89kg,Robert O'Day,88.3,87,90,-95,108,112,-120,90,112,202
+2023 RVA Open,2023-01-28,Open Men's 89kg,Matthew Weber,87.8,77,79,81,110,113,116,81,116,197
+2023 RVA Open,2023-01-28,Men's Masters (35-39) 102kg,Chad Blomquist,98.4,82,86,90,96,100,106,90,106,196
+2023 RVA Open,2023-01-28,Men's Masters (50-54) 73kg,Reginald Mays,71.8,88,91,-94,-104,104,-108,91,104,195
+2023 RVA Open,2023-01-28,Open Women's 71kg,Jaclyn Alberts,68.7,80,83,86,100,104,108,86,108,194
+2023 RVA Open,2023-01-28,Junior Men's 73kg,Noah Inocencio,71.1,-75,75,79,94,101,110,79,110,189
+2023 RVA Open,2023-01-28,Open Men's 89kg,Stuart Parkinson,88.3,73,77,80,97,-103,107,80,107,187
+2023 RVA Open,2023-01-28,Open Women's +87kg,LeKiesha White,95.5,74,77,81,98,102,105,81,105,186
+2023 RVA Open,2023-01-28,Men's Masters (45-49) 96kg,Matthew Bromwell,90,71,73,76,96,97,98,76,98,174
+2023 RVA Open,2023-01-28,Men's 16-17 Age Group 67kg,Harrison Phelps,63.4,70,73,76,90,93,97,76,97,173
+2023 RVA Open,2023-01-28,Junior Men's 89kg,Charles Konvicka  ,87.2,70,-75,75,92,95,-101,75,95,170
+2023 RVA Open,2023-01-28,Men's Masters (35-39) +109kg,Gary Moore Jr,113.5,70,73,-76,-95,96,-100,73,96,169
+2023 RVA Open,2023-01-28,Open Women's 59kg,Maria Hayden,57.3,68,71,74,-87,90,94,74,94,168
+2023 RVA Open,2023-01-28,Men's Masters (35-39) 73kg,Adam Diaz,72.1,63,67,71,91,-94,95,71,95,166
+2023 RVA Open,2023-01-28,Open Women's 71kg,Katherine Mullery,69.8,70,-73,74,85,88,-91,74,88,162
+2023 RVA Open,2023-01-28,Men's 16-17 Age Group 96kg,Arthur Newman,93.6,65,69,73,88,-93,0,73,88,161
+2023 RVA Open,2023-01-28,Men's Masters (40-44) 109kg,Andrew Zoeller,102.3,-66,66,-69,-94,94,-99,66,94,160
+2023 RVA Open,2023-01-28,Women's Masters (35-39) 76kg,Carlyn Winston,72.8,-66,-66,66,76,80,84,66,84,150
+2023 RVA Open,2023-01-28,Open Women's 81kg,Megan Way,80.5,-63,-63,64,82,85,-87,64,85,149
+2023 RVA Open,2023-01-28,Men's 14-15 Age Group 61kg,Gavin Searcey,58.1,57,60,63,76,80,84,63,84,147
+2023 RVA Open,2023-01-28,Open Men's 81kg,Parker Benbow,78.5,60,63,66,75,-80,80,66,80,146
+2023 RVA Open,2023-01-28,Open Women's +87kg,Telicia Berry,95.4,55,58,-61,73,77,80,58,80,138
+2023 RVA Open,2023-01-28,Open Women's +87kg,Emily Jones,95.5,54,-56,57,71,73,-75,57,73,130
+2023 RVA Open,2023-01-28,Open Women's +87kg,Shelby Crispin,88,52,55,58,64,68,71,58,71,129
+2023 RVA Open,2023-01-28,Open Women's 71kg,Taylor Laffoon,66.1,-47,47,50,69,73,76,50,76,126
+2023 RVA Open,2023-01-28,Open Women's 76kg,Amanda Carson,75.6,55,57,-59,65,68,-71,57,68,125
+2023 RVA Open,2023-01-28,Junior Women's 64kg,Christina Geddings,62.8,52,54,-57,61,64,68,54,68,122
+2023 RVA Open,2023-01-28,Men's Masters (50-54) 96kg,Matthew Hudson,94,52,54,58,59,62,64,58,64,122
+2023 RVA Open,2023-01-28,Open Women's 81kg,Lindsay Hodges,79.1,50,-54,-55,68,71,-73,50,71,121
+2023 RVA Open,2023-01-28,Open Women's 71kg,Madison Bendele,64.7,51,54,-57,59,62,65,54,65,119
+2023 RVA Open,2023-01-28,Open Women's 71kg,Katie Salmons,67.3,45,48,-51,67,70,-74,48,70,118
+2023 RVA Open,2023-01-28,Women's Masters (35-39) 81kg,Stephanie Jackson,78.7,48,50,-53,66,-67,67,50,67,117
+2023 RVA Open,2023-01-28,Women's Masters (45-49) 76kg,Megan Abel,73.3,44,47,49,56,60,65,49,65,114
+2023 RVA Open,2023-01-28,Open Women's 81kg,Mariela Sanchez,80.6,42,45,48,59,62,64,48,64,112
+2023 RVA Open,2023-01-28,Open Women's 71kg,Allison Wishon,64.3,39,42,46,61,65,-67,46,65,111
+2023 RVA Open,2023-01-28,Women's Masters (35-39) 64kg,Christina Tacoronti,61.8,43,45,47,59,62,64,47,64,111
+2023 RVA Open,2023-01-28,Open Women's 87kg,Christina Flierler,85,-40,46,49,53,57,61,49,61,110
+2023 RVA Open,2023-01-28,Men's Masters (35-39) 109kg,John Trent,102.7,40,43,46,55,59,62,46,62,108
+2023 RVA Open,2023-01-28,Women's Masters (45-49) 81kg,Erin Potter,79.7,42,45,-48,-55,56,-60,45,56,101
+2023 RVA Open,2023-01-28,Men's 13 Under Age Group +73kg,Declan Clevenger,110.6,38,41,44,49,52,55,44,55,99
+2023 RVA Open,2023-01-28,Open Women's 87kg,Mollie Jarrett,86,35,38,40,48,51,56,40,56,96
+2023 RVA Open,2023-01-28,Women's Masters (50-54) 81kg,Amy Schroeder,79.7,-41,-41,41,54,55,-56,41,55,96
+2023 RVA Open,2023-01-28,Open Women's 81kg,Lauran Martyn,78.4,30,33,36,40,44,48,36,48,84
+2023 RVA Open,2023-01-28,Women's Masters (45-49) 64kg,Melissa Shigley,62.7,28,30,32,41,-44,45,32,45,77
+2023 RVA Open,2023-01-28,Women's Masters (65-69) 76kg,Karen King,73.2,27,-29,29,44,-46,46,29,46,75
+2023 RVA Open,2023-01-28,Women's Masters (35-39) 71kg,Ross Tingen,70,30,-32,32,33,36,39,32,39,71
+2023 RVA Open,2023-01-28,Women's Masters (50-54) 49kg,Jennifer Claflin,48.3,26,-28,-28,36,38,-40,26,38,64
+2023 RVA Open,2023-01-28,Open Women's 59kg,Cora Kline,57.7,23,24,25,31,33,0,25,33,58
+2023 RVA Open,2023-01-28,Women's Masters (35-39) 49kg,Helen Greenbacker,48.7,36,38,-40,-47,-48,-48,38,0,0
+2023 RVA Open,2023-01-28,Open Men's 73kg,Ethan Nguyen,68.2,-77,-77,-78,95,99,103,0,103,0
+2023 RVA Open,2023-01-28,Open Men's 96kg,Fahed Balam,95.2,-85,-88,-88,105,111,115,0,115,0
+2023 RVA Open,2023-01-28,Open Men's +109kg,Logan Cohn,116.5,94,-98,-101,-128,-128,-128,94,0,0

@@ -173,7 +173,7 @@ class AustraliaWeightlifting:
 
     def update_db(self, step=30):
         """meh"""
-        root_dir = "database_root/AUS"
+        root_dir = "event_data/AUS"
         print(f"updating {root_dir.split('/')[1]} database...")
         dir_contents = os.listdir(root_dir)
         last_id = highest_csv_id(dir_contents) + 1  # stops writing over the last/highest csv in the directory
