@@ -13,26 +13,26 @@ class CLICommands:
         """updates all databases"""
         match db_name:
             case "iwf":
-                iwf_db = InternationalWF("../backend/database_root/IWF")
+                iwf_db = InternationalWF("../backend/event_data/IWF")
                 iwf_db.update_results()
             case "uk":
-                uk_db = DBHandler("https://bwl.sport80.com/", "../backend/database_root/UK")
+                uk_db = DBHandler("https://bwl.sport80.com/", "../backend/event_data/UK")
                 uk_db.update_results(datetime.now().year)
             case "us":
-                us_db = DBHandler("https://usaweightlifting.sport80.com/", "../backend/database_root/US")
+                us_db = DBHandler("https://usaweightlifting.sport80.com/", "../backend/event_data/US")
                 us_db.update_results(datetime.now().year)
             case "aus":
                 aus_db = AustraliaWeightlifting()
                 aus_db.update_db()
             case "all":
                 year = datetime.now().year
-                uk_db = DBHandler("https://bwl.sport80.com/", "../backend/database_root/UK")
+                uk_db = DBHandler("https://bwl.sport80.com/", "../backend/event_data/UK")
                 uk_db.update_results(year)
-                us_db = DBHandler("https://usaweightlifting.sport80.com/", "../backend/database_root/US")
+                us_db = DBHandler("https://usaweightlifting.sport80.com/", "../backend/event_data/US")
                 us_db.update_results(year)
                 aus_db = AustraliaWeightlifting()
                 aus_db.update_db()
-                iwf_db = InternationalWF("../backend/database_root/IWF")
+                iwf_db = InternationalWF("../backend/event_data/IWF")
                 iwf_db.update_results()
             case _:
                 sys.exit(f"database not found: {db_name}")
