@@ -16,6 +16,8 @@ import (
 
 var processedLeaderboard structs.LeaderboardData
 
+var lifterData = lifter.Build()
+
 func getTest(c *gin.Context) {
 	hour, min, sec := time.Now().Clock()
 	retStruct := structs.TestPayload{Hour: hour, Min: min, Sec: sec}
@@ -54,7 +56,7 @@ func postLeaderboard(c *gin.Context) {
 		log.Println(abortErr)
 		return
 	}
-	fedData := dbtools.Filter(processedLeaderboard.Query(body.SortBy, body.Gender), body, dbtools.WeightClassList[body.WeightClass])
+	fedData := dbtools.Filter(processedLeaderboard.Query(body.SortBy, body.Gender), body, dbtools.WeightClassList[body.WeightClass], *lifterData)
 	c.JSON(http.StatusOK, fedData)
 }
 

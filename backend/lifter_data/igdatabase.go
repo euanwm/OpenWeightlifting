@@ -4,5 +4,5 @@ import (
 	"embed"
 )
 
-//go:embed **/*.csv
+//go:embed *.csv
 var InstagramDatabase embed.FS

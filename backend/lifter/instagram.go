@@ -1,20 +1,39 @@
 package lifter
 
-import "backend/utilities"
+import (
+	igDatabase "backend/lifter_data"
+	"backend/utilities"
+	"io/fs"
+	"log"
+)
 
-var instaHandles = map[string]string{
-	"Euan Meston":      "scream_and_jerk",
-	"KRYSTAL CAMPBELL": "da.real.krys",
-	"TALAKHADZE Lasha": "talakhadzelasha_official",
-	"Benedict Millson": "mrbigfriday",
-	"Stefano Cataldi": "stefanotheweightlifter",
-	"Harry Nelms": "13harry1999",
-	"Khrystopher Speed": "kdotspeed",
-}
-
-func CheckUserList(lifterName string) (bool, string) {
-	if utilities.MapContains(lifterName, instaHandles) {
-		return true, instaHandles[lifterName]
+func CheckUserList(lifterName string, lifterProfiles map[string]string) (bool, string) {
+	if utilities.MapContains(lifterName, lifterProfiles) {
+		return true, lifterProfiles[lifterName]
 	}
 	return false, ""
+}
+
+func Build() *map[string]string {
+	var lifterGrams [][]string
+	var lifterGramsMap = make(map[string]string)
+	func() {
+		fileHandle, err := igDatabase.InstagramDatabase.Open("ighandles.csv")
+		if err != nil {
+			log.Fatal(err)
+		}
+		defer func(fileHandle fs.File) {
+			err := fileHandle.Close()
+			if err != nil {
+				log.Fatal(err)
+			}
+		}(fileHandle)
+		gramData := utilities.LoadCsvFile(fileHandle)
+		lifterGrams = append(lifterGrams, gramData...)
+	}()
+
+	for _, gram := range lifterGrams {
+		lifterGramsMap[gram[0]] = gram[1]
+	}
+	return &lifterGramsMap
 }
