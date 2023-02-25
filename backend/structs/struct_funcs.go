@@ -7,6 +7,7 @@ import (
 )
 
 func (e LifterHistory) GenerateChartData() ChartData {
+	// todo: implement DRY principle
 	var data ChartData
 	for _, lift := range e.Lifts {
 		data.Dates = append(data.Dates, lift.Date)
@@ -22,6 +23,10 @@ func (e LifterHistory) GenerateChartData() ChartData {
 	data.SubData = append(data.SubData, ChartSubData{
 		Title:     "Best C&J",
 		DataSlice: IterateFloatSlice(e.Lifts, enum.BestCJ),
+	})
+	data.SubData = append(data.SubData, ChartSubData{
+		Title:     "Bodyweight",
+		DataSlice: IterateFloatSlice(e.Lifts, enum.Bodyweight),
 	})
 	return data
 }
