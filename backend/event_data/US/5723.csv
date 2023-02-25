@@ -1,0 +1,43 @@
+meet,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Pony Express,2023-02-18,Open Men's 96kg,Noah Bradley,95.46,0,0,123,0,0,160,123,160,283
+Pony Express,2023-02-18,Junior Men's 102kg,Connor Gunderson,99.26,115,120,125,145,155,0,125,155,280
+Pony Express,2023-02-18,Junior Men's 96kg,Jacob Smitka,91.45,115,0,121,140,145,152,121,152,273
+Pony Express,2023-02-18,Open Men's 73kg,Austin Healy,72.99,115,0,0,0,150,0,115,150,265
+Pony Express,2023-02-18,Open Men's 89kg,Keaton OConnor,86.31,110,115,0,0,128,135,115,135,250
+Pony Express,2023-02-18,Junior Men's 96kg,Grant Fristo,96,108,112,116,133,0,0,116,133,249
+Pony Express,2023-02-18,Junior Men's 89kg,Kirk McClain,87.5,107,111,0,125,130,135,111,135,246
+Pony Express,2023-02-18,Open Men's 96kg,Konnor Cook,93.28,93,0,100,120,128,132,100,132,232
+Pony Express,2023-02-18,Open Men's 96kg,Aidan Luther,94.92,0,100,103,120,125,128,103,128,231
+Pony Express,2023-02-18,Men's Masters (35-39) 96kg,Brandon Koontz,93.22,95,0,102,120,125,0,102,125,227
+Pony Express,2023-02-18,Open Men's 81kg,Justin Miller,79.98,91,96,0,120,125,0,96,125,221
+Pony Express,2023-02-18,Men's Masters (35-39) 67kg,Justin Niles,66.89,88,91,93,100,104,0,93,104,197
+Pony Express,2023-02-18,Men's 16-17 Age Group +102kg,Cole Kelley,113.7,0,75,80,95,100,105,80,105,185
+Pony Express,2023-02-18,Open Men's 67kg,Victor Martin,65.09,70,75,78,100,105,0,78,105,183
+Pony Express,2023-02-18,Junior Women's +87kg,Chloe Crooks,106.1,74,77,0,94,98,102,77,102,179
+Pony Express,2023-02-18,Open Women's +87kg,Mia Hannah,95,71,0,0,89,92,0,71,92,163
+Pony Express,2023-02-18,Men's Masters (50-54) 81kg,David Sayler,76.08,66,0,0,85,89,0,66,89,155
+Pony Express,2023-02-18,Women's 14-15 Age Group +76kg,Kinsley Rodden,128.5,57,0,60,73,77,80,60,80,140
+Pony Express,2023-02-18,Men's Masters (70-74) 67kg,Robert Gilsdorf,62.81,43,46,48,60,65,70,48,70,118
+Pony Express,2023-02-18,Men's 14-15 Age Group 67kg,Amden Ross,64.81,40,45,0,52,57,60,45,60,105
+Pony Express,2023-02-18,Men's Masters (70-74) 89kg,paul hansen,85.78,40,45,0,50,55,60,45,60,105
+Pony Express,2023-02-18,Women's Masters (40-44) 59kg,Diana Koontz,58,37,39,42,55,58,62,42,62,104
+Pony Express,2023-02-18,Men's Masters (65-69) 67kg,Michael Schaeffer,62.56,43,46,0,55,58,0,46,58,104
+Pony Express,2023-02-18,Open Women's 71kg,Elizabeth Berg,65.5,36,40,0,54,0,0,40,54,94
+Pony Express,2023-02-18,Men's 14-15 Age Group 61kg,Hunter Lopez,60.9,36,40,0,50,53,0,40,53,93
+Pony Express,2023-02-18,Men's 14-15 Age Group 44kg,Samuel Busenitz,43.52,34,37,0,46,50,53,37,53,90
+Pony Express,2023-02-18,Women's Masters (40-44) 81kg,Whitney Rodden,78.3,30,33,40,40,42,45,40,45,85
+Pony Express,2023-02-18,Men's 13 Under Age Group 44kg,JONAH BAHARIN,42.09,32,35,0,42,44,0,35,44,79
+Pony Express,2023-02-18,Women's 14-15 Age Group 49kg,Ivy Weiss,46.5,32,35,0,42,44,0,35,44,79
+Pony Express,2023-02-18,Men's 13 Under Age Group 32kg,Andrew Taussig,30.91,25,0,28,39,42,45,28,45,73
+Pony Express,2023-02-18,Women's 14-15 Age Group 71kg,Lillian Christy,66,28,31,0,37,40,42,31,42,73
+Pony Express,2023-02-18,Men's Masters (80+) 61kg,Art Tarwater,55.52,28,31,33,34,37,39,33,39,72
+Pony Express,2023-02-18,Men's 13 Under Age Group 49kg,Colin Kelley,45.09,26,29,0,36,38,40,29,40,69
+Pony Express,2023-02-18,Women's 16-17 Age Group 55kg,Elizabeth Cardoni,53.85,26,28,30,0,37,0,30,37,67
+Pony Express,2023-02-18,Men's 13 Under Age Group 36kg,Kai Weiss,35.75,23,25,27,34,0,36,27,36,63
+Pony Express,2023-02-18,Men's 13 Under Age Group 44kg,Lukas Huff,41.63,23,26,28,0,0,35,28,35,63
+Pony Express,2023-02-18,Men's 13 Under Age Group 61kg,Lincoln Christy,55.17,24,0,26,33,34,36,26,36,62
+Pony Express,2023-02-18,Men's 13 Under Age Group 32kg,Luke Taussig,27,19,21,23,30,32,34,23,34,57
+Pony Express,2023-02-18,Men's 13 Under Age Group 32kg,Ren Tse,23.48,14,0,16,0,20,21,16,21,37
+Pony Express,2023-02-18,Women's 13 Under Age Group 30kg,NOR AMINA BAHARIN,28.98,0,12,13,0,17,0,13,17,30
+Pony Express,2023-02-18,Women's 13 Under Age Group 30kg,Penelope Canchola,20.35,5,6,7,7,8,9,7,9,16
+Pony Express,2023-02-18,Women's Masters (40-44) 87kg,Christian Kennedy,83.85,0,0,0,85,0,89,0,89,0
