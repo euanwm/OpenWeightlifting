@@ -9,7 +9,6 @@ import {
   Legend,
 } from 'chart.js'
 import { Line } from 'react-chartjs-2'
-import { Popover } from "@nextui-org/react"
 
 ChartJS.register(
   CategoryScale,
@@ -37,6 +36,10 @@ export const LifterGraph = ({ data }) => {
       ...datasets[2],
       borderColor: '#F31260',
       backgroundColor: '#F75F94'
+    }, {
+      ...datasets[3],
+      borderColor: '#F3A312',
+      backgroundColor: '#F7C78F'
     }]
   }
 
