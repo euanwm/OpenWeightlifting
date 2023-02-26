@@ -1,4 +1,4 @@
-name: Deploy
+name: Deploy to Heroku
 
 on:
   push:
@@ -16,3 +16,9 @@ jobs:
           app-name: "owl-production-backend-test"
           api-key: "${{secrets.HEROKU_API_KEY}}"
           path: "/backend/"
+      - name: Deploy OWL Frontend
+        uses: behe/heroku-build@v1
+        with:
+          app-name: "owl-production-frontend-test"
+          api-key: "${{secrets.HEROKU_API_KEY}}"
+          path: "/frontend/"
