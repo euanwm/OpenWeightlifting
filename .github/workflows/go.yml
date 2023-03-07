@@ -25,4 +25,4 @@ jobs:
     - name: Test
       run: |
         cd backend/
-        go test -v
+        go test -coverpkg=./... ./...
