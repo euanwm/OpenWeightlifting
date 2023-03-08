@@ -3,6 +3,9 @@ package lifter
 import "testing"
 
 func TestCheckUserList(t *testing.T) {
+	lifterProfiles := make(map[string]string)
+	lifterProfiles["Euan Meston"] = "scream_and_jerk"
+
 	type args struct {
 		lifterName string
 	}
@@ -18,7 +21,7 @@ func TestCheckUserList(t *testing.T) {
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			got, got1 := CheckUserList(tt.args.lifterName)
+			got, got1 := CheckUserList(tt.args.lifterName, lifterProfiles)
 			if got != tt.want {
 				t.Errorf("CheckUserList() got = %v, want %v", got, tt.want)
 			}
