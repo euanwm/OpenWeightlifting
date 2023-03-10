@@ -7,7 +7,7 @@ on:
     branches: [ "development", "master"]
 
 jobs:
-  build:
+  gobuild:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
