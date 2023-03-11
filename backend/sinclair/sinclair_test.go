@@ -1,0 +1,54 @@
+package sinclair
+
+import (
+	"backend/structs"
+	"testing"
+)
+
+func TestCalcSinclair(t *testing.T) {
+	type args struct {
+		result *structs.Entry
+		male   bool
+	}
+	tests := []struct {
+		name             string
+		args             args
+		expectedSinclair float32
+	}{
+		{
+			name:             "Normal Sinclair",
+			args:             args{result: &structs.Entry{Bodyweight: 81, Total: 235, Sinclair: 0}, male: true},
+			expectedSinclair: 285.66986,
+		},
+		{
+			name:             "Over-range Sinclair",
+			args:             args{result: &structs.Entry{Bodyweight: 160, Total: 510, Sinclair: 0}, male: true},
+			expectedSinclair: 0,
+		},
+		{
+			name:             "Normal Sinclair",
+			args:             args{result: &structs.Entry{Bodyweight: 81, Total: 235, Sinclair: 0}, male: false},
+			expectedSinclair: 270.17587,
+		},
+		{
+			name:             "Over-range Sinclair",
+			args:             args{result: &structs.Entry{Bodyweight: 160, Total: 510, Sinclair: 0}, male: false},
+			expectedSinclair: 0,
+		},
+	}
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			CalcSinclair(tt.args.result, tt.args.male)
+			switch tt.name {
+			case "Normal Sinclair":
+				if tt.args.result.Sinclair != tt.expectedSinclair {
+					t.Errorf("CalcSinclair(male=%t): Normal Sinclair - got = %v, want %v", tt.args.male, tt.args.result.Sinclair, tt.expectedSinclair)
+				}
+			case "Over-range Sinclair":
+				if tt.args.result.Sinclair > tt.expectedSinclair {
+					t.Errorf("CalcSinclair(male=%t): Over-range Sinclair - got = %v, want %v", tt.args.male, tt.args.result.Sinclair, tt.expectedSinclair)
+				}
+			}
+		})
+	}
+}
