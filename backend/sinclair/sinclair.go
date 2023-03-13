@@ -25,6 +25,7 @@ func CalcSinclair(result *structs.Entry, male bool) {
 		coEffA = aFemale
 		coEffB = bFemale
 	}
+	// todo: add in error handling
 	if result.Total != 0 && result.Bodyweight > minBW {
 		if float64(result.Bodyweight) <= coEffB {
 			var X = math.Log10(float64(result.Bodyweight) / coEffB)
