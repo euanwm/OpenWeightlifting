@@ -1,16 +1,9 @@
 # OpenWeightlifting
 
-OK, first things first. This shares zero code or affiliation with OpenPowerlifting. However, the idea is similar. 
-
-The overall aim is to collate as much weightliting data as possible from as many trust-worthy sources. 
-
-Currently, those sources are national governing bodies from UK, US, and Australia. We will soon be adding competitions from the IWF.
+[![codecov](https://codecov.io/gh/euanwm/OpenWeightlifting/branch/development/graph/badge.svg?token=CX7H10ZNLM)](https://codecov.io/gh/euanwm/OpenWeightlifting)
 
 ## Local Testing
-
-I'm not even a dev so if it doesn't work then you'll need to figure it out.
-### Dockerized Website
-This _**might**_ start up a live version of what is currently available.
+We've added a docker-compose file to make it easier to test locally. This will spin up a local instance of the backend and frontend services. In production, these services are deployed separately.
 ```bash
 docker-compose build
 docker-compose up
@@ -22,15 +15,25 @@ docker-compose down
 ```
 
 ### Backend-only
-This did originally start as a web-scraping project which spun-off to become [sport80](https://github.com/euanwm/sport80_api) so you'll see a lot of code that bears resemblance to what would be a shoddily built API tool.
+When launching the backend service you'll need to toggle the CORS flag which is done be adding the 'local' argument when calling the executable.
 ```bash
-cd backend
-pipenv install
-pipenv run python3 backend_main.py
+go build backend.go
+./backend local
 ```
 
 ### Frontend-only
-SIKE, I have no idea what i'm doing with UI stuff. It's on my lengthy list of todo's.
+We prefer to use npm for the frontend stuff.
+```bash
+npm install
+npm run dev
+```
+
+### Updating the database
+To pull the latest results from the all relevant federations, you'll need to run the following command from the python_tools directory:
+```bash
+pipenv install
+pipenv run python backend_cli.py --update all
+```
 
 ### License
 Done this under the BSD-3-Clause license. Simply because it's what the sport80 library is under and i'm hella lazy.
