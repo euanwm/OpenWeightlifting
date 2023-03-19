@@ -3,8 +3,8 @@ import sys
 from sys import argv
 from datetime import datetime
 
-from python_tools.database_handler import DBHandler
-from python_tools.database_handler import AustraliaWeightlifting, InternationalWF
+from database_handler import DBHandler
+from database_handler import AustraliaWeightlifting, InternationalWF
 
 
 class CLICommands:

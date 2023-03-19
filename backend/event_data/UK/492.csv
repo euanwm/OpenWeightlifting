@@ -1,0 +1,72 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Scottish Universities,2023-03-05,Men's Senior 89Kg,Allen Brindley,88,118,121,125,-147,147,-155,125,147,272
+Scottish Universities,2023-03-05,Men's Under 23 89Kg,Fouad Ghareeb,89,100,106,-111,120,-130,132,106,132,238
+Scottish Universities,2023-03-04,Men's Under 23 81Kg,James Zhang,79.7,95,100,105,-115,115,120,105,120,225
+Scottish Universities,2023-03-05,Men's Under 23 109+Kg,Charlie Simpson,125,85,90,95,113,121,-130,95,121,216
+Scottish Universities,2023-03-04,Men's Under 23 81Kg,Eoghan McArthur,77.5,90,95,100,110,115,-120,100,115,215
+Scottish Universities,2023-03-05,Men's Senior 89Kg,Thomas Zacharis,88.1,-90,-90,90,110,-117,120,90,120,210
+Scottish Universities,2023-03-05,Men's Under 23 109Kg,Euan McGuigan,108.2,85,90,96,110,-115,-120,96,110,206
+Scottish Universities,2023-03-04,Men's Under 23 81Kg,Lorne Barnaby,78.2,78,83,88,95,101,112,88,112,200
+Scottish Universities,2023-03-05,Men's Under 23 96Kg,Luca Bayne,93.2,83,-87,-87,105,108,-115,83,108,191
+Scottish Universities,2023-03-04,Men's Under 23 81Kg,Rob Macleod,78.5,75,82,-90,102,108,-119,82,108,190
+Scottish Universities,2023-03-04,Men's Under 23 73Kg,Eric Paliotta,70.6,75,78,81,-95,95,100,81,100,181
+Scottish Universities,2023-03-04,Men's Senior 73Kg,Gudjon Alex Flosason,73,73,77,82,93,97,-100,82,97,179
+Scottish Universities,2023-03-05,Men's Senior 96Kg,Steven Smithies,91.4,80,-86,86,85,92,-100,86,92,178
+Scottish Universities,2023-03-05,Men's Under 23 89Kg,Ruaridh Griffin,85.9,64,-68,71,90,100,105,71,105,176
+Scottish Universities,2023-03-04,Men's Under 23 73Kg,Zhiqian Lyu,72.6,70,75,-80,90,100,-107,75,100,175
+Scottish Universities,2023-03-05,Men's Under 23 96Kg,Kevin Qu,92.4,67,72,-80,85,92,100,72,100,172
+Scottish Universities,2023-03-05,Men's Under 23 89Kg,Angus Blance,88.1,67,-72,72,90,95,-100,72,95,167
+Scottish Universities,2023-03-04,Men's Under 23 81Kg,Joshua Edmundson,75.6,65,68,71,86,-90,93,71,93,164
+Scottish Universities,2023-03-05,Men's Under 23 89Kg,Oliver Swatton,86.6,68,70,73,90,-92,-92,73,90,163
+Scottish Universities,2023-03-05,Women's Senior 76Kg,Anna Watkin,71.9,65,68,72,85,-90,90,72,90,162
+Scottish Universities,2023-03-04,Men's Under 23 73Kg,Jack Dalgleish,71.6,68,70,72,87,90,-93,72,90,162
+Scottish Universities,2023-03-04,Men's Junior Under 20 73Kg,Matthew Gallagher ,72.6,67,-70,73,89,-92,-92,73,89,162
+Scottish Universities,2023-03-05,Men's Senior 96Kg,Ross Pickford,89.9,60,70,75,70,85,-100,75,85,160
+Scottish Universities,2023-03-04,Men's Under 23 67Kg,Lewis Angus,66.5,67,70,-73,87,90,-93,70,90,160
+Scottish Universities,2023-03-04,Men's Under 23 89Kg,Olly Carr,86.8,62,66,-70,92,-96,-100,66,92,158
+Scottish Universities,2023-03-05,Men's Senior 89Kg,Dominic  Walsh,85.2,62,66,-70,80,-85,90,66,90,156
+Scottish Universities,2023-03-05,Women's Senior 81Kg,Eleanor Mawson,78.15,61,64,67,80,83,86,67,86,153
+Scottish Universities,2023-03-04,Men's Senior 89Kg,Stefanos Sagkriotis,82.1,65,68,70,78,82,-86,70,82,152
+Scottish Universities,2023-03-05,Women's Senior 81Kg,Roosa Pitkänen,78.75,-63,63,67,72,81,-84,67,81,148
+Scottish Universities,2023-03-04,Men's Under 23 81Kg,Andrew Cheung,76.4,60,65,-70,78,82,-85,65,82,147
+Scottish Universities,2023-03-04,Women's Under 23 64Kg,Hannah Langdon,63.75,-64,64,-67,72,75,-78,64,75,139
+Scottish Universities,2023-03-05,Women's Under 23 87+Kg,Mabel Wylie,90.45,-57,57,63,68,72,-76,63,72,135
+Scottish Universities,2023-03-04,Men's Junior Under 20 73Kg,Yumo Li,69.5,-57,-57,57,74,77,-81,57,77,134
+Scottish Universities,2023-03-04,Women's Senior 64Kg,Beata Korba,61.95,60,63,-67,70,-75,-77,63,70,133
+Scottish Universities,2023-03-05,Women's Senior 71Kg,Ebony Coward,67.9,-56,56,60,68,72,-75,60,72,132
+Scottish Universities,2023-03-04,Men's Under 23 81Kg,Ethyn Smith,78.5,51,56,60,-68,68,71,60,71,131
+Scottish Universities,2023-03-05,Women's Under 23 87+Kg,Erin Quinn,111.75,60,-63,63,67,-72,-72,63,67,130
+Scottish Universities,2023-03-04,Men's Under 23 73Kg,Vaig Mehra,71.4,-55,55,-60,-70,70,75,55,75,130
+Scottish Universities,2023-03-04,Women's Under 23 64Kg,Niamh Summers,62.7,52,55,-57,72,-75,75,55,75,130
+Scottish Universities,2023-03-05,Women's Under 23 71Kg,Eilidh Gilchrist,70.3,53,56,-58,73,-76,-77,56,73,129
+Scottish Universities,2023-03-04,Men's Senior 81Kg,Kane Bastick,78.6,50,54,58,62,66,-70,58,66,124
+Scottish Universities,2023-03-04,Men's Junior Under 20 61Kg,Jack Fernando,59.5,-45,45,48,68,72,75,48,75,123
+Scottish Universities,2023-03-04,Women's Under 23 64Kg,Katie Ferguson,62.35,-47,49,52,64,67,-70,52,67,119
+Scottish Universities,2023-03-04,Women's Under 23 59Kg,Ragna Marie Engseth,58.7,47,-51,51,63,67,-71,51,67,118
+Scottish Universities,2023-03-04,Women's Under 23 64Kg,Elly Ficca,62.75,48,50,-52,61,64,-66,50,64,114
+Scottish Universities,2023-03-05,Women's Under 23 71Kg,Alex Easson,66.5,-48,-48,48,60,64,-67,48,64,112
+Scottish Universities,2023-03-04,Women's Junior Under 20 64Kg,Catherine  Simpson,61.65,48,-51,-52,60,64,-69,48,64,112
+Scottish Universities,2023-03-04,Women's Under 23 64Kg,Jessica Shaughnessy,62.9,42,45,-47,60,63,-66,45,63,108
+Scottish Universities,2023-03-04,Women's Senior 64Kg,Daisy Ghezaiel,62.9,43,45,47,54,-57,60,47,60,107
+Scottish Universities,2023-03-05,Women's Under 23 71Kg,Iida Koskiluoto,66.1,35,40,45,53,57,60,45,60,105
+Scottish Universities,2023-03-04,Women's Senior 87+Kg,Neve Mackenzie,96.1,40,43,45,57,60,-63,45,60,105
+Scottish Universities,2023-03-04,Women's Under 23 64Kg,Eleanor Watson,60.25,40,43,46,53,57,-61,46,57,103
+Scottish Universities,2023-03-05,Women's Under 23 71Kg,Krittika Sekhon,68.5,40,-43,-43,55,58,60,40,60,100
+Scottish Universities,2023-03-04,Men's Junior Under 20 81Kg,Ethan Ho,78.1,45,48,-51,-50,50,-55,48,50,98
+Scottish Universities,2023-03-05,Women's Under 23 76Kg,Lucie Marx,73.6,35,38,-42,50,55,-60,38,55,93
+Scottish Universities,2023-03-05,Women's Junior Under 20 87+Kg,Abbie Grant,87.6,35,38,41,45,49,52,41,52,93
+Scottish Universities,2023-03-04,Women's Under 23 64Kg,Sessy Ashok,63.95,37,-40,-40,50,53,56,37,56,93
+Scottish Universities,2023-03-05,Women's Under 23 71Kg,Eve Tulloch,67.15,32,37,-40,48,51,55,37,55,92
+Scottish Universities,2023-03-04,Women's Under 23 64Kg,Natalie Chua,63.75,38,-42,-45,48,53,-57,38,53,91
+Scottish Universities,2023-03-04,Women's Under 23 55Kg,Anwen Burns,53.25,35,39,-42,47,-51,51,39,51,90
+Scottish Universities,2023-03-05,Women's Senior 71Kg,Elpida Gkika,65.5,35,-38,38,-45,46,51,38,51,89
+Scottish Universities,2023-03-04,Women's Junior Under 20 59Kg,Eva Gomez,58.15,33,35,37,38,40,43,37,43,80
+Scottish Universities,2023-03-04,Women's Under 23 64Kg,Lisa Paul,61.2,33,36,38,40,42,-44,38,42,80
+Scottish Universities,2023-03-04,Women's Under 23 59Kg,Katie Whyte,56.55,30,33,-37,-43,43,46,33,46,79
+Scottish Universities,2023-03-04,Women's Senior 64Kg,Ana Casar,61.8,35,38,-40,-40,40,-43,38,40,78
+Scottish Universities,2023-03-05,Women's Junior Under 20 71Kg,Emily Smith,68,30,32,-34,40,42,-45,32,42,74
+Scottish Universities,2023-03-04,Women's Under 23 49Kg,sara ibgui,47.1,29,31,-33,38,41,-43,31,41,72
+Scottish Universities,2023-03-04,Women's Under 23 59Kg,Mram Elbagir,55.95,33,-36,-36,35,38,-41,33,38,71
+Scottish Universities,2023-03-05,Women's Under 23 87Kg,Rachel Hall,82.9,25,27,-29,-31,31,34,27,34,61
+Scottish Universities,2023-03-05,Men's Junior Under 20 89Kg,Thomas Gillen,88.3,71,-74,74,-97,-100,-100,74,0,0
+Scottish Universities,2023-03-04,Women's Under 23 59Kg,Mariana Bela Pilakoutas,58.9,-59,-59,-59,0,0,0,0,0,0
