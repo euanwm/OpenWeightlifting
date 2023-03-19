@@ -1,0 +1,22 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Bath University Spring Open,2023-03-05,Men's Senior 96Kg,Harry Nelms,93.8,125,129,132,166,170,0,132,170,302
+Bath University Spring Open,2023-03-05,Men's Senior 109+Kg,Joseph Walton,116,126,0,0,150,0,0,126,150,276
+Bath University Spring Open,2023-03-05,Men's Senior 89Kg,Greg Stumbles,88.4,115,118,120,148,152,0,120,152,272
+Bath University Spring Open,2023-03-05,Men's Senior 81Kg,edward gibson,80.6,0,0,105,130,136,0,105,136,241
+Bath University Spring Open,2023-03-05,Men's Senior 96Kg,Mitchel Howe,89.5,95,100,0,120,124,130,100,130,230
+Bath University Spring Open,2023-03-05,Men's Senior 89Kg,SAM VERCOE,87.1,98,101,105,0,118,121,105,121,226
+Bath University Spring Open,2023-03-05,Men's Senior 81Kg,Brian Tumbali,80.6,0,92,0,120,125,130,92,130,222
+Bath University Spring Open,2023-03-05,Men's Senior 96Kg,Alastair Crossley,92.5,0,85,0,107,112,0,85,112,197
+Bath University Spring Open,2023-03-05,Men's Senior 81Kg,Jamie Brine,76.4,0,75,80,100,106,110,80,110,190
+Bath University Spring Open,2023-03-05,Men's Senior 89Kg,Jack Tait,87.8,70,77,80,95,100,0,80,100,180
+Bath University Spring Open,2023-03-05,Men's Senior 89Kg,Robbie Mears,83.1,0,77,0,90,95,100,77,100,177
+Bath University Spring Open,2023-03-05,Men's Senior 81Kg,Kyle Magwood,79.4,75,0,80,0,95,0,80,95,175
+Bath University Spring Open,2023-03-05,Men's Senior 81Kg,Niall Byrne,80.1,70,75,0,95,100,0,75,100,175
+Bath University Spring Open,2023-03-05,Men's Senior 73Kg,Ian Forsyth,70.8,67,70,0,78,82,85,70,85,155
+Bath University Spring Open,2023-03-05,Women's Senior 76Kg,Sarah Kedward,74.7,0,65,68,81,83,85,68,85,153
+Bath University Spring Open,2023-03-05,Women's Senior 71Kg,Olivia Astley,68.6,57,60,63,77,81,85,63,85,148
+Bath University Spring Open,2023-03-05,Women's Senior 76Kg,Olivia Lennon,74.5,60,63,0,78,80,0,63,80,143
+Bath University Spring Open,2023-03-05,Women's Senior 59Kg,Lauren Palmer,59,63,0,0,75,78,0,63,78,141
+Bath University Spring Open,2023-03-05,Women's Senior 55Kg,Sophie Wayman,53.7,0,50,0,62,0,0,50,62,112
+Bath University Spring Open,2023-03-05,Women's Senior 76Kg,Jo Ansell,73.3,42,45,0,57,60,0,45,60,105
+Bath University Spring Open,2023-03-05,Women's Senior 55Kg,Francesca Grant,52.8,35,0,38,45,50,0,38,50,88
