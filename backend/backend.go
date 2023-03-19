@@ -98,7 +98,7 @@ func setupCORS(r *gin.Engine) {
 
 func buildServer() *gin.Engine {
 	log.Println("Starting server...")
-	go dbtools.BuildDatabase()
+	go dbtools.BuildDatabase(&processedLeaderboard)
 	r := gin.Default()
 	setupCORS(r)
 	r.GET("test", getTest)
@@ -115,5 +115,4 @@ func main() {
 	if err != nil {
 		log.Fatal("Failed to run server")
 	}
-	processedLeaderboard = *dbtools.BuildDatabase()
 }
