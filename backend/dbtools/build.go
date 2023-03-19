@@ -6,11 +6,11 @@ import (
 	"log"
 )
 
-func BuildDatabase() *structs.LeaderboardData {
+func BuildDatabase(leaderboardTotal *structs.LeaderboardData) {
 	log.Println("buildDatabase called...")
 	bigData := CollateAll()
 	male, female, _ := SortGender(bigData) // Throwaway the unknown genders as they're likely really young kids
-	leaderboardTotal := &structs.LeaderboardData{
+	*leaderboardTotal = structs.LeaderboardData{
 		AllNames:        append(male.ProcessNames(), female.ProcessNames()...),
 		MaleTotals:      SortLiftsBy(male.Lifts, enum.Total),
 		FemaleTotals:    SortLiftsBy(female.Lifts, enum.Total),
@@ -18,5 +18,4 @@ func BuildDatabase() *structs.LeaderboardData {
 		FemaleSinclairs: SortLiftsBy(female.Lifts, enum.Sinclair),
 	}
 	log.Println("Database READY")
-	return leaderboardTotal
 }
