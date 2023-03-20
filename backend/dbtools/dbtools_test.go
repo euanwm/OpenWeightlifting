@@ -9,10 +9,10 @@ import (
 
 func TestBuildDatabase(t *testing.T) {
 	t.Run("BuildDatabase", func(t *testing.T) {
-		want := &structs.LeaderboardData{}
-		got := BuildDatabase()
-		if got == nil {
-			t.Errorf("BuildDatabase() = %v, want %v", got, want)
+		dbBuild := structs.LeaderboardData{}
+		BuildDatabase(&dbBuild)
+		if len(dbBuild.MaleTotals) == 0 {
+			t.Errorf("BuildDatabase() = %v, want greater than 0", len(dbBuild.MaleTotals))
 		}
 	})
 }
