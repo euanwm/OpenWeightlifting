@@ -4,6 +4,7 @@ import (
 	"backend/enum"
 	"backend/utilities"
 	"log"
+	"time"
 )
 
 func (e LifterHistory) GenerateChartData() ChartData {
@@ -41,6 +42,19 @@ func (e Entry) WithinWeightClass(gender string, catData WeightClass) bool {
 	return false
 }
 
+func (e Entry) WithinYear(year int) bool {
+	if year == enum.AllYears {
+		return true
+	}
+	const rfc3339partial string = "T15:04:05Z"
+	datetime, _ := time.Parse(time.RFC3339, e.Date+rfc3339partial)
+	eventYear, _, _ := datetime.Date()
+	if eventYear == year {
+		return true
+	}
+	return false
+}
+
 func (e LeaderboardData) FetchNames(posSlice []int) (names []string) {
 	for _, position := range posSlice {
 		names = append(names, e.AllNames[position])
@@ -57,25 +71,25 @@ func (e AllData) ProcessNames() (names []string) {
 	return
 }
 
-func (e LeaderboardData) Query(sortBy string, gender string) []Entry {
+func (e LeaderboardData) Query(sortBy string, gender string) *[]Entry {
 	switch sortBy {
 	case enum.Total:
 		switch gender {
 		case enum.Male:
-			return e.MaleTotals
+			return &e.MaleTotals
 		case enum.Female:
-			return e.FemaleTotals
+			return &e.FemaleTotals
 		default:
-			log.Println("Some cunts being wild with totals...")
+			log.Println("LeaderboardData: Query - Error in sorting totals by gender")
 		}
 	case enum.Sinclair:
 		switch gender {
 		case enum.Male:
-			return e.MaleSinclairs
+			return &e.MaleSinclairs
 		case enum.Female:
-			return e.FemaleSinclairs
+			return &e.FemaleSinclairs
 		default:
-			log.Println("Some cunts being wild with sinclairs...")
+			log.Println("LeaderboardData: Query - Error in sorting sinclair by gender")
 		}
 	}
 	return nil

@@ -69,7 +69,8 @@ func postLeaderboard(c *gin.Context) {
 		log.Println(abortErr)
 		return
 	}
-	fedData := dbtools.Filter(processedLeaderboard.Query(body.SortBy, dbtools.WeightClassList[body.WeightClass].Gender), body, dbtools.WeightClassList[body.WeightClass], *lifterData)
+	sexLeaderboard := processedLeaderboard.Query(body.SortBy, dbtools.WeightClassList[body.WeightClass].Gender)
+	fedData := dbtools.Filter(*sexLeaderboard, body, dbtools.WeightClassList[body.WeightClass], *lifterData)
 	c.JSON(http.StatusOK, fedData)
 }
 
