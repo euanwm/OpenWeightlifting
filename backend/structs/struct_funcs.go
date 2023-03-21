@@ -55,6 +55,16 @@ func (e Entry) WithinYear(year int) bool {
 	return false
 }
 
+func (e Entry) SelectedFederation(federation string) bool {
+	if federation == enum.ALLFEDS {
+		return true
+	}
+	if e.Federation == federation {
+		return true
+	}
+	return false
+}
+
 func (e LeaderboardData) FetchNames(posSlice []int) (names []string) {
 	for _, position := range posSlice {
 		names = append(names, e.AllNames[position])
