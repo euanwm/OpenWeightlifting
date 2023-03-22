@@ -42,7 +42,21 @@ const weightClassList = [
   { value: 'F87+', label: 'Women\'s +87kg' }
 ]
 
-export const Filters = ({ sortBy, federation, handleGenderChange, weightClass }) => (
+const yearsList = [
+  { value: 69, label: 'All Years' },
+  { value: 2015, label: '2015' },
+  { value: 2016, label: '2016' },
+  { value: 2017, label: '2017' },
+  { value: 2018, label: '2018' },
+  { value: 2019, label: '2019' },
+  { value: 2020, label: '2020' },
+  { value: 2021, label: '2021' },
+  { value: 2022, label: '2022' },
+  { value: 2023, label: '2023' },
+]
+
+
+export const Filters = ({ sortBy, federation, handleGenderChange, weightClass, year }) => (
   <div className={styles.filters}>
     <FormControl className={styles.selectContainer}>
       <InputLabel variant="standard" htmlFor="sortBySelect">
@@ -97,6 +111,26 @@ export const Filters = ({ sortBy, federation, handleGenderChange, weightClass })
         }
       >
         {weightClassList.map(item => (
+          <option key={item.value} value={item.value}>
+            {item.label}
+          </option>
+        ))}
+      </NativeSelect>
+    </FormControl>
+
+    <FormControl className={styles.selectContainer}>
+      <InputLabel variant="standard" htmlFor="yearSelect">
+        Year
+      </InputLabel>
+      <NativeSelect
+        id="yearSelect"
+        label="Year"
+        value={year}
+        onChange={e =>
+          handleGenderChange({ type: 'year', value: e.target.value })
+        }
+      >
+        {yearsList.map(item => (
           <option key={item.value} value={item.value}>
             {item.label}
           </option>

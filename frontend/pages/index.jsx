@@ -12,14 +12,16 @@ const fetchLifterData = async (
   stop = 500,
   sortby = 'total',
   federation = 'allfeds',
-  weightclass = 'MALL'
+  weightclass = 'MALL',
+  year = 69
 ) => {
   const bodyContent = JSON.stringify({
     start,
     stop,
     sortby,
     federation,
-    weightclass
+    weightclass,
+    year,
   })
 
   const res = await fetch(`${process.env.API}/leaderboard`, {
@@ -67,6 +69,7 @@ const Home = ({ data }) => {
   const [sortBy, setSortBy] = useState('total')
   const [federation, setFederation] = useState('allfeds')
   const [weightclass, setWeightclass] = useState('MALL')
+  const [year, setYear] = useState(69)
   const [currentLifterList, setCurrentLifterList] = useState(data)
   const [currentLifterName, setCurrentLifterName] = useState()
   const [showLifterGraph, setShowLifterGraph] = useState(false)
@@ -77,12 +80,12 @@ const Home = ({ data }) => {
   useEffect(() => {
     async function callFetchLisfterData() {
       setCurrentLifterList(
-        await fetchLifterData(0, 500, sortBy, federation, weightclass),
+        await fetchLifterData(0, 500, sortBy, federation, weightclass, parseInt(year)),
       )
     }
 
     callFetchLisfterData()
-  }, [sortBy, federation, weightclass])
+  }, [sortBy, federation, weightclass, year])
 
   const handleGenderChange = newFilter => {
     const { type, value } = newFilter
@@ -93,6 +96,9 @@ const Home = ({ data }) => {
         break
       case 'weightclass':
         setWeightclass(value)
+        break
+      case 'year':
+        setYear(value)
         break
       default:
         setFederation(value)
@@ -119,6 +125,7 @@ const Home = ({ data }) => {
           federation={federation}
           handleGenderChange={handleGenderChange}
           weightClass={weightclass}
+          year={year}
         />
         {currentLifterList && <DataTable lifters={currentLifterList} openLifterGraphHandler={openLifterGraphHandler} />}
       </ThemeProvider>
