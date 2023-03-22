@@ -27,10 +27,7 @@ func removeFollowingLifts(bigData []structs.Entry) (filteredData []structs.Entry
 // Filter - Returns a slice of structs relating to the selected filter selection
 func Filter(bigData []structs.Entry, filterQuery structs.LeaderboardPayload, weightCat structs.WeightClass, lifterProfiles map[string]string) (filteredData []structs.Entry) {
 	for _, lift := range bigData {
-		if filterQuery.Federation == enum.ALLFEDS {
-			filterQuery.Federation = lift.Federation
-		}
-		if lift.Federation == filterQuery.Federation && lift.WithinWeightClass(WeightClassList[filterQuery.WeightClass].Gender, weightCat) {
+		if lift.SelectedFederation(filterQuery.Federation) && lift.WithinWeightClass(WeightClassList[filterQuery.WeightClass].Gender, weightCat) && lift.WithinYear(filterQuery.Year) {
 			linkedIG, igHandle := lifter.CheckUserList(lift.Name, lifterProfiles)
 			if linkedIG {
 				lift.Instagram = igHandle
