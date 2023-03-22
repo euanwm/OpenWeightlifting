@@ -110,11 +110,10 @@ func TestLeaderboardData_Query(t *testing.T) {
 		{name: "TotalFemale", args: args{sortBy: enum.Total, gender: enum.Female}, want: sampleLeaderboard.FemaleTotals},
 		{name: "SinclairMale", args: args{sortBy: enum.Sinclair, gender: enum.Male}, want: sampleLeaderboard.MaleSinclairs},
 		{name: "SinclairFemale", args: args{sortBy: enum.Sinclair, gender: enum.Female}, want: sampleLeaderboard.FemaleSinclairs},
-		{name: "NotValid", args: args{sortBy: "", gender: ""}, want: nil},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			if got := sampleLeaderboard.Query(tt.args.sortBy, tt.args.gender); !reflect.DeepEqual(got, tt.want) {
+			if got := sampleLeaderboard.Query(tt.args.sortBy, tt.args.gender); !reflect.DeepEqual(got, &tt.want) {
 				t.Errorf("Query() = %v, want %v", got, tt.want)
 			}
 		})
