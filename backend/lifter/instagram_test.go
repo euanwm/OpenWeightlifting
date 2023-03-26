@@ -1,6 +1,9 @@
 package lifter
 
-import "testing"
+import (
+	"reflect"
+	"testing"
+)
 
 func TestCheckUserList(t *testing.T) {
 	lifterProfiles := make(map[string]string)
@@ -27,6 +30,23 @@ func TestCheckUserList(t *testing.T) {
 			}
 			if got1 != tt.want1 {
 				t.Errorf("CheckUserList() got1 = %v, want %v", got1, tt.want1)
+			}
+		})
+	}
+}
+
+func TestBuild(t *testing.T) {
+	tests := []struct {
+		name string
+		want *map[string]string
+	}{
+		// test build function and verify that it return a pointer to a map
+		{"Build", &map[string]string{"Euan Meston": "scream_and_jerk"}},
+	}
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			if got := Build(); reflect.TypeOf(got) != reflect.TypeOf(tt.want) {
+				t.Errorf("Build() = %v, want %v", got, tt.want)
 			}
 		})
 	}

@@ -64,6 +64,54 @@ func TestEntry_WithinWeightClass(t *testing.T) {
 	}
 }
 
+func TestEntry_WithinYear(t *testing.T) {
+	sampleEntry := Entry{
+		Date: "2020-01-01",
+	}
+	type args struct {
+		year int
+	}
+	tests := []struct {
+		name string
+		args args
+		want bool
+	}{
+		{name: "WithinYear", args: args{year: 2020}, want: true},
+		{name: "OutsideYear", args: args{year: 2019}, want: false},
+	}
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			if got := sampleEntry.WithinYear(tt.args.year); got != tt.want {
+				t.Errorf("WithinYear() = %v, want %v", got, tt.want)
+			}
+		})
+	}
+}
+
+func TestEntry_SelectedFederation(t *testing.T) {
+	sampleEntry := Entry{
+		Federation: "BWL",
+	}
+	type args struct {
+		fed string
+	}
+	tests := []struct {
+		name string
+		args args
+		want bool
+	}{
+		{name: "SelectedFed", args: args{fed: "BWL"}, want: true},
+		{name: "NotSelectedFed", args: args{fed: "DrugsDrugsDrugs"}, want: false},
+	}
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			if got := sampleEntry.SelectedFederation(tt.args.fed); got != tt.want {
+				t.Errorf("SelectedFederation() = %v, want %v", got, tt.want)
+			}
+		})
+	}
+}
+
 func TestLeaderboardData_FetchNames(t *testing.T) {
 	sampleLeaderboard := LeaderboardData{
 		AllNames: []string{"A", "B", "C", "D", "E", "F", "G", "H", "I", "J"},
