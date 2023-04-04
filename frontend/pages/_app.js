@@ -3,7 +3,7 @@ import { ThemeProvider as NextThemesProvider } from 'next-themes'
 import { hotjar } from 'react-hotjar'
 
 import Layout from '../components/layout/index.component'
-import {useEffect} from "react";
+import { useEffect } from "react";
 
 const lightTheme = createTheme({
   type: 'light',
