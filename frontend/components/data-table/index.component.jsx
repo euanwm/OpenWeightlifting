@@ -60,7 +60,7 @@ export const DataTable = ({ lifters, openLifterGraphHandler }) => {
       <Table.Header>
         <Table.Column css={tableHeaderStyles}>Rank</Table.Column>
         <Table.Column css={tableHeaderStyles}>Lifter</Table.Column>
-        <Table.Column></Table.Column>
+        <Table.Column/>
         <Table.Column css={tableHeaderStyles}>Federation</Table.Column>
         <Table.Column css={tableHeaderStyles}>Top Snatch</Table.Column>
         <Table.Column css={tableHeaderStyles}>Top Clean & Jerk</Table.Column>
