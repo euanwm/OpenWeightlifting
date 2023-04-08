@@ -78,13 +78,13 @@ const Home = ({ data }) => {
   const { isDark } = useTheme()
 
   useEffect(() => {
-    async function callFetchLisfterData() {
+    async function callFetchLifterData() {
       setCurrentLifterList(
         await fetchLifterData(0, 500, sortBy, federation, weightclass, parseInt(year)),
       )
     }
 
-    callFetchLisfterData()
+    callFetchLifterData().then()
   }, [sortBy, federation, weightclass, year])
 
   const handleGenderChange = newFilter => {
@@ -129,7 +129,7 @@ const Home = ({ data }) => {
         />
         {currentLifterList && <DataTable lifters={currentLifterList} openLifterGraphHandler={openLifterGraphHandler} />}
       </ThemeProvider>
-      <Modal closeButton blur open={showLifterGraph} onClose={closeLifterGraphHandler} width={1000}>
+      <Modal closeButton blur open={showLifterGraph} onClose={closeLifterGraphHandler} width='1000'>
         <h3>{currentLifterName}: History (Total)</h3>
         {isGraphLoading ? (
           <h4>Loading...</h4>

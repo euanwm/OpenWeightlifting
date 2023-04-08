@@ -16,7 +16,7 @@ const Layout = ({ children }) => {
     <Container xl>
       <nav className={styles.navbar}>
         <div className={styles.logo}>
-          <Image src={Logo} fill='transparent' style='contain' alt='Open Weightlifting' />
+          <Image src={Logo} fill='transparent' style='contain' alt='Open Weightlifting' sizes='auto' placeholder='blur' blurDataURL={"/OWL-logo.png"} />
         </div>
         <div className={styles.linkContainer}>
           <a href="https://discord.gg/kqnBqdktgr" target="_blank" rel="noreferrer"><FaDiscord size='30px' className={themeIconClass} /></a>
