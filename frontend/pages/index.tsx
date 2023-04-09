@@ -7,7 +7,7 @@ import { DataTable } from '../components/data-table/index.component'
 import { Filters } from '../components/filters/index.component'
 import { LifterGraph } from '../components/lifter-graph/index.component'
 
-import { LifterChartData, MainLeaderboard } from "../models/api_endpoint";
+import { LifterChartData, LifterResult } from "../models/api_endpoint";
 
 const fetchLifterData = async (
   // todo: implement enums for these
@@ -36,10 +36,10 @@ const fetchLifterData = async (
     body: bodyContent,
   }).then((res) => res.json()).catch(error => console.error('error in fetchLifterData', error))
 
-  return await res as MainLeaderboard
+  return await res as LifterResult[]
 }
 
-const fetchLifterGraphData = async (lifterName: string) => {
+const fetchLifterGraphData = async (lifterName: LifterResult['name']) => {
   const bodyContent = JSON.stringify({
     "NameStr": lifterName
   })
@@ -68,7 +68,7 @@ const lightTheme = createTheme({
   },
 })
 
-const Home = ({ data }: { data: MainLeaderboard }) => {
+const Home = ({ data }: { data: LifterResult[] }) => {
   const [sortBy, setSortBy] = useState('total')
   const [federation, setFederation] = useState('allfeds')
   const [weightclass, setWeightclass] = useState('MALL')
@@ -146,11 +146,11 @@ const Home = ({ data }: { data: MainLeaderboard }) => {
 }
 
 export async function getServerSideProps() {
-  let data: MainLeaderboard
+  let data: LifterResult[]
   try {
     data = await fetchLifterData()
   } catch {
-    data = { lifts: [] }
+    data = []
   }
 
   return { props: { data } }

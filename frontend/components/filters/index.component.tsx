@@ -4,6 +4,7 @@ import FormControl from '@mui/material/FormControl'
 
 import styles from './filters.module.css'
 
+// todo: convert to enums?
 const sortByList = [
   { value: 'total', label: 'Total' },
   { value: 'sinclair', label: 'Sinclair' },
@@ -56,7 +57,7 @@ const yearsList = [
 ]
 
 
-export const Filters = ({ sortBy, federation, handleGenderChange, weightClass, year }) => (
+export const Filters = ({ sortBy, federation, handleGenderChange, weightClass, year }: {sortBy: string, federation: string, handleGenderChange: any, weightClass: string, year: number}) => (
   <div className={styles.filters}>
     <FormControl className={styles.selectContainer}>
       <InputLabel variant="standard" htmlFor="sortBySelect">
@@ -64,7 +65,6 @@ export const Filters = ({ sortBy, federation, handleGenderChange, weightClass, y
       </InputLabel>
       <NativeSelect
         id="sortBySelect"
-        label="Total/Sinclair"
         value={sortBy}
         onChange={e =>
           handleGenderChange({ type: 'sortBy', value: e.target.value })
@@ -84,7 +84,6 @@ export const Filters = ({ sortBy, federation, handleGenderChange, weightClass, y
       </InputLabel>
       <NativeSelect
         id="federationSelect"
-        label="Federation"
         value={federation}
         onChange={e =>
           handleGenderChange({ type: 'federation', value: e.target.value })
@@ -104,7 +103,6 @@ export const Filters = ({ sortBy, federation, handleGenderChange, weightClass, y
       </InputLabel>
       <NativeSelect
         id="weightSelect"
-        label="Weight Class"
         value={weightClass}
         onChange={e =>
           handleGenderChange({ type: 'weightclass', value: e.target.value })
@@ -124,7 +122,6 @@ export const Filters = ({ sortBy, federation, handleGenderChange, weightClass, y
       </InputLabel>
       <NativeSelect
         id="yearSelect"
-        label="Year"
         value={year}
         onChange={e =>
           handleGenderChange({ type: 'year', value: e.target.value })
