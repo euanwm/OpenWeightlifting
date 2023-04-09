@@ -13,7 +13,8 @@ const darkTheme = createTheme({
   type: 'dark',
 })
 
-function MyApp({ Component, pageProps }) {
+// todo: declare types for this
+function MyApp({ Component, pageProps }: any) {
     useEffect(() => {
         hotjar.initialize(3147762, 6);
     }, [])
