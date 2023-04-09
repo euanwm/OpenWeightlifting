@@ -7,7 +7,10 @@ import { DataTable } from '../components/data-table/index.component'
 import { Filters } from '../components/filters/index.component'
 import { LifterGraph } from '../components/lifter-graph/index.component'
 
+import { LifterChartData, MainLeaderboard } from "../models/api_endpoint";
+
 const fetchLifterData = async (
+  // todo: implement enums for these
   start = 0,
   stop = 500,
   sortby = 'total',
@@ -31,12 +34,12 @@ const fetchLifterData = async (
       'Content-Type': 'application/json',
     },
     body: bodyContent,
-  }).catch(error => console.error(error))
+  }).then((res) => res.json()).catch(error => console.error('error in fetchLifterData', error))
 
-  return await res.json()
+  return await res as MainLeaderboard
 }
 
-const fetchLifterGraphData = async (lifterName) => {
+const fetchLifterGraphData = async (lifterName: string) => {
   const bodyContent = JSON.stringify({
     "NameStr": lifterName
   })
@@ -48,9 +51,9 @@ const fetchLifterGraphData = async (lifterName) => {
       'Content-Type': 'application/json',
     },
     body: bodyContent,
-  }).catch(error => console.error(error))
+  }).then((res) => res.json()).catch(error => console.error('error in fetchLifterGraphData', error))
 
-  return await res.json()
+  return await res as LifterChartData
 }
 
 const darkTheme = createTheme({
@@ -65,29 +68,30 @@ const lightTheme = createTheme({
   },
 })
 
-const Home = ({ data }) => {
+const Home = ({ data }: { data: MainLeaderboard }) => {
   const [sortBy, setSortBy] = useState('total')
   const [federation, setFederation] = useState('allfeds')
   const [weightclass, setWeightclass] = useState('MALL')
   const [year, setYear] = useState(69)
   const [currentLifterList, setCurrentLifterList] = useState(data)
-  const [currentLifterName, setCurrentLifterName] = useState()
+  const [currentLifterName, setCurrentLifterName] = useState('')
   const [showLifterGraph, setShowLifterGraph] = useState(false)
-  const [currentLifterGraph, setCurrentLifterGraph] = useState()
+  const [currentLifterGraph, setCurrentLifterGraph] = useState({} as LifterChartData)
   const [isGraphLoading, setIsGraphLoading] = useState(true)
   const { isDark } = useTheme()
 
   useEffect(() => {
     async function callFetchLifterData() {
       setCurrentLifterList(
-        await fetchLifterData(0, 500, sortBy, federation, weightclass, parseInt(year)),
+        await fetchLifterData(0, 500, sortBy, federation, weightclass, parseInt(String(year))),
       )
     }
 
     callFetchLifterData().then()
   }, [sortBy, federation, weightclass, year])
 
-  const handleGenderChange = newFilter => {
+  // todo: define newFilter type/interface
+  const handleGenderChange = (newFilter: any) => {
     const { type, value } = newFilter
     console.log(type, value)
     switch (type) {
@@ -105,7 +109,7 @@ const Home = ({ data }) => {
     }
   }
 
-  const openLifterGraphHandler = (lifterName) => {
+  const openLifterGraphHandler = (lifterName: string) => {
     setIsGraphLoading(true)
     setCurrentLifterName(lifterName)
     fetchLifterGraphData(lifterName)
@@ -134,7 +138,7 @@ const Home = ({ data }) => {
         {isGraphLoading ? (
           <h4>Loading...</h4>
         ) : (
-          <LifterGraph data={currentLifterGraph} lifterName={currentLifterName} />
+          <LifterGraph lifterHistory={currentLifterGraph} />
         )}
       </Modal>
     </>
@@ -142,11 +146,11 @@ const Home = ({ data }) => {
 }
 
 export async function getServerSideProps() {
-  let data;
+  let data: MainLeaderboard
   try {
     data = await fetchLifterData()
   } catch {
-    data = []
+    data = { lifts: [] }
   }
 
   return { props: { data } }

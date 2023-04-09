@@ -21,9 +21,11 @@
     "react-dom": "^18.2.0",
     "react-hotjar": "^5.1.0",
     "react-icons": "^4.4.0",
-    "sharp": "^0.32.0"
+    "sharp": "^0.32.0",
+    "typescript": "^5.0.4"
   },
   "devDependencies": {
+    "@types/node": "18.15.11",
     "eslint": "8.23.0",
     "eslint-config-next": "^13.2.4",
     "eslint-config-prettier": "^8.5.0",
