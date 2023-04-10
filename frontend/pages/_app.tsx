@@ -3,7 +3,7 @@ import { ThemeProvider as NextThemesProvider } from 'next-themes'
 import { hotjar } from 'react-hotjar'
 
 import Layout from '../components/layout/index.component'
-import {useEffect} from "react";
+import { useEffect } from "react";
 
 const lightTheme = createTheme({
   type: 'light',
@@ -13,7 +13,8 @@ const darkTheme = createTheme({
   type: 'dark',
 })
 
-function MyApp({ Component, pageProps }) {
+// todo: declare types for this
+function MyApp({ Component, pageProps }: any) {
     useEffect(() => {
         hotjar.initialize(3147762, 6);
     }, [])

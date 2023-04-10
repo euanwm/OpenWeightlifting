@@ -7,8 +7,11 @@ import {
   Title,
   Tooltip,
   Legend,
+  ChartOptions
 } from 'chart.js'
 import { Line } from 'react-chartjs-2'
+
+import { LifterChartData } from '../../models/api_endpoint'
 
 ChartJS.register(
   CategoryScale,
@@ -20,30 +23,37 @@ ChartJS.register(
   Legend
 )
 
-export const LifterGraph = ({ data }) => {
-  const { labels, datasets } = data
+export const LifterGraph = ({ lifterHistory }: { lifterHistory: LifterChartData }) => {
+  console.log(lifterHistory)
+  // todo: define each dataset as a type/interface instead of manually indexing into the array
   const processedData = {
-    labels: labels,
+    labels: lifterHistory.labels,
     datasets: [{
-      ...datasets[0],
+      ...lifterHistory.datasets[0],
       borderColor: '#0072F5',
       backgroundColor: '#3694FF'
     }, {
-      ...datasets[1],
+      ...lifterHistory.datasets[1],
       borderColor: '#17C964',
       backgroundColor: '#78F2AD'
     }, {
-      ...datasets[2],
+      ...lifterHistory.datasets[2],
       borderColor: '#F31260',
       backgroundColor: '#F75F94'
     }, {
-      ...datasets[3],
+      ...lifterHistory.datasets[3],
       borderColor: '#F3A312',
       backgroundColor: '#F7C78F'
     }]
   }
 
-  const config = {
+  /* todo: implement scales gridlines colour into the config
+      scales: {
+        x: {grid: {color: '#313538'}},
+        y: {grid: {color: '#313538'}}
+      },
+   */
+  const config: ChartOptions = {
     color: 'white',
     layout: {
       padding: 20
@@ -59,18 +69,6 @@ export const LifterGraph = ({ data }) => {
         borderCapStyle: 'round',
         fill: false,
         borderWidth: 2
-      }
-    },
-    scales: {
-      x: {
-        grid: {
-          color: '#313538'
-        }
-      },
-      y: {
-        grid: {
-          color: '#313538'
-        }
       }
     },
     plugins: {

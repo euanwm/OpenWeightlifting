@@ -1,4 +1,5 @@
 import { Popover, Table, Button } from "@nextui-org/react"
+import { LifterResult } from "../../models/api_endpoint";
 
 const tableHeaderStyles = {
   fontSize: '$sm',
@@ -22,7 +23,9 @@ const tableButtonStyle = {
   margin: "0 auto"
 }
 
-export const AllDetails = ({ full_comp }) => (
+// todo: this need to be called on the button click
+// todo: clean and jerks arent showing up
+export const AllDetails = ({ full_comp }: { full_comp: LifterResult }) => (
   <Popover placement="left">
     <Popover.Trigger>
       <Button auto flat css={tableButtonStyle}>More details...</Button>
@@ -52,8 +55,8 @@ export const AllDetails = ({ full_comp }) => (
           </Table.Row><Table.Row>
             <Table.Cell>Final C&J: {full_comp.cj_3}</Table.Cell>
           </Table.Row>
-        </Table.Body>
-      </Table>
-    </Popover.Content>
-  </Popover>
-);
+          </Table.Body>
+        </Table>
+      </Popover.Content>
+    </Popover>
+)
