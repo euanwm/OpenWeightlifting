@@ -1,12 +1,11 @@
-import { Table } from "@nextui-org/react"
+import { Table, useTheme } from "@nextui-org/react"
 import { FaInstagram } from "react-icons/fa"
 import { VscGraphLine } from 'react-icons/vsc'
-import { useTheme } from '@nextui-org/react'
 
+import { LifterResult } from "../../models/api_endpoint";
 import { AllDetails } from "../all-details/index.component"
 
 import styles from './data-table.module.css'
-import { LifterResult } from "../../models/api_endpoint";
 
 const tableStyle = {
   tableLayout: 'fixed',
@@ -28,27 +27,25 @@ export const DataTable = ({ lifters, openLifterGraphHandler }: { lifters: Lifter
   const themeIconClass = isDark ? styles.themeIconDark : styles.themeIconLight
 
   const generateLifterRow = (lifter: LifterResult, lifterNo: number) => {
-    const { lifter_name, instagram, country, best_snatch, best_cj, total, sinclair } = lifter
-
     return (
       <Table.Row key={`lifter-${lifterNo}`}>
         <Table.Cell>{lifterNo}</Table.Cell>
-        <Table.Cell>{lifter_name}</Table.Cell>
+        <Table.Cell>{lifter.lifter_name}</Table.Cell>
         <Table.Cell>
           <div className={styles.iconContainer}>
-            {instagram.length > 0 && (
-              <a href={`https://www.instagram.com/${instagram}`} target="_blank" rel="noreferrer noopener"><FaInstagram size={25} className={themeIconClass} /></a>
+            {lifter.instagram.length > 0 && (
+              <a href={`https://www.instagram.com/${lifter.instagram}`} target="_blank" rel="noreferrer noopener"><FaInstagram size={25} className={themeIconClass} /></a>
             )}
-            <button onClick={() => openLifterGraphHandler(lifter_name)} className={styles.graphButton}>
+            <button onClick={() => openLifterGraphHandler(lifter.lifter_name)} className={styles.graphButton}>
               <VscGraphLine size={25} className={themeIconClass} />
             </button>
           </div>
         </Table.Cell>
-        <Table.Cell>{country}</Table.Cell>
-        <Table.Cell>{best_snatch}</Table.Cell>
-        <Table.Cell>{best_cj}</Table.Cell>
-        <Table.Cell>{total}</Table.Cell>
-        <Table.Cell>{sinclair}</Table.Cell>
+        <Table.Cell>{lifter.country}</Table.Cell>
+        <Table.Cell>{lifter.best_snatch}</Table.Cell>
+        <Table.Cell>{lifter.best_cj}</Table.Cell>
+        <Table.Cell>{lifter.total}</Table.Cell>
+        <Table.Cell>{lifter.sinclair}</Table.Cell>
         <Table.Cell>
           <AllDetails full_comp={lifter}></AllDetails>
         </Table.Cell>

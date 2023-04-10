@@ -6,19 +6,19 @@ export interface LifterResult {
   event: string;
   date: string;
   gender: string;
-  name: string;
+  lifter_name: string;
   bodyweight: number;
   snatch_1: number;
   snatch_2: number;
   snatch_3: number;
-  clean_jerk_1: number;
-  clean_jerk_2: number;
-  clean_jerk_3: number;
+  cj_1: number;
+  cj_2: number;
+  cj_3: number;
   best_snatch: number;
-  best_clean_jerk: number;
+  best_cj: number;
   total: number;
   sinclair: number;
-  federation: string;
+  country: string;
   instagram: string;
 }
 

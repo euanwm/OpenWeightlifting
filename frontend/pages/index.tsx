@@ -39,7 +39,7 @@ const fetchLifterData = async (
   return await res as LifterResult[]
 }
 
-const fetchLifterGraphData = async (lifterName: LifterResult['name']) => {
+const fetchLifterGraphData = async (lifterName: LifterResult['lifter_name']) => {
   const bodyContent = JSON.stringify({
     "NameStr": lifterName
   })
