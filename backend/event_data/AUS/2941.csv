@@ -1,0 +1,11 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Body Express Barbell Club Competition,2023-03-26,female,Nathalie Lejeune,62.40,55,60,-62,67,70,-73,60,70,130
+Body Express Barbell Club Competition,2023-03-26,female,Camielle Honrade,62.70,46,-48,49,55,58,-60,49,58,107
+Body Express Barbell Club Competition,2023-03-26,female,Sarah Lorenzo,67.70,70,74,78,88,92,95,78,95,173
+Body Express Barbell Club Competition,2023-03-26,female,Izabela Bilska,65.80,55,60,63,65,70,73,63,73,136
+Body Express Barbell Club Competition,2023-03-26,female,Tecia Skelling,69.20,-55,55,60,62,-65,-65,60,62,122
+Body Express Barbell Club Competition,2023-03-26,female,Evonne Sinclair,69.20,35,37,40,50,55,60,40,60,100
+Body Express Barbell Club Competition,2023-03-26,female,Jasier Reehal,70.30,35,37,40,47,50,-52,40,50,90
+Body Express Barbell Club Competition,2023-03-26,male,Liam Janse Van Rensburg,93.80,110,116,-120,-140,-143,-143,116,0,0
+Body Express Barbell Club Competition,2023-03-26,male,John Hanlon,96.70,21,24,27,41,44,47,27,47,74
+Body Express Barbell Club Competition,2023-03-26,male,Peter Foster,107.80,55,60,65,65,70,75,65,75,140

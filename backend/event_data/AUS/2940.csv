@@ -1,0 +1,7 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+BIMSC Club Competition,2023-03-25,female,Mackenzie Walters,52.90,36,39,-42,48,52,55,39,55,94
+BIMSC Club Competition,2023-03-25,female,Elesha Piper,52.30,27,29,31,34,37,40,31,40,71
+BIMSC Club Competition,2023-03-25,female,Maree Davidson,58.60,25,27,,35,38,42,27,42,69
+BIMSC Club Competition,2023-03-25,female,Jordan Huselton,70.40,15,,,35,37,-41,15,37,52
+BIMSC Club Competition,2023-03-25,male,Jack Gibson,67.90,103,107,-110,-130,-130,130,107,130,237
+BIMSC Club Competition,2023-03-25,male,Levi Davidson,69.00,56,59,61,72,76,80,61,80,141

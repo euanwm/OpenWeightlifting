@@ -1,0 +1,14 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+TWA Club Competition,2023-04-15,female,Jemma Cowper,59.00,40,43,-46,56,-61,-61,43,56,99
+TWA Club Competition,2023-04-15,female,Tori Gallegos,60.30,78,81,83,99,-103,103,83,103,186
+TWA Club Competition,2023-04-15,female,Piper Mcsorley,59.20,52,-57,-57,65,68,70,52,70,122
+TWA Club Competition,2023-04-15,female,Marika Danaher,62.90,-57,-58,-58,75,80,83,0,83,0
+TWA Club Competition,2023-04-15,female,Chloe Dolley,65.60,35,38,-40,46,-49,49,38,49,87
+TWA Club Competition,2023-04-15,female,Katie Harland,71.90,45,49,-53,60,65,-68,49,65,114
+TWA Club Competition,2023-04-15,female,Reagan Wood,79.00,32,34,36,39,42,44,36,44,80
+TWA Club Competition,2023-04-15,female,Montanna Schollick,89.80,32,34,36,44,48,50,36,50,86
+TWA Club Competition,2023-04-15,male,Archer Turner,56.90,48,-51,52,68,-72,-72,52,68,120
+TWA Club Competition,2023-04-15,male,Levi Deans,65.60,-79,79,-83,101,106,111,79,111,190
+TWA Club Competition,2023-04-15,male,Brody Marris,76.30,-75,-76,77,95,-99,-99,77,95,172
+TWA Club Competition,2023-04-15,male,Harry Seaton,73.80,27,29,31,36,38,40,31,40,71
+TWA Club Competition,2023-04-15,male,Jakob Daniels,101.30,110,117,-125,155,163,-168,117,163,280
