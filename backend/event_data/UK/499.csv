@@ -1,0 +1,55 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Crazy Strength Tier 3,2023-03-11,Men's Masters (35-39) 109Kg,David Harding-Prior,106.3,130,140,-150,160,165,-170,140,165,305
+Crazy Strength Tier 3,2023-03-11,Men's Senior 96Kg,Michael Cutler,94.8,125,130,135,146,150,-155,135,150,285
+Crazy Strength Tier 3,2023-03-11,Men's Senior 96Kg,Zak Revell,91.4,103,108,112,125,130,135,112,135,247
+Crazy Strength Tier 3,2023-03-11,Men's Masters (35-39) 96Kg,Stuart King,95.8,100,105,110,128,133,-138,110,133,243
+Crazy Strength Tier 3,2023-03-11,Men's Masters (35-39) 89Kg,Leon Botha,88.1,100,104,106,125,130,132,106,132,238
+Crazy Strength Tier 3,2023-03-11,Men's Senior 102Kg,Ben Anderson,101,-92,92,102,120,125,-130,102,125,227
+Crazy Strength Tier 3,2023-03-11,Men's Senior 81Kg,Benjamin Chan,79.3,93,97,102,-120,120,-125,102,120,222
+Crazy Strength Tier 3,2023-03-11,Men's Senior 73Kg,George Kinnell,71.2,93,96,-100,122,126,-128,96,126,222
+Crazy Strength Tier 3,2023-03-11,Men's Senior 67Kg,Michael Glenn,66.91,-95,-95,95,115,120,-130,95,120,215
+Crazy Strength Tier 3,2023-03-11,Men's Senior 109Kg,Oli Icely-Brown,107.3,87,90,-93,113,116,120,90,120,210
+Crazy Strength Tier 3,2023-03-11,Men's Senior 109+Kg,Callum Bunyan,114.2,92,-96,-96,110,115,-120,92,115,207
+Crazy Strength Tier 3,2023-03-11,Men's Masters (45-49) 81Kg,Anthony Weedon,80.5,82,-86,86,102,107,-111,86,107,193
+Crazy Strength Tier 3,2023-03-11,Men's Masters (35-39) 81Kg,James Wilkie,78.1,78,82,85,100,-105,105,85,105,190
+Crazy Strength Tier 3,2023-03-11,Men's Senior 89Kg,Alfie Beaty,87.4,-80,80,-85,100,105,110,80,110,190
+Crazy Strength Tier 3,2023-03-11,Men's Junior Under 20 89Kg,Elliott Brown,83.9,73,75,77,102,104,107,77,107,184
+Crazy Strength Tier 3,2023-03-11,Men's Senior 89Kg,Jakub Sopicki,86.1,-75,75,78,100,-105,105,78,105,183
+Crazy Strength Tier 3,2023-03-11,Men's Senior 73Kg,Finn Aubrey,72.3,75,78,80,95,100,-105,80,100,180
+Crazy Strength Tier 3,2023-03-11,Women's Senior 71Kg,Holly O'Shea,69.6,75,78,81,93,-97,-99,81,93,174
+Crazy Strength Tier 3,2023-03-11,Women's Senior 55Kg,Noorin Gulam,54.5,70,73,-76,90,93,97,73,97,170
+Crazy Strength Tier 3,2023-03-11,Men's Senior 102Kg,Daniel Whitford,101,65,-68,-68,90,95,100,65,100,165
+Crazy Strength Tier 3,2023-03-11,Men's Senior 61Kg,Aaron Black,60.3,-66,66,70,-90,90,95,70,95,165
+Crazy Strength Tier 3,2023-03-11,Men's Senior 102Kg,Daniel Gill,100.3,70,74,-77,80,85,90,74,90,164
+Crazy Strength Tier 3,2023-03-11,Men's Senior 61Kg,Harry Street,60.5,71,76,-80,-82,82,88,76,88,164
+Crazy Strength Tier 3,2023-03-11,Men's Senior 96Kg,Charlie Smith,93.7,65,-86,-71,90,94,-97,65,94,159
+Crazy Strength Tier 3,2023-03-11,Women's Senior 59Kg,Sofia KYRIAZIDI,58,69,71,73,83,-85,85,73,85,158
+Crazy Strength Tier 3,2023-03-11,Women's Senior 87+Kg,Iona Adams,103,60,63,66,-87,88,-92,66,88,154
+Crazy Strength Tier 3,2023-03-11,Women's Senior 71Kg,Lacey Mackenzie,69.7,60,63,-66,87,91,-95,63,91,154
+Crazy Strength Tier 3,2023-03-11,Women's Senior 64Kg,Kate Jones,63.2,63,65,67,75,78,80,67,80,147
+Crazy Strength Tier 3,2023-03-11,Women's Senior 71Kg,Ella Swanwick,68.5,58,62,64,-77,77,80,64,80,144
+Crazy Strength Tier 3,2023-03-11,Women's Masters (40-44) 76Kg,Lisa George,74,55,58,61,73,78,82,61,82,143
+Crazy Strength Tier 3,2023-03-11,Women's Senior 59Kg,Hannah Smith,58.6,58,61,-64,78,81,-83,61,81,142
+Crazy Strength Tier 3,2023-03-11,Women's Senior 64Kg,Katerina Stavri,63.5,56,59,61,76,-79,79,61,79,140
+Crazy Strength Tier 3,2023-03-11,Men's Masters (40-44) 89Kg,Colin Russell,88.7,50,-55,55,70,75,82,55,82,137
+Crazy Strength Tier 3,2023-03-11,Women's Masters (40-44) 55Kg,Georgina Williams,54.3,57,59,-61,72,74,76,59,76,135
+Crazy Strength Tier 3,2023-03-11,Women's Senior 76Kg,Louise Thompson,75,51,-54,54,70,74,77,54,77,131
+Crazy Strength Tier 3,2023-03-11,Women's Under 23 71Kg,Emily Thompson-Chisnall,70,50,-54,54,64,67,70,54,70,124
+Crazy Strength Tier 3,2023-03-11,Women's Under 23 87+Kg,Cerys Lane,96.3,46,49,52,65,68,70,52,70,122
+Crazy Strength Tier 3,2023-03-11,Men's Masters (50-54) 81Kg,Karl Dyderski,76.1,45,-50,50,55,62,70,50,70,120
+Crazy Strength Tier 3,2023-03-11,Women's Under 23 64Kg,Maeesha  Abdul Hadee ,61.9,40,44,48,60,64,-67,48,64,112
+Crazy Strength Tier 3,2023-03-11,Women's Under 23 87Kg,Daisy Edwards,85.7,47,-50,-50,55,58,63,47,63,110
+Crazy Strength Tier 3,2023-03-11,Women's Masters (35-39) 76Kg,Kathryn Ryan,74.9,43,46,48,0,57,59,48,59,107
+Crazy Strength Tier 3,2023-03-11,Women's Masters (35-39) 55Kg,Michaela Hercogova,54.9,-44,44,-47,56,59,-62,44,59,103
+Crazy Strength Tier 3,2023-03-11,Women's Masters (40-44) 64Kg,Vicky Catnach ,61.4,37,41,-44,-57,-57,59,41,59,100
+Crazy Strength Tier 3,2023-03-11,Women's Under 23 49Kg,Laura Godwin,48.3,40,43,-46,51,54,57,43,57,100
+Crazy Strength Tier 3,2023-03-11,Women's Under 23 55Kg,paloma daniel,54.6,-42,42,-45,54,57,-60,42,57,99
+Crazy Strength Tier 3,2023-03-11,Women's Senior 76Kg,Jasmine Forster,74.9,39,-42,42,56,-59,-59,42,56,98
+Crazy Strength Tier 3,2023-03-11,Women's Senior 64Kg,Charlie Jeffery-King,60.5,35,38,41,52,55,-58,41,55,96
+Crazy Strength Tier 3,2023-03-11,Women's Masters (35-39) 76Kg,Nicole Way,75.1,37,39,41,52,54,-58,41,54,95
+Crazy Strength Tier 3,2023-03-11,Women's Senior 71Kg,natasha smart,64.9,35,38,-40,45,52,57,38,57,95
+Crazy Strength Tier 3,2023-03-11,Women's Masters (35-39) 71Kg,Tarlia Knight ,66.4,32,35,-39,50,-56,57,35,57,92
+Crazy Strength Tier 3,2023-03-11,Women's Junior Under 20 55Kg,Lily Crowther,51.3,35,-38,40,47,50,-55,40,50,90
+Crazy Strength Tier 3,2023-03-11,Women's Senior 59Kg,Philippa  Fox,55.2,32,-34,34,45,49,53,34,53,87
+Crazy Strength Tier 3,2023-03-11,Women's Masters (55-59) 71Kg,Rachel Diserens,68.2,34,-36,36,44,46,-48,36,46,82
+Crazy Strength Tier 3,2023-03-11,Women's Masters (35-39) 64Kg,Jo Armstrong,60,29,31,-34,41,44,46,31,46,77

@@ -1,0 +1,32 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+BUCS Virtual Qualification 23,2023-03-19,Men's Junior Under 20 89Kg,James Godden,82.6,85,95,101,110,120,130,101,130,231
+BUCS Virtual Qualification 23,2023-03-19,Women's Senior 87+Kg,Mercy Brown,105.55,95,99,0,121,0,0,99,121,220
+BUCS Virtual Qualification 23,2023-03-19,Men's Junior Under 20 102Kg,George Dean,96.3,85,90,0,110,0,0,90,110,200
+BUCS Virtual Qualification 23,2023-03-19,Men's Senior 89Kg,Daniel Barry,85.8,78,82,83,100,110,115,83,115,198
+BUCS Virtual Qualification 23,2023-03-19,Men's Under 23 96Kg,Josiah Kwok,93.2,-85,85,88,95,100,108,88,108,196
+BUCS Virtual Qualification 23,2023-03-19,Men's Senior 96Kg,James Yun-Stevens,89.7,85,0,0,110,0,0,85,110,195
+BUCS Virtual Qualification 23,2023-03-19,Men's Under 23 89Kg,William Atkinson,88.4,80,83,0,100,110,0,83,110,193
+BUCS Virtual Qualification 23,2023-03-19,Men's Under 23 89Kg,Murray Bingham,86.35,75,-80,0,105,110,0,75,110,185
+BUCS Virtual Qualification 23,2023-03-19,Men's Under 23 81Kg,Ryan Adams,79.35,70,75,80,95,102,0,80,102,182
+BUCS Virtual Qualification 23,2023-03-19,Men's Junior Under 20 81Kg,Makoto Kimura-Phalon,79.8,70,-75,75,100,-105,105,75,105,180
+BUCS Virtual Qualification 23,2023-03-19,Men's Senior 81Kg,John Lloyd,77.05,75,-77,80,95,-98,100,80,100,180
+BUCS Virtual Qualification 23,2023-03-19,Men's Senior 89Kg,Ulugbek Aslonov,86.9,65,70,75,-100,104,-108,75,104,179
+BUCS Virtual Qualification 23,2023-03-19,Men's Under 23 81Kg,Bobby Macgregor,78.2,75,-80,80,-90,-95,95,80,95,175
+BUCS Virtual Qualification 23,2023-03-19,Men's Junior Under 20 73Kg,Matthew Gallagher ,71.6,70,0,0,95,0,0,70,95,165
+BUCS Virtual Qualification 23,2023-03-19,Men's Junior Under 20 73Kg,Conall Comley,70.7,75,0,0,90,0,0,75,90,165
+BUCS Virtual Qualification 23,2023-03-19,Men's Junior Under 20 67Kg,Yumo Li,66.88,62,65,-68,-83,-83,83,65,83,148
+BUCS Virtual Qualification 23,2023-03-19,Women's Under 23 71Kg,Chase Clark,65.2,62,64,66,79,82,-85,66,82,148
+BUCS Virtual Qualification 23,2023-03-19,Men's Junior Under 20 67Kg,Akhilesh  Bisht ,66.8,60,63,-65,-80,83,0,63,83,146
+BUCS Virtual Qualification 23,2023-03-19,Women's Senior 71Kg,Chloe Briggs,67.8,55,60,65,65,75,80,65,80,145
+BUCS Virtual Qualification 23,2023-03-19,Women's Junior Under 20 87Kg,Fleur Walker,86.9,56,0,0,79,-80,0,56,79,135
+BUCS Virtual Qualification 23,2023-03-19,Women's Under 23 87+Kg,Erin Quinn,113,60,63,65,65,70,0,65,70,135
+BUCS Virtual Qualification 23,2023-03-19,Women's Senior 76Kg,Fallon Parker,74.4,60,0,0,70,73,0,60,73,133
+BUCS Virtual Qualification 23,2023-03-19,Women's Senior 59Kg,Alisa Brown,58.6,48,50,52,57,60,63,52,63,115
+BUCS Virtual Qualification 23,2023-03-19,Women's Under 23 64Kg,Hattie Barrington,61.8,47,48,50,55,60,0,50,60,110
+BUCS Virtual Qualification 23,2023-03-19,Women's Junior Under 20 64Kg,Eran Whyte,62.4,48,49,-50,58,60,-62,49,60,109
+BUCS Virtual Qualification 23,2023-03-19,Women's Under 23 59Kg,Clarissa Dakin,58.05,43,45,0,57,60,0,45,60,105
+BUCS Virtual Qualification 23,2023-03-19,Women's Under 23 59Kg,Isabella Sutherland,58,42,45,46,53,55,57,46,57,103
+BUCS Virtual Qualification 23,2023-03-19,Women's Junior Under 20 55Kg,Natalia Malecka,53.15,46,0,0,52,0,0,46,52,98
+BUCS Virtual Qualification 23,2023-03-19,Women's Under 23 55Kg,Anwen Burns,53.1,39,41,43,48,51,54,43,54,97
+BUCS Virtual Qualification 23,2023-03-19,Women's Under 23 55Kg,Rebecca Curran,52.9,41,43,-45,54,-56,0,43,54,97
+BUCS Virtual Qualification 23,2023-03-19,Women's Under 23 49Kg,Madeleine McCormack,48.95,35,38,40,44,47,49,40,49,89
