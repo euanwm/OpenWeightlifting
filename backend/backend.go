@@ -5,6 +5,7 @@ import (
 	"backend/events"
 	"backend/lifter"
 	"backend/structs"
+	jsoniter "github.com/json-iterator/go"
 	"log"
 	"net/http"
 	"os"
@@ -52,6 +53,10 @@ func postLifterRecord(c *gin.Context) {
 	if err := c.BindJSON(&lifterSearch); err != nil {
 		_ = c.AbortWithError(http.StatusBadRequest, err)
 	}
+	// dumb logging so datadog picks it up
+	reqBody, _ := jsoniter.MarshalToString(lifterSearch)
+	log.Println(reqBody)
+
 	lifterDetails := lifter.FetchLifts(lifterSearch, &processedLeaderboard)
 	lifterDetails.Lifts = dbtools.SortDate(lifterDetails.Lifts)
 	finalPayload := lifterDetails.GenerateChartData()
@@ -70,6 +75,10 @@ func postLeaderboard(c *gin.Context) {
 		log.Println(abortErr)
 		return
 	}
+	// dumb logging so datadog picks it up
+	reqBody, _ := jsoniter.MarshalToString(body)
+	log.Println(reqBody)
+
 	sexLeaderboard := processedLeaderboard.Query(body.SortBy, dbtools.WeightClassList[body.WeightClass].Gender)
 	fedData := dbtools.Filter(*sexLeaderboard, body, dbtools.WeightClassList[body.WeightClass], *lifterData)
 	c.JSON(http.StatusOK, fedData)
