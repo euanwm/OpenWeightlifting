@@ -158,6 +158,8 @@ func TestLeaderboardData_Query(t *testing.T) {
 		{name: "TotalFemale", args: args{sortBy: enum.Total, gender: enum.Female}, want: sampleLeaderboard.FemaleTotals},
 		{name: "SinclairMale", args: args{sortBy: enum.Sinclair, gender: enum.Male}, want: sampleLeaderboard.MaleSinclairs},
 		{name: "SinclairFemale", args: args{sortBy: enum.Sinclair, gender: enum.Female}, want: sampleLeaderboard.FemaleSinclairs},
+		{name: "NeitherMale", args: args{sortBy: "neither", gender: enum.Male}, want: []Entry{}},
+		{name: "TotalNeither", args: args{sortBy: enum.Total, gender: "neither"}, want: []Entry{}},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {

@@ -91,6 +91,7 @@ func (e LeaderboardData) Query(sortBy string, gender string) *[]Entry {
 			return &e.FemaleTotals
 		default:
 			log.Println("LeaderboardData: Query - Error in sorting totals by gender")
+			return &[]Entry{}
 		}
 	case enum.Sinclair:
 		switch gender {
@@ -100,7 +101,9 @@ func (e LeaderboardData) Query(sortBy string, gender string) *[]Entry {
 			return &e.FemaleSinclairs
 		default:
 			log.Println("LeaderboardData: Query - Error in sorting sinclair by gender")
+			return &[]Entry{}
 		}
 	}
-	return nil
+	log.Println("LeaderboardData: Query - Error in selecting sinclair/total")
+	return &[]Entry{}
 }
