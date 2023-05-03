@@ -27,6 +27,7 @@ func TestAllData_ProcessNames(t *testing.T) {
 
 func TestEntry_WithinWeightClass(t *testing.T) {
 	sampleEntry := Entry{
+		Gender:     enum.Male,
 		Bodyweight: 100,
 	}
 	type args struct {
@@ -42,18 +43,29 @@ func TestEntry_WithinWeightClass(t *testing.T) {
 			gender: enum.Male,
 			catData: WeightClass{
 				Gender: enum.Male,
-				Upper:  99,
-				Lower:  101,
-			},
-		}},
+				Upper:  101,
+				Lower:  99,
+			}},
+			want: true,
+		},
+		{name: "CatchAll", args: args{
+			gender: enum.Male,
+			catData: WeightClass{
+				Gender: enum.ALLCATS,
+				Upper:  101,
+				Lower:  99,
+			}},
+			want: true,
+		},
 		{name: "OutsideClass", args: args{
 			gender: enum.Male,
 			catData: WeightClass{
 				Gender: enum.Male,
 				Upper:  99,
 				Lower:  98,
-			},
-		}},
+			}},
+			want: false,
+		},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
