@@ -79,8 +79,8 @@ func postLeaderboard(c *gin.Context) {
 	reqBody, _ := jsoniter.MarshalToString(body)
 	log.Println(reqBody)
 
-	sexLeaderboard := processedLeaderboard.Query(body.SortBy, dbtools.WeightClassList[body.WeightClass].Gender)
-	fedData := dbtools.Filter(*sexLeaderboard, body, dbtools.WeightClassList[body.WeightClass], *lifterData)
+	leaderboardData := processedLeaderboard.Query(body.SortBy)
+	fedData := dbtools.Filter(*leaderboardData, body, dbtools.WeightClassList[body.WeightClass], *lifterData)
 	c.JSON(http.StatusOK, fedData)
 }
 

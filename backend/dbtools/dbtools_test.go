@@ -11,8 +11,8 @@ func TestBuildDatabase(t *testing.T) {
 	t.Run("BuildDatabase", func(t *testing.T) {
 		dbBuild := structs.LeaderboardData{}
 		BuildDatabase(&dbBuild)
-		if len(dbBuild.MaleTotals) == 0 {
-			t.Errorf("BuildDatabase() = %v, want greater than 0", len(dbBuild.MaleTotals))
+		if len(dbBuild.AllTotals) == 0 {
+			t.Errorf("BuildDatabase() = %v, want greater than 0", len(dbBuild.AllTotals))
 		}
 	})
 }
@@ -78,15 +78,14 @@ func TestSortDate(t *testing.T) {
 	}
 }
 
-func TestSortGender(t *testing.T) {
+func TestParseData(t *testing.T) {
 	type args struct {
 		bigData [][]string
 	}
 	tests := []struct {
 		name        string
 		args        args
-		wantMale    structs.AllData
-		wantFemale  structs.AllData
+		wantLifts   structs.AllData
 		wantUnknown structs.AllData
 	}{
 		// todo: add test cases
@@ -94,15 +93,12 @@ func TestSortGender(t *testing.T) {
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			gotMale, gotFemale, gotUnknown := SortGender(tt.args.bigData)
-			if !reflect.DeepEqual(gotMale, tt.wantMale) {
-				t.Errorf("SortGender() gotMale = %v, want %v", gotMale, tt.wantMale)
-			}
-			if !reflect.DeepEqual(gotFemale, tt.wantFemale) {
-				t.Errorf("SortGender() gotFemale = %v, want %v", gotFemale, tt.wantFemale)
+			gotLifts, gotUnknown := ParseData(tt.args.bigData)
+			if !reflect.DeepEqual(gotLifts, tt.wantLifts) {
+				t.Errorf("ParseData() gotMale = %v, want %v", gotLifts, tt.wantLifts)
 			}
 			if !reflect.DeepEqual(gotUnknown, tt.wantUnknown) {
-				t.Errorf("SortGender() gotUnknown = %v, want %v", gotUnknown, tt.wantUnknown)
+				t.Errorf("ParseData() gotUnknown = %v, want %v", gotLifts, tt.wantUnknown)
 			}
 		})
 	}
@@ -307,8 +303,8 @@ func Test_setGender(t *testing.T) {
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			if gotGender := setGender(tt.args.entry); gotGender != tt.wantGender {
-				t.Errorf("setGender() = %v, want %v", gotGender, tt.wantGender)
+			if gotGender := getGender(tt.args.entry); gotGender != tt.wantGender {
+				t.Errorf("getGender() = %v, want %v", gotGender, tt.wantGender)
 			}
 		})
 	}

@@ -40,11 +40,9 @@ type LifterHistory struct {
 }
 
 type LeaderboardData struct {
-	AllNames        []string
-	MaleTotals      []Entry
-	FemaleTotals    []Entry
-	MaleSinclairs   []Entry
-	FemaleSinclairs []Entry
+	AllNames     []string
+	AllTotals    []Entry
+	AllSinclairs []Entry
 }
 
 // LeaderboardPayload Incoming request payload
