@@ -81,29 +81,13 @@ func (e AllData) ProcessNames() (names []string) {
 	return
 }
 
-func (e LeaderboardData) Query(sortBy string, gender string) *[]Entry {
+func (e LeaderboardData) Select(sortBy string) *[]Entry {
 	switch sortBy {
 	case enum.Total:
-		switch gender {
-		case enum.Male:
-			return &e.MaleTotals
-		case enum.Female:
-			return &e.FemaleTotals
-		default:
-			log.Println("LeaderboardData: Query - Error in sorting totals by gender")
-			return &[]Entry{}
-		}
+		return &e.AllTotals
 	case enum.Sinclair:
-		switch gender {
-		case enum.Male:
-			return &e.MaleSinclairs
-		case enum.Female:
-			return &e.FemaleSinclairs
-		default:
-			log.Println("LeaderboardData: Query - Error in sorting sinclair by gender")
-			return &[]Entry{}
-		}
+		return &e.AllSinclairs
 	}
-	log.Println("LeaderboardData: Query - Error in selecting sinclair/total")
+	log.Println("LeaderboardData: Select - Error in selecting sinclair/total")
 	return &[]Entry{}
 }

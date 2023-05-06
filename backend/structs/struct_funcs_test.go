@@ -178,8 +178,8 @@ func TestLeaderboardData_Query(t *testing.T) {
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			if got := sampleLeaderboard.Query(tt.args.sortBy, tt.args.gender); !reflect.DeepEqual(got, &tt.want) {
-				t.Errorf("Query() = %v, want %v", got, tt.want)
+			if got := sampleLeaderboard.Select(tt.args.sortBy, tt.args.gender); !reflect.DeepEqual(got, &tt.want) {
+				t.Errorf("Select() = %v, want %v", got, tt.want)
 			}
 		})
 	}

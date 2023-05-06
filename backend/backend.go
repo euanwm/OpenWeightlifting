@@ -79,7 +79,7 @@ func postLeaderboard(c *gin.Context) {
 	reqBody, _ := jsoniter.MarshalToString(body)
 	log.Println(reqBody)
 
-	leaderboardData := processedLeaderboard.Query(body.SortBy)
+	leaderboardData := processedLeaderboard.Select(body.SortBy) // Selects either total or sinclair sorted leaderboard
 	fedData := dbtools.Filter(*leaderboardData, body, dbtools.WeightClassList[body.WeightClass], *lifterData)
 	c.JSON(http.StatusOK, fedData)
 }
