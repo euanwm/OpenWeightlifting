@@ -70,7 +70,10 @@ func TestSortDate(t *testing.T) {
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			SortTotal(tt.args.sliceStructs)
+			SortDate(tt.args.sliceStructs)
+			if !reflect.DeepEqual(tt.args.sliceStructs, tt.args.wantedSlice) {
+				t.Errorf("SortDate() = %v, want %v", tt.args.sliceStructs, tt.args.wantedSlice)
+			}
 		})
 	}
 }

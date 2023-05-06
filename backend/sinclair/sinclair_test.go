@@ -16,24 +16,34 @@ func TestCalcSinclair(t *testing.T) {
 		expectedSinclair float32
 	}{
 		{
-			name:             "Normal Sinclair",
+			name:             "NormalSinclairMale",
 			args:             args{result: &structs.Entry{Bodyweight: 81, Total: 235, Sinclair: 0}, male: true},
 			expectedSinclair: 285.66986,
 		},
 		{
-			name:             "Over-range Sinclair",
+			name:             "Over-rangeSinclairMale",
 			args:             args{result: &structs.Entry{Bodyweight: 160, Total: 510, Sinclair: 0}, male: true},
 			expectedSinclair: 0,
 		},
 		{
-			name:             "Normal Sinclair",
+			name:             "NormalSinclairFemale",
 			args:             args{result: &structs.Entry{Bodyweight: 81, Total: 235, Sinclair: 0}, male: false},
 			expectedSinclair: 270.17587,
 		},
 		{
-			name:             "Over-range Sinclair",
+			name:             "Over-rangeSinclairFemale",
 			args:             args{result: &structs.Entry{Bodyweight: 160, Total: 510, Sinclair: 0}, male: false},
 			expectedSinclair: 0,
+		},
+		{
+			name:             "SuperHeavySinclairMale",
+			args:             args{result: &structs.Entry{Bodyweight: 200, Total: 400, Sinclair: 0}, male: true},
+			expectedSinclair: 400,
+		},
+		{
+			name:             "SuperHeavySinclairFemale",
+			args:             args{result: &structs.Entry{Bodyweight: 200, Total: 400, Sinclair: 0}, male: false},
+			expectedSinclair: 400,
 		},
 	}
 	for _, tt := range tests {

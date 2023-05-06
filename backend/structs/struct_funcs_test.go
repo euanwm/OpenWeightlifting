@@ -27,6 +27,7 @@ func TestAllData_ProcessNames(t *testing.T) {
 
 func TestEntry_WithinWeightClass(t *testing.T) {
 	sampleEntry := Entry{
+		Gender:     enum.Male,
 		Bodyweight: 100,
 	}
 	type args struct {
@@ -42,18 +43,29 @@ func TestEntry_WithinWeightClass(t *testing.T) {
 			gender: enum.Male,
 			catData: WeightClass{
 				Gender: enum.Male,
-				Upper:  99,
-				Lower:  101,
-			},
-		}},
+				Upper:  101,
+				Lower:  99,
+			}},
+			want: true,
+		},
+		{name: "CatchAll", args: args{
+			gender: enum.Male,
+			catData: WeightClass{
+				Gender: enum.ALLCATS,
+				Upper:  101,
+				Lower:  99,
+			}},
+			want: true,
+		},
 		{name: "OutsideClass", args: args{
 			gender: enum.Male,
 			catData: WeightClass{
 				Gender: enum.Male,
 				Upper:  99,
 				Lower:  98,
-			},
-		}},
+			}},
+			want: false,
+		},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
@@ -78,6 +90,7 @@ func TestEntry_WithinYear(t *testing.T) {
 	}{
 		{name: "WithinYear", args: args{year: 2020}, want: true},
 		{name: "OutsideYear", args: args{year: 2019}, want: false},
+		{name: "AllYears", args: args{year: enum.AllYears}, want: true},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
@@ -102,6 +115,7 @@ func TestEntry_SelectedFederation(t *testing.T) {
 	}{
 		{name: "SelectedFed", args: args{fed: "BWL"}, want: true},
 		{name: "NotSelectedFed", args: args{fed: "DrugsDrugsDrugs"}, want: false},
+		{name: "AllFeds", args: args{fed: enum.ALLFEDS}, want: true},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
@@ -158,6 +172,9 @@ func TestLeaderboardData_Query(t *testing.T) {
 		{name: "TotalFemale", args: args{sortBy: enum.Total, gender: enum.Female}, want: sampleLeaderboard.FemaleTotals},
 		{name: "SinclairMale", args: args{sortBy: enum.Sinclair, gender: enum.Male}, want: sampleLeaderboard.MaleSinclairs},
 		{name: "SinclairFemale", args: args{sortBy: enum.Sinclair, gender: enum.Female}, want: sampleLeaderboard.FemaleSinclairs},
+		{name: "NeitherMale", args: args{sortBy: "neither", gender: enum.Male}, want: []Entry{}},
+		{name: "TotalNeither", args: args{sortBy: enum.Total, gender: "neither"}, want: []Entry{}},
+		{name: "TotalNeither", args: args{sortBy: enum.Sinclair, gender: "neither"}, want: []Entry{}},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
