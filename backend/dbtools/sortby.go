@@ -72,13 +72,12 @@ func SortDate(liftData []structs.Entry) []structs.Entry {
 	return liftData
 }
 
-func SortLiftsBy(bigData []structs.Entry, sortBy string) (finalData []structs.Entry) {
+func SortLiftsBy(bigData []structs.Entry, sortBy string) []structs.Entry {
 	switch sortBy {
 	case enum.Total:
 		SortTotal(bigData)
 	case enum.Sinclair:
 		SortSinclair(bigData)
 	}
-	finalData = append(finalData, bigData...)
-	return
+	return bigData
 }

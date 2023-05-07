@@ -7,6 +7,13 @@ import (
 	"testing"
 )
 
+func BenchmarkBuildDatabase(b *testing.B) {
+	for i := 0; i < b.N; i++ {
+		dbBuild := structs.LeaderboardData{}
+		BuildDatabase(&dbBuild)
+	}
+}
+
 func TestBuildDatabase(t *testing.T) {
 	t.Run("BuildDatabase", func(t *testing.T) {
 		dbBuild := structs.LeaderboardData{}
