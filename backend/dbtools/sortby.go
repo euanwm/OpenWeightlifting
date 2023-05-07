@@ -27,17 +27,19 @@ func removeFollowingLifts(bigData []structs.Entry) (filteredData []structs.Entry
 // Filter - Returns a slice of structs relating to the selected filter selection
 func Filter(bigData []structs.Entry, filterQuery structs.LeaderboardPayload, weightCat structs.WeightClass, lifterProfiles map[string]string) (filteredData []structs.Entry) {
 	for _, lift := range bigData {
-		if lift.SelectedFederation(filterQuery.Federation) && lift.WithinWeightClass(WeightClassList[filterQuery.WeightClass].Gender, weightCat) && lift.WithinYear(filterQuery.Year) {
-			linkedIG, igHandle := lifter.CheckUserList(lift.Name, lifterProfiles)
-			if linkedIG {
-				lift.Instagram = igHandle
+		if getGender(&lift) == weightCat.Gender {
+			if lift.SelectedFederation(filterQuery.Federation) && lift.WithinWeightClass(WeightClassList[filterQuery.WeightClass].Gender, weightCat) && lift.WithinYear(filterQuery.Year) {
+				linkedIG, igHandle := lifter.CheckUserList(lift.Name, lifterProfiles)
+				if linkedIG {
+					lift.Instagram = igHandle
+				}
+				filteredData = append(filteredData, lift)
 			}
-			filteredData = append(filteredData, lift)
-		}
-		if len(filteredData) >= filterQuery.Stop {
-			filteredData = removeFollowingLifts(filteredData)
 			if len(filteredData) >= filterQuery.Stop {
-				return
+				filteredData = removeFollowingLifts(filteredData)
+				if len(filteredData) >= filterQuery.Stop {
+					return
+				}
 			}
 		}
 	}
