@@ -18,8 +18,8 @@ func CollateAll() (allData [][]string) {
 	return allData
 }
 
-// InsertFederation Inserts federation to each event line prior as it's required for the frontend discrimination.
-func InsertFederation(event [][]string, federation string) [][]string {
+// insertFederation Inserts federation to each event line prior as it's required for the frontend discrimination.
+func insertFederation(event [][]string, federation string) [][]string {
 	for i := range event {
 		event[i] = append(event[i], federation)
 	}
@@ -45,7 +45,7 @@ func loadAllFedEvents(federation string) (allEvents [][]string) {
 				}
 			}(fileHandle)
 			eventData := utilities.LoadCsvFile(fileHandle)
-			eventData = InsertFederation(eventData, federation)
+			eventData = insertFederation(eventData, federation)
 			allEvents = append(allEvents, eventData...)
 		}()
 	}

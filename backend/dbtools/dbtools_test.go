@@ -219,15 +219,7 @@ func Test_getFedDirs(t *testing.T) {
 	}
 }
 
-func BenchmarkInsertFederation(b *testing.B) {
-	bigData := [][]string{{
-		"British U20 & U23 Weightlifting Championships 2017", "2017-10-01", "Men's Under 23 94Kg", "Edmon avetisyan", "93.8", "-146", "150", "-156", "180", "-190", "-192", "150", "180", "330"}}
-	for i := 0; i < b.N; i++ {
-		InsertFederation(bigData, "UK")
-	}
-}
-
-func TestInsertFederation(t *testing.T) {
+func Test_insertFederation(t *testing.T) {
 	type args struct {
 		event      [][]string
 		federation string
@@ -237,7 +229,7 @@ func TestInsertFederation(t *testing.T) {
 		args             args
 		wantNewEventData [][]string
 	}{
-		{name: "InsertFederation", args: args{
+		{name: "insertFederation", args: args{
 			event: [][]string{{
 				"British U20 & U23 Weightlifting Championships 2017", "2017-10-01", "Men's Under 23 94Kg", "Edmon avetisyan", "93.8", "-146", "150", "-156", "180", "-190", "-192", "150", "180", "330"}},
 			federation: "UK",
@@ -247,8 +239,8 @@ func TestInsertFederation(t *testing.T) {
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			if gotNewEventData := InsertFederation(tt.args.event, tt.args.federation); !reflect.DeepEqual(gotNewEventData, tt.wantNewEventData) {
-				t.Errorf("InsertFederation() = %v, want %v", gotNewEventData, tt.wantNewEventData)
+			if gotNewEventData := insertFederation(tt.args.event, tt.args.federation); !reflect.DeepEqual(gotNewEventData, tt.wantNewEventData) {
+				t.Errorf("insertFederation() = %v, want %v", gotNewEventData, tt.wantNewEventData)
 			}
 		})
 	}
