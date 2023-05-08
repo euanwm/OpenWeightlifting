@@ -1,0 +1,311 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+European Championships,2023-04-15,55 kg Men,SHAMILISHVILI Ramini,54.94,109,111,113,132,-136,136,113,136,249
+European Championships,2023-04-15,55 kg Men,SAHIN Muammer,54.96,108,110,112,125,130,-133,112,130,242
+European Championships,2023-04-15,55 kg Men,IANCU Valentin-Ionadi,54.80,-105,105,109,131,136,-141,109,136,245
+European Championships,2023-04-15,55 kg Men,RUSEV Angel Hriskov,54.88,105,-108,109,135,141,0,109,141,250
+European Championships,2023-04-15,55 kg Men,VORONOVSKYI Dmytro,54.84,103,-106,106,128,132,-137,106,132,238
+European Championships,2023-04-15,55 kg Men,DANEV Deniz Gretov,54.72,96,-100,-100,120,126,-132,96,126,222
+European Championships,2023-04-15,55 kg Men,OTERO MARTINEZ Michael Steven,54.94,-96,96,-100,125,-131,-133,96,125,221
+European Championships,2023-04-15,55 kg Men,BETCA Iulian,54.56,-93,93,-97,110,115,-120,93,115,208
+European Championships,2023-04-15,55 kg Men,LUNGU Daniel,54.92,-108,-109,-110,0,0,0,0,0,0
+European Championships,2023-04-15,61 kg Men,MISHVELIDZE Shota,60.94,129,133,136,-154,155,162,136,162,298
+European Championships,2023-04-15,61 kg Men,MASSIDDA Sergio,60.88,130,-134,-137,-154,154,162,130,162,292
+European Championships,2023-04-15,61 kg Men,DIMOV Ivan,60.96,123,127,-130,142,147,150,127,150,277
+European Championships,2023-04-15,61 kg Men,BERDELIDZE Goderdzi,60.78,-122,122,-126,147,153,-156,122,153,275
+European Championships,2023-04-15,61 kg Men,ISOFACHE Cosmin Florentin,60.28,110,115,120,140,145,150,120,150,270
+European Championships,2023-04-15,61 kg Men,ELIS Mustafa,60.50,115,118,120,-146,146,152,120,152,272
+European Championships,2023-04-15,61 kg Men,ZALIPSKYI Pavlo,60.88,-119,119,-121,138,142,-147,119,142,261
+European Championships,2023-04-15,61 kg Men,LUCA Marian-Cristian,59.70,110,115,-120,135,140,143,115,143,258
+European Championships,2023-04-15,61 kg Men,POLAK Frantisek,60.58,103,107,-111,-127,127,0,107,127,234
+European Championships,2023-04-15,61 kg Men,MARINOV Gabriel,60.80,-118,-118,-118,148,154,-156,0,154,0
+European Championships,2023-04-15,67 kg Men,SAHAKYAN Gor,66.84,140,145,-147,170,175,0,145,175,320
+European Championships,2023-04-15,67 kg Men,KAHRIMAN Kaan,66.46,136,141,-146,156,160,-163,141,160,301
+European Championships,2023-04-15,67 kg Men,HERNANDEZ MENDOZA Acoran Juan,66.60,135,140,-142,159,162,165,140,165,305
+European Championships,2023-04-15,67 kg Men,HARDAL Ferdi,66.80,135,-138,-138,166,-171,-171,135,166,301
+European Championships,2023-04-15,67 kg Men,PETROV Petr,66.66,128,-132,133,159,165,-167,133,165,298
+European Championships,2023-04-15,67 kg Men,BRANDHUBER Simon Josef,66.02,128,132,-136,147,152,155,132,155,287
+European Championships,2023-04-15,67 kg Men,PAMPORDZHIEV Dian Angelov,66.80,123,-126,126,-160,-160,-162,126,0,0
+European Championships,2023-04-15,67 kg Men,GENCHEV Valentin Rumyanov,66.82,125,-128,-128,160,166,0,125,166,291
+European Championships,2023-04-15,67 kg Men,KOMOROWSKI Marek,66.68,-120,123,-127,-145,145,155,123,155,278
+European Championships,2023-04-15,67 kg Men,DURAK Faris,66.36,95,-100,-100,110,-118,-118,95,110,205
+European Championships,2023-04-15,67 kg Men,MAU Jon Luke,61.42,0,0,0,0,0,0,0,0,0
+European Championships,2023-04-15,73 kg Men,ZANNI Mirko,72.46,150,153,155,175,180,-182,155,180,335
+European Championships,2023-04-15,73 kg Men,SUHAREVS Ritvars,72.84,147,152,-155,177,182,184,152,184,336
+European Championships,2023-04-15,73 kg Men,ANDREEV Bozhidar Dimitrov,73.00,147,151,-154,-180,-180,181,151,181,332
+European Championships,2023-04-15,73 kg Men,ASANIDZE Kakhi,72.72,145,-151,151,175,-181,-182,151,175,326
+European Championships,2023-04-15,73 kg Men,QERIMAJ Erkand,72.48,145,150,-152,168,-173,-174,150,168,318
+European Championships,2023-04-15,73 kg Men,SANCHEZ LOPEZ David,72.94,145,148,150,180,183,185,150,185,335
+European Championships,2023-04-15,73 kg Men,GUTU Roberto,72.80,143,146,-149,-170,-170,170,146,170,316
+European Championships,2023-04-15,73 kg Men,OZBEK Muhammed Furkan,72.48,140,143,146,181,-186,-187,146,181,327
+European Championships,2023-04-15,73 kg Men,GENC Yusuf Fehmi,71.68,140,143,146,181,184,186,146,186,332
+European Championships,2023-04-15,73 kg Men,LANG Max Richard,72.76,143,-146,-146,175,180,185,143,185,328
+European Championships,2023-04-15,73 kg Men,KUDLASZYK Piotr Mateusz,72.74,138,142,-144,175,-182,183,142,183,325
+European Championships,2023-04-15,73 kg Men,CHIN Jonathan Andrew Keir,72.20,125,129,-132,-164,164,168,129,168,297
+European Championships,2023-04-15,73 kg Men,CALJA Briken,72.88,-151,-151,-152,0,0,0,0,0,0
+European Championships,2023-04-15,81 kg Men,REYES MARTINEZ Oscar,79.56,152,155,-160,188,0,0,155,188,343
+European Championships,2023-04-15,81 kg Men,YUKSEL Batu Han,80.96,148,152,-156,180,184,187,152,187,339
+European Championships,2023-04-15,81 kg Men,MISAKYAN Hmayak,80.56,143,147,151,-173,175,-179,151,175,326
+European Championships,2023-04-15,81 kg Men,HARUTYUNYAN Rafik,80.64,-150,150,-156,183,187,-190,150,187,337
+European Championships,2023-04-15,81 kg Men,MURRAY Christopher John,80.26,142,147,-151,178,-181,-183,147,178,325
+European Championships,2023-04-15,81 kg Men,MARTASIDIS Antonis,80.40,-140,140,146,-180,180,-186,146,180,326
+European Championships,2023-04-15,81 kg Men,CABALA Sebastian,75.72,135,139,143,165,-171,173,143,173,316
+European Championships,2023-04-15,81 kg Men,MARECEK Petr,80.16,143,-147,-149,173,-176,-176,143,173,316
+European Championships,2023-04-15,81 kg Men,RAMADANI Kristi,80.60,-138,138,142,168,173,175,142,175,317
+European Championships,2023-04-15,81 kg Men,GONZALEZ AYUSO Javier,80.50,138,142,-146,171,176,-180,142,176,318
+European Championships,2023-04-15,81 kg Men,KONDRATIUK Dmytro,80.96,135,140,-143,-177,177,-185,140,177,317
+European Championships,2023-04-15,81 kg Men,FEKECS Szilard,80.34,-136,-136,136,165,168,173,136,173,309
+European Championships,2023-04-15,81 kg Men,CERTOV Dominik,80.14,-135,135,-140,161,166,-170,135,166,301
+European Championships,2023-04-15,81 kg Men,ZILINSKAS Zilvinas,79.08,125,-130,130,160,165,-170,130,165,295
+European Championships,2023-04-15,81 kg Men,CETKOVIC Goran,80.02,125,-130,-131,-155,-155,155,125,155,280
+European Championships,2023-04-15,81 kg Men,GODELLI Daniel,80.76,-150,-151,-152,0,0,0,0,0,0
+European Championships,2023-04-15,89 kg Men,KARAPETYAN Andranik,88.66,167,173,178,190,196,-206,178,196,374
+European Championships,2023-04-15,89 kg Men,NASAR Karlos May Hasan,88.04,165,170,174,205,221,0,174,221,395
+European Championships,2023-04-15,89 kg Men,ROBU Marin,87.28,161,-166,166,193,198,-201,166,198,364
+European Championships,2023-04-15,89 kg Men,FRIEDRICH Raphael,88.48,158,162,165,-190,-190,190,165,190,355
+European Championships,2023-04-15,89 kg Men,VASILONOKS Arturs,88.90,155,160,163,-188,188,-195,163,188,351
+European Championships,2023-04-15,89 kg Men,MUELLER Nico,88.56,159,-163,-163,194,-199,199,159,199,358
+European Championships,2023-04-15,89 kg Men,IAKOVIDIS Theodoros,88.92,150,155,158,-180,180,-185,158,180,338
+European Championships,2023-04-15,89 kg Men,MEZINSKIS Armands,88.90,154,-160,-161,192,198,-201,154,198,352
+European Championships,2023-04-15,89 kg Men,DOMBROVSKYI Maksym,88.52,145,150,0,0,0,0,150,0,0
+European Championships,2023-04-15,89 kg Men,PENT Leho,88.22,140,-145,145,170,177,-185,145,177,322
+European Championships,2023-04-15,89 kg Men,BROWN Sean Kevin,86.90,-141,141,144,-171,171,-175,144,171,315
+European Championships,2023-04-15,89 kg Men,SAMKO Karol,88.78,130,135,-138,181,-188,188,135,188,323
+European Championships,2023-04-15,89 kg Men,CATALDI Stefano,87.44,0,0,0,0,0,0,0,0,0
+European Championships,2023-04-15,89 kg Men,PIZZOLATO Antonino,88.74,0,0,0,0,0,0,0,0,0
+European Championships,2023-04-15,89 kg Men,SHORAJ Krenar,88.30,0,0,0,0,0,0,0,0,0
+European Championships,2023-04-15,89 kg Men,PELTOKANGAS Antti Oskari,88.42,-127,-127,-127,167,-177,-177,0,167,0
+European Championships,2023-04-15,96 kg Men,HOVHANNISYAN Davit,95.56,165,170,172,200,205,0,172,205,377
+European Championships,2023-04-15,96 kg Men,KURNAZ Sukru Hakan,95.32,164,167,170,180,187,191,170,191,361
+European Championships,2023-04-15,96 kg Men,AGHANYAN Ara,95.40,165,-170,-171,199,0,0,165,199,364
+European Championships,2023-04-15,96 kg Men,FICCO Cristiano Giuseppe,89.30,165,-170,-170,-197,-197,198,165,198,363
+European Championships,2023-04-15,96 kg Men,GOBEJISHVILI Irakli,95.64,160,-166,-166,-187,187,-198,160,187,347
+European Championships,2023-04-15,96 kg Men,TCHATCHET II Cyrille Fagat,95.44,151,156,-160,189,194,-198,156,194,350
+European Championships,2023-04-15,96 kg Men,CIOBANU Tudor,95.52,-150,150,155,185,-190,-190,155,185,340
+European Championships,2023-04-15,96 kg Men,HORIDKO Anatolii,95.88,-155,155,-160,-186,187,193,155,193,348
+European Championships,2023-04-15,96 kg Men,ADAMUS Bartlomiej Stefan,95.40,145,149,-152,182,185,0,149,185,334
+European Championships,2023-04-15,96 kg Men,MAZNITSYN Stanislav,94.30,145,149,-152,175,181,0,149,181,330
+European Championships,2023-04-15,96 kg Men,TSCHAN Yannick,94.98,143,147,-150,-183,-183,-184,147,0,0
+European Championships,2023-04-15,96 kg Men,DARVILLE Simon Kastbjerg,95.42,135,140,143,163,170,-176,143,170,313
+European Championships,2023-04-15,96 kg Men,LI-CIN-CHAI Tomas,95.06,-136,136,141,170,175,180,141,180,321
+European Championships,2023-04-15,96 kg Men,KORDUSAS Lukas,95.12,135,140,-144,166,172,-174,140,172,312
+European Championships,2023-04-15,96 kg Men,PELTONEN Roni Jali Kasperi,95.40,130,-135,135,165,-172,-173,135,165,300
+European Championships,2023-04-15,96 kg Men,DE MELO FERNANDES Joao,93.64,-120,-120,-120,150,155,-160,0,155,0
+European Championships,2023-04-15,96 kg Men,IMADOUCHENE Romain Jordan Sebastien,92.52,-160,-160,-160,0,0,0,0,0,0
+European Championships,2023-04-15,96 kg Men,MANUSHI Redon,95.38,-161,-161,-161,0,0,0,0,0,0
+European Championships,2023-04-15,102 kg Men,KARAPETYAN Garik,101.60,172,-178,178,208,214,0,178,214,392
+European Championships,2023-04-15,102 kg Men,CHKHEIDZE Irakli,101.46,168,173,-178,207,214,-220,173,214,387
+European Championships,2023-04-15,102 kg Men,HOFMANN Matthaeus Klaus Lorant Georg,101.86,165,169,172,195,201,-205,172,201,373
+European Championships,2023-04-15,102 kg Men,BRATU Tudor,99.34,-170,170,-172,-200,200,204,170,204,374
+European Championships,2023-04-15,102 kg Men,PLESNIEKS Arturs,101.70,163,168,-172,200,206,0,168,206,374
+European Championships,2023-04-15,102 kg Men,GOLJASZ Daniel,99.08,-156,156,-161,196,202,205,156,205,361
+European Championships,2023-04-15,102 kg Men,VIKINGSSON SJOEBLOM Joen Carl Erik,100.62,145,150,154,175,0,0,154,175,329
+European Championships,2023-04-15,102 kg Men,KACINSKAS Irmantas,98.44,146,150,154,176,180,185,154,185,339
+European Championships,2023-04-15,102 kg Men,DIAKOVASILIS Jacob Alexander Panayotis,101.84,140,144,147,174,180,186,147,186,333
+European Championships,2023-04-15,102 kg Men,MUGURDUMOV Artur,99.88,-145,145,-149,174,-180,-181,145,174,319
+European Championships,2023-04-15,102 kg Men,VOGEL Arnost,101.50,143,-146,-146,-175,175,-185,143,175,318
+European Championships,2023-04-15,102 kg Men,KASABIJEW Arsen,101.70,0,0,0,0,0,0,0,0,0
+European Championships,2023-04-15,102 kg Men,RUIZ I VELASCO Marcos,100.80,0,0,0,0,0,0,0,0,0
+European Championships,2023-04-15,102 kg Men,AGREN Stefan Vilhelm Mauritz,101.88,-150,-150,-150,180,-187,-194,0,180,0
+European Championships,2023-04-15,109 kg Men,GASPARYAN Samvel,104.42,172,-175,175,211,220,0,175,220,395
+European Championships,2023-04-15,109 kg Men,MARINOV Vasil Kaloyanov,106.42,168,172,174,-200,200,-205,174,200,374
+European Championships,2023-04-15,109 kg Men,MARTIROSJAN Sargis,108.46,168,173,-175,177,-187,190,173,190,363
+European Championships,2023-04-15,109 kg Men,CHKHEIDZE Giorgi,108.74,166,170,173,203,208,-214,173,208,381
+European Championships,2023-04-15,109 kg Men,SAMORAJ Jaroslaw Pawel,107.20,167,171,-174,0,0,0,171,0,0
+European Championships,2023-04-15,109 kg Men,PETROSYAN Petros,105.58,160,-165,165,210,214,-217,165,214,379
+European Championships,2023-04-15,109 kg Men,IZDEBSKI Marcin,108.24,160,-165,165,186,-191,-192,165,186,351
+European Championships,2023-04-15,109 kg Men,LOMTADZE Zaza,108.12,158,163,-165,-202,203,213,163,213,376
+European Championships,2023-04-15,109 kg Men,TATARCIK Radoslav,108.60,-161,-163,163,-179,-179,0,163,0,0
+European Championships,2023-04-15,109 kg Men,DEMIRCI Onur,108.68,160,-166,-169,192,200,204,160,204,364
+European Championships,2023-04-15,109 kg Men,KOLAR Josef,104.64,152,157,-160,186,191,-195,157,191,348
+European Championships,2023-04-15,109 kg Men,GRIFFITHS Andrew,108.90,152,156,-160,-181,-182,-182,156,0,0
+European Championships,2023-04-15,109 kg Men,GRITENCO Artiom,108.54,145,150,153,172,181,-186,153,181,334
+European Championships,2023-04-15,109 kg Men,SIDISKIS Arnas,108.74,140,145,-150,170,175,-181,145,175,320
+European Championships,2023-04-15,109 kg Men,KOLAR Jan,102.20,136,141,-146,170,175,-180,141,175,316
+European Championships,2023-04-15,109 kg Men,KESKITALO Hannes Heikki Juhani,102.12,0,0,0,0,0,0,0,0,0
+European Championships,2023-04-15,109 kg Men,HEIDENBAUER Julian,108.52,-150,-150,-150,0,0,0,0,0,0
+European Championships,2023-04-15,109 kg Men,NUMIC Mak,108.34,-120,-126,-126,151,0,0,0,151,0
+European Championships,2023-04-15,+109 kg Men,TALAKHADZE Lasha,175.78,210,217,222,246,252,0,222,252,474
+European Championships,2023-04-15,+109 kg Men,LALAYAN Varazdat,153.82,205,212,-218,240,-250,250,212,250,462
+European Championships,2023-04-15,+109 kg Men,MARTIROSYAN Simon,128.32,190,195,-200,235,245,0,195,245,440
+European Championships,2023-04-15,+109 kg Men,TURMANIDZE Bakari,162.32,-170,170,176,210,216,-221,176,216,392
+European Championships,2023-04-15,+109 kg Men,SEIM Mart,144.44,-170,170,175,-220,220,0,175,220,395
+European Championships,2023-04-15,+109 kg Men,MICHALSKI Arkadiusz,114.80,170,-175,-175,210,217,-223,170,217,387
+European Championships,2023-04-15,+109 kg Men,SHAW Gordon,130.90,164,168,-171,-192,193,-198,168,193,361
+European Championships,2023-04-15,+109 kg Men,NAGY Peter,159.58,163,168,-172,208,213,-220,168,213,381
+European Championships,2023-04-15,+109 kg Men,HOLME Ragnar Gamlestoel,132.26,160,165,-170,200,-206,-206,165,200,365
+European Championships,2023-04-15,+109 kg Men,COULLET Anthony Jean Pierre,149.46,-160,160,-165,202,206,-215,160,206,366
+European Championships,2023-04-15,+109 kg Men,MIDDLETON Mackenzie,142.90,-155,155,-161,-190,193,-202,155,193,348
+European Championships,2023-04-15,+109 kg Men,RAJIC Krizan,129.84,140,-145,145,170,175,-180,145,175,320
+European Championships,2023-04-15,+109 kg Men,KUCERA Kamil,161.78,-175,-175,-175,225,-236,0,0,225,0
+European Championships,2023-04-15,+109 kg Men,KUWORGE Enzo Kofi,154.82,0,0,0,0,0,0,0,0,0
+European Championships,2023-04-15,+109 kg Men,LITVINOV David,132.56,-180,-180,-180,-210,-210,-210,0,0,0
+European Championships,2023-04-15,+109 kg Men,KAJDOCI Tamas,138.96,0,0,0,0,0,0,0,0,0
+European Championships,2023-04-15,45 kg Women,BEKTAS Cansu,44.58,70,-72,72,86,88,90,72,90,162
+European Championships,2023-04-15,45 kg Women,PANA Adriana Cosmina,44.60,65,68,70,80,83,-87,70,83,153
+European Championships,2023-04-15,45 kg Women,GARCIA RINCON Marta,44.74,68,-70,-71,80,83,85,68,85,153
+European Championships,2023-04-15,45 kg Women,DUMITRESCU Bianca-Daniela,44.58,60,63,67,75,78,81,67,81,148
+European Championships,2023-04-15,45 kg Women,ALTUN Gamze,44.42,63,-65,-65,84,86,89,63,89,152
+European Championships,2023-04-15,45 kg Women,HINCU Teodora-Luminita,44.56,-62,-63,63,74,77,79,63,79,142
+European Championships,2023-04-15,45 kg Women,KUSTADINOVA Boyana Todorova,44.96,-58,59,61,70,73,-75,61,73,134
+European Championships,2023-04-15,45 kg Women,GRABUCEA Ecaterina,43.78,-57,57,59,73,-76,76,59,76,135
+European Championships,2023-04-15,45 kg Women,RUSEVA Reni,44.90,55,-57,-58,70,-73,-74,55,70,125
+European Championships,2023-04-15,45 kg Women,ROSAS PINTO Nair,43.98,40,42,44,52,55,58,44,58,102
+European Championships,2023-04-15,45 kg Women,ANRIQUE CABRERA Joana Araceli,44.72,-64,-64,-66,-77,0,0,0,0,0
+European Championships,2023-04-15,49 kg Women,CAMBEI Mihaela-Valentina,48.42,85,90,92,100,103,106,92,106,198
+European Championships,2023-04-15,49 kg Women,IMPERIO Giulia,48.70,-82,-82,83,98,100,-102,83,100,183
+European Championships,2023-04-15,49 kg Women,LOMACHYNSKA Anhelina,48.66,79,81,-83,-94,-95,95,81,95,176
+European Championships,2023-04-15,49 kg Women,ALICI Duygu,48.78,76,79,-81,96,-98,-98,79,96,175
+European Championships,2023-04-15,49 kg Women,BAYAV Pelinsu,48.74,75,78,-80,-96,-96,0,78,0,0
+European Championships,2023-04-15,49 kg Women,NGUYEN Tham,48.66,73,75,-77,96,-98,98,75,98,173
+European Championships,2023-04-15,49 kg Women,HERNANDEZ MARTIN Atenery,48.84,72,-74,74,-92,-92,92,74,92,166
+European Championships,2023-04-15,49 kg Women,GIMENEZ-GUERVOS PEREZ Maria Jose,48.76,72,74,-76,0,0,0,74,0,0
+European Championships,2023-04-15,49 kg Women,MAISURADZE Mariam,48.92,70,73,-76,88,92,-95,73,92,165
+European Championships,2023-04-15,49 kg Women,DRZAZGA OLIWIA Weronika,48.76,-70,70,73,94,-97,-97,73,94,167
+European Championships,2023-04-15,49 kg Women,STRZYKALA Mara,48.72,64,67,69,83,87,-89,69,87,156
+European Championships,2023-04-15,49 kg Women,COPELAND Rebecca,48.66,62,65,-67,76,79,-81,65,79,144
+European Championships,2023-04-15,49 kg Women,PIPILIARIDOU Maria,48.82,55,60,-63,75,-80,-80,60,75,135
+European Championships,2023-04-15,49 kg Women,ZAGORAC Radmila,48.18,-71,-71,-72,-87,88,-92,0,88,0
+European Championships,2023-04-15,49 kg Women,DIMITROVA Magdalena,48.76,-57,-57,-57,70,-75,75,0,75,0
+European Championships,2023-04-15,49 kg Women,CSENGERI Monica-Suneta,49.00,-84,-84,-84,-97,-97,-97,0,0,0
+European Championships,2023-04-15,55 kg Women,COTRUTA Andreea,54.64,87,-91,91,107,-110,110,91,110,201
+European Championships,2023-04-15,55 kg Women,SAMULIAK Svitlana,54.64,90,-92,-92,105,109,-112,90,109,199
+European Championships,2023-04-15,55 kg Women,YAYLYAN Izabella,54.86,-87,-87,87,105,-108,109,87,109,196
+European Championships,2023-04-15,55 kg Women,MEISTER Scheila,54.80,82,-85,85,102,104,-106,85,104,189
+European Championships,2023-04-15,55 kg Women,BRUHN Katrine Nim,54.94,80,82,84,-102,-102,-103,84,0,0
+European Championships,2023-04-15,55 kg Women,PILZ Annika,54.62,80,83,-85,100,103,-105,83,103,186
+European Championships,2023-04-15,55 kg Women,GRIGORYAN Aleksandra,53.68,77,-80,80,99,-107,-107,80,99,179
+European Championships,2023-04-15,55 kg Women,JACOBSEN Rebekka Tao,54.96,77,79,-80,-104,-104,-104,79,0,0
+European Championships,2023-04-15,55 kg Women,SCHUILWERVE Marlous,54.38,74,77,-80,90,94,-98,77,94,171
+European Championships,2023-04-15,55 kg Women,GARCIA RINCON Laura,54.80,-75,-75,75,92,94,-96,75,94,169
+European Championships,2023-04-15,55 kg Women,VANDENABEELE Annelien,54.16,71,74,-76,91,-95,-95,74,91,165
+European Championships,2023-04-15,55 kg Women,KECSKES Karina,54.92,68,72,74,88,-92,95,74,95,169
+European Championships,2023-04-15,55 kg Women,SHAPIRO Olga,54.74,-73,73,-75,82,84,86,73,86,159
+European Championships,2023-04-15,55 kg Women,HANDLOVA Veronika,54.24,-66,66,-72,79,-82,-83,66,79,145
+European Championships,2023-04-15,55 kg Women,PONTES Margarida,53.30,59,-64,-65,79,-83,-84,59,79,138
+European Championships,2023-04-15,55 kg Women,ANCIUKEVICE Aiste,54.42,58,-61,-62,78,81,-84,58,81,139
+European Championships,2023-04-15,55 kg Women,SILVA SEVERINO Soraia Alexandra,52.88,55,-60,-62,75,-78,-80,55,75,130
+European Championships,2023-04-15,55 kg Women,JONES Catrin Haf,54.80,-81,-81,-81,96,102,104,0,104,0
+European Championships,2023-04-15,59 kg Women,KONOTOP Kamila,58.50,100,104,106,120,125,129,106,129,235
+European Championships,2023-04-15,59 kg Women,STERCKX Nina,58.82,93,-96,-97,113,116,-120,93,116,209
+European Championships,2023-04-15,59 kg Women,SHPILKA Nadiia,59.00,93,-96,-96,114,-117,-117,93,114,207
+European Championships,2023-04-15,59 kg Women,RIGAUD Garance Ariette Ouiza,57.32,90,93,-95,110,-114,-114,93,110,203
+European Championships,2023-04-15,59 kg Women,KARDARA Maria,58.92,90,-93,-94,108,-111,-112,90,108,198
+European Championships,2023-04-15,59 kg Women,MARTINEZ SANTIAGO Irene,58.70,87,-90,90,105,-108,-108,90,105,195
+European Championships,2023-04-15,59 kg Women,KUSTERER Sabine Beate,58.78,87,-90,90,-106,-107,107,90,107,197
+European Championships,2023-04-15,59 kg Women,RETULAINEN Saara Sylvia Amanda,58.76,89,-92,-92,111,-115,-115,89,111,200
+European Championships,2023-04-15,59 kg Women,GORDON BROWN Jessica Mary,58.70,88,-91,-91,108,111,-114,88,111,199
+European Championships,2023-04-15,59 kg Women,SHATOVA Galya Anetova,58.82,88,-91,-91,105,-110,-110,88,105,193
+European Championships,2023-04-15,59 kg Women,WAALER Sol Anette,58.00,85,-87,87,104,-106,-107,87,104,191
+European Championships,2023-04-15,59 kg Women,THORNTON Tenishia,58.20,82,84,-86,101,-105,-105,84,101,185
+European Championships,2023-04-15,59 kg Women,CRYMBLE Hannah,58.58,82,-84,-84,101,103,-105,82,103,185
+European Championships,2023-04-15,59 kg Women,HELGADOTTIR Thuridur Erla,58.70,79,82,-84,100,-102,104,82,104,186
+European Championships,2023-04-15,59 kg Women,WHEATCROFT Laura Rachel,58.86,-82,82,-87,100,104,107,82,107,189
+European Championships,2023-04-15,59 kg Women,GEORGOPOULOU Sofia,59.00,70,75,80,90,95,100,80,100,180
+European Championships,2023-04-15,59 kg Women,JEZKOVA Patricie,58.58,80,-83,-83,97,-101,-101,80,97,177
+European Championships,2023-04-15,59 kg Women,MALCHARCZIKOVA Eliska,58.34,72,75,77,88,91,-96,77,91,168
+European Championships,2023-04-15,59 kg Women,ARVA Cintia Andrea,58.46,73,-76,76,97,101,-103,76,101,177
+European Championships,2023-04-15,59 kg Women,HAZAN May,58.66,67,-71,-71,-85,85,90,67,90,157
+European Championships,2023-04-15,59 kg Women,AARSTEN Amalie Loevind,58.78,-83,-83,-84,105,109,112,0,112,0
+European Championships,2023-04-15,59 kg Women,SAARHELO Marianne Ellen Vilhelmiina,58.18,0,0,0,0,0,0,0,0,0
+European Championships,2023-04-15,59 kg Women,MAGISTRIS Lucrezia,58.80,-95,-96,-98,0,0,0,0,0,0
+European Championships,2023-04-15,64 kg Women,GUNGOR Nuray,63.40,97,99,-101,117,120,-122,99,120,219
+European Championships,2023-04-15,64 kg Women,OZKAN Aysel,63.66,95,98,-100,115,-117,-118,98,115,213
+European Championships,2023-04-15,64 kg Women,HANHUR Mariia,63.64,-98,-98,98,-116,116,-119,98,116,214
+European Championships,2023-04-15,64 kg Women,TCHAKOUNTE Dora Meiriama,59.58,93,-98,-98,113,116,-120,93,116,209
+European Championships,2023-04-15,64 kg Women,SMITH Zoe,63.66,90,93,-95,119,121,-122,93,121,214
+European Championships,2023-04-15,64 kg Women,DAVYDOVA Hanna,63.76,-93,93,-96,-110,110,-115,93,110,203
+European Championships,2023-04-15,64 kg Women,ANDERSSON Ine Drablos,63.08,89,91,-92,117,119,121,91,121,212
+European Championships,2023-04-15,64 kg Women,WOLK Wiktoria Krystyna,63.04,85,88,91,110,-113,-113,91,110,201
+European Championships,2023-04-15,64 kg Women,MARTINEZ ANASAGASTI Garoa,63.72,85,-89,90,106,109,112,90,112,202
+European Championships,2023-04-15,64 kg Women,ARDALSBAKKE Marit,63.94,87,89,-91,104,-107,-108,89,104,193
+European Championships,2023-04-15,64 kg Women,VUOHIJOKI Anni Teija Orvokki,63.62,-88,89,-91,-112,-112,113,89,113,202
+European Championships,2023-04-15,64 kg Women,BJELIC Sonja,63.46,86,-90,-91,100,-105,-105,86,100,186
+European Championships,2023-04-15,64 kg Women,LUOSTARINEN Aino Enni Inkeri,63.62,86,-89,-89,112,115,-117,86,115,201
+European Championships,2023-04-15,64 kg Women,ROENNEBAEK Helena Isabell Zoffmann,62.92,-82,82,85,102,106,-110,85,106,191
+European Championships,2023-04-15,64 kg Women,TIMMERMANS Myrthe,63.56,85,-88,-89,105,-108,109,85,109,194
+European Championships,2023-04-15,64 kg Women,ZIKOWSKY Paula,62.48,81,84,-86,-98,98,-102,84,98,182
+European Championships,2023-04-15,64 kg Women,KASTRINAKI Christina,63.84,-84,-84,84,93,97,-100,84,97,181
+European Championships,2023-04-15,64 kg Women,KRSKOVA Lucia,63.34,81,84,-87,99,102,-104,84,102,186
+European Championships,2023-04-15,64 kg Women,HUSTAVOVA Natalia,63.28,80,83,-85,104,-107,107,83,107,190
+European Championships,2023-04-15,64 kg Women,ARSHAKYAN Anush,63.60,80,-83,-83,-104,104,-108,80,104,184
+European Championships,2023-04-15,64 kg Women,WODZKA Emilia,62.54,76,79,-81,-89,-90,-90,79,0,0
+European Championships,2023-04-15,64 kg Women,GORISEK Ivana,61.74,73,76,78,87,90,-93,78,90,168
+European Championships,2023-04-15,64 kg Women,STASSIJNS Eva,63.62,-74,74,-77,93,96,-99,74,96,170
+European Championships,2023-04-15,64 kg Women,VOLNA Veronika,62.82,73,-76,-76,97,101,-103,73,101,174
+European Championships,2023-04-15,71 kg Women,TOMA Loredana-Elena,66.98,105,110,-115,125,-130,130,110,130,240
+European Championships,2023-04-15,71 kg Women,MISERENDINO Giulia,70.66,100,105,-110,125,-128,-130,105,125,230
+European Championships,2023-04-15,71 kg Women,SCHWEIZER Lisa Marie,70.80,100,103,-106,119,122,-126,103,122,225
+European Championships,2023-04-15,71 kg Women,DAVIES Sarah,70.70,97,100,-102,-126,-126,126,100,126,226
+European Championships,2023-04-15,71 kg Women,GOLD Celia,70.18,94,97,99,118,123,-128,99,123,222
+European Championships,2023-04-15,71 kg Women,MARACH Monika,69.68,98,-101,-101,-113,-114,-115,98,0,0
+European Championships,2023-04-15,71 kg Women,DOLEGA Martyna,70.56,94,97,-99,115,117,-119,97,117,214
+European Championships,2023-04-15,71 kg Women,STURLUDOTTIR Eyglo Fanndal,70.56,93,96,-99,116,119,121,96,121,217
+European Championships,2023-04-15,71 kg Women,GHERMAN Daniela Mariana,68.54,95,-100,-100,114,119,-123,95,119,214
+European Championships,2023-04-15,71 kg Women,JAKAITE Lijana,70.44,90,92,94,-113,113,-115,94,113,207
+European Championships,2023-04-15,71 kg Women,GUDE Line Ravn,70.22,87,90,93,115,120,-125,93,120,213
+European Championships,2023-04-15,71 kg Women,ACKERMANN Antonia Helena,69.74,-85,85,91,105,-109,-109,91,105,196
+European Championships,2023-04-15,71 kg Women,BARTON Erin,69.98,87,91,-94,118,-123,-123,91,118,209
+European Championships,2023-04-15,71 kg Women,YLISOINI Anna Janette Tellervo,70.76,-90,90,-94,108,-111,-111,90,108,198
+European Championships,2023-04-15,71 kg Women,HERNANDEZ MARTIN Ilia,70.36,87,-90,-91,115,-119,-122,87,115,202
+European Championships,2023-04-15,71 kg Women,BAECKSTROEM Jannike Anna,68.02,80,-83,84,100,105,107,84,107,191
+European Championships,2023-04-15,71 kg Women,BARRY Gillian,69.08,78,80,82,-100,-100,100,82,100,182
+European Championships,2023-04-15,71 kg Women,HERTLOVA Simona,69.50,-80,-80,80,-100,-100,100,80,100,180
+European Championships,2023-04-15,71 kg Women,MONTEIRO Mafalda,70.12,75,-79,-79,97,-101,-102,75,97,172
+European Championships,2023-04-15,71 kg Women,TOVARLAZA Tia Sarah,70.02,71,-75,-76,90,-95,95,71,95,166
+European Championships,2023-04-15,71 kg Women,GRAILLOT Vicky,65.18,0,0,0,0,0,0,0,0,0
+European Championships,2023-04-15,76 kg Women,FEGUE Marie Josephe,74.48,-108,108,113,130,135,140,113,140,253
+European Championships,2023-04-15,76 kg Women,HAKOBYAN Tatev,75.62,100,104,-107,118,122,-126,104,122,226
+European Championships,2023-04-15,76 kg Women,RUBANOVICH Nikol Bella,74.30,97,100,-102,115,119,-121,100,119,219
+European Championships,2023-04-15,76 kg Women,PRISCEPA Natalia,75.66,92,96,98,114,-118,118,98,118,216
+European Championships,2023-04-15,76 kg Women,IVANOVA Daniela,73.68,93,96,-99,120,123,126,96,126,222
+European Championships,2023-04-15,76 kg Women,POGHOSYAN Emma,75.54,93,-96,96,116,121,-124,96,121,217
+European Championships,2023-04-15,76 kg Women,LOWIK Nikki Merel Elisabeth,74.84,-96,-96,96,115,118,-122,96,118,214
+European Championships,2023-04-15,76 kg Women,CIUBOTARU Alexandrina,73.50,-89,89,92,112,-117,117,92,117,209
+European Championships,2023-04-15,76 kg Women,TOLSTRUP Laura Vest,73.78,88,91,-94,-113,-113,113,91,113,204
+European Championships,2023-04-15,76 kg Women,RONDZIKOVA Nina,71.46,-87,87,90,110,-113,-115,90,110,200
+European Championships,2023-04-15,76 kg Women,SELIN Jutta Karoliina,74.28,86,-89,89,109,-113,-113,89,109,198
+European Championships,2023-04-15,76 kg Women,HORNE Lea Berle,75.40,86,-89,-89,115,-119,-120,86,115,201
+European Championships,2023-04-15,76 kg Women,CHRISTENSEN Maiken Buch,73.38,85,-88,-90,104,108,-112,85,108,193
+European Championships,2023-04-15,76 kg Women,JERABKOVA Simona,73.16,80,84,-87,98,102,-104,84,102,186
+European Championships,2023-04-15,76 kg Women,CHARITOPOULOU Despoina,75.06,80,-84,84,-103,103,-107,84,103,187
+European Championships,2023-04-15,76 kg Women,GAVRAN Ivona,73.10,80,-85,-86,-100,-100,-100,80,0,0
+European Championships,2023-04-15,76 kg Women,TAVARES Maria Teresa,74.28,77,80,-83,96,-100,-100,80,96,176
+European Championships,2023-04-15,76 kg Women,POLAKTSIDOU Despoina,72.28,-80,-80,80,100,105,-108,80,105,185
+European Championships,2023-04-15,76 kg Women,OUALIT Nadia,75.30,-91,-91,-91,-111,-112,-112,0,0,0
+European Championships,2023-04-15,81 kg Women,DEKHA Iryna,80.88,115,120,123,135,-139,-139,123,135,258
+European Championships,2023-04-15,81 kg Women,ERIGHINA Elena,80.44,100,-104,104,125,130,-134,104,130,234
+European Championships,2023-04-15,81 kg Women,NARIN Dilara,80.44,-101,101,-104,130,134,-137,101,134,235
+European Championships,2023-04-15,81 kg Women,YENIGUN Sara,80.38,-95,95,100,127,-131,131,100,131,231
+European Championships,2023-04-15,81 kg Women,ZIELINSKA Weronika,79.46,93,96,98,117,-120,121,98,121,219
+European Championships,2023-04-15,81 kg Women,SCHROTH Nina,80.92,98,-101,-102,113,-116,116,98,116,214
+European Championships,2023-04-15,81 kg Women,FEKLISTOVA Katrina,79.10,98,-101,-102,118,122,125,98,125,223
+European Championships,2023-04-15,81 kg Women,BRAZAITE Gintare,76.04,-93,93,96,115,120,124,96,124,220
+European Championships,2023-04-15,81 kg Women,GYURJYAN Liana,80.76,-95,95,-99,120,-126,-126,95,120,215
+European Championships,2023-04-15,81 kg Women,GADELIA Natia,80.84,90,94,-97,115,121,-125,94,121,215
+European Championships,2023-04-15,81 kg Women,SENICOVA Nikola,80.76,-94,-94,94,112,116,-121,94,116,210
+European Championships,2023-04-15,81 kg Women,ROENN Ida Ingalill,80.86,93,-97,-97,120,-125,125,93,125,218
+European Championships,2023-04-15,81 kg Women,AMROYAN Anna,76.62,85,-91,-91,107,113,117,85,117,202
+European Championships,2023-04-15,81 kg Women,PETERSON Eliise,80.87,0,0,0,0,0,0,0,0,0
+European Championships,2023-04-15,81 kg Women,VANBELLINGHEN Anna Marie-J A M,80.12,0,0,0,0,0,0,0,0,0
+European Championships,2023-04-15,87 kg Women,KOANDA Solfrid Eila Amena,83.86,-110,110,117,145,153,155,117,155,272
+European Championships,2023-04-15,87 kg Women,MANIEVSKA Anastasiia,85.98,103,105,108,125,130,-135,108,130,238
+European Championships,2023-04-15,87 kg Women,KHURSHUDYAN Hripsime,86.12,100,104,107,120,-127,0,107,120,227
+European Championships,2023-04-15,87 kg Women,ALMEIDA DASILVA Jessica,85.92,92,96,-101,-118,-118,118,96,118,214
+European Championships,2023-04-15,87 kg Women,MITYKO Veronika,82.98,-95,95,-99,105,110,112,95,112,207
+European Championships,2023-04-15,87 kg Women,ZIMROZ Agnieszka,85.26,89,92,-94,-106,-106,-107,92,0,0
+European Championships,2023-04-15,87 kg Women,ZEMBOVA Lenka,85.22,89,92,-94,105,107,109,92,109,201
+European Championships,2023-04-15,87 kg Women,JUNHOV-RINDBERG Paula Maria,85.18,87,90,-93,-106,-107,-107,90,0,0
+European Championships,2023-04-15,87 kg Women,SMIGOVA Eliska,83.02,82,85,88,102,105,107,88,107,195
+European Championships,2023-04-15,87 kg Women,ARAKELYAN Margarita,82.94,85,-90,-90,105,111,-115,85,111,196
+European Championships,2023-04-15,87 kg Women,BOROS Viktoria,85.66,0,0,0,0,0,0,0,0,0
+European Championships,2023-04-15,+87 kg Women,HOTFRID Anastasiia,97.94,111,114,117,128,132,135,117,135,252
+European Championships,2023-04-15,+87 kg Women,KISIL Valentyna,100.22,105,108,111,126,130,133,111,133,244
+European Championships,2023-04-15,+87 kg Women,GUNAL Melike,108.90,105,108,110,126,130,132,110,132,242
+European Championships,2023-04-15,+87 kg Women,CAMPBELL Emily Jade,126.32,-110,-110,110,136,143,0,110,143,253
+European Championships,2023-04-15,+87 kg Women,FISCHER Sarah,95.20,99,-103,104,128,132,134,104,134,238
+European Championships,2023-04-15,+87 kg Women,SUREN Tuana,92.36,100,103,-106,127,131,-134,103,131,234
+European Championships,2023-04-15,+87 kg Women,PFEILSTOECKER Johanna,103.44,92,95,97,109,113,116,97,116,213
+European Championships,2023-04-15,+87 kg Women,AVANESYAN Julieta,113.86,90,95,-97,110,116,-119,95,116,211
+European Championships,2023-04-15,+87 kg Women,IVANOVA Dzhesika,93.88,88,91,93,110,118,121,93,121,214
+European Championships,2023-04-15,+87 kg Women,KRALOVA Tereza,103.44,85,88,91,105,110,-115,91,110,201
+European Championships,2023-04-15,+87 kg Women,GYURUS Barbara,120.32,80,84,87,100,104,-106,87,104,191

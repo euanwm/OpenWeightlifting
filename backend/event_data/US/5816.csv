@@ -1,0 +1,69 @@
+meet,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Seacoast Open,2023-04-22,Open Men's 109kg,Abraham DeMaio,107.15,117,-121,121,155,159,164,121,164,285
+Seacoast Open,2023-04-22,Open Men's 89kg,Ryan Waring,84.15,87,96,100,130,137,-140,100,137,237
+Seacoast Open,2023-04-22,Open Men's +109kg,Humphrey Swift,130.2,96,99,102,127,130,133,102,133,235
+Seacoast Open,2023-04-22,Men's Masters (35-39) 102kg,William Hungerford,100.25,100,-103,-106,135,-137,-138,100,135,235
+Seacoast Open,2023-04-22,Open Men's 89kg,Robert Romano,84.5,95,100,104,120,126,131,104,131,235
+Seacoast Open,2023-04-22,Men's Masters (35-39) 81kg,Ryan Verhoeven,80.9,100,105,-110,130,-137,-138,105,130,235
+Seacoast Open,2023-04-22,Open Men's 96kg,Elias Gonzalez,93.7,92,97,-102,115,-122,122,97,122,219
+Seacoast Open,2023-04-22,Open Men's 89kg,Nicholas Belley,88.1,93,-96,-98,123,-127,-127,93,123,216
+Seacoast Open,2023-04-22,Men's Masters (50-54) +109kg,David Monesmith,116.2,92,96,99,116,-120,-122,99,116,215
+Seacoast Open,2023-04-22,Open Men's 81kg,Anthony Paiva,79.3,85,90,-95,115,120,-125,90,120,210
+Seacoast Open,2023-04-22,Open Men's +109kg,Gordon Chandler,134.45,76,81,86,112,117,122,86,122,208
+Seacoast Open,2023-04-22,Junior Men's +109kg,Jake Grzeskowiak,130.25,82,85,88,105,109,115,88,115,203
+Seacoast Open,2023-04-22,Open Men's 89kg,Anthony Yasan,84.2,-85,85,90,110,-115,-117,90,110,200
+Seacoast Open,2023-04-22,Men's Masters (40-44) 89kg,Jeffrey Bellitti,83.55,-85,85,90,102,-106,110,90,110,200
+Seacoast Open,2023-04-22,Open Women's 64kg,Charley Leonard,63.2,-79,80,83,110,114,-120,83,114,197
+Seacoast Open,2023-04-22,Men's Masters (50-54) +109kg,James Fuller,113.95,85,90,95,100,-106,-111,95,100,195
+Seacoast Open,2023-04-22,Open Men's 81kg,Stanislav Babenko,80.3,-85,87,95,-100,100,-108,95,100,195
+Seacoast Open,2023-04-22,Men's Masters (45-49) 81kg,Jason StPIerre,79.25,84,-86,90,-96,96,98,90,98,188
+Seacoast Open,2023-04-22,Open Women's 81kg,Sydney Collins,80.35,80,84,-88,100,-105,-109,84,100,184
+Seacoast Open,2023-04-22,Men's Masters (50-54) +109kg,Travis Partington,158.35,74,80,86,94,-100,-106,86,94,180
+Seacoast Open,2023-04-22,Open Women's +87kg,Emily  Roberts,88.95,70,72,74,93,-96,100,74,100,174
+Seacoast Open,2023-04-22,Open Women's +87kg,Michelle Follett,106.4,71,73,75,92,95,98,75,98,173
+Seacoast Open,2023-04-22,Open Men's 81kg,Xingchun Wang,76.1,71,74,77,93,-96,96,77,96,173
+Seacoast Open,2023-04-22,Junior Men's 81kg,Giancarlo D'Agostino,79.85,72,76,80,86,90,-94,80,90,170
+Seacoast Open,2023-04-22,Men's Masters (35-39) 81kg,Robert Tuck,75.3,67,69,71,-93,93,95,71,95,166
+Seacoast Open,2023-04-22,Open Women's 71kg,Erica Dietz,70.05,65,68,71,85,88,-91,71,88,159
+Seacoast Open,2023-04-22,Women's Masters (35-39) 71kg,Ericha Flateau,70.7,62,66,-71,81,85,90,66,90,156
+Seacoast Open,2023-04-22,Open Women's +87kg,Morgan Baumgartner,112.6,67,-70,-70,85,88,0,67,88,155
+Seacoast Open,2023-04-22,Open Women's 64kg,MaryBeth  Bashaw,60.6,62,65,69,80,83,86,69,86,155
+Seacoast Open,2023-04-22,Men's Masters (45-49) 109kg,Josh Frank,108.2,63,66,68,80,-83,-85,68,80,148
+Seacoast Open,2023-04-22,Men's Masters (40-44) 96kg,Isaac Everett,94.2,57,61,65,73,78,83,65,83,148
+Seacoast Open,2023-04-22,Open Women's 71kg,Kristin Maselli,65.45,57,60,63,76,79,83,63,83,146
+Seacoast Open,2023-04-22,Open Women's 76kg,Mariah Zirkelbach,72.15,61,63,64,76,78,81,64,81,145
+Seacoast Open,2023-04-22,Women's Masters (35-39) +87kg,Nicolle Durkee,100.1,54,57,60,75,79,82,60,82,142
+Seacoast Open,2023-04-22,Women's Masters (45-49) 81kg,Kathryn Hulse,78.75,53,56,60,75,79,82,60,82,142
+Seacoast Open,2023-04-22,Open Men's 96kg,Michael Kolbeck,91.05,54,57,62,76,79,-82,62,79,141
+Seacoast Open,2023-04-22,Open Women's 64kg,Jessica Cummings,63.75,-63,63,-65,73,76,-79,63,76,139
+Seacoast Open,2023-04-22,Open Women's 87kg,Lauren Crean,85,-59,60,62,73,-75,76,62,76,138
+Seacoast Open,2023-04-22,Women's 14-15 Age Group 64kg,Brooke Buzzell,61.3,52,55,58,72,76,80,58,80,138
+Seacoast Open,2023-04-22,Open Women's 81kg,Winnie Victor,80.95,58,60,62,73,-75,75,62,75,137
+Seacoast Open,2023-04-22,Women's Masters (35-39) 64kg,Jennifer Philips,63.45,-51,54,-57,75,79,83,54,83,137
+Seacoast Open,2023-04-22,Open Women's 87kg,Jacqui Fournier,83.85,57,61,-64,75,-79,-81,61,75,136
+Seacoast Open,2023-04-22,Junior Men's 67kg,Kai Danoff,62.4,56,-58,59,68,72,76,59,76,135
+Seacoast Open,2023-04-22,Open Women's +87kg,Jordan Elliott,111.15,55,-57,-57,70,73,75,55,75,130
+Seacoast Open,2023-04-22,Women's Masters (35-39) +87kg,Chris Krones,110.4,48,51,54,69,-72,-75,54,69,123
+Seacoast Open,2023-04-22,Women's Masters (35-39) 87kg,Alana Giordano,85.9,48,50,52,65,68,71,52,71,123
+Seacoast Open,2023-04-22,Women's Masters (35-39) 76kg,Tracy Wong,74.5,50,55,57,62,66,-68,57,66,123
+Seacoast Open,2023-04-22,Women's Masters (45-49) 71kg,Sarah Barlow,70.45,-48,49,-51,70,-72,72,49,72,121
+Seacoast Open,2023-04-22,Open Women's 59kg,Priya Kraft,58.45,44,48,52,61,65,68,52,68,120
+Seacoast Open,2023-04-22,Women's Masters (35-39) 76kg,Tess LeConche,75.35,48,50,52,63,65,67,52,67,119
+Seacoast Open,2023-04-22,Open Women's 71kg,Sydney Jackman,64.25,48,50,52,60,63,66,52,66,118
+Seacoast Open,2023-04-22,Men's Masters (35-39) 81kg,Robson Govine,77.85,43,46,-49,67,71,-75,46,71,117
+Seacoast Open,2023-04-22,Open Women's 64kg,Lauren Herrmann,63.9,41,45,48,65,68,-70,48,68,116
+Seacoast Open,2023-04-22,Open Women's 81kg,Jessica Arabi,80.55,47,49,51,58,60,63,51,63,114
+Seacoast Open,2023-04-22,Women's Masters (40-44) 64kg,Meaghan Giansiracusa,63.15,46,48,51,60,62,-65,51,62,113
+Seacoast Open,2023-04-22,Women's Masters (50-54) +87kg,Darlene Cartagena,105.85,45,47,49,-55,55,58,49,58,107
+Seacoast Open,2023-04-22,Women's Masters (35-39) 59kg,Laura Kaveney,55.5,43,45,47,55,57,59,47,59,106
+Seacoast Open,2023-04-22,Open Women's 55kg,Ericka Almeida,51.7,44,45,-46,57,59,60,45,60,105
+Seacoast Open,2023-04-22,Women's Masters (40-44) 64kg,Jamie Pica,64,-39,39,41,55,58,-61,41,58,99
+Seacoast Open,2023-04-22,Men's Masters (60-64) 67kg,Thomas Farina,66.2,34,36,38,54,57,-60,38,57,95
+Seacoast Open,2023-04-22,Open Women's 76kg,Rachel Williams,74.6,36,38,39,45,47,49,39,49,88
+Seacoast Open,2023-04-22,Men's Masters (65-69) 81kg,David Bruzzi,78.65,35,40,-44,-37,41,44,40,44,84
+Seacoast Open,2023-04-22,Women's Masters (40-44) 59kg,Amber Ellis,59,30,32,33,43,-46,46,33,46,79
+Seacoast Open,2023-04-22,Women's Masters (35-39) 81kg,Sarah Feldman,76.45,31,33,-36,41,45,-46,33,45,78
+Seacoast Open,2023-04-22,Open Women's 87kg,Agnes Kolbeck,83.25,25,-28,-31,42,-45,45,25,45,70
+Seacoast Open,2023-04-22,Women's Masters (50-54) 71kg,jeanne littlefield,65.65,22,23,24,35,37,-39,24,37,61
+Seacoast Open,2023-04-22,Women's Masters (60-64) 64kg,Donna Drinkwater,63.35,24,-26,26,33,-35,35,26,35,61
+Seacoast Open,2023-04-22,Open Women's 71kg,Kelsey Guminiak,70.1,58,61,-64,0,0,0,61,0,0
