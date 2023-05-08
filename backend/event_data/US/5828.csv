@@ -1,0 +1,72 @@
+meet,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+ECG Spring Fling,2023-04-29,Open Men's 89kg,James Sayger,87,105,110,-115,155,-160,-165,110,155,265
+ECG Spring Fling,2023-04-29,Junior Men's 102kg,River Dressler,97,-119,-119,119,-141,141,145,119,145,264
+ECG Spring Fling,2023-04-29,Open Men's 81kg,Michael Orallo,78,103,108,-111,137,-140,141,108,141,249
+ECG Spring Fling,2023-04-29,Open Men's 89kg,Akif Hassan,87,102,-110,-110,-140,140,145,102,145,247
+ECG Spring Fling,2023-04-29,Junior Men's 96kg,Matthew David,96,98,101,-105,126,132,140,101,140,241
+ECG Spring Fling,2023-04-29,Junior Men's 102kg,Caleb Tiron,97,-99,103,-107,128,133,138,103,138,241
+ECG Spring Fling,2023-04-29,Open Men's 81kg,Benjamin Tieu,80,100,107,111,130,-135,-138,111,130,241
+ECG Spring Fling,2023-04-29,Open Men's 89kg,Ryan Zirkle,84,105,-110,-110,135,-140,-145,105,135,240
+ECG Spring Fling,2023-04-29,Junior Men's 89kg,Ardonit Mehmeti,85,98,103,-109,127,135,-141,103,135,238
+ECG Spring Fling,2023-04-29,Open Men's 67kg,Andrew Ingell,66,91,96,100,125,130,135,100,135,235
+ECG Spring Fling,2023-04-29,Open Men's 96kg,Grayson Jones,93,97,102,107,117,121,125,107,125,232
+ECG Spring Fling,2023-04-29,Men's Masters (40-44) 96kg,Geoffrey Martin,90,92,97,-102,115,125,130,97,130,227
+ECG Spring Fling,2023-04-29,Men's Masters (35-39) 102kg,Erik Frost,98,-100,101,105,-120,120,-125,105,120,225
+ECG Spring Fling,2023-04-29,Open Men's 102kg,Andrew Bulkley,101,90,95,-100,118,123,128,95,128,223
+ECG Spring Fling,2023-04-29,Open Men's 61kg,Jesus Torres,60,93,95,0,115,120,-125,95,120,215
+ECG Spring Fling,2023-04-29,Men's Masters (40-44) 89kg,Ryan Bielat,88,90,95,-100,105,110,-120,95,110,205
+ECG Spring Fling,2023-04-29,Junior Men's 73kg,Noah Inocencio,71,81,84,88,107,-112,114,88,114,202
+ECG Spring Fling,2023-04-29,Open Men's 89kg,Michael Ware,88,-80,80,85,100,105,110,85,110,195
+ECG Spring Fling,2023-04-29,Junior Men's 73kg,Greyson DiCosmo,72,80,84,-88,-101,108,-111,84,108,192
+ECG Spring Fling,2023-04-29,Open Men's 73kg,Ethan Nguyen,68,78,84,-90,100,-106,106,84,106,190
+ECG Spring Fling,2023-04-29,Open Women's 71kg,Rachel Clemmer,70.1,82,86,-90,99,104,-108,86,104,190
+ECG Spring Fling,2023-04-29,Men's Masters (35-39) 81kg,Jamar Wooten,80,68,74,-80,108,114,-120,74,114,188
+ECG Spring Fling,2023-04-29,Open Women's +87kg,Jennifer Houghton,97.9,73,77,81,92,97,102,81,102,183
+ECG Spring Fling,2023-04-29,Open Men's 73kg,Brian McShea,72.5,73,78,-83,95,101,-105,78,101,179
+ECG Spring Fling,2023-04-29,Open Men's 67kg,John Roque,67,-73,73,74,98,102,105,74,105,179
+ECG Spring Fling,2023-04-29,Open Women's 64kg,Stephanie Ross,61.4,70,73,-76,96,100,103,73,103,176
+ECG Spring Fling,2023-04-29,Men's 16-17 Age Group 61kg,Harrison Phelps,60,-70,70,74,98,-101,-102,74,98,172
+ECG Spring Fling,2023-04-29,Men's Masters (45-49) 96kg,William Young III,90,65,69,72,93,96,100,72,100,172
+ECG Spring Fling,2023-04-29,Open Men's 73kg,Dillon Nguyen,69,65,70,-78,-94,94,101,70,101,171
+ECG Spring Fling,2023-04-29,Open Men's 81kg,Carl Nicklas,80,-69,70,73,89,92,95,73,95,168
+ECG Spring Fling,2023-04-29,Open Women's +87kg,Kerryn Havermale,106.5,-71,71,-74,95,-97,97,71,97,168
+ECG Spring Fling,2023-04-29,Open Women's 76kg,Alexis Danchak,72.4,68,71,-75,-92,92,95,71,95,166
+ECG Spring Fling,2023-04-29,Junior Men's 73kg,Garrett Bluntzer,73,64,68,-72,85,91,-101,68,91,159
+ECG Spring Fling,2023-04-29,Junior Women's 76kg,Hayden Mentzer,74.2,60,63,-66,88,91,94,63,94,157
+ECG Spring Fling,2023-04-29,Open Men's 89kg,Andrew Snead,84,63,-65,66,83,85,87,66,87,153
+ECG Spring Fling,2023-04-29,Men's Masters (55-59) 96kg,Sean  gardner,95,55,61,-64,85,90,91,61,91,152
+ECG Spring Fling,2023-04-29,Open Women's 81kg,Jordan Catlett,80.5,60,64,67,78,82,-87,67,82,149
+ECG Spring Fling,2023-04-29,Men's Masters (55-59) 81kg,Samuel Gardner,81,57,61,-64,87,-95,-95,61,87,148
+ECG Spring Fling,2023-04-29,Open Women's +87kg,Ariel Hendrix,101.9,55,58,61,83,86,-89,61,86,147
+ECG Spring Fling,2023-04-29,Open Women's 81kg,Courtney Tilley,80,55,58,61,80,84,-90,61,84,145
+ECG Spring Fling,2023-04-29,Open Women's 55kg,Eva Kalajian,54.4,59,62,-64,77,79,81,62,81,143
+ECG Spring Fling,2023-04-29,Open Women's +87kg,Jaide Hinds-Clarke,104,55,59,62,73,77,81,62,81,143
+ECG Spring Fling,2023-04-29,Open Women's 87kg,Ashley Neal,85.9,55,60,62,67,74,80,62,80,142
+ECG Spring Fling,2023-04-29,Women's Masters (35-39) 71kg,Donna  Lepley,69,57,-59,59,78,80,83,59,83,142
+ECG Spring Fling,2023-04-29,Open Women's 81kg,Amanda Pomposini,80.8,-63,63,-66,77,-80,-80,63,77,140
+ECG Spring Fling,2023-04-29,Open Women's 81kg,Cassandra Anderson ,79,55,57,59,75,77,79,59,79,138
+ECG Spring Fling,2023-04-29,Open Women's 55kg,Sierra Redman,53.4,55,-58,58,73,75,77,58,77,135
+ECG Spring Fling,2023-04-29,Open Women's 55kg,Christa Degidio ,53.7,52,54,56,72,75,77,56,77,133
+ECG Spring Fling,2023-04-29,Open Women's +87kg,Emily Jones,90.5,55,-57,58,71,-73,75,58,75,133
+ECG Spring Fling,2023-04-29,Men's 16-17 Age Group 61kg,Evan Kinnear,60,50,53,56,69,74,-79,56,74,130
+ECG Spring Fling,2023-04-29,Open Women's 64kg,Isabelle Loughran,62.4,-52,52,56,68,71,74,56,74,130
+ECG Spring Fling,2023-04-29,Junior Women's 81kg,Hailey Beck,78.6,48,52,-56,61,66,70,52,70,122
+ECG Spring Fling,2023-04-29,Women's 13 Under Age Group 55kg,Maryam Grafton,50.6,48,50,52,60,63,65,52,65,117
+ECG Spring Fling,2023-04-29,Open Women's 59kg,Prisma Iniguez,57.2,51,-54,-56,63,66,-69,51,66,117
+ECG Spring Fling,2023-04-29,Men's Masters (60-64) 73kg,Timothy Campbell,72,40,43,45,64,67,71,45,71,116
+ECG Spring Fling,2023-04-29,Open Women's 71kg,Lauryn Moss,70.4,40,43,46,60,63,66,46,66,112
+ECG Spring Fling,2023-04-29,Open Women's 76kg,Claire Cross,76,-44,-44,44,57,60,63,44,63,107
+ECG Spring Fling,2023-04-29,Junior Women's 71kg,Sophia Barrett,69.6,-39,41,43,59,-62,-64,43,59,102
+ECG Spring Fling,2023-04-29,Junior Women's 71kg,Kira Malone,66,37,40,-43,55,58,61,40,61,101
+ECG Spring Fling,2023-04-29,Women's Masters (50-54) 71kg,Amy Schroeder,68.9,-41,41,-43,51,53,-55,41,53,94
+ECG Spring Fling,2023-04-29,Women's Masters (35-39) 71kg,Jelaire Grillo,64.4,38,40,-42,47,50,52,40,52,92
+ECG Spring Fling,2023-04-29,Open Women's 71kg,Kristin Hardy,70.5,-36,36,-38,49,51,54,36,54,90
+ECG Spring Fling,2023-04-29,Women's Masters (35-39) 81kg,Sydney  Crispin,78.6,35,38,41,42,45,48,41,48,89
+ECG Spring Fling,2023-04-29,Women's Masters (35-39) 49kg,Christina Concepcion,46.6,34,36,-38,45,48,-50,36,48,84
+ECG Spring Fling,2023-04-29,Women's Masters (45-49) 76kg,christine morelli,72.9,25,27,29,36,39,41,29,41,70
+ECG Spring Fling,2023-04-29,Women's 13 Under Age Group 55kg,Lola Perkins,54,23,-25,25,28,31,35,25,35,60
+ECG Spring Fling,2023-04-29,Women's 13 Under Age Group 30kg,Isabelle  Woodward,29.6,9,10,11,10,11,12,11,12,23
+ECG Spring Fling,2023-04-29,Open Men's 96kg,Kendall Green,94,107,108,110,-148,-148,0,110,0,0
+ECG Spring Fling,2023-04-29,Men's Masters (35-39) 81kg,Xiaoping Li,80,-90,-90,-90,-110,-110,-111,0,0,0
+ECG Spring Fling,2023-04-29,Men's Masters (40-44) 96kg,Thomas Borak,95,-115,-115,-118,130,-138,-138,0,130,0
+ECG Spring Fling,2023-04-29,Men's Masters (50-54) 67kg,John Hirsch IV,66,70,-72,-72,-75,-75,-77,70,0,0
