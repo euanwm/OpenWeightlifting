@@ -11,7 +11,6 @@ func BuildDatabase(leaderboardTotal *structs.LeaderboardData) {
 	bigData := CollateAll()
 	allLifts, _ := ParseData(bigData)
 	*leaderboardTotal = structs.LeaderboardData{
-		AllNames:     allLifts.ProcessNames(),
 		AllTotals:    SortLiftsBy(allLifts.Lifts, enum.Total),
 		AllSinclairs: SortLiftsBy(allLifts.Lifts, enum.Sinclair),
 	}

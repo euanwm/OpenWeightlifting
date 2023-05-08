@@ -67,7 +67,7 @@ func (e Entry) SelectedFederation(federation string) bool {
 
 func (e LeaderboardData) FetchNames(posSlice []int) (names []string) {
 	for _, position := range posSlice {
-		names = append(names, e.AllNames[position])
+		names = append(names, e.AllTotals[position].Name)
 	}
 	return
 }

@@ -128,7 +128,18 @@ func TestEntry_SelectedFederation(t *testing.T) {
 
 func TestLeaderboardData_FetchNames(t *testing.T) {
 	sampleLeaderboard := LeaderboardData{
-		AllNames: []string{"A", "B", "C", "D", "E", "F", "G", "H", "I", "J"},
+		AllTotals: []Entry{
+			{Name: "A"},
+			{Name: "B"},
+			{Name: "C"},
+			{Name: "D"},
+			{Name: "E"},
+			{Name: "F"},
+			{Name: "G"},
+			{Name: "H"},
+			{Name: "I"},
+			{Name: "J"},
+		},
 	}
 	type args struct {
 		posSlice []int
@@ -153,7 +164,6 @@ func TestLeaderboardData_FetchNames(t *testing.T) {
 
 func TestLeaderboardData_Select(t *testing.T) {
 	sampleLeaderboard := LeaderboardData{
-		AllNames:     []string{"A", "B", "C", "D", "E", "F", "G", "H", "I", "J"},
 		AllTotals:    []Entry{},
 		AllSinclairs: []Entry{},
 	}

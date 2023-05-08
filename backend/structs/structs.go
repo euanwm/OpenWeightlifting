@@ -40,7 +40,6 @@ type LifterHistory struct {
 }
 
 type LeaderboardData struct {
-	AllNames     []string
 	AllTotals    []Entry
 	AllSinclairs []Entry
 }

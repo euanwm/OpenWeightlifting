@@ -8,12 +8,10 @@ import (
 
 // todo: add more details to allow more strict testing
 var sampleLeaderboardData = &structs.LeaderboardData{
-	MaleTotals: []structs.Entry{
+	AllTotals: []structs.Entry{
 		{Name: "John Smith", Total: 123},
 		{Name: "john smith", Total: 234},
 		{Name: "John smoth", Total: 345},
-	},
-	FemaleTotals: []structs.Entry{
 		{Name: "Joanne Smith", Total: 123},
 		{Name: "joanne smith", Total: 234},
 		{Name: "joanne smith", Total: 235},
@@ -63,33 +61,47 @@ func TestFetchLifts(t *testing.T) {
 func TestNameSearch(t *testing.T) {
 	type args struct {
 		nameStr  string
-		nameList []string
+		nameList []structs.Entry
 	}
 	tests := []struct {
-		name              string
-		args              args
-		wantNamePositions []int
+		name          string
+		args          args
+		wantNameSlice []string
 	}{
 		{name: "Single Match", args: args{
-			nameStr:  "John Smith",
-			nameList: []string{"andrew smith", "dave smith", "John Smith", "maybe john smith"}},
-			wantNamePositions: []int{2, 3},
+			nameStr: "Dave Smith",
+			nameList: []structs.Entry{
+				{Name: "andrew smith"},
+				{Name: "Dave Smith"},
+				{Name: "John Smith"},
+				{Name: "maybe john smith"},
+			}},
+			wantNameSlice: []string{"Dave Smith"},
 		},
 		{name: "Multiple Match (case insensitive)", args: args{
-			nameStr:  "John Smith",
-			nameList: []string{"john smith", "john not smith", "John Smith", "john Smith"}},
-			wantNamePositions: []int{0, 2, 3},
+			nameStr: "John Smith",
+			nameList: []structs.Entry{
+				{Name: "john smith"},
+				{Name: "john not smith"},
+				{Name: "John Smith"},
+				{Name: "john Smith"},
+			}},
+			wantNameSlice: []string{"john smith", "John Smith", "john Smith"},
 		},
 		{name: "No Match on Spelling", args: args{
-			nameStr:  "John Smith",
-			nameList: []string{"jim smof", "dof smith", "john smof"}},
-			wantNamePositions: nil,
+			nameStr: "John Smith",
+			nameList: []structs.Entry{
+				{Name: "jim smof"},
+				{Name: "dof smith"},
+				{Name: "john smof"},
+			}},
+			wantNameSlice: nil,
 		},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			if gotNamePositions := NameSearch(tt.args.nameStr, &tt.args.nameList); !reflect.DeepEqual(gotNamePositions, tt.wantNamePositions) {
-				t.Errorf("NameSearch() = %v, want %v", gotNamePositions, tt.wantNamePositions)
+			if gotNamePositions := NameSearch(tt.args.nameStr, &tt.args.nameList); !reflect.DeepEqual(gotNamePositions, tt.wantNameSlice) {
+				t.Errorf("NameSearch() = %v, want %v", gotNamePositions, tt.wantNameSlice)
 			}
 		})
 	}

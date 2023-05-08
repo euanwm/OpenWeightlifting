@@ -29,8 +29,7 @@ func getTest(c *gin.Context) {
 func getSearchName(c *gin.Context) {
 	if len(c.Query("name")) >= 3 {
 		search := structs.NameSearch{NameStr: c.Query("name")}
-		suggestions := lifter.NameSearch(search.NameStr, &processedLeaderboard.AllNames)
-		results := structs.NameSearchResults{Names: processedLeaderboard.FetchNames(suggestions)}
+		results := structs.NameSearchResults{Names: lifter.NameSearch(search.NameStr, &processedLeaderboard.AllTotals)}
 		c.JSON(http.StatusOK, results)
 	}
 }
