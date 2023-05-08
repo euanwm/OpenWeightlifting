@@ -6,14 +6,24 @@ import (
 	"strconv"
 )
 
-//Float - Converts a string containing a float32 to exactly that
+// Float - Converts a string containing a float32 to exactly that
 func Float(preFloatStr string) (retFloat float32) {
 	convFloat, _ := strconv.ParseFloat(preFloatStr, 32)
 	retFloat = float32(convFloat)
 	return
 }
 
-//MapContains - Returns true if the map/dict matches the primary/index data
+// SliceContains - Returns true if the slice contains the string
+func SliceContains(StrQuery string, sliceData []string) bool {
+	for _, value := range sliceData {
+		if value == StrQuery {
+			return true
+		}
+	}
+	return false
+}
+
+// MapContains - Returns true if the map/dict matches the primary/index data
 func MapContains(StrQuery string, mapData map[string]string) bool {
 	for index, _ := range mapData {
 		if index == StrQuery {
@@ -23,7 +33,7 @@ func MapContains(StrQuery string, mapData map[string]string) bool {
 	return false
 }
 
-//Contains - Returns true if a substring within a string exists
+// Contains - Returns true if a substring within a string exists
 func Contains(sl []string, name string) bool {
 	for _, value := range sl {
 		if value == name {

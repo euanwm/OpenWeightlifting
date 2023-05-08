@@ -8,20 +8,14 @@ import (
 
 func TestFetchEvent(t *testing.T) {
 	sampleLeaderboard := structs.LeaderboardData{
-		MaleTotals: []structs.Entry{
+		AllTotals: []structs.Entry{
+			{Event: "A"},
 			{Event: "A"},
 			{Event: "B"},
 			{Event: "C"},
 			{Event: "D"},
 			{Event: "E"},
 			{Event: "F"},
-		},
-		FemaleTotals: []structs.Entry{
-			{Event: "A"},
-			{Event: "B"},
-			{Event: "C"},
-			{Event: "D"},
-			{Event: "E"},
 		},
 	}
 	type args struct {

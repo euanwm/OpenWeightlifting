@@ -29,8 +29,7 @@ func getTest(c *gin.Context) {
 func getSearchName(c *gin.Context) {
 	if len(c.Query("name")) >= 3 {
 		search := structs.NameSearch{NameStr: c.Query("name")}
-		suggestions := lifter.NameSearch(search.NameStr, &processedLeaderboard.AllNames)
-		results := structs.NameSearchResults{Names: processedLeaderboard.FetchNames(suggestions)}
+		results := structs.NameSearchResults{Names: lifter.NameSearch(search.NameStr, &processedLeaderboard.AllTotals)}
 		c.JSON(http.StatusOK, results)
 	}
 }
@@ -79,8 +78,8 @@ func postLeaderboard(c *gin.Context) {
 	reqBody, _ := jsoniter.MarshalToString(body)
 	log.Println(reqBody)
 
-	sexLeaderboard := processedLeaderboard.Query(body.SortBy, dbtools.WeightClassList[body.WeightClass].Gender)
-	fedData := dbtools.Filter(*sexLeaderboard, body, dbtools.WeightClassList[body.WeightClass], *lifterData)
+	leaderboardData := processedLeaderboard.Select(body.SortBy) // Selects either total or sinclair sorted leaderboard
+	fedData := dbtools.Filter(*leaderboardData, body, dbtools.WeightClassList[body.WeightClass], *lifterData)
 	c.JSON(http.StatusOK, fedData)
 }
 

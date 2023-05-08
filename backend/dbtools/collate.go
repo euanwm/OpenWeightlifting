@@ -18,16 +18,15 @@ func CollateAll() (allData [][]string) {
 	return allData
 }
 
-//Inserts federation to each event line prior as it's required for the frontend discrimination.
-func insertFederation(event [][]string, federation string) (newEventData [][]string) {
-	for _, line := range event {
-		line = append(line, federation)
-		newEventData = append(newEventData, line)
+// insertFederation Inserts federation to each event line prior as it's required for the frontend discrimination.
+func insertFederation(event [][]string, federation string) [][]string {
+	for i := range event {
+		event[i] = append(event[i], federation)
 	}
-	return
+	return event
 }
 
-//Returns an unsorted nested slice of all events from a single federation/organiser
+// Returns an unsorted nested slice of all events from a single federation/organiser
 func loadAllFedEvents(federation string) (allEvents [][]string) {
 	allFiles, err := database.Database.ReadDir(federation)
 	if err != nil {
@@ -53,8 +52,8 @@ func loadAllFedEvents(federation string) (allEvents [][]string) {
 	return
 }
 
-//Returns a slice of the named directories within the database.
-//All directories must be named by federation/organiser.
+// Returns a slice of the named directories within the database.
+// All directories must be named by federation/organiser.
 func getFedDirs() (federationDirs []string) {
 	dirs, err := database.Database.ReadDir(".")
 	if err != nil {

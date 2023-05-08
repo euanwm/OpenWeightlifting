@@ -113,3 +113,28 @@ func TestMapContains(t *testing.T) {
 		})
 	}
 }
+
+func TestSliceContains(t *testing.T) {
+	type args struct {
+		strQuery string
+		slData   []string
+	}
+	tests := []struct {
+		name string
+		args args
+		want bool
+	}{
+		{name: "SliceContains", args: args{strQuery: "a", slData: []string{"a", "b"}}, want: true},
+		{name: "SliceDoesNotContain", args: args{strQuery: "a", slData: []string{"b", "c"}}, want: false},
+		{name: "EmptySlice", args: args{strQuery: "a", slData: []string{}}, want: false},
+		{name: "EmptyQuery", args: args{strQuery: "", slData: []string{"a", "b"}}, want: false},
+		{name: "EmptySliceAndQuery", args: args{strQuery: "", slData: []string{}}, want: false},
+	}
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			if got := SliceContains(tt.args.strQuery, tt.args.slData); got != tt.want {
+				t.Errorf("SliceContains() = %v, want %v", got, tt.want)
+			}
+		})
+	}
+}

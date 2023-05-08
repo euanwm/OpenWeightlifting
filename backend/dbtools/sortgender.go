@@ -8,23 +8,23 @@ import (
 	"strings"
 )
 
-// SortGender Splits results into 3 categories, male, female, and unknown.
-func SortGender(bigData [][]string) (male structs.AllData, female structs.AllData, unknown structs.AllData) {
+// ParseData Splits results into 3 categories, male, female, and unknown.
+func ParseData(bigData [][]string) (allLifts structs.AllData, unknown structs.AllData) {
 	for _, contents := range bigData {
 		dataStruct := assignStruct(contents)
-		gender := setGender(&dataStruct)
+		gender := getGender(&dataStruct)
 		switch gender {
 		case enum.Male:
 			if dataStruct.Total > 0 && dataStruct.Total < enum.MaxTotal && dataStruct.Bodyweight > enum.MinimumBodyweight {
 				// todo: add in error handling for CalcSinclair
 				sinclair.CalcSinclair(&dataStruct, true)
 			}
-			male.Lifts = append(male.Lifts, dataStruct)
+			allLifts.Lifts = append(allLifts.Lifts, dataStruct)
 		case enum.Female:
 			if dataStruct.Total > 0 && dataStruct.Total < enum.MaxTotal && dataStruct.Bodyweight > enum.MinimumBodyweight {
 				sinclair.CalcSinclair(&dataStruct, false)
 			}
-			female.Lifts = append(female.Lifts, dataStruct)
+			allLifts.Lifts = append(allLifts.Lifts, dataStruct)
 		case enum.Unknown:
 			unknown.Lifts = append(unknown.Lifts, dataStruct)
 		}
@@ -32,7 +32,7 @@ func SortGender(bigData [][]string) (male structs.AllData, female structs.AllDat
 	return
 }
 
-func setGender(entry *structs.Entry) (gender string) {
+func getGender(entry *structs.Entry) (gender string) {
 	if entry.Gender == enum.Male {
 		return enum.Male
 	} else if entry.Gender == enum.Female {

@@ -128,7 +128,18 @@ func TestEntry_SelectedFederation(t *testing.T) {
 
 func TestLeaderboardData_FetchNames(t *testing.T) {
 	sampleLeaderboard := LeaderboardData{
-		AllNames: []string{"A", "B", "C", "D", "E", "F", "G", "H", "I", "J"},
+		AllTotals: []Entry{
+			{Name: "A"},
+			{Name: "B"},
+			{Name: "C"},
+			{Name: "D"},
+			{Name: "E"},
+			{Name: "F"},
+			{Name: "G"},
+			{Name: "H"},
+			{Name: "I"},
+			{Name: "J"},
+		},
 	}
 	type args struct {
 		posSlice []int
@@ -151,35 +162,27 @@ func TestLeaderboardData_FetchNames(t *testing.T) {
 	}
 }
 
-func TestLeaderboardData_Query(t *testing.T) {
+func TestLeaderboardData_Select(t *testing.T) {
 	sampleLeaderboard := LeaderboardData{
-		AllNames:        []string{"A", "B", "C", "D", "E", "F", "G", "H", "I", "J"},
-		MaleTotals:      []Entry{},
-		FemaleTotals:    []Entry{},
-		MaleSinclairs:   []Entry{},
-		FemaleSinclairs: []Entry{},
+		AllTotals:    []Entry{},
+		AllSinclairs: []Entry{},
 	}
 	type args struct {
 		sortBy string
-		gender string
 	}
 	tests := []struct {
 		name string
 		args args
 		want []Entry
 	}{
-		{name: "TotalMale", args: args{sortBy: enum.Total, gender: enum.Male}, want: sampleLeaderboard.MaleTotals},
-		{name: "TotalFemale", args: args{sortBy: enum.Total, gender: enum.Female}, want: sampleLeaderboard.FemaleTotals},
-		{name: "SinclairMale", args: args{sortBy: enum.Sinclair, gender: enum.Male}, want: sampleLeaderboard.MaleSinclairs},
-		{name: "SinclairFemale", args: args{sortBy: enum.Sinclair, gender: enum.Female}, want: sampleLeaderboard.FemaleSinclairs},
-		{name: "NeitherMale", args: args{sortBy: "neither", gender: enum.Male}, want: []Entry{}},
-		{name: "TotalNeither", args: args{sortBy: enum.Total, gender: "neither"}, want: []Entry{}},
-		{name: "TotalNeither", args: args{sortBy: enum.Sinclair, gender: "neither"}, want: []Entry{}},
+		{name: "SelectTotal", args: args{sortBy: enum.Total}, want: sampleLeaderboard.AllTotals},
+		{name: "SelectSinclair", args: args{sortBy: enum.Sinclair}, want: sampleLeaderboard.AllSinclairs},
+		{name: "NeitherMale", args: args{sortBy: "neither"}, want: []Entry{}},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			if got := sampleLeaderboard.Query(tt.args.sortBy, tt.args.gender); !reflect.DeepEqual(got, &tt.want) {
-				t.Errorf("Query() = %v, want %v", got, tt.want)
+			if got := sampleLeaderboard.Select(tt.args.sortBy); !reflect.DeepEqual(got, &tt.want) {
+				t.Errorf("Select() = %v, want %v", got, tt.want)
 			}
 		})
 	}
