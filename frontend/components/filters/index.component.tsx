@@ -16,6 +16,7 @@ const federationList = [
   { value: 'US', label: 'US' },
   { value: 'AUS', label: 'AUS' },
   { value: 'IWF', label: 'IWF' },
+  { value: 'OPEN', label: 'OPEN'}
 ]
 
 const weightClassList = [
