@@ -1,0 +1,59 @@
+meet,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+2023 Lock and Load,2023-05-13,Open Men's 96kg,Chase Durham,94.36,130,133,-136,-160,-160,160,133,160,293
+2023 Lock and Load,2023-05-13,Open Men's 96kg,alireza yazdanshenas,95.08,120,125,-132,-160,-160,161,125,161,286
+2023 Lock and Load,2023-05-13,Men's Masters (35-39) +109kg,Ernest Reyna,129.2,107,113,117,140,146,150,117,150,267
+2023 Lock and Load,2023-05-13,Open Men's +109kg,Ivan Maysonet,116.55,104,108,-112,142,-147,-147,108,142,250
+2023 Lock and Load,2023-05-13,Men's Masters (35-39) +109kg,Jean Banos,123.32,102,105,110,130,135,140,110,140,250
+2023 Lock and Load,2023-05-13,Open Men's 96kg,Travis Parrish,94.8,102,-107,111,133,138,-142,111,138,249
+2023 Lock and Load,2023-05-13,Open Men's 102kg,Chris Padilla,97.55,100,103,110,126,131,-137,110,131,241
+2023 Lock and Load,2023-05-13,Open Men's 89kg,Andrew Brantley,84.7,-101,101,-106,-131,131,137,101,137,238
+2023 Lock and Load,2023-05-13,Open Men's 102kg,Eugene Lee,100.6,100,-105,107,130,-138,-145,107,130,237
+2023 Lock and Load,2023-05-13,Open Men's 73kg,Joshua Shaddox,72.58,-101,103,-107,130,-136,-140,103,130,233
+2023 Lock and Load,2023-05-13,Men's Masters (35-39) 96kg,Christopher Scogin,94.02,93,97,-102,-125,126,130,97,130,227
+2023 Lock and Load,2023-05-13,Open Men's 102kg,Mike Taatgen,100.8,85,90,-100,130,135,-145,90,135,225
+2023 Lock and Load,2023-05-13,Open Men's 67kg,Scott Bukosky,66.56,92,-96,-100,122,-126,126,92,126,218
+2023 Lock and Load,2023-05-13,Open Men's 89kg,Cason Kelly,88.01,82,86,-90,120,126,-131,86,126,212
+2023 Lock and Load,2023-05-13,Open Men's 67kg,Christian Moran,66.92,-87,88,92,118,-122,-122,92,118,210
+2023 Lock and Load,2023-05-13,Open Men's +109kg,Max Diaz,153.5,82,84,-86,107,110,112,84,112,196
+2023 Lock and Load,2023-05-13,Open Women's 64kg,Rebecca Rouse,63.31,83,86,90,105,-110,-110,90,105,195
+2023 Lock and Load,2023-05-13,Open Men's 67kg,Nicholas Lau,65,-80,80,83,90,94,98,83,98,181
+2023 Lock and Load,2023-05-13,Men's Masters (40-44) 102kg,Antonio Perez,100.53,65,68,72,88,95,-103,72,95,167
+2023 Lock and Load,2023-05-13,Women's Masters (35-39) 71kg,Alyssa Kwast,70.24,72,-75,76,-86,86,-90,76,86,162
+2023 Lock and Load,2023-05-13,Open Women's 71kg,Marissa Jennings,66.05,64,-68,70,76,79,82,70,82,152
+2023 Lock and Load,2023-05-13,Men's Masters (50-54) 73kg,Ray Harkness,67.19,58,62,65,75,82,86,65,86,151
+2023 Lock and Load,2023-05-13,Men's Masters (65-69) +109kg,David Ehresmann,109.56,64,67,-70,78,82,-86,67,82,149
+2023 Lock and Load,2023-05-13,Open Women's 64kg,Rachel Teran,62.7,64,67,-69,81,-83,-83,67,81,148
+2023 Lock and Load,2023-05-13,Men's Masters (65-69) 81kg,David De La Garza,80.48,62,66,-68,80,-84,-84,66,80,146
+2023 Lock and Load,2023-05-13,Open Women's 59kg,Jessie Czarnecki,58.23,-63,63,-67,-75,76,-81,63,76,139
+2023 Lock and Load,2023-05-13,Open Women's 55kg,Kortney Cooper,54.6,53,57,60,73,77,-80,60,77,137
+2023 Lock and Load,2023-05-13,Men's Masters (65-69) 89kg,Jimmy Stewart,85.13,50,55,-58,70,76,80,55,80,135
+2023 Lock and Load,2023-05-13,Women's Masters (45-49) 64kg,Melissa Knourek,60.52,59,62,-65,68,72,-77,62,72,134
+2023 Lock and Load,2023-05-13,Open Men's 89kg,Thomas Seive,84.8,55,60,-65,65,70,73,60,73,133
+2023 Lock and Load,2023-05-13,Men's Masters (75-79) 67kg,Bryant Stavely,66.32,-50,50,-54,72,76,80,50,80,130
+2023 Lock and Load,2023-05-13,Men's Masters (55-59) 67kg,Rodger Delany,66.2,48,51,53,70,74,76,53,76,129
+2023 Lock and Load,2023-05-13,Women's Masters (35-39) 76kg,Theresa Ontiveros,74.01,51,53,-55,65,-67,67,53,67,120
+2023 Lock and Load,2023-05-13,Open Women's 76kg,Hanniel Schultz,72.88,47,51,-55,-65,65,-70,51,65,116
+2023 Lock and Load,2023-05-13,Men's 14-15 Age Group 61kg,Brian Dalton,60.4,49,52,-54,60,63,-65,52,63,115
+2023 Lock and Load,2023-05-13,Open Women's 87kg,Baylee Richard,83.69,47,-49,49,-65,-65,65,49,65,114
+2023 Lock and Load,2023-05-13,Women's 13 Under Age Group 55kg,Addison Staats,52,43,47,51,53,57,-61,51,57,108
+2023 Lock and Load,2023-05-13,Women's 13 Under Age Group +64kg,Olivia Vincent,69.65,-45,-47,48,55,58,-61,48,58,106
+2023 Lock and Load,2023-05-13,Open Women's 71kg,Naomi Kwak,66.96,40,43,45,53,57,60,45,60,105
+2023 Lock and Load,2023-05-13,Women's Masters (35-39) +87kg,Megan Bullard,130.33,42,44,47,54,57,-60,47,57,104
+2023 Lock and Load,2023-05-13,Women's Masters (40-44) 59kg,Joanne Sanders,58.95,43,46,-49,52,56,-58,46,56,102
+2023 Lock and Load,2023-05-13,Women's 13 Under Age Group 59kg,Olivia  Kohls,56.46,37,-40,40,50,53,56,40,56,96
+2023 Lock and Load,2023-05-13,Open Women's 49kg,Ahrm Jeong,48.49,38,40,42,47,50,-52,42,50,92
+2023 Lock and Load,2023-05-13,Women's 13 Under Age Group 45kg,Emmerson Staats,40.48,33,36,-39,-44,44,49,36,49,85
+2023 Lock and Load,2023-05-13,Men's Masters (70-74) 109kg,Charles Carlton,108.85,-40,40,-42,45,-50,-50,40,45,85
+2023 Lock and Load,2023-05-13,Open Women's 81kg,Summer Kelly,79.5,-35,35,-38,43,47,-50,35,47,82
+2023 Lock and Load,2023-05-13,Junior Women's 64kg,tiffany martinez,61.12,32,34,36,38,42,-45,36,42,78
+2023 Lock and Load,2023-05-13,Men's Masters (70-74) 89kg,William Witherspoon,82.14,35,-37,37,40,-45,-45,37,40,77
+2023 Lock and Load,2023-05-13,Women's Masters (55-59) 55kg,Kimberlee Delany,54.24,-32,32,-36,38,41,-44,32,41,73
+2023 Lock and Load,2023-05-13,Women's 13 Under Age Group 36kg,Katelyn Foster,35.26,-29,29,-32,36,39,41,29,41,70
+2023 Lock and Load,2023-05-13,Men's 13 Under Age Group 49kg,William McAdams,47.13,25,28,30,33,37,40,30,40,70
+2023 Lock and Load,2023-05-13,Women's 13 Under Age Group 49kg,Isabel Lambrecht-Davalos,48.82,25,28,-31,34,37,-39,28,37,65
+2023 Lock and Load,2023-05-13,Women's 13 Under Age Group 36kg,Claire White,35.3,-25,25,28,28,-32,-35,28,28,56
+2023 Lock and Load,2023-05-13,Women's 13 Under Age Group 40kg,Charley  Vincent ,38.03,17,20,-22,-22,-23,23,20,23,43
+2023 Lock and Load,2023-05-13,Men's 13 Under Age Group 36kg,Robert Ramsey 2nd,33.38,14,16,-18,18,20,23,16,23,39
+2023 Lock and Load,2023-05-13,Men's 13 Under Age Group 32kg,Carter Kohls,25.25,10,12,15,16,-19,-19,15,16,31
+2023 Lock and Load,2023-05-13,Open Men's +109kg,Dylan Douglass,124.1,-122,-123,-123,-174,174,-182,0,174,0
+2023 Lock and Load,2023-05-13,Men's Masters (40-44) 67kg,Eric Kurschinski,66.67,-80,-80,-80,-103,-106,-106,0,0,0
