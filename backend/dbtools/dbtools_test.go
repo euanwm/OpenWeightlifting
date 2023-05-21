@@ -203,7 +203,7 @@ func Test_assignStruct(t *testing.T) {
 		}}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			if gotLineStruct := assignStruct(tt.args.line); !reflect.DeepEqual(gotLineStruct, tt.wantLineStruct) {
+			if gotLineStruct, _ := assignStruct(tt.args.line); !reflect.DeepEqual(gotLineStruct, tt.wantLineStruct) {
 				t.Errorf("assignStruct() = %v, want %v", gotLineStruct, tt.wantLineStruct)
 			}
 		})
