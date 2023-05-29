@@ -4,7 +4,6 @@ import (
 	"backend/enum"
 	"backend/utilities"
 	"log"
-	"time"
 )
 
 func (e LifterHistory) GenerateChartData() ChartData {
@@ -46,10 +45,20 @@ func (e Entry) WithinYear(year int) bool {
 	if year == enum.AllYears {
 		return true
 	}
-	const rfc3339partial string = "T15:04:05Z"
-	datetime, _ := time.Parse(time.RFC3339, e.Date+rfc3339partial)
+	datetime := utilities.StringToDate(e.Date)
 	eventYear, _, _ := datetime.Date()
 	if eventYear == year {
+		return true
+	}
+	return false
+}
+
+func (e Entry) WithinDates(startDate, endDate string) bool {
+	if startDate == enum.ZeroDate && endDate == enum.MaxDate {
+		return true
+	}
+	datetime := utilities.StringToDate(e.Date)
+	if datetime.After(utilities.StringToDate(startDate)) && datetime.Before(utilities.StringToDate(endDate)) {
 		return true
 	}
 	return false

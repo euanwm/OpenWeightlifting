@@ -11,6 +11,8 @@ const (
 	// ALLCATS ALLWEIGHTS - Yes
 	ALLCATS           string  = "allcats"
 	AllYears          int     = 69
+	ZeroDate          string  = "0000-00-00"
+	MaxDate           string  = "2100-00-00"
 	MaxTotal          float32 = 510
 	MinimumBodyweight float32 = 20
 	MaximumBodyweight float32 = 300
