@@ -1,0 +1,74 @@
+meet,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Hall of Fame Classic,2023-05-20,Open Men's +109kg,Dimitri Albury,177.3,146,-151,154,188,197,203,154,203,357
+Hall of Fame Classic,2023-05-20,Open Men's 89kg,Jonathan Morrow,89,130,135,140,162,167,172,140,172,312
+Hall of Fame Classic,2023-05-20,Open Men's 102kg,Jacob Rebman,101.6,120,125,130,165,175,182,130,182,312
+Hall of Fame Classic,2023-05-20,Open Men's 81kg,Nicholas Myers,80.7,121,125,130,145,155,-162,130,155,285
+Hall of Fame Classic,2023-05-20,Open Men's 81kg,Kier Miner,80.7,120,-123,123,146,151,-155,123,151,274
+Hall of Fame Classic,2023-05-20,Open Men's +109kg,Chaz Nedd,111.1,114,117,120,140,145,150,120,150,270
+Hall of Fame Classic,2023-05-20,Open Men's 89kg,Benjamin Reitz,88.6,112,116,120,137,143,-148,120,143,263
+Hall of Fame Classic,2023-05-20,Open Men's 96kg,Nicholas Auchenbach,95.8,105,110,115,125,131,140,115,140,255
+Hall of Fame Classic,2023-05-20,Open Men's 81kg,Zachary Etheridge,80.8,99,102,105,125,128,131,105,131,236
+Hall of Fame Classic,2023-05-20,Open Men's +109kg,Zachary Rumberger,132.4,88,92,-95,120,125,-135,92,125,217
+Hall of Fame Classic,2023-05-20,Junior Men's 81kg,Rodney Register,80.9,90,94,-98,119,123,-128,94,123,217
+Hall of Fame Classic,2023-05-20,Open Men's 81kg,Luke Froehlich,77.4,87,91,-95,115,120,125,91,125,216
+Hall of Fame Classic,2023-05-20,Open Men's 96kg,Adam Broadwater,96,-95,96,-100,112,115,118,96,118,214
+Hall of Fame Classic,2023-05-20,Men's Masters (35-39) 81kg,Jamaal Taylor,80.8,90,94,-98,115,120,-125,94,120,214
+Hall of Fame Classic,2023-05-20,Men's Masters (35-39) 109kg,Thomas Hartman,105.1,95,97,-102,105,115,-121,97,115,212
+Hall of Fame Classic,2023-05-20,Open Men's 96kg,James Baptist,92.2,84,-88,88,114,119,123,88,123,211
+Hall of Fame Classic,2023-05-20,Open Men's 73kg,Jonathan Kollars,71.5,84,88,91,110,114,118,91,118,209
+Hall of Fame Classic,2023-05-20,Open Men's 81kg,Harrison Ogbewe,79.3,90,93,-96,105,110,115,93,115,208
+Hall of Fame Classic,2023-05-20,Men's Masters (45-49) 89kg,Larry Geddings,88.2,87,91,95,103,106,-111,95,106,201
+Hall of Fame Classic,2023-05-20,Men's Masters (35-39) 96kg,Jeffrey Hare,95.8,82,86,-91,104,109,114,86,114,200
+Hall of Fame Classic,2023-05-20,Open Women's 87kg,Kelsey Koontz,87,-86,86,-88,-109,109,0,86,109,195
+Hall of Fame Classic,2023-05-20,Men's Masters (35-39) 96kg,William Everett,95.5,81,84,-90,104,108,111,84,111,195
+Hall of Fame Classic,2023-05-20,Open Men's +109kg,Chris Lucarelli,121.2,78,81,84,100,105,110,84,110,194
+Hall of Fame Classic,2023-05-20,Men's 14-15 Age Group +89kg,Brodie Hollis,105,72,77,80,103,108,112,80,112,192
+Hall of Fame Classic,2023-05-20,Open Women's 71kg,Abigail Richards,70.6,83,86,-89,-103,-103,103,86,103,189
+Hall of Fame Classic,2023-05-20,Men's Masters (45-49) 96kg,Matthew Bromwell,89.5,-73,-73,73,98,100,102,73,102,175
+Hall of Fame Classic,2023-05-20,Open Women's +87kg,Kerryn Havermale,113.7,70,73,76,95,-98,98,76,98,174
+Hall of Fame Classic,2023-05-20,Men's 14-15 Age Group 67kg,Calvin Greenfield,64.8,74,77,80,86,89,93,80,93,173
+Hall of Fame Classic,2023-05-20,Open Men's 81kg,Ben Dolly,79.8,-66,66,69,95,100,-105,69,100,169
+Hall of Fame Classic,2023-05-20,Men's 16-17 Age Group 81kg,Jackson Waggoner,74.5,-67,67,69,90,95,-100,69,95,164
+Hall of Fame Classic,2023-05-20,Open Women's 81kg,Charis Lu,79.4,55,60,70,92,-95,-96,70,92,162
+Hall of Fame Classic,2023-05-20,Open Women's 71kg,Elizabeth Sabo,68.5,66,68,72,80,84,89,72,89,161
+Hall of Fame Classic,2023-05-20,Open Men's 96kg,Jacob Stirn,91.8,65,70,75,75,80,85,75,85,160
+Hall of Fame Classic,2023-05-20,Men's Masters (50-54) 81kg,Rob Izsa,78.1,70,-73,-73,90,-93,-93,70,90,160
+Hall of Fame Classic,2023-05-20,Open Women's 76kg,Melissa Salazar,74.6,62,66,69,82,86,90,69,90,159
+Hall of Fame Classic,2023-05-20,Open Women's 76kg,Brenna Flynn,76,66,-72,73,81,-84,85,73,85,158
+Hall of Fame Classic,2023-05-20,Men's Masters (50-54) 96kg,Matthew Hudson,92.6,62,66,70,80,83,86,70,86,156
+Hall of Fame Classic,2023-05-20,Women's Masters (35-39) 71kg,Michelle Wagner,69.1,65,-68,70,78,81,83,70,83,153
+Hall of Fame Classic,2023-05-20,Junior Women's 64kg,Peyton Muth,64,65,68,70,78,81,-85,70,81,151
+Hall of Fame Classic,2023-05-20,Women's 16-17 Age Group 59kg,Gracie Rice,57.7,-60,62,65,-83,83,85,65,85,150
+Hall of Fame Classic,2023-05-20,Open Women's 76kg,Alexandra Lates,73.4,60,63,65,82,-85,-86,65,82,147
+Hall of Fame Classic,2023-05-20,Women's Masters (40-44) 71kg,Ashlee Edwards,71,59,62,-64,74,77,80,62,80,142
+Hall of Fame Classic,2023-05-20,Junior Women's 76kg,Halie Thornton,73.7,60,-63,-64,74,78,81,60,81,141
+Hall of Fame Classic,2023-05-20,Open Women's 71kg,Kiki Malomo-Paris,69.3,63,-66,66,-70,70,-73,66,70,136
+Hall of Fame Classic,2023-05-20,Women's 16-17 Age Group 49kg,Laney Yost,48.5,57,60,-62,70,73,75,60,75,135
+Hall of Fame Classic,2023-05-20,Women's Masters (45-49) +87kg,Kelli Wells,124,55,58,-60,71,74,-77,58,74,132
+Hall of Fame Classic,2023-05-20,Junior Women's 55kg,Makayla Cogan,54.7,58,61,-63,68,71,-73,61,71,132
+Hall of Fame Classic,2023-05-20,Junior Women's 64kg,Christina Geddings,63.1,51,53,56,69,71,75,56,75,131
+Hall of Fame Classic,2023-05-20,Men's 14-15 Age Group 67kg,Cohen Sharer,66.7,-51,53,55,67,70,75,55,75,130
+Hall of Fame Classic,2023-05-20,Men's Masters (60-64) 81kg,Mario Dispenza,79.6,55,58,-61,72,-76,-76,58,72,130
+Hall of Fame Classic,2023-05-20,Open Women's 76kg,Alexis Ellsworth,74.5,57,59,60,-68,-68,68,60,68,128
+Hall of Fame Classic,2023-05-20,Open Women's 59kg,gretchen messner,58.1,53,-56,57,69,-71,71,57,71,128
+Hall of Fame Classic,2023-05-20,Women's Masters (40-44) +87kg,Annette Smith,114,53,-55,-58,71,74,-76,53,74,127
+Hall of Fame Classic,2023-05-20,Open Women's 81kg,Stephanie Hudson,79.5,51,53,-55,72,74,-77,53,74,127
+Hall of Fame Classic,2023-05-20,Women's Masters (40-44) 64kg,Kristin  Leet,59.9,55,-57,58,65,68,-70,58,68,126
+Hall of Fame Classic,2023-05-20,Women's Masters (50-54) 64kg,Rennie Gibson,60.5,51,53,55,63,66,69,55,69,124
+Hall of Fame Classic,2023-05-20,Open Women's 64kg,Joelle Kodor,61.8,50,53,55,64,-67,67,55,67,122
+Hall of Fame Classic,2023-05-20,Open Women's 87kg,Elizabeth Thacker,83.8,45,47,50,67,69,71,50,71,121
+Hall of Fame Classic,2023-05-20,Junior Women's 71kg,Jaiden Krull,67.2,51,53,55,60,63,-65,55,63,118
+Hall of Fame Classic,2023-05-20,Women's 13 Under Age Group 55kg,Maryam Grafton,50.8,49,-51,51,62,64,66,51,66,117
+Hall of Fame Classic,2023-05-20,Women's Masters (35-39) 87kg,Elba Van Sant,85.4,44,47,50,57,60,62,50,62,112
+Hall of Fame Classic,2023-05-20,Open Women's 64kg,Emma Smith ,62,42,44,46,62,-64,-64,46,62,108
+Hall of Fame Classic,2023-05-20,Women's 13 Under Age Group +64kg,Andie Kephart,85.3,44,46,48,53,56,59,48,59,107
+Hall of Fame Classic,2023-05-20,Men's Masters (65-69) 89kg,Brian Barno,86.9,42,44,46,55,58,60,46,60,106
+Hall of Fame Classic,2023-05-20,Men's Masters (60-64) 73kg,Rodney Snyder,73,40,43,45,55,58,60,45,60,105
+Hall of Fame Classic,2023-05-20,Open Women's 71kg,Danielle Brion,70.8,40,42,44,58,61,-65,44,61,105
+Hall of Fame Classic,2023-05-20,Men's 13 Under Age Group 49kg,Lincoln Miller,47.6,40,43,45,50,54,56,45,56,101
+Hall of Fame Classic,2023-05-20,Women's Masters (40-44) 59kg,Stacey Pearson,57.4,39,41,-43,53,56,58,41,58,99
+Hall of Fame Classic,2023-05-20,Men's 14-15 Age Group 49kg,Matthew Poulos,46.5,32,34,-36,38,-40,40,34,40,74
+Hall of Fame Classic,2023-05-20,Men's 14-15 Age Group 81kg,Devin  Carr,76.4,27,30,33,35,40,-45,33,40,73
+Hall of Fame Classic,2023-05-20,Women's 13 Under Age Group 45kg,Arielle Peterson,43,20,22,-25,23,25,27,22,27,49
+Hall of Fame Classic,2023-05-20,Open Women's 71kg,Tyra Hosfelt,67.9,-42,-42,-42,60,63,-65,0,63,0
+Hall of Fame Classic,2023-05-20,Women's 16-17 Age Group +81kg,Natalie Chamelin,101.5,44,-46,48,-68,-68,-74,48,0,0
