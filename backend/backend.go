@@ -2,6 +2,7 @@ package main
 
 import (
 	"backend/dbtools"
+	"backend/enum"
 	"backend/events"
 	"backend/lifter"
 	"backend/structs"
@@ -9,6 +10,7 @@ import (
 	"log"
 	"net/http"
 	"os"
+	"strconv"
 	"time"
 
 	"github.com/gin-contrib/cors"
@@ -73,6 +75,19 @@ func postLeaderboard(c *gin.Context) {
 		abortErr := c.AbortWithError(http.StatusBadRequest, err)
 		log.Println(abortErr)
 		return
+	}
+
+	// todo: remove this once the frontend filters have been updated to suit
+	switch body.Year {
+	case 6969:
+		body.StartDate = "2022-01-31"
+		body.EndDate = "2023-06-09"
+	case 69:
+		body.StartDate = enum.ZeroDate
+		body.EndDate = enum.MaxDate
+	default:
+		body.StartDate = strconv.Itoa(body.Year) + "-01-01"
+		body.EndDate = strconv.Itoa(body.Year+1) + "-01-01"
 	}
 
 	leaderboardData := processedLeaderboard.Select(body.SortBy) // Selects either total or sinclair sorted leaderboard

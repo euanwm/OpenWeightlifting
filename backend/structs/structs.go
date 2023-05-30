@@ -51,6 +51,7 @@ type LeaderboardPayload struct {
 	SortBy      string `json:"sortby"`
 	Federation  string `json:"federation"`
 	WeightClass string `json:"weightclass"`
+	Year        int    `json:"year"`
 	StartDate   string `json:"startdate"`
 	EndDate     string `json:"enddate"`
 }
