@@ -51,7 +51,8 @@ type LeaderboardPayload struct {
 	SortBy      string `json:"sortby"`
 	Federation  string `json:"federation"`
 	WeightClass string `json:"weightclass"`
-	Year        int    `json:"year"`
+	StartDate   string `json:"startdate"`
+	EndDate     string `json:"enddate"`
 }
 
 // Entry Standard structs that we'll use for storing raw lift data

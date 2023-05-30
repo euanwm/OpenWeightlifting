@@ -74,9 +74,6 @@ func postLeaderboard(c *gin.Context) {
 		log.Println(abortErr)
 		return
 	}
-	// dumb logging so datadog picks it up
-	reqBody, _ := jsoniter.MarshalToString(body)
-	log.Println(reqBody)
 
 	leaderboardData := processedLeaderboard.Select(body.SortBy) // Selects either total or sinclair sorted leaderboard
 	fedData := dbtools.Filter(*leaderboardData, body, dbtools.WeightClassList[body.WeightClass], *lifterData)
