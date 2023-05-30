@@ -1,0 +1,474 @@
+meet,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+2023 Florida WSO State Championships,2023-05-21,Open Men's 96kg,Vadims Kozevnikovs,95.9,148,-153,-157,192,-197,-199,148,192,340
+2023 Florida WSO State Championships,2023-05-21,Open Men's 109kg,Tyler Anderson,109,-136,136,141,160,168,175,141,175,316
+2023 Florida WSO State Championships,2023-05-20,Junior Men's 81kg,Caden Cahoy,74.6,132,135,-140,173,176,180,135,180,315
+2023 Florida WSO State Championships,2023-05-21,Open Men's 102kg,Stephen Velazquez,97.3,135,140,-144,170,175,-180,140,175,315
+2023 Florida WSO State Championships,2023-05-21,Open Men's 109kg,Justin Davila,107.6,135,140,143,165,171,-176,143,171,314
+2023 Florida WSO State Championships,2023-05-21,Open Men's 96kg,Huntington Hayes,94.9,132,137,140,156,163,167,140,167,307
+2023 Florida WSO State Championships,2023-05-21,Open Men's 102kg,Javon Wilson,100.9,128,132,-136,-173,174,-176,132,174,306
+2023 Florida WSO State Championships,2023-05-21,Open Men's 102kg,Scott Harris,98.3,128,-134,-135,168,174,-178,128,174,302
+2023 Florida WSO State Championships,2023-05-21,Open Men's +109kg,George Silvestre,135.2,125,-128,-128,165,172,0,125,172,297
+2023 Florida WSO State Championships,2023-05-21,Open Men's 96kg,Deivy De La Hoz,94.6,133,-137,-137,-155,155,159,133,159,292
+2023 Florida WSO State Championships,2023-05-21,Open Men's 96kg,Ethan Johnson,93.2,125,130,-133,150,155,160,130,160,290
+2023 Florida WSO State Championships,2023-05-21,Open Men's 96kg,Donovan Klem,95.6,125,-130,-132,161,-166,-166,125,161,286
+2023 Florida WSO State Championships,2023-05-21,Open Men's 109kg,Tashawn Williams,104.7,118,122,-126,150,153,156,122,156,278
+2023 Florida WSO State Championships,2023-05-20,Open Men's 73kg,Chris Santana,73,117,120,-123,148,155,0,120,155,275
+2023 Florida WSO State Championships,2023-05-20,Open Men's 89kg,James Battaglia,88.55,107,111,114,155,161,-166,114,161,275
+2023 Florida WSO State Championships,2023-05-21,Open Men's +109kg,Tate Van Etta,115.8,117,121,125,147,-151,-151,125,147,272
+2023 Florida WSO State Championships,2023-05-21,Open Men's +109kg,Matthew Benacquisto,111.2,110,-115,120,-140,145,150,120,150,270
+2023 Florida WSO State Championships,2023-05-21,Junior Men's 96kg,Myles Ormsby,94.9,115,120,-125,145,150,-155,120,150,270
+2023 Florida WSO State Championships,2023-05-20,Open Men's 89kg,hal davis jr,85.75,111,116,122,140,147,-152,122,147,269
+2023 Florida WSO State Championships,2023-05-20,Open Men's 81kg,Jose Barajas,79.5,115,120,-124,148,-152,-156,120,148,268
+2023 Florida WSO State Championships,2023-05-20,Men's Masters (40-44) 89kg,Nicholas Avren,86.25,120,-125,127,140,-145,-149,127,140,267
+2023 Florida WSO State Championships,2023-05-20,Junior Men's 73kg,Julian Sykes,71.35,-105,105,115,138,145,150,115,150,265
+2023 Florida WSO State Championships,2023-05-21,Open Men's +109kg,Eric Hale,120.3,112,115,120,-135,137,143,120,143,263
+2023 Florida WSO State Championships,2023-05-20,Junior Men's 81kg,Samuel Wainwright,79.7,110,-115,-117,-145,147,152,110,152,262
+2023 Florida WSO State Championships,2023-05-20,Junior Men's 81kg,Andres Giron,73.45,112,116,-120,145,-150,-151,116,145,261
+2023 Florida WSO State Championships,2023-05-21,Open Men's 102kg,Desmond Jack,100.8,108,112,-115,136,142,148,112,148,260
+2023 Florida WSO State Championships,2023-05-20,Open Men's 81kg,Marcus Dialo,79.55,115,-119,-121,140,144,-151,115,144,259
+2023 Florida WSO State Championships,2023-05-21,Open Men's +109kg,Garrett Flick,119.7,107,111,115,-142,142,-150,115,142,257
+2023 Florida WSO State Championships,2023-05-21,Open Men's 96kg,Dustin Tarmon,93.9,-115,115,-120,135,140,-145,115,140,255
+2023 Florida WSO State Championships,2023-05-20,Open Men's 73kg,Eric Cardona,71.65,107,111,113,133,-137,141,113,141,254
+2023 Florida WSO State Championships,2023-05-21,Junior Men's 96kg,Orlando Garcia,95.1,108,-113,113,-140,141,-147,113,141,254
+2023 Florida WSO State Championships,2023-05-20,Junior Men's 81kg,Terry Dinh,76.9,106,110,113,130,135,140,113,140,253
+2023 Florida WSO State Championships,2023-05-20,Open Men's 67kg,Richard Newman,66.8,100,108,112,125,130,140,112,140,252
+2023 Florida WSO State Championships,2023-05-20,Open Men's 67kg,Kenny Wilkins,66.75,106,111,-115,135,140,-145,111,140,251
+2023 Florida WSO State Championships,2023-05-20,Junior Men's 81kg,Huntley Moore,77.8,110,-116,-118,-140,140,-147,110,140,250
+2023 Florida WSO State Championships,2023-05-20,Open Men's 81kg,Noah Circelli,81,100,108,112,128,132,137,112,137,249
+2023 Florida WSO State Championships,2023-05-20,Open Men's 89kg,Ryan Stemme,85.7,104,107,-110,-136,-138,140,107,140,247
+2023 Florida WSO State Championships,2023-05-20,Open Men's 81kg,Daniel Guernsey,80.7,-111,112,118,124,-127,128,118,128,246
+2023 Florida WSO State Championships,2023-05-21,Open Men's 109kg,Aidan` Anspaugh,108.1,108,-111,111,135,-139,-140,111,135,246
+2023 Florida WSO State Championships,2023-05-19,Men's 16-17 Age Group 81kg,Kody Taylor,75.9,100,-105,105,133,140,-147,105,140,245
+2023 Florida WSO State Championships,2023-05-18,Men's Masters (35-39) 81kg,Michael Espinosa,78.95,105,-110,-112,128,134,140,105,140,245
+2023 Florida WSO State Championships,2023-05-20,Junior Men's 81kg,Nicholas Pippin,78.4,100,105,110,125,134,-139,110,134,244
+2023 Florida WSO State Championships,2023-05-21,Open Men's 96kg,Ryan Pantelakis,95.3,108,-113,-116,131,-135,135,108,135,243
+2023 Florida WSO State Championships,2023-05-19,Men's 16-17 Age Group 102kg,Aidan Urena,101.6,-102,102,-110,127,132,138,102,138,240
+2023 Florida WSO State Championships,2023-05-20,Open Men's 73kg,Valentz Nicolas,72.75,105,109,-113,120,126,131,109,131,240
+2023 Florida WSO State Championships,2023-05-21,Junior Men's 96kg,Dylan Hayes,90.9,110,-115,-115,130,-137,-140,110,130,240
+2023 Florida WSO State Championships,2023-05-21,Open Men's 102kg,Felix Navas,97.1,110,-115,-115,130,-137,-137,110,130,240
+2023 Florida WSO State Championships,2023-05-21,Open Men's 96kg,Thomas Gaboardi,94.3,108,-112,-114,131,-135,-137,108,131,239
+2023 Florida WSO State Championships,2023-05-20,Open Men's 81kg,Austin Bettigrew,79,102,-105,-105,132,-136,136,102,136,238
+2023 Florida WSO State Championships,2023-05-21,Open Men's 102kg,Jayson Luther,99.7,102,107,-112,-130,131,-136,107,131,238
+2023 Florida WSO State Championships,2023-05-21,Open Men's 96kg,Nick Fenex,92.2,105,-110,-113,127,132,-140,105,132,237
+2023 Florida WSO State Championships,2023-05-20,Open Men's 89kg,Daniel Vinakovsky,86.5,-100,102,-107,130,134,-137,102,134,236
+2023 Florida WSO State Championships,2023-05-18,Men's Masters (35-39) 102kg,Jose Cruz Richardson,98.25,105,108,111,122,125,-128,111,125,236
+2023 Florida WSO State Championships,2023-05-20,Open Men's 89kg,Elias Polanco,86.15,105,-110,-110,125,130,-132,105,130,235
+2023 Florida WSO State Championships,2023-05-20,Men's Masters (35-39) 81kg,Aaron Denney,78.7,-105,-107,107,128,-133,-134,107,128,235
+2023 Florida WSO State Championships,2023-05-21,Junior Men's 109kg,Santiago Guaramata,108.6,100,105,-108,130,-137,-137,105,130,235
+2023 Florida WSO State Championships,2023-05-20,Junior Men's 89kg,Alvin Torres,88.2,-88,-90,92,128,135,142,92,142,234
+2023 Florida WSO State Championships,2023-05-19,Men's 16-17 Age Group 89kg,Isaque Costa,87.7,100,-104,-104,125,129,133,100,133,233
+2023 Florida WSO State Championships,2023-05-20,Junior Men's 67kg,David Izquierdo,66.75,-98,98,-101,130,135,-140,98,135,233
+2023 Florida WSO State Championships,2023-05-20,Open Men's 73kg,Mark Roberts,72.75,98,102,-106,118,125,129,102,129,231
+2023 Florida WSO State Championships,2023-05-20,Open Men's 81kg,michael oyarzun,80.7,97,100,103,118,123,128,103,128,231
+2023 Florida WSO State Championships,2023-05-20,Open Men's 67kg,Sean Spraggins,66.3,96,-100,-101,126,130,134,96,134,230
+2023 Florida WSO State Championships,2023-05-18,Men's Masters (35-39) 89kg,Dicarlo Thompson,86.95,100,103,-106,120,125,-130,103,125,228
+2023 Florida WSO State Championships,2023-05-20,Open Men's 67kg,Luis Eduardo Leal,67,92,96,101,123,127,-132,101,127,228
+2023 Florida WSO State Championships,2023-05-20,Open Men's 61kg,Joseph Garcia,60.95,-98,98,-103,123,128,-130,98,128,226
+2023 Florida WSO State Championships,2023-05-20,Junior Men's 89kg,danny izquierdo,88.9,90,-91,98,-125,128,-133,98,128,226
+2023 Florida WSO State Championships,2023-05-20,Junior Men's 89kg,Giancarlo Soto,86.4,100,103,-106,123,-128,-130,103,123,226
+2023 Florida WSO State Championships,2023-05-20,Open Men's 89kg,Robert  Mazeski ,88.6,100,-105,-105,-125,125,-127,100,125,225
+2023 Florida WSO State Championships,2023-05-20,Junior Men's 89kg,Rafael Oliver,88.9,90,95,100,120,125,-130,100,125,225
+2023 Florida WSO State Championships,2023-05-20,Junior Men's 67kg,Romeo Thompson,66.5,95,100,-105,118,122,125,100,125,225
+2023 Florida WSO State Championships,2023-05-20,Open Men's 73kg,Jay Cotino,72.8,-95,95,100,-120,120,125,100,125,225
+2023 Florida WSO State Championships,2023-05-19,Men's 16-17 Age Group 89kg,Ethan Janssen,83.4,100,-104,-104,-120,120,125,100,125,225
+2023 Florida WSO State Championships,2023-05-21,Open Men's +109kg,Dusan Etienne,164.7,90,95,-100,125,130,-135,95,130,225
+2023 Florida WSO State Championships,2023-05-19,Men's 16-17 Age Group 73kg,Kevin Hill,71.1,98,-103,-104,126,-130,-130,98,126,224
+2023 Florida WSO State Championships,2023-05-19,Men's 16-17 Age Group 102kg,Alex Papale,100.2,92,96,100,123,-133,-137,100,123,223
+2023 Florida WSO State Championships,2023-05-18,Junior Men's 73kg,Bobby Hill,69.15,90,-95,95,120,125,127,95,127,222
+2023 Florida WSO State Championships,2023-05-20,Open Men's 89kg,Jeffrey DeBuse,83.5,-94,94,-97,124,-128,128,94,128,222
+2023 Florida WSO State Championships,2023-05-20,Open Men's 81kg,janardan Bautista,78.85,95,101,104,113,-117,118,104,118,222
+2023 Florida WSO State Championships,2023-05-20,Open Men's 67kg,Jakobe Morgan,65.6,95,-100,-100,-113,117,126,95,126,221
+2023 Florida WSO State Championships,2023-05-19,Men's 16-17 Age Group 96kg,Sebastian Marin,93.3,-90,90,94,115,120,125,94,125,219
+2023 Florida WSO State Championships,2023-05-20,Junior Men's 73kg,Alexander  Minisall,72.9,-95,95,-100,118,121,-125,95,121,216
+2023 Florida WSO State Championships,2023-05-20,Junior Men's 81kg,Yahir Hernandez,80.15,91,-96,-96,115,120,125,91,125,216
+2023 Florida WSO State Championships,2023-05-20,Junior Men's 81kg,Yael Hernandez,77.2,91,96,-100,120,-125,-125,96,120,216
+2023 Florida WSO State Championships,2023-05-20,Junior Men's 67kg,Evan Marrale,64.95,91,94,-97,122,-126,-127,94,122,216
+2023 Florida WSO State Championships,2023-05-21,Open Women's 76kg,Alexia Gonzalez,75,93,96,-100,112,115,120,96,120,216
+2023 Florida WSO State Championships,2023-05-20,Junior Men's 81kg,Zachary Schwartz,76.15,92,-96,98,113,-117,117,98,117,215
+2023 Florida WSO State Championships,2023-05-20,Junior Men's 73kg,Benjamin  Fisher,72.2,95,-100,-101,120,-125,-125,95,120,215
+2023 Florida WSO State Championships,2023-05-21,Open Women's 87kg,Victoria Jefferson,86,88,92,96,-118,119,-123,96,119,215
+2023 Florida WSO State Championships,2023-05-20,Open Men's 89kg,Raphael Abellon,86.85,90,95,-100,120,-125,-125,95,120,215
+2023 Florida WSO State Championships,2023-05-18,Men's Masters (45-49) 102kg,Jonathan  Herrera ,97.8,85,90,94,-115,115,120,94,120,214
+2023 Florida WSO State Championships,2023-05-20,Junior Men's 73kg,Jake Karam,72.65,83,86,91,111,117,121,91,121,212
+2023 Florida WSO State Championships,2023-05-18,Men's Masters (35-39) 96kg,Pablo Serp,91.3,88,-94,94,110,-115,118,94,118,212
+2023 Florida WSO State Championships,2023-05-20,Open Men's 61kg,Dalton Wood,60.95,85,91,-97,120,-131,-131,91,120,211
+2023 Florida WSO State Championships,2023-05-18,Men's Masters (40-44) 89kg,Patrick Costello,86.5,-91,92,-95,113,-117,118,92,118,210
+2023 Florida WSO State Championships,2023-05-18,Open Men's 73kg,Angel Nieves,71.25,88,92,-96,110,115,118,92,118,210
+2023 Florida WSO State Championships,2023-05-20,Open Men's 81kg,Joseph Clark,79.9,90,95,-100,115,-120,-122,95,115,210
+2023 Florida WSO State Championships,2023-05-18,Men's Masters (40-44) 73kg,Justin Griffin,70.8,-94,-94,94,110,115,-120,94,115,209
+2023 Florida WSO State Championships,2023-05-21,Open Women's +87kg,Jasmine Powell,100.5,80,84,-88,115,120,125,84,125,209
+2023 Florida WSO State Championships,2023-05-18,Men's Masters (50-54) +109kg,Tony Keeler,111.8,80,85,88,110,115,118,88,118,206
+2023 Florida WSO State Championships,2023-05-20,Junior Men's 73kg,Yiwen Wu,72,83,86,90,106,111,116,90,116,206
+2023 Florida WSO State Championships,2023-05-20,Open Men's 81kg,Vanragde Estella,80.75,90,-94,-95,115,-119,-120,90,115,205
+2023 Florida WSO State Championships,2023-05-19,Men's 16-17 Age Group 81kg,Joshua Canet,74.8,-88,-90,90,114,-118,-120,90,114,204
+2023 Florida WSO State Championships,2023-05-20,Open Men's 89kg,German Uribe-Marrero,88.15,86,-89,-89,-114,114,118,86,118,204
+2023 Florida WSO State Championships,2023-05-20,Junior Men's 73kg,Christian Giles,68.95,88,-91,91,108,113,-117,91,113,204
+2023 Florida WSO State Championships,2023-05-20,Junior Men's 81kg,Cesar Perez Perera,73.85,88,91,-94,113,-116,-117,91,113,204
+2023 Florida WSO State Championships,2023-05-19,Men's 16-17 Age Group 89kg,Conor Whelan,85.9,81,85,88,-104,110,115,88,115,203
+2023 Florida WSO State Championships,2023-05-20,Open Men's 73kg,Jason Henry,68.55,-87,87,-91,107,111,116,87,116,203
+2023 Florida WSO State Championships,2023-05-21,Open Women's 81kg,Larissa Conroy,80,90,93,-96,108,-112,-112,93,108,201
+2023 Florida WSO State Championships,2023-05-20,Open Men's 81kg,Joseph Carabott,76.35,-90,-91,91,110,-115,-116,91,110,201
+2023 Florida WSO State Championships,2023-05-20,Open Men's 73kg,Rafael Ramirez,71.35,83,87,90,103,108,111,90,111,201
+2023 Florida WSO State Championships,2023-05-20,Open Men's 81kg,Christopher Bryant,80.4,-84,-84,85,115,-118,-120,85,115,200
+2023 Florida WSO State Championships,2023-05-20,Open Men's 81kg,Jacob Savage,80.6,85,-89,89,110,-114,-115,89,110,199
+2023 Florida WSO State Championships,2023-05-21,Junior Women's 87kg,Madison Atwood,84,78,84,88,106,111,-115,88,111,199
+2023 Florida WSO State Championships,2023-05-18,Junior Men's 73kg,Fredderick Blanco,69.15,82,86,-92,108,113,-117,86,113,199
+2023 Florida WSO State Championships,2023-05-18,Men's Masters (35-39) +109kg,Blake Tanon,109.85,80,-83,87,110,-116,-116,87,110,197
+2023 Florida WSO State Championships,2023-05-20,Open Women's 64kg,Madeline Staniszewski,62.9,-89,89,-92,-106,-107,107,89,107,196
+2023 Florida WSO State Championships,2023-05-18,Junior Men's 73kg,Will Higgins,68.55,-88,88,-93,-103,103,107,88,107,195
+2023 Florida WSO State Championships,2023-05-20,Junior Women's 64kg,Nicole Caamano,63.9,84,87,90,101,105,-108,90,105,195
+2023 Florida WSO State Championships,2023-05-20,Junior Men's 81kg,Sandi Martinez,79.6,-86,89,-91,106,-113,-113,89,106,195
+2023 Florida WSO State Championships,2023-05-19,Men's 16-17 Age Group 73kg,Thomas Kniss,68.6,80,84,86,103,107,-111,86,107,193
+2023 Florida WSO State Championships,2023-05-18,Men's Masters (40-44) 102kg,Angel D Diaz Cecilio,99.45,75,82,-90,-110,110,-114,82,110,192
+2023 Florida WSO State Championships,2023-05-21,Open Women's +87kg,Alana Lecointe,116.9,-76,76,-80,115,-121,0,76,115,191
+2023 Florida WSO State Championships,2023-05-21,Open Women's 76kg,Solange Beltran,74,-80,80,-83,108,111,-114,80,111,191
+2023 Florida WSO State Championships,2023-05-21,Open Women's 87kg,Virginia Strough,86,-82,82,-84,100,105,108,82,108,190
+2023 Florida WSO State Championships,2023-05-18,Men's Masters (50-54) 109kg,Brandon Perez,103.5,73,75,-78,105,110,115,75,115,190
+2023 Florida WSO State Championships,2023-05-20,Men's Masters (45-49) 67kg,Martin Palma,66.6,-82,83,89,100,-106,-106,89,100,189
+2023 Florida WSO State Championships,2023-05-18,Junior Men's 67kg,Nahshon Paul,63.6,82,85,-87,-104,104,-106,85,104,189
+2023 Florida WSO State Championships,2023-05-19,Men's 16-17 Age Group 67kg,Vasyl Latyk,66.6,-81,81,85,100,-104,104,85,104,189
+2023 Florida WSO State Championships,2023-05-20,Junior Men's 61kg,Bosco Martin Burrows,60.8,80,-84,84,104,-108,-108,84,104,188
+2023 Florida WSO State Championships,2023-05-20,Junior Men's 67kg,Braylen Lopez,65.25,80,84,-87,-104,104,-108,84,104,188
+2023 Florida WSO State Championships,2023-05-21,Open Women's +87kg,Lilliana Astralaga,102.4,-80,80,-85,100,105,-110,80,105,185
+2023 Florida WSO State Championships,2023-05-20,Open Men's 67kg,Gregory Garcia,66.2,78,82,-87,97,102,-105,82,102,184
+2023 Florida WSO State Championships,2023-05-18,Junior Men's 73kg,Jordan Bryant,69.2,80,-84,-85,-102,103,-107,80,103,183
+2023 Florida WSO State Championships,2023-05-21,Open Women's 76kg,Brianna Chu,75.2,73,77,82,95,100,-109,82,100,182
+2023 Florida WSO State Championships,2023-05-18,Junior Men's 73kg,Robbie Ridgeway,70.65,77,-80,-81,105,-113,-118,77,105,182
+2023 Florida WSO State Championships,2023-05-18,Open Men's 73kg,Christopher Lara,71.35,-80,-80,80,-100,102,-106,80,102,182
+2023 Florida WSO State Championships,2023-05-19,Men's 16-17 Age Group 81kg,James Rucker,78,76,-80,80,-98,102,-106,80,102,182
+2023 Florida WSO State Championships,2023-05-21,Open Women's +87kg,Autumn Makins-Null,120,73,76,79,98,102,-106,79,102,181
+2023 Florida WSO State Championships,2023-05-20,Junior Women's 59kg,Kailey Papas,58.6,80,82,-84,-98,98,0,82,98,180
+2023 Florida WSO State Championships,2023-05-18,Junior Men's 73kg,Seth O'Gara,70.5,73,-77,77,103,-108,-113,77,103,180
+2023 Florida WSO State Championships,2023-05-21,Open Women's 76kg,Alicia Fernandez,74.75,77,-80,-80,99,-103,103,77,103,180
+2023 Florida WSO State Championships,2023-05-19,Men's 16-17 Age Group 81kg,Tyler Berry,78,72,75,-80,100,105,-110,75,105,180
+2023 Florida WSO State Championships,2023-05-18,Junior Men's 67kg,Sean Lutin,63.6,79,-82,82,-97,97,-101,82,97,179
+2023 Florida WSO State Championships,2023-05-20,Open Women's 64kg,Camille Capeles,63.65,80,83,-86,95,-100,-100,83,95,178
+2023 Florida WSO State Championships,2023-05-19,Men's 14-15 Age Group 61kg,Israel Alvarez,60.5,70,75,78,90,95,100,78,100,178
+2023 Florida WSO State Championships,2023-05-21,Open Women's 76kg,Brianna Maxwell,75.1,70,73,76,95,-100,101,76,101,177
+2023 Florida WSO State Championships,2023-05-18,Open Women's 55kg,Asia Gonzalez,54.7,-77,77,-80,97,100,-103,77,100,177
+2023 Florida WSO State Championships,2023-05-20,Open Women's 64kg,Jaimee Linehan,63.5,77,-80,-80,95,100,-103,77,100,177
+2023 Florida WSO State Championships,2023-05-19,Men's 16-17 Age Group 73kg,Gabriel  Thomas ,70.2,-78,79,-82,93,96,-101,79,96,175
+2023 Florida WSO State Championships,2023-05-18,Men's Masters (40-44) 81kg,Christopher Clark,74.6,65,-72,72,95,103,-108,72,103,175
+2023 Florida WSO State Championships,2023-05-21,Open Women's 87kg,Grace Bustamante,83.3,77,-80,-81,98,-102,-102,77,98,175
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 59kg,Emma Heck,58.2,72,76,79,91,96,-100,79,96,175
+2023 Florida WSO State Championships,2023-05-21,Junior Women's 87kg,Tristain Atwood,86.05,65,-70,72,102,-106,-106,72,102,174
+2023 Florida WSO State Championships,2023-05-20,Junior Women's 59kg,Makiyah  Nickerson,58.8,78,-81,-81,93,-96,96,78,96,174
+2023 Florida WSO State Championships,2023-05-20,Open Women's 71kg,Anisa Zwolinski,65.25,74,-78,-80,100,-105,-108,74,100,174
+2023 Florida WSO State Championships,2023-05-20,Open Women's 71kg,Agata Santana,70.15,-78,-78,78,90,95,-100,78,95,173
+2023 Florida WSO State Championships,2023-05-18,Junior Men's 67kg,James Boesch,63.3,75,-78,-80,-95,97,-103,75,97,172
+2023 Florida WSO State Championships,2023-05-19,Men's 16-17 Age Group 67kg,Caden Yacavone,64.5,73,76,79,88,92,-96,79,92,171
+2023 Florida WSO State Championships,2023-05-20,Open Women's 71kg,Stephanie Rubio,68.9,-76,76,-80,90,-94,95,76,95,171
+2023 Florida WSO State Championships,2023-05-21,Junior Women's +87kg,Kyleigh Lafary,135.65,74,77,-80,94,-98,-99,77,94,171
+2023 Florida WSO State Championships,2023-05-18,Men's Masters (40-44) 67kg,Michael Patterson,65.35,69,72,-74,92,95,98,72,98,170
+2023 Florida WSO State Championships,2023-05-21,Open Women's 76kg,Delaney Willingham,74.2,70,-74,-76,-93,94,100,70,100,170
+2023 Florida WSO State Championships,2023-05-20,Women's Masters (35-39) 76kg,Sarah Arnett,72.4,74,-77,-80,-94,-94,95,74,95,169
+2023 Florida WSO State Championships,2023-05-18,Men's Masters (45-49) 81kg,Michael Ben-Hain,78.1,73,-76,-76,93,-96,96,73,96,169
+2023 Florida WSO State Championships,2023-05-19,Men's 16-17 Age Group 55kg,Michael Tucciarone,54.6,71,74,-77,94,-98,-100,74,94,168
+2023 Florida WSO State Championships,2023-05-18,Open Men's 61kg,Jose Barbiere,56.2,63,-69,-72,92,100,105,63,105,168
+2023 Florida WSO State Championships,2023-05-19,Men's 16-17 Age Group 67kg,Andre Chavarria,63.2,70,73,-76,90,94,-98,73,94,167
+2023 Florida WSO State Championships,2023-05-18,Open Women's 55kg,Heather Hudson,54.55,-70,-72,72,-95,95,-106,72,95,167
+2023 Florida WSO State Championships,2023-05-18,Junior Men's 61kg,Jayden Bernstein,59.25,68,71,74,91,-94,-95,74,91,165
+2023 Florida WSO State Championships,2023-05-21,Junior Women's 76kg,Ivy Gunn,73.45,73,-75,-77,92,-95,-95,73,92,165
+2023 Florida WSO State Championships,2023-05-20,Women's Masters (35-39) 71kg,Belia rodriguez rivera,69.85,74,-77,-78,90,-94,-95,74,90,164
+2023 Florida WSO State Championships,2023-05-18,Women's Masters (35-39) 64kg,Melissa Suarez,64,70,-74,74,85,90,-95,74,90,164
+2023 Florida WSO State Championships,2023-05-19,Men's 16-17 Age Group 81kg,Thomas Dubay,79.6,65,68,71,86,90,93,71,93,164
+2023 Florida WSO State Championships,2023-05-20,Junior Women's 71kg,Kayden Arliss,67.25,72,-74,77,86,-90,-90,77,86,163
+2023 Florida WSO State Championships,2023-05-19,Men's 16-17 Age Group 73kg,Enzo Goldflust,71.3,71,73,-76,-85,86,90,73,90,163
+2023 Florida WSO State Championships,2023-05-21,Open Women's 87kg,Jazmin Peterman,85.1,71,-74,74,88,-92,-93,74,88,162
+2023 Florida WSO State Championships,2023-05-18,Open Women's 55kg,Jayda Jenkins,54.45,67,70,-73,87,92,-98,70,92,162
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group +81kg,Taylor Rice,83.9,65,-69,70,84,88,91,70,91,161
+2023 Florida WSO State Championships,2023-05-21,Junior Women's +87kg,Arianna Keyes,110.15,-72,72,-76,89,-95,-95,72,89,161
+2023 Florida WSO State Championships,2023-05-20,Junior Women's 64kg,Adriana J Rosa,63.3,65,-66,70,85,88,91,70,91,161
+2023 Florida WSO State Championships,2023-05-20,Open Women's 76kg,Mikayla Fischer,71.8,66,70,-74,85,88,91,70,91,161
+2023 Florida WSO State Championships,2023-05-21,Open Women's +87kg,Shadaé  Smith ,96.1,67,70,73,-87,-87,88,73,88,161
+2023 Florida WSO State Championships,2023-05-18,Women's Masters (35-39) +87kg,Mariellyssa Duffy,122.6,68,71,73,-86,87,-91,73,87,160
+2023 Florida WSO State Championships,2023-05-21,Junior Women's 76kg,Olivia Warrington,72.2,70,-73,-73,82,87,90,70,90,160
+2023 Florida WSO State Championships,2023-05-21,Junior Women's +87kg,Lexi Thomas,94.6,64,67,-70,91,93,-100,67,93,160
+2023 Florida WSO State Championships,2023-05-19,Men's 16-17 Age Group 55kg,Michael Ziss,52.3,65,70,-75,90,-99,-99,70,90,160
+2023 Florida WSO State Championships,2023-05-20,Junior Women's 59kg,danila tuazon,58.6,65,-68,-69,90,94,-96,65,94,159
+2023 Florida WSO State Championships,2023-05-21,Junior Women's 76kg,Enyjai Tyson,74.95,62,65,69,85,89,-92,69,89,158
+2023 Florida WSO State Championships,2023-05-21,Junior Women's 81kg,Rebecca Tatun,77.15,66,70,74,80,84,-88,74,84,158
+2023 Florida WSO State Championships,2023-05-20,Open Women's 59kg,Aysia Hill,58.3,67,69,-71,87,-89,89,69,89,158
+2023 Florida WSO State Championships,2023-05-20,Open Women's 64kg,Katie Savoia,63.4,67,70,-73,88,-92,-93,70,88,158
+2023 Florida WSO State Championships,2023-05-18,Women's Masters (35-39) +87kg,Alycia Mosley,121.35,64,-67,67,84,88,90,67,90,157
+2023 Florida WSO State Championships,2023-05-20,Junior Women's 71kg,Zadie Nix,69.7,-70,70,-73,-85,85,87,70,87,157
+2023 Florida WSO State Championships,2023-05-20,Open Women's 81kg,Danielle Palmer,80.5,72,-75,-75,-85,85,-90,72,85,157
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 71kg,Alyssa Barcz,69.85,66,68,-70,85,88,-90,68,88,156
+2023 Florida WSO State Championships,2023-05-19,Men's 16-17 Age Group 67kg,Jon  Hughes,65.7,-70,71,-73,80,82,85,71,85,156
+2023 Florida WSO State Championships,2023-05-18,Open Women's 55kg,Kailey Sidders,54.8,68,70,-73,82,84,86,70,86,156
+2023 Florida WSO State Championships,2023-05-20,Open Women's 71kg,Sabrina Agredo,66.2,65,68,-71,85,88,-91,68,88,156
+2023 Florida WSO State Championships,2023-05-20,Junior Women's 64kg,Alexandria Green,59.5,65,68,-71,87,-91,-94,68,87,155
+2023 Florida WSO State Championships,2023-05-20,Junior Women's 71kg,Sydney Yorton,70.8,66,69,-72,-86,86,-91,69,86,155
+2023 Florida WSO State Championships,2023-05-21,Open Women's 76kg,Megan Maccio,73.05,67,-71,-72,75,80,88,67,88,155
+2023 Florida WSO State Championships,2023-05-20,Open Women's +87kg,Lauren Schreier,112.9,62,64,67,82,85,88,67,88,155
+2023 Florida WSO State Championships,2023-05-20,Open Women's 59kg,Silvia Diaz,57.6,70,-74,-74,80,-84,85,70,85,155
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group +81kg,Ritch  Duperval ,131.95,-61,61,64,85,90,-93,64,90,154
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 71kg,Ayla Sevilleno,70.45,63,66,-69,85,88,-91,66,88,154
+2023 Florida WSO State Championships,2023-05-18,Women's Masters (35-39) +87kg,Caitlin Coates,133.05,63,66,68,80,85,-88,68,85,153
+2023 Florida WSO State Championships,2023-05-20,Junior Women's 81kg,Racheal McCormick,76.9,58,62,66,87,-91,-91,66,87,153
+2023 Florida WSO State Championships,2023-05-18,Open Women's 49kg,Kaylin White,48.05,62,-66,66,83,87,-89,66,87,153
+2023 Florida WSO State Championships,2023-05-20,Open Women's 64kg,Lauren Fuhrman,63,67,70,-73,83,-87,-88,70,83,153
+2023 Florida WSO State Championships,2023-05-20,Open Women's 64kg,Mehrnegar Malek,62.9,63,66,69,80,83,-86,69,83,152
+2023 Florida WSO State Championships,2023-05-18,Open Women's 55kg,Catherine Bailey,54.3,64,-66,66,84,86,-88,66,86,152
+2023 Florida WSO State Championships,2023-05-21,Junior Women's 81kg,Adrianna Matarelli,80.6,62,65,-68,87,-90,-92,65,87,152
+2023 Florida WSO State Championships,2023-05-20,Open Women's 59kg,Emma Thomas,59,-63,63,66,83,86,-89,66,86,152
+2023 Florida WSO State Championships,2023-05-20,Open Women's 71kg,Nichole Padin,70.25,-62,-62,62,85,90,-95,62,90,152
+2023 Florida WSO State Championships,2023-05-19,Men's 16-17 Age Group 81kg,Ayden Curry,78.1,-62,63,68,84,-90,-91,68,84,152
+2023 Florida WSO State Championships,2023-05-20,Open Women's 87kg,Kenisha Jacsaint,87,55,61,66,70,80,85,66,85,151
+2023 Florida WSO State Championships,2023-05-20,Junior Women's 71kg,Lauryn Hong,70.9,-66,66,68,78,82,-85,68,82,150
+2023 Florida WSO State Championships,2023-05-20,Junior Women's 71kg,Dana Quiroz,67.9,64,-66,-66,80,-84,84,64,84,148
+2023 Florida WSO State Championships,2023-05-18,Women's Masters (40-44) +87kg,Amielys Hernandez,125.4,60,63,-66,-80,80,85,63,85,148
+2023 Florida WSO State Championships,2023-05-20,Open Women's 59kg,Jessica Fuhrman,58.2,63,65,67,80,-83,-84,67,80,147
+2023 Florida WSO State Championships,2023-05-20,Open Women's 71kg,Erin Sly,71,-63,-63,63,81,84,-87,63,84,147
+2023 Florida WSO State Championships,2023-05-20,Junior Women's 71kg,Kinsey Bunce,70.3,-64,64,67,79,-82,-82,67,79,146
+2023 Florida WSO State Championships,2023-05-18,Open Women's 55kg,Daniela Rodriguez,52.65,61,64,-67,76,79,82,64,82,146
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 76kg,Katya Stuart,75.8,65,67,-69,73,76,78,67,78,145
+2023 Florida WSO State Championships,2023-05-20,Junior Women's 71kg,Alyvia  Logan,70.9,-59,60,63,77,-80,82,63,82,145
+2023 Florida WSO State Championships,2023-05-21,Junior Women's +87kg,Rianna  Griffith,111.1,58,65,-70,76,-80,80,65,80,145
+2023 Florida WSO State Championships,2023-05-20,Open Women's 71kg,Maguire Holahan,64.6,62,-64,65,74,77,80,65,80,145
+2023 Florida WSO State Championships,2023-05-20,Open Women's 81kg,Lisa Jurmu,79.8,55,60,-64,84,-90,-90,60,84,144
+2023 Florida WSO State Championships,2023-05-20,Junior Women's 64kg,Morgan Pratt,61.2,60,62,-65,78,-82,82,62,82,144
+2023 Florida WSO State Championships,2023-05-18,Open Women's 55kg,Sarah Hellwig,54.55,-63,63,66,78,-81,-82,66,78,144
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 64kg,Ayah Muhammad,62.15,-58,58,-62,81,86,-91,58,86,144
+2023 Florida WSO State Championships,2023-05-19,Men's 16-17 Age Group 67kg,Bradley  Christolin,66.1,61,63,-66,76,-79,80,63,80,143
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 64kg,Emma Van Arman,63.2,-60,60,63,77,80,-83,63,80,143
+2023 Florida WSO State Championships,2023-05-20,Junior Women's 71kg,Kimberly Rivera,69.5,55,-57,58,-81,81,85,58,85,143
+2023 Florida WSO State Championships,2023-05-20,Junior Women's 81kg,Maya Moise,79.1,63,-66,-66,75,-80,80,63,80,143
+2023 Florida WSO State Championships,2023-05-20,Open Women's 59kg,Talia Stillman,58.4,56,-60,62,70,75,80,62,80,142
+2023 Florida WSO State Championships,2023-05-18,Women's Masters (35-39) 81kg,Laura Faulk,77.35,64,67,-72,70,75,-80,67,75,142
+2023 Florida WSO State Championships,2023-05-18,Junior Women's 55kg,Cali Schnur,52.75,-63,-63,64,78,-81,-82,64,78,142
+2023 Florida WSO State Championships,2023-05-20,Junior Women's 59kg,Adriana DiMeo,58,60,-63,-63,80,-82,82,60,82,142
+2023 Florida WSO State Championships,2023-05-19,Men's 14-15 Age Group 73kg,Branden Berthiaume,68.7,54,57,59,77,80,83,59,83,142
+2023 Florida WSO State Championships,2023-05-20,Junior Women's 76kg,Sarah Fitzpatrick,75,-55,56,-62,85,-88,-90,56,85,141
+2023 Florida WSO State Championships,2023-05-20,Open Women's 71kg,Amanda Fishbein,70.3,62,-65,-65,-77,77,79,62,79,141
+2023 Florida WSO State Championships,2023-05-20,Junior Women's 76kg,Taylor McMullen,76,58,62,-65,-78,78,-81,62,78,140
+2023 Florida WSO State Championships,2023-05-18,Open Women's 55kg,Ariana Reyes,54.6,60,-63,-63,79,-82,-82,60,79,139
+2023 Florida WSO State Championships,2023-05-18,Open Women's 55kg,Katia Ortiz,54.95,-60,-60,60,-75,75,78,60,78,138
+2023 Florida WSO State Championships,2023-05-18,Women's Masters (35-39) +87kg,Angela Yell,133.3,55,58,63,64,69,75,63,75,138
+2023 Florida WSO State Championships,2023-05-18,Junior Women's 49kg,Sarah Eiswerth,48.85,60,-64,-64,74,78,-82,60,78,138
+2023 Florida WSO State Championships,2023-05-20,Open Women's 64kg,Valerie Applebee,62.8,61,-63,63,-72,72,75,63,75,138
+2023 Florida WSO State Championships,2023-05-19,Men's 14-15 Age Group 55kg,Nicholas Luna,51.4,57,60,-63,72,76,-79,60,76,136
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 71kg,Ashlyn Ake,70.35,55,58,60,72,76,-80,60,76,136
+2023 Florida WSO State Championships,2023-05-18,Open Women's 49kg,Aseel Zayed,48.9,57,60,-62,73,76,-78,60,76,136
+2023 Florida WSO State Championships,2023-05-18,Open Women's 45kg,Virginie Beljour,44.8,-58,58,-62,77,-81,-84,58,77,135
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 55kg,Amy  Barrelle,54.2,-58,-58,58,-77,-77,77,58,77,135
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 81kg,Jada Mosley,77.05,55,58,-61,73,-77,77,58,77,135
+2023 Florida WSO State Championships,2023-05-20,Open Women's 64kg,Darby Villarroel,63.9,55,-60,-65,75,80,-83,55,80,135
+2023 Florida WSO State Championships,2023-05-20,Open Women's 71kg,lydia diggs,69.5,55,-58,0,79,-81,-81,55,79,134
+2023 Florida WSO State Championships,2023-05-19,Women's 14-15 Age Group 76kg,Taylor Thomas,75.45,59,-62,-62,67,71,75,59,75,134
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 81kg,Raven Lovencin,78.55,61,-64,-64,70,-73,73,61,73,134
+2023 Florida WSO State Championships,2023-05-18,Women's Masters (35-39) 71kg,Diane  Ortiz,68.45,55,58,61,68,-71,72,61,72,133
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group +81kg,Makayla Waterhouse,85.1,-52,54,55,76,78,-82,55,78,133
+2023 Florida WSO State Championships,2023-05-20,Junior Women's 71kg,Amelia Mozer,67.7,54,-57,-57,-73,73,77,54,77,131
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 64kg,Anna Carlson,62.5,52,56,59,65,-70,72,59,72,131
+2023 Florida WSO State Championships,2023-05-20,Open Women's 81kg,Elizabeth Gomez,77.8,56,-58,-58,65,71,75,56,75,131
+2023 Florida WSO State Championships,2023-05-19,Men's 16-17 Age Group 61kg,Zachary Baker,60.1,50,-55,55,70,-74,76,55,76,131
+2023 Florida WSO State Championships,2023-05-20,Open Women's 59kg,Judith Sargent,57.6,52,55,57,73,-76,-76,57,73,130
+2023 Florida WSO State Championships,2023-05-18,Women's Masters (40-44) 76kg,Jennifer Rice,74.35,-51,51,-54,70,74,79,51,79,130
+2023 Florida WSO State Championships,2023-05-18,Open Women's 49kg,Kaitlin Lacey,48.35,55,-58,-58,72,-75,75,55,75,130
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group +81kg,Ava Caldwell,84.7,55,58,-61,65,69,72,58,72,130
+2023 Florida WSO State Championships,2023-05-18,Women's Masters (45-49) 64kg,Melissa Knourek,61.85,57,60,63,66,-69,-73,63,66,129
+2023 Florida WSO State Championships,2023-05-20,Open Women's 64kg,Annabelle Chavarri,63.7,53,-57,59,70,-73,-73,59,70,129
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 76kg,Gillian Peaden,73.6,52,54,-56,63,70,75,54,75,129
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 81kg,Ori Sela,76.4,51,-57,58,71,-75,-75,58,71,129
+2023 Florida WSO State Championships,2023-05-18,Junior Women's 55kg,karma french,51.5,53,-56,57,67,71,-74,57,71,128
+2023 Florida WSO State Championships,2023-05-18,Open Women's 55kg,Chloe Stumpf,52.45,50,53,-56,72,75,-78,53,75,128
+2023 Florida WSO State Championships,2023-05-20,Open Women's 59kg,Emma Bollinger,58.8,53,-55,55,70,73,-75,55,73,128
+2023 Florida WSO State Championships,2023-05-19,Men's 14-15 Age Group 67kg,Preston Merriken,62.6,57,60,-63,-68,68,-72,60,68,128
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 64kg,Carol Martinez,63.9,55,-57,-57,69,73,-76,55,73,128
+2023 Florida WSO State Championships,2023-05-18,Men's Masters (45-49) 81kg,Joseph Flores,78.55,54,57,-60,-67,67,70,57,70,127
+2023 Florida WSO State Championships,2023-05-19,Men's 14-15 Age Group 67kg,Yash Sagar,64,55,-58,58,65,-69,69,58,69,127
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 64kg,Leann Freeman,62,-55,55,57,65,68,70,57,70,127
+2023 Florida WSO State Championships,2023-05-18,Open Women's 49kg,Ana Figueroa,48.95,52,55,-57,-72,72,-76,55,72,127
+2023 Florida WSO State Championships,2023-05-18,Open Women's 55kg,Chloe Holland,52.9,50,53,-56,65,69,73,53,73,126
+2023 Florida WSO State Championships,2023-05-19,Women's 14-15 Age Group 71kg,McKenzie Hatcher,66.5,52,54,57,-66,69,-71,57,69,126
+2023 Florida WSO State Championships,2023-05-20,Open Women's 71kg,Cammy Rouser,70.1,53,56,-60,65,70,-72,56,70,126
+2023 Florida WSO State Championships,2023-05-18,Women's Masters (45-49) 55kg,Rachel Batista,54.1,51,53,55,65,68,70,55,70,125
+2023 Florida WSO State Championships,2023-05-18,Junior Women's 55kg,Mattilyn Marsee,54.2,51,54,-57,71,-74,-75,54,71,125
+2023 Florida WSO State Championships,2023-05-20,Junior Women's 71kg,Jasmine Simpson,69.1,-54,54,-58,68,-71,71,54,71,125
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 59kg,Hannah Stgerard,55.15,53,-56,-57,67,71,-76,53,71,124
+2023 Florida WSO State Championships,2023-05-20,Open Women's 59kg,Ashley Zepeda,57.5,-50,-50,51,70,73,-76,51,73,124
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 55kg,Paula Mogollon,54.8,51,54,-57,-70,70,-74,54,70,124
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 49kg,Anna Fiore,47,54,57,-60,66,-69,-69,57,66,123
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 59kg,Alessanra Arias,58.35,51,-52,-52,67,-71,72,51,72,123
+2023 Florida WSO State Championships,2023-05-18,Women's Masters (35-39) 55kg,Carla Miranda,51.95,47,50,53,67,70,-73,53,70,123
+2023 Florida WSO State Championships,2023-05-19,Women's 14-15 Age Group 76kg,Alexis Rissler,72.7,52,-55,-55,67,71,-79,52,71,123
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 64kg,Addison Ruocco,62.35,48,51,-54,72,-75,-75,51,72,123
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group +81kg,Morgan Rapp,83.75,48,52,56,63,-66,66,56,66,122
+2023 Florida WSO State Championships,2023-05-20,Junior Women's 59kg,Giuliana  Incorvaia,58.7,50,53,-56,69,-73,-73,53,69,122
+2023 Florida WSO State Championships,2023-05-18,Women's Masters (45-49) 64kg,Kathryn Heppner,63.8,50,52,-54,66,68,70,52,70,122
+2023 Florida WSO State Championships,2023-05-18,Junior Women's 55kg,courtney  bedford ,54.45,54,56,-58,62,-65,66,56,66,122
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 81kg,Brianna McCullers,76.8,-50,50,-53,68,71,-74,50,71,121
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group +81kg,Aykhia Williams,85.55,53,-55,-56,-65,68,-71,53,68,121
+2023 Florida WSO State Championships,2023-05-18,Junior Women's 64kg,Courtnie Lee,63.1,53,-56,-58,63,68,-70,53,68,121
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 55kg,Sophia Milian,53.85,51,52,-55,66,69,-72,52,69,121
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 59kg,Addison Frisbee,58.65,-53,53,-56,65,68,-70,53,68,121
+2023 Florida WSO State Championships,2023-05-20,Open Women's 59kg,Enia Oriol,59,48,-51,-51,66,69,72,48,72,120
+2023 Florida WSO State Championships,2023-05-18,Junior Women's 64kg,Sophia Marrale,61.3,-54,55,-57,65,-68,-68,55,65,120
+2023 Florida WSO State Championships,2023-05-18,Women's Masters (40-44) 76kg,Hanna Estevez,75.6,47,50,-53,63,66,70,50,70,120
+2023 Florida WSO State Championships,2023-05-18,Open Women's 55kg,Elizabeth Case,52.7,51,-54,-54,65,69,-72,51,69,120
+2023 Florida WSO State Championships,2023-05-19,Men's 14-15 Age Group 73kg,Hayden Breckenridge,67.7,45,-50,54,60,-65,66,54,66,120
+2023 Florida WSO State Championships,2023-05-19,Men's 16-17 Age Group 61kg,Shaum Kolakeri,60.2,52,-55,-55,68,-73,-73,52,68,120
+2023 Florida WSO State Championships,2023-05-18,Junior Women's 55kg,Kaylee Carolan,53.7,48,51,53,63,66,-70,53,66,119
+2023 Florida WSO State Championships,2023-05-19,Men's 14-15 Age Group 67kg,Josh Reisdorf,62.6,48,51,54,65,-68,-71,54,65,119
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 71kg,Adriana Lopez,64.1,48,-50,-50,-70,71,-73,48,71,119
+2023 Florida WSO State Championships,2023-05-18,Junior Women's 55kg,Lily Alvarez,54.15,54,-57,-57,61,64,-66,54,64,118
+2023 Florida WSO State Championships,2023-05-20,Junior Women's 59kg,Evelyn Hanson,56.9,50,-53,-53,66,-68,68,50,68,118
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group +81kg,Ella Eacker,87.25,47,-50,50,65,68,-71,50,68,118
+2023 Florida WSO State Championships,2023-05-20,Junior Women's 71kg,Gabriella Fiorillo,64.9,48,51,53,-64,64,-70,53,64,117
+2023 Florida WSO State Championships,2023-05-18,Junior Women's 49kg,Kaitlyn Gallagher,48.15,47,52,-56,65,-70,-70,52,65,117
+2023 Florida WSO State Championships,2023-05-20,Junior Women's 71kg,zaina shehadeh ,66.4,48,-52,52,65,-68,-71,52,65,117
+2023 Florida WSO State Championships,2023-05-18,Junior Women's 55kg,Karen Martinez,54.05,-53,53,56,-61,61,-65,56,61,117
+2023 Florida WSO State Championships,2023-05-18,Open Women's 64kg,Madison Smith,63.4,48,51,54,61,63,-66,54,63,117
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 76kg,Alaina  Butchko,74.3,47,50,53,64,-67,-67,53,64,117
+2023 Florida WSO State Championships,2023-05-18,Junior Women's 49kg,Grace Masters,47,46,49,52,61,64,-68,52,64,116
+2023 Florida WSO State Championships,2023-05-18,Women's Masters (45-49) 81kg,Amy Graham,78.85,45,-48,50,63,-66,66,50,66,116
+2023 Florida WSO State Championships,2023-05-18,Junior Women's 59kg,Rylee Burrell,59,56,-59,-60,60,-65,0,56,60,116
+2023 Florida WSO State Championships,2023-05-19,Women's 14-15 Age Group 76kg,Elle Bays,75.5,48,51,-54,63,65,-69,51,65,116
+2023 Florida WSO State Championships,2023-05-18,Women's Masters (35-39) +87kg,SharDae Bellamy,99.05,40,45,-50,60,65,70,45,70,115
+2023 Florida WSO State Championships,2023-05-18,Women's Masters (35-39) 81kg,Lorena Pole,80.8,48,50,-52,58,61,65,50,65,115
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 49kg,Ashley Aun,48.6,44,-48,48,62,66,-70,48,66,114
+2023 Florida WSO State Championships,2023-05-18,Open Women's 45kg,Sonya Somarriba,44.35,-45,45,50,60,-64,64,50,64,114
+2023 Florida WSO State Championships,2023-05-19,Women's 14-15 Age Group 64kg,Payton Mangay-ayam,62.25,-42,42,47,62,67,-70,47,67,114
+2023 Florida WSO State Championships,2023-05-18,Women's Masters (35-39) 55kg,Alejandra Taylor,53.3,-46,46,-49,67,-70,-70,46,67,113
+2023 Florida WSO State Championships,2023-05-18,Junior Women's 49kg,Ashley Cucchiara,47.85,45,48,-51,60,65,-67,48,65,113
+2023 Florida WSO State Championships,2023-05-18,Junior Women's 49kg,Jelina Bly,48.15,-48,48,-51,60,65,-68,48,65,113
+2023 Florida WSO State Championships,2023-05-19,Men's 14-15 Age Group 55kg,Dylan Brown,54.3,46,48,50,58,-61,63,50,63,113
+2023 Florida WSO State Championships,2023-05-19,Women's 14-15 Age Group 59kg,Olivia Kabakov,57.45,45,47,49,64,-67,-68,49,64,113
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 59kg,Liliana Eastes,56.5,47,50,-53,61,63,-65,50,63,113
+2023 Florida WSO State Championships,2023-05-18,Junior Women's 55kg,Cassidy Daprile,53.9,46,-51,-51,-63,66,-69,46,66,112
+2023 Florida WSO State Championships,2023-05-18,Women's Masters (45-49) +87kg,Musette Stinnett,89.9,40,43,46,60,-63,66,46,66,112
+2023 Florida WSO State Championships,2023-05-19,Women's 13 Under Age Group 64kg,Ariana Reyes,59.9,47,50,-54,56,62,-65,50,62,112
+2023 Florida WSO State Championships,2023-05-19,Men's 14-15 Age Group 73kg,Bryan Ricardo,67.8,48,51,-53,55,-60,60,51,60,111
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 55kg,Ania Haber,54.4,-46,46,-51,-63,-65,65,46,65,111
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 59kg,Isabella  Perez,56.5,45,47,49,60,62,-64,49,62,111
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 55kg,Braelyn Sayer,54.15,46,50,-54,60,-65,-68,50,60,110
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 64kg,Lindsey Chappell,62.55,42,45,-48,56,61,65,45,65,110
+2023 Florida WSO State Championships,2023-05-19,Women's 14-15 Age Group +76kg,Vivianna Foster,95.25,41,44,47,55,60,63,47,63,110
+2023 Florida WSO State Championships,2023-05-18,Junior Women's 55kg,Maria Caltabiano,54.3,45,48,-50,-61,-61,61,48,61,109
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 76kg,Joslyn Moraski,73.15,-47,-48,48,60,-65,-65,48,60,108
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 55kg,Katherine Lansford,54,-43,45,-48,59,62,-65,45,62,107
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 64kg,Souad Saleh,63.35,45,48,-51,53,56,59,48,59,107
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 71kg,Maria Nunez,66.7,45,-47,-47,59,61,-63,45,61,106
+2023 Florida WSO State Championships,2023-05-18,Junior Women's 59kg,Miriam Cancino,56.4,35,37,40,60,-63,65,40,65,105
+2023 Florida WSO State Championships,2023-05-18,Men's Masters (65-69) 96kg,Gregory Hammond,94.3,42,45,47,52,55,58,47,58,105
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 59kg,Madison Ward,55.35,44,-45,45,55,58,60,45,60,105
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 49kg,Ireland OBrien,49,-49,49,-51,56,-59,-60,49,56,105
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 71kg,Ella Ripple,65.7,-43,43,-46,62,-66,-66,43,62,105
+2023 Florida WSO State Championships,2023-05-18,Women's Masters (45-49) 55kg,Aimee Burroughs,53.3,45,47,-50,55,-57,57,47,57,104
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 81kg,Emilia McKittrick,78.7,43,-49,-50,61,-67,-69,43,61,104
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 55kg,Anniah Styles,53.95,40,43,45,57,59,-62,45,59,104
+2023 Florida WSO State Championships,2023-05-18,Junior Women's 59kg,Arien  West,58.1,44,46,-48,57,-60,-61,46,57,103
+2023 Florida WSO State Championships,2023-05-18,Women's Masters (35-39) 81kg,Ashley Evans,79.2,43,46,-48,54,57,-60,46,57,103
+2023 Florida WSO State Championships,2023-05-18,Junior Women's 59kg,Miranda Orta,56.6,44,-47,-47,56,59,-62,44,59,103
+2023 Florida WSO State Championships,2023-05-18,Junior Women's 45kg,Isabella  Paul ,43.5,43,46,-48,57,-60,-63,46,57,103
+2023 Florida WSO State Championships,2023-05-18,Junior Women's 55kg,Amelia Mobley,53.2,40,43,-48,55,57,60,43,60,103
+2023 Florida WSO State Championships,2023-05-18,Junior Women's 64kg,Venus Gonzalez,61.2,46,-50,-52,56,-59,-59,46,56,102
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 71kg,Isabella Ferrara,69.35,43,-46,-46,55,59,-62,43,59,102
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 64kg,Elisa Beverly,61,-42,42,-44,54,57,-59,42,57,99
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 49kg,Bergyn Baliton,47.95,38,-40,40,56,59,-62,40,59,99
+2023 Florida WSO State Championships,2023-05-19,Women's 14-15 Age Group 64kg,Natalee Smith,62.45,41,44,-47,51,-54,55,44,55,99
+2023 Florida WSO State Championships,2023-05-18,Open Women's 59kg,Ashley Avellan,57.6,38,42,-45,57,-61,-61,42,57,99
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 55kg,Luna Perez,53.6,40,43,-45,50,-53,55,43,55,98
+2023 Florida WSO State Championships,2023-05-18,Women's Masters (40-44) 59kg,Vivian Mason,57.5,35,38,-40,55,58,-61,38,58,96
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 55kg,Abigail Jenkins,54.4,35,40,-42,52,-56,56,40,56,96
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 55kg,Sarah Rubi,52.7,40,42,44,48,51,-55,44,51,95
+2023 Florida WSO State Championships,2023-05-18,Women's Masters (45-49) 71kg,Jennifer Thomas,69.45,37,39,-41,51,56,-58,39,56,95
+2023 Florida WSO State Championships,2023-05-18,Junior Women's 49kg,Ericka Hoffman,48.55,-40,40,-43,50,55,-60,40,55,95
+2023 Florida WSO State Championships,2023-05-18,Open Women's 55kg,Mariangel Benejam,54,40,43,-46,52,-55,-57,43,52,95
+2023 Florida WSO State Championships,2023-05-19,Men's 13 Under Age Group 44kg,Weston McGrath,42.9,38,40,42,49,51,53,42,53,95
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 45kg,Gabrielle Gutierrez,44.8,-40,40,-42,55,-57,-57,40,55,95
+2023 Florida WSO State Championships,2023-05-18,Women's Masters (50-54) 87kg,Levenda James,83.65,35,38,40,45,50,54,40,54,94
+2023 Florida WSO State Championships,2023-05-19,Women's 14-15 Age Group 71kg,Naia  Harrison ,67,37,40,42,48,51,-53,42,51,93
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 55kg,Rebecca Wesley,51.7,35,38,41,45,48,52,41,52,93
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 55kg,Marianne Masters,53.2,32,35,38,45,49,54,38,54,92
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 45kg,Kendall Lopez,40.9,35,37,-39,51,54,-57,37,54,91
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 55kg,Sophia Ortega,54,-38,38,41,-50,-50,50,41,50,91
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 55kg,Briana Lentell,52.9,34,37,-39,52,-54,54,37,54,91
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 64kg,Nicole Santes,63.8,38,40,-42,43,46,50,40,50,90
+2023 Florida WSO State Championships,2023-05-18,Women's Masters (40-44) 64kg,Alma Killingsworth,62.8,-37,37,-40,53,-56,-57,37,53,90
+2023 Florida WSO State Championships,2023-05-19,Men's 13 Under Age Group 67kg,Christian Short,63.7,38,40,-42,-50,50,-54,40,50,90
+2023 Florida WSO State Championships,2023-05-19,Women's 14-15 Age Group 76kg,Olivia DeLuke,75.8,36,38,40,42,46,50,40,50,90
+2023 Florida WSO State Championships,2023-05-18,Junior Women's 49kg,Helaina Thompson,47.15,38,-40,-40,48,50,-53,38,50,88
+2023 Florida WSO State Championships,2023-05-19,Women's 14-15 Age Group 55kg,Madelyn Kimball,52,32,-34,34,47,50,54,34,54,88
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 49kg,Cayle Bihl,45.6,38,-40,-41,46,-49,50,38,50,88
+2023 Florida WSO State Championships,2023-05-19,Women's 14-15 Age Group 55kg,Mia Murphy,52.5,35,37,-39,48,50,-52,37,50,87
+2023 Florida WSO State Championships,2023-05-18,Junior Women's 49kg,aubrey floyd,48.9,35,-38,-39,50,-54,-54,35,50,85
+2023 Florida WSO State Championships,2023-05-18,Women's Masters (40-44) 59kg,Maja Hart,58.75,35,-37,-38,47,50,-52,35,50,85
+2023 Florida WSO State Championships,2023-05-19,Women's 14-15 Age Group 59kg,Anna Mayes,58,36,-39,-40,45,49,-52,36,49,85
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 64kg,sara vresoski,61.1,32,-35,-35,45,48,53,32,53,85
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 49kg,Mackenzie  Carlson,48.2,30,32,-34,-45,47,50,32,50,82
+2023 Florida WSO State Championships,2023-05-18,Men's Masters (75-79) 73kg,Arthur Auwaerter,70.75,35,38,-40,40,42,44,38,44,82
+2023 Florida WSO State Championships,2023-05-19,Men's 13 Under Age Group 55kg,Mikhael Rapoport,53.4,33,36,-40,43,46,-49,36,46,82
+2023 Florida WSO State Championships,2023-05-19,Women's 14-15 Age Group 45kg,Sienna Burroughs,44,34,-36,36,43,-46,46,36,46,82
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 49kg,senika johnson,48.85,31,34,-38,-47,47,-52,34,47,81
+2023 Florida WSO State Championships,2023-05-19,Women's 14-15 Age Group 55kg,Desirae Phoenix,53.4,33,-35,-35,-46,47,48,33,48,81
+2023 Florida WSO State Championships,2023-05-19,Men's 13 Under Age Group 67kg,Rylan Matheson,62.8,31,-33,33,42,45,47,33,47,80
+2023 Florida WSO State Championships,2023-05-19,Women's 13 Under Age Group 45kg,Isabella Rozo,45,-35,-35,35,40,42,45,35,45,80
+2023 Florida WSO State Championships,2023-05-19,Men's 13 Under Age Group 39kg,Rome Barker,38,30,32,34,40,42,44,34,44,78
+2023 Florida WSO State Championships,2023-05-19,Women's 14-15 Age Group 49kg,Ryann Fullwood,48.4,35,-37,-37,42,-45,-45,35,42,77
+2023 Florida WSO State Championships,2023-05-18,Women's Masters (50-54) 71kg,Amy Herrera,65.65,32,-35,-36,-41,-41,43,32,43,75
+2023 Florida WSO State Championships,2023-05-19,Women's 13 Under Age Group 55kg,Grace Gibson,52.9,30,32,34,38,41,-44,34,41,75
+2023 Florida WSO State Championships,2023-05-19,Men's 14-15 Age Group 44kg,Jonathan Marrero,43.7,29,32,-35,-37,37,42,32,42,74
+2023 Florida WSO State Championships,2023-05-19,Men's 14-15 Age Group 44kg,Dayton Billing,42.9,29,31,-33,38,40,42,31,42,73
+2023 Florida WSO State Championships,2023-05-19,Women's 13 Under Age Group 33kg,annalee seek,32.55,-29,29,31,36,39,41,31,41,72
+2023 Florida WSO State Championships,2023-05-19,Women's 13 Under Age Group 45kg,Jaliyah Thurmon,41.55,29,31,-32,35,38,40,31,40,71
+2023 Florida WSO State Championships,2023-05-19,Men's 13 Under Age Group 49kg,Evan Lopez,46.7,29,-31,-32,37,39,41,29,41,70
+2023 Florida WSO State Championships,2023-05-19,Women's 13 Under Age Group 59kg,Joei Fulghum,55.4,24,26,29,33,35,38,29,38,67
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 49kg,Kaitlyn DiGeorge,47.4,25,27,-30,-35,36,38,27,38,65
+2023 Florida WSO State Championships,2023-05-18,Women's Masters (60-64) 64kg,Karen Hunnicutt,60.35,28,-29,-29,32,34,-36,28,34,62
+2023 Florida WSO State Championships,2023-05-18,Women's Masters (70-74) 64kg,Leslie Moore,62,25,27,29,33,-36,-37,29,33,62
+2023 Florida WSO State Championships,2023-05-19,Women's 13 Under Age Group 36kg,Sophia Hippelheuser,35.4,26,-28,-28,-32,32,34,26,34,60
+2023 Florida WSO State Championships,2023-05-19,Women's 13 Under Age Group 33kg,Deanna Vinski,32.35,-24,25,26,-33,33,-35,26,33,59
+2023 Florida WSO State Championships,2023-05-19,Women's 13 Under Age Group 45kg,Sofia Giron,40.1,22,24,-26,33,-35,35,24,35,59
+2023 Florida WSO State Championships,2023-05-19,Women's 13 Under Age Group 40kg,Collette Yokel,36.5,22,-24,24,28,30,-32,24,30,54
+2023 Florida WSO State Championships,2023-05-19,Women's 13 Under Age Group 40kg,Keira Taylor,39.85,19,21,23,26,29,-33,23,29,52
+2023 Florida WSO State Championships,2023-05-19,Men's 13 Under Age Group 49kg,Thomas Francisco,48.6,20,22,23,25,-26,26,23,26,49
+2023 Florida WSO State Championships,2023-05-19,Women's 13 Under Age Group 40kg,Stella Robles-Pimentel,39,18,20,22,24,26,-29,22,26,48
+2023 Florida WSO State Championships,2023-05-19,Women's 13 Under Age Group 36kg,Mariana  Mira ,35,19,20,21,25,-28,-28,21,25,46
+2023 Florida WSO State Championships,2023-05-19,Men's 13 Under Age Group 32kg,Gabriel Almazan,29.8,-17,18,-20,-25,-25,25,18,25,43
+2023 Florida WSO State Championships,2023-05-19,Men's 13 Under Age Group 36kg,Charles Epperson,32.5,15,17,-20,18,20,22,17,22,39
+2023 Florida WSO State Championships,2023-05-20,Open Women's 64kg,Murphy Rhodes,62.6,-51,-53,-54,62,65,-67,0,65,0
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 59kg,Rhyan Parrish,58.3,-44,-44,-44,72,-75,75,0,75,0
+2023 Florida WSO State Championships,2023-05-20,Open Men's 73kg,Anthony Baldaccini,72.05,-120,-120,-120,130,-135,-136,0,130,0
+2023 Florida WSO State Championships,2023-05-21,Open Men's 109kg,Mike Fleming,108.3,-130,-130,-130,150,155,-160,0,155,0
+2023 Florida WSO State Championships,2023-05-21,Open Women's 81kg,Denise Tam,80,-83,-84,84,-110,-111,-112,84,0,0
+2023 Florida WSO State Championships,2023-05-20,Open Men's 89kg,Kevin Gonzalez,88.05,112,114,-116,-150,-150,-151,114,0,0
+2023 Florida WSO State Championships,2023-05-20,Open Women's 64kg,Monica Long,62.2,48,50,-52,-67,-67,-67,50,0,0
+2023 Florida WSO State Championships,2023-05-21,Men's Masters (35-39) +109kg,Noel Leka,142.1,-140,-140,-140,-146,0,0,0,0,0
+2023 Florida WSO State Championships,2023-05-18,Junior Women's 55kg,Emma Kittredge,54.35,-48,-48,-48,58,-61,61,0,61,0
+2023 Florida WSO State Championships,2023-05-20,Junior Men's 67kg,Noel Walters,64.3,-86,-86,-87,-101,102,-112,0,102,0
+2023 Florida WSO State Championships,2023-05-18,Junior Women's 55kg,Kayli Murphy,53.85,40,-43,43,-56,-58,-58,43,0,0
+2023 Florida WSO State Championships,2023-05-20,Junior Men's 73kg,Malaquias Coronado,72.9,-104,-105,-105,-130,131,-134,0,131,0
+2023 Florida WSO State Championships,2023-05-18,Men's Masters (35-39) 81kg,Jonathan Strout,79.65,-102,104,-107,-119,-122,-122,104,0,0
+2023 Florida WSO State Championships,2023-05-20,Junior Women's 64kg,Alyssa Trompke,61.2,55,-58,-58,-71,-71,-71,55,0,0
+2023 Florida WSO State Championships,2023-05-18,Men's Masters (35-39) 89kg,Josh Moore,83.25,-75,-75,-75,90,95,-100,0,95,0
+2023 Florida WSO State Championships,2023-05-18,Women's Masters (40-44) 64kg,Juliana Gil,62.95,43,-45,-47,-60,0,0,43,0,0
+2023 Florida WSO State Championships,2023-05-18,Men's Masters (40-44) 102kg,Ryan Weber,97.25,-86,-87,87,-106,-107,-107,87,0,0
+2023 Florida WSO State Championships,2023-05-20,Junior Men's 89kg,William Wainwright,88.5,101,105,-110,0,0,0,105,0,0
+2023 Florida WSO State Championships,2023-05-18,Men's Masters (55-59) 102kg,Joseph Petruska,98.7,-64,-64,-64,-75,75,-80,0,75,0
+2023 Florida WSO State Championships,2023-05-21,Junior Men's 96kg,Christopher Wilson,95.8,-105,-105,-105,130,135,-144,0,135,0
+2023 Florida WSO State Championships,2023-05-21,Junior Women's 81kg,Ava Haber,80.5,-77,-79,-79,95,100,-103,0,100,0
+2023 Florida WSO State Championships,2023-05-18,Junior Women's 64kg,Farah Mansouri ,59.4,-48,48,-50,0,0,0,48,0,0
+2023 Florida WSO State Championships,2023-05-18,Junior Women's 55kg,Dylan Gutierrez,54.9,-48,-48,-48,-58,-58,-58,0,0,0
+2023 Florida WSO State Championships,2023-05-18,Junior Men's 73kg,Matthew Castellano,70.9,72,-75,-75,-103,-104,-106,72,0,0
+2023 Florida WSO State Championships,2023-05-20,Junior Men's 81kg,Logan Meszaros,79.5,90,93,-96,-118,-118,-118,93,0,0
+2023 Florida WSO State Championships,2023-05-20,Junior Men's 89kg,rolando coronado,87.7,-107,-107,107,-147,0,0,107,0,0
+2023 Florida WSO State Championships,2023-05-20,Open Women's 71kg,Andrea Barrows,70.35,-85,-85,-85,105,110,-116,0,110,0
+2023 Florida WSO State Championships,2023-05-20,Open Women's 59kg,Jessica Schmidt,57.5,52,55,57,-65,-67,-67,57,0,0
+2023 Florida WSO State Championships,2023-05-19,Women's 14-15 Age Group 55kg,Vivian Otts,53.35,28,-31,31,-38,-41,-41,31,0,0
+2023 Florida WSO State Championships,2023-05-19,Women's 14-15 Age Group 55kg,Kyla Chardon,50.75,0,0,0,0,0,0,0,0,0
+2023 Florida WSO State Championships,2023-05-20,Open Men's 81kg,JEREMY VILLEGAS,79.75,-100,-100,-100,-118,118,-121,0,118,0
+2023 Florida WSO State Championships,2023-05-19,Women's 14-15 Age Group +76kg,Olivia Bond-West,80.1,73,76,80,-98,-98,-98,80,0,0
+2023 Florida WSO State Championships,2023-05-18,Open Men's 73kg,blake Johnson,70.4,73,77,-80,-101,-101,-101,77,0,0
+2023 Florida WSO State Championships,2023-05-20,Open Men's 67kg,Ruchit Patel,64.15,-105,-105,-105,127,-132,-132,0,127,0
+2023 Florida WSO State Championships,2023-05-20,Open Women's 71kg,Veronika Kozevnikova,71,-66,-66,66,-83,-86,0,66,0,0
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 71kg,Phoebe  Chapman,69.6,-45,-46,-46,-52,-52,-52,0,0,0
+2023 Florida WSO State Championships,2023-05-21,Open Women's 76kg,Sarah Kehoe,75.45,70,-73,-75,-89,-89,-89,70,0,0
+2023 Florida WSO State Championships,2023-05-19,Women's 16-17 Age Group 55kg,Jordyn Rodriguez,51.5,-51,-51,-52,-63,-63,0,0,0,0
+2023 Florida WSO State Championships,2023-05-20,Open Women's 59kg,Angelique Matsushima,58.9,-83,-83,-83,0,0,0,0,0,0
+2023 Florida WSO State Championships,2023-05-19,Men's 16-17 Age Group 81kg,Edwin Carrera,80.1,-78,-78,78,-102,-102,-102,78,0,0
+2023 Florida WSO State Championships,2023-05-20,Open Men's 89kg,Arron Tate,86.8,124,-128,129,-156,-161,-161,129,0,0
+2023 Florida WSO State Championships,2023-05-20,Open Men's 89kg,Jared  Tallant,88.7,100,-103,-104,-125,-127,-127,100,0,0
+2023 Florida WSO State Championships,2023-05-20,Open Women's 76kg,Jessie Chiasson,74.6,-55,-55,-55,65,68,71,0,71,0
+2023 Florida WSO State Championships,2023-05-18,Open Women's 49kg,Paula Rosas,48.4,53,-55,-55,-70,-70,-70,53,0,0
