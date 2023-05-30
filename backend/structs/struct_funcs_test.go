@@ -101,6 +101,30 @@ func TestEntry_WithinYear(t *testing.T) {
 	}
 }
 
+func TestEntry_WithinDates(t *testing.T) {
+	sampleEntry := Entry{Date: "2021-02-16"}
+	type args struct {
+		startDate string
+		endDate   string
+	}
+	tests := []struct {
+		name string
+		args args
+		want bool
+	}{
+		{name: "WithinDate", args: args{startDate: "2021-02-14", endDate: "2021-02-17"}, want: true},
+		{name: "OutsideDate", args: args{startDate: "2019-01-01", endDate: "2019-12-31"}, want: false},
+		{name: "AllDates", args: args{startDate: enum.ZeroDate, endDate: enum.MaxDate}, want: true},
+	}
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			if got := sampleEntry.WithinDates(tt.args.startDate, tt.args.endDate); got != tt.want {
+				t.Errorf("WithinYear() = %v, want %v", got, tt.want)
+			}
+		})
+	}
+}
+
 func TestEntry_SelectedFederation(t *testing.T) {
 	sampleEntry := Entry{
 		Federation: "BWL",

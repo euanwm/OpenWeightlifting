@@ -3,7 +3,9 @@ package utilities
 import (
 	"encoding/csv"
 	"io"
+	"log"
 	"strconv"
+	"time"
 )
 
 // Float - Converts a string containing a float32 to exactly that
@@ -48,4 +50,13 @@ func LoadCsvFile(file io.Reader) (csvContents [][]string) {
 	reader := csv.NewReader(file)
 	csvContents, _ = reader.ReadAll()
 	return csvContents[1:]
+}
+
+func StringToDate(dateString string) (date time.Time) {
+	const rfc3339partial string = "T15:04:05Z"
+	date, borkt := time.Parse(time.RFC3339, dateString+rfc3339partial)
+	if borkt != nil {
+		log.Fatal(borkt)
+	}
+	return
 }
