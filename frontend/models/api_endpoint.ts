@@ -53,3 +53,7 @@ export interface LeaderboardPayload {
 export interface LifterNamePayload {
   name: string;
 }
+
+export interface LifterSearchList {
+  names: string[];
+}
