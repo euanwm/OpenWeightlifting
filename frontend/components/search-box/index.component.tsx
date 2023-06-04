@@ -32,7 +32,7 @@ export const SearchBox = async () => {
     <Combobox value={selectedPerson} onChange={setSelectedPerson}>
       <Combobox.Input onChange={(event) => setQuery(event.target.value)} />
       <Combobox.Options>
-        {lifterNames.map((name) => (
+        {lifterNames?.map((name) => (
           <Combobox.Option key={name} value={name}>
             {name}
           </Combobox.Option>
