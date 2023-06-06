@@ -1,72 +1,13 @@
 import { useRouter } from "next/router";
 
+import { useEffect, useState } from "react";
+
 import { LifterGraph } from "../components/lifter-graph/index.component";
 import { HistoryTable } from "../components/history-table/index.components";
 
-import { LifterChartData, LifterHistory } from "../models/api_endpoint";
-import { Text, Container, Card, Row } from "@nextui-org/react";
+import { LifterHistory } from "../models/api_endpoint";
+import { Card, Container, Row, Text } from "@nextui-org/react";
 
-const sampleGraphData: LifterChartData = {
-  "labels": [
-    "2019-09-28",
-    "2019-12-14",
-    "2020-12-31",
-    "2021-04-30",
-    "2021-11-13",
-    "2022-03-19",
-    "2022-10-29"
-  ],
-  "datasets": [
-    {
-      "label": "Competition Total",
-      "data": [
-        187,
-        200,
-        225,
-        227,
-        236,
-        240,
-        235
-      ]
-    },
-    {
-      "label": "Best Snatch",
-      "data": [
-        82,
-        90,
-        105,
-        106,
-        111,
-        107,
-        110
-      ]
-    },
-    {
-      "label": "Best C&J",
-      "data": [
-        105,
-        110,
-        120,
-        121,
-        125,
-        133,
-        125
-      ]
-    },
-    {
-      "label": "Bodyweight",
-      "data": [
-        80.9,
-        79.3,
-        79.8,
-        80.4,
-        78.8,
-        81,
-        81
-      ]
-    }
-  ]
-}
 const sampleLifterHistory: LifterHistory = {
   "name": "Euan Meston",
   "lifts": [
@@ -203,12 +144,96 @@ const sampleLifterHistory: LifterHistory = {
       "country": "UK",
       "instagram": ""
     }
-  ]
+  ],
+  "graph": {
+    "labels": [
+      "2019-09-28",
+      "2019-12-14",
+      "2020-12-31",
+      "2021-04-30",
+      "2021-11-13",
+      "2022-03-19",
+      "2022-10-29"
+    ],
+    "datasets": [
+      {
+        "label": "Competition Total",
+        "data": [
+          187,
+          200,
+          225,
+          227,
+          236,
+          240,
+          235
+        ]
+      },
+      {
+        "label": "Best Snatch",
+        "data": [
+          82,
+          90,
+          105,
+          106,
+          111,
+          107,
+          110
+        ]
+      },
+      {
+        "label": "Best C&J",
+        "data": [
+          105,
+          110,
+          120,
+          121,
+          125,
+          133,
+          125
+        ]
+      },
+      {
+        "label": "Bodyweight",
+        "data": [
+          80.9,
+          79.3,
+          79.8,
+          80.4,
+          78.8,
+          81,
+          81
+        ]
+      }
+    ]
+  }
 }
+
+const fetchLifterHistory = async (name: string) => {
+  const response = await fetch('http://localhost:8080/history', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({ NameStr: name })
+  }).then((res) => res.json()).catch(error => console.error('error in fetchLifterHistory', error))
+
+  return await response as LifterHistory
+}
+
 
 const Lifter = () => {
   const router = useRouter()
   const { name } = router.query
+
+  const [lifterHistory, setLifterHistory] = useState({} as LifterHistory)
+
+  useEffect(() => {
+    async function fetchLifterHistoryFromAPI() {
+      setLifterHistory(await fetchLifterHistory(name as string))
+    }
+
+  fetchLifterHistory(name as string).then()
+  }, [name])
 
   return (
     <div>
@@ -216,13 +241,13 @@ const Lifter = () => {
         <Card>
           <Card.Body>
             <Row justify="center" align="center">
-              <Text h1>{name}</Text>
+              <Text h1>{sampleLifterHistory['name']}</Text>
             </Row>
           </Card.Body>
         </Card>
       </Container>
-      <LifterGraph lifterHistory={sampleGraphData} />
-      <HistoryTable history={sampleLifterHistory.lifts} />
+      <LifterGraph lifterHistory={sampleLifterHistory['graph']} />
+      <HistoryTable history={sampleLifterHistory['lifts']} />
     </div>
   )
 }
