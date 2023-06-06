@@ -68,6 +68,26 @@ func postLifterRecord(c *gin.Context) {
 	}
 }
 
+func postLifterHistory(c *gin.Context) {
+	lifterSearch := structs.NameSearch{}
+	if err := c.BindJSON(&lifterSearch); err != nil {
+		_ = c.AbortWithError(http.StatusBadRequest, err)
+	}
+	// dumb logging so datadog picks it up
+	reqBody, _ := jsoniter.MarshalToString(lifterSearch)
+	log.Println(reqBody)
+
+	lifterDetails := lifter.FetchLifts(lifterSearch, &processedLeaderboard)
+	lifterDetails.Lifts = dbtools.SortDate(lifterDetails.Lifts)
+	lifterDetails.Graph = lifterDetails.GenerateChartData()
+
+	if len(lifterDetails.Lifts) != 0 {
+		c.JSON(http.StatusOK, lifterDetails)
+	} else if len(lifterDetails.Lifts) == 0 {
+		c.JSON(http.StatusNoContent, nil)
+	}
+}
+
 // Main leaderboard function
 func postLeaderboard(c *gin.Context) {
 	body := structs.LeaderboardPayload{}
@@ -127,6 +147,7 @@ func buildServer() *gin.Engine {
 	r.POST("leaderboard", postLeaderboard)
 	r.GET("search", getSearchName)
 	r.POST("lifter", postLifterRecord)
+	r.POST("history", postLifterHistory)
 	r.POST("event", postEventResult)
 	return r
 }
