@@ -54,13 +54,11 @@ const Lifter = () => {
   return (
     <div>
       <Container alignContent={'center'} alignItems={'center'}>
-        <Card>
-          <Card.Body>
             <Row justify="center" align="center">
-              <Text h1>{lifterHistory['name']}</Text>
+              <u><h1>
+              {lifterHistory['name']}
+              </h1></u>
             </Row>
-          </Card.Body>
-        </Card>
       </Container>
       <LifterGraph lifterHistory={lifterHistory['graph']} />
       <HistoryTable history={lifterHistory['lifts']} />
