@@ -1,3 +1,4 @@
+// todo: make this actually work
 import { useState } from "react";
 import { Combobox } from "@headlessui/react";
 import { LifterSearchList } from "../../models/api_endpoint";
@@ -8,7 +9,7 @@ import { LifterSearchList } from "../../models/api_endpoint";
 // This is going to be a component on the main leaderboard page that will allow you to search for a lifter.
 // When you select a lifter, it will take you to the lifter page and show you their data.
 // The lifter page will be generated based upon the query string.
-// This component will also be on the lifter page.
+// This component will live in the layout component somewhere.
 
 const fetchLifterNames = async (nameQuery: string) => {
   if (nameQuery.length < 3) {

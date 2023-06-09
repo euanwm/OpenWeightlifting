@@ -1,6 +1,7 @@
 import { Table, useTheme } from "@nextui-org/react"
 import { FaInstagram } from "react-icons/fa"
 import { VscGraphLine } from 'react-icons/vsc'
+import { CgProfile } from 'react-icons/cg'
 
 import { LifterResult } from "../../models/api_endpoint";
 import { AllDetails } from "../all-details/index.component"
@@ -39,6 +40,7 @@ export const DataTable = ({ lifters, openLifterGraphHandler }: { lifters: Lifter
             <button onClick={() => openLifterGraphHandler(lifter.lifter_name)} className={styles.graphButton}>
               <VscGraphLine size={25} className={themeIconClass} />
             </button>
+            <a href={`/lifter?name=${lifter.lifter_name}`} target="_blank" rel="noreferrer noopener"><CgProfile size={25} className={themeIconClass} /></a>
           </div>
         </Table.Cell>
         <Table.Cell>{lifter.country}</Table.Cell>

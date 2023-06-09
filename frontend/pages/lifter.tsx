@@ -1,6 +1,6 @@
 import { useRouter } from "next/router";
 import { useEffect, useState } from "react";
-import { Card, Container, Row, Text } from "@nextui-org/react";
+import { Container, Row } from "@nextui-org/react";
 
 import { LifterGraph } from "../components/lifter-graph/index.component";
 import { HistoryTable } from "../components/history-table/index.components";
@@ -18,7 +18,7 @@ const blankLifterHistory: LifterHistory = {
 const fetchLifterHistory = async (name: string) => {
   if (name === undefined) return await blankLifterHistory as LifterHistory
 
-  const response = await fetch('http://localhost:8080/history', {
+  const response = await fetch(`${process.env.API}/history`, {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json'
