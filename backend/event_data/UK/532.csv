@@ -1,0 +1,63 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+The Scottish Weightlifting Open 2023,2023-05-28,Men's Junior Under 20 96Kg,Drew Burns,95.5,132,138,-140,162,168,170,138,170,308
+The Scottish Weightlifting Open 2023,2023-05-28,Men's Senior 109+Kg,Matthew Byers,110.1,120,125,128,-147,147,156,128,156,284
+The Scottish Weightlifting Open 2023,2023-05-28,Men's Senior 89Kg,Allen Brindley,88.8,120,124,-126,-150,150,155,124,155,279
+The Scottish Weightlifting Open 2023,2023-05-28,Men's Junior Under 20 102Kg,Aiden Sheeran,99.3,110,115,-120,151,156,-160,115,156,271
+The Scottish Weightlifting Open 2023,2023-05-28,Men's Senior 89Kg,Jason-James  Donaldson,87.1,112,-117,117,145,-152,-153,117,145,262
+The Scottish Weightlifting Open 2023,2023-05-27,Men's Senior 81Kg,Iain Wilson,78.6,108,112,115,-145,145,-150,115,145,260
+The Scottish Weightlifting Open 2023,2023-05-27,Men's Senior 81Kg,Lucas Clarke,80.6,-100,100,105,-142,142,-148,105,142,247
+The Scottish Weightlifting Open 2023,2023-05-28,Men's Junior Under 20 109+Kg,Euan Mclauchlan,109.8,103,107,-110,130,135,140,107,140,247
+The Scottish Weightlifting Open 2023,2023-05-28,Men's Junior Under 20 89Kg,Callum Holland,85.3,-100,100,105,135,-140,140,105,140,245
+The Scottish Weightlifting Open 2023,2023-05-27,Men's Senior 73Kg,Gilbert North,71.9,101,105,108,126,130,133,108,133,241
+The Scottish Weightlifting Open 2023,2023-05-27,Men's Youth Under 17 73Kg,rhys deeley,69.2,90,95,100,120,125,131,100,131,231
+The Scottish Weightlifting Open 2023,2023-05-28,Men's Under 23 89Kg,Fouad Ghareeb,89,100,-105,-108,122,127,-135,100,127,227
+The Scottish Weightlifting Open 2023,2023-05-28,Men's Masters (35-39) 89Kg,Max Buchanan,87.1,-98,98,-106,125,-130,-131,98,125,223
+The Scottish Weightlifting Open 2023,2023-05-28,Men's Masters (35-39) 89Kg,Dimitris Panagiotakopoulos,84.9,95,98,-101,118,123,-128,98,123,221
+The Scottish Weightlifting Open 2023,2023-05-27,Men's Senior 81Kg,Adam Bryce,80.5,-90,90,-95,122,126,-130,90,126,216
+The Scottish Weightlifting Open 2023,2023-05-27,Men's Senior 81Kg,Steven Mcallan,79.2,85,-90,90,120,125,-128,90,125,215
+The Scottish Weightlifting Open 2023,2023-05-28,Men's Youth Under 17 96Kg,Angus Robertson,91,90,95,-100,115,120,-125,95,120,215
+The Scottish Weightlifting Open 2023,2023-05-28,Men's Under 23 109+Kg,Charlie Simpson,129.2,90,-95,95,115,-119,119,95,119,214
+The Scottish Weightlifting Open 2023,2023-05-27,Men's Under 23 81Kg,Kieran Connor,80.4,-98,98,-102,115,-120,-120,98,115,213
+The Scottish Weightlifting Open 2023,2023-05-28,Men's Senior 109+Kg,Mark Turnbull,129.8,95,-100,100,108,-113,113,100,113,213
+The Scottish Weightlifting Open 2023,2023-05-27,Men's Senior 81Kg,Haydn Law,79.1,90,95,-97,110,115,-120,95,115,210
+The Scottish Weightlifting Open 2023,2023-05-27,Men's Senior 81Kg,Anthony Woollcombe,80.3,88,91,95,105,110,115,95,115,210
+The Scottish Weightlifting Open 2023,2023-05-28,Men's Under 23 89Kg,George Lansdown,86.2,90,95,-100,-112,115,-120,95,115,210
+The Scottish Weightlifting Open 2023,2023-05-28,Men's Youth Under 17 96Kg,Jake Dickie,93.4,90,-94,94,110,115,-120,94,115,209
+The Scottish Weightlifting Open 2023,2023-05-27,Men's Senior 81Kg,Daniel Davidson,73.3,80,84,88,105,110,113,88,113,201
+The Scottish Weightlifting Open 2023,2023-05-28,Men's Masters (40-44) 96Kg,Paul Chalmers,91,84,87,-91,103,107,111,87,111,198
+The Scottish Weightlifting Open 2023,2023-05-27,Men's Under 23 81Kg,Adam Crockford,77.5,80,84,88,-100,100,108,88,108,196
+The Scottish Weightlifting Open 2023,2023-05-28,Men's Under 23 89Kg,Rob Macleod,81.4,-85,85,-92,105,110,-115,85,110,195
+The Scottish Weightlifting Open 2023,2023-05-27,Men's Under 23 67Kg,ally mcgrath,64.9,82,84,-86,100,105,-110,84,105,189
+The Scottish Weightlifting Open 2023,2023-05-27,Men's Under 23 81Kg,Cameron sinclair,81,80,-85,-87,108,-114,-116,80,108,188
+The Scottish Weightlifting Open 2023,2023-05-27,Men's Under 23 73Kg,Zhiqian Lyu,72.6,-80,-80,80,101,105,-120,80,105,185
+The Scottish Weightlifting Open 2023,2023-05-27,Men's Junior Under 20 73Kg,Innes Urquhart,69.8,78,81,-84,96,100,103,81,103,184
+The Scottish Weightlifting Open 2023,2023-05-27,Men's Senior 73Kg,Jordan Bowie,72.8,80,83,-85,-92,92,96,83,96,179
+The Scottish Weightlifting Open 2023,2023-05-28,Women's Senior 87Kg,Sydney Maxwell,85.5,74,77,-80,95,-101,-104,77,95,172
+The Scottish Weightlifting Open 2023,2023-05-27,Women's Senior 71Kg,Lesley Brown,70.3,70,72,-74,-93,-95,96,72,96,168
+The Scottish Weightlifting Open 2023,2023-05-27,Women's Senior 81Kg,Eleanor Mawson,77.7,68,-72,-73,89,-92,-96,68,89,157
+The Scottish Weightlifting Open 2023,2023-05-27,Women's Senior 49Kg,Stella Kingsley ,49,60,63,66,80,85,90,66,90,156
+The Scottish Weightlifting Open 2023,2023-05-28,Women's Masters (40-44) 81Kg,Janine Slaven,78.3,59,62,64,79,83,86,64,86,150
+The Scottish Weightlifting Open 2023,2023-05-28,Women's Senior 59Kg,Katarzyna Moszyk,58.3,68,-71,-71,81,-87,-87,68,81,149
+The Scottish Weightlifting Open 2023,2023-05-27,Women's Masters (35-39) 64Kg,Julie Wilson,63.6,64,66,68,77,80,-82,68,80,148
+The Scottish Weightlifting Open 2023,2023-05-28,Women's Senior 76Kg,Justine  Abola,75.95,-60,60,65,76,80,-86,65,80,145
+The Scottish Weightlifting Open 2023,2023-05-27,Women's Masters (35-39) 55Kg,Shona Oldham,54.65,57,60,63,70,73,75,63,75,138
+The Scottish Weightlifting Open 2023,2023-05-27,Women's Under 23 64Kg,Niamh Summers,63.25,55,57,60,-75,75,78,60,78,138
+The Scottish Weightlifting Open 2023,2023-05-27,Women's Senior 64Kg,Eilidh MacInnes-Devine ,63.6,55,-58,60,-74,75,78,60,78,138
+The Scottish Weightlifting Open 2023,2023-05-27,Women's Senior 64Kg,Beata Korba,63.1,-62,62,-66,75,-79,-79,62,75,137
+The Scottish Weightlifting Open 2023,2023-05-27,Women's Masters (45-49) 76Kg,Lisa Gaffney,75.9,-53,53,56,74,77,-80,56,77,133
+The Scottish Weightlifting Open 2023,2023-05-28,Women's Junior Under 20 81Kg,Hannah Spence,76.25,-58,58,-62,72,-74,-74,58,72,130
+The Scottish Weightlifting Open 2023,2023-05-27,Women's Senior 59Kg,Martyna Hildebrandt,57.95,54,56,-58,68,70,72,56,72,128
+The Scottish Weightlifting Open 2023,2023-05-27,Women's Senior 64Kg,Ami Sheridan,61.95,-51,51,-54,68,71,73,51,73,124
+The Scottish Weightlifting Open 2023,2023-05-27,Women's Youth Under 17 49Kg,Jorja McNaughton,48.85,52,55,-58,64,67,-69,55,67,122
+The Scottish Weightlifting Open 2023,2023-05-27,Women's Senior 59Kg,Sarah Eunson,57.15,-50,50,-53,65,68,71,50,71,121
+The Scottish Weightlifting Open 2023,2023-05-27,Women's Senior 71Kg,Stephanie Boyd,70.3,50,-53,-53,-67,67,70,50,70,120
+The Scottish Weightlifting Open 2023,2023-05-27,Women's Senior 71Kg,Hilary Galvin,70.85,51,55,-58,60,-63,63,55,63,118
+The Scottish Weightlifting Open 2023,2023-05-28,Women's Senior 76Kg,Beth Finnie,74.15,-48,48,51,-63,63,67,51,67,118
+The Scottish Weightlifting Open 2023,2023-05-27,Women's Senior 71Kg,Erin Allan,67.8,41,43,45,-61,61,62,45,62,107
+The Scottish Weightlifting Open 2023,2023-05-28,Women's Senior 76Kg,Amber DuCane,74.35,-47,47,49,56,58,-60,49,58,107
+The Scottish Weightlifting Open 2023,2023-05-27,Women's Senior 55Kg,Hayley Johnston,53.35,-40,40,-43,54,56,-57,40,56,96
+The Scottish Weightlifting Open 2023,2023-05-27,Women's Senior 55Kg,Klaudia Zbikowska,52.5,-36,-36,36,53,-56,56,36,56,92
+The Scottish Weightlifting Open 2023,2023-05-27,Men's Youth Under 17 81Kg,Corey Duncan,74.3,-96,-101,-101,0,0,0,0,0,0
+The Scottish Weightlifting Open 2023,2023-05-27,Women's Senior 71Kg,Anna Watkin,70.75,68,-72,73,-90,-90,-90,73,0,0
+The Scottish Weightlifting Open 2023,2023-05-27,Women's Senior 71Kg,Emma Bruce,70.85,-70,-71,-71,0,0,0,0,0,0
+The Scottish Weightlifting Open 2023,2023-05-28,Men's Senior 102Kg,Jason Hagart,99.6,115,120,-125,-145,-145,-150,120,0,0
