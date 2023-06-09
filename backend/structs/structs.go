@@ -35,8 +35,9 @@ type ChartSubData struct {
 }
 
 type LifterHistory struct {
-	NameStr string  `json:"name"`
-	Lifts   []Entry `json:"lifts"`
+	NameStr string    `json:"name"`
+	Lifts   []Entry   `json:"lifts"`
+	Graph   ChartData `json:"graph"`
 }
 
 type LeaderboardData struct {

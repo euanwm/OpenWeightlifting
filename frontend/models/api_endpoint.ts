@@ -39,6 +39,7 @@ export interface ChartSubData {
 export interface LifterHistory {
   name: string;
   lifts: LifterResult[];
+  graph: LifterChartData;
 }
 
 export interface LeaderboardPayload {
@@ -52,4 +53,8 @@ export interface LeaderboardPayload {
 
 export interface LifterNamePayload {
   name: string;
+}
+
+export interface LifterSearchList {
+  names: string[];
 }
