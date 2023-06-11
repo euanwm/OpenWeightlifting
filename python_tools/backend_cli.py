@@ -4,7 +4,7 @@ from sys import argv
 from datetime import datetime
 
 from database_handler import DBHandler
-from database_handler import AustraliaWeightlifting, InternationalWF
+from database_handler import AustraliaWeightlifting, InternationalWF, Norway
 
 
 class CLICommands:
@@ -39,10 +39,7 @@ class CLICommands:
 
 
 if __name__ == '__main__':
-    commands = CLICommands()
-    match argv[1]:
-        case "--update":
-            print(f"updating database: {argv[2]}")
-            commands.update(argv[2])
-        case _:
-            print("not a command")
+    norway = Norway()
+    #all_events = norway.get_event_list()
+    norway.fetch_event(290)
+    #norway.parse_cat_code("Sm")
