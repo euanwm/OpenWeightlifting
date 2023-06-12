@@ -1,10 +1,11 @@
 """Fill this up with all the tools to generate/update databases and queries"""
+import logging
 import sys
 from sys import argv
 from datetime import datetime
 
 from database_handler import DBHandler
-from database_handler import AustraliaWeightlifting, InternationalWF
+from database_handler import AustraliaWeightlifting, InternationalWF, Norway
 
 
 class CLICommands:
@@ -12,6 +13,10 @@ class CLICommands:
     def update(self, db_name):
         """updates all databases"""
         match db_name:
+            case "nvf":
+                logging.info("Updating NVF Database")
+                norway = Norway()
+                norway.update_results()
             case "iwf":
                 iwf_db = InternationalWF("../backend/event_data/IWF")
                 iwf_db.update_results()
