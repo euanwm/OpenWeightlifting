@@ -44,7 +44,8 @@ class Norway:
             try:
                 cat_code = self.parse_cat_code(x['kategori']['forkortelse'], x['vektklasse']['navn'])
                 datac = self.__assign_dataclass(x, cat_code, comp_name)
-                print(datac)
+                datac_to_list = [x for x in datac.__dict__.values()]
+                print(datac_to_list)
             except ValueError as e:
                 print(e)
 
@@ -93,9 +94,3 @@ class Norway:
     @staticmethod
     def __todays_date():
         return datetime.datetime.now().strftime("%Y-%m-%d")
-
-if __name__ == '__main__':
-    norway = Norway()
-    #norway.get_event_list()
-    #norway.fetch_event(211)
-    print(norway.parse_cat_code("Sm"))
