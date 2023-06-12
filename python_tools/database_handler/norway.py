@@ -1,11 +1,14 @@
 """ API Tool for the Norwegian Weightlifting Federation """
 import datetime
+import logging
+from typing import Any
+
 from requests import get
 from urllib.parse import urljoin
 from re import search
 
 from .result_dataclasses import Result
-from .static_helpers import load_json
+from .static_helpers import load_json, write_to_csv
 
 import os
 
@@ -24,9 +27,9 @@ class Norway:
         self.results_root: str = "../backend/event_data/NVF"
         self.catlist = load_json(f"{os.getcwd()}/database_handler/gender_categories.json")
 
-
     def get_event_list(self) -> list[int]:
         """Returns a list of event IDs"""
+        logging.info("Fetching event list")
         event_list: list[int] = []
         query = f"?fra-dato=2023-01-01&til-dato={self.__todays_date()}"
         # omg buh eror handlin
@@ -36,19 +39,21 @@ class Norway:
             event_list.append(event["id"])
         return event_list
 
-    def fetch_event(self, event_id) -> list[Result]:
+    def fetch_event(self, event_id) -> list[Any, Result]:
+        logging.info(f"Fetching event {event_id}")
         res = get(urljoin(self.base_url, str(event_id))).json()
         results = res['puljer'][0]['resultater']
         comp_name = f"{res['klubbName']} {res['stevnetype']}"
+        event_results = [list(Result.__annotations__.keys())]
         for x in results:
             try:
                 cat_code = self.parse_cat_code(x['kategori']['forkortelse'], x['vektklasse']['navn'])
                 datac = self.__assign_dataclass(x, cat_code, comp_name)
                 datac_to_list = [x for x in datac.__dict__.values()]
-                print(datac_to_list)
+                event_results.append(datac_to_list)
             except ValueError as e:
                 print(e)
-
+        return event_results
 
     def parse_cat_code(self, cat_code: str, weight: str) -> str|ValueError:
         """Returns the full category name"""
@@ -94,3 +99,12 @@ class Norway:
     @staticmethod
     def __todays_date():
         return datetime.datetime.now().strftime("%Y-%m-%d")
+
+    def update_results(self):
+        logging.info("Updating results")
+        event_list = self.get_event_list()
+        result_db_ids = [int(x.split(".")[0]) for x in os.listdir(self.results_root)]
+        for event_id in event_list:
+            if event_id not in result_db_ids:
+                event_results = self.fetch_event(event_id)
+                write_to_csv(self.results_root, event_id, event_results)
