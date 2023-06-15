@@ -15,6 +15,7 @@ const federationList = [
   { value: 'UK', label: 'UK' },
   { value: 'US', label: 'US' },
   { value: 'AUS', label: 'AUS' },
+  { value: 'NVF', label: 'Norway' },
   { value: 'IWF', label: 'IWF' },
   { value: 'OPEN', label: 'OPEN'}
 ]
