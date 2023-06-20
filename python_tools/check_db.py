@@ -13,13 +13,19 @@ def check_db() -> None:
     """ To be used as part of a GitHub action to check the database files are up-to-date """
     print("Checking database files...")
     fed_dir = [fed for fed in listdir(event_data_path) if "." not in fed]
+    pass_test = True
     for fed in fed_dir:
         print(f"Checking {join(getcwd(), fed)} database")
         filepath = join(getcwd(), event_data_path, fed)
-        check_files(filepath)
+        if not check_files(filepath):
+            pass_test = False
+    if not pass_test:
+        print("TEST FAILED")
+        exit(1)  # Apparently needed for GitHub Actions
 
 
-def check_files(folder_path: str) -> None:
+def check_files(folder_path: str) -> bool:
+    fail_test = False
     for file in listdir(folder_path):
         csv_filepath = join(folder_path, file)
         file_data = load_result_csv_as_list(csv_filepath)
@@ -33,7 +39,9 @@ def check_files(folder_path: str) -> None:
                     if entry.total > 500:
                         print(f"Total format incorrect for {entry}\nFile: {csv_filepath}")
             except ValueError:
+                fail_test = True
                 print(f"Error in file: {csv_filepath}")
+    return fail_test
 
 
 def assign_dataclass(data: list) -> Result:
