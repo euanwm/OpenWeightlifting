@@ -35,6 +35,7 @@ def check_files(folder_path: str) -> None:
             except ValueError:
                 print(f"Error in file: {csv_filepath}")
 
+
 def assign_dataclass(data: list) -> Result:
     """ Assigns the data to the Result dataclass """
     try:
@@ -58,6 +59,7 @@ def assign_dataclass(data: list) -> Result:
     except ValueError as e:
         print(f"Issue with {data}\nException raised: {e}")
         raise ValueError
+
 
 if __name__ == '__main__':
     logging.basicConfig(level=logging.INFO)
