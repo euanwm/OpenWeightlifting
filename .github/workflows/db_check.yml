@@ -25,7 +25,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          cd python_tools && pipenv install
+          cd python_tools && pip install -r
       - name: Checking database results...
         run: |
           cd python_tools && pipenv run python3 check_db.py
