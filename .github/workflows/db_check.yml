@@ -24,6 +24,7 @@ jobs:
           command: install -d
       - name: Install dependencies
         run: |
+          python -m pip install --upgrade pip
           cd python_tools && pipenv install
       - name: Checking database results...
         run: |
