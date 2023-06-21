@@ -18,9 +18,13 @@ jobs:
         uses: actions/setup-python@v3
         with:
           python-version:  ${{ matrix.python-version }}
+      - name: Pipenv for Github Actions
+        uses: VaultVulp/action-pipenv@v2.0.1
+        with:
+          command: install -d
       - name: Install dependencies
         run: |
-          cd python_tools && pip install
+          cd python_tools && pipenv install
       - name: Checking database results...
         run: |
           cd python_tools && pipenv run python3 check_db.py
