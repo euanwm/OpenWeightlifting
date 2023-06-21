@@ -19,13 +19,16 @@ jobs:
         with:
           python-version:  ${{ matrix.python-version }}
       - name: Install Python, pipenv and Pipfile packages
+        working-directory: ./python_tools
         uses: palewire/install-python-pipenv-pipfile@v3
         with:
           python-version: ${{ matrix.python-version }}
       - name: Install dependencies
+        working-directory: ./python_tools
         run: |
           python -m pip install --upgrade pip
-          cd python_tools && pip install -r
+          pipenv install
       - name: Checking database results...
+        working-directory: ./python_tools
         run: |
-          cd python_tools && pipenv run python3 check_db.py
+          pipenv run python3 check_db.py
