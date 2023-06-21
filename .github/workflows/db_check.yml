@@ -20,7 +20,7 @@ jobs:
           python-version:  ${{ matrix.python-version }}
       - name: Install dependencies
         run: |
-          cd python_tools && pipenv install
+          cd python_tools && pip install
       - name: Checking database results...
         run: |
           cd python_tools && pipenv run python3 check_db.py
