@@ -7,7 +7,7 @@ export default async function fetchLifterData(
   federation = 'allfeds',
   weightclass = 'MALL',
   year = 69,
-): Promise<LifterResult> {
+): Promise<LifterResult[]> {
   const bodyContent = JSON.stringify({
     start,
     stop,

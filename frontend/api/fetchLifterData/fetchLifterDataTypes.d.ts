@@ -16,4 +16,4 @@ export type LifterResult = {
     sinclair: number;
     country: string;
     instagram: string;
-  }[] | [];
+  };

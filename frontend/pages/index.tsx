@@ -25,12 +25,12 @@ const lightTheme = createTheme({
   },
 })
 
-function Home({ data }: { data: LifterResult }) {
+function Home({ data }: { data: LifterResult[] }) {
   const [sortBy, setSortBy] = useState('total')
   const [federation, setFederation] = useState('allfeds')
   const [weightclass, setWeightclass] = useState('MALL')
   const [year, setYear] = useState(69)
-  const [currentLifterList, setCurrentLifterList] = useState<LifterResult>(data)
+  const [currentLifterList, setCurrentLifterList] = useState<LifterResult[]>(data)
   const [currentLifterName, setCurrentLifterName] = useState('')
   const [showLifterGraph, setShowLifterGraph] = useState(false)
   const [currentLifterGraph, setCurrentLifterGraph] = useState<LifterChartData>()
