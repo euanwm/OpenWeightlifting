@@ -1,3 +1,4 @@
+import { LifterChartData } from 'api/fetchLifterGraphData/fetchLifterGraphDataTypes';
 import {
   Chart as ChartJS,
   CategoryScale,
@@ -11,8 +12,6 @@ import {
 } from 'chart.js'
 import { Line } from 'react-chartjs-2'
 
-import { LifterChartData } from '../../models/api_endpoint'
-
 ChartJS.register(
   CategoryScale,
   LinearScale,
@@ -24,6 +23,10 @@ ChartJS.register(
 )
 
 export const LifterGraph = ({ lifterHistory }: { lifterHistory: LifterChartData }) => {
+  if (!lifterHistory) {
+    return null;
+  }
+
   console.log(lifterHistory)
   // todo: define each dataset as a type/interface instead of manually indexing into the array
   const processedData = {

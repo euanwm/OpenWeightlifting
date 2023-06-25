@@ -3,10 +3,10 @@ import { FaInstagram } from "react-icons/fa"
 import { VscGraphLine } from 'react-icons/vsc'
 import { CgProfile } from 'react-icons/cg'
 
-import { LifterResult } from "../../models/api_endpoint";
 import { AllDetails } from "../all-details/index.component"
 
 import styles from './data-table.module.css'
+import { LifterResult } from "api/fetchLifterData/fetchLifterDataTypes"
 
 const tableStyle = {
   tableLayout: 'fixed',

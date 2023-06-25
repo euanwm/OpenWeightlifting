@@ -7,54 +7,11 @@ import { DataTable } from '../components/data-table/index.component'
 import { Filters } from '../components/filters/index.component'
 import { LifterGraph } from '../components/lifter-graph/index.component'
 
-import { LifterChartData, LifterResult } from "../models/api_endpoint";
+import fetchLifterData from 'api/fetchLifterData/fetchLifterData'
+import fetchLifterGraphData from 'api/fetchLifterGraphData/fetchLifterGraphData'
 
-const fetchLifterData = async (
-  // todo: implement enums for these
-  start = 0,
-  stop = 500,
-  sortby = 'total',
-  federation = 'allfeds',
-  weightclass = 'MALL',
-  year = 69
-) => {
-  const bodyContent = JSON.stringify({
-    start,
-    stop,
-    sortby,
-    federation,
-    weightclass,
-    year,
-  })
-
-  const res = await fetch(`${process.env.API}/leaderboard`, {
-    method: 'POST',
-    headers: {
-      Accept: '*/*',
-      'Content-Type': 'application/json',
-    },
-    body: bodyContent,
-  }).then((res) => res.json()).catch(error => console.error('error in fetchLifterData', error))
-
-  return await res as LifterResult[]
-}
-
-const fetchLifterGraphData = async (lifterName: LifterResult['lifter_name']) => {
-  const bodyContent = JSON.stringify({
-    "NameStr": lifterName
-  })
-
-  const res = await fetch(`${process.env.API}/lifter`, {
-    method: 'POST',
-    headers: {
-      Accept: '*/*',
-      'Content-Type': 'application/json',
-    },
-    body: bodyContent,
-  }).then((res) => res.json()).catch(error => console.error('error in fetchLifterGraphData', error))
-
-  return await res as LifterChartData
-}
+import { LifterResult } from 'api/fetchLifterData/fetchLifterDataTypes';
+import { LifterChartData } from 'api/fetchLifterGraphData/fetchLifterGraphDataTypes';
 
 const darkTheme = createTheme({
   palette: {
@@ -68,15 +25,15 @@ const lightTheme = createTheme({
   },
 })
 
-const Home = ({ data }: { data: LifterResult[] }) => {
+function Home({ data }: { data: LifterResult[] }) {
   const [sortBy, setSortBy] = useState('total')
   const [federation, setFederation] = useState('allfeds')
   const [weightclass, setWeightclass] = useState('MALL')
   const [year, setYear] = useState(69)
-  const [currentLifterList, setCurrentLifterList] = useState(data)
+  const [currentLifterList, setCurrentLifterList] = useState<LifterResult[]>(data)
   const [currentLifterName, setCurrentLifterName] = useState('')
   const [showLifterGraph, setShowLifterGraph] = useState(false)
-  const [currentLifterGraph, setCurrentLifterGraph] = useState({} as LifterChartData)
+  const [currentLifterGraph, setCurrentLifterGraph] = useState<LifterChartData>()
   const [isGraphLoading, setIsGraphLoading] = useState(true)
   const { isDark } = useTheme()
 
@@ -87,7 +44,7 @@ const Home = ({ data }: { data: LifterResult[] }) => {
       )
     }
 
-    callFetchLifterData().then()
+    callFetchLifterData();
   }, [sortBy, federation, weightclass, year])
 
   // todo: define newFilter type/interface
@@ -132,6 +89,7 @@ const Home = ({ data }: { data: LifterResult[] }) => {
           year={year}
         />
         {currentLifterList && <DataTable lifters={currentLifterList} openLifterGraphHandler={openLifterGraphHandler} />}
+
       </ThemeProvider>
       <Modal closeButton blur open={showLifterGraph} onClose={closeLifterGraphHandler} width='1000'>
         <h3>{currentLifterName}: History (Total)</h3>
@@ -146,13 +104,7 @@ const Home = ({ data }: { data: LifterResult[] }) => {
 }
 
 export async function getServerSideProps() {
-  let data: LifterResult[]
-  try {
-    data = await fetchLifterData()
-  } catch {
-    data = []
-  }
-
+  const data = await fetchLifterData()
   return { props: { data } }
 }
 

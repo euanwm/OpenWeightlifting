@@ -1,6 +1,5 @@
 import { Table } from '@nextui-org/react'
-
-import { LifterHistory } from '../../models/api_endpoint'
+import { LifterHistory } from 'api/fetchLifterHistory/fetchLifterHistoryTypes'
 
 export const HistoryTable = ({ history }: { history: LifterHistory['lifts'] }) => {
   return (

@@ -1,7 +1,7 @@
 // todo: make this actually work
-import { useState } from "react";
-import { Combobox } from "@headlessui/react";
-import { LifterSearchList } from "../../models/api_endpoint";
+import { useState } from 'react'
+import { Combobox } from '@headlessui/react'
+import fetchLifterNames from 'api/fetchLifterNames/fetchLifterNames'
 
 // Decided to use this combobox because the nextui doesn't have one
 // https://headlessui.com/react/combobox
@@ -11,29 +11,17 @@ import { LifterSearchList } from "../../models/api_endpoint";
 // The lifter page will be generated based upon the query string.
 // This component will live in the layout component somewhere.
 
-const fetchLifterNames = async (nameQuery: string) => {
-  if (nameQuery.length < 3) {
-    return ({
-      names: []
-    } as any) as LifterSearchList
-  }
-  const res = await fetch(`https://api.openweightlifting.org/search?name=${nameQuery}`
-  ).then((res) => res.json()).catch(error => console.error('error in searching names', error))
-
-  return await res as LifterSearchList
-}
-
-export const SearchBox = async () => {
+async function SearchBox() {
   const [selectedPerson, setSelectedPerson] = useState('')
   const [query, setQuery] = useState('')
 
-  const lifterNames = await fetchLifterNames(query).then((res) => res?.names).catch(error => console.error('error in fetchLifterNames', error))
+  const { names: lifterNames } = await fetchLifterNames(query)
 
   return (
     <Combobox value={selectedPerson} onChange={setSelectedPerson}>
-      <Combobox.Input onChange={(event) => setQuery(event.target.value)} />
+      <Combobox.Input onChange={event => setQuery(event.target.value)} />
       <Combobox.Options>
-        {lifterNames?.map((name) => (
+        {lifterNames?.map(name => (
           <Combobox.Option key={name} value={name}>
             {name}
           </Combobox.Option>
@@ -42,3 +30,5 @@ export const SearchBox = async () => {
     </Combobox>
   )
 }
+
+export default SearchBox;
