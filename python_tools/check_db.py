@@ -22,7 +22,7 @@ def check_db() -> None:
     if not pass_test:
         print("TEST FAILED")
         exit(1)  # Apparently needed for GitHub Actions
-    else:
+    elif pass_test:
         print("TEST PASSED")
         exit(0)
 
@@ -38,9 +38,11 @@ def check_files(folder_path: str) -> bool:
                     # check that entry date is YYYY-MM-DD
                     if not re.match(r"\d{4}-\d{2}-\d{2}", entry.date):
                         print(f"Date format incorrect for {entry}\nFile: {csv_filepath}")
+                        pass_test = False
                     # check that the entry total is less than 500
                     if entry.total > 500:
                         print(f"Total format incorrect for {entry}\nFile: {csv_filepath}")
+                        pass_test = False
             except ValueError:
                 pass_test = False
                 print(f"Error in file: {csv_filepath}")
