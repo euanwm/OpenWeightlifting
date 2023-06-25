@@ -4,7 +4,7 @@ import { Container, Row } from '@nextui-org/react'
 
 import { LifterGraph } from '../components/lifter-graph/index.component'
 import { HistoryTable } from '../components/history-table/index.components'
-import fetchLifterHistory from 'api/fetchLifterHistory/fetchListerHistory'
+import fetchLifterHistory from 'api/fetchLifterHistory/fetchLifterHistory'
 import { LifterHistory } from 'api/fetchLifterHistory/fetchLifterHistoryTypes'
 
 function Lifter() {

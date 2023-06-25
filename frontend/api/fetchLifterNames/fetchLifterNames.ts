@@ -6,7 +6,7 @@ export default async function fetchLifterNames(nameQuery: string): Promise<Lifte
   }
 
   try {
-    const response = await fetch(`https://api.openweightlifting.org/search?name=${nameQuery}`);
+    const response = await fetch(`${process.env.API}/search?name=${nameQuery}`);
     const jsonResponse = response.json();
 
     return jsonResponse;
