@@ -1,0 +1,31 @@
+name: Check Event Database
+
+on:
+  push:
+    branches: '**'
+  pull_request:
+    branches: '**'
+
+# GitHub Action which runs the check_db.py script within the python_tools directory
+jobs:
+  checkdb:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.11"]
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v2
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: Install dependencies from pipfile
+      run: |
+        cd python_tools
+        python -m pip install --upgrade pip
+        pip install pipenv
+        pipenv install --dev
+    - name: Run check_db.py
+      run: |
+        cd python_tools
+        pipenv run python check_db.py

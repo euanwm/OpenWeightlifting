@@ -1,7 +1,7 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-Spydeberg Atletene Seriestevne,2023-01-08,Women's Senior 71Kg,Hanna Jørstad,71.0,64,-67,-67,80,-85,,64,80,144
-Spydeberg Atletene Seriestevne,2023-01-08,Women's Senior 71Kg,Ina-Kristin Aasvang,71.0,63,65,-67,84,-86,,65,84,149
-Spydeberg Atletene Seriestevne,2023-01-08,Women's Senior 87+Kg,Maren Matsson,999.0,70,72,74,90,-93,,74,90,164
+Spydeberg Atletene Seriestevne,2023-01-08,Women's Senior 71Kg,Hanna Jørstad,71.0,64,-67,-67,80,-85,0,64,80,144
+Spydeberg Atletene Seriestevne,2023-01-08,Women's Senior 71Kg,Ina-Kristin Aasvang,71.0,63,65,-67,84,-86,0,65,84,149
+Spydeberg Atletene Seriestevne,2023-01-08,Women's Senior 87+Kg,Maren Matsson,999.0,70,72,74,90,-93,0,74,90,164
 Spydeberg Atletene Seriestevne,2023-01-08,Women's Youth Under 17 81Kg,Mille Dekke,81.0,35,37,39,45,-50,-50,39,45,84
 Spydeberg Atletene Seriestevne,2023-01-08,Women's Senior 64Kg,Sara Broe Østvold,64.0,63,66,68,78,-81,82,68,82,150
 Spydeberg Atletene Seriestevne,2023-01-08,Men's Senior 73Kg,Simen Nerkvern,73.0,-65,65,-70,90,-95,97,65,97,162

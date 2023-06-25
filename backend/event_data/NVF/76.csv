@@ -1,7 +1,7 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
 Spydeberg Atletene Seriestevne,2023-01-29,Men's Masters (55-59) 102kg,Alexander Bahmanyar,102.0,85,88,91,120,125,128,91,128,219
-Spydeberg Atletene Seriestevne,2023-01-29,Men's Masters (65-69) 81kg,Egon Vee-Haugen,81.0,65,70,-73,80,83,,70,83,153
+Spydeberg Atletene Seriestevne,2023-01-29,Men's Masters (65-69) 81kg,Egon Vee-Haugen,81.0,65,70,-73,80,83,0,70,83,153
 Spydeberg Atletene Seriestevne,2023-01-29,Men's Junior Under 20 96Kg,Eirik Nilsen,96.0,55,60,-65,65,70,75,60,75,135
 Spydeberg Atletene Seriestevne,2023-01-29,Men's Senior 102Kg,Hans-Robert Krefting,102.0,80,90,-96,110,120,130,90,130,220
-Spydeberg Atletene Seriestevne,2023-01-29,Men's Masters (70-74) 102kg,Johan Thonerud,102.0,66,,,-100,,,66,,
+Spydeberg Atletene Seriestevne,2023-01-29,Men's Masters (70-74) 102kg,Johan Thonerud,102.0,66,0,0,-100,0,0,66,0,66
 Spydeberg Atletene Seriestevne,2023-01-29,Men's Senior 96Kg,Reza Benorouz,96.0,110,115,120,135,145,-150,120,145,265

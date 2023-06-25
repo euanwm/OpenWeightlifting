@@ -1,7 +1,7 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
 Spydeberg Atletene Seriestevne,2023-04-02,Women's Masters (35-39) 71Kg,Anette Tømmerholen,71.0,45,48,51,61,66,70,51,70,121
-Spydeberg Atletene Seriestevne,2023-04-02,Men's Junior Under 20 89Kg,Christian Karrestad,89.0,95,100,-105,115,121,,100,121,221
-Spydeberg Atletene Seriestevne,2023-04-02,Men's Masters (65-69) 81kg,Egon Vee-Haugen,81.0,68,-71,,75,80,,68,80,148
-Spydeberg Atletene Seriestevne,2023-04-02,Men's Masters (70-74) 96kg,Johan Thonerud,96.0,63,,,75,,,63,75,138
+Spydeberg Atletene Seriestevne,2023-04-02,Men's Junior Under 20 89Kg,Christian Karrestad,89.0,95,100,-105,115,121,0,100,121,221
+Spydeberg Atletene Seriestevne,2023-04-02,Men's Masters (65-69) 81kg,Egon Vee-Haugen,81.0,68,-71,0,75,80,0,68,80,148
+Spydeberg Atletene Seriestevne,2023-04-02,Men's Masters (70-74) 96kg,Johan Thonerud,96.0,63,0,0,75,0,0,63,75,138
 Spydeberg Atletene Seriestevne,2023-04-02,Women's Youth Under 17 55Kg,Julie Dingstad,55.0,40,42,44,48,50,52,44,52,96
 Spydeberg Atletene Seriestevne,2023-04-02,Women's Youth Under 15 81+Kg,Maria Lie,999.0,44,46,48,54,57,60,48,60,108

@@ -17,3 +17,6 @@ stage_csv:
 	@git add backend/event_data/\*.csv
 	@git status --p --short | grep backend/event_data
 	@git commit -m "Database Update"
+
+check_db:
+	@cd python_tools && pipenv run python3 check_db.py
