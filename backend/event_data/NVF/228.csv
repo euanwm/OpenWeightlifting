@@ -1,5 +1,5 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
 Spydeberg Atletene Seriestevne,2023-04-29,Women's Masters (35-39) 55Kg,Kine Krøs,55.0,54,57,60,72,-75,-75,60,72,132
 Spydeberg Atletene Seriestevne,2023-04-29,Men's Senior 89Kg,Kristian Eikvar,89.0,90,-95,95,125,130,-135,95,130,225
-Spydeberg Atletene Seriestevne,2023-04-29,Women's Youth Under 17 76Kg,Mille Dekke,76.0,35,39,-42,50,-54,,39,50,89
-Spydeberg Atletene Seriestevne,2023-04-29,Men's Masters (70-74) 96kg,Johan Thonerud,96.0,65,,,-77,77,,65,77,142
+Spydeberg Atletene Seriestevne,2023-04-29,Women's Youth Under 17 76Kg,Mille Dekke,76.0,35,39,-42,50,-54,0,39,50,89
+Spydeberg Atletene Seriestevne,2023-04-29,Men's Masters (70-74) 96kg,Johan Thonerud,96.0,65,0,0,-77,77,0,65,77,142

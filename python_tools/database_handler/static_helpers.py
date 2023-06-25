@@ -47,7 +47,8 @@ def load_result_csv_as_list(filepath: str) -> list:
     with open(filepath, "r", encoding='utf-8') as results_file:
         csv_read = csv.reader(results_file)
         for lines in csv_read:
-            results_list.append(lines)
+            if lines[0][0] != "#":
+                results_list.append(lines)
     return results_list[1::]  # Drops the header line
 
 

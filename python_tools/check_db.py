@@ -22,10 +22,13 @@ def check_db() -> None:
     if not pass_test:
         print("TEST FAILED")
         exit(1)  # Apparently needed for GitHub Actions
+    else:
+        print("TEST PASSED")
+        exit(0)
 
 
 def check_files(folder_path: str) -> bool:
-    fail_test = False
+    pass_test = True
     for file in listdir(folder_path):
         csv_filepath = join(folder_path, file)
         file_data = load_result_csv_as_list(csv_filepath)
@@ -39,9 +42,9 @@ def check_files(folder_path: str) -> bool:
                     if entry.total > 500:
                         print(f"Total format incorrect for {entry}\nFile: {csv_filepath}")
             except ValueError:
-                fail_test = True
+                pass_test = False
                 print(f"Error in file: {csv_filepath}")
-    return fail_test
+    return pass_test
 
 
 def assign_dataclass(data: list) -> Result:

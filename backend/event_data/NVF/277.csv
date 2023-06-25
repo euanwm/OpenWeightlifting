@@ -1,10 +1,10 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
 Spydeberg Atletene Seriestevne,2023-06-04,Men's Youth Under 15 61Kg,Aksel Skaug,61.0,20,22,-23,25,28,30,22,30,52
-Spydeberg Atletene Seriestevne,2023-06-04,Men's Masters (55-59) 102kg,Alexander Bahmanyar,102.0,-87,87,91,121,126,,91,126,217
+Spydeberg Atletene Seriestevne,2023-06-04,Men's Masters (55-59) 102kg,Alexander Bahmanyar,102.0,-87,87,91,121,126,0,91,126,217
 Spydeberg Atletene Seriestevne,2023-06-04,Men's Senior 81Kg,Christian Lysenstøen,81.0,-80,80,-85,100,-107,107,80,107,187
 Spydeberg Atletene Seriestevne,2023-06-04,Men's Masters (65-69) 73kg,Egon Vee-Haugen,73.0,65,-68,-68,75,-80,80,65,80,145
-Spydeberg Atletene Seriestevne,2023-06-04,Men's Senior 81Kg,Jonas Grønstad,81.0,95,100,,101,,,100,101,201
-Spydeberg Atletene Seriestevne,2023-06-04,Men's Senior 109+Kg,Jørgen Kjellevand,999.0,130,135,,160,165,,135,165,300
-Spydeberg Atletene Seriestevne,2023-06-04,Men's Senior 73Kg,Krister Thonerud,73.0,70,77,81,90,,,81,90,171
+Spydeberg Atletene Seriestevne,2023-06-04,Men's Senior 81Kg,Jonas Grønstad,81.0,95,100,0,101,0,0,100,101,201
+Spydeberg Atletene Seriestevne,2023-06-04,Men's Senior 109+Kg,Jørgen Kjellevand,999.0,130,135,0,160,165,0,135,165,300
+Spydeberg Atletene Seriestevne,2023-06-04,Men's Senior 73Kg,Krister Thonerud,73.0,70,77,81,90,0,0,81,90,171
 Spydeberg Atletene Seriestevne,2023-06-04,Women's Youth Under 15 81+Kg,Maria Lie,999.0,47,50,53,60,63,-66,53,63,116
 Spydeberg Atletene Seriestevne,2023-06-04,Men's Youth Under 15 49Kg,Viktor Skaug,49.0,15,17,18,22,24,-25,18,24,42

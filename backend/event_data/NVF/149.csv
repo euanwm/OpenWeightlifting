@@ -1,7 +1,7 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
 Hitra VK Seriestevne,2023-03-22,Men's Youth Under 15 61Kg,Daniel Mikalsen Jørstad,61.0,25,-27,-27,-35,35,-37,25,35,60
 Hitra VK Seriestevne,2023-03-22,Men's Masters (45-49) 96Kg,Kenneth Kaald Jørgensen,96.0,52,55,57,72,76,80,57,80,137
-Hitra VK Seriestevne,2023-03-22,Men's Senior 81Kg,Marius Haranes,81.0,-90,-90,-90,110,114,-117,,114,
+Hitra VK Seriestevne,2023-03-22,Men's Senior 81Kg,Marius Haranes,81.0,-90,-90,-90,110,114,-117,0,114,114
 Hitra VK Seriestevne,2023-03-22,Women's Youth Under 17 55Kg,Mathea Kvaale,55.0,24,26,-28,30,34,-36,26,34,60
 Hitra VK Seriestevne,2023-03-22,Men's Senior 109+Kg,Mikal Akseth,999.0,120,-125,-125,140,150,-160,120,150,270
 Hitra VK Seriestevne,2023-03-22,Men's Senior 89Kg,Remy Heggvik Aune,89.0,108,-111,111,140,145,-150,111,145,256

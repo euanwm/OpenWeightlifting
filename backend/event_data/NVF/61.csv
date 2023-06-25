@@ -1,5 +1,5 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
 Spydeberg Atletene Seriestevne,2023-01-07,Men's Junior Under 20 89Kg,Christian Karrestad,89.0,100,103,107,128,-131,-131,107,128,235
-Spydeberg Atletene Seriestevne,2023-01-07,Men's Senior 81Kg,Christian Lysenstøen,81.0,70,75,80,90,100,,80,100,180
-Spydeberg Atletene Seriestevne,2023-01-07,Men's Masters (70-74) 96kg,Johan Thonerud,96.0,-67,67,,78,,,67,78,145
+Spydeberg Atletene Seriestevne,2023-01-07,Men's Senior 81Kg,Christian Lysenstøen,81.0,70,75,80,90,100,0,80,100,180
+Spydeberg Atletene Seriestevne,2023-01-07,Men's Masters (70-74) 96kg,Johan Thonerud,96.0,-67,67,0,78,0,0,67,78,145
 Spydeberg Atletene Seriestevne,2023-01-07,Women's Senior 55Kg,Mari Nesse Bolstad,55.0,53,55,57,69,-72,-72,57,69,126
