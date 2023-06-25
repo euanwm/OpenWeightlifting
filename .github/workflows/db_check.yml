@@ -6,26 +6,26 @@ on:
   pull_request:
     branches: '**'
 
+# GitHub Action which runs the check_db.py script within the python_tools directory
 jobs:
-  build:
+  checkdb:
     runs-on: ubuntu-latest
     strategy:
       matrix:
         python-version: ["3.11"]
     steps:
-      - uses: actions/checkout@v3
-      - name: Setup Python ${{ matrix.python-version }}
-        with:
-          python-version:  ${{ matrix.python-version }}
-      - name: Install Python, pipenv and Pipfile packages
-        uses: palewire/install-python-pipenv-pipfile@v3
-        with:
-          python-version: ${{ matrix.python-version }}
-      - name: Install dependencies
-        working-directory: ./python_tools
-        run: |
-          python -m pip install --upgrade pip
-          pipenv install
-      - name: Checking database results...
-        run: |
-          pipenv run python3 check_db.py
+    - uses: actions/checkout@v2
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v2
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: Install dependencies from pipfile
+      run: |
+        cd python_tools
+        python -m pip install --upgrade pip
+        pip install pipenv
+        pipenv install --dev
+    - name: Run check_db.py
+      run: |
+        cd python_tools
+        pipenv run python check_db.py
