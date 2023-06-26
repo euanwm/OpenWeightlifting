@@ -1,0 +1,4 @@
+# .gitignore file for OpenWeightlifting
+
+/.idea
+/.vscode
