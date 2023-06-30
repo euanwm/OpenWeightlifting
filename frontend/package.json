@@ -15,7 +15,7 @@
     "@mui/material": "^5.10.11",
     "@nextui-org/react": "^1.0.0-beta.10",
     "chart.js": "^4.2.0",
-    "next": "^13.2.4",
+    "next": "^13.4.7",
     "next-themes": "^0.2.0",
     "react": "^18.2.0",
     "react-chartjs-2": "^5.2.0",
@@ -28,7 +28,7 @@
   "devDependencies": {
     "@types/node": "18.15.11",
     "eslint": "8.23.0",
-    "eslint-config-next": "^13.2.4",
+    "eslint-config-next": "^13.4.7",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.2.1",
     "prettier": "^2.7.1"
