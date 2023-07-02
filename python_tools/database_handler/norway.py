@@ -21,6 +21,7 @@ CatCodes = {
     "M": "Men's",
 }
 
+
 class Norway:
     def __init__(self):
         self.base_url: str = "https://nvf-backend.herokuapp.com/api/public/stevner/"
@@ -55,7 +56,7 @@ class Norway:
                 print(e)
         return event_results
 
-    def parse_cat_code(self, cat_code: str, weight: str) -> str|ValueError:
+    def parse_cat_code(self, cat_code: str, weight: str) -> str | ValueError:
         """Returns the full category name"""
         if "+" in weight:
             weight = f"{weight[1:]}+"
@@ -76,10 +77,9 @@ class Norway:
         print(f"Category not found: {cat_params} / {cat_code}")
         return ValueError(f"Category not found: {cat_params} / {cat_code}")
 
-    @staticmethod
-    def __assign_dataclass(result: dict, category: str, comp_name: str) -> Result:
+    def __assign_dataclass(self, result: dict, category: str, comp_name: str) -> Result:
         """Assigns the dataclass"""
-        return Result(
+        datac = Result(
             event=comp_name,
             date=result['dato'],
             category=category,
@@ -95,6 +95,34 @@ class Norway:
             best_cj=result['besteStot'],
             total=result['total'],
         )
+
+        for key, value in datac.__dict__.items():
+            if value is None:
+                if key in ['snatch_1', 'snatch_2', 'snatch_3', 'cj_1', 'cj_2', 'cj_3']:
+                    datac.__setattr__(key, 0)
+                if key == 'best_snatch':
+                    datac.__setattr__(key, self.__best_snatch(datac))
+                if key == 'best_cj':
+                    datac.__setattr__(key, self.__best_cj(datac))
+                if key == 'total':
+                    datac.__setattr__(key, self.__calc_total(datac))
+
+        return datac
+
+    @staticmethod
+    def __best_snatch(result: Result) -> float:
+        """ Returns the best snatch """
+        return max(result.snatch_1, result.snatch_2, result.snatch_3)
+
+    @staticmethod
+    def __best_cj(result: Result) -> float:
+        """ Returns the best cj """
+        return max(result.cj_1, result.cj_2, result.cj_3)
+
+    @staticmethod
+    def __calc_total(result: Result) -> float:
+        """ Returns the total """
+        return result.best_snatch + result.best_cj
 
     @staticmethod
     def __todays_date():
