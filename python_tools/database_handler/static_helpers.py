@@ -10,8 +10,8 @@ from .result_dataclasses import Result
 def results_to_dict(big_list: list) -> list[dict]:
     """flat list of results into a dict format"""
     dict_list = []
-    for x in big_list:
-        entry = Result(*x)
+    for item in big_list:
+        entry = Result(*item)
         dict_list.append(entry.__dict__)
     return dict_list
 

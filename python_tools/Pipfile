@@ -14,6 +14,7 @@ fastapi = "*"
 
 [dev-packages]
 black = "*"
+pylint = "*"
 
 [requires]
 

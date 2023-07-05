@@ -1,16 +1,15 @@
 """ API Tool for the Norwegian Weightlifting Federation """
 import datetime
 import logging
-from typing import Any
+import os
 
-from requests import get
+from typing import Any
 from urllib.parse import urljoin
 from re import search
+from requests import get
 
 from .result_dataclasses import Result
 from .static_helpers import load_json, write_to_csv
-
-import os
 
 CatCodes = {
     "J": "Junior",
@@ -23,10 +22,12 @@ CatCodes = {
 
 
 class Norway:
+    """ API Tool for the Norwegian Weightlifting Federation """
     def __init__(self):
         self.base_url: str = "https://nvf-backend.herokuapp.com/api/public/stevner/"
         self.results_root: str = "../backend/event_data/NVF"
-        self.catlist = load_json(f"{os.getcwd()}/database_handler/gender_categories.json")
+        self.catlist = load_json(
+            f"{os.getcwd()}/database_handler/gender_categories.json")
 
     def get_event_list(self) -> list[int]:
         """Returns a list of event IDs"""
@@ -34,26 +35,28 @@ class Norway:
         event_list: list[int] = []
         query = f"?fra-dato=2023-01-01&til-dato={self.__todays_date()}"
         # omg buh eror handlin
-        res = get(urljoin(self.base_url, query)).json()
+        res = get(urljoin(self.base_url, query), timeout=120).json()
         # cope
         for event in res:
             event_list.append(event["id"])
         return event_list
 
     def fetch_event(self, event_id) -> list[Any, Result]:
-        logging.info(f"Fetching event {event_id}")
-        res = get(urljoin(self.base_url, str(event_id))).json()
+        """Returns a list of results for a given event ID"""
+        logging.info("Fetching event %s", event_id)
+        res = get(urljoin(self.base_url, str(event_id)), timeout=120).json()
         results = res['puljer'][0]['resultater']
         comp_name = f"{res['klubbName']} {res['stevnetype']}"
         event_results = [list(Result.__annotations__.keys())]
-        for x in results:
+        for result in results:
             try:
-                cat_code = self.parse_cat_code(x['kategori']['forkortelse'], x['vektklasse']['navn'])
-                datac = self.__assign_dataclass(x, cat_code, comp_name)
-                datac_to_list = [x for x in datac.__dict__.values()]
+                cat_code = self.parse_cat_code(
+                    result['kategori']['forkortelse'], result['vektklasse']['navn'])
+                datac = self.__assign_dataclass(result, cat_code, comp_name)
+                datac_to_list = list(x for x in datac.__dict__.values())
                 event_results.append(datac_to_list)
-            except ValueError as e:
-                print(e)
+            except ValueError as ex:
+                print(ex)
         return event_results
 
     def parse_cat_code(self, cat_code: str, weight: str) -> str | ValueError:
@@ -77,7 +80,8 @@ class Norway:
         print(f"Category not found: {cat_params} / {cat_code}")
         return ValueError(f"Category not found: {cat_params} / {cat_code}")
 
-    def __assign_dataclass(self, result: dict, category: str, comp_name: str) -> Result:
+    def __assign_dataclass(self, result: dict, category: str,
+                           comp_name: str) -> Result:
         """Assigns the dataclass"""
         datac = Result(
             event=comp_name,
@@ -98,14 +102,15 @@ class Norway:
 
         for key, value in datac.__dict__.items():
             if value is None:
-                if key in ['snatch_1', 'snatch_2', 'snatch_3', 'cj_1', 'cj_2', 'cj_3']:
-                    datac.__setattr__(key, 0)
+                if key in ['snatch_1', 'snatch_2',
+                           'snatch_3', 'cj_1', 'cj_2', 'cj_3']:
+                    setattr(datac, key, 0)
                 if key == 'best_snatch':
-                    datac.__setattr__(key, self.__best_snatch(datac))
+                    setattr(datac, self.__best_snatch(datac))
                 if key == 'best_cj':
-                    datac.__setattr__(key, self.__best_cj(datac))
+                    setattr(datac, key, self.__best_cj(datac))
                 if key == 'total':
-                    datac.__setattr__(key, self.__calc_total(datac))
+                    setattr(datac, key, self.__calc_total(datac))
 
         return datac
 
@@ -129,9 +134,11 @@ class Norway:
         return datetime.datetime.now().strftime("%Y-%m-%d")
 
     def update_results(self):
+        """Updates the results"""
         logging.info("Updating results")
         event_list = self.get_event_list()
-        result_db_ids = [int(x.split(".")[0]) for x in os.listdir(self.results_root)]
+        result_db_ids = [int(x.split(".")[0])
+                         for x in os.listdir(self.results_root)]
         for event_id in event_list:
             if event_id not in result_db_ids:
                 event_results = self.fetch_event(event_id)

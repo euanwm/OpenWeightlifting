@@ -1,5 +1,8 @@
-""" Checks all CSV files within the backend/event_data folder and that it matches the Result dataclass """
-import logging, re
+""" Checks all CSV files within the backend/event_data folder and that it 
+matches the Result dataclass """
+import logging
+import re
+import sys
 from os import getcwd, listdir
 from os.path import join
 
@@ -21,13 +24,14 @@ def check_db() -> None:
             pass_test = False
     if not pass_test:
         print("TEST FAILED")
-        exit(1)  # Apparently needed for GitHub Actions
+        sys.exit(1)  # Apparently needed for GitHub Actions
     elif pass_test:
         print("TEST PASSED")
-        exit(0)
-
+        sys.exit(0)
 
 def check_files(folder_path: str) -> bool:
+    """check_files() checks all CSV files within a folder and that it matches the 
+    Result dataclass"""""
     pass_test = True
     for file in listdir(folder_path):
         csv_filepath = join(folder_path, file)
@@ -37,11 +41,13 @@ def check_files(folder_path: str) -> bool:
                 if entry := assign_dataclass(entry):
                     # check that entry date is YYYY-MM-DD
                     if not re.match(r"\d{4}-\d{2}-\d{2}", entry.date):
-                        print(f"Date format incorrect for {entry}\nFile: {csv_filepath}")
+                        print(
+                            f"Date format incorrect for {entry}\nFile: {csv_filepath}")
                         pass_test = False
                     # check that the entry total is less than 500
                     if entry.total > 500:
-                        print(f"Total format incorrect for {entry}\nFile: {csv_filepath}")
+                        print(
+                            f"Total format incorrect for {entry}\nFile: {csv_filepath}")
                         pass_test = False
             except ValueError:
                 pass_test = False
@@ -69,9 +75,9 @@ def assign_dataclass(data: list) -> Result:
             total=float(data[13]),
         )
         return to_return
-    except ValueError as e:
-        print(f"Issue with {data}\nException raised: {e}")
-        raise ValueError
+    except ValueError as ex:
+        print(f"Issue with {data}\nException raised: {ex}")
+        raise ValueError from ex
 
 
 if __name__ == '__main__':
