@@ -15,16 +15,18 @@ class QueryThis:
 
     def __load_gender_cats(self) -> dict:
         """pish"""
-        with open("database_handler/gender_categories.json", 'r', encoding='utf-8') as gender_cat_file:
+        gender_cat_fname = "database_handler/gender_categories.json"
+        with open(gender_cat_fname, 'r', encoding='utf-8') as gender_cat_file:
             cat_dict: dict = json.load(gender_cat_file)
         return cat_dict
 
+    #pylint: disable=inconsistent-return-statements
     def __assign_sex(self, category: str):
         """did you assume my biological sex? yes"""
         category_list = self.__load_gender_cats()
         if category in category_list['male'] or "Men's" in category:
             return "male"
-        elif category in category_list['female'] or "Women's" in category:
+        if category in category_list['female'] or "Women's" in category:
             return "female"
 
     def sort_by_total(self, gender: str) -> None:
@@ -33,28 +35,30 @@ class QueryThis:
         filpe: str = os.path.join(self.query_folder, gender + ".csv")
         db_list = load_csv_as_list(filpe)
         shite = sorted(db_list, key=lambda z: int(z[13]), reverse=True)
-        # todo: this is a shite way to iterate and remove lifters with multiple (and smaller) entries
-        for x in shite:
-            for count, y in enumerate(shite):
-                if x[3] == y[3] and x[14] == y[14] and x != y and x[13] >= y[13]:
-                    shite.remove(y)
+        # todo: this is a shite way to iterate and remove lifters with multiple
+        # (and smaller) entries
+        for x_1 in shite:
+            for _, y_1 in enumerate(shite):
+                if x_1[3] == y_1[3] and x_1[14] == y_1[14] and x_1 != y_1 and x_1[13] >= y_1[13]:
+                    shite.remove(y_1)
         for x_2 in shite:
-            for count, y_2 in enumerate(shite):
+            for _, y_2 in enumerate(shite):
                 if x_2[3] == y_2[3] and x_2[14] == y_2[14] and x_2 != y_2 and x_2[13] >= y_2[13]:
                     shite.remove(y_2)
         write_to_csv(self.query_folder, f"top_total_{gender}", shite)
 
     @staticmethod
+    #pylint: disable=unused-private-member
     def __shit_sorter(old_shite: list):
         """i hate it, you hate, we all hate it"""
         # todo: add in a method to choose the index number to sort by
         shite = sorted(old_shite, key=lambda z: z[15], reverse=True)
-        for x in shite:
-            for count, y in enumerate(shite):
-                if x[3] == y[3] and x[14] == y[14] and x != y and x[15] >= y[15]:
-                    shite.remove(y)
+        for x_1 in shite:
+            for _, y_1 in enumerate(shite):
+                if x_1[3] == y_1[3] and x_1[14] == y_1[14] and x_1 != y_1 and x_1[15] >= y_1[15]:
+                    shite.remove(y_1)
         for x_2 in shite:
-            for count, y_2 in enumerate(shite):
+            for _, y_2 in enumerate(shite):
                 if x_2[3] == y_2[3] and x_2[14] == y_2[14] and x_2 != y_2 and x_2[15] >= y_2[15]:
                     shite.remove(y_2)
         return shite
@@ -64,8 +68,10 @@ class QueryThis:
         query_filename = "lifter_index"
         lifters = []
         for country in os.listdir(self.results_root):  # UK / US / etc.
-            for result in os.listdir((os.path.join(self.results_root, country))):
-                loaded_results = load_result_csv_as_list(os.path.join(self.results_root, country, result))
+            for result in os.listdir(
+                    (os.path.join(self.results_root, country))):
+                loaded_results = load_result_csv_as_list(
+                    os.path.join(self.results_root, country, result))
                 for single_result in loaded_results:
                     lifter_sex = self.__assign_sex(single_result[2])
                     # every name must be lowercase to avoid caps mistakes
@@ -80,8 +86,10 @@ class QueryThis:
         female_results = []
         unknown_results = []
         for country in os.listdir(self.results_root):
-            for result in os.listdir((os.path.join(self.results_root, country))):
-                loaded_results = load_result_csv_as_list(os.path.join(self.results_root, country, result))
+            for result in os.listdir(
+                    (os.path.join(self.results_root, country))):
+                loaded_results = load_result_csv_as_list(
+                    os.path.join(self.results_root, country, result))
                 for single_result in loaded_results:
                     lifter_sex = self.__assign_sex(single_result[2])
                     single_result.append(country)
@@ -101,8 +109,10 @@ class QueryThis:
         """creates a reference index with comp name, country, and filename"""
         listy = []
         for country in os.listdir(self.results_root):
-            for result in os.listdir((os.path.join(self.results_root, country))):
-                loaded_results = load_result_csv_as_list(os.path.join(self.results_root, country, result))
+            for result in os.listdir(
+                    (os.path.join(self.results_root, country))):
+                loaded_results = load_result_csv_as_list(
+                    os.path.join(self.results_root, country, result))
                 try:
                     append_this = [loaded_results[0][0], country, result]
                     listy.append(append_this)

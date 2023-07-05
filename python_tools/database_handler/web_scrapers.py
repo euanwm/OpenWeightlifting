@@ -3,38 +3,38 @@ import collections
 import os
 from datetime import datetime
 from typing import Union
-
-import bs4.element
-import requests
 from urllib.parse import urljoin
-from bs4 import BeautifulSoup
 from re import search
+
+import requests
+import bs4.element
+from bs4 import BeautifulSoup
 from .static_helpers import write_to_csv
 from .result_dataclasses import IWFHeaders, Result
 
 
-def pull_tables(page_content, id=None) -> Union[list[BeautifulSoup], BeautifulSoup]:
+def pull_tables(
+        page_content, table_id=None) -> Union[list[BeautifulSoup], BeautifulSoup]:
     """ Returns a dict with details of all the tables within it """
     # debug("pull_tables called")
-    if id is None:
-        id = {}
+    if table_id is None:
+        table_id = {}
     soup_parse = BeautifulSoup(page_content.text, "html.parser")
     table_list: list = []
-    for tables in soup_parse.find_all("table", id):
+    for tables in soup_parse.find_all("table", table_id):
         table_list.append(tables)
     if len(table_list) == 1:
         return table_list[0]
     return table_list
 
-
+# pylint: disable=inconsistent-return-statements
 def comp_name(page_resp) -> str:
     """shitfuckpiss"""
     soup_soup = BeautifulSoup(page_resp.text, "html.parser")
     header = soup_soup.find_all("span", {"class": "Head"})
     if len(header) == 1:
         return header[0].text
-    else:
-        print("Competition name not pulled")
+    print("Competition name not pulled")
 
 
 def comp_date(page_resp) -> str:
@@ -42,7 +42,7 @@ def comp_date(page_resp) -> str:
     soup_soup = BeautifulSoup(page_resp.text, "html.parser")
     date_section = soup_soup.find("div", {"id": "dnn_ctr515_ModuleContent"})
     comp_name_date_raw = date_section.find_all("h2")[0].text
-    reg = search("\d{2}/\d{2}/\d{4}", comp_name_date_raw)
+    reg = search("\\d{2}/\\d{2}/\\d{4}", comp_name_date_raw)
     comp_date_raw = reg.group()
     __comp_date = __switch_date_format(comp_date_raw)
     return __comp_date
@@ -90,9 +90,9 @@ def strip_table_body(table):
 def funcy_shit(the_shit) -> list:
     """adds category onto end of result line"""
     new = []
-    for x in the_shit[1::]:
-        x.insert(0, the_shit[0][0])
-        new.append(x)
+    for result_line in the_shit[1::]:
+        result_line.insert(0, the_shit[0][0])
+        new.append(result_line)
     return new
 
 
@@ -106,7 +106,7 @@ def table_to_list(shit) -> list:
             meh = new_shit[elem:cats_pos[index + 1]:]
             final.append(funcy_shit(meh))
         except IndexError:
-            meh_2 = (new_shit[elem::])
+            meh_2 = new_shit[elem::]
             final.append(funcy_shit(meh_2))
     flatten_list = [item for sublist in final for item in sublist]
     return flatten_list
@@ -114,19 +114,19 @@ def table_to_list(shit) -> list:
 
 def remove_unused_columns(big_list: list[list]) -> list[list]:
     """removes the YOB, state, region from the result line"""
-    for x in big_list:
-        del x[4:7:]
-        del x[-1::]
+    for result_line in big_list:
+        del result_line[4:7:]
+        del result_line[-1::]
     return big_list
 
 
 def assign_gender(big_list: list[list]) -> list[list]:
     """DID YOU JUST ASSUME MY GENDER"""
-    for x in big_list:
-        if "F" in x[2]:
-            x[2] = "female"
-        elif "M" in x[2]:
-            x[2] = "male"
+    for list_item in big_list:
+        if "F" in list_item[2]:
+            list_item[2] = "female"
+        elif "M" in list_item[2]:
+            list_item[2] = "male"
     return big_list
 
 
@@ -143,8 +143,9 @@ class AustraliaWeightlifting:
     AWF_ROOT = "https://www.awf.com.au/"
     INDEX = "competition/statistics/competitions"
     EVENT_PAGE = "competition/statistics/competitions/results/id/"
-    HEADERS = {"user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) "
-                             "Chrome/102.0.0.0 Safari/537.36"}
+    HEADERS = {"user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                            "AppleWebKit/537.36 (KHTML, like Gecko) "
+                            "Chrome/102.0.0.0 Safari/537.36"}
 
     def __init__(self):
         self.getter = requests.Session()
@@ -158,16 +159,18 @@ class AustraliaWeightlifting:
         index_raw = self.getter.post(endpoint, headers=self.HEADERS)
         event_name = comp_name(index_raw)
         event_date = comp_date(index_raw)
-        main_table = pull_tables(index_raw, {"id": "dnn_ctr515_View_tbResults"})
+        main_table = pull_tables(
+            index_raw, {"id": "dnn_ctr515_View_tbResults"})
         raw_results = strip_table_body(main_table)
         final_results = table_to_list(raw_results)
-        for x in final_results:
-            x.insert(0, event_date)
-            x.insert(0, event_name)
+        for result in final_results:
+            result.insert(0, event_date)
+            result.insert(0, event_name)
         pop_results = remove_unused_columns(final_results)
         gendered_results = assign_gender(pop_results)
-        final_header = ['event', 'date', 'gender', 'lifter', 'body_weight_(kg)', 'snatch_lift_1', 'snatch_lift_2',
-                        'snatch_lift_3', 'c&j_lift_1', 'c&j_lift_2', 'c&j_lift_3', 'best_snatch', 'best_c&j', 'total']
+        final_header = ['event', 'date', 'gender', 'lifter', 'body_weight_(kg)', 'snatch_lift_1',
+                        'snatch_lift_2', 'snatch_lift_3', 'c&j_lift_1', 'c&j_lift_2', 'c&j_lift_3', 
+                        'best_snatch', 'best_c&j', 'total']
         gendered_results.insert(0, final_header)
         return gendered_results
 
@@ -175,7 +178,8 @@ class AustraliaWeightlifting:
         """meh"""
         root_dir = "../backend/event_data/AUS"
         dir_contents = os.listdir(root_dir)
-        last_id = highest_csv_id(dir_contents) + 1  # stops writing over the last/highest csv in the directory
+        # stops writing over the last/highest csv in the directory
+        last_id = highest_csv_id(dir_contents) + 1
         for id_int in range(last_id, last_id + step):
             try:
                 event = self.get_event(id_int)
@@ -188,8 +192,11 @@ class AustraliaWeightlifting:
 class InternationalWF:
     """Scraper for the IWF site"""
     IWF_ROOT_URL = "https://iwf.sport"
-    EVENT_URLS = ["https://iwf.sport/results/results-by-events/?event_type=all&event_age=all&event_nation=all",
-                  "https://iwf.sport/results/results-by-events/results-by-events-old-bw/?event_type=all&event_age=all&event_nation=all"]
+    # pylint: disable=line-too-long
+    EVENT_URLS = [
+        "https://iwf.sport/results/results-by-events/?event_type=all&event_age=all&event_nation=all",
+        "https://iwf.sport/results/results-by-events/results-by-events-old-bw/?event_type=all&event_age=all&event_nation=all",
+    ]
 
     def __init__(self, db_root_dir: str):
         self.iwf_root_dir = db_root_dir
@@ -198,13 +205,14 @@ class InternationalWF:
         """Returns all the available event IDs"""
         all_bw_data = []
         for url in self.EVENT_URLS:
-            req = requests.get(url)
+            req = requests.get(url, timeout=120)
             content = req.text
 
             soup = BeautifulSoup(content, 'html.parser').find('div', 'cards')
             event_ids = []
             for event_id in soup.find_all('a', 'card', href=True):
-                event_ids.append(int(event_id['href'].replace('?event_id=', '')))
+                event_ids.append(
+                    int(event_id['href'].replace('?event_id=', '')))
 
             event_name = []
             for event in soup.find_all('span', 'text'):
@@ -215,14 +223,16 @@ class InternationalWF:
                 event_dates.append(date.get_text().strip())
 
             event_locations = []
-            for country in soup.find_all('div', 'col-md-3 col-4 not__cell__767'):
+            for country in soup.find_all(
+                    'div', 'col-md-3 col-4 not__cell__767'):
                 event_locations.append(country.get_text().strip())
 
-            zip_it = list(zip(event_ids, event_name, event_dates, event_locations))
+            zip_it = list(zip(event_ids, event_name,
+                          event_dates, event_locations))
             all_bw_data.extend(zip_it)
 
         all_bw_data = sorted(all_bw_data, key=lambda x: x[0], reverse=False)
-        all_bw_data.insert(0, [x for x in IWFHeaders.__annotations__])
+        all_bw_data.insert(0, list(IWFHeaders.__annotations__))
 
         return all_bw_data
 
@@ -239,116 +249,134 @@ class InternationalWF:
         target_url = f"{self.IWF_ROOT_URL}/results/results-by-events?event_id={event_id}"
         if event_id <= 440:  # Go on, be pedantic...
             target_url = f"{self.IWF_ROOT_URL}/results/results-by-events/results-by-events-old-bw?event_id={event_id}"
-        r = requests.get(target_url, headers={"Content-Type": "text/html; charset=UTF-8"})
-        html = r.text
+        res = requests.get(target_url,
+                           headers={"Content-Type": "text/html; charset=UTF-8"},
+                           timeout=120)
+        html = res.text
         return BeautifulSoup(html, "html.parser")
 
     @staticmethod
+    # pylint: disable=too-many-locals, too-many-branches, too-many-statements
+    # This method is failing pretty much every measure of complexity. Probably
+    # requires a bigger effort to refactor.
+    # TODO: Refactor this method to reduce the level of complexity
     def __scrape_result_info(soup_data):
         """Compiles table data into list[dict] format"""
-        result_container = soup_data.find_all("div", {"class": "result__container"})
+        result_container = soup_data.find_all(
+            "div", {"class": "result__container"})
         bw_and_lifts = tuple(Result.__annotations__)[4::]
-        if len(result_container) != 0:
-            result = []
-            for div_id in result_container:
-                if (
-                        div_id.get("id") == "men_snatchjerk"
-                        or div_id.get("id") == "women_snatchjerk"
-                ):
 
-                    cards_container = div_id.find_all("div", {"class": "cards"})
-                    for cards in cards_container[::3]:
-                        card_container = cards.find_all("div", {"class": "card"})
+        if len(result_container) == 0:
+            return False, []
 
-                        for card in card_container[1:]:
-                            data_snatch = {}
+        result = []
+        for div_id in result_container:
+            if (
+                    div_id.get("id") == "men_snatchjerk"
+                    or div_id.get("id") == "women_snatchjerk"
+            ):
 
-                            name = card.find_all("p")[1].text.strip()
-                            bodyweight = card.find_all("p")[4].text.strip().split()[1]
-                            snatch1 = card.find_all("p")[6].strong.contents[0]
-                            snatch2 = card.find_all("p")[7].strong.contents[0]
-                            snatch3 = card.find_all("p")[8].strong.contents[0]
-                            snatch = card.find_all("p")[9].strong.contents[1]
+                cards_container = div_id.find_all(
+                    "div", {"class": "cards"})
+                for cards in cards_container[::3]:
+                    card_container = cards.find_all(
+                        "div", {"class": "card"})
 
-                            category = (
-                                card.parent.previous_sibling.previous_sibling.previous_sibling.previous_sibling.text.strip()
-                            )
+                    for card in card_container[1:]:
+                        data_snatch = {}
 
-                            if name and snatch:
-                                data_snatch["lifter_name"] = name
-                                data_snatch["bodyweight"] = bodyweight
-                                data_snatch["snatch_1"] = snatch1
-                                data_snatch["snatch_2"] = snatch2
-                                data_snatch["snatch_3"] = snatch3
-                                data_snatch["best_snatch"] = snatch
-                                data_snatch["category"] = category
-                            result.append(data_snatch)
+                        name = card.find_all("p")[1].text.strip()
+                        bodyweight = card.find_all(
+                            "p")[4].text.strip().split()[1]
+                        snatch1 = card.find_all("p")[6].strong.contents[0]
+                        snatch2 = card.find_all("p")[7].strong.contents[0]
+                        snatch3 = card.find_all("p")[8].strong.contents[0]
+                        snatch = card.find_all("p")[9].strong.contents[1]
 
-                    for cards in cards_container[1::3]:
-                        card_container = cards.find_all("div", {"class": "card"})
+                        category = (
+                            card.parent.previous_sibling.previous_sibling.previous_sibling.previous_sibling.text.strip()
+                        )
 
-                        for card in card_container[1:]:
-                            data_cj = {}
-                            name = card.find_all("p")[1].text.strip()
-                            jerk1 = card.find_all("p")[6].strong.contents[0]
-                            jerk2 = card.find_all("p")[7].strong.contents[0]
-                            jerk3 = card.find_all("p")[8].strong.contents[0]
-                            jerk = card.find_all("p")[9].strong.contents[1]
+                        if name and snatch:
+                            data_snatch["lifter_name"] = name
+                            data_snatch["bodyweight"] = bodyweight
+                            data_snatch["snatch_1"] = snatch1
+                            data_snatch["snatch_2"] = snatch2
+                            data_snatch["snatch_3"] = snatch3
+                            data_snatch["best_snatch"] = snatch
+                            data_snatch["category"] = category
+                        result.append(data_snatch)
 
-                            if name and jerk:
-                                data_cj["lifter_name"] = name
-                                data_cj["cj_1"] = jerk1
-                                data_cj["cj_2"] = jerk2
-                                data_cj["cj_3"] = jerk3
-                                data_cj["best_cj"] = jerk
+                for cards in cards_container[1::3]:
+                    card_container = cards.find_all(
+                        "div", {"class": "card"})
 
-                            result.append(data_cj)
+                    for card in card_container[1:]:
+                        data_cj = {}
+                        name = card.find_all("p")[1].text.strip()
+                        jerk1 = card.find_all("p")[6].strong.contents[0]
+                        jerk2 = card.find_all("p")[7].strong.contents[0]
+                        jerk3 = card.find_all("p")[8].strong.contents[0]
+                        jerk = card.find_all("p")[9].strong.contents[1]
 
-                    for cards in cards_container[2::3]:
-                        card_container = cards.find_all("div", {"class": "card"})
+                        if name and jerk:
+                            data_cj["lifter_name"] = name
+                            data_cj["cj_1"] = jerk1
+                            data_cj["cj_2"] = jerk2
+                            data_cj["cj_3"] = jerk3
+                            data_cj["best_cj"] = jerk
 
-                        for card in card_container[1:]:
-                            data_total = {}
-                            name = card.find_all("p")[1].text.strip()
-                            total = card.find_all("p")[8].strong.contents[1]
+                        result.append(data_cj)
 
-                            if name and total:
-                                data_total["lifter_name"] = name
-                                data_total["total"] = total
-                            result.append(data_total)
+                for cards in cards_container[2::3]:
+                    card_container = cards.find_all(
+                        "div", {"class": "card"})
 
-            merged_result = {}
-            for r in result:
-                key = r["lifter_name"]
-                merged_result.setdefault(key, {}).update(r)
+                    for card in card_container[1:]:
+                        data_total = {}
+                        name = card.find_all("p")[1].text.strip()
+                        total = card.find_all("p")[8].strong.contents[1]
 
-            final_table = list(merged_result.values())
-            for line in final_table:
-                for i, (k, v) in enumerate(line.items()):
-                    if isinstance(v, bs4.element.Tag):
-                        line[k] = f"-{v.string.strip(' ')}"  # Annoyingly, double-digit lifts have a space in them
-                    elif v == '---' and k in bw_and_lifts:
-                        line[k] = 0
-            return True, final_table
-        return False, []
+                        if name and total:
+                            data_total["lifter_name"] = name
+                            data_total["total"] = total
+                        result.append(data_total)
 
-    def __convert_to_conform(self, result_data: list[dict], comp_details: list) -> list[list]:
+        merged_result = {}
+        for res in result:
+            key = res["lifter_name"]
+            merged_result.setdefault(key, {}).update(res)
+
+        final_table = list(merged_result.values())
+        for line in final_table:
+            for _, (key, val) in enumerate(line.items()):
+                if isinstance(val, bs4.element.Tag):
+                    # Annoyingly, double-digit lifts have a space in them
+                    line[key] = f"-{val.string.strip(' ')}"
+                elif val == '---' and key in bw_and_lifts:
+                    line[key] = 0
+        return True, final_table
+
+    def __convert_to_conform(
+            self, result_data: list[dict], comp_details: list) -> list[list]:
         """ONE OF US, ONE OF US, ONE OF US"""
         insert_me = {'date': self.__conform_date(comp_details[2]),
                      'event': comp_details[1]}
-        for x in result_data:
-            x.update(insert_me)
+        for data in result_data:
+            data.update(insert_me)
         ordered_results = self.__order_correctly(result_data)
         return ordered_results
 
     def update_results(self) -> None:
         """Looks at comp index and then updates with values not currently saved"""
         comp_index = self.fetch_events_list()
-        result_db_ids = [int(x.split(".")[0]) for x in os.listdir(self.iwf_root_dir)]
+        result_db_ids = [int(x.split(".")[0])
+                         for x in os.listdir(self.iwf_root_dir)]
         for comp_info in comp_index[1::]:
             if comp_info[0] not in result_db_ids:
                 comp_results = self.get_results(comp_info[0])
-                comp_result_data = self.__convert_to_conform(comp_results, comp_info)
+                comp_result_data = self.__convert_to_conform(
+                    comp_results, comp_info)
                 write_to_csv(self.iwf_root_dir, comp_info[0], comp_result_data)
 
     @staticmethod

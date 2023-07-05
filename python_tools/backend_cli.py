@@ -8,8 +8,10 @@ from database_handler import DBHandler
 from database_handler import AustraliaWeightlifting, InternationalWF, Norway
 
 
+#pylint: disable=too-few-public-methods
 class CLICommands:
     """boring shit, will probably realise we don't need this later"""
+
     def update(self, db_name):
         """updates all databases"""
         match db_name:
@@ -21,10 +23,12 @@ class CLICommands:
                 iwf_db = InternationalWF("../backend/event_data/IWF")
                 iwf_db.update_results()
             case "uk":
-                uk_db = DBHandler("https://bwl.sport80.com/", "../backend/event_data/UK")
+                uk_db = DBHandler("https://bwl.sport80.com/",
+                                  "../backend/event_data/UK")
                 uk_db.update_results(datetime.now().year)
             case "us":
-                us_db = DBHandler("https://usaweightlifting.sport80.com/", "../backend/event_data/US")
+                us_db = DBHandler(
+                    "https://usaweightlifting.sport80.com/", "../backend/event_data/US")
                 us_db.update_results(datetime.now().year)
             case "aus":
                 aus_db = AustraliaWeightlifting()
@@ -32,10 +36,12 @@ class CLICommands:
             case "all":
                 year = datetime.now().year
                 print("Updating UK Database")
-                uk_db = DBHandler("https://bwl.sport80.com/", "../backend/event_data/UK")
+                uk_db = DBHandler("https://bwl.sport80.com/",
+                                  "../backend/event_data/UK")
                 uk_db.update_results(year)
                 print("Updating US Database")
-                us_db = DBHandler("https://usaweightlifting.sport80.com/", "../backend/event_data/US")
+                us_db = DBHandler(
+                    "https://usaweightlifting.sport80.com/", "../backend/event_data/US")
                 us_db.update_results(year)
                 print("Updating AWF Database")
                 aus_db = AustraliaWeightlifting()

@@ -1,10 +1,9 @@
 """Main handler file"""
 import os
 
-from sport80 import SportEighty
 from os.path import join
 from csv import writer
-
+from sport80 import SportEighty
 
 class DBHandler:
     """ This will either update or create new databases """
@@ -24,8 +23,7 @@ class DBHandler:
             for _, event_dict in e_index.items():
                 self.__write_result_file(event_dict)
             return True
-        else:
-            return False
+        return False
 
     def __write_result_file(self, data_dict: dict):
         """Makes the individual results file"""
@@ -54,11 +52,12 @@ class DBHandler:
         return event_str.split('/')[-1::][0]
 
     @staticmethod
-    def __collate_event_id(self, big_dict) -> list:
+    # pylint: disable=unused-private-member
+    def __collate_event_id(big_dict) -> list:
         """Meh"""
         ids: list = []
-        for _, y in big_dict.items():
-            ids.append(y['action'][0]['route'].split('/')[-1::][0])
+        for _, item_val in big_dict.items():
+            ids.append(item_val['action'][0]['route'].split('/')[-1::][0])
         return ids
 
     def back_dating(self):
