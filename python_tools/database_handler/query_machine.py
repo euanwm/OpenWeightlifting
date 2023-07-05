@@ -20,7 +20,8 @@ class QueryThis:
             cat_dict: dict = json.load(gender_cat_file)
         return cat_dict
 
-    #pylint: disable=inconsistent-return-statements
+    # pylint: disable=inconsistent-return-statements
+    # TODO: add some error handling in case doesn't match male/female
     def __assign_sex(self, category: str):
         """did you assume my biological sex? yes"""
         category_list = self.__load_gender_cats()
@@ -48,7 +49,8 @@ class QueryThis:
         write_to_csv(self.query_folder, f"top_total_{gender}", shite)
 
     @staticmethod
-    #pylint: disable=unused-private-member
+    # pylint: disable=unused-private-member
+    # Not used, maybe can remove?
     def __shit_sorter(old_shite: list):
         """i hate it, you hate, we all hate it"""
         # todo: add in a method to choose the index number to sort by

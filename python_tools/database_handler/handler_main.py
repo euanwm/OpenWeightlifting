@@ -53,6 +53,7 @@ class DBHandler:
 
     @staticmethod
     # pylint: disable=unused-private-member
+    # Not used. Maybe can remove?
     def __collate_event_id(big_dict) -> list:
         """Meh"""
         ids: list = []

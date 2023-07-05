@@ -28,6 +28,7 @@ def pull_tables(
     return table_list
 
 # pylint: disable=inconsistent-return-statements
+# TODO: Error handling for when no return
 def comp_name(page_resp) -> str:
     """shitfuckpiss"""
     soup_soup = BeautifulSoup(page_resp.text, "html.parser")
@@ -193,6 +194,7 @@ class InternationalWF:
     """Scraper for the IWF site"""
     IWF_ROOT_URL = "https://iwf.sport"
     # pylint: disable=line-too-long
+    # Line is fine, just long
     EVENT_URLS = [
         "https://iwf.sport/results/results-by-events/?event_type=all&event_age=all&event_nation=all",
         "https://iwf.sport/results/results-by-events/results-by-events-old-bw/?event_type=all&event_age=all&event_nation=all",

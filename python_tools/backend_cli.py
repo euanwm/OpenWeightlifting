@@ -8,7 +8,8 @@ from database_handler import DBHandler
 from database_handler import AustraliaWeightlifting, InternationalWF, Norway
 
 
-#pylint: disable=too-few-public-methods
+# pylint: disable=too-few-public-methods
+# Only has one public method but this is fine
 class CLICommands:
     """boring shit, will probably realise we don't need this later"""
 
