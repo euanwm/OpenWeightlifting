@@ -36,10 +36,8 @@ func CalcSinclair(result *structs.Entry, male bool) {
 			if sinclair <= naimSinclair {
 				result.Sinclair = sinclair
 			}
-		} else {
-			if result.Total <= naimSinclair {
-				result.Sinclair = result.Total
-			}
+		} else if result.Total <= naimSinclair {
+			result.Sinclair = result.Total
 		}
 	}
 }
