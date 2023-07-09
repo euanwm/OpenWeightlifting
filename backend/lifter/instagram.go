@@ -1,7 +1,7 @@
 package lifter
 
 import (
-	igDatabase "backend/lifter_data"
+	igDatabase "backend/lifterdata"
 	"backend/utilities"
 	"io/fs"
 	"log"

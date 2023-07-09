@@ -16,9 +16,9 @@ func Float(preFloatStr string) (retFloat float32) {
 }
 
 // SliceContains - Returns true if the slice contains the string
-func SliceContains(StrQuery string, sliceData []string) bool {
+func SliceContains(strQuery string, sliceData []string) bool {
 	for _, value := range sliceData {
-		if value == StrQuery {
+		if value == strQuery {
 			return true
 		}
 	}
@@ -26,9 +26,9 @@ func SliceContains(StrQuery string, sliceData []string) bool {
 }
 
 // MapContains - Returns true if the map/dict matches the primary/index data
-func MapContains(StrQuery string, mapData map[string]string) bool {
-	for index, _ := range mapData {
-		if index == StrQuery {
+func MapContains(strQuery string, mapData map[string]string) bool {
+	for index := range mapData {
+		if index == strQuery {
 			return true
 		}
 	}

@@ -21,7 +21,7 @@ const (
 func CalcSinclair(result *structs.Entry, male bool) {
 	var coEffA = aMale
 	var coEffB = bMale
-	if male == false {
+	if !male {
 		coEffA = aFemale
 		coEffB = bFemale
 	}

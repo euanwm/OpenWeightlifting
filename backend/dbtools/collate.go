@@ -11,8 +11,7 @@ import (
 func CollateAll() (allData [][]string) {
 	dirs := getFedDirs()
 	for _, fed := range dirs {
-		var allResults [][]string
-		allResults = loadAllFedEvents(fed)
+		allResults := loadAllFedEvents(fed)
 		allData = append(allData, allResults...)
 	}
 	return allData

@@ -47,10 +47,8 @@ func (e Entry) WithinYear(year int) bool {
 	}
 	datetime := utilities.StringToDate(e.Date)
 	eventYear, _, _ := datetime.Date()
-	if eventYear == year {
-		return true
-	}
-	return false
+
+	return eventYear == year
 }
 
 func (e Entry) WithinDates(startDate, endDate string) bool {
@@ -83,7 +81,7 @@ func (e LeaderboardData) FetchNames(posSlice []int) (names []string) {
 
 func (e AllData) ProcessNames() (names []string) {
 	for _, lift := range e.Lifts {
-		if utilities.Contains(names, lift.Name) == false {
+		if !utilities.Contains(names, lift.Name) {
 			names = append(names, lift.Name)
 		}
 	}

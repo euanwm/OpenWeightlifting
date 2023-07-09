@@ -1,4 +1,4 @@
-package lifter_data
+package lifterdata
 
 import (
 	"embed"
