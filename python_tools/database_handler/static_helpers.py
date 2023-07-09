@@ -28,6 +28,8 @@ def load_csv_as_list(filepath):
 
 def write_to_csv(base_dir, filepath_name, data):
     """yes"""
+    if len(data) == 0:
+        return
     print(f"creating {filepath_name}.csv...")
     with open(join(base_dir, f"{filepath_name}.csv"), 'w', encoding='utf-8') as file_boi:
         csv_writer = csv.writer(file_boi)
