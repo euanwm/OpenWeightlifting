@@ -44,9 +44,12 @@ class Norway:
     def fetch_event(self, event_id) -> list[Any, Result]:
         """Returns a list of results for a given event ID"""
         logging.info("Fetching event %s", event_id)
-        res = get(urljoin(self.base_url, str(event_id)), timeout=120).json()
-        results = res['puljer'][0]['resultater']
-        comp_name = f"{res['klubbName']} {res['stevnetype']}"
+        res = get(urljoin(self.base_url, str(event_id)), timeout=120)
+        if not res.ok:
+            return []
+        res_json = res.json()
+        results = res_json['puljer'][0]['resultater']
+        comp_name = f"{res_json['klubbName']} {res_json['stevnetype']}"
         event_results = [list(Result.__annotations__.keys())]
         for result in results:
             try:
@@ -106,7 +109,7 @@ class Norway:
                            'snatch_3', 'cj_1', 'cj_2', 'cj_3']:
                     setattr(datac, key, 0)
                 if key == 'best_snatch':
-                    setattr(datac, self.__best_snatch(datac))
+                    setattr(datac, key, self.__best_snatch(datac))
                 if key == 'best_cj':
                     setattr(datac, key, self.__best_cj(datac))
                 if key == 'total':
