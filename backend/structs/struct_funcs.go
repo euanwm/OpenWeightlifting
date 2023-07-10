@@ -45,11 +45,7 @@ func (e Entry) WithinYear(year int) bool {
 	if year == enum.AllYears {
 		return true
 	}
-	datetime, borkt := utilities.StringToDate(e.Date)
-	if borkt != nil {
-		log.Fatal(borkt)
-		return false
-	}
+	datetime, _ := utilities.StringToDate(e.Date)
 	eventYear, _, _ := datetime.Date()
 	return eventYear == year
 }
