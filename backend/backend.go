@@ -6,7 +6,6 @@ import (
 	"backend/events"
 	"backend/lifter"
 	"backend/structs"
-	jsoniter "github.com/json-iterator/go"
 	"log"
 	"net/http"
 	"os"
@@ -54,9 +53,6 @@ func postLifterRecord(c *gin.Context) {
 	if err := c.BindJSON(&lifterSearch); err != nil {
 		_ = c.AbortWithError(http.StatusBadRequest, err)
 	}
-	// dumb logging so datadog picks it up
-	reqBody, _ := jsoniter.MarshalToString(lifterSearch)
-	log.Println(reqBody)
 
 	lifterDetails := lifter.FetchLifts(lifterSearch, &processedLeaderboard)
 	lifterDetails.Lifts = dbtools.SortDate(lifterDetails.Lifts)
@@ -73,9 +69,6 @@ func postLifterHistory(c *gin.Context) {
 	if err := c.BindJSON(&lifterSearch); err != nil {
 		_ = c.AbortWithError(http.StatusBadRequest, err)
 	}
-	// dumb logging so datadog picks it up
-	reqBody, _ := jsoniter.MarshalToString(lifterSearch)
-	log.Println(reqBody)
 
 	lifterDetails := lifter.FetchLifts(lifterSearch, &processedLeaderboard)
 	lifterDetails.Lifts = dbtools.SortDate(lifterDetails.Lifts)
@@ -130,7 +123,7 @@ func CORSConfig(localEnv bool) cors.Config {
 }
 
 func setupCORS(r *gin.Engine) {
-	//It's not a great solution but it'll work
+	// It's not a great solution but it'll work
 	if len(os.Args) > 1 && os.Args[1] == "local" {
 		r.Use(cors.New(CORSConfig(true)))
 	} else {

@@ -21,7 +21,7 @@ const (
 func CalcSinclair(result *structs.Entry, male bool) {
 	var coEffA = aMale
 	var coEffB = bMale
-	if male == false {
+	if !male {
 		coEffA = aFemale
 		coEffB = bFemale
 	}
@@ -36,10 +36,8 @@ func CalcSinclair(result *structs.Entry, male bool) {
 			if sinclair <= naimSinclair {
 				result.Sinclair = sinclair
 			}
-		} else {
-			if result.Total <= naimSinclair {
-				result.Sinclair = result.Total
-			}
+		} else if result.Total <= naimSinclair {
+			result.Sinclair = result.Total
 		}
 	}
 }

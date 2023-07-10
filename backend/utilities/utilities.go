@@ -3,7 +3,6 @@ package utilities
 import (
 	"encoding/csv"
 	"io"
-	"log"
 	"strconv"
 	"time"
 )
@@ -16,9 +15,9 @@ func Float(preFloatStr string) (retFloat float32) {
 }
 
 // SliceContains - Returns true if the slice contains the string
-func SliceContains(StrQuery string, sliceData []string) bool {
+func SliceContains(strQuery string, sliceData []string) bool {
 	for _, value := range sliceData {
-		if value == StrQuery {
+		if value == strQuery {
 			return true
 		}
 	}
@@ -26,9 +25,9 @@ func SliceContains(StrQuery string, sliceData []string) bool {
 }
 
 // MapContains - Returns true if the map/dict matches the primary/index data
-func MapContains(StrQuery string, mapData map[string]string) bool {
-	for index, _ := range mapData {
-		if index == StrQuery {
+func MapContains(strQuery string, mapData map[string]string) bool {
+	for index := range mapData {
+		if index == strQuery {
 			return true
 		}
 	}
@@ -52,11 +51,11 @@ func LoadCsvFile(file io.Reader) (csvContents [][]string) {
 	return csvContents[1:]
 }
 
-func StringToDate(dateString string) (date time.Time) {
+func StringToDate(dateString string) (date time.Time, borkt error) {
 	const rfc3339partial string = "T15:04:05Z"
-	date, borkt := time.Parse(time.RFC3339, dateString+rfc3339partial)
+	date, borkt = time.Parse(time.RFC3339, dateString+rfc3339partial)
 	if borkt != nil {
-		log.Fatal(borkt)
+		return time.Time{}, borkt
 	}
-	return
+	return date, nil
 }
