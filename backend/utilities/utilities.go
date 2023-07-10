@@ -3,7 +3,6 @@ package utilities
 import (
 	"encoding/csv"
 	"io"
-	"log"
 	"strconv"
 	"time"
 )
@@ -52,11 +51,11 @@ func LoadCsvFile(file io.Reader) (csvContents [][]string) {
 	return csvContents[1:]
 }
 
-func StringToDate(dateString string) (date time.Time) {
+func StringToDate(dateString string) (date time.Time, borkt error) {
 	const rfc3339partial string = "T15:04:05Z"
-	date, borkt := time.Parse(time.RFC3339, dateString+rfc3339partial)
+	date, borkt = time.Parse(time.RFC3339, dateString+rfc3339partial)
 	if borkt != nil {
-		log.Fatal(borkt)
+		return time.Time{}, borkt
 	}
-	return
+	return date, nil
 }

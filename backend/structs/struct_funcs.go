@@ -45,9 +45,12 @@ func (e Entry) WithinYear(year int) bool {
 	if year == enum.AllYears {
 		return true
 	}
-	datetime := utilities.StringToDate(e.Date)
+	datetime, borkt := utilities.StringToDate(e.Date)
+	if borkt != nil {
+		log.Fatal(borkt)
+		return false
+	}
 	eventYear, _, _ := datetime.Date()
-
 	return eventYear == year
 }
 
@@ -55,8 +58,10 @@ func (e Entry) WithinDates(startDate, endDate string) bool {
 	if startDate == enum.ZeroDate && endDate == enum.MaxDate {
 		return true
 	}
-	datetime := utilities.StringToDate(e.Date)
-	if datetime.After(utilities.StringToDate(startDate)) && datetime.Before(utilities.StringToDate(endDate)) {
+	datetime, _ := utilities.StringToDate(e.Date)
+	startDateTime, _ := utilities.StringToDate(startDate)
+	endDateTime, _ := utilities.StringToDate(endDate)
+	if datetime.After(startDateTime) && datetime.Before(endDateTime) {
 		return true
 	}
 	return false

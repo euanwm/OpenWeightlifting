@@ -7,6 +7,7 @@ import (
 	"log"
 	"reflect"
 	"testing"
+	"time"
 )
 
 func TestContains(t *testing.T) {
@@ -134,6 +135,30 @@ func TestSliceContains(t *testing.T) {
 		t.Run(tt.name, func(t *testing.T) {
 			if got := SliceContains(tt.args.strQuery, tt.args.slData); got != tt.want {
 				t.Errorf("SliceContains() = %v, want %v", got, tt.want)
+			}
+		})
+	}
+}
+
+func TestStringToDate(t *testing.T) {
+	type args struct {
+		dateStr string
+	}
+	tests := []struct {
+		name        string
+		args        args
+		wantRetDate time.Time
+		wantErr     bool
+	}{
+		{name: "StringToDate", args: args{dateStr: "2020-01-01"}, wantRetDate: time.Date(2020, 1, 1, 15, 04, 05, 0, time.UTC), wantErr: false},
+		{name: "StringToDateInvalid", args: args{dateStr: "notadate"}, wantRetDate: time.Time{}, wantErr: true},
+		{name: "StringToDateEmpty", args: args{dateStr: ""}, wantRetDate: time.Time{}, wantErr: true},
+	}
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			gotRetDate, err := StringToDate(tt.args.dateStr)
+			if !reflect.DeepEqual(gotRetDate, tt.wantRetDate) && (err != nil) != tt.wantErr {
+				t.Errorf("StringToDate() gotRetDate = %v, want %v, wantErr = %v, want %v", gotRetDate, tt.wantRetDate, err, tt.wantErr)
 			}
 		})
 	}
