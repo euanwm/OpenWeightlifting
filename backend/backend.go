@@ -92,9 +92,6 @@ func postLeaderboard(c *gin.Context) {
 
 	// todo: remove this once the frontend filters have been updated to suit
 	switch body.Year {
-	case 6969:
-		body.StartDate = "2022-01-31"
-		body.EndDate = "2023-06-09"
 	case 69:
 		body.StartDate = enum.ZeroDate
 		body.EndDate = enum.MaxDate
