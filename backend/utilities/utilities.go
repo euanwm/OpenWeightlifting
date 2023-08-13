@@ -59,3 +59,11 @@ func StringToDate(dateString string) (date time.Time, borkt error) {
 	}
 	return date, nil
 }
+
+// ReverseSlice - Returns a reversed slice
+func ReverseSlice[S any](liftResults []S) (reversedSlice []S) {
+	for i := len(liftResults) - 1; i >= 0; i-- {
+		reversedSlice = append(reversedSlice, liftResults[i])
+	}
+	return
+}

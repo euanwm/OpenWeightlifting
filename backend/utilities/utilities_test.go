@@ -163,3 +163,23 @@ func TestStringToDate(t *testing.T) {
 		})
 	}
 }
+
+func TestReverseSlice(t *testing.T) {
+	type args struct {
+		slData []string
+	}
+	tests := []struct {
+		name string
+		args args
+		want []string
+	}{
+		{name: "ReverseSlice", args: args{slData: []string{"a", "b"}}, want: []string{"b", "a"}},
+	}
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			if got := ReverseSlice(tt.args.slData); !reflect.DeepEqual(got, tt.want) {
+				t.Errorf("ReverseSlice() = %v, want %v", got, tt.want)
+			}
+		})
+	}
+}
