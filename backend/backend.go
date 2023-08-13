@@ -6,6 +6,7 @@ import (
 	"backend/events"
 	"backend/lifter"
 	"backend/structs"
+	"backend/utilities"
 	"log"
 	"net/http"
 	"os"
@@ -73,6 +74,7 @@ func postLifterHistory(c *gin.Context) {
 	lifterDetails := lifter.FetchLifts(lifterSearch, &processedLeaderboard)
 	lifterDetails.Lifts = dbtools.SortDate(lifterDetails.Lifts)
 	lifterDetails.Graph = lifterDetails.GenerateChartData()
+	lifterDetails.Lifts = utilities.ReverseSlice(lifterDetails.Lifts)
 
 	if len(lifterDetails.Lifts) != 0 {
 		c.JSON(http.StatusOK, lifterDetails)
