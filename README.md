@@ -37,3 +37,7 @@ pipenv run python backend_cli.py --update all
 
 ### License
 Done this under the BSD-3-Clause license. Simply because it's what the sport80 library is under and i'm hella lazy.
+
+### Contributing
+If you want to contribute, please do! We're always looking for more people to help out. If you're not sure where to start, check out the issues page and join the discord server.
+https://discord.gg/kqnBqdktgr
