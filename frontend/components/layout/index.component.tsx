@@ -1,7 +1,7 @@
 import Image from 'next/image'
-import { Container, Switch, useTheme } from '@nextui-org/react'
+import { Container, Switch, useTheme, Link } from '@nextui-org/react'
 import { useTheme as useNextTheme } from 'next-themes'
-import { FaSun, FaMoon, FaGithub, FaDiscord, FaInstagram } from 'react-icons/fa'
+import { FaSun, FaMoon, FaGithub, FaDiscord, FaInstagram, FaCalculator } from 'react-icons/fa'
 
 import styles from './layout.module.css'
 
@@ -21,7 +21,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
           <Image src={Logo} fill={true} alt='Open Weightlifting' sizes='auto' placeholder='blur' blurDataURL={"/OWL-logo.png"} />
         </div>
         <div className={styles.linkContainer}>
-          <a href="https://discord.gg/kqnBqdktgr" target="_blank" rel="noreferrer"><FaDiscord size='30px' className={themeIconClass} /></a>
+          <Link href="/sinclair"><FaCalculator size='30px' className={themeIconClass} /></Link>
           <a href="https://www.instagram.com/openweightlifting/" target="_blank" rel="noreferrer"><FaInstagram size='30px' className={themeIconClass} /></a>
           <a href="https://github.com/euanwm/OpenWeightlifting" target="_blank" rel="noreferrer"><FaGithub size='30px' className={themeIconClass} /></a>
           <div className={styles.themeSelector}>
