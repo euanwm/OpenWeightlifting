@@ -1,4 +1,4 @@
-import { Input, Radio, Dropdown } from '@nextui-org/react'
+import { Input, Radio, Dropdown, Grid } from '@nextui-org/react'
 import { useState } from "react";
 
 const Coefficients = {
@@ -42,8 +42,6 @@ const SinclairCalculator = {
   getSinclair: function (year : string, gender : string, bodyWeightKg : number, total : number) {
     let isMale = gender == "male";
 
-    console.log("Year: " + year);
-
     let coeffSettings : CoefficientSettings;
     switch (parseInt(year)) {
       case 2009:
@@ -76,50 +74,60 @@ function Sinclair() {
 
   // @ts-ignore
   return (
+    <Grid.Container gap={2} justify="center">
     <div>
       <h1>Sinclair Calculator</h1>
-      <Input
-        aria-label="Bodyweight"
-        type="number"
-        placeholder="Bodyweight"
-        onChange={(e) => setBodyweight(parseFloat(e.target.value))}
-      />
-      <Input
-        aria-label="Total"
-        type="number"
-        placeholder="Total"
-        onChange={(e) => setTotal(parseFloat(e.target.value))}
-      />
-      <Radio.Group aria-label="Gender" value={selected} onChange={setSelected}>
-        <Radio value="male" color="primary">Male</Radio>
-        <Radio value="female" color="error">Female</Radio>
-      </Radio.Group>
-      <Dropdown>
-        <Dropdown.Button
-          aria-label="Sinclair Year"
-          defaultValue="2021"
-        >
-          {sinclairYear}
-        </Dropdown.Button>
-        <Dropdown.Menu
-          aria-label="Sinclair Year"
-          disallowEmptySelection
-          selectionMode="single"
-          selectedKeys={sinclairYear}
-          // @ts-ignore
-          onSelectionChange={setSinclairYear}
+      <Grid>
+        <Input
+          aria-label="Bodyweight"
+          type="number"
+          placeholder="Bodyweight"
+          onChange={(e) => setBodyweight(parseFloat(e.target.value))}
+        />
+      </Grid>
+      <Grid>
+        <Input
+          aria-label="Total"
+          type="number"
+          placeholder="Total"
+          onChange={(e) => setTotal(parseFloat(e.target.value))}
+        />
+      </Grid>
+      <Grid>
+        <Radio.Group aria-label="Gender" value={selected} onChange={setSelected}>
+          <Radio value="male" color="primary">Male</Radio>
+          <Radio value="female" color="error">Female</Radio>
+        </Radio.Group>
+      </Grid>
+      <Grid>
+        <Dropdown>
+          <Dropdown.Button
+            aria-label="Sinclair Year"
+            defaultValue="2021"
           >
-          <Dropdown.Item key="2009">2009</Dropdown.Item>
-          <Dropdown.Item key="2013">2013</Dropdown.Item>
-          <Dropdown.Item key="2017">2017</Dropdown.Item>
-          <Dropdown.Item key="2021">2021</Dropdown.Item>
-        </Dropdown.Menu>
-      </Dropdown>
-
-      <button onClick={() => setSinclair(SinclairCalculator.getSinclair(Array.from(sinclairYear).join(''), selected, bodyweight, total))}>Calculate</button>
-      <h3>Selected Sinclair: {sinclairYear}</h3>
-      <h2>Sinclair Score: {sinclair.toFixed(3)}</h2>
+            {sinclairYear}
+          </Dropdown.Button>
+          <Dropdown.Menu
+            aria-label="Sinclair Year"
+            disallowEmptySelection
+            selectionMode="single"
+            selectedKeys={sinclairYear}
+            // @ts-ignore
+            onSelectionChange={setSinclairYear}
+            >
+            <Dropdown.Item key="2009">2009 - 2012</Dropdown.Item>
+            <Dropdown.Item key="2013">2013 - 2016</Dropdown.Item>
+            <Dropdown.Item key="2017">2017 - 2020</Dropdown.Item>
+            <Dropdown.Item key="2021">2021 - 2024</Dropdown.Item>
+          </Dropdown.Menu>
+        </Dropdown>
+      </Grid>
+      <Grid>
+        <button onClick={() => setSinclair(SinclairCalculator.getSinclair(Array.from(sinclairYear).join(''), selected, bodyweight, total))}>Calculate</button>
+      </Grid>
+        <h2>Sinclair Score: {sinclair.toFixed(3)}</h2>
     </div>
+  </Grid.Container>
   )
 }
 
