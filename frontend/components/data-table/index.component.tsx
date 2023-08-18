@@ -1,4 +1,4 @@
-import { Table, useTheme } from "@nextui-org/react"
+import { Table, useTheme, Link } from "@nextui-org/react"
 import { FaInstagram } from "react-icons/fa"
 import { VscGraphLine } from 'react-icons/vsc'
 import { CgProfile } from 'react-icons/cg'
@@ -28,6 +28,7 @@ export const DataTable = ({ lifters, openLifterGraphHandler }: { lifters: Lifter
   const themeIconClass = isDark ? styles.themeIconDark : styles.themeIconLight
 
   const generateLifterRow = (lifter: LifterResult, lifterNo: number) => {
+    const lifter_page = "lifter?name=" + lifter.lifter_name
     return (
       <Table.Row key={`lifter-${lifterNo}`}>
         <Table.Cell>{lifterNo}</Table.Cell>
@@ -40,7 +41,7 @@ export const DataTable = ({ lifters, openLifterGraphHandler }: { lifters: Lifter
             <button onClick={() => openLifterGraphHandler(lifter.lifter_name)} className={styles.graphButton}>
               <VscGraphLine size={25} className={themeIconClass} />
             </button>
-            <a href={`/lifter?name=${lifter.lifter_name}`} target="_blank" rel="noreferrer noopener"><CgProfile size={25} className={themeIconClass} /></a>
+            <Link href={lifter_page}><CgProfile size={25} className={themeIconClass} /></Link>
           </div>
         </Table.Cell>
         <Table.Cell>{lifter.country}</Table.Cell>
