@@ -2,8 +2,8 @@ import { useRouter } from 'next/router'
 import { useEffect, useState } from 'react'
 import { TableRow } from '@nextui-org/react'
 
-import { LifterGraph } from '../components/lifter-graph/index.component'
-import { HistoryTable } from '../components/history-table/index.components'
+import { LifterGraph } from '../components/liftergraph'
+import { HistoryTable } from '../components/historytable'
 import fetchLifterHistory from 'api/fetchLifterHistory/fetchLifterHistory'
 import { LifterHistory } from 'api/fetchLifterHistory/fetchLifterHistoryTypes'
 

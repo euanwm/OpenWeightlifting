@@ -3,9 +3,9 @@ import { FaInstagram } from "react-icons/fa"
 import { VscGraphLine } from 'react-icons/vsc'
 import { CgProfile } from 'react-icons/cg'
 
-import { AllDetails } from "../all-details/index.component"
+import { AllDetails } from "./alldetails"
 
-import styles from './data-table.module.css'
+import styles from './data-table/data-table.module.css'
 import { LifterResult } from "api/fetchLifterData/fetchLifterDataTypes"
 
 export const DataTable = ({ lifters, openLifterGraphHandler }: { lifters: LifterResult[], openLifterGraphHandler: (lifterName: string) => void }) => {

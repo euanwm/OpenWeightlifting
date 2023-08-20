@@ -2,7 +2,7 @@ import NativeSelect from '@mui/material/NativeSelect'
 import InputLabel from '@mui/material/InputLabel'
 import FormControl from '@mui/material/FormControl'
 
-import styles from './filters.module.css'
+import styles from './filters/filters.module.css'
 
 // todo: convert to enums?
 const sortByList = [

@@ -10,7 +10,7 @@ import {
   PopoverContent,
   PopoverTrigger,
 } from '@nextui-org/react'
-import { LifterResult } from 'api/fetchLifterData/fetchLifterDataTypes'
+import { LifterResult } from '@/api/fetchLifterData/fetchLifterDataTypes'
 
 const tableHeaderStyles = {
   fontSize: '$sm',
