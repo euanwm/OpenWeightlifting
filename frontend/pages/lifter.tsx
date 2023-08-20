@@ -1,6 +1,6 @@
 import { useRouter } from 'next/router'
 import { useEffect, useState } from 'react'
-import { Container, Row } from '@nextui-org/react'
+import { TableRow } from '@nextui-org/react'
 
 import { LifterGraph } from '../components/lifter-graph/index.component'
 import { HistoryTable } from '../components/history-table/index.components'
@@ -31,13 +31,11 @@ function Lifter() {
 
   return (
     <div>
-      <Container alignContent={'center'} alignItems={'center'}>
-        <Row justify="center" align="center">
+        <TableRow>
           <u>
             <h1>{lifterHistory['name']}</h1>
           </u>
-        </Row>
-      </Container>
+        </TableRow>
       <LifterGraph lifterHistory={lifterHistory['graph']} />
       <HistoryTable history={lifterHistory['lifts']} />
     </div>

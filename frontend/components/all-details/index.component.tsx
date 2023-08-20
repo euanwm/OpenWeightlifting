@@ -1,4 +1,15 @@
-import { Popover, Table, Button } from '@nextui-org/react'
+import {
+  Popover,
+  Table,
+  Button,
+  TableRow,
+  TableBody,
+  TableCell,
+  TableColumn,
+  TableHeader,
+  PopoverContent,
+  PopoverTrigger,
+} from '@nextui-org/react'
 import { LifterResult } from 'api/fetchLifterData/fetchLifterDataTypes'
 
 const tableHeaderStyles = {
@@ -28,53 +39,51 @@ const tableButtonStyle = {
 export const AllDetails = ({ full_comp }: { full_comp: LifterResult }) => {
   return (
     <Popover placement="left">
-      <Popover.Trigger>
-        <Button auto flat css={tableButtonStyle}>
+      <PopoverTrigger>
+        <Button>
           More details...
         </Button>
-      </Popover.Trigger>
-      <Popover.Content>
+      </PopoverTrigger>
+      <PopoverContent>
         <Table
-          striped
           aria-label="Open weight lifting lifters extended results table"
-          css={tableLayoutStyle}
         >
-          <Table.Header>
-            <Table.Column css={tableHeaderStyles}>
+          <TableHeader>
+            <TableColumn>
               {full_comp.event}
-            </Table.Column>
-          </Table.Header>
-          <Table.Body css={tableBodyStyle}>
-            <Table.Row>
-              <Table.Cell>Event Date: {full_comp.date}</Table.Cell>
-            </Table.Row>
-            <Table.Row>
-              <Table.Cell>Bodyweight: {full_comp.bodyweight}</Table.Cell>
-            </Table.Row>
-            <Table.Row>
-              <Table.Cell>Category: {full_comp.gender}</Table.Cell>
-            </Table.Row>
-            <Table.Row>
-              <Table.Cell>Opening Snatch: {full_comp.snatch_1}</Table.Cell>
-            </Table.Row>
-            <Table.Row>
-              <Table.Cell>Second Snatch: {full_comp.snatch_2}</Table.Cell>
-            </Table.Row>
-            <Table.Row>
-              <Table.Cell>Final Snatch: {full_comp.snatch_3}</Table.Cell>
-            </Table.Row>
-            <Table.Row>
-              <Table.Cell>Opening C&J: {full_comp.cj_1}</Table.Cell>
-            </Table.Row>
-            <Table.Row>
-              <Table.Cell>Second C&J: {full_comp.cj_2}</Table.Cell>
-            </Table.Row>
-            <Table.Row>
-              <Table.Cell>Final C&J: {full_comp.cj_3}</Table.Cell>
-            </Table.Row>
-          </Table.Body>
+            </TableColumn>
+          </TableHeader>
+          <TableBody>
+            <TableRow>
+              <TableCell>Event Date: {full_comp.date}</TableCell>
+            </TableRow>
+            <TableRow>
+              <TableCell>Bodyweight: {full_comp.bodyweight}</TableCell>
+            </TableRow>
+            <TableRow>
+              <TableCell>Category: {full_comp.gender}</TableCell>
+            </TableRow>
+            <TableRow>
+              <TableCell>Opening Snatch: {full_comp.snatch_1}</TableCell>
+            </TableRow>
+            <TableRow>
+              <TableCell>Second Snatch: {full_comp.snatch_2}</TableCell>
+            </TableRow>
+            <TableRow>
+              <TableCell>Final Snatch: {full_comp.snatch_3}</TableCell>
+            </TableRow>
+            <TableRow>
+              <TableCell>Opening C&J: {full_comp.cj_1}</TableCell>
+            </TableRow>
+            <TableRow>
+              <TableCell>Second C&J: {full_comp.cj_2}</TableCell>
+            </TableRow>
+            <TableRow>
+              <TableCell>Final C&J: {full_comp.cj_3}</TableCell>
+            </TableRow>
+          </TableBody>
         </Table>
-      </Popover.Content>
+      </PopoverContent>
     </Popover>
   )
 }

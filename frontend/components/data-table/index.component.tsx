@@ -1,4 +1,4 @@
-import { Table, TableCell, TableRow, TableHeader, TableColumn, TableBody, Pagination, Link } from "@nextui-org/react"
+import { Table, TableCell, TableRow, TableHeader, TableColumn, TableBody, Link } from "@nextui-org/react"
 import { FaInstagram } from "react-icons/fa"
 import { VscGraphLine } from 'react-icons/vsc'
 import { CgProfile } from 'react-icons/cg'
@@ -7,21 +7,6 @@ import { AllDetails } from "../all-details/index.component"
 
 import styles from './data-table.module.css'
 import { LifterResult } from "api/fetchLifterData/fetchLifterDataTypes"
-
-const tableStyle = {
-  tableLayout: 'fixed',
-  textAlign: 'center',
-  width: "auto",
-  height: "auto",
-  paddingLeft: "0",
-  paddingRight: "0",
-}
-
-const tableHeaderStyles = {
-  textAlign: "center",
-  whiteSpace: "nowrap",
-  padding: "5px 10px"
-}
 
 export const DataTable = ({ lifters, openLifterGraphHandler }: { lifters: LifterResult[], openLifterGraphHandler: (lifterName: string) => void }) => {
   const generateLifterRow = (lifter: LifterResult, lifterNo: number) => {
