@@ -1,4 +1,4 @@
-import { Table, useTheme, Link } from "@nextui-org/react"
+import { Table, TableCell, TableRow, TableHeader, TableColumn, TableBody, Pagination, Link } from "@nextui-org/react"
 import { FaInstagram } from "react-icons/fa"
 import { VscGraphLine } from 'react-icons/vsc'
 import { CgProfile } from 'react-icons/cg'
@@ -24,60 +24,51 @@ const tableHeaderStyles = {
 }
 
 export const DataTable = ({ lifters, openLifterGraphHandler }: { lifters: LifterResult[], openLifterGraphHandler: (lifterName: string) => void }) => {
-  const { isDark } = useTheme();
-  const themeIconClass = isDark ? styles.themeIconDark : styles.themeIconLight
-
   const generateLifterRow = (lifter: LifterResult, lifterNo: number) => {
     const lifter_page = "lifter?name=" + lifter.lifter_name
     return (
-      <Table.Row key={`lifter-${lifterNo}`}>
-        <Table.Cell>{lifterNo}</Table.Cell>
-        <Table.Cell>{lifter.lifter_name}</Table.Cell>
-        <Table.Cell>
+      <TableRow key={`lifter-${lifterNo}`}>
+        <TableCell>{lifterNo}</TableCell>
+        <TableCell>{lifter.lifter_name}</TableCell>
+        <TableCell>
           <div className={styles.iconContainer}>
             {lifter.instagram.length > 0 && (
-              <a href={`https://www.instagram.com/${lifter.instagram}`} target="_blank" rel="noreferrer noopener"><FaInstagram size={25} className={themeIconClass} /></a>
+              <a href={`https://www.instagram.com/${lifter.instagram}`} target="_blank" rel="noreferrer noopener"><FaInstagram size={25} /></a>
             )}
             <button onClick={() => openLifterGraphHandler(lifter.lifter_name)} className={styles.graphButton}>
-              <VscGraphLine size={25} className={themeIconClass} />
+              <VscGraphLine size={25} />
             </button>
-            <Link href={lifter_page}><CgProfile size={25} className={themeIconClass} /></Link>
+            <Link href={lifter_page}><CgProfile size={25} /></Link>
           </div>
-        </Table.Cell>
-        <Table.Cell>{lifter.country}</Table.Cell>
-        <Table.Cell>{lifter.best_snatch}</Table.Cell>
-        <Table.Cell>{lifter.best_cj}</Table.Cell>
-        <Table.Cell>{lifter.total}</Table.Cell>
-        <Table.Cell>{lifter.sinclair}</Table.Cell>
-        <Table.Cell>
+        </TableCell>
+        <TableCell>{lifter.country}</TableCell>
+        <TableCell>{lifter.best_snatch}</TableCell>
+        <TableCell>{lifter.best_cj}</TableCell>
+        <TableCell>{lifter.total}</TableCell>
+        <TableCell>{lifter.sinclair}</TableCell>
+        <TableCell>
           <AllDetails full_comp={lifter}></AllDetails>
-        </Table.Cell>
-      </Table.Row>
+        </TableCell>
+      </TableRow>
     )
   }
 
   return (
-    <Table striped aria-label="Open weight lifting lifters results table" css={tableStyle}>
-      <Table.Header>
-        <Table.Column css={tableHeaderStyles}>Rank</Table.Column>
-        <Table.Column css={tableHeaderStyles}>Lifter</Table.Column>
-        <Table.Column> </Table.Column>
-        <Table.Column css={tableHeaderStyles}>Federation</Table.Column>
-        <Table.Column css={tableHeaderStyles}>Top Snatch</Table.Column>
-        <Table.Column css={tableHeaderStyles}>Top Clean & Jerk</Table.Column>
-        <Table.Column css={tableHeaderStyles}>Total</Table.Column>
-        <Table.Column css={tableHeaderStyles}>Sinclair</Table.Column>
-        <Table.Column css={tableHeaderStyles}>Details</Table.Column>
-      </Table.Header>
-      <Table.Body>
+    <Table aria-label="Open weight lifting lifters results table">
+      <TableHeader>
+        <TableColumn>Rank</TableColumn>
+        <TableColumn>Lifter</TableColumn>
+        <TableColumn> </TableColumn>
+        <TableColumn>Federation</TableColumn>
+        <TableColumn>Top Snatch</TableColumn>
+        <TableColumn>Top Clean & Jerk</TableColumn>
+        <TableColumn>Total</TableColumn>
+        <TableColumn>Sinclair</TableColumn>
+        <TableColumn>Details</TableColumn>
+      </TableHeader>
+      <TableBody>
         {lifters.map((lifter, i) => generateLifterRow(lifter, i + 1))}
-      </Table.Body>
-      <Table.Pagination
-        align="center"
-        rowsPerPage={50}
-        onPageChange={(page) => console.log({ page })}
-        css={{ margin: '20px 0' }}
-      />
+      </TableBody>
     </Table>
   )
 }

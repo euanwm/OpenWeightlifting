@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
-import { useTheme, Modal } from '@nextui-org/react'
-import { ThemeProvider, createTheme } from '@mui/material/styles'
+import { Modal } from '@nextui-org/react'
+import { createTheme } from '@mui/material/styles'
 import CssBaseline from '@mui/material/CssBaseline'
 
 import { DataTable } from '../components/data-table/index.component'
@@ -35,7 +35,6 @@ function Home({ data }: { data: LifterResult[] }) {
   const [showLifterGraph, setShowLifterGraph] = useState(false)
   const [currentLifterGraph, setCurrentLifterGraph] = useState<LifterChartData>()
   const [isGraphLoading, setIsGraphLoading] = useState(true)
-  const { isDark } = useTheme()
 
   useEffect(() => {
     async function callFetchLifterData() {
@@ -79,7 +78,6 @@ function Home({ data }: { data: LifterResult[] }) {
 
   return (
     <>
-      <ThemeProvider theme={isDark ? darkTheme : lightTheme}>
         <CssBaseline />
         <Filters
           sortBy={sortBy}
@@ -90,8 +88,7 @@ function Home({ data }: { data: LifterResult[] }) {
         />
         {currentLifterList && <DataTable lifters={currentLifterList} openLifterGraphHandler={openLifterGraphHandler} />}
 
-      </ThemeProvider>
-      <Modal closeButton blur open={showLifterGraph} onClose={closeLifterGraphHandler} width='1000'>
+      <Modal closeButton backdrop={"blur"} isOpen={showLifterGraph} onClose={closeLifterGraphHandler}>
         <h3>{currentLifterName}: History (Total)</h3>
         {isGraphLoading ? (
           <h4>Loading...</h4>
