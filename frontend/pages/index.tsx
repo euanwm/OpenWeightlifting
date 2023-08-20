@@ -1,29 +1,16 @@
 import { useState, useEffect } from 'react'
 import { Modal } from '@nextui-org/react'
-import { createTheme } from '@mui/material/styles'
 import CssBaseline from '@mui/material/CssBaseline'
 
-import { DataTable } from '../components/data-table/index.component'
-import { Filters } from '../components/filters/index.component'
-import { LifterGraph } from '../components/lifter-graph/index.component'
+import { DataTable } from "@/components/data-table/index.component"
+import { Filters } from "@/components/filters/index.component"
+import { LifterGraph } from "@/components/lifter-graph/index.component"
 
-import fetchLifterData from 'api/fetchLifterData/fetchLifterData'
-import fetchLifterGraphData from 'api/fetchLifterGraphData/fetchLifterGraphData'
+import fetchLifterData from '@/api/fetchLifterData/fetchLifterData'
+import fetchLifterGraphData from '@/api/fetchLifterGraphData/fetchLifterGraphData'
 
-import { LifterResult } from 'api/fetchLifterData/fetchLifterDataTypes';
-import { LifterChartData } from 'api/fetchLifterGraphData/fetchLifterGraphDataTypes';
-
-const darkTheme = createTheme({
-  palette: {
-    mode: 'dark',
-  },
-})
-
-const lightTheme = createTheme({
-  palette: {
-    mode: 'light',
-  },
-})
+import { LifterResult } from '@/api/fetchLifterData/fetchLifterDataTypes';
+import { LifterChartData } from '@/api/fetchLifterGraphData/fetchLifterGraphDataTypes';
 
 function Home({ data }: { data: LifterResult[] }) {
   const [sortBy, setSortBy] = useState('total')
