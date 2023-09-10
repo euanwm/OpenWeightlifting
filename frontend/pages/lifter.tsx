@@ -1,11 +1,11 @@
 import { useRouter } from 'next/router'
 import { useEffect, useState } from 'react'
-import { TableRow } from '@nextui-org/react'
 
 import { LifterGraph } from "@/components/liftergraph"
 import { HistoryTable } from "@/components/historytable"
 import fetchLifterHistory from '../api/fetchLifterHistory/fetchLifterHistory'
 import { LifterHistory } from "@/api/fetchLifterHistory/fetchLifterHistoryTypes"
+import HeaderBar from "@/layouts/head";
 
 function Lifter() {
   const router = useRouter()
@@ -31,11 +31,10 @@ function Lifter() {
 
   return (
     <div>
-        <TableRow>
-          <u>
-            <h1>{lifterHistory['name']}</h1>
-          </u>
-        </TableRow>
+      <HeaderBar />
+      <center>
+        <h1>{lifterHistory['name']}</h1>
+      </center>
       <LifterGraph lifterHistory={lifterHistory['graph']} />
       <HistoryTable history={lifterHistory['lifts']} />
     </div>

@@ -5,7 +5,6 @@ import { CgProfile } from 'react-icons/cg'
 
 import { AllDetails } from "./alldetails"
 
-import styles from './data-table/data-table.module.css'
 import { LifterResult } from "@/api/fetchLifterData/fetchLifterDataTypes"
 
 export const DataTable = ({ lifters, openLifterGraphHandler }: { lifters: LifterResult[], openLifterGraphHandler: (lifterName: string) => void }) => {
@@ -16,15 +15,13 @@ export const DataTable = ({ lifters, openLifterGraphHandler }: { lifters: Lifter
         <TableCell>{lifterNo}</TableCell>
         <TableCell>{lifter.lifter_name}</TableCell>
         <TableCell>
-          <div className={styles.iconContainer}>
             {lifter.instagram.length > 0 && (
               <a href={`https://www.instagram.com/${lifter.instagram}`} target="_blank" rel="noreferrer noopener"><FaInstagram size={25} /></a>
             )}
-            <button onClick={() => openLifterGraphHandler(lifter.lifter_name)} className={styles.graphButton}>
+            <button onClick={() => openLifterGraphHandler(lifter.lifter_name)}>
               <VscGraphLine size={25} />
             </button>
             <Link href={lifter_page}><CgProfile size={25} /></Link>
-          </div>
         </TableCell>
         <TableCell>{lifter.country}</TableCell>
         <TableCell>{lifter.best_snatch}</TableCell>

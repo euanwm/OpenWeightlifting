@@ -34,8 +34,6 @@ const tableButtonStyle = {
   margin: '0 auto',
 }
 
-// todo: this need to be called on the button click
-// todo: clean and jerks arent showing up
 export const AllDetails = ({ full_comp }: { full_comp: LifterResult }) => {
   return (
     <Popover placement="left">

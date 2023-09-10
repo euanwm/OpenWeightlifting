@@ -1,6 +1,5 @@
 import { useState, useEffect } from 'react'
 import { Modal } from '@nextui-org/react'
-import CssBaseline from '@mui/material/CssBaseline'
 
 import HeaderBar from '@/layouts/head'
 
@@ -28,7 +27,7 @@ function Home({ data }: { data: LifterResult[] }) {
   useEffect(() => {
     async function callFetchLifterData() {
       setCurrentLifterList(
-        await fetchLifterData(0, 500, sortBy, federation, weightclass, parseInt(String(year))),
+        await fetchLifterData(0, 100, sortBy, federation, weightclass, parseInt(String(year))),
       )
     }
 
@@ -67,18 +66,24 @@ function Home({ data }: { data: LifterResult[] }) {
 
   return (
     <div>
-    <HeaderBar />
-      <Filters sortBy={
-        sortBy
-      } federation={
-        federation
-      } handleGenderChange={
-        handleGenderChange
-      } weightClass={
-        weightclass
-      } year={
-        year
-      }/>
+      <HeaderBar />
+        <Filters
+          sortBy={sortBy}
+          federation={federation}
+          handleGenderChange={handleGenderChange}
+          weightClass={weightclass}
+          year={year}
+        />
+        {currentLifterList && <DataTable lifters={currentLifterList} openLifterGraphHandler={openLifterGraphHandler} />}
+
+        <Modal closeButton isOpen={showLifterGraph} onClose={closeLifterGraphHandler}>
+        <h3>{currentLifterName}: History (Total)</h3>
+        {isGraphLoading ? (
+        <h4>Loading...</h4>
+      ) : (
+        <LifterGraph lifterHistory={currentLifterGraph} />
+      )}
+     </Modal>
     </div>
   )
 }
