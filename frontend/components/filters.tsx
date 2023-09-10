@@ -54,14 +54,16 @@ const yearsList = [
   { value: 2023, label: '2023' }
 ]
 
-// Arrange all Select options on the same line and add a divider between each
 export const Filters = ({ sortBy, federation, handleGenderChange, weightClass, year }: {sortBy: string, federation: string, handleGenderChange: any, weightClass: string, year: number}) => (
-  <div className="flex flex-col items-center justify-center">
+  <div>
     <Select
       items={sortByList}
       label="Total/Sinclair"
       placeholder={sortByList[0].label}
       fullWidth={false}
+      onChange={
+        (e) => handleGenderChange({ type: 'sortBy', value: e.target.value })
+      }
       >
       {(sortBy) => <SelectItem key={sortBy.value} value={sortBy.value}>{sortBy.label}</SelectItem>}
     </Select>
@@ -71,6 +73,9 @@ export const Filters = ({ sortBy, federation, handleGenderChange, weightClass, y
       label="Federation"
       placeholder={federationList[0].label}
       fullWidth={false}
+      onChange={
+        (e) => handleGenderChange({ type: 'federation', value: e.target.value })
+      }
       >
       {(federation) => <SelectItem key={federation.value} value={federation.value}>{federation.label}</SelectItem>}
     </Select>
@@ -80,6 +85,9 @@ export const Filters = ({ sortBy, federation, handleGenderChange, weightClass, y
       label="Weight Class"
       placeholder={weightClassList[0].label}
       fullWidth={false}
+      onChange={
+        (e) => handleGenderChange({ type: 'weightclass', value: e.target.value })
+      }
       >
       {(weightClass) => <SelectItem key={weightClass.value} value={weightClass.value}>{weightClass.label}</SelectItem>}
     </Select>
@@ -89,6 +97,9 @@ export const Filters = ({ sortBy, federation, handleGenderChange, weightClass, y
       label="Year"
       placeholder={yearsList[0].label}
       fullWidth={false}
+      onChange={
+        (e) => handleGenderChange({ type: 'year', value: parseInt(e.target.value) })
+      }
       >
       {(year) => <SelectItem key={year.value} value={year.value}>{year.label}</SelectItem>}
     </Select>
