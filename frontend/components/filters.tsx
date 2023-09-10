@@ -61,27 +61,34 @@ export const Filters = ({ sortBy, federation, handleGenderChange, weightClass, y
       items={sortByList}
       label="Total/Sinclair"
       placeholder={sortByList[0].label}
+      fullWidth={false}
       >
       {(sortBy) => <SelectItem key={sortBy.value} value={sortBy.value}>{sortBy.label}</SelectItem>}
     </Select>
+    <Divider orientation="horizontal"/>
     <Select
       items={federationList}
       label="Federation"
       placeholder={federationList[0].label}
+      fullWidth={false}
       >
       {(federation) => <SelectItem key={federation.value} value={federation.value}>{federation.label}</SelectItem>}
     </Select>
+    <Divider orientation="horizontal"/>
     <Select
       items={weightClassList}
       label="Weight Class"
       placeholder={weightClassList[0].label}
+      fullWidth={false}
       >
       {(weightClass) => <SelectItem key={weightClass.value} value={weightClass.value}>{weightClass.label}</SelectItem>}
     </Select>
+    <Divider orientation="horizontal"/>
     <Select
       items={yearsList}
       label="Year"
       placeholder={yearsList[0].label}
+      fullWidth={false}
       >
       {(year) => <SelectItem key={year.value} value={year.value}>{year.label}</SelectItem>}
     </Select>
