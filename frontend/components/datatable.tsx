@@ -1,4 +1,4 @@
-import { Table, TableCell, TableRow, TableHeader, TableColumn, TableBody, Link } from "@nextui-org/react"
+import { Table, TableCell, TableRow, TableHeader, TableColumn, TableBody, Link, Divider } from "@nextui-org/react"
 import { FaInstagram } from "react-icons/fa"
 import { VscGraphLine } from 'react-icons/vsc'
 import { CgProfile } from 'react-icons/cg'
@@ -13,15 +13,17 @@ export const DataTable = ({ lifters, openLifterGraphHandler }: { lifters: Lifter
     return (
       <TableRow key={`lifter-${lifterNo}`}>
         <TableCell>{lifterNo}</TableCell>
-        <TableCell>{lifter.lifter_name}</TableCell>
-        <TableCell>
-            {lifter.instagram.length > 0 && (
-              <a href={`https://www.instagram.com/${lifter.instagram}`} target="_blank" rel="noreferrer noopener"><FaInstagram size={25} /></a>
-            )}
-            <button onClick={() => openLifterGraphHandler(lifter.lifter_name)}>
-              <VscGraphLine size={25} />
-            </button>
-            <Link href={lifter_page}><CgProfile size={25} /></Link>
+        <TableCell>{lifter.lifter_name}
+          <Divider orientation="vertical" />
+          {lifter.instagram.length > 0 && (
+            <a href={`https://www.instagram.com/${lifter.instagram}`} ><FaInstagram size={25} /></a>
+          )}
+          <Divider orientation="vertical" />
+          <button onClick={() => openLifterGraphHandler(lifter.lifter_name)}>
+            <VscGraphLine size={25} />
+          </button>
+          <Divider orientation="vertical" />
+          <Link href={lifter_page}><CgProfile size={25} /></Link>
         </TableCell>
         <TableCell>{lifter.country}</TableCell>
         <TableCell>{lifter.best_snatch}</TableCell>
@@ -40,7 +42,6 @@ export const DataTable = ({ lifters, openLifterGraphHandler }: { lifters: Lifter
       <TableHeader>
         <TableColumn>Rank</TableColumn>
         <TableColumn>Lifter</TableColumn>
-        <TableColumn> </TableColumn>
         <TableColumn>Federation</TableColumn>
         <TableColumn>Top Snatch</TableColumn>
         <TableColumn>Top Clean & Jerk</TableColumn>

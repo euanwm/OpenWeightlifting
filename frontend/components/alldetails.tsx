@@ -12,28 +12,6 @@ import {
 } from '@nextui-org/react'
 import { LifterResult } from '@/api/fetchLifterData/fetchLifterDataTypes'
 
-const tableHeaderStyles = {
-  fontSize: '$sm',
-  textAlign: 'center',
-  whiteSpace: 'nowrap',
-}
-
-const tableBodyStyle = {
-  fontSize: '$sm',
-}
-
-const tableLayoutStyle = {
-  tableLayout: 'fixed',
-  textAlign: 'center',
-  width: 'auto',
-  paddingLeft: '0',
-  paddingRight: '0',
-}
-
-const tableButtonStyle = {
-  margin: '0 auto',
-}
-
 export const AllDetails = ({ full_comp }: { full_comp: LifterResult }) => {
   return (
     <Popover placement="left">
