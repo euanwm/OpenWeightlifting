@@ -1,8 +1,4 @@
-import NativeSelect from '@mui/material/NativeSelect'
-import InputLabel from '@mui/material/InputLabel'
-import FormControl from '@mui/material/FormControl'
-
-import styles from './filters/filters.module.css'
+import { Divider, Select, SelectItem } from '@nextui-org/react'
 
 // todo: convert to enums?
 const sortByList = [
@@ -58,83 +54,36 @@ const yearsList = [
   { value: 2023, label: '2023' }
 ]
 
-
+// Arrange all Select options on the same line and add a divider between each
 export const Filters = ({ sortBy, federation, handleGenderChange, weightClass, year }: {sortBy: string, federation: string, handleGenderChange: any, weightClass: string, year: number}) => (
-  <div className={styles.filters}>
-    <FormControl className={styles.selectContainer}>
-      <InputLabel variant="standard" htmlFor="sortBySelect">
-        Total/Sinclair
-      </InputLabel>
-      <NativeSelect
-        id="sortBySelect"
-        value={sortBy}
-        onChange={e =>
-          handleGenderChange({ type: 'sortBy', value: e.target.value })
-        }
+  <div className="flex flex-col items-center justify-center">
+    <Select
+      items={sortByList}
+      label="Total/Sinclair"
+      placeholder={sortByList[0].label}
       >
-        {sortByList.map(item => (
-          <option key={item.value} value={item.value}>
-            {item.label}
-          </option>
-        ))}
-      </NativeSelect>
-    </FormControl>
-
-    <FormControl className={styles.selectContainer}>
-      <InputLabel variant="standard" htmlFor="federationSelect">
-        Federation
-      </InputLabel>
-      <NativeSelect
-        id="federationSelect"
-        value={federation}
-        onChange={e =>
-          handleGenderChange({ type: 'federation', value: e.target.value })
-        }
+      {(sortBy) => <SelectItem key={sortBy.value} value={sortBy.value}>{sortBy.label}</SelectItem>}
+    </Select>
+    <Select
+      items={federationList}
+      label="Federation"
+      placeholder={federationList[0].label}
       >
-        {federationList.map(item => (
-          <option key={item.value} value={item.value}>
-            {item.label}
-          </option>
-        ))}
-      </NativeSelect>
-    </FormControl>
-
-    <FormControl className={styles.selectContainer}>
-      <InputLabel variant="standard" htmlFor="weightSelect">
-        Weight Class
-      </InputLabel>
-      <NativeSelect
-        id="weightSelect"
-        value={weightClass}
-        onChange={e =>
-          handleGenderChange({ type: 'weightclass', value: e.target.value })
-        }
+      {(federation) => <SelectItem key={federation.value} value={federation.value}>{federation.label}</SelectItem>}
+    </Select>
+    <Select
+      items={weightClassList}
+      label="Weight Class"
+      placeholder={weightClassList[0].label}
       >
-        {weightClassList.map(item => (
-          <option key={item.value} value={item.value}>
-            {item.label}
-          </option>
-        ))}
-      </NativeSelect>
-    </FormControl>
-
-    <FormControl className={styles.selectContainer}>
-      <InputLabel variant="standard" htmlFor="yearSelect">
-        Year
-      </InputLabel>
-      <NativeSelect
-        id="yearSelect"
-        value={year}
-        onChange={e =>
-          handleGenderChange({ type: 'year', value: e.target.value })
-        }
+      {(weightClass) => <SelectItem key={weightClass.value} value={weightClass.value}>{weightClass.label}</SelectItem>}
+    </Select>
+    <Select
+      items={yearsList}
+      label="Year"
+      placeholder={yearsList[0].label}
       >
-        {yearsList.map(item => (
-          <option key={item.value} value={item.value}>
-            {item.label}
-          </option>
-        ))}
-      </NativeSelect>
-    </FormControl>
+      {(year) => <SelectItem key={year.value} value={year.value}>{year.label}</SelectItem>}
+    </Select>
   </div>
 )

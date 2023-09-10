@@ -66,7 +66,20 @@ function Home({ data }: { data: LifterResult[] }) {
   const closeLifterGraphHandler = () => setShowLifterGraph(false)
 
   return (
-    <HeaderBar/>
+    <div>
+    <HeaderBar />
+      <Filters sortBy={
+        sortBy
+      } federation={
+        federation
+      } handleGenderChange={
+        handleGenderChange
+      } weightClass={
+        weightclass
+      } year={
+        year
+      }/>
+    </div>
   )
 }
 

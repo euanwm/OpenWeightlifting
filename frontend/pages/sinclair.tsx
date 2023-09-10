@@ -1,5 +1,6 @@
-import { Input, Radio, Dropdown, DropdownItem, DropdownMenu, Button, RadioGroup } from '@nextui-org/react'
+import { Input, Radio, Dropdown, DropdownItem, DropdownMenu, Button, RadioGroup, Select, SelectItem } from '@nextui-org/react'
 import { useState } from "react";
+import HeaderBar from "@/layouts/head";
 
 const Coefficients = {
   AMale2009: 0.784780654,
@@ -75,6 +76,7 @@ function Sinclair() {
   // @ts-ignore
   return (
     <div>
+      <HeaderBar />
       <h1>Sinclair Calculator</h1>
 
         <Input
@@ -96,29 +98,18 @@ function Sinclair() {
           <Radio value="female" color="danger">Female</Radio>
         </RadioGroup>
 
-        <Dropdown>
-          <Button
-            aria-label="Sinclair Year"
-            defaultValue="2021"
-          >
-            {sinclairYear}
-          </Button>
-          <DropdownMenu
-            aria-label="Sinclair Year"
-            disallowEmptySelection
-            selectionMode="single"
-            selectedKeys={sinclairYear}
-            // @ts-ignore
-            onSelectionChange={setSinclairYear}
-            >
-            <DropdownItem key="2009">2009 - 2012</DropdownItem>
-            <DropdownItem key="2013">2013 - 2016</DropdownItem>
-            <DropdownItem key="2017">2017 - 2020</DropdownItem>
-            <DropdownItem key="2021">2021 - 2024</DropdownItem>
-          </DropdownMenu>
-        </Dropdown>
+        <Select
+          aria-label="Sinclair Year"
+          placeholder="Sinclair Year"
+          onChange={(e) => setSinclairYear(new Set(e.target.value))}
+        >
+          <SelectItem key="2009">Jan 2009 - 2012 Dec</SelectItem>
+          <SelectItem key="2013">Jan 2013 - 2016 Dec</SelectItem>
+          <SelectItem key="2017">Jan 2017 - 2020 Dec</SelectItem>
+          <SelectItem key="2021">Jan 2021 - 2024 Dec</SelectItem>
+        </Select>
 
-        <button onClick={() => setSinclair(SinclairCalculator.getSinclair(Array.from(sinclairYear).join(''), selected, bodyweight, total))}>Calculate</button>
+        <Button onClick={() => setSinclair(SinclairCalculator.getSinclair(Array.from(sinclairYear).join(''), selected, bodyweight, total))}>Calculate</Button>
 
         <h2>Sinclair Score: {sinclair.toFixed(3)}</h2>
     </div>

@@ -1,6 +1,6 @@
 import Image from 'next/image'
-import { Navbar, NavbarBrand, NavbarContent, Switch, Link, NavbarMenuToggle, NavbarMenu, NavbarMenuItem } from "@nextui-org/react";
-import { FaSun, FaMoon, FaGithub, FaInstagram, FaCalculator } from 'react-icons/fa'
+import { Navbar, NavbarBrand, Link, NavbarMenuToggle, NavbarMenu, NavbarMenuItem } from "@nextui-org/react";
+import { FaGithub, FaInstagram, FaCalculator } from 'react-icons/fa'
 
 import Logo from '../public/OWL-logo.png'
 import { useState } from 'react'
@@ -10,7 +10,6 @@ const HeaderBar = () => {
 
   return (
     <Navbar isBordered>
-      <title>OpenWeightlifting</title>
       <NavbarBrand>
         <Link href="/">
           <Image src={Logo} alt='OpenWeightlifting' width={130} />
@@ -32,12 +31,6 @@ const HeaderBar = () => {
           <Link href="https://github.com/euanwm/OpenWeightlifting"><FaGithub size='30px' />GitHub</Link>
         </NavbarMenuItem>
       </NavbarMenu>
-
-
-        <Switch
-          startContent={<FaSun />}
-          endContent={<FaMoon />}
-        />
     </Navbar>
   )
 }

@@ -13,7 +13,7 @@ export default function App({ Component, pageProps }: AppProps) {
 
   return (
     <NextUIProvider>
-      <NextThemesProvider>
+      <NextThemesProvider attribute="class" defaultTheme="dark">
         <Component {...pageProps} />
       </NextThemesProvider>
     </NextUIProvider>
