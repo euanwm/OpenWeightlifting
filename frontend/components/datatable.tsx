@@ -6,7 +6,7 @@ import { CgProfile } from 'react-icons/cg'
 import { AllDetails } from "./alldetails"
 
 import styles from './data-table/data-table.module.css'
-import { LifterResult } from "api/fetchLifterData/fetchLifterDataTypes"
+import { LifterResult } from "@/api/fetchLifterData/fetchLifterDataTypes"
 
 export const DataTable = ({ lifters, openLifterGraphHandler }: { lifters: LifterResult[], openLifterGraphHandler: (lifterName: string) => void }) => {
   const generateLifterRow = (lifter: LifterResult, lifterNo: number) => {

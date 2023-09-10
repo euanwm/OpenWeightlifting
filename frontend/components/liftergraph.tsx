@@ -1,4 +1,4 @@
-import { LifterChartData } from 'api/fetchLifterGraphData/fetchLifterGraphDataTypes';
+import { LifterChartData } from '@/api/fetchLifterGraphData/fetchLifterGraphDataTypes'
 import {
   Chart as ChartJS,
   CategoryScale,
