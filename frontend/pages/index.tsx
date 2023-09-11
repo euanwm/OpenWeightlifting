@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { Modal } from '@nextui-org/react'
+import { Button, Modal, ModalContent, ModalHeader } from "@nextui-org/react";
 
 import HeaderBar from '@/layouts/head'
 
@@ -23,11 +23,12 @@ function Home({ data }: { data: LifterResult[] }) {
   const [showLifterGraph, setShowLifterGraph] = useState(false)
   const [currentLifterGraph, setCurrentLifterGraph] = useState<LifterChartData>()
   const [isGraphLoading, setIsGraphLoading] = useState(true)
+  const [maxLifters, setMaxLifters] = useState(10)
 
   useEffect(() => {
     async function callFetchLifterData() {
       setCurrentLifterList(
-        await fetchLifterData(0, 100, sortBy, federation, weightclass, parseInt(String(year))),
+        await fetchLifterData(0, maxLifters, sortBy, federation, weightclass, parseInt(String(year))),
       )
     }
 
@@ -76,14 +77,23 @@ function Home({ data }: { data: LifterResult[] }) {
         />
         {currentLifterList && <DataTable lifters={currentLifterList} openLifterGraphHandler={openLifterGraphHandler} />}
 
-        <Modal closeButton isOpen={showLifterGraph} onClose={closeLifterGraphHandler}>
-        <h3>{currentLifterName}: History (Total)</h3>
-        {isGraphLoading ? (
-        <h4>Loading...</h4>
-      ) : (
-        <LifterGraph lifterHistory={currentLifterGraph} />
-      )}
-     </Modal>
+        <Modal
+          closeButton
+          isOpen={showLifterGraph}
+          onClose={closeLifterGraphHandler}
+          size={"4xl"}
+          placement={"center"}
+        >
+          <ModalContent>
+            <ModalHeader>{currentLifterName}</ModalHeader>
+            {isGraphLoading ? (
+            <h4>Loading...</h4>
+            ) : (
+              <LifterGraph lifterHistory={currentLifterGraph} />
+            )}
+          </ModalContent>
+       </Modal>
+      <Button aria-label={"Load more results"}>Load more results...</Button>
     </div>
   )
 }
