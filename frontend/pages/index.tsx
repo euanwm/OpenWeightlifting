@@ -13,6 +13,10 @@ import fetchLifterGraphData from '@/api/fetchLifterGraphData/fetchLifterGraphDat
 import { LifterResult } from '@/api/fetchLifterData/fetchLifterDataTypes';
 import { LifterChartData } from '@/api/fetchLifterGraphData/fetchLifterGraphDataTypes';
 
+// I fucking hate this shit
+let maxLifters = 10
+const defaultLifters = 10
+
 function Home({ data }: { data: LifterResult[] }) {
   const [sortBy, setSortBy] = useState('total')
   const [federation, setFederation] = useState('allfeds')
@@ -23,12 +27,14 @@ function Home({ data }: { data: LifterResult[] }) {
   const [showLifterGraph, setShowLifterGraph] = useState(false)
   const [currentLifterGraph, setCurrentLifterGraph] = useState<LifterChartData>()
   const [isGraphLoading, setIsGraphLoading] = useState(true)
-  const [maxLifters, setMaxLifters] = useState(10)
 
   useEffect(() => {
     async function callFetchLifterData() {
+      if (maxLifters != defaultLifters) {
+        maxLifters = defaultLifters
+      }
       setCurrentLifterList(
-        await fetchLifterData(0, maxLifters, sortBy, federation, weightclass, parseInt(String(year))),
+        await fetchLifterData(0, defaultLifters, sortBy, federation, weightclass, parseInt(String(year))),
       )
     }
 
@@ -65,6 +71,14 @@ function Home({ data }: { data: LifterResult[] }) {
 
   const closeLifterGraphHandler = () => setShowLifterGraph(false)
 
+
+  async function updateLifterList(maxLifters: number) {
+    setCurrentLifterList(
+      await fetchLifterData(0, maxLifters, sortBy, federation, weightclass, parseInt(String(year))),
+    )
+  }
+
+
   return (
     <div>
       <HeaderBar />
@@ -93,7 +107,7 @@ function Home({ data }: { data: LifterResult[] }) {
             )}
           </ModalContent>
        </Modal>
-      <Button aria-label={"Load more results"}>Load more results...</Button>
+      <Button aria-label={"Load more results"} onClick={() => updateLifterList(maxLifters += 10)}>Load more results</Button>
     </div>
   )
 }
