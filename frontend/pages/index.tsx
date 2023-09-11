@@ -14,6 +14,7 @@ import { LifterResult } from '@/api/fetchLifterData/fetchLifterDataTypes';
 import { LifterChartData } from '@/api/fetchLifterGraphData/fetchLifterGraphDataTypes';
 
 // I fucking hate this shit
+// todo: fix this fucking shit
 let maxLifters = 10
 const defaultLifters = 10
 
@@ -107,7 +108,11 @@ function Home({ data }: { data: LifterResult[] }) {
             )}
           </ModalContent>
        </Modal>
-      <Button aria-label={"Load more results"} onClick={() => updateLifterList(maxLifters += 10)}>Load more results</Button>
+      <Button aria-label={"Load more results"}
+              color={"primary"}
+              onClick={() => updateLifterList(maxLifters += 10)}
+      >Load more results
+      </Button>
     </div>
   )
 }
