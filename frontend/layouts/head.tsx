@@ -1,6 +1,8 @@
 import Image from 'next/image'
 import { Navbar, NavbarBrand, Link, NavbarMenuToggle, NavbarMenu, NavbarMenuItem } from "@nextui-org/react";
-import { FaGithub, FaInstagram, FaCalculator } from 'react-icons/fa'
+import { FaGithub, FaInstagram } from 'react-icons/fa'
+import { IoPodiumOutline } from 'react-icons/io5'
+import { SlCalculator } from 'react-icons/sl'
 
 import Logo from '../public/OWL-logo.png'
 import { useState } from 'react'
@@ -22,7 +24,10 @@ const HeaderBar = () => {
 
       <NavbarMenu>
         <NavbarMenuItem>
-          <Link href="/sinclair"><FaCalculator size='30px' />Sinclair Calculator</Link>
+          <Link href="/"><IoPodiumOutline size='30px' />Home</Link>
+        </NavbarMenuItem>
+        <NavbarMenuItem>
+          <Link href="/sinclair"><SlCalculator size='30px' />Sinclair Calculator</Link>
         </NavbarMenuItem>
         <NavbarMenuItem>
           <Link href="https://www.instagram.com/openweightlifting/"><FaInstagram size='30px' />Instagram</Link>
