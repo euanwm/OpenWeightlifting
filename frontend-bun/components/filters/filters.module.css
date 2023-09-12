@@ -1,0 +1,22 @@
+.filters {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.selectContainer {
+  width: 100px;
+}
+
+.selectContainer + .selectContainer {
+  margin-left: 5px;
+}
+
+@media (min-width: 600px) {
+  .selectContainer {
+    width: 120px;
+  }
+  
+  .selectContainer + .selectContainer {
+    margin-left: 15px;
+  }
+}
