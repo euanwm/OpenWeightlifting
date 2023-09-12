@@ -1,4 +1,15 @@
-import { Input, Radio, Dropdown, DropdownItem, DropdownMenu, Button, RadioGroup, Select, SelectItem } from '@nextui-org/react'
+import {
+  Input,
+  Radio,
+  Dropdown,
+  DropdownItem,
+  DropdownMenu,
+  Button,
+  RadioGroup,
+  Select,
+  SelectItem,
+  Divider
+} from "@nextui-org/react";
 import { useState } from "react";
 import HeaderBar from "@/layouts/head";
 
@@ -73,47 +84,71 @@ function Sinclair() {
   const [selected, setSelected] = useState<string>("male")
   const [sinclairYear, setSinclairYear] = useState(new Set(["2021"]))
 
-  // @ts-ignore
   return (
     <div>
       <HeaderBar />
-      <h1>Sinclair Calculator</h1>
-
+      We'll eventually write up a relatively short piece here explaining the
+      finer details of the Sinclair formula, but for now, here's a calculator to
+      play around with.
+      <hgroup className="flex row-auto space-y-2 space-x-1">
+        <Divider orientation="vertical" />
         <Input
           aria-label="Bodyweight"
           type="number"
           placeholder="Bodyweight"
-          onChange={(e) => setBodyweight(parseFloat(e.target.value))}
+          onChange={e => setBodyweight(parseFloat(e.target.value))}
         />
-
+        <Divider orientation="vertical" />
         <Input
           aria-label="Total"
           type="number"
           placeholder="Total"
-          onChange={(e) => setTotal(parseFloat(e.target.value))}
+          onChange={e => setTotal(parseFloat(e.target.value))}
         />
-
-        <RadioGroup aria-label="Gender" value={selected} onValueChange={setSelected}>
-          <Radio value="male" color="primary">Male</Radio>
-          <Radio value="female" color="danger">Female</Radio>
+      </hgroup>
+      <hgroup className="flex row-auto space-y-2 space-x-1">
+        <RadioGroup
+          aria-label="Gender"
+          value={selected}
+          onValueChange={setSelected}
+        >
+          <Radio value="male" color="primary">
+            Male
+          </Radio>
+          <Radio value="female" color="danger">
+            Female
+          </Radio>
         </RadioGroup>
 
         <Select
           aria-label="Sinclair Year"
           placeholder="Sinclair Year"
-          onChange={(e) => setSinclairYear(new Set(e.target.value))}
+          onChange={e => setSinclairYear(new Set(e.target.value))}
         >
           <SelectItem key="2009">Jan 2009 - 2012 Dec</SelectItem>
           <SelectItem key="2013">Jan 2013 - 2016 Dec</SelectItem>
           <SelectItem key="2017">Jan 2017 - 2020 Dec</SelectItem>
           <SelectItem key="2021">Jan 2021 - 2024 Dec</SelectItem>
         </Select>
-
-        <Button onClick={() => setSinclair(SinclairCalculator.getSinclair(Array.from(sinclairYear).join(''), selected, bodyweight, total))}>Calculate</Button>
-
+      </hgroup>
+      <hgroup className="flex row-auto space-y-2 space-x-1">
+        <Button
+          onClick={() =>
+            setSinclair(
+              SinclairCalculator.getSinclair(
+                Array.from(sinclairYear).join(''),
+                selected,
+                bodyweight,
+                total,
+              ),
+            )
+          }
+        >
+          Calculate
+        </Button>
         <h2>Sinclair Score: {sinclair.toFixed(3)}</h2>
+      </hgroup>
     </div>
-
   )
 }
 

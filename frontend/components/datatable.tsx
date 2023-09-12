@@ -13,8 +13,11 @@ export const DataTable = ({ lifters, openLifterGraphHandler }: { lifters: Lifter
     return (
       <TableRow key={`lifter-${lifterNo}`}>
         <TableCell>{lifterNo}</TableCell>
-        <TableCell>{lifter.lifter_name}
-          <Divider orientation="vertical" />
+        <TableCell className="flex flex-row items-center">
+          {lifter.lifter_name}
+          <Divider orientation="vertical"
+            style={{ marginLeft: '0.5rem', marginRight: '0.5rem' }}
+          />
           {lifter.instagram.length > 0 && (
             <a href={`https://www.instagram.com/${lifter.instagram}`} ><FaInstagram size={25} /></a>
           )}

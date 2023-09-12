@@ -81,7 +81,7 @@ function Home({ data }: { data: LifterResult[] }) {
 
 
   return (
-    <div>
+    <div className={"flex flex-col content-center"}>
       <HeaderBar />
         <Filters
           sortBy={sortBy}
@@ -108,7 +108,8 @@ function Home({ data }: { data: LifterResult[] }) {
             )}
           </ModalContent>
        </Modal>
-      <Button aria-label={"Load more results"}
+      <Button className={"flex justify-center"}
+              aria-label={"Load more results"}
               color={"primary"}
               onClick={() => updateLifterList(maxLifters += 10)}
       >Load more results

@@ -53,9 +53,9 @@ const yearsList = [
   { value: 2022, label: '2022' },
   { value: 2023, label: '2023' }
 ]
-
 export const Filters = ({ sortBy, federation, handleGenderChange, weightClass, year }: {sortBy: string, federation: string, handleGenderChange: any, weightClass: string, year: number}) => (
-  <div>
+  <div className="flex row-auto space-y-2 space-x-1">
+    <Divider orientation="vertical"/>
     <Select
       items={sortByList}
       label="Total/Sinclair"
@@ -67,7 +67,7 @@ export const Filters = ({ sortBy, federation, handleGenderChange, weightClass, y
       >
       {(sortBy) => <SelectItem key={sortBy.value} value={sortBy.value}>{sortBy.label}</SelectItem>}
     </Select>
-    <Divider orientation="horizontal"/>
+    <Divider orientation="vertical"/>
     <Select
       items={federationList}
       label="Federation"
@@ -79,7 +79,7 @@ export const Filters = ({ sortBy, federation, handleGenderChange, weightClass, y
       >
       {(federation) => <SelectItem key={federation.value} value={federation.value}>{federation.label}</SelectItem>}
     </Select>
-    <Divider orientation="horizontal"/>
+    <Divider orientation="vertical"/>
     <Select
       items={weightClassList}
       label="Weight Class"
@@ -91,7 +91,7 @@ export const Filters = ({ sortBy, federation, handleGenderChange, weightClass, y
       >
       {(weightClass) => <SelectItem key={weightClass.value} value={weightClass.value}>{weightClass.label}</SelectItem>}
     </Select>
-    <Divider orientation="horizontal"/>
+    <Divider orientation="vertical"/>
     <Select
       items={yearsList}
       label="Year"
@@ -103,5 +103,6 @@ export const Filters = ({ sortBy, federation, handleGenderChange, weightClass, y
       >
       {(year) => <SelectItem key={year.value} value={year.value}>{year.label}</SelectItem>}
     </Select>
+    <Divider orientation="vertical"/>
   </div>
 )
