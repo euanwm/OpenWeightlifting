@@ -87,8 +87,8 @@ function Sinclair() {
   return (
     <div>
       <HeaderBar />
-      We'll eventually write up a relatively short piece here explaining the
-      finer details of the Sinclair formula, but for now, here's a calculator to
+      We will eventually write up a relatively short piece here explaining the
+      finer details of the Sinclair formula, but for now, here is a calculator to
       play around with.
       <hgroup className="flex row-auto space-y-2 space-x-1">
         <Divider orientation="vertical" />
