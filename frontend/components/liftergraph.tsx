@@ -86,8 +86,6 @@ export const LifterGraph = ({ lifterHistory }: { lifterHistory: LifterChartData 
   }
 
   return (
-    <>
-      <Line data={processedData} options={config} />
-    </>
+    <Line data={processedData} options={config} />
   )
 };

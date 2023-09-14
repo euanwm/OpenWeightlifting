@@ -1,7 +1,18 @@
-import { Table, TableHeader, TableColumn, TableCell, TableRow, TableBody } from '@nextui-org/react'
+import {
+  Table,
+  TableHeader,
+  TableColumn,
+  TableCell,
+  TableRow,
+  TableBody,
+} from '@nextui-org/react'
 import { LifterHistory } from '@/api/fetchLifterHistory/fetchLifterHistoryTypes'
 
-export const HistoryTable = ({ history }: { history: LifterHistory['lifts'] }) => {
+export const HistoryTable = ({
+  history,
+}: {
+  history: LifterHistory['lifts']
+}) => {
   return (
     <Table>
       <TableHeader>
@@ -19,19 +30,33 @@ export const HistoryTable = ({ history }: { history: LifterHistory['lifts'] }) =
       </TableHeader>
       <TableBody>
         {history.map((lift, index) => {
+          const {
+            date,
+            event,
+            bodyweight,
+            snatch_1,
+            snatch_2,
+            snatch_3,
+            cj_1,
+            cj_2,
+            cj_3,
+            total,
+            sinclair,
+          } = lift
+
           return (
             <TableRow key={`history-${index}`}>
-              <TableCell>{lift.date}</TableCell>
-              <TableCell>{lift.event}</TableCell>
-              <TableCell>{lift.bodyweight}</TableCell>
-              <TableCell>{lift.snatch_1}</TableCell>
-              <TableCell>{lift.snatch_2}</TableCell>
-              <TableCell>{lift.snatch_3}</TableCell>
-              <TableCell>{lift.cj_1}</TableCell>
-              <TableCell>{lift.cj_2}</TableCell>
-              <TableCell>{lift.cj_3}</TableCell>
-              <TableCell>{lift.total}</TableCell>
-              <TableCell>{lift.sinclair}</TableCell>
+              <TableCell>{date}</TableCell>
+              <TableCell>{event}</TableCell>
+              <TableCell>{bodyweight}</TableCell>
+              <TableCell>{snatch_1}</TableCell>
+              <TableCell>{snatch_2}</TableCell>
+              <TableCell>{snatch_3}</TableCell>
+              <TableCell>{cj_1}</TableCell>
+              <TableCell>{cj_2}</TableCell>
+              <TableCell>{cj_3}</TableCell>
+              <TableCell>{total}</TableCell>
+              <TableCell>{sinclair}</TableCell>
             </TableRow>
           )
         })}
@@ -39,4 +64,3 @@ export const HistoryTable = ({ history }: { history: LifterHistory['lifts'] }) =
     </Table>
   )
 }
-
