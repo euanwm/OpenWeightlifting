@@ -54,7 +54,6 @@ function Home({ data }: { data: LifterResult[] }) {
   // todo: define newFilter type/interface
   const handleGenderChange = (newFilter: any) => {
     const { type, value } = newFilter
-    console.log(type, value)
     switch (type) {
       case 'sortBy':
         setSortBy(value)

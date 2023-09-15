@@ -1,14 +1,10 @@
 import {
   Input,
   Radio,
-  Dropdown,
-  DropdownItem,
-  DropdownMenu,
   Button,
   RadioGroup,
   Select,
   SelectItem,
-  Divider,
 } from '@nextui-org/react'
 import { useState } from 'react'
 import HeaderBar from '@/layouts/head'
@@ -68,8 +64,8 @@ const SinclairCalculator = {
     let isMale = gender == 'male'
 
     let coeffSettings: CoefficientSettings
-    switch (parseInt(year)) {
-      case 2009:
+    switch (year) {
+      case "2009":
         coeffSettings = {
           ACoefficient: isMale
             ? Coefficients.AMale2009
@@ -79,7 +75,7 @@ const SinclairCalculator = {
             : Coefficients.BFemale2009,
         }
         break
-      case 2013:
+      case "2013":
         coeffSettings = {
           ACoefficient: isMale
             ? Coefficients.AMale2013
@@ -89,7 +85,7 @@ const SinclairCalculator = {
             : Coefficients.BFemale2013,
         }
         break
-      case 2017:
+      case "2017":
         coeffSettings = {
           ACoefficient: isMale
             ? Coefficients.AMale2017
@@ -99,7 +95,7 @@ const SinclairCalculator = {
             : Coefficients.BFemale2017,
         }
         break
-      case 2021:
+      case "2021":
         coeffSettings = {
           ACoefficient: isMale
             ? Coefficients.AMale2021
@@ -129,7 +125,7 @@ function Sinclair() {
   const [bodyweight, setBodyweight] = useState<number>(0)
   const [total, setTotal] = useState<number>(0)
   const [selected, setSelected] = useState<string>('male')
-  const [sinclairYear, setSinclairYear] = useState(new Set(['2021']))
+  const [sinclairYear, setSinclairYear] = useState("2021")
 
   return (
     <>
@@ -170,7 +166,7 @@ function Sinclair() {
           <Select
             aria-label="Sinclair Year"
             placeholder="Sinclair Year"
-            onChange={e => setSinclairYear(new Set(e.target.value))}
+            onChange={e => setSinclairYear(e.target.value)}
           >
             <SelectItem key="2009">Jan 2009 - 2012 Dec</SelectItem>
             <SelectItem key="2013">Jan 2013 - 2016 Dec</SelectItem>
@@ -181,7 +177,7 @@ function Sinclair() {
             onClick={() =>
               setSinclair(
                 SinclairCalculator.getSinclair(
-                  Array.from(sinclairYear).join(''),
+                  sinclairYear,
                   selected,
                   bodyweight,
                   total,

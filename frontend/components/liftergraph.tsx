@@ -27,7 +27,6 @@ export const LifterGraph = ({ lifterHistory }: { lifterHistory: LifterChartData 
     return null;
   }
 
-  console.log(lifterHistory)
   // todo: define each dataset as a type/interface instead of manually indexing into the array
   const processedData = {
     labels: lifterHistory.labels,
