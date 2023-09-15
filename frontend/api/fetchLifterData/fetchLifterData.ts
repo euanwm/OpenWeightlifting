@@ -2,7 +2,7 @@ import { LifterResult } from './fetchLifterDataTypes';
 
 export default async function fetchLifterData(
   start = 0,
-  stop = 500,
+  stop = 10,
   sortby = 'total',
   federation = 'allfeds',
   weightclass = 'MALL',

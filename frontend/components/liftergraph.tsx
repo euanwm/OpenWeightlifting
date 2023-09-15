@@ -1,4 +1,4 @@
-import { LifterChartData } from 'api/fetchLifterGraphData/fetchLifterGraphDataTypes';
+import { LifterChartData } from '@/api/fetchLifterGraphData/fetchLifterGraphDataTypes'
 import {
   Chart as ChartJS,
   CategoryScale,
@@ -27,7 +27,6 @@ export const LifterGraph = ({ lifterHistory }: { lifterHistory: LifterChartData 
     return null;
   }
 
-  console.log(lifterHistory)
   // todo: define each dataset as a type/interface instead of manually indexing into the array
   const processedData = {
     labels: lifterHistory.labels,
@@ -86,8 +85,6 @@ export const LifterGraph = ({ lifterHistory }: { lifterHistory: LifterChartData 
   }
 
   return (
-    <>
-      <Line data={processedData} options={config} />
-    </>
+    <Line data={processedData} options={config} />
   )
 };

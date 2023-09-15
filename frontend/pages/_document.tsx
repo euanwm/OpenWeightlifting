@@ -1,28 +1,15 @@
-import React from 'react';
-import Document, { Html, Head, Main, NextScript, DocumentContext } from "next/document";
-import { CssBaseline } from '@nextui-org/react';
-import { NextPageContext } from "next";
+import { Html, Head, Main, NextScript } from 'next/document'
+import HeaderBar from "@/layouts/head";
 
-class MyDocument extends Document {
-  static async getInitialProps(ctx: DocumentContext) {
-    const initialProps = await Document.getInitialProps(ctx);
-    return {
-      ...initialProps,
-      styles: React.Children.toArray([initialProps.styles])
-    };
-  }
-
-  render() {
-    return (
-      <Html lang="en">
-        <Head>{CssBaseline.flush()}</Head>
-        <body>
-          <Main />
-          <NextScript />
-        </body>
-      </Html>
-    );
-  }
+export default function Document() {
+  return (
+    <Html lang="en">
+      <Head />
+      <title>OpenWeightlifting</title>
+        <body className="min-h-screen bg-background font-sans antialiased">
+      <Main />
+      <NextScript />
+      </body>
+    </Html>
+  )
 }
-
-export default MyDocument;

@@ -2,9 +2,6 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
-  typescript: {
-    tsconfigPath: 'tsconfig.json',
-  },
   env: {
     API: process.env.API ?? 'https://api.openweightlifting.org',
   },

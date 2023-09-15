@@ -1,39 +1,26 @@
-import { createTheme, NextUIProvider } from '@nextui-org/react'
-import { ThemeProvider as NextThemesProvider } from 'next-themes'
-import { hotjar } from 'react-hotjar'
-
-import Layout from '../components/layout/index.component'
+import "@/styles/globals.css";
+import { NextUIProvider } from "@nextui-org/react";
+import { ThemeProvider as NextThemesProvider } from "next-themes";
+import { fontSans, fontMono } from "@/config/fonts";
+import type { AppProps } from "next/app";
 import { useEffect } from "react";
+import { hotjar } from "react-hotjar";
 
-const lightTheme = createTheme({
-  type: 'light',
-})
+export default function App({ Component, pageProps }: AppProps) {
+  useEffect(() => {
+    hotjar.initialize(3147762, 6);
+  }, [])
 
-const darkTheme = createTheme({
-  type: 'dark',
-})
-
-// todo: declare types for this
-function MyApp({ Component, pageProps }: any) {
-    useEffect(() => {
-        hotjar.initialize(3147762, 6);
-    }, [])
   return (
-    <NextThemesProvider
-      defaultTheme="system"
-      attribute="class"
-      value={{
-        light: lightTheme.className,
-        dark: darkTheme.className,
-      }}
-    >
-      <NextUIProvider>
-        <Layout>
-          <Component {...pageProps} />
-        </Layout>
-      </NextUIProvider>
-    </NextThemesProvider>
-  )
+    <NextUIProvider>
+      <NextThemesProvider attribute="class" defaultTheme="dark">
+        <Component {...pageProps} />
+      </NextThemesProvider>
+    </NextUIProvider>
+  );
 }
 
-export default MyApp
+export const fonts = {
+  sans: fontSans.style.fontFamily,
+  mono: fontMono.style.fontFamily,
+};
