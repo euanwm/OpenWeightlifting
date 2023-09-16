@@ -1,7 +1,7 @@
 """Non-sport80 scraping APIs"""
 import collections
 import os
-import logging
+
 from datetime import datetime
 from typing import Union
 from urllib.parse import urljoin
