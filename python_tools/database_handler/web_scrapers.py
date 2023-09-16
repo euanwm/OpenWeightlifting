@@ -1,6 +1,7 @@
 """Non-sport80 scraping APIs"""
 import collections
 import os
+import logging
 from datetime import datetime
 from typing import Union
 from urllib.parse import urljoin
@@ -248,9 +249,9 @@ class InternationalWF:
 
     def __load_results_page(self, event_id: int) -> BeautifulSoup:
         """Loads the event page for the competition, new weight cats are 441 and above"""
-        target_url = f"{self.IWF_ROOT_URL}/results/results-by-events?event_id={event_id}"
+        target_url = f"{self.IWF_ROOT_URL}/results/results-by-events/?event_id={event_id}"
         if event_id <= 440:  # Go on, be pedantic...
-            target_url = f"{self.IWF_ROOT_URL}/results/results-by-events/results-by-events-old-bw?event_id={event_id}"
+            target_url = f"{self.IWF_ROOT_URL}/results/results-by-events/results-by-events-old-bw/?event_id={event_id}"
         res = requests.get(target_url,
                            headers={"Content-Type": "text/html; charset=UTF-8"},
                            timeout=120)
