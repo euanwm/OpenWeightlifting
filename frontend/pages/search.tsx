@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { LifterSearchList } from "./fetchLifterNamesTypes"
+import { LifterSearchList } from "@/api/fetchLifterNames/fetchLifterNamesTypes";
 
 import HeaderBar from '@/layouts/head'
 import fetchLifterNames from "@/api/fetchLifterNames/fetchLifterNames";
