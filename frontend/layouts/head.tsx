@@ -10,6 +10,7 @@ import {
 import { FaGithub, FaInstagram } from 'react-icons/fa'
 import { IoPodiumOutline } from 'react-icons/io5'
 import { SlCalculator } from 'react-icons/sl'
+import { MdOutlinePersonSearch } from 'react-icons/md'
 
 import Logo from '../public/OWL-logo.png'
 import { useState } from 'react'
@@ -32,6 +33,12 @@ const HeaderBar = () => {
           <Link href="/">
             <IoPodiumOutline size="30px"/>
             <span className="ml-2">Home</span>
+          </Link>
+        </NavbarMenuItem>
+        <NavbarMenuItem>
+          <Link href="/search">
+            <MdOutlinePersonSearch size="30px" />
+            <span className="ml-2">Lifter search</span>
           </Link>
         </NavbarMenuItem>
         <NavbarMenuItem>
