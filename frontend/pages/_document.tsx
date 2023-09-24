@@ -1,5 +1,4 @@
 import { Html, Head, Main, NextScript } from 'next/document'
-import HeaderBar from "@/layouts/head";
 
 export default function Document() {
   return (
