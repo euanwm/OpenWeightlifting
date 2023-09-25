@@ -15,8 +15,8 @@ import { LifterChartData } from '@/api/fetchLifterGraphData/fetchLifterGraphData
 
 // I fucking hate this shit
 // todo: fix this fucking shit
-let maxLifters = 10
-const defaultLifters = 10
+let maxLifters = 50
+const defaultLifterQty = 50
 
 function Home({ data }: { data: LifterResult[] }) {
   const [sortBy, setSortBy] = useState('total')
@@ -33,13 +33,13 @@ function Home({ data }: { data: LifterResult[] }) {
 
   useEffect(() => {
     async function callFetchLifterData() {
-      if (maxLifters != defaultLifters) {
-        maxLifters = defaultLifters
+      if (maxLifters != defaultLifterQty) {
+        maxLifters = defaultLifterQty
       }
       setCurrentLifterList(
         await fetchLifterData(
           0,
-          defaultLifters,
+          defaultLifterQty,
           sortBy,
           federation,
           weightclass,
@@ -130,7 +130,8 @@ function Home({ data }: { data: LifterResult[] }) {
         className={'flex justify-center'}
         aria-label={'Load more results'}
         color={'primary'}
-        onClick={() => updateLifterList((maxLifters += 10))}
+        onClick={() => updateLifterList((maxLifters += defaultLifterQty))}
+        isDisabled={currentLifterList.length < maxLifters}
       >
         Load more results
       </Button>
