@@ -13,8 +13,9 @@ import { SlCalculator } from 'react-icons/sl'
 import { MdOutlinePersonSearch } from 'react-icons/md'
 
 import Logo from '../public/OWL-logo.png'
-import { useState } from 'react'
+import React, { useState, Suspense } from 'react'
 
+const LogoComponent = React.lazy(() => import('../public/OWL-logo.png'));
 const HeaderBar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
 
@@ -22,7 +23,9 @@ const HeaderBar = () => {
     <Navbar isBordered className="py-2">
       <NavbarBrand>
         <Link href="/">
-          <Image src={Logo} alt="OpenWeightlifting" width={130} />
+          <Suspense fallback={<div></div>}>
+            <LogoComponent />
+          </Suspense>
         </Link>
       </NavbarBrand>
 
