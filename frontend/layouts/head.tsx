@@ -31,7 +31,7 @@ const HeaderBar = () => {
       <NavbarMenu>
         <NavbarMenuItem>
           <Link href="/">
-            <IoPodiumOutline size="30px"/>
+            <IoPodiumOutline size="30px" className="mt-2"/>
             <span className="ml-2">Home</span>
           </Link>
         </NavbarMenuItem>
