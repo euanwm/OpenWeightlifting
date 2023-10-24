@@ -11,14 +11,6 @@ The frontend code is organized into the following directories:
 * components: Contains the reusable React components that make up the user interface of the application.
 * config: Contains configuration files for the application, such as the fonts and site colors.
 * layouts: Contains the layout components for the application, such as the header and footer.
-* pages: Contains the React components for the individual pages of the application, such as the leaderboard page and the lifter page.
-* styles: Contains the CSS files for the application.
-
-### Entry Point
-
-The entry point for the React application is the `App.tsx` file. This file contains the root component for the application.
-
-### Serving the Application
 
 The `index.tsx` file is the index file for the application. It serves the React application and the associated CSS and TypeScript files.
 
