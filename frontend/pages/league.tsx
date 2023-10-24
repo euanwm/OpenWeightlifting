@@ -109,10 +109,10 @@ function League() {
       <div className="flex justify-center mt-4">
         <div className="flex flex-col w-1/2">
           <h1 className="text-3xl font-bold text-center">The League</h1>
-          <p className="text-center">OpenWeightlifting are pleased to announce that we are now planning our first - club run - league. We aim to run the league over 2 weeks and look to run it in a similar format to virtual competitions hosted by other federations.</p>
+          <p className="text-center">OpenWeightlifting are pleased to announce that we are now planning our first - club run - league. We aim to run the league during the first 2 weeks of December 2023 and look to run it in a similar format to virtual competitions hosted by other federations.</p>
           <br/>
           <h2 className="text-2xl font-bold text-center">How it works</h2>
-          <p className="text-center">The league will be run over 2 weeks, and each registered club will be responsible for recording and uploading their scores. In a typical competition format, you have 6 attempts in total, 3 for snatch and 3 for clean & jerk. Each attempt will be recorded from the front and the registered club affiliate will be responsible for your weigh-in and logging your scores. You do NOT need to hold a membership with us or be registered with your National Governing Body.</p>
+          <p className="text-center">The league will be run over 2 weeks, and each registered affiliate will be responsible for recording and uploading their gym /club scores. In a typical competition format, you have 6 attempts in total, 3 for snatch and 3 for clean & jerk. Each attempt will be recorded from the front and the registered club affiliate will be responsible for your weigh-in and logging your scores. You do NOT need to pay for a membership with us or be registered with your National Governing Body.</p>
           <br/>
           <h2 className="text-2xl font-bold text-center">The rules</h2>
           <p className="text-center">Typical weightlifting competition rules apply but we are NOT enforcing a strict press-out rule, a lift will only be disallowed should you exceed approximately 30degrees of elbow flexion. You do not need a singlet, although you can wear one if you think it adds some KGs to your total. Weigh-ins are held by the club affiliate and it is up to yourself how light you want to be on the scale. As always, no straps.</p>
