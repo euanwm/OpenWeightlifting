@@ -1,11 +1,11 @@
 import {
-  Input,
   Button,
+  Input,
   Popover,
-  PopoverTrigger,
   PopoverContent,
+  PopoverTrigger,
 } from '@nextui-org/react'
-import HeaderBar from "@/layouts/head"
+import HeaderBar from '@/layouts/head'
 import { useState } from 'react'
 
 type RegistrationForm = {
@@ -31,8 +31,7 @@ async function submitForm(data: RegistrationForm): Promise<FormResponse> {
       },
       body: JSON.stringify(data),
     })
-    const json = response.json()
-    return json
+    return response.json()
   } catch (error) {
     console.error('Error:', error)
     return { success: false, message: 'There was an error submitting your form. Please try again.' }
