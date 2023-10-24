@@ -23,7 +23,7 @@ type FormResponse = {
 
 async function submitForm(data: RegistrationForm): Promise<FormResponse> {
   try {
-    const response = await fetch('https://v2.openweightlifting.org', {
+    const response = await fetch('https://v2.openweightlifting.org/register', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
