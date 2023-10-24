@@ -117,8 +117,11 @@ function League() {
           <h2 className="text-2xl font-bold text-center">The rules</h2>
           <p className="text-center">Typical weightlifting competition rules apply but we are NOT enforcing a strict press-out rule, a lift will only be disallowed should you exceed approximately 30degrees of elbow flexion. You do not need a singlet, although you can wear one if you think it adds some KGs to your total. Weigh-ins are held by the club affiliate and it is up to yourself how light you want to be on the scale. As always, no straps.</p>
           <br/>
-          <h1 className="text-3xl font-bold text-center">League Registration</h1>
-          <p className="text-center">Please fill out the form below to register your club / gym for the league. <i>Reminder, you do not need to hold an NGB affiliation. </i></p>
+          <h2 className="text-2xl font-bold text-center">The cost</h2>
+          <p className="text-center">We are looking to charge around £10GBP per entry which will be invoiced to the club affiliate post-submission of scores and prior to winners being drawn. The breakdown of the fee is as follows, 80% of all fees billed will be put towards the overall prize pot with the remainder going to further development of the OpenWeightlifting League platform and future events.</p>
+          <br/>
+          <h1 className="text-3xl font-bold text-center">League Affiliate Registration</h1>
+          <p className="text-center">Please fill out the form below to register your interest as an affiliate. <i>Reminder, you do not need to hold an NGB affiliation. </i></p>
           <form className="flex flex-col space-y-4" onSubmit={handleSubmit}>
             <Input
               aria-label="Username"
@@ -151,7 +154,7 @@ function League() {
             <Input
               aria-label="Comments"
               type="text"
-              placeholder="Comments"
+              placeholder="How many lifters are you looking to enter?"
               onChange={e => setComments(e.target.value)}
             />
             <Popover>
@@ -168,7 +171,7 @@ function League() {
               </PopoverTrigger>
           {submitted && (
             <PopoverContent>
-              <p className="text-center">Thank you for registering your club. We will be in touch shortly with more information.</p>
+              <p className="text-center">Thank you for registering your interest. We will be in touch shortly with more information.</p>
             </PopoverContent>
           )}
           {error && (
