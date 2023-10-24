@@ -22,9 +22,8 @@ type FormResponse = {
 }
 
 async function submitForm(data: RegistrationForm): Promise<FormResponse> {
-// https://owl-mongo-86f8b66fdf19.herokuapp.com/register
   try {
-    const response = await fetch('http://localhost:8080/register', {
+    const response = await fetch('https://v2.openweightlifting.org', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
