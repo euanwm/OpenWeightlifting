@@ -1,0 +1,212 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+European Junior Championships,2023-07-24,55 kg Men,ALGUL Harun,54.55,97,100,103,-120,120,123,103,123,226
+European Junior Championships,2023-07-24,55 kg Men,BETCA Iulian,54.30,94,97,99,115,-118,-120,99,115,214
+European Junior Championships,2023-07-24,55 kg Men,REVKO Andrii,54.70,93,96,98,117,121,-129,98,121,219
+European Junior Championships,2023-07-24,55 kg Men,KHUDANYAN Seyran,54.70,-95,-95,95,-121,-121,121,95,121,216
+European Junior Championships,2023-07-24,55 kg Men,SIMEONOV Nino Violetov,54.65,-93,93,-95,107,111,-113,93,111,204
+European Junior Championships,2023-07-24,55 kg Men,PAPOLTI Narcis,54.70,90,-95,-95,110,-115,-115,90,110,200
+European Junior Championships,2023-07-24,55 kg Men,DZOBAK Alexandr,52.00,81,85,87,101,108,112,87,112,199
+European Junior Championships,2023-07-24,55 kg Men,COMERZAN Andrian,54.70,-90,-90,-90,107,-112,112,0,112,0
+European Junior Championships,2023-07-24,61 kg Men,ISOFACHE Cosmin Florentin,60.00,115,118,121,141,145,150,121,150,271
+European Junior Championships,2023-07-24,61 kg Men,ODIKADZE Giga,61.00,112,115,117,133,-138,-140,117,133,250
+European Junior Championships,2023-07-24,61 kg Men,ELIS Mustafa,61.00,113,-116,-116,140,144,-147,113,144,257
+European Junior Championships,2023-07-24,61 kg Men,LAMPRIDIS Konstantinos,61.00,109,113,-116,140,-143,-143,113,140,253
+European Junior Championships,2023-07-24,61 kg Men,YEGHOYAN Meruzhan,60.95,110,-114,-114,140,144,0,110,144,254
+European Junior Championships,2023-07-24,61 kg Men,BADANEV Ion,61.00,105,109,-111,130,134,-136,109,134,243
+European Junior Championships,2023-07-24,61 kg Men,ROMERO ROSUA Daniel,59.05,100,103,106,120,125,-130,106,125,231
+European Junior Championships,2023-07-24,67 kg Men,KAHRIMAN Kaan,66.50,130,134,137,151,156,0,137,156,293
+European Junior Championships,2023-07-24,67 kg Men,KARAPETYAN Tigran,66.85,118,121,123,152,-157,-157,123,152,275
+European Junior Championships,2023-07-24,67 kg Men,WIATROWICZ Marcin Fabian,66.70,115,119,121,135,140,-143,121,140,261
+European Junior Championships,2023-07-24,67 kg Men,DIACONU Iulian Mihai,66.60,116,120,-122,-136,136,-141,120,136,256
+European Junior Championships,2023-07-24,67 kg Men,PIETRZAK Hubert,67.00,113,117,-120,140,145,-152,117,145,262
+European Junior Championships,2023-07-24,67 kg Men,RRASA Samoel,67.00,110,-117,117,130,-133,133,117,133,250
+European Junior Championships,2023-07-24,67 kg Men,VIITASAARI Joona Juhani,65.45,99,103,-105,124,129,132,103,132,235
+European Junior Championships,2023-07-24,67 kg Men,JIGAU Daniel Nicolae,61.85,85,91,96,115,121,-125,96,121,217
+European Junior Championships,2023-07-24,73 kg Men,DONOSE Tiberiu Ionut,72.85,-141,141,146,164,170,-172,146,170,316
+European Junior Championships,2023-07-24,73 kg Men,SAHAKYAN Gor,69.80,140,-143,-143,171,-177,-177,140,171,311
+European Junior Championships,2023-07-24,73 kg Men,JAMALI BOULAAYOUN Ismail,72.90,136,138,140,165,-169,-170,140,165,305
+European Junior Championships,2023-07-24,73 kg Men,ABASHIDZE Saba,72.80,132,137,139,-160,-160,-160,139,0,0
+European Junior Championships,2023-07-24,73 kg Men,POGHOSYAN Martin,72.60,130,-135,136,165,170,172,136,172,308
+European Junior Championships,2023-07-24,73 kg Men,KHARAZISHVILI Giorgi,72.90,130,-134,134,163,168,171,134,171,305
+European Junior Championships,2023-07-24,73 kg Men,KOLESNYK Serhii,73.00,131,133,-135,162,-168,-169,133,162,295
+European Junior Championships,2023-07-24,73 kg Men,GALLART LECHON Kilian,72.75,120,125,128,150,-155,-155,128,150,278
+European Junior Championships,2023-07-24,73 kg Men,UJVARI Lajos,73.00,120,125,127,150,155,-157,127,155,282
+European Junior Championships,2023-07-24,73 kg Men,SCHMITT Riccardo,72.75,117,121,125,161,-166,166,125,166,291
+European Junior Championships,2023-07-24,73 kg Men,PONOMARENKO Yaroslav,73.00,115,120,-123,156,160,-163,120,160,280
+European Junior Championships,2023-07-24,73 kg Men,MARINOVSKY Tomer,72.65,114,116,-118,-133,134,137,116,137,253
+European Junior Championships,2023-07-24,73 kg Men,STEFANOV Petyo,72.50,115,-120,-121,142,144,151,115,151,266
+European Junior Championships,2023-07-24,73 kg Men,KLINGER Jonas,72.60,107,112,115,136,141,143,115,143,258
+European Junior Championships,2023-07-24,73 kg Men,LAGJA Sajmir,71.95,-110,110,112,135,-140,-140,112,135,247
+European Junior Championships,2023-07-24,73 kg Men,KLIAMPAS Ioannis,72.10,110,-113,-113,-136,-136,136,110,136,246
+European Junior Championships,2023-07-24,73 kg Men,KOKKO Juuso Benjamin,72.25,-107,107,-113,130,134,138,107,138,245
+European Junior Championships,2023-07-24,73 kg Men,AUNE Rasmus Heggvik,72.35,102,105,107,132,135,139,107,139,246
+European Junior Championships,2023-07-24,73 kg Men,TODOROVIC Nikola,72.45,-115,-115,-115,130,-135,-135,0,130,0
+European Junior Championships,2023-07-24,81 kg Men,ASANIDZE Saba,80.90,141,144,147,175,180,-184,147,180,327
+European Junior Championships,2023-07-24,81 kg Men,ESARTIA Nikoloz,80.30,-138,138,142,168,-174,-174,142,168,310
+European Junior Championships,2023-07-24,81 kg Men,MULLER Lucas,80.60,138,-142,142,170,-174,175,142,175,317
+European Junior Championships,2023-07-24,81 kg Men,LAZUGA Konrad,77.55,133,137,139,161,166,-170,139,166,305
+European Junior Championships,2023-07-24,81 kg Men,ABRAHAMYAN Mnatsakan,80.90,135,138,-141,-175,175,-180,138,175,313
+European Junior Championships,2023-07-24,81 kg Men,FEKECS Szilard,81.00,-137,137,-142,166,-170,171,137,171,308
+European Junior Championships,2023-07-24,81 kg Men,SAINI Rishabh,80.80,121,126,130,152,157,-161,130,157,287
+European Junior Championships,2023-07-24,81 kg Men,HAUTANIEMI Eetu Matias,80.90,124,127,-130,150,-157,-157,127,150,277
+European Junior Championships,2023-07-24,81 kg Men,SAMULIAK Stepan,77.25,120,124,126,148,152,155,126,155,281
+European Junior Championships,2023-07-24,81 kg Men,LIEVANZOV Mark,78.95,126,-129,-129,165,-171,172,126,172,298
+European Junior Championships,2023-07-24,81 kg Men,KOSHERSKI Hristo,80.50,120,125,-128,150,157,-163,125,157,282
+European Junior Championships,2023-07-24,81 kg Men,TANASOIU Mihaita Constantin,75.70,125,-131,-131,150,-160,-165,125,150,275
+European Junior Championships,2023-07-24,81 kg Men,KREJCIK Vojtech,79.90,123,-128,-128,148,-153,-153,123,148,271
+European Junior Championships,2023-07-24,81 kg Men,DA SILVA Romain,80.05,117,-121,122,-145,145,-152,122,145,267
+European Junior Championships,2023-07-24,81 kg Men,MARIUTA Ion,79.95,-120,120,-125,145,-150,150,120,150,270
+European Junior Championships,2023-07-24,81 kg Men,URBANS Madis,79.95,116,-120,-121,143,147,-150,116,147,263
+European Junior Championships,2023-07-24,81 kg Men,MODREY Luca,80.65,110,-115,115,147,-152,152,115,152,267
+European Junior Championships,2023-07-24,81 kg Men,DINU Bogdan Gabriel,80.95,-110,110,-115,140,-145,0,110,140,250
+European Junior Championships,2023-07-24,89 kg Men,KOFSHA Ertjan,89.00,149,151,153,178,181,184,153,184,337
+European Junior Championships,2023-07-24,89 kg Men,GRIGORYAN Suren,88.85,-150,150,-154,182,188,191,150,191,341
+European Junior Championships,2023-07-24,89 kg Men,MSKHALADZE Zurab,87.00,-144,144,149,180,185,190,149,190,339
+European Junior Championships,2023-07-24,89 kg Men,CELIK Enes,89.00,-148,148,-150,175,-179,-179,148,175,323
+European Junior Championships,2023-07-24,89 kg Men,BARANSKI Patryk Grzegorz,88.90,140,144,147,165,170,-174,147,170,317
+European Junior Championships,2023-07-24,89 kg Men,CATALDI Stefano,87.40,134,-138,139,-173,173,-182,139,173,312
+European Junior Championships,2023-07-24,89 kg Men,JAWORSKI Michal,88.70,-138,-138,139,-171,172,-179,139,172,311
+European Junior Championships,2023-07-24,89 kg Men,FERNANDEZ Sergio,86.50,137,-142,-142,165,171,-176,137,171,308
+European Junior Championships,2023-07-24,89 kg Men,CIUBOTARU Daniel-Calin,88.50,130,-134,134,150,154,-156,134,154,288
+European Junior Championships,2023-07-24,89 kg Men,SIMBUERGER Elias,88.15,-129,-129,129,162,-167,167,129,167,296
+European Junior Championships,2023-07-24,89 kg Men,KOLAR David,88.40,123,128,-130,-152,152,-160,128,152,280
+European Junior Championships,2023-07-24,89 kg Men,DANUTA Vadim,84.75,122,-127,127,-152,-152,152,127,152,279
+European Junior Championships,2023-07-24,89 kg Men,PAGACIK Filip,84.45,120,-124,0,135,140,145,120,145,265
+European Junior Championships,2023-07-24,96 kg Men,CHYNIAKOV Danylo,95.95,148,152,154,176,181,184,154,184,338
+European Junior Championships,2023-07-24,96 kg Men,ABATI Simone Karol,95.85,147,150,153,179,183,-186,153,183,336
+European Junior Championships,2023-07-24,96 kg Men,TABAGARI Gervasi,95.80,143,147,151,182,188,192,151,192,343
+European Junior Championships,2023-07-24,96 kg Men,GEVORGYAN Feliks,93.10,-145,145,-150,185,-192,-192,145,185,330
+European Junior Championships,2023-07-24,96 kg Men,BERTRAN Filip,95.85,137,142,-146,165,173,-176,142,173,315
+European Junior Championships,2023-07-24,96 kg Men,LOMTADZE Tornike,93.05,134,138,141,177,183,186,141,186,327
+European Junior Championships,2023-07-24,96 kg Men,SUONIEMI Konsta Eemeli Kaarlonpoika,95.40,-135,135,140,-165,166,-171,140,166,306
+European Junior Championships,2023-07-24,96 kg Men,BOROVSKYI Andrii,95.65,135,140,-144,170,175,-180,140,175,315
+European Junior Championships,2023-07-24,96 kg Men,SUNDH Victor Arvid,96.00,134,137,-140,165,170,-180,137,170,307
+European Junior Championships,2023-07-24,96 kg Men,MARGULIS Yanush,94.50,127,132,136,152,157,161,136,161,297
+European Junior Championships,2023-07-24,96 kg Men,AXON Henry,95.40,-123,123,126,-155,-155,-157,126,0,0
+European Junior Championships,2023-07-24,96 kg Men,TATARU Darius Stefan,95.10,125,-135,-135,170,-177,-177,125,170,295
+European Junior Championships,2023-07-24,102 kg Men,KARAPETYAN Garik,101.95,165,173,181,195,205,0,181,205,386
+European Junior Championships,2023-07-24,102 kg Men,VEKUA Gurami,101.55,151,156,159,189,193,200,159,200,359
+European Junior Championships,2023-07-24,102 kg Men,VIKINGSSON SJOEBLOM Joen Carl Erik,101.05,151,156,158,169,0,0,158,169,327
+European Junior Championships,2023-07-24,102 kg Men,BURUN Muhammed Emin,100.60,150,155,157,175,192,-196,157,192,349
+European Junior Championships,2023-07-24,102 kg Men,DATON Aleksy,101.65,-139,139,143,160,165,169,143,169,312
+European Junior Championships,2023-07-24,102 kg Men,GINEIKIS Neilas,100.90,132,-137,137,155,160,-163,137,160,297
+European Junior Championships,2023-07-24,102 kg Men,SKORUPKA Daniel,100.70,130,135,-138,-160,163,170,135,170,305
+European Junior Championships,2023-07-24,102 kg Men,AKUJARVI Jonne,100.35,125,-130,-130,-147,147,-155,125,147,272
+European Junior Championships,2023-07-24,109 kg Men,KIRVALIDZE Giorgi,108.65,157,161,165,188,193,-197,165,193,358
+European Junior Championships,2023-07-24,109 kg Men,SHUKURLU Ali,103.00,150,-158,160,185,192,195,160,195,355
+European Junior Championships,2023-07-24,109 kg Men,OSUCH Igor,108.70,151,156,159,181,187,-192,159,187,346
+European Junior Championships,2023-07-24,109 kg Men,CAGLAR Taner,107.50,-155,156,159,-190,191,194,159,194,353
+European Junior Championships,2023-07-24,109 kg Men,MARCHUK Volodymyr,108.40,-155,155,-158,192,-199,-199,155,192,347
+European Junior Championships,2023-07-24,109 kg Men,ZIOLKOWSKI Szymon,108.95,152,-157,-158,170,-178,-181,152,170,322
+European Junior Championships,2023-07-24,109 kg Men,TIRZIU Iohan Martin,106.25,110,-120,120,-140,140,-145,120,140,260
+European Junior Championships,2023-07-24,+109 kg Men,OFLAZ Ali,142.95,156,-160,161,-195,197,203,161,203,364
+European Junior Championships,2023-07-24,+109 kg Men,MACURA Vladimir,137.90,153,156,159,177,182,186,159,186,345
+European Junior Championships,2023-07-24,+109 kg Men,DEMIRCI Onur,111.30,156,-161,-162,190,-203,-204,156,190,346
+European Junior Championships,2023-07-24,+109 kg Men,KESKITALO Hanno Matias,135.40,150,-154,155,173,177,-180,155,177,332
+European Junior Championships,2023-07-24,+109 kg Men,TALEWICZ Tomasz,139.95,145,-150,150,183,187,-196,150,187,337
+European Junior Championships,2023-07-24,+109 kg Men,CHRYSOCHOIDIS Alexandros,142.30,140,145,-150,185,-188,-188,145,185,330
+European Junior Championships,2023-07-24,+109 kg Men,BARKUS Deivydas,123.20,136,142,145,165,172,-179,145,172,317
+European Junior Championships,2023-07-24,+109 kg Men,MOVSISYAN Ashot,109.70,-145,-145,145,-185,186,-191,145,186,331
+European Junior Championships,2023-07-24,45 kg Women,BEKTAS Cansu,44.80,68,70,-73,85,-89,-91,70,85,155
+European Junior Championships,2023-07-24,45 kg Women,GARCIA RINCON Marta,44.65,-69,-69,69,80,83,-86,69,83,152
+European Junior Championships,2023-07-24,45 kg Women,FUENTEFRIA SANCHEZ Ruth,44.75,64,-66,68,73,76,79,68,79,147
+European Junior Championships,2023-07-24,45 kg Women,MALASHCHUK Kateryna,44.80,63,65,67,72,75,78,67,78,145
+European Junior Championships,2023-07-24,45 kg Women,ALTUN Gamze,44.45,61,-64,64,82,84,-89,64,84,148
+European Junior Championships,2023-07-24,45 kg Women,MIRON Ioana Madalina,44.35,-60,60,-64,-80,-80,-84,60,0,0
+European Junior Championships,2023-07-24,45 kg Women,JACOBS Noga,44.95,-51,53,55,64,67,-71,55,67,122
+European Junior Championships,2023-07-24,49 kg Women,MAISURADZE Mariam,48.70,68,72,74,88,-92,-92,74,88,162
+European Junior Championships,2023-07-24,49 kg Women,DRZAZGA OLIWIA Weronika,48.55,69,72,-74,89,-93,-93,72,89,161
+European Junior Championships,2023-07-24,49 kg Women,KOVALOVA Yuliia,48.90,70,-73,-73,-85,85,88,70,88,158
+European Junior Championships,2023-07-24,49 kg Women,STRATOUDAKI Maria,48.80,64,67,70,84,-88,89,70,89,159
+European Junior Championships,2023-07-24,49 kg Women,BILICIER Medine,48.70,69,-71,-71,-87,87,91,69,91,160
+European Junior Championships,2023-07-24,49 kg Women,DOMINGUEZ MEDINA Daniela,48.60,66,-68,68,-79,79,-81,68,79,147
+European Junior Championships,2023-07-24,49 kg Women,BERENZON Alina,48.85,55,60,64,75,79,81,64,81,145
+European Junior Championships,2023-07-24,49 kg Women,CEBOTARU Diana,48.85,62,-65,-66,75,78,80,62,80,142
+European Junior Championships,2023-07-24,49 kg Women,VINTELERIU Lavinia Alexandra,48.85,57,61,-63,78,81,-83,61,81,142
+European Junior Championships,2023-07-24,55 kg Women,COTRUTA Andreea,54.65,85,88,-91,105,110,-115,88,110,198
+European Junior Championships,2023-07-24,55 kg Women,DELIA Celine Ludovica,54.25,82,84,-87,105,110,-115,84,110,194
+European Junior Championships,2023-07-24,55 kg Women,MYJAK Malgorzata Katarzyna,54.25,80,-83,83,93,-99,-99,83,93,176
+European Junior Championships,2023-07-24,55 kg Women,VANDENABEELE Annelien,54.80,74,77,79,90,93,-95,79,93,172
+European Junior Championships,2023-07-24,55 kg Women,SAKHARUK Daryna,54.95,73,75,-78,87,90,92,75,92,167
+European Junior Championships,2023-07-24,55 kg Women,LENVIK Ronja,54.30,70,73,75,88,91,-94,75,91,166
+European Junior Championships,2023-07-24,55 kg Women,FURTH Ela,54.95,71,-74,-74,91,-93,-94,71,91,162
+European Junior Championships,2023-07-24,55 kg Women,KECSKES Karina,55.00,-70,70,-75,-90,90,-95,70,90,160
+European Junior Championships,2023-07-24,55 kg Women,PRIGENT MADEC Theoline,55.00,-66,66,70,86,-91,-91,70,86,156
+European Junior Championships,2023-07-24,55 kg Women,ASIMOPOULOU Stefania Maria,52.95,-50,50,54,60,64,67,54,67,121
+European Junior Championships,2023-07-24,59 kg Women,SAMULIAK Svitlana,58.75,93,96,98,111,114,117,98,117,215
+European Junior Championships,2023-07-24,59 kg Women,IVZHENKO Olha,58.65,91,-94,-94,106,110,113,91,113,204
+European Junior Championships,2023-07-24,59 kg Women,DE RISO Greta,58.95,85,88,-90,105,-109,109,88,109,197
+European Junior Championships,2023-07-24,59 kg Women,GRIGORYAN Aleksandra,58.55,83,86,-88,108,-112,112,86,112,198
+European Junior Championships,2023-07-24,59 kg Women,CARJA Enkileda,58.70,82,85,-87,96,100,102,85,102,187
+European Junior Championships,2023-07-24,59 kg Women,THORNTON Tenishia,58.85,81,83,-85,-100,100,-102,83,100,183
+European Junior Championships,2023-07-24,59 kg Women,POLKA Maria,58.85,82,-86,-86,102,106,-109,82,106,188
+European Junior Championships,2023-07-24,59 kg Women,OLALLA MUNOZ Maria,56.95,75,78,81,95,-98,-98,81,95,176
+European Junior Championships,2023-07-24,59 kg Women,MICHEL Maelyn Delia Angeline,59.00,-77,77,80,95,-98,98,80,98,178
+European Junior Championships,2023-07-24,59 kg Women,POLKA Zuzanna,57.95,77,79,-81,94,97,-100,79,97,176
+European Junior Championships,2023-07-24,59 kg Women,MUHRMAN Tilde Mi Christina,58.20,76,-79,79,-100,-100,-100,79,0,0
+European Junior Championships,2023-07-24,59 kg Women,AHMETOV Salina,58.95,78,-81,-81,98,101,-105,78,101,179
+European Junior Championships,2023-07-24,59 kg Women,MAROOFI Hanna,58.45,73,76,-79,88,91,-93,76,91,167
+European Junior Championships,2023-07-24,59 kg Women,NAEVDAL Sandra,58.45,70,73,76,-88,88,-91,76,88,164
+European Junior Championships,2023-07-24,59 kg Women,DOBRE Estefania Venusa Georgana,56.55,70,75,-78,92,-96,-96,75,92,167
+European Junior Championships,2023-07-24,59 kg Women,KUBIKOVA Marie,58.60,-71,-71,71,83,-87,-89,71,83,154
+European Junior Championships,2023-07-24,59 kg Women,BERCHI Dana,58.40,70,-73,-73,-90,91,-95,70,91,161
+European Junior Championships,2023-07-24,64 kg Women,FYLYPIV Vitaliia,63.95,88,91,-94,109,112,114,91,114,205
+European Junior Championships,2023-07-24,64 kg Women,HALMAC Alice Magda,63.30,85,90,-94,0,0,0,90,0,0
+European Junior Championships,2023-07-24,64 kg Women,GROSU Anca Georgiana,62.50,85,88,-90,110,115,-118,88,115,203
+European Junior Championships,2023-07-24,64 kg Women,ARRASATE YARNOZ Naroa,63.30,77,81,84,-101,-102,-103,84,0,0
+European Junior Championships,2023-07-24,64 kg Women,PAYET Loane Marie Aurelia,63.85,80,83,-85,101,104,108,83,108,191
+European Junior Championships,2023-07-24,64 kg Women,RETTENBERGER Nathalie,63.35,79,82,-84,97,100,-103,82,100,182
+European Junior Championships,2023-07-24,64 kg Women,BAECKSTROEM Jannike Anna,64.00,81,-84,-86,101,-105,-105,81,101,182
+European Junior Championships,2023-07-24,64 kg Women,SLIPEK Zuzanna Maria,63.60,78,81,-83,95,99,102,81,102,183
+European Junior Championships,2023-07-24,64 kg Women,DADERKO Alina,60.65,73,76,78,94,96,98,78,98,176
+European Junior Championships,2023-07-24,64 kg Women,NOVAK Alina,63.55,73,76,-78,96,-99,-101,76,96,172
+European Junior Championships,2023-07-24,64 kg Women,VAN BEERS Merel,63.40,72,74,-76,92,95,97,74,97,171
+European Junior Championships,2023-07-24,64 kg Women,EZZEDDINE Alissa,62.90,67,70,72,-86,87,90,72,90,162
+European Junior Championships,2023-07-24,64 kg Women,FANDINO GALVEZ Lucia,63.90,-72,-72,72,92,95,-98,72,95,167
+European Junior Championships,2023-07-24,64 kg Women,WIBLING Siff,63.30,71,-73,-73,86,-89,-89,71,86,157
+European Junior Championships,2023-07-24,64 kg Women,KUPERMAN Neta,59.75,62,65,68,-78,78,-84,68,78,146
+European Junior Championships,2023-07-24,64 kg Women,UNNARSDOTTIR Ulfhildur Arna,63.60,-74,-75,-75,84,-92,92,0,92,0
+European Junior Championships,2023-07-24,64 kg Women,KONONEN Olivia,63.70,-68,-68,-68,80,-83,-83,0,80,0
+European Junior Championships,2023-07-24,71 kg Women,MARACH Monika,69.75,98,-100,-101,115,-118,----,98,115,213
+European Junior Championships,2023-07-24,71 kg Women,YLISOINI Anna Janette Tellervo,70.75,-96,-96,96,116,119,-121,96,119,215
+European Junior Championships,2023-07-24,71 kg Women,DOLEGA Martyna,70.80,-95,-95,95,113,119,121,95,121,216
+European Junior Championships,2023-07-24,71 kg Women,LUOSTARINEN Aino Enni Inkeri,67.20,85,89,-92,108,112,116,89,116,205
+European Junior Championships,2023-07-24,71 kg Women,SUKIASYAN Alina,69.70,83,86,-89,100,-104,104,86,104,190
+European Junior Championships,2023-07-24,71 kg Women,RUIZ ESPINO Erika,70.65,79,82,84,99,-103,-104,84,99,183
+European Junior Championships,2023-07-24,71 kg Women,SZALAI Lili,67.55,80,-84,84,100,103,-105,84,103,187
+European Junior Championships,2023-07-24,71 kg Women,FRIEL Erin,70.40,-82,-82,82,-101,101,-104,82,101,183
+European Junior Championships,2023-07-24,71 kg Women,SVRCKOVA Laura,69.95,73,-76,76,-95,95,-99,76,95,171
+European Junior Championships,2023-07-24,76 kg Women,CIUBOTARU Alexandrina,75.60,90,-93,93,113,117,-120,93,117,210
+European Junior Championships,2023-07-24,76 kg Women,GERCEKDEN Burcu Ildem,71.95,87,90,92,-112,112,116,92,116,208
+European Junior Championships,2023-07-24,76 kg Women,BROWN Isabella Beatrice,75.05,83,86,90,105,109,113,90,113,203
+European Junior Championships,2023-07-24,76 kg Women,VIOL Laura,75.30,-85,85,89,107,-111,-111,89,107,196
+European Junior Championships,2023-07-24,76 kg Women,BUDAI Petronela Adriana,73.45,83,87,-91,-105,107,111,87,111,198
+European Junior Championships,2023-07-24,76 kg Women,AMROYAN Anna,75.60,85,-90,-90,110,115,-119,85,115,200
+European Junior Championships,2023-07-24,76 kg Women,HORNE Lea Berle,75.65,85,-88,-88,110,115,-118,85,115,200
+European Junior Championships,2023-07-24,76 kg Women,KAROLAK Maria,72.40,85,-87,-88,105,-110,-112,85,105,190
+European Junior Championships,2023-07-24,76 kg Women,HORMAVIRTA Minni Maria Alexandra,73.35,80,-84,84,-107,107,-114,84,107,191
+European Junior Championships,2023-07-24,76 kg Women,STEINER Victoria,73.25,83,-87,-87,103,-107,-109,83,103,186
+European Junior Championships,2023-07-24,76 kg Women,VIKTORINOVA Natalia,71.05,68,71,74,-95,95,98,74,98,172
+European Junior Championships,2023-07-24,76 kg Women,O MOORE Aoife,75.35,64,66,68,91,94,-98,68,94,162
+European Junior Championships,2023-07-24,76 kg Women,PEDERSEN Tine Rognaldsen,75.05,-85,-87,-87,106,-109,110,0,110,110
+European Junior Championships,2023-07-24,81 kg Women,GADELIA Natia,80.90,93,96,-98,116,120,123,96,123,219
+European Junior Championships,2023-07-24,81 kg Women,POGHOSYAN Emma,80.75,-90,90,-94,111,121,-130,90,121,211
+European Junior Championships,2023-07-24,81 kg Women,KOHLER Fanny,80.35,-76,76,80,86,90,93,80,93,173
+European Junior Championships,2023-07-24,87 kg Women,MURGVLIANI Mariam,83.85,95,100,102,118,123,127,102,127,229
+European Junior Championships,2023-07-24,87 kg Women,CAN Busra,86.30,95,98,101,120,125,-129,101,125,226
+European Junior Championships,2023-07-24,87 kg Women,KLUG Kiara,85.55,90,92,96,110,115,-119,96,115,211
+European Junior Championships,2023-07-24,87 kg Women,SWEENEY Emily McGregor,86.50,86,89,91,-106,106,-112,91,106,197
+European Junior Championships,2023-07-24,87 kg Women,KOZERA Katarzyna Marta,81.70,82,85,88,-102,-102,102,88,102,190
+European Junior Championships,2023-07-24,87 kg Women,KOZAK Sofiia,83.25,82,85,86,101,105,107,86,107,193
+European Junior Championships,2023-07-24,87 kg Women,ARAKELYAN Margarita,84.95,85,-89,-89,111,-116,-116,85,111,196
+European Junior Championships,2023-07-24,87 kg Women,NOWAK Weronika,81.30,80,84,-87,93,-98,-100,84,93,177
+European Junior Championships,2023-07-24,87 kg Women,HUSEYNZADA Rahila,82.65,-84,84,-89,-105,-107,108,84,108,192
+European Junior Championships,2023-07-24,87 kg Women,BUSE Mihaela Elena,85.00,75,80,83,90,95,100,83,100,183
+European Junior Championships,2023-07-24,+87 kg Women,SUREN Tuana,93.55,97,102,106,125,130,133,106,133,239
+European Junior Championships,2023-07-24,+87 kg Women,CEVIK Fatmagul,103.55,97,101,105,120,125,129,105,129,234
+European Junior Championships,2023-07-24,+87 kg Women,AVANESYAN Julieta,116.60,90,94,96,112,115,118,96,118,214
+European Junior Championships,2023-07-24,+87 kg Women,DAVIDUTA Gabriela,106.70,85,91,95,-105,105,111,95,111,206
+European Junior Championships,2023-07-24,+87 kg Women,KALASHNYK Hanna,89.95,85,89,92,109,113,119,92,119,211
+European Junior Championships,2023-07-24,+87 kg Women,ENGEL Rotem,101.15,73,78,81,93,97,-102,81,97,178
+European Junior Championships,2023-07-24,+87 kg Women,ADER Adelle,96.20,77,-81,81,88,93,95,81,95,176
+European Junior Championships,2023-07-24,+87 kg Women,MIKHEL Eszter,96.90,-78,-78,-78,93,-98,98,0,98,0
