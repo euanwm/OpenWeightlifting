@@ -1,0 +1,4 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+Stavanger VK Seriestevne,2023-09-28,Women's Senior 59Kg,Camilla Eiane Larsen,59.0,40,0,0,50,55,0,40,55,95
+Stavanger VK Seriestevne,2023-09-28,Men's Senior 96Kg,Eskil Andersen,96.0,100,105,0,115,125,0,105,125,230
+Stavanger VK Seriestevne,2023-09-28,Men's Senior 109Kg,Sander Skjørestad,109.0,80,83,-86,100,110,115,83,115,198
