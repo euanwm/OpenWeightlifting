@@ -1,0 +1,36 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Scottish Juniors & U-23's,2023-08-12,Men's Junior Under 20 109+Kg,Euan Mclauchlan,115.8,100,105,107,125,132,137,107,137,244
+Scottish Juniors & U-23's,2023-08-12,Men's Junior Under 20 89Kg,Callum Holland,88.3,100,105,108,125,130,135,108,135,243
+Scottish Juniors & U-23's,2023-08-12,Men's Under 23 89Kg,Kieran Connor,84.7,98,-102,-102,110,115,120,98,120,218
+Scottish Juniors & U-23's,2023-08-12,Men's Youth Under 17 96Kg,Jake Dickie,93.8,85,-90,90,-114,114,118,90,118,208
+Scottish Juniors & U-23's,2023-08-12,Men's Junior Under 20 81Kg,Corey Paterson,76.7,90,-92,-92,-113,113,116,90,116,206
+Scottish Juniors & U-23's,2023-08-12,Men's Under 23 89Kg,Cameron sinclair,82.2,78,-83,83,110,115,-117,83,115,198
+Scottish Juniors & U-23's,2023-08-12,Men's Under 23 81Kg,Adam Crockford,78.3,84,87,-91,107,111,-116,87,111,198
+Scottish Juniors & U-23's,2023-08-12,Men's Junior Under 20 109+Kg,euan fitzpatrick,117.2,-80,83,87,101,106,110,87,110,197
+Scottish Juniors & U-23's,2023-08-12,Men's Junior Under 20 102Kg,Charlie Farndon,96.8,-75,-75,75,-110,-115,115,75,115,190
+Scottish Juniors & U-23's,2023-08-12,Men's Under 23 67Kg,ally mcgrath,64.4,82,-84,-84,104,108,-112,82,108,190
+Scottish Juniors & U-23's,2023-08-12,Men's Junior Under 20 73Kg,Innes Urquhart,71.1,77,81,84,95,100,104,84,104,188
+Scottish Juniors & U-23's,2023-08-12,Men's Junior Under 20 102Kg,oliver smith,99.5,73,-77,77,105,-110,-110,77,105,182
+Scottish Juniors & U-23's,2023-08-12,Men's Junior Under 20 89Kg,Dylan Dickie,85.5,70,75,-82,95,101,103,75,103,178
+Scottish Juniors & U-23's,2023-08-12,Men's Under 23 89Kg,Rowan Humpidge,88.7,71,75,80,90,95,-100,80,95,175
+Scottish Juniors & U-23's,2023-08-12,Men's Junior Under 20 89Kg,Liam McGavigan ,87.2,70,75,-80,90,95,100,75,100,175
+Scottish Juniors & U-23's,2023-08-12,Men's Youth Under 15 96Kg,Marcel Golanski,92.2,70,73,-76,90,95,-100,73,95,168
+Scottish Juniors & U-23's,2023-08-12,Men's Junior Under 20 73Kg,Marcel Wawoczny ,71.8,-70,-70,70,85,-90,90,70,90,160
+Scottish Juniors & U-23's,2023-08-12,Women's Youth Under 17 71Kg,Athena Pearce,69.25,55,58,62,-73,-73,73,62,73,135
+Scottish Juniors & U-23's,2023-08-12,Women's Under 23 64Kg,Ellie Bissett,63.7,55,58,60,70,75,-77,60,75,135
+Scottish Juniors & U-23's,2023-08-12,Men's Youth Under 17 89Kg,Daniel Newman,88.6,50,55,-60,67,75,-80,55,75,130
+Scottish Juniors & U-23's,2023-08-12,Women's Youth Under 17 76Kg,Keira Fairley,73.15,50,52,54,63,68,70,54,70,124
+Scottish Juniors & U-23's,2023-08-12,Men's Junior Under 20 81Kg,Sol Smillie,80.3,52,54,-56,60,63,-67,54,63,117
+Scottish Juniors & U-23's,2023-08-12,Women's Youth Under 15 71Kg,Ferryn Stewart,68.9,48,-52,-52,59,-62,63,48,63,111
+Scottish Juniors & U-23's,2023-08-12,Women's Youth Under 17 76Kg,Olivia  Dalrymple ,73.55,43,-47,-47,53,56,59,43,59,102
+Scottish Juniors & U-23's,2023-08-12,Women's Youth Under 17 71Kg,Elise Warde,68.1,33,36,41,53,58,60,41,60,101
+Scottish Juniors & U-23's,2023-08-12,Women's Under 23 76Kg,Heather Fitzsimmons,73.75,-40,-40,40,55,57,60,40,60,100
+Scottish Juniors & U-23's,2023-08-12,Women's Junior Under 20 71Kg,Ava Walsh,67.4,40,43,-46,50,54,-57,43,54,97
+Scottish Juniors & U-23's,2023-08-12,Women's Youth Under 15 55Kg,Nicola Beaumont ,54.6,42,45,-47,-52,52,-55,45,52,97
+Scottish Juniors & U-23's,2023-08-12,Women's Youth Under 15 64Kg,Ciara Docherty,60,35,38,41,45,48,51,41,51,92
+Scottish Juniors & U-23's,2023-08-12,Women's Under 23 64Kg,Lucy Watt,62.85,34,-37,38,48,52,-54,38,52,90
+Scottish Juniors & U-23's,2023-08-12,Women's Youth Under 17 71Kg,Emma Warner,70.2,36,39,42,45,-49,-51,42,45,87
+Scottish Juniors & U-23's,2023-08-12,Women's Youth Under 15 45Kg,Mischa Allan,43.1,27,29,-31,-38,38,41,29,41,70
+Scottish Juniors & U-23's,2023-08-12,Men's Youth Under 15 55Kg,Calum Low,54.5,23,-25,-25,-33,35,-39,23,35,58
+Scottish Juniors & U-23's,2023-08-12,Men's Youth Under 15 61Kg,Patrick Johnson,59.4,21,-23,23,26,29,32,23,32,55
+Scottish Juniors & U-23's,2023-08-12,Women's Youth Under 17 64Kg,Iona Currie,62.1,-47,-47,-47,0,0,0,0,0,0
