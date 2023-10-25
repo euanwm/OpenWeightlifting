@@ -6,6 +6,7 @@ import (
 	"backend/events"
 	"backend/lifter"
 	"backend/structs"
+	"backend/utilities"
 	"log"
 	"net/http"
 	"os"
@@ -28,9 +29,14 @@ func getTest(c *gin.Context) {
 }
 
 func getSearchName(c *gin.Context) {
+	const maxResults = 50
 	if len(c.Query("name")) >= 3 {
 		search := structs.NameSearch{NameStr: c.Query("name")}
 		results := structs.NameSearchResults{Names: lifter.NameSearch(search.NameStr, &processedLeaderboard.AllTotals)}
+		// todo: remove this and implement a proper solution
+		if len(results.Names) > maxResults {
+			results.Names = results.Names[:maxResults]
+		}
 		c.JSON(http.StatusOK, results)
 	}
 }
@@ -73,6 +79,7 @@ func postLifterHistory(c *gin.Context) {
 	lifterDetails := lifter.FetchLifts(lifterSearch, &processedLeaderboard)
 	lifterDetails.Lifts = dbtools.SortDate(lifterDetails.Lifts)
 	lifterDetails.Graph = lifterDetails.GenerateChartData()
+	lifterDetails.Lifts = utilities.ReverseSlice(lifterDetails.Lifts)
 
 	if len(lifterDetails.Lifts) != 0 {
 		c.JSON(http.StatusOK, lifterDetails)

@@ -1,56 +1,59 @@
 import { useState, useEffect } from 'react'
-import { useTheme, Modal } from '@nextui-org/react'
-import { ThemeProvider, createTheme } from '@mui/material/styles'
-import CssBaseline from '@mui/material/CssBaseline'
+import { Button, Modal, ModalContent, ModalHeader } from '@nextui-org/react'
 
-import { DataTable } from '../components/data-table/index.component'
-import { Filters } from '../components/filters/index.component'
-import { LifterGraph } from '../components/lifter-graph/index.component'
+import HeaderBar from '@/layouts/head'
 
-import fetchLifterData from 'api/fetchLifterData/fetchLifterData'
-import fetchLifterGraphData from 'api/fetchLifterGraphData/fetchLifterGraphData'
+import { DataTable } from '@/components/datatable'
+import { Filters } from '@/components/filters'
+import { LifterGraph } from '@/components/liftergraph'
 
-import { LifterResult } from 'api/fetchLifterData/fetchLifterDataTypes';
-import { LifterChartData } from 'api/fetchLifterGraphData/fetchLifterGraphDataTypes';
+import fetchLifterData from '@/api/fetchLifterData/fetchLifterData'
+import fetchLifterGraphData from '@/api/fetchLifterGraphData/fetchLifterGraphData'
 
-const darkTheme = createTheme({
-  palette: {
-    mode: 'dark',
-  },
-})
+import { LifterResult } from '@/api/fetchLifterData/fetchLifterDataTypes'
+import { LifterChartData } from '@/api/fetchLifterGraphData/fetchLifterGraphDataTypes'
 
-const lightTheme = createTheme({
-  palette: {
-    mode: 'light',
-  },
-})
+// I fucking hate this shit
+// todo: fix this fucking shit
+let maxLifters = 50
+const defaultLifterQty = 50
 
 function Home({ data }: { data: LifterResult[] }) {
   const [sortBy, setSortBy] = useState('total')
   const [federation, setFederation] = useState('allfeds')
   const [weightclass, setWeightclass] = useState('MALL')
   const [year, setYear] = useState(69)
-  const [currentLifterList, setCurrentLifterList] = useState<LifterResult[]>(data)
+  const [currentLifterList, setCurrentLifterList] =
+    useState<LifterResult[]>(data)
   const [currentLifterName, setCurrentLifterName] = useState('')
   const [showLifterGraph, setShowLifterGraph] = useState(false)
-  const [currentLifterGraph, setCurrentLifterGraph] = useState<LifterChartData>()
+  const [currentLifterGraph, setCurrentLifterGraph] =
+    useState<LifterChartData>()
   const [isGraphLoading, setIsGraphLoading] = useState(true)
-  const { isDark } = useTheme()
 
   useEffect(() => {
     async function callFetchLifterData() {
+      if (maxLifters != defaultLifterQty) {
+        maxLifters = defaultLifterQty
+      }
       setCurrentLifterList(
-        await fetchLifterData(0, 500, sortBy, federation, weightclass, parseInt(String(year))),
+        await fetchLifterData(
+          0,
+          defaultLifterQty,
+          sortBy,
+          federation,
+          weightclass,
+          parseInt(String(year)),
+        ),
       )
     }
 
-    callFetchLifterData();
+    callFetchLifterData()
   }, [sortBy, federation, weightclass, year])
 
   // todo: define newFilter type/interface
   const handleGenderChange = (newFilter: any) => {
     const { type, value } = newFilter
-    console.log(type, value)
     switch (type) {
       case 'sortBy':
         setSortBy(value)
@@ -70,36 +73,69 @@ function Home({ data }: { data: LifterResult[] }) {
     setIsGraphLoading(true)
     setCurrentLifterName(lifterName)
     fetchLifterGraphData(lifterName)
-      .then((data) => setCurrentLifterGraph(data))
+      .then(data => setCurrentLifterGraph(data))
       .then(() => setShowLifterGraph(true))
       .then(() => setIsGraphLoading(false))
   }
 
   const closeLifterGraphHandler = () => setShowLifterGraph(false)
 
-  return (
-    <>
-      <ThemeProvider theme={isDark ? darkTheme : lightTheme}>
-        <CssBaseline />
-        <Filters
-          sortBy={sortBy}
-          federation={federation}
-          handleGenderChange={handleGenderChange}
-          weightClass={weightclass}
-          year={year}
-        />
-        {currentLifterList && <DataTable lifters={currentLifterList} openLifterGraphHandler={openLifterGraphHandler} />}
+  async function updateLifterList(maxLifters: number) {
+    setCurrentLifterList(
+      await fetchLifterData(
+        0,
+        maxLifters,
+        sortBy,
+        federation,
+        weightclass,
+        parseInt(String(year)),
+      ),
+    )
+  }
 
-      </ThemeProvider>
-      <Modal closeButton blur open={showLifterGraph} onClose={closeLifterGraphHandler} width='1000'>
-        <h3>{currentLifterName}: History (Total)</h3>
-        {isGraphLoading ? (
-          <h4>Loading...</h4>
-        ) : (
-          <LifterGraph lifterHistory={currentLifterGraph} />
-        )}
+  return (
+    <div className={'flex flex-col content-center'}>
+      <HeaderBar />
+      <Filters
+        sortBy={sortBy}
+        federation={federation}
+        handleGenderChange={handleGenderChange}
+        weightClass={weightclass}
+        year={year}
+      />
+      {currentLifterList && (
+        <DataTable
+          lifters={currentLifterList}
+          openLifterGraphHandler={openLifterGraphHandler}
+        />
+      )}
+
+      <Modal
+        closeButton
+        isOpen={showLifterGraph}
+        onClose={closeLifterGraphHandler}
+        size={'4xl'}
+        placement={'center'}
+      >
+        <ModalContent>
+          <ModalHeader>{currentLifterName}</ModalHeader>
+          {isGraphLoading ? (
+            <h4>Loading...</h4>
+          ) : (
+            <LifterGraph lifterHistory={currentLifterGraph} />
+          )}
+        </ModalContent>
       </Modal>
-    </>
+      <Button
+        className={'flex justify-center'}
+        aria-label={'Load more results'}
+        color={'primary'}
+        onClick={() => updateLifterList((maxLifters += defaultLifterQty))}
+        isDisabled={currentLifterList.length < maxLifters}
+      >
+        Load more results
+      </Button>
+    </div>
   )
 }
 

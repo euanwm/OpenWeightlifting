@@ -14,6 +14,9 @@ func NameSearch(nameStr string, nameList *[]structs.Entry) (names []string) {
 			names = append(names, lift.Name)
 		}
 	}
+	if len(names) == 0 {
+		names = append(names, "")
+	}
 	return
 }
 

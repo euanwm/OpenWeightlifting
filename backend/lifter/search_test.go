@@ -95,7 +95,7 @@ func TestNameSearch(t *testing.T) {
 				{Name: "dof smith"},
 				{Name: "john smof"},
 			}},
-			wantNameSlice: nil,
+			wantNameSlice: []string{""},
 		},
 	}
 	for _, tt := range tests {
