@@ -122,7 +122,7 @@ function Home({ data }: { data: LifterResult[] }) {
           {isGraphLoading ? (
             <h4>Loading...</h4>
           ) : (
-            <LifterGraph lifterHistory={currentLifterGraph} />
+            <LifterGraph lifterHistory={currentLifterGraph} setRatio={1} />
           )}
         </ModalContent>
       </Modal>
