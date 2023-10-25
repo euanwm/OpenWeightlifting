@@ -22,7 +22,8 @@ ChartJS.register(
   Legend
 )
 
-export const LifterGraph = ({ lifterHistory }: { lifterHistory: LifterChartData }) => {
+// todo: add a aspect ratio prop to the component
+export const LifterGraph = ({ lifterHistory, setRatio }: { lifterHistory: LifterChartData | null, setRatio: number }) => {
   if (!lifterHistory) {
     return null;
   }
@@ -56,6 +57,7 @@ export const LifterGraph = ({ lifterHistory }: { lifterHistory: LifterChartData 
       },
    */
   const config: ChartOptions = {
+    aspectRatio: setRatio,
     color: 'white',
     layout: {
       padding: 20

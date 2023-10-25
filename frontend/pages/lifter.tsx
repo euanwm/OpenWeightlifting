@@ -35,7 +35,7 @@ function Lifter() {
       <center>
         <h1>{lifterHistory['name']}</h1>
       </center>
-      <LifterGraph lifterHistory={lifterHistory['graph']} />
+      <LifterGraph lifterHistory={lifterHistory['graph']} setRatio={1.5} />
       <HistoryTable history={lifterHistory['lifts']} />
     </div>
   )
