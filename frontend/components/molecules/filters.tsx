@@ -53,7 +53,7 @@ const yearsList = [
   { value: 2022, label: '2022' },
   { value: 2023, label: '2023' }
 ]
-export const Filters = ({ sortBy, federation, handleGenderChange, weightClass, year }: {sortBy: string, federation: string, handleGenderChange: any, weightClass: string, year: number}) => (
+export const Filters = ({ sortBy, federation, handleFilterChange, weightClass, year }: {sortBy: string, federation: string, handleFilterChange: any, weightClass: string, year: number}) => (
   <div className="flex flex-col md:flex-row space-y-1 md:space-y-0 md:space-x-4 mt-4 mx-4">
     <Select
       items={sortByList}
@@ -61,7 +61,7 @@ export const Filters = ({ sortBy, federation, handleGenderChange, weightClass, y
       placeholder={sortByList[0].label}
       fullWidth={false}
       onChange={
-        (e) => handleGenderChange({ type: 'sortBy', value: e.target.value })
+        (e) => handleFilterChange({ type: 'sortBy', value: e.target.value })
       }
       >
       {(sortBy) => <SelectItem key={sortBy.value} value={sortBy.value}>{sortBy.label}</SelectItem>}
@@ -72,7 +72,7 @@ export const Filters = ({ sortBy, federation, handleGenderChange, weightClass, y
       placeholder={federationList[0].label}
       fullWidth={false}
       onChange={
-        (e) => handleGenderChange({ type: 'federation', value: e.target.value })
+        (e) => handleFilterChange({ type: 'federation', value: e.target.value })
       }
       >
       {(federation) => <SelectItem key={federation.value} value={federation.value}>{federation.label}</SelectItem>}
@@ -83,7 +83,7 @@ export const Filters = ({ sortBy, federation, handleGenderChange, weightClass, y
       placeholder={weightClassList[0].label}
       fullWidth={false}
       onChange={
-        (e) => handleGenderChange({ type: 'weightclass', value: e.target.value })
+        (e) => handleFilterChange({ type: 'weightclass', value: e.target.value })
       }
       >
       {(weightClass) => <SelectItem key={weightClass.value} value={weightClass.value}>{weightClass.label}</SelectItem>}
@@ -94,7 +94,7 @@ export const Filters = ({ sortBy, federation, handleGenderChange, weightClass, y
       placeholder={yearsList[0].label}
       fullWidth={false}
       onChange={
-        (e) => handleGenderChange({ type: 'year', value: parseInt(e.target.value) })
+        (e) => handleFilterChange({ type: 'year', value: parseInt(e.target.value) })
       }
       >
       {(year) => <SelectItem key={year.value} value={year.value}>{year.label}</SelectItem>}

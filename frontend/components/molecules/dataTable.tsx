@@ -11,7 +11,7 @@ import { FaInstagram } from 'react-icons/fa'
 import { VscGraphLine } from 'react-icons/vsc'
 import { CgProfile } from 'react-icons/cg'
 
-import { AllDetails } from './alldetails'
+import { AllDetails } from './allDetails'
 
 import { LifterResult } from '@/api/fetchLifterData/fetchLifterDataTypes'
 
