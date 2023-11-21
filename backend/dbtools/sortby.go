@@ -26,17 +26,10 @@ func removeFollowingLifts(bigData []structs.Entry) (filteredData []structs.Entry
 
 // Filter - Returns a slice of structs relating to the selected filter selection
 func Filter(bigData []structs.Entry, filterQuery structs.LeaderboardPayload, weightCat structs.WeightClass, cache *QueryCache) (filteredData structs.LeaderboardResponse) {
-	exists, liftPositions := cache.CheckQuery(StrippedPayload{
-		SortBy:      filterQuery.SortBy,
-		Federation:  filterQuery.Federation,
-		WeightClass: filterQuery.WeightClass,
-		Year:        filterQuery.Year,
-		StartDate:   filterQuery.StartDate,
-		EndDate:     filterQuery.EndDate,
-	})
+	exists, liftPositions := cache.CheckQuery(filterQuery)
 
 	if exists {
-		log.Println("Cache hit!")
+		log.Println("Cache hit")
 		filteredData.Data, filteredData.Size = fetchLifts(&bigData, liftPositions, filterQuery.Start, filterQuery.Stop)
 		return
 	}
@@ -51,14 +44,7 @@ func Filter(bigData []structs.Entry, filterQuery structs.LeaderboardPayload, wei
 		}
 	}
 
-	cache.AddQuery(StrippedPayload{
-		SortBy:      filterQuery.SortBy,
-		Federation:  filterQuery.Federation,
-		WeightClass: filterQuery.WeightClass,
-		Year:        filterQuery.Year,
-		StartDate:   filterQuery.StartDate,
-		EndDate:     filterQuery.EndDate,
-	}, liftPostions)
+	cache.AddQuery(filterQuery, liftPostions)
 
 	filteredData.Data, filteredData.Size = fetchLifts(&bigData, liftPostions, filterQuery.Start, filterQuery.Stop)
 	return
@@ -66,9 +52,11 @@ func Filter(bigData []structs.Entry, filterQuery structs.LeaderboardPayload, wei
 
 // fetchLifts - Returns a slice of structs relating to the selected filter selection, it will also remove any duplicate entries.
 func fetchLifts(bigData *[]structs.Entry, pos []int, start int, stop int) (lifts []structs.Entry, size int) {
+	log.Println("Fetching...")
 	for _, p := range pos {
 		lifts = append(lifts, (*bigData)[p])
 	}
+	log.Println("Removing dupies")
 	lifts = removeFollowingLifts(lifts)
 
 	if stop > len(lifts) {
@@ -81,7 +69,7 @@ func fetchLifts(bigData *[]structs.Entry, pos []int, start int, stop int) (lifts
 
 	size = len(lifts)
 	lifts = lifts[start:stop]
-
+	log.Println("Fetched")
 	return
 }
 
