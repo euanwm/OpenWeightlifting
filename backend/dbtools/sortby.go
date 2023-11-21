@@ -2,9 +2,9 @@ package dbtools
 
 import (
 	"backend/enum"
-	"backend/lifter"
 	"backend/structs"
 	"backend/utilities"
+	"log"
 	"sort"
 	"time"
 )
@@ -25,26 +25,63 @@ func removeFollowingLifts(bigData []structs.Entry) (filteredData []structs.Entry
 }
 
 // Filter - Returns a slice of structs relating to the selected filter selection
-func Filter(bigData []structs.Entry, filterQuery structs.LeaderboardPayload, weightCat structs.WeightClass, lifterProfiles map[string]string) (filteredData []structs.Entry) {
+func Filter(bigData []structs.Entry, filterQuery structs.LeaderboardPayload, weightCat structs.WeightClass, cache *QueryCache) (filteredData structs.LeaderboardResponse) {
+	exists, liftPositions := cache.CheckQuery(StrippedPayload{
+		SortBy:      filterQuery.SortBy,
+		Federation:  filterQuery.Federation,
+		WeightClass: filterQuery.WeightClass,
+		Year:        filterQuery.Year,
+		StartDate:   filterQuery.StartDate,
+		EndDate:     filterQuery.EndDate,
+	})
+
+	if exists {
+		log.Println("Cache hit!")
+		filteredData.Data, filteredData.Size = fetchLifts(&bigData, liftPositions, filterQuery.Start, filterQuery.Stop)
+		return
+	}
+
+	var liftPostions []int
 	for idx, lift := range bigData {
 		liftptr := &bigData[idx]
 		if getGender(liftptr) == weightCat.Gender {
 			if lift.SelectedFederation(filterQuery.Federation) && lift.WithinWeightClass(WeightClassList[filterQuery.WeightClass].Gender, weightCat) && lift.WithinDates(filterQuery.StartDate, filterQuery.EndDate) {
-				linkedIG, igHandle := lifter.CheckUserList(lift.Name, lifterProfiles)
-				if linkedIG {
-					lift.Instagram = igHandle
-				}
-				filteredData = append(filteredData, lift)
-			}
-			if len(filteredData) >= filterQuery.Stop {
-				filteredData = removeFollowingLifts(filteredData)
-				if len(filteredData) >= filterQuery.Stop {
-					return
-				}
+				liftPostions = append(liftPostions, idx)
 			}
 		}
 	}
-	filteredData = removeFollowingLifts(filteredData)
+
+	cache.AddQuery(StrippedPayload{
+		SortBy:      filterQuery.SortBy,
+		Federation:  filterQuery.Federation,
+		WeightClass: filterQuery.WeightClass,
+		Year:        filterQuery.Year,
+		StartDate:   filterQuery.StartDate,
+		EndDate:     filterQuery.EndDate,
+	}, liftPostions)
+
+	filteredData.Data, filteredData.Size = fetchLifts(&bigData, liftPostions, filterQuery.Start, filterQuery.Stop)
+	return
+}
+
+// fetchLifts - Returns a slice of structs relating to the selected filter selection, it will also remove any duplicate entries.
+func fetchLifts(bigData *[]structs.Entry, pos []int, start int, stop int) (lifts []structs.Entry, size int) {
+	for _, p := range pos {
+		lifts = append(lifts, (*bigData)[p])
+	}
+	lifts = removeFollowingLifts(lifts)
+
+	if stop > len(lifts) {
+		stop = len(lifts)
+	}
+
+	if start > len(lifts) {
+		start = len(lifts)
+	}
+
+	size = len(lifts)
+	lifts = lifts[start:stop]
+
 	return
 }
 

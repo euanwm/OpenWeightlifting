@@ -22,6 +22,8 @@ var processedLeaderboard structs.LeaderboardData
 
 var lifterData = lifter.Build()
 
+var QueryCache dbtools.QueryCache
+
 func getTest(c *gin.Context) {
 	hour, min, sec := time.Now().Clock()
 	retStruct := structs.TestPayload{Hour: hour, Min: min, Sec: sec}
@@ -108,7 +110,7 @@ func postLeaderboard(c *gin.Context) {
 	}
 
 	leaderboardData := processedLeaderboard.Select(body.SortBy) // Selects either total or sinclair sorted leaderboard
-	fedData := dbtools.Filter(*leaderboardData, body, dbtools.WeightClassList[body.WeightClass], *lifterData)
+	fedData := dbtools.Filter(*leaderboardData, body, dbtools.WeightClassList[body.WeightClass], &QueryCache)
 	c.JSON(http.StatusOK, fedData)
 }
 
