@@ -20,7 +20,7 @@ import (
 
 var processedLeaderboard structs.LeaderboardData
 
-var lifterData = lifter.Build()
+// var lifterData = lifter.Build()
 
 var QueryCache dbtools.QueryCache
 
@@ -139,7 +139,7 @@ func setupCORS(r *gin.Engine) {
 
 func buildServer() *gin.Engine {
 	log.Println("Starting server...")
-	go dbtools.BuildDatabase(&processedLeaderboard)
+	dbtools.BuildDatabase(&processedLeaderboard)
 	r := gin.Default()
 	setupCORS(r)
 	r.GET("test", getTest)
@@ -151,8 +151,21 @@ func buildServer() *gin.Engine {
 	return r
 }
 
+// CacheMeOutsideHowBoutDat - Precaches data on startup on a separate thread due to container timeout constraints.
+func CacheMeOutsideHowBoutDat() {
+	log.Println("Precaching data...")
+	for n, query := range dbtools.PreCacheQuery {
+		log.Println("Caching query: ", n)
+		_, _ = QueryCache.CheckQuery(query)
+		liftdata := processedLeaderboard.Select(query.SortBy)
+		dbtools.PreCacheFilter(*liftdata, query, dbtools.WeightClassList[query.WeightClass], &QueryCache)
+	}
+	log.Println("Caching complete")
+}
+
 func main() {
 	apiServer := buildServer()
+	go CacheMeOutsideHowBoutDat()
 	err := apiServer.Run()
 	if err != nil {
 		log.Fatal("Failed to run server")

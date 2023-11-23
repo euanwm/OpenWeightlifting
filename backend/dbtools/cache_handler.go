@@ -1,6 +1,8 @@
 package dbtools
 
-import "backend/structs"
+import (
+	"backend/structs"
+)
 
 type QueryCache struct {
 	Store []Query

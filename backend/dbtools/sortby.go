@@ -4,14 +4,14 @@ import (
 	"backend/enum"
 	"backend/structs"
 	"backend/utilities"
-	"log"
 	"sort"
 	"time"
 )
 
-func removeFollowingLifts(bigData []structs.Entry) (filteredData []structs.Entry) {
+func removeFollowingLifts(bigData []structs.Entry, pos *[]int) (filteredData []structs.Entry) {
 	var names []string
 	var position []int
+	// todo: refactor this so it's faster / more efficient
 	for i, d := range bigData {
 		if !utilities.Contains(names, d.Name) {
 			position = append(position, i)
@@ -26,50 +26,73 @@ func removeFollowingLifts(bigData []structs.Entry) (filteredData []structs.Entry
 
 // Filter - Returns a slice of structs relating to the selected filter selection
 func Filter(bigData []structs.Entry, filterQuery structs.LeaderboardPayload, weightCat structs.WeightClass, cache *QueryCache) (filteredData structs.LeaderboardResponse) {
-	exists, liftPositions := cache.CheckQuery(filterQuery)
+	exists, positions := cache.CheckQuery(filterQuery)
 
 	if exists {
-		log.Println("Cache hit")
-		filteredData.Data, filteredData.Size = fetchLifts(&bigData, liftPositions, filterQuery.Start, filterQuery.Stop)
+		filteredData.Data, filteredData.Size = fetchLifts(&bigData, positions, &filterQuery)
 		return
 	}
 
-	var liftPostions []int
+	var names []string
+	var liftPtr *structs.Entry
+	var liftPositions []int
 	for idx, lift := range bigData {
-		liftptr := &bigData[idx]
-		if getGender(liftptr) == weightCat.Gender {
+		liftPtr = &bigData[idx]
+		if getGender(liftPtr) == weightCat.Gender && !utilities.Contains(names, lift.Name) {
 			if lift.SelectedFederation(filterQuery.Federation) && lift.WithinWeightClass(WeightClassList[filterQuery.WeightClass].Gender, weightCat) && lift.WithinDates(filterQuery.StartDate, filterQuery.EndDate) {
-				liftPostions = append(liftPostions, idx)
+				liftPositions = append(liftPositions, idx)
+				names = append(names, lift.Name)
+				filteredData.Data = append(filteredData.Data, lift)
 			}
 		}
 	}
+	cache.AddQuery(filterQuery, liftPositions)
 
-	cache.AddQuery(filterQuery, liftPostions)
+	if filterQuery.Stop > len(liftPositions) {
+		filterQuery.Stop = len(liftPositions)
+	}
 
-	filteredData.Data, filteredData.Size = fetchLifts(&bigData, liftPostions, filterQuery.Start, filterQuery.Stop)
+	if filterQuery.Start > len(liftPositions) {
+		filterQuery.Start = len(liftPositions)
+	}
+
+	filteredData.Size = len(liftPositions)
+	filteredData.Data = filteredData.Data[filterQuery.Start:filterQuery.Stop]
 	return
 }
 
+func PreCacheFilter(bigData []structs.Entry, filterQuery structs.LeaderboardPayload, weightCat structs.WeightClass, cache *QueryCache) {
+	var names []string
+	var liftPtr *structs.Entry
+	var liftPositions []int
+	for idx, lift := range bigData {
+		liftPtr = &bigData[idx]
+		if getGender(liftPtr) == weightCat.Gender && !utilities.Contains(names, lift.Name) {
+			if lift.SelectedFederation(filterQuery.Federation) && lift.WithinWeightClass(WeightClassList[filterQuery.WeightClass].Gender, weightCat) && lift.WithinDates(filterQuery.StartDate, filterQuery.EndDate) {
+				liftPositions = append(liftPositions, idx)
+				names = append(names, lift.Name)
+			}
+		}
+	}
+	cache.AddQuery(filterQuery, liftPositions)
+}
+
 // fetchLifts - Returns a slice of structs relating to the selected filter selection, it will also remove any duplicate entries.
-func fetchLifts(bigData *[]structs.Entry, pos []int, start int, stop int) (lifts []structs.Entry, size int) {
-	log.Println("Fetching...")
+func fetchLifts(bigData *[]structs.Entry, pos []int, query *structs.LeaderboardPayload) (lifts []structs.Entry, size int) {
 	for _, p := range pos {
 		lifts = append(lifts, (*bigData)[p])
 	}
-	log.Println("Removing dupies")
-	lifts = removeFollowingLifts(lifts)
 
-	if stop > len(lifts) {
-		stop = len(lifts)
+	if query.Stop > len(lifts) {
+		query.Stop = len(lifts)
 	}
 
-	if start > len(lifts) {
-		start = len(lifts)
+	if query.Start > len(lifts) {
+		query.Start = len(lifts)
 	}
 
 	size = len(lifts)
-	lifts = lifts[start:stop]
-	log.Println("Fetched")
+	lifts = lifts[query.Start:query.Stop]
 	return
 }
 
