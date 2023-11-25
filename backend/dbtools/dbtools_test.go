@@ -76,8 +76,8 @@ func TestFilter(t *testing.T) {
 	var cache QueryCache
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			if gotFilteredData := Filter(tt.args.bigData, tt.args.filterQuery, WeightClassList[tt.args.weightCat], &cache); !reflect.DeepEqual(gotFilteredData, tt.wantFilteredData) {
-				t.Errorf("Filter() = %v, want %v", gotFilteredData, tt.wantFilteredData)
+			if gotFilteredData := FilterLifts(tt.args.bigData, tt.args.filterQuery, WeightClassList[tt.args.weightCat], &cache); !reflect.DeepEqual(gotFilteredData, tt.wantFilteredData) {
+				t.Errorf("FilterLifts() = %v, want %v", gotFilteredData, tt.wantFilteredData)
 			}
 		})
 	}

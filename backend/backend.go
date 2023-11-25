@@ -110,7 +110,7 @@ func postLeaderboard(c *gin.Context) {
 	}
 
 	leaderboardData := processedLeaderboard.Select(body.SortBy) // Selects either total or sinclair sorted leaderboard
-	fedData := dbtools.Filter(*leaderboardData, body, dbtools.WeightClassList[body.WeightClass], &QueryCache)
+	fedData := dbtools.FilterLifts(*leaderboardData, body, dbtools.WeightClassList[body.WeightClass], &QueryCache)
 	c.JSON(http.StatusOK, fedData)
 }
 

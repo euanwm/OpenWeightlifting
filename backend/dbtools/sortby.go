@@ -8,8 +8,8 @@ import (
 	"time"
 )
 
-// Filter - Returns a slice of structs relating to the selected filter selection
-func Filter(bigData []structs.Entry, filterQuery structs.LeaderboardPayload, weightCat structs.WeightClass, cache *QueryCache) (filteredData structs.LeaderboardResponse) {
+// FilterLifts - Returns a slice of structs relating to the selected filter selection
+func FilterLifts(bigData []structs.Entry, filterQuery structs.LeaderboardPayload, weightCat structs.WeightClass, cache *QueryCache) (filteredData structs.LeaderboardResponse) {
 	exists, positions := cache.CheckQuery(filterQuery)
 
 	if exists {
