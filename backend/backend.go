@@ -25,8 +25,8 @@ var processedLeaderboard structs.LeaderboardData
 var QueryCache dbtools.QueryCache
 
 func getTest(c *gin.Context) {
-	hour, min, sec := time.Now().Clock()
-	retStruct := structs.TestPayload{Hour: hour, Min: min, Sec: sec}
+	hour, mins, sec := time.Now().Clock()
+	retStruct := structs.TestPayload{Hour: hour, Min: mins, Sec: sec}
 	c.JSON(http.StatusOK, retStruct)
 }
 
