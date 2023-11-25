@@ -8,22 +8,6 @@ import (
 	"time"
 )
 
-func removeFollowingLifts(bigData []structs.Entry, pos *[]int) (filteredData []structs.Entry) {
-	var names []string
-	var position []int
-	// todo: refactor this so it's faster / more efficient
-	for i, d := range bigData {
-		if !utilities.Contains(names, d.Name) {
-			position = append(position, i)
-			names = append(names, d.Name)
-		}
-	}
-	for _, posInt := range position {
-		filteredData = append(filteredData, bigData[posInt])
-	}
-	return
-}
-
 // Filter - Returns a slice of structs relating to the selected filter selection
 func Filter(bigData []structs.Entry, filterQuery structs.LeaderboardPayload, weightCat structs.WeightClass, cache *QueryCache) (filteredData structs.LeaderboardResponse) {
 	exists, positions := cache.CheckQuery(filterQuery)

@@ -42,22 +42,41 @@ func TestCollateAll(t *testing.T) {
 
 func TestFilter(t *testing.T) {
 	type args struct {
-		bigData        []structs.Entry
-		filterQuery    structs.LeaderboardPayload
-		weightCat      structs.WeightClass
-		lifterProfiles map[string]string
+		bigData     []structs.Entry
+		filterQuery structs.LeaderboardPayload
+		weightCat   string
 	}
 	tests := []struct {
 		name             string
 		args             args
-		wantFilteredData []structs.Entry
+		wantFilteredData structs.LeaderboardResponse
 	}{
-		// todo: Add test cases.
-		{},
+		{
+			name: "FilterByFederation",
+			args: args{
+				bigData: []structs.Entry{{Date: "2023-06-01", Name: "John Smith", Total: 100, Federation: "BWL", Gender: enum.Male, Bodyweight: 109.00}, {Date: "2023-06-01", Name: "Dave Smith", Total: 200, Federation: "BWL", Gender: enum.Male, Bodyweight: 109.00}, {Date: "2023-06-01", Name: "Ethan Smith", Total: 300, Federation: "BWL", Gender: enum.Male, Bodyweight: 109.00}},
+				filterQuery: structs.LeaderboardPayload{
+					Start:       0,
+					Stop:        10,
+					SortBy:      enum.Total,
+					Federation:  enum.ALLFEDS,
+					WeightClass: "MALL",
+					Year:        69,
+					StartDate:   "2023-01-01",
+					EndDate:     "2024-01-01",
+				},
+				weightCat: "MALL",
+			},
+			wantFilteredData: structs.LeaderboardResponse{
+				Size: 3,
+				Data: []structs.Entry{{Date: "2023-06-01", Name: "John Smith", Total: 100, Federation: "BWL", Gender: enum.Male, Bodyweight: 109.00}, {Date: "2023-06-01", Name: "Dave Smith", Total: 200, Federation: "BWL", Gender: enum.Male, Bodyweight: 109.00}, {Date: "2023-06-01", Name: "Ethan Smith", Total: 300, Federation: "BWL", Gender: enum.Male, Bodyweight: 109.00}},
+			},
+		},
 	}
+	var cache QueryCache
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			if gotFilteredData := Filter(tt.args.bigData, tt.args.filterQuery, tt.args.weightCat, tt.args.lifterProfiles); !reflect.DeepEqual(gotFilteredData, tt.wantFilteredData) {
+			if gotFilteredData := Filter(tt.args.bigData, tt.args.filterQuery, WeightClassList[tt.args.weightCat], &cache); !reflect.DeepEqual(gotFilteredData, tt.wantFilteredData) {
 				t.Errorf("Filter() = %v, want %v", gotFilteredData, tt.wantFilteredData)
 			}
 		})
@@ -268,26 +287,6 @@ func Test_loadAllFedEvents(t *testing.T) {
 		t.Run(tt.name, func(t *testing.T) {
 			if gotAllEvents := loadAllFedEvents(tt.args.federation); !reflect.DeepEqual(reflect.TypeOf(gotAllEvents), reflect.TypeOf(tt.wantAllEvents)) {
 				t.Errorf("loadAllFedEvents() = %v, want %v", gotAllEvents, reflect.TypeOf(tt.wantAllEvents))
-			}
-		})
-	}
-}
-
-func Test_removeFollowingLifts(t *testing.T) {
-	type args struct {
-		bigData []structs.Entry
-	}
-	tests := []struct {
-		name             string
-		args             args
-		wantFilteredData []structs.Entry
-	}{
-		{name: "RemoveFollowingLifts", args: args{bigData: []structs.Entry{{Name: "John Smith", Total: 100}, {Name: "John Smith", Total: 200}, {Name: "John Smith", Total: 300}}}, wantFilteredData: []structs.Entry{{Name: "John Smith", Total: 100}}},
-	}
-	for _, tt := range tests {
-		t.Run(tt.name, func(t *testing.T) {
-			if gotFilteredData := removeFollowingLifts(tt.args.bigData); !reflect.DeepEqual(gotFilteredData, tt.wantFilteredData) {
-				t.Errorf("removeFollowingLifts() = %v, want %v", gotFilteredData, tt.wantFilteredData)
 			}
 		})
 	}
