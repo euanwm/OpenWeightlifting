@@ -1,0 +1,39 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Scottish Masters Cup,2023-11-04,Men's Senior 102Kg,Ian Docherty,101.15,115,120,130,145,155,160,130,160,290
+Scottish Masters Cup,2023-11-04,Men's Masters (35-39) 89Kg,Radoslaw Wroblewski,88.8,105,-111,111,130,136,0,111,136,247
+Scottish Masters Cup,2023-11-04,Men's Masters (50-54) 102Kg,Colin Campbell,98.25,87,90,93,117,120,123,93,123,216
+Scottish Masters Cup,2023-11-04,Men's Masters (40-44) 96Kg,Paul Chalmers,89.55,80,85,-90,100,105,-110,85,105,190
+Scottish Masters Cup,2023-11-04,Men's Masters (35-39) 81Kg,Charles Brister,80.75,75,78,-82,100,105,110,78,110,188
+Scottish Masters Cup,2023-11-04,Men's Masters (45-49) 89Kg,David Owens,86.05,70,75,78,90,100,108,78,108,186
+Scottish Masters Cup,2023-11-04,Men's Masters (35-39) 109+Kg,Stephen Quail,136.5,80,85,-90,100,-105,0,85,100,185
+Scottish Masters Cup,2023-11-04,Women's Masters (35-39) 71Kg,Sheli McCoy,69.85,70,74,-77,90,95,100,74,100,174
+Scottish Masters Cup,2023-11-04,Men's Masters (55-59) 81Kg,Steve Walsh,79.85,65,70,73,95,100,-103,73,100,173
+Scottish Masters Cup,2023-11-04,Men's Masters (40-44) 81Kg,Erik Duncan,76.35,65,70,-75,85,90,-93,70,90,160
+Scottish Masters Cup,2023-11-04,Men's Masters (45-49) 102Kg,Ian Moir,101.2,60,65,68,85,-91,91,68,91,159
+Scottish Masters Cup,2023-11-04,Men's Masters (45-49) 81Kg,Steven Lafferty,81,60,63,65,80,83,85,65,85,150
+Scottish Masters Cup,2023-11-04,Women's Senior 71Kg,Lianne Wallace,69.95,57,60,63,75,-80,80,63,80,143
+Scottish Masters Cup,2023-11-04,Men's Masters (55-59) 81Kg,Neil Taylor,79.85,52,55,-58,72,75,80,55,80,135
+Scottish Masters Cup,2023-11-04,Men's Masters (60-64) 96Kg,Eric ODonnell,95.2,48,51,-55,80,-85,-85,51,80,131
+Scottish Masters Cup,2023-11-04,Men's Masters (60-64) 81Kg,Colin Hannah,75.85,47,51,55,65,70,75,55,75,130
+Scottish Masters Cup,2023-11-04,Women's Masters (50-54) 59Kg,Kim Lole,56.3,47,51,56,62,66,-68,56,66,122
+Scottish Masters Cup,2023-11-04,Women's Masters (40-44) 87Kg,Jillian McMenemy,86.8,45,47,48,65,67,68,48,68,116
+Scottish Masters Cup,2023-11-04,Men's Masters (60-64) 73Kg,Alex Phillips,71.55,45,47,-49,58,60,62,47,62,109
+Scottish Masters Cup,2023-11-04,Women's Masters (40-44) 71Kg,Caroline Connaghan,68.1,40,-43,43,56,-60,60,43,60,103
+Scottish Masters Cup,2023-11-04,Women's Masters (35-39) 87+Kg,Teresa Findlay,93.8,38,41,43,55,58,-61,43,58,101
+Scottish Masters Cup,2023-11-04,Women's Masters (50-54) 59Kg,Yvonne Spence,57.1,41,-43,45,53,55,-57,45,55,100
+Scottish Masters Cup,2023-11-04,Women's Masters (45-49) 59Kg,Lindsay McMahon,56.75,40,42,44,52,56,-60,44,56,100
+Scottish Masters Cup,2023-11-04,Women's Masters (40-44) 87+Kg,Tracy Brown,93.45,37,40,-43,55,60,-65,40,60,100
+Scottish Masters Cup,2023-11-04,Women's Senior 71Kg,Amy Dodds,67.3,48,-53,-56,50,-58,-61,48,50,98
+Scottish Masters Cup,2023-11-04,Women's Masters (50-54) 64Kg,Denise Trayling,62.05,38,40,42,53,55,-57,42,55,97
+Scottish Masters Cup,2023-11-04,Women's Masters (55-59) 59Kg,Laura Hunter,57.95,-38,38,41,50,-54,54,41,54,95
+Scottish Masters Cup,2023-11-04,Women's Masters (40-44) 71Kg,Michelle  Docherty,69.55,35,-39,39,48,51,55,39,55,94
+Scottish Masters Cup,2023-11-04,Women's Masters (40-44) 81Kg,Kay Bingham,78.25,37,40,43,50,-53,-55,43,50,93
+Scottish Masters Cup,2023-11-04,Women's Masters (50-54) 64Kg,Samantha Lambert,61.25,35,37,38,45,48,51,38,51,89
+Scottish Masters Cup,2023-11-04,Women's Masters (45-49) 87+Kg,Joanne Parkin,119.45,33,36,38,45,48,51,38,51,89
+Scottish Masters Cup,2023-11-04,Women's Masters (45-49) 87+Kg,Claire Bell,94.95,30,33,-36,50,53,-57,33,53,86
+Scottish Masters Cup,2023-11-04,Women's Masters (55-59) 49Kg,Michela Costa-Watt,48.95,35,37,39,43,-46,46,39,46,85
+Scottish Masters Cup,2023-11-04,Women's Masters (65-69) 76Kg,claire cameron,73.85,31,32,33,-40,40,-42,33,40,73
+Scottish Masters Cup,2023-11-04,Women's Masters (35-39) 71Kg,Kelly Doogan,70.2,28,30,-34,37,40,42,30,42,72
+Scottish Masters Cup,2023-11-04,Women's Masters (40-44) 64Kg,Candice  Darling ,63.3,28,30,-32,38,40,-42,30,40,70
+Scottish Masters Cup,2023-11-04,Men's Masters (60-64) 73Kg,Thomas Saez,68,30,-33,-33,35,-38,-40,30,35,65
+Scottish Masters Cup,2023-11-04,Women's Masters (45-49) 87+Kg,Vikki Renwick,95.15,22,24,27,28,-32,32,27,32,59
