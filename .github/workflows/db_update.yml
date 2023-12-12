@@ -31,25 +31,24 @@ jobs:
 
         - name: Run backend_cli.py
           run: |
-                    cd python_tools
-                    pipenv run python backend_cli.py
+                cd python_tools
+                pipenv run python backend_cli.py
         
         - name: Run check_db.py
           run: |
-                    cd python_tools
-                    pipenv run python check_db.py
+                cd python_tools
+                pipenv run python check_db.py
 
         - name: Commit and push if there are changes
           run: |
-            git config --global user.name 'It is I a bot'
-            git add . 
-            git commit -m "Database Update" || echo "No changes to commit"
-            git push
+                git add . 
+                git commit -m "Database Update" || echo "No changes to commit"
+                git push
 
         - name: Open a pull request
           uses: repo-sync/pull-request@v2
           with:
-            destination_branch: 'main'
+            destination_branch: 'testing'
             pr_title: 'Database Update'
             pr_body: 'Database Update'
 
