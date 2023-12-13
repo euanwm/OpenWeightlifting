@@ -59,9 +59,15 @@ class CLICommands:
 
 if __name__ == '__main__':
     commands = CLICommands()
-    match argv[1]:
-        case "--update":
-            print(f"updating database: {argv[2]}")
-            commands.update(argv[2])
-        case _:
-            print("not a command")
+    if len(argv) > 1:
+        match argv[1]:
+            case "--update":
+                if len(argv) > 2:
+                    print(f"updating database: {argv[2]}")
+                    commands.update(argv[2])
+                else:
+                    print("No database name provided")
+            case _:
+                print("not a command")
+    else:
+        print("No arguments provided")
