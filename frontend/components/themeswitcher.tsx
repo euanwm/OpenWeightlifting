@@ -36,7 +36,3 @@ export const ThemeSwitcher = () => {
     );
 
 };
-
-/** 
- * this is just copied from https://www.linkedin.com/pulse/implement-dark-mode-tailwindcss-nextjs13-app-5-simple-lucas-los-arcos
- */
