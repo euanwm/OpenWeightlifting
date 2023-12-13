@@ -12,7 +12,7 @@ export default function App({ Component, pageProps }: AppProps) {
   }, []);
   return (
     <NextUIProvider>
-      <NextThemesProvider attribute="class" defaultTheme="dark">
+      <NextThemesProvider attribute="class" themes={['dark', 'light']} >
         <Component {...pageProps} />
       </NextThemesProvider>
     </NextUIProvider>

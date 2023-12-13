@@ -13,6 +13,8 @@ import { SlCalculator } from 'react-icons/sl'
 import { MdOutlinePersonSearch } from 'react-icons/md'
 import { FiHome } from 'react-icons/fi'
 
+import { ThemeSwitcher } from '@/components/themeswitcher'
+
 import Logo from '../public/OWL-logo.png'
 import { useState } from 'react'
 
@@ -66,6 +68,10 @@ const HeaderBar = () => {
             <span className="ml-2">GitHub</span>
           </Link>
         </NavbarMenuItem>
+        <NavbarMenuItem>
+          <span className="ml-2"><ThemeSwitcher /></span>
+        </NavbarMenuItem>
+
       </NavbarMenu>
     </Navbar>
   )

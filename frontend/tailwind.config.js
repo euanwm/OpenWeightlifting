@@ -12,7 +12,7 @@ module.exports = {
   plugins: [nextui(
     {
       prefix: 'nextui',
-      defaultTheme: 'dark',
+      defaultTheme: 'system',
       defaultExtendTheme: 'dark',
       layout: {
         spacingUnit: 4, // in px
@@ -68,6 +68,33 @@ module.exports = {
               foreground: '#000000',
             }
           },
+          },
+          light: {
+            colors: {
+              background: '#ffffff',
+              foreground: '#000000', // font color
+              content1: '#ffffff', // main table background
+              content2: '#9d3d3d',
+              content3: '#598138',
+              content4: '#ffce00',
+              default: {
+                DEFAULT: '#e6e6e6',
+                50: '#0a4a6b',
+                100: '#e3e7e8', // dropdowns
+                200: '#d5dcdc',
+                300: '#ffce00',
+                400: '#ffce00',
+                500: '#ffce00',
+                600: '#ffce00',
+                700: '#ffce00',
+                800: '#ffce00',
+                900: '#ffce00'
+              },
+              primary: {
+                DEFAULT: '#00B0F0',
+                foreground: '#000000',
+              }
+            }
           }
         }
       }
