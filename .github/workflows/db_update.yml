@@ -1,9 +1,11 @@
 name: Database Update
 
 on:
-    schedule:
-        # Runs at midnight everyday
-        - cron: '10 0 * * *'
+  push:
+    branches: development
+    # schedule:
+    #     # Runs at midnight everyday
+    #     - cron: '0 0 * * *'
 
 jobs:
     update-database:
@@ -23,7 +25,6 @@ jobs:
         
         - name: Install dependencies from pipfile
           run: |
-                pip install python -r requirements.txt
                 cd python_tools
                 python -m pip install --upgrade pip
                 pip install pipenv
@@ -48,6 +49,8 @@ jobs:
         - name: Open a pull request
           uses: repo-sync/pull-request@v2
           with:
-            destination_branch: 'testing'
+            destination_branch: 'development'
             pr_title: 'Database Update'
             pr_body: 'Database Update'
+
+
