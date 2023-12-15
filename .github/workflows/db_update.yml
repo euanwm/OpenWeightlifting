@@ -6,7 +6,7 @@ on:
     # schedule:
     #     # Runs at midnight everyday
     #     - cron: '0 0 * * *'
-  
+
 jobs:
     update-database:
         runs-on: ubuntu-latest
