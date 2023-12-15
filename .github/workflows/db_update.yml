@@ -1,9 +1,11 @@
 name: Database Update
 
 on:
-  schedule:
-    # Runs at midnight everyday
-    - cron: '0 0 * * *'
+  push:
+    branches: development
+  # schedule:
+  #   # Runs at midnight everyday
+  #   - cron: '0 0 * * *'
 
 jobs:
   update-database:
