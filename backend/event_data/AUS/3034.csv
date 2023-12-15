@@ -1,0 +1,11 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Rev Club Comp,2023-04-01,female,Meghan Baronet,54.80,47,50,53,56,59,-63,53,59,112
+Rev Club Comp,2023-04-01,female,Rikki Coulter,58.50,-49,-49,-49,60,65,-70,0,65,0
+Rev Club Comp,2023-04-01,female,Charlotte Hoy,63.90,55,58,60,66,72,76,60,76,136
+Rev Club Comp,2023-04-01,female,Cassidy Moore,71.00,43,-46,46,48,51,-54,46,51,97
+Rev Club Comp,2023-04-01,female,Aimee Dagnia,76.00,-66,66,68,81,85,90,68,90,158
+Rev Club Comp,2023-04-01,male,Jake Stanley,62.20,91,-94,94,122,125,-128,94,125,219
+Rev Club Comp,2023-04-01,male,Sean Hird,66.80,-63,63,69,80,85,-90,69,85,154
+Rev Club Comp,2023-04-01,male,Brodie Lavender-Webb,72.90,105,111,-114,130,135,,111,135,246
+Rev Club Comp,2023-04-01,male,Victor Caulton,93.70,115,-120,121,140,145,150,121,150,271
+Rev Club Comp,2023-04-01,male,Justin Lovei,95.80,117,-121,-121,142,146,151,117,151,268
