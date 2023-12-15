@@ -1,66 +1,63 @@
 name: Database Update
 
 on:
-  push:
-    branches: development
-    # schedule:
-    #     # Runs at midnight everyday
-    #     - cron: '0 0 * * *'
+  schedule:
+    # Runs at midnight everyday
+    - cron: '0 0 * * *'
 
 jobs:
-    update-database:
-        runs-on: ubuntu-latest
-        strategy:
-            matrix:
-              python-version: ["3.11"]
+  update-database:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.11"]
 
-        steps:
-        - name: Check out repository
-          uses: actions/checkout@v2
+    steps:
+    - name: Check out repository
+      uses: actions/checkout@v2
+      with:
+        repository: 'sjdoescoding/OpenWeightlifting'
+        ref: 'development' # Check out the development branch
 
-        - name: Set up Python ${{ matrix.python-version }}
-          uses: actions/setup-python@v2
-          with:
-                python-version: ${{ matrix.python-version }}
-        
-        - name: Install dependencies from pipfile
-          run: |
-                cd python_tools
-                python -m pip install --upgrade pip
-                pip install pipenv
-                pipenv install --dev
-
-        - name: Run backend_cli.py
-          run: |
-                cd python_tools
-                python -m pip install --upgrade pip
-                pip install pipenv
-                pipenv run python backend_cli.py --update all
-        
-        - name: Run check_db.py
-          run: |
-                cd python_tools
-                pip install pipenv
-                pipenv run python check_db.py
-
-
-        - name: Create a new branch
-          run: |
-                git checkout -b update-branch-$(date +'%Y%m%d%H%M%S')
-        
-        - name: Commit and push if there are changes
-          run: |
-                git config --global user.name 'sjdoescoding'
-                git add .
-                git commit -m "Database Update" || echo "No changes to commit"
-                git push origin update-branch-$(date +'%Y%m%d%H%M%S')
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v2
+      with:
+        python-version: ${{ matrix.python-version }}
     
-        - name: Open a pull request
-          uses: repo-sync/pull-request@v2
-          with:
-            source_branch: update-branch-$(date +'%Y%m%d%H%M%S')
-            destination_branch: 'development'
-            pr_title: 'Database Update'
-            pr_body: 'Database Update'
-            github_token: ${{ secrets.GITHUB_TOKEN }}
+    - name: Install dependencies from pipfile
+      run: |
+            cd python_tools
+            python -m pip install --upgrade pip
+            pip install pipenv
+            pipenv install --dev
 
+    - name: Run backend_cli.py
+      run: |
+            cd python_tools
+            python -m pip install --upgrade pip
+            pip install pipenv
+            pipenv run python backend_cli.py --update all
+    
+    - name: Run check_db.py
+      run: |
+            cd python_tools
+            pip install pipenv
+            pipenv run python check_db.py
+
+    - name: Commit and push if there are changes
+      run: |
+            git config --global user.name 'sjdoescoding'
+            git add .
+            git commit -m "Database Update" -m "Action run on $(date)" || echo "No changes to commit"
+            git push
+
+    # You may or may not want to include the PR step, depending on your workflow.
+    - name: Open a pull request
+      if: always() # This ensures the step runs even if the previous step fails
+      uses: repo-sync/pull-request@v2
+      with:
+        source_branch: 'development'
+        destination_branch: 'main' # Assuming you want to merge to main, change if needed
+        pr_title: 'Database Update'
+        pr_body: 'Automated database update from GitHub Actions.'
+        github_token: ${{ secrets.GITHUB_TOKEN }}
