@@ -33,7 +33,9 @@ jobs:
         - name: Run backend_cli.py
           run: |
                 cd python_tools
-                pipenv run python backend_cli.py
+                python -m pip install --upgrade pip
+                pip install pipenv
+                pipenv run python backend_cli.py --update all
         
         - name: Run check_db.py
           run: |
