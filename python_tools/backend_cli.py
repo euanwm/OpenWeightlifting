@@ -3,7 +3,6 @@ import logging
 import sys
 from sys import argv
 from datetime import datetime
-
 from database_handler import DBHandler
 from database_handler import AustraliaWeightlifting, InternationalWF, Norway
 
@@ -55,6 +54,7 @@ class CLICommands:
                 norway.update_results()
             case _:
                 sys.exit(f"database not found: {db_name}")
+
 
 
 if __name__ == '__main__':
