@@ -1,11 +1,11 @@
 name: Database Update
 
 on:
-  # push:
-  #   branches: development
-    schedule:
-        # Runs at midnight everyday
-        - cron: '0 0 * * *'
+  push:
+    branches: development
+    # schedule:
+    #     # Runs at midnight everyday
+    #     - cron: '0 0 * * *'
 
 jobs:
     update-database:
@@ -43,17 +43,24 @@ jobs:
                 pip install pipenv
                 pipenv run python check_db.py
 
+
+        - name: Create a new branch
+          run: |
+                git checkout -b update-branch-$(date +'%Y%m%d%H%M%S')
+        
         - name: Commit and push if there are changes
           run: |
-                git add . 
+                git config --global user.name 'sjdoescoding'
+                git add .
                 git commit -m "Database Update" || echo "No changes to commit"
-                git push
-
+                git push origin update-branch-$(date +'%Y%m%d%H%M%S')
+    
         - name: Open a pull request
           uses: repo-sync/pull-request@v2
           with:
+            source_branch: update-branch-$(date +'%Y%m%d%H%M%S')
             destination_branch: 'development'
             pr_title: 'Database Update'
             pr_body: 'Database Update'
-
+            github_token: ${{ secrets.GITHUB_TOKEN }}
 
