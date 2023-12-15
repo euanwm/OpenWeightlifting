@@ -53,13 +53,11 @@ jobs:
             git commit -m "Database Update" -m "Action run on $(date)" || echo "No changes to commit"
             git push
 
-    # You may or may not want to include the PR step, depending on your workflow.
     - name: Open a pull request
-      if: always() # This ensures the step runs even if the previous step fails
       uses: repo-sync/pull-request@v2
       with:
-        source_branch: 'development'
-        destination_branch: 'main' # Assuming you want to merge to main, change if needed
-        pr_title: 'Database Update'
-        pr_body: 'Automated database update from GitHub Actions.'
+        # source_branch: 'development'
+        destination_branch: 'development' # PR within the same branch
+        pr_title: 'Database Update Review'
+        pr_body: 'Automated database update for review.'
         github_token: ${{ secrets.GITHUB_TOKEN }}
