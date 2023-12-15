@@ -2,11 +2,11 @@ name: Database Update
 
 on:
 
-  push:
-    branches: development
-  # schedule:
-  #   # Runs at midnight everyday
-  #   - cron: '0 0 * * *'
+  # push:
+  #   branches: development
+  schedule:
+    # Runs at midnight everyday
+    - cron: '0 0 * * *'
 
 jobs:
   update-database:
@@ -19,7 +19,7 @@ jobs:
     - name: Check out repository
       uses: actions/checkout@v2
       with:
-        repository: 'sjdoescoding/OpenWeightlifting'
+        repository: 'euanwm/OpenWeightlifting'
         ref: 'development' # Check out the development branch
 
     - name: Set up Python ${{ matrix.python-version }}
