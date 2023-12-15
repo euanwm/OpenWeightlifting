@@ -58,9 +58,9 @@ def check_files(folder_path: str) -> bool:
 def assign_dataclass(data: list) -> Result:
     """ Assigns the data to the Result dataclass """
     try:
-                # Convert empty strings to a default float value (0.0)
+                # Convert empty strings to a default 0
         def to_float(value):
-            return float(value) if value != '' else 0.0
+            return float(value) if value != '' else 0
         
         to_return = Result(
             event=data[0],
