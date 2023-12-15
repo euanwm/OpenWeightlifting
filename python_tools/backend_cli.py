@@ -3,6 +3,7 @@ import logging
 import sys
 from sys import argv
 from datetime import datetime
+
 from database_handler import DBHandler
 from database_handler import AustraliaWeightlifting, InternationalWF, Norway
 
@@ -56,18 +57,11 @@ class CLICommands:
                 sys.exit(f"database not found: {db_name}")
 
 
-
 if __name__ == '__main__':
     commands = CLICommands()
-    if len(argv) > 1:
-        match argv[1]:
-            case "--update":
-                if len(argv) > 2:
-                    print(f"updating database: {argv[2]}")
-                    commands.update(argv[2])
-                else:
-                    print("No database name provided")
-            case _:
-                print("not a command")
-    else:
-        print("No arguments provided")
+    match argv[1]:
+        case "--update":
+            print(f"updating database: {argv[2]}")
+            commands.update(argv[2])
+        case _:
+            print("not a command")
