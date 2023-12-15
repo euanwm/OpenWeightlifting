@@ -58,30 +58,34 @@ def check_files(folder_path: str) -> bool:
 def assign_dataclass(data: list) -> Result:
     """ Assigns the data to the Result dataclass """
     try:
-                # Convert empty strings to a default 0
         def to_float(value):
-            return float(value) if value != '' else 0
-        
-        to_return = Result(
-            event=data[0],
-            date=str(data[1]),
-            category=data[2],
-            lifter_name=data[3],
-            bodyweight=float(data[4]),
-            snatch_1=float(data[5]),
-            snatch_2=float(data[6]),
-            snatch_3=float(data[7]),
-            cj_1=float(data[8]),
-            cj_2=float(data[9]),
-            cj_3=float(data[10]),
-            best_snatch=float(data[11]),
-            best_cj=float(data[12]),
-            total=float(data[13]),
-        )
-        return to_return
-    except ValueError as ex:
-        print(f"Issue with {data}\nException raised: {ex}")
-        raise ValueError from ex
+                
+        try:
+            return float(value)
+        except ValueError:
+            # Return a default value (like 0.0) if the conversion fails
+            return 0.0
+            
+            to_return = Result(
+                event=data[0],
+                date=str(data[1]),
+                category=data[2],
+                lifter_name=data[3],
+                bodyweight=float(data[4]),
+                snatch_1=float(data[5]),
+                snatch_2=float(data[6]),
+                snatch_3=float(data[7]),
+                cj_1=float(data[8]),
+                cj_2=float(data[9]),
+                cj_3=float(data[10]),
+                best_snatch=float(data[11]),
+                best_cj=float(data[12]),
+                total=float(data[13]),
+            )
+            return to_return
+        except ValueError as ex:
+            print(f"Issue with {data}\nException raised: {ex}")
+            raise ValueError from ex
 
 
 if __name__ == '__main__':
