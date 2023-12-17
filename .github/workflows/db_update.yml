@@ -5,8 +5,8 @@ on:
   # push:
   #   branches: development
   schedule:
-    # Runs at midnight everyday
-    - cron: '0 0 * * *'
+    # Runs at midnight every Wednesday
+    - cron: '0 0 * * 3'
 
 jobs:
   update-database:
