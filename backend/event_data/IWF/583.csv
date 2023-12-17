@@ -1,0 +1,61 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+Oceania Youth Championships,2023-10-05,49 kg Men,ADAM Johannes,48.98,65,70,75,80,-85,85,75,85,160
+Oceania Youth Championships,2023-10-05,49 kg Men,RAVA OLA Lawrence,41.95,42,46,-49,60,64,67,46,67,113
+Oceania Youth Championships,2023-10-05,61 kg Men,AUMALEFO Freeman Hale,58.94,-75,76,81,95,98,-102,81,98,179
+Oceania Youth Championships,2023-10-05,61 kg Men,TAFI Falevaa,60.06,75,79,81,95,-100,100,81,100,181
+Oceania Youth Championships,2023-10-05,67 kg Men,IKA Ditto Titus,66.58,110,115,-118,148,154,0,115,154,269
+Oceania Youth Championships,2023-10-05,67 kg Men,MERCIECA Deacon,64.28,86,91,93,110,115,-120,93,115,208
+Oceania Youth Championships,2023-10-05,67 kg Men,SEUAO Faitasia,66.38,77,81,85,95,-105,105,85,105,190
+Oceania Youth Championships,2023-10-05,67 kg Men,SANELE AH Donai,65.17,70,74,-77,85,90,-95,74,90,164
+Oceania Youth Championships,2023-10-05,67 kg Men,PUNI Etoa Tauilo,62.71,63,66,70,74,78,-83,70,78,148
+Oceania Youth Championships,2023-10-05,67 kg Men,VOLAVOLA Atalo Dimuri Iowane,65.36,65,68,-70,90,94,100,68,100,168
+Oceania Youth Championships,2023-10-05,73 kg Men,ELDER Nehmiah K W,71.71,110,-115,-115,128,133,-137,110,133,243
+Oceania Youth Championships,2023-10-05,73 kg Men,RISBY Ayrton,72.98,93,97,101,128,-133,-133,101,128,229
+Oceania Youth Championships,2023-10-05,73 kg Men,STRANGE Joshua Ian,71.06,93,97,100,131,-138,-138,100,131,231
+Oceania Youth Championships,2023-10-05,73 kg Men,TEIMITSI Spartan,69.54,80,83,86,100,105,110,86,110,196
+Oceania Youth Championships,2023-10-05,73 kg Men,OPELOGE Niusila,70.90,80,-84,84,100,104,106,84,106,190
+Oceania Youth Championships,2023-10-05,81 kg Men,AH CHONG Tovio,79.92,-111,111,115,-150,150,154,115,154,269
+Oceania Youth Championships,2023-10-05,81 kg Men,SASA Sione,77.46,96,101,105,105,-115,-115,105,105,210
+Oceania Youth Championships,2023-10-05,81 kg Men,WATT Lachlan Thomas,78.49,100,-105,105,123,-128,-128,105,123,228
+Oceania Youth Championships,2023-10-05,81 kg Men,ATANTAAKE Jans,78.34,90,95,-100,120,125,-134,95,125,220
+Oceania Youth Championships,2023-10-05,81 kg Men,RAVIA Simione,78.50,-90,-90,90,112,-117,-120,90,112,202
+Oceania Youth Championships,2023-10-05,81 kg Men,GASIO Penitito,74.82,80,84,86,90,-94,-94,86,90,176
+Oceania Youth Championships,2023-10-05,89 kg Men,ULIMASAO Emmanuel,85.07,120,-125,-128,145,-150,-150,120,145,265
+Oceania Youth Championships,2023-10-05,89 kg Men,LA CUNZA-WATSON Benjamin,85.94,-112,112,-117,130,-136,-136,112,130,242
+Oceania Youth Championships,2023-10-05,89 kg Men,JOUFOQUES Moana,88.14,80,83,-87,100,-103,-103,83,100,183
+Oceania Youth Championships,2023-10-05,89 kg Men,ARNOLD Reif M F B,82.80,44,47,-50,63,67,70,47,70,117
+Oceania Youth Championships,2023-10-05,96 kg Men,TOKONA Zion R J,93.93,-113,113,116,134,140,145,116,145,261
+Oceania Youth Championships,2023-10-05,96 kg Men,LESTE Mayken,95.38,-73,75,80,80,86,90,80,90,170
+Oceania Youth Championships,2023-10-05,102 kg Men,SCHUSTER Isyss,101.66,105,110,-115,140,-147,-152,110,140,250
+Oceania Youth Championships,2023-10-05,102 kg Men,TOATELEGESE Lauina,97.87,100,-105,105,131,-140,-146,105,131,236
+Oceania Youth Championships,2023-10-05,+102 kg Men,TURAGASAU Jordan,137.23,70,75,-80,95,100,-110,75,100,175
+Oceania Youth Championships,2023-10-05,40 kg Women,GAVERA Ani Geua,38.20,30,35,-40,40,45,-50,35,45,80
+Oceania Youth Championships,2023-10-05,55 kg Women,MAELOSIA Lorah,54.87,70,-75,-75,84,87,92,70,92,162
+Oceania Youth Championships,2023-10-05,55 kg Women,STEPHEN My-Only,54.89,68,70,-73,85,88,91,70,91,161
+Oceania Youth Championships,2023-10-05,55 kg Women,VAGI Idau,52.78,60,-65,65,70,75,-78,65,75,140
+Oceania Youth Championships,2023-10-05,55 kg Women,GHETTO Natalya,55.00,62,-65,-65,70,-74,-74,62,70,132
+Oceania Youth Championships,2023-10-05,55 kg Women,FAUMUI Anoni,54.34,55,59,62,67,71,-75,62,71,133
+Oceania Youth Championships,2023-10-05,55 kg Women,GHETTO Juliana,52.77,-63,-63,-63,0,0,0,0,0,0
+Oceania Youth Championships,2023-10-05,59 kg Women,SALIBA Chloe,58.96,62,66,68,85,90,92,68,92,160
+Oceania Youth Championships,2023-10-05,59 kg Women,DEIRERAGEA Jo-Beth,58.07,65,67,-70,75,-80,-80,67,75,142
+Oceania Youth Championships,2023-10-05,59 kg Women,KOLOMOISKI Ashley,57.82,-65,65,-68,78,81,84,65,84,149
+Oceania Youth Championships,2023-10-05,59 kg Women,ENOKA Marina,57.32,56,60,-64,67,72,75,60,75,135
+Oceania Youth Championships,2023-10-05,64 kg Women,WALKER Samantha Jay,64.00,80,-84,84,85,90,-94,84,90,174
+Oceania Youth Championships,2023-10-05,64 kg Women,LUAMATA Filiamata,63.11,63,66,-68,71,-76,76,66,76,142
+Oceania Youth Championships,2023-10-05,64 kg Women,DALEY Sophie,60.80,60,63,66,75,-79,79,66,79,145
+Oceania Youth Championships,2023-10-05,64 kg Women,KEREN BROOKE BIRANNA ATERU Vulava,63.78,57,61,-64,-78,-78,80,61,80,141
+Oceania Youth Championships,2023-10-05,64 kg Women,MILAH Dinh,63.10,-57,57,61,70,74,78,61,78,139
+Oceania Youth Championships,2023-10-05,71 kg Women,PAKOTI Taiamoni Latu Lotu Lelei,67.00,70,75,77,95,99,-105,77,99,176
+Oceania Youth Championships,2023-10-05,71 kg Women,MCINTYRE Ella,68.46,72,-75,75,90,95,98,75,98,173
+Oceania Youth Championships,2023-10-05,71 kg Women,AGNEW Madeleine,69.97,60,63,66,84,87,-90,66,87,153
+Oceania Youth Championships,2023-10-05,71 kg Women,OOSTHUIZEN Carmi,70.41,60,-64,65,74,78,-82,65,78,143
+Oceania Youth Championships,2023-10-05,71 kg Women,SEUAO Sefulu,64.68,57,61,64,70,-74,-75,64,70,134
+Oceania Youth Championships,2023-10-05,71 kg Women,CRIGHTON-TEAU Briseis,69.31,53,56,-60,70,-74,-74,56,70,126
+Oceania Youth Championships,2023-10-05,71 kg Women,STOWERS Seine,69.89,-76,-76,-76,0,0,0,0,0,0
+Oceania Youth Championships,2023-10-05,76 kg Women,TOBIA-ITA Issys Saivii Gianna,73.49,71,74,-79,90,-95,95,74,95,169
+Oceania Youth Championships,2023-10-05,76 kg Women,SRIRATANA Skye,72.49,67,70,73,85,88,91,73,91,164
+Oceania Youth Championships,2023-10-05,81 kg Women,SAGALALA Stella,76.50,60,64,67,75,-80,80,67,80,147
+Oceania Youth Championships,2023-10-05,81 kg Women,NACAGILEVU Litia Sipola,80.31,-88,0,0,0,0,0,0,0,0
+Oceania Youth Championships,2023-10-05,+81 kg Women,KING Mollie,109.72,70,-75,75,85,90,93,75,93,168
+Oceania Youth Championships,2023-10-05,+81 kg Women,VESI Vesna,118.55,65,70,-75,85,89,94,70,94,164
+Oceania Youth Championships,2023-10-05,+81 kg Women,SAVOU Sinate A S,104.87,50,53,55,65,-70,-70,55,65,120

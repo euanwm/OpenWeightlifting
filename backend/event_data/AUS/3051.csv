@@ -1,0 +1,49 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Victorian Masters Championship,2023-10-28,female,Denese Billings,40.05,31,33,-34,40,42,-43,33,42,75
+Victorian Masters Championship,2023-10-28,female,Sherilyn Moffitt,54.75,35,-39,-39,50,53,-56,35,53,88
+Victorian Masters Championship,2023-10-28,female,Natalia Gainsmith,53.50,21,23,26,33,-36,36,26,36,62
+Victorian Masters Championship,2023-10-28,female,Toni Lane,58.25,56,58,-60,68,-72,-72,58,68,126
+Victorian Masters Championship,2023-10-28,female,Tammy Hicks,63.45,58,62,-65,-77,77,81,62,81,143
+Victorian Masters Championship,2023-10-28,female,Sarah Florence,60.15,58,-61,61,67,70,-73,61,70,131
+Victorian Masters Championship,2023-10-28,female,Ezreena Aladin,62.40,42,-45,45,55,60,63,45,63,108
+Victorian Masters Championship,2023-10-28,female,Phoebe Yao,61.90,43,47,-50,57,60,-62,47,60,107
+Victorian Masters Championship,2023-10-28,female,Doreen Koh,62.65,36,38,-40,49,-52,53,38,53,91
+Victorian Masters Championship,2023-10-28,female,Samantha O'Reilly,69.25,60,-63,-65,80,85,-91,60,85,145
+Victorian Masters Championship,2023-10-28,female,Tanita Jackson Dyer,69.25,48,51,54,70,74,80,54,80,134
+Victorian Masters Championship,2023-10-28,female,Kirsten Bolton,68.95,48,51,53,60,64,-67,53,64,117
+Victorian Masters Championship,2023-10-28,female,Naomi Siew Pei Chew,65.00,44,47,49,64,-68,-68,49,64,113
+Victorian Masters Championship,2023-10-28,female,Ruchell Hutton,73.80,50,53,56,63,-67,-67,56,63,119
+Victorian Masters Championship,2023-10-28,female,Fiona Conway,74.75,45,-48,-50,60,63,-67,45,63,108
+Victorian Masters Championship,2023-10-28,female,Amanda Wellesley,75.50,36,38,40,54,57,-60,40,57,97
+Victorian Masters Championship,2023-10-28,female,Rose Auleebux,80.50,53,57,60,76,80,-83,60,80,140
+Victorian Masters Championship,2023-10-28,female,Lulu Acott,79.05,56,59,-62,60,-63,63,59,63,122
+Victorian Masters Championship,2023-10-28,female,Shannon Thomas,79.95,45,48,50,60,64,67,50,67,117
+Victorian Masters Championship,2023-10-28,female,Leora Yates,93.60,68,71,74,83,87,90,74,90,164
+Victorian Masters Championship,2023-10-28,female,Lofi Pei,98.00,65,-70,72,80,-83,83,72,83,155
+Victorian Masters Championship,2023-10-28,female,Amanda Crouch,92.75,45,49,52,56,60,-64,52,60,112
+Victorian Masters Championship,2023-10-28,female,Alyona Cerfontyne,100.80,41,45,-50,55,59,65,45,65,110
+Victorian Masters Championship,2023-10-28,male,David 'Djed' Kirkpatrick,58.65,60,-65,67,75,-82,-85,67,75,142
+Victorian Masters Championship,2023-10-28,male,Damien Hewish,60.20,-60,62,-67,70,75,-80,62,75,137
+Victorian Masters Championship,2023-10-28,male,Shane Bailey,78.80,70,74,-78,88,-92,-94,74,88,162
+Victorian Masters Championship,2023-10-28,male,Rohan Mason,79.45,48,-50,50,59,-62,-62,50,59,109
+Victorian Masters Championship,2023-10-28,male,James Clark,80.45,40,-43,-43,39,-42,-45,40,39,79
+Victorian Masters Championship,2023-10-28,male,Chris Holt,78.15,30,33,-36,-37,37,0,33,37,70
+Victorian Masters Championship,2023-10-28,male,Rafael Marini,87.20,75,80,82,100,105,0,82,105,187
+Victorian Masters Championship,2023-10-28,male,Milos Trnka,88.40,35,38,40,43,-48,48,40,48,88
+Victorian Masters Championship,2023-10-28,male,Sione Tatu,95.55,120,-130,130,140,0,0,130,140,270
+Victorian Masters Championship,2023-10-28,male,Brendan Sharpe,93.45,90,-95,95,120,127,-132,95,127,222
+Victorian Masters Championship,2023-10-28,male,Purna Kahingala,91.85,80,88,-92,106,116,121,88,121,209
+Victorian Masters Championship,2023-10-28,male,Matthew Lakey,92.50,74,78,-82,90,95,105,78,105,183
+Victorian Masters Championship,2023-10-28,male,Adam Kabbas,98.65,85,90,95,105,110,120,95,120,215
+Victorian Masters Championship,2023-10-28,male,Burkhard Hansen,99.45,75,80,-85,105,-110,110,80,110,190
+Victorian Masters Championship,2023-10-28,male,Matthew Patterson,97.55,63,67,70,96,101,105,70,105,175
+Victorian Masters Championship,2023-10-28,male,Daniel Wellesley,100.50,70,75,-80,90,95,-100,75,95,170
+Victorian Masters Championship,2023-10-28,male,Marc Mansour,96.90,75,80,-83,-88,88,-97,80,88,168
+Victorian Masters Championship,2023-10-28,male,Chris Duthie,99.10,50,55,-60,60,65,70,55,70,125
+Victorian Masters Championship,2023-10-28,male,Kurt Elstone,106.75,92,-100,101,110,-117,120,101,120,221
+Victorian Masters Championship,2023-10-28,male,Ali Abdo,106.40,75,80,-85,105,110,-115,80,110,190
+Victorian Masters Championship,2023-10-28,male,Roden Pin,108.55,75,-80,-80,93,98,-102,75,98,173
+Victorian Masters Championship,2023-10-28,male,Phillip Christou,113.45,80,100,-121,100,115,125,100,125,225
+Victorian Masters Championship,2023-10-28,male,Siu Kei (David) Szeto,155.80,84,-88,90,110,120,-125,90,120,210
+Victorian Masters Championship,2023-10-28,male,Shane Carstairs,151.20,81,-86,86,100,110,117,86,117,203
+Victorian Masters Championship,2023-10-28,male,Wayne Parkin,126.40,65,70,-74,80,86,92,70,92,162
