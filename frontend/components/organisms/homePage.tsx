@@ -12,7 +12,7 @@ const lifterLoadMoreQty = 50
 
 function HomePage() {
   const [start] = useState(0)
-  const [stop, setStop] = useState(50)
+  const [stop, setStop] = useState(lifterLoadMoreQty)
   const [sortby, setSortBy] = useState('total')
   const [federation, setFederation] = useState('allfeds')
   const [weightclass, setWeightclass] = useState('MALL')
@@ -84,7 +84,7 @@ function HomePage() {
           onClick={updateLifterList}
           isDisabled={false}
         >
-          Load more results
+          Showing {stop} / {data?.size} lifters...
         </Button>
       </div>
       {showLifterGraph && (
