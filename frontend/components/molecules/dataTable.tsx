@@ -13,13 +13,13 @@ import { CgProfile } from 'react-icons/cg'
 
 import { AllDetails } from './allDetails'
 
-import { LifterResult } from '@/api/fetchLifterData/fetchLifterDataTypes'
+import { LifterResult, LeaderboardResult } from '@/api/fetchLifterData/fetchLifterDataTypes'
 
 export const DataTable = ({
   lifters,
   openLifterGraphHandler,
 }: {
-  lifters: LifterResult[]
+  lifters: LeaderboardResult
   openLifterGraphHandler: (lifterName: string) => void
 }) => {
   const generateLifterRow = (lifter: LifterResult, lifterNo: number) => {
@@ -82,7 +82,7 @@ export const DataTable = ({
         <TableColumn>Details</TableColumn>
       </TableHeader>
       <TableBody>
-        {lifters.map((lifter, i) => generateLifterRow(lifter, i + 1))}
+        {lifters.data.map((lifter, i) => generateLifterRow(lifter, i + 1))}
       </TableBody>
     </Table>
   )

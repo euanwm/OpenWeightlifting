@@ -12,7 +12,7 @@ const lifterLoadMoreQty = 50
 
 function HomePage() {
   const [start] = useState(0)
-  const [stop, setStop] = useState(10)
+  const [stop, setStop] = useState(50)
   const [sortby, setSortBy] = useState('total')
   const [federation, setFederation] = useState('allfeds')
   const [weightclass, setWeightclass] = useState('MALL')

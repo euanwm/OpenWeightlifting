@@ -1,4 +1,4 @@
-import { LifterResult } from './fetchLifterDataTypes'
+import { LeaderboardResult } from './fetchLifterDataTypes'
 
 export default async function fetchLifterData(
   args: {
@@ -9,11 +9,11 @@ export default async function fetchLifterData(
     weightclass: string
     year: number
   } | null,
-): Promise<LifterResult[]> {
+): Promise<LeaderboardResult> {
 
   const {
     start = 0,
-    stop = 10,
+    stop = 50,
     sortby = 'total',
     federation = 'allfeds',
     weightclass = 'MALL',
