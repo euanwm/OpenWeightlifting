@@ -1,9 +1,9 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
 SWB Open,2023-04-16,female,Mena Aracri,48.55,52,55,-57,-65,65,-74,55,65,120
-SWB Open,2023-04-16,female,Anja Steidl,49.00,-53,53,-56,,,,53,0,0
+SWB Open,2023-04-16,female,Anja Steidl,49.00,-53,53,-56,0,0,0,53,0,0
 SWB Open,2023-04-16,female,Gabi Scaffidi,61.90,72,-75,77,86,-90,-90,77,86,163
 SWB Open,2023-04-16,female,May Mitchell,62.55,56,-58,-58,68,-71,71,56,71,127
-SWB Open,2023-04-16,female,Skye Szollosi,63.70,-70,-73,-73,,,,0,0,0
+SWB Open,2023-04-16,female,Skye Szollosi,63.70,-70,-73,-73,0,0,0,0,0,0
 SWB Open,2023-04-16,female,Nicole Perez,68.40,59,-62,62,74,77,-80,62,77,139
 SWB Open,2023-04-16,female,Bethan Heverin,71.00,58,-60,-62,75,79,-82,58,79,137
 SWB Open,2023-04-16,female,Jen Walters,75.50,64,67,69,-84,84,88,69,88,157
@@ -12,5 +12,5 @@ SWB Open,2023-04-16,male,Michael Carmellotti,82.40,100,-105,-105,130,140,143,100
 SWB Open,2023-04-16,male,Daniel Kural,87.00,97,101,-105,120,124,-128,101,124,225
 SWB Open,2023-04-16,male,Wayne Poon,95.00,-90,-90,-90,123,127,131,0,131,0
 SWB Open,2023-04-16,male,Jordan Meester,101.50,103,108,112,130,135,-138,112,135,247
-SWB Open,2023-04-16,male,Nikolas Grubelich,96.05,97,101,-106,-123,-123,,101,0,0
+SWB Open,2023-04-16,male,Nikolas Grubelich,96.05,97,101,-106,-123,-123,0,101,0,0
 SWB Open,2023-04-16,male,Joel A Mullen,105.15,90,97,-105,130,-137,143,97,143,240

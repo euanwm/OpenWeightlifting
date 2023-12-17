@@ -11,7 +11,7 @@ In2Performance Series 1,2023-04-15,female,Alice Masman,69.30,61,65,67,75,-78,78,
 In2Performance Series 1,2023-04-15,female,Samantha O'Reilly,68.70,50,55,58,70,74,77,58,77,135
 In2Performance Series 1,2023-04-15,female,Thanh Le,68.90,50,54,57,70,73,-76,57,73,130
 In2Performance Series 1,2023-04-15,female,Naomi Chew,64.55,40,43,46,60,65,68,46,68,114
-In2Performance Series 1,2023-04-15,female,Skye Sriratana,72.35,68,71,-73,85,90,,71,90,161
+In2Performance Series 1,2023-04-15,female,Skye Sriratana,72.35,68,71,-73,85,90,0,71,90,161
 In2Performance Series 1,2023-04-15,female,Kate Linford,112.90,60,65,-68,80,86,88,65,88,153
 In2Performance Series 1,2023-04-15,female,Jayde Priestley,112.60,53,-57,-57,75,80,84,53,84,137
 In2Performance Series 1,2023-04-15,male,Candy Be Nyo,63.50,72,77,80,90,95,-100,80,95,175
@@ -23,7 +23,7 @@ In2Performance Series 1,2023-04-15,male,Troy Hewkins,88.75,105,110,-115,120,130,
 In2Performance Series 1,2023-04-15,male,Ethan Mcgrath,88.50,85,92,-95,108,112,116,92,116,208
 In2Performance Series 1,2023-04-15,male,David Jaboor,84.45,53,56,-60,80,85,-90,56,85,141
 In2Performance Series 1,2023-04-15,male,Nicholas Da Cruz,93.40,105,-110,113,123,128,135,113,135,248
-In2Performance Series 1,2023-04-15,male,Longlong Yu,89.65,100,-106,106,123,,,106,123,229
+In2Performance Series 1,2023-04-15,male,Longlong Yu,89.65,100,-106,106,123,0,0,106,123,229
 In2Performance Series 1,2023-04-15,male,David Chen,94.55,90,95,98,-120,121,-127,98,121,219
 In2Performance Series 1,2023-04-15,male,Riley Collins,94.85,83,88,92,100,106,110,92,110,202
 In2Performance Series 1,2023-04-15,male,George Weston,100.30,113,118,122,143,-149,149,122,149,271
