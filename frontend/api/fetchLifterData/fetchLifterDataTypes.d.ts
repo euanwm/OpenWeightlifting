@@ -17,3 +17,8 @@ export type LifterResult = {
     country: string;
     instagram: string;
   };
+
+export type LeaderboardResult = {
+    size: number;
+    data: LifterResult[];
+}

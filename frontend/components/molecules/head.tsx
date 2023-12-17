@@ -13,7 +13,7 @@ import { SlCalculator } from 'react-icons/sl'
 import { MdOutlinePersonSearch } from 'react-icons/md'
 import { FiHome } from 'react-icons/fi'
 
-import Logo from '../public/OWL-logo.png'
+import Logo from '../../public/OWL-logo.png'
 import { useState } from 'react'
 
 const HeaderBar = () => {

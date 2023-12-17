@@ -29,6 +29,7 @@ def check_db() -> None:
         print("TEST PASSED")
         sys.exit(0)
 
+
 def check_files(folder_path: str) -> bool:
     """check_files() checks all CSV files within a folder and that it matches the 
     Result dataclass"""""

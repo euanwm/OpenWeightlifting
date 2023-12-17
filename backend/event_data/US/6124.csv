@@ -1,0 +1,63 @@
+meet,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+2023 Utah State Championships,2023-11-18,Open Men's +109kg,Malakai Fifita,148.9,-122,127,132,153,159,-165,132,159,291
+2023 Utah State Championships,2023-11-18,Open Men's 102kg,Kyle Morris,99.45,118,123,-128,150,155,160,123,160,283
+2023 Utah State Championships,2023-11-18,Open Men's 89kg,Levi Nielson,88.3,-120,120,-126,151,-156,-159,120,151,271
+2023 Utah State Championships,2023-11-18,Open Men's 89kg,Spencer Schultz,84.55,115,121,125,140,-145,145,125,145,270
+2023 Utah State Championships,2023-11-18,Open Men's 89kg,Jacob Johnsson,87.5,116,120,123,135,140,-145,123,140,263
+2023 Utah State Championships,2023-11-18,Open Men's 102kg,Thaddeus Perkins,101.5,107,112,-116,145,-150,-150,112,145,257
+2023 Utah State Championships,2023-11-18,Open Men's 81kg,Cameron Lee,80.5,105,110,115,130,135,140,115,140,255
+2023 Utah State Championships,2023-11-18,Open Men's 81kg,Rolando Sandoval,79.4,-105,105,110,125,130,134,110,134,244
+2023 Utah State Championships,2023-11-18,Open Men's 109kg,Taniela Pomee,106.9,97,100,110,115,120,125,110,125,235
+2023 Utah State Championships,2023-11-18,Junior Men's 81kg,Joseph Miser,78.6,105,-109,110,120,125,-129,110,125,235
+2023 Utah State Championships,2023-11-18,Open Men's 89kg,Quinton Moulton,86.75,100,-107,-109,128,133,-138,100,133,233
+2023 Utah State Championships,2023-11-18,Men's Masters (40-44) 102kg,Brian Bond,101.2,92,96,-102,128,135,-140,96,135,231
+2023 Utah State Championships,2023-11-18,Open Men's 102kg,Jerrick Zhang,98.4,92,97,102,121,126,-131,102,126,228
+2023 Utah State Championships,2023-11-18,Open Men's 89kg,Noah Harmer,88.65,91,94,-97,-128,130,-132,94,130,224
+2023 Utah State Championships,2023-11-18,Open Men's 102kg,Devan Hunt,98.4,92,-97,97,117,122,127,97,127,224
+2023 Utah State Championships,2023-11-18,Junior Men's 89kg,Joshua  Mullen ,87.5,86,92,96,117,122,-131,96,122,218
+2023 Utah State Championships,2023-11-18,Open Men's 89kg,Alexander Bromberg,87.05,85,90,95,115,120,-125,95,120,215
+2023 Utah State Championships,2023-11-18,Junior Men's 102kg,Ethan Edwards,96.8,82,-87,87,107,115,125,87,125,212
+2023 Utah State Championships,2023-11-18,Junior Women's +87kg,Malia Levy,119.2,84,87,90,110,116,120,90,120,210
+2023 Utah State Championships,2023-11-18,Open Men's 102kg,Jesse Breffle,99.2,84,89,-95,110,115,121,89,121,210
+2023 Utah State Championships,2023-11-18,Open Men's 89kg,Mannie Alvarado,82.5,84,88,91,104,109,-112,91,109,200
+2023 Utah State Championships,2023-11-18,Junior Men's 102kg,Nathan Westerman,98.75,80,85,90,100,-107,107,90,107,197
+2023 Utah State Championships,2023-11-18,Open Men's 81kg,Giovanni Volpi,78.7,80,-83,83,100,105,110,83,110,193
+2023 Utah State Championships,2023-11-18,Open Women's +87kg,Katherine Ford,96.85,80,83,-87,100,105,110,83,110,193
+2023 Utah State Championships,2023-11-18,Men's Masters (55-59) 96kg,Weston Winegar,95,78,83,-86,101,-108,108,83,108,191
+2023 Utah State Championships,2023-11-18,Open Men's 81kg,Ashton Sorensen,78,75,82,-88,98,105,-110,82,105,187
+2023 Utah State Championships,2023-11-18,Open Women's +87kg,Brittney Wallace,125.03,70,75,81,95,100,105,81,105,186
+2023 Utah State Championships,2023-11-18,Open Men's 73kg,Adam Norris,72.1,78,80,83,96,99,102,83,102,185
+2023 Utah State Championships,2023-11-18,Open Women's 87kg,Maci Winn,84.5,77,80,83,80,85,90,83,90,173
+2023 Utah State Championships,2023-11-18,Women's Masters (35-39) 87kg,Jaime Smith,82.35,68,71,-75,88,91,95,71,95,166
+2023 Utah State Championships,2023-11-18,Open Women's 81kg,Victoria Barnett,79.15,61,63,67,82,87,91,67,91,158
+2023 Utah State Championships,2023-11-18,Open Women's 76kg,Caitlyn  Pedersen ,73.75,63,67,70,83,87,-88,70,87,157
+2023 Utah State Championships,2023-11-18,Women's Masters (35-39) 64kg,Melinda Golden,63.5,65,-70,-72,84,87,92,65,92,157
+2023 Utah State Championships,2023-11-18,Open Women's +87kg,Luaiva Floyd,135.02,67,70,-73,82,85,87,70,87,157
+2023 Utah State Championships,2023-11-18,Junior Women's 59kg,Grace Le,58.65,62,70,-71,85,-88,-88,70,85,155
+2023 Utah State Championships,2023-11-18,Men's Masters (35-39) 96kg,David Reichert,95.55,60,65,70,75,82,85,70,85,155
+2023 Utah State Championships,2023-11-18,Men's Masters (45-49) 73kg,Roman Reyes,69.1,60,62,65,78,82,86,65,86,151
+2023 Utah State Championships,2023-11-18,Women's Masters (45-49) 71kg,Patricia Lee,70.05,60,64,68,73,76,80,68,80,148
+2023 Utah State Championships,2023-11-18,Open Women's 59kg,Tram Le,58.65,61,-64,65,80,-84,-85,65,80,145
+2023 Utah State Championships,2023-11-18,Junior Women's 76kg,Chloe Pickett,72.3,60,63,-67,70,75,80,63,80,143
+2023 Utah State Championships,2023-11-18,Women's Masters (40-44) 59kg,Natalie Jonsson,59,55,57,60,75,78,-82,60,78,138
+2023 Utah State Championships,2023-11-18,Open Women's 87kg,Kandace Damrow,83.4,55,58,-61,-75,76,-81,58,76,134
+2023 Utah State Championships,2023-11-18,Women's Masters (40-44) 76kg,Genevieve Pratt,74.65,54,-56,56,71,75,78,56,78,134
+2023 Utah State Championships,2023-11-18,Open Men's 81kg,Cody Johnson ,79.4,52,-54,54,70,75,-80,54,75,129
+2023 Utah State Championships,2023-11-18,Open Women's 59kg,Alejandra Dominguez,57.95,52,55,59,67,69,-72,59,69,128
+2023 Utah State Championships,2023-11-18,Open Women's 81kg,Olivia Brown,76.6,53,56,-60,60,65,70,56,70,126
+2023 Utah State Championships,2023-11-18,Open Women's 71kg,Sarah Baker,71,53,55,-57,67,70,-73,55,70,125
+2023 Utah State Championships,2023-11-18,Women's Masters (40-44) 59kg,Tea Gluhak,58.45,51,53,-56,67,-69,-69,53,67,120
+2023 Utah State Championships,2023-11-18,Women's Masters (40-44) +87kg,Denise Martin,95,44,47,50,66,-68,-68,50,66,116
+2023 Utah State Championships,2023-11-18,Open Women's 71kg,Sarah Bowman,70.25,46,-48,49,56,61,63,49,63,112
+2023 Utah State Championships,2023-11-18,Junior Women's 59kg,mayzi abbott,57.3,45,-50,-51,62,66,-70,45,66,111
+2023 Utah State Championships,2023-11-18,Women's Masters (40-44) +87kg,Adrianna Jorgensen-Bryan,91,40,43,45,58,61,65,45,65,110
+2023 Utah State Championships,2023-11-18,Open Women's 59kg,Elizabeth Hudson,58.85,43,-45,46,56,-61,-62,46,56,102
+2023 Utah State Championships,2023-11-18,Women's Masters (40-44) 76kg,Nicole Olsen,74.3,40,43,45,50,53,55,45,55,100
+2023 Utah State Championships,2023-11-18,Open Women's 87kg,Isabella  Leosco ,85.1,32,35,-38,65,-67,-67,35,65,100
+2023 Utah State Championships,2023-11-18,Women's Masters (35-39) 71kg,Nichole Parmley,69.25,38,40,42,50,51,56,42,56,98
+2023 Utah State Championships,2023-11-18,Open Women's 71kg,Jennifer Noland,71,35,38,-40,50,53,56,38,56,94
+2023 Utah State Championships,2023-11-18,Open Women's +87kg,Cassidty Lundskog,103.6,30,33,36,54,55,56,36,56,92
+2023 Utah State Championships,2023-11-18,Open Women's 55kg,Elodia Lopez,54.1,35,37,40,50,-54,-54,40,50,90
+2023 Utah State Championships,2023-11-18,Women's 13 Under Age Group 55kg,Audrina Olsen,54.4,22,24,26,29,31,33,26,33,59
+2023 Utah State Championships,2023-11-18,Open Men's +109kg,Seth Stewart,121.7,103,-108,108,-128,-128,-128,108,0,0
+2023 Utah State Championships,2023-11-18,Open Women's 71kg,Mary Deming,70.6,-79,-80,-80,91,94,96,0,96,0

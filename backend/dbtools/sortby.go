@@ -2,49 +2,81 @@ package dbtools
 
 import (
 	"backend/enum"
-	"backend/lifter"
 	"backend/structs"
 	"backend/utilities"
 	"sort"
 	"time"
 )
 
-func removeFollowingLifts(bigData []structs.Entry) (filteredData []structs.Entry) {
+// FilterLifts - Returns a slice of structs relating to the selected filter selection
+func FilterLifts(bigData []structs.Entry, filterQuery structs.LeaderboardPayload, weightCat structs.WeightClass, cache *QueryCache) (filteredData structs.LeaderboardResponse) {
+	exists, positions := cache.CheckQuery(filterQuery)
+
+	if exists {
+		filteredData.Data, filteredData.Size = fetchLifts(&bigData, positions, &filterQuery)
+		return
+	}
+
 	var names []string
-	var position []int
-	for i, d := range bigData {
-		if !utilities.Contains(names, d.Name) {
-			position = append(position, i)
-			names = append(names, d.Name)
+	var liftPtr *structs.Entry
+	var liftPositions []int
+	for idx, lift := range bigData {
+		liftPtr = &bigData[idx]
+		if getGender(liftPtr) == weightCat.Gender && !utilities.Contains(names, lift.Name) {
+			if lift.SelectedFederation(filterQuery.Federation) && lift.WithinWeightClass(WeightClassList[filterQuery.WeightClass].Gender, weightCat) && lift.WithinDates(filterQuery.StartDate, filterQuery.EndDate) {
+				liftPositions = append(liftPositions, idx)
+				names = append(names, lift.Name)
+				filteredData.Data = append(filteredData.Data, lift)
+			}
 		}
 	}
-	for _, posInt := range position {
-		filteredData = append(filteredData, bigData[posInt])
+	cache.AddQuery(filterQuery, liftPositions)
+
+	if filterQuery.Stop > len(liftPositions) {
+		filterQuery.Stop = len(liftPositions)
 	}
+
+	if filterQuery.Start > len(liftPositions) {
+		filterQuery.Start = len(liftPositions)
+	}
+
+	filteredData.Size = len(liftPositions)
+	filteredData.Data = filteredData.Data[filterQuery.Start:filterQuery.Stop]
 	return
 }
 
-// Filter - Returns a slice of structs relating to the selected filter selection
-func Filter(bigData []structs.Entry, filterQuery structs.LeaderboardPayload, weightCat structs.WeightClass, lifterProfiles map[string]string) (filteredData []structs.Entry) {
+func PreCacheFilter(bigData []structs.Entry, filterQuery structs.LeaderboardPayload, weightCat structs.WeightClass, cache *QueryCache) {
+	var names []string
+	var liftPtr *structs.Entry
+	var liftPositions []int
 	for idx, lift := range bigData {
-		liftptr := &bigData[idx]
-		if getGender(liftptr) == weightCat.Gender {
+		liftPtr = &bigData[idx]
+		if getGender(liftPtr) == weightCat.Gender && !utilities.Contains(names, lift.Name) {
 			if lift.SelectedFederation(filterQuery.Federation) && lift.WithinWeightClass(WeightClassList[filterQuery.WeightClass].Gender, weightCat) && lift.WithinDates(filterQuery.StartDate, filterQuery.EndDate) {
-				linkedIG, igHandle := lifter.CheckUserList(lift.Name, lifterProfiles)
-				if linkedIG {
-					lift.Instagram = igHandle
-				}
-				filteredData = append(filteredData, lift)
-			}
-			if len(filteredData) >= filterQuery.Stop {
-				filteredData = removeFollowingLifts(filteredData)
-				if len(filteredData) >= filterQuery.Stop {
-					return
-				}
+				liftPositions = append(liftPositions, idx)
+				names = append(names, lift.Name)
 			}
 		}
 	}
-	filteredData = removeFollowingLifts(filteredData)
+	cache.AddQuery(filterQuery, liftPositions)
+}
+
+// fetchLifts - Returns a slice of structs relating to the selected filter selection, it will also remove any duplicate entries.
+func fetchLifts(bigData *[]structs.Entry, pos []int, query *structs.LeaderboardPayload) (lifts []structs.Entry, size int) {
+	for _, p := range pos {
+		lifts = append(lifts, (*bigData)[p])
+	}
+
+	if query.Stop > len(lifts) {
+		query.Stop = len(lifts)
+	}
+
+	if query.Start > len(lifts) {
+		query.Start = len(lifts)
+	}
+
+	size = len(lifts)
+	lifts = lifts[query.Start:query.Stop]
 	return
 }
 

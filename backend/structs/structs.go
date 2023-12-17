@@ -77,3 +77,8 @@ type Entry struct {
 	Federation string  `json:"country"`
 	Instagram  string  `json:"instagram"`
 }
+
+type LeaderboardResponse struct {
+	Size int     `json:"size"`
+	Data []Entry `json:"data"`
+}

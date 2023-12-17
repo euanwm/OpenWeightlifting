@@ -1,0 +1,4 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+Spydeberg Atletene Nasjonalt stevne,2023-01-19,Women's Senior 71Kg,Ane Westrheim,71.0,60,65,-71,85,90,95,65,95,160
+Spydeberg Atletene Nasjonalt stevne,2023-01-19,Men's Senior 81Kg,Jonas Grønstad,81.0,100,-105,105,125,130,-133,105,130,235
+Spydeberg Atletene Nasjonalt stevne,2023-01-19,Men's Senior 109+Kg,Jørgen Kjellevand,999.0,125,130,-135,150,160,168,130,168,298

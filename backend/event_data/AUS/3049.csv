@@ -1,0 +1,27 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Bill Keir Memorial,2023-09-23,female,Laura Godwin,48.35,42,45,-47,53,58,60,45,60,105
+Bill Keir Memorial,2023-09-23,female,Audrey Naumoski,54.50,48,51,-53,60,-62,-62,51,60,111
+Bill Keir Memorial,2023-09-23,female,Xiaole(Joy) Cui,54.30,45,-48,-48,58,-68,0,45,58,103
+Bill Keir Memorial,2023-09-23,female,Natalia Gainsmith,53.75,20,23,-26,30,33,35,23,35,58
+Bill Keir Memorial,2023-09-23,female,Giuliana Nannetti,63.35,54,57,60,75,79,-82,60,79,139
+Bill Keir Memorial,2023-09-23,female,Sophie Bell,62.95,39,43,-46,57,60,64,43,64,107
+Bill Keir Memorial,2023-09-23,female,Mohan Qiao,61.15,33,37,-41,46,50,54,37,54,91
+Bill Keir Memorial,2023-09-23,female,Nicole Brown,68.00,33,36,39,46,49,52,39,52,91
+Bill Keir Memorial,2023-09-23,female,Laura Hill,75.65,59,62,-65,70,-73,73,62,73,135
+Bill Keir Memorial,2023-09-23,male,Billy Chen,57.25,60,64,67,82,86,90,67,90,157
+Bill Keir Memorial,2023-09-23,male,Peter Luansing,64.10,-80,-80,80,-97,97,100,80,100,180
+Bill Keir Memorial,2023-09-23,male,Oliver Leng,71.90,91,96,-100,115,-120,123,96,123,219
+Bill Keir Memorial,2023-09-23,male,Mark Sun,71.35,80,-83,-83,100,-108,-108,80,100,180
+Bill Keir Memorial,2023-09-23,male,Gavin Chan,71.10,67,-72,-74,97,102,105,67,105,172
+Bill Keir Memorial,2023-09-23,male,Elliot Bolaffi,81.00,90,95,98,110,115,0,98,115,213
+Bill Keir Memorial,2023-09-23,male,Anthony Greco,78.30,78,82,86,107,112,-117,86,112,198
+Bill Keir Memorial,2023-09-23,male,Vlad Panoschi,80.90,75,-78,79,-98,-100,100,79,100,179
+Bill Keir Memorial,2023-09-23,male,Ming Hong,75.55,74,78,-82,83,87,-91,78,87,165
+Bill Keir Memorial,2023-09-23,male,James Clark,79.85,35,39,42,35,39,-45,42,39,81
+Bill Keir Memorial,2023-09-23,male,Stuart Davison,83.75,67,-70,70,87,-91,-92,70,87,157
+Bill Keir Memorial,2023-09-23,male,Jake Le Cerf,94.05,95,100,105,120,125,130,105,130,235
+Bill Keir Memorial,2023-09-23,male,Tomas Rodriguez,95.75,87,93,-100,120,-126,-132,93,120,213
+Bill Keir Memorial,2023-09-23,male,Jacob Fevreau,93.65,87,91,94,-110,-110,110,94,110,204
+Bill Keir Memorial,2023-09-23,male,Joshua Wheeler,93.60,65,70,-76,96,100,-103,70,100,170
+Bill Keir Memorial,2023-09-23,male,Burkhard Hansen,99.45,75,80,-85,-100,100,110,80,110,190
+Bill Keir Memorial,2023-09-23,male,Roden Pin,110.35,72,76,-79,90,96,100,76,100,176

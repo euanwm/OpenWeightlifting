@@ -1,0 +1,8 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Origins Club Comp,2023-07-28,female,Marnie Farrell,71.85,-43,43,45,50,53,55,45,55,100
+Origins Club Comp,2023-07-28,female,Mika Kemp,78.50,50,55,57,71,81,-84,57,81,138
+Origins Club Comp,2023-07-28,male,Blair Parnell,75.95,-65,65,70,90,95,-100,70,95,165
+Origins Club Comp,2023-07-28,male,Adam Taylor,74.96,52,57,62,80,85,90,62,90,152
+Origins Club Comp,2023-07-28,male,Benjamin La Cunza-Watson,87.85,110,-116,-116,125,135,149,110,140,250
+Origins Club Comp,2023-07-28,male,Kelvin Hall,87.20,101,-105,-105,118,123,-125,101,123,224
+Origins Club Comp,2023-07-28,male,Ben Scott,94.70,80,85,-90,100,105,110,85,110,195

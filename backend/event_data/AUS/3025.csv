@@ -1,0 +1,8 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+SMA Club comp,2023-05-14,female,Tina Tran,58.30,54,56,-58,69,70,-72,56,70,126
+SMA Club comp,2023-05-14,female,Skye Baxter,57.25,52,56,-60,65,-68,-68,56,65,121
+SMA Club comp,2023-05-14,female,Marnie Farrell,71.70,40,43,-45,50,-54,-54,43,50,93
+SMA Club comp,2023-05-14,male,Kenneth Luong,72.10,65,-70,-70,80,90,-100,65,90,155
+SMA Club comp,2023-05-14,male,Josh Bonney,74.90,-50,50,55,60,65,70,55,70,125
+SMA Club comp,2023-05-14,male,Kelvin Hall,87.20,100,-102,-102,114,118,121,100,121,221
+SMA Club comp,2023-05-14,male,Brendan Kennedy,98.70,78,81,84,102,106,110,84,110,194

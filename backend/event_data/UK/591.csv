@@ -1,0 +1,59 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Wildboar Autumn Open 2023,2023-10-28,Men's Masters (35-39) 102Kg,Charlie Stone,98.4,125,130,133,150,160,-168,133,160,293
+Wildboar Autumn Open 2023,2023-10-28,Men's Senior 89Kg,Oliver Bracher,88.4,114,117,-120,150,155,-158,117,155,272
+Wildboar Autumn Open 2023,2023-10-28,Men's Under 23 81Kg,Finley Austin,77.4,117,122,-125,148,0,0,122,148,270
+Wildboar Autumn Open 2023,2023-10-28,Men's Senior 89Kg,Greg Stumbles,88,110,115,-118,140,146,-147,115,146,261
+Wildboar Autumn Open 2023,2023-10-28,Men's Under 23 89Kg,Tom Lamb,87,102,106,-108,122,126,-131,106,126,232
+Wildboar Autumn Open 2023,2023-10-28,Men's Senior 109Kg,Jack Hammerton,106.3,93,96,100,118,122,130,100,130,230
+Wildboar Autumn Open 2023,2023-10-28,Men's Senior 89Kg,Josh Telling,88.3,90,96,101,112,118,125,101,125,226
+Wildboar Autumn Open 2023,2023-10-28,Men's Senior 89Kg,Oliver Cooke,85.7,95,100,105,112,116,120,105,120,225
+Wildboar Autumn Open 2023,2023-10-28,Men's Under 23 109+Kg,Jake Turley,140.1,90,96,-102,110,116,-121,96,116,212
+Wildboar Autumn Open 2023,2023-10-28,Men's Under 23 89Kg,Joshua Smith,83.4,92,96,-100,-108,114,-121,96,114,210
+Wildboar Autumn Open 2023,2023-10-28,Men's Senior 73Kg,Jia Run Liang,72.8,85,88,91,-110,110,114,91,114,205
+Wildboar Autumn Open 2023,2023-10-28,Men's Under 23 89Kg,Gavin Heffernan,86.5,86,-91,-92,114,-118,-121,86,114,200
+Wildboar Autumn Open 2023,2023-10-28,Women's Senior 81Kg,kayley cook,81,75,78,83,95,100,-106,83,100,183
+Wildboar Autumn Open 2023,2023-10-28,Men's Junior Under 20 81Kg,Hamish Winton,77.7,70,75,80,93,-97,101,80,101,181
+Wildboar Autumn Open 2023,2023-10-28,Men's Senior 81Kg,Tom Jeanes,78.2,70,74,80,95,100,-104,80,100,180
+Wildboar Autumn Open 2023,2023-10-28,Women's Senior 55Kg,Fraer Morrow,52.4,76,79,-82,95,100,-103,79,100,179
+Wildboar Autumn Open 2023,2023-10-28,Men's Senior 89Kg,Parkin Brewer,84.3,62,67,70,-93,93,100,70,100,170
+Wildboar Autumn Open 2023,2023-10-28,Men's Under 23 73Kg,Andrew Kerr-Chin,67.3,60,64,68,90,95,100,68,100,168
+Wildboar Autumn Open 2023,2023-10-28,Women's Senior 87Kg,Cerys Head,81.3,72,75,-78,85,88,92,75,92,167
+Wildboar Autumn Open 2023,2023-10-28,Men's Senior 81Kg,Rohan Parry,79.5,68,72,-76,84,90,95,72,95,167
+Wildboar Autumn Open 2023,2023-10-28,Women's Senior 76Kg,Eleanor Jenkinson,75.2,70,-73,73,87,90,92,73,92,165
+Wildboar Autumn Open 2023,2023-10-28,Women's Under 23 64Kg,Romi Stern-Dawson,64,70,-73,-75,82,-87,93,70,93,163
+Wildboar Autumn Open 2023,2023-10-28,Men's Senior 89Kg,Steve Harris,88.6,65,68,70,82,86,90,70,90,160
+Wildboar Autumn Open 2023,2023-10-28,Women's Senior 64Kg,Bryony Watson,63.9,65,68,71,82,86,-91,71,86,157
+Wildboar Autumn Open 2023,2023-10-28,Women's Youth Under 17 55Kg,Eliza Pratt,51.9,-60,-60,60,78,80,82,60,82,142
+Wildboar Autumn Open 2023,2023-10-28,Women's Senior 64Kg,Emma Sipson,62.6,57,61,65,70,75,-77,65,75,140
+Wildboar Autumn Open 2023,2023-10-28,Women's Under 23 81Kg,Ava Saunders,80.8,54,57,60,68,71,75,60,75,135
+Wildboar Autumn Open 2023,2023-10-28,Women's Senior 87+Kg,Cerys Blain,96.5,55,58,61,70,73,-80,61,73,134
+Wildboar Autumn Open 2023,2023-10-28,Women's Senior 87Kg,Elizabeth Wood,85.6,56,-59,60,67,71,-74,60,71,131
+Wildboar Autumn Open 2023,2023-10-28,Women's Senior 59Kg,Lindsay Atkinson,57.5,-54,54,57,70,-74,74,57,74,131
+Wildboar Autumn Open 2023,2023-10-28,Men's Senior 73Kg,Dean Cook,68,50,54,-56,70,75,77,54,77,131
+Wildboar Autumn Open 2023,2023-10-28,Men's Junior Under 20 81Kg,Jakin Talbot,74.8,52,55,58,68,70,73,58,73,131
+Wildboar Autumn Open 2023,2023-10-28,Women's Senior 59Kg,Naomi  Walker,55.2,-52,-52,52,70,73,-76,52,73,125
+Wildboar Autumn Open 2023,2023-10-28,Men's Youth Under 17 61Kg,harry jones,60.8,48,50,-53,-69,73,-75,50,73,123
+Wildboar Autumn Open 2023,2023-10-28,Men's Senior 89Kg,James Norris,88.5,-52,52,55,62,65,68,55,68,123
+Wildboar Autumn Open 2023,2023-10-28,Men's Youth Under 15 96Kg,cooper wilson,90.2,42,45,50,-65,65,70,50,70,120
+Wildboar Autumn Open 2023,2023-10-28,Women's Senior 64Kg,Harriet Burgess,62.5,47,49,51,62,65,68,51,68,119
+Wildboar Autumn Open 2023,2023-10-28,Men's Youth Under 17 81Kg,Max Andrews,77.5,50,-52,52,63,66,-70,52,66,118
+Wildboar Autumn Open 2023,2023-10-28,Women's Senior 71Kg,Beth Wadsworth,66.6,44,47,49,62,65,67,49,67,116
+Wildboar Autumn Open 2023,2023-10-28,Women's Under 23 81Kg,Ellen Weller,80.3,50,-52,52,60,62,64,52,64,116
+Wildboar Autumn Open 2023,2023-10-28,Women's Senior 59Kg,Kirsty Robathan-Smith,58.1,45,48,-50,59,62,65,48,65,113
+Wildboar Autumn Open 2023,2023-10-28,Women's Senior 64Kg,Aune Tytti Katariina Hyttinen,59.9,-46,-46,47,57,60,63,47,63,110
+Wildboar Autumn Open 2023,2023-10-28,Women's Under 23 71Kg,Verity Wilson,67.7,43,-47,-47,55,60,63,43,63,106
+Wildboar Autumn Open 2023,2023-10-28,Women's Under 23 64Kg,Nell McDonagh,60.2,-42,-44,44,53,57,60,44,60,104
+Wildboar Autumn Open 2023,2023-10-28,Women's Junior Under 20 55Kg,Lily Crowther,52,45,47,-50,-53,53,56,47,56,103
+Wildboar Autumn Open 2023,2023-10-28,Women's Senior 49Kg,Bryony king,48,42,45,-48,52,55,-58,45,55,100
+Wildboar Autumn Open 2023,2023-10-28,Women's Masters (60-64) 59Kg,Patricia Tenn,57.7,43,45,47,51,-54,-56,47,51,98
+Wildboar Autumn Open 2023,2023-10-28,Women's Youth Under 15 71Kg,Laycee-leigh Pearce,66.7,-40,40,43,50,-55,55,43,55,98
+Wildboar Autumn Open 2023,2023-10-28,Women's Senior 87+Kg,Melanie Atkinson,96.6,30,33,36,49,53,56,36,56,92
+Wildboar Autumn Open 2023,2023-10-28,Women's Senior 59Kg,Taylor Bradshaw,58.6,35,38,40,46,-48,50,40,50,90
+Wildboar Autumn Open 2023,2023-10-28,Women's Under 23 71Kg,Niamh Ovey,68.8,-35,35,38,45,48,50,38,50,88
+Wildboar Autumn Open 2023,2023-10-28,Women's Youth Under 17 64Kg,Rebecca  Talbot ,60.1,35,38,40,45,-47,-48,40,45,85
+Wildboar Autumn Open 2023,2023-10-28,Women's Senior 81Kg,Chelsea  Sparey ,78.9,32,34,-36,40,43,-46,34,43,77
+Wildboar Autumn Open 2023,2023-10-28,Men's Youth Under 15 55Kg,Charlie Liddington,51.7,26,30,32,36,38,42,32,42,74
+Wildboar Autumn Open 2023,2023-10-28,Women's Youth Under 17 55Kg,Jess Kennedy,49.3,23,-25,-25,31,32,-34,23,32,55
+Wildboar Autumn Open 2023,2023-10-28,Women's Senior 59Kg,Laura Wheatcroft,58.7,-84,84,-87,-108,-108,-108,84,0,0
+Wildboar Autumn Open 2023,2023-10-28,Men's Senior 81Kg,Nick Jones,80.9,108,-112,114,-148,-148,-148,114,0,0
+Wildboar Autumn Open 2023,2023-10-28,Women's Masters (50-54) 49Kg,tracey beddis,47.8,-34,-34,-34,38,40,-45,0,40,0
