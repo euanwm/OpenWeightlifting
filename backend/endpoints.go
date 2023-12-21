@@ -24,29 +24,31 @@ var processedLeaderboard structs.LeaderboardData
 var QueryCache dbtools.QueryCache
 
 // PingExample godoc
-// @Summary how to check the server time
-// @Schemes
-// @Description do ping
-// @Tags example
-// @Accept json
-// @Produce json
-// @Success 200 {string} ServerTime
-// @Router /time [get]
+//
+//	@Summary	Checking the servers localtime
+//	@Schemes
+//	@Description	Returns the current server time.
+//	@Tags			Utilities and Testing
+//	@Accept			json
+//	@Produce		json
+//	@Success		200	{object}	ContainerTime
+//	@Router			/time [get]
 func ServerTime(c *gin.Context) {
 	hour, mins, sec := time.Now().Clock()
-	retStruct := structs.TestPayload{Hour: hour, Min: mins, Sec: sec}
+	retStruct := structs.ContainerTime{Hour: hour, Min: mins, Sec: sec}
 	c.JSON(http.StatusOK, retStruct)
 }
 
 // PingExample godoc
-// @Summary how to use the name search endpoint
-// @Schemes
-// @Description do ping
-// @Tags example
-// @Accept json
-// @Produce json
-// @Success 200 {string} SearchName
-// @Router /search [get]
+//
+//	@Summary	how to use the name search endpoint
+//	@Schemes
+//	@Description	do ping
+//	@Tags			example
+//	@Accept			json
+//	@Produce		json
+//	@Success		200	{object}	SearchName
+//	@Router			/search [get]
 func SearchName(c *gin.Context) {
 	const maxResults = 50
 	if len(c.Query("name")) >= 3 {
@@ -61,14 +63,15 @@ func SearchName(c *gin.Context) {
 }
 
 // PingExample godoc
-// @Summary how to use the event result endpoint
-// @Schemes
-// @Description do ping
-// @Tags example
-// @Accept json
-// @Produce json
-// @Success 200 {string} EventResult
-// @Router /event [post]
+//
+//	@Summary	how to use the event result endpoint
+//	@Schemes
+//	@Description	do ping
+//	@Tags			example
+//	@Accept			json
+//	@Produce		json
+//	@Success		200	{object}	EventResult
+//	@Router			/event [post]
 func EventResult(c *gin.Context) {
 	eventSearch := structs.NameSearch{}
 	if err := c.BindJSON(&eventSearch); err != nil {
@@ -83,14 +86,15 @@ func EventResult(c *gin.Context) {
 }
 
 // PingExample godoc
-// @Summary how to use the lifter record endpoint
-// @Schemes
-// @Description do ping
-// @Tags example
-// @Accept json
-// @Produce json
-// @Success 200 {string} LifterRecord
-// @Router /lifter [post]
+//
+//	@Summary	how to use the lifter record endpoint
+//	@Schemes
+//	@Description	do ping
+//	@Tags			example
+//	@Accept			json
+//	@Produce		json
+//	@Success		200	{object}	LifterRecord
+//	@Router			/lifter [post]
 func LifterRecord(c *gin.Context) {
 	lifterSearch := structs.NameSearch{}
 	if err := c.BindJSON(&lifterSearch); err != nil {
@@ -108,14 +112,15 @@ func LifterRecord(c *gin.Context) {
 }
 
 // PingExample godoc
-// @Summary how to use the lifter history endpoint
-// @Schemes
-// @Description do ping
-// @Tags example
-// @Accept json
-// @Produce json
-// @Success 200 {string} LifterHistory
-// @Router /history [post]
+//
+//	@Summary	how to use the lifter history endpoint
+//	@Schemes
+//	@Description	do ping
+//	@Tags			example
+//	@Accept			json
+//	@Produce		json
+//	@Success		200	{object}	LifterHistory
+//	@Router			/history [post]
 func LifterHistory(c *gin.Context) {
 	lifterSearch := structs.NameSearch{}
 	if err := c.BindJSON(&lifterSearch); err != nil {
@@ -135,14 +140,15 @@ func LifterHistory(c *gin.Context) {
 }
 
 // PingExample godoc
-// @Summary how to use the leaderboard endpoint
-// @Schemes
-// @Description do ping
-// @Tags example
-// @Accept json
-// @Produce json
-// @Success 200 {string} Leaderboard
-// @Router /leaderboard [post]
+//
+//	@Summary	how to use the leaderboard endpoint
+//	@Schemes
+//	@Description	do ping
+//	@Tags			example
+//	@Accept			json
+//	@Produce		json
+//	@Success		200	{object}	Leaderboard
+//	@Router			/leaderboard [post]
 func Leaderboard(c *gin.Context) {
 	body := structs.LeaderboardPayload{}
 	if err := c.BindJSON(&body); err != nil {

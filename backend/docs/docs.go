@@ -132,7 +132,7 @@ const docTemplate = `{
         },
         "/time": {
             "get": {
-                "description": "do ping",
+                "description": "Returns the current server time.",
                 "consumes": [
                     "application/json"
                 ],
@@ -140,14 +140,14 @@ const docTemplate = `{
                     "application/json"
                 ],
                 "tags": [
-                    "example"
+                    "Utilities and Testing"
                 ],
-                "summary": "how to check the server time",
+                "summary": "Checking the servers localtime",
                 "responses": {
                     "200": {
                         "description": "OK",
                         "schema": {
-                            "type": "string"
+                            "type": "ContainerTime"
                         }
                     }
                 }

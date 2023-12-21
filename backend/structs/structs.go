@@ -6,9 +6,8 @@ type WeightClass struct {
 	Lower  float32
 }
 
-// TestPayload - Test response for testing
-// swagger:response TestPayload
-type TestPayload struct {
+// swagger:response ContainerTime
+type ContainerTime struct {
 	Hour int `json:"hour"`
 	Min  int `json:"min"`
 	Sec  int `json:"sec"`

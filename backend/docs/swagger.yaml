@@ -80,15 +80,15 @@ paths:
     get:
       consumes:
       - application/json
-      description: do ping
+      description: Returns the current server time.
       produces:
       - application/json
       responses:
         "200":
           description: OK
           schema:
-            type: string
-      summary: how to check the server time
+            type: ContainerTime
+      summary: Checking the servers localtime
       tags:
-      - example
+      - Utilities and Testing
 swagger: "2.0"
