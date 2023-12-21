@@ -1,3 +1,97 @@
+definitions:
+  structs.ChartData:
+    properties:
+      datasets:
+        items:
+          $ref: '#/definitions/structs.ChartSubData'
+        type: array
+      labels:
+        items:
+          type: string
+        type: array
+    type: object
+  structs.ChartSubData:
+    properties:
+      data:
+        items:
+          type: number
+        type: array
+      label:
+        type: string
+    type: object
+  structs.ContainerTime:
+    properties:
+      hour:
+        type: integer
+      min:
+        type: integer
+      sec:
+        type: integer
+    type: object
+  structs.Entry:
+    properties:
+      best_cj:
+        type: number
+      best_snatch:
+        type: number
+      bodyweight:
+        type: number
+      cj_1:
+        type: number
+      cj_2:
+        type: number
+      cj_3:
+        type: number
+      country:
+        type: string
+      date:
+        type: string
+      event:
+        type: string
+      gender:
+        type: string
+      instagram:
+        type: string
+      lifter_name:
+        type: string
+      sinclair:
+        type: number
+      snatch_1:
+        type: number
+      snatch_2:
+        type: number
+      snatch_3:
+        type: number
+      total:
+        type: number
+    type: object
+  structs.LeaderboardResponse:
+    properties:
+      data:
+        items:
+          $ref: '#/definitions/structs.Entry'
+        type: array
+      size:
+        type: integer
+    type: object
+  structs.LifterHistory:
+    properties:
+      graph:
+        $ref: '#/definitions/structs.ChartData'
+      lifts:
+        items:
+          $ref: '#/definitions/structs.Entry'
+        type: array
+      name:
+        type: string
+    type: object
+  structs.NameSearchResults:
+    properties:
+      names:
+        items:
+          type: string
+        type: array
+    type: object
 info:
   contact: {}
 paths:
@@ -12,7 +106,7 @@ paths:
         "200":
           description: OK
           schema:
-            type: string
+            type: slice
       summary: how to use the event result endpoint
       tags:
       - example
@@ -27,7 +121,7 @@ paths:
         "200":
           description: OK
           schema:
-            type: string
+            $ref: '#/definitions/structs.LifterHistory'
       summary: how to use the lifter history endpoint
       tags:
       - example
@@ -42,7 +136,7 @@ paths:
         "200":
           description: OK
           schema:
-            type: string
+            $ref: '#/definitions/structs.LeaderboardResponse'
       summary: how to use the leaderboard endpoint
       tags:
       - example
@@ -57,7 +151,7 @@ paths:
         "200":
           description: OK
           schema:
-            type: string
+            $ref: '#/definitions/structs.ChartData'
       summary: how to use the lifter record endpoint
       tags:
       - example
@@ -72,7 +166,7 @@ paths:
         "200":
           description: OK
           schema:
-            type: string
+            $ref: '#/definitions/structs.NameSearchResults'
       summary: how to use the name search endpoint
       tags:
       - example
@@ -87,7 +181,7 @@ paths:
         "200":
           description: OK
           schema:
-            type: ContainerTime
+            $ref: '#/definitions/structs.ContainerTime'
       summary: Checking the servers localtime
       tags:
       - Utilities and Testing

@@ -32,7 +32,7 @@ const docTemplate = `{
                     "200": {
                         "description": "OK",
                         "schema": {
-                            "type": "string"
+                            "type": "slice"
                         }
                     }
                 }
@@ -55,7 +55,7 @@ const docTemplate = `{
                     "200": {
                         "description": "OK",
                         "schema": {
-                            "type": "string"
+                            "$ref": "#/definitions/structs.LifterHistory"
                         }
                     }
                 }
@@ -78,7 +78,7 @@ const docTemplate = `{
                     "200": {
                         "description": "OK",
                         "schema": {
-                            "type": "string"
+                            "$ref": "#/definitions/structs.LeaderboardResponse"
                         }
                     }
                 }
@@ -101,7 +101,7 @@ const docTemplate = `{
                     "200": {
                         "description": "OK",
                         "schema": {
-                            "type": "string"
+                            "$ref": "#/definitions/structs.ChartData"
                         }
                     }
                 }
@@ -124,7 +124,7 @@ const docTemplate = `{
                     "200": {
                         "description": "OK",
                         "schema": {
-                            "type": "string"
+                            "$ref": "#/definitions/structs.NameSearchResults"
                         }
                     }
                 }
@@ -147,8 +147,153 @@ const docTemplate = `{
                     "200": {
                         "description": "OK",
                         "schema": {
-                            "type": "ContainerTime"
+                            "$ref": "#/definitions/structs.ContainerTime"
                         }
+                    }
+                }
+            }
+        }
+    },
+    "definitions": {
+        "structs.ChartData": {
+            "type": "object",
+            "properties": {
+                "datasets": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/structs.ChartSubData"
+                    }
+                },
+                "labels": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                }
+            }
+        },
+        "structs.ChartSubData": {
+            "type": "object",
+            "properties": {
+                "data": {
+                    "type": "array",
+                    "items": {
+                        "type": "number"
+                    }
+                },
+                "label": {
+                    "type": "string"
+                }
+            }
+        },
+        "structs.ContainerTime": {
+            "type": "object",
+            "properties": {
+                "hour": {
+                    "type": "integer"
+                },
+                "min": {
+                    "type": "integer"
+                },
+                "sec": {
+                    "type": "integer"
+                }
+            }
+        },
+        "structs.Entry": {
+            "type": "object",
+            "properties": {
+                "best_cj": {
+                    "type": "number"
+                },
+                "best_snatch": {
+                    "type": "number"
+                },
+                "bodyweight": {
+                    "type": "number"
+                },
+                "cj_1": {
+                    "type": "number"
+                },
+                "cj_2": {
+                    "type": "number"
+                },
+                "cj_3": {
+                    "type": "number"
+                },
+                "country": {
+                    "type": "string"
+                },
+                "date": {
+                    "type": "string"
+                },
+                "event": {
+                    "type": "string"
+                },
+                "gender": {
+                    "type": "string"
+                },
+                "instagram": {
+                    "type": "string"
+                },
+                "lifter_name": {
+                    "type": "string"
+                },
+                "sinclair": {
+                    "type": "number"
+                },
+                "snatch_1": {
+                    "type": "number"
+                },
+                "snatch_2": {
+                    "type": "number"
+                },
+                "snatch_3": {
+                    "type": "number"
+                },
+                "total": {
+                    "type": "number"
+                }
+            }
+        },
+        "structs.LeaderboardResponse": {
+            "type": "object",
+            "properties": {
+                "data": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/structs.Entry"
+                    }
+                },
+                "size": {
+                    "type": "integer"
+                }
+            }
+        },
+        "structs.LifterHistory": {
+            "type": "object",
+            "properties": {
+                "graph": {
+                    "$ref": "#/definitions/structs.ChartData"
+                },
+                "lifts": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/structs.Entry"
+                    }
+                },
+                "name": {
+                    "type": "string"
+                }
+            }
+        },
+        "structs.NameSearchResults": {
+            "type": "object",
+            "properties": {
+                "names": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
                     }
                 }
             }

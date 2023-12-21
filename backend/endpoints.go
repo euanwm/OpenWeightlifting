@@ -31,7 +31,7 @@ var QueryCache dbtools.QueryCache
 //	@Tags			Utilities and Testing
 //	@Accept			json
 //	@Produce		json
-//	@Success		200	{object}	ContainerTime
+//	@Success		200	{object}	structs.ContainerTime
 //	@Router			/time [get]
 func ServerTime(c *gin.Context) {
 	hour, mins, sec := time.Now().Clock()
@@ -47,7 +47,7 @@ func ServerTime(c *gin.Context) {
 //	@Tags			example
 //	@Accept			json
 //	@Produce		json
-//	@Success		200	{object}	SearchName
+//	@Success		200	{object}	structs.NameSearchResults
 //	@Router			/search [get]
 func SearchName(c *gin.Context) {
 	const maxResults = 50
@@ -70,7 +70,7 @@ func SearchName(c *gin.Context) {
 //	@Tags			example
 //	@Accept			json
 //	@Produce		json
-//	@Success		200	{object}	EventResult
+//	@Success		200	{slice}	 []structs.Entry
 //	@Router			/event [post]
 func EventResult(c *gin.Context) {
 	eventSearch := structs.NameSearch{}
@@ -93,7 +93,7 @@ func EventResult(c *gin.Context) {
 //	@Tags			example
 //	@Accept			json
 //	@Produce		json
-//	@Success		200	{object}	LifterRecord
+//	@Success		200	{object}	structs.ChartData
 //	@Router			/lifter [post]
 func LifterRecord(c *gin.Context) {
 	lifterSearch := structs.NameSearch{}
@@ -119,7 +119,7 @@ func LifterRecord(c *gin.Context) {
 //	@Tags			example
 //	@Accept			json
 //	@Produce		json
-//	@Success		200	{object}	LifterHistory
+//	@Success		200	{object}	structs.LifterHistory
 //	@Router			/history [post]
 func LifterHistory(c *gin.Context) {
 	lifterSearch := structs.NameSearch{}
@@ -147,7 +147,7 @@ func LifterHistory(c *gin.Context) {
 //	@Tags			example
 //	@Accept			json
 //	@Produce		json
-//	@Success		200	{object}	Leaderboard
+//	@Success		200	{object}	structs.LeaderboardResponse
 //	@Router			/leaderboard [post]
 func Leaderboard(c *gin.Context) {
 	body := structs.LeaderboardPayload{}
