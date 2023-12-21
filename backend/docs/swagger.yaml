@@ -1,0 +1,94 @@
+info:
+  contact: {}
+paths:
+  /event:
+    post:
+      consumes:
+      - application/json
+      description: do ping
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            type: string
+      summary: how to use the event result endpoint
+      tags:
+      - example
+  /history:
+    post:
+      consumes:
+      - application/json
+      description: do ping
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            type: string
+      summary: how to use the lifter history endpoint
+      tags:
+      - example
+  /leaderboard:
+    post:
+      consumes:
+      - application/json
+      description: do ping
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            type: string
+      summary: how to use the leaderboard endpoint
+      tags:
+      - example
+  /lifter:
+    post:
+      consumes:
+      - application/json
+      description: do ping
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            type: string
+      summary: how to use the lifter record endpoint
+      tags:
+      - example
+  /search:
+    get:
+      consumes:
+      - application/json
+      description: do ping
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            type: string
+      summary: how to use the name search endpoint
+      tags:
+      - example
+  /time:
+    get:
+      consumes:
+      - application/json
+      description: do ping
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            type: string
+      summary: how to check the server time
+      tags:
+      - example
+swagger: "2.0"

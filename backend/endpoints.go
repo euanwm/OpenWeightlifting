@@ -1,4 +1,4 @@
-package main
+package main //nolint:typecheck
 
 import (
 	"backend/dbtools"
@@ -9,28 +9,45 @@ import (
 	"backend/utilities"
 	"log"
 	"net/http"
-	"os"
 	"strconv"
 	"time"
 
-	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
 	_ "github.com/heroku/x/hmetrics/onload"
 )
 
 var processedLeaderboard structs.LeaderboardData
 
+// this is remnant of the instagram linking code
 // var lifterData = lifter.Build()
 
 var QueryCache dbtools.QueryCache
 
-func getTest(c *gin.Context) {
+// PingExample godoc
+// @Summary how to check the server time
+// @Schemes
+// @Description do ping
+// @Tags example
+// @Accept json
+// @Produce json
+// @Success 200 {string} ServerTime
+// @Router /time [get]
+func ServerTime(c *gin.Context) {
 	hour, mins, sec := time.Now().Clock()
 	retStruct := structs.TestPayload{Hour: hour, Min: mins, Sec: sec}
 	c.JSON(http.StatusOK, retStruct)
 }
 
-func getSearchName(c *gin.Context) {
+// PingExample godoc
+// @Summary how to use the name search endpoint
+// @Schemes
+// @Description do ping
+// @Tags example
+// @Accept json
+// @Produce json
+// @Success 200 {string} SearchName
+// @Router /search [get]
+func SearchName(c *gin.Context) {
 	const maxResults = 50
 	if len(c.Query("name")) >= 3 {
 		search := structs.NameSearch{NameStr: c.Query("name")}
@@ -43,7 +60,16 @@ func getSearchName(c *gin.Context) {
 	}
 }
 
-func postEventResult(c *gin.Context) {
+// PingExample godoc
+// @Summary how to use the event result endpoint
+// @Schemes
+// @Description do ping
+// @Tags example
+// @Accept json
+// @Produce json
+// @Success 200 {string} EventResult
+// @Router /event [post]
+func EventResult(c *gin.Context) {
 	eventSearch := structs.NameSearch{}
 	if err := c.BindJSON(&eventSearch); err != nil {
 		_ = c.AbortWithError(http.StatusBadRequest, err)
@@ -56,7 +82,16 @@ func postEventResult(c *gin.Context) {
 	}
 }
 
-func postLifterRecord(c *gin.Context) {
+// PingExample godoc
+// @Summary how to use the lifter record endpoint
+// @Schemes
+// @Description do ping
+// @Tags example
+// @Accept json
+// @Produce json
+// @Success 200 {string} LifterRecord
+// @Router /lifter [post]
+func LifterRecord(c *gin.Context) {
 	lifterSearch := structs.NameSearch{}
 	if err := c.BindJSON(&lifterSearch); err != nil {
 		_ = c.AbortWithError(http.StatusBadRequest, err)
@@ -72,7 +107,16 @@ func postLifterRecord(c *gin.Context) {
 	}
 }
 
-func postLifterHistory(c *gin.Context) {
+// PingExample godoc
+// @Summary how to use the lifter history endpoint
+// @Schemes
+// @Description do ping
+// @Tags example
+// @Accept json
+// @Produce json
+// @Success 200 {string} LifterHistory
+// @Router /history [post]
+func LifterHistory(c *gin.Context) {
 	lifterSearch := structs.NameSearch{}
 	if err := c.BindJSON(&lifterSearch); err != nil {
 		_ = c.AbortWithError(http.StatusBadRequest, err)
@@ -90,8 +134,16 @@ func postLifterHistory(c *gin.Context) {
 	}
 }
 
-// Main leaderboard function
-func postLeaderboard(c *gin.Context) {
+// PingExample godoc
+// @Summary how to use the leaderboard endpoint
+// @Schemes
+// @Description do ping
+// @Tags example
+// @Accept json
+// @Produce json
+// @Success 200 {string} Leaderboard
+// @Router /leaderboard [post]
+func Leaderboard(c *gin.Context) {
 	body := structs.LeaderboardPayload{}
 	if err := c.BindJSON(&body); err != nil {
 		abortErr := c.AbortWithError(http.StatusBadRequest, err)
@@ -112,62 +164,4 @@ func postLeaderboard(c *gin.Context) {
 	leaderboardData := processedLeaderboard.Select(body.SortBy) // Selects either total or sinclair sorted leaderboard
 	fedData := dbtools.FilterLifts(*leaderboardData, body, dbtools.WeightClassList[body.WeightClass], &QueryCache)
 	c.JSON(http.StatusOK, fedData)
-}
-
-func CORSConfig(localEnv bool) cors.Config {
-	corsConfig := cors.DefaultConfig()
-	if localEnv {
-		log.Println("Local mode - Disabling CORS nonsense")
-		corsConfig.AllowOrigins = []string{"https://www.openweightlifting.org", "http://localhost:3000"}
-	} else {
-		corsConfig.AllowOrigins = []string{"https://www.openweightlifting.org"}
-	}
-	corsConfig.AllowCredentials = true
-	corsConfig.AddAllowHeaders("Access-Control-Allow-Headers", "access-control-allow-origin, access-control-allow-headers", "Content-Type", "X-XSRF-TOKEN", "Accept", "Origin", "X-Requested-With", "Authorization")
-	corsConfig.AddAllowMethods("GET", "POST", "PUT", "DELETE")
-	return corsConfig
-}
-
-func setupCORS(r *gin.Engine) {
-	// It's not a great solution but it'll work
-	if len(os.Args) > 1 && os.Args[1] == "local" {
-		r.Use(cors.New(CORSConfig(true)))
-	} else {
-		r.Use(cors.New(CORSConfig(false)))
-	}
-}
-
-func buildServer() *gin.Engine {
-	log.Println("Starting server...")
-	dbtools.BuildDatabase(&processedLeaderboard)
-	r := gin.Default()
-	setupCORS(r)
-	r.GET("test", getTest)
-	r.POST("leaderboard", postLeaderboard)
-	r.GET("search", getSearchName)
-	r.POST("lifter", postLifterRecord)
-	r.POST("history", postLifterHistory)
-	r.POST("event", postEventResult)
-	return r
-}
-
-// CacheMeOutsideHowBoutDat - Precaches data on startup on a separate thread due to container timeout constraints.
-func CacheMeOutsideHowBoutDat() {
-	log.Println("Precaching data...")
-	for n, query := range dbtools.PreCacheQuery {
-		log.Println("Caching query: ", n)
-		_, _ = QueryCache.CheckQuery(query)
-		liftdata := processedLeaderboard.Select(query.SortBy)
-		dbtools.PreCacheFilter(*liftdata, query, dbtools.WeightClassList[query.WeightClass], &QueryCache)
-	}
-	log.Println("Caching complete")
-}
-
-func main() {
-	apiServer := buildServer()
-	go CacheMeOutsideHowBoutDat()
-	err := apiServer.Run()
-	if err != nil {
-		log.Fatal("Failed to run server")
-	}
 }
