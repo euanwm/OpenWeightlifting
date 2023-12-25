@@ -81,6 +81,9 @@ def strip_table_body(table):
                 data = tbl_dat.find_all('i')
                 if len(data) == 1:
                     strip_it = str(data[0].text).replace(" ", "-")
+                    # fixes issue #278
+                    if len(strip_it) == 0:
+                        strip_it = "0"
                     cells.append(strip_it)
                 else:
                     if len((data := tbl_dat.text.strip())) > 0:
