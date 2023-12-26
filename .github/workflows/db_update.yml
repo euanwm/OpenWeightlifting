@@ -51,6 +51,7 @@ jobs:
       run: |
             git config user.name github-actions[bot]
             git config user.email github-actions[bot]@users.noreply.github.com
+            git checkout -b db/autoupdate
             git add .
             git commit -m "Database Update" -m "Action run on $(date)" || echo "No changes to commit"
             git push
@@ -59,7 +60,7 @@ jobs:
       if: always() # will PR everytime this is run, delete or comment it out if you want to remove it. 
       uses: repo-sync/pull-request@v2
       with:
-        source_branch: 'development'
+        source_branch: 'db/auto_update'
         destination_branch: 'development' # PR within the same branch
         pr_title: 'Database Update Review'
         pr_body: 'Automated database update for review.'
