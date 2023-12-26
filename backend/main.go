@@ -2,8 +2,11 @@ package main
 
 import (
 	"backend/dbtools"
+	docs "github.com/euanwm/OpenWeightlifting/backend/docs"
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
+	swaggerFiles "github.com/swaggo/files"
+	ginSwagger "github.com/swaggo/gin-swagger"
 	"log"
 	"os"
 )
@@ -35,7 +38,7 @@ func buildServer() *gin.Engine {
 	log.Println("Starting server...")
 	dbtools.BuildDatabase(&processedLeaderboard)
 	r := gin.Default()
-	// docs.SwaggerInfo.BasePath = "/"
+	docs.SwaggerInfo.BasePath = "/"
 	setupCORS(r)
 	r.GET("time", ServerTime)
 	r.POST("leaderboard", Leaderboard)
@@ -43,7 +46,7 @@ func buildServer() *gin.Engine {
 	r.POST("lifter", LifterRecord)
 	r.POST("history", LifterHistory)
 	r.POST("event", EventResult)
-	// r.GET("/swagger/*any", ginSwagger.WrapHandler(swaggerFiles.Handler))
+	r.GET("/swagger/*any", ginSwagger.WrapHandler(swaggerFiles.Handler))
 	return r
 }
 
@@ -59,6 +62,14 @@ func CacheMeOutsideHowBoutDat() {
 	log.Println("Caching complete")
 }
 
+// @title OpenWeightlifting API
+// @description This is the API for OpenWeightlifting.org
+// @BasePath /
+// @version 1.0
+// @contact.name Euan Meston
+// @contact.email euan@openweightlifting.org
+// @host api.openweightlifting.org
+// @schemes https
 func main() {
 	apiServer := buildServer()
 	go CacheMeOutsideHowBoutDat()

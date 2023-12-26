@@ -9,7 +9,10 @@ const docTemplate = `{
     "info": {
         "description": "{{escape .Description}}",
         "title": "{{.Title}}",
-        "contact": {},
+        "contact": {
+            "name": "Euan Meston",
+            "email": "euan@openweightlifting.org"
+        },
         "version": "{{.Version}}"
     },
     "host": "{{.Host}}",
@@ -17,7 +20,7 @@ const docTemplate = `{
     "paths": {
         "/event": {
             "post": {
-                "description": "Requires a case-sensitive event name to be passed to it.",
+                "description": "Requires a case-sensitive event name to be passed to it. This is still a work in progress.",
                 "consumes": [
                     "application/json"
                 ],
@@ -51,13 +54,16 @@ const docTemplate = `{
                                 }
                             }
                         }
+                    },
+                    "204": {
+                        "description": "No Content"
                     }
                 }
             }
         },
         "/history": {
             "post": {
-                "description": "do ping",
+                "description": "Pull a lifter's history by name. The name must be an exact match and can be checked using the search endpoint.",
                 "consumes": [
                     "application/json"
                 ],
@@ -67,13 +73,27 @@ const docTemplate = `{
                 "tags": [
                     "POST Requests"
                 ],
-                "summary": "how to use the lifter history endpoint",
+                "summary": "Retrieve a lifter's history",
+                "parameters": [
+                    {
+                        "description": "name",
+                        "name": "name",
+                        "in": "body",
+                        "required": true,
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
                 "responses": {
                     "200": {
                         "description": "OK",
                         "schema": {
                             "$ref": "#/definitions/structs.LifterHistory"
                         }
+                    },
+                    "204": {
+                        "description": "No Content"
                     }
                 }
             }
@@ -94,49 +114,49 @@ const docTemplate = `{
                 "parameters": [
                     {
                         "type": "integer",
-                        "description": "start",
+                        "description": "Position to begin from within the full query",
                         "name": "start",
                         "in": "query"
                     },
                     {
                         "type": "integer",
-                        "description": "stop",
+                        "description": "Position to stop at within the full query",
                         "name": "stop",
                         "in": "query"
                     },
                     {
                         "type": "string",
-                        "description": "sortby",
+                        "description": "Sort by either total or sinclair",
                         "name": "sortby",
                         "in": "query"
                     },
                     {
                         "type": "string",
-                        "description": "federation",
+                        "description": "Federation or country to filter by",
                         "name": "federation",
                         "in": "query"
                     },
                     {
                         "type": "string",
-                        "description": "weightclass",
+                        "description": "Weightclass to filter by",
                         "name": "weightclass",
                         "in": "query"
                     },
                     {
                         "type": "integer",
-                        "description": "year",
+                        "description": "Year to filter by",
                         "name": "year",
                         "in": "query"
                     },
                     {
                         "type": "string",
-                        "description": "startdate",
+                        "description": "Not currently used",
                         "name": "startdate",
                         "in": "query"
                     },
                     {
                         "type": "string",
-                        "description": "enddate",
+                        "description": "Not currently used",
                         "name": "enddate",
                         "in": "query"
                     }
@@ -153,7 +173,7 @@ const docTemplate = `{
         },
         "/lifter": {
             "post": {
-                "description": "do ping",
+                "description": "This is used within the lifter page to display a lifter's record. It returns a JSON object that can be used with ChartJS without having to do any additional processing.",
                 "consumes": [
                     "application/json"
                 ],
@@ -163,20 +183,34 @@ const docTemplate = `{
                 "tags": [
                     "POST Requests"
                 ],
-                "summary": "how to use the lifter record endpoint",
+                "summary": "Retrieve a lifter's record for use with ChartJS",
+                "parameters": [
+                    {
+                        "description": "name",
+                        "name": "name",
+                        "in": "body",
+                        "required": true,
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
                 "responses": {
                     "200": {
                         "description": "OK",
                         "schema": {
                             "$ref": "#/definitions/structs.ChartData"
                         }
+                    },
+                    "204": {
+                        "description": "No Content"
                     }
                 }
             }
         },
         "/search": {
             "get": {
-                "description": "do ping",
+                "description": "Looks up a lifter by name and returns a list of possible matches. Requires a minimum of 3 characters.",
                 "consumes": [
                     "application/json"
                 ],
@@ -186,7 +220,16 @@ const docTemplate = `{
                 "tags": [
                     "GET Requests"
                 ],
-                "summary": "how to use the name search endpoint",
+                "summary": "Search through lifter names",
+                "parameters": [
+                    {
+                        "type": "string",
+                        "description": "name",
+                        "name": "name",
+                        "in": "query",
+                        "required": true
+                    }
+                ],
                 "responses": {
                     "200": {
                         "description": "OK",
@@ -367,12 +410,12 @@ const docTemplate = `{
 
 // SwaggerInfo holds exported Swagger Info so clients can modify it
 var SwaggerInfo = &swag.Spec{
-	Version:          "",
-	Host:             "",
-	BasePath:         "",
-	Schemes:          []string{},
-	Title:            "",
-	Description:      "",
+	Version:          "1.0",
+	Host:             "api.openweightlifting.org",
+	BasePath:         "/",
+	Schemes:          []string{"https"},
+	Title:            "OpenWeightlifting API",
+	Description:      "This is the API for OpenWeightlifting.org",
 	InfoInstanceName: "swagger",
 	SwaggerTemplate:  docTemplate,
 	LeftDelim:        "{{",
