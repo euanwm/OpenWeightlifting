@@ -99,17 +99,28 @@ paths:
     post:
       consumes:
       - application/json
-      description: do ping
+      description: Requires a case-sensitive event name to be passed to it.
+      parameters:
+      - description: name
+        in: body
+        name: name
+        required: true
+        schema:
+          type: string
       produces:
       - application/json
       responses:
         "200":
           description: OK
           schema:
-            type: slice
-      summary: how to use the event result endpoint
+            items:
+              items:
+                $ref: '#/definitions/structs.Entry'
+              type: array
+            type: array
+      summary: Pull a specific event by name
       tags:
-      - example
+      - POST Requests
   /history:
     post:
       consumes:
@@ -124,12 +135,46 @@ paths:
             $ref: '#/definitions/structs.LifterHistory'
       summary: how to use the lifter history endpoint
       tags:
-      - example
+      - POST Requests
   /leaderboard:
     post:
       consumes:
       - application/json
-      description: do ping
+      description: This is the used on the index page of the website and pulls the
+        highest single lift for a lifter within the selected filter.
+      parameters:
+      - description: start
+        in: query
+        name: start
+        type: integer
+      - description: stop
+        in: query
+        name: stop
+        type: integer
+      - description: sortby
+        in: query
+        name: sortby
+        type: string
+      - description: federation
+        in: query
+        name: federation
+        type: string
+      - description: weightclass
+        in: query
+        name: weightclass
+        type: string
+      - description: year
+        in: query
+        name: year
+        type: integer
+      - description: startdate
+        in: query
+        name: startdate
+        type: string
+      - description: enddate
+        in: query
+        name: enddate
+        type: string
       produces:
       - application/json
       responses:
@@ -137,9 +182,9 @@ paths:
           description: OK
           schema:
             $ref: '#/definitions/structs.LeaderboardResponse'
-      summary: how to use the leaderboard endpoint
+      summary: Main table on the index page
       tags:
-      - example
+      - POST Requests
   /lifter:
     post:
       consumes:
@@ -154,7 +199,7 @@ paths:
             $ref: '#/definitions/structs.ChartData'
       summary: how to use the lifter record endpoint
       tags:
-      - example
+      - POST Requests
   /search:
     get:
       consumes:
@@ -169,11 +214,9 @@ paths:
             $ref: '#/definitions/structs.NameSearchResults'
       summary: how to use the name search endpoint
       tags:
-      - example
+      - GET Requests
   /time:
     get:
-      consumes:
-      - application/json
       description: Returns the current server time.
       produces:
       - application/json

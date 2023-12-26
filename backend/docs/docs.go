@@ -17,7 +17,7 @@ const docTemplate = `{
     "paths": {
         "/event": {
             "post": {
-                "description": "do ping",
+                "description": "Requires a case-sensitive event name to be passed to it.",
                 "consumes": [
                     "application/json"
                 ],
@@ -25,14 +25,31 @@ const docTemplate = `{
                     "application/json"
                 ],
                 "tags": [
-                    "example"
+                    "POST Requests"
                 ],
-                "summary": "how to use the event result endpoint",
+                "summary": "Pull a specific event by name",
+                "parameters": [
+                    {
+                        "description": "name",
+                        "name": "name",
+                        "in": "body",
+                        "required": true,
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
                 "responses": {
                     "200": {
                         "description": "OK",
                         "schema": {
-                            "type": "slice"
+                            "type": "array",
+                            "items": {
+                                "type": "array",
+                                "items": {
+                                    "$ref": "#/definitions/structs.Entry"
+                                }
+                            }
                         }
                     }
                 }
@@ -48,7 +65,7 @@ const docTemplate = `{
                     "application/json"
                 ],
                 "tags": [
-                    "example"
+                    "POST Requests"
                 ],
                 "summary": "how to use the lifter history endpoint",
                 "responses": {
@@ -63,7 +80,7 @@ const docTemplate = `{
         },
         "/leaderboard": {
             "post": {
-                "description": "do ping",
+                "description": "This is the used on the index page of the website and pulls the highest single lift for a lifter within the selected filter.",
                 "consumes": [
                     "application/json"
                 ],
@@ -71,9 +88,59 @@ const docTemplate = `{
                     "application/json"
                 ],
                 "tags": [
-                    "example"
+                    "POST Requests"
                 ],
-                "summary": "how to use the leaderboard endpoint",
+                "summary": "Main table on the index page",
+                "parameters": [
+                    {
+                        "type": "integer",
+                        "description": "start",
+                        "name": "start",
+                        "in": "query"
+                    },
+                    {
+                        "type": "integer",
+                        "description": "stop",
+                        "name": "stop",
+                        "in": "query"
+                    },
+                    {
+                        "type": "string",
+                        "description": "sortby",
+                        "name": "sortby",
+                        "in": "query"
+                    },
+                    {
+                        "type": "string",
+                        "description": "federation",
+                        "name": "federation",
+                        "in": "query"
+                    },
+                    {
+                        "type": "string",
+                        "description": "weightclass",
+                        "name": "weightclass",
+                        "in": "query"
+                    },
+                    {
+                        "type": "integer",
+                        "description": "year",
+                        "name": "year",
+                        "in": "query"
+                    },
+                    {
+                        "type": "string",
+                        "description": "startdate",
+                        "name": "startdate",
+                        "in": "query"
+                    },
+                    {
+                        "type": "string",
+                        "description": "enddate",
+                        "name": "enddate",
+                        "in": "query"
+                    }
+                ],
                 "responses": {
                     "200": {
                         "description": "OK",
@@ -94,7 +161,7 @@ const docTemplate = `{
                     "application/json"
                 ],
                 "tags": [
-                    "example"
+                    "POST Requests"
                 ],
                 "summary": "how to use the lifter record endpoint",
                 "responses": {
@@ -117,7 +184,7 @@ const docTemplate = `{
                     "application/json"
                 ],
                 "tags": [
-                    "example"
+                    "GET Requests"
                 ],
                 "summary": "how to use the name search endpoint",
                 "responses": {
@@ -133,9 +200,6 @@ const docTemplate = `{
         "/time": {
             "get": {
                 "description": "Returns the current server time.",
-                "consumes": [
-                    "application/json"
-                ],
                 "produces": [
                     "application/json"
                 ],

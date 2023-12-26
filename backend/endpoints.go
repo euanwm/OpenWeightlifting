@@ -23,13 +23,11 @@ var processedLeaderboard structs.LeaderboardData
 
 var QueryCache dbtools.QueryCache
 
-// PingExample godoc
+// ServerTime godoc
 //
 //	@Summary	Checking the servers localtime
-//	@Schemes
 //	@Description	Returns the current server time.
 //	@Tags			Utilities and Testing
-//	@Accept			json
 //	@Produce		json
 //	@Success		200	{object}	structs.ContainerTime
 //	@Router			/time [get]
@@ -39,12 +37,12 @@ func ServerTime(c *gin.Context) {
 	c.JSON(http.StatusOK, retStruct)
 }
 
-// PingExample godoc
+// SearchName godoc
 //
 //	@Summary	how to use the name search endpoint
 //	@Schemes
 //	@Description	do ping
-//	@Tags			example
+//	@Tags			GET Requests
 //	@Accept			json
 //	@Produce		json
 //	@Success		200	{object}	structs.NameSearchResults
@@ -62,16 +60,17 @@ func SearchName(c *gin.Context) {
 	}
 }
 
-// PingExample godoc
+// EventResult godoc
 //
-//	@Summary	how to use the event result endpoint
-//	@Schemes
-//	@Description	do ping
-//	@Tags			example
-//	@Accept			json
-//	@Produce		json
-//	@Success		200	{slice}	 []structs.Entry
-//	@Router			/event [post]
+//		@Summary	Pull a specific event by name
+//		@Schemes
+//		@Description	Requires a case-sensitive event name to be passed to it.
+//		@Tags			POST Requests
+//	 @Param name body string true "name"
+//		@Accept			json
+//		@Produce		json
+//		@Success		200	{array}	 []structs.Entry
+//		@Router			/event [post]
 func EventResult(c *gin.Context) {
 	eventSearch := structs.NameSearch{}
 	if err := c.BindJSON(&eventSearch); err != nil {
@@ -85,12 +84,12 @@ func EventResult(c *gin.Context) {
 	}
 }
 
-// PingExample godoc
+// LifterRecord godoc
 //
 //	@Summary	how to use the lifter record endpoint
 //	@Schemes
 //	@Description	do ping
-//	@Tags			example
+//	@Tags			POST Requests
 //	@Accept			json
 //	@Produce		json
 //	@Success		200	{object}	structs.ChartData
@@ -111,12 +110,12 @@ func LifterRecord(c *gin.Context) {
 	}
 }
 
-// PingExample godoc
+// LifterHistory godoc
 //
 //	@Summary	how to use the lifter history endpoint
 //	@Schemes
 //	@Description	do ping
-//	@Tags			example
+//	@Tags			POST Requests
 //	@Accept			json
 //	@Produce		json
 //	@Success		200	{object}	structs.LifterHistory
@@ -139,16 +138,25 @@ func LifterHistory(c *gin.Context) {
 	}
 }
 
-// PingExample godoc
+// Leaderboard godoc
 //
-//	@Summary	how to use the leaderboard endpoint
-//	@Schemes
-//	@Description	do ping
-//	@Tags			example
-//	@Accept			json
-//	@Produce		json
-//	@Success		200	{object}	structs.LeaderboardResponse
-//	@Router			/leaderboard [post]
+//		@Summary	Main table on the index page
+//		@Description	This is the used on the index page of the website and pulls the highest single lift for a lifter within the selected filter.
+//		@Tags			POST Requests
+//
+//	 @Param start query int false "start"
+//	 @Param stop query int false "stop"
+//	 @Param sortby query string false "sortby"
+//	 @Param federation query string false "federation"
+//	 @Param weightclass query string false "weightclass"
+//	 @Param year query int false "year"
+//	 @Param startdate query string false "startdate"
+//	 @Param enddate query string false "enddate"
+//
+//		@Accept			json
+//		@Produce		json
+//		@Success		200	{object}	structs.LeaderboardResponse
+//		@Router			/leaderboard [post]
 func Leaderboard(c *gin.Context) {
 	body := structs.LeaderboardPayload{}
 	if err := c.BindJSON(&body); err != nil {

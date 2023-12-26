@@ -23,7 +23,7 @@ type NameSearchResults struct {
 }
 
 type NameSearch struct {
-	NameStr string
+	NameStr string `json:"name"`
 }
 
 // swagger:response LifterHistory
