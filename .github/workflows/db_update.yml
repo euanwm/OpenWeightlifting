@@ -51,7 +51,7 @@ jobs:
       run: |
             git config user.name github-actions[bot]
             git config user.email github-actions[bot]@users.noreply.github.com
-            git checkout -b db/autoupdate
+            git checkout -b db/auto-update
             git add .
             git commit -m "Database Update" -m "Action run on $(date)" || echo "No changes to commit"
             git push
