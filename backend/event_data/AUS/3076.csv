@@ -1,0 +1,21 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+MM Weightlifting Open Competition,2023-04-02,female,Natalya Ghetto,54.70,-62,63,65,73,-76,76,65,76,141
+MM Weightlifting Open Competition,2023-04-02,female,Juliana Ghetto,54.40,-61,-61,-62,0,0,0,0,0,0
+MM Weightlifting Open Competition,2023-04-02,female,Fatima Yakubu,58.55,85,-88,88,108,112,0,88,112,200
+MM Weightlifting Open Competition,2023-04-02,female,Joy Briggs,57.30,39,43,-47,54,58,-62,43,58,101
+MM Weightlifting Open Competition,2023-04-02,female,Betania Ramos Costa,56.05,35,-40,40,45,50,-55,40,50,90
+MM Weightlifting Open Competition,2023-04-02,female,Darcy Elliston,62.20,-60,60,-63,-77,77,80,60,80,140
+MM Weightlifting Open Competition,2023-04-02,female,Gabrielle Crocker,61.85,60,-64,-67,75,78,-81,60,78,138
+MM Weightlifting Open Competition,2023-04-02,female,Briana Clifford,60.60,48,50,52,63,65,68,52,68,120
+MM Weightlifting Open Competition,2023-04-02,female,Layla Bloom,69.50,73,-76,-77,98,-105,-105,73,98,171
+MM Weightlifting Open Competition,2023-04-02,female,Kitty Chao,70.15,53,55,-58,69,72,-75,55,72,127
+MM Weightlifting Open Competition,2023-04-02,female,Kelley Woodman,67.80,26,29,33,32,36,-41,33,36,69
+MM Weightlifting Open Competition,2023-04-02,female,Leisa Hinschen,75.10,-43,43,-45,55,58,-60,43,58,101
+MM Weightlifting Open Competition,2023-04-02,female,Samantha Annakin,74.25,30,34,38,50,54,57,38,57,95
+MM Weightlifting Open Competition,2023-04-02,female,Hayley Squires,100.40,57,63,68,-85,85,92,68,92,160
+MM Weightlifting Open Competition,2023-04-02,male,George Ivanovski,59.50,50,55,58,-65,65,72,58,72,130
+MM Weightlifting Open Competition,2023-04-02,male,William Zhou,71.05,80,-85,-86,101,-105,105,80,105,185
+MM Weightlifting Open Competition,2023-04-02,male,Luc Tran,68.80,61,64,67,75,78,81,67,81,148
+MM Weightlifting Open Competition,2023-04-02,male,Martin-Khai Tran,72.45,-105,108,112,-130,-130,-130,112,0,0
+MM Weightlifting Open Competition,2023-04-02,male,Leo Manny,80.95,110,118,-125,140,150,-160,118,150,268
+MM Weightlifting Open Competition,2023-04-02,male,Gordon Fu,80.10,100,105,108,132,0,0,108,132,240

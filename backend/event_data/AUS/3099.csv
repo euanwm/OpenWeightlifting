@@ -1,0 +1,10 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+March Open,2023-03-04,female,Annie Huynh,44.94,38,41,-44,47,-51,-51,41,47,88
+March Open,2023-03-04,female,Melanie Bennett,45.74,-47,47,-51,58,62,-68,47,62,109
+March Open,2023-03-04,female,Monica Pham,54.54,52,-55,-56,-60,60,-71,52,60,112
+March Open,2023-03-04,female,Jo Mcewan,66.00,75,79,-82,91,95,-98,79,95,174
+March Open,2023-03-04,female,Candice Louw,76.70,50,55,-60,60,65,-70,55,65,120
+March Open,2023-03-04,female,Phoebe Lawson,89.42,60,65,-70,80,85,-90,65,85,150
+March Open,2023-03-04,male,Dan Hood,61.28,45,-48,-50,60,-66,66,45,66,111
+March Open,2023-03-04,male,Seb Wagner,93.04,62,66,71,74,80,90,71,90,161
+March Open,2023-03-04,male,Zhichao Gu,106.50,70,77,82,91,100,-110,82,100,182

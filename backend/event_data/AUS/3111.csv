@@ -1,0 +1,21 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+"Presidents Cup Rd2, North Region",2023-04-29,female,Bianca Fitzpatrick,58.86,-42,42,-44,52,55,59,42,59,101
+"Presidents Cup Rd2, North Region",2023-04-29,female,Madeline Bennett,63.14,50,53,-60,72,74,76,53,76,129
+"Presidents Cup Rd2, North Region",2023-04-29,female,Genevieve Smith,62.72,30,33,35,-40,40,45,35,45,80
+"Presidents Cup Rd2, North Region",2023-04-29,female,Lucy Reinmuth-Lewis,70.12,25,30,32,-35,35,40,32,40,72
+"Presidents Cup Rd2, North Region",2023-04-29,female,Emily Hudson,72.22,55,-58,58,65,68,73,58,73,131
+"Presidents Cup Rd2, North Region",2023-04-29,female,Olivia Nugent,77.80,55,60,-65,75,-79,80,60,80,140
+"Presidents Cup Rd2, North Region",2023-04-29,female,Annaliese Elliott,107.08,56,59,-61,70,-73,73,59,73,132
+"Presidents Cup Rd2, North Region",2023-04-29,female,Abbey Boon,102.32,55,-58,58,65,-68,68,58,68,126
+"Presidents Cup Rd2, North Region",2023-04-29,female,Jewel Banks,108.02,49,52,54,60,63,65,54,65,119
+"Presidents Cup Rd2, North Region",2023-04-29,female,Bridget Kelly,99.96,-70,70,75,-90,-90,-90,75,0,0
+"Presidents Cup Rd2, North Region",2023-04-29,male,Lewis Laycock,88.70,-100,100,-107,-125,125,130,100,130,230
+"Presidents Cup Rd2, North Region",2023-04-29,male,Seth Fox,88.12,90,95,-100,-120,120,125,95,125,220
+"Presidents Cup Rd2, North Region",2023-04-29,male,Changhun Han,87.86,-82,82,90,-100,100,-105,90,100,190
+"Presidents Cup Rd2, North Region",2023-04-29,male,Joshua Fletcher,87.16,75,-80,80,95,102,-108,80,102,182
+"Presidents Cup Rd2, North Region",2023-04-29,male,Andrew Lonergan,91.20,95,100,-105,120,-125,125,100,125,225
+"Presidents Cup Rd2, North Region",2023-04-29,male,James Rakich,89.32,55,58,-61,75,78,-81,58,78,136
+"Presidents Cup Rd2, North Region",2023-04-29,male,Nathan Mcfall,99.72,85,-92,92,110,-118,120,92,120,212
+"Presidents Cup Rd2, North Region",2023-04-29,male,Bradley Tuck,107.22,65,-68,68,75,78,81,68,81,149
+"Presidents Cup Rd2, North Region",2023-04-29,male,Zachary Courtney,115.72,120,130,-134,162,0,0,130,162,292
+"Presidents Cup Rd2, North Region",2023-04-29,male,Damian Liddell,112.14,65,70,72,85,90,93,72,93,165

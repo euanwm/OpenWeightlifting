@@ -1,0 +1,9 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Feburary Open,2023-02-18,male,Andrew Dodman,66.80,53,56,58,73,76,78,58,78,136
+Feburary Open,2023-02-18,male,Kein Manchery,80.40,65,72,77,90,100,-110,77,100,177
+Feburary Open,2023-02-18,male,Demi Avramidis,79.55,65,-67,67,-85,85,-90,67,85,152
+Feburary Open,2023-02-18,male,Kieran Eldridge,83.15,100,105,-110,130,140,146,105,146,251
+Feburary Open,2023-02-18,male,Oli Patterson,86.20,96,-102,-105,131,-135,-135,96,131,227
+Feburary Open,2023-02-18,male,Alexander Ioanni,86.05,93,96,101,117,-123,0,101,117,218
+Feburary Open,2023-02-18,male,Rogier Van Woensel,88.60,85,90,95,100,-110,110,95,110,205
+Feburary Open,2023-02-18,male,Chris Duthie,101.00,50,55,60,65,70,75,60,75,135

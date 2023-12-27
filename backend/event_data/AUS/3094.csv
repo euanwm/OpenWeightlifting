@@ -1,0 +1,7 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Coffs Harbour Open Competition,2023-11-18,female,Emily Dickson,68.75,60,-63,-63,72,-76,76,60,76,136
+Coffs Harbour Open Competition,2023-11-18,female,Leanne Cheal,74.65,23,25,28,35,36,40,28,40,68
+Coffs Harbour Open Competition,2023-11-18,female,Zehrina Hajdic,82.80,21,-23,-23,25,27,30,21,30,51
+Coffs Harbour Open Competition,2023-11-18,male,Darren Shaw,80.55,88,93,97,-108,108,115,97,115,212
+Coffs Harbour Open Competition,2023-11-18,male,Daniel Searle,91.65,75,80,85,100,107,-115,85,107,192
+Coffs Harbour Open Competition,2023-11-18,male,Paul Dewar,118.45,40,45,-47,50,55,0,45,55,100
