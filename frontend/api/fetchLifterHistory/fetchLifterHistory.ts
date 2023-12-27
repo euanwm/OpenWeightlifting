@@ -12,7 +12,7 @@ export default async function fetchLifterHistory(
     headers: {
       'Content-Type': 'application/json',
     },
-    body: JSON.stringify({ NameStr: name }),
+    body: JSON.stringify({ "name": name }),
   })
 
   const jsonResponse = response.json()

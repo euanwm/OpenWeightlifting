@@ -7,7 +7,7 @@ export default async function fetchLifterGraphData(
     return
   }
 
-  const bodyContent = JSON.stringify({ NameStr: lifterName })
+  const bodyContent = JSON.stringify({ "name": lifterName })
 
   const response = await fetch(`${process.env.API}/lifter`, {
     method: 'POST',
