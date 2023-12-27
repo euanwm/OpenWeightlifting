@@ -20,3 +20,7 @@ stage_csv:
 
 check_db:
 	@cd python_tools && pipenv run python3 check_db.py
+
+generate-docs:
+	echo "Generating docs..."
+	cd backend && swag init --parseDependency --parseInternal

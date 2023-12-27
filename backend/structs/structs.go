@@ -6,24 +6,27 @@ type WeightClass struct {
 	Lower  float32
 }
 
-type TestPayload struct {
-	Hour int
-	Min  int
-	Sec  int
+// swagger:response ContainerTime
+type ContainerTime struct {
+	Hour int `json:"hour"`
+	Min  int `json:"min"`
+	Sec  int `json:"sec"`
 }
 
 type AllData struct {
 	Lifts []Entry
 }
 
+// swagger:response NameSearchResults
 type NameSearchResults struct {
 	Names []string `json:"names"`
 }
 
 type NameSearch struct {
-	NameStr string
+	NameStr string `json:"name"`
 }
 
+// swagger:response LifterHistory
 type ChartData struct {
 	Dates   []string       `json:"labels"`
 	SubData []ChartSubData `json:"datasets"`
@@ -34,6 +37,7 @@ type ChartSubData struct {
 	DataSlice []float32 `json:"data"`
 }
 
+// swagger:response LifterHistory
 type LifterHistory struct {
 	NameStr string    `json:"name"`
 	Lifts   []Entry   `json:"lifts"`
@@ -58,6 +62,7 @@ type LeaderboardPayload struct {
 }
 
 // Entry Standard structs that we'll use for storing raw lift data
+// swagger:response Entry
 type Entry struct {
 	Event      string  `json:"event"`
 	Date       string  `json:"date"`
@@ -78,6 +83,7 @@ type Entry struct {
 	Instagram  string  `json:"instagram"`
 }
 
+// swagger:response LeaderboardResponse
 type LeaderboardResponse struct {
 	Size int     `json:"size"`
 	Data []Entry `json:"data"`
