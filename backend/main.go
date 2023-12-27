@@ -2,7 +2,7 @@ package main
 
 import (
 	"backend/dbtools"
-	docs "github.com/euanwm/OpenWeightlifting/backend/docs"
+	docs "backend/docs"
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
 	swaggerFiles "github.com/swaggo/files"
