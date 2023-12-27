@@ -1,24 +1,24 @@
-name: Deploy to Heroku
+name: Deploy to Development
 
 on:
   push:
     branches:
-      - master
+      - development
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Deploy OWL Backend
+      - name: Deploy Development Backend
         uses: behe/heroku-build@v1
         with:
-          app-name: "owl-production-backend"
+          app-name: "dev-branch-backend"
           api-key: "${{secrets.HEROKU_API_KEY}}"
           path: "./backend/"
-      - name: Deploy OWL Frontend
+      - name: Deploy Development Frontend
         uses: behe/heroku-build@v1
         with:
-          app-name: "owl-production-frontend"
+          app-name: "dev-branch-frontend"
           api-key: "${{secrets.HEROKU_API_KEY}}"
           path: "./frontend/"
