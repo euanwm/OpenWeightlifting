@@ -1,0 +1,8 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+August Open,2023-08-05,female,Madeleine Chen,61.20,50,55,-60,60,65,68,55,68,123
+August Open,2023-08-05,female,Ashleigh Draffen,78.95,27,-30,30,31,32,33,30,33,63
+August Open,2023-08-05,female,Jennifer Zeven,115.10,50,55,60,80,83,85,60,85,145
+August Open,2023-08-05,female,Jessica Mayman,92.35,40,-43,-43,45,50,55,40,55,95
+August Open,2023-08-05,male,Zach Wallace,82.80,105,110,112,140,145,148,112,148,260
+August Open,2023-08-05,male,Samuel Steel,83.70,98,104,108,120,128,134,108,134,242
+August Open,2023-08-05,male,Sreten Radusin,104.90,90,95,100,120,128,133,100,133,233

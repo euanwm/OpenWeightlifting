@@ -1,0 +1,78 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Ralph Cashman Open Competition ,2023-02-17,female,Jessica Leask,43.94,26,28,30,36,39,-42,30,39,69
+Ralph Cashman Open Competition ,2023-02-17,female,Natasha Bow,47.34,-44,44,47,53,56,58,47,58,105
+Ralph Cashman Open Competition ,2023-02-17,female,Sandra Chan,47.94,38,42,-45,49,54,-58,42,54,96
+Ralph Cashman Open Competition ,2023-02-17,female,Sonia Iacobacci,52.32,53,-56,-57,69,72,75,53,75,128
+Ralph Cashman Open Competition ,2023-02-17,female,Cary Huynh,53.72,-47,48,-50,65,68,71,48,71,119
+Ralph Cashman Open Competition ,2023-02-17,female,Lara Perry,53.06,40,43,45,51,55,59,45,59,104
+Ralph Cashman Open Competition ,2023-02-17,female,Bonna Valdecanas,51.76,35,-38,-38,42,-45,-46,35,42,77
+Ralph Cashman Open Competition ,2023-02-17,female,Natalya Ghetto,54.20,57,60,-63,-74,-74,-74,60,0,0
+Ralph Cashman Open Competition ,2023-02-17,female,Linda Nguyen,58.10,51,53,-55,-68,70,72,53,72,125
+Ralph Cashman Open Competition ,2023-02-17,female,Erika Opali,56.00,44,-47,-47,55,60,66,44,66,110
+Ralph Cashman Open Competition ,2023-02-17,female,Nicole Boutsikakis,58.46,43,46,49,57,60,-63,49,60,109
+Ralph Cashman Open Competition ,2023-02-17,female,Paula Barros Figueiredo,58.52,40,-45,-47,53,56,60,40,60,100
+Ralph Cashman Open Competition ,2023-02-17,female,Kimmie Coulston,56.70,38,41,43,-55,55,-58,43,55,98
+Ralph Cashman Open Competition ,2023-02-17,female,Carolyne Perry,57.58,23,25,27,30,33,35,27,35,62
+Ralph Cashman Open Competition ,2023-02-17,female,Keely Barakat,62.98,72,75,78,81,84,-88,78,84,162
+Ralph Cashman Open Competition ,2023-02-17,female,Zoe Pukekura,62.66,65,67,70,85,88,-93,70,88,158
+Ralph Cashman Open Competition ,2023-02-17,female,Pauline Acierda,61.32,63,66,-68,82,86,89,66,89,155
+Ralph Cashman Open Competition ,2023-02-17,female,Paola Fumagalli,63.62,52,-54,54,69,-73,73,54,73,127
+Ralph Cashman Open Competition ,2023-02-17,female,Enif Alvarez Bravo,62.98,50,53,-55,60,65,70,53,70,123
+Ralph Cashman Open Competition ,2023-02-17,female,Ashlee Peet,61.68,46,49,-52,58,61,-63,49,61,110
+Ralph Cashman Open Competition ,2023-02-17,female,Caitlin Hazell,61.60,45,48,-50,-55,58,-61,48,58,106
+Ralph Cashman Open Competition ,2023-02-17,female,Apsar Shaik,63.10,35,38,41,50,52,55,41,55,96
+Ralph Cashman Open Competition ,2023-02-17,female,Abigail Joven,63.46,-44,-47,-47,0,0,0,0,0,0
+Ralph Cashman Open Competition ,2023-02-17,female,Verity Park,65.66,-68,-70,70,90,93,96,70,96,166
+Ralph Cashman Open Competition ,2023-02-17,female,Elysha Casey,68.30,74,77,-80,85,-90,-90,77,85,162
+Ralph Cashman Open Competition ,2023-02-17,female,Georgia Oberekar,67.20,-58,-58,58,69,73,76,58,76,134
+Ralph Cashman Open Competition ,2023-02-17,female,Peta Swanson,66.20,55,58,60,64,68,73,60,73,133
+Ralph Cashman Open Competition ,2023-02-17,female,Tina Kaizen,69.18,50,53,57,66,70,-77,57,70,127
+Ralph Cashman Open Competition ,2023-02-17,female,Aleksandra Macznik,66.88,50,53,-55,60,64,-67,53,64,117
+Ralph Cashman Open Competition ,2023-02-17,female,Emma Johnston,64.02,40,45,50,55,60,65,50,65,115
+Ralph Cashman Open Competition ,2023-02-17,female,Claire Wilson,68.62,45,48,-50,60,64,-67,48,64,112
+Ralph Cashman Open Competition ,2023-02-17,female,Lauren Hammond,69.58,-40,40,45,55,60,-65,45,60,105
+Ralph Cashman Open Competition ,2023-02-17,female,Claudia Duve,68.26,38,42,-45,52,-56,56,42,56,98
+Ralph Cashman Open Competition ,2023-02-17,female,Loren Bartley,65.64,35,39,-42,46,50,-55,39,50,89
+Ralph Cashman Open Competition ,2023-02-17,female,Alison Peachey,68.22,29,32,34,-38,39,-42,34,39,73
+Ralph Cashman Open Competition ,2023-02-17,female,Evie Kennedy,74.80,-70,71,-73,85,87,89,71,89,160
+Ralph Cashman Open Competition ,2023-02-17,female,Fiona Booker,80.28,35,38,40,45,50,56,40,56,96
+Ralph Cashman Open Competition ,2023-02-17,female,Alexis Webb,77.90,30,33,35,35,40,43,35,43,78
+Ralph Cashman Open Competition ,2023-02-17,female,Annabel Thomson,84.66,80,83,-85,99,103,-106,83,103,186
+Ralph Cashman Open Competition ,2023-02-17,female,Georgina Hibberd,84.30,23,25,-27,28,30,32,25,32,57
+Ralph Cashman Open Competition ,2023-02-17,female,Leah Poulton-Baric,94.02,60,65,-70,85,-90,0,65,85,150
+Ralph Cashman Open Competition ,2023-02-17,female,Katelyn Leong,94.76,50,-55,-55,56,60,-64,50,60,110
+Ralph Cashman Open Competition ,2023-02-17,male,Harrison Nguyen,54.56,70,-74,74,90,-95,-95,74,90,164
+Ralph Cashman Open Competition ,2023-02-17,male,Deacon Mercieca,62.68,70,75,-78,95,98,102,75,102,177
+Ralph Cashman Open Competition ,2023-02-17,male,Kinh Luan Luong,65.54,70,74,-77,93,98,102,74,102,176
+Ralph Cashman Open Competition ,2023-02-17,male,Syed Emaad Rizwan,66.36,68,-71,72,-95,-95,100,72,100,172
+Ralph Cashman Open Competition ,2023-02-17,male,Rafael Iii Carabana,66.30,65,68,70,88,91,-95,70,91,161
+Ralph Cashman Open Competition ,2023-02-17,male,Yannick Mifsud,73.00,90,95,-100,115,120,-125,95,120,215
+Ralph Cashman Open Competition ,2023-02-17,male,George Lu,68.44,90,-95,-95,115,120,-126,90,120,210
+Ralph Cashman Open Competition ,2023-02-17,male,Andrew Smart,72.38,-90,92,-96,110,-115,115,92,115,207
+Ralph Cashman Open Competition ,2023-02-17,male,Andrew Custodio,70.48,-74,74,78,95,100,-105,78,100,178
+Ralph Cashman Open Competition ,2023-02-17,male,Leonardo Borges Barbosa,70.32,70,-74,75,90,94,-97,75,94,169
+Ralph Cashman Open Competition ,2023-02-17,male,Jake Edwards,70.16,64,67,70,70,75,80,70,80,150
+Ralph Cashman Open Competition ,2023-02-17,male,Bouachanh Thongvilu,72.66,55,60,-65,70,75,-80,60,75,135
+Ralph Cashman Open Competition ,2023-02-17,male,Kinh Ly Luong,71.90,45,50,55,65,70,75,55,75,130
+Ralph Cashman Open Competition ,2023-02-17,male,Ricky Huang,80.50,-113,114,118,144,-149,-154,118,144,262
+Ralph Cashman Open Competition ,2023-02-17,male,Jerko Siljeg,78.84,80,83,-86,93,98,105,83,105,188
+Ralph Cashman Open Competition ,2023-02-17,male,Fabian Garcia,79.58,80,83,-86,100,-106,-106,83,100,183
+Ralph Cashman Open Competition ,2023-02-17,male,Aryan Chauhan,78.48,55,60,65,-84,84,88,65,88,153
+Ralph Cashman Open Competition ,2023-02-17,male,Mark Livingston,80.86,50,55,-60,60,-70,-70,55,60,115
+Ralph Cashman Open Competition ,2023-02-17,male,Sam Jansson,88.64,-125,126,131,160,165,-170,131,165,296
+Ralph Cashman Open Competition ,2023-02-17,male,Nicholas Capaldi,87.98,110,-115,117,140,146,-151,117,146,263
+Ralph Cashman Open Competition ,2023-02-17,male,Benjamin Reid,86.50,101,104,110,-131,131,-141,110,131,241
+Ralph Cashman Open Competition ,2023-02-17,male,Bryton Johnson,87.78,95,100,103,120,125,130,103,130,233
+Ralph Cashman Open Competition ,2023-02-17,male,Jonathan Miu,81.50,80,83,86,100,104,107,86,107,193
+Ralph Cashman Open Competition ,2023-02-17,male,Jack Robertson,84.80,75,80,85,95,100,105,85,105,190
+Ralph Cashman Open Competition ,2023-02-17,male,Vianni Tolaram,82.78,65,70,77,95,100,108,77,108,185
+Ralph Cashman Open Competition ,2023-02-17,male,Noah Milford,95.20,127,131,-135,169,176,0,131,176,307
+Ralph Cashman Open Competition ,2023-02-17,male,Tom Shannon,95.64,128,-134,135,-170,170,-180,135,170,305
+Ralph Cashman Open Competition ,2023-02-17,male,Steven Choi,94.90,-100,-100,100,130,-140,-141,100,130,230
+Ralph Cashman Open Competition ,2023-02-17,male,Leon Vogeler-Schmid,101.72,130,135,-140,170,-180,185,135,185,320
+Ralph Cashman Open Competition ,2023-02-17,male,Luke Fulham,101.50,125,-130,130,155,160,-164,130,160,290
+Ralph Cashman Open Competition ,2023-02-17,male,Trey Burrows,100.54,-93,-93,93,120,125,130,93,130,223
+Ralph Cashman Open Competition ,2023-02-17,male,Edward Mandla,97.76,68,72,75,-86,-91,91,75,91,166
+Ralph Cashman Open Competition ,2023-02-17,male,Jackson Roberts-Young,101.66,-140,-141,-145,0,0,0,0,0,0
+Ralph Cashman Open Competition ,2023-02-17,male,Luke Norton,116.34,73,76,80,100,104,107,80,107,187
+Ralph Cashman Open Competition ,2023-02-17,male,Mohammed Matar,131.92,62,65,68,75,79,83,68,83,151

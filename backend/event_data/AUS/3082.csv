@@ -1,0 +1,13 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Hills Barbell Open Competition,2023-09-02,female,Raagini Rampal,60.20,70,74,77,87,91,-95,77,91,168
+Hills Barbell Open Competition,2023-09-02,female,Claudia Duve,69.75,38,42,-44,53,56,58,42,58,100
+Hills Barbell Open Competition,2023-09-02,female,Michaela Menhart,79.55,43,45,46,48,51,53,46,53,99
+Hills Barbell Open Competition,2023-09-02,male,Jayden Ramia,60.00,60,-63,-63,70,-75,-75,60,70,130
+Hills Barbell Open Competition,2023-09-02,male,Cameron Neale,71.15,70,73,-76,93,96,100,73,100,173
+Hills Barbell Open Competition,2023-09-02,male,Yi Yuan Yang,72.70,60,-65,65,75,80,84,65,84,149
+Hills Barbell Open Competition,2023-09-02,male,Brent Taylor,81.00,-98,98,102,125,130,-135,102,130,232
+Hills Barbell Open Competition,2023-09-02,male,Fabian Garcia,80.90,80,85,-91,-105,105,-115,85,105,190
+Hills Barbell Open Competition,2023-09-02,male,Christian Wheeler,92.60,65,68,72,74,79,-83,72,79,151
+Hills Barbell Open Competition,2023-09-02,male,Chris Molano,106.60,96,100,104,121,127,132,104,132,236
+Hills Barbell Open Competition,2023-09-02,male,Matthew Stenning,103.30,55,58,-62,-72,-75,0,58,0,0
+Hills Barbell Open Competition,2023-09-02,male,Stephen Cvitkovic,135.35,100,-105,110,115,125,-135,110,125,235
