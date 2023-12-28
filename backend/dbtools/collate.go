@@ -2,16 +2,17 @@ package dbtools
 
 import (
 	database "backend/event_data"
+	"backend/structs"
 	"backend/utilities"
 	"io/fs"
 	"log"
 	"path"
 )
 
-func CollateAll() (allData [][]string) {
+func CollateAll(eventmetadata *structs.EventsMetaData) (allData [][]string) {
 	dirs := getFedDirs()
 	for _, fed := range dirs {
-		allResults := loadAllFedEvents(fed)
+		allResults := loadAllFedEvents(fed, eventmetadata)
 		allData = append(allData, allResults...)
 	}
 	return allData
@@ -26,7 +27,7 @@ func insertFederation(event [][]string, federation string) [][]string {
 }
 
 // Returns an unsorted nested slice of all events from a single federation/organiser
-func loadAllFedEvents(federation string) (allEvents [][]string) {
+func loadAllFedEvents(federation string, metadata *structs.EventsMetaData) (allEvents [][]string) {
 	allFiles, err := database.Database.ReadDir(federation)
 	if err != nil {
 		log.Fatal(err)
@@ -43,9 +44,15 @@ func loadAllFedEvents(federation string) (allEvents [][]string) {
 					log.Fatal(err)
 				}
 			}(fileHandle)
+
 			eventData := utilities.LoadCsvFile(fileHandle)
 			eventData = insertFederation(eventData, federation)
 			allEvents = append(allEvents, eventData...)
+
+			metadata.Name = append(metadata.Name, eventData[0][0])
+			metadata.Federation = append(metadata.Federation, federation)
+			metadata.Date = append(metadata.Date, eventData[0][1])
+			metadata.ID = append(metadata.ID, file.Name())
 		}()
 	}
 	return

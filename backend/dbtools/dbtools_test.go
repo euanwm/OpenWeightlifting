@@ -10,14 +10,16 @@ import (
 func BenchmarkBuildDatabase(b *testing.B) {
 	for i := 0; i < b.N; i++ {
 		dbBuild := structs.LeaderboardData{}
-		BuildDatabase(&dbBuild)
+		var eventmetadata structs.EventsMetaData
+		BuildDatabase(&dbBuild, &eventmetadata)
 	}
 }
 
 func TestBuildDatabase(t *testing.T) {
 	t.Run("BuildDatabase", func(t *testing.T) {
 		dbBuild := structs.LeaderboardData{}
-		BuildDatabase(&dbBuild)
+		var EventsData structs.EventsMetaData
+		BuildDatabase(&dbBuild, &EventsData)
 		if len(dbBuild.AllTotals) == 0 {
 			t.Errorf("BuildDatabase() = %v, want greater than 0", len(dbBuild.AllTotals))
 		}
@@ -33,7 +35,8 @@ func TestCollateAll(t *testing.T) {
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			if gotAllData := CollateAll(); !reflect.DeepEqual(reflect.TypeOf(gotAllData), reflect.TypeOf(tt.wantAllData)) {
+			var eventmetadata structs.EventsMetaData
+			if gotAllData := CollateAll(&eventmetadata); !reflect.DeepEqual(reflect.TypeOf(gotAllData), reflect.TypeOf(tt.wantAllData)) {
 				t.Errorf("CollateAll() = %v, want %v", reflect.TypeOf(gotAllData), reflect.TypeOf(tt.wantAllData))
 			}
 		})
@@ -285,7 +288,8 @@ func Test_loadAllFedEvents(t *testing.T) {
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			if gotAllEvents := loadAllFedEvents(tt.args.federation); !reflect.DeepEqual(reflect.TypeOf(gotAllEvents), reflect.TypeOf(tt.wantAllEvents)) {
+			var eventmetadata structs.EventsMetaData
+			if gotAllEvents := loadAllFedEvents(tt.args.federation, &eventmetadata); !reflect.DeepEqual(reflect.TypeOf(gotAllEvents), reflect.TypeOf(tt.wantAllEvents)) {
 				t.Errorf("loadAllFedEvents() = %v, want %v", gotAllEvents, reflect.TypeOf(tt.wantAllEvents))
 			}
 		})

@@ -21,7 +21,11 @@ var processedLeaderboard structs.LeaderboardData
 // this is remnant of the instagram linking code
 // var lifterData = lifter.Build()
 
+// QueryCache is a global variable that is used to cache queries for the leaderboard endpoint.
 var QueryCache dbtools.QueryCache
+
+// EventsData is a global variable that is used to hold the event metadata.
+var EventsData structs.EventsMetaData
 
 // ServerTime godoc
 //

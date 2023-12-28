@@ -88,3 +88,10 @@ type LeaderboardResponse struct {
 	Size int     `json:"size"`
 	Data []Entry `json:"data"`
 }
+
+type EventsMetaData struct {
+	Name       []string
+	Federation []string
+	Date       []string
+	ID         []string
+}
