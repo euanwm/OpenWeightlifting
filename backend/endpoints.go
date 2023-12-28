@@ -3,7 +3,6 @@ package main //nolint:typecheck
 import (
 	"backend/dbtools"
 	"backend/enum"
-	"backend/events"
 	"backend/lifter"
 	"backend/structs"
 	"backend/utilities"
@@ -63,31 +62,6 @@ func SearchName(c *gin.Context) {
 			results.Names = results.Names[:maxResults]
 		}
 		c.JSON(http.StatusOK, results)
-	}
-}
-
-// EventResult godoc
-//
-//		@Summary	Pull a specific event by name
-//		@Schemes
-//		@Description	Requires a case-sensitive event name to be passed to it. This is still a work in progress.
-//		@Tags			POST Requests
-//	 @Param name body string true "name"
-//		@Accept			json
-//		@Produce		json
-//		@Success		200	{array}	 []structs.Entry
-//		@Failure		204	{object}	nil
-//		@Router			/event [post]
-func EventResult(c *gin.Context) {
-	eventSearch := structs.NameSearch{}
-	if err := c.BindJSON(&eventSearch); err != nil {
-		_ = c.AbortWithError(http.StatusBadRequest, err)
-	}
-	eventData := events.FetchEvent(eventSearch.NameStr, &LeaderboardData)
-	if len(eventData) != 0 {
-		c.JSON(http.StatusOK, eventData)
-	} else {
-		c.JSON(http.StatusNoContent, nil)
 	}
 }
 
@@ -189,4 +163,30 @@ func Leaderboard(c *gin.Context) {
 	leaderboardData := LeaderboardData.Select(body.SortBy) // Selects either total or sinclair sorted leaderboard
 	fedData := dbtools.FilterLifts(*leaderboardData, body, dbtools.WeightClassList[body.WeightClass], &QueryCache)
 	c.JSON(http.StatusOK, fedData)
+}
+
+// Events godoc
+//
+//		@Summary	Fetch event metadata within a set date range
+//		@Schemes
+//		@Description	Metadata shows the name, federation and date of the event along with the filename in the event_data folder.
+//		@Tags			GET Requests
+//	 @Param startdate query string false "Start date to filter from"
+//	 @Param enddate query string false "End date to filter to"
+//		@Accept			json
+//		@Produce		json
+//		@Success		200	{array}	 []structs.SingleEventMetaData
+//		@Failure		204	{object}	nil
+//		@Router			/event [get]
+func Events(c *gin.Context) {
+	var response []structs.SingleEventMetaData
+	var query structs.EventSearch
+	if err := c.BindJSON(&query); err != nil {
+		abortErr := c.AbortWithError(http.StatusBadRequest, err)
+		log.Println(abortErr)
+		return
+	}
+
+	response = EventsData.FetchEventWithinDate(query.StartDate, query.EndDate)
+	c.JSON(http.StatusOK, response)
 }

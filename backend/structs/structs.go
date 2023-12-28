@@ -89,6 +89,7 @@ type LeaderboardResponse struct {
 	Data []Entry `json:"data"`
 }
 
+// EventsMetaData Internal struct for storing event metadata
 type EventsMetaData struct {
 	Name       []string
 	Federation []string
@@ -101,4 +102,10 @@ type SingleEventMetaData struct {
 	Federation string `json:"federation"`
 	Date       string `json:"date"`
 	ID         string `json:"id"`
+}
+
+// swagger:request EventSearch
+type EventSearch struct {
+	StartDate string `json:"startdate"`
+	EndDate   string `json:"enddate"`
 }
