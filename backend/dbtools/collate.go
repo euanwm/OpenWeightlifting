@@ -70,3 +70,24 @@ func getFedDirs() (federationDirs []string) {
 	}
 	return federationDirs
 }
+
+func LoadSingleEvent(federation, eventID string) (event []structs.Entry) {
+	fileHandle, err := database.Database.Open(path.Join(federation, eventID))
+	if err != nil {
+		log.Println("Error in opening file: ", err)
+		return
+	}
+	defer func(fileHandle fs.File) {
+		err := fileHandle.Close()
+		if err != nil {
+			log.Println("Error in closing file: ", err)
+			return
+		}
+	}(fileHandle)
+
+	eventData := utilities.LoadCsvFile(fileHandle)
+	eventData = insertFederation(eventData, federation)
+	preEvent, _ := ParseData(eventData)
+	event = preEvent.Lifts
+	return
+}

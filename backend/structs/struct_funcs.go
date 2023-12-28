@@ -99,3 +99,33 @@ func (e LeaderboardData) Select(sortBy string) *[]Entry {
 	log.Println("LeaderboardData: Select - Error in selecting sinclair/total")
 	return &[]Entry{}
 }
+
+func (e EventsMetaData) FetchEventFP(index int) (federation, filename string) {
+	return e.Federation[index], e.ID[index]
+}
+
+func (e EventsMetaData) FetchEventByName(eventName string) (federation, filename string) {
+	for index, name := range e.Name {
+		if name == eventName {
+			return e.Federation[index], e.ID[index]
+		}
+	}
+	return "", ""
+}
+
+func (e EventsMetaData) FetchEventWithinDate(startDate, endDate string) (events []SingleEventMetaData) {
+	startDateTime, _ := utilities.StringToDate(startDate)
+	endDateTime, _ := utilities.StringToDate(endDate)
+	for index, date := range e.Date {
+		eventDateTime, _ := utilities.StringToDate(date)
+		if eventDateTime.After(startDateTime) && eventDateTime.Before(endDateTime) {
+			events = append(events, SingleEventMetaData{
+				Name:       e.Name[index],
+				Federation: e.Federation[index],
+				Date:       e.Date[index],
+				ID:         e.ID[index],
+			})
+		}
+	}
+	return
+}

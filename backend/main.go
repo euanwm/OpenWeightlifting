@@ -2,7 +2,7 @@ package main
 
 import (
 	"backend/dbtools"
-	docs "backend/docs"
+	"backend/docs"
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
 	swaggerFiles "github.com/swaggo/files"
@@ -36,7 +36,7 @@ func setupCORS(r *gin.Engine) {
 
 func buildServer() *gin.Engine {
 	log.Println("Starting server...")
-	dbtools.BuildDatabase(&processedLeaderboard)
+	dbtools.BuildDatabase(&LeaderboardData, &EventsData)
 	r := gin.Default()
 	docs.SwaggerInfo.BasePath = "/"
 	setupCORS(r)
@@ -56,7 +56,7 @@ func CacheMeOutsideHowBoutDat() {
 	for n, query := range dbtools.PreCacheQuery {
 		log.Println("Caching query: ", n)
 		_, _ = QueryCache.CheckQuery(query)
-		liftdata := processedLeaderboard.Select(query.SortBy)
+		liftdata := LeaderboardData.Select(query.SortBy)
 		dbtools.PreCacheFilter(*liftdata, query, dbtools.WeightClassList[query.WeightClass], &QueryCache)
 	}
 	log.Println("Caching complete")

@@ -16,7 +16,8 @@ import (
 	_ "github.com/heroku/x/hmetrics/onload"
 )
 
-var processedLeaderboard structs.LeaderboardData
+// LeaderboardData is a global variable that is used to hold the leaderboard data.
+var LeaderboardData structs.LeaderboardData
 
 // this is remnant of the instagram linking code
 // var lifterData = lifter.Build()
@@ -56,7 +57,7 @@ func SearchName(c *gin.Context) {
 	const maxResults = 50
 	if len(c.Query("name")) >= 3 {
 		search := structs.NameSearch{NameStr: c.Query("name")}
-		results := structs.NameSearchResults{Names: lifter.NameSearch(search.NameStr, &processedLeaderboard.AllTotals)}
+		results := structs.NameSearchResults{Names: lifter.NameSearch(search.NameStr, &LeaderboardData.AllTotals)}
 		// todo: remove this and implement a proper solution
 		if len(results.Names) > maxResults {
 			results.Names = results.Names[:maxResults]
@@ -82,7 +83,7 @@ func EventResult(c *gin.Context) {
 	if err := c.BindJSON(&eventSearch); err != nil {
 		_ = c.AbortWithError(http.StatusBadRequest, err)
 	}
-	eventData := events.FetchEvent(eventSearch.NameStr, &processedLeaderboard)
+	eventData := events.FetchEvent(eventSearch.NameStr, &LeaderboardData)
 	if len(eventData) != 0 {
 		c.JSON(http.StatusOK, eventData)
 	} else {
@@ -108,7 +109,7 @@ func LifterRecord(c *gin.Context) {
 		_ = c.AbortWithError(http.StatusBadRequest, err)
 	}
 
-	lifterDetails := lifter.FetchLifts(lifterSearch, &processedLeaderboard)
+	lifterDetails := lifter.FetchLifts(lifterSearch, &LeaderboardData)
 	lifterDetails.Lifts = dbtools.SortDate(lifterDetails.Lifts)
 	finalPayload := lifterDetails.GenerateChartData()
 	if len(lifterDetails.Lifts) != 0 {
@@ -136,7 +137,7 @@ func LifterHistory(c *gin.Context) {
 		_ = c.AbortWithError(http.StatusBadRequest, err)
 	}
 
-	lifterDetails := lifter.FetchLifts(lifterSearch, &processedLeaderboard)
+	lifterDetails := lifter.FetchLifts(lifterSearch, &LeaderboardData)
 	lifterDetails.Lifts = dbtools.SortDate(lifterDetails.Lifts)
 	lifterDetails.Graph = lifterDetails.GenerateChartData()
 	lifterDetails.Lifts = utilities.ReverseSlice(lifterDetails.Lifts)
@@ -185,7 +186,7 @@ func Leaderboard(c *gin.Context) {
 		body.EndDate = strconv.Itoa(body.Year+1) + "-01-01"
 	}
 
-	leaderboardData := processedLeaderboard.Select(body.SortBy) // Selects either total or sinclair sorted leaderboard
+	leaderboardData := LeaderboardData.Select(body.SortBy) // Selects either total or sinclair sorted leaderboard
 	fedData := dbtools.FilterLifts(*leaderboardData, body, dbtools.WeightClassList[body.WeightClass], &QueryCache)
 	c.JSON(http.StatusOK, fedData)
 }

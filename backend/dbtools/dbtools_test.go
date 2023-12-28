@@ -319,3 +319,41 @@ func Test_setGender(t *testing.T) {
 		})
 	}
 }
+
+func Test_EventsMetaData_FetchEvent(t *testing.T) {
+	var eventmetadata structs.EventsMetaData
+	var leaderboarddata structs.LeaderboardData
+	BuildDatabase(&leaderboarddata, &eventmetadata)
+	federation, eventID := eventmetadata.FetchEventFP(0)
+	println(federation, eventID)
+}
+
+func TestLoadSingleEvent(t *testing.T) {
+	type args struct {
+		federation string
+		eventID    string
+	}
+	tests := []struct {
+		name             string
+		args             args
+		wantTotalResults int
+	}{
+		{name: "LoadSingleEvent", args: args{federation: "AUS", eventID: "1000.csv"}, wantTotalResults: 18},
+	}
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			if gotEvent := len(LoadSingleEvent(tt.args.federation, tt.args.eventID)); !reflect.DeepEqual(gotEvent, tt.wantTotalResults) {
+				t.Errorf("LoadSingleEvent() = %v, want %v", gotEvent, tt.wantTotalResults)
+			}
+		})
+	}
+}
+
+func Test_EventsMetaData_FetchEventWithinDate(t *testing.T) {
+	var eventmetadata structs.EventsMetaData
+	var leaderboarddata structs.LeaderboardData
+	BuildDatabase(&leaderboarddata, &eventmetadata)
+	// expecting 368 events between the dates 2023-01-01 and 2023-05-01
+	events := eventmetadata.FetchEventWithinDate("2023-01-01", "2023-05-01")
+	reflect.DeepEqual(len(events), 368)
+}

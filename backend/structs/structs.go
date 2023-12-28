@@ -95,3 +95,10 @@ type EventsMetaData struct {
 	Date       []string
 	ID         []string
 }
+
+type SingleEventMetaData struct {
+	Name       string `json:"name"`
+	Federation string `json:"federation"`
+	Date       string `json:"date"`
+	ID         string `json:"id"`
+}
