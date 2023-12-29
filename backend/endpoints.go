@@ -177,7 +177,7 @@ func Leaderboard(c *gin.Context) {
 //		@Produce		json
 //		@Success		200	{array}	 []structs.SingleEventMetaData
 //		@Failure		204	{object}	nil
-//		@Router			/event [get]
+//		@Router			/events [get]
 func Events(c *gin.Context) {
 	var response []structs.SingleEventMetaData
 	var query structs.EventSearch
@@ -188,5 +188,35 @@ func Events(c *gin.Context) {
 	}
 
 	response = EventsData.FetchEventWithinDate(query.StartDate, query.EndDate)
+	c.JSON(http.StatusOK, response)
+}
+
+// SingleEvent godoc
+//
+//		@Summary	Fetch a single event
+//		@Schemes
+//		@Description	Fetch a single event by ID and federation.
+//		@Tags			POST Requests
+//	 @Param federation body string true "Federation of the event"
+//	 @Param id body string true "ID of the event"
+//		@Accept			json
+//		@Produce		json
+//		@Success		200	{array}	 []structs.Entry
+//		@Failure		204	{object}	nil
+//		@Router			/events [post]
+func SingleEvent(c *gin.Context) {
+	var response []structs.Entry
+	var query structs.SingleEvent
+	if err := c.BindJSON(&query); err != nil {
+		abortErr := c.AbortWithError(http.StatusBadRequest, err)
+		log.Println(abortErr)
+		return
+	}
+
+	response = dbtools.LoadSingleEvent(query.Federation, query.ID)
+	if len(response) == 0 {
+		c.JSON(http.StatusNoContent, nil)
+		return
+	}
 	c.JSON(http.StatusOK, response)
 }

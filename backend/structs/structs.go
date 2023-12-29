@@ -109,3 +109,9 @@ type EventSearch struct {
 	StartDate string `json:"startdate"`
 	EndDate   string `json:"enddate"`
 }
+
+// swagger:request SingleEvent
+type SingleEvent struct {
+	Federation string `json:"federation"`
+	ID         string `json:"id"`
+}
