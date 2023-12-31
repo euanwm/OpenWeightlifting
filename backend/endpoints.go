@@ -175,7 +175,7 @@ func Leaderboard(c *gin.Context) {
 //	 @Param enddate query string false "End date to filter to"
 //		@Accept			json
 //		@Produce		json
-//		@Success		200	{array}	 []structs.EventsList
+//		@Success		200	{array}	 structs.EventsList
 //		@Failure		204	{object}	nil
 //		@Router			/events [options]
 func Events(c *gin.Context) {
@@ -201,11 +201,11 @@ func Events(c *gin.Context) {
 //	 @Param id body string true "ID of the event"
 //		@Accept			json
 //		@Produce		json
-//		@Success		200	{array}	 []structs.Entry
+//		@Success		200	{array}	 []structs.LeaderboardResponse
 //		@Failure		204	{object}	nil
 //		@Router			/events [post]
 func SingleEvent(c *gin.Context) {
-	var response []structs.Entry
+	var response structs.LeaderboardResponse
 	var query structs.SingleEvent
 	if err := c.BindJSON(&query); err != nil {
 		abortErr := c.AbortWithError(http.StatusBadRequest, err)
@@ -213,8 +213,9 @@ func SingleEvent(c *gin.Context) {
 		return
 	}
 
-	response = dbtools.LoadSingleEvent(query.Federation, query.ID)
-	if len(response) == 0 {
+	response.Data = dbtools.LoadSingleEvent(query.Federation, query.ID)
+	response.Size = len(response.Data)
+	if response.Size == 0 {
 		c.JSON(http.StatusNoContent, nil)
 		return
 	}
