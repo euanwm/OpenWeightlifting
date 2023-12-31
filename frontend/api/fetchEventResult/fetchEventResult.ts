@@ -4,10 +4,6 @@ import { EventMetaData } from "@/api/fetchEventsList/fetchEventsListTypes";
 export default  async function fetchEventResult(
   eventMetaData: EventMetaData,
 ): Promise<EventResult> {
-  if (!eventMetaData) {
-    return undefined
-  }
-
 
   const response = await fetch(`${process.env.API}/events`, {
     method: 'POST',

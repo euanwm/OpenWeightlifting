@@ -1,3 +1,6 @@
 import { LifterResult } from "@/api/fetchLifterData/fetchLifterDataTypes";
 
-export type EventResult = LifterResult[] | undefined
+export type EventResult = {
+  size: number;
+  data: LifterResult[];
+}
