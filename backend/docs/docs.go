@@ -18,9 +18,9 @@ const docTemplate = `{
     "host": "{{.Host}}",
     "basePath": "{{.BasePath}}",
     "paths": {
-        "/event": {
+        "/events": {
             "post": {
-                "description": "Requires a case-sensitive event name to be passed to it. This is still a work in progress.",
+                "description": "Fetch a single event by ID and federation.",
                 "consumes": [
                     "application/json"
                 ],
@@ -30,11 +30,20 @@ const docTemplate = `{
                 "tags": [
                     "POST Requests"
                 ],
-                "summary": "Pull a specific event by name",
+                "summary": "Fetch a single event",
                 "parameters": [
                     {
-                        "description": "name",
-                        "name": "name",
+                        "description": "Federation of the event",
+                        "name": "federation",
+                        "in": "body",
+                        "required": true,
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    {
+                        "description": "ID of the event",
+                        "name": "id",
                         "in": "body",
                         "required": true,
                         "schema": {
@@ -51,6 +60,50 @@ const docTemplate = `{
                                 "type": "array",
                                 "items": {
                                     "$ref": "#/definitions/structs.Entry"
+                                }
+                            }
+                        }
+                    },
+                    "204": {
+                        "description": "No Content"
+                    }
+                }
+            },
+            "options": {
+                "description": "Metadata shows the name, federation and date of the event along with the filename in the event_data folder.",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "tags": [
+                    "OPTIONS Requests"
+                ],
+                "summary": "Fetch available event metadata within a set date range",
+                "parameters": [
+                    {
+                        "type": "string",
+                        "description": "Start date to filter from",
+                        "name": "startdate",
+                        "in": "query"
+                    },
+                    {
+                        "type": "string",
+                        "description": "End date to filter to",
+                        "name": "enddate",
+                        "in": "query"
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "OK",
+                        "schema": {
+                            "type": "array",
+                            "items": {
+                                "type": "array",
+                                "items": {
+                                    "$ref": "#/definitions/structs.EventsList"
                                 }
                             }
                         }
@@ -363,6 +416,17 @@ const docTemplate = `{
                 }
             }
         },
+        "structs.EventsList": {
+            "type": "object",
+            "properties": {
+                "events": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/structs.SingleEventMetaData"
+                    }
+                }
+            }
+        },
         "structs.LeaderboardResponse": {
             "type": "object",
             "properties": {
@@ -402,6 +466,23 @@ const docTemplate = `{
                     "items": {
                         "type": "string"
                     }
+                }
+            }
+        },
+        "structs.SingleEventMetaData": {
+            "type": "object",
+            "properties": {
+                "date": {
+                    "type": "string"
+                },
+                "federation": {
+                    "type": "string"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "name": {
+                    "type": "string"
                 }
             }
         }

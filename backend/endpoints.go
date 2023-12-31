@@ -167,19 +167,19 @@ func Leaderboard(c *gin.Context) {
 
 // Events godoc
 //
-//		@Summary	Fetch event metadata within a set date range
+//		@Summary	Fetch available event metadata within a set date range
 //		@Schemes
 //		@Description	Metadata shows the name, federation and date of the event along with the filename in the event_data folder.
-//		@Tags			GET Requests
+//		@Tags			OPTIONS Requests
 //	 @Param startdate query string false "Start date to filter from"
 //	 @Param enddate query string false "End date to filter to"
 //		@Accept			json
 //		@Produce		json
-//		@Success		200	{array}	 []structs.SingleEventMetaData
+//		@Success		200	{array}	 []structs.EventsList
 //		@Failure		204	{object}	nil
-//		@Router			/events [get]
+//		@Router			/events [options]
 func Events(c *gin.Context) {
-	var response []structs.SingleEventMetaData
+	var response structs.EventsList
 	var query structs.EventSearch
 	if err := c.BindJSON(&query); err != nil {
 		abortErr := c.AbortWithError(http.StatusBadRequest, err)
@@ -187,7 +187,7 @@ func Events(c *gin.Context) {
 		return
 	}
 
-	response = EventsData.FetchEventWithinDate(query.StartDate, query.EndDate)
+	response.Events = EventsData.FetchEventWithinDate(query.StartDate, query.EndDate)
 	c.JSON(http.StatusOK, response)
 }
 

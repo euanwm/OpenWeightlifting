@@ -115,3 +115,7 @@ type SingleEvent struct {
 	Federation string `json:"federation"`
 	ID         string `json:"id"`
 }
+
+type EventsList struct {
+	Events []SingleEventMetaData `json:"events"`
+}

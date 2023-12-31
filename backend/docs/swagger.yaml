@@ -66,6 +66,13 @@ definitions:
       total:
         type: number
     type: object
+  structs.EventsList:
+    properties:
+      events:
+        items:
+          $ref: '#/definitions/structs.SingleEventMetaData'
+        type: array
+    type: object
   structs.LeaderboardResponse:
     properties:
       data:
@@ -93,6 +100,17 @@ definitions:
           type: string
         type: array
     type: object
+  structs.SingleEventMetaData:
+    properties:
+      date:
+        type: string
+      federation:
+        type: string
+      id:
+        type: string
+      name:
+        type: string
+    type: object
 host: api.openweightlifting.org
 info:
   contact:
@@ -102,16 +120,51 @@ info:
   title: OpenWeightlifting API
   version: "1.0"
 paths:
-  /event:
+  /events:
+    options:
+      consumes:
+      - application/json
+      description: Metadata shows the name, federation and date of the event along
+        with the filename in the event_data folder.
+      parameters:
+      - description: Start date to filter from
+        in: query
+        name: startdate
+        type: string
+      - description: End date to filter to
+        in: query
+        name: enddate
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              items:
+                $ref: '#/definitions/structs.EventsList'
+              type: array
+            type: array
+        "204":
+          description: No Content
+      summary: Fetch available event metadata within a set date range
+      tags:
+      - OPTIONS Requests
     post:
       consumes:
       - application/json
-      description: Requires a case-sensitive event name to be passed to it. This is
-        still a work in progress.
+      description: Fetch a single event by ID and federation.
       parameters:
-      - description: name
+      - description: Federation of the event
         in: body
-        name: name
+        name: federation
+        required: true
+        schema:
+          type: string
+      - description: ID of the event
+        in: body
+        name: id
         required: true
         schema:
           type: string
@@ -128,7 +181,7 @@ paths:
             type: array
         "204":
           description: No Content
-      summary: Pull a specific event by name
+      summary: Fetch a single event
       tags:
       - POST Requests
   /history:

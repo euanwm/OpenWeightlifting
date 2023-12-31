@@ -1,4 +1,6 @@
-export type EventsList = EventMetaData[] | undefined
+export type EventsList = {
+  events: EventMetaData[];
+}
 
 export type EventMetaData = {
   name: string;

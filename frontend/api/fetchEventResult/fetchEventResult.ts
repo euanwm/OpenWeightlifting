@@ -16,10 +16,10 @@ export default  async function fetchEventResult(
     },
     body: JSON.stringify({
       "federation": eventMetaData.federation,
-      "name": eventMetaData.name,
+      "id": eventMetaData.id,
     }),
   })
 
   const jsonResponse = response.json()
-  return jsonResponse as Promise<EventResult>
+  return jsonResponse
 }
