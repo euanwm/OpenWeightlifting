@@ -177,7 +177,7 @@ func Leaderboard(c *gin.Context) {
 //		@Produce		json
 //		@Success		200	{array}	 structs.EventsList
 //		@Failure		204	{object}	nil
-//		@Router			/events [options]
+//		@Router			/events/list [options]
 func Events(c *gin.Context) {
 	var response structs.EventsList
 	var query structs.EventSearch

@@ -56,7 +56,7 @@
                             "items": {
                                 "type": "array",
                                 "items": {
-                                    "$ref": "#/definitions/structs.Entry"
+                                    "$ref": "#/definitions/structs.LeaderboardResponse"
                                 }
                             }
                         }
@@ -65,7 +65,9 @@
                         "description": "No Content"
                     }
                 }
-            },
+            }
+        },
+        "/events/list": {
             "options": {
                 "description": "Metadata shows the name, federation and date of the event along with the filename in the event_data folder.",
                 "consumes": [
@@ -98,10 +100,7 @@
                         "schema": {
                             "type": "array",
                             "items": {
-                                "type": "array",
-                                "items": {
-                                    "$ref": "#/definitions/structs.EventsList"
-                                }
+                                "$ref": "#/definitions/structs.EventsList"
                             }
                         }
                     },

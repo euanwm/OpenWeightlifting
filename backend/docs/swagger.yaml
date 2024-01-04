@@ -121,36 +121,6 @@ info:
   version: "1.0"
 paths:
   /events:
-    options:
-      consumes:
-      - application/json
-      description: Metadata shows the name, federation and date of the event along
-        with the filename in the event_data folder.
-      parameters:
-      - description: Start date to filter from
-        in: query
-        name: startdate
-        type: string
-      - description: End date to filter to
-        in: query
-        name: enddate
-        type: string
-      produces:
-      - application/json
-      responses:
-        "200":
-          description: OK
-          schema:
-            items:
-              items:
-                $ref: '#/definitions/structs.EventsList'
-              type: array
-            type: array
-        "204":
-          description: No Content
-      summary: Fetch available event metadata within a set date range
-      tags:
-      - OPTIONS Requests
     post:
       consumes:
       - application/json
@@ -176,7 +146,7 @@ paths:
           schema:
             items:
               items:
-                $ref: '#/definitions/structs.Entry'
+                $ref: '#/definitions/structs.LeaderboardResponse'
               type: array
             type: array
         "204":
@@ -184,6 +154,35 @@ paths:
       summary: Fetch a single event
       tags:
       - POST Requests
+  /events/list:
+    options:
+      consumes:
+      - application/json
+      description: Metadata shows the name, federation and date of the event along
+        with the filename in the event_data folder.
+      parameters:
+      - description: Start date to filter from
+        in: query
+        name: startdate
+        type: string
+      - description: End date to filter to
+        in: query
+        name: enddate
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            items:
+              $ref: '#/definitions/structs.EventsList'
+            type: array
+        "204":
+          description: No Content
+      summary: Fetch available event metadata within a set date range
+      tags:
+      - OPTIONS Requests
   /history:
     post:
       consumes:

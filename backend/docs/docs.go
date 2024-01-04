@@ -59,7 +59,7 @@ const docTemplate = `{
                             "items": {
                                 "type": "array",
                                 "items": {
-                                    "$ref": "#/definitions/structs.Entry"
+                                    "$ref": "#/definitions/structs.LeaderboardResponse"
                                 }
                             }
                         }
@@ -68,7 +68,9 @@ const docTemplate = `{
                         "description": "No Content"
                     }
                 }
-            },
+            }
+        },
+        "/events/list": {
             "options": {
                 "description": "Metadata shows the name, federation and date of the event along with the filename in the event_data folder.",
                 "consumes": [
@@ -101,10 +103,7 @@ const docTemplate = `{
                         "schema": {
                             "type": "array",
                             "items": {
-                                "type": "array",
-                                "items": {
-                                    "$ref": "#/definitions/structs.EventsList"
-                                }
+                                "$ref": "#/definitions/structs.EventsList"
                             }
                         }
                     },
