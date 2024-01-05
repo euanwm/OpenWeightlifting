@@ -33,12 +33,11 @@ function ShowEvent(){
       <HeaderBar />
       {data ? (
         <>
-          <center>
-            <h1>Event: {data.data[0].event}</h1>
-            <h2>Date: {data.data[0].date}</h2>
-            <h2>Federation: {data.data[0].country}</h2>
-          <EventTable history={data.data} />
+          <center className={'flex flex-col content-center'}>
+            <p>Event: {data.data[0].event}</p>
+            <p>Federation: {data.data[0].country}</p>
           </center>
+          <EventTable history={data.data} />
         </>
       ) : (
         <div>{`No data for event`}</div>

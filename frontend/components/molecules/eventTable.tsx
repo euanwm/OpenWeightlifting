@@ -4,9 +4,10 @@ import {
   TableColumn,
   TableCell,
   TableRow,
-  TableBody,
+  TableBody, Link,
 } from '@nextui-org/react'
 import { LifterResult } from '@/api/fetchLifterData/fetchLifterDataTypes'
+import { CgProfile } from 'react-icons/cg'
 
 export const EventTable = ({
                                history,
@@ -44,10 +45,16 @@ export const EventTable = ({
             sinclair,
           } = lift
 
+          const lifter_page = '../lifter?name=' + lifter_name
+
           return (
             <TableRow key={`history-${index}`}>
               <TableCell>{date}</TableCell>
-              <TableCell>{lifter_name}</TableCell>
+              <TableCell>
+                <Link href={lifter_page}>
+                  {lifter_name}
+                </Link>
+              </TableCell>
               <TableCell>{bodyweight}</TableCell>
               <TableCell>{snatch_1}</TableCell>
               <TableCell>{snatch_2}</TableCell>
