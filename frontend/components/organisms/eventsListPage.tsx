@@ -7,8 +7,6 @@ import { useState } from 'react'
 import { EventsFilters } from '@/components/molecules/eventsfilters'
 import { Spinner } from '@nextui-org/react'
 
-const defaultDaysPrevious = 15
-
 function buildPayload(daysPrevious: number): EventsListRequest {
   // todo: fix this bug
   // it's not this function that's causing it, it's the fetchEventsList function
@@ -29,6 +27,7 @@ function buildPayload(daysPrevious: number): EventsListRequest {
   }
 }
 
+const defaultDaysPrevious = 15
 
 function EventsListPage() {
   const [dayRange, setDayRange] = useState(defaultDaysPrevious)
@@ -36,7 +35,7 @@ function EventsListPage() {
   const { data, isLoading } = useSWR(
     buildPayload(dayRange),
     fetchEventsList,
-    { keepPreviousData: false },
+    { keepPreviousData: true },
   )
 
   function handleFilterChange(newFilter: any) {
@@ -60,12 +59,10 @@ function EventsListPage() {
       <HeaderBar />
       <div className={'flex flex-col content-center'}>
         <EventsFilters handleFilterChange={handleFilterChange} />
-        {data ? (
+        {data && (
           <div className={'flex flex-col content-center'}>
             <EventsListTable events={data} />
           </div>
-        ) : (
-          <div>{`No data for events list`}</div>
         )}
       </div>
     </>

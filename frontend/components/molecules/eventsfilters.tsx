@@ -1,9 +1,10 @@
 import { Select, SelectItem } from '@nextui-org/react'
 
 const dayRanges = [
-  { value: 15, label: '15 days' },
-  { value: 30, label: '30 days' },
-  { value: 60, label: '60 days' },
+  { value: 15, label: 'The last 15 days' },
+  { value: 30, label: 'The last 30 days' },
+  { value: 60, label: 'The last 60 days' },
+  { value: 120, label: 'The last 120 days' },
 ]
 
 export const EventsFilters = ({
@@ -14,7 +15,7 @@ export const EventsFilters = ({
   <div className="flex flex-col md:flex-row space-y-1 md:space-y-0 md:space-x-4 mt-4 mx-4">
     <Select
       items={dayRanges}
-      label="Day Range"
+      label="Range"
       placeholder={dayRanges[0].label}
       fullWidth={false}
       onChange={e =>
