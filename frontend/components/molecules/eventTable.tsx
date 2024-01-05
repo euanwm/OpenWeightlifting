@@ -7,7 +7,6 @@ import {
   TableBody, Link,
 } from '@nextui-org/react'
 import { LifterResult } from '@/api/fetchLifterData/fetchLifterDataTypes'
-import { CgProfile } from 'react-icons/cg'
 
 export const EventTable = ({
                                history,
