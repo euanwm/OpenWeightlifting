@@ -8,7 +8,7 @@ import {
   NavbarMenuItem,
 } from '@nextui-org/react'
 import { FaGithub, FaInstagram } from 'react-icons/fa'
-import { IoPodiumOutline } from 'react-icons/io5'
+import { IoCalendarNumberOutline } from "react-icons/io5";
 import { SlCalculator } from 'react-icons/sl'
 import { MdOutlinePersonSearch } from 'react-icons/md'
 import { FiHome } from 'react-icons/fi'
@@ -37,9 +37,9 @@ const HeaderBar = () => {
           </Link>
         </NavbarMenuItem>
         <NavbarMenuItem>
-          <Link href="/league">
-            <IoPodiumOutline size="30px" className="mt-2"/>
-            <span className="ml-2">The League</span>
+          <Link href="/events">
+            <IoCalendarNumberOutline size="30px" className="mt-2"/>
+            <span className="ml-2">Recent Events</span>
           </Link>
         </NavbarMenuItem>
         <NavbarMenuItem>
