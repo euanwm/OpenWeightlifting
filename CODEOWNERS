@@ -1,5 +1,5 @@
 # OpenWeightlifting Codeowners file
 
 /backend/ @euanwm
-/frontend/ @mountclear @rsbrowne
+/frontend/ @mountclear @rsbrowne @euanwm
 /python_tools/ @euanwm
