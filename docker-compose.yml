@@ -6,24 +6,38 @@ services:
     restart: always
     build:
       context: ./backend
+    expose:
+      - "8080"
     ports:
       - "8080:8080"
+    networks:
+        - backend-network
     volumes:
       - ./backend/event_data:/event_data
     environment:
+      - HOSTNAME=backend
       - PORT=8080
     command: local
 
   client:
-    container_name: next-app
+    container_name: frontend-app
     build:
       context: ./frontend
       args:
-        - API=http://localhost:8080
+        - API=http://backend:8080
+    expose:
+      - "3000"
     ports:
       - "3000:3000"
+    networks:
+      - backend-network
     depends_on:
       - backend
     environment:
       - NODE_ENV=development
       - CHOKIDAR_USEPOLLING=true
+
+
+networks:
+    backend-network:
+        driver: bridge

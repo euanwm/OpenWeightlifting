@@ -15,7 +15,7 @@ func CORSConfig(localEnv bool) cors.Config {
 	corsConfig := cors.DefaultConfig()
 	if localEnv {
 		log.Println("Local mode - Disabling CORS nonsense")
-		corsConfig.AllowOrigins = []string{"https://www.openweightlifting.org", "http://localhost:3000"}
+		corsConfig.AllowOrigins = []string{"https://www.openweightlifting.org", "http://localhost:3000", "http://frontend-app:3000", "*"}
 	} else {
 		corsConfig.AllowOrigins = []string{"https://www.openweightlifting.org"}
 	}
@@ -74,7 +74,7 @@ func CacheMeOutsideHowBoutDat() {
 func main() {
 	apiServer := buildServer()
 	go CacheMeOutsideHowBoutDat()
-	err := apiServer.Run()
+	err := apiServer.Run("backend:8080") // listen and serve on
 	if err != nil {
 		log.Fatal("Failed to run server")
 	}

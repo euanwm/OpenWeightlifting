@@ -1,5 +1,5 @@
 # base image
-FROM node:18.7.0
+FROM node:18.4-alpine
 ARG API
 ENV API $API
 
@@ -15,5 +15,6 @@ COPY . .
 # build
 RUN --mount=type=cache,target=/usr/src/app/.next/cache npm run build
 
+EXPOSE 3000
 # start app
 CMD ["npm", "run", "dev"]
