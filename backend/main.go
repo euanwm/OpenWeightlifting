@@ -74,7 +74,7 @@ func CacheMeOutsideHowBoutDat() {
 func main() {
 	apiServer := buildServer()
 	go CacheMeOutsideHowBoutDat()
-	err := apiServer.Run("backend:8080") // listen and serve on
+	err := apiServer.Run() // listen and serve on
 	if err != nil {
 		log.Fatal("Failed to run server")
 	}

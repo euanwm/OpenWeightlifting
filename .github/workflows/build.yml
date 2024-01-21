@@ -1,0 +1,79 @@
+name: Build
+
+on:
+  push:
+    branches: [ "development", "master" ]
+  pull_request:
+    branches: [ "development", "master" ]
+
+jobs:
+  build_frontend:
+    defaults:
+      run:
+        working-directory: ./frontend/
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Use Node.js 18.X
+      uses: actions/setup-node@v3
+      with:
+        node-version: "18.x"
+        cache: 'npm'
+        cache-dependency-path: 'frontend/package-lock.json'
+    - run: npm install
+    - run: npm run build --if-present
+
+  build_backend:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Go
+        uses: actions/setup-go@v3
+        with:
+          go-version: 1.20.2
+
+      - name: Linting
+        uses: golangci/golangci-lint-action@v3
+        with:
+          version: v1.53.3
+          working-directory: ./backend
+          args: --verbose
+
+      - name: Build
+        run: |
+          cd backend/
+          go build -v
+
+      - name: Test
+        run: |
+          cd backend/
+          go test -coverprofile=coverage.txt ./...
+
+      - name: Upload coverage reports to Codecov
+        uses: codecov/codecov-action@v3
+        with:
+          files: /backend/coverage.txt
+          verbose: true
+          token: ${{ secrets.CODECOV_TOKEN }}
+
+  build_tool:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.10"]
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v3
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pylint
+
+      - name: Analysing the code with pylint
+        run: |
+          pylint $(git ls-files python_tools/'*.py') --fail-under=8
