@@ -274,23 +274,52 @@ func TestLifterHistory_GenerateChartData(t *testing.T) {
 	}
 }
 
-func TestEntry_MakePercentage(t *testing.T) {
-	sampleEntry := Entry{Sn1: 77.0, Sn2: -80.00, Sn3: 81, CJ1: 100, CJ2: 110, CJ3: 115}
-	type args struct {
-		lift string
+func TestLifterHistory_MakeRates(t *testing.T) {
+	sampleLifterHistory := LifterHistory{
+		Lifts: []Entry{
+			{Sn1: 55, Sn2: 60, Sn3: 70, CJ1: 80, CJ2: -85, CJ3: -85, BestSn: 70, BestCJ: 80},
+			{Sn1: -55, Sn2: 55, Sn3: -60, CJ1: 80, CJ2: -85, CJ3: 85, BestSn: 55, BestCJ: 85},
+			{Sn1: -60, Sn2: 61, Sn3: -65, CJ1: 80, CJ2: -85, CJ3: -85, BestSn: 61, BestCJ: 80},
+			{Sn1: 58, Sn2: 61, Sn3: -63, CJ1: 80, CJ2: -85, CJ3: 90, BestSn: 61, BestCJ: 90},
+		},
 	}
 	tests := []struct {
 		name string
-		args args
-		want int
+		want []int
 	}{
-		{name: "MakePercentageSnatch", args: args{lift: enum.Snatch}, want: 66},
-		{name: "MakePercentageCJ", args: args{lift: enum.CleanAndJerk}, want: 100},
+		{name: enum.Snatch, want: []int{50, 100, 25}},
+		{name: enum.CleanAndJerk, want: []int{100, 0, 50}},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			if got := sampleEntry.MakePercentage(tt.args.lift); got != tt.want {
-				t.Errorf("MakePercentage() = %v, want %v", got, tt.want)
+			if got := sampleLifterHistory.MakeRates(tt.name); !reflect.DeepEqual(got, tt.want) {
+				t.Errorf("MakeRates() = %v, want %v", got, tt.want)
+			}
+		})
+	}
+}
+
+func TestLifterHistory_BestLift(t *testing.T) {
+	sampleLifterHistory := LifterHistory{
+		Lifts: []Entry{
+			{Sn1: 55, Sn2: 60, Sn3: 70, CJ1: 80, CJ2: -85, CJ3: -85, BestSn: 70, BestCJ: 80, Total: 150},
+			{Sn1: -55, Sn2: 55, Sn3: -60, CJ1: 80, CJ2: -85, CJ3: 85, BestSn: 55, BestCJ: 85, Total: 140},
+			{Sn1: -60, Sn2: 61, Sn3: -65, CJ1: 80, CJ2: -85, CJ3: -85, BestSn: 61, BestCJ: 80, Total: 141},
+			{Sn1: 58, Sn2: 61, Sn3: -63, CJ1: 80, CJ2: -85, CJ3: 90, BestSn: 61, BestCJ: 90, Total: 151},
+		},
+	}
+	tests := []struct {
+		name string
+		want float32
+	}{
+		{name: enum.Snatch, want: 70},
+		{name: enum.CleanAndJerk, want: 90},
+		{name: enum.Total, want: 151},
+	}
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			if got := sampleLifterHistory.BestLift(tt.name); got != tt.want {
+				t.Errorf("BestLift() = %v, want %v", got, tt.want)
 			}
 		})
 	}

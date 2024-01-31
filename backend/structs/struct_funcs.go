@@ -31,21 +31,75 @@ func (e LifterHistory) GenerateChartData() ChartData {
 	return data
 }
 
-func (e Entry) MakePercentage(lift string) int {
-	madeNumber := 0
-	var lifts []float32
+func (e LifterHistory) GenerateStats() LifterStats {
+	var stats LifterStats
+	stats.BestSnatch = e.BestLift(enum.Snatch)
+	stats.BestCJ = e.BestLift(enum.CleanAndJerk)
+	stats.BestTotal = e.BestLift(enum.Total)
+	stats.MakeRateSnatches = e.MakeRates(enum.Snatch)
+	stats.MakeRateCJ = e.MakeRates(enum.CleanAndJerk)
+	return stats
+}
+
+func (e LifterHistory) MakeRates(lift string) (makeRates []int) {
+	makemiss := []int{0, 0, 0}
 	switch lift {
 	case enum.Snatch:
-		lifts = []float32{e.Sn1, e.Sn2, e.Sn3}
+		for _, entry := range e.Lifts {
+			if entry.Sn1 > 0 {
+				makemiss[0]++
+			}
+			if entry.Sn2 > 0 {
+				makemiss[1]++
+			}
+			if entry.Sn3 > 0 {
+				makemiss[2]++
+			}
+		}
 	case enum.CleanAndJerk:
-		lifts = []float32{e.CJ1, e.CJ2, e.CJ3}
-	}
-	for _, lift := range lifts {
-		if lift > 0 {
-			madeNumber++
+		for _, entry := range e.Lifts {
+			if entry.CJ1 > 0 {
+				makemiss[0]++
+			}
+			if entry.CJ2 > 0 {
+				makemiss[1]++
+			}
+			if entry.CJ3 > 0 {
+				makemiss[2]++
+			}
 		}
 	}
-	return int((float32(madeNumber) / 3) * 100)
+
+	numberOfLifts := len(e.Lifts)
+	for _, lift := range makemiss {
+		makeRates = append(makeRates, int(float32(lift)/float32(numberOfLifts)*100))
+	}
+	return
+}
+
+func (e LifterHistory) BestLift(lift string) float32 {
+	var bestLift float32
+	switch lift {
+	case enum.Snatch:
+		for _, entry := range e.Lifts {
+			if entry.BestSn > bestLift {
+				bestLift = entry.BestSn
+			}
+		}
+	case enum.CleanAndJerk:
+		for _, entry := range e.Lifts {
+			if entry.BestCJ > bestLift {
+				bestLift = entry.BestCJ
+			}
+		}
+	case enum.Total:
+		for _, entry := range e.Lifts {
+			if entry.Total > bestLift {
+				bestLift = entry.Total
+			}
+		}
+	}
+	return bestLift
 }
 
 func (e Entry) WithinWeightClass(gender string, catData WeightClass) bool {
