@@ -31,6 +31,23 @@ func (e LifterHistory) GenerateChartData() ChartData {
 	return data
 }
 
+func (e Entry) MakePercentage(lift string) int {
+	madeNumber := 0
+	var lifts []float32
+	switch lift {
+	case enum.Snatch:
+		lifts = []float32{e.Sn1, e.Sn2, e.Sn3}
+	case enum.CleanAndJerk:
+		lifts = []float32{e.CJ1, e.CJ2, e.CJ3}
+	}
+	for _, lift := range lifts {
+		if lift > 0 {
+			madeNumber++
+		}
+	}
+	return int((float32(madeNumber) / 3) * 100)
+}
+
 func (e Entry) WithinWeightClass(gender string, catData WeightClass) bool {
 	if catData.Gender == enum.ALLCATS {
 		return true

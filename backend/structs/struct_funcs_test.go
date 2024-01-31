@@ -273,3 +273,25 @@ func TestLifterHistory_GenerateChartData(t *testing.T) {
 		})
 	}
 }
+
+func TestEntry_MakePercentage(t *testing.T) {
+	sampleEntry := Entry{Sn1: 77.0, Sn2: -80.00, Sn3: 81, CJ1: 100, CJ2: 110, CJ3: 115}
+	type args struct {
+		lift string
+	}
+	tests := []struct {
+		name string
+		args args
+		want int
+	}{
+		{name: "MakePercentageSnatch", args: args{lift: enum.Snatch}, want: 66},
+		{name: "MakePercentageCJ", args: args{lift: enum.CleanAndJerk}, want: 100},
+	}
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			if got := sampleEntry.MakePercentage(tt.args.lift); got != tt.want {
+				t.Errorf("MakePercentage() = %v, want %v", got, tt.want)
+			}
+		})
+	}
+}
