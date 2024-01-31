@@ -39,9 +39,18 @@ type ChartSubData struct {
 
 // swagger:response LifterHistory
 type LifterHistory struct {
-	NameStr string    `json:"name"`
-	Lifts   []Entry   `json:"lifts"`
-	Graph   ChartData `json:"graph"`
+	NameStr string      `json:"name"`
+	Lifts   []Entry     `json:"lifts"`
+	Graph   ChartData   `json:"graph"`
+	Stats   LifterStats `json:"stats"`
+}
+
+type LifterStats struct {
+	BestSnatch       float32 `json:"best_snatch"`
+	BestCJ           float32 `json:"best_cj"`
+	BestTotal        float32 `json:"best_total"`
+	MakeRateSnatches []int   `json:"make_rate_snatches"`
+	MakeRateCJ       []int   `json:"make_rate_cj"`
 }
 
 type LeaderboardData struct {
