@@ -115,6 +115,7 @@ func LifterHistory(c *gin.Context) {
 	lifterDetails.Lifts = dbtools.SortDate(lifterDetails.Lifts)
 	lifterDetails.Graph = lifterDetails.GenerateChartData()
 	lifterDetails.Lifts = utilities.ReverseSlice(lifterDetails.Lifts)
+	lifterDetails.Stats = lifterDetails.GenerateStats()
 
 	if len(lifterDetails.Lifts) != 0 {
 		c.JSON(http.StatusOK, lifterDetails)

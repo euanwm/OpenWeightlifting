@@ -19,4 +19,6 @@ const (
 	BestSnatch        string  = "BestSn"
 	BestCJ            string  = "BestCJ"
 	Bodyweight        string  = "Bodyweight"
+	Snatch            string  = "snatch"
+	CleanAndJerk      string  = "clean_and_jerk"
 )

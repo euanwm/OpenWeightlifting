@@ -2,6 +2,7 @@ import useSWR from 'swr'
 import { useRouter } from 'next/router'
 import { Spinner } from '@nextui-org/react'
 
+import { LifterStats } from '@/components/molecules/lifterStats'
 import { LifterGraph } from '@/components/molecules/lifterGraph'
 import { HistoryTable } from '@/components/molecules/historyTable'
 import fetchLifterHistory from '../../api/fetchLifterHistory/fetchLifterHistory'
@@ -26,9 +27,10 @@ function LifterPage() {
       <HeaderBar />
       {data ? (
         <>
-          <center>
+          <center className={'text-4xl'}>
             <h1>{data.name}</h1>
           </center>
+          <LifterStats stats={data.stats} />
           <LifterGraph lifterHistory={data.graph} setRatio={1.5} />
           <HistoryTable history={data.lifts} />
         </>
