@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "test": "API=http://localhost:8080 jest"
+    "test": "API=http://localhost:8080 jest",
+    "test:coverage": "API=http://localhost:8080 jest --coverage"
   },
   "dependencies": {
     "@emotion/react": "^11.11.1",
