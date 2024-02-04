@@ -25,3 +25,10 @@ jobs:
           cd ../frontend/
           npm install
           npm run test
+
+      - name: Upload coverage reports to Codecov
+        uses: codecov/codecov-action@v3
+        with:
+          files: frontend/coverage/cobertura-coverage.xml
+          verbose: true
+          token: ${{ secrets.CODECOV_TOKEN }}
