@@ -43,6 +43,7 @@ func (e LifterHistory) GenerateStats() LifterStats {
 
 func (e LifterHistory) MakeRates(lift string) (makeRates []int) {
 	makemiss := []int{0, 0, 0}
+	numberOfLifts := 0
 	switch lift {
 	case enum.Snatch:
 		for _, entry := range e.Lifts {
@@ -54,6 +55,9 @@ func (e LifterHistory) MakeRates(lift string) (makeRates []int) {
 			}
 			if entry.Sn3 > 0 {
 				makemiss[2]++
+			}
+			if entry.Sn1 != 0 || entry.Sn2 != 0 || entry.Sn3 != 0 {
+				numberOfLifts++
 			}
 		}
 	case enum.CleanAndJerk:
@@ -67,10 +71,12 @@ func (e LifterHistory) MakeRates(lift string) (makeRates []int) {
 			if entry.CJ3 > 0 {
 				makemiss[2]++
 			}
+			if entry.CJ1 != 0 || entry.CJ2 != 0 || entry.CJ3 != 0 {
+				numberOfLifts++
+			}
 		}
 	}
 
-	numberOfLifts := len(e.Lifts)
 	for _, lift := range makemiss {
 		makeRates = append(makeRates, int(float32(lift)/float32(numberOfLifts)*100))
 	}

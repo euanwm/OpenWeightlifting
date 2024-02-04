@@ -281,6 +281,7 @@ func TestLifterHistory_MakeRates(t *testing.T) {
 			{Sn1: -55, Sn2: 55, Sn3: -60, CJ1: 80, CJ2: -85, CJ3: 85, BestSn: 55, BestCJ: 85},
 			{Sn1: -60, Sn2: 61, Sn3: -65, CJ1: 80, CJ2: -85, CJ3: -85, BestSn: 61, BestCJ: 80},
 			{Sn1: 58, Sn2: 61, Sn3: -63, CJ1: 80, CJ2: -85, CJ3: 90, BestSn: 61, BestCJ: 90},
+			{Sn1: 0, Sn2: 0, Sn3: 0, CJ1: 0, CJ2: 0, CJ3: 0, BestSn: 0, BestCJ: 0},
 		},
 	}
 	tests := []struct {
