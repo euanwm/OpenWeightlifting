@@ -89,26 +89,30 @@ class FranceWeightlifting(WebScraper):
             )
         return processed_data
 
-    def __regex_short_clean(self, row) -> str:
+    @staticmethod
+    def __regex_short_clean(row) -> str:
         reggie = re.compile(r"\s\w(.*)\n")
         match = reggie.search(row)
         if match:
             trimmed = match.group(0).lstrip(" ").rstrip("\n")
             return trimmed
 
-    def __regex_clean(self, row) -> str:
+    @staticmethod
+    def __regex_clean(row) -> str:
         # find the string. start with two spaces and ends with a newline. there are characters and special characters in between
         reggie = re.compile(r"\s\w(.+)\w\n")
         match = reggie.search(row)
         if match:
             return match.group(1).lstrip(" ")
 
-    def __find_and_return(self, row) -> str:
+    @staticmethod
+    def __find_and_return(row) -> str:
         for french, english in french_to_english.items():
             if french in row.lower():
                 return english
 
-    def __process_date(self, date):
+    @staticmethod
+    def __process_date(date):
         # 10 Fév 2024
         reggie = re.compile(r"(\d{2}) (\D{3}) (\d{4})")
         match = reggie.search(date)
@@ -120,7 +124,8 @@ class FranceWeightlifting(WebScraper):
             return datetime(int(year), month, int(day)).strftime("%d-%m-%Y")
         return
 
-    def __fetch_main_table(self, page):
+    @staticmethod
+    def __fetch_main_table(page):
         soup = BeautifulSoup(page.text, 'html.parser')
         tables = soup.find_all('table')
         return tables[0]
