@@ -3,6 +3,7 @@ import re
 from requests import Session
 from bs4 import BeautifulSoup
 from datetime import datetime
+from dataclasses import dataclass
 
 from abclasses import WebScraper
 
@@ -31,44 +32,69 @@ french_to_english = {
 }
 
 
+@dataclass
+class FranceEventInfo:
+    link: str
+    event_name: str
+    region: str
+    male_female: str
+    team_ind: str
+    date: str
+    open_closed: str
+    nat_int: str
 
 
 class FranceWeightlifting(WebScraper):
     STARTING_SEASON = 3  # Seasons run from roughly march to march, so 3 is 2019-2020
     LATEST_SEASON = 7
     BASE_URL = "http://scoresheet.ffhaltero.fr/scoresheet/"
+
     def __init__(self):
         self.session = Session()
 
     def get_data_by_id(self, id_number):
         pass
 
-    def list_recent_events(self):
+    def list_recent_events(self) -> list[FranceEventInfo]:
         page = self.session.get(f'{self.BASE_URL}{self.LATEST_SEASON}')
         unformatted_table = self.__fetch_main_table(page)
         formatted_table = self.__process_table(unformatted_table)
+        return formatted_table
 
-    def __process_table(self, table):
-        # Headings
-        # Link, Event Name, Region, Male/Female, Team/Individual, Date, Open/Closed, NAT/INT
-        headings = ["Link", "Event Name", "Region", "M/F", "Team/Individual", "Date", "Open/Closed", "NAT/INT"]
+    def __process_table(self, table) -> list[FranceEventInfo]:
         rows = table.find_all('tr')
         # remove the rows that contain "Ouverte"
         rows = [row for row in rows if "Ouverte" not in row.text]
-        # do some savvy regex in here later
+        hydrated_table = []
         for row in rows:
-            self.__process_row(row)
+            hydrated_table.append(self.__process_row(row))
 
-    def __process_row(self, row):
-        if row.find('a', href=True):
-            link = row.find_all('a', href=True)[0]['href']
-        if row.find('td'):
-            event_name = row.find_all('td')[0].text.strip("\n")
-            region = self.__regex_clean(row.find_all('td')[1].text)
-            mf = self.__find_and_return(row.find_all('td')[2].text)
-            team_ind = self.__find_and_return(row.find_all('td')[3].text)
-            date = self.__process_date(row.find_all('td')[4].text.strip("\n"))
-        return
+        # remove any None values
+        # for some reason there's a None value first in the list due to the first row of the table being filters
+        hydrated_table = [x for x in hydrated_table if x]
+        return hydrated_table
+
+    def __process_row(self, row) -> FranceEventInfo:
+        processed_data = None
+        if row.find('a', href=True) and row.find_all('td'):
+            processed_data = FranceEventInfo(
+                link=row.find_all('a', href=True)[0]['href'],
+                event_name=row.find_all('td')[0].text.strip("\n"),
+                region=self.__regex_clean(row.find_all('td')[1].text),
+                male_female=self.__find_and_return(row.find_all('td')[2].text),
+                team_ind=self.__find_and_return(row.find_all('td')[3].text),
+                date=self.__process_date(row.find_all('td')[4].text.strip("\n")),
+                open_closed=self.__find_and_return(row.find_all('td')[5].text),
+                nat_int=self.__regex_short_clean(row.find_all('td')[6].text)
+            )
+        return processed_data
+
+    def __regex_short_clean(self, row) -> str:
+        reggie = re.compile(r"\s\w(.*)\n")
+        match = reggie.search(row)
+        if match:
+            trimmed = match.group(0).lstrip(" ").rstrip("\n")
+            return trimmed
 
     def __regex_clean(self, row) -> str:
         # find the string. start with two spaces and ends with a newline. there are characters and special characters in between
