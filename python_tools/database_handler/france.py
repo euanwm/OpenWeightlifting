@@ -48,12 +48,54 @@ class FranceWeightlifting(WebScraper):
     STARTING_SEASON = 3  # Seasons run from roughly march to march, so 3 is 2019-2020
     LATEST_SEASON = 7
     BASE_URL = "http://scoresheet.ffhaltero.fr/scoresheet/"
+    RESULTS_URL = "competition/view/"
 
     def __init__(self):
         self.session = Session()
 
     def get_data_by_id(self, id_number):
-        pass
+        page = self.session.get(f'{self.BASE_URL}{self.RESULTS_URL}{id_number}')
+        soup = BeautifulSoup(page.text, 'html.parser')
+        table = soup.find_all('table')[1]
+        results = []
+        headers = table.find_all('th')
+        header_row = []
+        for header in headers:
+            header_row.append(header.text)
+        rows = table.find_all('tr')
+        for row in rows:
+            cells = row.find_all('td')
+            processed_row = []
+            for i, cell in enumerate(cells):
+                if i in [0, 2]:
+                    processed_row.append(self.__regex_simple_number(cell))
+                if i in [1, 3, 4]:
+                    processed_row.append(self.__regex_short_clean(cell.text))
+                if i in [5, 17]:
+                    processed_row.append(self.__regex_float_number(cell))
+                if i in [15, 16]:
+                    processed_row.append(self.__regex_short_clean(cell.text))
+                if i in [6, 7, 8, 9, 10, 11, 12, 13, 14]:
+                    processed_row.append(self.__process_score(cell))
+            results.append(processed_row)
+        return results
+
+    def __regex_float_number(self, cell) -> str:
+        reggie = re.compile(r"(\d+,\d+)")
+        match = reggie.search(cell.text)
+        if match:
+            return match.group(1)
+
+    def __regex_simple_number(self, cell) -> str:
+        reggie = re.compile(r"\s(\d+)\n")
+        match = reggie.search(cell.text)
+        if match:
+            return match.group(1)
+    def __process_score(self, cell) -> str:
+        reggie = re.compile(r"\n(-?\d+)\n")
+        match = reggie.search(cell.text)
+        if match:
+            return match.group(1)
 
     def list_recent_events(self) -> list[FranceEventInfo]:
         page = self.session.get(f'{self.BASE_URL}{self.LATEST_SEASON}')
@@ -133,4 +175,5 @@ class FranceWeightlifting(WebScraper):
 
 if __name__ == '__main__':
     f = FranceWeightlifting()
-    f.list_recent_events()
+    # f.list_recent_events()
+    f.get_data_by_id(7839)
