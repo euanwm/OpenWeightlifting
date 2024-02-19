@@ -44,6 +44,45 @@ class FranceEventInfo:
     nat_int: str
 
 
+@dataclass
+class FranceResult:
+    license: str
+    name: str
+    birthyear: str
+    club: str
+    nation: str
+    bodyweight: str
+    snatch_1: str
+    snatch_2: str
+    snatch_3: str
+    best_snatch: str
+    cj_1: str
+    cj_2: str
+    cj_3: str
+    best_cj: str
+    total: str
+    series: str
+    category: str
+    iwf_points: str
+
+@dataclass
+class FranceEventMetadata:
+    jury_1: str
+    jury_2: str
+    jury_3: str
+    referee_1: str
+    referee_2: str
+    referee_3: str
+    timekeeper: str
+    technical_controller: str
+    marshal: str
+    secretary: str
+    announcer: str
+    trainee_referee_1: str
+    trainee_referee_2: str
+    trainee_referee_3: str
+
+
 class FranceWeightlifting(WebScraper):
     STARTING_SEASON = 3  # Seasons run from roughly march to march, so 3 is 2019-2020
     LATEST_SEASON = 7
@@ -53,15 +92,12 @@ class FranceWeightlifting(WebScraper):
     def __init__(self):
         self.session = Session()
 
-    def get_data_by_id(self, id_number):
+    def get_data_by_id(self, id_number) -> list[FranceResult]:
         page = self.session.get(f'{self.BASE_URL}{self.RESULTS_URL}{id_number}')
         soup = BeautifulSoup(page.text, 'html.parser')
+        metadata_table = self.__process_metadata(soup.find_all('table')[0])
         table = soup.find_all('table')[1]
         results = []
-        headers = table.find_all('th')
-        header_row = []
-        for header in headers:
-            header_row.append(header.text)
         rows = table.find_all('tr')
         for row in rows:
             cells = row.find_all('td')
@@ -77,8 +113,35 @@ class FranceWeightlifting(WebScraper):
                     processed_row.append(self.__regex_short_clean(cell.text))
                 if i in [6, 7, 8, 9, 10, 11, 12, 13, 14]:
                     processed_row.append(self.__process_score(cell))
-            results.append(processed_row)
+            if len(processed_row) > 0:
+                results.append(self.__process_result(processed_row))
         return results
+
+    def __process_metadata(self, table) -> type[FranceEventMetadata]:
+        # todo: this is a placeholder until I can be bothered to write the code to process the metadata
+        return FranceEventMetadata
+
+    def __process_result(self, row) -> FranceResult:
+        return FranceResult(
+            license=row[0],
+            name=row[1],
+            birthyear=row[2],
+            club=row[3],
+            nation=row[4],
+            bodyweight=row[5],
+            snatch_1=row[6],
+            snatch_2=row[7],
+            snatch_3=row[8],
+            best_snatch=row[9],
+            cj_1=row[10],
+            cj_2=row[11],
+            cj_3=row[12],
+            best_cj=row[13],
+            total=row[14],
+            series=row[15],
+            category=row[16],
+            iwf_points=row[17]
+        )
 
     def __regex_float_number(self, cell) -> str:
         reggie = re.compile(r"(\d+,\d+)")
@@ -91,6 +154,7 @@ class FranceWeightlifting(WebScraper):
         match = reggie.search(cell.text)
         if match:
             return match.group(1)
+
     def __process_score(self, cell) -> str:
         reggie = re.compile(r"\n(-?\d+)\n")
         match = reggie.search(cell.text)
