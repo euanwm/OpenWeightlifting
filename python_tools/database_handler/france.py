@@ -1,3 +1,5 @@
+import logging
+import os
 import re
 
 from requests import Session
@@ -5,7 +7,8 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 from dataclasses import dataclass
 
-from abclasses import WebScraper
+from abclasses import WebScraper, DBInterface
+from python_tools.database_handler import write_to_csv
 
 french_months = {
     "Jan": 1,
@@ -88,6 +91,7 @@ class FranceWeightlifting(WebScraper):
     LATEST_SEASON = 7
     BASE_URL = "http://scoresheet.ffhaltero.fr/scoresheet/"
     RESULTS_URL = "competition/view/"
+    FEDERATION_SHORTHAND = "FFH"
 
     def __init__(self):
         self.session = Session()
@@ -237,7 +241,31 @@ class FranceWeightlifting(WebScraper):
         return tables[0]
 
 
+class FranceInterface(DBInterface):
+    def __init__(self):
+        self.f = FranceWeightlifting()
+
+    def get_event_list(self):
+        return self.f.list_recent_events()
+
+    def get_single_event(self, event_link):
+        event_link = event_link.split("/")[-1]
+        return self.f.get_data_by_id(event_link)
+
+    def update_results(self):
+        logging.info("Updating results")
+        event_list = self.get_event_list()
+        result_db_ids = [int(x.split(".")[0])
+                         for x in os.listdir(os.path.join(self.RESULTS_ROOT, self.f.FEDERATION_SHORTHAND))]
+        for event in event_list:
+            if event not in result_db_ids:
+                print(f"Getting results for {event.event_name} / {event.link.split('/')[-1]}")
+                # write_to_csv(self.RESULTS_ROOT, event_id, event_results)
+
+
 if __name__ == '__main__':
-    f = FranceWeightlifting()
+    #f = FranceWeightlifting()
     # f.list_recent_events()
-    f.get_data_by_id(7839)
+    #f.get_data_by_id(7839)
+    f = FranceInterface()
+    f.update_results()
