@@ -1,8 +1,5 @@
-import os
 from abc import ABC, abstractmethod
 import logging
-
-from python_tools.database_handler import write_to_csv
 
 
 class WebScraper(ABC):

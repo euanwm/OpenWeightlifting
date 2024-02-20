@@ -7,8 +7,8 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 from dataclasses import dataclass
 
-from abclasses import WebScraper, DBInterface
 from python_tools.database_handler import Result, results_to_csv, load_json
+from .abclasses import WebScraper, DBInterface
 
 french_months = {
     "Jan": 1,
