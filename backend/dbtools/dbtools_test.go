@@ -237,7 +237,7 @@ func Test_getFedDirs(t *testing.T) {
 		name        string
 		wantFedDirs []string
 	}{
-		{name: "FedDirs", wantFedDirs: []string{"AUS", "IWF", "NVF", "OPEN", "UK", "US"}},
+		{name: "FedDirs", wantFedDirs: []string{"AUS", "FFH", "IWF", "NVF", "OPEN", "UK", "US"}},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {

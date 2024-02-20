@@ -4,8 +4,7 @@ import sys
 from sys import argv
 from datetime import datetime
 
-from database_handler import DBHandler
-from database_handler import AustraliaWeightlifting, InternationalWF, Norway
+from database_handler import AustraliaWeightlifting, InternationalWF, Norway, FranceInterface, DBHandler
 
 
 # pylint: disable=too-few-public-methods
@@ -34,6 +33,9 @@ class CLICommands:
             case "aus":
                 aus_db = AustraliaWeightlifting()
                 aus_db.update_db()
+            case "france":
+                france = FranceInterface()
+                france.update_results()
             case "all":
                 year = datetime.now().year
                 print("Updating UK Database")
@@ -53,6 +55,9 @@ class CLICommands:
                 print("Updating NVF Database")
                 norway = Norway()
                 norway.update_results()
+                print("Updating France Database")
+                france = FranceInterface()
+                france.update_results()
             case _:
                 sys.exit(f"database not found: {db_name}")
 
