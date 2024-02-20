@@ -8,7 +8,7 @@ from datetime import datetime
 from dataclasses import dataclass
 
 from abclasses import WebScraper, DBInterface
-from python_tools.database_handler import write_to_csv
+from python_tools.database_handler import Result, results_to_csv, load_json
 
 french_months = {
     "Jan": 1,
@@ -68,6 +68,7 @@ class FranceResult:
     category: str
     iwf_points: str
 
+
 @dataclass
 class FranceEventMetadata:
     jury_1: str
@@ -96,9 +97,11 @@ class FranceWeightlifting(WebScraper):
     def __init__(self):
         self.session = Session()
 
-    def get_data_by_id(self, id_number) -> list[FranceResult]:
+    def get_data_by_id(self, id_number) -> list[FranceResult] | None:
         page = self.session.get(f'{self.BASE_URL}{self.RESULTS_URL}{id_number}')
         soup = BeautifulSoup(page.text, 'html.parser')
+        if len(soup.find_all('table')) < 2:
+            return None
         metadata_table = self.__process_metadata(soup.find_all('table')[0])
         table = soup.find_all('table')[1]
         results = []
@@ -165,8 +168,10 @@ class FranceWeightlifting(WebScraper):
         if match:
             return match.group(1)
 
-    def list_recent_events(self) -> list[FranceEventInfo]:
+    def list_recent_events(self) -> list[FranceEventInfo] | None:
         page = self.session.get(f'{self.BASE_URL}{self.LATEST_SEASON}')
+        if not page.ok:
+            return None
         unformatted_table = self.__fetch_main_table(page)
         formatted_table = self.__process_table(unformatted_table)
         return formatted_table
@@ -230,8 +235,8 @@ class FranceWeightlifting(WebScraper):
             day = match.group(1)
             month = french_months[match.group(2)]
             year = match.group(3)
-            # return formatted date in DD-MM-YYYY
-            return datetime(int(year), month, int(day)).strftime("%d-%m-%Y")
+            # return formatted date in YYYY-MM-DD
+            return datetime(int(year), month, int(day)).strftime("%Y-%m-%d")
         return
 
     @staticmethod
@@ -244,6 +249,10 @@ class FranceWeightlifting(WebScraper):
 class FranceInterface(DBInterface):
     def __init__(self):
         self.f = FranceWeightlifting()
+        self.RESULTS_PATH = os.path.join(self.RESULTS_ROOT, self.f.FEDERATION_SHORTHAND)
+        self.CATEGORIES = load_json(
+            f"{os.getcwd()}/database_handler/gender_categories.json")
+        self.NEXT_SEASON_CHECKED = False
 
     def get_event_list(self):
         return self.f.list_recent_events()
@@ -255,17 +264,76 @@ class FranceInterface(DBInterface):
     def update_results(self):
         logging.info("Updating results")
         event_list = self.get_event_list()
+        number_of_events_added = 0
         result_db_ids = [int(x.split(".")[0])
-                         for x in os.listdir(os.path.join(self.RESULTS_ROOT, self.f.FEDERATION_SHORTHAND))]
-        for event in event_list:
-            if event not in result_db_ids:
-                print(f"Getting results for {event.event_name} / {event.link.split('/')[-1]}")
-                # write_to_csv(self.RESULTS_ROOT, event_id, event_results)
+                         for x in os.listdir(self.RESULTS_PATH)]
+        if event_list is not None:
+            for event in event_list:
+                event_id = int(event.link.split('/')[-1])
+                if event_id not in result_db_ids:
+                    print(f"Getting results for {event.event_name} / {event.link.split('/')[-1]}")
+                    event_results = self.get_single_event(event.link)
+                    if event_results is not None:
+                        amal_data = []
+                        for result in event_results:
+                            amal_data.append(self.generate_result(result, event))
+                        if amal_data:
+                            results_to_csv(self.RESULTS_PATH, event.link.split('/')[-1], amal_data)
+                            number_of_events_added += 1
+                    else:
+                        print(f"No results logged for {event.event_name} / {event.link.split('/')[-1]}")
+        if number_of_events_added == 0 and not self.NEXT_SEASON_CHECKED:
+            print("No new events added, checking next season")
+            self.f.LATEST_SEASON += 1
+            self.NEXT_SEASON_CHECKED = True
+            self.update_results()
 
+    def generate_result(self, result: FranceResult, eventdata: FranceEventInfo) -> Result | None:
+        amal_data = Result(
+            event=eventdata.event_name,
+            date=eventdata.date,
+            category=result.category.replace(u'\xa0', ' '),
+            lifter_name=result.name.replace(u'\xa0', ' '),
+            bodyweight=float(result.bodyweight.replace(",", ".")),
+            snatch_1=float(result.snatch_1),
+            snatch_2=float(result.snatch_2),
+            snatch_3=float(result.snatch_3),
+            cj_1=float(result.cj_1),
+            cj_2=float(result.cj_2),
+            cj_3=float(result.cj_3),
+            best_snatch=float(result.best_snatch),
+            best_cj=float(result.best_cj),
+            total=float(result.total),
+        )
+        return amal_data
+
+    def build_database(self):
+        # this is a one-hitter but keeping this here for completeness
+        for n in range(3, 8):
+            events_list = self.f.list_recent_events(n)
+            result_db_ids = [int(x.split(".")[0])
+                             for x in os.listdir(self.RESULTS_PATH)]
+            for event in events_list:
+                event_id = int(event.link.split('/')[-1])
+                number_of_events_added = 0
+                if event_id not in result_db_ids:
+                    print(f"Getting results for {event.event_name} / {event.link.split('/')[-1]}")
+                    event_results = self.get_single_event(event.link)
+                    if event_results is not None:
+                        amal_data = []
+                        for result in event_results:
+                            amal_data.append(self.generate_result(result, event))
+                        if amal_data:
+                            results_to_csv(self.RESULTS_PATH, event.link.split('/')[-1], amal_data)
+                            number_of_events_added += 1
+                    else:
+                        print(f"No results logged for {event.event_name} / {event.link.split('/')[-1]}")
 
 if __name__ == '__main__':
-    #f = FranceWeightlifting()
+    # f = FranceWeightlifting()
     # f.list_recent_events()
-    #f.get_data_by_id(7839)
+    # f.get_data_by_id(7839)
     f = FranceInterface()
     f.update_results()
+    # f.build_database()
+

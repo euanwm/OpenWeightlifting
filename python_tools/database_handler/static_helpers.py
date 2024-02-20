@@ -78,3 +78,15 @@ def get_subdomain(url: str) -> str:
     # todo: convert this to a regex
     str_stripped = url.lstrip("https://").split('.')
     return str_stripped[0]
+
+
+def results_to_csv(base_dir, filepath_name, data: list[Result]) -> None:
+    """yes"""
+    if len(data) == 0:
+        return
+    print(f"creating {filepath_name}.csv...")
+    with open(join(base_dir, f"{filepath_name}.csv"), 'w', encoding='utf-8') as file_boi:
+        csv_writer = csv.writer(file_boi)
+        csv_writer.writerow(data[0].__annotations__.keys())
+        for result in data:
+            csv_writer.writerow(result.__dict__.values())

@@ -30,3 +30,7 @@ class DBInterface(ABC):
     def get_event_list(self):
         logging.info("Getting event list")
         pass
+
+    @abstractmethod
+    def generate_result(self, result, eventdata):
+        pass
