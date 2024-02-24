@@ -12,6 +12,7 @@ const federationList = [
   { value: 'US', label: 'US' },
   { value: 'AUS', label: 'AUS' },
   { value: 'NVF', label: 'Norway' },
+  { value: 'FFH', label: 'France' },
   { value: 'IWF', label: 'IWF' },
   { value: 'OPEN', label: 'OPEN'}
 ]
@@ -51,7 +52,8 @@ const yearsList = [
   { value: 2020, label: '2020' },
   { value: 2021, label: '2021' },
   { value: 2022, label: '2022' },
-  { value: 2023, label: '2023' }
+  { value: 2023, label: '2023' },
+  { value: 2024, label: '2024' },
 ]
 export const Filters = ({ sortBy, federation, handleFilterChange, weightClass, year }: {sortBy: string, federation: string, handleFilterChange: any, weightClass: string, year: number}) => (
   <div className="flex flex-col md:flex-row space-y-1 md:space-y-0 md:space-x-4 mt-4 mx-4">
