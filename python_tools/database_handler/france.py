@@ -293,7 +293,7 @@ class FranceInterface(DBInterface):
         amal_data = Result(
             event=eventdata.event_name,
             date=eventdata.date,
-            category=result.category.replace(u'\xa0', ' '),
+            category=self.conform_categories(result.category.replace(u'\xa0', ' ')),
             lifter_name=result.name.replace(u'\xa0', ' '),
             bodyweight=float(result.bodyweight.replace(",", ".")),
             snatch_1=float(result.snatch_1),
@@ -307,6 +307,13 @@ class FranceInterface(DBInterface):
             total=float(result.total),
         )
         return amal_data
+
+    def conform_categories(self, category: str) -> str:
+        if " M " in category:
+            return category.replace(" M ", " Men ")
+        if " F " in category:
+            return category.replace(" F ", " Women ")
+
 
     def build_database(self):
         # this is a one-hitter but keeping this here for completeness
@@ -335,6 +342,6 @@ if __name__ == '__main__':
     # f.list_recent_events()
     # f.get_data_by_id(7839)
     f = FranceInterface()
-    f.update_results()
-    # f.build_database()
+    #f.update_results()
+    f.build_database()
 
