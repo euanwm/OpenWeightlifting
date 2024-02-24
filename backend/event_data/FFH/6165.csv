@@ -1,14 +1,14 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-"AURA - Challenge Avenir - Saint quentin fallavier - 4ème plateau, masculin senior",2023-06-04,SEN M 73,PARIZET Rémi,71.8,-85.0,-85.0,85.0,105.0,110.0,-115.0,85.0,110.0,195.0
-"AURA - Challenge Avenir - Saint quentin fallavier - 4ème plateau, masculin senior",2023-06-04,SEN M 73,TROUILLER Remi,67.6,77.0,-81.0,-81.0,98.0,102.0,106.0,77.0,106.0,183.0
-"AURA - Challenge Avenir - Saint quentin fallavier - 4ème plateau, masculin senior",2023-06-04,SEN M 73,MONTORIER Robin,70.0,65.0,70.0,-75.0,80.0,85.0,90.0,70.0,90.0,160.0
-"AURA - Challenge Avenir - Saint quentin fallavier - 4ème plateau, masculin senior",2023-06-04,SEN M 73,EYNARD David,71.5,55.0,-60.0,-60.0,60.0,-65.0,65.0,55.0,65.0,120.0
-"AURA - Challenge Avenir - Saint quentin fallavier - 4ème plateau, masculin senior",2023-06-04,SEN M 81,JUSTET Julien,78.7,90.0,-95.0,-95.0,-110.0,110.0,-115.0,90.0,110.0,200.0
-"AURA - Challenge Avenir - Saint quentin fallavier - 4ème plateau, masculin senior",2023-06-04,SEN M 81,SAN JOSE Mathieu,79.6,88.0,-93.0,-97.0,107.0,-112.0,-116.0,88.0,107.0,195.0
-"AURA - Challenge Avenir - Saint quentin fallavier - 4ème plateau, masculin senior",2023-06-04,SEN M 81,VIGANO Nicola,73.7,-72.0,74.0,77.0,92.0,96.0,-100.0,77.0,96.0,173.0
-"AURA - Challenge Avenir - Saint quentin fallavier - 4ème plateau, masculin senior",2023-06-04,SEN M 81,CARRE Emmanuel,74.6,55.0,-59.0,-59.0,60.0,65.0,-68.0,55.0,65.0,120.0
-"AURA - Challenge Avenir - Saint quentin fallavier - 4ème plateau, masculin senior",2023-06-04,SEN M 89,BAZIN Kevin,82.3,83.0,87.0,-91.0,105.0,110.0,-113.0,87.0,110.0,197.0
-"AURA - Challenge Avenir - Saint quentin fallavier - 4ème plateau, masculin senior",2023-06-04,SEN M 89,PAVLOVIC Bogdan,84.5,-105.0,-105.0,-105.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
-"AURA - Challenge Avenir - Saint quentin fallavier - 4ème plateau, masculin senior",2023-06-04,SEN M 102,MOUNIER Alexis,101.7,-73.0,73.0,-80.0,95.0,-100.0,100.0,73.0,100.0,173.0
-"AURA - Challenge Avenir - Saint quentin fallavier - 4ème plateau, masculin senior",2023-06-04,SEN M 109,REYNAUD Davy,106.4,90.0,-95.0,-95.0,-110.0,-110.0,-115.0,90.0,0.0,0.0
-"AURA - Challenge Avenir - Saint quentin fallavier - 4ème plateau, masculin senior",2023-06-04,SEN M >109,NICOLLET Pierre,110.9,72.0,76.0,-78.0,90.0,95.0,-100.0,76.0,95.0,171.0
+"AURA - Challenge Avenir - Saint quentin fallavier - 4ème plateau, masculin senior",2023-06-04,SEN Men 73,PARIZET Rémi,71.8,-85.0,-85.0,85.0,105.0,110.0,-115.0,85.0,110.0,195.0
+"AURA - Challenge Avenir - Saint quentin fallavier - 4ème plateau, masculin senior",2023-06-04,SEN Men 73,TROUILLER Remi,67.6,77.0,-81.0,-81.0,98.0,102.0,106.0,77.0,106.0,183.0
+"AURA - Challenge Avenir - Saint quentin fallavier - 4ème plateau, masculin senior",2023-06-04,SEN Men 73,MONTORIER Robin,70.0,65.0,70.0,-75.0,80.0,85.0,90.0,70.0,90.0,160.0
+"AURA - Challenge Avenir - Saint quentin fallavier - 4ème plateau, masculin senior",2023-06-04,SEN Men 73,EYNARD David,71.5,55.0,-60.0,-60.0,60.0,-65.0,65.0,55.0,65.0,120.0
+"AURA - Challenge Avenir - Saint quentin fallavier - 4ème plateau, masculin senior",2023-06-04,SEN Men 81,JUSTET Julien,78.7,90.0,-95.0,-95.0,-110.0,110.0,-115.0,90.0,110.0,200.0
+"AURA - Challenge Avenir - Saint quentin fallavier - 4ème plateau, masculin senior",2023-06-04,SEN Men 81,SAN JOSE Mathieu,79.6,88.0,-93.0,-97.0,107.0,-112.0,-116.0,88.0,107.0,195.0
+"AURA - Challenge Avenir - Saint quentin fallavier - 4ème plateau, masculin senior",2023-06-04,SEN Men 81,VIGANO Nicola,73.7,-72.0,74.0,77.0,92.0,96.0,-100.0,77.0,96.0,173.0
+"AURA - Challenge Avenir - Saint quentin fallavier - 4ème plateau, masculin senior",2023-06-04,SEN Men 81,CARRE Emmanuel,74.6,55.0,-59.0,-59.0,60.0,65.0,-68.0,55.0,65.0,120.0
+"AURA - Challenge Avenir - Saint quentin fallavier - 4ème plateau, masculin senior",2023-06-04,SEN Men 89,BAZIN Kevin,82.3,83.0,87.0,-91.0,105.0,110.0,-113.0,87.0,110.0,197.0
+"AURA - Challenge Avenir - Saint quentin fallavier - 4ème plateau, masculin senior",2023-06-04,SEN Men 89,PAVLOVIC Bogdan,84.5,-105.0,-105.0,-105.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+"AURA - Challenge Avenir - Saint quentin fallavier - 4ème plateau, masculin senior",2023-06-04,SEN Men 102,MOUNIER Alexis,101.7,-73.0,73.0,-80.0,95.0,-100.0,100.0,73.0,100.0,173.0
+"AURA - Challenge Avenir - Saint quentin fallavier - 4ème plateau, masculin senior",2023-06-04,SEN Men 109,REYNAUD Davy,106.4,90.0,-95.0,-95.0,-110.0,-110.0,-115.0,90.0,0.0,0.0
+"AURA - Challenge Avenir - Saint quentin fallavier - 4ème plateau, masculin senior",2023-06-04,SEN Men >109,NICOLLET Pierre,110.9,72.0,76.0,-78.0,90.0,95.0,-100.0,76.0,95.0,171.0

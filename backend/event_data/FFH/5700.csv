@@ -1,18 +1,18 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-AURA - Challenge Avenir - L'arbresle - Senior Fille,2023-03-18,SEN F 55,GARCIA Clemence,54.5,42.0,-44.0,-45.0,52.0,55.0,-57.0,42.0,55.0,97.0
-AURA - Challenge Avenir - L'arbresle - Senior Fille,2023-03-18,SEN F 55,CONHOC Carlie melissa,52.29,30.0,32.0,34.0,40.0,45.0,47.0,34.0,47.0,81.0
-AURA - Challenge Avenir - L'arbresle - Senior Fille,2023-03-18,SEN F 59,DJORDJEVIC Alexandra,57.66,28.0,30.0,-32.0,40.0,-42.0,-43.0,30.0,40.0,70.0
-AURA - Challenge Avenir - L'arbresle - Senior Fille,2023-03-18,SEN F 59,AUTRANC Colleen,58.58,21.0,24.0,-26.0,23.0,26.0,28.0,24.0,28.0,52.0
-AURA - Challenge Avenir - L'arbresle - Senior Fille,2023-03-18,SEN F 64,MAROUI Salma,60.63,50.0,-53.0,-53.0,72.0,75.0,78.0,50.0,78.0,128.0
-AURA - Challenge Avenir - L'arbresle - Senior Fille,2023-03-18,SEN F 64,D ABOVILLE Margaux,60.69,47.0,50.0,-52.0,67.0,70.0,-72.0,50.0,70.0,120.0
-AURA - Challenge Avenir - L'arbresle - Senior Fille,2023-03-18,SEN F 64,KHERRAF Lea,59.92,43.0,47.0,-50.0,53.0,57.0,60.0,47.0,60.0,107.0
-AURA - Challenge Avenir - L'arbresle - Senior Fille,2023-03-18,SEN F 64,GARDE Morgane,62.97,38.0,40.0,42.0,52.0,55.0,-58.0,42.0,55.0,97.0
-AURA - Challenge Avenir - L'arbresle - Senior Fille,2023-03-18,SEN F 64,JUNALIK Julie,62.58,42.0,-45.0,45.0,50.0,-52.0,-52.0,45.0,50.0,95.0
-AURA - Challenge Avenir - L'arbresle - Senior Fille,2023-03-18,SEN F 64,DUPERRON Morgane,62.67,30.0,32.0,35.0,43.0,47.0,50.0,35.0,50.0,85.0
-AURA - Challenge Avenir - L'arbresle - Senior Fille,2023-03-18,SEN F 64,GRESET Elodie,60.94,45.0,-48.0,-48.0,-63.0,-66.0,-66.0,45.0,0.0,0.0
-AURA - Challenge Avenir - L'arbresle - Senior Fille,2023-03-18,SEN F 71,REIS DE OLIVEIRA Clémence,65.05,-51.0,51.0,-53.0,63.0,-66.0,-66.0,51.0,63.0,114.0
-AURA - Challenge Avenir - L'arbresle - Senior Fille,2023-03-18,SEN F 71,MORIN Estelle,68.33,48.0,-50.0,51.0,58.0,60.0,63.0,51.0,63.0,114.0
-AURA - Challenge Avenir - L'arbresle - Senior Fille,2023-03-18,SEN F 76,CABUT Cassandra,74.51,47.0,50.0,-53.0,58.0,61.0,-63.0,50.0,61.0,111.0
-AURA - Challenge Avenir - L'arbresle - Senior Fille,2023-03-18,SEN F 76,DOUVIN Irina,74.3,35.0,-0.0,-0.0,45.0,-0.0,-0.0,35.0,45.0,80.0
-AURA - Challenge Avenir - L'arbresle - Senior Fille,2023-03-18,SEN F 81,CHARROIS Pauline,76.4,35.0,38.0,-40.0,50.0,52.0,55.0,38.0,55.0,93.0
-AURA - Challenge Avenir - L'arbresle - Senior Fille,2023-03-18,SEN F 87,GRAINDORGE Alice,83.83,38.0,43.0,47.0,55.0,63.0,-67.0,47.0,63.0,110.0
+AURA - Challenge Avenir - L'arbresle - Senior Fille,2023-03-18,SEN Women 55,GARCIA Clemence,54.5,42.0,-44.0,-45.0,52.0,55.0,-57.0,42.0,55.0,97.0
+AURA - Challenge Avenir - L'arbresle - Senior Fille,2023-03-18,SEN Women 55,CONHOC Carlie melissa,52.29,30.0,32.0,34.0,40.0,45.0,47.0,34.0,47.0,81.0
+AURA - Challenge Avenir - L'arbresle - Senior Fille,2023-03-18,SEN Women 59,DJORDJEVIC Alexandra,57.66,28.0,30.0,-32.0,40.0,-42.0,-43.0,30.0,40.0,70.0
+AURA - Challenge Avenir - L'arbresle - Senior Fille,2023-03-18,SEN Women 59,AUTRANC Colleen,58.58,21.0,24.0,-26.0,23.0,26.0,28.0,24.0,28.0,52.0
+AURA - Challenge Avenir - L'arbresle - Senior Fille,2023-03-18,SEN Women 64,MAROUI Salma,60.63,50.0,-53.0,-53.0,72.0,75.0,78.0,50.0,78.0,128.0
+AURA - Challenge Avenir - L'arbresle - Senior Fille,2023-03-18,SEN Women 64,D ABOVILLE Margaux,60.69,47.0,50.0,-52.0,67.0,70.0,-72.0,50.0,70.0,120.0
+AURA - Challenge Avenir - L'arbresle - Senior Fille,2023-03-18,SEN Women 64,KHERRAF Lea,59.92,43.0,47.0,-50.0,53.0,57.0,60.0,47.0,60.0,107.0
+AURA - Challenge Avenir - L'arbresle - Senior Fille,2023-03-18,SEN Women 64,GARDE Morgane,62.97,38.0,40.0,42.0,52.0,55.0,-58.0,42.0,55.0,97.0
+AURA - Challenge Avenir - L'arbresle - Senior Fille,2023-03-18,SEN Women 64,JUNALIK Julie,62.58,42.0,-45.0,45.0,50.0,-52.0,-52.0,45.0,50.0,95.0
+AURA - Challenge Avenir - L'arbresle - Senior Fille,2023-03-18,SEN Women 64,DUPERRON Morgane,62.67,30.0,32.0,35.0,43.0,47.0,50.0,35.0,50.0,85.0
+AURA - Challenge Avenir - L'arbresle - Senior Fille,2023-03-18,SEN Women 64,GRESET Elodie,60.94,45.0,-48.0,-48.0,-63.0,-66.0,-66.0,45.0,0.0,0.0
+AURA - Challenge Avenir - L'arbresle - Senior Fille,2023-03-18,SEN Women 71,REIS DE OLIVEIRA Clémence,65.05,-51.0,51.0,-53.0,63.0,-66.0,-66.0,51.0,63.0,114.0
+AURA - Challenge Avenir - L'arbresle - Senior Fille,2023-03-18,SEN Women 71,MORIN Estelle,68.33,48.0,-50.0,51.0,58.0,60.0,63.0,51.0,63.0,114.0
+AURA - Challenge Avenir - L'arbresle - Senior Fille,2023-03-18,SEN Women 76,CABUT Cassandra,74.51,47.0,50.0,-53.0,58.0,61.0,-63.0,50.0,61.0,111.0
+AURA - Challenge Avenir - L'arbresle - Senior Fille,2023-03-18,SEN Women 76,DOUVIN Irina,74.3,35.0,-0.0,-0.0,45.0,-0.0,-0.0,35.0,45.0,80.0
+AURA - Challenge Avenir - L'arbresle - Senior Fille,2023-03-18,SEN Women 81,CHARROIS Pauline,76.4,35.0,38.0,-40.0,50.0,52.0,55.0,38.0,55.0,93.0
+AURA - Challenge Avenir - L'arbresle - Senior Fille,2023-03-18,SEN Women 87,GRAINDORGE Alice,83.83,38.0,43.0,47.0,55.0,63.0,-67.0,47.0,63.0,110.0

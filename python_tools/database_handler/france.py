@@ -169,8 +169,8 @@ class FranceWeightlifting(WebScraper):
         if match:
             return match.group(1)
 
-    def list_recent_events(self) -> list[FranceEventInfo] | None:
-        page = self.session.get(f'{self.BASE_URL}{self.LATEST_SEASON}')
+    def list_recent_events(self, season=LATEST_SEASON) -> list[FranceEventInfo] | None:
+        page = self.session.get(f'{self.BASE_URL}{season}')
         if not page.ok:
             return None
         unformatted_table = self.__fetch_main_table(page)

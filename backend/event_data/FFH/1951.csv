@@ -1,19 +1,19 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-BRE - Challenge Avenir 2 (Vannes),2021-12-05,SEN M 67,HAYAT Raphaël,64.8,85.0,88.0,-91.0,107.0,110.0,-112.0,88.0,110.0,198.0
-BRE - Challenge Avenir 2 (Vannes),2021-12-05,SEN M 67,BUTEAU Aurélien,66.75,-68.0,70.0,78.0,81.0,86.0,92.0,78.0,92.0,170.0
-BRE - Challenge Avenir 2 (Vannes),2021-12-05,SEN M 67,RYO Jean marie,66.8,65.0,70.0,73.0,80.0,85.0,90.0,73.0,90.0,163.0
-BRE - Challenge Avenir 2 (Vannes),2021-12-05,SEN M 73,CHENAL-BORDONNOT Vincent,72.6,72.0,76.0,-80.0,93.0,97.0,100.0,76.0,100.0,176.0
-BRE - Challenge Avenir 2 (Vannes),2021-12-05,SEN M 73,COVILLE Charles,72.05,68.0,-70.0,-70.0,93.0,96.0,100.0,68.0,100.0,168.0
-BRE - Challenge Avenir 2 (Vannes),2021-12-05,SEN M 73,AUDOUX Flavien,70.35,65.0,70.0,-72.0,85.0,88.0,91.0,70.0,91.0,161.0
-BRE - Challenge Avenir 2 (Vannes),2021-12-05,SEN M 73,FROUIN Jean-christophe,70.1,47.0,50.0,-55.0,67.0,75.0,77.0,50.0,77.0,127.0
-BRE - Challenge Avenir 2 (Vannes),2021-12-05,SEN M 73,ÖNCÜ Mikail,67.9,50.0,53.0,56.0,65.0,-70.0,70.0,56.0,70.0,126.0
-BRE - Challenge Avenir 2 (Vannes),2021-12-05,SEN M 81,JACQUART Vincent,78.75,91.0,95.0,97.0,116.0,-120.0,123.0,97.0,123.0,220.0
-BRE - Challenge Avenir 2 (Vannes),2021-12-05,SEN M 81,KERVEADOU Julien,73.65,82.0,85.0,-89.0,104.0,107.0,-110.0,85.0,107.0,192.0
-BRE - Challenge Avenir 2 (Vannes),2021-12-05,SEN M 89,DIXNEUF Mathias,87.0,92.0,96.0,-100.0,120.0,124.0,-127.0,96.0,124.0,220.0
-BRE - Challenge Avenir 2 (Vannes),2021-12-05,SEN M 96,TRAVERSE Alexander,93.45,106.0,110.0,-112.0,-122.0,-122.0,125.0,110.0,125.0,235.0
-BRE - Challenge Avenir 2 (Vannes),2021-12-05,SEN M 96,AMEYE Aurelien,94.8,65.0,68.0,71.0,80.0,85.0,90.0,71.0,90.0,161.0
-BRE - Challenge Avenir 2 (Vannes),2021-12-05,SEN M 96,LIEGEOIS Adrien,93.85,58.0,62.0,-67.0,80.0,85.0,-90.0,62.0,85.0,147.0
-BRE - Challenge Avenir 2 (Vannes),2021-12-05,SEN M 96,GODEC Hakim,92.3,40.0,50.0,-60.0,-40.0,40.0,-45.0,50.0,40.0,90.0
-BRE - Challenge Avenir 2 (Vannes),2021-12-05,SEN M 102,LUAKI Amete,102.0,-102.0,-105.0,-107.0,120.0,-130.0,-143.0,0.0,120.0,0.0
-BRE - Challenge Avenir 2 (Vannes),2021-12-05,SEN M 109,BERTIN Pierre-antoine,107.0,85.0,90.0,93.0,113.0,118.0,-122.0,93.0,118.0,211.0
-BRE - Challenge Avenir 2 (Vannes),2021-12-05,SEN M 109,LECARS Denovan,106.55,-80.0,-80.0,80.0,110.0,115.0,-120.0,80.0,115.0,195.0
+BRE - Challenge Avenir 2 (Vannes),2021-12-05,SEN Men 67,HAYAT Raphaël,64.8,85.0,88.0,-91.0,107.0,110.0,-112.0,88.0,110.0,198.0
+BRE - Challenge Avenir 2 (Vannes),2021-12-05,SEN Men 67,BUTEAU Aurélien,66.75,-68.0,70.0,78.0,81.0,86.0,92.0,78.0,92.0,170.0
+BRE - Challenge Avenir 2 (Vannes),2021-12-05,SEN Men 67,RYO Jean marie,66.8,65.0,70.0,73.0,80.0,85.0,90.0,73.0,90.0,163.0
+BRE - Challenge Avenir 2 (Vannes),2021-12-05,SEN Men 73,CHENAL-BORDONNOT Vincent,72.6,72.0,76.0,-80.0,93.0,97.0,100.0,76.0,100.0,176.0
+BRE - Challenge Avenir 2 (Vannes),2021-12-05,SEN Men 73,COVILLE Charles,72.05,68.0,-70.0,-70.0,93.0,96.0,100.0,68.0,100.0,168.0
+BRE - Challenge Avenir 2 (Vannes),2021-12-05,SEN Men 73,AUDOUX Flavien,70.35,65.0,70.0,-72.0,85.0,88.0,91.0,70.0,91.0,161.0
+BRE - Challenge Avenir 2 (Vannes),2021-12-05,SEN Men 73,FROUIN Jean-christophe,70.1,47.0,50.0,-55.0,67.0,75.0,77.0,50.0,77.0,127.0
+BRE - Challenge Avenir 2 (Vannes),2021-12-05,SEN Men 73,ÖNCÜ Mikail,67.9,50.0,53.0,56.0,65.0,-70.0,70.0,56.0,70.0,126.0
+BRE - Challenge Avenir 2 (Vannes),2021-12-05,SEN Men 81,JACQUART Vincent,78.75,91.0,95.0,97.0,116.0,-120.0,123.0,97.0,123.0,220.0
+BRE - Challenge Avenir 2 (Vannes),2021-12-05,SEN Men 81,KERVEADOU Julien,73.65,82.0,85.0,-89.0,104.0,107.0,-110.0,85.0,107.0,192.0
+BRE - Challenge Avenir 2 (Vannes),2021-12-05,SEN Men 89,DIXNEUF Mathias,87.0,92.0,96.0,-100.0,120.0,124.0,-127.0,96.0,124.0,220.0
+BRE - Challenge Avenir 2 (Vannes),2021-12-05,SEN Men 96,TRAVERSE Alexander,93.45,106.0,110.0,-112.0,-122.0,-122.0,125.0,110.0,125.0,235.0
+BRE - Challenge Avenir 2 (Vannes),2021-12-05,SEN Men 96,AMEYE Aurelien,94.8,65.0,68.0,71.0,80.0,85.0,90.0,71.0,90.0,161.0
+BRE - Challenge Avenir 2 (Vannes),2021-12-05,SEN Men 96,LIEGEOIS Adrien,93.85,58.0,62.0,-67.0,80.0,85.0,-90.0,62.0,85.0,147.0
+BRE - Challenge Avenir 2 (Vannes),2021-12-05,SEN Men 96,GODEC Hakim,92.3,40.0,50.0,-60.0,-40.0,40.0,-45.0,50.0,40.0,90.0
+BRE - Challenge Avenir 2 (Vannes),2021-12-05,SEN Men 102,LUAKI Amete,102.0,-102.0,-105.0,-107.0,120.0,-130.0,-143.0,0.0,120.0,0.0
+BRE - Challenge Avenir 2 (Vannes),2021-12-05,SEN Men 109,BERTIN Pierre-antoine,107.0,85.0,90.0,93.0,113.0,118.0,-122.0,93.0,118.0,211.0
+BRE - Challenge Avenir 2 (Vannes),2021-12-05,SEN Men 109,LECARS Denovan,106.55,-80.0,-80.0,80.0,110.0,115.0,-120.0,80.0,115.0,195.0

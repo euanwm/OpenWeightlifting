@@ -1,14 +1,14 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-PACA - Chpt Départemental - Noves - Bouches du Rhône Plateau 1,2023-01-29,SEN F 49,BANI LOMBARD Alexane,48.1,45.0,47.0,-50.0,-54.0,-54.0,54.0,47.0,54.0,101.0
-PACA - Chpt Départemental - Noves - Bouches du Rhône Plateau 1,2023-01-29,SEN F 49,TANGUY Floriane,47.7,29.0,-32.0,-33.0,38.0,-41.0,-41.0,29.0,38.0,67.0
-PACA - Chpt Départemental - Noves - Bouches du Rhône Plateau 1,2023-01-29,SEN F 55,PAILLAS Manon,51.2,49.0,51.0,-53.0,63.0,66.0,-68.0,51.0,66.0,117.0
-PACA - Chpt Départemental - Noves - Bouches du Rhône Plateau 1,2023-01-29,SEN F 55,BARBARIN Jade,51.5,35.0,38.0,42.0,45.0,50.0,-54.0,42.0,50.0,92.0
-PACA - Chpt Départemental - Noves - Bouches du Rhône Plateau 1,2023-01-29,SEN F 59,SCICCHITANO Emma,57.2,55.0,58.0,63.0,70.0,73.0,77.0,63.0,77.0,140.0
-PACA - Chpt Départemental - Noves - Bouches du Rhône Plateau 1,2023-01-29,SEN F 59,MORILLAS Caroline,59.0,42.0,45.0,-48.0,60.0,62.0,-65.0,45.0,62.0,107.0
-PACA - Chpt Départemental - Noves - Bouches du Rhône Plateau 1,2023-01-29,SEN F 59,GHIRARDI Lisa,57.8,33.0,35.0,38.0,45.0,47.0,-49.0,38.0,47.0,85.0
-PACA - Chpt Départemental - Noves - Bouches du Rhône Plateau 1,2023-01-29,SEN F 64,AUTILLO Clara,59.3,70.0,73.0,75.0,83.0,-87.0,-90.0,75.0,83.0,158.0
-PACA - Chpt Départemental - Noves - Bouches du Rhône Plateau 1,2023-01-29,SEN F 64,CANOVAS Elodie,63.3,55.0,58.0,61.0,70.0,73.0,77.0,61.0,77.0,138.0
-PACA - Chpt Départemental - Noves - Bouches du Rhône Plateau 1,2023-01-29,SEN F 71,ARQUIER Beatrice,68.3,33.0,36.0,-38.0,48.0,51.0,-54.0,36.0,51.0,87.0
-PACA - Chpt Départemental - Noves - Bouches du Rhône Plateau 1,2023-01-29,SEN F 71,SCALIA Virginie,65.1,23.0,-26.0,26.0,32.0,36.0,38.0,26.0,38.0,64.0
-PACA - Chpt Départemental - Noves - Bouches du Rhône Plateau 1,2023-01-29,SEN F 76,CÔME Nina,72.4,55.0,62.0,-70.0,75.0,80.0,-85.0,62.0,80.0,142.0
-PACA - Chpt Départemental - Noves - Bouches du Rhône Plateau 1,2023-01-29,SEN F >87,BAILLY Emma,87.4,50.0,-55.0,-55.0,68.0,73.0,77.0,50.0,77.0,127.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône Plateau 1,2023-01-29,SEN Women 49,BANI LOMBARD Alexane,48.1,45.0,47.0,-50.0,-54.0,-54.0,54.0,47.0,54.0,101.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône Plateau 1,2023-01-29,SEN Women 49,TANGUY Floriane,47.7,29.0,-32.0,-33.0,38.0,-41.0,-41.0,29.0,38.0,67.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône Plateau 1,2023-01-29,SEN Women 55,PAILLAS Manon,51.2,49.0,51.0,-53.0,63.0,66.0,-68.0,51.0,66.0,117.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône Plateau 1,2023-01-29,SEN Women 55,BARBARIN Jade,51.5,35.0,38.0,42.0,45.0,50.0,-54.0,42.0,50.0,92.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône Plateau 1,2023-01-29,SEN Women 59,SCICCHITANO Emma,57.2,55.0,58.0,63.0,70.0,73.0,77.0,63.0,77.0,140.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône Plateau 1,2023-01-29,SEN Women 59,MORILLAS Caroline,59.0,42.0,45.0,-48.0,60.0,62.0,-65.0,45.0,62.0,107.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône Plateau 1,2023-01-29,SEN Women 59,GHIRARDI Lisa,57.8,33.0,35.0,38.0,45.0,47.0,-49.0,38.0,47.0,85.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône Plateau 1,2023-01-29,SEN Women 64,AUTILLO Clara,59.3,70.0,73.0,75.0,83.0,-87.0,-90.0,75.0,83.0,158.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône Plateau 1,2023-01-29,SEN Women 64,CANOVAS Elodie,63.3,55.0,58.0,61.0,70.0,73.0,77.0,61.0,77.0,138.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône Plateau 1,2023-01-29,SEN Women 71,ARQUIER Beatrice,68.3,33.0,36.0,-38.0,48.0,51.0,-54.0,36.0,51.0,87.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône Plateau 1,2023-01-29,SEN Women 71,SCALIA Virginie,65.1,23.0,-26.0,26.0,32.0,36.0,38.0,26.0,38.0,64.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône Plateau 1,2023-01-29,SEN Women 76,CÔME Nina,72.4,55.0,62.0,-70.0,75.0,80.0,-85.0,62.0,80.0,142.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône Plateau 1,2023-01-29,SEN Women >87,BAILLY Emma,87.4,50.0,-55.0,-55.0,68.0,73.0,77.0,50.0,77.0,127.0

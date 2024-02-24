@@ -1,13 +1,13 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-CVL - J3 REG Fem - USTH - CFT - CMO - (Ballan Miré),2022-01-16,SEN F 55,KONIG Astrid,51.5,55.0,59.0,-62.0,70.0,75.0,-79.0,59.0,75.0,134.0
-CVL - J3 REG Fem - USTH - CFT - CMO - (Ballan Miré),2022-01-16,SEN F 55,RICHARD Charlene,54.4,53.0,-58.0,-58.0,-65.0,-65.0,65.0,53.0,65.0,118.0
-CVL - J3 REG Fem - USTH - CFT - CMO - (Ballan Miré),2022-01-16,SEN F 55,FUERTES Carmella,53.8,35.0,38.0,40.0,48.0,50.0,52.0,40.0,52.0,92.0
-CVL - J3 REG Fem - USTH - CFT - CMO - (Ballan Miré),2022-01-16,SEN F 59,BERTAUD Camille,57.6,42.0,45.0,-48.0,58.0,-63.0,-63.0,45.0,58.0,103.0
-CVL - J3 REG Fem - USTH - CFT - CMO - (Ballan Miré),2022-01-16,SEN F 59,TRIENTZ Floriane,56.1,35.0,40.0,43.0,45.0,48.0,50.0,43.0,50.0,93.0
-CVL - J3 REG Fem - USTH - CFT - CMO - (Ballan Miré),2022-01-16,SEN F 59,VERDY Laeticia,57.4,35.0,37.0,-39.0,45.0,47.0,-50.0,37.0,47.0,84.0
-CVL - J3 REG Fem - USTH - CFT - CMO - (Ballan Miré),2022-01-16,SEN F 64,BENNEVEAU Marion,61.7,46.0,49.0,-52.0,60.0,64.0,67.0,49.0,67.0,116.0
-CVL - J3 REG Fem - USTH - CFT - CMO - (Ballan Miré),2022-01-16,SEN F 64,SOUCHU Chloe,63.2,45.0,48.0,-50.0,60.0,64.0,-67.0,48.0,64.0,112.0
-CVL - J3 REG Fem - USTH - CFT - CMO - (Ballan Miré),2022-01-16,SEN F 64,CHENEAU Maud,59.4,40.0,45.0,-48.0,60.0,-65.0,65.0,45.0,65.0,110.0
-CVL - J3 REG Fem - USTH - CFT - CMO - (Ballan Miré),2022-01-16,SEN F 71,PANN Nina,64.7,48.0,53.0,55.0,-65.0,65.0,68.0,55.0,68.0,123.0
-CVL - J3 REG Fem - USTH - CFT - CMO - (Ballan Miré),2022-01-16,SEN F 71,COGNARD Lise,64.8,45.0,50.0,-53.0,65.0,-68.0,68.0,50.0,68.0,118.0
-CVL - J3 REG Fem - USTH - CFT - CMO - (Ballan Miré),2022-01-16,SEN F 76,COMTE Pauline,72.1,63.0,-66.0,66.0,77.0,80.0,-82.0,66.0,80.0,146.0
+CVL - J3 REG Fem - USTH - CFT - CMO - (Ballan Miré),2022-01-16,SEN Women 55,KONIG Astrid,51.5,55.0,59.0,-62.0,70.0,75.0,-79.0,59.0,75.0,134.0
+CVL - J3 REG Fem - USTH - CFT - CMO - (Ballan Miré),2022-01-16,SEN Women 55,RICHARD Charlene,54.4,53.0,-58.0,-58.0,-65.0,-65.0,65.0,53.0,65.0,118.0
+CVL - J3 REG Fem - USTH - CFT - CMO - (Ballan Miré),2022-01-16,SEN Women 55,FUERTES Carmella,53.8,35.0,38.0,40.0,48.0,50.0,52.0,40.0,52.0,92.0
+CVL - J3 REG Fem - USTH - CFT - CMO - (Ballan Miré),2022-01-16,SEN Women 59,BERTAUD Camille,57.6,42.0,45.0,-48.0,58.0,-63.0,-63.0,45.0,58.0,103.0
+CVL - J3 REG Fem - USTH - CFT - CMO - (Ballan Miré),2022-01-16,SEN Women 59,TRIENTZ Floriane,56.1,35.0,40.0,43.0,45.0,48.0,50.0,43.0,50.0,93.0
+CVL - J3 REG Fem - USTH - CFT - CMO - (Ballan Miré),2022-01-16,SEN Women 59,VERDY Laeticia,57.4,35.0,37.0,-39.0,45.0,47.0,-50.0,37.0,47.0,84.0
+CVL - J3 REG Fem - USTH - CFT - CMO - (Ballan Miré),2022-01-16,SEN Women 64,BENNEVEAU Marion,61.7,46.0,49.0,-52.0,60.0,64.0,67.0,49.0,67.0,116.0
+CVL - J3 REG Fem - USTH - CFT - CMO - (Ballan Miré),2022-01-16,SEN Women 64,SOUCHU Chloe,63.2,45.0,48.0,-50.0,60.0,64.0,-67.0,48.0,64.0,112.0
+CVL - J3 REG Fem - USTH - CFT - CMO - (Ballan Miré),2022-01-16,SEN Women 64,CHENEAU Maud,59.4,40.0,45.0,-48.0,60.0,-65.0,65.0,45.0,65.0,110.0
+CVL - J3 REG Fem - USTH - CFT - CMO - (Ballan Miré),2022-01-16,SEN Women 71,PANN Nina,64.7,48.0,53.0,55.0,-65.0,65.0,68.0,55.0,68.0,123.0
+CVL - J3 REG Fem - USTH - CFT - CMO - (Ballan Miré),2022-01-16,SEN Women 71,COGNARD Lise,64.8,45.0,50.0,-53.0,65.0,-68.0,68.0,50.0,68.0,118.0
+CVL - J3 REG Fem - USTH - CFT - CMO - (Ballan Miré),2022-01-16,SEN Women 76,COMTE Pauline,72.1,63.0,-66.0,66.0,77.0,80.0,-82.0,66.0,80.0,146.0

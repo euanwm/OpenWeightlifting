@@ -1,15 +1,15 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-IDF - Chpt Province - Franconville - SENIORS HOMMES,2023-02-25,SEN M 61,BEKKAR Ayoub,61.0,80.0,-85.0,-85.0,101.0,-105.0,106.0,80.0,106.0,186.0
-IDF - Chpt Province - Franconville - SENIORS HOMMES,2023-02-25,SEN M 67,AGUS Aymeric,66.9,80.0,85.0,90.0,101.0,105.0,-111.0,90.0,105.0,195.0
-IDF - Chpt Province - Franconville - SENIORS HOMMES,2023-02-25,SEN M 73,GRAVOIS Ugo,73.0,-103.0,103.0,-107.0,-130.0,130.0,-137.0,103.0,130.0,233.0
-IDF - Chpt Province - Franconville - SENIORS HOMMES,2023-02-25,SEN M 73,DESCAMPS Vincent,72.3,85.0,90.0,-92.0,110.0,115.0,118.0,90.0,118.0,208.0
-IDF - Chpt Province - Franconville - SENIORS HOMMES,2023-02-25,SEN M 73,LEFRANCS Dimitri,72.3,-90.0,-90.0,-90.0,-107.0,-110.0,-115.0,0.0,0.0,0.0
-IDF - Chpt Province - Franconville - SENIORS HOMMES,2023-02-25,SEN M 73,BOUELLE Théo,71.4,-85.0,-85.0,-85.0,115.0,-118.0,-118.0,0.0,115.0,0.0
-IDF - Chpt Province - Franconville - SENIORS HOMMES,2023-02-25,SEN M 81,LE VIENNESSE Stephane,78.0,85.0,90.0,-95.0,105.0,110.0,-115.0,90.0,110.0,200.0
-IDF - Chpt Province - Franconville - SENIORS HOMMES,2023-02-25,SEN M 89,BERNARD Xavier,87.7,-105.0,108.0,-115.0,130.0,-135.0,-135.0,108.0,130.0,238.0
-IDF - Chpt Province - Franconville - SENIORS HOMMES,2023-02-25,SEN M 89,THERY Guillaume,87.8,-95.0,95.0,-100.0,106.0,112.0,-120.0,95.0,112.0,207.0
-IDF - Chpt Province - Franconville - SENIORS HOMMES,2023-02-25,SEN M 89,CREUILLOT Charles,88.6,115.0,-120.0,122.0,-155.0,-155.0,-155.0,122.0,0.0,0.0
-IDF - Chpt Province - Franconville - SENIORS HOMMES,2023-02-25,SEN M 89,VITAL Jules,88.1,115.0,-118.0,-118.0,-145.0,-145.0,-145.0,115.0,0.0,0.0
-IDF - Chpt Province - Franconville - SENIORS HOMMES,2023-02-25,SEN M 89,COLIN Thomas,86.0,-135.0,-140.0,-140.0,-153.0,-153.0,-160.0,0.0,0.0,0.0
-IDF - Chpt Province - Franconville - SENIORS HOMMES,2023-02-25,SEN M 96,COSTA Mickael,94.3,-95.0,-95.0,95.0,-120.0,122.0,-130.0,95.0,122.0,217.0
-IDF - Chpt Province - Franconville - SENIORS HOMMES,2023-02-25,SEN M 102,BALIAN Stéphane,97.1,-140.0,-140.0,-140.0,-160.0,-160.0,-160.0,0.0,0.0,0.0
+IDF - Chpt Province - Franconville - SENIORS HOMMES,2023-02-25,SEN Men 61,BEKKAR Ayoub,61.0,80.0,-85.0,-85.0,101.0,-105.0,106.0,80.0,106.0,186.0
+IDF - Chpt Province - Franconville - SENIORS HOMMES,2023-02-25,SEN Men 67,AGUS Aymeric,66.9,80.0,85.0,90.0,101.0,105.0,-111.0,90.0,105.0,195.0
+IDF - Chpt Province - Franconville - SENIORS HOMMES,2023-02-25,SEN Men 73,GRAVOIS Ugo,73.0,-103.0,103.0,-107.0,-130.0,130.0,-137.0,103.0,130.0,233.0
+IDF - Chpt Province - Franconville - SENIORS HOMMES,2023-02-25,SEN Men 73,DESCAMPS Vincent,72.3,85.0,90.0,-92.0,110.0,115.0,118.0,90.0,118.0,208.0
+IDF - Chpt Province - Franconville - SENIORS HOMMES,2023-02-25,SEN Men 73,LEFRANCS Dimitri,72.3,-90.0,-90.0,-90.0,-107.0,-110.0,-115.0,0.0,0.0,0.0
+IDF - Chpt Province - Franconville - SENIORS HOMMES,2023-02-25,SEN Men 73,BOUELLE Théo,71.4,-85.0,-85.0,-85.0,115.0,-118.0,-118.0,0.0,115.0,0.0
+IDF - Chpt Province - Franconville - SENIORS HOMMES,2023-02-25,SEN Men 81,LE VIENNESSE Stephane,78.0,85.0,90.0,-95.0,105.0,110.0,-115.0,90.0,110.0,200.0
+IDF - Chpt Province - Franconville - SENIORS HOMMES,2023-02-25,SEN Men 89,BERNARD Xavier,87.7,-105.0,108.0,-115.0,130.0,-135.0,-135.0,108.0,130.0,238.0
+IDF - Chpt Province - Franconville - SENIORS HOMMES,2023-02-25,SEN Men 89,THERY Guillaume,87.8,-95.0,95.0,-100.0,106.0,112.0,-120.0,95.0,112.0,207.0
+IDF - Chpt Province - Franconville - SENIORS HOMMES,2023-02-25,SEN Men 89,CREUILLOT Charles,88.6,115.0,-120.0,122.0,-155.0,-155.0,-155.0,122.0,0.0,0.0
+IDF - Chpt Province - Franconville - SENIORS HOMMES,2023-02-25,SEN Men 89,VITAL Jules,88.1,115.0,-118.0,-118.0,-145.0,-145.0,-145.0,115.0,0.0,0.0
+IDF - Chpt Province - Franconville - SENIORS HOMMES,2023-02-25,SEN Men 89,COLIN Thomas,86.0,-135.0,-140.0,-140.0,-153.0,-153.0,-160.0,0.0,0.0,0.0
+IDF - Chpt Province - Franconville - SENIORS HOMMES,2023-02-25,SEN Men 96,COSTA Mickael,94.3,-95.0,-95.0,95.0,-120.0,122.0,-130.0,95.0,122.0,217.0
+IDF - Chpt Province - Franconville - SENIORS HOMMES,2023-02-25,SEN Men 102,BALIAN Stéphane,97.1,-140.0,-140.0,-140.0,-160.0,-160.0,-160.0,0.0,0.0,0.0
