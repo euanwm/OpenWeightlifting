@@ -1,19 +1,19 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-HDF - Challenge Avenir - Péronne - 1er Chall Avenir Journée Détection U13 Garçons,2022-11-26,U13 M 35,VERECQUE Charles,32.9,16.0,18.0,-20.0,24.0,-26.0,26.0,34.0,50.0,84.0
-HDF - Challenge Avenir - Péronne - 1er Chall Avenir Journée Détection U13 Garçons,2022-11-26,U13 M 35,STASZAK Yanis,33.7,12.0,14.0,-16.0,15.0,16.0,-17.0,26.0,31.0,57.0
-HDF - Challenge Avenir - Péronne - 1er Chall Avenir Journée Détection U13 Garçons,2022-11-26,U13 M 35,VANDERWEE Quentin,32.6,10.0,-12.0,12.0,12.0,14.0,-15.0,22.0,26.0,48.0
-HDF - Challenge Avenir - Péronne - 1er Chall Avenir Journée Détection U13 Garçons,2022-11-26,U13 M 40,FORESTIER Gaspard,37.3,16.0,18.0,19.0,21.0,23.0,24.0,37.0,47.0,84.0
-HDF - Challenge Avenir - Péronne - 1er Chall Avenir Journée Détection U13 Garçons,2022-11-26,U13 M 40,DEVAUCHELLE Timeo,35.1,14.0,-16.0,16.0,17.0,19.0,20.0,30.0,39.0,69.0
-HDF - Challenge Avenir - Péronne - 1er Chall Avenir Journée Détection U13 Garçons,2022-11-26,U13 M 45,CAESEMAEKER Aaron,41.3,25.0,27.0,29.0,35.0,37.0,39.0,56.0,76.0,132.0
-HDF - Challenge Avenir - Péronne - 1er Chall Avenir Journée Détection U13 Garçons,2022-11-26,U13 M 45,DEWALLY Enzo,43.3,18.0,20.0,22.0,24.0,26.0,-28.0,42.0,50.0,92.0
-HDF - Challenge Avenir - Péronne - 1er Chall Avenir Journée Détection U13 Garçons,2022-11-26,U13 M 45,LECOMTE Noa,43.6,16.0,18.0,20.0,20.0,22.0,24.0,38.0,46.0,84.0
-HDF - Challenge Avenir - Péronne - 1er Chall Avenir Journée Détection U13 Garçons,2022-11-26,U13 M 45,DESCHRYVER Oscar,40.8,14.0,16.0,18.0,22.0,24.0,25.0,34.0,49.0,83.0
-HDF - Challenge Avenir - Péronne - 1er Chall Avenir Journée Détection U13 Garçons,2022-11-26,U13 M 49,MONIER Thibaut,47.9,29.0,31.0,33.0,38.0,40.0,42.0,64.0,82.0,146.0
-HDF - Challenge Avenir - Péronne - 1er Chall Avenir Journée Détection U13 Garçons,2022-11-26,U13 M 49,DESVIGNES Ilan,45.45,21.0,23.0,25.0,30.0,32.0,34.0,48.0,66.0,114.0
-HDF - Challenge Avenir - Péronne - 1er Chall Avenir Journée Détection U13 Garçons,2022-11-26,U13 M 55,ALLAYS RAMACKERS Enguerrand,51.3,34.0,36.0,38.0,43.0,45.0,47.0,74.0,92.0,166.0
-HDF - Challenge Avenir - Péronne - 1er Chall Avenir Journée Détection U13 Garçons,2022-11-26,U13 M 61,FLUTEAUX Marcus,59.9,17.0,19.0,21.0,19.0,21.0,23.0,40.0,44.0,84.0
-HDF - Challenge Avenir - Péronne - 1er Chall Avenir Journée Détection U13 Garçons,2022-11-26,U13 M 67,GOURGUECHON ALLART Elie,62.9,37.0,39.0,41.0,42.0,44.0,46.0,80.0,90.0,170.0
-HDF - Challenge Avenir - Péronne - 1er Chall Avenir Journée Détection U13 Garçons,2022-11-26,U13 M 67,DAVID Ethan,63.3,20.0,22.0,24.0,28.0,30.0,32.0,46.0,62.0,108.0
-HDF - Challenge Avenir - Péronne - 1er Chall Avenir Journée Détection U13 Garçons,2022-11-26,U13 M 67,LAFFILEZ Esteban,63.9,-10.0,10.0,12.0,-12.0,12.0,13.0,22.0,25.0,47.0
-HDF - Challenge Avenir - Péronne - 1er Chall Avenir Journée Détection U13 Garçons,2022-11-26,U13 M 73,WAHL Timeo,69.8,27.0,28.0,-30.0,35.0,37.0,39.0,55.0,76.0,131.0
-HDF - Challenge Avenir - Péronne - 1er Chall Avenir Journée Détection U13 Garçons,2022-11-26,U13 M >73,CAIEZ Kenzo,80.0,22.0,24.0,26.0,35.0,37.0,-39.0,50.0,72.0,122.0
+HDF - Challenge Avenir - Péronne - 1er Chall Avenir Journée Détection U13 Garçons,2022-11-26,U13 Men 35,VERECQUE Charles,32.9,16.0,18.0,-20.0,24.0,-26.0,26.0,34.0,50.0,84.0
+HDF - Challenge Avenir - Péronne - 1er Chall Avenir Journée Détection U13 Garçons,2022-11-26,U13 Men 35,STASZAK Yanis,33.7,12.0,14.0,-16.0,15.0,16.0,-17.0,26.0,31.0,57.0
+HDF - Challenge Avenir - Péronne - 1er Chall Avenir Journée Détection U13 Garçons,2022-11-26,U13 Men 35,VANDERWEE Quentin,32.6,10.0,-12.0,12.0,12.0,14.0,-15.0,22.0,26.0,48.0
+HDF - Challenge Avenir - Péronne - 1er Chall Avenir Journée Détection U13 Garçons,2022-11-26,U13 Men 40,FORESTIER Gaspard,37.3,16.0,18.0,19.0,21.0,23.0,24.0,37.0,47.0,84.0
+HDF - Challenge Avenir - Péronne - 1er Chall Avenir Journée Détection U13 Garçons,2022-11-26,U13 Men 40,DEVAUCHELLE Timeo,35.1,14.0,-16.0,16.0,17.0,19.0,20.0,30.0,39.0,69.0
+HDF - Challenge Avenir - Péronne - 1er Chall Avenir Journée Détection U13 Garçons,2022-11-26,U13 Men 45,CAESEMAEKER Aaron,41.3,25.0,27.0,29.0,35.0,37.0,39.0,56.0,76.0,132.0
+HDF - Challenge Avenir - Péronne - 1er Chall Avenir Journée Détection U13 Garçons,2022-11-26,U13 Men 45,DEWALLY Enzo,43.3,18.0,20.0,22.0,24.0,26.0,-28.0,42.0,50.0,92.0
+HDF - Challenge Avenir - Péronne - 1er Chall Avenir Journée Détection U13 Garçons,2022-11-26,U13 Men 45,LECOMTE Noa,43.6,16.0,18.0,20.0,20.0,22.0,24.0,38.0,46.0,84.0
+HDF - Challenge Avenir - Péronne - 1er Chall Avenir Journée Détection U13 Garçons,2022-11-26,U13 Men 45,DESCHRYVER Oscar,40.8,14.0,16.0,18.0,22.0,24.0,25.0,34.0,49.0,83.0
+HDF - Challenge Avenir - Péronne - 1er Chall Avenir Journée Détection U13 Garçons,2022-11-26,U13 Men 49,MONIER Thibaut,47.9,29.0,31.0,33.0,38.0,40.0,42.0,64.0,82.0,146.0
+HDF - Challenge Avenir - Péronne - 1er Chall Avenir Journée Détection U13 Garçons,2022-11-26,U13 Men 49,DESVIGNES Ilan,45.45,21.0,23.0,25.0,30.0,32.0,34.0,48.0,66.0,114.0
+HDF - Challenge Avenir - Péronne - 1er Chall Avenir Journée Détection U13 Garçons,2022-11-26,U13 Men 55,ALLAYS RAMACKERS Enguerrand,51.3,34.0,36.0,38.0,43.0,45.0,47.0,74.0,92.0,166.0
+HDF - Challenge Avenir - Péronne - 1er Chall Avenir Journée Détection U13 Garçons,2022-11-26,U13 Men 61,FLUTEAUX Marcus,59.9,17.0,19.0,21.0,19.0,21.0,23.0,40.0,44.0,84.0
+HDF - Challenge Avenir - Péronne - 1er Chall Avenir Journée Détection U13 Garçons,2022-11-26,U13 Men 67,GOURGUECHON ALLART Elie,62.9,37.0,39.0,41.0,42.0,44.0,46.0,80.0,90.0,170.0
+HDF - Challenge Avenir - Péronne - 1er Chall Avenir Journée Détection U13 Garçons,2022-11-26,U13 Men 67,DAVID Ethan,63.3,20.0,22.0,24.0,28.0,30.0,32.0,46.0,62.0,108.0
+HDF - Challenge Avenir - Péronne - 1er Chall Avenir Journée Détection U13 Garçons,2022-11-26,U13 Men 67,LAFFILEZ Esteban,63.9,-10.0,10.0,12.0,-12.0,12.0,13.0,22.0,25.0,47.0
+HDF - Challenge Avenir - Péronne - 1er Chall Avenir Journée Détection U13 Garçons,2022-11-26,U13 Men 73,WAHL Timeo,69.8,27.0,28.0,-30.0,35.0,37.0,39.0,55.0,76.0,131.0
+HDF - Challenge Avenir - Péronne - 1er Chall Avenir Journée Détection U13 Garçons,2022-11-26,U13 Men >73,CAIEZ Kenzo,80.0,22.0,24.0,26.0,35.0,37.0,-39.0,50.0,72.0,122.0

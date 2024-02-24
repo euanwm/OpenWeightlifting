@@ -1,14 +1,14 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-BRE - Chpt Départemental - Lorient - P4,2023-12-17,SEN M 61,PERVIER Alix,60.6,73.0,76.0,78.0,97.0,101.0,-105.0,78.0,101.0,179.0
-BRE - Chpt Départemental - Lorient - P4,2023-12-17,SEN M 61,DAMIEN Samuel,60.8,43.0,45.0,47.0,55.0,-58.0,58.0,47.0,58.0,105.0
-BRE - Chpt Départemental - Lorient - P4,2023-12-17,SEN M 67,HAYAT Raphaël,66.0,86.0,90.0,94.0,109.0,114.0,-118.0,94.0,114.0,208.0
-BRE - Chpt Départemental - Lorient - P4,2023-12-17,SEN M 67,PARDO Yann,66.2,75.0,79.0,82.0,92.0,95.0,100.0,82.0,100.0,182.0
-BRE - Chpt Départemental - Lorient - P4,2023-12-17,SEN M 73,MAYET Maxime,71.9,-70.0,73.0,-76.0,90.0,-95.0,95.0,73.0,95.0,168.0
-BRE - Chpt Départemental - Lorient - P4,2023-12-17,SEN M 73,ADAM Liam,71.2,65.0,70.0,-75.0,85.0,90.0,-98.0,70.0,90.0,160.0
-BRE - Chpt Départemental - Lorient - P4,2023-12-17,SEN M 73,BUTEAU Aurélien,69.0,-86.0,-90.0,-90.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
-BRE - Chpt Départemental - Lorient - P4,2023-12-17,SEN M 81,STRUILLOU Evan,81.0,-75.0,75.0,78.0,-96.0,96.0,102.0,78.0,102.0,180.0
-BRE - Chpt Départemental - Lorient - P4,2023-12-17,SEN M 81,HOQUET Simon,73.6,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
-BRE - Chpt Départemental - Lorient - P4,2023-12-17,SEN M 89,BAURAIN Rudy,88.3,100.0,-105.0,-106.0,118.0,121.0,-124.0,100.0,121.0,221.0
-BRE - Chpt Départemental - Lorient - P4,2023-12-17,SEN M 89,HOUET Bernard,83.0,34.0,36.0,38.0,44.0,-0.0,-0.0,38.0,44.0,82.0
-BRE - Chpt Départemental - Lorient - P4,2023-12-17,SEN M 96,GUEHENNEC François,94.8,78.0,82.0,87.0,108.0,112.0,116.0,87.0,116.0,203.0
-BRE - Chpt Départemental - Lorient - P4,2023-12-17,SEN M 102,LUAKI Amete,96.7,80.0,90.0,-100.0,110.0,120.0,-0.0,90.0,120.0,210.0
+BRE - Chpt Départemental - Lorient - P4,2023-12-17,SEN Men 61,PERVIER Alix,60.6,73.0,76.0,78.0,97.0,101.0,-105.0,78.0,101.0,179.0
+BRE - Chpt Départemental - Lorient - P4,2023-12-17,SEN Men 61,DAMIEN Samuel,60.8,43.0,45.0,47.0,55.0,-58.0,58.0,47.0,58.0,105.0
+BRE - Chpt Départemental - Lorient - P4,2023-12-17,SEN Men 67,HAYAT Raphaël,66.0,86.0,90.0,94.0,109.0,114.0,-118.0,94.0,114.0,208.0
+BRE - Chpt Départemental - Lorient - P4,2023-12-17,SEN Men 67,PARDO Yann,66.2,75.0,79.0,82.0,92.0,95.0,100.0,82.0,100.0,182.0
+BRE - Chpt Départemental - Lorient - P4,2023-12-17,SEN Men 73,MAYET Maxime,71.9,-70.0,73.0,-76.0,90.0,-95.0,95.0,73.0,95.0,168.0
+BRE - Chpt Départemental - Lorient - P4,2023-12-17,SEN Men 73,ADAM Liam,71.2,65.0,70.0,-75.0,85.0,90.0,-98.0,70.0,90.0,160.0
+BRE - Chpt Départemental - Lorient - P4,2023-12-17,SEN Men 73,BUTEAU Aurélien,69.0,-86.0,-90.0,-90.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+BRE - Chpt Départemental - Lorient - P4,2023-12-17,SEN Men 81,STRUILLOU Evan,81.0,-75.0,75.0,78.0,-96.0,96.0,102.0,78.0,102.0,180.0
+BRE - Chpt Départemental - Lorient - P4,2023-12-17,SEN Men 81,HOQUET Simon,73.6,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+BRE - Chpt Départemental - Lorient - P4,2023-12-17,SEN Men 89,BAURAIN Rudy,88.3,100.0,-105.0,-106.0,118.0,121.0,-124.0,100.0,121.0,221.0
+BRE - Chpt Départemental - Lorient - P4,2023-12-17,SEN Men 89,HOUET Bernard,83.0,34.0,36.0,38.0,44.0,-0.0,-0.0,38.0,44.0,82.0
+BRE - Chpt Départemental - Lorient - P4,2023-12-17,SEN Men 96,GUEHENNEC François,94.8,78.0,82.0,87.0,108.0,112.0,116.0,87.0,116.0,203.0
+BRE - Chpt Départemental - Lorient - P4,2023-12-17,SEN Men 102,LUAKI Amete,96.7,80.0,90.0,-100.0,110.0,120.0,-0.0,90.0,120.0,210.0

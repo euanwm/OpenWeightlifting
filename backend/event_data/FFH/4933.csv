@@ -1,14 +1,14 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-CVL - Chpt Départemental - Lucé - Eure et Loir (28),2023-01-29,SEN M 67,BOCK Theo,65.2,40.0,42.0,44.0,60.0,61.0,63.0,44.0,63.0,107.0
-CVL - Chpt Départemental - Lucé - Eure et Loir (28),2023-01-29,SEN M 73,SAUVE Michael,70.9,85.0,90.0,95.0,105.0,-110.0,115.0,95.0,115.0,210.0
-CVL - Chpt Départemental - Lucé - Eure et Loir (28),2023-01-29,SEN M 73,KOCISZEWSKI Corentin,71.0,55.0,58.0,-60.0,75.0,77.0,80.0,58.0,80.0,138.0
-CVL - Chpt Départemental - Lucé - Eure et Loir (28),2023-01-29,SEN M 73,LAGNEAUX Steven,72.2,40.0,43.0,48.0,60.0,63.0,65.0,48.0,65.0,113.0
-CVL - Chpt Départemental - Lucé - Eure et Loir (28),2023-01-29,SEN M 73,SEVESTRE Clement,70.9,-40.0,40.0,43.0,60.0,-65.0,68.0,43.0,68.0,111.0
-CVL - Chpt Départemental - Lucé - Eure et Loir (28),2023-01-29,SEN M 81,REMON Loup,79.4,80.0,-83.0,83.0,105.0,110.0,-115.0,83.0,110.0,193.0
-CVL - Chpt Départemental - Lucé - Eure et Loir (28),2023-01-29,SEN M 81,MONTGUILLON Benjamin,76.5,70.0,75.0,-80.0,91.0,94.0,98.0,75.0,98.0,173.0
-CVL - Chpt Départemental - Lucé - Eure et Loir (28),2023-01-29,SEN M 81,GUERIN Florian,77.8,-60.0,63.0,65.0,83.0,86.0,-89.0,65.0,86.0,151.0
-CVL - Chpt Départemental - Lucé - Eure et Loir (28),2023-01-29,SEN M 89,CHOUAN Arnaud,87.3,85.0,88.0,-92.0,105.0,108.0,112.0,88.0,112.0,200.0
-CVL - Chpt Départemental - Lucé - Eure et Loir (28),2023-01-29,SEN M 89,RICORDEAU Corentin,86.2,65.0,70.0,75.0,100.0,105.0,110.0,75.0,110.0,185.0
-CVL - Chpt Départemental - Lucé - Eure et Loir (28),2023-01-29,SEN M 96,BLONDEL Manu,89.7,73.0,75.0,-77.0,95.0,-98.0,98.0,75.0,98.0,173.0
-CVL - Chpt Départemental - Lucé - Eure et Loir (28),2023-01-29,SEN M 102,DE GRACIA Frederic,97.3,-70.0,71.0,75.0,90.0,93.0,96.0,75.0,96.0,171.0
-CVL - Chpt Départemental - Lucé - Eure et Loir (28),2023-01-29,SEN M 102,DELMAS Mehdi,96.6,55.0,58.0,62.0,82.0,85.0,-88.0,62.0,85.0,147.0
+CVL - Chpt Départemental - Lucé - Eure et Loir (28),2023-01-29,SEN Men 67,BOCK Theo,65.2,40.0,42.0,44.0,60.0,61.0,63.0,44.0,63.0,107.0
+CVL - Chpt Départemental - Lucé - Eure et Loir (28),2023-01-29,SEN Men 73,SAUVE Michael,70.9,85.0,90.0,95.0,105.0,-110.0,115.0,95.0,115.0,210.0
+CVL - Chpt Départemental - Lucé - Eure et Loir (28),2023-01-29,SEN Men 73,KOCISZEWSKI Corentin,71.0,55.0,58.0,-60.0,75.0,77.0,80.0,58.0,80.0,138.0
+CVL - Chpt Départemental - Lucé - Eure et Loir (28),2023-01-29,SEN Men 73,LAGNEAUX Steven,72.2,40.0,43.0,48.0,60.0,63.0,65.0,48.0,65.0,113.0
+CVL - Chpt Départemental - Lucé - Eure et Loir (28),2023-01-29,SEN Men 73,SEVESTRE Clement,70.9,-40.0,40.0,43.0,60.0,-65.0,68.0,43.0,68.0,111.0
+CVL - Chpt Départemental - Lucé - Eure et Loir (28),2023-01-29,SEN Men 81,REMON Loup,79.4,80.0,-83.0,83.0,105.0,110.0,-115.0,83.0,110.0,193.0
+CVL - Chpt Départemental - Lucé - Eure et Loir (28),2023-01-29,SEN Men 81,MONTGUILLON Benjamin,76.5,70.0,75.0,-80.0,91.0,94.0,98.0,75.0,98.0,173.0
+CVL - Chpt Départemental - Lucé - Eure et Loir (28),2023-01-29,SEN Men 81,GUERIN Florian,77.8,-60.0,63.0,65.0,83.0,86.0,-89.0,65.0,86.0,151.0
+CVL - Chpt Départemental - Lucé - Eure et Loir (28),2023-01-29,SEN Men 89,CHOUAN Arnaud,87.3,85.0,88.0,-92.0,105.0,108.0,112.0,88.0,112.0,200.0
+CVL - Chpt Départemental - Lucé - Eure et Loir (28),2023-01-29,SEN Men 89,RICORDEAU Corentin,86.2,65.0,70.0,75.0,100.0,105.0,110.0,75.0,110.0,185.0
+CVL - Chpt Départemental - Lucé - Eure et Loir (28),2023-01-29,SEN Men 96,BLONDEL Manu,89.7,73.0,75.0,-77.0,95.0,-98.0,98.0,75.0,98.0,173.0
+CVL - Chpt Départemental - Lucé - Eure et Loir (28),2023-01-29,SEN Men 102,DE GRACIA Frederic,97.3,-70.0,71.0,75.0,90.0,93.0,96.0,75.0,96.0,171.0
+CVL - Chpt Départemental - Lucé - Eure et Loir (28),2023-01-29,SEN Men 102,DELMAS Mehdi,96.6,55.0,58.0,62.0,82.0,85.0,-88.0,62.0,85.0,147.0

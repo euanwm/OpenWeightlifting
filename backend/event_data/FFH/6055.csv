@@ -1,14 +1,14 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN F 55,BONZOM Marie,54.3,35.0,38.0,-40.0,52.0,55.0,57.0,38.0,57.0,95.0
-OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN F 55,CLARIVET Ingrid,51.8,37.0,-40.0,-40.0,50.0,-53.0,-53.0,37.0,50.0,87.0
-OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN F 55,ZWICK Sonja,52.1,43.0,-45.0,45.0,-53.0,-53.0,-53.0,45.0,0.0,0.0
-OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN F 59,LALLOYEAU Marilou,58.8,45.0,51.0,-55.0,60.0,70.0,-75.0,51.0,70.0,121.0
-OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN F 59,OBRY Aurore,58.6,53.0,-56.0,-56.0,63.0,-67.0,-67.0,53.0,63.0,116.0
-OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN F 59,RODRIGUES Elora,58.9,41.0,43.0,-45.0,51.0,54.0,57.0,43.0,57.0,100.0
-OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN F 59,PEYRE Myriam,58.8,40.0,43.0,46.0,53.0,-56.0,-56.0,46.0,53.0,99.0
-OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN F 64,LORTAL Orane,62.6,47.0,50.0,53.0,58.0,62.0,66.0,53.0,66.0,119.0
-OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN F 64,SANSON-STERN Maj,62.6,43.0,-46.0,47.0,50.0,53.0,55.0,47.0,55.0,102.0
-OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN F 64,LAVAUZELLE Sandra,59.5,25.0,28.0,30.0,35.0,38.0,41.0,30.0,41.0,71.0
-OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN F 71,GOBERT Iris,70.0,55.0,58.0,-60.0,60.0,65.0,-68.0,58.0,65.0,123.0
-OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN F 87,GRIMAL Anne marie,82.0,44.0,47.0,-50.0,61.0,-65.0,-65.0,47.0,61.0,108.0
-OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN F 87,BENOIT Zoe,83.4,46.0,49.0,-51.0,-57.0,57.0,-61.0,49.0,57.0,106.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 55,BONZOM Marie,54.3,35.0,38.0,-40.0,52.0,55.0,57.0,38.0,57.0,95.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 55,CLARIVET Ingrid,51.8,37.0,-40.0,-40.0,50.0,-53.0,-53.0,37.0,50.0,87.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 55,ZWICK Sonja,52.1,43.0,-45.0,45.0,-53.0,-53.0,-53.0,45.0,0.0,0.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 59,LALLOYEAU Marilou,58.8,45.0,51.0,-55.0,60.0,70.0,-75.0,51.0,70.0,121.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 59,OBRY Aurore,58.6,53.0,-56.0,-56.0,63.0,-67.0,-67.0,53.0,63.0,116.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 59,RODRIGUES Elora,58.9,41.0,43.0,-45.0,51.0,54.0,57.0,43.0,57.0,100.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 59,PEYRE Myriam,58.8,40.0,43.0,46.0,53.0,-56.0,-56.0,46.0,53.0,99.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 64,LORTAL Orane,62.6,47.0,50.0,53.0,58.0,62.0,66.0,53.0,66.0,119.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 64,SANSON-STERN Maj,62.6,43.0,-46.0,47.0,50.0,53.0,55.0,47.0,55.0,102.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 64,LAVAUZELLE Sandra,59.5,25.0,28.0,30.0,35.0,38.0,41.0,30.0,41.0,71.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 71,GOBERT Iris,70.0,55.0,58.0,-60.0,60.0,65.0,-68.0,58.0,65.0,123.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 87,GRIMAL Anne marie,82.0,44.0,47.0,-50.0,61.0,-65.0,-65.0,47.0,61.0,108.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 87,BENOIT Zoe,83.4,46.0,49.0,-51.0,-57.0,57.0,-61.0,49.0,57.0,106.0

@@ -1,19 +1,19 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-OCC - Challenge Avenir - Montauban - SEN F Plateau 2,2024-01-13,SEN F 49,GRIMAL Claire,46.9,27.0,29.0,-31.0,31.0,34.0,37.0,29.0,37.0,66.0
-OCC - Challenge Avenir - Montauban - SEN F Plateau 2,2024-01-13,SEN F 55,ESPLAS Elisa,55.0,40.0,43.0,-46.0,45.0,48.0,51.0,43.0,51.0,94.0
-OCC - Challenge Avenir - Montauban - SEN F Plateau 2,2024-01-13,SEN F 64,BADIANO Valentine,62.1,51.0,53.0,55.0,61.0,64.0,-67.0,55.0,64.0,119.0
-OCC - Challenge Avenir - Montauban - SEN F Plateau 2,2024-01-13,SEN F 64,ROGER Pauline,63.5,-50.0,50.0,-55.0,63.0,-66.0,-69.0,50.0,63.0,113.0
-OCC - Challenge Avenir - Montauban - SEN F Plateau 2,2024-01-13,SEN F 64,MARIE ROSE Michelle,61.7,44.0,47.0,50.0,54.0,57.0,-60.0,50.0,57.0,107.0
-OCC - Challenge Avenir - Montauban - SEN F Plateau 2,2024-01-13,SEN F 64,SANSON-STERN Maj,60.6,45.0,48.0,-51.0,50.0,-53.0,53.0,48.0,53.0,101.0
-OCC - Challenge Avenir - Montauban - SEN F Plateau 2,2024-01-13,SEN F 64,JOUNIAUX Alexane,63.3,37.0,-39.0,39.0,43.0,46.0,-49.0,39.0,46.0,85.0
-OCC - Challenge Avenir - Montauban - SEN F Plateau 2,2024-01-13,SEN F 64,DELAGNES Angélique,59.6,32.0,35.0,-38.0,40.0,45.0,-50.0,35.0,45.0,80.0
-OCC - Challenge Avenir - Montauban - SEN F Plateau 2,2024-01-13,SEN F 71,ELIOT Diane,65.5,55.0,58.0,61.0,70.0,-75.0,78.0,61.0,78.0,139.0
-OCC - Challenge Avenir - Montauban - SEN F Plateau 2,2024-01-13,SEN F 71,FABRE Margot,69.9,40.0,42.0,-44.0,51.0,-54.0,54.0,42.0,54.0,96.0
-OCC - Challenge Avenir - Montauban - SEN F Plateau 2,2024-01-13,SEN F 71,BEAUSSART Sophie,67.7,35.0,37.0,-40.0,45.0,48.0,52.0,37.0,52.0,89.0
-OCC - Challenge Avenir - Montauban - SEN F Plateau 2,2024-01-13,SEN F 71,JOLY Valerie,68.7,25.0,27.0,29.0,30.0,33.0,35.0,29.0,35.0,64.0
-OCC - Challenge Avenir - Montauban - SEN F Plateau 2,2024-01-13,SEN F 76,MARING Mylène,72.9,50.0,53.0,56.0,60.0,64.0,67.0,56.0,67.0,123.0
-OCC - Challenge Avenir - Montauban - SEN F Plateau 2,2024-01-13,SEN F 87,BOADA Salomé,82.3,49.0,52.0,-55.0,65.0,-69.0,-70.0,52.0,65.0,117.0
-OCC - Challenge Avenir - Montauban - SEN F Plateau 2,2024-01-13,SEN F 87,PETIT Jade,81.6,44.0,47.0,50.0,58.0,62.0,-66.0,50.0,62.0,112.0
-OCC - Challenge Avenir - Montauban - SEN F Plateau 2,2024-01-13,SEN F >87,CARRAT DE BLUZE Maelis,96.1,43.0,45.0,-48.0,58.0,61.0,-64.0,45.0,61.0,106.0
-OCC - Challenge Avenir - Montauban - SEN F Plateau 2,2024-01-13,SEN F >87,FAJARDO Julie,95.3,30.0,-35.0,35.0,45.0,-50.0,50.0,35.0,50.0,85.0
-OCC - Challenge Avenir - Montauban - SEN F Plateau 2,2024-01-13,SEN F >87,PROUET Bernadette,96.3,27.0,29.0,31.0,29.0,-35.0,-35.0,31.0,29.0,60.0
+OCC - Challenge Avenir - Montauban - SEN F Plateau 2,2024-01-13,SEN Women 49,GRIMAL Claire,46.9,27.0,29.0,-31.0,31.0,34.0,37.0,29.0,37.0,66.0
+OCC - Challenge Avenir - Montauban - SEN F Plateau 2,2024-01-13,SEN Women 55,ESPLAS Elisa,55.0,40.0,43.0,-46.0,45.0,48.0,51.0,43.0,51.0,94.0
+OCC - Challenge Avenir - Montauban - SEN F Plateau 2,2024-01-13,SEN Women 64,BADIANO Valentine,62.1,51.0,53.0,55.0,61.0,64.0,-67.0,55.0,64.0,119.0
+OCC - Challenge Avenir - Montauban - SEN F Plateau 2,2024-01-13,SEN Women 64,ROGER Pauline,63.5,-50.0,50.0,-55.0,63.0,-66.0,-69.0,50.0,63.0,113.0
+OCC - Challenge Avenir - Montauban - SEN F Plateau 2,2024-01-13,SEN Women 64,MARIE ROSE Michelle,61.7,44.0,47.0,50.0,54.0,57.0,-60.0,50.0,57.0,107.0
+OCC - Challenge Avenir - Montauban - SEN F Plateau 2,2024-01-13,SEN Women 64,SANSON-STERN Maj,60.6,45.0,48.0,-51.0,50.0,-53.0,53.0,48.0,53.0,101.0
+OCC - Challenge Avenir - Montauban - SEN F Plateau 2,2024-01-13,SEN Women 64,JOUNIAUX Alexane,63.3,37.0,-39.0,39.0,43.0,46.0,-49.0,39.0,46.0,85.0
+OCC - Challenge Avenir - Montauban - SEN F Plateau 2,2024-01-13,SEN Women 64,DELAGNES Angélique,59.6,32.0,35.0,-38.0,40.0,45.0,-50.0,35.0,45.0,80.0
+OCC - Challenge Avenir - Montauban - SEN F Plateau 2,2024-01-13,SEN Women 71,ELIOT Diane,65.5,55.0,58.0,61.0,70.0,-75.0,78.0,61.0,78.0,139.0
+OCC - Challenge Avenir - Montauban - SEN F Plateau 2,2024-01-13,SEN Women 71,FABRE Margot,69.9,40.0,42.0,-44.0,51.0,-54.0,54.0,42.0,54.0,96.0
+OCC - Challenge Avenir - Montauban - SEN F Plateau 2,2024-01-13,SEN Women 71,BEAUSSART Sophie,67.7,35.0,37.0,-40.0,45.0,48.0,52.0,37.0,52.0,89.0
+OCC - Challenge Avenir - Montauban - SEN F Plateau 2,2024-01-13,SEN Women 71,JOLY Valerie,68.7,25.0,27.0,29.0,30.0,33.0,35.0,29.0,35.0,64.0
+OCC - Challenge Avenir - Montauban - SEN F Plateau 2,2024-01-13,SEN Women 76,MARING Mylène,72.9,50.0,53.0,56.0,60.0,64.0,67.0,56.0,67.0,123.0
+OCC - Challenge Avenir - Montauban - SEN F Plateau 2,2024-01-13,SEN Women 87,BOADA Salomé,82.3,49.0,52.0,-55.0,65.0,-69.0,-70.0,52.0,65.0,117.0
+OCC - Challenge Avenir - Montauban - SEN F Plateau 2,2024-01-13,SEN Women 87,PETIT Jade,81.6,44.0,47.0,50.0,58.0,62.0,-66.0,50.0,62.0,112.0
+OCC - Challenge Avenir - Montauban - SEN F Plateau 2,2024-01-13,SEN Women >87,CARRAT DE BLUZE Maelis,96.1,43.0,45.0,-48.0,58.0,61.0,-64.0,45.0,61.0,106.0
+OCC - Challenge Avenir - Montauban - SEN F Plateau 2,2024-01-13,SEN Women >87,FAJARDO Julie,95.3,30.0,-35.0,35.0,45.0,-50.0,50.0,35.0,50.0,85.0
+OCC - Challenge Avenir - Montauban - SEN F Plateau 2,2024-01-13,SEN Women >87,PROUET Bernadette,96.3,27.0,29.0,31.0,29.0,-35.0,-35.0,31.0,29.0,60.0

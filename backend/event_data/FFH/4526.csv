@@ -1,14 +1,14 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2022-12-07,U13 M 35,FOURNIER Emil,26.9,10.0,12.0,14.0,18.0,20.0,-22.0,26.0,38.0,64.0
-BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2022-12-07,U13 M 40,HERIT Thomas,38.6,18.0,20.0,22.0,26.0,28.0,30.0,42.0,58.0,100.0
-BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2022-12-07,U13 M 40,ROYER Wyatt,39.1,12.0,14.0,16.0,14.0,16.0,18.0,30.0,34.0,64.0
-BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2022-12-07,U13 M 40,TUAILLON Nathan,35.1,10.0,12.0,-14.0,12.0,14.0,16.0,22.0,30.0,52.0
-BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2022-12-07,U13 M 40,VINCENY Yanis,37.0,10.0,12.0,-14.0,12.0,14.0,-16.0,22.0,26.0,48.0
-BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2022-12-07,U13 M 45,BARGEOT Marius,43.6,14.0,16.0,-18.0,18.0,20.0,22.0,30.0,42.0,72.0
-BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2022-12-07,U13 M 45,THIBERT Amaury,43.8,10.0,12.0,14.0,12.0,14.0,16.0,26.0,30.0,56.0
-BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2022-12-07,U13 M 45,MELUN Celestin,43.8,10.0,12.0,14.0,12.0,14.0,16.0,26.0,30.0,56.0
-BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2022-12-07,U13 M 45,INGEOR Théo,42.6,10.0,12.0,14.0,12.0,14.0,-16.0,26.0,26.0,52.0
-BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2022-12-07,U13 M 45,DRHIPI Mathis,43.6,10.0,12.0,-14.0,12.0,14.0,16.0,22.0,30.0,52.0
-BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2022-12-07,U13 M 49,LIBERT Quentin,45.7,14.0,16.0,18.0,26.0,28.0,-30.0,34.0,54.0,88.0
-BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2022-12-07,U13 M 55,VOGEL Evan,52.1,14.0,16.0,-18.0,18.0,20.0,22.0,30.0,42.0,72.0
-BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2022-12-07,U13 M 61,GODESSART Morgan,58.4,16.0,18.0,-20.0,24.0,26.0,28.0,34.0,54.0,88.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2022-12-07,U13 Men 35,FOURNIER Emil,26.9,10.0,12.0,14.0,18.0,20.0,-22.0,26.0,38.0,64.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2022-12-07,U13 Men 40,HERIT Thomas,38.6,18.0,20.0,22.0,26.0,28.0,30.0,42.0,58.0,100.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2022-12-07,U13 Men 40,ROYER Wyatt,39.1,12.0,14.0,16.0,14.0,16.0,18.0,30.0,34.0,64.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2022-12-07,U13 Men 40,TUAILLON Nathan,35.1,10.0,12.0,-14.0,12.0,14.0,16.0,22.0,30.0,52.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2022-12-07,U13 Men 40,VINCENY Yanis,37.0,10.0,12.0,-14.0,12.0,14.0,-16.0,22.0,26.0,48.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2022-12-07,U13 Men 45,BARGEOT Marius,43.6,14.0,16.0,-18.0,18.0,20.0,22.0,30.0,42.0,72.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2022-12-07,U13 Men 45,THIBERT Amaury,43.8,10.0,12.0,14.0,12.0,14.0,16.0,26.0,30.0,56.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2022-12-07,U13 Men 45,MELUN Celestin,43.8,10.0,12.0,14.0,12.0,14.0,16.0,26.0,30.0,56.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2022-12-07,U13 Men 45,INGEOR Théo,42.6,10.0,12.0,14.0,12.0,14.0,-16.0,26.0,26.0,52.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2022-12-07,U13 Men 45,DRHIPI Mathis,43.6,10.0,12.0,-14.0,12.0,14.0,16.0,22.0,30.0,52.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2022-12-07,U13 Men 49,LIBERT Quentin,45.7,14.0,16.0,18.0,26.0,28.0,-30.0,34.0,54.0,88.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2022-12-07,U13 Men 55,VOGEL Evan,52.1,14.0,16.0,-18.0,18.0,20.0,22.0,30.0,42.0,72.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2022-12-07,U13 Men 61,GODESSART Morgan,58.4,16.0,18.0,-20.0,24.0,26.0,28.0,34.0,54.0,88.0

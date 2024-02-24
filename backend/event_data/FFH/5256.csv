@@ -1,14 +1,14 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-NAQ - Chpt Province - Bordeaux Powercamp - zone sud,2023-02-25,SEN M 61,MOCAËR LORGERE Alan,57.6,82.0,86.0,-89.0,110.0,-115.0,115.0,86.0,115.0,201.0
-NAQ - Chpt Province - Bordeaux Powercamp - zone sud,2023-02-25,SEN M 81,HASSAINE Adam,80.2,120.0,125.0,-130.0,150.0,-160.0,-170.0,125.0,150.0,275.0
-NAQ - Chpt Province - Bordeaux Powercamp - zone sud,2023-02-25,SEN M 81,HORAITIS Dimitri,80.1,114.0,119.0,-125.0,-136.0,136.0,145.0,119.0,145.0,264.0
-NAQ - Chpt Province - Bordeaux Powercamp - zone sud,2023-02-25,SEN M 81,MESPLEDE Anthony,78.7,105.0,-109.0,-109.0,-135.0,135.0,-145.0,105.0,135.0,240.0
-NAQ - Chpt Province - Bordeaux Powercamp - zone sud,2023-02-25,SEN M 81,POINTET Robin,80.85,-92.0,92.0,-100.0,123.0,130.0,-134.0,92.0,130.0,222.0
-NAQ - Chpt Province - Bordeaux Powercamp - zone sud,2023-02-25,SEN M 81,PETIT Tommy,79.4,-117.0,117.0,-121.0,-0.0,-0.0,-0.0,117.0,0.0,0.0
-NAQ - Chpt Province - Bordeaux Powercamp - zone sud,2023-02-25,SEN M 89,PETIT Victor,87.25,-110.0,-110.0,112.0,-140.0,140.0,148.0,112.0,148.0,260.0
-NAQ - Chpt Province - Bordeaux Powercamp - zone sud,2023-02-25,SEN M 89,POIRIER Mathieu,88.55,108.0,113.0,-118.0,138.0,-144.0,-144.0,113.0,138.0,251.0
-NAQ - Chpt Province - Bordeaux Powercamp - zone sud,2023-02-25,SEN M 89,LEJEUNE Denis,87.45,105.0,-110.0,110.0,135.0,140.0,-145.0,110.0,140.0,250.0
-NAQ - Chpt Province - Bordeaux Powercamp - zone sud,2023-02-25,SEN M 89,CAPDEVIELLE Dorian,88.5,-105.0,105.0,-110.0,127.0,-133.0,-133.0,105.0,127.0,232.0
-NAQ - Chpt Province - Bordeaux Powercamp - zone sud,2023-02-25,SEN M 89,SEMIROT Clement,87.5,118.0,-123.0,-125.0,-137.0,-142.0,-142.0,118.0,0.0,0.0
-NAQ - Chpt Province - Bordeaux Powercamp - zone sud,2023-02-25,SEN M 102,MANUSHI Redon,97.95,160.0,-165.0,167.0,180.0,188.0,-0.0,167.0,188.0,355.0
-NAQ - Chpt Province - Bordeaux Powercamp - zone sud,2023-02-25,SEN M 102,ORTIZ Francois,98.0,30.0,-0.0,-0.0,40.0,-0.0,-0.0,30.0,40.0,70.0
+NAQ - Chpt Province - Bordeaux Powercamp - zone sud,2023-02-25,SEN Men 61,MOCAËR LORGERE Alan,57.6,82.0,86.0,-89.0,110.0,-115.0,115.0,86.0,115.0,201.0
+NAQ - Chpt Province - Bordeaux Powercamp - zone sud,2023-02-25,SEN Men 81,HASSAINE Adam,80.2,120.0,125.0,-130.0,150.0,-160.0,-170.0,125.0,150.0,275.0
+NAQ - Chpt Province - Bordeaux Powercamp - zone sud,2023-02-25,SEN Men 81,HORAITIS Dimitri,80.1,114.0,119.0,-125.0,-136.0,136.0,145.0,119.0,145.0,264.0
+NAQ - Chpt Province - Bordeaux Powercamp - zone sud,2023-02-25,SEN Men 81,MESPLEDE Anthony,78.7,105.0,-109.0,-109.0,-135.0,135.0,-145.0,105.0,135.0,240.0
+NAQ - Chpt Province - Bordeaux Powercamp - zone sud,2023-02-25,SEN Men 81,POINTET Robin,80.85,-92.0,92.0,-100.0,123.0,130.0,-134.0,92.0,130.0,222.0
+NAQ - Chpt Province - Bordeaux Powercamp - zone sud,2023-02-25,SEN Men 81,PETIT Tommy,79.4,-117.0,117.0,-121.0,-0.0,-0.0,-0.0,117.0,0.0,0.0
+NAQ - Chpt Province - Bordeaux Powercamp - zone sud,2023-02-25,SEN Men 89,PETIT Victor,87.25,-110.0,-110.0,112.0,-140.0,140.0,148.0,112.0,148.0,260.0
+NAQ - Chpt Province - Bordeaux Powercamp - zone sud,2023-02-25,SEN Men 89,POIRIER Mathieu,88.55,108.0,113.0,-118.0,138.0,-144.0,-144.0,113.0,138.0,251.0
+NAQ - Chpt Province - Bordeaux Powercamp - zone sud,2023-02-25,SEN Men 89,LEJEUNE Denis,87.45,105.0,-110.0,110.0,135.0,140.0,-145.0,110.0,140.0,250.0
+NAQ - Chpt Province - Bordeaux Powercamp - zone sud,2023-02-25,SEN Men 89,CAPDEVIELLE Dorian,88.5,-105.0,105.0,-110.0,127.0,-133.0,-133.0,105.0,127.0,232.0
+NAQ - Chpt Province - Bordeaux Powercamp - zone sud,2023-02-25,SEN Men 89,SEMIROT Clement,87.5,118.0,-123.0,-125.0,-137.0,-142.0,-142.0,118.0,0.0,0.0
+NAQ - Chpt Province - Bordeaux Powercamp - zone sud,2023-02-25,SEN Men 102,MANUSHI Redon,97.95,160.0,-165.0,167.0,180.0,188.0,-0.0,167.0,188.0,355.0
+NAQ - Chpt Province - Bordeaux Powercamp - zone sud,2023-02-25,SEN Men 102,ORTIZ Francois,98.0,30.0,-0.0,-0.0,40.0,-0.0,-0.0,30.0,40.0,70.0

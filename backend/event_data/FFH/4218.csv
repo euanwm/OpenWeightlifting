@@ -1,15 +1,15 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-NAQ - REG 2 - Bordeaux power camp - 2éme tour régional zone sud,2022-11-19,SEN M 67,ANTUNES Tiago,63.6,95.0,-102.0,-105.0,120.0,125.0,-130.0,95.0,125.0,220.0
-NAQ - REG 2 - Bordeaux power camp - 2éme tour régional zone sud,2022-11-19,SEN M 67,PAILLAUGUE Ugo,66.4,-80.0,80.0,-86.0,97.0,-102.0,-103.0,80.0,97.0,177.0
-NAQ - REG 2 - Bordeaux power camp - 2éme tour régional zone sud,2022-11-19,SEN M 81,BERTRAND Alexandre,73.2,-111.0,113.0,-122.0,-135.0,135.0,143.0,113.0,143.0,256.0
-NAQ - REG 2 - Bordeaux power camp - 2éme tour régional zone sud,2022-11-19,SEN M 81,MANCIER Thomas,78.7,75.0,80.0,86.0,95.0,100.0,105.0,86.0,105.0,191.0
-NAQ - REG 2 - Bordeaux power camp - 2éme tour régional zone sud,2022-11-19,SEN M 81,GONZALEZ Raul,80.0,65.0,68.0,72.0,85.0,91.0,-97.0,72.0,91.0,163.0
-NAQ - REG 2 - Bordeaux power camp - 2éme tour régional zone sud,2022-11-19,SEN M 89,LE GUENNEC Louis,87.6,110.0,115.0,120.0,140.0,145.0,-150.0,120.0,145.0,265.0
-NAQ - REG 2 - Bordeaux power camp - 2éme tour régional zone sud,2022-11-19,SEN M 89,SEMIROT Clement,86.3,113.0,-120.0,-120.0,135.0,-143.0,-146.0,113.0,135.0,248.0
-NAQ - REG 2 - Bordeaux power camp - 2éme tour régional zone sud,2022-11-19,SEN M 89,CHENEVIER David,87.9,100.0,-106.0,108.0,-130.0,-132.0,135.0,108.0,135.0,243.0
-NAQ - REG 2 - Bordeaux power camp - 2éme tour régional zone sud,2022-11-19,SEN M 89,CAPDEVIELLE Dorian,88.3,100.0,-105.0,106.0,120.0,-125.0,-128.0,106.0,120.0,226.0
-NAQ - REG 2 - Bordeaux power camp - 2éme tour régional zone sud,2022-11-19,SEN M 89,MANCINI Maxime,82.2,85.0,-90.0,90.0,105.0,110.0,-115.0,90.0,110.0,200.0
-NAQ - REG 2 - Bordeaux power camp - 2éme tour régional zone sud,2022-11-19,SEN M 89,GARNIER Nat driss,83.2,75.0,-85.0,86.0,100.0,107.0,114.0,86.0,114.0,200.0
-NAQ - REG 2 - Bordeaux power camp - 2éme tour régional zone sud,2022-11-19,SEN M 89,BOTEL Corentin,88.0,-83.0,84.0,-90.0,-93.0,95.0,-103.0,84.0,95.0,179.0
-NAQ - REG 2 - Bordeaux power camp - 2éme tour régional zone sud,2022-11-19,SEN M 96,AUDIC Antoine,89.1,-105.0,108.0,113.0,-135.0,135.0,138.0,113.0,138.0,251.0
-NAQ - REG 2 - Bordeaux power camp - 2éme tour régional zone sud,2022-11-19,SEN M 102,DJAMAL Abdoul hafiz,98.2,93.0,95.0,98.0,115.0,-118.0,118.0,98.0,118.0,216.0
+NAQ - REG 2 - Bordeaux power camp - 2éme tour régional zone sud,2022-11-19,SEN Men 67,ANTUNES Tiago,63.6,95.0,-102.0,-105.0,120.0,125.0,-130.0,95.0,125.0,220.0
+NAQ - REG 2 - Bordeaux power camp - 2éme tour régional zone sud,2022-11-19,SEN Men 67,PAILLAUGUE Ugo,66.4,-80.0,80.0,-86.0,97.0,-102.0,-103.0,80.0,97.0,177.0
+NAQ - REG 2 - Bordeaux power camp - 2éme tour régional zone sud,2022-11-19,SEN Men 81,BERTRAND Alexandre,73.2,-111.0,113.0,-122.0,-135.0,135.0,143.0,113.0,143.0,256.0
+NAQ - REG 2 - Bordeaux power camp - 2éme tour régional zone sud,2022-11-19,SEN Men 81,MANCIER Thomas,78.7,75.0,80.0,86.0,95.0,100.0,105.0,86.0,105.0,191.0
+NAQ - REG 2 - Bordeaux power camp - 2éme tour régional zone sud,2022-11-19,SEN Men 81,GONZALEZ Raul,80.0,65.0,68.0,72.0,85.0,91.0,-97.0,72.0,91.0,163.0
+NAQ - REG 2 - Bordeaux power camp - 2éme tour régional zone sud,2022-11-19,SEN Men 89,LE GUENNEC Louis,87.6,110.0,115.0,120.0,140.0,145.0,-150.0,120.0,145.0,265.0
+NAQ - REG 2 - Bordeaux power camp - 2éme tour régional zone sud,2022-11-19,SEN Men 89,SEMIROT Clement,86.3,113.0,-120.0,-120.0,135.0,-143.0,-146.0,113.0,135.0,248.0
+NAQ - REG 2 - Bordeaux power camp - 2éme tour régional zone sud,2022-11-19,SEN Men 89,CHENEVIER David,87.9,100.0,-106.0,108.0,-130.0,-132.0,135.0,108.0,135.0,243.0
+NAQ - REG 2 - Bordeaux power camp - 2éme tour régional zone sud,2022-11-19,SEN Men 89,CAPDEVIELLE Dorian,88.3,100.0,-105.0,106.0,120.0,-125.0,-128.0,106.0,120.0,226.0
+NAQ - REG 2 - Bordeaux power camp - 2éme tour régional zone sud,2022-11-19,SEN Men 89,MANCINI Maxime,82.2,85.0,-90.0,90.0,105.0,110.0,-115.0,90.0,110.0,200.0
+NAQ - REG 2 - Bordeaux power camp - 2éme tour régional zone sud,2022-11-19,SEN Men 89,GARNIER Nat driss,83.2,75.0,-85.0,86.0,100.0,107.0,114.0,86.0,114.0,200.0
+NAQ - REG 2 - Bordeaux power camp - 2éme tour régional zone sud,2022-11-19,SEN Men 89,BOTEL Corentin,88.0,-83.0,84.0,-90.0,-93.0,95.0,-103.0,84.0,95.0,179.0
+NAQ - REG 2 - Bordeaux power camp - 2éme tour régional zone sud,2022-11-19,SEN Men 96,AUDIC Antoine,89.1,-105.0,108.0,113.0,-135.0,135.0,138.0,113.0,138.0,251.0
+NAQ - REG 2 - Bordeaux power camp - 2éme tour régional zone sud,2022-11-19,SEN Men 102,DJAMAL Abdoul hafiz,98.2,93.0,95.0,98.0,115.0,-118.0,118.0,98.0,118.0,216.0
