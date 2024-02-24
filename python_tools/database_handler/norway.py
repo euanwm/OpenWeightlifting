@@ -29,22 +29,19 @@ class Norway:
         self.catlist = load_json(
             f"{os.getcwd()}/database_handler/gender_categories.json")
 
-    def get_event_list(self) -> list[int]:
+    def get_event_list(self) -> list[dict]:
         """Returns a list of event IDs"""
         logging.info("Fetching event list")
-        event_list: list[int] = []
         query = f"?fra-dato=2023-01-01&til-dato={self.__todays_date()}"
         # omg buh eror handlin
         res = get(urljoin(self.base_url, query), timeout=120).json()
         # cope
-        for event in res:
-            event_list.append(event["id"])
-        return event_list
+        return res
 
-    def fetch_event(self, event_id) -> list[Any, Result]:
+    def fetch_event(self, event) -> list[Any, Result] | list[Any]:
         """Returns a list of results for a given event ID"""
-        logging.info("Fetching event %s", event_id)
-        res = get(urljoin(self.base_url, str(event_id)), timeout=120)
+        logging.info("Fetching event %s", event['id'])
+        res = get(urljoin(self.base_url, str(event["id"])), timeout=120)
         if not res.ok:
             return []
         res_json = res.json()
@@ -55,7 +52,7 @@ class Norway:
             try:
                 cat_code = self.parse_cat_code(
                     result['kategori']['forkortelse'], result['vektklasse']['navn'])
-                datac = self.__assign_dataclass(result, cat_code, comp_name)
+                datac = self.__assign_dataclass(result, cat_code, comp_name, event["startDato"])
                 datac_to_list = list(x for x in datac.__dict__.values())
                 event_results.append(datac_to_list)
             except ValueError as ex:
@@ -84,13 +81,13 @@ class Norway:
         return ValueError(f"Category not found: {cat_params} / {cat_code}")
 
     def __assign_dataclass(self, result: dict, category: str,
-                           comp_name: str) -> Result:
+                           comp_name: str, event_date: str) -> Result:
         """Assigns the dataclass"""
         datac = Result(
             event=comp_name,
-            date=result['dato'],
+            date=event_date,
             category=category,
-            lifter_name=result['navn'],
+            lifter_name=result['historicPersonName'],
             bodyweight=result["vektklasse"]['vektklasse'],
             snatch_1=result['rykk1'],
             snatch_2=result['rykk2'],
@@ -142,7 +139,7 @@ class Norway:
         event_list = self.get_event_list()
         result_db_ids = [int(x.split(".")[0])
                          for x in os.listdir(self.results_root)]
-        for event_id in event_list:
-            if event_id not in result_db_ids:
-                event_results = self.fetch_event(event_id)
-                write_to_csv(self.results_root, event_id, event_results)
+        for event in event_list:
+            if event["id"] not in result_db_ids:
+                event_results = self.fetch_event(event)
+                write_to_csv(self.results_root, event["id"], event_results)

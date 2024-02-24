@@ -1,0 +1,46 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+DULC Winter Open,2024-01-28,Men's Senior 102Kg,Declan Marshall,102,110,117,124,150,160,-169,124,160,284
+DULC Winter Open,2024-01-28,Men's Senior 96Kg,Guy Kitchen,96,108,112,117,138,143,150,117,150,267
+DULC Winter Open,2024-01-28,Men's Senior 81Kg,Warren Hart,81,95,103,-110,-130,-138,138,103,138,241
+DULC Winter Open,2024-01-28,Men's Senior 73Kg,Harvey Norton,73,95,100,106,120,125,-131,106,125,231
+DULC Winter Open,2024-01-28,Men's Senior 73Kg,Theo Archer,73,100,103,-105,-117,117,-120,103,117,220
+DULC Winter Open,2024-01-28,Men's Senior 89Kg,Hector Puerta,89,-100,100,-105,120,-125,-125,100,120,220
+DULC Winter Open,2024-01-28,Men's Senior 109Kg,John Steele,109,80,85,93,110,116,-120,93,116,209
+DULC Winter Open,2024-01-28,Men's Senior 81Kg,Daniel Drakeford,81,83,-87,90,105,110,-115,90,110,200
+DULC Winter Open,2024-01-28,Men's Senior 81Kg,Ben  Petevinos ,81,78,83,87,106,111,113,87,113,200
+DULC Winter Open,2024-01-28,Men's Senior 96Kg,George Brown,96,-85,90,-95,105,-112,-116,90,105,195
+DULC Winter Open,2024-01-28,Men's Senior 109Kg,George Latter,109,80,85,-88,-100,100,-105,85,100,185
+DULC Winter Open,2024-01-28,Women's Senior 71Kg,Kat Sanger,71,72,75,79,90,94,-100,79,94,173
+DULC Winter Open,2024-01-28,Women's Senior 87Kg,Charlotte Dinsdale,87,65,68,72,90,-96,100,72,100,172
+DULC Winter Open,2024-01-28,Men's Senior 73Kg,Matthew Gallagher ,73,70,-75,-75,90,95,100,70,100,170
+DULC Winter Open,2024-01-28,Men's Senior 81Kg,Kieran Falls,81,73,76,80,90,-96,-100,80,90,170
+DULC Winter Open,2024-01-28,Men's Senior 67Kg,Ian Cox,67,66,69,72,85,88,91,72,91,163
+DULC Winter Open,2024-01-28,Men's Senior 89Kg,Samuel Alford,89,65,70,-75,-80,83,90,70,90,160
+DULC Winter Open,2024-01-28,Men's Senior 67Kg,Marc Aguilar Riesco,67,65,68,-71,88,91,-96,68,91,159
+DULC Winter Open,2024-01-28,Women's Senior 76Kg,Xcena Pasqualin,76,-60,-63,63,80,83,86,63,86,149
+DULC Winter Open,2024-01-28,Women's Senior 64Kg,Jessica Entwistle,64,58,62,-66,83,86,-90,62,86,148
+DULC Winter Open,2024-01-28,Women's Senior 64Kg,Kate Hodge,64,58,62,65,74,78,82,65,82,147
+DULC Winter Open,2024-01-28,Women's Senior 71Kg,Paige Sellers,71,63,67,-71,80,-84,-84,67,80,147
+DULC Winter Open,2024-01-28,Men's Senior 81Kg,Ace Avinante,81,-56,56,-57,78,81,86,56,86,142
+DULC Winter Open,2024-01-28,Women's Senior 87Kg,Erin Quinn,87,63,-67,-67,-75,75,-80,63,75,138
+DULC Winter Open,2024-01-28,Women's Senior 87Kg,Madeline Sutherland,87,-57,-58,58,72,-75,-76,58,72,130
+DULC Winter Open,2024-01-28,Women's Senior 71Kg,Evelyna Davies,71,55,59,-62,-67,67,71,59,71,130
+DULC Winter Open,2024-01-28,Men's Senior 96Kg,Spencer Reay-Mills,96,55,-60,60,65,70,-75,60,70,130
+DULC Winter Open,2024-01-28,Women's Senior 59Kg,Hollie Williams,59,52,55,-58,69,-72,-73,55,69,124
+DULC Winter Open,2024-01-28,Women's Senior 71Kg,Fritha Fortini,71,-55,-57,57,60,63,66,57,66,123
+DULC Winter Open,2024-01-28,Men's Senior 67Kg,William Squire,67,45,-48,48,60,65,70,48,70,118
+DULC Winter Open,2024-01-28,Women's Senior 71Kg,Charleigh Ibbetson,71,-45,45,48,65,68,-71,48,68,116
+DULC Winter Open,2024-01-28,Women's Senior 49Kg,Madeleine McCormack,49,50,53,-55,60,-63,-63,53,60,113
+DULC Winter Open,2024-01-28,Women's Senior 64Kg,Kiana Wilson,64,42,45,47,60,64,66,47,66,113
+DULC Winter Open,2024-01-28,Women's Senior 76Kg,Madison Kitchen,76,43,46,-49,63,67,-70,46,67,113
+DULC Winter Open,2024-01-28,Men's Senior 67Kg,Alex Edmonds ,67,45,48,-51,60,63,-65,48,63,111
+DULC Winter Open,2024-01-28,Women's Senior 71Kg,Daisy Ghezaiel,71,50,-53,-53,60,-65,-65,50,60,110
+DULC Winter Open,2024-01-28,Women's Senior 59Kg,Tereza Smidova,59,42,45,-48,55,58,-62,45,58,103
+DULC Winter Open,2024-01-28,Women's Senior 64Kg,Lisa Clowes,64,41,-43,-43,57,61,-63,41,61,102
+DULC Winter Open,2024-01-28,Women's Senior 71Kg,Ella Hall,71,40,-43,43,57,-60,-60,43,57,100
+DULC Winter Open,2024-01-28,Women's Senior 55Kg,Eva Lavery,55,43,45,-47,50,52,-55,45,52,97
+DULC Winter Open,2024-01-28,Women's Senior 55Kg,Jennifer Roberts,55,42,-44,-44,50,-53,53,42,53,95
+DULC Winter Open,2024-01-28,Women's Senior 71Kg,Victoria Lisle,71,40,-43,-44,-50,50,-52,40,50,90
+DULC Winter Open,2024-01-28,Women's Senior 81Kg,Djolie Bulica,81,-66,-66,-66,0,0,0,0,0,0
+DULC Winter Open,2024-01-28,Men's Senior 81Kg,Ben Hollis,81,-88,-88,-91,0,0,0,0,0,0
+DULC Winter Open,2024-01-28,Women's Senior 71Kg,Paige Mathers,71,-67,-68,70,-75,-75,-78,70,0,0
