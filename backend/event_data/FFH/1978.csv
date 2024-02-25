@@ -1,3 +1,26 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
 HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U10 Men ,BEAURAIN Isaac,26.8,12.0,14.0,15.0,17.0,19.0,21.0,29.0,40.0,69.0
 HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U10 Men ,LEFEBVRE Antonin,34.72,7.0,8.0,-9.0,9.0,10.0,11.0,15.0,21.0,36.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 35,MOREAU Axel,31.1,12.0,14.0,16.0,16.0,18.0,20.0,30.0,38.0,68.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 35,VERECQUE Charles,29.72,13.0,-15.0,15.0,16.0,18.0,19.0,28.0,37.0,65.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 35,ALLOUIT Augustin,33.74,11.0,13.0,-15.0,13.0,15.0,17.0,24.0,32.0,56.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 35,BRUYELLE Jonathan,33.76,9.0,11.0,13.0,13.0,15.0,16.0,24.0,31.0,55.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 35,DOPIERALSKI Noam,25.84,9.0,11.0,-13.0,11.0,13.0,15.0,20.0,28.0,48.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 35,FORESTIER Gaspard,32.78,7.0,8.0,9.0,9.0,10.0,11.0,17.0,21.0,38.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 40,DEWALLY Enzo,35.9,12.0,14.0,16.0,17.0,19.0,21.0,30.0,40.0,70.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 40,DELATTRE Axel,35.16,-8.0,8.0,10.0,10.0,12.0,13.0,18.0,25.0,43.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 40,DESVIGNES Ilan,38.72,7.0,8.0,9.0,9.0,10.0,11.0,17.0,21.0,38.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 40,LECOMTE Noa,39.7,7.0,8.0,-9.0,9.0,10.0,11.0,15.0,21.0,36.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 45,HOUPE Melvin,42.62,9.0,11.0,13.0,13.0,15.0,17.0,24.0,32.0,56.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 45,BERTRAND Jean,40.76,8.0,10.0,12.0,12.0,14.0,16.0,22.0,30.0,52.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 49,AGNOLETTI Max,45.74,20.0,22.0,24.0,24.0,26.0,28.0,46.0,54.0,100.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 49,PIVAIN Eliot,47.22,17.0,19.0,-21.0,22.0,24.0,26.0,36.0,50.0,86.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 55,FLUTEAUX Marcus,51.62,7.0,8.0,9.0,9.0,10.0,11.0,17.0,21.0,38.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 55,DAVID Ethan,54.74,7.0,8.0,9.0,9.0,10.0,11.0,17.0,21.0,38.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 55,M'BASSE Eloa,51.7,7.0,8.0,9.0,9.0,10.0,11.0,17.0,21.0,38.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 55,M'BASSE Noam,50.7,7.0,8.0,9.0,9.0,10.0,11.0,17.0,21.0,38.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 55,THIEFFRY Nathanael,49.72,7.0,8.0,9.0,9.0,10.0,11.0,17.0,21.0,38.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 61,GOURGUECHON ALLART Elie,59.7,26.0,28.0,29.0,30.0,32.0,34.0,57.0,66.0,123.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 67,BOVAL Adam,66.0,20.0,22.0,24.0,26.0,28.0,30.0,46.0,58.0,104.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 67,CORONADO Timael,63.22,10.0,11.0,12.0,18.0,19.0,20.0,23.0,39.0,62.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men >73,CAIEZ Kenzo,74.2,18.0,19.0,20.0,22.0,24.0,26.0,39.0,50.0,89.0
