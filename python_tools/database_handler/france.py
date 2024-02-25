@@ -104,25 +104,26 @@ class FranceWeightlifting(WebScraper):
         if len(soup.find_all('table')) < 2:
             return None
         metadata_table = self.__process_metadata(soup.find_all('table')[0])
-        table = soup.find_all('table')[1]
+        tables = soup.find_all('table')[1:]
         results = []
-        rows = table.find_all('tr')
-        for row in rows:
-            cells = row.find_all('td')
-            processed_row = []
-            for i, cell in enumerate(cells):
-                if i in [0, 2]:
-                    processed_row.append(self.__regex_simple_number(cell))
-                if i in [1, 3, 4]:
-                    processed_row.append(self.__regex_short_clean(cell.text))
-                if i in [5, 17]:
-                    processed_row.append(self.__regex_float_number(cell))
-                if i in [15, 16]:
-                    processed_row.append(self.__regex_short_clean(cell.text))
-                if i in [6, 7, 8, 9, 10, 11, 12, 13, 14]:
-                    processed_row.append(self.__process_score(cell))
-            if len(processed_row) > 0:
-                results.append(self.__process_result(processed_row))
+        for table in tables:
+            rows = table.find_all('tr')
+            for row in rows:
+                cells = row.find_all('td')
+                processed_row = []
+                for i, cell in enumerate(cells):
+                    if i in [0, 2]:
+                        processed_row.append(self.__regex_simple_number(cell))
+                    if i in [1, 3, 4]:
+                        processed_row.append(self.__regex_short_clean(cell.text))
+                    if i in [5, 17]:
+                        processed_row.append(self.__regex_float_number(cell))
+                    if i in [15, 16]:
+                        processed_row.append(self.__regex_short_clean(cell.text))
+                    if i in [6, 7, 8, 9, 10, 11, 12, 13, 14]:
+                        processed_row.append(self.__process_score(cell))
+                if len(processed_row) > 0:
+                    results.append(self.__process_result(processed_row))
         return results
 
     def __process_metadata(self, table) -> type[FranceEventMetadata]:
