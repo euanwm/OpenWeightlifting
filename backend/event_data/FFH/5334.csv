@@ -1,3 +1,27 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
 NDIE - Challenge Avenir - Giberville - 3ème,2023-02-25,U15 Men 61,PENCOLE Benjamin,55.4,17.0,19.0,21.0,20.0,23.0,25.0,21.0,25.0,46.0
 NDIE - Challenge Avenir - Giberville - 3ème,2023-02-25,U15 Men 89,MARION Gabin,87.8,20.0,22.0,24.0,22.0,25.0,-27.0,24.0,25.0,49.0
+NDIE - Challenge Avenir - Giberville - 3ème,2023-02-25,U20 Men 67,BOHEME Théo,65.1,50.0,55.0,60.0,75.0,80.0,85.0,60.0,85.0,145.0
+NDIE - Challenge Avenir - Giberville - 3ème,2023-02-25,U20 Men 81,AUDRA Gabriel,78.0,55.0,-60.0,60.0,75.0,82.0,90.0,60.0,90.0,150.0
+NDIE - Challenge Avenir - Giberville - 3ème,2023-02-25,U20 Men 81,SUDROT Armans,75.0,60.0,63.0,65.0,70.0,74.0,76.0,65.0,76.0,141.0
+NDIE - Challenge Avenir - Giberville - 3ème,2023-02-25,U20 Men 81,MOULIN Gaetan,77.6,50.0,-55.0,55.0,60.0,63.0,65.0,55.0,65.0,120.0
+NDIE - Challenge Avenir - Giberville - 3ème,2023-02-25,U20 Men 81,MESNIL Erevan,73.5,40.0,-42.0,42.0,45.0,50.0,53.0,42.0,53.0,95.0
+NDIE - Challenge Avenir - Giberville - 3ème,2023-02-25,U20 Men >109,JAME Mathéo,111.2,75.0,80.0,85.0,95.0,-100.0,100.0,85.0,100.0,185.0
+NDIE - Challenge Avenir - Giberville - 3ème,2023-02-25,SEN Men 61,CAHIERC Gaby,58.8,-50.0,53.0,56.0,-67.0,68.0,71.0,56.0,71.0,127.0
+NDIE - Challenge Avenir - Giberville - 3ème,2023-02-25,SEN Men 61,CHESNEL Kevin,59.2,35.0,37.0,-40.0,45.0,47.0,50.0,37.0,50.0,87.0
+NDIE - Challenge Avenir - Giberville - 3ème,2023-02-25,SEN Men 67,ANDREU Gilles,66.6,38.0,42.0,-46.0,50.0,53.0,55.0,42.0,55.0,97.0
+NDIE - Challenge Avenir - Giberville - 3ème,2023-02-25,SEN Men 73,FREBOURG Guillaume,70.8,60.0,63.0,65.0,78.0,82.0,85.0,65.0,85.0,150.0
+NDIE - Challenge Avenir - Giberville - 3ème,2023-02-25,SEN Men 73,ADDOUZENE Yannis,70.7,45.0,47.0,50.0,55.0,-57.0,57.0,50.0,57.0,107.0
+NDIE - Challenge Avenir - Giberville - 3ème,2023-02-25,SEN Men 81,BLEUET Romain,77.1,75.0,-80.0,82.0,105.0,110.0,-115.0,82.0,110.0,192.0
+NDIE - Challenge Avenir - Giberville - 3ème,2023-02-25,SEN Men 81,BERTOLINI Hugo,75.8,65.0,70.0,-77.0,50.0,80.0,87.0,70.0,87.0,157.0
+NDIE - Challenge Avenir - Giberville - 3ème,2023-02-25,SEN Men 81,RETOUT Maxime,78.8,45.0,50.0,55.0,55.0,60.0,65.0,55.0,65.0,120.0
+NDIE - Challenge Avenir - Giberville - 3ème,2023-02-25,SEN Men 81,SIMAKHA Ibrahim,78.7,45.0,50.0,-55.0,55.0,62.0,67.0,50.0,67.0,117.0
+NDIE - Challenge Avenir - Giberville - 3ème,2023-02-25,SEN Men 89,SIEPEN Charles,84.8,70.0,73.0,76.0,90.0,95.0,-100.0,76.0,95.0,171.0
+NDIE - Challenge Avenir - Giberville - 3ème,2023-02-25,SEN Men 89,MAYER Tom,85.5,50.0,55.0,-60.0,60.0,-62.0,62.0,55.0,62.0,117.0
+NDIE - Challenge Avenir - Giberville - 3ème,2023-02-25,SEN Men 89,WILD Alexandre,85.2,-25.0,25.0,27.0,-35.0,35.0,40.0,27.0,40.0,67.0
+NDIE - Challenge Avenir - Giberville - 3ème,2023-02-25,SEN Men 96,FRIBOULET Léo,93.0,-66.0,66.0,70.0,82.0,87.0,92.0,70.0,92.0,162.0
+NDIE - Challenge Avenir - Giberville - 3ème,2023-02-25,SEN Men 96,VILACEQUE Yoann,91.2,70.0,-73.0,-73.0,80.0,90.0,-100.0,70.0,90.0,160.0
+NDIE - Challenge Avenir - Giberville - 3ème,2023-02-25,SEN Men 109,HANOCQUE Gregory,108.1,-72.0,73.0,77.0,100.0,105.0,-108.0,77.0,105.0,182.0
+NDIE - Challenge Avenir - Giberville - 3ème,2023-02-25,SEN Men >109,LECLOUAREC Mathis,113.6,65.0,76.0,-95.0,-105.0,105.0,115.0,76.0,115.0,191.0
+NDIE - Challenge Avenir - Giberville - 3ème,2023-02-25,SEN Men >109,LELIÈVRE Benjamin,137.7,65.0,70.0,75.0,85.0,90.0,95.0,75.0,95.0,170.0
+NDIE - Challenge Avenir - Giberville - 3ème,2023-02-25,SEN Men >109,LEJEUNE Sylvain,128.6,50.0,53.0,55.0,70.0,75.0,80.0,55.0,80.0,135.0
