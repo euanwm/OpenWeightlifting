@@ -1,15 +1,15 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-PDL - Chpt Province - Evron - U13  F-M P5,2023-02-26,U13 Men 40,LAPIERRE Louis,38.58,21.0,22.0,24.0,25.0,26.0,28.0,46.0,54.0,100.0
-PDL - Chpt Province - Evron - U13  F-M P5,2023-02-26,U13 Men 45,BONAMY JAHIER Noa,41.57,-26.0,26.0,27.0,28.0,29.0,30.0,53.0,59.0,112.0
-PDL - Chpt Province - Evron - U13  F-M P5,2023-02-26,U13 Men 45,ALAIN Maïno,41.97,15.0,16.0,18.0,19.0,-20.0,20.0,34.0,39.0,73.0
-PDL - Chpt Province - Evron - U13  F-M P5,2023-02-26,U13 Men 45,GRANGER Lucas,41.0,37.0,-39.0,-39.0,46.0,48.0,50.0,0.0,98.0,0.0
-PDL - Chpt Province - Evron - U13  F-M P5,2023-02-26,U13 Men 49,HAMARD Jules,47.66,16.0,18.0,-19.0,21.0,23.0,25.0,34.0,48.0,82.0
-PDL - Chpt Province - Evron - U13  F-M P5,2023-02-26,U13 Men 55,MICHELET Simon,50.1,18.0,19.0,21.0,21.0,22.0,24.0,40.0,46.0,86.0
-PDL - Chpt Province - Evron - U13  F-M P5,2023-02-26,U13 Men 73,LEMOINE Nathan,67.8,28.0,30.0,-32.0,41.0,43.0,44.0,58.0,87.0,145.0
-PDL - Chpt Province - Evron - U13  F-M P5,2023-02-26,U13 Women 45,FERRAND COGNON Lyna,43.49,30.0,32.0,-34.0,35.0,-36.0,36.0,62.0,71.0,133.0
-PDL - Chpt Province - Evron - U13  F-M P5,2023-02-26,U13 Women 49,VILFEU Inaia,45.47,21.0,22.0,-24.0,25.0,26.0,27.0,43.0,53.0,96.0
-PDL - Chpt Province - Evron - U13  F-M P5,2023-02-26,U13 Women 49,SERRI Maissa,48.52,16.0,18.0,20.0,18.0,20.0,-22.0,38.0,38.0,76.0
-PDL - Chpt Province - Evron - U13  F-M P5,2023-02-26,U13 Women 55,ROGUET Lylou,50.19,23.0,25.0,27.0,30.0,32.0,34.0,52.0,66.0,118.0
-PDL - Chpt Province - Evron - U13  F-M P5,2023-02-26,U13 Women 55,GEORGES Lylou,50.61,18.0,20.0,21.0,27.0,29.0,-31.0,41.0,56.0,97.0
-PDL - Chpt Province - Evron - U13  F-M P5,2023-02-26,U13 Women 55,FERRE Roxane,54.91,17.0,19.0,20.0,20.0,-22.0,-22.0,39.0,0.0,0.0
-PDL - Chpt Province - Evron - U13  F-M P5,2023-02-26,U13 Women >71,GLASSIER Barbara,94.93,33.0,34.0,36.0,45.0,46.0,48.0,70.0,94.0,164.0
+PDL - Chpt Province - Evron - U13  F-M P5,2023-02-26,U13 Men 40,LAPIERRE Louis,38.58,21.0,22.0,24.0,25.0,26.0,28.0,24.0,28.0,100.0
+PDL - Chpt Province - Evron - U13  F-M P5,2023-02-26,U13 Men 45,BONAMY JAHIER Noa,41.57,-26.0,26.0,27.0,28.0,29.0,30.0,27.0,30.0,112.0
+PDL - Chpt Province - Evron - U13  F-M P5,2023-02-26,U13 Men 45,ALAIN Maïno,41.97,15.0,16.0,18.0,19.0,-20.0,20.0,18.0,20.0,73.0
+PDL - Chpt Province - Evron - U13  F-M P5,2023-02-26,U13 Men 45,GRANGER Lucas,41.0,37.0,-39.0,-39.0,46.0,48.0,50.0,37.0,50.0,0.0
+PDL - Chpt Province - Evron - U13  F-M P5,2023-02-26,U13 Men 49,HAMARD Jules,47.66,16.0,18.0,-19.0,21.0,23.0,25.0,18.0,25.0,82.0
+PDL - Chpt Province - Evron - U13  F-M P5,2023-02-26,U13 Men 55,MICHELET Simon,50.1,18.0,19.0,21.0,21.0,22.0,24.0,21.0,24.0,86.0
+PDL - Chpt Province - Evron - U13  F-M P5,2023-02-26,U13 Men 73,LEMOINE Nathan,67.8,28.0,30.0,-32.0,41.0,43.0,44.0,30.0,44.0,145.0
+PDL - Chpt Province - Evron - U13  F-M P5,2023-02-26,U13 Women 45,FERRAND COGNON Lyna,43.49,30.0,32.0,-34.0,35.0,-36.0,36.0,32.0,36.0,133.0
+PDL - Chpt Province - Evron - U13  F-M P5,2023-02-26,U13 Women 49,VILFEU Inaia,45.47,21.0,22.0,-24.0,25.0,26.0,27.0,22.0,27.0,96.0
+PDL - Chpt Province - Evron - U13  F-M P5,2023-02-26,U13 Women 49,SERRI Maissa,48.52,16.0,18.0,20.0,18.0,20.0,-22.0,20.0,20.0,76.0
+PDL - Chpt Province - Evron - U13  F-M P5,2023-02-26,U13 Women 55,ROGUET Lylou,50.19,23.0,25.0,27.0,30.0,32.0,34.0,27.0,34.0,118.0
+PDL - Chpt Province - Evron - U13  F-M P5,2023-02-26,U13 Women 55,GEORGES Lylou,50.61,18.0,20.0,21.0,27.0,29.0,-31.0,21.0,29.0,97.0
+PDL - Chpt Province - Evron - U13  F-M P5,2023-02-26,U13 Women 55,FERRE Roxane,54.91,17.0,19.0,20.0,20.0,-22.0,-22.0,20.0,20.0,0.0
+PDL - Chpt Province - Evron - U13  F-M P5,2023-02-26,U13 Women >71,GLASSIER Barbara,94.93,33.0,34.0,36.0,45.0,46.0,48.0,36.0,48.0,164.0

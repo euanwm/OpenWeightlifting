@@ -1,12 +1,12 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-GE - Challenge Avenir - Langres - Chal Avenir 5- GE- U10 - U13 - Langres,2022-06-04,U10 Men ,ESNO Randi,44.9,13.0,14.0,16.0,15.0,17.0,19.0,30.0,36.0,66.0
-GE - Challenge Avenir - Langres - Chal Avenir 5- GE- U10 - U13 - Langres,2022-06-04,U10 Men ,BONNENFANT Marlon,30.3,13.0,14.0,-16.0,-15.0,15.0,17.0,27.0,32.0,59.0
-GE - Challenge Avenir - Langres - Chal Avenir 5- GE- U10 - U13 - Langres,2022-06-04,U13 Men 67,STERLE Enzo,61.5,27.0,29.0,-31.0,-36.0,36.0,38.0,56.0,74.0,130.0
-GE - Challenge Avenir - Langres - Chal Avenir 5- GE- U10 - U13 - Langres,2022-06-04,U13 Men >73,BOFFY Lucas,108.7,-68.0,-68.0,-68.0,-78.0,78.0,-80.0,0.0,0.0,0.0
-GE - Challenge Avenir - Langres - Chal Avenir 5- GE- U10 - U13 - Langres,2022-06-04,U10 Women ,DURIC Ema,30.7,21.0,23.0,24.0,28.0,30.0,31.0,47.0,61.0,108.0
-GE - Challenge Avenir - Langres - Chal Avenir 5- GE- U10 - U13 - Langres,2022-06-04,U10 Women ,AUBRY Leena,31.8,14.0,16.0,-17.0,16.0,18.0,20.0,30.0,38.0,68.0
-GE - Challenge Avenir - Langres - Chal Avenir 5- GE- U10 - U13 - Langres,2022-06-04,U10 Women ,RAILLARD Lucie,38.9,-14.0,14.0,-16.0,15.0,-17.0,17.0,0.0,32.0,0.0
-GE - Challenge Avenir - Langres - Chal Avenir 5- GE- U10 - U13 - Langres,2022-06-04,U13 Women 35,BESANCENOT Juliette,27.6,14.0,16.0,-17.0,17.0,19.0,21.0,30.0,40.0,70.0
-GE - Challenge Avenir - Langres - Chal Avenir 5- GE- U10 - U13 - Langres,2022-06-04,U13 Women 55,BOFFY Lauryne,53.3,-20.0,20.0,-22.0,26.0,-28.0,28.0,0.0,54.0,0.0
-GE - Challenge Avenir - Langres - Chal Avenir 5- GE- U10 - U13 - Langres,2022-06-04,U13 Women 59,HURSON Lou,55.4,31.0,33.0,35.0,41.0,43.0,45.0,68.0,88.0,156.0
-GE - Challenge Avenir - Langres - Chal Avenir 5- GE- U10 - U13 - Langres,2022-06-04,U13 Women 59,AUBRY Elyne,59.0,27.0,29.0,30.0,37.0,-39.0,39.0,59.0,76.0,135.0
+GE - Challenge Avenir - Langres - Chal Avenir 5- GE- U10 - U13 - Langres,2022-06-04,U10 Men ,ESNO Randi,44.9,13.0,14.0,16.0,15.0,17.0,19.0,16.0,19.0,66.0
+GE - Challenge Avenir - Langres - Chal Avenir 5- GE- U10 - U13 - Langres,2022-06-04,U10 Men ,BONNENFANT Marlon,30.3,13.0,14.0,-16.0,-15.0,15.0,17.0,14.0,17.0,59.0
+GE - Challenge Avenir - Langres - Chal Avenir 5- GE- U10 - U13 - Langres,2022-06-04,U13 Men 67,STERLE Enzo,61.5,27.0,29.0,-31.0,-36.0,36.0,38.0,29.0,38.0,130.0
+GE - Challenge Avenir - Langres - Chal Avenir 5- GE- U10 - U13 - Langres,2022-06-04,U13 Men >73,BOFFY Lucas,108.7,-68.0,-68.0,-68.0,-78.0,78.0,-80.0,-68.0,78.0,0.0
+GE - Challenge Avenir - Langres - Chal Avenir 5- GE- U10 - U13 - Langres,2022-06-04,U10 Women ,DURIC Ema,30.7,21.0,23.0,24.0,28.0,30.0,31.0,24.0,31.0,108.0
+GE - Challenge Avenir - Langres - Chal Avenir 5- GE- U10 - U13 - Langres,2022-06-04,U10 Women ,AUBRY Leena,31.8,14.0,16.0,-17.0,16.0,18.0,20.0,16.0,20.0,68.0
+GE - Challenge Avenir - Langres - Chal Avenir 5- GE- U10 - U13 - Langres,2022-06-04,U10 Women ,RAILLARD Lucie,38.9,-14.0,14.0,-16.0,15.0,-17.0,17.0,14.0,17.0,0.0
+GE - Challenge Avenir - Langres - Chal Avenir 5- GE- U10 - U13 - Langres,2022-06-04,U13 Women 35,BESANCENOT Juliette,27.6,14.0,16.0,-17.0,17.0,19.0,21.0,16.0,21.0,70.0
+GE - Challenge Avenir - Langres - Chal Avenir 5- GE- U10 - U13 - Langres,2022-06-04,U13 Women 55,BOFFY Lauryne,53.3,-20.0,20.0,-22.0,26.0,-28.0,28.0,20.0,28.0,0.0
+GE - Challenge Avenir - Langres - Chal Avenir 5- GE- U10 - U13 - Langres,2022-06-04,U13 Women 59,HURSON Lou,55.4,31.0,33.0,35.0,41.0,43.0,45.0,35.0,45.0,156.0
+GE - Challenge Avenir - Langres - Chal Avenir 5- GE- U10 - U13 - Langres,2022-06-04,U13 Women 59,AUBRY Elyne,59.0,27.0,29.0,30.0,37.0,-39.0,39.0,30.0,39.0,135.0

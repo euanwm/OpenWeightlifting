@@ -1,20 +1,20 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-HDF - Chpt Province - La ferte milon - PIC - Filles U10 U13,2023-02-25,U10 Women ,HORN Ines,27.0,12.0,14.0,15.0,19.0,21.0,23.0,29.0,44.0,73.0
-HDF - Chpt Province - La ferte milon - PIC - Filles U10 U13,2023-02-25,U10 Women ,DEBREUX Margot,31.48,12.0,14.0,15.0,18.0,20.0,21.0,29.0,41.0,70.0
-HDF - Chpt Province - La ferte milon - PIC - Filles U10 U13,2023-02-25,U10 Women ,HURIEZ Lilou,31.96,5.0,7.0,9.0,8.0,10.0,12.0,16.0,22.0,38.0
-HDF - Chpt Province - La ferte milon - PIC - Filles U10 U13,2023-02-25,U13 Women 35,ALONSO Meline,30.52,20.0,22.0,24.0,26.0,-28.0,28.0,46.0,54.0,100.0
-HDF - Chpt Province - La ferte milon - PIC - Filles U10 U13,2023-02-25,U13 Women 35,DUCHATEAU Lou anne,34.32,18.0,20.0,22.0,22.0,24.0,26.0,42.0,50.0,92.0
-HDF - Chpt Province - La ferte milon - PIC - Filles U10 U13,2023-02-25,U13 Women 40,DECRAENE Selenia,36.88,28.0,30.0,-32.0,31.0,33.0,35.0,58.0,68.0,126.0
-HDF - Chpt Province - La ferte milon - PIC - Filles U10 U13,2023-02-25,U13 Women 40,ALONSO Lea,38.18,22.0,24.0,26.0,29.0,31.0,-33.0,50.0,60.0,110.0
-HDF - Chpt Province - La ferte milon - PIC - Filles U10 U13,2023-02-25,U13 Women 40,TRIBOULOIS Tess,39.31,18.0,20.0,-22.0,28.0,30.0,32.0,38.0,62.0,100.0
-HDF - Chpt Province - La ferte milon - PIC - Filles U10 U13,2023-02-25,U13 Women 40,ROUSSILLAT Klea,39.35,15.0,17.0,-19.0,20.0,22.0,-24.0,32.0,42.0,74.0
-HDF - Chpt Province - La ferte milon - PIC - Filles U10 U13,2023-02-25,U13 Women 45,DUCHATEAU Marilou,44.56,23.0,25.0,-27.0,31.0,-33.0,33.0,48.0,64.0,112.0
-HDF - Chpt Province - La ferte milon - PIC - Filles U10 U13,2023-02-25,U13 Women 45,DUFRANNE Leya,42.79,18.0,20.0,22.0,23.0,25.0,27.0,42.0,52.0,94.0
-HDF - Chpt Province - La ferte milon - PIC - Filles U10 U13,2023-02-25,U13 Women 45,LAFFILEZ Zia,43.67,16.0,18.0,-20.0,22.0,24.0,26.0,34.0,50.0,84.0
-HDF - Chpt Province - La ferte milon - PIC - Filles U10 U13,2023-02-25,U13 Women 45,HURIEZ Louanne,43.78,-17.0,17.0,18.0,21.0,23.0,25.0,35.0,48.0,83.0
-HDF - Chpt Province - La ferte milon - PIC - Filles U10 U13,2023-02-25,U13 Women 45,BOUCHEZ Clarys,42.61,21.0,-23.0,23.0,31.0,-33.0,-33.0,44.0,0.0,0.0
-HDF - Chpt Province - La ferte milon - PIC - Filles U10 U13,2023-02-25,U13 Women 49,MARTINEZ Clea,45.52,25.0,26.0,28.0,30.0,32.0,34.0,54.0,66.0,120.0
-HDF - Chpt Province - La ferte milon - PIC - Filles U10 U13,2023-02-25,U13 Women 49,DINOUARD Louison,45.25,15.0,17.0,19.0,17.0,19.0,-21.0,36.0,36.0,72.0
-HDF - Chpt Province - La ferte milon - PIC - Filles U10 U13,2023-02-25,U13 Women 49,WARNET Louise,48.23,15.0,17.0,-18.0,16.0,18.0,19.0,32.0,37.0,69.0
-HDF - Chpt Province - La ferte milon - PIC - Filles U10 U13,2023-02-25,U13 Women 55,ANDRIEUX Flora,49.94,36.0,38.0,40.0,46.0,48.0,50.0,78.0,98.0,176.0
-HDF - Chpt Province - La ferte milon - PIC - Filles U10 U13,2023-02-25,U13 Women 55,LENGLET Julie,52.95,23.0,25.0,-27.0,28.0,30.0,32.0,48.0,62.0,110.0
+HDF - Chpt Province - La ferte milon - PIC - Filles U10 U13,2023-02-25,U10 Women ,HORN Ines,27.0,12.0,14.0,15.0,19.0,21.0,23.0,15.0,23.0,73.0
+HDF - Chpt Province - La ferte milon - PIC - Filles U10 U13,2023-02-25,U10 Women ,DEBREUX Margot,31.48,12.0,14.0,15.0,18.0,20.0,21.0,15.0,21.0,70.0
+HDF - Chpt Province - La ferte milon - PIC - Filles U10 U13,2023-02-25,U10 Women ,HURIEZ Lilou,31.96,5.0,7.0,9.0,8.0,10.0,12.0,9.0,12.0,38.0
+HDF - Chpt Province - La ferte milon - PIC - Filles U10 U13,2023-02-25,U13 Women 35,ALONSO Meline,30.52,20.0,22.0,24.0,26.0,-28.0,28.0,24.0,28.0,100.0
+HDF - Chpt Province - La ferte milon - PIC - Filles U10 U13,2023-02-25,U13 Women 35,DUCHATEAU Lou anne,34.32,18.0,20.0,22.0,22.0,24.0,26.0,22.0,26.0,92.0
+HDF - Chpt Province - La ferte milon - PIC - Filles U10 U13,2023-02-25,U13 Women 40,DECRAENE Selenia,36.88,28.0,30.0,-32.0,31.0,33.0,35.0,30.0,35.0,126.0
+HDF - Chpt Province - La ferte milon - PIC - Filles U10 U13,2023-02-25,U13 Women 40,ALONSO Lea,38.18,22.0,24.0,26.0,29.0,31.0,-33.0,26.0,31.0,110.0
+HDF - Chpt Province - La ferte milon - PIC - Filles U10 U13,2023-02-25,U13 Women 40,TRIBOULOIS Tess,39.31,18.0,20.0,-22.0,28.0,30.0,32.0,20.0,32.0,100.0
+HDF - Chpt Province - La ferte milon - PIC - Filles U10 U13,2023-02-25,U13 Women 40,ROUSSILLAT Klea,39.35,15.0,17.0,-19.0,20.0,22.0,-24.0,17.0,22.0,74.0
+HDF - Chpt Province - La ferte milon - PIC - Filles U10 U13,2023-02-25,U13 Women 45,DUCHATEAU Marilou,44.56,23.0,25.0,-27.0,31.0,-33.0,33.0,25.0,33.0,112.0
+HDF - Chpt Province - La ferte milon - PIC - Filles U10 U13,2023-02-25,U13 Women 45,DUFRANNE Leya,42.79,18.0,20.0,22.0,23.0,25.0,27.0,22.0,27.0,94.0
+HDF - Chpt Province - La ferte milon - PIC - Filles U10 U13,2023-02-25,U13 Women 45,LAFFILEZ Zia,43.67,16.0,18.0,-20.0,22.0,24.0,26.0,18.0,26.0,84.0
+HDF - Chpt Province - La ferte milon - PIC - Filles U10 U13,2023-02-25,U13 Women 45,HURIEZ Louanne,43.78,-17.0,17.0,18.0,21.0,23.0,25.0,18.0,25.0,83.0
+HDF - Chpt Province - La ferte milon - PIC - Filles U10 U13,2023-02-25,U13 Women 45,BOUCHEZ Clarys,42.61,21.0,-23.0,23.0,31.0,-33.0,-33.0,23.0,31.0,0.0
+HDF - Chpt Province - La ferte milon - PIC - Filles U10 U13,2023-02-25,U13 Women 49,MARTINEZ Clea,45.52,25.0,26.0,28.0,30.0,32.0,34.0,28.0,34.0,120.0
+HDF - Chpt Province - La ferte milon - PIC - Filles U10 U13,2023-02-25,U13 Women 49,DINOUARD Louison,45.25,15.0,17.0,19.0,17.0,19.0,-21.0,19.0,19.0,72.0
+HDF - Chpt Province - La ferte milon - PIC - Filles U10 U13,2023-02-25,U13 Women 49,WARNET Louise,48.23,15.0,17.0,-18.0,16.0,18.0,19.0,17.0,19.0,69.0
+HDF - Chpt Province - La ferte milon - PIC - Filles U10 U13,2023-02-25,U13 Women 55,ANDRIEUX Flora,49.94,36.0,38.0,40.0,46.0,48.0,50.0,40.0,50.0,176.0
+HDF - Chpt Province - La ferte milon - PIC - Filles U10 U13,2023-02-25,U13 Women 55,LENGLET Julie,52.95,23.0,25.0,-27.0,28.0,30.0,32.0,25.0,32.0,110.0

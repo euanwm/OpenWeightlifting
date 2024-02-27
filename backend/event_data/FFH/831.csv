@@ -1,13 +1,13 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-REU - 3ème Challenge Avenir,2021-01-30,U10 Men ,VEFOUR Noah,22.9,9.0,11.0,13.0,-11.0,11.0,13.0,24.0,24.0,48.0
-REU - 3ème Challenge Avenir,2021-01-30,U10 Men ,TÉLISMART Maxime,27.93,14.0,16.0,18.0,22.0,-24.0,-24.0,34.0,0.0,0.0
-REU - 3ème Challenge Avenir,2021-01-30,U13 Men 35,PATEL Ilyane,25.73,-16.0,16.0,17.0,22.0,-24.0,-24.0,33.0,0.0,0.0
-REU - 3ème Challenge Avenir,2021-01-30,U13 Men 40,RICHARD Sevan,37.1,23.0,25.0,27.0,31.0,33.0,35.0,52.0,68.0,120.0
-REU - 3ème Challenge Avenir,2021-01-30,U13 Men 40,SAUTRON Damien téo,39.73,18.0,20.0,-22.0,-26.0,26.0,28.0,38.0,54.0,92.0
-REU - 3ème Challenge Avenir,2021-01-30,U13 Men 67,RICHARD Djim,62.4,-36.0,36.0,38.0,51.0,53.0,-55.0,74.0,104.0,178.0
-REU - 3ème Challenge Avenir,2021-01-30,U10 Women ,SAUTRON Marion,26.41,12.0,14.0,-16.0,16.0,17.0,18.0,26.0,35.0,61.0
-REU - 3ème Challenge Avenir,2021-01-30,U10 Women ,RICHARD Maelys,29.7,9.0,11.0,13.0,11.0,13.0,15.0,24.0,28.0,52.0
-REU - 3ème Challenge Avenir,2021-01-30,U13 Women 35,VEFOUR Adèle,26.4,9.0,11.0,13.0,11.0,13.0,15.0,24.0,28.0,52.0
-REU - 3ème Challenge Avenir,2021-01-30,U13 Women 49,RICHARD Kéllia,46.3,27.0,29.0,-31.0,33.0,35.0,37.0,56.0,72.0,128.0
-REU - 3ème Challenge Avenir,2021-01-30,U13 Women 59,FIRENZOLE Maya,58.3,25.0,-27.0,-27.0,30.0,32.0,34.0,0.0,66.0,0.0
-REU - 3ème Challenge Avenir,2021-01-30,U13 Women 71,MAILLOT Indira,64.5,-30.0,30.0,-32.0,33.0,-35.0,35.0,0.0,68.0,0.0
+REU - 3ème Challenge Avenir,2021-01-30,U10 Men ,VEFOUR Noah,22.9,9.0,11.0,13.0,-11.0,11.0,13.0,13.0,13.0,48.0
+REU - 3ème Challenge Avenir,2021-01-30,U10 Men ,TÉLISMART Maxime,27.93,14.0,16.0,18.0,22.0,-24.0,-24.0,18.0,22.0,0.0
+REU - 3ème Challenge Avenir,2021-01-30,U13 Men 35,PATEL Ilyane,25.73,-16.0,16.0,17.0,22.0,-24.0,-24.0,17.0,22.0,0.0
+REU - 3ème Challenge Avenir,2021-01-30,U13 Men 40,RICHARD Sevan,37.1,23.0,25.0,27.0,31.0,33.0,35.0,27.0,35.0,120.0
+REU - 3ème Challenge Avenir,2021-01-30,U13 Men 40,SAUTRON Damien téo,39.73,18.0,20.0,-22.0,-26.0,26.0,28.0,20.0,28.0,92.0
+REU - 3ème Challenge Avenir,2021-01-30,U13 Men 67,RICHARD Djim,62.4,-36.0,36.0,38.0,51.0,53.0,-55.0,38.0,53.0,178.0
+REU - 3ème Challenge Avenir,2021-01-30,U10 Women ,SAUTRON Marion,26.41,12.0,14.0,-16.0,16.0,17.0,18.0,14.0,18.0,61.0
+REU - 3ème Challenge Avenir,2021-01-30,U10 Women ,RICHARD Maelys,29.7,9.0,11.0,13.0,11.0,13.0,15.0,13.0,15.0,52.0
+REU - 3ème Challenge Avenir,2021-01-30,U13 Women 35,VEFOUR Adèle,26.4,9.0,11.0,13.0,11.0,13.0,15.0,13.0,15.0,52.0
+REU - 3ème Challenge Avenir,2021-01-30,U13 Women 49,RICHARD Kéllia,46.3,27.0,29.0,-31.0,33.0,35.0,37.0,29.0,37.0,128.0
+REU - 3ème Challenge Avenir,2021-01-30,U13 Women 59,FIRENZOLE Maya,58.3,25.0,-27.0,-27.0,30.0,32.0,34.0,25.0,34.0,0.0
+REU - 3ème Challenge Avenir,2021-01-30,U13 Women 71,MAILLOT Indira,64.5,-30.0,30.0,-32.0,33.0,-35.0,35.0,30.0,35.0,0.0

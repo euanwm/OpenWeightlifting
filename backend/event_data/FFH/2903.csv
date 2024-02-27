@@ -1,7 +1,7 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
 AURA - Chpt Province - L'Arbresle - Plateau Femme,2022-02-26,U20 Women 64,JANIN Lisa,62.2,58.0,60.0,-61.0,72.0,75.0,-77.0,60.0,75.0,135.0
 AURA - Chpt Province - L'Arbresle - Plateau Femme,2022-02-26,SEN Women 45,PEETERS Emilie,43.4,48.0,52.0,-55.0,62.0,-65.0,-67.0,52.0,62.0,114.0
-AURA - Chpt Province - L'Arbresle - Plateau Femme,2022-02-26,SEN Women 45,PRIMEL Laetitia,44.4,40.0,41.0,-42.0,-51.0,-54.0,-54.0,41.0,0.0,0.0
+AURA - Chpt Province - L'Arbresle - Plateau Femme,2022-02-26,SEN Women 45,PRIMEL Laetitia,44.4,40.0,41.0,-42.0,-51.0,-54.0,-54.0,41.0,-51.0,0.0
 AURA - Chpt Province - L'Arbresle - Plateau Femme,2022-02-26,SEN Women 49,AMORUSO Estelle,49.0,52.0,54.0,55.0,67.0,-72.0,72.0,55.0,72.0,127.0
 AURA - Chpt Province - L'Arbresle - Plateau Femme,2022-02-26,SEN Women 59,KYRIAKIDES Alexia,58.1,56.0,-60.0,-60.0,68.0,-74.0,-74.0,56.0,68.0,124.0
 AURA - Chpt Province - L'Arbresle - Plateau Femme,2022-02-26,SEN Women 59,GRANDE Camille,56.76,-54.0,54.0,-57.0,-70.0,70.0,-73.0,54.0,70.0,124.0
@@ -11,4 +11,4 @@ AURA - Chpt Province - L'Arbresle - Plateau Femme,2022-02-26,SEN Women 64,PAILLE
 AURA - Chpt Province - L'Arbresle - Plateau Femme,2022-02-26,SEN Women 64,MOUDIN Marion,61.87,55.0,-58.0,60.0,77.0,-80.0,-82.0,60.0,77.0,137.0
 AURA - Chpt Province - L'Arbresle - Plateau Femme,2022-02-26,SEN Women 64,QUER Heloise,63.46,52.0,56.0,-58.0,-72.0,-72.0,72.0,56.0,72.0,128.0
 AURA - Chpt Province - L'Arbresle - Plateau Femme,2022-02-26,SEN Women 71,VALEMBOIS Emma,69.55,75.0,80.0,-83.0,100.0,106.0,-110.0,80.0,106.0,186.0
-AURA - Chpt Province - L'Arbresle - Plateau Femme,2022-02-26,SEN Women 71,COSSUTTA Lou,69.9,68.0,71.0,72.0,-88.0,-93.0,-93.0,72.0,0.0,0.0
+AURA - Chpt Province - L'Arbresle - Plateau Femme,2022-02-26,SEN Women 71,COSSUTTA Lou,69.9,68.0,71.0,72.0,-88.0,-93.0,-93.0,72.0,-88.0,0.0

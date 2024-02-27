@@ -1,19 +1,19 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-HDF - Cpe de France des Clubs - Rosendael - Secteur Maritime MIN Mixte,2022-03-12,U13 Men 35,DELAROQUE Alexandre,32.6,14.0,16.0,-18.0,20.0,22.0,24.0,30.0,46.0,76.0
-HDF - Cpe de France des Clubs - Rosendael - Secteur Maritime MIN Mixte,2022-03-12,U13 Men 40,DUVET Evan,36.4,18.0,20.0,22.0,21.0,23.0,25.0,42.0,48.0,90.0
-HDF - Cpe de France des Clubs - Rosendael - Secteur Maritime MIN Mixte,2022-03-12,U13 Men 40,BOGAERT Shawn,39.8,13.0,15.0,-17.0,18.0,20.0,22.0,28.0,42.0,70.0
-HDF - Cpe de France des Clubs - Rosendael - Secteur Maritime MIN Mixte,2022-03-12,U13 Men 45,MONIER Thibaut,44.3,26.0,28.0,30.0,36.0,38.0,40.0,58.0,78.0,136.0
-HDF - Cpe de France des Clubs - Rosendael - Secteur Maritime MIN Mixte,2022-03-12,U13 Men 45,MACRELLE Jessy,42.3,12.0,14.0,-16.0,18.0,20.0,21.0,26.0,41.0,67.0
-HDF - Cpe de France des Clubs - Rosendael - Secteur Maritime MIN Mixte,2022-03-12,U13 Men 45,BOGAERT Tyler,44.5,12.0,13.0,-14.0,16.0,-18.0,18.0,25.0,34.0,59.0
-HDF - Cpe de France des Clubs - Rosendael - Secteur Maritime MIN Mixte,2022-03-12,U13 Men 49,ALLAYS RAMACKERS Enguerrand,47.5,24.0,26.0,28.0,33.0,35.0,37.0,54.0,72.0,126.0
-HDF - Cpe de France des Clubs - Rosendael - Secteur Maritime MIN Mixte,2022-03-12,U13 Men 55,DESCHRYVER Arthur,52.9,26.0,28.0,30.0,34.0,36.0,-38.0,58.0,70.0,128.0
-HDF - Cpe de France des Clubs - Rosendael - Secteur Maritime MIN Mixte,2022-03-12,U13 Men 61,SMEECKAERT Antoine,55.3,18.0,20.0,-22.0,25.0,27.0,29.0,38.0,56.0,94.0
-HDF - Cpe de France des Clubs - Rosendael - Secteur Maritime MIN Mixte,2022-03-12,U13 Women 35,ARAB Aliyah,34.7,17.0,18.0,19.0,23.0,25.0,26.0,37.0,51.0,88.0
-HDF - Cpe de France des Clubs - Rosendael - Secteur Maritime MIN Mixte,2022-03-12,U13 Women 45,LAUWERIER Ines,41.0,13.0,15.0,17.0,15.0,17.0,19.0,32.0,36.0,68.0
-HDF - Cpe de France des Clubs - Rosendael - Secteur Maritime MIN Mixte,2022-03-12,U13 Women 49,RADAMA Shaina,46.7,20.0,22.0,24.0,30.0,32.0,34.0,46.0,66.0,112.0
-HDF - Cpe de France des Clubs - Rosendael - Secteur Maritime MIN Mixte,2022-03-12,U13 Women 55,CUVILLIER Ema,50.0,18.0,20.0,22.0,28.0,30.0,32.0,42.0,62.0,104.0
-HDF - Cpe de France des Clubs - Rosendael - Secteur Maritime MIN Mixte,2022-03-12,U13 Women 55,ARAB Kahina,53.6,18.0,20.0,-22.0,25.0,27.0,-29.0,38.0,52.0,90.0
-HDF - Cpe de France des Clubs - Rosendael - Secteur Maritime MIN Mixte,2022-03-12,U13 Women 59,BOURGOIS Savanah,58.3,15.0,17.0,19.0,22.0,24.0,26.0,36.0,50.0,86.0
-HDF - Cpe de France des Clubs - Rosendael - Secteur Maritime MIN Mixte,2022-03-12,U13 Women 59,LECUYER Clara,55.6,16.0,18.0,19.0,20.0,22.0,23.0,37.0,45.0,82.0
-HDF - Cpe de France des Clubs - Rosendael - Secteur Maritime MIN Mixte,2022-03-12,U13 Women 64,WEXSTEEN Malvina,62.3,27.0,29.0,31.0,38.0,40.0,42.0,60.0,82.0,142.0
-HDF - Cpe de France des Clubs - Rosendael - Secteur Maritime MIN Mixte,2022-03-12,U13 Women 71,LEMOINE Maelys,66.7,18.0,20.0,22.0,20.0,22.0,24.0,42.0,46.0,88.0
+HDF - Cpe de France des Clubs - Rosendael - Secteur Maritime MIN Mixte,2022-03-12,U13 Men 35,DELAROQUE Alexandre,32.6,14.0,16.0,-18.0,20.0,22.0,24.0,16.0,24.0,76.0
+HDF - Cpe de France des Clubs - Rosendael - Secteur Maritime MIN Mixte,2022-03-12,U13 Men 40,DUVET Evan,36.4,18.0,20.0,22.0,21.0,23.0,25.0,22.0,25.0,90.0
+HDF - Cpe de France des Clubs - Rosendael - Secteur Maritime MIN Mixte,2022-03-12,U13 Men 40,BOGAERT Shawn,39.8,13.0,15.0,-17.0,18.0,20.0,22.0,15.0,22.0,70.0
+HDF - Cpe de France des Clubs - Rosendael - Secteur Maritime MIN Mixte,2022-03-12,U13 Men 45,MONIER Thibaut,44.3,26.0,28.0,30.0,36.0,38.0,40.0,30.0,40.0,136.0
+HDF - Cpe de France des Clubs - Rosendael - Secteur Maritime MIN Mixte,2022-03-12,U13 Men 45,MACRELLE Jessy,42.3,12.0,14.0,-16.0,18.0,20.0,21.0,14.0,21.0,67.0
+HDF - Cpe de France des Clubs - Rosendael - Secteur Maritime MIN Mixte,2022-03-12,U13 Men 45,BOGAERT Tyler,44.5,12.0,13.0,-14.0,16.0,-18.0,18.0,13.0,18.0,59.0
+HDF - Cpe de France des Clubs - Rosendael - Secteur Maritime MIN Mixte,2022-03-12,U13 Men 49,ALLAYS RAMACKERS Enguerrand,47.5,24.0,26.0,28.0,33.0,35.0,37.0,28.0,37.0,126.0
+HDF - Cpe de France des Clubs - Rosendael - Secteur Maritime MIN Mixte,2022-03-12,U13 Men 55,DESCHRYVER Arthur,52.9,26.0,28.0,30.0,34.0,36.0,-38.0,30.0,36.0,128.0
+HDF - Cpe de France des Clubs - Rosendael - Secteur Maritime MIN Mixte,2022-03-12,U13 Men 61,SMEECKAERT Antoine,55.3,18.0,20.0,-22.0,25.0,27.0,29.0,20.0,29.0,94.0
+HDF - Cpe de France des Clubs - Rosendael - Secteur Maritime MIN Mixte,2022-03-12,U13 Women 35,ARAB Aliyah,34.7,17.0,18.0,19.0,23.0,25.0,26.0,19.0,26.0,88.0
+HDF - Cpe de France des Clubs - Rosendael - Secteur Maritime MIN Mixte,2022-03-12,U13 Women 45,LAUWERIER Ines,41.0,13.0,15.0,17.0,15.0,17.0,19.0,17.0,19.0,68.0
+HDF - Cpe de France des Clubs - Rosendael - Secteur Maritime MIN Mixte,2022-03-12,U13 Women 49,RADAMA Shaina,46.7,20.0,22.0,24.0,30.0,32.0,34.0,24.0,34.0,112.0
+HDF - Cpe de France des Clubs - Rosendael - Secteur Maritime MIN Mixte,2022-03-12,U13 Women 55,CUVILLIER Ema,50.0,18.0,20.0,22.0,28.0,30.0,32.0,22.0,32.0,104.0
+HDF - Cpe de France des Clubs - Rosendael - Secteur Maritime MIN Mixte,2022-03-12,U13 Women 55,ARAB Kahina,53.6,18.0,20.0,-22.0,25.0,27.0,-29.0,20.0,27.0,90.0
+HDF - Cpe de France des Clubs - Rosendael - Secteur Maritime MIN Mixte,2022-03-12,U13 Women 59,BOURGOIS Savanah,58.3,15.0,17.0,19.0,22.0,24.0,26.0,19.0,26.0,86.0
+HDF - Cpe de France des Clubs - Rosendael - Secteur Maritime MIN Mixte,2022-03-12,U13 Women 59,LECUYER Clara,55.6,16.0,18.0,19.0,20.0,22.0,23.0,19.0,23.0,82.0
+HDF - Cpe de France des Clubs - Rosendael - Secteur Maritime MIN Mixte,2022-03-12,U13 Women 64,WEXSTEEN Malvina,62.3,27.0,29.0,31.0,38.0,40.0,42.0,31.0,42.0,142.0
+HDF - Cpe de France des Clubs - Rosendael - Secteur Maritime MIN Mixte,2022-03-12,U13 Women 71,LEMOINE Maelys,66.7,18.0,20.0,22.0,20.0,22.0,24.0,22.0,24.0,88.0

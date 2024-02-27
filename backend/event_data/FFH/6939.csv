@@ -1,11 +1,11 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-HDF - Challenge Avenir - Lomme - District Nord (Lillois) GARCONS,2023-12-02,U10 Men ,BOUCKÉ Mark,47.5,12.0,14.0,-16.0,18.0,20.0,22.0,26.0,42.0,68.0
-HDF - Challenge Avenir - Lomme - District Nord (Lillois) GARCONS,2023-12-02,U10 Men ,SERROUT LE CARRE Yovan,26.5,12.0,14.0,-16.0,20.0,21.0,-22.0,26.0,41.0,67.0
-HDF - Challenge Avenir - Lomme - District Nord (Lillois) GARCONS,2023-12-02,U10 Men ,NOYELLE Manoa,74.0,12.0,14.0,-16.0,18.0,20.0,21.0,26.0,41.0,67.0
-HDF - Challenge Avenir - Lomme - District Nord (Lillois) GARCONS,2023-12-02,U10 Men ,FONTENELLE Ethan,25.3,17.0,19.0,-20.0,24.0,-26.0,-26.0,36.0,0.0,0.0
-HDF - Challenge Avenir - Lomme - District Nord (Lillois) GARCONS,2023-12-02,U13 Men 40,MARLOT NIZET Mathéo,36.2,13.0,15.0,17.0,20.0,21.0,23.0,32.0,44.0,76.0
-HDF - Challenge Avenir - Lomme - District Nord (Lillois) GARCONS,2023-12-02,U13 Men 40,STASZAK Yanis,38.5,12.0,14.0,-16.0,-18.0,18.0,20.0,26.0,38.0,64.0
-HDF - Challenge Avenir - Lomme - District Nord (Lillois) GARCONS,2023-12-02,U13 Men 40,BOSSU Mathéo,36.2,10.0,12.0,14.0,13.0,14.0,16.0,26.0,30.0,56.0
-HDF - Challenge Avenir - Lomme - District Nord (Lillois) GARCONS,2023-12-02,U13 Men 45,BOUCKÉ Luc,42.8,20.0,22.0,24.0,32.0,34.0,36.0,46.0,70.0,116.0
-HDF - Challenge Avenir - Lomme - District Nord (Lillois) GARCONS,2023-12-02,U13 Men 61,MARCEAU Lucas,59.6,11.0,13.0,15.0,20.0,21.0,22.0,28.0,43.0,71.0
-HDF - Challenge Avenir - Lomme - District Nord (Lillois) GARCONS,2023-12-02,U13 Men >73,EL YAAKOUBI Imrane,76.0,12.0,14.0,-16.0,18.0,20.0,-21.0,26.0,38.0,64.0
+HDF - Challenge Avenir - Lomme - District Nord (Lillois) GARCONS,2023-12-02,U10 Men ,BOUCKÉ Mark,47.5,12.0,14.0,-16.0,18.0,20.0,22.0,14.0,22.0,68.0
+HDF - Challenge Avenir - Lomme - District Nord (Lillois) GARCONS,2023-12-02,U10 Men ,SERROUT LE CARRE Yovan,26.5,12.0,14.0,-16.0,20.0,21.0,-22.0,14.0,21.0,67.0
+HDF - Challenge Avenir - Lomme - District Nord (Lillois) GARCONS,2023-12-02,U10 Men ,NOYELLE Manoa,74.0,12.0,14.0,-16.0,18.0,20.0,21.0,14.0,21.0,67.0
+HDF - Challenge Avenir - Lomme - District Nord (Lillois) GARCONS,2023-12-02,U10 Men ,FONTENELLE Ethan,25.3,17.0,19.0,-20.0,24.0,-26.0,-26.0,19.0,24.0,0.0
+HDF - Challenge Avenir - Lomme - District Nord (Lillois) GARCONS,2023-12-02,U13 Men 40,MARLOT NIZET Mathéo,36.2,13.0,15.0,17.0,20.0,21.0,23.0,17.0,23.0,76.0
+HDF - Challenge Avenir - Lomme - District Nord (Lillois) GARCONS,2023-12-02,U13 Men 40,STASZAK Yanis,38.5,12.0,14.0,-16.0,-18.0,18.0,20.0,14.0,20.0,64.0
+HDF - Challenge Avenir - Lomme - District Nord (Lillois) GARCONS,2023-12-02,U13 Men 40,BOSSU Mathéo,36.2,10.0,12.0,14.0,13.0,14.0,16.0,14.0,16.0,56.0
+HDF - Challenge Avenir - Lomme - District Nord (Lillois) GARCONS,2023-12-02,U13 Men 45,BOUCKÉ Luc,42.8,20.0,22.0,24.0,32.0,34.0,36.0,24.0,36.0,116.0
+HDF - Challenge Avenir - Lomme - District Nord (Lillois) GARCONS,2023-12-02,U13 Men 61,MARCEAU Lucas,59.6,11.0,13.0,15.0,20.0,21.0,22.0,15.0,22.0,71.0
+HDF - Challenge Avenir - Lomme - District Nord (Lillois) GARCONS,2023-12-02,U13 Men >73,EL YAAKOUBI Imrane,76.0,12.0,14.0,-16.0,18.0,20.0,-21.0,14.0,20.0,64.0

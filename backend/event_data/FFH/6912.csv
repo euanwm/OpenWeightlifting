@@ -1,13 +1,13 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-PDL - Challenge Avenir - Allonnes - CD 53 -72    U10-U13,2023-12-02,U10 Men ,LAPIERRE Robin,37.0,-15.0,15.0,16.0,23.0,-25.0,25.0,31.0,48.0,79.0
-PDL - Challenge Avenir - Allonnes - CD 53 -72    U10-U13,2023-12-02,U10 Men ,LECHAT Thibaut,27.0,7.0,9.0,11.0,10.0,12.0,14.0,20.0,26.0,46.0
-PDL - Challenge Avenir - Allonnes - CD 53 -72    U10-U13,2023-12-02,U13 Men 40,COLLET Romain,39.0,7.0,9.0,-11.0,11.0,13.0,15.0,16.0,28.0,44.0
-PDL - Challenge Avenir - Allonnes - CD 53 -72    U10-U13,2023-12-02,U13 Men 40,LAPIERRE Louis,37.5,24.0,-26.0,-26.0,31.0,33.0,-35.0,0.0,64.0,0.0
-PDL - Challenge Avenir - Allonnes - CD 53 -72    U10-U13,2023-12-02,U13 Men 49,MEDARD Lorenzo,47.0,-18.0,18.0,20.0,26.0,28.0,30.0,38.0,58.0,96.0
-PDL - Challenge Avenir - Allonnes - CD 53 -72    U10-U13,2023-12-02,U10 Women ,FOURNIER Alice,47.0,12.0,14.0,16.0,20.0,22.0,24.0,30.0,46.0,76.0
-PDL - Challenge Avenir - Allonnes - CD 53 -72    U10-U13,2023-12-02,U10 Women ,ROQUET Luce,32.0,7.0,9.0,11.0,11.0,13.0,-15.0,20.0,24.0,44.0
-PDL - Challenge Avenir - Allonnes - CD 53 -72    U10-U13,2023-12-02,U13 Women 35,FERRANDIN Camille,34.0,12.0,14.0,16.0,18.0,20.0,-22.0,30.0,38.0,68.0
-PDL - Challenge Avenir - Allonnes - CD 53 -72    U10-U13,2023-12-02,U13 Women 55,VILFEU Inaia,51.0,26.0,28.0,-30.0,36.0,38.0,-40.0,54.0,74.0,128.0
-PDL - Challenge Avenir - Allonnes - CD 53 -72    U10-U13,2023-12-02,U13 Women 59,FERRE Roxane,57.0,25.0,27.0,29.0,28.0,30.0,32.0,56.0,62.0,118.0
-PDL - Challenge Avenir - Allonnes - CD 53 -72    U10-U13,2023-12-02,U13 Women 64,LOMBARD Elodie,62.0,12.0,14.0,-16.0,-18.0,18.0,20.0,26.0,38.0,64.0
-PDL - Challenge Avenir - Allonnes - CD 53 -72    U10-U13,2023-12-02,U13 Women 64,LECHAT Apoline,60.0,25.0,-27.0,-27.0,34.0,36.0,38.0,0.0,74.0,0.0
+PDL - Challenge Avenir - Allonnes - CD 53 -72    U10-U13,2023-12-02,U10 Men ,LAPIERRE Robin,37.0,-15.0,15.0,16.0,23.0,-25.0,25.0,16.0,25.0,79.0
+PDL - Challenge Avenir - Allonnes - CD 53 -72    U10-U13,2023-12-02,U10 Men ,LECHAT Thibaut,27.0,7.0,9.0,11.0,10.0,12.0,14.0,11.0,14.0,46.0
+PDL - Challenge Avenir - Allonnes - CD 53 -72    U10-U13,2023-12-02,U13 Men 40,COLLET Romain,39.0,7.0,9.0,-11.0,11.0,13.0,15.0,9.0,15.0,44.0
+PDL - Challenge Avenir - Allonnes - CD 53 -72    U10-U13,2023-12-02,U13 Men 40,LAPIERRE Louis,37.5,24.0,-26.0,-26.0,31.0,33.0,-35.0,24.0,33.0,0.0
+PDL - Challenge Avenir - Allonnes - CD 53 -72    U10-U13,2023-12-02,U13 Men 49,MEDARD Lorenzo,47.0,-18.0,18.0,20.0,26.0,28.0,30.0,20.0,30.0,96.0
+PDL - Challenge Avenir - Allonnes - CD 53 -72    U10-U13,2023-12-02,U10 Women ,FOURNIER Alice,47.0,12.0,14.0,16.0,20.0,22.0,24.0,16.0,24.0,76.0
+PDL - Challenge Avenir - Allonnes - CD 53 -72    U10-U13,2023-12-02,U10 Women ,ROQUET Luce,32.0,7.0,9.0,11.0,11.0,13.0,-15.0,11.0,13.0,44.0
+PDL - Challenge Avenir - Allonnes - CD 53 -72    U10-U13,2023-12-02,U13 Women 35,FERRANDIN Camille,34.0,12.0,14.0,16.0,18.0,20.0,-22.0,16.0,20.0,68.0
+PDL - Challenge Avenir - Allonnes - CD 53 -72    U10-U13,2023-12-02,U13 Women 55,VILFEU Inaia,51.0,26.0,28.0,-30.0,36.0,38.0,-40.0,28.0,38.0,128.0
+PDL - Challenge Avenir - Allonnes - CD 53 -72    U10-U13,2023-12-02,U13 Women 59,FERRE Roxane,57.0,25.0,27.0,29.0,28.0,30.0,32.0,29.0,32.0,118.0
+PDL - Challenge Avenir - Allonnes - CD 53 -72    U10-U13,2023-12-02,U13 Women 64,LOMBARD Elodie,62.0,12.0,14.0,-16.0,-18.0,18.0,20.0,14.0,20.0,64.0
+PDL - Challenge Avenir - Allonnes - CD 53 -72    U10-U13,2023-12-02,U13 Women 64,LECHAT Apoline,60.0,25.0,-27.0,-27.0,34.0,36.0,38.0,25.0,38.0,0.0

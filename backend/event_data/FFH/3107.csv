@@ -1,5 +1,5 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-AURA - Cpe de France des Clubs - Chambéry,2022-03-12,U15 Men 55,LUGINBUHL Florentin,53.6,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+AURA - Cpe de France des Clubs - Chambéry,2022-03-12,U15 Men 55,LUGINBUHL Florentin,53.6,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,0.0
 AURA - Cpe de France des Clubs - Chambéry,2022-03-12,U20 Men 89,JACQUOT Damien,83.3,88.0,-92.0,-92.0,110.0,-116.0,-116.0,88.0,110.0,198.0
 AURA - Cpe de France des Clubs - Chambéry,2022-03-12,U20 Men 96,BRUN Max,96.0,40.0,45.0,50.0,50.0,60.0,65.0,50.0,65.0,115.0
 AURA - Cpe de France des Clubs - Chambéry,2022-03-12,SEN Men 61,BUCHWALTER Morgan,59.6,60.0,65.0,70.0,80.0,85.0,-0.0,70.0,85.0,155.0
@@ -30,7 +30,7 @@ AURA - Cpe de France des Clubs - Chambéry,2022-03-12,SEN Women 64,GRIMAL Anna,6
 AURA - Cpe de France des Clubs - Chambéry,2022-03-12,SEN Women 64,ARMSTRONG Victoria,60.05,46.0,50.0,54.0,67.0,-71.0,73.0,54.0,73.0,127.0
 AURA - Cpe de France des Clubs - Chambéry,2022-03-12,SEN Women 64,GOURGEL Annick,59.15,50.0,-53.0,-53.0,65.0,-67.0,-70.0,50.0,65.0,115.0
 AURA - Cpe de France des Clubs - Chambéry,2022-03-12,SEN Women 64,BUCHWALTER Clara,60.7,40.0,43.0,-45.0,47.0,50.0,53.0,43.0,53.0,96.0
-AURA - Cpe de France des Clubs - Chambéry,2022-03-12,SEN Women 64,FAGOT Axelle,62.2,65.0,69.0,-72.0,-0.0,-0.0,-0.0,69.0,0.0,69.0
+AURA - Cpe de France des Clubs - Chambéry,2022-03-12,SEN Women 64,FAGOT Axelle,62.2,65.0,69.0,-72.0,-0.0,-0.0,-0.0,69.0,-0.0,69.0
 AURA - Cpe de France des Clubs - Chambéry,2022-03-12,SEN Women 71,SINGIER Ophélie,66.85,61.0,64.0,-67.0,80.0,83.0,86.0,64.0,86.0,150.0
 AURA - Cpe de France des Clubs - Chambéry,2022-03-12,SEN Women 71,POTHIN Julie,71.0,53.0,-56.0,56.0,63.0,67.0,-70.0,56.0,67.0,123.0
 AURA - Cpe de France des Clubs - Chambéry,2022-03-12,SEN Women 87,RICHARD Marion,86.5,40.0,-43.0,-43.0,50.0,53.0,55.0,40.0,55.0,95.0
