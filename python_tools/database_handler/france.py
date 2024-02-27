@@ -303,8 +303,8 @@ class FranceInterface(DBInterface):
             cj_1=float(result.cj_1),
             cj_2=float(result.cj_2),
             cj_3=float(result.cj_3),
-            best_snatch=float(result.best_snatch),
-            best_cj=float(result.best_cj),
+            best_snatch=max(float(result.snatch_1), float(result.snatch_2), float(result.snatch_3)),
+            best_cj=max(float(result.cj_1), float(result.cj_2), float(result.cj_3)),
             total=float(result.total),
         )
         return amal_data
