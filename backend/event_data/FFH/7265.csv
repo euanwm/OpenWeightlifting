@@ -1,7 +1,7 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
 BFC - Critérium National - Luxeuil-les-bains - P2,2024-01-13,U15 Men 67,DURIC Adis,64.7,-65.0,65.0,69.0,75.0,79.0,81.0,69.0,81.0,150.0
 BFC - Critérium National - Luxeuil-les-bains - P2,2024-01-13,U15 Men >102,BOFFY Lucas,114.9,100.0,-104.0,104.0,125.0,-131.0,-131.0,104.0,125.0,229.0
-BFC - Critérium National - Luxeuil-les-bains - P2,2024-01-13,U17 Men 67,MARTIN Gabriel,66.9,-98.0,-98.0,-98.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+BFC - Critérium National - Luxeuil-les-bains - P2,2024-01-13,U17 Men 67,MARTIN Gabriel,66.9,-98.0,-98.0,-98.0,-0.0,-0.0,-0.0,-98.0,-0.0,0.0
 BFC - Critérium National - Luxeuil-les-bains - P2,2024-01-13,U17 Men 89,KERKENI Noam,85.4,73.0,78.0,83.0,100.0,105.0,108.0,83.0,108.0,191.0
 BFC - Critérium National - Luxeuil-les-bains - P2,2024-01-13,U20 Men 61,SIMARD--FERNANDES Mathis,60.1,65.0,-69.0,-72.0,90.0,95.0,-100.0,65.0,95.0,160.0
 BFC - Critérium National - Luxeuil-les-bains - P2,2024-01-13,U20 Men 67,VIGNERESSE Erwan,67.0,80.0,85.0,88.0,102.0,106.0,-110.0,88.0,106.0,194.0
@@ -15,5 +15,5 @@ BFC - Critérium National - Luxeuil-les-bains - P2,2024-01-13,SEN Men 81,MATHIOT
 BFC - Critérium National - Luxeuil-les-bains - P2,2024-01-13,SEN Men 89,GROSJEAN Alexandre,83.6,115.0,120.0,125.0,140.0,145.0,-150.0,125.0,145.0,270.0
 BFC - Critérium National - Luxeuil-les-bains - P2,2024-01-13,SEN Men 89,BARKAT Mohamed,86.9,-95.0,95.0,101.0,128.0,-134.0,-136.0,101.0,128.0,229.0
 BFC - Critérium National - Luxeuil-les-bains - P2,2024-01-13,SEN Men 96,NICOLIN Aslam,90.0,107.0,113.0,-117.0,142.0,-152.0,152.0,113.0,152.0,265.0
-BFC - Critérium National - Luxeuil-les-bains - P2,2024-01-13,SEN Men 96,SPERKA Sacha,90.0,-122.0,-122.0,-122.0,75.0,76.0,77.0,0.0,77.0,0.0
+BFC - Critérium National - Luxeuil-les-bains - P2,2024-01-13,SEN Men 96,SPERKA Sacha,90.0,-122.0,-122.0,-122.0,75.0,76.0,77.0,-122.0,77.0,0.0
 BFC - Critérium National - Luxeuil-les-bains - P2,2024-01-13,SEN Men 109,FERRE Benjamin,108.6,-145.0,145.0,-160.0,190.0,195.0,200.0,145.0,200.0,345.0

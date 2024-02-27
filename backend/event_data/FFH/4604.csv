@@ -1,14 +1,14 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-HDF - Critérium National - Comines - District Nord Plat1A U13 Filles,2022-12-17,U13 Women 35,GEERAERT Emmy,33.81,12.0,14.0,16.0,16.0,18.0,20.0,30.0,38.0,68.0
-HDF - Critérium National - Comines - District Nord Plat1A U13 Filles,2022-12-17,U13 Women 35,DECORTE-DELHAIE Leonie,31.6,12.0,13.0,-14.0,15.0,17.0,19.0,25.0,36.0,61.0
-HDF - Critérium National - Comines - District Nord Plat1A U13 Filles,2022-12-17,U13 Women 35,PORTRA Julia,34.32,11.0,13.0,-14.0,15.0,-16.0,16.0,24.0,31.0,55.0
-HDF - Critérium National - Comines - District Nord Plat1A U13 Filles,2022-12-17,U13 Women 40,BOSQ Selena,39.04,13.0,15.0,17.0,15.0,17.0,19.0,32.0,36.0,68.0
-HDF - Critérium National - Comines - District Nord Plat1A U13 Filles,2022-12-17,U13 Women 40,NOYELLE Victoire,40.0,10.0,12.0,13.0,-15.0,15.0,-17.0,25.0,0.0,0.0
-HDF - Critérium National - Comines - District Nord Plat1A U13 Filles,2022-12-17,U13 Women 45,DODRE Mae,42.55,26.0,-28.0,28.0,34.0,36.0,-38.0,54.0,70.0,124.0
-HDF - Critérium National - Comines - District Nord Plat1A U13 Filles,2022-12-17,U13 Women 49,RADAMA Shaina,48.07,27.0,29.0,31.0,38.0,40.0,42.0,60.0,82.0,142.0
-HDF - Critérium National - Comines - District Nord Plat1A U13 Filles,2022-12-17,U13 Women 49,GIORDANELLA Emma,48.34,23.0,25.0,27.0,31.0,33.0,35.0,52.0,68.0,120.0
-HDF - Critérium National - Comines - District Nord Plat1A U13 Filles,2022-12-17,U13 Women 55,FONTENELLE Chloe,54.92,28.0,30.0,32.0,38.0,40.0,42.0,62.0,82.0,144.0
-HDF - Critérium National - Comines - District Nord Plat1A U13 Filles,2022-12-17,U13 Women 59,CUVILLIER Ema,56.79,24.0,26.0,28.0,36.0,38.0,40.0,54.0,78.0,132.0
-HDF - Critérium National - Comines - District Nord Plat1A U13 Filles,2022-12-17,U13 Women 59,AMIRI Ines,57.92,15.0,17.0,19.0,24.0,26.0,28.0,36.0,54.0,90.0
-HDF - Critérium National - Comines - District Nord Plat1A U13 Filles,2022-12-17,U13 Women 59,OPIGEZ Lena,55.83,15.0,17.0,18.0,19.0,21.0,-23.0,35.0,40.0,75.0
-HDF - Critérium National - Comines - District Nord Plat1A U13 Filles,2022-12-17,U13 Women >71,NAKOULMA Mounira,101.4,21.0,23.0,25.0,27.0,29.0,31.0,48.0,60.0,108.0
+HDF - Critérium National - Comines - District Nord Plat1A U13 Filles,2022-12-17,U13 Women 35,GEERAERT Emmy,33.81,12.0,14.0,16.0,16.0,18.0,20.0,16.0,20.0,68.0
+HDF - Critérium National - Comines - District Nord Plat1A U13 Filles,2022-12-17,U13 Women 35,DECORTE-DELHAIE Leonie,31.6,12.0,13.0,-14.0,15.0,17.0,19.0,13.0,19.0,61.0
+HDF - Critérium National - Comines - District Nord Plat1A U13 Filles,2022-12-17,U13 Women 35,PORTRA Julia,34.32,11.0,13.0,-14.0,15.0,-16.0,16.0,13.0,16.0,55.0
+HDF - Critérium National - Comines - District Nord Plat1A U13 Filles,2022-12-17,U13 Women 40,BOSQ Selena,39.04,13.0,15.0,17.0,15.0,17.0,19.0,17.0,19.0,68.0
+HDF - Critérium National - Comines - District Nord Plat1A U13 Filles,2022-12-17,U13 Women 40,NOYELLE Victoire,40.0,10.0,12.0,13.0,-15.0,15.0,-17.0,13.0,15.0,0.0
+HDF - Critérium National - Comines - District Nord Plat1A U13 Filles,2022-12-17,U13 Women 45,DODRE Mae,42.55,26.0,-28.0,28.0,34.0,36.0,-38.0,28.0,36.0,124.0
+HDF - Critérium National - Comines - District Nord Plat1A U13 Filles,2022-12-17,U13 Women 49,RADAMA Shaina,48.07,27.0,29.0,31.0,38.0,40.0,42.0,31.0,42.0,142.0
+HDF - Critérium National - Comines - District Nord Plat1A U13 Filles,2022-12-17,U13 Women 49,GIORDANELLA Emma,48.34,23.0,25.0,27.0,31.0,33.0,35.0,27.0,35.0,120.0
+HDF - Critérium National - Comines - District Nord Plat1A U13 Filles,2022-12-17,U13 Women 55,FONTENELLE Chloe,54.92,28.0,30.0,32.0,38.0,40.0,42.0,32.0,42.0,144.0
+HDF - Critérium National - Comines - District Nord Plat1A U13 Filles,2022-12-17,U13 Women 59,CUVILLIER Ema,56.79,24.0,26.0,28.0,36.0,38.0,40.0,28.0,40.0,132.0
+HDF - Critérium National - Comines - District Nord Plat1A U13 Filles,2022-12-17,U13 Women 59,AMIRI Ines,57.92,15.0,17.0,19.0,24.0,26.0,28.0,19.0,28.0,90.0
+HDF - Critérium National - Comines - District Nord Plat1A U13 Filles,2022-12-17,U13 Women 59,OPIGEZ Lena,55.83,15.0,17.0,18.0,19.0,21.0,-23.0,18.0,21.0,75.0
+HDF - Critérium National - Comines - District Nord Plat1A U13 Filles,2022-12-17,U13 Women >71,NAKOULMA Mounira,101.4,21.0,23.0,25.0,27.0,29.0,31.0,25.0,31.0,108.0

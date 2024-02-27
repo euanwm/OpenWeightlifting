@@ -1,8 +1,8 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-PDL - Tournoi Exterieur,2021-05-29,U10 Women ,LOPES Amandine,40.3,6.0,7.0,8.0,7.0,8.0,9.0,15.0,17.0,32.0
-PDL - Tournoi Exterieur,2021-05-29,U13 Women 40,FERRAND COGNON Lyna,38.58,12.0,14.0,16.0,16.0,18.0,20.0,30.0,38.0,68.0
-PDL - Tournoi Exterieur,2021-05-29,U13 Women >71,GLASSIER Barbara,79.25,20.0,21.0,22.0,24.0,25.0,26.0,43.0,51.0,94.0
-PDL - Tournoi Exterieur,2021-05-29,U13 Men 55,PIRIOU Yundy,50.0,27.0,-29.0,29.0,38.0,40.0,42.0,56.0,82.0,138.0
-PDL - Tournoi Exterieur,2021-05-29,U13 Men 55,BARBASTRO Maxime,50.3,10.0,11.0,12.0,12.0,14.0,15.0,23.0,29.0,52.0
-PDL - Tournoi Exterieur,2021-05-29,U13 Men 73,PAGANO Lenny,73.0,23.0,25.0,27.0,32.0,34.0,36.0,52.0,70.0,122.0
-PDL - Tournoi Exterieur,2021-05-29,U13 Men 73,PICHON Nolan,69.7,16.0,18.0,20.0,20.0,22.0,24.0,38.0,46.0,84.0
+PDL - Tournoi Exterieur,2021-05-29,U10 Women ,LOPES Amandine,40.3,6.0,7.0,8.0,7.0,8.0,9.0,8.0,9.0,32.0
+PDL - Tournoi Exterieur,2021-05-29,U13 Women 40,FERRAND COGNON Lyna,38.58,12.0,14.0,16.0,16.0,18.0,20.0,16.0,20.0,68.0
+PDL - Tournoi Exterieur,2021-05-29,U13 Women >71,GLASSIER Barbara,79.25,20.0,21.0,22.0,24.0,25.0,26.0,22.0,26.0,94.0
+PDL - Tournoi Exterieur,2021-05-29,U13 Men 55,PIRIOU Yundy,50.0,27.0,-29.0,29.0,38.0,40.0,42.0,29.0,42.0,138.0
+PDL - Tournoi Exterieur,2021-05-29,U13 Men 55,BARBASTRO Maxime,50.3,10.0,11.0,12.0,12.0,14.0,15.0,12.0,15.0,52.0
+PDL - Tournoi Exterieur,2021-05-29,U13 Men 73,PAGANO Lenny,73.0,23.0,25.0,27.0,32.0,34.0,36.0,27.0,36.0,122.0
+PDL - Tournoi Exterieur,2021-05-29,U13 Men 73,PICHON Nolan,69.7,16.0,18.0,20.0,20.0,22.0,24.0,20.0,24.0,84.0

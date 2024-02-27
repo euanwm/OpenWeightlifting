@@ -61,6 +61,14 @@ class CLICommands:
             case _:
                 sys.exit(f"database not found: {db_name}")
 
+    def build(self, db_name):
+        """builds a database"""
+        match db_name:
+            case "ffh":
+                france = FranceInterface()
+                france.build_database()
+            case _:
+                sys.exit(f"database not found: {db_name}")
 
 if __name__ == '__main__':
     commands = CLICommands()
@@ -68,5 +76,8 @@ if __name__ == '__main__':
         case "--update":
             print(f"updating database: {argv[2]}")
             commands.update(argv[2])
+        case "--build":
+            print(f"building database: {argv[2]}")
+            commands.build(argv[2])
         case _:
             print("not a command")

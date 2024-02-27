@@ -1,10 +1,10 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-BFC - Chpt Province - Luxeuil,2022-02-26,U10 Women ,DURIC Ema,30.1,19.0,-21.0,21.0,27.0,-29.0,29.0,40.0,56.0,96.0
-BFC - Chpt Province - Luxeuil,2022-02-26,U10 Women ,LITZLER Luna,29.8,16.0,18.0,-20.0,26.0,28.0,-30.0,34.0,54.0,88.0
-BFC - Chpt Province - Luxeuil,2022-02-26,U10 Women ,AUBRY Leena,32.45,14.0,-15.0,15.0,15.0,17.0,18.0,29.0,35.0,64.0
-BFC - Chpt Province - Luxeuil,2022-02-26,U10 Women ,BONNET Manon,34.4,9.0,10.0,11.0,10.0,12.0,13.0,21.0,25.0,46.0
-BFC - Chpt Province - Luxeuil,2022-02-26,U13 Women 45,LITZLER Servane,40.7,29.0,31.0,33.0,40.0,42.0,44.0,64.0,86.0,150.0
-BFC - Chpt Province - Luxeuil,2022-02-26,U13 Women 59,AUBRY Elyne,58.8,26.0,-28.0,28.0,35.0,37.0,39.0,54.0,76.0,130.0
-BFC - Chpt Province - Luxeuil,2022-02-26,U13 Men 45,CHIARISOLO Lucas,43.05,15.0,17.0,-19.0,20.0,-22.0,22.0,32.0,42.0,74.0
-BFC - Chpt Province - Luxeuil,2022-02-26,U13 Men 55,GADRET Marceau,50.5,16.0,17.0,18.0,18.0,20.0,22.0,35.0,42.0,77.0
-BFC - Chpt Province - Luxeuil,2022-02-26,U13 Men 55,ORSAT Louis,49.85,14.0,16.0,18.0,-20.0,20.0,22.0,34.0,42.0,76.0
+BFC - Chpt Province - Luxeuil,2022-02-26,U10 Women ,DURIC Ema,30.1,19.0,-21.0,21.0,27.0,-29.0,29.0,21.0,29.0,96.0
+BFC - Chpt Province - Luxeuil,2022-02-26,U10 Women ,LITZLER Luna,29.8,16.0,18.0,-20.0,26.0,28.0,-30.0,18.0,28.0,88.0
+BFC - Chpt Province - Luxeuil,2022-02-26,U10 Women ,AUBRY Leena,32.45,14.0,-15.0,15.0,15.0,17.0,18.0,15.0,18.0,64.0
+BFC - Chpt Province - Luxeuil,2022-02-26,U10 Women ,BONNET Manon,34.4,9.0,10.0,11.0,10.0,12.0,13.0,11.0,13.0,46.0
+BFC - Chpt Province - Luxeuil,2022-02-26,U13 Women 45,LITZLER Servane,40.7,29.0,31.0,33.0,40.0,42.0,44.0,33.0,44.0,150.0
+BFC - Chpt Province - Luxeuil,2022-02-26,U13 Women 59,AUBRY Elyne,58.8,26.0,-28.0,28.0,35.0,37.0,39.0,28.0,39.0,130.0
+BFC - Chpt Province - Luxeuil,2022-02-26,U13 Men 45,CHIARISOLO Lucas,43.05,15.0,17.0,-19.0,20.0,-22.0,22.0,17.0,22.0,74.0
+BFC - Chpt Province - Luxeuil,2022-02-26,U13 Men 55,GADRET Marceau,50.5,16.0,17.0,18.0,18.0,20.0,22.0,18.0,22.0,77.0
+BFC - Chpt Province - Luxeuil,2022-02-26,U13 Men 55,ORSAT Louis,49.85,14.0,16.0,18.0,-20.0,20.0,22.0,18.0,22.0,76.0

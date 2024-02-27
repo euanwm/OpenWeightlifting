@@ -1,10 +1,10 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-NCAL - Barbell Clean MWA SAA - Hom,2021-05-01,U17 Men >102,TAFILI Léone,107.5,-70.0,-70.0,-70.0,85.0,90.0,100.0,0.0,100.0,0.0
+NCAL - Barbell Clean MWA SAA - Hom,2021-05-01,U17 Men >102,TAFILI Léone,107.5,-70.0,-70.0,-70.0,85.0,90.0,100.0,-70.0,100.0,0.0
 NCAL - Barbell Clean MWA SAA - Hom,2021-05-01,U20 Men 67,ORI Valentin,66.3,80.0,-85.0,-86.0,100.0,-103.0,-105.0,80.0,100.0,180.0
 NCAL - Barbell Clean MWA SAA - Hom,2021-05-01,U20 Men 89,LAGIKULA Passio,88.7,70.0,-80.0,80.0,-85.0,85.0,90.0,80.0,90.0,170.0
 NCAL - Barbell Clean MWA SAA - Hom,2021-05-01,SEN Men 73,FONDERE Julien,68.3,-85.0,85.0,88.0,-108.0,108.0,112.0,88.0,112.0,200.0
 NCAL - Barbell Clean MWA SAA - Hom,2021-05-01,SEN Men 81,PANCHE Florian,77.4,55.0,-60.0,62.0,68.0,72.0,-77.0,62.0,72.0,134.0
-NCAL - Barbell Clean MWA SAA - Hom,2021-05-01,SEN Men 81,FLOTAT Gareth,77.0,-98.0,-98.0,-100.0,-110.0,110.0,-118.0,0.0,110.0,0.0
+NCAL - Barbell Clean MWA SAA - Hom,2021-05-01,SEN Men 81,FLOTAT Gareth,77.0,-98.0,-98.0,-100.0,-110.0,110.0,-118.0,-98.0,110.0,0.0
 NCAL - Barbell Clean MWA SAA - Hom,2021-05-01,SEN Men 89,DUCLOS Sylvain,84.8,100.0,105.0,-110.0,135.0,140.0,-145.0,105.0,140.0,245.0
 NCAL - Barbell Clean MWA SAA - Hom,2021-05-01,SEN Men 102,POIRON Vincent,101.7,75.0,77.0,-80.0,100.0,-102.0,102.0,77.0,102.0,179.0
 NCAL - Barbell Clean MWA SAA - Hom,2021-05-01,SEN Men 109,LAGIKULA Igor,103.5,-120.0,120.0,130.0,150.0,-160.0,-160.0,130.0,150.0,280.0

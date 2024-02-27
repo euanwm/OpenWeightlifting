@@ -1,14 +1,14 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-HDF - Critérium National - Rosendael - District Nord (secteur maritime) U13 Garçons,2024-01-14,U13 Men 35,ARAB Nahil,27.0,17.0,18.0,20.0,23.0,24.0,26.0,38.0,50.0,88.0
-HDF - Critérium National - Rosendael - District Nord (secteur maritime) U13 Garçons,2024-01-14,U13 Men 35,DANGUY Lyam,31.8,15.0,17.0,19.0,22.0,23.0,24.0,36.0,47.0,83.0
-HDF - Critérium National - Rosendael - District Nord (secteur maritime) U13 Garçons,2024-01-14,U13 Men 35,FYVEY Lois,34.0,10.0,12.0,14.0,14.0,16.0,18.0,26.0,34.0,60.0
-HDF - Critérium National - Rosendael - District Nord (secteur maritime) U13 Garçons,2024-01-14,U13 Men 40,BAILLEUL Damien,37.8,15.0,17.0,19.0,23.0,25.0,27.0,36.0,52.0,88.0
-HDF - Critérium National - Rosendael - District Nord (secteur maritime) U13 Garçons,2024-01-14,U13 Men 40,VANBAELINGHEM Gatien,37.3,17.0,19.0,-21.0,22.0,24.0,25.0,36.0,49.0,85.0
-HDF - Critérium National - Rosendael - District Nord (secteur maritime) U13 Garçons,2024-01-14,U13 Men 45,MECHNAME Etan,44.1,15.0,17.0,19.0,22.0,24.0,26.0,36.0,50.0,86.0
-HDF - Critérium National - Rosendael - District Nord (secteur maritime) U13 Garçons,2024-01-14,U13 Men 45,WESTEEL Boris,41.6,14.0,16.0,18.0,20.0,22.0,24.0,34.0,46.0,80.0
-HDF - Critérium National - Rosendael - District Nord (secteur maritime) U13 Garçons,2024-01-14,U13 Men 49,DEDECKER Mathéo,46.8,21.0,23.0,25.0,32.0,34.0,36.0,48.0,70.0,118.0
-HDF - Critérium National - Rosendael - District Nord (secteur maritime) U13 Garçons,2024-01-14,U13 Men 49,DESCHRYVER Oscar,48.7,22.0,24.0,-26.0,28.0,30.0,31.0,46.0,61.0,107.0
-HDF - Critérium National - Rosendael - District Nord (secteur maritime) U13 Garçons,2024-01-14,U13 Men 55,DEMET Tom,49.4,14.0,16.0,17.0,18.0,20.0,22.0,33.0,42.0,75.0
-HDF - Critérium National - Rosendael - District Nord (secteur maritime) U13 Garçons,2024-01-14,U13 Men 61,ALLAYS RAMACKERS Enguerrand,60.4,40.0,42.0,44.0,50.0,52.0,54.0,86.0,106.0,192.0
-HDF - Critérium National - Rosendael - District Nord (secteur maritime) U13 Garçons,2024-01-14,U13 Men 67,TILLIEZ Noë,65.4,23.0,25.0,27.0,31.0,33.0,35.0,52.0,68.0,120.0
-HDF - Critérium National - Rosendael - District Nord (secteur maritime) U13 Garçons,2024-01-14,U13 Men >73,DECLERCQ Manoé,76.5,34.0,36.0,38.0,40.0,42.0,44.0,74.0,86.0,160.0
+HDF - Critérium National - Rosendael - District Nord (secteur maritime) U13 Garçons,2024-01-14,U13 Men 35,ARAB Nahil,27.0,17.0,18.0,20.0,23.0,24.0,26.0,20.0,26.0,88.0
+HDF - Critérium National - Rosendael - District Nord (secteur maritime) U13 Garçons,2024-01-14,U13 Men 35,DANGUY Lyam,31.8,15.0,17.0,19.0,22.0,23.0,24.0,19.0,24.0,83.0
+HDF - Critérium National - Rosendael - District Nord (secteur maritime) U13 Garçons,2024-01-14,U13 Men 35,FYVEY Lois,34.0,10.0,12.0,14.0,14.0,16.0,18.0,14.0,18.0,60.0
+HDF - Critérium National - Rosendael - District Nord (secteur maritime) U13 Garçons,2024-01-14,U13 Men 40,BAILLEUL Damien,37.8,15.0,17.0,19.0,23.0,25.0,27.0,19.0,27.0,88.0
+HDF - Critérium National - Rosendael - District Nord (secteur maritime) U13 Garçons,2024-01-14,U13 Men 40,VANBAELINGHEM Gatien,37.3,17.0,19.0,-21.0,22.0,24.0,25.0,19.0,25.0,85.0
+HDF - Critérium National - Rosendael - District Nord (secteur maritime) U13 Garçons,2024-01-14,U13 Men 45,MECHNAME Etan,44.1,15.0,17.0,19.0,22.0,24.0,26.0,19.0,26.0,86.0
+HDF - Critérium National - Rosendael - District Nord (secteur maritime) U13 Garçons,2024-01-14,U13 Men 45,WESTEEL Boris,41.6,14.0,16.0,18.0,20.0,22.0,24.0,18.0,24.0,80.0
+HDF - Critérium National - Rosendael - District Nord (secteur maritime) U13 Garçons,2024-01-14,U13 Men 49,DEDECKER Mathéo,46.8,21.0,23.0,25.0,32.0,34.0,36.0,25.0,36.0,118.0
+HDF - Critérium National - Rosendael - District Nord (secteur maritime) U13 Garçons,2024-01-14,U13 Men 49,DESCHRYVER Oscar,48.7,22.0,24.0,-26.0,28.0,30.0,31.0,24.0,31.0,107.0
+HDF - Critérium National - Rosendael - District Nord (secteur maritime) U13 Garçons,2024-01-14,U13 Men 55,DEMET Tom,49.4,14.0,16.0,17.0,18.0,20.0,22.0,17.0,22.0,75.0
+HDF - Critérium National - Rosendael - District Nord (secteur maritime) U13 Garçons,2024-01-14,U13 Men 61,ALLAYS RAMACKERS Enguerrand,60.4,40.0,42.0,44.0,50.0,52.0,54.0,44.0,54.0,192.0
+HDF - Critérium National - Rosendael - District Nord (secteur maritime) U13 Garçons,2024-01-14,U13 Men 67,TILLIEZ Noë,65.4,23.0,25.0,27.0,31.0,33.0,35.0,27.0,35.0,120.0
+HDF - Critérium National - Rosendael - District Nord (secteur maritime) U13 Garçons,2024-01-14,U13 Men >73,DECLERCQ Manoé,76.5,34.0,36.0,38.0,40.0,42.0,44.0,38.0,44.0,160.0

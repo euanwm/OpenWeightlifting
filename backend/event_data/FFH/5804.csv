@@ -1,10 +1,10 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-BRE - Chpt Ligue - Rennes - U13,2023-03-25,U10 Men ,BEHLOW Nathaniel,32.4,18.0,20.0,22.0,26.0,28.0,30.0,42.0,58.0,100.0
-BRE - Chpt Ligue - Rennes - U13,2023-03-25,U10 Men ,HOYOUX Naël,32.35,12.0,14.0,16.0,16.0,18.0,20.0,30.0,38.0,68.0
-BRE - Chpt Ligue - Rennes - U13,2023-03-25,U13 Men 35,BRIVOAL Antoine,32.7,17.0,19.0,-21.0,21.0,23.0,25.0,36.0,48.0,84.0
-BRE - Chpt Ligue - Rennes - U13,2023-03-25,U13 Men 40,VICHON Ethan,39.3,26.0,28.0,30.0,34.0,36.0,-38.0,58.0,70.0,128.0
-BRE - Chpt Ligue - Rennes - U13,2023-03-25,U13 Men 40,GUILLEMETTE Léo,39.6,21.0,-23.0,23.0,26.0,28.0,-30.0,44.0,54.0,98.0
-BRE - Chpt Ligue - Rennes - U13,2023-03-25,U13 Men 45,CORMONT Enzo,43.3,24.0,26.0,-28.0,34.0,36.0,38.0,50.0,74.0,124.0
-BRE - Chpt Ligue - Rennes - U13,2023-03-25,U13 Men 49,GUILLEMETTE Roman,47.75,18.0,20.0,-22.0,24.0,26.0,28.0,38.0,54.0,92.0
-BRE - Chpt Ligue - Rennes - U13,2023-03-25,U10 Women ,BALCON Inès,34.3,8.0,10.0,11.0,11.0,12.0,14.0,21.0,26.0,47.0
-BRE - Chpt Ligue - Rennes - U13,2023-03-25,U13 Women 35,TUDO Liyah,31.85,11.0,12.0,-13.0,15.0,16.0,17.0,23.0,33.0,56.0
+BRE - Chpt Ligue - Rennes - U13,2023-03-25,U10 Men ,BEHLOW Nathaniel,32.4,18.0,20.0,22.0,26.0,28.0,30.0,22.0,30.0,100.0
+BRE - Chpt Ligue - Rennes - U13,2023-03-25,U10 Men ,HOYOUX Naël,32.35,12.0,14.0,16.0,16.0,18.0,20.0,16.0,20.0,68.0
+BRE - Chpt Ligue - Rennes - U13,2023-03-25,U13 Men 35,BRIVOAL Antoine,32.7,17.0,19.0,-21.0,21.0,23.0,25.0,19.0,25.0,84.0
+BRE - Chpt Ligue - Rennes - U13,2023-03-25,U13 Men 40,VICHON Ethan,39.3,26.0,28.0,30.0,34.0,36.0,-38.0,30.0,36.0,128.0
+BRE - Chpt Ligue - Rennes - U13,2023-03-25,U13 Men 40,GUILLEMETTE Léo,39.6,21.0,-23.0,23.0,26.0,28.0,-30.0,23.0,28.0,98.0
+BRE - Chpt Ligue - Rennes - U13,2023-03-25,U13 Men 45,CORMONT Enzo,43.3,24.0,26.0,-28.0,34.0,36.0,38.0,26.0,38.0,124.0
+BRE - Chpt Ligue - Rennes - U13,2023-03-25,U13 Men 49,GUILLEMETTE Roman,47.75,18.0,20.0,-22.0,24.0,26.0,28.0,20.0,28.0,92.0
+BRE - Chpt Ligue - Rennes - U13,2023-03-25,U10 Women ,BALCON Inès,34.3,8.0,10.0,11.0,11.0,12.0,14.0,11.0,14.0,47.0
+BRE - Chpt Ligue - Rennes - U13,2023-03-25,U13 Women 35,TUDO Liyah,31.85,11.0,12.0,-13.0,15.0,16.0,17.0,12.0,17.0,56.0

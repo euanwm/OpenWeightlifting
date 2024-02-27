@@ -1,12 +1,12 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-PDL - Challenge Avenir - Allonnes - N°1 U10-U13,2022-10-22,U10 Men ,LAPIERRE Robin,33.8,4.0,5.0,6.0,6.0,7.0,8.0,11.0,15.0,26.0
-PDL - Challenge Avenir - Allonnes - N°1 U10-U13,2022-10-22,U10 Men ,BERGER Malo,40.2,4.0,5.0,-6.0,6.0,7.0,8.0,9.0,15.0,24.0
-PDL - Challenge Avenir - Allonnes - N°1 U10-U13,2022-10-22,U13 Men 35,PERRIN - BOURGINE Gaspard,34.68,7.0,8.0,-9.0,8.0,9.0,10.0,15.0,19.0,34.0
-PDL - Challenge Avenir - Allonnes - N°1 U10-U13,2022-10-22,U13 Men 40,GRANGER Lucas,37.5,-27.0,27.0,29.0,37.0,39.0,41.0,56.0,80.0,136.0
-PDL - Challenge Avenir - Allonnes - N°1 U10-U13,2022-10-22,U13 Men 40,LAPIERRE Louis,36.49,15.0,17.0,18.0,20.0,22.0,24.0,35.0,46.0,81.0
-PDL - Challenge Avenir - Allonnes - N°1 U10-U13,2022-10-22,U13 Men 49,HAMARD Jules,45.9,14.0,16.0,-18.0,17.0,19.0,21.0,30.0,40.0,70.0
-PDL - Challenge Avenir - Allonnes - N°1 U10-U13,2022-10-22,U13 Men 67,LEMOINE Nathan,62.6,20.0,21.0,22.0,26.0,28.0,30.0,43.0,58.0,101.0
-PDL - Challenge Avenir - Allonnes - N°1 U10-U13,2022-10-22,U13 Women 45,FERRAND COGNON Lyna,42.2,25.0,27.0,-29.0,27.0,29.0,-31.0,52.0,56.0,108.0
-PDL - Challenge Avenir - Allonnes - N°1 U10-U13,2022-10-22,U13 Women 49,ROGUET Lylou,47.1,18.0,20.0,22.0,26.0,28.0,-30.0,42.0,54.0,96.0
-PDL - Challenge Avenir - Allonnes - N°1 U10-U13,2022-10-22,U13 Women 49,GEORGES Lylou,48.8,-18.0,18.0,20.0,-26.0,26.0,28.0,38.0,54.0,92.0
-PDL - Challenge Avenir - Allonnes - N°1 U10-U13,2022-10-22,U13 Women 49,LECHAT Apoline,48.8,10.0,-11.0,11.0,12.0,13.0,14.0,21.0,27.0,48.0
+PDL - Challenge Avenir - Allonnes - N°1 U10-U13,2022-10-22,U10 Men ,LAPIERRE Robin,33.8,4.0,5.0,6.0,6.0,7.0,8.0,6.0,8.0,26.0
+PDL - Challenge Avenir - Allonnes - N°1 U10-U13,2022-10-22,U10 Men ,BERGER Malo,40.2,4.0,5.0,-6.0,6.0,7.0,8.0,5.0,8.0,24.0
+PDL - Challenge Avenir - Allonnes - N°1 U10-U13,2022-10-22,U13 Men 35,PERRIN - BOURGINE Gaspard,34.68,7.0,8.0,-9.0,8.0,9.0,10.0,8.0,10.0,34.0
+PDL - Challenge Avenir - Allonnes - N°1 U10-U13,2022-10-22,U13 Men 40,GRANGER Lucas,37.5,-27.0,27.0,29.0,37.0,39.0,41.0,29.0,41.0,136.0
+PDL - Challenge Avenir - Allonnes - N°1 U10-U13,2022-10-22,U13 Men 40,LAPIERRE Louis,36.49,15.0,17.0,18.0,20.0,22.0,24.0,18.0,24.0,81.0
+PDL - Challenge Avenir - Allonnes - N°1 U10-U13,2022-10-22,U13 Men 49,HAMARD Jules,45.9,14.0,16.0,-18.0,17.0,19.0,21.0,16.0,21.0,70.0
+PDL - Challenge Avenir - Allonnes - N°1 U10-U13,2022-10-22,U13 Men 67,LEMOINE Nathan,62.6,20.0,21.0,22.0,26.0,28.0,30.0,22.0,30.0,101.0
+PDL - Challenge Avenir - Allonnes - N°1 U10-U13,2022-10-22,U13 Women 45,FERRAND COGNON Lyna,42.2,25.0,27.0,-29.0,27.0,29.0,-31.0,27.0,29.0,108.0
+PDL - Challenge Avenir - Allonnes - N°1 U10-U13,2022-10-22,U13 Women 49,ROGUET Lylou,47.1,18.0,20.0,22.0,26.0,28.0,-30.0,22.0,28.0,96.0
+PDL - Challenge Avenir - Allonnes - N°1 U10-U13,2022-10-22,U13 Women 49,GEORGES Lylou,48.8,-18.0,18.0,20.0,-26.0,26.0,28.0,20.0,28.0,92.0
+PDL - Challenge Avenir - Allonnes - N°1 U10-U13,2022-10-22,U13 Women 49,LECHAT Apoline,48.8,10.0,-11.0,11.0,12.0,13.0,14.0,11.0,14.0,48.0
