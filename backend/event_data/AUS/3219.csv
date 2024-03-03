@@ -1,0 +1,4 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+JBC Club Challenge Round 1,2024-02-03,female,Hannah Morgan,90.70,50,52,54,62,66,-70,54,66,120
+JBC Club Challenge Round 1,2024-02-03,male,Zack Oliver,50.30,52,54,56,70,73,75,56,75,131
+JBC Club Challenge Round 1,2024-02-03,male,Wade Neal,84.00,-55,55,-56,-80,-80,0,55,0,0

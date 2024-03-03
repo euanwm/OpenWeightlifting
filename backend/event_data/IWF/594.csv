@@ -1,0 +1,351 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+European Championships,2024-02-12,55 kg Men,SAHIN Muammer,55.00,110,-112,112,121,-125,-125,112,121,233
+European Championships,2024-02-12,55 kg Men,SHAMILISHVILI Ramini,54.73,106,109,111,126,130,-134,111,130,241
+European Championships,2024-02-12,55 kg Men,RUSEV Angel Hriskov,54.93,105,109,-111,135,-140,0,109,135,244
+European Championships,2024-02-12,55 kg Men,BERDELIDZE Goderdzi,54.83,-107,107,-110,-123,-123,123,107,123,230
+European Championships,2024-02-12,55 kg Men,LUCA Marian-Cristian,55.00,102,106,-110,125,128,-131,106,128,234
+European Championships,2024-02-12,55 kg Men,ALGUL Harun,54.92,104,-107,-110,125,-130,-130,104,125,229
+European Championships,2024-02-12,55 kg Men,VORONOVSKYI Dmytro,55.00,-103,103,-106,123,-129,-130,103,123,226
+European Championships,2024-02-12,55 kg Men,ZARKOV Dzhan,54.78,95,99,102,123,129,133,102,133,235
+European Championships,2024-02-12,55 kg Men,BETCA Iulian,54.92,-98,98,-103,-115,115,119,98,119,217
+European Championships,2024-02-12,55 kg Men,COMERZAN Andrian,55.00,85,-89,89,105,110,-115,89,110,199
+European Championships,2024-02-12,55 kg Men,DZOBAK Alexandr,52.96,-85,86,-90,110,-115,-116,86,110,196
+European Championships,2024-02-12,55 kg Men,BRACHI GARCIA Josue,55.00,-108,-108,-110,125,-130,131,0,131,0
+European Championships,2024-02-12,61 kg Men,DIMOV Ivan,60.88,130,-133,-133,-150,-150,150,130,150,280
+European Championships,2024-02-12,61 kg Men,ZALIPSKYI Pavlo,60.98,121,124,126,141,-144,145,126,145,271
+European Championships,2024-02-12,61 kg Men,MISHVELIDZE Shota,61.00,121,-125,125,143,147,-156,125,147,272
+European Championships,2024-02-12,61 kg Men,LUNGU Daniel,60.85,120,124,-126,-135,135,-141,124,135,259
+European Championships,2024-02-12,61 kg Men,MARINOV Gabriel,60.96,118,-121,121,152,160,0,121,160,281
+European Championships,2024-02-12,61 kg Men,ELIS Mustafa,60.79,116,-119,119,-145,146,-150,119,146,265
+European Championships,2024-02-12,61 kg Men,VLADISAVLJEV Stevan,60.88,113,116,-119,137,-141,141,116,141,257
+European Championships,2024-02-12,61 kg Men,IANCU Valentin-Ionadi,60.99,115,-120,-121,145,151,154,115,154,269
+European Championships,2024-02-12,61 kg Men,BADANEV Ion,60.61,110,115,-120,135,140,143,115,143,258
+European Championships,2024-02-12,67 kg Men,KAHRIMAN Kaan,67.00,140,-142,142,163,-167,168,142,168,310
+European Championships,2024-02-12,67 kg Men,MASSIDDA Sergio,65.29,135,-140,141,162,-167,-167,141,162,303
+European Championships,2024-02-12,67 kg Men,SAHAKYAN Gor,67.00,140,-143,-143,171,-173,0,140,171,311
+European Championships,2024-02-12,67 kg Men,RUSTAMOV Isa,66.82,130,134,137,155,162,-167,137,162,299
+European Championships,2024-02-12,67 kg Men,HERNANDEZ MENDOZA Acoran Juan,66.75,132,135,-138,156,-160,-160,135,156,291
+European Championships,2024-02-12,67 kg Men,LAPTSEU Henadz,66.99,135,-140,-140,160,-165,-165,135,160,295
+European Championships,2024-02-12,67 kg Men,HARDAL Ferdi,67.00,135,-138,-139,167,169,-172,135,169,304
+European Championships,2024-02-12,67 kg Men,CASTRO MARINO Victor,66.73,125,130,133,145,150,-153,133,150,283
+European Championships,2024-02-12,67 kg Men,CHKHEIDZE Goga,66.83,128,132,-136,157,-167,-168,132,157,289
+European Championships,2024-02-12,67 kg Men,GENCHEV Valentin Rumyanov,66.83,125,128,130,160,-166,-166,130,160,290
+European Championships,2024-02-12,67 kg Men,MAMMADOV Tehran,65.84,120,125,-129,140,145,150,125,150,275
+European Championships,2024-02-12,67 kg Men,PAMPORDZHIEV Dian Angelov,67.00,120,125,-128,153,159,-166,125,159,284
+European Championships,2024-02-12,67 kg Men,KOMOROWSKI Marek,66.90,-121,121,-125,145,-150,-150,121,145,266
+European Championships,2024-02-12,67 kg Men,MINASIDIS Dimitris,67.00,-121,121,-126,150,0,0,121,150,271
+European Championships,2024-02-12,67 kg Men,LAMPRIDIS Konstantinos,65.20,110,115,119,137,143,147,119,147,266
+European Championships,2024-02-12,67 kg Men,STRANSKY Petr,66.91,-117,117,-120,143,-146,146,117,146,263
+European Championships,2024-02-12,67 kg Men,DURAK Faris,66.48,95,100,-103,110,-117,-119,100,110,210
+European Championships,2024-02-12,67 kg Men,BRANDHUBER Simon Josef,65.49,0,0,0,0,0,0,0,0,0
+European Championships,2024-02-12,73 kg Men,ANDREEV Bozhidar Dimitrov,73.00,-150,150,155,181,185,193,155,193,348
+European Championships,2024-02-12,73 kg Men,SUHAREVS Ritvars,73.00,150,-154,154,-177,177,-183,154,177,331
+European Championships,2024-02-12,73 kg Men,ZANNI Mirko,72.81,150,-153,153,-183,-183,-183,153,0,0
+European Championships,2024-02-12,73 kg Men,JAVADOV Omar,72.61,146,150,152,166,-171,-171,152,166,318
+European Championships,2024-02-12,73 kg Men,GUTU Roberto,73.00,-147,-147,151,173,178,-182,151,178,329
+European Championships,2024-02-12,73 kg Men,OZBEK Muhammed Furkan,72.00,145,148,150,-185,-186,186,150,186,336
+European Championships,2024-02-12,73 kg Men,CALJA Briken,72.90,-148,148,-153,180,-185,-186,148,180,328
+European Championships,2024-02-12,73 kg Men,SANCHEZ LOPEZ David,73.00,-147,147,-151,0,0,0,147,0,0
+European Championships,2024-02-12,73 kg Men,MURRAY Christopher John,72.62,-143,143,147,-179,-179,-183,147,0,0
+European Championships,2024-02-12,73 kg Men,LANG Max Richard,73.00,140,144,147,175,180,-186,147,180,327
+European Championships,2024-02-12,73 kg Men,MALAKMADZE Archil,72.97,141,146,-151,163,168,-173,146,168,314
+European Championships,2024-02-12,73 kg Men,GENC Fehmi Yusuf,69.77,140,144,-146,180,184,-186,144,184,328
+European Championships,2024-02-12,73 kg Men,KINGUE MATAM Bernardin Ledoux,72.99,138,142,-145,177,-182,182,142,182,324
+European Championships,2024-02-12,73 kg Men,DONOSE Tiberiu Ionut,73.00,140,-146,-146,165,170,175,140,175,315
+European Championships,2024-02-12,73 kg Men,KUDLASZYK Piotr Mateusz,72.71,-138,138,-141,-178,-180,-180,138,0,0
+European Championships,2024-02-12,73 kg Men,CHIN Jonathan Andrew Keir,73.00,125,-130,-131,-163,163,-171,125,163,288
+European Championships,2024-02-12,73 kg Men,AUFDENBLATTEN Jonas,72.81,118,122,-126,145,152,-155,122,152,274
+European Championships,2024-02-12,73 kg Men,CUBRANIC Fran,72.72,103,108,-112,135,140,-147,108,140,248
+European Championships,2024-02-12,81 kg Men,REYES MARTINEZ Oscar,79.55,152,155,-157,187,191,0,155,191,346
+European Championships,2024-02-12,81 kg Men,QERIMAJ Erkand,80.80,-152,152,155,180,-186,-186,155,180,335
+European Championships,2024-02-12,81 kg Men,HARUTYUNYAN Rafik,80.91,150,154,-157,182,-188,-189,154,182,336
+European Championships,2024-02-12,81 kg Men,RAMADANI Kristi,81.00,147,151,-153,180,186,190,151,190,341
+European Championships,2024-02-12,81 kg Men,MARECEK Petr,80.47,146,151,-153,-175,175,-181,151,175,326
+European Championships,2024-02-12,81 kg Men,BEBEN Patryk Sylwester,81.00,145,150,-153,177,183,-187,150,183,333
+European Championships,2024-02-12,81 kg Men,FERNANDEZ GARCIA Alberto,80.66,145,-150,-153,170,-175,-175,145,170,315
+European Championships,2024-02-12,81 kg Men,MOROSANU Victor,80.87,145,-150,-150,170,-175,-175,145,170,315
+European Championships,2024-02-12,81 kg Men,KONDRATIUK Dmytro,81.00,137,141,144,178,183,-188,144,183,327
+European Championships,2024-02-12,81 kg Men,CABALA Sebastian,79.98,-140,142,-144,170,174,-178,142,174,316
+European Championships,2024-02-12,81 kg Men,MISAKYAN Hmayak,80.87,141,-146,-146,165,-170,-170,141,165,306
+European Championships,2024-02-12,81 kg Men,ALIYEV Fugan,80.59,135,140,-143,168,173,-178,140,173,313
+European Championships,2024-02-12,81 kg Men,ZILINSKAS Zilvinas,80.95,134,-139,140,165,170,174,140,174,314
+European Championships,2024-02-12,81 kg Men,BRATU Constantin,80.66,140,-143,-143,170,-175,-175,140,170,310
+European Championships,2024-02-12,81 kg Men,ALMEIDA Miguel,80.17,130,-137,137,160,-172,-172,137,160,297
+European Championships,2024-02-12,81 kg Men,ALMAMMADOV Ravin,81.00,135,-140,-140,0,0,0,135,0,0
+European Championships,2024-02-12,81 kg Men,MOREIRA Joao,78.68,110,116,120,140,-146,-146,120,140,260
+European Championships,2024-02-12,89 kg Men,NASAR Karlos May,87.39,168,173,176,208,215,0,176,215,391
+European Championships,2024-02-12,89 kg Men,ROBU Marin,88.79,165,-171,171,195,202,207,171,207,378
+European Championships,2024-02-12,89 kg Men,PIZZOLATO Antonino,89.00,170,-175,-175,210,-215,-222,170,210,380
+European Championships,2024-02-12,89 kg Men,KARAPETYAN Andranik,89.00,170,-175,-175,195,-204,-204,170,195,365
+European Championships,2024-02-12,89 kg Men,ASAYONAK Petr,88.83,-167,-167,167,-200,200,207,167,207,374
+European Championships,2024-02-12,89 kg Men,MEZINSKIS Armands,88.97,155,159,163,195,-200,-201,163,195,358
+European Championships,2024-02-12,89 kg Men,FRIEDRICH Raphael,88.27,153,158,-161,183,188,-192,158,188,346
+European Championships,2024-02-12,89 kg Men,MUELLER Nico,89.00,153,-158,158,190,195,201,158,201,359
+European Championships,2024-02-12,89 kg Men,IAKOVIDIS Theodoros,88.23,152,157,-162,178,184,-189,157,184,341
+European Championships,2024-02-12,89 kg Men,ALAM Omed,89.00,143,147,150,180,-186,-186,150,180,330
+European Championships,2024-02-12,89 kg Men,CERTOV Dominik,86.21,138,-141,141,166,-171,-171,141,166,307
+European Championships,2024-02-12,89 kg Men,BROWN Sean Kevin,88.30,-141,-141,141,169,173,177,141,177,318
+European Championships,2024-02-12,89 kg Men,MAMMADZADA Nurlan,86.00,130,135,140,-165,-165,0,140,0,0
+European Championships,2024-02-12,89 kg Men,SIMBUERGER Elias,87.55,-138,-138,138,170,-174,178,138,178,316
+European Championships,2024-02-12,89 kg Men,EL AMRANI Youssef,87.85,133,-137,137,167,-171,-171,137,167,304
+European Championships,2024-02-12,89 kg Men,KOBILIC Zerin,88.22,105,110,115,-135,135,142,115,142,257
+European Championships,2024-02-12,89 kg Men,DOMBROVSKYI Maksym,89.00,0,0,0,0,0,0,0,0,0
+European Championships,2024-02-12,89 kg Men,PENT Leho,89.00,0,0,0,0,0,0,0,0,0
+European Championships,2024-02-12,89 kg Men,KOFSHA Ertjan,88.80,-155,-158,-158,185,-187,0,0,185,0
+European Championships,2024-02-12,96 kg Men,HOVHANNISYAN Davit,95.97,-166,166,169,200,205,-210,169,205,374
+European Championships,2024-02-12,96 kg Men,MKRTCHYAN Hakob,95.84,161,166,-168,200,205,209,166,209,375
+European Championships,2024-02-12,96 kg Men,KHADASEVICH Pavel,96.00,165,-168,-168,195,-200,-206,165,195,360
+European Championships,2024-02-12,96 kg Men,CELIK Enes,94.85,160,162,-166,180,185,-189,162,185,347
+European Championships,2024-02-12,96 kg Men,SERDIUKOV Anton,95.15,-160,160,-164,188,192,-197,160,192,352
+European Championships,2024-02-12,96 kg Men,SAWULSKI Patryk Eryk,95.14,152,156,158,188,192,-197,158,192,350
+European Championships,2024-02-12,96 kg Men,KURLOVICH Yulian,93.83,-157,157,-163,192,196,-201,157,196,353
+European Championships,2024-02-12,96 kg Men,YANG Houqin,95.56,-151,151,155,185,191,-196,155,191,346
+European Championships,2024-02-12,96 kg Men,GASIOR Jiri,95.97,148,-151,152,182,188,-192,152,188,340
+European Championships,2024-02-12,96 kg Men,KOLAR Josef,96.00,-151,151,-156,179,-184,-184,151,179,330
+European Championships,2024-02-12,96 kg Men,TCHATCHET II Cyrille Fagat,93.39,-151,-151,151,-185,188,-196,151,188,339
+European Championships,2024-02-12,96 kg Men,MSKHALADZE Zurab,91.12,151,-156,-156,185,192,-197,151,192,343
+European Championships,2024-02-12,96 kg Men,MAZNITSYN Stanislav,95.97,-151,151,-155,190,-196,-196,151,190,341
+European Championships,2024-02-12,96 kg Men,TSCHAN Yannick,95.05,142,146,-148,178,-182,-184,146,178,324
+European Championships,2024-02-12,96 kg Men,POPA Claudiu Sergiu,92.75,140,-145,145,-163,163,-168,145,163,308
+European Championships,2024-02-12,96 kg Men,DOBNIK Peter,95.47,135,141,143,156,-162,-163,143,156,299
+European Championships,2024-02-12,96 kg Men,SAMKO Karol,95.95,136,140,-144,185,191,-201,140,191,331
+European Championships,2024-02-12,96 kg Men,ROCHE Shane,92.00,-136,136,-140,165,-169,-169,136,165,301
+European Championships,2024-02-12,96 kg Men,LOURENCO Francisco,94.01,125,133,-141,155,-163,-165,133,155,288
+European Championships,2024-02-12,96 kg Men,IMADOUCHENE Romain Jordan Sebastien,93.03,0,0,0,0,0,0,0,0,0
+European Championships,2024-02-12,96 kg Men,TABAKU Ermand,94.68,-150,-150,-150,0,0,0,0,0,0
+European Championships,2024-02-12,64 kg Women,ADAMUS Bartlomiej Stefan,64.00,89,92,-94,105,-108,108,92,108,200
+European Championships,2024-02-12,102 kg Men,KARAPETYAN Garik,102.00,177,182,-187,-211,212,-217,182,212,394
+European Championships,2024-02-12,102 kg Men,TSIKHANTSOU Yauheni,101.71,-176,176,181,211,217,-225,181,217,398
+European Championships,2024-02-12,102 kg Men,GASPARYAN Samvel,102.00,173,177,180,211,-216,216,180,216,396
+European Championships,2024-02-12,102 kg Men,SHARANKOU Siarhei,101.98,170,176,178,205,212,-215,178,212,390
+European Championships,2024-02-12,102 kg Men,BRATU Tudor,100.00,165,170,175,200,210,-215,175,210,385
+European Championships,2024-02-12,102 kg Men,CHKHEIDZE Irakli,101.68,168,174,-178,212,-217,-218,174,212,386
+European Championships,2024-02-12,102 kg Men,MARINOV Vasil Kaloyanov,102.00,173,-177,-177,208,-213,-215,173,208,381
+European Championships,2024-02-12,102 kg Men,PLESNIEKS Arturs,101.76,-168,168,173,-208,-208,-210,173,0,0
+European Championships,2024-02-12,102 kg Men,YANTSEVYCH Yevhenii,101.95,160,164,-167,190,194,-197,164,194,358
+European Championships,2024-02-12,102 kg Men,SHUKURLU Ali,101.32,158,163,-170,192,198,-202,163,198,361
+European Championships,2024-02-12,102 kg Men,MANUSHI Redon,100.63,-160,160,-165,183,-186,-186,160,183,343
+European Championships,2024-02-12,102 kg Men,KACINSKAS Irmantas,100.05,-145,150,158,180,-186,-186,158,180,338
+European Championships,2024-02-12,102 kg Men,GRIFFITHS Andrew,101.94,151,-157,157,-182,182,-187,157,182,339
+European Championships,2024-02-12,102 kg Men,MUGURDUMOV Artur,102.00,156,-160,-160,195,200,-205,156,200,356
+European Championships,2024-02-12,102 kg Men,VAUTARD Brandon Robert Jean,102.00,-150,-150,150,202,-209,210,150,210,360
+European Championships,2024-02-12,102 kg Men,DIAKOVASILIS Jacob Alexander Panayotis,101.69,145,-149,149,181,187,-192,149,187,336
+European Championships,2024-02-12,102 kg Men,PELTONEN Roni Jali Kasperi,101.94,141,-145,148,180,-189,-190,148,180,328
+European Championships,2024-02-12,102 kg Men,SIDISKIS Arnas,101.86,145,-150,-150,-176,-176,0,145,0,0
+European Championships,2024-02-12,102 kg Men,STREICHL Martin,99.93,138,-142,142,178,182,-188,142,182,324
+European Championships,2024-02-12,102 kg Men,DE MELO FERNANDES Joao,97.64,125,130,-135,156,-160,0,130,156,286
+European Championships,2024-02-12,102 kg Men,GOLJASZ Daniel,99.36,-159,-160,-160,198,-203,-206,0,198,198
+European Championships,2024-02-12,102 kg Men,KASABIJEW Arsen,102.00,-165,-165,-165,0,0,0,0,0,0
+European Championships,2024-02-12,109 kg Men,DADASHBAYLI Dadash,108.79,172,174,176,205,212,-225,176,212,388
+European Championships,2024-02-12,109 kg Men,HRISTOV Hristo Dimitrov,109.00,170,173,175,202,205,-208,175,205,380
+European Championships,2024-02-12,109 kg Men,HOFMANN Matthaeus Klaus Lorant Georg,105.09,167,-169,172,197,202,206,172,206,378
+European Championships,2024-02-12,109 kg Men,MARTIROSJAN Sargis,109.00,165,168,171,-181,185,-191,171,185,356
+European Championships,2024-02-12,109 kg Men,CIOBANU Tudor,106.05,160,165,168,190,-200,201,168,201,369
+European Championships,2024-02-12,109 kg Men,DEMIRCI Onur,109.00,161,-166,168,-200,200,207,168,207,375
+European Championships,2024-02-12,109 kg Men,LOMTADZE Zaza,108.64,160,164,167,203,-212,-212,167,203,370
+European Championships,2024-02-12,109 kg Men,BURUN Muhammed Emin,107.67,-161,161,166,191,-198,-200,166,191,357
+European Championships,2024-02-12,109 kg Men,RUBANOVSKYI Mykyta,108.86,160,164,-167,201,-206,-208,164,201,365
+European Championships,2024-02-12,109 kg Men,VIKINGSSON SJOEBLOM Joen Carl Erik,105.77,154,158,161,188,-194,-197,161,188,349
+European Championships,2024-02-12,109 kg Men,PRYLYPKO Vladyslav,109.00,153,156,159,197,-203,-203,159,197,356
+European Championships,2024-02-12,109 kg Men,IONITA Paul,108.74,152,-157,158,-190,190,197,158,197,355
+European Championships,2024-02-12,109 kg Men,FERNANDES VITAL E SILVA Antonio Manuel,108.02,150,-158,-159,-175,-178,178,150,178,328
+European Championships,2024-02-12,109 kg Men,VOGEL Arnost,105.42,-144,144,148,-180,180,-187,148,180,328
+European Championships,2024-02-12,109 kg Men,META Albert,107.70,147,-152,-152,-178,178,181,147,181,328
+European Championships,2024-02-12,109 kg Men,FERRA Franko,108.42,-145,145,-150,-170,170,-175,145,170,315
+European Championships,2024-02-12,109 kg Men,KESKITALO Hannes Heikki Juhani,109.00,137,144,-150,193,198,-203,144,198,342
+European Championships,2024-02-12,109 kg Men,SKEDELJ Jure,108.27,135,-140,-140,165,-170,170,135,170,305
+European Championships,2024-02-12,109 kg Men,NUMIC Mak,108.95,-120,-126,-126,145,152,-160,0,152,152
+European Championships,2024-02-12,109 kg Men,PETROSYAN Petros,108.79,-165,0,0,0,0,0,0,0,0
+European Championships,2024-02-12,+109 kg Men,LALAYAN Varazdat,152.50,200,205,-210,240,250,0,205,250,455
+European Championships,2024-02-12,+109 kg Men,ZIAZIULIN Eduard,146.80,195,-200,-200,235,-240,241,195,241,436
+European Championships,2024-02-12,+109 kg Men,MARTIROSYAN Simon,130.20,190,-200,-200,241,247,-255,190,247,437
+European Championships,2024-02-12,+109 kg Men,SEIM Mart,153.10,180,185,-188,225,-237,0,185,225,410
+European Championships,2024-02-12,+109 kg Men,KUCERA Kamil,157.00,175,-180,-182,-221,-221,-225,175,0,0
+European Championships,2024-02-12,+109 kg Men,TURMANIDZE Bakari,168.30,175,-181,-183,215,0,0,175,215,390
+European Championships,2024-02-12,+109 kg Men,HANZENKO Oleh,162.00,170,174,-179,210,216,-220,174,216,390
+European Championships,2024-02-12,+109 kg Men,LITVINOV David,135.05,160,165,169,200,-205,206,169,206,375
+European Championships,2024-02-12,+109 kg Men,KUWORGE Enzo Kofi,169.20,160,165,168,202,0,0,168,202,370
+European Championships,2024-02-12,+109 kg Men,NAGY Peter,161.60,160,-165,167,201,207,-212,167,207,374
+European Championships,2024-02-12,+109 kg Men,ATHANASIOU Ioannis,153.80,161,166,-169,200,204,-206,166,204,370
+European Championships,2024-02-12,+109 kg Men,HOLME Ragnar Gamlestoel,137.40,155,160,-165,185,195,0,160,195,355
+European Championships,2024-02-12,+109 kg Men,KESKITALO Hanno Matias,144.00,155,160,-163,180,186,-190,160,186,346
+European Championships,2024-02-12,+109 kg Men,MACURA Vladimir,144.90,154,158,-162,-182,182,189,158,189,347
+European Championships,2024-02-12,+109 kg Men,RAJIC Krizan,137.70,140,-146,-146,170,-180,-180,140,170,310
+European Championships,2024-02-12,+109 kg Men,TALAKHADZE Lasha,176.00,0,0,0,0,0,0,0,0,0
+European Championships,2024-02-12,+109 kg Men,COULLET Anthony Jean Pierre,153.80,-162,-167,-167,0,0,0,0,0,0
+European Championships,2024-02-12,+109 kg Men,KAJDOCI Tamas,139.20,0,0,0,0,0,0,0,0,0
+European Championships,2024-02-12,45 kg Women,BEKTAS Cansu,45.00,70,73,75,88,-91,-93,75,88,163
+European Championships,2024-02-12,45 kg Women,GARCIA RINCON Marta,44.94,-69,70,72,82,84,-87,72,84,156
+European Championships,2024-02-12,45 kg Women,NGUEN Nadezhda-Mey Tuy,45.00,67,69,-71,-80,80,-86,69,80,149
+European Championships,2024-02-12,45 kg Women,MALASHCHUK Kateryna,44.99,65,67,-69,75,-78,-78,67,75,142
+European Championships,2024-02-12,45 kg Women,ALTUN Gamze,45.00,65,-68,-68,-90,90,92,65,92,157
+European Championships,2024-02-12,45 kg Women,MIRON Ioana Madalina,44.63,61,65,-68,78,81,85,65,85,150
+European Championships,2024-02-12,45 kg Women,DUMITRESCU Bianca-Daniela,44.95,60,64,-68,75,-80,-82,64,75,139
+European Championships,2024-02-12,45 kg Women,KOPONEN Sonja,45.00,-60,60,63,72,-76,76,63,76,139
+European Championships,2024-02-12,45 kg Women,GRABUCEA Ecaterina,43.88,57,59,-60,70,73,-75,59,73,132
+European Championships,2024-02-12,45 kg Women,BUDNIKOVA Tetiana,45.00,57,59,-61,76,78,81,59,81,140
+European Championships,2024-02-12,45 kg Women,ISMAYILOVA Nazila,45.00,55,58,-60,70,-74,0,58,70,128
+European Championships,2024-02-12,45 kg Women,DANILOV Gabriela,44.90,57,-59,-60,66,-69,-70,57,66,123
+European Championships,2024-02-12,45 kg Women,KOSTADINOVA Boyana Todorova,45.00,-65,-66,-66,77,80,-83,0,80,80
+European Championships,2024-02-12,49 kg Women,CAMBEI Mihaela-Valentina,48.92,85,90,-93,100,105,109,90,109,199
+European Championships,2024-02-12,49 kg Women,ALICI Duygu,48.99,75,-78,78,-95,-95,-95,78,0,0
+European Championships,2024-02-12,49 kg Women,ARMENGOU I CASTELL Sira,47.97,71,74,-76,90,-94,-94,74,90,164
+European Championships,2024-02-12,49 kg Women,BILICIER Medine,49.00,-74,74,-77,-93,-93,-95,74,0,0
+European Championships,2024-02-12,49 kg Women,DRZAZGA OLIWIA Weronika,48.82,70,72,74,93,-95,96,74,96,170
+European Championships,2024-02-12,49 kg Women,NGUYEN Tham,49.00,-74,-74,74,-95,95,-97,74,95,169
+European Championships,2024-02-12,49 kg Women,GIMENEZ-GUERVOS PEREZ Maria Jose,49.00,70,-73,-73,86,0,0,70,86,156
+European Championships,2024-02-12,49 kg Women,ZAGORAC Radmila,48.82,70,-74,-76,88,-94,-94,70,88,158
+European Championships,2024-02-12,49 kg Women,KOVALOVA Yuliia,49.00,70,-73,-73,89,93,-95,70,93,163
+European Championships,2024-02-12,49 kg Women,COPELAND Rebecca Janet,48.52,64,67,-69,79,-81,-83,67,79,146
+European Championships,2024-02-12,49 kg Women,POPESCU Alina,48.96,64,-67,67,75,-80,-80,67,75,142
+European Championships,2024-02-12,49 kg Women,PANA Adriana Cosmina,48.77,-67,67,-71,83,86,-89,67,86,153
+European Championships,2024-02-12,49 kg Women,STRATOUDAKI Maria,48.89,-67,67,-71,88,-91,-91,67,88,155
+European Championships,2024-02-12,49 kg Women,STRZYKALA Mara,48.88,66,-69,-69,85,89,92,66,92,158
+European Championships,2024-02-12,49 kg Women,PETROVA Ivana Gerogieva,47.27,60,63,65,75,-80,80,65,80,145
+European Championships,2024-02-12,49 kg Women,RUSEVA Reni,47.56,-60,60,-64,75,-80,-81,60,75,135
+European Championships,2024-02-12,49 kg Women,MAJER Tihana,48.62,55,-59,-59,75,78,-81,55,78,133
+European Championships,2024-02-12,49 kg Women,IMPERIO Giulia,49.00,-83,-83,-83,0,0,0,0,0,0
+European Championships,2024-02-12,55 kg Women,WAALER Sol Anette,54.63,-84,84,86,-104,104,-106,86,104,190
+European Championships,2024-02-12,55 kg Women,HULINA Yulia,54.99,80,83,85,-98,98,-102,85,98,183
+European Championships,2024-02-12,55 kg Women,ALICI Burcu,54.90,80,84,85,101,105,-107,85,105,190
+European Championships,2024-02-12,55 kg Women,DELIA Celine Ludovica,55.00,-83,84,-86,-105,107,111,84,111,195
+European Championships,2024-02-12,55 kg Women,SANCHEZ FERRER Alba,55.00,81,-84,84,104,-106,-107,84,104,188
+European Championships,2024-02-12,55 kg Women,SCHUILWERVE Marlous,54.92,78,-81,82,94,-97,-99,82,94,176
+European Championships,2024-02-12,55 kg Women,GRIGORYAN Aleksandra,54.85,81,-84,-84,105,111,115,81,115,196
+European Championships,2024-02-12,55 kg Women,YAYLYAN Izabella,55.00,80,-85,-85,95,100,-105,80,100,180
+European Championships,2024-02-12,55 kg Women,VANDENABEELE Annelien,54.76,77,-80,80,-93,94,97,80,97,177
+European Championships,2024-02-12,55 kg Women,MEISTER Scheila,55.00,-79,79,-82,98,-102,-102,79,98,177
+European Championships,2024-02-12,55 kg Women,JACOBSEN Rebekka Tao,55.00,75,78,-80,102,-105,-107,78,102,180
+European Championships,2024-02-12,55 kg Women,COJOCARU Nicoleta,54.57,72,77,-80,92,95,-98,77,95,172
+European Championships,2024-02-12,55 kg Women,ARVA Cintia Andrea,54.42,70,-73,-73,92,94,-97,70,94,164
+European Championships,2024-02-12,55 kg Women,WEINFURTOVA Katerina,54.97,-63,-63,63,74,-78,-82,63,74,137
+European Championships,2024-02-12,55 kg Women,ANCIUKEVICE Aiste,54.47,-60,60,62,81,84,-87,62,84,146
+European Championships,2024-02-12,59 kg Women,KONOTOP Kamila,59.00,102,105,-108,121,125,0,105,125,230
+European Championships,2024-02-12,59 kg Women,STERCKX Nina,58.89,98,101,-103,-117,-118,-122,101,0,0
+European Championships,2024-02-12,59 kg Women,TCHAKOUNTE Dora Meiriama,58.80,-95,95,98,-117,117,-120,98,117,215
+European Championships,2024-02-12,59 kg Women,RETULAINEN Saara Sylvia Amanda,59.00,92,-95,95,114,117,119,95,119,214
+European Championships,2024-02-12,59 kg Women,COTRUTA Andreea,57.75,90,94,-97,114,-118,118,94,118,212
+European Championships,2024-02-12,59 kg Women,RIGAUD Garance Ariette Ouiza,58.30,93,-96,-96,-115,-120,-124,93,0,0
+European Championships,2024-02-12,59 kg Women,SHCHAPANAVA Alina,58.74,-92,-92,92,110,-115,-115,92,110,202
+European Championships,2024-02-12,59 kg Women,GORDON BROWN Jessica Mary,58.96,87,90,-93,107,110,-113,90,110,200
+European Championships,2024-02-12,59 kg Women,GEORGOPOULOU Sofia,58.98,87,90,-93,109,112,-115,90,112,202
+European Championships,2024-02-12,59 kg Women,KARDARA Maria,59.00,83,85,87,98,102,-105,87,102,189
+European Championships,2024-02-12,59 kg Women,POLKA Maria,59.00,82,84,86,102,105,108,86,108,194
+European Championships,2024-02-12,59 kg Women,SZYMANEK Monika Malgorzata,58.98,78,82,85,105,-110,110,85,110,195
+European Championships,2024-02-12,59 kg Women,MOROSAN Marinela,58.96,85,-88,-88,-103,103,105,85,105,190
+European Championships,2024-02-12,59 kg Women,CRYMBLE Hannah,58.68,81,84,-87,101,-104,104,84,104,188
+European Championships,2024-02-12,59 kg Women,MARTINEZ SANTIAGO Irene,58.93,83,-86,-86,94,-99,-99,83,94,177
+European Championships,2024-02-12,59 kg Women,AARSTEN Amalie Loevind,58.88,-79,79,82,101,104,-108,82,104,186
+European Championships,2024-02-12,59 kg Women,HELGADOTTIR Thuridur Erla,59.00,78,-82,-82,98,101,104,78,104,182
+European Championships,2024-02-12,59 kg Women,GORISEK Ivana,58.82,-74,74,77,86,90,-92,77,90,167
+European Championships,2024-02-12,59 kg Women,MALCHARCZIKOVA Eliska,58.66,73,-76,77,89,92,-95,77,92,169
+European Championships,2024-02-12,59 kg Women,TAVARES GOMEZ Rita,58.63,75,-80,-80,-90,90,-95,75,90,165
+European Championships,2024-02-12,59 kg Women,LEBBE Nathalie Marie B,59.00,-75,75,-78,93,-96,-97,75,93,168
+European Championships,2024-02-12,59 kg Women,SWEENEY Deanna,58.96,66,-68,-68,88,91,-93,66,91,157
+European Championships,2024-02-12,59 kg Women,SMITH Zoe,58.69,-84,0,0,0,0,0,0,0,0
+European Championships,2024-02-12,59 kg Women,MAGISTRIS Lucrezia,59.00,-99,-99,-100,0,0,0,0,0,0
+European Championships,2024-02-12,64 kg Women,SAMULIAK Svitlana,61.46,97,99,101,115,118,-120,101,118,219
+European Championships,2024-02-12,64 kg Women,DAVYDOVA Hanna,64.00,-98,98,100,117,120,-122,100,120,220
+European Championships,2024-02-12,64 kg Women,OZKAN Aysel,63.94,95,-98,98,112,116,-119,98,116,214
+European Championships,2024-02-12,64 kg Women,MAISEYEVICH Dziyana,63.97,93,95,97,112,-116,-116,97,112,209
+European Championships,2024-02-12,64 kg Women,SHATOVA Galya Anetova,63.03,92,94,96,115,-119,-119,96,115,211
+European Championships,2024-02-12,64 kg Women,WOLK Wiktoria Krystyna,63.23,-93,-94,94,115,118,121,94,121,215
+European Championships,2024-02-12,64 kg Women,JEZKOVA Patricie,63.98,89,93,-96,110,-113,-113,93,110,203
+European Championships,2024-02-12,64 kg Women,FAUVEL Laurene,63.82,90,-93,93,110,-113,-113,93,110,203
+European Championships,2024-02-12,64 kg Women,ANDERSSON Ine Drablos,61.07,89,-91,-91,112,-115,-116,89,112,201
+European Championships,2024-02-12,64 kg Women,ARUNOVIC Tamara,63.68,89,-91,-92,107,110,113,89,113,202
+European Championships,2024-02-12,64 kg Women,KUSTERER Sabine Beate,63.77,-86,86,89,107,111,113,89,113,202
+European Championships,2024-02-12,64 kg Women,ZIKOWSKY Paula,63.48,85,-88,88,-103,103,-106,88,103,191
+European Championships,2024-02-12,64 kg Women,MARTINEZ ANASAGASTI Garoa,63.94,87,-91,-91,110,114,-117,87,114,201
+European Championships,2024-02-12,64 kg Women,KRSKOVA Lucia,63.80,80,84,87,98,101,-103,87,101,188
+European Championships,2024-02-12,64 kg Women,BJELIC Sonja,63.58,-85,86,-90,100,104,-107,86,104,190
+European Championships,2024-02-12,64 kg Women,KETILSDOTTIR Katla Bjoerk,62.92,78,81,84,94,-97,97,84,97,181
+European Championships,2024-02-12,64 kg Women,TIMMERMANS Myrthe,63.91,84,-87,-88,103,-106,-106,84,103,187
+European Championships,2024-02-12,64 kg Women,SCHMID Tanja Siriam,63.88,-84,84,-88,-106,-106,-106,84,0,0
+European Championships,2024-02-12,64 kg Women,MONTEIRO Mafalda,64.00,75,81,84,100,-103,-104,84,100,184
+European Championships,2024-02-12,64 kg Women,HENRIKSSON Moa,61.85,80,-83,83,-100,100,-103,83,100,183
+European Championships,2024-02-12,64 kg Women,NOVAK Alina,64.00,80,-83,-83,100,-103,103,80,103,183
+European Championships,2024-02-12,64 kg Women,MULVIHILL Ailbhe Aine,63.60,75,78,-81,90,93,96,78,96,174
+European Championships,2024-02-12,64 kg Women,BARRY Gillian,63.67,74,76,78,92,95,97,78,97,175
+European Championships,2024-02-12,64 kg Women,PERISSINOTTO Kristy,63.52,-78,-78,78,93,-98,100,78,100,178
+European Championships,2024-02-12,64 kg Women,STASSIJNS Eva,63.52,74,77,-79,95,97,-99,77,97,174
+European Championships,2024-02-12,64 kg Women,REHL Josephine,63.96,-77,77,-80,100,104,108,77,108,185
+European Championships,2024-02-12,64 kg Women,MALJKOVIC Barbara,63.12,-65,-65,66,88,92,-95,66,92,158
+European Championships,2024-02-12,71 kg Women,TOMA Loredana-Elena,68.96,106,109,114,127,-131,-131,114,127,241
+European Championships,2024-02-12,71 kg Women,SCHWEIZER Lisa Marie,70.83,101,105,107,-120,120,124,107,124,231
+European Championships,2024-02-12,71 kg Women,VALODZKA Siuzanna,70.95,101,105,-107,127,130,-137,105,130,235
+European Championships,2024-02-12,71 kg Women,STURLUDOTTIR Eyglo Fanndal,71.00,99,102,105,125,-129,-129,105,125,230
+European Championships,2024-02-12,71 kg Women,YLISOINI Anna Janette Tellervo,70.88,101,-104,-104,120,123,-126,101,123,224
+European Championships,2024-02-12,71 kg Women,GHERMAN Daniela Mariana,68.43,95,-99,100,115,120,-122,100,120,220
+European Championships,2024-02-12,71 kg Women,DAVIES Sarah,71.00,98,-101,-101,-127,-128,128,98,128,226
+European Championships,2024-02-12,71 kg Women,GOLD Celia Henna,70.50,98,-101,-101,124,-128,128,98,128,226
+European Championships,2024-02-12,71 kg Women,BARTON Erin,71.00,94,-97,-97,123,-127,-127,94,123,217
+European Championships,2024-02-12,71 kg Women,IVZHENKO Olha,65.61,-94,94,-99,116,-120,-120,94,116,210
+European Championships,2024-02-12,71 kg Women,JAKAITE Lijana,70.80,93,-95,-95,112,-115,115,93,115,208
+European Championships,2024-02-12,71 kg Women,GRAILLOT Vicky,67.80,90,93,-95,116,120,-125,93,120,213
+European Championships,2024-02-12,71 kg Women,GUDE Line Ravn,70.37,85,89,92,110,115,120,92,120,212
+European Championships,2024-02-12,71 kg Women,POLAKTSIDOU Despoina,70.79,86,90,-92,-104,-104,-106,90,0,0
+European Championships,2024-02-12,71 kg Women,RINGSAKER Tinna Henriette,70.74,84,87,-90,109,113,115,87,115,202
+European Championships,2024-02-12,71 kg Women,BAECKSTROEM Jannike Anna,68.96,82,85,87,101,104,-108,87,104,191
+European Championships,2024-02-12,71 kg Women,SORENSEN Sandra,67.19,83,-86,86,98,-102,-103,86,98,184
+European Championships,2024-02-12,71 kg Women,SZALAI Lili,68.63,-85,85,-90,105,108,-111,85,108,193
+European Championships,2024-02-12,71 kg Women,LOEN Julia Jordanger,70.38,-84,-85,85,104,107,110,85,110,195
+European Championships,2024-02-12,71 kg Women,HUSTAVOVA Natalia,66.81,80,83,-85,103,107,109,83,109,192
+European Championships,2024-02-12,71 kg Women,RYBOVA Adela,67.04,72,75,-78,89,94,97,75,97,172
+European Championships,2024-02-12,71 kg Women,ARNAUDOVA Maria-Aleksandra Pavlova,67.39,68,72,75,85,90,95,75,95,170
+European Championships,2024-02-12,71 kg Women,VOLNA Veronika,65.47,-75,-75,-76,99,-104,104,0,104,0
+European Championships,2024-02-12,76 kg Women,TOKO KEGNE Genna Romida,75.33,98,101,-103,120,126,-131,101,126,227
+European Championships,2024-02-12,76 kg Women,DANCZ Lara,75.31,97,-100,101,111,114,-116,101,114,215
+European Championships,2024-02-12,76 kg Women,RUBANOVICH Nikol Bella,74.43,96,99,-102,-116,117,0,99,117,216
+European Championships,2024-02-12,76 kg Women,OUALIT Nadia,75.57,94,98,-101,113,-116,-117,98,113,211
+European Championships,2024-02-12,76 kg Women,PAHULIAYEVA Palina,73.99,-94,94,97,-115,115,-119,97,115,212
+European Championships,2024-02-12,76 kg Women,CIUBOTARU Alexandrina,75.60,91,94,-96,-115,-115,-115,94,0,0
+European Championships,2024-02-12,76 kg Women,HORVATH Laura,75.82,90,-94,-94,-115,115,-119,90,115,205
+European Championships,2024-02-12,76 kg Women,TOLSTRUP Laura Vest,73.98,-88,89,-92,-116,116,-119,89,116,205
+European Championships,2024-02-12,76 kg Women,GLEISNER Emma Eveliina,75.90,-85,85,88,108,111,-114,88,111,199
+European Championships,2024-02-12,76 kg Women,RONDZIKOVA Nina,71.49,83,86,88,104,108,111,88,111,199
+European Championships,2024-02-12,76 kg Women,GAVRAN Ivona,74.91,86,-90,-92,102,-107,-110,86,102,188
+European Championships,2024-02-12,76 kg Women,STEFANSDOTTIR Gudny Bjork,71.55,85,-90,-92,104,107,110,85,110,195
+European Championships,2024-02-12,76 kg Women,GARCIA STEFANOVA Sofia,75.98,-70,71,75,90,96,102,75,102,177
+European Championships,2024-02-12,76 kg Women,MROZ Paula,73.84,71,-74,-74,-90,90,-94,71,90,161
+European Championships,2024-02-12,76 kg Women,FEGUE Marie Josephe,74.85,0,0,0,0,0,0,0,0,0
+European Championships,2024-02-12,81 kg Women,ZIELINSKA STUBINSKA Weronika,79.61,-103,103,-106,127,-130,132,103,132,235
+European Championships,2024-02-12,81 kg Women,ERIGHINA Elena,80.76,-99,99,103,126,129,131,103,131,234
+European Championships,2024-02-12,81 kg Women,LAGROU Ilke,80.43,97,100,103,-123,-125,-125,103,0,0
+European Championships,2024-02-12,81 kg Women,NARIN Dilara,81.00,-95,97,-101,125,-128,-128,97,125,222
+European Championships,2024-02-12,81 kg Women,KHEIDZER Darya,80.79,93,-96,96,112,116,-120,96,116,212
+European Championships,2024-02-12,81 kg Women,GYURJYAN Liana,81.00,95,-98,-98,-125,125,-129,95,125,220
+European Championships,2024-02-12,81 kg Women,JERABKOVA Simona,76.48,-84,84,87,105,-109,-110,87,105,192
+European Championships,2024-02-12,81 kg Women,CILCIC Anastasia,80.77,80,84,-87,100,-105,109,84,109,193
+European Championships,2024-02-12,81 kg Women,FEKLISTOVA Katrina,79.82,0,0,0,0,0,0,0,0,0
+European Championships,2024-02-12,81 kg Women,LOWIK Nikki Merel Elisabeth,80.57,-102,-103,-104,-125,0,0,0,0,0
+European Championships,2024-02-12,87 kg Women,KOANDA Solfrid Eila Amena,85.62,114,-118,120,148,155,160,120,160,280
+European Championships,2024-02-12,87 kg Women,JENSEN Anne Sofie Vejsgaard,86.72,99,103,107,115,-119,119,107,119,226
+European Championships,2024-02-12,87 kg Women,KHURSHUDYAN Hripsime,86.80,102,-105,105,-122,122,-125,105,122,227
+European Championships,2024-02-12,87 kg Women,SCHROTH Nina,86.35,-100,100,104,118,-122,-123,104,118,222
+European Championships,2024-02-12,87 kg Women,HAKOBYAN Tatev,86.95,103,-106,-106,124,-126,-127,103,124,227
+European Championships,2024-02-12,87 kg Women,MANIEVSKA Anastasiia,84.75,102,-105,-106,126,128,0,102,128,230
+European Championships,2024-02-12,87 kg Women,MITYKO Veronika,83.05,-101,-101,102,112,116,118,102,118,220
+European Championships,2024-02-12,87 kg Women,CAN Busra,86.83,97,100,-103,123,-127,127,100,127,227
+European Championships,2024-02-12,87 kg Women,PETERSON Eliise,85.68,-100,100,-104,120,-123,-124,100,120,220
+European Championships,2024-02-12,87 kg Women,MURGVLIANI Mariam,85.39,97,-101,-101,116,-121,121,97,121,218
+European Championships,2024-02-12,87 kg Women,SENICOVA Nikola,84.99,-96,97,-101,118,-124,-124,97,118,215
+European Championships,2024-02-12,87 kg Women,ALEXE Alexandra,83.65,95,-99,-99,118,121,-125,95,121,216
+European Championships,2024-02-12,87 kg Women,ZEMBOVA Lenka,87.00,-91,91,94,110,-114,115,94,115,209
+European Championships,2024-02-12,87 kg Women,JONSDOTTIR Fridny Fjola,81.82,88,-92,-93,-105,106,-112,88,106,194
+European Championships,2024-02-12,87 kg Women,SMIGOVA Eliska,83.78,87,-90,-91,110,114,-117,87,114,201
+European Championships,2024-02-12,87 kg Women,CHARITOPOULOU Desponia,82.58,80,-85,85,101,-106,106,85,106,191
+European Championships,2024-02-12,87 kg Women,SEDA Pavlina,84.01,79,82,84,92,96,100,84,100,184
+European Championships,2024-02-12,87 kg Women,CORIC Abida,81.89,80,-83,-83,99,-103,-103,80,99,179
+European Championships,2024-02-12,+87 kg Women,HOTFRID Anastasiia,100.13,111,115,117,128,133,140,117,140,257
+European Championships,2024-02-12,+87 kg Women,CAMPBELL Emily Jade,129.80,112,-116,-116,146,151,0,112,151,263
+European Championships,2024-02-12,+87 kg Women,KISIL Valentyna,100.76,104,106,108,126,-129,-130,108,126,234
+European Championships,2024-02-12,+87 kg Women,CEVIK Fatmagul,109.68,-103,103,107,125,129,131,107,131,238
+European Championships,2024-02-12,+87 kg Women,BORODINA Krystyna,96.43,98,100,102,125,-130,-131,102,125,227
+European Championships,2024-02-12,+87 kg Women,FISCHER Sarah,96.22,97,101,-105,125,130,-132,101,130,231
+European Championships,2024-02-12,+87 kg Women,AGUSTDOTTIR Erla,116.21,93,97,100,110,-115,115,100,115,215
+European Championships,2024-02-12,+87 kg Women,IVANOVA Dzhesika,102.36,94,98,100,116,125,-128,100,125,225
+European Championships,2024-02-12,+87 kg Women,KRALOVA Tereza,93.07,88,-92,92,-111,112,-118,92,112,204
+European Championships,2024-02-12,+87 kg Women,SCHEPENS Danique,100.82,85,-91,-92,108,112,-115,85,112,197
+European Championships,2024-02-12,+87 kg Women,ELLIS Cecily,104.03,-75,75,-82,95,-100,100,75,100,175
+European Championships,2024-02-12,+87 kg Women,SUREN Tuana,96.74,-103,-103,0,0,0,0,0,0,0
