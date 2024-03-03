@@ -24,7 +24,7 @@ function RulebookPage() {
       </div>
       <br></br>
       <h1 className="text-2xl font-bold text-center mt-8 mb-4">
-        What's the main differences between the IWF / BWL and FOWL rules?
+        What are the main differences between the IWF / BWL and FOWL rules?
       </h1>
       <div className="mx-4">
         <Accordion>
