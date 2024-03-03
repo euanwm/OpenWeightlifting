@@ -16,6 +16,8 @@ import { FiHome } from 'react-icons/fi'
 import Logo from '../../public/OWL-logo.png'
 import { useState } from 'react'
 import { TbBrandPatreon } from "react-icons/tb";
+import { LuBookOpenCheck } from "react-icons/lu";
+
 
 const HeaderBar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
@@ -47,6 +49,12 @@ const HeaderBar = () => {
           <Link href="/search">
             <MdOutlinePersonSearch size="30px" />
             <span className="ml-2">Lifter search</span>
+          </Link>
+        </NavbarMenuItem>
+        <NavbarMenuItem>
+          <Link href="/rulebook">
+            <LuBookOpenCheck size="30px" />
+            <span className="ml-2">The Rulebook</span>
           </Link>
         </NavbarMenuItem>
         <NavbarMenuItem>
