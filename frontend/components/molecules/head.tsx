@@ -17,7 +17,7 @@ import Logo from '../../public/OWL-logo.png'
 import { useState } from 'react'
 import { TbBrandPatreon } from "react-icons/tb";
 import { LuBookOpenCheck } from "react-icons/lu";
-
+import { BsPatchQuestion } from "react-icons/bs";
 
 const HeaderBar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
@@ -37,6 +37,12 @@ const HeaderBar = () => {
           <Link href="/">
             <FiHome size="30px" className="mt-2"/>
             <span className="ml-2">Home</span>
+          </Link>
+        </NavbarMenuItem>
+        <NavbarMenuItem>
+          <Link href="/about">
+            <BsPatchQuestion size="30px" className="mt-2"/>
+            <span className="ml-2">About Us</span>
           </Link>
         </NavbarMenuItem>
         <NavbarMenuItem>
