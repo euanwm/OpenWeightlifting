@@ -47,6 +47,7 @@ func buildServer() *gin.Engine {
 	r.POST("history", LifterHistory)
 	r.POST("events/list", Events)
 	r.POST("events", SingleEvent)
+	r.POST("issue", IssueReport)
 	r.GET("/swagger/*any", ginSwagger.WrapHandler(swaggerFiles.Handler))
 	return r
 }

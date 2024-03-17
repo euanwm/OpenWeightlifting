@@ -222,3 +222,13 @@ func SingleEvent(c *gin.Context) {
 	}
 	c.JSON(http.StatusOK, response)
 }
+
+func IssueReport(c *gin.Context) {
+	var report structs.LiftReport
+	if err := c.BindJSON(&report); err != nil {
+		abortErr := c.AbortWithError(http.StatusBadRequest, err)
+		log.Println(abortErr)
+		return
+	}
+	log.Println(report)
+}
