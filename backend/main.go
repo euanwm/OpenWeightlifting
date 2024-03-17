@@ -37,11 +37,17 @@ func setupCORS(r *gin.Engine) {
 
 func setupDiscordBot(bot *discordbot.DiscordBot) {
 	token := os.Getenv("DISCORD_TOKEN")
-	bot, _ = discordbot.New(token)
+	*bot, _ = discordbot.New(token)
 	err := bot.OpenConnection()
 	if err != nil {
 		log.Println("Failed to open discord connection")
 	}
+	bot.Channel = os.Getenv("ISSUES_CHANNEL")
+	if err != nil {
+		log.Println("Failed to post message to discord")
+	}
+	log.Println("Discord bot started")
+	return
 }
 
 func buildServer() *gin.Engine {
@@ -83,7 +89,7 @@ func CacheMeOutsideHowBoutDat() {
 // @host api.openweightlifting.org
 // @schemes https
 func main() {
-	setupDiscordBot(&DiscordBot)
+	setupDiscordBot(&DiscoKaren)
 	apiServer := buildServer()
 	go CacheMeOutsideHowBoutDat()
 	err := apiServer.Run() // listen and serve on

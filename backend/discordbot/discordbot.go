@@ -5,15 +5,16 @@ import "github.com/bwmarrin/discordgo"
 // DiscordBot is the main struct for the discord bot
 type DiscordBot struct {
 	Session *discordgo.Session
+	Channel string
 }
 
 // New creates a new DiscordBot
-func New(token string) (*DiscordBot, error) {
+func New(token string) (DiscordBot, error) {
 	session, err := discordgo.New("Bot " + token)
 	if err != nil {
-		return nil, err
+		return DiscordBot{}, err
 	}
-	return &DiscordBot{Session: session}, nil
+	return DiscordBot{Session: session}, nil
 }
 
 // OpenConnection Open opens a connection to Discord
@@ -27,6 +28,6 @@ func (d *DiscordBot) CloseConnection() error {
 }
 
 // PostMessage posts a message to a channel
-func (d *DiscordBot) PostMessage(channelID string, message string) (*discordgo.Message, error) {
-	return d.Session.ChannelMessageSend(channelID, message)
+func (d *DiscordBot) PostMessage(message string) (*discordgo.Message, error) {
+	return d.Session.ChannelMessageSend(d.Channel, message)
 }

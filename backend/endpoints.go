@@ -16,8 +16,8 @@ import (
 	_ "github.com/heroku/x/hmetrics/onload"
 )
 
-// DiscordBot is a global variable that is used to hold the discord bot session.
-var DiscordBot discordbot.DiscordBot
+// DiscoKaren is a global variable that is used to hold the discord bot session.
+var DiscoKaren discordbot.DiscordBot
 
 // LeaderboardData is a global variable that is used to hold the leaderboard data.
 var LeaderboardData structs.LeaderboardData
@@ -234,5 +234,10 @@ func IssueReport(c *gin.Context) {
 		log.Println(abortErr)
 		return
 	}
-	log.Println(report)
+	log.Printf("Issue report received: %s\n", report.Comments)
+	_, err := DiscoKaren.PostMessage(report.ReportedLift.DiscordPrint() + "\nReport Comments:" + report.Comments)
+	if err != nil {
+		log.Println("Failed to post message to discord")
+	}
+	c.JSON(http.StatusOK, nil)
 }
