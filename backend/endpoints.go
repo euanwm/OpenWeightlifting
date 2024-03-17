@@ -11,9 +11,13 @@ import (
 	"strconv"
 	"time"
 
+	"github.com/bwmarrin/discordgo"
 	"github.com/gin-gonic/gin"
 	_ "github.com/heroku/x/hmetrics/onload"
 )
+
+// DiscordBot is a global variable that is used to hold the discord bot session.
+var DiscordBot *discordgo.Session
 
 // LeaderboardData is a global variable that is used to hold the leaderboard data.
 var LeaderboardData structs.LeaderboardData
