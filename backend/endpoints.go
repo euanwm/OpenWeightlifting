@@ -2,6 +2,7 @@ package main //nolint:typecheck
 
 import (
 	"backend/dbtools"
+	"backend/discordbot"
 	"backend/enum"
 	"backend/lifter"
 	"backend/structs"
@@ -11,13 +12,12 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/bwmarrin/discordgo"
 	"github.com/gin-gonic/gin"
 	_ "github.com/heroku/x/hmetrics/onload"
 )
 
 // DiscordBot is a global variable that is used to hold the discord bot session.
-var DiscordBot *discordgo.Session
+var DiscordBot discordbot.DiscordBot
 
 // LeaderboardData is a global variable that is used to hold the leaderboard data.
 var LeaderboardData structs.LeaderboardData

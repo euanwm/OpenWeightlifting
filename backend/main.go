@@ -2,6 +2,7 @@ package main
 
 import (
 	"backend/dbtools"
+	"backend/discordbot"
 	"backend/docs"
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
@@ -31,6 +32,15 @@ func setupCORS(r *gin.Engine) {
 		r.Use(cors.New(CORSConfig(true)))
 	} else {
 		r.Use(cors.New(CORSConfig(false)))
+	}
+}
+
+func setupDiscordBot(bot *discordbot.DiscordBot) {
+	token := os.Getenv("DISCORD_TOKEN")
+	bot, _ = discordbot.New(token)
+	err := bot.OpenConnection()
+	if err != nil {
+		log.Println("Failed to open discord connection")
 	}
 }
 
@@ -73,6 +83,7 @@ func CacheMeOutsideHowBoutDat() {
 // @host api.openweightlifting.org
 // @schemes https
 func main() {
+	setupDiscordBot(&DiscordBot)
 	apiServer := buildServer()
 	go CacheMeOutsideHowBoutDat()
 	err := apiServer.Run() // listen and serve on
