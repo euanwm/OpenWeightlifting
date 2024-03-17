@@ -6,7 +6,7 @@ export default async function submitResultIssue(
     lift_data: LifterResult
     description: string
   },
-): Promise<{ success: boolean; }> {
+): Promise<{ success: boolean; message: string }> {
   try {
     const response = await fetch(`${process.env.API}/issue`, {
       method: 'POST',
@@ -20,6 +20,7 @@ export default async function submitResultIssue(
     console.error('Error:', error)
     return {
       success: false,
+      message: 'There was an error submitting your form. Please try again.',
     }
   }
 }
