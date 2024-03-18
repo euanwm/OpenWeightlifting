@@ -3,7 +3,9 @@ package structs
 import (
 	"backend/enum"
 	"backend/utilities"
+	"fmt"
 	"log"
+	"reflect"
 )
 
 func (e LifterHistory) GenerateChartData() ChartData {
@@ -148,6 +150,16 @@ func (e Entry) SelectedFederation(federation string) bool {
 		return true
 	}
 	return false
+}
+
+func (e Entry) DiscordPrint() (rawString string) {
+	rawString += "```"
+	keys := reflect.ValueOf(e)
+	for i := 0; i < keys.NumField(); i++ {
+		rawString += keys.Type().Field(i).Name + ": " + fmt.Sprintf("%v", keys.Field(i).Interface()) + "\n"
+	}
+	rawString += "```"
+	return
 }
 
 func (e LeaderboardData) FetchNames(posSlice []int) (names []string) {

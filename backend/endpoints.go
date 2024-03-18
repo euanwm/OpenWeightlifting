@@ -2,6 +2,7 @@ package main //nolint:typecheck
 
 import (
 	"backend/dbtools"
+	"backend/discordbot"
 	"backend/enum"
 	"backend/lifter"
 	"backend/structs"
@@ -14,6 +15,9 @@ import (
 	"github.com/gin-gonic/gin"
 	_ "github.com/heroku/x/hmetrics/onload"
 )
+
+// DiscoKaren is a global variable that is used to hold the discord bot session.
+var DiscoKaren discordbot.DiscordBot
 
 // LeaderboardData is a global variable that is used to hold the leaderboard data.
 var LeaderboardData structs.LeaderboardData
@@ -221,4 +225,31 @@ func SingleEvent(c *gin.Context) {
 		return
 	}
 	c.JSON(http.StatusOK, response)
+}
+
+// IssueReport godoc
+//
+//		@Summary	Report an issue with a lift
+//		@Schemes
+//		@Description	Report an issue with a lift to the discord server
+//		@Tags			POST Requests
+//	 @Param reportedLift body structs.LiftReport true "Lift to report"
+//	 @Param comments body string true "Comments"
+//		@Accept			json
+//		@Produce		json
+//		@Success		200	{object}	nil
+//		@Router			/issue [post]
+func IssueReport(c *gin.Context) {
+	var report structs.LiftReport
+	if err := c.BindJSON(&report); err != nil {
+		abortErr := c.AbortWithError(http.StatusBadRequest, err)
+		log.Println(abortErr)
+		return
+	}
+	log.Printf("Issue report received: %s\n", report.Comments)
+	_, err := DiscoKaren.PostMessage(report.ReportedLift.DiscordPrint() + "\nReport Comments: *" + report.Comments + "*")
+	if err != nil {
+		log.Println("Failed to post message to discord")
+	}
+	c.JSON(http.StatusOK, nil)
 }

@@ -2,6 +2,7 @@ package main
 
 import (
 	"backend/dbtools"
+	"backend/discordbot"
 	"backend/docs"
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
@@ -34,6 +35,20 @@ func setupCORS(r *gin.Engine) {
 	}
 }
 
+func setupDiscordBot(bot *discordbot.DiscordBot) {
+	token := os.Getenv("DISCORD_TOKEN")
+	*bot, _ = discordbot.New(token)
+	err := bot.OpenConnection()
+	if err != nil {
+		log.Println("Failed to open discord connection")
+	}
+	bot.Channel = os.Getenv("ISSUES_CHANNEL")
+	if err != nil {
+		log.Println("Failed to post message to discord")
+	}
+	log.Println("Discord bot started")
+}
+
 func buildServer() *gin.Engine {
 	log.Println("Starting server...")
 	dbtools.BuildDatabase(&LeaderboardData, &EventsData)
@@ -47,6 +62,7 @@ func buildServer() *gin.Engine {
 	r.POST("history", LifterHistory)
 	r.POST("events/list", Events)
 	r.POST("events", SingleEvent)
+	r.POST("issue", IssueReport)
 	r.GET("/swagger/*any", ginSwagger.WrapHandler(swaggerFiles.Handler))
 	return r
 }
@@ -72,6 +88,7 @@ func CacheMeOutsideHowBoutDat() {
 // @host api.openweightlifting.org
 // @schemes https
 func main() {
+	setupDiscordBot(&DiscoKaren)
 	apiServer := buildServer()
 	go CacheMeOutsideHowBoutDat()
 	err := apiServer.Run() // listen and serve on

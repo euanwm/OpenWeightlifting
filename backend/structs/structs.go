@@ -128,3 +128,8 @@ type SingleEvent struct {
 type EventsList struct {
 	Events []SingleEventMetaData `json:"events"`
 }
+
+type LiftReport struct {
+	ReportedLift Entry  `json:"lift"`
+	Comments     string `json:"comments"`
+}

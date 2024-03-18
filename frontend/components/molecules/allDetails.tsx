@@ -12,6 +12,9 @@ import {
 } from '@nextui-org/react'
 import { LifterResult } from '@/api/fetchLifterData/fetchLifterDataTypes'
 
+import ReportPopout from '@/components/molecules/reportPopout'
+
+
 export const AllDetails = ({ full_comp }: { full_comp: LifterResult }) => {
   return (
     <Popover placement="left">
@@ -59,6 +62,7 @@ export const AllDetails = ({ full_comp }: { full_comp: LifterResult }) => {
             </TableRow>
           </TableBody>
         </Table>
+        <ReportPopout singleLift={full_comp} />
       </PopoverContent>
     </Popover>
   )
