@@ -47,7 +47,6 @@ func setupDiscordBot(bot *discordbot.DiscordBot) {
 		log.Println("Failed to post message to discord")
 	}
 	log.Println("Discord bot started")
-	return
 }
 
 func buildServer() *gin.Engine {

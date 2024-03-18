@@ -227,6 +227,18 @@ func SingleEvent(c *gin.Context) {
 	c.JSON(http.StatusOK, response)
 }
 
+// IssueReport godoc
+//
+//		@Summary	Report an issue with a lift
+//		@Schemes
+//		@Description	Report an issue with a lift to the discord server
+//		@Tags			POST Requests
+//	 @Param reportedLift body structs.LiftReport true "Lift to report"
+//	 @Param comments body string true "Comments"
+//		@Accept			json
+//		@Produce		json
+//		@Success		200	{object}	nil
+//		@Router			/issue [post]
 func IssueReport(c *gin.Context) {
 	var report structs.LiftReport
 	if err := c.BindJSON(&report); err != nil {
