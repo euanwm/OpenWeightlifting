@@ -1,0 +1,53 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Welsh Spring Open 2024,2024-03-09,Men's Junior Under 20 89Kg,edward gibson,86,117,-120,122,143,147,150,122,150,272
+Welsh Spring Open 2024,2024-03-09,Men's Senior 73Kg,Michael Farmer,70.5,110,115,-120,130,140,-145,115,140,255
+Welsh Spring Open 2024,2024-03-09,Men's Under 23 109+Kg,Louis Weston,129.45,100,-110,-110,130,140,151,100,151,251
+Welsh Spring Open 2024,2024-03-09,Men's Under 23 73Kg,Cian Green,73,103,107,-111,130,-135,-136,107,130,237
+Welsh Spring Open 2024,2024-03-09,Men's Senior 96Kg,Carl Rees,94.6,95,100,-105,125,-130,130,100,130,230
+Welsh Spring Open 2024,2024-03-09,Men's Senior 96Kg,Morgan Phillips,92.45,92,97,-100,125,130,133,97,133,230
+Welsh Spring Open 2024,2024-03-09,Women's Senior 87+Kg,Leah Clarke,113.35,85,-88,90,110,113,116,90,116,206
+Welsh Spring Open 2024,2024-03-09,Men's Junior Under 20 89Kg,Matthew Collins,84.5,85,90,-93,110,115,-118,90,115,205
+Welsh Spring Open 2024,2024-03-09,Men's Under 23 61Kg,Ben Foggo,60.8,80,83,-86,103,106,-110,83,106,189
+Welsh Spring Open 2024,2024-03-09,Men's Youth Under 17 61Kg,Llewellyn Waits,59.85,78,81,83,-98,100,104,83,104,187
+Welsh Spring Open 2024,2024-03-09,Women's Senior 64Kg,Bethan Watkins,63.6,76,78,80,96,-100,100,80,100,180
+Welsh Spring Open 2024,2024-03-09,Men's Youth Under 15 67Kg,Jorgie Hughes-lynch,66.35,75,78,80,100,-105,-105,80,100,180
+Welsh Spring Open 2024,2024-03-09,Women's Under 23 71Kg,chloe hood,70.15,77,80,-83,100,-105,-105,80,100,180
+Welsh Spring Open 2024,2024-03-09,Men's Under 23 89Kg,Charles  Tempest ,81.7,75,78,82,95,-98,-102,82,95,177
+Welsh Spring Open 2024,2024-03-09,Men's Senior 102Kg,Chris Turner,98.55,-70,-70,70,105,-110,-110,70,105,175
+Welsh Spring Open 2024,2024-03-09,Women's Junior Under 20 59Kg,Charlotte Whalley,59,-73,73,77,-93,93,-96,77,93,170
+Welsh Spring Open 2024,2024-03-09,Men's Youth Under 15 73Kg,Jac Green,69.65,-70,71,75,90,95,-100,75,95,170
+Welsh Spring Open 2024,2024-03-09,Women's Senior 71Kg,Megan Dixon,69.8,-74,-75,75,94,-98,-100,75,94,169
+Welsh Spring Open 2024,2024-03-09,Women's Youth Under 17 71Kg,Martha Bailey,71,73,-76,76,-75,-90,90,76,90,166
+Welsh Spring Open 2024,2024-03-09,Men's Senior 61Kg,Ryan Blakemore,60.15,70,-73,73,88,-91,91,73,91,164
+Welsh Spring Open 2024,2024-03-09,Women's Youth Under 17 55Kg,Eliza Pratt,53,67,69,-71,88,90,-92,69,90,159
+Welsh Spring Open 2024,2024-03-09,Men's Masters (40-44) 89Kg,Steven Jones,85.55,60,63,-66,85,90,95,63,95,158
+Welsh Spring Open 2024,2024-03-09,Women's Senior 71Kg,Nadine Kehely,70.55,67,-70,-70,87,-90,-90,67,87,154
+Welsh Spring Open 2024,2024-03-09,Women's Junior Under 20 59Kg,Annabelle Pettit,59,66,-68,68,85,-89,-89,68,85,153
+Welsh Spring Open 2024,2024-03-09,Women's Senior 71Kg,Holly Knowles,68.35,61,63,65,80,85,88,65,88,153
+Welsh Spring Open 2024,2024-03-09,Women's Youth Under 17 81+Kg,Grace Morris,101.05,60,63,66,80,84,87,66,87,153
+Welsh Spring Open 2024,2024-03-09,Men's Youth Under 15 49Kg,Thomas Duggan,47.4,63,66,-68,80,-84,-84,66,80,146
+Welsh Spring Open 2024,2024-03-09,Women's Senior 64Kg,Victoria Friss de Kereki,62.4,57,60,-62,-80,81,84,60,84,144
+Welsh Spring Open 2024,2024-03-09,Women's Junior Under 20 76Kg,Honey Seaton,76,61,63,66,74,78,-80,66,78,144
+Welsh Spring Open 2024,2024-03-09,Women's Senior 87+Kg,Anita Madan,89.3,58,61,63,70,73,76,63,76,139
+Welsh Spring Open 2024,2024-03-09,Men's Youth Under 17 67Kg,Theo  Graham,66,57,60,-63,-78,78,-80,60,78,138
+Welsh Spring Open 2024,2024-03-09,Women's Under 23 71Kg,Georgia Hawkins,69.1,52,56,-60,74,-78,-78,56,74,130
+Welsh Spring Open 2024,2024-03-09,Women's Junior Under 20 64Kg,Claudia Holliday-Williams,60.55,50,53,55,65,68,71,55,71,126
+Welsh Spring Open 2024,2024-03-09,Women's Senior 64Kg,Elinor Edwards,64,50,53,55,65,68,-70,55,68,123
+Welsh Spring Open 2024,2024-03-09,Women's Junior Under 20 71Kg,Olivia  Roderick ,67.9,50,-53,-53,-68,-68,69,50,69,119
+Welsh Spring Open 2024,2024-03-09,Women's Senior 71Kg,scarlett james,68.3,45,48,51,60,-65,-65,51,60,111
+Welsh Spring Open 2024,2024-03-09,Women's Senior 64Kg,Kiani Geldard,62.75,41,43,45,55,57,60,45,60,105
+Welsh Spring Open 2024,2024-03-09,Women's Junior Under 20 64Kg,Roxi  Hayward,62.4,45,47,-50,51,53,55,47,55,102
+Welsh Spring Open 2024,2024-03-09,Women's Youth Under 15 55Kg,Bethan Harry,55,40,43,45,50,52,55,45,55,100
+Welsh Spring Open 2024,2024-03-09,Women's Senior 64Kg,Rebecca Conibear,62.45,40,-43,43,50,53,55,43,55,98
+Welsh Spring Open 2024,2024-03-09,Men's Youth Under 15 55Kg,Sion  Coleman ,53.45,30,33,36,44,47,50,36,50,86
+Welsh Spring Open 2024,2024-03-09,Women's Junior Under 20 55Kg,Elin-haf Tossell,55,38,-41,-41,46,-49,-50,38,46,84
+Welsh Spring Open 2024,2024-03-09,Women's Junior Under 20 71Kg,Celyn Millership,68.1,-35,35,38,45,-48,-48,38,45,83
+Welsh Spring Open 2024,2024-03-09,Women's Under 23 55Kg,emma brooks,55,38,-40,-40,44,-47,-48,38,44,82
+Welsh Spring Open 2024,2024-03-09,Women's Senior 71Kg,Tanya Beattie,68.5,30,32,-35,43,47,50,32,50,82
+Welsh Spring Open 2024,2024-03-09,Women's Youth Under 15 71Kg,Gabrielle Maber,67.15,30,32,34,42,-45,45,34,45,79
+Welsh Spring Open 2024,2024-03-09,Women's Youth Under 15 49Kg,Cerys Davies,49,29,31,33,39,42,-45,33,42,75
+Welsh Spring Open 2024,2024-03-09,Men's Youth Under 15 49Kg,Jaxson Lynch,44.45,28,32,35,-35,-35,35,35,35,70
+Welsh Spring Open 2024,2024-03-09,Women's Youth Under 15 55Kg,Hazel Williams,55,23,25,27,34,-36,36,27,36,63
+Welsh Spring Open 2024,2024-03-09,Women's Youth Under 15 49Kg,Sienna Jones,47.65,-23,23,25,32,-35,37,25,37,62
+Welsh Spring Open 2024,2024-03-09,Women's Youth Under 15 76Kg,Ruby Samuel ,76,20,23,26,26,28,30,26,30,56
+Welsh Spring Open 2024,2024-03-09,Women's Youth Under 17 64Kg,Evelyn Thomas,61.85,60,62,65,0,0,0,65,0,0

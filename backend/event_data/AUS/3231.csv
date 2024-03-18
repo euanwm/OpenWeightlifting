@@ -1,0 +1,15 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+TWA Club Competition,2024-03-09,female,Yolandie Weir,53.40,45,48,-50,55,60,63,48,63,111
+TWA Club Competition,2024-03-09,female,Molly Boyd,69.00,47,49,51,60,64,66,51,66,117
+TWA Club Competition,2024-03-09,female,Chloe Dolley,65.70,37,40,42,51,53,55,42,55,97
+TWA Club Competition,2024-03-09,female,Katie Harland,75.40,38,41,43,50,54,57,43,57,100
+TWA Club Competition,2024-03-09,female,Leandra Miscamble,78.70,22,24,26,33,35,37,26,37,63
+TWA Club Competition,2024-03-09,female,Tanya Eames,88.80,48,-50,-50,60,-63,63,48,63,111
+TWA Club Competition,2024-03-09,female,Sara Stenstrom,114.30,40,43,46,60,65,-68,46,65,111
+TWA Club Competition,2024-03-09,female,Anna Corrigan,93.70,37,40,44,-57,60,65,44,65,109
+TWA Club Competition,2024-03-09,male,Ricky Visagie,73.80,57,61,-65,75,80,85,61,85,146
+TWA Club Competition,2024-03-09,male,Harry Seaton,77.80,43,46,48,52,56,60,48,60,108
+TWA Club Competition,2024-03-09,male,Jack Gibson,75.70,115,-120,-120,0,0,0,115,0,0
+TWA Club Competition,2024-03-09,male,Michael Rickwood,87.70,67,70,75,-87,93,100,75,100,175
+TWA Club Competition,2024-03-09,male,Wes Davidson,105.10,55,58,61,75,80,85,61,85,146
+TWA Club Competition,2024-03-09,male,Brenton Gold,115.20,90,93,97,105,110,116,97,116,213
