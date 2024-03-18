@@ -152,13 +152,13 @@ func (e Entry) SelectedFederation(federation string) bool {
 	return false
 }
 
-func (e Entry) DiscordPrint() (RawString string) {
-	RawString += "```"
+func (e Entry) DiscordPrint() (rawString string) {
+	rawString += "```"
 	keys := reflect.ValueOf(e)
 	for i := 0; i < keys.NumField(); i++ {
-		RawString += keys.Type().Field(i).Name + ": " + fmt.Sprintf("%v", keys.Field(i).Interface()) + "\n"
+		rawString += keys.Type().Field(i).Name + ": " + fmt.Sprintf("%v", keys.Field(i).Interface()) + "\n"
 	}
-	RawString += "```"
+	rawString += "```"
 	return
 }
 

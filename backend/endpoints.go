@@ -235,7 +235,7 @@ func IssueReport(c *gin.Context) {
 		return
 	}
 	log.Printf("Issue report received: %s\n", report.Comments)
-	_, err := DiscoKaren.PostMessage(report.ReportedLift.DiscordPrint() + "\nReport Comments:" + report.Comments)
+	_, err := DiscoKaren.PostMessage(report.ReportedLift.DiscordPrint() + "\nReport Comments: *" + report.Comments + "*")
 	if err != nil {
 		log.Println("Failed to post message to discord")
 	}
