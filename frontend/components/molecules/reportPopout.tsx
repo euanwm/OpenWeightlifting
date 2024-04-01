@@ -6,7 +6,7 @@ import { useState } from 'react'
 import { ReportErrorForm } from '@/api/submitResultIssue/submitResultIssueFormTypes'
 import useSWR from 'swr'
 
-export const ReportPopout = ({ singleLift }: { singleLift: LifterResult }) => {
+export const ReportPopout = ({ singleLift, page_origin }: { singleLift: LifterResult, page_origin: string }) => {
   const [popout, setPopout] = useState(false)
   const [comments, setComments] = useState('')
   const [validationErrorMessage, setValidationErrorMessage] = useState('')
@@ -39,14 +39,14 @@ export const ReportPopout = ({ singleLift }: { singleLift: LifterResult }) => {
     <div>
       <Popover isOpen={popout} placement="left" onOpenChange={(e) => setPopout(e)}>
         <PopoverTrigger>
-          <Button color="danger" isDisabled={previouslySubmitted}>
+          <Button color="danger" isDisabled={previouslySubmitted} size="sm">
             Report Issue
           </Button>
         </PopoverTrigger>
         <PopoverContent>
           <div className="flex flex-col items-center justify-center space-y-2 p-4">
             <MdOutlineFmdBad size={24} />
-            <Input placeholder="Issue Description" onChange={(e) => setComments(e.target.value)} />
+            <Input placeholder="Issue Description" onChange={(e) => setComments(page_origin+ ": " + e.target.value)} />
             <Button onClick={handleSubmit}>Submit</Button>
           </div>
         </PopoverContent>

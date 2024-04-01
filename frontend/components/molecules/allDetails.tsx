@@ -62,7 +62,7 @@ export const AllDetails = ({ full_comp }: { full_comp: LifterResult }) => {
             </TableRow>
           </TableBody>
         </Table>
-        <ReportPopout singleLift={full_comp} />
+        <ReportPopout singleLift={full_comp} page_origin="leaderboard" />
       </PopoverContent>
     </Popover>
   )
