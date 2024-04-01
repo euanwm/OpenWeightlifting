@@ -7,6 +7,7 @@ import {
   TableBody,
 } from '@nextui-org/react'
 import { LifterHistory } from '@/api/fetchLifterHistory/fetchLifterHistoryTypes'
+import ReportPopout from '@/components/molecules/reportPopout'
 
 export const HistoryTable = ({
   history,
@@ -27,6 +28,7 @@ export const HistoryTable = ({
         <TableColumn>3rd C&J</TableColumn>
         <TableColumn>Total</TableColumn>
         <TableColumn>Sinclair</TableColumn>
+        <TableColumn>Actions</TableColumn>
       </TableHeader>
       <TableBody>
         {history.map((lift, index) => {
@@ -57,6 +59,9 @@ export const HistoryTable = ({
               <TableCell>{cj_3}</TableCell>
               <TableCell>{total}</TableCell>
               <TableCell>{sinclair}</TableCell>
+              <TableCell>
+                <ReportPopout singleLift={lift} page_origin="history" />
+              </TableCell>
             </TableRow>
           )
         })}
