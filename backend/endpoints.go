@@ -69,6 +69,16 @@ func SearchName(c *gin.Context) {
 	}
 }
 
+func SearchNameFederation(c *gin.Context) {
+	const maxResults = 50
+	if len(c.Query("name")) >= 3 {
+		nameReq := c.Query("name")
+		searchResults := lifter.NewNameSearch(nameReq, &LeaderboardData.AllTotals)
+
+		c.JSON(http.StatusOK, searchResults)
+	}
+}
+
 // LifterRecord godoc
 //
 //		@Summary	Retrieve a lifter's record for use with ChartJS

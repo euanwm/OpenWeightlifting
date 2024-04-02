@@ -22,6 +22,15 @@ type NameSearchResults struct {
 	Names []string `json:"names"`
 }
 
+// swagger:response NameFedSearchResults
+// contains a list of names and the federation they belong to
+type NameFedSearchResults struct {
+	Names []struct {
+		Name       string
+		Federation string
+	} `json:"names"`
+}
+
 type NameSearch struct {
 	NameStr string `json:"name"`
 }
