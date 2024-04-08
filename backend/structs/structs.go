@@ -32,7 +32,8 @@ type NameFedSearchResults struct {
 }
 
 type NameSearch struct {
-	NameStr string `json:"name"`
+	NameStr    string `json:"name"`
+	Federation string `json:"federation"`
 }
 
 // swagger:response LifterHistory

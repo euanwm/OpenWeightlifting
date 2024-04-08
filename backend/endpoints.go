@@ -112,20 +112,25 @@ func LifterRecord(c *gin.Context) {
 //		@Summary	Retrieve a lifter's history
 //		@Schemes
 //		@Description	Pull a lifter's history by name. The name must be an exact match and can be checked using the search endpoint.
-//		@Tags			POST Requests
+//		@Tags			GET Requests
 //	 @Param name body string true "name"
 //		@Accept			json
 //		@Produce		json
 //		@Success		200	{object}	structs.LifterHistory
 //	 @Failure		204	{object}	nil
-//		@Router			/history [post]
+//		@Router			/history [get]
 func LifterHistory(c *gin.Context) {
-	lifterSearch := structs.NameSearch{}
-	if err := c.BindJSON(&lifterSearch); err != nil {
-		_ = c.AbortWithError(http.StatusBadRequest, err)
-	}
+	name := c.Query("name")
+	federation := c.Query("federation")
+	lifterSearch := structs.NameSearch{NameStr: name, Federation: federation}
 
 	lifterDetails := lifter.FetchLifts(lifterSearch, &LeaderboardData)
+
+	// todo: maybe refactor this to use a query struct, but I think a larger scale refactor is in order
+	if len(federation) > 0 {
+		lifterDetails.Lifts = dbtools.KeepFederationLifts(lifterDetails.Lifts, federation)
+	}
+
 	lifterDetails.Lifts = dbtools.SortDate(lifterDetails.Lifts)
 	lifterDetails.Graph = lifterDetails.GenerateChartData()
 	lifterDetails.Lifts = utilities.ReverseSlice(lifterDetails.Lifts)
