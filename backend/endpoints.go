@@ -51,31 +51,29 @@ func ServerTime(c *gin.Context) {
 //		@Schemes
 //		@Description	Looks up a lifter by name and returns a list of possible matches. Requires a minimum of 3 characters.
 //		@Tags			GET Requests
-//	 @Param name query string true "name"
+//	 @Param name query string true "Name to search for"
+//	 @Param limit query int false "Limit the number of results"
 //		@Accept			json
 //		@Produce		json
 //		@Success		200	{object}	structs.NameSearchResults
 //		@Router			/search [get]
 func SearchName(c *gin.Context) {
-	const maxResults = 50
+	maxResults, err := strconv.Atoi(c.Query("limit"))
+	if err != nil || maxResults < 0 {
+		log.Println("Failed to parse limit, defaulting to 50")
+		maxResults = 50
+	}
 	if len(c.Query("name")) >= 3 {
-		search := structs.NameSearch{NameStr: c.Query("name")}
-		results := structs.NameSearchResults{Names: lifter.NameSearch(search.NameStr, &LeaderboardData.AllTotals)}
+		nameStr := c.Query("name")
+		results := lifter.NewNameSearch(nameStr, &LeaderboardData.AllTotals)
+
+		results.Total = len(results.Names)
+
 		// todo: remove this and implement a proper solution
 		if len(results.Names) > maxResults {
 			results.Names = results.Names[:maxResults]
 		}
 		c.JSON(http.StatusOK, results)
-	}
-}
-
-func SearchNameFederation(c *gin.Context) {
-	const maxResults = 50
-	if len(c.Query("name")) >= 3 {
-		nameReq := c.Query("name")
-		searchResults := lifter.NewNameSearch(nameReq, &LeaderboardData.AllTotals)
-
-		c.JSON(http.StatusOK, searchResults)
 	}
 }
 

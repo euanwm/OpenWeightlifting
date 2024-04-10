@@ -21,7 +21,7 @@ func NameSearch(nameStr string, nameList *[]structs.Entry) (names []string) {
 }
 
 // NewNameSearch is similar to NameSearch but will also return names with their federation
-func NewNameSearch(nameStr string, nameList *[]structs.Entry) (nameResults structs.NameFedSearchResults) {
+func NewNameSearch(nameStr string, nameList *[]structs.Entry) (nameResults structs.NameSearchResults) {
 	nameStr = strings.ToLower(nameStr)
 	for _, lift := range *nameList {
 		if strings.Contains(strings.ToLower(lift.Name), nameStr) {

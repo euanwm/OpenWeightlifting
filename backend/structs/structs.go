@@ -19,16 +19,11 @@ type AllData struct {
 
 // swagger:response NameSearchResults
 type NameSearchResults struct {
-	Names []string `json:"names"`
-}
-
-// swagger:response NameFedSearchResults
-// contains a list of names and the federation they belong to
-type NameFedSearchResults struct {
 	Names []struct {
 		Name       string
 		Federation string
 	} `json:"names"`
+	Total int `json:"total"`
 }
 
 type NameSearch struct {
