@@ -8,7 +8,10 @@ import { useEffect } from "react";
 
 export default function App({ Component, pageProps }: AppProps) {
   useEffect(() => {
-    Smartlook.init('0cb3d115dd38c136548da8cbdae1e29785f896ac')
+    //disables SmartLook in a local environment
+    if (process.env.NODE_ENV === 'production') {
+      Smartlook.init('0cb3d115dd38c136548da8cbdae1e29785f896ac')
+    }
   }, []);
   return (
     <NextUIProvider>
