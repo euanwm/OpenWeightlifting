@@ -19,6 +19,7 @@ type AllData struct {
 
 // swagger:response NameSearchResults
 type NameSearchResults struct {
+	// todo: refactor this so we don't have to worry about case sensitivity on the items within the slice
 	Names []struct {
 		Name       string
 		Federation string
