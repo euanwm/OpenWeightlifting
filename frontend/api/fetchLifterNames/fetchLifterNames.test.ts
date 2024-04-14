@@ -5,6 +5,8 @@ describe('fetchLifterNames', () => {
     const result = await fetchLifterNames('Euan Meston');
 
     expect(result?.names.length).toBe(1)
-    expect(result?.names[0]).toBe('Euan Meston')
+    expect(result?.names[0]).toEqual(
+      {"Federation": "UK", "Name": "Euan Meston"}
+    )
   })
 })
