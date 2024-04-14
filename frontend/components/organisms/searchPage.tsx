@@ -33,9 +33,11 @@ function SearchPage() {
             onChange={async e => setInputSearch(e.target.value)}
           />
           Number of lifters found: {data?.total}, showing {data?.names.length}
+          <br />
+          {data && (
           <Listbox aria-label='Lifter search results'>
             <ListboxSection>
-              {data?.names.map(({Name, Federation }) => (
+              {data!.names.map(({Name, Federation }) => (
                 <ListboxItem key={Name} onClick={() => {window.location.href = `/lifter?name=${Name}&federation=${Federation}`}}>
 
                   {Name}, {Federation}
@@ -43,6 +45,7 @@ function SearchPage() {
               ))}
             </ListboxSection>
           </Listbox>
+          )}
         </div>
       </div>
     </>
