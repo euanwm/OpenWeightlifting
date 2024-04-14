@@ -10,10 +10,13 @@ import HeaderBar from '@/components/molecules/head'
 
 function LifterPage() {
   const router = useRouter()
-  const { name } = router.query
+  const params: { [key: string]: string } = {}
+  for (const key in router.query) {
+    params[key] = router.query[key]?.toString() || ''
+  }
 
   const { data, isLoading } = useSWR(
-    name,
+    params,
     fetchLifterHistory,
   )
 
@@ -35,7 +38,7 @@ function LifterPage() {
           <HistoryTable history={data.lifts} />
         </>
       ) : (
-        <div>{`No data for lifter '${name}'`}</div>
+        <div>{`No data for lifter '${params['name']}'`}</div>
       )}
     </>
   )
