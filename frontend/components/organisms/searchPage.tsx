@@ -23,7 +23,7 @@ function SearchPage() {
       )}
       <HeaderBar />
       <div className="flex justify-center mt-4">
-        <div className="max-w-lg mx-4 space-y-4">asearc
+        <div className="max-w-lg mx-4 space-y-4">
           <center>
             <h1>Lifter search function</h1>
             <p>Enter 3 or more letters to start searching for a lifter.</p>
