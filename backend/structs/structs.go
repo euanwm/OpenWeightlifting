@@ -19,11 +19,17 @@ type AllData struct {
 
 // swagger:response NameSearchResults
 type NameSearchResults struct {
-	Names []string `json:"names"`
+	// todo: refactor this so we don't have to worry about case sensitivity on the items within the slice
+	Names []struct {
+		Name       string
+		Federation string
+	} `json:"names"`
+	Total int `json:"total"`
 }
 
 type NameSearch struct {
-	NameStr string `json:"name"`
+	NameStr    string `json:"name"`
+	Federation string `json:"federation"`
 }
 
 // swagger:response LifterHistory

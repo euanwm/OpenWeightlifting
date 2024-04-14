@@ -115,3 +115,12 @@ func SortLiftsBy(bigData []structs.Entry, sortBy string) (sortedData []structs.E
 	sortedData = append(sortedData, bigData...)
 	return
 }
+
+func KeepFederationLifts(bigData []structs.Entry, federation string) (filteredData []structs.Entry) {
+	for _, lift := range bigData {
+		if lift.Federation == federation {
+			filteredData = append(filteredData, lift)
+		}
+	}
+	return
+}

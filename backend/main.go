@@ -59,7 +59,7 @@ func buildServer() *gin.Engine {
 	r.POST("leaderboard", Leaderboard)
 	r.GET("search", SearchName)
 	r.POST("lifter", LifterRecord)
-	r.POST("history", LifterHistory)
+	r.GET("history", LifterHistory)
 	r.POST("events/list", Events)
 	r.POST("events", SingleEvent)
 	r.POST("issue", IssueReport)

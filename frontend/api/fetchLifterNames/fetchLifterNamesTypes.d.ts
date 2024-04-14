@@ -12,5 +12,9 @@ export type LifterNamePayload = {
 }
 
 export type LifterSearchList = {
-  names: string[];
+  names: Array<{
+    Federation: string;
+    Name: string;
+  }>;
+  total: number;
 }

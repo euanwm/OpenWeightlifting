@@ -7,9 +7,10 @@ import fetchLifterNames from '@/api/fetchLifterNames/fetchLifterNames'
 
 function SearchPage() {
   const [inputSearch, setInputSearch] = useState('')
+  const params = { name: inputSearch, limit: '50' }
 
   const { data, isLoading } = useSWR(
-    inputSearch,
+    params,
     fetchLifterNames,
   )
 
@@ -31,21 +32,19 @@ function SearchPage() {
             placeholder="Search for a lifter..."
             onChange={async e => setInputSearch(e.target.value)}
           />
-          {data && Array.isArray(data.names) && (
-            <Listbox>
-              <ListboxSection title="Search Results">
-                {data.names.map(lifterName => (
-                  <ListboxItem
-                    key={lifterName}
-                    onClick={() => {
-                      window.location.href = '/lifter?name=' + lifterName
-                    }}
-                  >
-                    {lifterName}
-                  </ListboxItem>
-                ))}
-              </ListboxSection>
-            </Listbox>
+          Number of lifters found: {data?.total}, showing {data?.names.length}
+          <br />
+          {data && (
+          <Listbox aria-label='Lifter search results'>
+            <ListboxSection>
+              {data!.names.map(({Name, Federation }) => (
+                <ListboxItem key={Name} onClick={() => {window.location.href = `/lifter?name=${Name}&federation=${Federation}`}}>
+
+                  {Name}, {Federation}
+                </ListboxItem>
+              ))}
+            </ListboxSection>
+          </Listbox>
           )}
         </div>
       </div>

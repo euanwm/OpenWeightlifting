@@ -20,6 +20,37 @@ func NameSearch(nameStr string, nameList *[]structs.Entry) (names []string) {
 	return
 }
 
+// NewNameSearch is similar to NameSearch but will also return names with their federation
+func NewNameSearch(nameStr string, nameList *[]structs.Entry) (nameResults structs.NameSearchResults) {
+	nameStr = strings.ToLower(nameStr)
+	for _, lift := range *nameList {
+		if strings.Contains(strings.ToLower(lift.Name), nameStr) {
+			nameResults.Names = append(nameResults.Names, []struct {
+				Name       string
+				Federation string
+			}{{Name: lift.Name, Federation: lift.Federation}}...)
+		}
+	}
+	if len(nameResults.Names) == 0 {
+		nameResults.Names = append(nameResults.Names, struct {
+			Name       string
+			Federation string
+		}{Name: "", Federation: ""})
+	}
+
+	// drop duplicates if the federation AND name match - it's messy but it works
+	for i := 0; i < len(nameResults.Names); i++ {
+		for j := i + 1; j < len(nameResults.Names); j++ {
+			if nameResults.Names[i].Name == nameResults.Names[j].Name && nameResults.Names[i].Federation == nameResults.Names[j].Federation {
+				nameResults.Names = append(nameResults.Names[:j], nameResults.Names[j+1:]...)
+				j--
+			}
+		}
+	}
+
+	return
+}
+
 // FetchLifts should use the exact string provided (case-sensitive) by NameSearch
 func FetchLifts(name structs.NameSearch, leaderboard *structs.LeaderboardData) (lifterData structs.LifterHistory) {
 	lifterData.NameStr = name.NameStr

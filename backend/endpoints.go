@@ -51,16 +51,24 @@ func ServerTime(c *gin.Context) {
 //		@Schemes
 //		@Description	Looks up a lifter by name and returns a list of possible matches. Requires a minimum of 3 characters.
 //		@Tags			GET Requests
-//	 @Param name query string true "name"
+//	 @Param name query string true "Name to search for"
+//	 @Param limit query int false "Limit the number of results"
 //		@Accept			json
 //		@Produce		json
 //		@Success		200	{object}	structs.NameSearchResults
 //		@Router			/search [get]
 func SearchName(c *gin.Context) {
-	const maxResults = 50
+	maxResults, err := strconv.Atoi(c.Query("limit"))
+	if err != nil || maxResults < 0 {
+		log.Println("Failed to parse limit, defaulting to 50")
+		maxResults = 50
+	}
 	if len(c.Query("name")) >= 3 {
-		search := structs.NameSearch{NameStr: c.Query("name")}
-		results := structs.NameSearchResults{Names: lifter.NameSearch(search.NameStr, &LeaderboardData.AllTotals)}
+		nameStr := c.Query("name")
+		results := lifter.NewNameSearch(nameStr, &LeaderboardData.AllTotals)
+
+		results.Total = len(results.Names)
+
 		// todo: remove this and implement a proper solution
 		if len(results.Names) > maxResults {
 			results.Names = results.Names[:maxResults]
@@ -102,20 +110,25 @@ func LifterRecord(c *gin.Context) {
 //		@Summary	Retrieve a lifter's history
 //		@Schemes
 //		@Description	Pull a lifter's history by name. The name must be an exact match and can be checked using the search endpoint.
-//		@Tags			POST Requests
+//		@Tags			GET Requests
 //	 @Param name body string true "name"
 //		@Accept			json
 //		@Produce		json
 //		@Success		200	{object}	structs.LifterHistory
 //	 @Failure		204	{object}	nil
-//		@Router			/history [post]
+//		@Router			/history [get]
 func LifterHistory(c *gin.Context) {
-	lifterSearch := structs.NameSearch{}
-	if err := c.BindJSON(&lifterSearch); err != nil {
-		_ = c.AbortWithError(http.StatusBadRequest, err)
-	}
+	name := c.Query("name")
+	federation := c.Query("federation")
+	lifterSearch := structs.NameSearch{NameStr: name, Federation: federation}
 
 	lifterDetails := lifter.FetchLifts(lifterSearch, &LeaderboardData)
+
+	// todo: maybe refactor this to use a query struct, but I think a larger scale refactor is in order
+	if len(federation) > 0 {
+		lifterDetails.Lifts = dbtools.KeepFederationLifts(lifterDetails.Lifts, federation)
+	}
+
 	lifterDetails.Lifts = dbtools.SortDate(lifterDetails.Lifts)
 	lifterDetails.Graph = lifterDetails.GenerateChartData()
 	lifterDetails.Lifts = utilities.ReverseSlice(lifterDetails.Lifts)
