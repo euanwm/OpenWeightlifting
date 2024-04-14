@@ -2,7 +2,8 @@ import fetchLifterHistory from './fetchLifterHistory'
 
 describe('fetchLifterHistory', () => {
   it('should return a list of events', async () => {
-    const result = await fetchLifterHistory('Euan Meston');
+    const params = { name: 'Euan Meston' }
+    const result = await fetchLifterHistory(params);
 
     // check that each attribute is present and not null
     expect(result?.name).toBe('Euan Meston')
