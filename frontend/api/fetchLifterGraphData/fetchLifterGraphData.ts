@@ -6,6 +6,9 @@ export default async function fetchLifterGraphData(
   if (!params['name']) {
     return
   }
+  if (!params['federation'] || params['federation'] === 'allfeds') {
+    delete params['federation']
+  }
 
   const URLParams = new URLSearchParams(params)
 

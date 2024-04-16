@@ -90,6 +90,7 @@ function HomePage() {
       {showLifterGraph && (
         <LifterGraphModal
           lifterName={showLifterGraph}
+          federation={federation}
           onClose={() => setShowLifterGraph('')}
         />
       )}
