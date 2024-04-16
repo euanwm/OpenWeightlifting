@@ -1,21 +1,19 @@
 import { LifterChartData } from './fetchLifterGraphDataTypes'
 
 export default async function fetchLifterGraphData(
-  lifterName: string,
+  params: { [key: string]: string },
 ): Promise<LifterChartData> {
-  if (!lifterName) {
+  if (!params['name']) {
     return
   }
 
-  const bodyContent = JSON.stringify({ "name": lifterName })
+  const URLParams = new URLSearchParams(params)
 
-  const response = await fetch(`${process.env.API}/lifter`, {
-    method: 'POST',
+  const response = await fetch(`${process.env.API}/graph?${URLParams}`, {
     headers: {
       Accept: '*/*',
       'Content-Type': 'application/json',
     },
-    body: bodyContent,
   })
   const jsonResponse = response.json()
 
