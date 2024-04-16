@@ -150,7 +150,7 @@ func LifterHistory(c *gin.Context) {
 //
 //		@Summary	Main table on the index page
 //		@Description	This is the used on the index page of the website and pulls the highest single lift for a lifter within the selected filter.
-//		@Tags			POST Requests
+//		@Tags			GET Requests
 //
 //	 @Param start query int false "Position to begin from within the full query"
 //	 @Param stop query int false "Position to stop at within the full query"
@@ -166,21 +166,61 @@ func LifterHistory(c *gin.Context) {
 //		@Success		200	{object}	structs.LeaderboardResponse
 //		@Router			/leaderboard [post]
 func Leaderboard(c *gin.Context) {
-	body := structs.LeaderboardPayload{}
-	if err := c.BindJSON(&body); err != nil {
-		abortErr := c.AbortWithError(http.StatusBadRequest, err)
-		log.Println(abortErr)
-		return
+	sortby, exists := c.GetQuery("sortby")
+	if !exists {
+		sortby = "total"
+	}
+	federation, exists := c.GetQuery("federation")
+	if !exists {
+		federation = enum.ALLFEDS
+	}
+	weightclass, exists := c.GetQuery("weightclass")
+	if !exists {
+		weightclass = "MALL"
+	}
+	year, exists := c.GetQuery("year")
+	if !exists {
+		year = strconv.Itoa(enum.AllYears)
+	}
+
+	start, exists := c.GetQuery("start")
+	if !exists {
+		start = "0"
+	}
+	startInt, err := strconv.Atoi(start)
+	if err != nil {
+		panic(err)
+	}
+	stop, exists := c.GetQuery("stop")
+	if !exists {
+		stop = "50"
+	}
+	stopInt, err := strconv.Atoi(stop)
+	if err != nil {
+		panic(err)
+	}
+
+	body := structs.LeaderboardPayload{
+		Start:       startInt,
+		Stop:        stopInt,
+		SortBy:      sortby,
+		Federation:  federation,
+		WeightClass: weightclass,
+		Year:        year,
 	}
 
 	// todo: remove this once the frontend filters have been updated to suit
 	switch body.Year {
-	case 69:
+	case strconv.Itoa(enum.AllYears):
 		body.StartDate = enum.ZeroDate
 		body.EndDate = enum.MaxDate
 	default:
-		body.StartDate = strconv.Itoa(body.Year) + "-01-01"
-		body.EndDate = strconv.Itoa(body.Year+1) + "-01-01"
+		body.StartDate = body.Year + "-01-01"
+		oneYear, err := strconv.Atoi(body.Year)
+		if err != nil {
+			panic(err)
+		}
+		body.EndDate = strconv.Itoa(oneYear+1) + "-01-01"
 	}
 
 	leaderboardData := LeaderboardData.Select(body.SortBy) // Selects either total or sinclair sorted leaderboard
