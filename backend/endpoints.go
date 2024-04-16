@@ -77,25 +77,30 @@ func SearchName(c *gin.Context) {
 	}
 }
 
-// LifterRecord godoc
+// LifterGraph godoc
 //
-//		@Summary	Retrieve a lifter's record for use with ChartJS
+//		@Summary	Retrieve a lifter's record for use with ChartJS on the leaderboard page
 //		@Schemes
 //		@Description	This is used within the lifter page to display a lifter's record. It returns a JSON object that can be used with ChartJS without having to do any additional processing.
-//		@Tags			POST Requests
+//		@Tags			GET Requests
 //	 @Param name body string true "name"
 //		@Accept			json
 //		@Produce		json
 //		@Success		200	{object}	structs.ChartData
 //	 @Failure		204	{object}	nil
 //		@Router			/lifter [post]
-func LifterRecord(c *gin.Context) {
-	lifterSearch := structs.NameSearch{}
-	if err := c.BindJSON(&lifterSearch); err != nil {
-		_ = c.AbortWithError(http.StatusBadRequest, err)
-	}
+func LifterGraph(c *gin.Context) {
+	name := c.Query("name")
+	federation := c.Query("federation")
+	lifterSearch := structs.NameSearch{NameStr: name, Federation: federation}
 
 	lifterDetails := lifter.FetchLifts(lifterSearch, &LeaderboardData)
+
+	// todo: maybe refactor this to use a query struct, but I think a larger scale refactor is in order
+	if len(federation) > 0 {
+		lifterDetails.Lifts = dbtools.KeepFederationLifts(lifterDetails.Lifts, federation)
+	}
+
 	lifterDetails.Lifts = dbtools.SortDate(lifterDetails.Lifts)
 	finalPayload := lifterDetails.GenerateChartData()
 	if len(lifterDetails.Lifts) != 0 {
