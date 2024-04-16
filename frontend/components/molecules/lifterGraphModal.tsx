@@ -5,12 +5,18 @@ import { LifterGraph } from './lifterGraph'
 
 function LifterGraphModal({
   lifterName,
+  federation,
   onClose,
 }: {
   lifterName: string
+  federation: string
   onClose: () => void
 }) {
-  const { data, isLoading } = useSWR(lifterName, fetchLifterGraphData)
+  const params: { [key: string]: string } = {
+    name: lifterName,
+    federation: federation,
+  }
+  const { data, isLoading } = useSWR(params, fetchLifterGraphData)
 
   return (
     <Modal
