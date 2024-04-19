@@ -1,0 +1,68 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+**FULL**The Yorkshire Winter Open,2023-11-12,Men's Junior Under 20 89Kg,Elliot King,83.8,125,-130,-130,150,160,-170,125,160,285
+**FULL**The Yorkshire Winter Open,2023-11-12,Men's Senior 102Kg,Jake Allen,100.4,107,112,-115,140,145,-150,112,145,257
+**FULL**The Yorkshire Winter Open,2023-11-12,Men's Junior Under 20 81Kg,Joe Rose,80.6,105,109,-113,145,-149,-150,109,145,254
+**FULL**The Yorkshire Winter Open,2023-11-12,Men's Senior 89Kg,Jack Cox,89,103,107,-111,138,145,-150,107,145,252
+**FULL**The Yorkshire Winter Open,2023-11-12,Men's Under 23 96Kg,Guy Kitchen,92,95,105,111,127,133,140,111,140,251
+**FULL**The Yorkshire Winter Open,2023-11-12,Men's Senior 109+Kg,Jake Ripley,128.7,101,-104,-106,127,133,-138,101,133,234
+**FULL**The Yorkshire Winter Open,2023-11-12,Men's Senior 102Kg,Liam Aubrook,99.25,97,100,103,125,-130,-130,103,125,228
+**FULL**The Yorkshire Winter Open,2023-11-12,Men's Senior 67Kg,Samir Furqan,66.5,92,97,102,115,120,125,102,125,227
+**FULL**The Yorkshire Winter Open,2023-11-12,Men's Senior 73Kg,Harvey Norton,72.6,-100,100,-106,-120,124,-128,100,124,224
+**FULL**The Yorkshire Winter Open,2023-11-12,Men's Senior 89Kg,Robert Colclough,88.5,90,95,-100,115,121,127,95,127,222
+**FULL**The Yorkshire Winter Open,2023-11-12,Men's Senior 81Kg,Niall Turner,80.6,90,95,100,112,117,122,100,122,222
+**FULL**The Yorkshire Winter Open,2023-11-12,Men's Senior 89Kg,James Dawson,88.5,90,96,-102,110,-120,124,96,124,220
+**FULL**The Yorkshire Winter Open,2023-11-12,Men's Under 23 81Kg,Hector Puerta,80.7,97,-102,-102,115,-121,-122,97,115,212
+**FULL**The Yorkshire Winter Open,2023-11-12,Men's Under 23 81Kg,Ben Hollis,79.3,84,88,-92,110,115,-118,88,115,203
+**FULL**The Yorkshire Winter Open,2023-11-12,Men's Junior Under 20 81Kg,Oliver Bandosz,79,81,84,88,110,115,-120,88,115,203
+**FULL**The Yorkshire Winter Open,2023-11-12,Men's Junior Under 20 96Kg,George Brown,94.3,90,-94,-97,-110,110,-115,90,110,200
+**FULL**The Yorkshire Winter Open,2023-11-12,Men's Senior 81Kg,Matthew Hartley,81,88,-94,-94,111,-115,-116,88,111,199
+**FULL**The Yorkshire Winter Open,2023-11-12,Men's Senior 81Kg,John Kennedy,79.2,85,-89,89,-105,105,110,89,110,199
+**FULL**The Yorkshire Winter Open,2023-11-12,Men's Junior Under 20 73Kg,Conall Comley,72.5,80,83,-87,105,-108,110,83,110,193
+**FULL**The Yorkshire Winter Open,2023-11-12,Men's Masters (35-39) 96Kg,CHRIS WEBSTER,92,85,88,92,97,101,-106,92,101,193
+**FULL**The Yorkshire Winter Open,2023-11-12,Women's Senior 59Kg,Laura Wheatcroft,59,83,-86,-87,-105,105,109,83,109,192
+**FULL**The Yorkshire Winter Open,2023-11-12,Men's Senior 81Kg,Oliver Pickles,80,81,84,88,-98,98,102,88,102,190
+**FULL**The Yorkshire Winter Open,2023-11-12,Men's Senior 67Kg,Raymi Goitia-Camacho,67,78,-82,-85,100,106,-114,78,106,184
+**FULL**The Yorkshire Winter Open,2023-11-12,Men's Senior 89Kg,Harley Nixon,88.5,75,79,82,95,98,101,82,101,183
+**FULL**The Yorkshire Winter Open,2023-11-12,Men's Masters (35-39) 73Kg,Sam Webster,67.2,78,-82,-85,97,-102,-102,78,97,175
+**FULL**The Yorkshire Winter Open,2023-11-12,Men's Junior Under 20 81Kg,Daniel Drakeford,78.9,73,-76,-76,95,97,102,73,102,175
+**FULL**The Yorkshire Winter Open,2023-11-12,Men's Masters (40-44) 109Kg,Chris Buck,107.9,68,-72,72,95,-102,102,72,102,174
+**FULL**The Yorkshire Winter Open,2023-11-12,Women's Senior 64Kg,Bronte Jones,64,73,77,80,90,-95,-95,80,90,170
+**FULL**The Yorkshire Winter Open,2023-11-12,Men's Junior Under 20 67Kg,Wesley Flack,66.6,65,69,-73,87,91,95,69,95,164
+**FULL**The Yorkshire Winter Open,2023-11-12,Men's Masters (40-44) 73Kg,Matt Boyle,72.6,69,72,-76,92,-95,-95,72,92,164
+**FULL**The Yorkshire Winter Open,2023-11-12,Women's Youth Under 15 76Kg,Martha Bailey,74.2,68,71,74,78,82,85,74,85,159
+**FULL**The Yorkshire Winter Open,2023-11-12,Women's Junior Under 20 76Kg,Xcena Pasqualin,74,62,65,-68,85,90,-95,65,90,155
+**FULL**The Yorkshire Winter Open,2023-11-12,Women's Youth Under 17 81Kg,Belle Needham,80.2,57,61,64,83,87,90,64,90,154
+**FULL**The Yorkshire Winter Open,2023-11-12,Women's Youth Under 15 64Kg,Annabelle Pettit,64,60,63,66,80,-84,85,66,85,151
+**FULL**The Yorkshire Winter Open,2023-11-12,Women's Senior 76Kg,Harriet Banks-cooper,74,66,69,-71,79,-81,81,69,81,150
+**FULL**The Yorkshire Winter Open,2023-11-12,Women's Senior 71Kg,Catherine Park,70.2,57,-60,60,80,84,88,60,88,148
+**FULL**The Yorkshire Winter Open,2023-11-12,Women's Under 23 71Kg,Paige Mathers,70.8,-60,66,70,70,-75,77,70,77,147
+**FULL**The Yorkshire Winter Open,2023-11-12,Women's Under 23 71Kg,Paige Sellers,69.6,-61,61,64,75,-80,80,64,80,144
+**FULL**The Yorkshire Winter Open,2023-11-12,Women's Senior 64Kg,Penny Lakin,64,55,58,61,75,79,83,61,83,144
+**FULL**The Yorkshire Winter Open,2023-11-12,Men's Masters (35-39) 61Kg,Adam Bose,60.3,60,63,-66,75,80,0,63,80,143
+**FULL**The Yorkshire Winter Open,2023-11-12,Women's Junior Under 20 59Kg,Ella Rose,58.7,57,60,63,-78,-79,79,63,79,142
+**FULL**The Yorkshire Winter Open,2023-11-12,Women's Senior 59Kg,Cerys Johnson,59,56,-58,59,75,78,-81,59,78,137
+**FULL**The Yorkshire Winter Open,2023-11-12,Women's Senior 64Kg,Francesca Paolo,64,57,61,-65,73,-76,-76,61,73,134
+**FULL**The Yorkshire Winter Open,2023-11-12,Women's Senior 87Kg,Madeline Sutherland,87,55,-59,59,70,-74,74,59,74,133
+**FULL**The Yorkshire Winter Open,2023-11-12,Women's Senior 55Kg,Dionn Hargreaves,53,53,56,58,-70,75,-76,58,75,133
+**FULL**The Yorkshire Winter Open,2023-11-12,Women's Senior 76Kg,Emily Pickles,75.7,55,58,-61,70,74,-78,58,74,132
+**FULL**The Yorkshire Winter Open,2023-11-12,Women's Senior 76Kg,Amelia Stevenson,74.3,48,51,55,67,71,74,55,74,129
+**FULL**The Yorkshire Winter Open,2023-11-12,Women's Senior 71Kg,Chelsea Sidaway,70.9,53,56,59,62,65,68,59,68,127
+**FULL**The Yorkshire Winter Open,2023-11-12,Women's Senior 76Kg,Maria Stewart,75.9,55,58,-62,64,67,-70,58,67,125
+**FULL**The Yorkshire Winter Open,2023-11-12,Women's Under 23 59Kg,Hollie Williams,59,48,-51,-51,62,68,-70,48,68,116
+**FULL**The Yorkshire Winter Open,2023-11-12,Women's Senior 64Kg,Chloe Little,62.2,45,49,53,55,59,63,53,63,116
+**FULL**The Yorkshire Winter Open,2023-11-12,Men's Senior 96Kg,John-Michael  Lloyd,95.95,43,45,49,56,59,64,49,64,113
+**FULL**The Yorkshire Winter Open,2023-11-12,Women's Senior 87+Kg,Marie Davis,91.8,46,49,52,55,59,-63,52,59,111
+**FULL**The Yorkshire Winter Open,2023-11-12,Women's Under 23 49Kg,Madeleine McCormack,48.7,44,47,49,60,-63,-63,49,60,109
+**FULL**The Yorkshire Winter Open,2023-11-12,Men's Youth Under 15 81Kg,mackallan whiteley,78.3,43,47,51,53,58,-61,51,58,109
+**FULL**The Yorkshire Winter Open,2023-11-12,Women's Junior Under 20 76Kg,Madison Kitchen,73.8,35,38,42,58,61,65,42,65,107
+**FULL**The Yorkshire Winter Open,2023-11-12,Women's Senior 64Kg,Tereza Smidova,61.8,-42,42,44,-58,58,-63,44,58,102
+**FULL**The Yorkshire Winter Open,2023-11-12,Women's Senior 87+Kg,Lucie Pownall,95.4,40,43,45,50,53,55,45,55,100
+**FULL**The Yorkshire Winter Open,2023-11-12,Women's Senior 64Kg,Cleone Pardoe,62.8,38,-41,41,48,52,55,41,55,96
+**FULL**The Yorkshire Winter Open,2023-11-12,Women's Junior Under 20 55Kg,Eva Lavery,52.1,41,43,-45,51,-54,-54,43,51,94
+**FULL**The Yorkshire Winter Open,2023-11-12,Women's Under 23 76Kg,Klara Powell,73.4,33,36,40,43,-46,48,40,48,88
+**FULL**The Yorkshire Winter Open,2023-11-12,Women's Youth Under 15 55Kg,Maelie Haslam,51.9,35,-38,38,45,48,-51,38,48,86
+**FULL**The Yorkshire Winter Open,2023-11-12,Women's Senior 71Kg,Orla Carlin,67.2,25,29,33,35,40,45,33,45,78
+**FULL**The Yorkshire Winter Open,2023-11-12,Women's Youth Under 15 64Kg,Izzy Linsley,62.4,26,28,30,42,44,46,30,46,76
+**FULL**The Yorkshire Winter Open,2023-11-12,Women's Senior 64Kg,Bethanie Lauren  Wilson ,62,25,30,-33,35,37,39,30,39,69
+**FULL**The Yorkshire Winter Open,2023-11-12,Women's Senior 55Kg,Ashaunna Green,54.8,-48,-49,-49,-60,0,0,0,0,0
+**FULL**The Yorkshire Winter Open,2023-11-12,Men's Senior 81Kg,Michael  Murray ,80.6,-92,-95,-95,104,108,112,0,112,0
