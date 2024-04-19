@@ -1,0 +1,47 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+LOWA Spring Open,2024-04-06,Men's Senior 89Kg,Aaron Bolton,88.75,119,122,125,147,152,155,125,155,280
+LOWA Spring Open,2024-04-06,Men's Senior 81Kg,Cameron Lodge,80.9,112,117,121,143,148,151,121,151,272
+LOWA Spring Open,2024-04-06,Men's Senior 81Kg,Jamal Isaac-Shah,81,115,120,0,140,145,150,120,150,270
+LOWA Spring Open,2024-04-06,Men's Senior 102Kg,Thomas Farley,101.4,120,-123,-123,150,-155,-160,120,150,270
+LOWA Spring Open,2024-04-06,Men's Senior 96Kg,Thomas Leys,92.6,108,113,118,132,138,142,118,142,260
+LOWA Spring Open,2024-04-06,Men's Senior 73Kg,Christopher Freebury,72.75,105,110,115,125,135,-140,115,135,250
+LOWA Spring Open,2024-04-06,Men's Senior 96Kg,Lewis Wong,92.65,100,105,-110,124,128,133,105,133,238
+LOWA Spring Open,2024-04-06,Men's Senior 67Kg,Ryan Lucas,66.8,95,100,105,125,-130,130,105,130,235
+LOWA Spring Open,2024-04-06,Men's Senior 89Kg,Alexander Lewis,88.9,-94,94,98,116,-120,120,98,120,218
+LOWA Spring Open,2024-04-06,Men's Senior 67Kg,Seth Casidsid,62.6,87,91,93,115,-118,120,93,120,213
+LOWA Spring Open,2024-04-06,Men's Senior 73Kg,Samuel Evans,72.35,85,90,-95,120,-125,-125,90,120,210
+LOWA Spring Open,2024-04-06,Men's Senior 89Kg,Alex Yau,88.4,85,90,-93,105,-110,110,90,110,200
+LOWA Spring Open,2024-04-06,Men's Senior 109+Kg,Daniel Peden,110.6,80,-85,85,115,-121,-124,85,115,200
+LOWA Spring Open,2024-04-06,Men's Masters (45-49) 96Kg,Benjamin Debney,93.2,75,80,-85,105,109,-114,80,109,189
+LOWA Spring Open,2024-04-06,Men's Senior 96Kg,Abdul Butt,90.75,77,81,83,100,104,-106,83,104,187
+LOWA Spring Open,2024-04-06,Women's Senior 81Kg,Angela Wyss,79.3,80,83,-86,-100,101,-106,83,101,184
+LOWA Spring Open,2024-04-06,Men's Masters (45-49) 81Kg,Grant Langdon,74,72,76,-80,95,100,105,76,105,181
+LOWA Spring Open,2024-04-06,Women's Senior 71Kg,Anushka Bovill,70.25,78,-82,-82,98,102,-106,78,102,180
+LOWA Spring Open,2024-04-06,Women's Senior 59Kg,Jennifer Tong,57.95,74,77,80,94,-97,97,80,97,177
+LOWA Spring Open,2024-04-06,Men's Masters (50-54) 96Kg,Phil Spencer,91.2,72,76,80,90,95,-100,80,95,175
+LOWA Spring Open,2024-04-06,Men's Masters (50-54) 89Kg,Inigo Kennedy,86.4,67,70,-73,92,96,-101,70,96,166
+LOWA Spring Open,2024-04-06,Men's Masters (40-44) 81Kg,Robin DasGupta,77,63,66,-70,90,96,100,66,100,166
+LOWA Spring Open,2024-04-06,Men's Senior 109+Kg,Craig Coggle,154.4,71,-77,77,81,89,-100,77,89,166
+LOWA Spring Open,2024-04-06,Women's Under 23 76Kg,Lydia Bryant,74.01,64,68,70,85,88,91,70,91,161
+LOWA Spring Open,2024-04-06,Men's Masters (40-44) 81Kg,Joseph Clift,74.65,65,69,-73,85,90,-93,69,90,159
+LOWA Spring Open,2024-04-06,Women's Senior 81Kg,Isotta Di Domenico,79.95,60,-63,65,75,-80,83,65,83,148
+LOWA Spring Open,2024-04-06,Women's Masters (45-49) 76Kg,Samantha Bunker,74.8,63,-66,66,-80,-80,80,66,80,146
+LOWA Spring Open,2024-04-06,Women's Senior 59Kg,Harriet Renkin,56.75,54,56,59,75,78,-80,59,78,137
+LOWA Spring Open,2024-04-06,Women's Masters (35-39) 55Kg,Lucy Barrett,53.4,53,56,58,77,79,-81,58,79,137
+LOWA Spring Open,2024-04-06,Men's Senior 102Kg,Bernardo Oliveira,98.85,55,-60,-60,80,-85,-85,55,80,135
+LOWA Spring Open,2024-04-06,Women's Senior 55Kg,Jodie Bunker,54.6,55,58,60,68,71,-73,60,71,131
+LOWA Spring Open,2024-04-06,Men's Senior 89Kg,Radu Chiorean,88.65,58,60,-63,68,70,-75,60,70,130
+LOWA Spring Open,2024-04-06,Women's Masters (35-39) 64Kg,Jenny O'Boy,63.95,50,53,55,70,73,75,55,75,130
+LOWA Spring Open,2024-04-06,Women's Masters (45-49) 59Kg,Georgina Williams,55.5,-53,53,55,69,71,-73,55,71,126
+LOWA Spring Open,2024-04-06,Women's Masters (40-44) 87+Kg,Rebecca Coggle,148.4,47,50,53,56,61,65,53,65,118
+LOWA Spring Open,2024-04-06,Women's Senior 55Kg,Aisling Lee,54.9,48,-50,50,64,-66,-66,50,64,114
+LOWA Spring Open,2024-04-06,Women's Senior 76Kg,Dominika Wojcik,75.65,45,48,50,57,60,63,50,63,113
+LOWA Spring Open,2024-04-06,Women's Senior 87+Kg,Emma Whiting,121.9,-50,50,-53,60,-63,-65,50,60,110
+LOWA Spring Open,2024-04-06,Women's Masters (50-54) 64Kg,Lisa Wellington,59.1,40,-42,43,60,65,-70,43,65,108
+LOWA Spring Open,2024-04-06,Men's Masters (40-44) 73Kg,James Rumball ,70,35,40,45,45,50,55,45,55,100
+LOWA Spring Open,2024-04-06,Women's Masters (45-49) 87Kg,Claire barclay,85.5,37,40,-41,55,-59,-59,40,55,95
+LOWA Spring Open,2024-04-06,Women's Masters (65-69) 59Kg,Voula Karavias,58.5,35,37,-39,45,48,-50,37,48,85
+LOWA Spring Open,2024-04-06,Women's Senior 76Kg,Ellis Pecen,74.7,37,39,41,39,41,43,41,43,84
+LOWA Spring Open,2024-04-06,Women's Masters (50-54) 81Kg,Yolande Ossen,80.75,32,35,-38,43,45,46,35,46,81
+LOWA Spring Open,2024-04-06,Men's Senior 73Kg,Mario Turturici,72.45,-103,-103,-103,0,0,0,0,0,0
+LOWA Spring Open,2024-04-06,Men's Senior 81Kg,Harry Walker,80.4,-77,-77,-77,100,105,-107,0,105,0
