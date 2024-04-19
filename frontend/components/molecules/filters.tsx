@@ -55,12 +55,12 @@ const yearsList = [
   { value: 2023, label: '2023' },
   { value: 2024, label: '2024' },
 ]
-export const Filters = ({ sortBy, federation, handleFilterChange, weightClass, year }: {sortBy: string, federation: string, handleFilterChange: any, weightClass: string, year: number}) => (
+export const Filters = ({ sortBy, federation, handleFilterChange, weightClass, year }: {sortBy: string, federation: string, handleFilterChange: any, weightClass: string, year: string}) => (
   <div className="flex flex-col md:flex-row space-y-1 md:space-y-0 md:space-x-4 mt-4 mx-4">
     <Select
       items={sortByList}
       label="Total/Sinclair"
-      placeholder={sortByList[0].label}
+      placeholder={sortBy.charAt(0).toUpperCase() + sortBy.slice(1)}
       fullWidth={false}
       onChange={
         (e) => handleFilterChange({ type: 'sortBy', value: e.target.value })
@@ -71,7 +71,7 @@ export const Filters = ({ sortBy, federation, handleFilterChange, weightClass, y
     <Select
       items={federationList}
       label="Federation"
-      placeholder={federationList[0].label}
+      placeholder={federation.charAt(0).toUpperCase() + federation.slice(1)}
       fullWidth={false}
       onChange={
         (e) => handleFilterChange({ type: 'federation', value: e.target.value })
@@ -82,7 +82,7 @@ export const Filters = ({ sortBy, federation, handleFilterChange, weightClass, y
     <Select
       items={weightClassList}
       label="Weight Class"
-      placeholder={weightClassList[0].label}
+      placeholder={weightClassList.find((wc) => wc.value === weightClass)?.label}
       fullWidth={false}
       onChange={
         (e) => handleFilterChange({ type: 'weightclass', value: e.target.value })
@@ -93,7 +93,7 @@ export const Filters = ({ sortBy, federation, handleFilterChange, weightClass, y
     <Select
       items={yearsList}
       label="Year"
-      placeholder={yearsList[0].label}
+      placeholder={year}
       fullWidth={false}
       onChange={
         (e) => handleFilterChange({ type: 'year', value: parseInt(e.target.value) })
