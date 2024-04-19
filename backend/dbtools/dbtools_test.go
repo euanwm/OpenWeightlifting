@@ -64,7 +64,7 @@ func TestFilter(t *testing.T) {
 					SortBy:      enum.Total,
 					Federation:  enum.ALLFEDS,
 					WeightClass: "MALL",
-					Year:        69,
+					Year:        "69",
 					StartDate:   "2023-01-01",
 					EndDate:     "2024-01-01",
 				},

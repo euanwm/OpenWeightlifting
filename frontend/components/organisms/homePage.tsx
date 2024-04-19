@@ -7,33 +7,30 @@ import fetchLifterData from '@/api/fetchLifterData/fetchLifterData'
 import { Filters } from '../molecules/filters'
 import { DataTable } from '../molecules/dataTable'
 import LifterGraphModal from '../molecules/lifterGraphModal'
+import { useRouter } from 'next/router'
 
 const lifterLoadMoreQty = 50
 
 function HomePage() {
-  const [start] = useState(0)
-  const [stop, setStop] = useState(lifterLoadMoreQty)
-  const [sortby, setSortBy] = useState('total')
-  const [federation, setFederation] = useState('allfeds')
-  const [weightclass, setWeightclass] = useState('MALL')
-  const [showLifterGraph, setShowLifterGraph] = useState('')
-  const [year, setYear] = useState(69)
+  const router = useRouter()
+  const params: { [key: string]: string } = {}
+  for (const key in router.query) {
+    params[key] = router.query[key]?.toString() || ''
+  }
 
-  const { data, isLoading } = useSWR(
-    {
-      start,
-      stop,
-      sortby,
-      federation,
-      weightclass,
-      year,
-    },
-    fetchLifterData,
-    { keepPreviousData: true },
-  )
+  const [sortby, setSortBy] = useState(params.sortby || 'total')
+  const [federation, setFederation] = useState(params.federation || 'allfeds')
+  const [weightclass, setWeightclass] = useState(params.weightclass || 'MALL')
+  const [year, setYear] = useState(params.year || '69')
+  const [stop, setStop] = useState(parseInt(params.stop) || lifterLoadMoreQty)
+  const [showLifterGraph, setShowLifterGraph] = useState('')
+
+
+  const { data, isLoading } = useSWR(params, fetchLifterData, { keepPreviousData: true })
 
   function handleFilterChange(newFilter: any) {
     const { type, value } = newFilter
+    router.push({ query: { ...params, [type]: value } })
     switch (type) {
       case 'sortBy':
         setSortBy(value)
@@ -51,6 +48,7 @@ function HomePage() {
 
   function updateLifterList() {
     setStop(previous => previous + lifterLoadMoreQty)
+    router.push({ query: { ...params, stop: stop + lifterLoadMoreQty } })
   }
 
   return (

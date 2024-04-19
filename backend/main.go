@@ -56,7 +56,7 @@ func buildServer() *gin.Engine {
 	docs.SwaggerInfo.BasePath = "/"
 	setupCORS(r)
 	r.GET("time", ServerTime)
-	r.POST("leaderboard", Leaderboard)
+	r.GET("leaderboard", Leaderboard)
 	r.GET("search", SearchName)
 	r.GET("graph", LifterGraph)
 	r.GET("history", LifterHistory)
