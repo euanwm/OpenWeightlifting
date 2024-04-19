@@ -1,0 +1,35 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+FCWC Open,2024-04-14,Men's Senior 102Kg,Declan Marshall,100.4,-110,115,125,150,160,-165,125,160,285
+FCWC Open,2024-04-14,Men's Senior 102Kg,Jake Allen,101.4,117,121,-124,150,155,-160,121,155,276
+FCWC Open,2024-04-14,Men's Senior 102Kg,Lucas Picton,101.8,-101,106,-110,135,-140,140,106,140,246
+FCWC Open,2024-04-14,Men's Senior 73Kg,Antonio Capavanni,72.3,106,-110,110,130,-134,-135,110,130,240
+FCWC Open,2024-04-14,Men's Senior 89Kg,James Stonehewer,88.6,104,-107,107,124,127,130,107,130,237
+FCWC Open,2024-04-14,Men's Senior 96Kg,Greg ASHALL,89.1,103,-106,106,120,126,-133,106,126,232
+FCWC Open,2024-04-14,Men's Senior 102Kg,Lewis Rowe,101.7,95,100,-105,120,130,-135,100,130,230
+FCWC Open,2024-04-14,Men's Senior 73Kg,Harvey Norton,72.9,98,-103,103,-126,126,-132,103,126,229
+FCWC Open,2024-04-14,Men's Senior 89Kg,Louis Caruana,89,95,100,105,115,120,-130,105,120,225
+FCWC Open,2024-04-14,Men's Senior 81Kg,Daniel Harrison,76.1,90,94,-98,110,-114,114,94,114,208
+FCWC Open,2024-04-14,Men's Senior 109Kg,Liam Higgens,102.1,85,91,-95,105,111,-112,91,111,202
+FCWC Open,2024-04-14,Men's Senior 81Kg,Peter Askey,79.2,84,87,90,-103,103,106,90,106,196
+FCWC Open,2024-04-14,Women's Senior 64Kg,Beata Petenyi,62.5,65,70,75,80,84,88,75,88,163
+FCWC Open,2024-04-14,Men's Senior 81Kg,Matthew Owen,80.5,48,68,-75,92,-98,-98,68,92,160
+FCWC Open,2024-04-14,Women's Senior 81Kg,Ellis Thomas,81,70,73,-76,85,-90,-90,73,85,158
+FCWC Open,2024-04-14,Women's Senior 64Kg,Imogen  Burrows ,63.2,63,66,68,82,85,88,68,88,156
+FCWC Open,2024-04-14,Men's Senior 73Kg,Pete Montgomery,73,64,67,-70,84,86,88,67,88,155
+FCWC Open,2024-04-14,Men's Senior 89Kg,Kevin Smith,89,65,68,70,75,-80,85,70,85,155
+FCWC Open,2024-04-14,Men's Junior Under 20 73Kg,Joshua Panter,69.8,65,68,-75,82,-86,86,68,86,154
+FCWC Open,2024-04-14,Women's Senior 64Kg,Siobhan Bancroft,62.8,61,63,66,79,82,84,66,84,150
+FCWC Open,2024-04-14,Women's Senior 64Kg,Karrina Howe,63.4,63,66,-70,73,78,81,66,81,147
+FCWC Open,2024-04-14,Women's Senior 59Kg,Imogen Gough,57.8,60,63,-65,72,-75,76,63,76,139
+FCWC Open,2024-04-14,Women's Senior 64Kg,Alice van Heeswijk,61.3,50,-52,52,65,67,70,52,70,122
+FCWC Open,2024-04-14,Women's Senior 64Kg,Kiana Wilson,62.4,45,-48,48,62,64,-67,48,64,112
+FCWC Open,2024-04-14,Women's Senior 64Kg,Natalie Tunstall-Jackman,62.8,45,-47,47,61,64,-66,47,64,111
+FCWC Open,2024-04-14,Women's Youth Under 17 55Kg,Lucy Montgomery,54,45,-48,-48,62,65,-69,45,65,110
+FCWC Open,2024-04-14,Women's Senior 64Kg,Melissa Doherty,63,42,46,-50,55,59,64,46,64,110
+FCWC Open,2024-04-14,Women's Youth Under 17 71Kg,Ashley Brookes,65.7,45,47,-50,60,62,-65,47,62,109
+FCWC Open,2024-04-14,Women's Senior 81Kg,Nikki Hesford,76.2,40,43,45,58,63,-65,45,63,108
+FCWC Open,2024-04-14,Women's Youth Under 15 55Kg,Isabelle Foskett,49.6,42,-45,-45,57,60,-63,42,60,102
+FCWC Open,2024-04-14,Women's Senior 59Kg,Natalie Harrison,58.1,40,42,44,52,55,57,44,57,101
+FCWC Open,2024-04-14,Women's Senior 71Kg,Amirah Hussain,69.5,30,33,35,45,47,50,35,50,85
+FCWC Open,2024-04-14,Women's Youth Under 12 71Kg,Isobelle Webster,65.1,26,28,-30,37,39,41,28,41,69
+FCWC Open,2024-04-14,Women's Youth Under 12 71Kg,Maisy Waddington,70.6,20,23,25,25,28,30,25,30,55
