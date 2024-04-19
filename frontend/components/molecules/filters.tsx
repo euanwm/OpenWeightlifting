@@ -71,7 +71,7 @@ export const Filters = ({ sortBy, federation, handleFilterChange, weightClass, y
     <Select
       items={federationList}
       label="Federation"
-      placeholder={federation.charAt(0).toUpperCase() + federation.slice(1)}
+      placeholder={federationList.find((fed) => fed.value === federation)?.label}
       fullWidth={false}
       onChange={
         (e) => handleFilterChange({ type: 'federation', value: e.target.value })

@@ -13,7 +13,7 @@ function Home({ fallback }: { fallback: { leaderBoard: LifterResult[] } }) {
 }
 
 export async function getServerSideProps() {
-  const data = await fetchLifterData(null)
+  const data = await fetchLifterData({})
   return {
     props: {
       fallback: {
