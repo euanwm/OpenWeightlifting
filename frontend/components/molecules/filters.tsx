@@ -93,7 +93,7 @@ export const Filters = ({ sortBy, federation, handleFilterChange, weightClass, y
     <Select
       items={yearsList}
       label="Year"
-      placeholder={year}
+      placeholder={year === '69' ? 'All Years' : year}
       fullWidth={false}
       onChange={
         (e) => handleFilterChange({ type: 'year', value: parseInt(e.target.value) })
