@@ -114,7 +114,7 @@ const docTemplate = `{
             }
         },
         "/history": {
-            "post": {
+            "get": {
                 "description": "Pull a lifter's history by name. The name must be an exact match and can be checked using the search endpoint.",
                 "consumes": [
                     "application/json"
@@ -123,7 +123,7 @@ const docTemplate = `{
                     "application/json"
                 ],
                 "tags": [
-                    "POST Requests"
+                    "GET Requests"
                 ],
                 "summary": "Retrieve a lifter's history",
                 "parameters": [
@@ -150,6 +150,46 @@ const docTemplate = `{
                 }
             }
         },
+        "/issue": {
+            "post": {
+                "description": "Report an issue with a lift to the discord server",
+                "consumes": [
+                    "application/json"
+                ],
+                "produces": [
+                    "application/json"
+                ],
+                "tags": [
+                    "POST Requests"
+                ],
+                "summary": "Report an issue with a lift",
+                "parameters": [
+                    {
+                        "description": "Lift to report",
+                        "name": "reportedLift",
+                        "in": "body",
+                        "required": true,
+                        "schema": {
+                            "$ref": "#/definitions/structs.LiftReport"
+                        }
+                    },
+                    {
+                        "description": "Comments",
+                        "name": "comments",
+                        "in": "body",
+                        "required": true,
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "OK"
+                    }
+                }
+            }
+        },
         "/leaderboard": {
             "post": {
                 "description": "This is the used on the index page of the website and pulls the highest single lift for a lifter within the selected filter.",
@@ -160,7 +200,7 @@ const docTemplate = `{
                     "application/json"
                 ],
                 "tags": [
-                    "POST Requests"
+                    "GET Requests"
                 ],
                 "summary": "Main table on the index page",
                 "parameters": [
@@ -233,9 +273,9 @@ const docTemplate = `{
                     "application/json"
                 ],
                 "tags": [
-                    "POST Requests"
+                    "GET Requests"
                 ],
-                "summary": "Retrieve a lifter's record for use with ChartJS",
+                "summary": "Retrieve a lifter's record for use with ChartJS on the leaderboard page",
                 "parameters": [
                     {
                         "description": "name",
@@ -276,10 +316,16 @@ const docTemplate = `{
                 "parameters": [
                     {
                         "type": "string",
-                        "description": "name",
+                        "description": "Name to search for",
                         "name": "name",
                         "in": "query",
                         "required": true
+                    },
+                    {
+                        "type": "integer",
+                        "description": "Limit the number of results",
+                        "name": "limit",
+                        "in": "query"
                     }
                 ],
                 "responses": {
@@ -440,6 +486,17 @@ const docTemplate = `{
                 }
             }
         },
+        "structs.LiftReport": {
+            "type": "object",
+            "properties": {
+                "comments": {
+                    "type": "string"
+                },
+                "lift": {
+                    "$ref": "#/definitions/structs.Entry"
+                }
+            }
+        },
         "structs.LifterHistory": {
             "type": "object",
             "properties": {
@@ -454,6 +511,35 @@ const docTemplate = `{
                 },
                 "name": {
                     "type": "string"
+                },
+                "stats": {
+                    "$ref": "#/definitions/structs.LifterStats"
+                }
+            }
+        },
+        "structs.LifterStats": {
+            "type": "object",
+            "properties": {
+                "best_cj": {
+                    "type": "number"
+                },
+                "best_snatch": {
+                    "type": "number"
+                },
+                "best_total": {
+                    "type": "number"
+                },
+                "make_rate_cj": {
+                    "type": "array",
+                    "items": {
+                        "type": "integer"
+                    }
+                },
+                "make_rate_snatches": {
+                    "type": "array",
+                    "items": {
+                        "type": "integer"
+                    }
                 }
             }
         },
@@ -461,10 +547,22 @@ const docTemplate = `{
             "type": "object",
             "properties": {
                 "names": {
+                    "description": "todo: refactor this so we don't have to worry about case sensitivity on the items within the slice",
                     "type": "array",
                     "items": {
-                        "type": "string"
+                        "type": "object",
+                        "properties": {
+                            "federation": {
+                                "type": "string"
+                            },
+                            "name": {
+                                "type": "string"
+                            }
+                        }
                     }
+                },
+                "total": {
+                    "type": "integer"
                 }
             }
         },

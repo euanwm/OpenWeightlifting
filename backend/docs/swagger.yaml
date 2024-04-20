@@ -82,6 +82,13 @@ definitions:
       size:
         type: integer
     type: object
+  structs.LiftReport:
+    properties:
+      comments:
+        type: string
+      lift:
+        $ref: '#/definitions/structs.Entry'
+    type: object
   structs.LifterHistory:
     properties:
       graph:
@@ -92,13 +99,41 @@ definitions:
         type: array
       name:
         type: string
+      stats:
+        $ref: '#/definitions/structs.LifterStats'
+    type: object
+  structs.LifterStats:
+    properties:
+      best_cj:
+        type: number
+      best_snatch:
+        type: number
+      best_total:
+        type: number
+      make_rate_cj:
+        items:
+          type: integer
+        type: array
+      make_rate_snatches:
+        items:
+          type: integer
+        type: array
     type: object
   structs.NameSearchResults:
     properties:
       names:
+        description: 'todo: refactor this so we don''t have to worry about case sensitivity
+          on the items within the slice'
         items:
-          type: string
+          properties:
+            federation:
+              type: string
+            name:
+              type: string
+          type: object
         type: array
+      total:
+        type: integer
     type: object
   structs.SingleEventMetaData:
     properties:
@@ -184,7 +219,7 @@ paths:
       tags:
       - OPTIONS Requests
   /history:
-    post:
+    get:
       consumes:
       - application/json
       description: Pull a lifter's history by name. The name must be an exact match
@@ -206,6 +241,32 @@ paths:
         "204":
           description: No Content
       summary: Retrieve a lifter's history
+      tags:
+      - GET Requests
+  /issue:
+    post:
+      consumes:
+      - application/json
+      description: Report an issue with a lift to the discord server
+      parameters:
+      - description: Lift to report
+        in: body
+        name: reportedLift
+        required: true
+        schema:
+          $ref: '#/definitions/structs.LiftReport'
+      - description: Comments
+        in: body
+        name: comments
+        required: true
+        schema:
+          type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+      summary: Report an issue with a lift
       tags:
       - POST Requests
   /leaderboard:
@@ -256,7 +317,7 @@ paths:
             $ref: '#/definitions/structs.LeaderboardResponse'
       summary: Main table on the index page
       tags:
-      - POST Requests
+      - GET Requests
   /lifter:
     post:
       consumes:
@@ -280,9 +341,10 @@ paths:
             $ref: '#/definitions/structs.ChartData'
         "204":
           description: No Content
-      summary: Retrieve a lifter's record for use with ChartJS
+      summary: Retrieve a lifter's record for use with ChartJS on the leaderboard
+        page
       tags:
-      - POST Requests
+      - GET Requests
   /search:
     get:
       consumes:
@@ -290,11 +352,15 @@ paths:
       description: Looks up a lifter by name and returns a list of possible matches.
         Requires a minimum of 3 characters.
       parameters:
-      - description: name
+      - description: Name to search for
         in: query
         name: name
         required: true
         type: string
+      - description: Limit the number of results
+        in: query
+        name: limit
+        type: integer
       produces:
       - application/json
       responses:
