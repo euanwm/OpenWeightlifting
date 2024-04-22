@@ -12,9 +12,9 @@ import (
 	"os"
 )
 
-func CORSConfig(localEnv bool) cors.Config {
+func CORSConfig() cors.Config {
 	corsConfig := cors.DefaultConfig()
-	if localEnv {
+	if os.Getenv("GIN_MODE") != "release" {
 		log.Println("Local mode - Disabling CORS nonsense")
 		corsConfig.AllowOrigins = []string{"https://www.openweightlifting.org", "http://localhost:3000", "http://frontend-app:3000", "*"}
 	} else {
@@ -24,15 +24,6 @@ func CORSConfig(localEnv bool) cors.Config {
 	corsConfig.AddAllowHeaders("Access-Control-Allow-Headers", "access-control-allow-origin, access-control-allow-headers", "Content-Type", "X-XSRF-TOKEN", "Accept", "Origin", "X-Requested-With", "Authorization")
 	corsConfig.AddAllowMethods("GET", "POST", "PUT", "DELETE")
 	return corsConfig
-}
-
-func setupCORS(r *gin.Engine) {
-	// It's not a great solution but it'll work
-	if len(os.Args) > 1 && os.Args[1] == "local" {
-		r.Use(cors.New(CORSConfig(true)))
-	} else {
-		r.Use(cors.New(CORSConfig(false)))
-	}
 }
 
 func setupDiscordBot(bot *discordbot.DiscordBot) {
@@ -54,7 +45,7 @@ func buildServer() *gin.Engine {
 	dbtools.BuildDatabase(&LeaderboardData, &EventsData)
 	r := gin.Default()
 	docs.SwaggerInfo.BasePath = "/"
-	setupCORS(r)
+	r.Use(cors.New(CORSConfig()))
 	r.GET("time", ServerTime)
 	r.GET("leaderboard", Leaderboard)
 	r.GET("search", SearchName)
