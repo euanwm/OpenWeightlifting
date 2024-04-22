@@ -7,8 +7,9 @@ It was chosen for its simplicity and speed. The concept was originally written i
 Pretty simple, just run the following commands:
 ```bash
 go build -o backend
-./backend local
+./backend
 ```
+If you want to test in production mode, you'll need to set the GIN_MODE env variable to "release" as per the gin-gonic docs.
 
 ## Endpoint Documentation
 The endpoint documentation is generated using Swaggo. To view the current production documentation, you can visit [this link](https://api.openweightlifting.org/swagger/index.html).
