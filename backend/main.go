@@ -14,7 +14,7 @@ import (
 
 func CORSConfig() cors.Config {
 	corsConfig := cors.DefaultConfig()
-	if os.Getenv("GIN_MODE") != "release" {
+	if os.Getenv("GIN_MODE") != gin.ReleaseMode {
 		log.Println("Local mode - Disabling CORS nonsense")
 		corsConfig.AllowOrigins = []string{"https://www.openweightlifting.org", "http://localhost:3000", "http://frontend-app:3000", "*"}
 	} else {
