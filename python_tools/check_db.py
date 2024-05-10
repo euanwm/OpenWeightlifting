@@ -50,6 +50,23 @@ def check_files(folder_path: str) -> bool:
                         print(
                             f"Total format incorrect for {entry}\nFile: {csv_filepath}")
                         pass_test = False
+                    #check that best snatch is the greatest value of the snatches listed, or a zero if all three attempts failed (i.e. <= 0)
+                    if entry.best_snatch != max(0, max([entry.snatch_1, entry.snatch_2, entry.snatch_3])):
+                        print(
+                            f"Best snatch incorrect for {entry}\nFile: {csv_filepath}\n")
+                        pass_test = False
+                    #check that best clean-jerk is the greatest value of the clean-jerks listed, or a zero if all three attempts failed (i.e. <= 0)
+                    if entry.best_cj != max(0, max([entry.cj_1, entry.cj_2, entry.cj_3])):
+                        print(
+                            f"Best clean-jerk incorrect for {entry}\nFile: {csv_filepath}\n")
+                        pass_test = False
+                    #check that the total is the sum of the best snatch and clean-jerk, or zero if one of the best values is zero
+                    if (
+                        entry.total == 0.0 and entry.best_cj > 0.0 and entry.best_snatch > 0.0) or (
+                        entry.total != 0 and entry.total != entry.best_snatch + entry.best_cj):
+                        print(
+                            f"Total incorrect for {entry}\nFile: {csv_filepath}\n")
+                        pass_test = False
             except ValueError:
                 pass_test = False
                 print(f"Error in file: {csv_filepath}")
