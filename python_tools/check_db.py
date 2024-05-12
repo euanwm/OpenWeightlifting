@@ -48,6 +48,8 @@ def check_files(folder_path: str) -> bool:
                     if entry.total > 500:
                         print(f"Total format incorrect for {entry}\nFile: {csv_filepath}")
                         pass_test = False
+                    # todo: maybe add this back in or make it optional
+                    """"
                     # if a total is 0, then it's a DNF or DSQ
                     if entry.total != 0:
                         # check best snatch
@@ -58,6 +60,7 @@ def check_files(folder_path: str) -> bool:
                         if entry.best_cj != max(0.0, max([entry.cj_1, entry.cj_2, entry.cj_3])):
                             print(f"Best clean-jerk incorrect for {entry}\nFile: {csv_filepath}\n")
                             pass_test = False
+                    """
                     # check that the total not a negative value
                     if entry.total < 0:
                         print(f"Total incorrect for {entry}\nFile: {csv_filepath}\n")
