@@ -1,9 +1,9 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
 IWF World Junior Championships,2018-07-06,female,Stephanie Pickrell,47.80,-56,56,-58,70,72,-74,56,72,128
-IWF World Junior Championships,2018-07-06,female,Kenyah Lawler,62.40,73,76,78,94,97,100,76,97,173
-IWF World Junior Championships,2018-07-06,female,Sabah Chamoun,61.90,75,75,75,97,102,102,75,97,172
-IWF World Junior Championships,2018-07-06,male,Christopher Lai,76.30,105,109,109,138,144,150,109,144,253
-IWF World Junior Championships,2018-07-06,male,Jake Standen,82.95,107,112,-116,149,154,155,112,154,266
-IWF World Junior Championships,2018-07-06,male,Zac Millhouse,83.85,-117,117,121,148,153,156,117,153,270
-IWF World Junior Championships,2018-07-06,male,Ben Ward,92.40,125,130,135,155,160,165,135,155,290
-IWF World Junior Championships,2018-07-06,male,Kyle Bruce,85.25,107,107,115,146,146,146,107,0,0
+IWF World Junior Championships,2018-07-06,female,Kenyah Lawler,62.40,73,76,-78,94,97,-100,76,97,173
+IWF World Junior Championships,2018-07-06,female,Sabah Chamoun,61.90,-75,-75,75,97,-102,-102,75,97,172
+IWF World Junior Championships,2018-07-06,male,Christopher Lai,76.30,105,-109,109,138,144,-150,109,144,253
+IWF World Junior Championships,2018-07-06,male,Jake Standen,82.95,107,112,-116,149,154,-155,112,154,266
+IWF World Junior Championships,2018-07-06,male,Zac Millhouse,83.85,-117,117,-121,148,153,-156,117,153,270
+IWF World Junior Championships,2018-07-06,male,Ben Ward,92.40,125,130,135,155,-160,165,135,155,290
+IWF World Junior Championships,2018-07-06,male,Kyle Bruce,85.25,-107,107,-115,-146,-146,-146,107,0,0

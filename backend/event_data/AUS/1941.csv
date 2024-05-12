@@ -1,106 +1,106 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Arafura Games,2019-04-27,female,Yue-Shan Shi,44.88,50,53,55,65,67,70,53,67,120
-Arafura Games,2019-04-27,female,Kateleen Diaz,44.86,45,50,53,65,70,70,50,65,115
-Arafura Games,2019-04-27,female,Dika Toua,49.00,63,68,68,82,84,0,63,82,145
-Arafura Games,2019-04-27,female,Alyce Stephenson,48.78,60,60,60,80,84,86,60,84,144
-Arafura Games,2019-04-27,female,Stephanie Pickrell,48.42,56,59,59,68,72,72,59,68,127
-Arafura Games,2019-04-27,female,Mary Lifu,54.40,65,68,72,85,90,92,72,90,162
-Arafura Games,2019-04-27,female,Mary Barter,54.94,60,64,67,82,88,96,67,88,155
-Arafura Games,2019-04-27,female,Michaela Warwick,54.00,70,72,74,80,83,83,74,80,154
-Arafura Games,2019-04-27,female,Le Minh Thu Huynh,54.26,59,64,64,74,77,78,59,78,137
-Arafura Games,2019-04-27,female,Holly Shawcross,54.74,66,66,66,0,0,0,0,0,0
-Arafura Games,2019-04-27,female,Erika Yamasaki,58.76,76,76,79,100,103,103,79,103,182
-Arafura Games,2019-04-27,female,Jacinta Carroll,58.44,78,81,81,96,99,99,81,96,177
+Arafura Games,2019-04-27,female,Yue-Shan Shi,44.88,50,53,-55,65,67,-70,53,67,120
+Arafura Games,2019-04-27,female,Kateleen Diaz,44.86,45,50,-53,65,-70,-70,50,65,115
+Arafura Games,2019-04-27,female,Dika Toua,49.00,63,-68,-68,82,-84,0,63,82,145
+Arafura Games,2019-04-27,female,Alyce Stephenson,48.78,-60,-60,60,80,84,-86,60,84,144
+Arafura Games,2019-04-27,female,Stephanie Pickrell,48.42,56,-59,59,68,-72,-72,59,68,127
+Arafura Games,2019-04-27,female,Mary Lifu,54.40,65,68,72,85,90,-92,72,90,162
+Arafura Games,2019-04-27,female,Mary Barter,54.94,60,64,67,82,88,-96,67,88,155
+Arafura Games,2019-04-27,female,Michaela Warwick,54.00,70,72,74,80,-83,-83,74,80,154
+Arafura Games,2019-04-27,female,Le Minh Thu Huynh,54.26,59,-64,-64,74,-77,78,59,78,137
+Arafura Games,2019-04-27,female,Holly Shawcross,54.74,-66,-66,-66,0,0,0,0,0,0
+Arafura Games,2019-04-27,female,Erika Yamasaki,58.76,-76,76,79,100,-103,103,79,103,182
+Arafura Games,2019-04-27,female,Jacinta Carroll,58.44,78,-81,81,96,-99,-99,81,96,177
 Arafura Games,2019-04-27,female,Seen Lee,58.80,65,70,0,85,90,95,70,95,165
-Arafura Games,2019-04-27,female,Bernada Uepa,58.84,60,67,69,88,92,97,69,92,161
-Arafura Games,2019-04-27,female,Lady Seeto,58.28,68,68,76,90,94,98,68,90,158
-Arafura Games,2019-04-27,female,Melissa Ho Xin Yi,58.54,60,64,66,72,77,77,60,77,137
-Arafura Games,2019-04-27,female,Irina Lepsa,63.60,91,95,97,115,120,120,97,120,217
-Arafura Games,2019-04-27,female,Kiana Elliott,63.85,90,94,96,110,111,116,96,110,206
-Arafura Games,2019-04-27,female,Sarah Cochrane,63.30,86,91,95,107,111,111,91,107,198
-Arafura Games,2019-04-27,female,Megan Signal,63.25,85,88,88,110,113,113,88,110,198
-Arafura Games,2019-04-27,female,Nancy Genzel Abouke,63.65,78,81,85,100,100,106,85,100,185
-Arafura Games,2019-04-27,female,Sabah Chamoun,63.75,76,80,82,100,105,105,80,100,180
-Arafura Games,2019-04-27,female,Elizabeth Duguid,62.95,68,71,72,90,93,93,68,90,158
-Arafura Games,2019-04-27,female,Laura Prior,63.75,60,64,67,86,90,90,67,86,153
-Arafura Games,2019-04-27,female,Jessica Heta,63.10,60,60,63,75,80,83,60,83,143
-Arafura Games,2019-04-27,female,Verity Park,62.90,63,63,67,85,85,85,63,0,0
-Arafura Games,2019-04-27,female,Emily Godley,70.10,88,91,94,116,120,120,91,116,207
-Arafura Games,2019-04-27,female,Ebony Gorincu,70.35,85,89,89,106,111,111,89,111,200
-Arafura Games,2019-04-27,female,Tessa Milton,68.30,75,79,82,95,95,102,82,102,184
-Arafura Games,2019-04-27,female,Tiiau Bakaekiri,70.20,73,77,80,95,100,105,80,100,180
-Arafura Games,2019-04-27,female,Jaquilla Mau,70.45,64,67,70,85,90,90,70,85,155
-Arafura Games,2019-04-27,female,Leanne Thomas,70.40,63,63,63,85,85,88,63,88,151
-Arafura Games,2019-04-27,female,Kanah Shenelle Andrews-Nahu,75.25,90,90,96,110,111,115,90,111,201
-Arafura Games,2019-04-27,female,Bailey Rogers,75.40,85,88,91,103,108,112,91,108,199
-Arafura Games,2019-04-27,female,Teagan Newman,72.45,72,72,75,85,88,91,75,88,163
-Arafura Games,2019-04-27,female,Jayla Jojay Agir,75.55,60,64,67,80,80,86,67,86,153
+Arafura Games,2019-04-27,female,Bernada Uepa,58.84,60,67,69,88,92,-97,69,92,161
+Arafura Games,2019-04-27,female,Lady Seeto,58.28,-68,68,-76,90,-94,-98,68,90,158
+Arafura Games,2019-04-27,female,Melissa Ho Xin Yi,58.54,60,-64,-66,72,-77,77,60,77,137
+Arafura Games,2019-04-27,female,Irina Lepsa,63.60,91,95,97,115,-120,120,97,120,217
+Arafura Games,2019-04-27,female,Kiana Elliott,63.85,90,94,96,110,-111,-116,96,110,206
+Arafura Games,2019-04-27,female,Sarah Cochrane,63.30,86,91,-95,107,-111,-111,91,107,198
+Arafura Games,2019-04-27,female,Megan Signal,63.25,85,-88,88,110,-113,-113,88,110,198
+Arafura Games,2019-04-27,female,Nancy Genzel Abouke,63.65,78,81,85,-100,100,-106,85,100,185
+Arafura Games,2019-04-27,female,Sabah Chamoun,63.75,76,80,-82,100,-105,-105,80,100,180
+Arafura Games,2019-04-27,female,Elizabeth Duguid,62.95,68,-71,-72,90,-93,-93,68,90,158
+Arafura Games,2019-04-27,female,Laura Prior,63.75,60,64,67,86,-90,-90,67,86,153
+Arafura Games,2019-04-27,female,Jessica Heta,63.10,-60,60,-63,75,80,83,60,83,143
+Arafura Games,2019-04-27,female,Verity Park,62.90,-63,63,-67,-85,-85,-85,63,0,0
+Arafura Games,2019-04-27,female,Emily Godley,70.10,88,91,-94,116,-120,-120,91,116,207
+Arafura Games,2019-04-27,female,Ebony Gorincu,70.35,85,-89,89,106,-111,111,89,111,200
+Arafura Games,2019-04-27,female,Tessa Milton,68.30,75,79,82,-95,95,102,82,102,184
+Arafura Games,2019-04-27,female,Tiiau Bakaekiri,70.20,73,77,80,95,100,-105,80,100,180
+Arafura Games,2019-04-27,female,Jaquilla Mau,70.45,64,67,70,85,-90,-90,70,85,155
+Arafura Games,2019-04-27,female,Leanne Thomas,70.40,-63,-63,63,-85,85,88,63,88,151
+Arafura Games,2019-04-27,female,Kanah Shenelle Andrews-Nahu,75.25,-90,90,-96,-110,111,-115,90,111,201
+Arafura Games,2019-04-27,female,Bailey Rogers,75.40,85,88,91,103,108,-112,91,108,199
+Arafura Games,2019-04-27,female,Teagan Newman,72.45,-72,72,75,85,88,-91,75,88,163
+Arafura Games,2019-04-27,female,Jayla Jojay Agir,75.55,60,64,67,-80,80,86,67,86,153
 Arafura Games,2019-04-27,female,Stephanie Davies,71.10,-86,-88,-88,0,0,0,0,0,0
-Arafura Games,2019-04-27,female,Hsiao-Man Hu,80.00,83,83,88,108,116,120,83,116,199
-Arafura Games,2019-04-27,female,Sofia Kranjec,80.40,83,86,88,105,110,110,88,110,198
-Arafura Games,2019-04-27,female,Cassie Todd,79.70,70,72,75,100,100,100,75,100,175
-Arafura Games,2019-04-27,female,Kaitlyn Fassina,86.60,97,101,104,115,121,124,101,121,222
-Arafura Games,2019-04-27,female,Ssu-Han Yu,84.65,85,88,90,105,105,112,88,105,193
-Arafura Games,2019-04-27,female,Dimitra Tsiliaskopoulos,85.60,70,74,76,95,100,102,76,95,171
-Arafura Games,2019-04-27,female,Chloe Kerwick,86.00,69,72,75,90,93,96,72,96,168
-Arafura Games,2019-04-27,female,Feagaiga Stowers,112.35,110,110,115,140,144,144,115,140,255
-Arafura Games,2019-04-27,female,Iuniarra Sipaia,127.30,102,102,107,140,144,146,107,146,253
-Arafura Games,2019-04-27,female,Roviel Detenamo,87.60,70,75,77,85,93,97,75,93,168
-Arafura Games,2019-04-27,female,Laurel Hubbard,138.25,110,110,110,0,0,0,0,0,0
-Arafura Games,2019-04-27,male,Morea Baru,61.00,115,120,125,157,163,163,120,163,283
-Arafura Games,2019-04-27,male,Muhammad Faathir,60.10,105,111,116,140,148,148,111,140,251
-Arafura Games,2019-04-27,male,Goh Zuo Fu,60.40,85,87,92,100,107,111,92,111,203
-Arafura Games,2019-04-27,male,Ruben Katoatau,66.85,120,125,127,160,165,165,125,160,285
-Arafura Games,2019-04-27,male,Vaip Nevo Ioane,66.65,121,125,126,161,166,166,121,161,282
-Arafura Games,2019-04-27,male,Brocka Scotty,66.90,97,102,105,120,130,135,102,130,232
-Arafura Games,2019-04-27,male,Isaac Searant,66.75,101,105,109,120,125,131,105,125,230
-Arafura Games,2019-04-27,male,Jason Ager,66.60,100,104,108,112,0,0,104,112,216
-Arafura Games,2019-04-27,male,Keith Koh Jia Jie,66.15,90,92,100,110,117,122,92,117,209
-Arafura Games,2019-04-27,male,Ezekiel Moses,66.70,115,115,115,0,0,0,0,0,0
-Arafura Games,2019-04-27,male,Oleg Chen,71.95,145,150,150,160,170,0,145,160,305
-Arafura Games,2019-04-27,male,Daniel-Florin Vizitiu,70.65,127,132,136,150,158,163,136,163,299
-Arafura Games,2019-04-27,male,Brandon Wakeling,72.46,117,122,127,155,160,165,122,165,287
-Arafura Games,2019-04-27,male,Taretiita Tabaroua,72.85,120,125,130,160,165,167,125,160,285
-Arafura Games,2019-04-27,male,Ika Aliklik,71.45,115,120,123,149,153,153,123,149,272
-Arafura Games,2019-04-27,male,Larko Doguape,70.55,115,120,124,145,150,153,120,150,270
-Arafura Games,2019-04-27,male,James Delaney,71.05,105,110,113,142,148,148,110,142,252
-Arafura Games,2019-04-27,male,Yannick Mifsud,72.45,114,118,118,135,135,135,114,135,249
-Arafura Games,2019-04-27,male,Joshua Wu,71.90,112,112,112,0,0,0,0,0,0
-Arafura Games,2019-04-27,male,Cameron McTaggart,80.90,131,136,141,160,165,169,136,165,301
-Arafura Games,2019-04-27,male,Chevy Sukkar,80.55,124,125,130,150,155,158,125,155,280
-Arafura Games,2019-04-27,male,Jackson Howie,78.65,114,119,120,138,144,150,120,144,264
-Arafura Games,2019-04-27,male,Frank Elliott,80.55,120,125,125,140,140,150,120,140,260
-Arafura Games,2019-04-27,male,Uea Detudamo,74.50,105,110,115,136,140,144,115,144,259
-Arafura Games,2019-04-27,male,James Norman,80.40,112,117,117,138,143,148,112,143,255
-Arafura Games,2019-04-27,male,Lim Kang Yin,80.05,105,110,115,130,135,140,110,140,250
-Arafura Games,2019-04-27,male,Sam Jansson,80.90,105,105,110,140,146,146,105,140,245
-Arafura Games,2019-04-27,male,Leo Lark,78.55,126,129,130,156,158,162,126,0,0
-Arafura Games,2019-04-27,male,Kabuati Silas Bob,80.30,120,125,128,155,155,157,125,0,0
-Arafura Games,2019-04-27,male,Don Opeloge,88.80,147,152,156,186,191,196,156,191,347
-Arafura Games,2019-04-27,male,Joel Gregson,87.80,125,129,130,163,163,172,125,172,297
-Arafura Games,2019-04-27,male,Beau Garrett,88.85,125,129,132,160,167,174,129,167,296
-Arafura Games,2019-04-27,male,Sean Fitzgerald,85.40,123,127,130,156,161,164,127,164,291
-Arafura Games,2019-04-27,male,Michael Lane,86.50,125,130,130,155,155,160,130,160,290
-Arafura Games,2019-04-27,male,Liam Saxby,86.45,121,125,125,141,146,152,121,146,267
-Arafura Games,2019-04-27,male,Marcincy Cook,87.05,105,110,110,125,130,136,105,136,241
-Arafura Games,2019-04-27,male,Nicodemus Scheelings,85.65,127,127,132,153,153,153,127,0,0
-Arafura Games,2019-04-27,male,Matthew Pit,88.70,123,123,123,0,0,0,0,0,0
+Arafura Games,2019-04-27,female,Hsiao-Man Hu,80.00,-83,83,-88,108,116,-120,83,116,199
+Arafura Games,2019-04-27,female,Sofia Kranjec,80.40,83,86,88,105,-110,110,88,110,198
+Arafura Games,2019-04-27,female,Cassie Todd,79.70,70,72,75,-100,-100,100,75,100,175
+Arafura Games,2019-04-27,female,Kaitlyn Fassina,86.60,97,101,-104,115,121,-124,101,121,222
+Arafura Games,2019-04-27,female,Ssu-Han Yu,84.65,85,88,-90,-105,105,-112,88,105,193
+Arafura Games,2019-04-27,female,Dimitra Tsiliaskopoulos,85.60,70,74,76,95,-100,-102,76,95,171
+Arafura Games,2019-04-27,female,Chloe Kerwick,86.00,69,72,-75,90,93,96,72,96,168
+Arafura Games,2019-04-27,female,Feagaiga Stowers,112.35,-110,110,115,140,-144,-144,115,140,255
+Arafura Games,2019-04-27,female,Iuniarra Sipaia,127.30,-102,102,107,140,144,146,107,146,253
+Arafura Games,2019-04-27,female,Roviel Detenamo,87.60,70,75,-77,85,93,-97,75,93,168
+Arafura Games,2019-04-27,female,Laurel Hubbard,138.25,-110,-110,-110,0,0,0,0,0,0
+Arafura Games,2019-04-27,male,Morea Baru,61.00,115,120,-125,157,-163,163,120,163,283
+Arafura Games,2019-04-27,male,Muhammad Faathir,60.10,105,111,-116,140,-148,-148,111,140,251
+Arafura Games,2019-04-27,male,Goh Zuo Fu,60.40,-85,87,92,100,107,111,92,111,203
+Arafura Games,2019-04-27,male,Ruben Katoatau,66.85,120,125,-127,160,-165,-165,125,160,285
+Arafura Games,2019-04-27,male,Vaip Nevo Ioane,66.65,121,-125,-126,161,-166,-166,121,161,282
+Arafura Games,2019-04-27,male,Brocka Scotty,66.90,97,102,-105,120,130,-135,102,130,232
+Arafura Games,2019-04-27,male,Isaac Searant,66.75,101,105,-109,120,125,-131,105,125,230
+Arafura Games,2019-04-27,male,Jason Ager,66.60,100,104,-108,112,0,0,104,112,216
+Arafura Games,2019-04-27,male,Keith Koh Jia Jie,66.15,-90,92,-100,110,117,-122,92,117,209
+Arafura Games,2019-04-27,male,Ezekiel Moses,66.70,-115,-115,-115,0,0,0,0,0,0
+Arafura Games,2019-04-27,male,Oleg Chen,71.95,145,-150,-150,160,-170,0,145,160,305
+Arafura Games,2019-04-27,male,Daniel-Florin Vizitiu,70.65,127,-132,136,150,158,163,136,163,299
+Arafura Games,2019-04-27,male,Brandon Wakeling,72.46,117,122,-127,155,160,165,122,165,287
+Arafura Games,2019-04-27,male,Taretiita Tabaroua,72.85,120,125,-130,160,-165,-167,125,160,285
+Arafura Games,2019-04-27,male,Ika Aliklik,71.45,115,120,123,149,-153,-153,123,149,272
+Arafura Games,2019-04-27,male,Larko Doguape,70.55,115,120,-124,145,150,-153,120,150,270
+Arafura Games,2019-04-27,male,James Delaney,71.05,105,110,-113,142,-148,-148,110,142,252
+Arafura Games,2019-04-27,male,Yannick Mifsud,72.45,114,-118,-118,-135,-135,135,114,135,249
+Arafura Games,2019-04-27,male,Joshua Wu,71.90,-112,-112,-112,0,0,0,0,0,0
+Arafura Games,2019-04-27,male,Cameron McTaggart,80.90,131,136,-141,160,165,-169,136,165,301
+Arafura Games,2019-04-27,male,Chevy Sukkar,80.55,-124,125,-130,150,155,-158,125,155,280
+Arafura Games,2019-04-27,male,Jackson Howie,78.65,114,-119,120,138,144,-150,120,144,264
+Arafura Games,2019-04-27,male,Frank Elliott,80.55,120,-125,-125,-140,140,-150,120,140,260
+Arafura Games,2019-04-27,male,Uea Detudamo,74.50,105,110,115,136,-140,144,115,144,259
+Arafura Games,2019-04-27,male,James Norman,80.40,112,-117,-117,138,143,-148,112,143,255
+Arafura Games,2019-04-27,male,Lim Kang Yin,80.05,105,110,-115,-130,135,140,110,140,250
+Arafura Games,2019-04-27,male,Sam Jansson,80.90,-105,105,-110,140,-146,-146,105,140,245
+Arafura Games,2019-04-27,male,Leo Lark,78.55,126,-129,-130,-156,-158,-162,126,0,0
+Arafura Games,2019-04-27,male,Kabuati Silas Bob,80.30,120,125,-128,-155,-155,-157,125,0,0
+Arafura Games,2019-04-27,male,Don Opeloge,88.80,147,152,156,186,191,-196,156,191,347
+Arafura Games,2019-04-27,male,Joel Gregson,87.80,125,-129,-130,-163,163,172,125,172,297
+Arafura Games,2019-04-27,male,Beau Garrett,88.85,125,129,-132,160,167,-174,129,167,296
+Arafura Games,2019-04-27,male,Sean Fitzgerald,85.40,123,127,-130,156,161,164,127,164,291
+Arafura Games,2019-04-27,male,Michael Lane,86.50,125,-130,130,-155,155,160,130,160,290
+Arafura Games,2019-04-27,male,Liam Saxby,86.45,121,-125,-125,141,146,-152,121,146,267
+Arafura Games,2019-04-27,male,Marcincy Cook,87.05,105,-110,-110,125,130,136,105,136,241
+Arafura Games,2019-04-27,male,Nicodemus Scheelings,85.65,-127,127,-132,-153,-153,-153,127,0,0
+Arafura Games,2019-04-27,male,Matthew Pit,88.70,-123,-123,-123,0,0,0,0,0,0
 Arafura Games,2019-04-27,male,Steven Kari,95.45,140,145,150,180,186,200,150,200,350
-Arafura Games,2019-04-27,male,Maeu Nanai Livi,92.45,140,145,151,180,180,185,151,180,331
-Arafura Games,2019-04-27,male,Ridge Barredo,94.40,138,142,142,180,180,186,142,180,322
-Arafura Games,2019-04-27,male,Luke Fulham,95.60,122,126,126,153,153,159,122,153,275
-Arafura Games,2019-04-27,male,Braydan Fender,93.65,111,111,116,141,141,146,116,146,262
+Arafura Games,2019-04-27,male,Maeu Nanai Livi,92.45,140,145,151,-180,180,-185,151,180,331
+Arafura Games,2019-04-27,male,Ridge Barredo,94.40,138,-142,142,-180,180,-186,142,180,322
+Arafura Games,2019-04-27,male,Luke Fulham,95.60,122,-126,-126,-153,153,-159,122,153,275
+Arafura Games,2019-04-27,male,Braydan Fender,93.65,-111,111,116,-141,141,146,116,146,262
 Arafura Games,2019-04-27,male,Freedom Scotty,95.40,105,112,115,140,145,147,115,147,262
-Arafura Games,2019-04-27,male,Joshua Su Weiming,92.55,117,120,120,0,0,0,0,0,0
-Arafura Games,2019-04-27,male,Jacob Marquardt,94.55,125,132,135,155,155,156,125,0,0
-Arafura Games,2019-04-27,male,Petunu Opeloge,101.10,145,149,152,191,191,195,149,195,344
-Arafura Games,2019-04-27,male,David Katoatau,100.90,130,140,144,180,190,200,140,190,330
-Arafura Games,2019-04-27,male,Wei-Ting Ho,99.15,130,135,140,171,173,180,135,173,308
-Arafura Games,2019-04-27,male,Ming-Chang Tung,100.50,130,135,140,166,172,172,135,172,307
-Arafura Games,2019-04-27,male,Cody Wilks,100.15,145,145,150,155,161,161,145,155,300
-Arafura Games,2019-04-27,male,Sanele Mao,107.25,150,160,170,200,210,215,160,200,360
-Arafura Games,2019-04-27,male,Tanumafili Malietoa Jungblut,108.90,138,143,148,180,188,191,143,191,334
-Arafura Games,2019-04-27,male,Matthew Lydement,107.30,150,155,158,175,180,180,158,175,333
-Arafura Games,2019-04-27,male,Sio (Joe) Pomelile,108.95,140,144,145,185,185,194,140,185,325
-Arafura Games,2019-04-27,male,Jackson Roberts-Young,107.30,142,146,150,185,193,193,142,0,0
-Arafura Games,2019-04-27,male,Jackson Solofa,139.65,130,136,142,167,175,182,142,182,324
+Arafura Games,2019-04-27,male,Joshua Su Weiming,92.55,-117,-120,-120,0,0,0,0,0,0
+Arafura Games,2019-04-27,male,Jacob Marquardt,94.55,125,-132,-135,-155,-155,-156,125,0,0
+Arafura Games,2019-04-27,male,Petunu Opeloge,101.10,145,149,-152,-191,191,195,149,195,344
+Arafura Games,2019-04-27,male,David Katoatau,100.90,130,140,-144,180,190,-200,140,190,330
+Arafura Games,2019-04-27,male,Wei-Ting Ho,99.15,130,135,-140,171,173,-180,135,173,308
+Arafura Games,2019-04-27,male,Ming-Chang Tung,100.50,130,135,-140,166,-172,172,135,172,307
+Arafura Games,2019-04-27,male,Cody Wilks,100.15,-145,145,-150,155,-161,-161,145,155,300
+Arafura Games,2019-04-27,male,Sanele Mao,107.25,150,160,-170,200,-210,-215,160,200,360
+Arafura Games,2019-04-27,male,Tanumafili Malietoa Jungblut,108.90,138,143,-148,180,188,191,143,191,334
+Arafura Games,2019-04-27,male,Matthew Lydement,107.30,150,155,158,175,-180,-180,158,175,333
+Arafura Games,2019-04-27,male,Sio (Joe) Pomelile,108.95,140,-144,-145,-185,185,-194,140,185,325
+Arafura Games,2019-04-27,male,Jackson Roberts-Young,107.30,142,-146,-150,-185,-193,-193,142,0,0
+Arafura Games,2019-04-27,male,Jackson Solofa,139.65,130,136,142,167,-175,182,142,182,324

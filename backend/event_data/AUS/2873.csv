@@ -1,6 +1,6 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
 OWF Cup Invitational,2022-03-26,female,Tori Gallegos,58.40,73,76,79,95,100,-105,79,100,179
-OWF Cup Invitational,2022-03-26,female,Myonly Stephen,55.30,67,70,73,85,89,-91,73,89,162
+OWF Cup Invitational,2022-03-26,female,My-Only Stephen,55.30,67,70,73,85,89,-91,73,89,162
 OWF Cup Invitational,2022-03-26,female,Mary Lifu,58.32,60,-65,-65,-80,-80,80,60,80,140
 OWF Cup Invitational,2022-03-26,female,Femily Notte,63.50,-70,73,76,85,90,95,76,95,171
 OWF Cup Invitational,2022-03-26,female,Natacha Bibole,63.50,-43,-43,43,55,60,68,43,68,111
@@ -21,7 +21,8 @@ OWF Cup Invitational,2022-03-26,female,Helen Anastasia Seipua,110.25,78,82,-86,9
 OWF Cup Invitational,2022-03-26,male,Philip Masi,53.66,77,80,83,90,96,-101,83,96,179
 OWF Cup Invitational,2022-03-26,male,Eroni Talemaigau,59.60,83,86,90,110,115,-118,90,115,205
 OWF Cup Invitational,2022-03-26,male,Ditto Ika,66.80,105,110,-112,-140,140,-145,110,140,250
-OWF Cup Invitational,2022-03-26,male,Manula Raobu,70.05,110,115,120,135,141,146,120,146,266
+OWF Cup Invitational,2022-03-26,male,"Manuila
+ Raobu",70.05,110,115,120,135,141,146,120,146,266
 OWF Cup Invitational,2022-03-26,male,Ryley Porter,80.58,130,-138,-138,-157,-158,162,130,162,292
 OWF Cup Invitational,2022-03-26,male,Leo Lark,79.40,115,120,123,150,158,-165,123,158,281
 OWF Cup Invitational,2022-03-26,male,Ezekiel Moses,73.30,125,-130,-130,153,-160,-160,125,153,278
