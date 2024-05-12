@@ -87,7 +87,12 @@ def strip_table_body(table):
                     cells.append(strip_it)
                 else:
                     if len((data := tbl_dat.text.strip())) > 0:
-                        cells.append(data)
+                        lift_attr = tbl_dat.attrs.get("style")
+                        if lift_attr is not None and "line-through" in lift_attr:
+                            data = f"-{data}"
+                            cells.append(data)
+                        else:
+                            cells.append(data)
         rows.append(cells)
     return rows
 
@@ -192,6 +197,12 @@ class AustraliaWeightlifting:
                     write_to_csv(root_dir, id_int, self.get_event(id_int))
             except AttributeError:
                 print(f"no result under event: {id_int}..")
+
+    def add_single(self, event_id: int):
+        """Adds a single event to the database"""
+        root_dir = "../backend/event_data/AUS"
+        event_data = self.get_event(event_id)
+        write_to_csv(root_dir, event_id, event_data)
 
 
 class InternationalWF:
