@@ -33,6 +33,9 @@ class CLICommands:
             case "aus":
                 aus_db = AustraliaWeightlifting()
                 aus_db.update_db()
+                # leaving these here for debugging
+                # aus_db.rebuild_db()
+                # aus_db.add_single(15)
             case "france":
                 france = FranceInterface()
                 france.update_results()

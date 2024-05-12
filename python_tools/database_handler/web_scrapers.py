@@ -198,6 +198,15 @@ class AustraliaWeightlifting:
             except AttributeError:
                 print(f"no result under event: {id_int}..")
 
+    def rebuild_db(self):
+        """ Rebuilds the database by re-fetching all the events currently in the database"""
+        root_dir = "../backend/event_data/AUS"
+        dir_contents = os.listdir(root_dir)
+        for csv_file in dir_contents:
+            event_id = int(csv_file.split(".")[0])
+            event_data = self.get_event(event_id)
+            write_to_csv(root_dir, event_id, event_data)
+
     def add_single(self, event_id: int):
         """Adds a single event to the database"""
         root_dir = "../backend/event_data/AUS"
