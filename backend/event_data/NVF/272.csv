@@ -1,10 +1,10 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-Trondheim AK Seriestevne,2023-05-31,Women's Senior 76Kg,Ane Hofstad,76.0,45,49,-51,53,57,-61,49,57,106
-Trondheim AK Seriestevne,2023-05-31,Women's Senior 59Kg,Aurora Høyem Grove,59.0,35,38,41,45,48,52,41,52,93
-Trondheim AK Seriestevne,2023-05-31,Men's Youth Under 15 55Kg,Hauk Gulbrandsen,55.0,18,21,25,25,28,30,25,30,55
-Trondheim AK Seriestevne,2023-05-31,Men's Masters (75-79) 109kg,Jan Olav Nystrøm,109.0,50,52,-54,72,74,0,52,74,126
-Trondheim AK Seriestevne,2023-05-31,Men's Masters (35-39) 109+Kg,Magnus A. Mikalsen,109.0,60,65,70,75,80,85,70,85,155
-Trondheim AK Seriestevne,2023-05-31,Men's Youth Under 17 67Kg,Markus Ansnes,67.0,20,25,-27,30,32,34,25,34,59
-Trondheim AK Seriestevne,2023-05-31,Men's Youth Under 15 49Kg,Marlon Gulbrandsen,49.0,13,15,17,17,20,22,17,22,39
-Trondheim AK Seriestevne,2023-05-31,Men's Senior 81Kg,Mats Hofstad,81.0,-120,120,0,0,0,0,120,0,120
-Trondheim AK Seriestevne,2023-05-31,Men's Senior 89Kg,Torbjørn Øverås,89.0,90,95,100,115,120,125,100,125,225
+Trondheim AK Seriestevne,2023-05-31,Men's Senior 81Kg,Mats Hofstad,81,-120,120,0,0,0,0,120,0.0,0.0
+Trondheim AK Seriestevne,2023-05-31,Men's Masters (35-39) 109+Kg,Magnus A. Mikalsen,109,60,65,70,75,80,85,70,85,155
+Trondheim AK Seriestevne,2023-05-31,Men's Senior 89Kg,Torbjørn Øverås,89,90,95,100,115,120,125,100,125,225
+Trondheim AK Seriestevne,2023-05-31,Men's Masters (75-79) 109kg,Jan Olav Nystrøm,109,50,52,-54,72,74,0,52,74,126
+Trondheim AK Seriestevne,2023-05-31,Men's Youth Under 15 55Kg,Hauk Gulbrandsen,55,18,21,25,25,28,30,25,30,55
+Trondheim AK Seriestevne,2023-05-31,Men's Youth Under 15 49Kg,Marlon Gulbrandsen,49,13,15,17,17,20,22,17,22,39
+Trondheim AK Seriestevne,2023-05-31,Men's Youth Under 17 67Kg,Markus Ansnes,67,20,25,-27,30,32,34,25,34,59
+Trondheim AK Seriestevne,2023-05-31,Women's Senior 59Kg,Aurora Høyem Grove,59,35,38,41,45,48,52,41,52,93
+Trondheim AK Seriestevne,2023-05-31,Women's Senior 76Kg,Ane Hofstad,76,45,49,-51,53,57,-61,49,57,106

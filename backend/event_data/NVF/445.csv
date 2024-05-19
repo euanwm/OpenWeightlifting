@@ -1,10 +1,10 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-Stavanger VK Regionsmesterskap,2023-10-14,Men's Youth Under 17 67Kg,Jonathan Ree,67.0,42,46,50,45,-46,0,50,45,95
-Stavanger VK Regionsmesterskap,2023-10-14,Men's Youth Under 17 73Kg,Kristian Ege,73.0,65,-68,68,75,-78,78,68,78,146
-Stavanger VK Regionsmesterskap,2023-10-14,Men's Youth Under 17 81Kg,Nawat Mangmee,81.0,65,-70,-70,80,84,86,65,86,151
-Stavanger VK Regionsmesterskap,2023-10-14,Men's Youth Under 17 102+Kg,Ove Berge Christiansen,999.0,55,61,-63,70,76,-78,61,76,137
-Stavanger VK Regionsmesterskap,2023-10-14,Men's Youth Under 17 73Kg,Sean Elliot Rafols Paudel,73.0,70,76,-80,89,-93,-93,76,89,165
-Stavanger VK Regionsmesterskap,2023-10-14,Men's Youth Under 17 89Kg,Sondre K. Friestad,89.0,63,-66,-66,80,83,-85,63,83,146
-Stavanger VK Regionsmesterskap,2023-10-14,Men's Youth Under 17 67Kg,Thor Engelsvoll,67.0,21,23,25,28,30,33,25,33,58
-Stavanger VK Regionsmesterskap,2023-10-14,Men's Youth Under 15 55Kg,Tord Risdal,55.0,23,-25,25,30,32,34,25,34,59
-Stavanger VK Regionsmesterskap,2023-10-14,Men's Youth Under 17 73Kg,William Kyvik,73.0,59,-64,-65,77,80,84,59,84,143
+Stavanger AK Regionsmesterskap,2023-10-14,Men's Youth Under 17 67Kg,Jonathan Ree,67,42,46,50,45,-46,0,50,45,95
+Stavanger AK Regionsmesterskap,2023-10-14,Men's Youth Under 17 73Kg,Kristian Ege,73,65,-68,68,75,-78,78,68,78,146
+Stavanger AK Regionsmesterskap,2023-10-14,Men's Youth Under 17 81Kg,Nawat Mangmee,81,65,-70,-70,80,84,86,65,86,151
+Stavanger AK Regionsmesterskap,2023-10-14,Men's Youth Under 17 102+Kg,Ove Berge Christiansen,998,55,61,-63,70,76,-78,61,76,137
+Stavanger AK Regionsmesterskap,2023-10-14,Men's Youth Under 17 73Kg,Sean Elliot Rafols Paudel,73,70,76,-80,89,-93,-93,76,89,165
+Stavanger AK Regionsmesterskap,2023-10-14,Men's Youth Under 17 89Kg,Sondre K. Friestad,89,63,-66,-66,80,83,-85,63,83,146
+Stavanger AK Regionsmesterskap,2023-10-14,Men's Youth Under 17 67Kg,Thor Engelsvoll,67,21,23,25,28,30,33,25,33,58
+Stavanger AK Regionsmesterskap,2023-10-14,Men's Youth Under 15 55Kg,Tord Risdal,55,23,-25,25,30,32,34,25,34,59
+Stavanger AK Regionsmesterskap,2023-10-14,Men's Youth Under 17 73Kg,William Kyvik,73,59,-64,-65,77,80,84,59,84,143

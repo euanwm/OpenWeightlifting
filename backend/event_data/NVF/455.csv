@@ -1,10 +1,10 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-Hitra VK Nasjonalt stevne,2023-11-22,Men's Youth Under 15 55Kg,Emil Røvik,55.0,24,-27,27,26,28,32,27,32,59
-Hitra VK Nasjonalt stevne,2023-11-22,Men's Youth Under 17 67Kg,Henrik Eskerod,67.0,22,25,27,25,28,31,27,31,58
-Hitra VK Nasjonalt stevne,2023-11-22,Men's Senior 81Kg,Marius Haranes,81.0,93,-97,97,110,-115,-115,97,110,207
-Hitra VK Nasjonalt stevne,2023-11-22,Men's Youth Under 17 67Kg,Martin Christoffer Nordgård,67.0,24,27,30,-26,28,32,30,32,62
-Hitra VK Nasjonalt stevne,2023-11-22,Men's Senior 109Kg,Mikal Akseth,109.0,105,110,115,140,145,150,115,150,265
-Hitra VK Nasjonalt stevne,2023-11-22,Men's Senior 81Kg,Runar Klungervik,81.0,93,97,100,110,115,120,100,120,220
-Hitra VK Nasjonalt stevne,2023-11-22,Women's Youth Under 15 45Kg,Solveig Olsen,45.0,16,18,20,22,24,26,20,26,46
-Hitra VK Nasjonalt stevne,2023-11-22,Men's Youth Under 15 49Kg,Steffen Svebak Mastad,49.0,15,17,-18,20,22,23,17,23,40
-Hitra VK Nasjonalt stevne,2023-11-22,Men's Youth Under 15 61Kg,Theo Svankild Darell,61.0,22,-23,23,26,28,-32,23,28,51
+Hitra VK Nasjonalt stevne,2023-11-22,Men's Senior 109Kg,Mikal Akseth,109,105,110,115,140,145,150,115,150,265
+Hitra VK Nasjonalt stevne,2023-11-22,Men's Senior 81Kg,Marius Haranes,81,93,-97,97,110,-115,-115,97,110,207
+Hitra VK Nasjonalt stevne,2023-11-22,Men's Senior 81Kg,Runar Klungervik,81,93,97,100,110,115,120,100,120,220
+Hitra VK Nasjonalt stevne,2023-11-22,Women's Youth Under 15 45Kg,Solveig Olsen,45,16,18,20,22,24,26,20,26,46
+Hitra VK Nasjonalt stevne,2023-11-22,Men's Youth Under 15 55Kg,Emil Røvik,55,24,-27,27,26,28,32,27,32,59
+Hitra VK Nasjonalt stevne,2023-11-22,Men's Youth Under 17 67Kg,Martin Christoffer Nordgård,67,24,27,30,-26,28,32,30,32,62
+Hitra VK Nasjonalt stevne,2023-11-22,Men's Youth Under 15 49Kg,Steffen Svebak Mastad,49,15,17,-18,20,22,23,17,23,40
+Hitra VK Nasjonalt stevne,2023-11-22,Men's Youth Under 17 67Kg,Henrik Eskerod,67,22,25,27,25,28,31,27,31,58
+Hitra VK Nasjonalt stevne,2023-11-22,Men's Youth Under 15 61Kg,Theo Svankild Darell,61,22,-23,23,26,28,-32,23,28,51

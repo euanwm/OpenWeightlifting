@@ -1,9 +1,9 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-Namsos VK Seriestevne,2023-03-23,Men's Masters (50-54) 89Kg,Bjørn Tore Wiik,89.0,82,-87,87,100,-105,-105,87,100,187
-Namsos VK Seriestevne,2023-03-23,Men's Masters (75-79) 109kg,Leif Hepsø,109.0,50,55,58,70,75,78,58,78,136
-Namsos VK Seriestevne,2023-03-23,Men's Senior 102Kg,Marius Evensen Wågan,102.0,80,85,-90,115,120,125,85,125,210
-Namsos VK Seriestevne,2023-03-23,Men's Senior 102Kg,Matias Lie Bergum,102.0,85,90,-92,40,0,0,90,40,130
-Namsos VK Seriestevne,2023-03-23,Men's Senior 102Kg,Patrik Hals,102.0,-60,60,65,70,75,80,65,80,145
-Namsos VK Seriestevne,2023-03-23,Men's Masters (50-54) 89Kg,Robert Finnanger,89.0,60,-62,-62,75,80,-85,60,80,140
-Namsos VK Seriestevne,2023-03-23,Men's Senior 81Kg,Vebjørn Lie Bergum,81.0,40,45,-50,55,60,-62,45,60,105
-Namsos VK Seriestevne,2023-03-23,Men's Masters (75-79) 81kg,William Wågan,81.0,30,35,-37,40,45,-47,35,45,80
+Namsos VK Seriestevne,2023-03-23,Men's Masters (50-54) 89Kg,Robert Finnanger,89,60,-62,-62,75,80,-85,60,80,140
+Namsos VK Seriestevne,2023-03-23,Men's Masters (50-54) 89Kg,Bjørn Tore Wiik,89,82,-87,87,100,-105,-105,87,100,187
+Namsos VK Seriestevne,2023-03-23,Men's Masters (75-79) 109kg,Leif Hepsø,109,50,55,58,70,75,78,58,78,136
+Namsos VK Seriestevne,2023-03-23,Men's Masters (75-79) 81kg,William Wågan,81,30,35,-37,40,45,-47,35,45,80
+Namsos VK Seriestevne,2023-03-23,Men's Senior 81Kg,Vebjørn Lie Bergum,81,40,45,-50,55,60,-62,45,60,105
+Namsos VK Seriestevne,2023-03-23,Men's Senior 102Kg,Marius Evensen Wågan,102,80,85,-90,115,120,125,85,125,210
+Namsos VK Seriestevne,2023-03-23,Men's Senior 102Kg,Matias Lie Bergum,102,85,90,-92,40,0,0,90,40,130
+Namsos VK Seriestevne,2023-03-23,Men's Senior 102Kg,Patrik Hals,102,-60,60,65,70,75,80,65,80,145

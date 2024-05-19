@@ -1,6 +1,6 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-Spydeberg Atletene Seriestevne,2023-08-06,Men's Masters (55-59) 102kg,Alexander Bahmanyar,102.0,-88,88,91,120,125,0,91,125,216
-Spydeberg Atletene Seriestevne,2023-08-06,Men's Senior 89Kg,Erlend Kraggerud,89.0,60,65,0,75,82,0,65,82,147
-Spydeberg Atletene Seriestevne,2023-08-06,Men's Masters (70-74) 96kg,Johan Thonerud,96.0,62,0,0,78,0,0,62,78,140
-Spydeberg Atletene Seriestevne,2023-08-06,Women's Youth Under 15 81+Kg,Maria Lie,999.0,54,-57,57,65,-69,69,57,69,126
-Spydeberg Atletene Seriestevne,2023-08-06,Men's Senior 109Kg,Tom-Erik Lysenstøen,109.0,-80,-80,-80,0,0,0,-80,0,-80
+Spydeberg Atletene Seriestevne,2023-08-06,Men's Masters (55-59) 102kg,Alexander Bahmanyar,102,-88,88,91,120,125,0,91,125,216
+Spydeberg Atletene Seriestevne,2023-08-06,Men's Masters (70-74) 96kg,Johan Thonerud,96,62,0,0,78,0,0,62,78,140
+Spydeberg Atletene Seriestevne,2023-08-06,Women's Youth Under 15 81+Kg,Maria Lie,996,54,-57,57,65,-69,69,57,69,126
+Spydeberg Atletene Seriestevne,2023-08-06,Men's Senior 89Kg,Erlend Kraggerud,89,60,65,0,75,82,0,65,82,147
+Spydeberg Atletene Seriestevne,2023-08-06,Men's Senior 109Kg,Tom-Erik Lysenstøen,109,-80,-80,-80,0,0,0,0.0,0.0,0.0

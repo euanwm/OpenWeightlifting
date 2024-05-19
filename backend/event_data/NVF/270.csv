@@ -1,7 +1,7 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-Larvik AK Seriestevne,2023-05-25,Men's Youth Under 15 55Kg,Jacob T. Sverdrup,55.0,29,31,-33,37,40,42,31,42,73
-Larvik AK Seriestevne,2023-05-25,Women's Youth Under 15 59Kg,Julie Rahbeck Eriksen,59.0,32,35,-37,0,0,0,35,0,35
-Larvik AK Seriestevne,2023-05-25,Men's Youth Under 15 49Kg,Mikkel Lynum Refsdal,49.0,20,21,22,23,25,26,22,26,48
-Larvik AK Seriestevne,2023-05-25,Women's Youth Under 17 55Kg,Thea Emilie Hansen Gjørtz,55.0,32,35,-37,0,0,0,35,0,35
-Larvik AK Seriestevne,2023-05-25,Men's Junior Under 20 89Kg,Ulrik Lie-Haugen,89.0,80,86,92,105,110,115,92,115,207
-Larvik AK Seriestevne,2023-05-25,Men's Youth Under 17 96Kg,William A. Christiansen,96.0,95,100,-103,120,125,-130,100,125,225
+Larvik AK Seriestevne,2023-05-25,Men's Youth Under 17 96Kg,William A. Christiansen,96,95,100,-103,120,125,-130,100,125,225
+Larvik AK Seriestevne,2023-05-25,Men's Youth Under 15 55Kg,Jacob T. Sverdrup,55,29,31,-33,37,40,42,31,42,73
+Larvik AK Seriestevne,2023-05-25,Men's Youth Under 15 49Kg,Mikkel Lynum Refsdal,49,20,21,22,23,25,26,22,26,48
+Larvik AK Seriestevne,2023-05-25,Women's Youth Under 17 55Kg,Thea Emilie Hansen Gjørtz,55,32,35,-37,0,0,0,35,0.0,0.0
+Larvik AK Seriestevne,2023-05-25,Women's Youth Under 15 59Kg,Julie Rahbeck Eriksen,59,32,35,-37,0,0,0,35,0.0,0.0
+Larvik AK Seriestevne,2023-05-25,Men's Junior Under 20 89Kg,Ulrik Lie-Haugen,89,80,86,92,105,110,115,92,115,207

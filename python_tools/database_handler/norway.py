@@ -23,6 +23,7 @@ CatCodes = {
 
 class Norway:
     """ API Tool for the Norwegian Weightlifting Federation """
+
     def __init__(self):
         self.base_url: str = "https://nvf-backend.herokuapp.com/api/public/stevner/"
         self.results_root: str = "../backend/event_data/NVF"
@@ -144,5 +145,15 @@ class Norway:
                          for x in os.listdir(self.results_root)]
         for event in event_list:
             if event["id"] not in result_db_ids:
+                event_results = self.fetch_event(event)
+                write_to_csv(self.results_root, event["id"], event_results)
+
+    def rebuild_db(self):
+        """ Fetches and overrides the existing events within the database """
+        logging.info("rebuilding database")
+        result_db_ids = self.get_event_list()
+        current_db_ids = [int(x.split(".")[0]) for x in os.listdir(self.results_root)]
+        for event in result_db_ids:
+            if event['id'] in current_db_ids:
                 event_results = self.fetch_event(event)
                 write_to_csv(self.results_root, event["id"], event_results)

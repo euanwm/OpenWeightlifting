@@ -1,11 +1,11 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-Larvik AK Seriestevne,2023-08-10,Men's Senior 102Kg,Erlend Raastad,102.0,-120,-120,-123,0,0,0,-120,0,-120
-Larvik AK Seriestevne,2023-08-10,Women's Senior 64Kg,Henriette Prøsch Hage,64.0,-60,60,63,70,73,75,63,75,138
-Larvik AK Seriestevne,2023-08-10,Men's Youth Under 15 55Kg,Jacob T. Sverdrup,55.0,30,33,36,40,43,-46,36,43,79
-Larvik AK Seriestevne,2023-08-10,Women's Junior Under 20 81Kg,Linn Christina Larssen,81.0,-66,-66,66,82,85,0,66,85,151
-Larvik AK Seriestevne,2023-08-10,Men's Senior 102Kg,Ole Christiansen,102.0,110,-115,-116,140,-145,0,110,140,250
-Larvik AK Seriestevne,2023-08-10,Men's Masters (80+) 102kg,Ole Kolbjørn Bjerkholt,102.0,45,48,50,58,62,65,50,65,115
-Larvik AK Seriestevne,2023-08-10,Women's Senior 59Kg,Rebekka Tao Jacobsen,59.0,75,78,80,98,101,104,80,104,184
-Larvik AK Seriestevne,2023-08-10,Men's Masters (70-74) 102kg,Terje Grimstad,102.0,-60,65,-70,80,-85,-90,65,80,145
-Larvik AK Seriestevne,2023-08-10,Women's Youth Under 15 59Kg,Thea Emilie Hansen Gjørtz,59.0,30,33,35,40,42,0,35,42,77
-Larvik AK Seriestevne,2023-08-10,Men's Junior Under 20 89Kg,Ulrik Lie-Haugen,89.0,85,88,0,110,115,-120,88,115,203
+Larvik AK Seriestevne,2023-08-10,Women's Senior 59Kg,Rebekka Tao Jacobsen,59,75,78,80,98,101,104,80,104,184
+Larvik AK Seriestevne,2023-08-10,Men's Youth Under 15 55Kg,Jacob T. Sverdrup,55,30,33,36,40,43,-46,36,43,79
+Larvik AK Seriestevne,2023-08-10,Women's Junior Under 20 81Kg,Linn Christina Larssen,81,-66,-66,66,82,85,0,66,85,151
+Larvik AK Seriestevne,2023-08-10,Men's Senior 102Kg,Erlend Raastad,102,-120,-120,-123,0,0,0,0.0,0.0,0.0
+Larvik AK Seriestevne,2023-08-10,Men's Senior 102Kg,Ole Christiansen,102,110,-115,-116,140,-145,0,110,140,250
+Larvik AK Seriestevne,2023-08-10,Men's Masters (70-74) 102kg,Terje Grimstad,102,-60,65,-70,80,-85,-90,65,80,145
+Larvik AK Seriestevne,2023-08-10,Men's Masters (80+) 102kg,Ole Kolbjørn Bjerkholt,102,45,48,50,58,62,65,50,65,115
+Larvik AK Seriestevne,2023-08-10,Women's Youth Under 15 59Kg,Thea Emilie Hansen Gjørtz,59,30,33,35,40,42,0,35,42,77
+Larvik AK Seriestevne,2023-08-10,Men's Junior Under 20 89Kg,Ulrik Lie-Haugen,89,85,88,0,110,115,-120,88,115,203
+Larvik AK Seriestevne,2023-08-10,Women's Senior 64Kg,Henriette Prøsch Hage,64,-60,60,63,70,73,75,63,75,138
