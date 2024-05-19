@@ -117,17 +117,20 @@ class Norway:
     @staticmethod
     def __best_snatch(result: Result) -> float:
         """ Returns the best snatch """
-        return max(result.snatch_1, result.snatch_2, result.snatch_3)
+        return max(0.0, result.snatch_1, result.snatch_2, result.snatch_3)
 
     @staticmethod
     def __best_cj(result: Result) -> float:
         """ Returns the best cj """
-        return max(result.cj_1, result.cj_2, result.cj_3)
+        return max(0.0, result.cj_1, result.cj_2, result.cj_3)
 
     @staticmethod
     def __calc_total(result: Result) -> float:
         """ Returns the total """
-        return result.best_snatch + result.best_cj
+        if result.best_snatch == 0 or result.best_cj == 0:
+            return 0.0
+        else:
+            return result.best_snatch + result.best_cj
 
     @staticmethod
     def __todays_date():
