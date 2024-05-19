@@ -1,11 +1,11 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-AK Bjørgvin Seriestevne,2023-02-01,Women's Senior 64Kg,Alexandra Pulcina,64.0,55,-58,-58,73,76,-79,55,76,131
-AK Bjørgvin Seriestevne,2023-02-01,Women's Senior 87+Kg,Camilla Bruås-Heum,999.0,-58,58,62,-72,72,-76,62,72,134
-AK Bjørgvin Seriestevne,2023-02-01,Women's Youth Under 15 59Kg,Eline Mundal Melle,59.0,45,48,50,54,58,60,50,60,110
-AK Bjørgvin Seriestevne,2023-02-01,Women's Senior 71Kg,Emilie Hjønnevåg Markhus,71.0,50,-55,55,60,65,72,55,72,127
-AK Bjørgvin Seriestevne,2023-02-01,Women's Senior 71Kg,Hilde Meinert Odland,71.0,55,-58,-58,-75,-75,-75,55,0,55
-AK Bjørgvin Seriestevne,2023-02-01,Women's Masters (40-44) 87Kg,Ingeborg Endresen,87.0,62,-66,-66,75,-79,-82,62,75,137
-AK Bjørgvin Seriestevne,2023-02-01,Men's Youth Under 17 81Kg,Nikolai K. Aadland,81.0,85,-89,89,100,105,-108,89,105,194
-AK Bjørgvin Seriestevne,2023-02-01,Men's Senior 81Kg,Simen Vik,81.0,80,-85,85,102,-106,106,85,106,191
-AK Bjørgvin Seriestevne,2023-02-01,Women's Senior 64Kg,Sofie Solli Løseth,64.0,59,63,-66,70,75,-81,63,75,138
-AK Bjørgvin Seriestevne,2023-02-01,Men's Senior 102Kg,Sindre K. Nesheim,102.0,95,100,103,127,132,-137,103,132,235
+AK Bjørgvin Seriestevne,2023-02-01,Women's Masters (40-44) 87Kg,Ingeborg Endresen,87,62,-66,-66,75,-79,-82,62,75,137
+AK Bjørgvin Seriestevne,2023-02-01,Women's Senior 87+Kg,Camilla Bruås-Heum,997,-58,58,62,-72,72,-76,62,72,134
+AK Bjørgvin Seriestevne,2023-02-01,Women's Senior 71Kg,Hilde Meinert Odland,71,55,-58,-58,-75,-75,-75,55,0.0,0.0
+AK Bjørgvin Seriestevne,2023-02-01,Men's Youth Under 17 81Kg,Nikolai K. Aadland,81,85,-89,89,100,105,-108,89,105,194
+AK Bjørgvin Seriestevne,2023-02-01,Women's Youth Under 15 59Kg,Eline Mundal Melle,59,45,48,50,54,58,60,50,60,110
+AK Bjørgvin Seriestevne,2023-02-01,Women's Senior 64Kg,Sofie Solli Løseth,64,59,63,-66,70,75,-81,63,75,138
+AK Bjørgvin Seriestevne,2023-02-01,Women's Senior 64Kg,Alexandra Pulcina,64,55,-58,-58,73,76,-79,55,76,131
+AK Bjørgvin Seriestevne,2023-02-01,Women's Senior 71Kg,Emilie Hjønnevåg Markhus,71,50,-55,55,60,65,72,55,72,127
+AK Bjørgvin Seriestevne,2023-02-01,Men's Senior 81Kg,Simen Vik,81,80,-85,85,102,-106,106,85,106,191
+AK Bjørgvin Seriestevne,2023-02-01,Men's Senior 102Kg,Sindre K. Nesheim,102,95,100,103,127,132,-137,103,132,235

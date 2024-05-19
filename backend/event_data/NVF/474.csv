@@ -1,11 +1,11 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-Nidelv IL Seriestevne,2023-12-06,Men's Youth Under 15 49Kg,Casper Moe-Akselsen,49.0,10,-11,12,13,14,15,12,15,27
-Nidelv IL Seriestevne,2023-12-06,Men's Youth Under 15 61Kg,Christian Wedø,61.0,32,35,-37,40,43,-44,35,43,78
-Nidelv IL Seriestevne,2023-12-06,Men's Senior 81Kg,Elijah Nhat Hoang,81.0,75,80,85,85,90,92,85,92,177
-Nidelv IL Seriestevne,2023-12-06,Women's Senior 64Kg,Hanna Økland,64.0,50,52,-54,61,63,65,52,65,117
-Nidelv IL Seriestevne,2023-12-06,Men's Youth Under 17 81Kg,Henrik F. Kjeldsberg,81.0,58,62,-64,68,72,75,62,75,137
-Nidelv IL Seriestevne,2023-12-06,Men's Youth Under 15 55Kg,Kevin Moe-Akselsen,55.0,10,11,12,13,14,15,12,15,27
-Nidelv IL Seriestevne,2023-12-06,Men's Youth Under 15 49Kg,Markus Emil Brennvik,49.0,14,16,18,20,22,24,18,24,42
-Nidelv IL Seriestevne,2023-12-06,Men's Senior 89Kg,Ragnar Dreier,89.0,98,102,-105,125,133,0,102,133,235
-Nidelv IL Seriestevne,2023-12-06,Men's Youth Under 17 73Kg,Sondre Elias Fredriksen,73.0,56,58,-60,70,-73,-73,58,70,128
-Nidelv IL Seriestevne,2023-12-06,Men's Masters (60-64) 81Kg,Trond Kvilhaug,81.0,45,0,0,55,0,0,45,55,100
+Nidelv IL Seriestevne,2023-12-06,Men's Youth Under 17 73Kg,Sondre Elias Fredriksen,73,56,58,-60,70,-73,-73,58,70,128
+Nidelv IL Seriestevne,2023-12-06,Men's Youth Under 17 81Kg,Henrik F. Kjeldsberg,81,58,62,-64,68,72,75,62,75,137
+Nidelv IL Seriestevne,2023-12-06,Women's Senior 64Kg,Hanna Økland,64,50,52,-54,61,63,65,52,65,117
+Nidelv IL Seriestevne,2023-12-06,Men's Youth Under 15 61Kg,Christian Wedø,61,32,35,-37,40,43,-44,35,43,78
+Nidelv IL Seriestevne,2023-12-06,Men's Senior 89Kg,Ragnar Dreier,89,98,102,-105,125,133,0,102,133,235
+Nidelv IL Seriestevne,2023-12-06,Men's Senior 81Kg,Elijah Nhat Hoang,81,75,80,85,85,90,92,85,92,177
+Nidelv IL Seriestevne,2023-12-06,Men's Masters (60-64) 81Kg,Trond Kvilhaug,81,45,0,0,55,0,0,45,55,100
+Nidelv IL Seriestevne,2023-12-06,Men's Youth Under 15 55Kg,Kevin Moe-Akselsen,55,10,11,12,13,14,15,12,15,27
+Nidelv IL Seriestevne,2023-12-06,Men's Youth Under 15 49Kg,Casper Moe-Akselsen,49,10,-11,12,13,14,15,12,15,27
+Nidelv IL Seriestevne,2023-12-06,Men's Youth Under 15 49Kg,Markus Emil Brennvik,49,14,16,18,20,22,24,18,24,42

@@ -1,8 +1,8 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-Haugesund VK Seriestevne,2023-03-22,Men's Junior Under 20 102Kg,Alexander Eide,102.0,-100,-105,-105,120,-126,0,0,120,120
-Haugesund VK Seriestevne,2023-03-22,Men's Senior 96Kg,Daniel Markus Mueller,96.0,85,92,-101,-105,110,-117,92,110,202
-Haugesund VK Seriestevne,2023-03-22,Women's Junior Under 20 81Kg,Hanna Kongsvik Vihovde,81.0,70,-73,-75,78,83,-87,70,83,153
-Haugesund VK Seriestevne,2023-03-22,Men's Senior 81Kg,Heine Martin Hauge Junge,81.0,75,80,-85,95,-100,-100,80,95,175
-Haugesund VK Seriestevne,2023-03-22,Men's Junior Under 20 96Kg,Reinert Travieso Olsen,96.0,83,-87,-90,110,-115,-117,83,110,193
-Haugesund VK Seriestevne,2023-03-22,Men's Youth Under 15 49Kg,Thomas Kongsvik Vihovde,49.0,10,-13,-13,12,14,16,10,16,26
-Haugesund VK Seriestevne,2023-03-22,Men's Junior Under 20 73Kg,William Furdal-Ervik,73.0,45,50,57,70,75,-80,57,75,132
+Haugesund VK Seriestevne,2023-03-22,Women's Junior Under 20 81Kg,Hanna Kongsvik Vihovde,81,70,-73,-75,78,83,-87,70,83,153
+Haugesund VK Seriestevne,2023-03-22,Men's Junior Under 20 102Kg,Alexander Eide,102,-100,-105,-105,120,-126,0,0.0,120,0.0
+Haugesund VK Seriestevne,2023-03-22,Men's Youth Under 15 49Kg,Thomas Kongsvik Vihovde,49,10,-13,-13,12,14,16,10,16,26
+Haugesund VK Seriestevne,2023-03-22,Men's Senior 81Kg,Heine Martin Hauge Junge,81,75,80,-85,95,-100,-100,80,95,175
+Haugesund VK Seriestevne,2023-03-22,Men's Junior Under 20 96Kg,Reinert Travieso Olsen,96,83,-87,-90,110,-115,-117,83,110,193
+Haugesund VK Seriestevne,2023-03-22,Men's Junior Under 20 73Kg,William Furdal-Ervik,73,45,50,57,70,75,-80,57,75,132
+Haugesund VK Seriestevne,2023-03-22,Men's Senior 96Kg,Daniel Markus Mueller,96,85,92,-101,-105,110,-117,92,110,202

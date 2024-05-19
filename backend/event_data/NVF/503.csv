@@ -1,13 +1,13 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-Nidelv IL Nasjonalt stevne,2023-12-29,Men's Youth Under 17 96Kg,Adrian Rosmæl Skauge,96.0,96,100,102,110,113,115,102,115,217
-Nidelv IL Nasjonalt stevne,2023-12-29,Men's Youth Under 15 55Kg,Alexander Stormoen Bruun,55.0,27,29,31,36,38,-40,31,38,69
-Nidelv IL Nasjonalt stevne,2023-12-29,Men's Youth Under 15 49Kg,Casper Moe-Akselsen,49.0,12,14,-15,15,17,19,14,19,33
-Nidelv IL Nasjonalt stevne,2023-12-29,Men's Youth Under 17 81Kg,Henrik F. Kjeldsberg,81.0,55,60,-63,65,-70,70,60,70,130
-Nidelv IL Nasjonalt stevne,2023-12-29,Men's Masters (55-59) 102kg,Iver Klingenberg,102.0,53,-57,-57,65,-69,69,53,69,122
-Nidelv IL Nasjonalt stevne,2023-12-29,Men's Youth Under 15 55Kg,Kevin Moe-Akselsen,55.0,12,14,-15,15,17,18,14,18,32
-Nidelv IL Nasjonalt stevne,2023-12-29,Women's Senior 87Kg,Lovisa Hansen Dadadottir,87.0,28,30,33,47,50,52,33,52,85
-Nidelv IL Nasjonalt stevne,2023-12-29,Men's Youth Under 15 49Kg,Markus Emil Brennvik,49.0,24,28,31,33,-36,36,31,36,67
-Nidelv IL Nasjonalt stevne,2023-12-29,Women's Senior 81Kg,Natasha Robson-Moe,81.0,28,30,33,40,43,46,33,46,79
-Nidelv IL Nasjonalt stevne,2023-12-29,Men's Youth Under 17 81Kg,Ruben Vikhals Bjerkan,81.0,-96,-96,-96,115,-119,-119,-96,115,19
-Nidelv IL Nasjonalt stevne,2023-12-29,Men's Youth Under 17 81Kg,Sondre Elias Fredriksen,81.0,-56,56,-60,70,73,-75,56,73,129
-Nidelv IL Nasjonalt stevne,2023-12-29,Men's Junior Under 20 109+Kg,William Hjelde Stormoen,109.0,97,104,-108,120,126,-130,104,126,230
+Nidelv IL Nasjonalt stevne,2023-12-29,Men's Youth Under 17 81Kg,Sondre Elias Fredriksen,81,-56,56,-60,70,73,-75,56,73,129
+Nidelv IL Nasjonalt stevne,2023-12-29,Men's Youth Under 17 81Kg,Henrik F. Kjeldsberg,81,55,60,-63,65,-70,70,60,70,130
+Nidelv IL Nasjonalt stevne,2023-12-29,Men's Youth Under 17 96Kg,Adrian Rosmæl Skauge,96,96,100,102,110,113,115,102,115,217
+Nidelv IL Nasjonalt stevne,2023-12-29,Men's Masters (55-59) 102kg,Iver Klingenberg,102,53,-57,-57,65,-69,69,53,69,122
+Nidelv IL Nasjonalt stevne,2023-12-29,Men's Youth Under 15 55Kg,Alexander Stormoen Bruun,55,27,29,31,36,38,-40,31,38,69
+Nidelv IL Nasjonalt stevne,2023-12-29,Women's Senior 87Kg,Lovisa Hansen Dadadottir,87,28,30,33,47,50,52,33,52,85
+Nidelv IL Nasjonalt stevne,2023-12-29,Men's Youth Under 17 81Kg,Ruben Vikhals Bjerkan,81,-96,-96,-96,115,-119,-119,0.0,115,0.0
+Nidelv IL Nasjonalt stevne,2023-12-29,Men's Junior Under 20 109+Kg,William Hjelde Stormoen,109,97,104,-108,120,126,-130,104,126,230
+Nidelv IL Nasjonalt stevne,2023-12-29,Women's Senior 81Kg,Natasha Robson-Moe,81,28,30,33,40,43,46,33,46,79
+Nidelv IL Nasjonalt stevne,2023-12-29,Men's Youth Under 15 55Kg,Kevin Moe-Akselsen,55,12,14,-15,15,17,18,14,18,32
+Nidelv IL Nasjonalt stevne,2023-12-29,Men's Youth Under 15 49Kg,Casper Moe-Akselsen,49,12,14,-15,15,17,19,14,19,33
+Nidelv IL Nasjonalt stevne,2023-12-29,Men's Youth Under 15 49Kg,Markus Emil Brennvik,49,24,28,31,33,-36,36,31,36,67

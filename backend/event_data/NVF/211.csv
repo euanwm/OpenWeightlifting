@@ -1,7 +1,7 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-Elverum AK Seriestevne,2023-04-23,Women's Youth Under 17 55Kg,Frida L. Bakken,55.0,13,14,15,15,16,18,15,18,33
-Elverum AK Seriestevne,2023-04-23,Women's Masters (45-49) 71Kg,Hege E. Grønland,71.0,30,32,34,45,48,-51,34,48,82
-Elverum AK Seriestevne,2023-04-23,Men's Senior 96Kg,Håkon Bjørnseth,96.0,85,90,-95,100,110,115,90,115,205
-Elverum AK Seriestevne,2023-04-23,Men's Senior 81Kg,Håkon E. Bekkevold,81.0,95,100,105,130,135,140,105,140,245
-Elverum AK Seriestevne,2023-04-23,Women's Youth Under 15 45Kg,Mie Elise Angell-Solås,45.0,13,-15,15,18,20,22,15,22,37
-Elverum AK Seriestevne,2023-04-23,Men's Masters (45-49) 89Kg,Robert Grønland,89.0,-80,-84,-87,105,110,-115,0,110,110
+Elverum AK Seriestevne,2023-04-23,Men's Masters (45-49) 89Kg,Robert Grønland,89,-80,-84,-87,105,110,-115,0.0,110,0.0
+Elverum AK Seriestevne,2023-04-23,Women's Masters (45-49) 71Kg,Hege E. Grønland,71,30,32,34,45,48,-51,34,48,82
+Elverum AK Seriestevne,2023-04-23,Men's Senior 81Kg,Håkon E. Bekkevold,81,95,100,105,130,135,140,105,140,245
+Elverum AK Seriestevne,2023-04-23,Women's Youth Under 17 55Kg,Frida L. Bakken,55,13,14,15,15,16,18,15,18,33
+Elverum AK Seriestevne,2023-04-23,Men's Senior 96Kg,Håkon Bjørnseth,96,85,90,-95,100,110,115,90,115,205
+Elverum AK Seriestevne,2023-04-23,Women's Youth Under 15 45Kg,Mie Elise Angell-Solås,45,13,-15,15,18,20,22,15,22,37
