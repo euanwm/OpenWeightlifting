@@ -18,8 +18,9 @@ stage_csv:
 	@git status --p --short | grep backend/event_data
 	@git commit -m "Database Update"
 
+DB ?= ""
 check_db:
-	@cd python_tools && pipenv run python3 check_db.py
+	@cd python_tools && pipenv run python3 check_db.py $(DB)
 
 generate-docs:
 	echo "Generating docs..."
