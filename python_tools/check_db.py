@@ -5,6 +5,7 @@ import re
 import sys
 from os import getcwd, listdir
 from os.path import join
+from typing import Optional
 
 from database_handler.result_dataclasses import Result
 from database_handler.static_helpers import load_result_csv_as_list
@@ -16,6 +17,8 @@ def check_db() -> None:
     """ To be used as part of a GitHub action to check the database files are up-to-date """
     print("Checking database files...")
     fed_dir = [fed for fed in listdir(event_data_path) if "." not in fed]
+    if (arg_db := __single_database()) is not None:
+        fed_dir = arg_db
     pass_test = True
     for fed in fed_dir:
         print(f"Checking {join(getcwd(), fed)} database")
@@ -28,6 +31,16 @@ def check_db() -> None:
     elif pass_test:
         print("TEST PASSED")
         sys.exit(0)
+
+
+def __single_database() -> Optional[list[str]]:
+    """ Checks the args passed to the script from the makefile """
+    if len(sys.argv) == 2 and len(sys.argv[1]) > 0:
+        print(f"Checking {sys.argv[1]} database")
+        db_path = [join(getcwd(), event_data_path, sys.argv[1])]
+        return db_path
+    else:
+        return None
 
 
 def check_files(folder_path: str) -> bool:
