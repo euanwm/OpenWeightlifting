@@ -1,0 +1,65 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+The Yorkshire 2024 Open,2024-05-11,Men's Junior Under 20 81Kg,Ethan Henrey,80.9,100,105,-110,130,-135,-140,105,130,235
+The Yorkshire 2024 Open,2024-05-12,Men's Masters (35-39) 109Kg,Adam Johnston,108.8,93,97,100,113,117,121,100,121,221
+The Yorkshire 2024 Open,2024-05-11,Men's Senior 73Kg,Daniel Jones,72.5,-85,88,-92,115,120,124,88,124,212
+The Yorkshire 2024 Open,2024-05-11,Men's Masters (35-39) 89Kg,Sam Viglienzone,87.6,85,92,-97,110,120,-130,92,120,212
+The Yorkshire 2024 Open,2024-05-12,Men's Masters (35-39) 102Kg,Alex Guassardo,101.2,86,90,93,110,-114,115,93,115,208
+The Yorkshire 2024 Open,2024-05-11,Men's Senior 81Kg,Ben Johnson,80.65,82,86,90,-110,110,115,90,115,205
+The Yorkshire 2024 Open,2024-05-12,Men's Masters (35-39) 109+Kg,John Steele,110.1,85,90,-95,-110,110,-120,90,110,200
+The Yorkshire 2024 Open,2024-05-11,Men's Senior 81Kg,Raphael Swift,80.45,85,87,-90,100,110,-115,87,110,197
+The Yorkshire 2024 Open,2024-05-11,Men's Senior 81Kg,Oliver Pickles,79.1,86,88,-90,103,-106,106,88,106,194
+The Yorkshire 2024 Open,2024-05-12,Men's Senior 109Kg,George Latter,108,81,86,-90,101,106,-110,86,106,192
+The Yorkshire 2024 Open,2024-05-11,Men's Masters (35-39) 96Kg,Tom Bennett,95.8,76,-79,79,-101,101,-105,79,101,180
+The Yorkshire 2024 Open,2024-05-12,Women's Under 23 71Kg,Kat Sanger,70.1,73,76,80,90,95,100,80,100,180
+The Yorkshire 2024 Open,2024-05-11,Men's Youth Under 17 73Kg,Lucas Cheslett,72.6,-80,80,-83,95,-100,-100,80,95,175
+The Yorkshire 2024 Open,2024-05-11,Men's Masters (35-39) 67Kg,Ian Cox,67,71,74,-77,88,92,-95,74,92,166
+The Yorkshire 2024 Open,2024-05-12,Women's Senior 76Kg,Fallon Parker,76,73,76,-78,90,-93,-93,76,90,166
+The Yorkshire 2024 Open,2024-05-12,Women's Senior 76Kg,Alessandra Gurney,76,66,68,70,90,93,96,70,96,166
+The Yorkshire 2024 Open,2024-05-12,Men's Masters (40-44) 109Kg,Chris Buck,108.7,67,71,-75,95,-100,-103,71,95,166
+The Yorkshire 2024 Open,2024-05-11,Men's Masters (45-49) 89Kg,Julian Henrey,87.8,70,74,-78,83,88,91,74,91,165
+The Yorkshire 2024 Open,2024-05-12,Women's Junior Under 20 81Kg,Belle Needham,80.4,61,64,67,87,91,93,67,93,160
+The Yorkshire 2024 Open,2024-05-11,Women's Senior 64Kg,Penny Lakin,63.6,67,70,-73,88,-91,-91,70,88,158
+The Yorkshire 2024 Open,2024-05-11,Men's Masters (55-59) 89Kg,Kevin Smith,87.1,-65,68,72,-80,-80,86,72,86,158
+The Yorkshire 2024 Open,2024-05-11,Women's Under 23 64Kg,Olive Eleftheriou,64,65,69,-73,86,-90,-90,69,86,155
+The Yorkshire 2024 Open,2024-05-12,Women's Senior 76Kg,Kara Ainscough,75.9,65,69,72,-78,78,82,72,82,154
+The Yorkshire 2024 Open,2024-05-12,Women's Senior 87Kg,Charlotte Warriner,85.8,55,60,-65,81,85,90,60,90,150
+The Yorkshire 2024 Open,2024-05-12,Women's Junior Under 20 81Kg,Honey Seaton,78.75,65,68,70,-77,77,-80,70,77,147
+The Yorkshire 2024 Open,2024-05-12,Women's Senior 76Kg,Emily Pickles,76,60,63,66,-80,80,-85,66,80,146
+The Yorkshire 2024 Open,2024-05-11,Women's Senior 64Kg,Olivia Walker,63.2,55,58,61,78,81,84,61,84,145
+The Yorkshire 2024 Open,2024-05-12,Women's Junior Under 20 81Kg,Emily Barber,79.65,61,-64,64,80,-84,-84,64,80,144
+The Yorkshire 2024 Open,2024-05-12,Women's Senior 87Kg,Laura Dearman,81.65,62,65,68,72,-75,-76,68,72,140
+The Yorkshire 2024 Open,2024-05-12,Women's Senior 76Kg,Amelia Stevenson,76,55,-58,58,72,75,78,58,78,136
+The Yorkshire 2024 Open,2024-05-12,Women's Senior 76Kg,Beth Jones,76,55,-58,60,75,-78,-78,60,75,135
+The Yorkshire 2024 Open,2024-05-11,Women's Youth Under 15 64Kg,Maya Hindmarch,63.2,55,58,-61,-75,75,-80,58,75,133
+The Yorkshire 2024 Open,2024-05-12,Women's Junior Under 20 76Kg,Chloe Sykes,72.85,53,56,59,64,67,71,59,71,130
+The Yorkshire 2024 Open,2024-05-12,Women's Senior 76Kg,Chelsea Sidaway,71.4,55,-58,-58,68,71,75,55,75,130
+The Yorkshire 2024 Open,2024-05-12,Women's Senior 71Kg,Katie Pressick ,68.6,-52,52,56,65,68,72,56,72,128
+The Yorkshire 2024 Open,2024-05-12,Women's Masters (45-49) 87+Kg,Victoria De Val,121.8,52,55,-57,72,-75,-75,55,72,127
+The Yorkshire 2024 Open,2024-05-11,Women's Senior 55Kg,Rachel Haslam,55,53,55,-57,68,71,-75,55,71,126
+The Yorkshire 2024 Open,2024-05-11,Women's Under 23 49Kg,Faye Briggs,49,48,51,54,64,68,70,54,70,124
+The Yorkshire 2024 Open,2024-05-11,Women's Senior 64Kg,Rebecca Dickinson,61.3,45,48,50,65,70,74,50,74,124
+The Yorkshire 2024 Open,2024-05-12,Women's Senior 71Kg,Stephanie  Porfyriou,68.9,50,53,56,65,-68,-68,56,65,121
+The Yorkshire 2024 Open,2024-05-11,Women's Senior 59Kg,Ashleigh Smeaton,59,45,48,50,65,68,70,50,70,120
+The Yorkshire 2024 Open,2024-05-12,Women's Senior 71Kg,Beth Johnson,70.15,45,48,51,-60,60,66,51,66,117
+The Yorkshire 2024 Open,2024-05-11,Women's Senior 59Kg,Ashaunna Green,57.7,45,48,50,-63,63,66,50,66,116
+The Yorkshire 2024 Open,2024-05-11,Women's Senior 59Kg,Chloe Little,58.1,51,-53,53,58,61,-64,53,61,114
+The Yorkshire 2024 Open,2024-05-12,Women's Junior Under 20 71Kg,Georgia Arthur,65.45,49,52,55,59,-65,-70,55,59,114
+The Yorkshire 2024 Open,2024-05-12,Women's Senior 87Kg,Megan Murphy,86.1,47,-49,-51,63,66,-69,47,66,113
+The Yorkshire 2024 Open,2024-05-12,Women's Senior 87+Kg,Emma Whiting,121,-50,-51,51,60,-63,-65,51,60,111
+The Yorkshire 2024 Open,2024-05-11,Women's Senior 64Kg,Kiani Geldard,64,43,46,49,57,61,-63,49,61,110
+The Yorkshire 2024 Open,2024-05-11,Women's Youth Under 17 55Kg,Maelie Haslam,54.6,42,45,48,53,56,60,48,60,108
+The Yorkshire 2024 Open,2024-05-12,Women's Senior 87Kg,Marie Davis,86.9,-47,47,-51,55,59,-63,47,59,106
+The Yorkshire 2024 Open,2024-05-12,Women's Masters (45-49) 71Kg,Kate Eaton,71,39,41,42,55,58,60,42,60,102
+The Yorkshire 2024 Open,2024-05-11,Women's Senior 59Kg,Angelica Drobny,58,37,40,-43,55,58,61,40,61,101
+The Yorkshire 2024 Open,2024-05-12,Women's Under 23 71Kg,Charlotte Peel,70.7,-42,42,43,50,52,53,43,53,96
+The Yorkshire 2024 Open,2024-05-12,Women's Senior 71Kg,Tanya Beattie,69.4,34,-37,37,47,51,-53,37,51,88
+The Yorkshire 2024 Open,2024-05-11,Women's Senior 64Kg,Bethanie Lauren  Wilson ,62.3,36,39,42,42,45,-48,42,45,87
+The Yorkshire 2024 Open,2024-05-11,Women's Masters (45-49) 55Kg,Charlotte Ashton,53.6,31,33,35,44,47,50,35,50,85
+The Yorkshire 2024 Open,2024-05-12,Women's Youth Under 15 76Kg,Cerys  Gibbins,71.4,30,33,37,43,45,47,37,47,84
+The Yorkshire 2024 Open,2024-05-11,Women's Youth Under 15 45Kg,Megan Armitage,44.9,30,32,34,38,41,45,34,45,79
+The Yorkshire 2024 Open,2024-05-11,Men's Youth Under 15 73Kg,James Cooper,70.75,20,23,26,30,35,40,26,40,66
+The Yorkshire 2024 Open,2024-05-12,Women's Masters (55-59) 87+Kg,Sue Osbourne,90.9,25,27,-29,25,28,31,27,31,58
+The Yorkshire 2024 Open,2024-05-12,Women's Youth Under 10 35Kg,Mila Andriekus,34.3,19,21,24,25,28,30,24,30,54
+The Yorkshire 2024 Open,2024-05-12,Men's Youth Under 15 49Kg,Silvano Houliston,39.8,12,-14,14,18,20,22,14,22,36
+The Yorkshire 2024 Open,2024-05-12,Men's Youth Under 10 40Kg,Conan McGregor,29.05,8,-10,10,12,14,16,10,16,26
+The Yorkshire 2024 Open,2024-05-12,Women's Youth Under 10 35Kg,Enya  Nicklin,31.8,-5,-5,-5,10,12,14,0,14,0

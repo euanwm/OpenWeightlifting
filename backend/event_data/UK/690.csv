@@ -1,0 +1,65 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+The Scottish Open,2024-05-05,Men's Under 23 96Kg,Drew Burns,95.75,138,142,145,168,172,175,145,175,320
+The Scottish Open,2024-05-05,Men's Under 23 109Kg,Euan Mclauchlan,108.75,120,-125,-127,-150,150,158,120,158,278
+The Scottish Open,2024-05-04,Men's Senior 81Kg,Iain Wilson,81,113,117,-120,148,-153,153,117,153,270
+The Scottish Open,2024-05-05,Men's Senior 89Kg,Jason-James  Donaldson,87.75,110,115,-120,144,148,150,115,150,265
+The Scottish Open,2024-05-05,Men's Senior 102Kg,Jason Hagart,101.15,115,120,123,-140,142,-145,123,142,265
+The Scottish Open,2024-05-05,Men's Junior Under 20 89Kg,Callum Holland,87.9,110,-115,117,142,-146,147,117,147,264
+The Scottish Open,2024-05-04,Men's Youth Under 17 73Kg,Corey Duncan,71.95,105,-110,111,130,136,-145,111,136,247
+The Scottish Open,2024-05-05,Men's Masters (35-39) 89Kg,Max Buchanan,88.9,-105,105,111,128,135,-142,111,135,246
+The Scottish Open,2024-05-05,Men's Under 23 96Kg,Ruaraidh Harris,96,100,105,110,130,136,-141,110,136,246
+The Scottish Open,2024-05-04,Men's Senior 73Kg,Gilbert North,72.6,103,-107,107,128,-132,-134,107,128,235
+The Scottish Open,2024-05-05,Men's Senior 89Kg,Adam Bryce,85.5,95,-100,100,-132,-132,132,100,132,232
+The Scottish Open,2024-05-05,Men's Senior 89Kg,Kieran Connor,88.65,100,104,-108,118,123,127,104,127,231
+The Scottish Open,2024-05-04,Men's Senior 81Kg,Lewis Sinclair,80,-92,92,95,121,-124,-124,95,121,216
+The Scottish Open,2024-05-05,Men's Junior Under 20 96Kg,Dylan Dickie,93.95,90,95,-100,110,115,-120,95,115,210
+The Scottish Open,2024-05-05,Men's Under 23 109+Kg,euan fitzpatrick,125.8,-90,-90,90,-115,115,120,90,120,210
+The Scottish Open,2024-05-04,Men's Senior 81Kg,Steven Mcallan,77.9,85,88,91,111,115,118,91,118,209
+The Scottish Open,2024-05-04,Men's Senior 73Kg,Dave McIntosh,72,-89,90,-93,108,112,116,90,116,206
+The Scottish Open,2024-05-04,Men's Senior 81Kg,Zhiqian Lyu,79.9,87,91,-94,115,-120,-121,91,115,206
+The Scottish Open,2024-05-04,Men's Junior Under 20 73Kg,Corey Paterson,73,90,-93,-93,-114,114,-117,90,114,204
+The Scottish Open,2024-05-04,Men's Senior 81Kg,Anthony Woollcombe,80,88,90,-92,108,110,112,90,112,202
+The Scottish Open,2024-05-04,Men's Senior 81Kg,Michael Winetrobe,79.05,86,-91,-91,116,-121,-122,86,116,202
+The Scottish Open,2024-05-04,Men's Senior 81Kg,Grant Lewis,76.6,80,-85,-85,110,116,121,80,121,201
+The Scottish Open,2024-05-04,Men's Junior Under 20 73Kg,Innes Urquhart,70.2,84,87,90,100,105,110,90,110,200
+The Scottish Open,2024-05-05,Women's Senior 81Kg,Emma McCready,81,-88,90,-94,107,-112,-112,90,107,197
+The Scottish Open,2024-05-04,Men's Under 23 73Kg,Arvid Borgne,72.2,-75,75,82,102,110,-116,82,110,192
+The Scottish Open,2024-05-04,Women's Junior Under 20 71Kg,Erin Friel,71,82,85,-88,104,107,-112,85,107,192
+The Scottish Open,2024-05-04,Men's Senior 81Kg,Jordan Bowie,78.3,81,84,86,100,104,-106,86,104,190
+The Scottish Open,2024-05-05,Women's Senior 76Kg,Eleanor Jenkinson,73.65,-75,75,78,94,-98,98,78,98,176
+The Scottish Open,2024-05-04,Men's Senior 73Kg,Marcel Dutu,70.75,70,73,-75,100,-103,-105,73,100,173
+The Scottish Open,2024-05-05,Women's Senior 76Kg,Anna Watkin,75.4,75,-78,-79,-95,95,-101,75,95,170
+The Scottish Open,2024-05-04,Women's Senior 71Kg,Beth Ashbee,65.85,75,78,-81,-90,-90,90,78,90,168
+The Scottish Open,2024-05-04,Women's Senior 64Kg,Eilidh MacInnes-Devine ,63.4,63,66,68,-80,83,86,68,86,154
+The Scottish Open,2024-05-04,Women's Senior 71Kg,Lianne Wallace,70.95,65,68,-70,83,85,-87,68,85,153
+The Scottish Open,2024-05-05,Women's Masters (40-44) 81Kg,Janine Slaven,77.7,62,65,68,-80,82,-87,68,82,150
+The Scottish Open,2024-05-04,Women's Senior 71Kg,Chloe Kynoch,70.05,60,63,66,77,80,83,66,83,149
+The Scottish Open,2024-05-04,Women's Masters (35-39) 64Kg,Joanne Mcgurk,63.55,62,65,-68,78,81,83,65,83,148
+The Scottish Open,2024-05-05,Women's Masters (40-44) 76Kg,christine smithson,74.15,62,-64,-64,82,84,86,62,86,148
+The Scottish Open,2024-05-04,Women's Youth Under 17 71Kg,Athena Pearce,69.6,-64,64,67,78,-81,-81,67,78,145
+The Scottish Open,2024-05-05,Women's Junior Under 20 76Kg,Keira Fairley,74.4,60,62,-65,75,79,83,62,83,145
+The Scottish Open,2024-05-04,Men's Under 23 61Kg,Jack Fernando,59.6,53,-57,57,80,-85,85,57,85,142
+The Scottish Open,2024-05-04,Women's Senior 59Kg,Hannah Rutherford,58.65,56,59,-62,76,79,81,59,81,140
+The Scottish Open,2024-05-04,Women's Senior 64Kg,Beata Korba,63.1,61,-64,-65,73,76,79,61,79,140
+The Scottish Open,2024-05-05,Women's Masters (40-44) 81Kg,Sarah-Anne Duncan,79.3,60,-63,-63,-80,80,-82,60,80,140
+The Scottish Open,2024-05-05,Women's Junior Under 20 87Kg,Hannah Spence,86.95,61,63,-65,72,75,-77,63,75,138
+The Scottish Open,2024-05-04,Women's Senior 59Kg,Ainslie Hunter,57.8,54,57,-59,71,74,76,57,76,133
+The Scottish Open,2024-05-05,Women's Senior 76Kg,Amber DuCane,74.55,-58,58,61,-68,68,71,61,71,132
+The Scottish Open,2024-05-04,Women's Senior 64Kg,Martyna Hildebrandt,60.7,-58,58,-61,73,-76,-77,58,73,131
+The Scottish Open,2024-05-05,Women's Senior 76Kg,Beth Finnie,73.95,53,-56,58,-70,70,-74,58,70,128
+The Scottish Open,2024-05-04,Women's Senior 71Kg,Beth Sharp,68.8,52,-55,55,65,69,71,55,71,126
+The Scottish Open,2024-05-04,Women's Senior 59Kg,Mhia Mouat,57.3,-52,52,55,70,-75,-75,55,70,125
+The Scottish Open,2024-05-05,Women's Senior 87+Kg,Sara Boussaikouk,102.4,52,-55,-57,70,-73,73,52,73,125
+The Scottish Open,2024-05-05,Women's Senior 81Kg,Zelda Dura,79.2,47,50,-53,70,73,-76,50,73,123
+The Scottish Open,2024-05-04,Women's Senior 71Kg,Dawn Chessor,66.3,46,48,51,62,65,-67,51,65,116
+The Scottish Open,2024-05-04,Women's Senior 49Kg,Karen Saint,48.35,45,-48,-48,62,65,67,45,67,112
+The Scottish Open,2024-05-04,Women's Senior 64Kg,Agnieszka Wojtas,62.75,45,-48,48,58,-61,62,48,62,110
+The Scottish Open,2024-05-04,Women's Senior 55Kg,Hayley Johnston,52.45,-43,43,45,58,61,63,45,63,108
+The Scottish Open,2024-05-04,Women's Senior 55Kg,Marie  McLaughlin ,54.7,42,45,47,52,55,57,47,57,104
+The Scottish Open,2024-05-04,Women's Junior Under 20 59Kg,Paige Gilfillan,56.3,42,45,47,55,-58,-59,47,55,102
+The Scottish Open,2024-05-04,Women's Senior 55Kg,Klaudia Zbikowska,51.9,-40,40,43,55,57,-60,43,57,100
+The Scottish Open,2024-05-04,Women's Masters (40-44) 71Kg,Megan Taylor,69.25,-67,-70,-70,0,0,0,0,0,0
+The Scottish Open,2024-05-04,Women's Senior 71Kg,Niamh Gallagher,69.75,-66,66,68,-85,-85,-85,68,0,0
+The Scottish Open,2024-05-05,Men's Masters (40-44) 96Kg,Chris Johnston,92.2,-90,-94,-94,0,0,0,0,0,0
+The Scottish Open,2024-05-05,Men's Junior Under 20 109Kg,Charlie Farndon,106.7,-90,-90,-90,0,0,0,0,0,0
+The Scottish Open,2024-05-05,Women's Senior 81Kg,Justine Abola,78.95,62,65,-70,-82,-84,-84,65,0,0
