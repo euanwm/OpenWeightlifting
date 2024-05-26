@@ -47,6 +47,11 @@ class FranceEventInfo:
     open_closed: str
     nat_int: str
 
+    def get_event_title(self):
+        name = self.event_name.split(" - ")
+        if len(name) > 1:
+            return name[1]
+
 
 @dataclass
 class FranceResult:
@@ -248,6 +253,13 @@ class FranceWeightlifting(WebScraper):
         return tables[0]
 
 
+@dataclass
+class CollatedEvent:
+    date: str
+    event_title_short: str
+    events: list[FranceEventInfo]
+
+
 class FranceInterface(DBInterface):
     def __init__(self):
         self.f = FranceWeightlifting()
@@ -255,6 +267,7 @@ class FranceInterface(DBInterface):
         self.CATEGORIES = load_json(
             f"{os.getcwd()}/database_handler/gender_categories.json")
         self.NEXT_SEASON_CHECKED = False
+        self.NEXT_AVAILABLE_CSV_ID = 1
 
     def get_event_list(self):
         return self.f.list_recent_events()
@@ -315,7 +328,6 @@ class FranceInterface(DBInterface):
         if " F " in category:
             return category.replace(" F ", " Women ")
 
-
     def build_database(self):
         # this is a one-hitter but keeping this here for completeness
         for n in range(3, 8):
@@ -338,11 +350,40 @@ class FranceInterface(DBInterface):
                     else:
                         print(f"No results logged for {event.event_name} / {event.link.split('/')[-1]}")
 
+    def new_build_database(self):
+        pass
+
+    def collate_event_ids(self) -> dict[int, CollatedEvent]:
+        event_list = self.get_event_list()
+        event_dict = {}
+        index_ticker = 0
+        for event in event_list:
+            in_event_dict, dict_index = self.iter_dict(event_dict, event)
+            if not in_event_dict:
+                event_dict[index_ticker] = CollatedEvent(
+                    date=event.date,
+                    event_title_short=event.get_event_title(),
+                    events=[event]
+                )
+                index_ticker += 1
+            else:
+                event_dict[dict_index].events.append(event)
+        return event_dict
+
+    def iter_dict(self, event_dict: dict[int, CollatedEvent], single_event: FranceEventInfo) -> (bool, int):
+        for k, v in event_dict.items():
+            if v.date == single_event.date and v.event_title_short == single_event.get_event_title():
+                event_dict[k].events.append(single_event)
+                return True, k
+        return False, None
+
+
 if __name__ == '__main__':
     # f = FranceWeightlifting()
     # f.list_recent_events()
-    # f.get_data_by_id(7839)
     f = FranceInterface()
-    #f.update_results()
-    f.build_database()
-
+    this = f.collate_event_ids()
+    pass
+    # f.get_data_by_id(7839)
+    # f.update_results()
+    # f.build_database()
