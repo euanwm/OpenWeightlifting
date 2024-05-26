@@ -8,13 +8,17 @@ describe('fetchLifterNames', () => {
       names: [
         {
           Name: "Euan Meston",
-          Federation: "UK"
-        }
+	  Federation: "UK"
+        },
+	{
+	  Name: "Euan Meston",
+	  Federation: "US"
+	}
       ],
-      total: 1
+      total: 2
     }
 
-    expect(result?.total).toEqual(1)
+    expect(result?.total).toEqual(2)
     expect(result).toEqual(expectedReturn)
   })
   it('should return an empty list if the name is less than 3 characters', async () => {
