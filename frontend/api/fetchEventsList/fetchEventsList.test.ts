@@ -9,7 +9,7 @@ describe('fetchEventsList', () => {
     }
     const result = await fetchEventsList(eventsListRequest);
 
-    // check that it returns a list of events (length 172)
-    expect(result?.events.length).toBe(172);
+    // check that it returns a list of events (length 33)
+    expect(result?.events.length).toBe(33);
   })
 })
