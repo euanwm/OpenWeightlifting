@@ -52,6 +52,22 @@ class Result:
     cj_1: float
     cj_2: float
     cj_3: float
-    best_snatch: float
-    best_cj: float
-    total: float
+    best_snatch: float = 0.0
+    best_cj: float = 0.0
+    total: float = 0.0
+
+    def __post_init__(self):
+        self.best_snatch = self.__best_snatch()
+        self.best_cj = self.__best_cj()
+        self.total = self.__total()
+
+    def __best_snatch(self):
+        return max(0.0, self.snatch_1, self.snatch_2, self.snatch_3)
+
+    def __best_cj(self):
+        return max(0.0, self.cj_1, self.cj_2, self.cj_3)
+
+    def __total(self):
+        if self.best_snatch == 0.0 or self.best_cj == 0.0:
+            return 0.0
+        return self.best_snatch + self.best_cj

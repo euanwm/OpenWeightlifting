@@ -269,6 +269,11 @@ class FranceInterface(DBInterface):
         self.NEXT_SEASON_CHECKED = False
         self.NEXT_AVAILABLE_CSV_ID = 1
 
+    def check_available_csv_id(self) -> int:
+        csv_ids = max([0], [int(x.split(".")[0]) for x in os.listdir(self.RESULTS_PATH)])
+        self.NEXT_AVAILABLE_CSV_ID = max(csv_ids) + 1
+        return self.NEXT_AVAILABLE_CSV_ID
+
     def get_event_list(self):
         return self.f.list_recent_events()
 
@@ -316,9 +321,6 @@ class FranceInterface(DBInterface):
             cj_1=float(result.cj_1),
             cj_2=float(result.cj_2),
             cj_3=float(result.cj_3),
-            best_snatch=max(float(result.snatch_1), float(result.snatch_2), float(result.snatch_3)),
-            best_cj=max(float(result.cj_1), float(result.cj_2), float(result.cj_3)),
-            total=float(result.total),
         )
         return amal_data
 
@@ -328,9 +330,10 @@ class FranceInterface(DBInterface):
         if " F " in category:
             return category.replace(" F ", " Women ")
 
-    def build_database(self):
-        # this is a one-hitter but keeping this here for completeness
-        for n in range(3, 8):
+    def build_old_database(self):
+        # this is a one-hitter to build the database from the old naming convention
+        # you'll need to run the new_build_database func to collect the rest
+        for n in range(3, 5):
             events_list = self.f.list_recent_events(n)
             result_db_ids = [int(x.split(".")[0])
                              for x in os.listdir(self.RESULTS_PATH)]
@@ -351,12 +354,28 @@ class FranceInterface(DBInterface):
                         print(f"No results logged for {event.event_name} / {event.link.split('/')[-1]}")
 
     def new_build_database(self):
-        pass
+        starting_csv_id = self.check_available_csv_id()
+        # indent and range from here
+        for x in range(4, 8):
+            events_list = self.f.list_recent_events(x)
+            collated_event_info = self.collate_event_ids(events_list)
+            print(f"Season {3}: {len(collated_event_info)} colllated event vs {len(events_list)} events")
+            for index, event in collated_event_info.items():
+                amal_data = []
+                for result in event.events:
+                    event_results = self.get_single_event(result.link)
+                    if event_results is not None:
+                        for result in event_results:
+                            amal_data.append(self.generate_result(result, event.events[0]))
+                if amal_data:
+                    results_to_csv(self.RESULTS_PATH, starting_csv_id, amal_data)
+                    starting_csv_id += 1
+                print(f"Event {index} done")
 
-    def collate_event_ids(self) -> dict[int, CollatedEvent]:
-        event_list = self.get_event_list()
+
+    def collate_event_ids(self, event_list: list[FranceEventInfo]) -> dict[int, CollatedEvent]:
         event_dict = {}
-        index_ticker = 0
+        index_ticker = self.check_available_csv_id()
         for event in event_list:
             in_event_dict, dict_index = self.iter_dict(event_dict, event)
             if not in_event_dict:
@@ -382,7 +401,8 @@ if __name__ == '__main__':
     # f = FranceWeightlifting()
     # f.list_recent_events()
     f = FranceInterface()
-    this = f.collate_event_ids()
+    # this = f.collate_event_ids()
+    f.new_build_database()
     pass
     # f.get_data_by_id(7839)
     # f.update_results()
