@@ -1,0 +1,60 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,U17 Women 55,SANTOS FERNANDES Christelle,53.8,22.0,25.0,28.0,32.0,35.0,37.0,28.0,37.0,65.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,U17 Women 55,DUCHENNE ALLARD Alexya,54.7,22.0,25.0,-28.0,32.0,35.0,37.0,25.0,37.0,62.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,U17 Women 64,POMERET Clemence,61.8,37.0,39.0,-41.0,47.0,50.0,52.0,39.0,52.0,91.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,U17 Women 64,PENCOLE Yael,61.4,30.0,-35.0,35.0,43.0,46.0,-49.0,35.0,46.0,81.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,U17 Women >81,BAUDOUIN Marjane,92.5,35.0,38.0,-40.0,45.0,48.0,50.0,38.0,50.0,88.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,U20 Women 71,GAIGEOT Erinn,65.3,35.0,38.0,42.0,45.0,48.0,-51.0,42.0,48.0,90.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,SEN Women 55,DUJARDIN Carla,53.3,39.0,42.0,45.0,60.0,61.0,-65.0,45.0,61.0,106.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,U20 Men 81,BERFINI Viktor,77.4,45.0,50.0,55.0,-65.0,-70.0,70.0,55.0,70.0,125.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,SEN Men 61,MERCIER Nicolas,60.6,48.0,53.0,55.0,-68.0,68.0,-73.0,55.0,68.0,123.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,SEN Men 73,CAROLUS Jordan,70.1,60.0,65.0,70.0,80.0,85.0,90.0,70.0,90.0,160.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,SEN Men 81,NASRI Nima,78.9,45.0,50.0,55.0,70.0,75.0,80.0,55.0,80.0,135.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,U20 Men 81,BERFINI Viktor,77.4,45.0,50.0,55.0,-65.0,-70.0,70.0,55.0,70.0,125.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,SEN Men 61,MERCIER Nicolas,60.6,48.0,53.0,55.0,-68.0,68.0,-73.0,55.0,68.0,123.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,SEN Men 73,CAROLUS Jordan,70.1,60.0,65.0,70.0,80.0,85.0,90.0,70.0,90.0,160.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,SEN Men 81,NASRI Nima,78.9,45.0,50.0,55.0,70.0,75.0,80.0,55.0,80.0,135.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,U10 Men ,LAVILLE Naël,29.1,4.0,5.0,7.0,6.0,7.0,-9.0,7.0,7.0,14.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,U10 Men ,CHOULET Paul,26.35,4.0,5.0,-7.0,6.0,7.0,8.0,5.0,8.0,13.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,U13 Men 40,BARBERO Nathan,38.2,15.0,-17.0,17.0,18.0,20.0,22.0,17.0,22.0,39.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,U13 Men 45,ECKMANN Gael,40.9,26.0,27.0,29.0,37.0,38.0,40.0,29.0,40.0,69.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,U13 Men 49,LOPEZ Daoud,45.65,23.0,25.0,27.0,30.0,32.0,34.0,27.0,34.0,61.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,U10 Women ,LOPEZ Maymouna,29.0,5.0,7.0,9.0,7.0,9.0,11.0,9.0,11.0,20.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,U10 Men ,LAVILLE Naël,29.1,4.0,5.0,7.0,6.0,7.0,-9.0,7.0,7.0,14.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,U10 Men ,CHOULET Paul,26.35,4.0,5.0,-7.0,6.0,7.0,8.0,5.0,8.0,13.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,U13 Men 40,BARBERO Nathan,38.2,15.0,-17.0,17.0,18.0,20.0,22.0,17.0,22.0,39.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,U13 Men 45,ECKMANN Gael,40.9,26.0,27.0,29.0,37.0,38.0,40.0,29.0,40.0,69.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,U13 Men 49,LOPEZ Daoud,45.65,23.0,25.0,27.0,30.0,32.0,34.0,27.0,34.0,61.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,U10 Women ,LOPEZ Maymouna,29.0,5.0,7.0,9.0,7.0,9.0,11.0,9.0,11.0,20.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,U15 Men 73,LOPEZ Shouayb,69.2,28.0,-31.0,-31.0,37.0,40.0,42.0,28.0,42.0,70.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,U15 Men 73,COGNE Geoffrey,70.05,25.0,-28.0,28.0,29.0,-33.0,34.0,28.0,34.0,62.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,U17 Men 81,BOUCHAUD Paco,75.6,47.0,50.0,53.0,60.0,63.0,66.0,53.0,66.0,119.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,U15 Men 73,LOPEZ Shouayb,69.2,28.0,-31.0,-31.0,37.0,40.0,42.0,28.0,42.0,70.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,U15 Men 73,COGNE Geoffrey,70.05,25.0,-28.0,28.0,29.0,-33.0,34.0,28.0,34.0,62.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,U17 Men 81,BOUCHAUD Paco,75.6,47.0,50.0,53.0,60.0,63.0,66.0,53.0,66.0,119.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,U17 Women 71,MAYET Oxana,64.3,22.0,-25.0,-25.0,28.0,32.0,-35.0,22.0,32.0,54.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,U17 Women 71,MAYET Oxana,64.3,22.0,-25.0,-25.0,28.0,32.0,-35.0,22.0,32.0,54.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,U20 Men 81,NEIBECKER Samuel,73.8,20.0,-0.0,-0.0,-0.0,-0.0,-0.0,20.0,0.0,0.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,SEN Men 61,COMBEBIAS Dorian,55.7,35.0,-45.0,-45.0,20.0,50.0,60.0,35.0,60.0,95.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,SEN Men 61,RIBOULET Alex,58.3,20.0,-0.0,-0.0,20.0,-0.0,-0.0,20.0,20.0,40.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,SEN Men 67,BOISSIER Clovis,65.4,30.0,-35.0,-35.0,35.0,-0.0,-0.0,30.0,35.0,65.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,SEN Men 73,ROCCO Lucas,68.7,25.0,35.0,50.0,35.0,50.0,60.0,50.0,60.0,110.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,SEN Men 73,CAYRE Lorrain,69.0,35.0,-40.0,40.0,-50.0,50.0,-55.0,40.0,50.0,90.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,SEN Men 73,VERGNE Adrien,67.1,20.0,-0.0,-0.0,20.0,-0.0,-0.0,20.0,20.0,40.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,SEN Men 81,MERY DE L'HAMAIDE Nathan,78.7,25.0,40.0,-50.0,30.0,45.0,55.0,40.0,55.0,95.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,SEN Men 81,VILLARD Jeremy,79.2,20.0,-0.0,-0.0,20.0,21.0,-0.0,20.0,21.0,41.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,SEN Men 89,MOURET Romain,82.5,30.0,45.0,-60.0,35.0,-55.0,55.0,45.0,55.0,100.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,SEN Men 89,ROUYERAS Pierre,85.8,20.0,30.0,-0.0,20.0,30.0,-0.0,30.0,30.0,60.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,SEN Men 89,MAHAUD Jules,83.9,25.0,-0.0,-0.0,30.0,-40.0,-45.0,25.0,30.0,55.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,U20 Men 81,NEIBECKER Samuel,73.8,20.0,-0.0,-0.0,-0.0,-0.0,-0.0,20.0,0.0,0.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,SEN Men 61,COMBEBIAS Dorian,55.7,35.0,-45.0,-45.0,20.0,50.0,60.0,35.0,60.0,95.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,SEN Men 61,RIBOULET Alex,58.3,20.0,-0.0,-0.0,20.0,-0.0,-0.0,20.0,20.0,40.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,SEN Men 67,BOISSIER Clovis,65.4,30.0,-35.0,-35.0,35.0,-0.0,-0.0,30.0,35.0,65.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,SEN Men 73,ROCCO Lucas,68.7,25.0,35.0,50.0,35.0,50.0,60.0,50.0,60.0,110.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,SEN Men 73,CAYRE Lorrain,69.0,35.0,-40.0,40.0,-50.0,50.0,-55.0,40.0,50.0,90.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,SEN Men 73,VERGNE Adrien,67.1,20.0,-0.0,-0.0,20.0,-0.0,-0.0,20.0,20.0,40.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,SEN Men 81,MERY DE L'HAMAIDE Nathan,78.7,25.0,40.0,-50.0,30.0,45.0,55.0,40.0,55.0,95.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,SEN Men 81,VILLARD Jeremy,79.2,20.0,-0.0,-0.0,20.0,21.0,-0.0,20.0,21.0,41.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,SEN Men 89,MOURET Romain,82.5,30.0,45.0,-60.0,35.0,-55.0,55.0,45.0,55.0,100.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,SEN Men 89,ROUYERAS Pierre,85.8,20.0,30.0,-0.0,20.0,30.0,-0.0,30.0,30.0,60.0
+IDF - Challenge Avenir - Saint-maur des fosses - Challenge d avenir N°1 VGA saint maur,2022-11-23,SEN Men 89,MAHAUD Jules,83.9,25.0,-0.0,-0.0,30.0,-40.0,-45.0,25.0,30.0,55.0

@@ -1,0 +1,87 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,U10 Women ,LE ROUSSEAU Lexie,34.7,5.0,6.0,8.0,8.0,9.0,10.0,8.0,10.0,18.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,U10 Women ,DELOUVÉE Alix,26.9,5.0,6.0,7.0,5.0,7.0,9.0,7.0,9.0,16.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,U10 Women ,BALCON Inès,31.7,5.0,6.0,8.0,6.0,8.0,-10.0,8.0,8.0,16.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,U10 Women ,DELOUVÉE Sarah,31.0,5.0,6.0,-8.0,5.0,-7.0,7.0,6.0,7.0,13.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,U13 Women 45,DELOUVÉE Chloé,43.8,10.0,12.0,14.0,15.0,17.0,19.0,14.0,19.0,33.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,U13 Women 49,VIVET Lola,49.0,18.0,20.0,22.0,22.0,24.0,26.0,22.0,26.0,48.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,U13 Women 49,KANCEL Léa,49.0,15.0,17.0,19.0,20.0,22.0,24.0,19.0,24.0,43.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,U13 Women 59,LE ROUSSEAU Lili,55.5,25.0,27.0,-29.0,32.0,34.0,-36.0,27.0,34.0,61.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,U13 Men 35,HOREL Sofiane,33.3,14.0,16.0,18.0,17.0,-19.0,-19.0,18.0,17.0,35.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,U13 Men 45,OLIVIERO Nolann,42.9,15.0,17.0,19.0,22.0,24.0,-26.0,19.0,24.0,43.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,U20 Women 71,CAILLE Titia,68.9,36.0,-39.0,39.0,43.0,46.0,49.0,39.0,49.0,88.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,U20 Women 71,LENOUVEL Zoé,66.5,34.0,37.0,-39.0,44.0,-47.0,-47.0,37.0,44.0,81.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Women 45,PINSON Léa,43.3,23.0,25.0,29.0,32.0,36.0,38.0,29.0,38.0,67.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Women 64,CHARRON Fanny,62.4,25.0,27.0,28.0,40.0,43.0,-45.0,28.0,43.0,71.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Women 71,WIPLIER Manon,65.1,32.0,35.0,-38.0,45.0,-48.0,48.0,35.0,48.0,83.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Women 71,KERVIEL Morgane,66.8,23.0,26.0,28.0,30.0,-33.0,33.0,28.0,33.0,61.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Women 76,CAILLE Valérie,72.5,36.0,38.0,40.0,42.0,45.0,-49.0,40.0,45.0,85.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Women 76,PAUTREMAT Charlotte,75.1,-20.0,20.0,22.0,-35.0,35.0,-40.0,22.0,35.0,57.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Women >87,JORDAN Emilie,87.9,43.0,45.0,48.0,53.0,56.0,60.0,48.0,60.0,108.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Women >87,DORVEAUX Chloé,89.8,42.0,45.0,-47.0,-54.0,56.0,-60.0,45.0,56.0,101.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,U20 Women 71,CAILLE Titia,68.9,36.0,-39.0,39.0,43.0,46.0,49.0,39.0,49.0,88.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,U20 Women 71,LENOUVEL Zoé,66.5,34.0,37.0,-39.0,44.0,-47.0,-47.0,37.0,44.0,81.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Women 45,PINSON Léa,43.3,23.0,25.0,29.0,32.0,36.0,38.0,29.0,38.0,67.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Women 64,CHARRON Fanny,62.4,25.0,27.0,28.0,40.0,43.0,-45.0,28.0,43.0,71.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Women 71,WIPLIER Manon,65.1,32.0,35.0,-38.0,45.0,-48.0,48.0,35.0,48.0,83.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Women 71,KERVIEL Morgane,66.8,23.0,26.0,28.0,30.0,-33.0,33.0,28.0,33.0,61.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Women 76,CAILLE Valérie,72.5,36.0,38.0,40.0,42.0,45.0,-49.0,40.0,45.0,85.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Women 76,PAUTREMAT Charlotte,75.1,-20.0,20.0,22.0,-35.0,35.0,-40.0,22.0,35.0,57.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Women >87,JORDAN Emilie,87.9,43.0,45.0,48.0,53.0,56.0,60.0,48.0,60.0,108.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Women >87,DORVEAUX Chloé,89.8,42.0,45.0,-47.0,-54.0,56.0,-60.0,45.0,56.0,101.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,U20 Men 73,LEDURE David,72.4,70.0,-75.0,-77.0,90.0,101.0,-110.0,70.0,101.0,171.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,U20 Men 89,AUTRET Pol,87.1,57.0,63.0,-67.0,70.0,75.0,-82.0,63.0,75.0,138.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 61,MAGNIEZ Baptiste,57.7,38.0,41.0,-45.0,52.0,56.0,-61.0,41.0,56.0,97.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 73,KERVEADOU Julien,71.9,-87.0,87.0,90.0,104.0,-107.0,-109.0,90.0,104.0,194.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 73,TOUPET Jean noël - rené,69.0,-45.0,-45.0,45.0,-55.0,55.0,-58.0,45.0,55.0,100.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 81,DELOUVEE Johan,75.5,85.0,-90.0,-90.0,95.0,-102.0,-102.0,85.0,95.0,180.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 81,TROUILLE Julien,80.5,72.0,76.0,79.0,95.0,-99.0,-99.0,79.0,95.0,174.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 81,LE ROUSSEAU Guillaume,78.4,68.0,73.0,77.0,88.0,93.0,-96.0,77.0,93.0,170.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 81,VAN-LANDSCHOOT Philippe,77.7,52.0,-55.0,-55.0,60.0,64.0,68.0,52.0,68.0,120.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 89,BAURAIN Rudy,85.8,82.0,86.0,92.0,-95.0,95.0,100.0,92.0,100.0,192.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 89,LE TRIONNAIRE Gregory,88.8,80.0,85.0,90.0,95.0,100.0,-105.0,90.0,100.0,190.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 96,GODEC Hakim,91.0,35.0,45.0,50.0,-30.0,40.0,-50.0,50.0,40.0,90.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 102,JOSSE Théo,96.5,70.0,73.0,76.0,103.0,109.0,111.0,76.0,111.0,187.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,U20 Men 73,LEDURE David,72.4,70.0,-75.0,-77.0,90.0,101.0,-110.0,70.0,101.0,171.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,U20 Men 89,AUTRET Pol,87.1,57.0,63.0,-67.0,70.0,75.0,-82.0,63.0,75.0,138.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 61,MAGNIEZ Baptiste,57.7,38.0,41.0,-45.0,52.0,56.0,-61.0,41.0,56.0,97.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 73,KERVEADOU Julien,71.9,-87.0,87.0,90.0,104.0,-107.0,-109.0,90.0,104.0,194.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 73,TOUPET Jean noël - rené,69.0,-45.0,-45.0,45.0,-55.0,55.0,-58.0,45.0,55.0,100.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 81,DELOUVEE Johan,75.5,85.0,-90.0,-90.0,95.0,-102.0,-102.0,85.0,95.0,180.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 81,TROUILLE Julien,80.5,72.0,76.0,79.0,95.0,-99.0,-99.0,79.0,95.0,174.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 81,LE ROUSSEAU Guillaume,78.4,68.0,73.0,77.0,88.0,93.0,-96.0,77.0,93.0,170.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 81,VAN-LANDSCHOOT Philippe,77.7,52.0,-55.0,-55.0,60.0,64.0,68.0,52.0,68.0,120.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 89,BAURAIN Rudy,85.8,82.0,86.0,92.0,-95.0,95.0,100.0,92.0,100.0,192.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 89,LE TRIONNAIRE Gregory,88.8,80.0,85.0,90.0,95.0,100.0,-105.0,90.0,100.0,190.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 96,GODEC Hakim,91.0,35.0,45.0,50.0,-30.0,40.0,-50.0,50.0,40.0,90.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 102,JOSSE Théo,96.5,70.0,73.0,76.0,103.0,109.0,111.0,76.0,111.0,187.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 67,HAYAT Raphaël,64.8,83.0,-87.0,87.0,104.0,-108.0,-108.0,87.0,104.0,191.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 67,AUBIN Dylan,64.6,70.0,73.0,76.0,-90.0,95.0,-100.0,76.0,95.0,171.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 67,BUTEAU Aurélien,65.8,60.0,68.0,75.0,-75.0,-75.0,76.0,75.0,76.0,151.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 73,COVILLE Charles,71.9,60.0,65.0,72.0,85.0,88.0,-93.0,72.0,88.0,160.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 73,AUDOUX Flavien,69.6,60.0,65.0,68.0,75.0,-76.0,76.0,68.0,76.0,144.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 81,JACQUART Vincent,79.8,85.0,90.0,93.0,-108.0,108.0,-118.0,93.0,108.0,201.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 81,CHENAL-BORDONNOT Vincent,75.1,73.0,76.0,80.0,90.0,-95.0,98.0,80.0,98.0,178.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 81,AVRY Valentin,78.4,68.0,71.0,-74.0,90.0,95.0,98.0,71.0,98.0,169.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 81,HOQUET Simon,78.8,42.0,-45.0,45.0,50.0,55.0,60.0,45.0,60.0,105.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 89,DIXNEUF Mathias,87.6,90.0,-95.0,95.0,120.0,-128.0,-128.0,95.0,120.0,215.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 89,DENOUILLE Kevin,85.4,75.0,80.0,82.0,-92.0,95.0,-105.0,82.0,95.0,177.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 96,TRAVERSE Alexander,90.5,85.0,100.0,105.0,105.0,115.0,-120.0,105.0,115.0,220.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 96,GUEHENNEC François,92.0,68.0,-71.0,71.0,95.0,100.0,104.0,71.0,104.0,175.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 109,LECARS Denovan,106.6,75.0,80.0,85.0,-112.0,115.0,-0.0,85.0,115.0,200.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men >109,LEMO Tamiano,113.3,130.0,-138.0,141.0,165.0,-175.0,181.0,141.0,181.0,322.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 67,HAYAT Raphaël,64.8,83.0,-87.0,87.0,104.0,-108.0,-108.0,87.0,104.0,191.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 67,AUBIN Dylan,64.6,70.0,73.0,76.0,-90.0,95.0,-100.0,76.0,95.0,171.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 67,BUTEAU Aurélien,65.8,60.0,68.0,75.0,-75.0,-75.0,76.0,75.0,76.0,151.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 73,COVILLE Charles,71.9,60.0,65.0,72.0,85.0,88.0,-93.0,72.0,88.0,160.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 73,AUDOUX Flavien,69.6,60.0,65.0,68.0,75.0,-76.0,76.0,68.0,76.0,144.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 81,JACQUART Vincent,79.8,85.0,90.0,93.0,-108.0,108.0,-118.0,93.0,108.0,201.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 81,CHENAL-BORDONNOT Vincent,75.1,73.0,76.0,80.0,90.0,-95.0,98.0,80.0,98.0,178.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 81,AVRY Valentin,78.4,68.0,71.0,-74.0,90.0,95.0,98.0,71.0,98.0,169.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 81,HOQUET Simon,78.8,42.0,-45.0,45.0,50.0,55.0,60.0,45.0,60.0,105.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 89,DIXNEUF Mathias,87.6,90.0,-95.0,95.0,120.0,-128.0,-128.0,95.0,120.0,215.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 89,DENOUILLE Kevin,85.4,75.0,80.0,82.0,-92.0,95.0,-105.0,82.0,95.0,177.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 96,TRAVERSE Alexander,90.5,85.0,100.0,105.0,105.0,115.0,-120.0,105.0,115.0,220.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 96,GUEHENNEC François,92.0,68.0,-71.0,71.0,95.0,100.0,104.0,71.0,104.0,175.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 109,LECARS Denovan,106.6,75.0,80.0,85.0,-112.0,115.0,-0.0,85.0,115.0,200.0
+BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men >109,LEMO Tamiano,113.3,130.0,-138.0,141.0,165.0,-175.0,181.0,141.0,181.0,322.0

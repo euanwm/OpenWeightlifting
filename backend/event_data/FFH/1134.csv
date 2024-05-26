@@ -1,0 +1,471 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Women 55,INIZAN Manon,54.9,35.0,-40.0,-40.0,45.0,50.0,-55.0,35.0,50.0,85.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 55,JABELLAH Sara,53.5,50.0,55.0,-57.0,67.0,71.0,-75.0,55.0,71.0,126.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 71,TORRES Marina,69.5,48.0,-50.0,-50.0,68.0,70.0,73.0,48.0,73.0,121.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 71,PAZ Sarah,67.6,45.0,48.0,-51.0,60.0,65.0,-70.0,48.0,65.0,113.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 81,SALLOUM Flora,79.7,-50.0,50.0,53.0,62.0,66.0,-0.0,53.0,66.0,119.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 87,ABBE Kelly,83.5,45.0,-49.0,-50.0,60.0,63.0,-65.0,45.0,63.0,108.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U10 Men ,CAUPENNE GRZESIAK Constant,21.2,6.0,7.0,9.0,9.0,10.0,12.0,9.0,12.0,21.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U13 Men 35,LARROQUE Luca,30.2,9.0,11.0,13.0,12.0,14.0,16.0,13.0,16.0,29.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U10 Men ,CAUPENNE GRZESIAK Constant,21.2,6.0,7.0,9.0,9.0,10.0,12.0,9.0,12.0,21.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U13 Men 35,LARROQUE Luca,30.2,9.0,11.0,13.0,12.0,14.0,16.0,13.0,16.0,29.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U15 Women 40,KELLER Adele,39.69,10.0,13.0,16.0,18.0,21.0,23.0,16.0,23.0,39.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U15 Women 59,FAIVRE-CLAUSS Lisa,56.65,22.0,26.0,30.0,32.0,36.0,40.0,30.0,40.0,70.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U15 Women 64,BOLINA NAUBIER Aleyna,62.22,22.0,26.0,30.0,32.0,36.0,-40.0,30.0,36.0,66.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U15 Women 64,BONOLIS SCHOETTEL Victoria,59.79,16.0,19.0,21.0,22.0,25.0,-28.0,21.0,25.0,46.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U15 Women 71,JUNG Léonie,66.74,28.0,-30.0,30.0,33.0,36.0,39.0,30.0,39.0,69.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U15 Women 71,MOUSSOUNGEDI Ayana,66.5,19.0,-22.0,-22.0,25.0,29.0,31.0,19.0,31.0,50.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U15 Women 71,BACHER Manon,66.58,16.0,19.0,21.0,22.0,-26.0,-27.0,21.0,22.0,43.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Women 64,MELLIGER Alicia,62.91,30.0,33.0,36.0,40.0,44.0,48.0,36.0,48.0,84.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Women 64,NICKLES Lola,63.05,28.0,30.0,-32.0,37.0,40.0,42.0,30.0,42.0,72.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Women 59,BORGES Lina,55.98,32.0,-36.0,40.0,40.0,-45.0,45.0,40.0,45.0,85.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Women 76,KAERCHER Maïwenn,72.98,-44.0,-44.0,44.0,59.0,-62.0,-62.0,44.0,59.0,103.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 59,BAILLY Lucie,56.88,42.0,45.0,-47.0,57.0,-60.0,60.0,45.0,60.0,105.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 59,JIERRY Audrey,58.9,18.0,21.0,23.0,25.0,30.0,-35.0,23.0,30.0,53.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 64,CORLOBE-PHOL Melanie,62.78,40.0,43.0,-45.0,50.0,-55.0,55.0,43.0,55.0,98.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 71,HECKEL Joann,70.46,37.0,41.0,-45.0,45.0,50.0,-55.0,41.0,50.0,91.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 76,HOLTZMANN Anthea,72.75,49.0,52.0,55.0,64.0,67.0,70.0,55.0,70.0,125.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U15 Women 40,KELLER Adele,39.69,10.0,13.0,16.0,18.0,21.0,23.0,16.0,23.0,39.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U15 Women 59,FAIVRE-CLAUSS Lisa,56.65,22.0,26.0,30.0,32.0,36.0,40.0,30.0,40.0,70.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U15 Women 64,BOLINA NAUBIER Aleyna,62.22,22.0,26.0,30.0,32.0,36.0,-40.0,30.0,36.0,66.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U15 Women 64,BONOLIS SCHOETTEL Victoria,59.79,16.0,19.0,21.0,22.0,25.0,-28.0,21.0,25.0,46.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U15 Women 71,JUNG Léonie,66.74,28.0,-30.0,30.0,33.0,36.0,39.0,30.0,39.0,69.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U15 Women 71,MOUSSOUNGEDI Ayana,66.5,19.0,-22.0,-22.0,25.0,29.0,31.0,19.0,31.0,50.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U15 Women 71,BACHER Manon,66.58,16.0,19.0,21.0,22.0,-26.0,-27.0,21.0,22.0,43.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Women 64,MELLIGER Alicia,62.91,30.0,33.0,36.0,40.0,44.0,48.0,36.0,48.0,84.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Women 64,NICKLES Lola,63.05,28.0,30.0,-32.0,37.0,40.0,42.0,30.0,42.0,72.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Women 59,BORGES Lina,55.98,32.0,-36.0,40.0,40.0,-45.0,45.0,40.0,45.0,85.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Women 76,KAERCHER Maïwenn,72.98,-44.0,-44.0,44.0,59.0,-62.0,-62.0,44.0,59.0,103.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 59,BAILLY Lucie,56.88,42.0,45.0,-47.0,57.0,-60.0,60.0,45.0,60.0,105.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 59,JIERRY Audrey,58.9,18.0,21.0,23.0,25.0,30.0,-35.0,23.0,30.0,53.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 64,CORLOBE-PHOL Melanie,62.78,40.0,43.0,-45.0,50.0,-55.0,55.0,43.0,55.0,98.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 71,HECKEL Joann,70.46,37.0,41.0,-45.0,45.0,50.0,-55.0,41.0,50.0,91.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 76,HOLTZMANN Anthea,72.75,49.0,52.0,55.0,64.0,67.0,70.0,55.0,70.0,125.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Men 73,LOUSSE Marius,72.6,50.0,55.0,60.0,70.0,75.0,80.0,60.0,80.0,140.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Men 81,ARIHIR Sofian,79.7,58.0,-63.0,-63.0,70.0,-75.0,-75.0,58.0,70.0,128.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Men 89,ARIHIR Ismail,85.4,50.0,55.0,58.0,65.0,-70.0,72.0,58.0,72.0,130.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Men 89,MASSE BIBOUM Horus,84.2,43.0,45.0,48.0,55.0,58.0,62.0,48.0,62.0,110.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 67,LALOU Yacine,66.4,57.0,60.0,-65.0,65.0,70.0,73.0,60.0,73.0,133.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 73,BOUELLE Théo,72.1,83.0,86.0,-90.0,-110.0,110.0,-113.0,86.0,110.0,196.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 73,JAFFAR Hussein,72.4,74.0,77.0,-80.0,89.0,-92.0,-92.0,77.0,89.0,166.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 73,CARACATZANIS Quentin,67.8,45.0,50.0,-55.0,-60.0,60.0,70.0,50.0,70.0,120.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 73,LULLIEN Ronan,72.8,45.0,50.0,-55.0,-65.0,65.0,70.0,50.0,70.0,120.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,NGUYEN Sylvain,79.3,55.0,60.0,-65.0,70.0,75.0,80.0,60.0,80.0,140.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,ETAIX Gaultier,76.6,-60.0,60.0,-65.0,70.0,-75.0,-75.0,60.0,70.0,130.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,SALMON Albin,80.8,-85.0,85.0,-90.0,-103.0,-103.0,-103.0,85.0,0.0,0.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,DOUTEMENT Adelphes,88.3,75.0,80.0,-85.0,85.0,90.0,100.0,80.0,100.0,180.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,DOGU Dylan,84.4,60.0,65.0,-70.0,73.0,78.0,-80.0,65.0,78.0,143.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,ISA ALI Abdulkarim,84.8,43.0,-46.0,-46.0,60.0,-64.0,-64.0,43.0,60.0,103.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 96,ABOU EID Paul,95.7,85.0,-90.0,-90.0,105.0,110.0,-115.0,85.0,110.0,195.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Men 73,LOUSSE Marius,72.6,50.0,55.0,60.0,70.0,75.0,80.0,60.0,80.0,140.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Men 81,ARIHIR Sofian,79.7,58.0,-63.0,-63.0,70.0,-75.0,-75.0,58.0,70.0,128.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Men 89,ARIHIR Ismail,85.4,50.0,55.0,58.0,65.0,-70.0,72.0,58.0,72.0,130.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Men 89,MASSE BIBOUM Horus,84.2,43.0,45.0,48.0,55.0,58.0,62.0,48.0,62.0,110.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 67,LALOU Yacine,66.4,57.0,60.0,-65.0,65.0,70.0,73.0,60.0,73.0,133.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 73,BOUELLE Théo,72.1,83.0,86.0,-90.0,-110.0,110.0,-113.0,86.0,110.0,196.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 73,JAFFAR Hussein,72.4,74.0,77.0,-80.0,89.0,-92.0,-92.0,77.0,89.0,166.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 73,CARACATZANIS Quentin,67.8,45.0,50.0,-55.0,-60.0,60.0,70.0,50.0,70.0,120.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 73,LULLIEN Ronan,72.8,45.0,50.0,-55.0,-65.0,65.0,70.0,50.0,70.0,120.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,NGUYEN Sylvain,79.3,55.0,60.0,-65.0,70.0,75.0,80.0,60.0,80.0,140.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,ETAIX Gaultier,76.6,-60.0,60.0,-65.0,70.0,-75.0,-75.0,60.0,70.0,130.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,SALMON Albin,80.8,-85.0,85.0,-90.0,-103.0,-103.0,-103.0,85.0,0.0,0.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,DOUTEMENT Adelphes,88.3,75.0,80.0,-85.0,85.0,90.0,100.0,80.0,100.0,180.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,DOGU Dylan,84.4,60.0,65.0,-70.0,73.0,78.0,-80.0,65.0,78.0,143.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,ISA ALI Abdulkarim,84.8,43.0,-46.0,-46.0,60.0,-64.0,-64.0,43.0,60.0,103.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 96,ABOU EID Paul,95.7,85.0,-90.0,-90.0,105.0,110.0,-115.0,85.0,110.0,195.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Men 81,GARZANDAT Mattéo,74.7,51.0,-54.0,54.0,66.0,-70.0,-70.0,54.0,66.0,120.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Women 55,MARGUERAT Lola,54.95,26.0,-30.0,30.0,38.0,-40.0,40.0,30.0,40.0,70.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Women 55,WEISKOPF Emilie,51.3,24.0,27.0,-30.0,36.0,38.0,39.0,27.0,39.0,66.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Women 81,TRIDON Christina,76.3,34.0,38.0,40.0,49.0,53.0,55.0,40.0,55.0,95.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Men 81,GARZANDAT Mattéo,74.7,51.0,-54.0,54.0,66.0,-70.0,-70.0,54.0,66.0,120.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Women 55,MARGUERAT Lola,54.95,26.0,-30.0,30.0,38.0,-40.0,40.0,30.0,40.0,70.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Women 55,WEISKOPF Emilie,51.3,24.0,27.0,-30.0,36.0,38.0,39.0,27.0,39.0,66.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Women 81,TRIDON Christina,76.3,34.0,38.0,40.0,49.0,53.0,55.0,40.0,55.0,95.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U15 Men 55,ESNAULT Reda,51.1,40.0,43.0,46.0,50.0,55.0,58.0,46.0,58.0,104.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U15 Men >102,DUBOIS MIKULASKO Lucas,117.0,52.0,-56.0,56.0,62.0,67.0,71.0,56.0,71.0,127.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Men 81,DUBOIS WONG Alexi,73.15,65.0,-70.0,-75.0,75.0,80.0,-87.0,65.0,80.0,145.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,MARIE-JOSEPH Patrick,80.4,-80.0,80.0,-85.0,100.0,105.0,-110.0,80.0,105.0,185.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,FERSING Kevin,82.9,88.0,91.0,93.0,113.0,118.0,-121.0,93.0,118.0,211.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U15 Men 55,ESNAULT Reda,51.1,40.0,43.0,46.0,50.0,55.0,58.0,46.0,58.0,104.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U15 Men >102,DUBOIS MIKULASKO Lucas,117.0,52.0,-56.0,56.0,62.0,67.0,71.0,56.0,71.0,127.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Men 81,DUBOIS WONG Alexi,73.15,65.0,-70.0,-75.0,75.0,80.0,-87.0,65.0,80.0,145.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,MARIE-JOSEPH Patrick,80.4,-80.0,80.0,-85.0,100.0,105.0,-110.0,80.0,105.0,185.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,FERSING Kevin,82.9,88.0,91.0,93.0,113.0,118.0,-121.0,93.0,118.0,211.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U10 Women ,MARGUERAT Mila,38.6,18.0,20.0,22.0,26.0,28.0,29.0,22.0,29.0,51.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U13 Women 45,STATTNER Léa,42.55,12.0,14.0,16.0,17.0,19.0,21.0,16.0,21.0,37.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U13 Women 49,BONNET Elia,45.25,18.0,20.0,-22.0,28.0,-30.0,30.0,20.0,30.0,50.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U13 Men 35,BRUCK Joan,31.6,21.0,23.0,25.0,31.0,33.0,-35.0,25.0,33.0,58.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U13 Men 61,DUBOIS MIKULASKO Tom,61.0,26.0,28.0,30.0,36.0,38.0,40.0,30.0,40.0,70.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U10 Women ,MARGUERAT Mila,38.6,18.0,20.0,22.0,26.0,28.0,29.0,22.0,29.0,51.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U13 Women 45,STATTNER Léa,42.55,12.0,14.0,16.0,17.0,19.0,21.0,16.0,21.0,37.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U13 Women 49,BONNET Elia,45.25,18.0,20.0,-22.0,28.0,-30.0,30.0,20.0,30.0,50.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U13 Men 35,BRUCK Joan,31.6,21.0,23.0,25.0,31.0,33.0,-35.0,25.0,33.0,58.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U13 Men 61,DUBOIS MIKULASKO Tom,61.0,26.0,28.0,30.0,36.0,38.0,40.0,30.0,40.0,70.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U13 Men 35,PIO Noah,34.8,15.0,-17.0,17.0,19.0,21.0,23.0,17.0,23.0,40.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U13 Men 40,CHASTAN Allan,35.8,16.0,18.0,20.0,22.0,24.0,26.0,20.0,26.0,46.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U13 Men 35,PIO Noah,34.8,15.0,-17.0,17.0,19.0,21.0,23.0,17.0,23.0,40.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U13 Men 40,CHASTAN Allan,35.8,16.0,18.0,20.0,22.0,24.0,26.0,20.0,26.0,46.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Women 64,ROBERT Delia,62.4,20.0,24.0,27.0,30.0,34.0,37.0,27.0,37.0,64.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Women 71,ALAZARD BOCCEDA Alyssia,71.0,-37.0,-40.0,-40.0,44.0,47.0,-50.0,0.0,47.0,0.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Women >87,BONDU Manon,94.9,-46.0,-46.0,46.0,-55.0,55.0,-60.0,46.0,55.0,101.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 55,PEDROLA Alison,53.7,40.0,42.0,43.0,50.0,-0.0,-0.0,43.0,50.0,93.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 59,MLODZINSKI Alexandra,58.3,38.0,42.0,45.0,50.0,55.0,-60.0,45.0,55.0,100.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 64,FOURNIER Sarah,61.8,50.0,54.0,57.0,66.0,71.0,74.0,57.0,74.0,131.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 64,BRECZEWSKA Kamila,63.7,30.0,33.0,-36.0,-40.0,43.0,-46.0,33.0,43.0,76.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 71,MOREL Margaux,71.0,38.0,-40.0,-40.0,52.0,-55.0,-55.0,38.0,52.0,90.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women >87,GIMBERT Valeriane,88.7,45.0,49.0,-52.0,60.0,65.0,-70.0,49.0,65.0,114.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Women 64,ROBERT Delia,62.4,20.0,24.0,27.0,30.0,34.0,37.0,27.0,37.0,64.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Women 71,ALAZARD BOCCEDA Alyssia,71.0,-37.0,-40.0,-40.0,44.0,47.0,-50.0,0.0,47.0,0.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Women >87,BONDU Manon,94.9,-46.0,-46.0,46.0,-55.0,55.0,-60.0,46.0,55.0,101.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 55,PEDROLA Alison,53.7,40.0,42.0,43.0,50.0,-0.0,-0.0,43.0,50.0,93.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 59,MLODZINSKI Alexandra,58.3,38.0,42.0,45.0,50.0,55.0,-60.0,45.0,55.0,100.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 64,FOURNIER Sarah,61.8,50.0,54.0,57.0,66.0,71.0,74.0,57.0,74.0,131.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 64,BRECZEWSKA Kamila,63.7,30.0,33.0,-36.0,-40.0,43.0,-46.0,33.0,43.0,76.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 71,MOREL Margaux,71.0,38.0,-40.0,-40.0,52.0,-55.0,-55.0,38.0,52.0,90.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women >87,GIMBERT Valeriane,88.7,45.0,49.0,-52.0,60.0,65.0,-70.0,49.0,65.0,114.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Men 73,DUPOMMIER Remi,72.8,70.0,75.0,80.0,90.0,95.0,100.0,80.0,100.0,180.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Men 89,LOPEZ Théo,87.1,50.0,55.0,58.0,65.0,70.0,-73.0,58.0,70.0,128.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 67,JAMGOTCHIAN Emilien,65.7,35.0,37.0,40.0,45.0,48.0,50.0,40.0,50.0,90.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,BAMBOU Axel,76.8,55.0,60.0,-65.0,75.0,80.0,90.0,60.0,90.0,150.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,VECCHIONE Angelo,77.2,55.0,62.0,67.0,-75.0,-75.0,75.0,67.0,75.0,142.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,PLOCH Yann,79.5,50.0,53.0,56.0,60.0,-65.0,65.0,56.0,65.0,121.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,BOISSEAU Camille,77.6,48.0,53.0,56.0,-60.0,60.0,-62.0,56.0,60.0,116.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,BOISSEAU Noah,74.4,35.0,40.0,45.0,45.0,50.0,52.0,45.0,52.0,97.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,ALLAHBROU Benjamin,87.1,55.0,60.0,-64.0,70.0,72.0,75.0,60.0,75.0,135.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Men 73,DUPOMMIER Remi,72.8,70.0,75.0,80.0,90.0,95.0,100.0,80.0,100.0,180.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Men 89,LOPEZ Théo,87.1,50.0,55.0,58.0,65.0,70.0,-73.0,58.0,70.0,128.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 67,JAMGOTCHIAN Emilien,65.7,35.0,37.0,40.0,45.0,48.0,50.0,40.0,50.0,90.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,BAMBOU Axel,76.8,55.0,60.0,-65.0,75.0,80.0,90.0,60.0,90.0,150.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,VECCHIONE Angelo,77.2,55.0,62.0,67.0,-75.0,-75.0,75.0,67.0,75.0,142.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,PLOCH Yann,79.5,50.0,53.0,56.0,60.0,-65.0,65.0,56.0,65.0,121.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,BOISSEAU Camille,77.6,48.0,53.0,56.0,-60.0,60.0,-62.0,56.0,60.0,116.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,BOISSEAU Noah,74.4,35.0,40.0,45.0,45.0,50.0,52.0,45.0,52.0,97.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,ALLAHBROU Benjamin,87.1,55.0,60.0,-64.0,70.0,72.0,75.0,60.0,75.0,135.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U10 Men ,ZEKANOWSKI Martin,35.1,11.0,13.0,15.0,13.0,15.0,17.0,15.0,17.0,32.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U13 Men 35,THOMAS Briac,33.6,17.0,19.0,21.0,21.0,23.0,25.0,21.0,25.0,46.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U13 Men 40,ERLER Enzo,38.1,14.0,16.0,-18.0,17.0,19.0,21.0,16.0,21.0,37.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U13 Men 55,KLOCK Janis,52.98,23.0,25.0,-27.0,32.0,34.0,36.0,25.0,36.0,61.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U13 Men 61,TUGEND Timeo,56.5,24.0,26.0,-28.0,32.0,34.0,36.0,26.0,36.0,62.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U13 Men 61,AUF DER MAUER Tom,57.5,11.0,-13.0,13.0,14.0,16.0,18.0,13.0,18.0,31.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U10 Men ,ZEKANOWSKI Martin,35.1,11.0,13.0,15.0,13.0,15.0,17.0,15.0,17.0,32.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U13 Men 35,THOMAS Briac,33.6,17.0,19.0,21.0,21.0,23.0,25.0,21.0,25.0,46.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U13 Men 40,ERLER Enzo,38.1,14.0,16.0,-18.0,17.0,19.0,21.0,16.0,21.0,37.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U13 Men 55,KLOCK Janis,52.98,23.0,25.0,-27.0,32.0,34.0,36.0,25.0,36.0,61.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U13 Men 61,TUGEND Timeo,56.5,24.0,26.0,-28.0,32.0,34.0,36.0,26.0,36.0,62.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U13 Men 61,AUF DER MAUER Tom,57.5,11.0,-13.0,13.0,14.0,16.0,18.0,13.0,18.0,31.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U15 Men 49,GOERGER Tom,46.7,25.0,28.0,30.0,34.0,37.0,40.0,30.0,40.0,70.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U15 Men 49,ARAUJO Valentin,45.6,20.0,22.0,-24.0,22.0,25.0,28.0,22.0,28.0,50.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U15 Men 55,CARMANS Victor,50.3,15.0,17.0,19.0,-20.0,20.0,22.0,19.0,22.0,41.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Men 55,SIMON Justin,53.4,34.0,38.0,41.0,43.0,47.0,-48.0,41.0,47.0,88.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Men 67,GACHOD Pierre,63.2,56.0,59.0,62.0,66.0,71.0,75.0,62.0,75.0,137.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Men 81,SPAGNULO Tommaso,74.2,62.0,65.0,67.0,83.0,87.0,90.0,67.0,90.0,157.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Men 81,LIEU MINH Jessy,75.6,64.0,-67.0,-67.0,78.0,82.0,-85.0,64.0,82.0,146.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Men 96,KLICKI Alexis,92.4,85.0,90.0,93.0,110.0,115.0,117.0,93.0,117.0,210.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,CECEKE Thomas,77.3,80.0,83.0,-86.0,95.0,100.0,105.0,83.0,105.0,188.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,ATANAZIO Jerome,76.2,60.0,65.0,-70.0,70.0,77.0,-82.0,65.0,77.0,142.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,LUTTMANN Jérémy,86.5,65.0,-69.0,69.0,83.0,87.0,-90.0,69.0,87.0,156.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 96,ALBRECHT Robert,95.1,44.0,49.0,-52.0,55.0,60.0,65.0,49.0,65.0,114.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men >109,KOMLJENOVIC Stephane,120.0,70.0,-75.0,-75.0,100.0,105.0,110.0,70.0,110.0,180.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U15 Men 49,GOERGER Tom,46.7,25.0,28.0,30.0,34.0,37.0,40.0,30.0,40.0,70.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U15 Men 49,ARAUJO Valentin,45.6,20.0,22.0,-24.0,22.0,25.0,28.0,22.0,28.0,50.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U15 Men 55,CARMANS Victor,50.3,15.0,17.0,19.0,-20.0,20.0,22.0,19.0,22.0,41.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Men 55,SIMON Justin,53.4,34.0,38.0,41.0,43.0,47.0,-48.0,41.0,47.0,88.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Men 67,GACHOD Pierre,63.2,56.0,59.0,62.0,66.0,71.0,75.0,62.0,75.0,137.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Men 81,SPAGNULO Tommaso,74.2,62.0,65.0,67.0,83.0,87.0,90.0,67.0,90.0,157.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Men 81,LIEU MINH Jessy,75.6,64.0,-67.0,-67.0,78.0,82.0,-85.0,64.0,82.0,146.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Men 96,KLICKI Alexis,92.4,85.0,90.0,93.0,110.0,115.0,117.0,93.0,117.0,210.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,CECEKE Thomas,77.3,80.0,83.0,-86.0,95.0,100.0,105.0,83.0,105.0,188.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,ATANAZIO Jerome,76.2,60.0,65.0,-70.0,70.0,77.0,-82.0,65.0,77.0,142.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,LUTTMANN Jérémy,86.5,65.0,-69.0,69.0,83.0,87.0,-90.0,69.0,87.0,156.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 96,ALBRECHT Robert,95.1,44.0,49.0,-52.0,55.0,60.0,65.0,49.0,65.0,114.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men >109,KOMLJENOVIC Stephane,120.0,70.0,-75.0,-75.0,100.0,105.0,110.0,70.0,110.0,180.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U13 Men 35,VEFOUR Noah,28.8,25.0,27.0,29.0,35.0,-37.0,37.0,29.0,37.0,66.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U13 Men 35,ESSOB Noah,34.96,26.0,28.0,30.0,30.0,32.0,34.0,30.0,34.0,64.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U13 Men 55,AUZATE Ismaël,53.77,35.0,37.0,-39.0,45.0,47.0,49.0,37.0,49.0,86.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U13 Women 40,VEFOUR Adèle,37.82,29.0,-31.0,31.0,39.0,41.0,43.0,31.0,43.0,74.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U13 Women 45,RICHARD Maelys,41.6,33.0,35.0,37.0,43.0,45.0,47.0,37.0,47.0,84.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U13 Men 35,VEFOUR Noah,28.8,25.0,27.0,29.0,35.0,-37.0,37.0,29.0,37.0,66.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U13 Men 35,ESSOB Noah,34.96,26.0,28.0,30.0,30.0,32.0,34.0,30.0,34.0,64.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U13 Men 55,AUZATE Ismaël,53.77,35.0,37.0,-39.0,45.0,47.0,49.0,37.0,49.0,86.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U13 Women 40,VEFOUR Adèle,37.82,29.0,-31.0,31.0,39.0,41.0,43.0,31.0,43.0,74.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U13 Women 45,RICHARD Maelys,41.6,33.0,35.0,37.0,43.0,45.0,47.0,37.0,47.0,84.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U15 Women 71,HOARAU Christina marie alice,68.5,26.0,28.0,30.0,32.0,34.0,-37.0,30.0,34.0,64.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Women 59,MARLIN Amélie,58.92,-35.0,35.0,-40.0,45.0,50.0,-55.0,35.0,50.0,85.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Women 64,BOYER Joyce,64.0,30.0,-33.0,-33.0,38.0,40.0,-43.0,30.0,40.0,70.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 49,RAGOU Marie eve,48.93,25.0,-27.0,27.0,-35.0,35.0,-37.0,27.0,35.0,62.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 55,DALLET Charline,53.42,33.0,36.0,39.0,43.0,47.0,50.0,39.0,50.0,89.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 55,DANDIN Marie,54.94,-24.0,25.0,27.0,35.0,37.0,-40.0,27.0,37.0,64.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 64,BONMALAIS Valérie,62.1,-35.0,35.0,-40.0,45.0,48.0,50.0,35.0,50.0,85.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 71,MOREL Ericka,67.0,45.0,48.0,50.0,60.0,64.0,-67.0,50.0,64.0,114.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 76,MOLINARO Asia,72.1,36.0,-39.0,-40.0,46.0,50.0,-52.0,36.0,50.0,86.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U15 Women 71,HOARAU Christina marie alice,68.5,26.0,28.0,30.0,32.0,34.0,-37.0,30.0,34.0,64.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Women 59,MARLIN Amélie,58.92,-35.0,35.0,-40.0,45.0,50.0,-55.0,35.0,50.0,85.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Women 64,BOYER Joyce,64.0,30.0,-33.0,-33.0,38.0,40.0,-43.0,30.0,40.0,70.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 49,RAGOU Marie eve,48.93,25.0,-27.0,27.0,-35.0,35.0,-37.0,27.0,35.0,62.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 55,DALLET Charline,53.42,33.0,36.0,39.0,43.0,47.0,50.0,39.0,50.0,89.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 55,DANDIN Marie,54.94,-24.0,25.0,27.0,35.0,37.0,-40.0,27.0,37.0,64.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 64,BONMALAIS Valérie,62.1,-35.0,35.0,-40.0,45.0,48.0,50.0,35.0,50.0,85.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 71,MOREL Ericka,67.0,45.0,48.0,50.0,60.0,64.0,-67.0,50.0,64.0,114.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 76,MOLINARO Asia,72.1,36.0,-39.0,-40.0,46.0,50.0,-52.0,36.0,50.0,86.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Men 67,MASSIAU Gabriel,62.88,40.0,45.0,47.0,50.0,52.0,55.0,47.0,55.0,102.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Men 102,SAVIGNY Noah,99.61,65.0,70.0,-75.0,85.0,90.0,-95.0,70.0,90.0,160.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 67,RICHARD Olivier,66.8,75.0,80.0,-85.0,95.0,-100.0,-100.0,80.0,95.0,175.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 73,TEILLAUCHET Jacky,72.8,58.0,61.0,64.0,75.0,80.0,82.0,64.0,82.0,146.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 73,FONTAINE Romain,70.65,50.0,55.0,60.0,70.0,75.0,80.0,60.0,80.0,140.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 73,DHANBIR Sohan,72.11,40.0,55.0,57.0,50.0,65.0,-70.0,57.0,65.0,122.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 73,GARNIER Eric,72.39,-50.0,-50.0,50.0,-65.0,-65.0,70.0,50.0,70.0,120.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,ANGAMA PETCHY Adolphe,85.87,62.0,-67.0,-67.0,70.0,-75.0,-77.0,62.0,70.0,132.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 96,PELOPS Mathieu,92.0,70.0,-75.0,80.0,90.0,100.0,105.0,80.0,105.0,185.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 102,LAPIERRE Matthieu,101.6,-65.0,65.0,70.0,90.0,-95.0,97.0,70.0,97.0,167.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Men 67,MASSIAU Gabriel,62.88,40.0,45.0,47.0,50.0,52.0,55.0,47.0,55.0,102.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Men 102,SAVIGNY Noah,99.61,65.0,70.0,-75.0,85.0,90.0,-95.0,70.0,90.0,160.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 67,RICHARD Olivier,66.8,75.0,80.0,-85.0,95.0,-100.0,-100.0,80.0,95.0,175.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 73,TEILLAUCHET Jacky,72.8,58.0,61.0,64.0,75.0,80.0,82.0,64.0,82.0,146.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 73,FONTAINE Romain,70.65,50.0,55.0,60.0,70.0,75.0,80.0,60.0,80.0,140.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 73,DHANBIR Sohan,72.11,40.0,55.0,57.0,50.0,65.0,-70.0,57.0,65.0,122.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 73,GARNIER Eric,72.39,-50.0,-50.0,50.0,-65.0,-65.0,70.0,50.0,70.0,120.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,ANGAMA PETCHY Adolphe,85.87,62.0,-67.0,-67.0,70.0,-75.0,-77.0,62.0,70.0,132.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 96,PELOPS Mathieu,92.0,70.0,-75.0,80.0,90.0,100.0,105.0,80.0,105.0,185.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 102,LAPIERRE Matthieu,101.6,-65.0,65.0,70.0,90.0,-95.0,97.0,70.0,97.0,167.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U10 Men ,CALANDRE CONSOLO Ryan,29.0,8.0,9.0,10.0,10.0,11.0,12.0,10.0,12.0,22.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U10 Men ,CALANDRE CONSOLO Ryan,29.0,8.0,9.0,10.0,10.0,11.0,12.0,10.0,12.0,22.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Women 55,BOTTA Melanie,54.2,28.0,30.0,33.0,39.0,-43.0,44.0,33.0,44.0,77.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Women 55,GAIGEOT Erinn,53.5,20.0,22.0,-23.0,25.0,28.0,30.0,22.0,30.0,52.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 55,AMRANE Hayate,54.7,37.0,41.0,-45.0,48.0,53.0,-56.0,41.0,53.0,94.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 55,PICOD Aurelia,54.9,27.0,30.0,-32.0,35.0,39.0,-40.0,30.0,39.0,69.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 59,CONSOLO Celia,58.8,47.0,-50.0,51.0,65.0,70.0,-74.0,51.0,70.0,121.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 59,LAMDAHBIN Zahra,58.1,40.0,-45.0,45.0,50.0,55.0,60.0,45.0,60.0,105.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 59,PFOHL Anais,55.4,32.0,35.0,38.0,40.0,44.0,46.0,38.0,46.0,84.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 64,YOUSSOUF Halima,62.9,42.0,45.0,48.0,48.0,53.0,65.0,48.0,65.0,113.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Women 55,BOTTA Melanie,54.2,28.0,30.0,33.0,39.0,-43.0,44.0,33.0,44.0,77.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Women 55,GAIGEOT Erinn,53.5,20.0,22.0,-23.0,25.0,28.0,30.0,22.0,30.0,52.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 55,AMRANE Hayate,54.7,37.0,41.0,-45.0,48.0,53.0,-56.0,41.0,53.0,94.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 55,PICOD Aurelia,54.9,27.0,30.0,-32.0,35.0,39.0,-40.0,30.0,39.0,69.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 59,CONSOLO Celia,58.8,47.0,-50.0,51.0,65.0,70.0,-74.0,51.0,70.0,121.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 59,LAMDAHBIN Zahra,58.1,40.0,-45.0,45.0,50.0,55.0,60.0,45.0,60.0,105.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 59,PFOHL Anais,55.4,32.0,35.0,38.0,40.0,44.0,46.0,38.0,46.0,84.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 64,YOUSSOUF Halima,62.9,42.0,45.0,48.0,48.0,53.0,65.0,48.0,65.0,113.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Men 73,CHAUDUN Antoine,69.9,45.0,48.0,-51.0,51.0,-0.0,-0.0,48.0,51.0,99.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Men 81,BERFINI Viktor,78.4,55.0,-60.0,60.0,70.0,-75.0,75.0,60.0,75.0,135.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 61,RASCLE David,58.4,73.0,77.0,80.0,90.0,96.0,-100.0,80.0,96.0,176.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 61,PECHARD Antoine,58.7,58.0,61.0,65.0,80.0,85.0,-90.0,65.0,85.0,150.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 73,CAROLUS Jordan,72.6,65.0,70.0,-72.0,85.0,90.0,-92.0,70.0,90.0,160.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,HRUZA Loic mathias,78.9,75.0,-80.0,82.0,95.0,100.0,-105.0,82.0,100.0,182.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,AURIFEILLE Aurelien,80.4,72.0,76.0,78.0,85.0,90.0,-93.0,78.0,90.0,168.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,IRLES Antonin,78.8,65.0,72.0,75.0,80.0,85.0,-91.0,75.0,85.0,160.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,DURRE Anatole,85.8,84.0,-88.0,88.0,104.0,-112.0,113.0,88.0,113.0,201.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 96,DUPORT Aymeric,89.8,75.0,-80.0,80.0,-100.0,100.0,-105.0,80.0,100.0,180.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 96,CAMUS Erol,91.0,37.0,41.0,45.0,50.0,55.0,-60.0,45.0,55.0,100.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Men 73,CHAUDUN Antoine,69.9,45.0,48.0,-51.0,51.0,-0.0,-0.0,48.0,51.0,99.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Men 81,BERFINI Viktor,78.4,55.0,-60.0,60.0,70.0,-75.0,75.0,60.0,75.0,135.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 61,RASCLE David,58.4,73.0,77.0,80.0,90.0,96.0,-100.0,80.0,96.0,176.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 61,PECHARD Antoine,58.7,58.0,61.0,65.0,80.0,85.0,-90.0,65.0,85.0,150.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 73,CAROLUS Jordan,72.6,65.0,70.0,-72.0,85.0,90.0,-92.0,70.0,90.0,160.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,HRUZA Loic mathias,78.9,75.0,-80.0,82.0,95.0,100.0,-105.0,82.0,100.0,182.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,AURIFEILLE Aurelien,80.4,72.0,76.0,78.0,85.0,90.0,-93.0,78.0,90.0,168.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,IRLES Antonin,78.8,65.0,72.0,75.0,80.0,85.0,-91.0,75.0,85.0,160.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,DURRE Anatole,85.8,84.0,-88.0,88.0,104.0,-112.0,113.0,88.0,113.0,201.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 96,DUPORT Aymeric,89.8,75.0,-80.0,80.0,-100.0,100.0,-105.0,80.0,100.0,180.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 96,CAMUS Erol,91.0,37.0,41.0,45.0,50.0,55.0,-60.0,45.0,55.0,100.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U15 Men 55,SCHULTZ Martin,51.25,32.0,37.0,-40.0,45.0,48.0,50.0,37.0,50.0,87.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Men 67,BALZER Jules,64.45,40.0,45.0,50.0,57.0,62.0,67.0,50.0,67.0,117.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Men 81,LAEMLIN Yoan,76.25,63.0,-68.0,68.0,-80.0,-80.0,80.0,68.0,80.0,148.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 67,HILDENBRAND Mathieu,65.85,-45.0,45.0,-49.0,60.0,63.0,65.0,45.0,65.0,110.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 73,GROSZ Adrien,68.25,66.0,71.0,-76.0,95.0,-99.0,101.0,71.0,101.0,172.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,LE Hoang dong,76.7,90.0,-94.0,-97.0,105.0,110.0,-120.0,90.0,110.0,200.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,CHRISTNACHER Nicolas,73.5,80.0,85.0,-90.0,105.0,110.0,-115.0,85.0,110.0,195.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,OBYN Christophe,86.9,35.0,39.0,45.0,55.0,57.0,-65.0,45.0,57.0,102.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 102,CAQUEUX Yael,98.4,80.0,85.0,-90.0,105.0,110.0,115.0,85.0,115.0,200.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U15 Men 55,SCHULTZ Martin,51.25,32.0,37.0,-40.0,45.0,48.0,50.0,37.0,50.0,87.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Men 67,BALZER Jules,64.45,40.0,45.0,50.0,57.0,62.0,67.0,50.0,67.0,117.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Men 81,LAEMLIN Yoan,76.25,63.0,-68.0,68.0,-80.0,-80.0,80.0,68.0,80.0,148.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 67,HILDENBRAND Mathieu,65.85,-45.0,45.0,-49.0,60.0,63.0,65.0,45.0,65.0,110.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 73,GROSZ Adrien,68.25,66.0,71.0,-76.0,95.0,-99.0,101.0,71.0,101.0,172.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,LE Hoang dong,76.7,90.0,-94.0,-97.0,105.0,110.0,-120.0,90.0,110.0,200.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,CHRISTNACHER Nicolas,73.5,80.0,85.0,-90.0,105.0,110.0,-115.0,85.0,110.0,195.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,OBYN Christophe,86.9,35.0,39.0,45.0,55.0,57.0,-65.0,45.0,57.0,102.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 102,CAQUEUX Yael,98.4,80.0,85.0,-90.0,105.0,110.0,115.0,85.0,115.0,200.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Women 59,MILTO Lyne,58.0,25.0,27.0,-30.0,33.0,36.0,40.0,27.0,40.0,67.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Women 81,LICHTLE Elisa,78.4,41.0,44.0,47.0,-43.0,43.0,50.0,47.0,50.0,97.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Women 59,MILTO Erine,57.6,-35.0,-35.0,35.0,-45.0,45.0,50.0,35.0,50.0,85.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 55,HERZIG Marion,50.3,29.0,-32.0,-32.0,40.0,43.0,-45.0,29.0,43.0,72.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 59,KATT Jennifer,57.2,34.0,38.0,40.0,46.0,50.0,-52.0,40.0,50.0,90.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 59,EHRHARDT Audrey,57.5,27.0,-29.0,30.0,35.0,-39.0,-39.0,30.0,35.0,65.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 59,BAESLE Audrey,57.8,25.0,-28.0,-28.0,33.0,-36.0,36.0,25.0,36.0,61.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 71,LANGLOIS Natacha,65.8,34.0,-37.0,-38.0,47.0,50.0,-51.0,34.0,50.0,84.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 71,LICHTLE Corinne,66.8,28.0,31.0,-32.0,40.0,43.0,-46.0,31.0,43.0,74.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 71,MOLES Cynthia,68.1,20.0,23.0,-26.0,25.0,28.0,30.0,23.0,30.0,53.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 76,GERARDIN Sarah,74.3,35.0,38.0,40.0,45.0,48.0,50.0,40.0,50.0,90.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 76,SCHNEBELEN Claire,75.7,30.0,-33.0,33.0,35.0,38.0,40.0,33.0,40.0,73.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 81,MICHAUD Léa,76.3,-31.0,-31.0,31.0,41.0,44.0,47.0,31.0,47.0,78.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Women 59,MILTO Lyne,58.0,25.0,27.0,-30.0,33.0,36.0,40.0,27.0,40.0,67.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Women 81,LICHTLE Elisa,78.4,41.0,44.0,47.0,-43.0,43.0,50.0,47.0,50.0,97.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Women 59,MILTO Erine,57.6,-35.0,-35.0,35.0,-45.0,45.0,50.0,35.0,50.0,85.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 55,HERZIG Marion,50.3,29.0,-32.0,-32.0,40.0,43.0,-45.0,29.0,43.0,72.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 59,KATT Jennifer,57.2,34.0,38.0,40.0,46.0,50.0,-52.0,40.0,50.0,90.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 59,EHRHARDT Audrey,57.5,27.0,-29.0,30.0,35.0,-39.0,-39.0,30.0,35.0,65.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 59,BAESLE Audrey,57.8,25.0,-28.0,-28.0,33.0,-36.0,36.0,25.0,36.0,61.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 71,LANGLOIS Natacha,65.8,34.0,-37.0,-38.0,47.0,50.0,-51.0,34.0,50.0,84.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 71,LICHTLE Corinne,66.8,28.0,31.0,-32.0,40.0,43.0,-46.0,31.0,43.0,74.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 71,MOLES Cynthia,68.1,20.0,23.0,-26.0,25.0,28.0,30.0,23.0,30.0,53.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 76,GERARDIN Sarah,74.3,35.0,38.0,40.0,45.0,48.0,50.0,40.0,50.0,90.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 76,SCHNEBELEN Claire,75.7,30.0,-33.0,33.0,35.0,38.0,40.0,33.0,40.0,73.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 81,MICHAUD Léa,76.3,-31.0,-31.0,31.0,41.0,44.0,47.0,31.0,47.0,78.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U15 Women 49,JOUVRAY Jade,46.7,19.0,-21.0,-21.0,27.0,-30.0,30.0,19.0,30.0,49.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Women 49,OGNEUX Angele,47.0,22.0,25.0,-28.0,27.0,31.0,-34.0,25.0,31.0,56.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Women 55,BOUVY Ana,55.0,28.0,31.0,33.0,32.0,40.0,-43.0,33.0,40.0,73.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Women 55,ROLLIN Sara,51.0,21.0,-23.0,23.0,27.0,30.0,32.0,23.0,32.0,55.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Women 71,LAURENT Emeline,68.8,30.0,34.0,37.0,41.0,46.0,50.0,37.0,50.0,87.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Women 81,JUMEL Chiara,79.6,48.0,53.0,60.0,75.0,81.0,-85.0,60.0,81.0,141.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Women 71,DURAES DE PINHO Elvira,64.2,28.0,31.0,-34.0,35.0,40.0,45.0,31.0,45.0,76.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U15 Women 49,JOUVRAY Jade,46.7,19.0,-21.0,-21.0,27.0,-30.0,30.0,19.0,30.0,49.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Women 49,OGNEUX Angele,47.0,22.0,25.0,-28.0,27.0,31.0,-34.0,25.0,31.0,56.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Women 55,BOUVY Ana,55.0,28.0,31.0,33.0,32.0,40.0,-43.0,33.0,40.0,73.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Women 55,ROLLIN Sara,51.0,21.0,-23.0,23.0,27.0,30.0,32.0,23.0,32.0,55.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Women 71,LAURENT Emeline,68.8,30.0,34.0,37.0,41.0,46.0,50.0,37.0,50.0,87.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Women 81,JUMEL Chiara,79.6,48.0,53.0,60.0,75.0,81.0,-85.0,60.0,81.0,141.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Women 71,DURAES DE PINHO Elvira,64.2,28.0,31.0,-34.0,35.0,40.0,45.0,31.0,45.0,76.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 55,GARCIA Clemence,54.5,42.0,-44.0,-45.0,52.0,55.0,-57.0,42.0,55.0,97.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 55,CONHOC Carlie melissa,52.29,30.0,32.0,34.0,40.0,45.0,47.0,34.0,47.0,81.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 59,DJORDJEVIC Alexandra,57.66,28.0,30.0,-32.0,40.0,-42.0,-43.0,30.0,40.0,70.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 59,AUTRANC Colleen,58.58,21.0,24.0,-26.0,23.0,26.0,28.0,24.0,28.0,52.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 64,MAROUI Salma,60.63,50.0,-53.0,-53.0,72.0,75.0,78.0,50.0,78.0,128.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 64,D ABOVILLE Margaux,60.69,47.0,50.0,-52.0,67.0,70.0,-72.0,50.0,70.0,120.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 64,KHERRAF Lea,59.92,43.0,47.0,-50.0,53.0,57.0,60.0,47.0,60.0,107.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 64,GARDE Morgane,62.97,38.0,40.0,42.0,52.0,55.0,-58.0,42.0,55.0,97.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 64,JUNALIK Julie,62.58,42.0,-45.0,45.0,50.0,-52.0,-52.0,45.0,50.0,95.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 64,DUPERRON Morgane,62.67,30.0,32.0,35.0,43.0,47.0,50.0,35.0,50.0,85.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 64,GRESET Elodie,60.94,45.0,-48.0,-48.0,-63.0,-66.0,-66.0,45.0,0.0,0.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 71,REIS DE OLIVEIRA Clémence,65.05,-51.0,51.0,-53.0,63.0,-66.0,-66.0,51.0,63.0,114.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 71,MORIN Estelle,68.33,48.0,-50.0,51.0,58.0,60.0,63.0,51.0,63.0,114.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 76,CABUT Cassandra,74.51,47.0,50.0,-53.0,58.0,61.0,-63.0,50.0,61.0,111.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 76,DOUVIN Irina,74.3,35.0,-0.0,-0.0,45.0,-0.0,-0.0,35.0,45.0,80.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 81,CHARROIS Pauline,76.4,35.0,38.0,-40.0,50.0,52.0,55.0,38.0,55.0,93.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 87,GRAINDORGE Alice,83.83,38.0,43.0,47.0,55.0,63.0,-67.0,47.0,63.0,110.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 55,GARCIA Clemence,54.5,42.0,-44.0,-45.0,52.0,55.0,-57.0,42.0,55.0,97.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 55,CONHOC Carlie melissa,52.29,30.0,32.0,34.0,40.0,45.0,47.0,34.0,47.0,81.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 59,DJORDJEVIC Alexandra,57.66,28.0,30.0,-32.0,40.0,-42.0,-43.0,30.0,40.0,70.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 59,AUTRANC Colleen,58.58,21.0,24.0,-26.0,23.0,26.0,28.0,24.0,28.0,52.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 64,MAROUI Salma,60.63,50.0,-53.0,-53.0,72.0,75.0,78.0,50.0,78.0,128.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 64,D ABOVILLE Margaux,60.69,47.0,50.0,-52.0,67.0,70.0,-72.0,50.0,70.0,120.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 64,KHERRAF Lea,59.92,43.0,47.0,-50.0,53.0,57.0,60.0,47.0,60.0,107.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 64,GARDE Morgane,62.97,38.0,40.0,42.0,52.0,55.0,-58.0,42.0,55.0,97.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 64,JUNALIK Julie,62.58,42.0,-45.0,45.0,50.0,-52.0,-52.0,45.0,50.0,95.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 64,DUPERRON Morgane,62.67,30.0,32.0,35.0,43.0,47.0,50.0,35.0,50.0,85.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 64,GRESET Elodie,60.94,45.0,-48.0,-48.0,-63.0,-66.0,-66.0,45.0,0.0,0.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 71,REIS DE OLIVEIRA Clémence,65.05,-51.0,51.0,-53.0,63.0,-66.0,-66.0,51.0,63.0,114.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 71,MORIN Estelle,68.33,48.0,-50.0,51.0,58.0,60.0,63.0,51.0,63.0,114.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 76,CABUT Cassandra,74.51,47.0,50.0,-53.0,58.0,61.0,-63.0,50.0,61.0,111.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 76,DOUVIN Irina,74.3,35.0,-0.0,-0.0,45.0,-0.0,-0.0,35.0,45.0,80.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 81,CHARROIS Pauline,76.4,35.0,38.0,-40.0,50.0,52.0,55.0,38.0,55.0,93.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 87,GRAINDORGE Alice,83.83,38.0,43.0,47.0,55.0,63.0,-67.0,47.0,63.0,110.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Men 61,GAILLARD Gwenael,58.4,42.0,45.0,-48.0,52.0,-55.0,55.0,45.0,55.0,100.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Men 67,LEMERLE Maxime,66.5,-55.0,-55.0,-60.0,70.0,-80.0,-80.0,0.0,70.0,0.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 73,CALLE Rodrigue,70.4,85.0,89.0,91.0,105.0,109.0,112.0,91.0,112.0,203.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 73,LETARD-ABRY Robin,69.3,75.0,79.0,81.0,94.0,98.0,101.0,81.0,101.0,182.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 73,BORNUAT Christopher,67.7,-75.0,75.0,80.0,100.0,-105.0,-106.0,80.0,100.0,180.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 73,DELORME Tom,71.8,68.0,72.0,-80.0,90.0,97.0,-103.0,72.0,97.0,169.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 73,LACROIX Guilhem,71.7,72.0,-77.0,-78.0,88.0,-92.0,-92.0,72.0,88.0,160.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,HAKKAR Corentin,76.2,80.0,83.0,-85.0,107.0,112.0,114.0,83.0,114.0,197.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,MARCEL Ludovic,79.5,83.0,-86.0,-86.0,-108.0,108.0,-112.0,83.0,108.0,191.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,MONPIOUX Aurelien,74.7,-75.0,75.0,-80.0,96.0,102.0,-110.0,75.0,102.0,177.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,CHAUTARD Cyril,80.4,40.0,-0.0,-0.0,60.0,70.0,75.0,40.0,75.0,115.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,PAVLOVIC Bogdan,85.8,90.0,95.0,101.0,110.0,-120.0,120.0,101.0,120.0,221.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,VINCENT Ludovic,85.6,88.0,93.0,-100.0,110.0,-120.0,-120.0,93.0,110.0,203.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,CANNET Sebastien,85.9,82.0,-86.0,-86.0,-107.0,107.0,-110.0,82.0,107.0,189.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,SANDOVAL Julien,88.6,-71.0,75.0,81.0,-90.0,95.0,99.0,81.0,99.0,180.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,CHALEAT Kevin,83.1,50.0,55.0,-60.0,60.0,70.0,75.0,55.0,75.0,130.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 96,MESANA Benjamin,91.0,60.0,73.0,78.0,80.0,91.0,-104.0,78.0,91.0,169.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 102,QUERSIN Jean francois,96.8,53.0,57.0,-60.0,62.0,-66.0,-66.0,57.0,62.0,119.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Men 61,GAILLARD Gwenael,58.4,42.0,45.0,-48.0,52.0,-55.0,55.0,45.0,55.0,100.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Men 67,LEMERLE Maxime,66.5,-55.0,-55.0,-60.0,70.0,-80.0,-80.0,0.0,70.0,0.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 73,CALLE Rodrigue,70.4,85.0,89.0,91.0,105.0,109.0,112.0,91.0,112.0,203.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 73,LETARD-ABRY Robin,69.3,75.0,79.0,81.0,94.0,98.0,101.0,81.0,101.0,182.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 73,BORNUAT Christopher,67.7,-75.0,75.0,80.0,100.0,-105.0,-106.0,80.0,100.0,180.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 73,DELORME Tom,71.8,68.0,72.0,-80.0,90.0,97.0,-103.0,72.0,97.0,169.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 73,LACROIX Guilhem,71.7,72.0,-77.0,-78.0,88.0,-92.0,-92.0,72.0,88.0,160.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,HAKKAR Corentin,76.2,80.0,83.0,-85.0,107.0,112.0,114.0,83.0,114.0,197.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,MARCEL Ludovic,79.5,83.0,-86.0,-86.0,-108.0,108.0,-112.0,83.0,108.0,191.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,MONPIOUX Aurelien,74.7,-75.0,75.0,-80.0,96.0,102.0,-110.0,75.0,102.0,177.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,CHAUTARD Cyril,80.4,40.0,-0.0,-0.0,60.0,70.0,75.0,40.0,75.0,115.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,PAVLOVIC Bogdan,85.8,90.0,95.0,101.0,110.0,-120.0,120.0,101.0,120.0,221.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,VINCENT Ludovic,85.6,88.0,93.0,-100.0,110.0,-120.0,-120.0,93.0,110.0,203.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,CANNET Sebastien,85.9,82.0,-86.0,-86.0,-107.0,107.0,-110.0,82.0,107.0,189.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,SANDOVAL Julien,88.6,-71.0,75.0,81.0,-90.0,95.0,99.0,81.0,99.0,180.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,CHALEAT Kevin,83.1,50.0,55.0,-60.0,60.0,70.0,75.0,55.0,75.0,130.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 96,MESANA Benjamin,91.0,60.0,73.0,78.0,80.0,91.0,-104.0,78.0,91.0,169.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 102,QUERSIN Jean francois,96.8,53.0,57.0,-60.0,62.0,-66.0,-66.0,57.0,62.0,119.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U13 Men 40,BODA Ilyes,36.7,15.0,17.0,18.0,17.0,18.0,19.0,18.0,19.0,37.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U13 Women 64,GERACI Marianna,59.8,36.0,38.0,40.0,46.0,48.0,-50.0,40.0,48.0,88.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U13 Men 40,BODA Ilyes,36.7,15.0,17.0,18.0,17.0,18.0,19.0,18.0,19.0,37.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U13 Women 64,GERACI Marianna,59.8,36.0,38.0,40.0,46.0,48.0,-50.0,40.0,48.0,88.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U15 Men 61,BEN AMAR Ayoub,55.5,20.0,23.0,-25.0,25.0,28.0,-31.0,23.0,28.0,51.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U15 Men 61,BEN AMAR Ayoub,55.5,20.0,23.0,-25.0,25.0,28.0,-31.0,23.0,28.0,51.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U10 Women ,LEAL-GIOT Hermine,34.7,13.0,15.0,-17.0,15.0,17.0,18.0,15.0,18.0,33.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U10 Women ,LEAL-GIOT Hermine,34.7,13.0,15.0,-17.0,15.0,17.0,18.0,15.0,18.0,33.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 55,LAVOLÉ Marie,52.5,26.0,29.0,31.0,35.0,39.0,-42.0,31.0,39.0,70.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 59,VENANT Lucie,57.9,30.0,34.0,37.0,40.0,44.0,47.0,37.0,47.0,84.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 71,GIOT Claire marie,67.4,35.0,39.0,42.0,55.0,58.0,-61.0,42.0,58.0,100.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 81,LERICHE SARASIN Juliette,78.5,26.0,29.0,31.0,35.0,38.0,42.0,31.0,42.0,73.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women >87,LOUP Audrey,139.7,37.0,41.0,43.0,55.0,58.0,60.0,43.0,60.0,103.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 55,LAVOLÉ Marie,52.5,26.0,29.0,31.0,35.0,39.0,-42.0,31.0,39.0,70.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 59,VENANT Lucie,57.9,30.0,34.0,37.0,40.0,44.0,47.0,37.0,47.0,84.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 71,GIOT Claire marie,67.4,35.0,39.0,42.0,55.0,58.0,-61.0,42.0,58.0,100.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women 81,LERICHE SARASIN Juliette,78.5,26.0,29.0,31.0,35.0,38.0,42.0,31.0,42.0,73.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Women >87,LOUP Audrey,139.7,37.0,41.0,43.0,55.0,58.0,60.0,43.0,60.0,103.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Men 67,JUREK Marcel,67.0,52.0,56.0,-60.0,75.0,-78.0,-80.0,56.0,75.0,131.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Men 61,ALONSO Nicolas,60.3,-56.0,56.0,60.0,76.0,79.0,-82.0,60.0,79.0,139.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Men 67,ZAROUKI Keyan,65.8,-65.0,70.0,-73.0,93.0,100.0,-103.0,70.0,100.0,170.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 73,MAZZOCHI Remi,72.9,65.0,-70.0,70.0,80.0,85.0,-90.0,70.0,85.0,155.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,EVESQUE Hugo,75.6,-60.0,60.0,65.0,75.0,80.0,85.0,65.0,85.0,150.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,REYNAUD Loic,78.0,55.0,60.0,-65.0,75.0,80.0,86.0,60.0,86.0,146.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,ZAMUDIO Sebastien,88.9,82.0,86.0,-90.0,105.0,-110.0,-110.0,86.0,105.0,191.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,LOPEZ Stephane,81.1,70.0,-74.0,76.0,94.0,98.0,102.0,76.0,102.0,178.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,VOILLIARD Rene,84.8,58.0,62.0,65.0,78.0,85.0,94.0,65.0,94.0,159.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,BONICI MORENO Sebastien,84.6,-70.0,70.0,73.0,77.0,81.0,85.0,73.0,85.0,158.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,GORI Rudy,86.4,63.0,66.0,-70.0,80.0,85.0,90.0,66.0,90.0,156.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,ALBY Quentin,88.6,51.0,54.0,57.0,60.0,-65.0,66.0,57.0,66.0,123.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 96,SAVOLDELLI Bruno,95.1,52.0,55.0,57.0,62.0,65.0,68.0,57.0,68.0,125.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 102,BOYER Nicolas,99.0,85.0,95.0,-0.0,-0.0,-0.0,-0.0,95.0,0.0,0.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Men 67,JUREK Marcel,67.0,52.0,56.0,-60.0,75.0,-78.0,-80.0,56.0,75.0,131.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Men 61,ALONSO Nicolas,60.3,-56.0,56.0,60.0,76.0,79.0,-82.0,60.0,79.0,139.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U20 Men 67,ZAROUKI Keyan,65.8,-65.0,70.0,-73.0,93.0,100.0,-103.0,70.0,100.0,170.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 73,MAZZOCHI Remi,72.9,65.0,-70.0,70.0,80.0,85.0,-90.0,70.0,85.0,155.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,EVESQUE Hugo,75.6,-60.0,60.0,65.0,75.0,80.0,85.0,65.0,85.0,150.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,REYNAUD Loic,78.0,55.0,60.0,-65.0,75.0,80.0,86.0,60.0,86.0,146.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,ZAMUDIO Sebastien,88.9,82.0,86.0,-90.0,105.0,-110.0,-110.0,86.0,105.0,191.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,LOPEZ Stephane,81.1,70.0,-74.0,76.0,94.0,98.0,102.0,76.0,102.0,178.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,VOILLIARD Rene,84.8,58.0,62.0,65.0,78.0,85.0,94.0,65.0,94.0,159.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,BONICI MORENO Sebastien,84.6,-70.0,70.0,73.0,77.0,81.0,85.0,73.0,85.0,158.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,GORI Rudy,86.4,63.0,66.0,-70.0,80.0,85.0,90.0,66.0,90.0,156.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,ALBY Quentin,88.6,51.0,54.0,57.0,60.0,-65.0,66.0,57.0,66.0,123.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 96,SAVOLDELLI Bruno,95.1,52.0,55.0,57.0,62.0,65.0,68.0,57.0,68.0,125.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 102,BOYER Nicolas,99.0,85.0,95.0,-0.0,-0.0,-0.0,-0.0,95.0,0.0,0.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 109,AOUICI Karim,105.0,75.0,-80.0,-80.0,95.0,-101.0,102.0,75.0,102.0,177.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 109,AOUICI Karim,105.0,75.0,-80.0,-80.0,95.0,-101.0,102.0,75.0,102.0,177.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U15 Men 61,REILLE Arthur,57.0,30.0,35.0,40.0,40.0,45.0,-50.0,40.0,45.0,85.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U15 Men 67,DIAS Lucas,64.3,37.0,41.0,43.0,45.0,49.0,53.0,43.0,53.0,96.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U15 Men 81,SINANI Elroi,73.1,37.0,41.0,45.0,45.0,49.0,53.0,45.0,53.0,98.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Men 67,PUAUD Antoni,63.8,30.0,-34.0,-35.0,35.0,40.0,43.0,30.0,43.0,73.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Men 73,REKAI Nacer,68.7,37.0,41.0,43.0,45.0,49.0,-53.0,43.0,49.0,92.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 67,CALOSSO Clément,64.5,30.0,35.0,-40.0,40.0,-45.0,45.0,35.0,45.0,80.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 73,DIAS Serge miguel,71.9,61.0,-66.0,66.0,81.0,86.0,91.0,66.0,91.0,157.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 73,BRETON Julien,71.2,40.0,45.0,50.0,45.0,53.0,60.0,50.0,60.0,110.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,CHARDONNET Amaury,77.5,42.0,45.0,47.0,55.0,58.0,62.0,47.0,62.0,109.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,HASSAN Najitoufic,85.8,68.0,73.0,-77.0,85.0,90.0,-95.0,73.0,90.0,163.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,DELMOTTE Nicolas,86.0,50.0,60.0,-70.0,80.0,-90.0,-95.0,60.0,80.0,140.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 96,GUILLAUME Emmanuel,90.5,70.0,75.0,80.0,90.0,100.0,-105.0,80.0,100.0,180.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 96,DROUILLET Thomas,92.5,46.0,52.0,-60.0,75.0,-82.0,82.0,52.0,82.0,134.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U15 Men 61,REILLE Arthur,57.0,30.0,35.0,40.0,40.0,45.0,-50.0,40.0,45.0,85.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U15 Men 67,DIAS Lucas,64.3,37.0,41.0,43.0,45.0,49.0,53.0,43.0,53.0,96.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U15 Men 81,SINANI Elroi,73.1,37.0,41.0,45.0,45.0,49.0,53.0,45.0,53.0,98.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Men 67,PUAUD Antoni,63.8,30.0,-34.0,-35.0,35.0,40.0,43.0,30.0,43.0,73.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,U17 Men 73,REKAI Nacer,68.7,37.0,41.0,43.0,45.0,49.0,-53.0,43.0,49.0,92.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 67,CALOSSO Clément,64.5,30.0,35.0,-40.0,40.0,-45.0,45.0,35.0,45.0,80.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 73,DIAS Serge miguel,71.9,61.0,-66.0,66.0,81.0,86.0,91.0,66.0,91.0,157.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 73,BRETON Julien,71.2,40.0,45.0,50.0,45.0,53.0,60.0,50.0,60.0,110.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 81,CHARDONNET Amaury,77.5,42.0,45.0,47.0,55.0,58.0,62.0,47.0,62.0,109.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,HASSAN Najitoufic,85.8,68.0,73.0,-77.0,85.0,90.0,-95.0,73.0,90.0,163.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 89,DELMOTTE Nicolas,86.0,50.0,60.0,-70.0,80.0,-90.0,-95.0,60.0,80.0,140.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 96,GUILLAUME Emmanuel,90.5,70.0,75.0,80.0,90.0,100.0,-105.0,80.0,100.0,180.0
+IDF - Challenge Avenir - Gennevilliers - Femmes,2023-03-18,SEN Men 96,DROUILLET Thomas,92.5,46.0,52.0,-60.0,75.0,-82.0,82.0,52.0,82.0,134.0

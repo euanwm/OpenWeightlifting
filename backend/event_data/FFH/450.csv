@@ -1,0 +1,69 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,U10 Men ,KLOCK Janis,47.3,16.0,18.0,19.0,21.0,23.0,25.0,19.0,25.0,44.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,U13 Men 55,TUGEND Timeo,51.3,24.0,26.0,27.0,28.0,30.0,32.0,27.0,32.0,59.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,U17 Women 45,GOBLED Alyssa,44.2,21.0,-23.0,23.0,26.0,29.0,31.0,23.0,31.0,54.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Women 55,SCHUNDER Morgane,51.1,36.0,38.0,40.0,51.0,-54.0,55.0,40.0,55.0,95.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Women 59,FEILLARD Lea,55.1,42.0,45.0,-47.0,57.0,60.0,62.0,45.0,62.0,107.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Women 64,SCHRENCK Maryline,59.1,-22.0,22.0,-24.0,27.0,30.0,-33.0,22.0,30.0,52.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Women 71,HOLTZMANN Anthea,70.7,47.0,50.0,-53.0,60.0,63.0,65.0,50.0,65.0,115.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,U17 Women 45,GOBLED Alyssa,44.2,21.0,-23.0,23.0,26.0,29.0,31.0,23.0,31.0,54.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Women 55,SCHUNDER Morgane,51.1,36.0,38.0,40.0,51.0,-54.0,55.0,40.0,55.0,95.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Women 59,FEILLARD Lea,55.1,42.0,45.0,-47.0,57.0,60.0,62.0,45.0,62.0,107.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Women 64,SCHRENCK Maryline,59.1,-22.0,22.0,-24.0,27.0,30.0,-33.0,22.0,30.0,52.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Women 71,HOLTZMANN Anthea,70.7,47.0,50.0,-53.0,60.0,63.0,65.0,50.0,65.0,115.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,U15 Men 73,MOVSESYAN Vahe,69.0,32.0,35.0,38.0,41.0,44.0,47.0,38.0,47.0,85.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,U17 Men 61,JARIA TEIXEIRA Vicenzo,58.8,43.0,46.0,48.0,52.0,55.0,58.0,48.0,58.0,106.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,U17 Men 73,HIGELIN Chris,72.0,50.0,-55.0,-55.0,57.0,61.0,65.0,50.0,65.0,115.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,U17 Men 73,LIEU MINH Jessy,69.7,44.0,47.0,50.0,55.0,60.0,65.0,50.0,65.0,115.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,U17 Men 81,SPAGNULO Tommaso,73.7,62.0,64.0,-66.0,80.0,83.0,85.0,64.0,85.0,149.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,U20 Men 96,DELUCCHI Mattéo,92.4,67.0,70.0,-72.0,-82.0,84.0,86.0,70.0,86.0,156.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Men 73,ROBERT Samuel,72.6,68.0,-71.0,71.0,89.0,94.0,-97.0,71.0,94.0,165.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Men 73,LAMMER Matthieu,70.1,-60.0,63.0,65.0,-80.0,80.0,-85.0,65.0,80.0,145.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Men 81,GOBLET Dimitri,77.3,60.0,65.0,-70.0,85.0,90.0,94.0,65.0,94.0,159.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Men 81,NAGAMOOTOO Bryan,79.2,55.0,60.0,63.0,78.0,83.0,-88.0,63.0,83.0,146.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Men 81,METZGER Stephane,75.4,42.0,-47.0,47.0,55.0,60.0,65.0,47.0,65.0,112.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Men 96,GJIKA Romario,89.2,70.0,75.0,80.0,-90.0,90.0,-97.0,80.0,90.0,170.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,U15 Men 73,MOVSESYAN Vahe,69.0,32.0,35.0,38.0,41.0,44.0,47.0,38.0,47.0,85.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,U17 Men 61,JARIA TEIXEIRA Vicenzo,58.8,43.0,46.0,48.0,52.0,55.0,58.0,48.0,58.0,106.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,U17 Men 73,HIGELIN Chris,72.0,50.0,-55.0,-55.0,57.0,61.0,65.0,50.0,65.0,115.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,U17 Men 73,LIEU MINH Jessy,69.7,44.0,47.0,50.0,55.0,60.0,65.0,50.0,65.0,115.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,U17 Men 81,SPAGNULO Tommaso,73.7,62.0,64.0,-66.0,80.0,83.0,85.0,64.0,85.0,149.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,U20 Men 96,DELUCCHI Mattéo,92.4,67.0,70.0,-72.0,-82.0,84.0,86.0,70.0,86.0,156.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Men 73,ROBERT Samuel,72.6,68.0,-71.0,71.0,89.0,94.0,-97.0,71.0,94.0,165.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Men 73,LAMMER Matthieu,70.1,-60.0,63.0,65.0,-80.0,80.0,-85.0,65.0,80.0,145.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Men 81,GOBLET Dimitri,77.3,60.0,65.0,-70.0,85.0,90.0,94.0,65.0,94.0,159.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Men 81,NAGAMOOTOO Bryan,79.2,55.0,60.0,63.0,78.0,83.0,-88.0,63.0,83.0,146.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Men 81,METZGER Stephane,75.4,42.0,-47.0,47.0,55.0,60.0,65.0,47.0,65.0,112.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Men 96,GJIKA Romario,89.2,70.0,75.0,80.0,-90.0,90.0,-97.0,80.0,90.0,170.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,U20 Women 64,JANIN Lisa,63.8,-62.0,62.0,64.0,80.0,-83.0,83.0,64.0,83.0,147.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Women 49,AMORUSO Estelle,49.0,53.0,56.0,-58.0,-70.0,70.0,-75.0,56.0,70.0,126.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Women 55,DERDICHE LAHMAR Cheriane,53.8,25.0,-28.0,-30.0,35.0,37.0,40.0,25.0,40.0,65.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Women 64,SOUNON COLLATIN Sophie rene,63.8,-42.0,42.0,-45.0,55.0,59.0,-62.0,42.0,59.0,101.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Women 71,MOUSSAOUI Ouafa,69.0,35.0,-38.0,-38.0,40.0,43.0,-45.0,35.0,43.0,78.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Women 71,CASADO LIBERATO July,66.9,30.0,35.0,-38.0,40.0,-44.0,-44.0,35.0,40.0,75.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,U20 Women 64,JANIN Lisa,63.8,-62.0,62.0,64.0,80.0,-83.0,83.0,64.0,83.0,147.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Women 49,AMORUSO Estelle,49.0,53.0,56.0,-58.0,-70.0,70.0,-75.0,56.0,70.0,126.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Women 55,DERDICHE LAHMAR Cheriane,53.8,25.0,-28.0,-30.0,35.0,37.0,40.0,25.0,40.0,65.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Women 64,SOUNON COLLATIN Sophie rene,63.8,-42.0,42.0,-45.0,55.0,59.0,-62.0,42.0,59.0,101.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Women 71,MOUSSAOUI Ouafa,69.0,35.0,-38.0,-38.0,40.0,43.0,-45.0,35.0,43.0,78.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Women 71,CASADO LIBERATO July,66.9,30.0,35.0,-38.0,40.0,-44.0,-44.0,35.0,40.0,75.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Men 61,BALLAND Yann,61.0,43.0,-46.0,-47.0,55.0,60.0,-64.0,43.0,60.0,103.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Men 73,BLANCHARD Tom,72.9,90.0,95.0,100.0,115.0,-123.0,-130.0,100.0,115.0,215.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Men 73,HAKKAR Corentin,72.9,78.0,-82.0,82.0,100.0,105.0,-110.0,82.0,105.0,187.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Men 73,BROSSET Alexis,72.9,57.0,60.0,-63.0,75.0,-82.0,-82.0,60.0,75.0,135.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Men 81,SALVAT Romaric,78.8,63.0,68.0,-71.0,80.0,86.0,88.0,68.0,88.0,156.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Men 81,BASTIN Emmanuel,80.8,55.0,60.0,-65.0,80.0,87.0,91.0,60.0,91.0,151.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Men 89,OUAKIF Jean christophe,86.8,92.0,100.0,-105.0,120.0,125.0,130.0,100.0,130.0,230.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Men 89,SANDOVAL Julien,85.2,60.0,63.0,65.0,90.0,93.0,95.0,65.0,95.0,160.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Men 96,AUBIN Thibaud,94.6,80.0,85.0,-87.0,100.0,105.0,110.0,85.0,110.0,195.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Men 96,LEHMANN Nicolas,92.7,85.0,-90.0,-90.0,102.0,107.0,-112.0,85.0,107.0,192.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Men 61,BALLAND Yann,61.0,43.0,-46.0,-47.0,55.0,60.0,-64.0,43.0,60.0,103.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Men 73,BLANCHARD Tom,72.9,90.0,95.0,100.0,115.0,-123.0,-130.0,100.0,115.0,215.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Men 73,HAKKAR Corentin,72.9,78.0,-82.0,82.0,100.0,105.0,-110.0,82.0,105.0,187.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Men 73,BROSSET Alexis,72.9,57.0,60.0,-63.0,75.0,-82.0,-82.0,60.0,75.0,135.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Men 81,SALVAT Romaric,78.8,63.0,68.0,-71.0,80.0,86.0,88.0,68.0,88.0,156.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Men 81,BASTIN Emmanuel,80.8,55.0,60.0,-65.0,80.0,87.0,91.0,60.0,91.0,151.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Men 89,OUAKIF Jean christophe,86.8,92.0,100.0,-105.0,120.0,125.0,130.0,100.0,130.0,230.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Men 89,SANDOVAL Julien,85.2,60.0,63.0,65.0,90.0,93.0,95.0,65.0,95.0,160.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Men 96,AUBIN Thibaud,94.6,80.0,85.0,-87.0,100.0,105.0,110.0,85.0,110.0,195.0
+GE - Challenge Avenir - Strasbourg - U10-U13,2022-06-05,SEN Men 96,LEHMANN Nicolas,92.7,85.0,-90.0,-90.0,102.0,107.0,-112.0,85.0,107.0,192.0

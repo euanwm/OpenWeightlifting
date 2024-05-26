@@ -1,0 +1,63 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,U13 Men 35,THOMAS Briac,32.4,13.0,15.0,17.0,16.0,18.0,20.0,17.0,20.0,37.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,U13 Men 40,ERLER Enzo,36.5,-12.0,12.0,14.0,14.0,-16.0,16.0,14.0,16.0,30.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,U13 Men 55,KLOCK Janis,51.9,-18.0,18.0,20.0,24.0,26.0,28.0,20.0,28.0,48.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,U13 Men 61,TUGEND Timeo,55.2,24.0,26.0,-27.0,30.0,32.0,34.0,26.0,34.0,60.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,U15 Women 40,WACK Cléone,39.95,12.0,14.0,16.0,18.0,20.0,22.0,16.0,22.0,38.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,U15 Women 76,RICHERT Charlotte,72.15,25.0,28.0,30.0,37.0,-40.0,40.0,30.0,40.0,70.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,U15 Women 81,KLOCK Amanda,76.2,39.0,42.0,44.0,47.0,50.0,53.0,44.0,53.0,97.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,U17 Women 64,SCHOTT Océane,60.6,24.0,26.0,28.0,28.0,30.0,32.0,28.0,32.0,60.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,U17 Women 64,NICKLES Lola,62.15,20.0,23.0,26.0,30.0,-33.0,33.0,26.0,33.0,59.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,U20 Women 71,KAERCHER Maïwenn,70.15,32.0,-35.0,35.0,-46.0,46.0,48.0,35.0,48.0,83.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,SEN Women 55,OHREL Julie,50.3,22.0,-26.0,27.0,33.0,-36.0,-37.0,27.0,33.0,60.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,SEN Women 59,WITKOWSKI Dagmar,56.2,-40.0,40.0,-42.0,40.0,43.0,-46.0,40.0,43.0,83.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,SEN Women 64,CORLOBE-PHOL Melanie,61.25,33.0,37.0,40.0,43.0,46.0,-50.0,40.0,46.0,86.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,SEN Women 71,MESSAOUDI Yasmine,69.95,26.0,28.0,30.0,30.0,33.0,35.0,30.0,35.0,65.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,U15 Women 40,WACK Cléone,39.95,12.0,14.0,16.0,18.0,20.0,22.0,16.0,22.0,38.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,U15 Women 76,RICHERT Charlotte,72.15,25.0,28.0,30.0,37.0,-40.0,40.0,30.0,40.0,70.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,U15 Women 81,KLOCK Amanda,76.2,39.0,42.0,44.0,47.0,50.0,53.0,44.0,53.0,97.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,U17 Women 64,SCHOTT Océane,60.6,24.0,26.0,28.0,28.0,30.0,32.0,28.0,32.0,60.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,U17 Women 64,NICKLES Lola,62.15,20.0,23.0,26.0,30.0,-33.0,33.0,26.0,33.0,59.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,U20 Women 71,KAERCHER Maïwenn,70.15,32.0,-35.0,35.0,-46.0,46.0,48.0,35.0,48.0,83.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,SEN Women 55,OHREL Julie,50.3,22.0,-26.0,27.0,33.0,-36.0,-37.0,27.0,33.0,60.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,SEN Women 59,WITKOWSKI Dagmar,56.2,-40.0,40.0,-42.0,40.0,43.0,-46.0,40.0,43.0,83.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,SEN Women 64,CORLOBE-PHOL Melanie,61.25,33.0,37.0,40.0,43.0,46.0,-50.0,40.0,46.0,86.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,SEN Women 71,MESSAOUDI Yasmine,69.95,26.0,28.0,30.0,30.0,33.0,35.0,30.0,35.0,65.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,U15 Men 49,GOERGER Tom,43.5,16.0,18.0,20.0,22.0,24.0,26.0,20.0,26.0,46.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,U15 Men 49,CARMANS Victor,45.5,12.0,14.0,16.0,15.0,18.0,20.0,16.0,20.0,36.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,U20 Men 81,SCHWARTZ Samuel,78.5,72.0,-76.0,76.0,-87.0,87.0,92.0,76.0,92.0,168.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,U20 Men 81,SCHMIDT Théo,80.0,67.0,71.0,-75.0,87.0,93.0,-100.0,71.0,93.0,164.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,U20 Men 81,SPAGNULO Tommaso,73.3,-58.0,58.0,-60.0,73.0,76.0,-79.0,58.0,76.0,134.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,U20 Men 81,LIEU MINH Jessy,73.8,51.0,54.0,56.0,63.0,67.0,71.0,56.0,71.0,127.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,U20 Men 89,VERGNAUD Jarod,83.9,48.0,51.0,-54.0,65.0,68.0,71.0,51.0,71.0,122.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,U15 Men 49,GOERGER Tom,43.5,16.0,18.0,20.0,22.0,24.0,26.0,20.0,26.0,46.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,U15 Men 49,CARMANS Victor,45.5,12.0,14.0,16.0,15.0,18.0,20.0,16.0,20.0,36.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,U20 Men 81,SCHWARTZ Samuel,78.5,72.0,-76.0,76.0,-87.0,87.0,92.0,76.0,92.0,168.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,U20 Men 81,SCHMIDT Théo,80.0,67.0,71.0,-75.0,87.0,93.0,-100.0,71.0,93.0,164.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,U20 Men 81,SPAGNULO Tommaso,73.3,-58.0,58.0,-60.0,73.0,76.0,-79.0,58.0,76.0,134.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,U20 Men 81,LIEU MINH Jessy,73.8,51.0,54.0,56.0,63.0,67.0,71.0,56.0,71.0,127.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,U20 Men 89,VERGNAUD Jarod,83.9,48.0,51.0,-54.0,65.0,68.0,71.0,51.0,71.0,122.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,SEN Men 67,DA SILVA Come,65.6,65.0,70.0,75.0,85.0,90.0,95.0,75.0,95.0,170.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,SEN Men 73,KNITTEL Cedric,68.6,70.0,76.0,80.0,95.0,100.0,-105.0,80.0,100.0,180.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,SEN Men 73,AMRANI Zakarya,72.9,-65.0,65.0,70.0,85.0,90.0,-93.0,70.0,90.0,160.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,SEN Men 81,CORTESE Jean-baptiste,75.5,-70.0,75.0,80.0,90.0,95.0,-100.0,80.0,95.0,175.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,SEN Men 81,VANOVERBEKE Jeremy,78.2,68.0,-72.0,-72.0,87.0,-91.0,-91.0,68.0,87.0,155.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,SEN Men 81,GRELING Bryan,77.2,62.0,66.0,-70.0,72.0,76.0,81.0,66.0,81.0,147.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,SEN Men 89,BOESS Yohan,87.2,70.0,-80.0,80.0,100.0,110.0,-120.0,80.0,110.0,190.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,SEN Men 89,BUSCH Ethann,87.9,77.0,-80.0,80.0,96.0,-100.0,100.0,80.0,100.0,180.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,SEN Men 89,DELUCCHI Mattéo,86.3,75.0,79.0,82.0,93.0,-97.0,-97.0,82.0,93.0,175.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,SEN Men 89,STEINER Baptiste,84.5,65.0,70.0,75.0,90.0,-95.0,-95.0,75.0,90.0,165.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,SEN Men 89,LUTTMANN Jérémy,85.4,65.0,69.0,-72.0,76.0,81.0,86.0,69.0,86.0,155.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,SEN Men 109,JEHL Arnaud,103.9,-90.0,90.0,97.0,108.0,-113.0,-118.0,97.0,108.0,205.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,SEN Men 67,DA SILVA Come,65.6,65.0,70.0,75.0,85.0,90.0,95.0,75.0,95.0,170.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,SEN Men 73,KNITTEL Cedric,68.6,70.0,76.0,80.0,95.0,100.0,-105.0,80.0,100.0,180.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,SEN Men 73,AMRANI Zakarya,72.9,-65.0,65.0,70.0,85.0,90.0,-93.0,70.0,90.0,160.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,SEN Men 81,CORTESE Jean-baptiste,75.5,-70.0,75.0,80.0,90.0,95.0,-100.0,80.0,95.0,175.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,SEN Men 81,VANOVERBEKE Jeremy,78.2,68.0,-72.0,-72.0,87.0,-91.0,-91.0,68.0,87.0,155.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,SEN Men 81,GRELING Bryan,77.2,62.0,66.0,-70.0,72.0,76.0,81.0,66.0,81.0,147.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,SEN Men 89,BOESS Yohan,87.2,70.0,-80.0,80.0,100.0,110.0,-120.0,80.0,110.0,190.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,SEN Men 89,BUSCH Ethann,87.9,77.0,-80.0,80.0,96.0,-100.0,100.0,80.0,100.0,180.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,SEN Men 89,DELUCCHI Mattéo,86.3,75.0,79.0,82.0,93.0,-97.0,-97.0,82.0,93.0,175.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,SEN Men 89,STEINER Baptiste,84.5,65.0,70.0,75.0,90.0,-95.0,-95.0,75.0,90.0,165.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,SEN Men 89,LUTTMANN Jérémy,85.4,65.0,69.0,-72.0,76.0,81.0,86.0,69.0,86.0,155.0
+GE - Challenge Avenir - Durstel (67) - U10-U13,2022-10-30,SEN Men 109,JEHL Arnaud,103.9,-90.0,90.0,97.0,108.0,-113.0,-118.0,97.0,108.0,205.0

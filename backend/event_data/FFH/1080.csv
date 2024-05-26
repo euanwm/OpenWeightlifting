@@ -1,0 +1,234 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 55,BONZOM Marie,54.3,35.0,38.0,-40.0,52.0,55.0,57.0,38.0,57.0,95.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 55,CLARIVET Ingrid,51.8,37.0,-40.0,-40.0,50.0,-53.0,-53.0,37.0,50.0,87.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 55,ZWICK Sonja,52.1,43.0,-45.0,45.0,-53.0,-53.0,-53.0,45.0,0.0,0.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 59,LALLOYEAU Marilou,58.8,45.0,51.0,-55.0,60.0,70.0,-75.0,51.0,70.0,121.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 59,OBRY Aurore,58.6,53.0,-56.0,-56.0,63.0,-67.0,-67.0,53.0,63.0,116.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 59,RODRIGUES Elora,58.9,41.0,43.0,-45.0,51.0,54.0,57.0,43.0,57.0,100.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 59,PEYRE Myriam,58.8,40.0,43.0,46.0,53.0,-56.0,-56.0,46.0,53.0,99.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 64,LORTAL Orane,62.6,47.0,50.0,53.0,58.0,62.0,66.0,53.0,66.0,119.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 64,SANSON-STERN Maj,62.6,43.0,-46.0,47.0,50.0,53.0,55.0,47.0,55.0,102.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 64,LAVAUZELLE Sandra,59.5,25.0,28.0,30.0,35.0,38.0,41.0,30.0,41.0,71.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 71,GOBERT Iris,70.0,55.0,58.0,-60.0,60.0,65.0,-68.0,58.0,65.0,123.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 87,GRIMAL Anne marie,82.0,44.0,47.0,-50.0,61.0,-65.0,-65.0,47.0,61.0,108.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 87,BENOIT Zoe,83.4,46.0,49.0,-51.0,-57.0,57.0,-61.0,49.0,57.0,106.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U20 Men 67,DESMARTY Romain,64.5,50.0,-55.0,55.0,70.0,78.0,83.0,55.0,83.0,138.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U20 Men 73,LEFRANC Benjamin,69.7,50.0,55.0,-62.0,70.0,75.0,80.0,55.0,80.0,135.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U20 Men 73,COHERE Gabriel,72.5,50.0,55.0,60.0,70.0,-78.0,-80.0,60.0,70.0,130.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 67,DAVELU Erwan,65.2,65.0,70.0,-73.0,75.0,80.0,85.0,70.0,85.0,155.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 67,DELAVAL Adrien,62.1,53.0,56.0,-58.0,67.0,70.0,73.0,56.0,73.0,129.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 67,DE MIRANDA Mickael,62.6,53.0,56.0,60.0,65.0,68.0,-72.0,60.0,68.0,128.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 67,BETTINI Samuel,62.9,42.0,45.0,47.0,48.0,50.0,-51.0,47.0,50.0,97.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 73,PERUGA David,72.8,-94.0,94.0,-97.0,115.0,-120.0,121.0,94.0,121.0,215.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 73,RAMOS Lyham,69.4,80.0,84.0,-90.0,100.0,-105.0,108.0,84.0,108.0,192.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 73,DANG Johan,67.7,70.0,75.0,-80.0,95.0,100.0,-105.0,75.0,100.0,175.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 73,DANG Malone,72.9,65.0,72.0,-75.0,85.0,90.0,95.0,72.0,95.0,167.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 73,LARGEN Yannick,72.3,-65.0,70.0,75.0,-85.0,85.0,90.0,75.0,90.0,165.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 73,SOLEILHAC Quentin,71.9,65.0,70.0,-76.0,85.0,90.0,-97.0,70.0,90.0,160.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 73,BARNATO Steeven,72.6,62.0,65.0,-68.0,-85.0,85.0,90.0,65.0,90.0,155.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 73,SAINTIGNAN Matthieu,72.6,50.0,53.0,-56.0,-70.0,70.0,-73.0,53.0,70.0,123.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U20 Men 67,DESMARTY Romain,64.5,50.0,-55.0,55.0,70.0,78.0,83.0,55.0,83.0,138.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U20 Men 73,LEFRANC Benjamin,69.7,50.0,55.0,-62.0,70.0,75.0,80.0,55.0,80.0,135.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U20 Men 73,COHERE Gabriel,72.5,50.0,55.0,60.0,70.0,-78.0,-80.0,60.0,70.0,130.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 67,DAVELU Erwan,65.2,65.0,70.0,-73.0,75.0,80.0,85.0,70.0,85.0,155.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 67,DELAVAL Adrien,62.1,53.0,56.0,-58.0,67.0,70.0,73.0,56.0,73.0,129.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 67,DE MIRANDA Mickael,62.6,53.0,56.0,60.0,65.0,68.0,-72.0,60.0,68.0,128.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 67,BETTINI Samuel,62.9,42.0,45.0,47.0,48.0,50.0,-51.0,47.0,50.0,97.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 73,PERUGA David,72.8,-94.0,94.0,-97.0,115.0,-120.0,121.0,94.0,121.0,215.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 73,RAMOS Lyham,69.4,80.0,84.0,-90.0,100.0,-105.0,108.0,84.0,108.0,192.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 73,DANG Johan,67.7,70.0,75.0,-80.0,95.0,100.0,-105.0,75.0,100.0,175.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 73,DANG Malone,72.9,65.0,72.0,-75.0,85.0,90.0,95.0,72.0,95.0,167.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 73,LARGEN Yannick,72.3,-65.0,70.0,75.0,-85.0,85.0,90.0,75.0,90.0,165.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 73,SOLEILHAC Quentin,71.9,65.0,70.0,-76.0,85.0,90.0,-97.0,70.0,90.0,160.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 73,BARNATO Steeven,72.6,62.0,65.0,-68.0,-85.0,85.0,90.0,65.0,90.0,155.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 73,SAINTIGNAN Matthieu,72.6,50.0,53.0,-56.0,-70.0,70.0,-73.0,53.0,70.0,123.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U20 Men 96,BUISSON Théo,91.6,75.0,80.0,85.0,100.0,110.0,-120.0,85.0,110.0,195.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 81,ARSABAN Guillaume,79.5,75.0,80.0,-85.0,100.0,105.0,110.0,80.0,110.0,190.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 81,ROUANET Valentin,75.8,70.0,75.0,-78.0,90.0,-95.0,100.0,75.0,100.0,175.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 81,JOURDHAS Thomas,73.4,60.0,67.0,76.0,87.0,93.0,-101.0,76.0,93.0,169.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 81,MEUNIER Guillaume,74.9,50.0,65.0,-71.0,80.0,100.0,-110.0,65.0,100.0,165.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 89,GRAVISSE Nicolas,82.9,90.0,95.0,-98.0,113.0,118.0,-122.0,95.0,118.0,213.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 89,BOULINGUEZ Xavier,85.5,65.0,70.0,75.0,-85.0,85.0,90.0,75.0,90.0,165.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 89,MASSAT Maxime,84.3,55.0,60.0,70.0,85.0,92.0,-100.0,70.0,92.0,162.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 89,VERDIER Paul,89.0,55.0,60.0,70.0,65.0,70.0,-80.0,70.0,70.0,140.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 89,MAGNIER Matthieu,82.6,50.0,60.0,-70.0,70.0,-80.0,-80.0,60.0,70.0,130.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 89,BENCHEIKH Mehdi,88.0,42.0,45.0,50.0,-62.0,62.0,-70.0,50.0,62.0,112.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 96,PIERRONT Nicolas,95.6,-75.0,-75.0,75.0,95.0,100.0,103.0,75.0,103.0,178.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 102,BLUM Pierre,98.3,105.0,108.0,-111.0,125.0,130.0,-166.0,108.0,130.0,238.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 109,DIEVART Mickael,108.0,80.0,85.0,-90.0,100.0,110.0,115.0,85.0,115.0,200.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U20 Men 96,BUISSON Théo,91.6,75.0,80.0,85.0,100.0,110.0,-120.0,85.0,110.0,195.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 81,ARSABAN Guillaume,79.5,75.0,80.0,-85.0,100.0,105.0,110.0,80.0,110.0,190.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 81,ROUANET Valentin,75.8,70.0,75.0,-78.0,90.0,-95.0,100.0,75.0,100.0,175.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 81,JOURDHAS Thomas,73.4,60.0,67.0,76.0,87.0,93.0,-101.0,76.0,93.0,169.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 81,MEUNIER Guillaume,74.9,50.0,65.0,-71.0,80.0,100.0,-110.0,65.0,100.0,165.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 89,GRAVISSE Nicolas,82.9,90.0,95.0,-98.0,113.0,118.0,-122.0,95.0,118.0,213.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 89,BOULINGUEZ Xavier,85.5,65.0,70.0,75.0,-85.0,85.0,90.0,75.0,90.0,165.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 89,MASSAT Maxime,84.3,55.0,60.0,70.0,85.0,92.0,-100.0,70.0,92.0,162.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 89,VERDIER Paul,89.0,55.0,60.0,70.0,65.0,70.0,-80.0,70.0,70.0,140.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 89,MAGNIER Matthieu,82.6,50.0,60.0,-70.0,70.0,-80.0,-80.0,60.0,70.0,130.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 89,BENCHEIKH Mehdi,88.0,42.0,45.0,50.0,-62.0,62.0,-70.0,50.0,62.0,112.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 96,PIERRONT Nicolas,95.6,-75.0,-75.0,75.0,95.0,100.0,103.0,75.0,103.0,178.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 102,BLUM Pierre,98.3,105.0,108.0,-111.0,125.0,130.0,-166.0,108.0,130.0,238.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 109,DIEVART Mickael,108.0,80.0,85.0,-90.0,100.0,110.0,115.0,85.0,115.0,200.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Women 55,GUILLEMOT Alison,53.2,28.0,32.0,-35.0,35.0,40.0,-43.0,32.0,40.0,72.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Women 59,GUSTAVE Darla,55.2,32.0,35.0,-37.0,42.0,44.0,-46.0,35.0,44.0,79.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Women 71,CLAMY Angèle,67.0,35.0,37.0,-39.0,45.0,48.0,50.0,37.0,50.0,87.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U17 Women 49,DASSA Dja won chise,49.0,27.0,30.0,-32.0,30.0,33.0,35.0,30.0,35.0,65.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U17 Women 55,ISMAR Marie,52.0,25.0,27.0,-30.0,32.0,-35.0,-35.0,27.0,32.0,59.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U17 Women 59,FINOMETTE Clarisse,57.0,35.0,37.0,-40.0,42.0,45.0,-48.0,37.0,45.0,82.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U17 Women 59,RILCY Angeli,55.2,33.0,36.0,-38.0,42.0,46.0,-50.0,36.0,46.0,82.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U17 Women 64,MAKAIA Jade fleur,63.0,27.0,30.0,-33.0,37.0,40.0,-42.0,30.0,40.0,70.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U17 Women >81,MAVOUNGOU-MENNEL Nohira,87.0,35.0,38.0,40.0,45.0,50.0,-52.0,40.0,50.0,90.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U20 Women 55,BARTHELEMI-LEMAITRE Rosa lou,54.2,32.0,35.0,-37.0,40.0,43.0,-45.0,35.0,43.0,78.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U20 Women 81,MALESPIRE Clara,81.0,50.0,55.0,-58.0,65.0,70.0,-75.0,55.0,70.0,125.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 71,MARTIAL Maelle,71.0,35.0,40.0,-43.0,42.0,46.0,-50.0,40.0,46.0,86.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 76,LAURENT Armelle,73.0,-52.0,52.0,-55.0,73.0,76.0,-80.0,52.0,76.0,128.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 76,MERRIFIELD Alice,75.0,44.0,48.0,-50.0,55.0,-60.0,60.0,48.0,60.0,108.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women >87,ROSAN Kysia,120.0,50.0,55.0,60.0,70.0,-75.0,75.0,60.0,75.0,135.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Women 55,GUILLEMOT Alison,53.2,28.0,32.0,-35.0,35.0,40.0,-43.0,32.0,40.0,72.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Women 59,GUSTAVE Darla,55.2,32.0,35.0,-37.0,42.0,44.0,-46.0,35.0,44.0,79.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Women 71,CLAMY Angèle,67.0,35.0,37.0,-39.0,45.0,48.0,50.0,37.0,50.0,87.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U17 Women 49,DASSA Dja won chise,49.0,27.0,30.0,-32.0,30.0,33.0,35.0,30.0,35.0,65.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U17 Women 55,ISMAR Marie,52.0,25.0,27.0,-30.0,32.0,-35.0,-35.0,27.0,32.0,59.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U17 Women 59,FINOMETTE Clarisse,57.0,35.0,37.0,-40.0,42.0,45.0,-48.0,37.0,45.0,82.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U17 Women 59,RILCY Angeli,55.2,33.0,36.0,-38.0,42.0,46.0,-50.0,36.0,46.0,82.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U17 Women 64,MAKAIA Jade fleur,63.0,27.0,30.0,-33.0,37.0,40.0,-42.0,30.0,40.0,70.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U17 Women >81,MAVOUNGOU-MENNEL Nohira,87.0,35.0,38.0,40.0,45.0,50.0,-52.0,40.0,50.0,90.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U20 Women 55,BARTHELEMI-LEMAITRE Rosa lou,54.2,32.0,35.0,-37.0,40.0,43.0,-45.0,35.0,43.0,78.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U20 Women 81,MALESPIRE Clara,81.0,50.0,55.0,-58.0,65.0,70.0,-75.0,55.0,70.0,125.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 71,MARTIAL Maelle,71.0,35.0,40.0,-43.0,42.0,46.0,-50.0,40.0,46.0,86.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 76,LAURENT Armelle,73.0,-52.0,52.0,-55.0,73.0,76.0,-80.0,52.0,76.0,128.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 76,MERRIFIELD Alice,75.0,44.0,48.0,-50.0,55.0,-60.0,60.0,48.0,60.0,108.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women >87,ROSAN Kysia,120.0,50.0,55.0,60.0,70.0,-75.0,75.0,60.0,75.0,135.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Women 49,LOIGEROT Elisa,48.0,24.0,27.0,30.0,34.0,37.0,40.0,30.0,40.0,70.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Women 55,PY Maelys,51.7,27.0,30.0,33.0,37.0,40.0,43.0,33.0,43.0,76.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Women 59,BOFFY Lauryne,57.8,23.0,26.0,-29.0,30.0,34.0,-38.0,26.0,34.0,60.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Women 59,PRETRE Faustine,57.6,22.0,25.0,-28.0,28.0,31.0,-34.0,25.0,31.0,56.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U17 Women 55,COLLIGNON Aurélie,53.4,35.0,38.0,40.0,47.0,50.0,-53.0,40.0,50.0,90.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U20 Women 55,BRESSON Judith,52.55,27.0,30.0,33.0,35.0,38.0,41.0,33.0,41.0,74.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U20 Women 71,MOUGIN Lou,65.8,42.0,46.0,-50.0,52.0,56.0,60.0,46.0,60.0,106.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 71,FERREIRA ROLO Mathilde,70.2,-48.0,50.0,-54.0,66.0,70.0,-74.0,50.0,70.0,120.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 71,RIPPLINGER Tya,67.4,-48.0,50.0,53.0,60.0,63.0,-66.0,53.0,63.0,116.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 76,GIRARD Clara,75.75,54.0,57.0,-60.0,67.0,71.0,75.0,57.0,75.0,132.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 76,BERTRAND GANTOIS Alex,74.0,30.0,33.0,-35.0,38.0,42.0,45.0,33.0,45.0,78.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Women 49,LOIGEROT Elisa,48.0,24.0,27.0,30.0,34.0,37.0,40.0,30.0,40.0,70.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Women 55,PY Maelys,51.7,27.0,30.0,33.0,37.0,40.0,43.0,33.0,43.0,76.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Women 59,BOFFY Lauryne,57.8,23.0,26.0,-29.0,30.0,34.0,-38.0,26.0,34.0,60.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Women 59,PRETRE Faustine,57.6,22.0,25.0,-28.0,28.0,31.0,-34.0,25.0,31.0,56.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U17 Women 55,COLLIGNON Aurélie,53.4,35.0,38.0,40.0,47.0,50.0,-53.0,40.0,50.0,90.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U20 Women 55,BRESSON Judith,52.55,27.0,30.0,33.0,35.0,38.0,41.0,33.0,41.0,74.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U20 Women 71,MOUGIN Lou,65.8,42.0,46.0,-50.0,52.0,56.0,60.0,46.0,60.0,106.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 71,FERREIRA ROLO Mathilde,70.2,-48.0,50.0,-54.0,66.0,70.0,-74.0,50.0,70.0,120.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 71,RIPPLINGER Tya,67.4,-48.0,50.0,53.0,60.0,63.0,-66.0,53.0,63.0,116.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 76,GIRARD Clara,75.75,54.0,57.0,-60.0,67.0,71.0,75.0,57.0,75.0,132.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Women 76,BERTRAND GANTOIS Alex,74.0,30.0,33.0,-35.0,38.0,42.0,45.0,33.0,45.0,78.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 61,DURIC Adis,60.55,52.0,56.0,60.0,66.0,70.0,75.0,60.0,75.0,135.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 61,MAUGE--GRAFF Paul,60.9,23.0,27.0,30.0,33.0,37.0,40.0,30.0,40.0,70.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 73,DOUETTE Marius,69.15,20.0,23.0,25.0,27.0,30.0,-32.0,25.0,30.0,55.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 81,SCHNEIDER Jacques,79.8,52.0,56.0,-60.0,67.0,71.0,75.0,56.0,75.0,131.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U17 Men 61,SIMARD--FERNANDES Mathis,60.15,50.0,-53.0,-53.0,67.0,71.0,-76.0,50.0,71.0,121.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U17 Men 67,BOFFY Matthis,64.15,35.0,40.0,-44.0,47.0,-51.0,51.0,40.0,51.0,91.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U17 Men 73,NARJOZ Tanguy,72.3,40.0,44.0,47.0,50.0,55.0,60.0,47.0,60.0,107.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U17 Men 81,BOUCHER Nathan,77.7,58.0,-62.0,-65.0,75.0,80.0,-85.0,58.0,80.0,138.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U17 Men 81,SEILER Aymeric,77.4,53.0,57.0,-60.0,67.0,71.0,75.0,57.0,75.0,132.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U20 Men 102,SEILER Lucas,98.2,75.0,80.0,-85.0,100.0,-105.0,-110.0,80.0,100.0,180.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 81,PINTO Benjamin,76.0,-83.0,-84.0,84.0,110.0,115.0,-120.0,84.0,115.0,199.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 81,PRUNIER Philippe,74.75,72.0,76.0,80.0,90.0,-95.0,-95.0,80.0,90.0,170.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 61,DURIC Adis,60.55,52.0,56.0,60.0,66.0,70.0,75.0,60.0,75.0,135.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 61,MAUGE--GRAFF Paul,60.9,23.0,27.0,30.0,33.0,37.0,40.0,30.0,40.0,70.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 73,DOUETTE Marius,69.15,20.0,23.0,25.0,27.0,30.0,-32.0,25.0,30.0,55.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 81,SCHNEIDER Jacques,79.8,52.0,56.0,-60.0,67.0,71.0,75.0,56.0,75.0,131.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U17 Men 61,SIMARD--FERNANDES Mathis,60.15,50.0,-53.0,-53.0,67.0,71.0,-76.0,50.0,71.0,121.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U17 Men 67,BOFFY Matthis,64.15,35.0,40.0,-44.0,47.0,-51.0,51.0,40.0,51.0,91.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U17 Men 73,NARJOZ Tanguy,72.3,40.0,44.0,47.0,50.0,55.0,60.0,47.0,60.0,107.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U17 Men 81,BOUCHER Nathan,77.7,58.0,-62.0,-65.0,75.0,80.0,-85.0,58.0,80.0,138.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U17 Men 81,SEILER Aymeric,77.4,53.0,57.0,-60.0,67.0,71.0,75.0,57.0,75.0,132.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U20 Men 102,SEILER Lucas,98.2,75.0,80.0,-85.0,100.0,-105.0,-110.0,80.0,100.0,180.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 81,PINTO Benjamin,76.0,-83.0,-84.0,84.0,110.0,115.0,-120.0,84.0,115.0,199.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 81,PRUNIER Philippe,74.75,72.0,76.0,80.0,90.0,-95.0,-95.0,80.0,90.0,170.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 49,BODOT Kean,49.0,32.0,37.0,-40.0,43.0,47.0,-49.0,37.0,47.0,84.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 49,BOURHIS-TOUDIC Jaouen,48.0,32.0,37.0,-40.0,42.0,45.0,-47.0,37.0,45.0,82.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 49,LANDY Raphael,48.0,32.0,35.0,-37.0,37.0,40.0,-43.0,35.0,40.0,75.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 49,MORAND Marceau,40.0,25.0,30.0,-33.0,35.0,37.0,-40.0,30.0,37.0,67.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 55,CODINA-MALEAMA Nayann,55.0,40.0,43.0,-45.0,45.0,-50.0,50.0,43.0,50.0,93.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 55,MILHAU Louis,54.8,35.0,38.0,-40.0,42.0,-45.0,45.0,38.0,45.0,83.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 61,BOURHIS Titouan,61.0,42.0,-45.0,45.0,50.0,53.0,-55.0,45.0,53.0,98.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 61,FLAMINY Dylan,57.0,31.0,35.0,-37.0,40.0,45.0,-47.0,35.0,45.0,80.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 67,BOISDUR Keylann curtys,66.0,30.0,35.0,-37.0,40.0,43.0,-45.0,35.0,43.0,78.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 73,DA SILVA SANTOS Aurélien,68.0,45.0,48.0,-50.0,55.0,60.0,-63.0,48.0,60.0,108.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 81,REY Andy,81.0,47.0,52.0,55.0,60.0,65.0,-70.0,55.0,65.0,120.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 81,MORTEYROL Pablo estéban,76.0,52.0,-55.0,-55.0,60.0,63.0,-65.0,52.0,63.0,115.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 81,DUCELIER Ulric,78.0,45.0,50.0,-53.0,60.0,65.0,-68.0,50.0,65.0,115.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 96,JEAN BAPTISTE Ricardo,91.0,50.0,53.0,-55.0,60.0,65.0,-70.0,53.0,65.0,118.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 96,URGEN Lucas,90.0,45.0,50.0,-54.0,60.0,-65.0,-65.0,50.0,60.0,110.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 102,DURIMEL Olivier mathis,101.0,50.0,55.0,-60.0,65.0,70.0,75.0,55.0,75.0,130.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 49,BODOT Kean,49.0,32.0,37.0,-40.0,43.0,47.0,-49.0,37.0,47.0,84.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 49,BOURHIS-TOUDIC Jaouen,48.0,32.0,37.0,-40.0,42.0,45.0,-47.0,37.0,45.0,82.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 49,LANDY Raphael,48.0,32.0,35.0,-37.0,37.0,40.0,-43.0,35.0,40.0,75.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 49,MORAND Marceau,40.0,25.0,30.0,-33.0,35.0,37.0,-40.0,30.0,37.0,67.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 55,CODINA-MALEAMA Nayann,55.0,40.0,43.0,-45.0,45.0,-50.0,50.0,43.0,50.0,93.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 55,MILHAU Louis,54.8,35.0,38.0,-40.0,42.0,-45.0,45.0,38.0,45.0,83.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 61,BOURHIS Titouan,61.0,42.0,-45.0,45.0,50.0,53.0,-55.0,45.0,53.0,98.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 61,FLAMINY Dylan,57.0,31.0,35.0,-37.0,40.0,45.0,-47.0,35.0,45.0,80.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 67,BOISDUR Keylann curtys,66.0,30.0,35.0,-37.0,40.0,43.0,-45.0,35.0,43.0,78.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 73,DA SILVA SANTOS Aurélien,68.0,45.0,48.0,-50.0,55.0,60.0,-63.0,48.0,60.0,108.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 81,REY Andy,81.0,47.0,52.0,55.0,60.0,65.0,-70.0,55.0,65.0,120.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 81,MORTEYROL Pablo estéban,76.0,52.0,-55.0,-55.0,60.0,63.0,-65.0,52.0,63.0,115.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 81,DUCELIER Ulric,78.0,45.0,50.0,-53.0,60.0,65.0,-68.0,50.0,65.0,115.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 96,JEAN BAPTISTE Ricardo,91.0,50.0,53.0,-55.0,60.0,65.0,-70.0,53.0,65.0,118.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 96,URGEN Lucas,90.0,45.0,50.0,-54.0,60.0,-65.0,-65.0,50.0,60.0,110.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U15 Men 102,DURIMEL Olivier mathis,101.0,50.0,55.0,-60.0,65.0,70.0,75.0,55.0,75.0,130.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U10 Men ,HOYOUX Naël,33.55,16.0,18.0,-20.0,22.0,24.0,26.0,18.0,26.0,44.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U13 Men 40,VICHON Ethan,39.35,28.0,30.0,32.0,34.0,36.0,38.0,32.0,38.0,70.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U13 Men 49,CORMONT Enzo,45.15,26.0,28.0,-30.0,36.0,38.0,-40.0,28.0,38.0,66.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U13 Women 35,TUDO Liyah,31.3,10.0,12.0,-14.0,15.0,16.0,-17.0,12.0,16.0,28.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U10 Men ,HOYOUX Naël,33.55,16.0,18.0,-20.0,22.0,24.0,26.0,18.0,26.0,44.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U13 Men 40,VICHON Ethan,39.35,28.0,30.0,32.0,34.0,36.0,38.0,32.0,38.0,70.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U13 Men 49,CORMONT Enzo,45.15,26.0,28.0,-30.0,36.0,38.0,-40.0,28.0,38.0,66.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U13 Women 35,TUDO Liyah,31.3,10.0,12.0,-14.0,15.0,16.0,-17.0,12.0,16.0,28.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U17 Men 61,AUBRY Louis,61.0,45.0,50.0,-53.0,60.0,65.0,-68.0,50.0,65.0,115.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U17 Men 61,WASIER Roman,58.7,45.0,50.0,-53.0,60.0,63.0,-65.0,50.0,63.0,113.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U17 Men 61,KALB Gyann,60.9,42.0,45.0,47.0,60.0,-65.0,65.0,47.0,65.0,112.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U17 Men 67,VINGOT Yallil,67.0,50.0,55.0,-60.0,63.0,66.0,70.0,55.0,70.0,125.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U17 Men 73,BARRIERE Guillaume,72.7,68.0,72.0,-75.0,90.0,95.0,-100.0,72.0,95.0,167.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U17 Men 73,PIES Brian,71.0,60.0,-65.0,65.0,75.0,80.0,-83.0,65.0,80.0,145.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U20 Men 67,POULLET Lorenzo,67.0,70.0,75.0,-80.0,85.0,90.0,93.0,75.0,93.0,168.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U20 Men 67,WASIER Marin,66.5,62.0,67.0,-70.0,83.0,88.0,-90.0,67.0,88.0,155.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 81,BARCOT Emerick,77.0,75.0,80.0,-85.0,95.0,100.0,-105.0,80.0,100.0,180.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 81,PAISLEY-GILLANT Batun allan vincent,81.0,70.0,75.0,-78.0,95.0,98.0,-100.0,75.0,98.0,173.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 81,SUEDOIS David,79.6,55.0,60.0,-65.0,70.0,75.0,-80.0,60.0,75.0,135.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 89,ANGOUNDOU Jean jacques,86.0,90.0,95.0,-100.0,120.0,-125.0,125.0,95.0,125.0,220.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 89,AUROQUE Samuel,89.0,93.0,-96.0,96.0,113.0,-116.0,-116.0,96.0,113.0,209.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 109,BENJAMIN Gregory,105.0,75.0,80.0,-83.0,105.0,110.0,-112.0,80.0,110.0,190.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men >109,NAJOS Christophe,112.0,100.0,105.0,-110.0,130.0,-135.0,-135.0,105.0,130.0,235.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U17 Men 61,AUBRY Louis,61.0,45.0,50.0,-53.0,60.0,65.0,-68.0,50.0,65.0,115.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U17 Men 61,WASIER Roman,58.7,45.0,50.0,-53.0,60.0,63.0,-65.0,50.0,63.0,113.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U17 Men 61,KALB Gyann,60.9,42.0,45.0,47.0,60.0,-65.0,65.0,47.0,65.0,112.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U17 Men 67,VINGOT Yallil,67.0,50.0,55.0,-60.0,63.0,66.0,70.0,55.0,70.0,125.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U17 Men 73,BARRIERE Guillaume,72.7,68.0,72.0,-75.0,90.0,95.0,-100.0,72.0,95.0,167.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U17 Men 73,PIES Brian,71.0,60.0,-65.0,65.0,75.0,80.0,-83.0,65.0,80.0,145.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U20 Men 67,POULLET Lorenzo,67.0,70.0,75.0,-80.0,85.0,90.0,93.0,75.0,93.0,168.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U20 Men 67,WASIER Marin,66.5,62.0,67.0,-70.0,83.0,88.0,-90.0,67.0,88.0,155.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 81,BARCOT Emerick,77.0,75.0,80.0,-85.0,95.0,100.0,-105.0,80.0,100.0,180.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 81,PAISLEY-GILLANT Batun allan vincent,81.0,70.0,75.0,-78.0,95.0,98.0,-100.0,75.0,98.0,173.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 81,SUEDOIS David,79.6,55.0,60.0,-65.0,70.0,75.0,-80.0,60.0,75.0,135.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 89,ANGOUNDOU Jean jacques,86.0,90.0,95.0,-100.0,120.0,-125.0,125.0,95.0,125.0,220.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 89,AUROQUE Samuel,89.0,93.0,-96.0,96.0,113.0,-116.0,-116.0,96.0,113.0,209.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men 109,BENJAMIN Gregory,105.0,75.0,80.0,-83.0,105.0,110.0,-112.0,80.0,110.0,190.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,SEN Men >109,NAJOS Christophe,112.0,100.0,105.0,-110.0,130.0,-135.0,-135.0,105.0,130.0,235.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U10 Women ,LE PIOLET Mia,35.6,14.0,16.0,18.0,18.0,20.0,22.0,18.0,22.0,40.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U10 Women ,SUEDOIS Kimi,33.2,12.0,14.0,15.0,15.0,17.0,18.0,15.0,18.0,33.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U13 Men 40,GERMAIN Thimoté,35.5,22.0,24.0,26.0,28.0,30.0,32.0,26.0,32.0,58.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U13 Men 55,ZAOUROU Charly,50.0,35.0,37.0,38.0,37.0,39.0,-41.0,38.0,39.0,77.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U10 Women ,LE PIOLET Mia,35.6,14.0,16.0,18.0,18.0,20.0,22.0,18.0,22.0,40.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U10 Women ,SUEDOIS Kimi,33.2,12.0,14.0,15.0,15.0,17.0,18.0,15.0,18.0,33.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U13 Men 40,GERMAIN Thimoté,35.5,22.0,24.0,26.0,28.0,30.0,32.0,26.0,32.0,58.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U13 Men 55,ZAOUROU Charly,50.0,35.0,37.0,38.0,37.0,39.0,-41.0,38.0,39.0,77.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U10 Women ,LITZLER Luna,32.9,-24.0,24.0,25.0,33.0,35.0,37.0,25.0,37.0,62.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U13 Women 40,DURIC Ema,35.95,27.0,29.0,31.0,37.0,39.0,41.0,31.0,41.0,72.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U13 Women 55,GUCCIARDI Clara,52.75,24.0,26.0,28.0,35.0,37.0,39.0,28.0,39.0,67.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U13 Women 55,SIGUST DUQUESNOY Lya,55.0,17.0,19.0,21.0,22.0,24.0,26.0,21.0,26.0,47.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U10 Women ,LITZLER Luna,32.9,-24.0,24.0,25.0,33.0,35.0,37.0,25.0,37.0,62.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U13 Women 40,DURIC Ema,35.95,27.0,29.0,31.0,37.0,39.0,41.0,31.0,41.0,72.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U13 Women 55,GUCCIARDI Clara,52.75,24.0,26.0,28.0,35.0,37.0,39.0,28.0,39.0,67.0
+OCC - Challenge Avenir - Toulouse - Plateau Féminin,2023-05-20,U13 Women 55,SIGUST DUQUESNOY Lya,55.0,17.0,19.0,21.0,22.0,24.0,26.0,21.0,26.0,47.0

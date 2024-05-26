@@ -1,0 +1,59 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U15 Men 81,DEBARD Martin,76.15,16.0,18.0,20.0,20.0,22.0,24.0,20.0,24.0,44.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,SEN Men 67,LEDOUX Arnaud,64.0,35.0,38.0,40.0,45.0,48.0,50.0,40.0,50.0,90.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,SEN Men 73,FOURNIER Loïc,70.4,-85.0,-87.0,-90.0,100.0,-105.0,105.0,0.0,105.0,0.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,SEN Men 89,BARKAT Mohamed,87.5,90.0,95.0,100.0,125.0,130.0,-135.0,100.0,130.0,230.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U20 Women 49,FREVILLE Emma,48.5,-37.0,37.0,40.0,47.0,50.0,55.0,40.0,55.0,95.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U20 Women 64,GOMES Lisa,61.35,38.0,-41.0,41.0,48.0,51.0,-54.0,41.0,51.0,92.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U20 Women 81,DRUOTON Elise,76.25,20.0,23.0,25.0,30.0,-33.0,-33.0,25.0,30.0,55.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,SEN Women 55,SANAVAY Anita,54.9,-31.0,31.0,33.0,40.0,43.0,-45.0,33.0,43.0,76.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,SEN Women 59,GONTIER Amandine,55.8,-53.0,53.0,57.0,63.0,-67.0,67.0,57.0,67.0,124.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,SEN Women 59,GIOT Justine,56.6,38.0,-40.0,40.0,51.0,54.0,57.0,40.0,57.0,97.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,SEN Women 81,COMTE Pauline,80.1,68.0,71.0,74.0,88.0,-92.0,-92.0,74.0,88.0,162.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U20 Women 49,FREVILLE Emma,48.5,-37.0,37.0,40.0,47.0,50.0,55.0,40.0,55.0,95.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U20 Women 64,GOMES Lisa,61.35,38.0,-41.0,41.0,48.0,51.0,-54.0,41.0,51.0,92.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U20 Women 81,DRUOTON Elise,76.25,20.0,23.0,25.0,30.0,-33.0,-33.0,25.0,30.0,55.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,SEN Women 55,SANAVAY Anita,54.9,-31.0,31.0,33.0,40.0,43.0,-45.0,33.0,43.0,76.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,SEN Women 59,GONTIER Amandine,55.8,-53.0,53.0,57.0,63.0,-67.0,67.0,57.0,67.0,124.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,SEN Women 59,GIOT Justine,56.6,38.0,-40.0,40.0,51.0,54.0,57.0,40.0,57.0,97.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,SEN Women 81,COMTE Pauline,80.1,68.0,71.0,74.0,88.0,-92.0,-92.0,74.0,88.0,162.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U10 Women ,BAUD Tina,35.6,14.0,16.0,18.0,19.0,21.0,23.0,18.0,23.0,41.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U13 Women 40,BONNET Manon,36.3,13.0,15.0,-16.0,16.0,18.0,-20.0,15.0,18.0,33.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U13 Women 64,FORESTIER Lison,61.75,38.0,40.0,42.0,48.0,50.0,52.0,42.0,52.0,94.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U13 Men 45,ROULLET Tony,41.35,19.0,21.0,22.0,23.0,25.0,-27.0,22.0,25.0,47.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U13 Men 61,GADRET Marceau,55.3,23.0,25.0,27.0,31.0,33.0,35.0,27.0,35.0,62.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U13 Men 67,CHAVAND Azaël,63.2,15.0,17.0,-19.0,17.0,19.0,21.0,17.0,21.0,38.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U10 Women ,BAUD Tina,35.6,14.0,16.0,18.0,19.0,21.0,23.0,18.0,23.0,41.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U13 Women 40,BONNET Manon,36.3,13.0,15.0,-16.0,16.0,18.0,-20.0,15.0,18.0,33.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U13 Women 64,FORESTIER Lison,61.75,38.0,40.0,42.0,48.0,50.0,52.0,42.0,52.0,94.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U13 Men 45,ROULLET Tony,41.35,19.0,21.0,22.0,23.0,25.0,-27.0,22.0,25.0,47.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U13 Men 61,GADRET Marceau,55.3,23.0,25.0,27.0,31.0,33.0,35.0,27.0,35.0,62.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U13 Men 67,CHAVAND Azaël,63.2,15.0,17.0,-19.0,17.0,19.0,21.0,17.0,21.0,38.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U15 Women 71,BONIN MOMON Deborah,68.9,10.0,13.0,-15.0,15.0,17.0,-20.0,13.0,17.0,30.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U17 Women 55,LAMBERT Lola,55.0,-41.0,-42.0,42.0,52.0,-55.0,55.0,42.0,55.0,97.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U17 Women 55,COUSIN Marie,55.0,38.0,-41.0,41.0,50.0,53.0,55.0,41.0,55.0,96.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U17 Women 55,CARION Bélinda,54.9,30.0,33.0,36.0,39.0,42.0,45.0,36.0,45.0,81.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U17 Women 59,CALMUS Thais,58.55,55.0,58.0,60.0,65.0,68.0,70.0,60.0,70.0,130.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U17 Women 64,DEMAN Coraline,60.4,33.0,35.0,-37.0,38.0,40.0,44.0,35.0,44.0,79.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U17 Women 64,VILACA Lina,61.2,30.0,-33.0,33.0,39.0,-42.0,42.0,33.0,42.0,75.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U17 Women 71,TERENNE Lou ann,67.75,40.0,-43.0,-43.0,-52.0,52.0,55.0,40.0,55.0,95.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U17 Women 71,ROULLET Leilana,64.95,38.0,40.0,42.0,47.0,50.0,-53.0,42.0,50.0,92.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U15 Women 71,BONIN MOMON Deborah,68.9,10.0,13.0,-15.0,15.0,17.0,-20.0,13.0,17.0,30.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U17 Women 55,LAMBERT Lola,55.0,-41.0,-42.0,42.0,52.0,-55.0,55.0,42.0,55.0,97.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U17 Women 55,COUSIN Marie,55.0,38.0,-41.0,41.0,50.0,53.0,55.0,41.0,55.0,96.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U17 Women 55,CARION Bélinda,54.9,30.0,33.0,36.0,39.0,42.0,45.0,36.0,45.0,81.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U17 Women 59,CALMUS Thais,58.55,55.0,58.0,60.0,65.0,68.0,70.0,60.0,70.0,130.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U17 Women 64,DEMAN Coraline,60.4,33.0,35.0,-37.0,38.0,40.0,44.0,35.0,44.0,79.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U17 Women 64,VILACA Lina,61.2,30.0,-33.0,33.0,39.0,-42.0,42.0,33.0,42.0,75.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U17 Women 71,TERENNE Lou ann,67.75,40.0,-43.0,-43.0,-52.0,52.0,55.0,40.0,55.0,95.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U17 Women 71,ROULLET Leilana,64.95,38.0,40.0,42.0,47.0,50.0,-53.0,42.0,50.0,92.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U17 Men 67,GAUROIS Nathan,66.0,50.0,55.0,60.0,65.0,70.0,-75.0,60.0,70.0,130.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U17 Men 81,LAURZNT-FOQUET Lenny,78.3,40.0,50.0,-55.0,45.0,50.0,-55.0,50.0,50.0,100.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,SEN Men 81,DEBELLEMANIERE Jean claude,78.3,35.0,37.0,40.0,35.0,37.0,40.0,40.0,40.0,80.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,SEN Men 89,TANGUY Michel,88.7,60.0,-63.0,63.0,80.0,85.0,88.0,63.0,88.0,151.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,SEN Men 89,SAILLARD-SANE Francky,85.0,60.0,-64.0,-64.0,63.0,65.0,-70.0,60.0,65.0,125.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U17 Men 67,GAUROIS Nathan,66.0,50.0,55.0,60.0,65.0,70.0,-75.0,60.0,70.0,130.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,U17 Men 81,LAURZNT-FOQUET Lenny,78.3,40.0,50.0,-55.0,45.0,50.0,-55.0,50.0,50.0,100.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,SEN Men 81,DEBELLEMANIERE Jean claude,78.3,35.0,37.0,40.0,35.0,37.0,40.0,40.0,40.0,80.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,SEN Men 89,TANGUY Michel,88.7,60.0,-63.0,63.0,80.0,85.0,88.0,63.0,88.0,151.0
+BFC - Challenge Avenir - Avallon - 4 Plateau 2 homme,2023-02-11,SEN Men 89,SAILLARD-SANE Francky,85.0,60.0,-64.0,-64.0,63.0,65.0,-70.0,60.0,65.0,125.0

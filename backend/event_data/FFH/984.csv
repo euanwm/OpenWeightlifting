@@ -1,0 +1,49 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,U13 Women 40,FERRAND COGNON Lyna,40.0,15.0,17.0,-19.0,20.0,22.0,24.0,17.0,24.0,41.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,U13 Women 45,ROGUET Lylou,42.0,10.0,12.0,14.0,15.0,17.0,19.0,14.0,19.0,33.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,U13 Women 71,DODARD Maelisse,66.1,25.0,27.0,29.0,33.0,35.0,37.0,29.0,37.0,66.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,U13 Women >71,GLASSIER Barbara,80.7,25.0,27.0,28.0,30.0,32.0,34.0,28.0,34.0,62.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,U15 Men 49,COTTEREAU Hugo,44.3,30.0,32.0,34.0,40.0,42.0,44.0,34.0,44.0,78.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,U17 Men 61,AVRAM Cristian,59.45,25.0,28.0,30.0,35.0,38.0,-40.0,30.0,38.0,68.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,U17 Men 81,ROGUET Thomas,80.45,65.0,72.0,75.0,90.0,93.0,-95.0,75.0,93.0,168.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,SEN Men 81,VEILLARD Miguel,74.05,55.0,-0.0,-0.0,80.0,-0.0,-0.0,55.0,80.0,135.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,SEN Men 89,DORIDOT Fabrice,84.65,57.0,59.0,60.0,77.0,-80.0,-80.0,60.0,77.0,137.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,SEN Men 102,CARCOUET Aurélien,101.3,65.0,70.0,75.0,91.0,96.0,100.0,75.0,100.0,175.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,U15 Men 49,COTTEREAU Hugo,44.3,30.0,32.0,34.0,40.0,42.0,44.0,34.0,44.0,78.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,U17 Men 61,AVRAM Cristian,59.45,25.0,28.0,30.0,35.0,38.0,-40.0,30.0,38.0,68.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,U17 Men 81,ROGUET Thomas,80.45,65.0,72.0,75.0,90.0,93.0,-95.0,75.0,93.0,168.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,SEN Men 81,VEILLARD Miguel,74.05,55.0,-0.0,-0.0,80.0,-0.0,-0.0,55.0,80.0,135.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,SEN Men 89,DORIDOT Fabrice,84.65,57.0,59.0,60.0,77.0,-80.0,-80.0,60.0,77.0,137.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,SEN Men 102,CARCOUET Aurélien,101.3,65.0,70.0,75.0,91.0,96.0,100.0,75.0,100.0,175.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,U17 Women 55,GARNIER Camille,51.5,37.0,40.0,42.0,47.0,50.0,52.0,42.0,52.0,94.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,U17 Women 76,HAMARD Zelie,75.8,37.0,40.0,42.0,50.0,53.0,55.0,42.0,55.0,97.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,U17 Women 81,DODARD Mathilde,77.6,37.0,40.0,43.0,50.0,53.0,55.0,43.0,55.0,98.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,SEN Women 55,COUPE Jocelyne,54.7,30.0,33.0,-35.0,38.0,41.0,43.0,33.0,43.0,76.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,U17 Women 55,GARNIER Camille,51.5,37.0,40.0,42.0,47.0,50.0,52.0,42.0,52.0,94.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,U17 Women 76,HAMARD Zelie,75.8,37.0,40.0,42.0,50.0,53.0,55.0,42.0,55.0,97.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,U17 Women 81,DODARD Mathilde,77.6,37.0,40.0,43.0,50.0,53.0,55.0,43.0,55.0,98.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,SEN Women 55,COUPE Jocelyne,54.7,30.0,33.0,-35.0,38.0,41.0,43.0,33.0,43.0,76.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,U10 Women ,LOPES Amandine,42.4,7.0,8.0,9.0,9.0,10.0,11.0,9.0,11.0,20.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,U13 Men 40,BELLIER--BARREAU Mathis,36.9,-25.0,25.0,26.0,31.0,33.0,-35.0,26.0,33.0,59.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,U13 Men 40,BONAMY JAHIER Noa,36.3,15.0,16.0,17.0,18.0,19.0,21.0,17.0,21.0,38.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,U10 Women ,LOPES Amandine,42.4,7.0,8.0,9.0,9.0,10.0,11.0,9.0,11.0,20.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,U13 Men 40,BELLIER--BARREAU Mathis,36.9,-25.0,25.0,26.0,31.0,33.0,-35.0,26.0,33.0,59.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,U13 Men 40,BONAMY JAHIER Noa,36.3,15.0,16.0,17.0,18.0,19.0,21.0,17.0,21.0,38.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,U15 Men 49,CRAND Natan,35.1,12.0,13.0,14.0,15.0,17.0,-19.0,14.0,17.0,31.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,U15 Men 55,BELLIER--BARREAU Mael,51.2,28.0,32.0,-34.0,31.0,34.0,37.0,32.0,37.0,69.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,U15 Men 55,TRIGODET Titouan,49.2,24.0,27.0,29.0,30.0,34.0,37.0,29.0,37.0,66.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,U15 Men 61,MACÉ Axel,57.9,34.0,36.0,38.0,-45.0,45.0,48.0,38.0,48.0,86.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,U15 Men 73,PICHON Nolan,67.1,25.0,27.0,30.0,-30.0,30.0,-33.0,30.0,30.0,60.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,SEN Men 81,MERCIER Jean,74.8,-90.0,-95.0,-95.0,120.0,130.0,-133.0,0.0,130.0,0.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,SEN Men 89,LANDRY Aurélien,88.5,70.0,73.0,76.0,90.0,93.0,-96.0,76.0,93.0,169.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,U15 Men 49,CRAND Natan,35.1,12.0,13.0,14.0,15.0,17.0,-19.0,14.0,17.0,31.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,U15 Men 55,BELLIER--BARREAU Mael,51.2,28.0,32.0,-34.0,31.0,34.0,37.0,32.0,37.0,69.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,U15 Men 55,TRIGODET Titouan,49.2,24.0,27.0,29.0,30.0,34.0,37.0,29.0,37.0,66.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,U15 Men 61,MACÉ Axel,57.9,34.0,36.0,38.0,-45.0,45.0,48.0,38.0,48.0,86.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,U15 Men 73,PICHON Nolan,67.1,25.0,27.0,30.0,-30.0,30.0,-33.0,30.0,30.0,60.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,SEN Men 81,MERCIER Jean,74.8,-90.0,-95.0,-95.0,120.0,130.0,-133.0,0.0,130.0,0.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,SEN Men 89,LANDRY Aurélien,88.5,70.0,73.0,76.0,90.0,93.0,-96.0,76.0,93.0,169.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,U17 Women 55,BRUN Heloise,54.3,-35.0,35.0,-38.0,44.0,47.0,-50.0,35.0,47.0,82.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,U20 Women 59,LAMARQUE Enora,55.6,19.0,21.0,23.0,30.0,32.0,33.0,23.0,33.0,56.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,U17 Women 55,BRUN Heloise,54.3,-35.0,35.0,-38.0,44.0,47.0,-50.0,35.0,47.0,82.0
+PDL-Challenge de l'avenir n°1 Min 53,2021-10-16,U20 Women 59,LAMARQUE Enora,55.6,19.0,21.0,23.0,30.0,32.0,33.0,23.0,33.0,56.0

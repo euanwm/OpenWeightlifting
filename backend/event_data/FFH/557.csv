@@ -1,0 +1,108 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,U10 Men ,PRIME Kameron,34.2,7.0,9.0,10.0,10.0,12.0,-14.0,10.0,12.0,22.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,U13 Men 55,PRIME Luigi,54.2,13.0,15.0,17.0,21.0,23.0,25.0,17.0,25.0,42.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,U10 Women ,CHAUVAT POIRET Océane,26.1,7.0,9.0,-11.0,10.0,12.0,-14.0,9.0,12.0,21.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Women 71,HENRY Céline,64.8,-20.0,20.0,23.0,25.0,28.0,30.0,23.0,30.0,53.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Women 76,TRAGNO Rebecca,74.2,25.0,29.0,32.0,38.0,42.0,45.0,32.0,45.0,77.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Women >87,GERIN Larissa yvonne,141.0,42.0,45.0,48.0,58.0,62.0,65.0,48.0,65.0,113.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Women >87,LOUP Audrey,131.2,40.0,44.0,-47.0,-60.0,60.0,-0.0,44.0,60.0,104.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Women 71,HENRY Céline,64.8,-20.0,20.0,23.0,25.0,28.0,30.0,23.0,30.0,53.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Women 76,TRAGNO Rebecca,74.2,25.0,29.0,32.0,38.0,42.0,45.0,32.0,45.0,77.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Women >87,GERIN Larissa yvonne,141.0,42.0,45.0,48.0,58.0,62.0,65.0,48.0,65.0,113.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Women >87,LOUP Audrey,131.2,40.0,44.0,-47.0,-60.0,60.0,-0.0,44.0,60.0,104.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,U15 Men 67,JARDIN Lucas,64.5,37.0,40.0,-44.0,44.0,48.0,51.0,40.0,51.0,91.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,U17 Men 55,TOUZARD Paul,52.6,39.0,41.0,44.0,52.0,-56.0,-56.0,44.0,52.0,96.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 67,PALATIN Jules,65.0,70.0,75.0,78.0,90.0,-93.0,-93.0,78.0,90.0,168.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 67,MAINNEMARRE David,66.6,42.0,45.0,50.0,50.0,55.0,-60.0,50.0,55.0,105.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 73,DELAMOTTE Andy,71.0,61.0,65.0,-70.0,80.0,85.0,90.0,65.0,90.0,155.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 73,FORTRY Yohan,67.4,-63.0,63.0,-67.0,-90.0,90.0,-93.0,63.0,90.0,153.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 73,BASSOLE Brice,72.1,40.0,45.0,50.0,50.0,-0.0,-0.0,50.0,50.0,100.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 81,BLEUET Romain,74.2,65.0,70.0,-75.0,92.0,100.0,-102.0,70.0,100.0,170.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 81,LEPRINCE Clément,80.6,60.0,65.0,70.0,80.0,85.0,-90.0,70.0,85.0,155.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 81,BERTOLINI Hugo,74.7,70.0,-75.0,75.0,70.0,-75.0,-79.0,75.0,70.0,145.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 81,LETORT Nathan,73.4,40.0,45.0,50.0,50.0,55.0,60.0,50.0,60.0,110.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 81,CORVO Johann,77.6,40.0,45.0,-50.0,50.0,55.0,60.0,45.0,60.0,105.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 89,BOULANGER Fabien,83.6,80.0,86.0,-89.0,107.0,114.0,118.0,86.0,118.0,204.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 89,PATINO FLORES Francisco,86.5,77.0,80.0,-85.0,100.0,105.0,-107.0,80.0,105.0,185.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 89,DUBOC Laurent,85.2,75.0,-78.0,78.0,96.0,102.0,106.0,78.0,106.0,184.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 89,LANDREAU Arthur,84.0,67.0,-75.0,77.0,90.0,-95.0,98.0,77.0,98.0,175.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 89,FERNAND Sébastien,82.1,70.0,75.0,-78.0,90.0,95.0,-100.0,75.0,95.0,170.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 96,DUBOS Florian,90.7,-85.0,85.0,88.0,105.0,108.0,111.0,88.0,111.0,199.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 96,FALK Nicola,89.9,65.0,70.0,-76.0,85.0,92.0,98.0,70.0,98.0,168.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 109,HANOCQUE Gregory,108.5,61.0,65.0,70.0,80.0,85.0,90.0,70.0,90.0,160.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,U15 Men 67,JARDIN Lucas,64.5,37.0,40.0,-44.0,44.0,48.0,51.0,40.0,51.0,91.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,U17 Men 55,TOUZARD Paul,52.6,39.0,41.0,44.0,52.0,-56.0,-56.0,44.0,52.0,96.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 67,PALATIN Jules,65.0,70.0,75.0,78.0,90.0,-93.0,-93.0,78.0,90.0,168.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 67,MAINNEMARRE David,66.6,42.0,45.0,50.0,50.0,55.0,-60.0,50.0,55.0,105.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 73,DELAMOTTE Andy,71.0,61.0,65.0,-70.0,80.0,85.0,90.0,65.0,90.0,155.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 73,FORTRY Yohan,67.4,-63.0,63.0,-67.0,-90.0,90.0,-93.0,63.0,90.0,153.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 73,BASSOLE Brice,72.1,40.0,45.0,50.0,50.0,-0.0,-0.0,50.0,50.0,100.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 81,BLEUET Romain,74.2,65.0,70.0,-75.0,92.0,100.0,-102.0,70.0,100.0,170.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 81,LEPRINCE Clément,80.6,60.0,65.0,70.0,80.0,85.0,-90.0,70.0,85.0,155.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 81,BERTOLINI Hugo,74.7,70.0,-75.0,75.0,70.0,-75.0,-79.0,75.0,70.0,145.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 81,LETORT Nathan,73.4,40.0,45.0,50.0,50.0,55.0,60.0,50.0,60.0,110.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 81,CORVO Johann,77.6,40.0,45.0,-50.0,50.0,55.0,60.0,45.0,60.0,105.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 89,BOULANGER Fabien,83.6,80.0,86.0,-89.0,107.0,114.0,118.0,86.0,118.0,204.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 89,PATINO FLORES Francisco,86.5,77.0,80.0,-85.0,100.0,105.0,-107.0,80.0,105.0,185.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 89,DUBOC Laurent,85.2,75.0,-78.0,78.0,96.0,102.0,106.0,78.0,106.0,184.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 89,LANDREAU Arthur,84.0,67.0,-75.0,77.0,90.0,-95.0,98.0,77.0,98.0,175.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 89,FERNAND Sébastien,82.1,70.0,75.0,-78.0,90.0,95.0,-100.0,75.0,95.0,170.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 96,DUBOS Florian,90.7,-85.0,85.0,88.0,105.0,108.0,111.0,88.0,111.0,199.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 96,FALK Nicola,89.9,65.0,70.0,-76.0,85.0,92.0,98.0,70.0,98.0,168.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 109,HANOCQUE Gregory,108.5,61.0,65.0,70.0,80.0,85.0,90.0,70.0,90.0,160.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,U15 Men 55,REILLE Arthur,50.2,25.0,28.0,-31.0,33.0,-35.0,35.0,28.0,35.0,63.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,U15 Men 67,REKAI Nacer,62.3,20.0,25.0,28.0,25.0,30.0,35.0,28.0,35.0,63.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,U15 Men 67,SINANI Elroi,66.4,20.0,25.0,-28.0,25.0,30.0,35.0,25.0,35.0,60.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,U20 Men 67,HURPOIL-DELAVOIX Yann,65.5,-43.0,43.0,47.0,55.0,60.0,65.0,47.0,65.0,112.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,U20 Men 81,JULES Karim,75.4,40.0,45.0,50.0,55.0,60.0,65.0,50.0,65.0,115.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 73,VAUGIN Dominique,71.7,45.0,48.0,-50.0,-60.0,-60.0,60.0,48.0,60.0,108.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 81,ADOUX Hugo,76.6,63.0,68.0,75.0,85.0,90.0,95.0,75.0,95.0,170.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 81,FAUCHART Xavier,78.5,60.0,65.0,-70.0,80.0,-85.0,85.0,65.0,85.0,150.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 81,CHARDONNET Amaury,80.8,30.0,35.0,40.0,50.0,55.0,60.0,40.0,60.0,100.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 89,MAGNAN Frederic,83.0,-82.0,82.0,87.0,102.0,107.0,-113.0,87.0,107.0,194.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 89,DELMOTTE Nicolas,88.8,70.0,75.0,80.0,95.0,100.0,-105.0,80.0,100.0,180.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 89,DOSSA KADJO Marius,85.3,50.0,55.0,61.0,70.0,80.0,-85.0,61.0,80.0,141.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 89,DORBANE Yous,88.7,50.0,55.0,-60.0,60.0,65.0,70.0,55.0,70.0,125.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 89,GUILLER Grégoire,87.3,30.0,35.0,40.0,45.0,50.0,55.0,40.0,55.0,95.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 96,HERVE Erwan,90.2,50.0,55.0,-60.0,65.0,70.0,73.0,55.0,73.0,128.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,U15 Men 55,REILLE Arthur,50.2,25.0,28.0,-31.0,33.0,-35.0,35.0,28.0,35.0,63.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,U15 Men 67,REKAI Nacer,62.3,20.0,25.0,28.0,25.0,30.0,35.0,28.0,35.0,63.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,U15 Men 67,SINANI Elroi,66.4,20.0,25.0,-28.0,25.0,30.0,35.0,25.0,35.0,60.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,U20 Men 67,HURPOIL-DELAVOIX Yann,65.5,-43.0,43.0,47.0,55.0,60.0,65.0,47.0,65.0,112.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,U20 Men 81,JULES Karim,75.4,40.0,45.0,50.0,55.0,60.0,65.0,50.0,65.0,115.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 73,VAUGIN Dominique,71.7,45.0,48.0,-50.0,-60.0,-60.0,60.0,48.0,60.0,108.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 81,ADOUX Hugo,76.6,63.0,68.0,75.0,85.0,90.0,95.0,75.0,95.0,170.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 81,FAUCHART Xavier,78.5,60.0,65.0,-70.0,80.0,-85.0,85.0,65.0,85.0,150.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 81,CHARDONNET Amaury,80.8,30.0,35.0,40.0,50.0,55.0,60.0,40.0,60.0,100.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 89,MAGNAN Frederic,83.0,-82.0,82.0,87.0,102.0,107.0,-113.0,87.0,107.0,194.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 89,DELMOTTE Nicolas,88.8,70.0,75.0,80.0,95.0,100.0,-105.0,80.0,100.0,180.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 89,DOSSA KADJO Marius,85.3,50.0,55.0,61.0,70.0,80.0,-85.0,61.0,80.0,141.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 89,DORBANE Yous,88.7,50.0,55.0,-60.0,60.0,65.0,70.0,55.0,70.0,125.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 89,GUILLER Grégoire,87.3,30.0,35.0,40.0,45.0,50.0,55.0,40.0,55.0,95.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Men 96,HERVE Erwan,90.2,50.0,55.0,-60.0,65.0,70.0,73.0,55.0,73.0,128.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,U15 Women 64,HESLOIN Constance,62.8,25.0,27.0,-30.0,37.0,39.0,-42.0,27.0,39.0,66.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,U15 Women >81,PISTOL Léonie,90.4,30.0,32.0,34.0,40.0,43.0,-44.0,34.0,43.0,77.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,U17 Women 76,LEJEUNE Noemie,75.0,31.0,33.0,35.0,40.0,43.0,46.0,35.0,46.0,81.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,U20 Women 71,SAVARY Julie,68.1,32.0,34.0,36.0,40.0,43.0,-44.0,36.0,43.0,79.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Women 55,SOLLOY Clémence,53.8,55.0,-58.0,58.0,77.0,80.0,82.0,58.0,82.0,140.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Women 64,SERVOISE Audrey,63.2,-42.0,42.0,-45.0,55.0,57.0,60.0,42.0,60.0,102.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Women 64,LEFEVRE Cécile,61.9,25.0,28.0,30.0,35.0,38.0,42.0,30.0,42.0,72.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Women 64,LEGUILLON Charlotte,62.3,25.0,28.0,-30.0,35.0,38.0,42.0,28.0,42.0,70.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Women 64,DELAMOTTE Audrey,61.8,25.0,27.0,29.0,35.0,38.0,-41.0,29.0,38.0,67.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Women 71,COQUELIN Clara,66.7,30.0,34.0,-38.0,40.0,-45.0,50.0,34.0,50.0,84.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Women 71,LECHATREUX-MONAHAN Céline,71.0,25.0,27.0,-33.0,35.0,37.0,40.0,27.0,40.0,67.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Women >87,DEZIER Camille,130.9,40.0,44.0,47.0,60.0,65.0,68.0,47.0,68.0,115.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Women >87,LE FAUCHEUR Margot,92.5,38.0,40.0,-42.0,54.0,57.0,-60.0,40.0,57.0,97.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,U15 Women 64,HESLOIN Constance,62.8,25.0,27.0,-30.0,37.0,39.0,-42.0,27.0,39.0,66.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,U15 Women >81,PISTOL Léonie,90.4,30.0,32.0,34.0,40.0,43.0,-44.0,34.0,43.0,77.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,U17 Women 76,LEJEUNE Noemie,75.0,31.0,33.0,35.0,40.0,43.0,46.0,35.0,46.0,81.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,U20 Women 71,SAVARY Julie,68.1,32.0,34.0,36.0,40.0,43.0,-44.0,36.0,43.0,79.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Women 55,SOLLOY Clémence,53.8,55.0,-58.0,58.0,77.0,80.0,82.0,58.0,82.0,140.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Women 64,SERVOISE Audrey,63.2,-42.0,42.0,-45.0,55.0,57.0,60.0,42.0,60.0,102.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Women 64,LEFEVRE Cécile,61.9,25.0,28.0,30.0,35.0,38.0,42.0,30.0,42.0,72.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Women 64,LEGUILLON Charlotte,62.3,25.0,28.0,-30.0,35.0,38.0,42.0,28.0,42.0,70.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Women 64,DELAMOTTE Audrey,61.8,25.0,27.0,29.0,35.0,38.0,-41.0,29.0,38.0,67.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Women 71,COQUELIN Clara,66.7,30.0,34.0,-38.0,40.0,-45.0,50.0,34.0,50.0,84.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Women 71,LECHATREUX-MONAHAN Céline,71.0,25.0,27.0,-33.0,35.0,37.0,40.0,27.0,40.0,67.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Women >87,DEZIER Camille,130.9,40.0,44.0,47.0,60.0,65.0,68.0,47.0,68.0,115.0
+GE - Challenge Avenir - REIMS - Marne 51,2022-02-27,SEN Women >87,LE FAUCHEUR Margot,92.5,38.0,40.0,-42.0,54.0,57.0,-60.0,40.0,57.0,97.0

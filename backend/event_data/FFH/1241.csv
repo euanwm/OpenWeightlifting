@@ -1,0 +1,585 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Men >102,BOFFY Lucas,115.4,75.0,-80.0,80.0,95.0,100.0,105.0,80.0,105.0,185.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Men 67,MARTIN Gabriel,62.7,-69.0,70.0,75.0,88.0,94.0,-100.0,75.0,94.0,169.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Men >102,VINCENT Gaetan,103.6,83.0,88.0,-92.0,107.0,114.0,-120.0,88.0,114.0,202.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 61,BACHEROT Yannis,57.3,86.0,-89.0,-90.0,104.0,-109.0,109.0,86.0,109.0,195.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 67,CREVOISIER Lucien,65.1,85.0,88.0,91.0,98.0,-104.0,104.0,91.0,104.0,195.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,JEGAN Thaya,73.7,95.0,99.0,102.0,118.0,125.0,-0.0,102.0,125.0,227.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,AUBRY Stephane,81.0,95.0,-99.0,-99.0,110.0,-0.0,-0.0,95.0,110.0,205.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 96,SPERKA Sacha,90.5,-130.0,-130.0,-130.0,120.0,140.0,-0.0,0.0,140.0,0.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Men 81,GROSJEAN Alexandre,79.1,117.0,122.0,-126.0,135.0,-140.0,-144.0,122.0,135.0,257.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Men 81,MATHIOT Hugo,74.2,-90.0,90.0,-95.0,115.0,-120.0,-125.0,90.0,115.0,205.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,LEPAUL Emmanuel,78.5,120.0,125.0,-130.0,150.0,-160.0,-0.0,125.0,150.0,275.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,MULLER John,80.5,110.0,-115.0,115.0,145.0,-153.0,-155.0,115.0,145.0,260.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,GRAILLOT Steven,77.8,110.0,-115.0,-118.0,140.0,-145.0,-150.0,110.0,140.0,250.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 96,NICOLIN Aslam,90.4,-100.0,100.0,104.0,131.0,-141.0,-141.0,104.0,131.0,235.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 102,GVOZDENOVIC Michel,100.7,120.0,-130.0,-130.0,140.0,150.0,-0.0,120.0,150.0,270.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 109,FERRE Benjamin,107.6,150.0,155.0,-158.0,-190.0,-190.0,-190.0,155.0,0.0,0.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Men 81,GROSJEAN Alexandre,79.1,117.0,122.0,-126.0,135.0,-140.0,-144.0,122.0,135.0,257.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Men 81,MATHIOT Hugo,74.2,-90.0,90.0,-95.0,115.0,-120.0,-125.0,90.0,115.0,205.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,LEPAUL Emmanuel,78.5,120.0,125.0,-130.0,150.0,-160.0,-0.0,125.0,150.0,275.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,MULLER John,80.5,110.0,-115.0,115.0,145.0,-153.0,-155.0,115.0,145.0,260.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,GRAILLOT Steven,77.8,110.0,-115.0,-118.0,140.0,-145.0,-150.0,110.0,140.0,250.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 96,NICOLIN Aslam,90.4,-100.0,100.0,104.0,131.0,-141.0,-141.0,104.0,131.0,235.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 102,GVOZDENOVIC Michel,100.7,120.0,-130.0,-130.0,140.0,150.0,-0.0,120.0,150.0,270.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 109,FERRE Benjamin,107.6,150.0,155.0,-158.0,-190.0,-190.0,-190.0,155.0,0.0,0.0
+BFC - Critérium National - Luxeuil,2022-12-03,U10 Men ,VIJAYAPASKARAN Harys,37.5,8.0,9.0,10.0,-8.0,8.0,-9.0,10.0,8.0,18.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Men 45,ROULLET Tony,40.4,15.0,17.0,19.0,20.0,22.0,24.0,19.0,24.0,43.0
+BFC - Critérium National - Luxeuil,2022-12-03,U10 Women ,LITZLER Luna,33.15,19.0,-20.0,-20.0,26.0,28.0,-30.0,19.0,28.0,47.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women 35,DURIC Ema,33.5,25.0,27.0,-29.0,31.0,33.0,35.0,27.0,35.0,62.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women 35,AUBRY Leena,33.9,14.0,16.0,18.0,18.0,20.0,-22.0,18.0,20.0,38.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women 55,GUCCIARDI Clara,51.55,18.0,20.0,22.0,23.0,25.0,27.0,22.0,27.0,49.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women 55,SIGUST DUQUESNOY Lya,52.2,14.0,16.0,-18.0,18.0,20.0,21.0,16.0,21.0,37.0
+BFC - Critérium National - Luxeuil,2022-12-03,U10 Men ,VIJAYAPASKARAN Harys,37.5,8.0,9.0,10.0,-8.0,8.0,-9.0,10.0,8.0,18.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Men 45,ROULLET Tony,40.4,15.0,17.0,19.0,20.0,22.0,24.0,19.0,24.0,43.0
+BFC - Critérium National - Luxeuil,2022-12-03,U10 Women ,LITZLER Luna,33.15,19.0,-20.0,-20.0,26.0,28.0,-30.0,19.0,28.0,47.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women 35,DURIC Ema,33.5,25.0,27.0,-29.0,31.0,33.0,35.0,27.0,35.0,62.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women 35,AUBRY Leena,33.9,14.0,16.0,18.0,18.0,20.0,-22.0,18.0,20.0,38.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women 55,GUCCIARDI Clara,51.55,18.0,20.0,22.0,23.0,25.0,27.0,22.0,27.0,49.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women 55,SIGUST DUQUESNOY Lya,52.2,14.0,16.0,-18.0,18.0,20.0,21.0,16.0,21.0,37.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Men 49,PAUVRET Valentin,45.2,16.0,18.0,20.0,22.0,24.0,26.0,20.0,26.0,46.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women 40,CHANTELOUP Perinne,36.9,12.0,14.0,16.0,23.0,25.0,27.0,16.0,27.0,43.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women 40,MALHERBE Celia,36.8,7.0,9.0,11.0,10.0,12.0,14.0,11.0,14.0,25.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women 49,PERROTIN Daphné,48.5,16.0,18.0,-20.0,23.0,25.0,27.0,18.0,27.0,45.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Men 49,PAUVRET Valentin,45.2,16.0,18.0,20.0,22.0,24.0,26.0,20.0,26.0,46.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women 40,CHANTELOUP Perinne,36.9,12.0,14.0,16.0,23.0,25.0,27.0,16.0,27.0,43.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women 40,MALHERBE Celia,36.8,7.0,9.0,11.0,10.0,12.0,14.0,11.0,14.0,25.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women 49,PERROTIN Daphné,48.5,16.0,18.0,-20.0,23.0,25.0,27.0,18.0,27.0,45.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Men 73,ROUGE Hugo,71.15,84.0,88.0,92.0,110.0,115.0,120.0,92.0,120.0,212.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,LEMARINIER Vincent,80.1,110.0,113.0,115.0,135.0,-141.0,-141.0,115.0,135.0,250.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,GAY Ludovic,79.85,-105.0,105.0,110.0,135.0,140.0,-145.0,110.0,140.0,250.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 89,DJALAB Brahim,86.8,100.0,105.0,-108.0,-125.0,128.0,-133.0,105.0,128.0,233.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 109,HALILI Erjon,104.0,133.0,137.0,140.0,170.0,177.0,-183.0,140.0,177.0,317.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men >109,MOQUART Philippe,120.0,-108.0,108.0,115.0,138.0,145.0,-148.0,115.0,145.0,260.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Men 73,ROUGE Hugo,71.15,84.0,88.0,92.0,110.0,115.0,120.0,92.0,120.0,212.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,LEMARINIER Vincent,80.1,110.0,113.0,115.0,135.0,-141.0,-141.0,115.0,135.0,250.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,GAY Ludovic,79.85,-105.0,105.0,110.0,135.0,140.0,-145.0,110.0,140.0,250.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 89,DJALAB Brahim,86.8,100.0,105.0,-108.0,-125.0,128.0,-133.0,105.0,128.0,233.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 109,HALILI Erjon,104.0,133.0,137.0,140.0,170.0,177.0,-183.0,140.0,177.0,317.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men >109,MOQUART Philippe,120.0,-108.0,108.0,115.0,138.0,145.0,-148.0,115.0,145.0,260.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Men 40,GRANGER Lucas,38.32,28.0,29.0,31.0,41.0,43.0,45.0,31.0,45.0,76.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Men 40,LAPIERRE Louis,37.41,18.0,20.0,-21.0,23.0,25.0,26.0,20.0,26.0,46.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Men 45,BONAMY JAHIER Noa,40.92,26.0,28.0,30.0,33.0,-35.0,35.0,30.0,35.0,65.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Men 49,HAMARD Jules,46.28,16.0,-18.0,18.0,21.0,23.0,24.0,18.0,24.0,42.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Men 67,LEMOINE Nathan,65.2,26.0,28.0,30.0,31.0,33.0,35.0,30.0,35.0,65.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women 45,VILFEU Inaia,43.74,15.0,16.0,17.0,20.0,21.0,22.0,17.0,22.0,39.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women 45,FERRAND COGNON Lyna,42.36,26.0,28.0,30.0,-31.0,-0.0,-0.0,30.0,0.0,0.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women 49,ROGUET Lylou,47.68,20.0,22.0,-23.0,27.0,29.0,-31.0,22.0,29.0,51.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women 55,GEORGES Lylou,49.58,18.0,20.0,21.0,27.0,29.0,-31.0,21.0,29.0,50.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women 55,LECHAT Apoline,49.91,15.0,16.0,17.0,20.0,21.0,22.0,17.0,22.0,39.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women >71,GLASSIER Barbara,95.48,31.0,33.0,35.0,41.0,43.0,45.0,35.0,45.0,80.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Men 40,GRANGER Lucas,38.32,28.0,29.0,31.0,41.0,43.0,45.0,31.0,45.0,76.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Men 40,LAPIERRE Louis,37.41,18.0,20.0,-21.0,23.0,25.0,26.0,20.0,26.0,46.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Men 45,BONAMY JAHIER Noa,40.92,26.0,28.0,30.0,33.0,-35.0,35.0,30.0,35.0,65.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Men 49,HAMARD Jules,46.28,16.0,-18.0,18.0,21.0,23.0,24.0,18.0,24.0,42.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Men 67,LEMOINE Nathan,65.2,26.0,28.0,30.0,31.0,33.0,35.0,30.0,35.0,65.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women 45,VILFEU Inaia,43.74,15.0,16.0,17.0,20.0,21.0,22.0,17.0,22.0,39.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women 45,FERRAND COGNON Lyna,42.36,26.0,28.0,30.0,-31.0,-0.0,-0.0,30.0,0.0,0.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women 49,ROGUET Lylou,47.68,20.0,22.0,-23.0,27.0,29.0,-31.0,22.0,29.0,51.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women 55,GEORGES Lylou,49.58,18.0,20.0,21.0,27.0,29.0,-31.0,21.0,29.0,50.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women 55,LECHAT Apoline,49.91,15.0,16.0,17.0,20.0,21.0,22.0,17.0,22.0,39.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women >71,GLASSIER Barbara,95.48,31.0,33.0,35.0,41.0,43.0,45.0,35.0,45.0,80.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Women 55,BRUN Heloise,53.09,43.0,48.0,-50.0,55.0,-60.0,-60.0,48.0,55.0,103.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Women 59,CADIEU Anais,57.98,-54.0,54.0,57.0,67.0,-73.0,-73.0,57.0,67.0,124.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Women 76,HAMARD Zelie,74.77,57.0,-60.0,-60.0,70.0,-73.0,-73.0,57.0,70.0,127.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,FORMONT Johanna,50.49,58.0,-61.0,61.0,73.0,77.0,-80.0,61.0,77.0,138.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,ILCHUK Kateryna,58.06,62.0,65.0,-68.0,72.0,-76.0,-80.0,65.0,72.0,137.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,HERVAULT Jeanne,56.64,60.0,63.0,-65.0,73.0,-77.0,-77.0,63.0,73.0,136.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,MONTANDON Tamara,62.23,-65.0,65.0,68.0,79.0,-83.0,-84.0,68.0,79.0,147.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,MORIN Jessica,64.1,57.0,60.0,62.0,73.0,77.0,-80.0,62.0,77.0,139.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,CHOYER Anissa,70.05,59.0,-62.0,-63.0,-75.0,75.0,80.0,59.0,80.0,139.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,COGNON Sonia,64.4,60.0,-63.0,-63.0,75.0,-77.0,-77.0,60.0,75.0,135.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Women 55,BRUN Heloise,53.09,43.0,48.0,-50.0,55.0,-60.0,-60.0,48.0,55.0,103.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Women 59,CADIEU Anais,57.98,-54.0,54.0,57.0,67.0,-73.0,-73.0,57.0,67.0,124.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Women 76,HAMARD Zelie,74.77,57.0,-60.0,-60.0,70.0,-73.0,-73.0,57.0,70.0,127.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,FORMONT Johanna,50.49,58.0,-61.0,61.0,73.0,77.0,-80.0,61.0,77.0,138.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,ILCHUK Kateryna,58.06,62.0,65.0,-68.0,72.0,-76.0,-80.0,65.0,72.0,137.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,HERVAULT Jeanne,56.64,60.0,63.0,-65.0,73.0,-77.0,-77.0,63.0,73.0,136.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,MONTANDON Tamara,62.23,-65.0,65.0,68.0,79.0,-83.0,-84.0,68.0,79.0,147.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,MORIN Jessica,64.1,57.0,60.0,62.0,73.0,77.0,-80.0,62.0,77.0,139.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,CHOYER Anissa,70.05,59.0,-62.0,-63.0,-75.0,75.0,80.0,59.0,80.0,139.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,COGNON Sonia,64.4,60.0,-63.0,-63.0,75.0,-77.0,-77.0,60.0,75.0,135.0
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Men 49,BELLIER--BARREAU Mathis,46.8,42.0,45.0,46.0,52.0,54.0,56.0,46.0,56.0,102.0
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Men 67,PIRIOU Yundy,62.0,56.0,60.0,62.0,67.0,70.0,73.0,62.0,73.0,135.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Men 81,ROGUET Thomas,78.33,85.0,88.0,-90.0,105.0,110.0,-112.0,88.0,110.0,198.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Men 89,TERRIER Killian,82.99,103.0,108.0,112.0,-135.0,135.0,-143.0,112.0,135.0,247.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 55,CADIEU Clement,54.18,78.0,-82.0,-82.0,-95.0,-95.0,95.0,78.0,95.0,173.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 73,MEZIERE Benjamin,70.6,92.0,-97.0,97.0,115.0,-120.0,-0.0,97.0,115.0,212.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,COGNON Jonathan,79.67,105.0,110.0,-112.0,135.0,140.0,-143.0,110.0,140.0,250.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,MERCIER Jean,78.91,-95.0,-100.0,100.0,130.0,-140.0,-140.0,100.0,130.0,230.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,COGNON Theo,76.87,105.0,110.0,113.0,-137.0,-137.0,-137.0,113.0,0.0,0.0
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Men 49,BELLIER--BARREAU Mathis,46.8,42.0,45.0,46.0,52.0,54.0,56.0,46.0,56.0,102.0
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Men 67,PIRIOU Yundy,62.0,56.0,60.0,62.0,67.0,70.0,73.0,62.0,73.0,135.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Men 81,ROGUET Thomas,78.33,85.0,88.0,-90.0,105.0,110.0,-112.0,88.0,110.0,198.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Men 89,TERRIER Killian,82.99,103.0,108.0,112.0,-135.0,135.0,-143.0,112.0,135.0,247.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 55,CADIEU Clement,54.18,78.0,-82.0,-82.0,-95.0,-95.0,95.0,78.0,95.0,173.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 73,MEZIERE Benjamin,70.6,92.0,-97.0,97.0,115.0,-120.0,-0.0,97.0,115.0,212.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,COGNON Jonathan,79.67,105.0,110.0,-112.0,135.0,140.0,-143.0,110.0,140.0,250.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,MERCIER Jean,78.91,-95.0,-100.0,100.0,130.0,-140.0,-140.0,100.0,130.0,230.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,COGNON Theo,76.87,105.0,110.0,113.0,-137.0,-137.0,-137.0,113.0,0.0,0.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Men 73,LE PIOLET Manoa,72.9,75.0,78.0,80.0,95.0,100.0,-103.0,80.0,100.0,180.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Men 81,LE PIOLET Teiva,81.0,85.0,90.0,-95.0,-105.0,105.0,-115.0,90.0,105.0,195.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Men 96,NUIRO Hevy guy,94.0,110.0,115.0,120.0,135.0,140.0,-145.0,120.0,140.0,260.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 73,PINEAU Aschkenaz,72.8,85.0,90.0,93.0,115.0,120.0,-125.0,93.0,120.0,213.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Men 73,LE PIOLET Manoa,72.9,75.0,78.0,80.0,95.0,100.0,-103.0,80.0,100.0,180.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Men 81,LE PIOLET Teiva,81.0,85.0,90.0,-95.0,-105.0,105.0,-115.0,90.0,105.0,195.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Men 96,NUIRO Hevy guy,94.0,110.0,115.0,120.0,135.0,140.0,-145.0,120.0,140.0,260.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 73,PINEAU Aschkenaz,72.8,85.0,90.0,93.0,115.0,120.0,-125.0,93.0,120.0,213.0
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Women 55,GUINDE Jade,52.6,33.0,36.0,-38.0,42.0,45.0,-47.0,36.0,45.0,81.0
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Women 55,ZAOUROU Maïana,53.0,35.0,37.0,-39.0,38.0,41.0,-44.0,37.0,41.0,78.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Women 59,EZZEDDINE Shada,58.8,40.0,43.0,45.0,50.0,55.0,-57.0,45.0,55.0,100.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Women 71,M'VOUMINI Jeffy,64.8,43.0,45.0,48.0,50.0,55.0,58.0,48.0,58.0,106.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Women >81,AYMES Lilou,120.0,60.0,65.0,68.0,-80.0,80.0,-85.0,68.0,80.0,148.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Women 55,SHADEOSING Tessie,54.8,40.0,43.0,45.0,50.0,54.0,-56.0,45.0,54.0,99.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Women 64,EZZEDINE Alissa,63.8,60.0,65.0,-70.0,86.0,-90.0,-90.0,65.0,86.0,151.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,SERVAIS Julie,54.7,60.0,63.0,65.0,75.0,-80.0,80.0,65.0,80.0,145.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,STOKLOSA Alysée,54.8,52.0,55.0,58.0,70.0,73.0,-75.0,58.0,73.0,131.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,JACQUET Johanna,66.5,52.0,56.0,-58.0,70.0,75.0,77.0,56.0,77.0,133.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women >87,BAPTE Syndra,90.0,68.0,72.0,-74.0,85.0,90.0,-95.0,72.0,90.0,162.0
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Women 55,GUINDE Jade,52.6,33.0,36.0,-38.0,42.0,45.0,-47.0,36.0,45.0,81.0
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Women 55,ZAOUROU Maïana,53.0,35.0,37.0,-39.0,38.0,41.0,-44.0,37.0,41.0,78.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Women 59,EZZEDDINE Shada,58.8,40.0,43.0,45.0,50.0,55.0,-57.0,45.0,55.0,100.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Women 71,M'VOUMINI Jeffy,64.8,43.0,45.0,48.0,50.0,55.0,58.0,48.0,58.0,106.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Women >81,AYMES Lilou,120.0,60.0,65.0,68.0,-80.0,80.0,-85.0,68.0,80.0,148.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Women 55,SHADEOSING Tessie,54.8,40.0,43.0,45.0,50.0,54.0,-56.0,45.0,54.0,99.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Women 64,EZZEDINE Alissa,63.8,60.0,65.0,-70.0,86.0,-90.0,-90.0,65.0,86.0,151.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,SERVAIS Julie,54.7,60.0,63.0,65.0,75.0,-80.0,80.0,65.0,80.0,145.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,STOKLOSA Alysée,54.8,52.0,55.0,58.0,70.0,73.0,-75.0,58.0,73.0,131.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,JACQUET Johanna,66.5,52.0,56.0,-58.0,70.0,75.0,77.0,56.0,77.0,133.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women >87,BAPTE Syndra,90.0,68.0,72.0,-74.0,85.0,90.0,-95.0,72.0,90.0,162.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Men 73,COTTEREAU Antoine,68.1,76.0,-81.0,81.0,-96.0,96.0,-101.0,81.0,96.0,177.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Men 81,MORO Anthony,78.7,85.0,89.0,-92.0,103.0,107.0,-112.0,89.0,107.0,196.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 61,GUANNOUNI Zied,57.5,75.0,80.0,85.0,95.0,100.0,-105.0,85.0,100.0,185.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 67,DA FONSECA Raphael,65.5,-100.0,102.0,-106.0,-123.0,-123.0,-123.0,102.0,0.0,0.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 89,DEMEULEMEESTER Gregory,81.5,-110.0,110.0,-117.0,137.0,142.0,-147.0,110.0,142.0,252.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 89,BERNARD Xavier,88.5,-110.0,110.0,-117.0,130.0,-137.0,-137.0,110.0,130.0,240.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 89,DRAGONI Vincent,83.9,-102.0,102.0,-110.0,-136.0,-137.0,137.0,102.0,137.0,239.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 96,BALIAN Stéphane,95.3,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Men 73,COTTEREAU Antoine,68.1,76.0,-81.0,81.0,-96.0,96.0,-101.0,81.0,96.0,177.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Men 81,MORO Anthony,78.7,85.0,89.0,-92.0,103.0,107.0,-112.0,89.0,107.0,196.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 61,GUANNOUNI Zied,57.5,75.0,80.0,85.0,95.0,100.0,-105.0,85.0,100.0,185.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 67,DA FONSECA Raphael,65.5,-100.0,102.0,-106.0,-123.0,-123.0,-123.0,102.0,0.0,0.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 89,DEMEULEMEESTER Gregory,81.5,-110.0,110.0,-117.0,137.0,142.0,-147.0,110.0,142.0,252.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 89,BERNARD Xavier,88.5,-110.0,110.0,-117.0,130.0,-137.0,-137.0,110.0,130.0,240.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 89,DRAGONI Vincent,83.9,-102.0,102.0,-110.0,-136.0,-137.0,137.0,102.0,137.0,239.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 96,BALIAN Stéphane,95.3,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,TAIMOURI Sara,54.6,-50.0,-50.0,50.0,60.0,-65.0,-65.0,50.0,60.0,110.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,CHUI Lynn,52.8,48.0,-51.0,-51.0,61.0,-65.0,-65.0,48.0,61.0,109.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,PERRONNE Natacha,56.2,-63.0,63.0,-67.0,-77.0,77.0,-82.0,63.0,77.0,140.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,CHANTIER Agathe,57.5,47.0,50.0,53.0,60.0,65.0,68.0,53.0,68.0,121.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,COHEN Alice,59.0,52.0,-56.0,-58.0,63.0,66.0,-69.0,52.0,66.0,118.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,GENIN Marie,63.4,-62.0,63.0,65.0,82.0,-86.0,87.0,65.0,87.0,152.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,LAUV Pauline,64.0,63.0,-65.0,65.0,70.0,-82.0,-82.0,65.0,70.0,135.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,EBERENA Sylvie,62.9,55.0,57.0,-60.0,74.0,77.0,-80.0,57.0,77.0,134.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,BEN HADJALI Asma,61.7,57.0,60.0,-63.0,67.0,-73.0,-73.0,60.0,67.0,127.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,DAM WAN Diane,59.2,-67.0,-67.0,-67.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,MARUANI Audrey,70.3,68.0,73.0,78.0,85.0,-90.0,94.0,78.0,94.0,172.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,GHEKAP WAFO Myriam,66.2,68.0,-72.0,72.0,90.0,-95.0,-95.0,72.0,90.0,162.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,ASSAH Morgane,70.5,-70.0,70.0,-78.0,85.0,-90.0,-95.0,70.0,85.0,155.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,LARADE Juliana,65.6,60.0,-65.0,-68.0,77.0,-82.0,82.0,60.0,82.0,142.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 76,SAICIC Sonia,75.0,81.0,86.0,-89.0,92.0,97.0,-100.0,86.0,97.0,183.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 87,DRENO Eva marie,86.6,65.0,69.0,-71.0,-83.0,-87.0,-91.0,69.0,0.0,0.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,TAIMOURI Sara,54.6,-50.0,-50.0,50.0,60.0,-65.0,-65.0,50.0,60.0,110.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,CHUI Lynn,52.8,48.0,-51.0,-51.0,61.0,-65.0,-65.0,48.0,61.0,109.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,PERRONNE Natacha,56.2,-63.0,63.0,-67.0,-77.0,77.0,-82.0,63.0,77.0,140.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,CHANTIER Agathe,57.5,47.0,50.0,53.0,60.0,65.0,68.0,53.0,68.0,121.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,COHEN Alice,59.0,52.0,-56.0,-58.0,63.0,66.0,-69.0,52.0,66.0,118.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,GENIN Marie,63.4,-62.0,63.0,65.0,82.0,-86.0,87.0,65.0,87.0,152.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,LAUV Pauline,64.0,63.0,-65.0,65.0,70.0,-82.0,-82.0,65.0,70.0,135.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,EBERENA Sylvie,62.9,55.0,57.0,-60.0,74.0,77.0,-80.0,57.0,77.0,134.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,BEN HADJALI Asma,61.7,57.0,60.0,-63.0,67.0,-73.0,-73.0,60.0,67.0,127.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,DAM WAN Diane,59.2,-67.0,-67.0,-67.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,MARUANI Audrey,70.3,68.0,73.0,78.0,85.0,-90.0,94.0,78.0,94.0,172.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,GHEKAP WAFO Myriam,66.2,68.0,-72.0,72.0,90.0,-95.0,-95.0,72.0,90.0,162.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,ASSAH Morgane,70.5,-70.0,70.0,-78.0,85.0,-90.0,-95.0,70.0,85.0,155.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,LARADE Juliana,65.6,60.0,-65.0,-68.0,77.0,-82.0,82.0,60.0,82.0,142.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 76,SAICIC Sonia,75.0,81.0,86.0,-89.0,92.0,97.0,-100.0,86.0,97.0,183.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 87,DRENO Eva marie,86.6,65.0,69.0,-71.0,-83.0,-87.0,-91.0,69.0,0.0,0.0
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Women 59,LE NOC Orlane,56.1,30.0,33.0,35.0,38.0,41.0,44.0,35.0,44.0,79.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Women 59,KIMOUCHE Hidaya,58.2,50.0,52.0,55.0,63.0,66.0,-70.0,55.0,66.0,121.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Women 59,BEDEIR LARADE Safana,58.4,38.0,41.0,-45.0,50.0,-56.0,-56.0,41.0,50.0,91.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Women 64,HERBIN Vinciane,59.4,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Women 64,MORO Ingrid,60.6,-50.0,50.0,53.0,-64.0,-64.0,-69.0,53.0,0.0,0.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,CHIAULON Maud,58.4,-80.0,80.0,-85.0,95.0,100.0,-103.0,80.0,100.0,180.0
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Women 59,LE NOC Orlane,56.1,30.0,33.0,35.0,38.0,41.0,44.0,35.0,44.0,79.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Women 59,KIMOUCHE Hidaya,58.2,50.0,52.0,55.0,63.0,66.0,-70.0,55.0,66.0,121.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Women 59,BEDEIR LARADE Safana,58.4,38.0,41.0,-45.0,50.0,-56.0,-56.0,41.0,50.0,91.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Women 64,HERBIN Vinciane,59.4,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Women 64,MORO Ingrid,60.6,-50.0,50.0,53.0,-64.0,-64.0,-69.0,53.0,0.0,0.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,CHIAULON Maud,58.4,-80.0,80.0,-85.0,95.0,100.0,-103.0,80.0,100.0,180.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women 35,KIMOUCHE Layina,33.4,-20.0,20.0,22.0,24.0,26.0,28.0,22.0,28.0,50.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women 35,LE VIENNESSE - BOHER Melany,26.8,15.0,-17.0,17.0,20.0,22.0,24.0,17.0,24.0,41.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women 35,VIAUD Victoria,29.6,12.0,13.0,-15.0,17.0,18.0,-20.0,13.0,18.0,31.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women 59,DAUDE Ambre,56.8,15.0,17.0,19.0,18.0,20.0,22.0,19.0,22.0,41.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women 35,KIMOUCHE Layina,33.4,-20.0,20.0,22.0,24.0,26.0,28.0,22.0,28.0,50.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women 35,LE VIENNESSE - BOHER Melany,26.8,15.0,-17.0,17.0,20.0,22.0,24.0,17.0,24.0,41.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women 35,VIAUD Victoria,29.6,12.0,13.0,-15.0,17.0,18.0,-20.0,13.0,18.0,31.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women 59,DAUDE Ambre,56.8,15.0,17.0,19.0,18.0,20.0,22.0,19.0,22.0,41.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Men 73,DESCHAMPS Matyss,71.7,50.0,55.0,60.0,65.0,70.0,75.0,60.0,75.0,135.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Men 73,ROUSSEL Emilien,70.9,67.0,72.0,75.0,-0.0,-0.0,-0.0,75.0,0.0,0.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 96,DAMME Arthur,92.6,115.0,120.0,125.0,145.0,153.0,-160.0,125.0,153.0,278.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Men 73,DESCHAMPS Matyss,71.7,50.0,55.0,60.0,65.0,70.0,75.0,60.0,75.0,135.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Men 73,ROUSSEL Emilien,70.9,67.0,72.0,75.0,-0.0,-0.0,-0.0,75.0,0.0,0.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 96,DAMME Arthur,92.6,115.0,120.0,125.0,145.0,153.0,-160.0,125.0,153.0,278.0
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Women 45,DEGEZ Florette,44.5,40.0,43.0,46.0,50.0,53.0,56.0,46.0,56.0,102.0
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Women 45,ALCARAZ Charlotte,42.6,26.0,28.0,30.0,40.0,43.0,45.0,30.0,45.0,75.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Women 55,PEIGUET Clara,53.1,38.0,41.0,43.0,60.0,64.0,67.0,43.0,67.0,110.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Women 71,JONQUIERES Héloïse,69.4,43.0,-47.0,-47.0,59.0,-63.0,-67.0,43.0,59.0,102.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Women 76,CIANCIO Lisea,73.9,62.0,65.0,-68.0,74.0,78.0,82.0,65.0,82.0,147.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Women 55,LORET Leïlou,52.6,43.0,46.0,49.0,59.0,-63.0,-64.0,49.0,59.0,108.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,RECURT Justine,57.5,-63.0,-63.0,63.0,71.0,74.0,-77.0,63.0,74.0,137.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,DE SAMPAIO Nina,62.0,53.0,55.0,57.0,63.0,65.0,68.0,57.0,68.0,125.0
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Women 45,DEGEZ Florette,44.5,40.0,43.0,46.0,50.0,53.0,56.0,46.0,56.0,102.0
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Women 45,ALCARAZ Charlotte,42.6,26.0,28.0,30.0,40.0,43.0,45.0,30.0,45.0,75.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Women 55,PEIGUET Clara,53.1,38.0,41.0,43.0,60.0,64.0,67.0,43.0,67.0,110.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Women 71,JONQUIERES Héloïse,69.4,43.0,-47.0,-47.0,59.0,-63.0,-67.0,43.0,59.0,102.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Women 76,CIANCIO Lisea,73.9,62.0,65.0,-68.0,74.0,78.0,82.0,65.0,82.0,147.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Women 55,LORET Leïlou,52.6,43.0,46.0,49.0,59.0,-63.0,-64.0,49.0,59.0,108.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,RECURT Justine,57.5,-63.0,-63.0,63.0,71.0,74.0,-77.0,63.0,74.0,137.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,DE SAMPAIO Nina,62.0,53.0,55.0,57.0,63.0,65.0,68.0,57.0,68.0,125.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Men 35,THOMAS Briac,32.2,14.0,16.0,-18.0,17.0,19.0,21.0,16.0,21.0,37.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Men 40,JUNG Eugène,36.3,15.0,17.0,19.0,23.0,25.0,27.0,19.0,27.0,46.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Men 40,ERLER Enzo,38.3,13.0,15.0,16.0,14.0,16.0,18.0,16.0,18.0,34.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Men 55,TUGEND Timeo,55.0,23.0,25.0,27.0,-32.0,32.0,34.0,27.0,34.0,61.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Men 55,KLOCK Janis,52.5,20.0,22.0,24.0,27.0,29.0,31.0,24.0,31.0,55.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Men 35,THOMAS Briac,32.2,14.0,16.0,-18.0,17.0,19.0,21.0,16.0,21.0,37.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Men 40,JUNG Eugène,36.3,15.0,17.0,19.0,23.0,25.0,27.0,19.0,27.0,46.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Men 40,ERLER Enzo,38.3,13.0,15.0,16.0,14.0,16.0,18.0,16.0,18.0,34.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Men 55,TUGEND Timeo,55.0,23.0,25.0,27.0,-32.0,32.0,34.0,27.0,34.0,61.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Men 55,KLOCK Janis,52.5,20.0,22.0,24.0,27.0,29.0,31.0,24.0,31.0,55.0
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Men 61,GEIGER Aymeric,60.7,57.0,60.0,-63.0,77.0,80.0,84.0,60.0,84.0,144.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Men 55,MOSER Léo,53.7,52.0,56.0,-60.0,74.0,-78.0,-78.0,56.0,74.0,130.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Men 73,CHRISTOPHEL Valentin,68.4,104.0,107.0,110.0,120.0,125.0,130.0,110.0,130.0,240.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Men 81,GIGONDAN Matheo,80.0,105.0,-109.0,-110.0,125.0,135.0,-140.0,105.0,135.0,240.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 61,POTENZA David,59.6,91.0,94.0,97.0,-114.0,114.0,-118.0,97.0,114.0,211.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 73,D'ANNA Steven,71.0,100.0,-105.0,105.0,130.0,135.0,140.0,105.0,140.0,245.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 73,GEREDA LIZCANO Angel jesus,72.5,100.0,105.0,-110.0,120.0,128.0,-135.0,105.0,128.0,233.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 96,SPIELMANN Arthur,94.2,-125.0,-125.0,-0.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Men 61,GEIGER Aymeric,60.7,57.0,60.0,-63.0,77.0,80.0,84.0,60.0,84.0,144.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Men 55,MOSER Léo,53.7,52.0,56.0,-60.0,74.0,-78.0,-78.0,56.0,74.0,130.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Men 73,CHRISTOPHEL Valentin,68.4,104.0,107.0,110.0,120.0,125.0,130.0,110.0,130.0,240.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Men 81,GIGONDAN Matheo,80.0,105.0,-109.0,-110.0,125.0,135.0,-140.0,105.0,135.0,240.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 61,POTENZA David,59.6,91.0,94.0,97.0,-114.0,114.0,-118.0,97.0,114.0,211.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 73,D'ANNA Steven,71.0,100.0,-105.0,105.0,130.0,135.0,140.0,105.0,140.0,245.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 73,GEREDA LIZCANO Angel jesus,72.5,100.0,105.0,-110.0,120.0,128.0,-135.0,105.0,128.0,233.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 96,SPIELMANN Arthur,94.2,-125.0,-125.0,-0.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Women 55,KENNEL Loane,50.95,39.0,-42.0,-42.0,47.0,-50.0,51.0,39.0,51.0,90.0
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Women 76,KLOCK Amanda,74.05,45.0,47.0,49.0,56.0,60.0,-63.0,49.0,60.0,109.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Women 55,DUL Lucia,54.85,44.0,46.0,48.0,-53.0,-55.0,55.0,48.0,55.0,103.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Women 49,CORBETHAU Amélie,48.45,47.0,50.0,-52.0,57.0,60.0,-62.0,50.0,60.0,110.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Women 55,GANGLOFF Lucie,55.0,53.0,56.0,59.0,68.0,72.0,-75.0,59.0,72.0,131.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Women 59,WOLFF Adeline,58.35,52.0,-55.0,55.0,-72.0,72.0,-75.0,55.0,72.0,127.0
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Women 55,KENNEL Loane,50.95,39.0,-42.0,-42.0,47.0,-50.0,51.0,39.0,51.0,90.0
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Women 76,KLOCK Amanda,74.05,45.0,47.0,49.0,56.0,60.0,-63.0,49.0,60.0,109.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Women 55,DUL Lucia,54.85,44.0,46.0,48.0,-53.0,-55.0,55.0,48.0,55.0,103.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Women 49,CORBETHAU Amélie,48.45,47.0,50.0,-52.0,57.0,60.0,-62.0,50.0,60.0,110.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Women 55,GANGLOFF Lucie,55.0,53.0,56.0,59.0,68.0,72.0,-75.0,59.0,72.0,131.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Women 59,WOLFF Adeline,58.35,52.0,-55.0,55.0,-72.0,72.0,-75.0,55.0,72.0,127.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 49,CHRISTOPHEL Marie,48.55,60.0,63.0,65.0,76.0,80.0,82.0,65.0,82.0,147.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,HERTRICH Marielle,54.1,68.0,71.0,-73.0,78.0,82.0,-86.0,71.0,82.0,153.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,SEIXO Lola,55.0,63.0,65.0,68.0,77.0,81.0,83.0,68.0,83.0,151.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,CORBETHAU Eva,54.85,57.0,59.0,-60.0,68.0,71.0,-73.0,59.0,71.0,130.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,IBANEZ Cindy,54.9,52.0,-55.0,55.0,70.0,73.0,-75.0,55.0,73.0,128.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,FEILLARD Lea,54.55,43.0,-46.0,-47.0,55.0,58.0,61.0,43.0,61.0,104.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,WIETRICH Marion,57.25,-55.0,55.0,-58.0,72.0,76.0,-78.0,55.0,76.0,131.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,SCHEER Pauline,56.7,48.0,-50.0,50.0,-65.0,65.0,68.0,50.0,68.0,118.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 49,CHRISTOPHEL Marie,48.55,60.0,63.0,65.0,76.0,80.0,82.0,65.0,82.0,147.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,HERTRICH Marielle,54.1,68.0,71.0,-73.0,78.0,82.0,-86.0,71.0,82.0,153.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,SEIXO Lola,55.0,63.0,65.0,68.0,77.0,81.0,83.0,68.0,83.0,151.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,CORBETHAU Eva,54.85,57.0,59.0,-60.0,68.0,71.0,-73.0,59.0,71.0,130.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,IBANEZ Cindy,54.9,52.0,-55.0,55.0,70.0,73.0,-75.0,55.0,73.0,128.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,FEILLARD Lea,54.55,43.0,-46.0,-47.0,55.0,58.0,61.0,43.0,61.0,104.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,WIETRICH Marion,57.25,-55.0,55.0,-58.0,72.0,76.0,-78.0,55.0,76.0,131.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,SCHEER Pauline,56.7,48.0,-50.0,50.0,-65.0,65.0,68.0,50.0,68.0,118.0
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Women 49,PICOD KINANY Lila jade,46.6,20.0,22.0,23.0,28.0,30.0,32.0,23.0,32.0,55.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Women 55,SANTOS FERNANDES Christelle,54.3,23.0,26.0,29.0,33.0,36.0,40.0,29.0,40.0,69.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Women 64,POMERET Clemence,62.3,37.0,40.0,41.0,50.0,53.0,-55.0,41.0,53.0,94.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Women 64,PENCOLE Yael,60.2,32.0,35.0,-37.0,43.0,-46.0,46.0,35.0,46.0,81.0
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Women 49,PICOD KINANY Lila jade,46.6,20.0,22.0,23.0,28.0,30.0,32.0,23.0,32.0,55.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Women 55,SANTOS FERNANDES Christelle,54.3,23.0,26.0,29.0,33.0,36.0,40.0,29.0,40.0,69.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Women 64,POMERET Clemence,62.3,37.0,40.0,41.0,50.0,53.0,-55.0,41.0,53.0,94.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Women 64,PENCOLE Yael,60.2,32.0,35.0,-37.0,43.0,-46.0,46.0,35.0,46.0,81.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 55,RAIEL BALHAA Gregory,54.9,-60.0,60.0,65.0,75.0,80.0,-85.0,65.0,80.0,145.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 61,MEY Sovannarith,60.4,72.0,77.0,80.0,-100.0,-100.0,100.0,80.0,100.0,180.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 61,RASCLE David,59.5,70.0,-75.0,76.0,-90.0,90.0,-94.0,76.0,90.0,166.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 73,ARNOU MEUNIER Killiann,72.3,-111.0,111.0,115.0,150.0,155.0,-160.0,115.0,155.0,270.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 73,GRAVOIS Ugo,73.0,105.0,-110.0,-110.0,-125.0,125.0,-135.0,105.0,125.0,230.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,COLIN Thomas,80.9,-132.0,132.0,-143.0,148.0,-158.0,-165.0,132.0,148.0,280.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,DUPUY Jeremy,81.0,115.0,120.0,-125.0,140.0,145.0,-150.0,120.0,145.0,265.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,AMADOU Alexis,73.3,107.0,-111.0,-112.0,133.0,-138.0,143.0,107.0,143.0,250.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,RODRIGUEZ Killian,75.5,-100.0,100.0,-110.0,125.0,130.0,135.0,100.0,135.0,235.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,FAUCHER Camille,78.0,95.0,-100.0,100.0,-120.0,120.0,-130.0,100.0,120.0,220.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 89,CARLIER Damien,88.2,120.0,-130.0,-130.0,145.0,150.0,155.0,120.0,155.0,275.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 89,CREUILLOT Charles,88.2,115.0,120.0,-125.0,-145.0,145.0,-155.0,120.0,145.0,265.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 96,CHELALI Zakaria,92.6,-110.0,110.0,-120.0,145.0,-155.0,-155.0,110.0,145.0,255.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 102,VEJUX Gianni,99.3,105.0,110.0,115.0,-140.0,-140.0,143.0,115.0,143.0,258.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 55,RAIEL BALHAA Gregory,54.9,-60.0,60.0,65.0,75.0,80.0,-85.0,65.0,80.0,145.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 61,MEY Sovannarith,60.4,72.0,77.0,80.0,-100.0,-100.0,100.0,80.0,100.0,180.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 61,RASCLE David,59.5,70.0,-75.0,76.0,-90.0,90.0,-94.0,76.0,90.0,166.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 73,ARNOU MEUNIER Killiann,72.3,-111.0,111.0,115.0,150.0,155.0,-160.0,115.0,155.0,270.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 73,GRAVOIS Ugo,73.0,105.0,-110.0,-110.0,-125.0,125.0,-135.0,105.0,125.0,230.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,COLIN Thomas,80.9,-132.0,132.0,-143.0,148.0,-158.0,-165.0,132.0,148.0,280.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,DUPUY Jeremy,81.0,115.0,120.0,-125.0,140.0,145.0,-150.0,120.0,145.0,265.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,AMADOU Alexis,73.3,107.0,-111.0,-112.0,133.0,-138.0,143.0,107.0,143.0,250.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,RODRIGUEZ Killian,75.5,-100.0,100.0,-110.0,125.0,130.0,135.0,100.0,135.0,235.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,FAUCHER Camille,78.0,95.0,-100.0,100.0,-120.0,120.0,-130.0,100.0,120.0,220.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 89,CARLIER Damien,88.2,120.0,-130.0,-130.0,145.0,150.0,155.0,120.0,155.0,275.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 89,CREUILLOT Charles,88.2,115.0,120.0,-125.0,-145.0,145.0,-155.0,120.0,145.0,265.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 96,CHELALI Zakaria,92.6,-110.0,110.0,-120.0,145.0,-155.0,-155.0,110.0,145.0,255.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 102,VEJUX Gianni,99.3,105.0,110.0,115.0,-140.0,-140.0,143.0,115.0,143.0,258.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 49,RESTREPO Luna,48.5,38.0,-41.0,41.0,-53.0,53.0,56.0,41.0,56.0,97.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,RICO Shizuka,54.6,60.0,-65.0,65.0,80.0,85.0,90.0,65.0,90.0,155.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,BERAUD Sandra,52.0,-55.0,60.0,63.0,78.0,-82.0,82.0,63.0,82.0,145.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,LAMBERT Lise,53.7,53.0,-56.0,56.0,75.0,-80.0,-80.0,56.0,75.0,131.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,LAVILLAUGOUET Morgane,52.8,50.0,53.0,55.0,62.0,66.0,70.0,55.0,70.0,125.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,MASSE Elody,54.6,46.0,49.0,51.0,64.0,-67.0,-69.0,51.0,64.0,115.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,DUJARDIN Carla,54.0,39.0,-42.0,-44.0,60.0,-63.0,65.0,39.0,65.0,104.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,CHAPELLE Celia,58.7,60.0,63.0,-65.0,78.0,81.0,84.0,63.0,84.0,147.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,CARON Sandra,58.9,56.0,59.0,-60.0,79.0,83.0,85.0,59.0,85.0,144.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,SIVASOTHEY Eunice agnes,57.3,-57.0,57.0,-62.0,75.0,-80.0,-80.0,57.0,75.0,132.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,ZHENG Noëlle,59.0,-55.0,55.0,-58.0,-63.0,63.0,-66.0,55.0,63.0,118.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,MARIUS Ines,63.2,62.0,66.0,69.0,80.0,-85.0,86.0,69.0,86.0,155.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,REZZAK Amelle,63.9,-65.0,65.0,69.0,81.0,85.0,-87.0,69.0,85.0,154.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,MONNIER Olwen,63.1,55.0,-60.0,60.0,65.0,-70.0,71.0,60.0,71.0,131.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,BATCHEV Stella,62.8,50.0,55.0,58.0,62.0,-69.0,-70.0,58.0,62.0,120.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,PEREIRA Camille,71.0,66.0,-70.0,70.0,-82.0,82.0,-0.0,70.0,82.0,152.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 49,RESTREPO Luna,48.5,38.0,-41.0,41.0,-53.0,53.0,56.0,41.0,56.0,97.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,RICO Shizuka,54.6,60.0,-65.0,65.0,80.0,85.0,90.0,65.0,90.0,155.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,BERAUD Sandra,52.0,-55.0,60.0,63.0,78.0,-82.0,82.0,63.0,82.0,145.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,LAMBERT Lise,53.7,53.0,-56.0,56.0,75.0,-80.0,-80.0,56.0,75.0,131.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,LAVILLAUGOUET Morgane,52.8,50.0,53.0,55.0,62.0,66.0,70.0,55.0,70.0,125.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,MASSE Elody,54.6,46.0,49.0,51.0,64.0,-67.0,-69.0,51.0,64.0,115.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,DUJARDIN Carla,54.0,39.0,-42.0,-44.0,60.0,-63.0,65.0,39.0,65.0,104.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,CHAPELLE Celia,58.7,60.0,63.0,-65.0,78.0,81.0,84.0,63.0,84.0,147.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,CARON Sandra,58.9,56.0,59.0,-60.0,79.0,83.0,85.0,59.0,85.0,144.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,SIVASOTHEY Eunice agnes,57.3,-57.0,57.0,-62.0,75.0,-80.0,-80.0,57.0,75.0,132.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,ZHENG Noëlle,59.0,-55.0,55.0,-58.0,-63.0,63.0,-66.0,55.0,63.0,118.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,MARIUS Ines,63.2,62.0,66.0,69.0,80.0,-85.0,86.0,69.0,86.0,155.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,REZZAK Amelle,63.9,-65.0,65.0,69.0,81.0,85.0,-87.0,69.0,85.0,154.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,MONNIER Olwen,63.1,55.0,-60.0,60.0,65.0,-70.0,71.0,60.0,71.0,131.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,BATCHEV Stella,62.8,50.0,55.0,58.0,62.0,-69.0,-70.0,58.0,62.0,120.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,PEREIRA Camille,71.0,66.0,-70.0,70.0,-82.0,82.0,-0.0,70.0,82.0,152.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Women 59,QUERE Eloïse,58.0,51.0,-54.0,-54.0,62.0,64.0,-66.0,51.0,64.0,115.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Women 59,PRIGENT MADEC Théoline,56.5,64.0,66.0,68.0,75.0,80.0,-85.0,68.0,80.0,148.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 45,MOREAU Élisabeth,42.87,48.0,51.0,53.0,61.0,64.0,-68.0,53.0,64.0,117.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,QUERE Romane,50.1,35.0,38.0,40.0,45.0,48.0,51.0,40.0,51.0,91.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,FERREC Énora,63.8,-62.0,-62.0,62.0,73.0,76.0,-79.0,62.0,76.0,138.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,ALLOUCHE Elodie,61.2,54.0,57.0,60.0,65.0,68.0,71.0,60.0,71.0,131.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,DERIAN Eva,63.6,-52.0,52.0,-55.0,65.0,-70.0,-72.0,52.0,65.0,117.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 76,LOUISON TANGUY Céline,73.3,-75.0,75.0,80.0,96.0,-103.0,-103.0,80.0,96.0,176.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Women 59,QUERE Eloïse,58.0,51.0,-54.0,-54.0,62.0,64.0,-66.0,51.0,64.0,115.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Women 59,PRIGENT MADEC Théoline,56.5,64.0,66.0,68.0,75.0,80.0,-85.0,68.0,80.0,148.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 45,MOREAU Élisabeth,42.87,48.0,51.0,53.0,61.0,64.0,-68.0,53.0,64.0,117.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,QUERE Romane,50.1,35.0,38.0,40.0,45.0,48.0,51.0,40.0,51.0,91.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,FERREC Énora,63.8,-62.0,-62.0,62.0,73.0,76.0,-79.0,62.0,76.0,138.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,ALLOUCHE Elodie,61.2,54.0,57.0,60.0,65.0,68.0,71.0,60.0,71.0,131.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,DERIAN Eva,63.6,-52.0,52.0,-55.0,65.0,-70.0,-72.0,52.0,65.0,117.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 76,LOUISON TANGUY Céline,73.3,-75.0,75.0,80.0,96.0,-103.0,-103.0,80.0,96.0,176.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Men 45,VICHON Ethan,40.2,22.0,24.0,26.0,30.0,32.0,-34.0,26.0,32.0,58.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Men 45,CORMONT Enzo,41.0,-22.0,22.0,-24.0,30.0,32.0,34.0,22.0,34.0,56.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Men 45,VICHON Ethan,40.2,22.0,24.0,26.0,30.0,32.0,-34.0,26.0,32.0,58.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Men 45,CORMONT Enzo,41.0,-22.0,22.0,-24.0,30.0,32.0,34.0,22.0,34.0,56.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Women 59,RENOM Fanny,57.9,55.0,58.0,-60.0,72.0,-76.0,-76.0,58.0,72.0,130.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,AIGLE Elena,57.4,-70.0,70.0,73.0,88.0,91.0,93.0,73.0,93.0,166.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,MOUNIER Camille,57.75,66.0,69.0,-72.0,86.0,-89.0,-90.0,69.0,86.0,155.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,ROUGIER Louane,57.85,-62.0,62.0,65.0,76.0,80.0,83.0,65.0,83.0,148.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,GRANDE Camille,57.25,61.0,63.0,65.0,75.0,-78.0,-80.0,65.0,75.0,140.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,JAVALOYES Marie,58.3,60.0,-62.0,-62.0,72.0,-76.0,-80.0,60.0,72.0,132.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,MENONI Aline,56.95,-51.0,-53.0,53.0,62.0,65.0,-70.0,53.0,65.0,118.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,VATINEL Anais,58.3,48.0,51.0,-53.0,50.0,-0.0,-0.0,51.0,50.0,101.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,ROBIN Marie,69.1,85.0,90.0,-95.0,105.0,110.0,-115.0,90.0,110.0,200.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,VALEMBOIS Emma,68.45,75.0,-78.0,-78.0,97.0,-100.0,-100.0,75.0,97.0,172.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,JANIN Lisa,67.3,67.0,69.0,70.0,88.0,-92.0,92.0,70.0,92.0,162.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,COSSUTTA Lou,70.35,68.0,-71.0,-71.0,-88.0,88.0,-92.0,68.0,88.0,156.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,MARRON Valentine,70.95,65.0,-68.0,-68.0,83.0,-87.0,87.0,65.0,87.0,152.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Women 59,RENOM Fanny,57.9,55.0,58.0,-60.0,72.0,-76.0,-76.0,58.0,72.0,130.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,AIGLE Elena,57.4,-70.0,70.0,73.0,88.0,91.0,93.0,73.0,93.0,166.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,MOUNIER Camille,57.75,66.0,69.0,-72.0,86.0,-89.0,-90.0,69.0,86.0,155.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,ROUGIER Louane,57.85,-62.0,62.0,65.0,76.0,80.0,83.0,65.0,83.0,148.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,GRANDE Camille,57.25,61.0,63.0,65.0,75.0,-78.0,-80.0,65.0,75.0,140.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,JAVALOYES Marie,58.3,60.0,-62.0,-62.0,72.0,-76.0,-80.0,60.0,72.0,132.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,MENONI Aline,56.95,-51.0,-53.0,53.0,62.0,65.0,-70.0,53.0,65.0,118.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,VATINEL Anais,58.3,48.0,51.0,-53.0,50.0,-0.0,-0.0,51.0,50.0,101.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,ROBIN Marie,69.1,85.0,90.0,-95.0,105.0,110.0,-115.0,90.0,110.0,200.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,VALEMBOIS Emma,68.45,75.0,-78.0,-78.0,97.0,-100.0,-100.0,75.0,97.0,172.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,JANIN Lisa,67.3,67.0,69.0,70.0,88.0,-92.0,92.0,70.0,92.0,162.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,COSSUTTA Lou,70.35,68.0,-71.0,-71.0,-88.0,88.0,-92.0,68.0,88.0,156.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,MARRON Valentine,70.95,65.0,-68.0,-68.0,83.0,-87.0,87.0,65.0,87.0,152.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 73,CAVILLON Théau,70.2,-90.0,92.0,-97.0,115.0,-120.0,-123.0,92.0,115.0,207.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,CHAVRY Dylan,80.5,110.0,115.0,120.0,135.0,140.0,-143.0,120.0,140.0,260.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,NICOLAS Alexandre,80.9,82.0,86.0,-90.0,115.0,118.0,120.0,86.0,120.0,206.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,COLENO Yoann,73.5,88.0,-92.0,-92.0,108.0,112.0,-115.0,88.0,112.0,200.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 89,BOUGET Alexandre,85.7,130.0,135.0,140.0,155.0,160.0,165.0,140.0,165.0,305.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 89,DIXNEUF Mathias,87.7,110.0,-115.0,118.0,135.0,142.0,-180.0,118.0,142.0,260.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 89,TRAVERSE Alexander,87.6,110.0,-120.0,-120.0,-125.0,125.0,-132.0,110.0,125.0,235.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 96,CAILLE Yoann,93.9,100.0,105.0,110.0,115.0,120.0,130.0,110.0,130.0,240.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 96,JOSSE Théo,93.2,96.0,101.0,-106.0,-120.0,120.0,125.0,101.0,125.0,226.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 109,LEMO Tamiano,107.5,138.0,145.0,151.0,160.0,175.0,-185.0,151.0,175.0,326.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 73,CAVILLON Théau,70.2,-90.0,92.0,-97.0,115.0,-120.0,-123.0,92.0,115.0,207.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,CHAVRY Dylan,80.5,110.0,115.0,120.0,135.0,140.0,-143.0,120.0,140.0,260.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,NICOLAS Alexandre,80.9,82.0,86.0,-90.0,115.0,118.0,120.0,86.0,120.0,206.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,COLENO Yoann,73.5,88.0,-92.0,-92.0,108.0,112.0,-115.0,88.0,112.0,200.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 89,BOUGET Alexandre,85.7,130.0,135.0,140.0,155.0,160.0,165.0,140.0,165.0,305.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 89,DIXNEUF Mathias,87.7,110.0,-115.0,118.0,135.0,142.0,-180.0,118.0,142.0,260.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 89,TRAVERSE Alexander,87.6,110.0,-120.0,-120.0,-125.0,125.0,-132.0,110.0,125.0,235.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 96,CAILLE Yoann,93.9,100.0,105.0,110.0,115.0,120.0,130.0,110.0,130.0,240.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 96,JOSSE Théo,93.2,96.0,101.0,-106.0,-120.0,120.0,125.0,101.0,125.0,226.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 109,LEMO Tamiano,107.5,138.0,145.0,151.0,160.0,175.0,-185.0,151.0,175.0,326.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,RAMBELO MANGA Alexandre lala,80.5,-113.0,115.0,-120.0,135.0,140.0,-146.0,115.0,140.0,255.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,MECHELAERE Simon,79.4,98.0,102.0,-105.0,127.0,-132.0,-132.0,102.0,127.0,229.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,SENECLAUZE Merlin,78.75,93.0,98.0,-101.0,120.0,126.0,-131.0,98.0,126.0,224.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,SAINT PIERRE Quentin,77.5,91.0,97.0,-101.0,100.0,-0.0,-0.0,97.0,100.0,197.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,BAILLET Valentin,74.2,-102.0,-102.0,-102.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 89,HEYMANN Patrice,84.6,105.0,-110.0,110.0,131.0,-135.0,-0.0,110.0,131.0,241.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 89,CHAMPLOIS Loris,87.2,97.0,102.0,-105.0,115.0,122.0,-130.0,102.0,122.0,224.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 96,MENONI Enzo,92.8,135.0,-140.0,142.0,153.0,-160.0,160.0,142.0,160.0,302.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 102,LAROIX Anthony,100.8,126.0,131.0,-135.0,152.0,160.0,-171.0,131.0,160.0,291.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,RAMBELO MANGA Alexandre lala,80.5,-113.0,115.0,-120.0,135.0,140.0,-146.0,115.0,140.0,255.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,MECHELAERE Simon,79.4,98.0,102.0,-105.0,127.0,-132.0,-132.0,102.0,127.0,229.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,SENECLAUZE Merlin,78.75,93.0,98.0,-101.0,120.0,126.0,-131.0,98.0,126.0,224.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,SAINT PIERRE Quentin,77.5,91.0,97.0,-101.0,100.0,-0.0,-0.0,97.0,100.0,197.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,BAILLET Valentin,74.2,-102.0,-102.0,-102.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 89,HEYMANN Patrice,84.6,105.0,-110.0,110.0,131.0,-135.0,-0.0,110.0,131.0,241.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 89,CHAMPLOIS Loris,87.2,97.0,102.0,-105.0,115.0,122.0,-130.0,102.0,122.0,224.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 96,MENONI Enzo,92.8,135.0,-140.0,142.0,153.0,-160.0,160.0,142.0,160.0,302.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 102,LAROIX Anthony,100.8,126.0,131.0,-135.0,152.0,160.0,-171.0,131.0,160.0,291.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Women 64,IAFRATE Sara,64.0,70.0,-74.0,75.0,93.0,98.0,-0.0,75.0,98.0,173.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,SAINT AIME Sarah,64.0,80.0,-85.0,85.0,103.0,107.0,-110.0,85.0,107.0,192.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,RECH Charline,63.55,70.0,-74.0,-74.0,82.0,86.0,-90.0,70.0,86.0,156.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,MOUDIN Marion,62.4,64.0,66.0,68.0,80.0,85.0,-90.0,68.0,85.0,153.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,LACROIX Evelyne,61.35,67.0,-70.0,70.0,77.0,-81.0,-82.0,70.0,77.0,147.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,COUDERT Flore,62.0,62.0,-65.0,65.0,78.0,82.0,-85.0,65.0,82.0,147.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,PAILLET Victoria,63.95,60.0,62.0,64.0,78.0,-83.0,-83.0,64.0,78.0,142.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,MANTAROPOULOS Marie,64.0,-89.0,-89.0,-91.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 76,GUILLOT Clara,74.25,66.0,69.0,72.0,80.0,-84.0,84.0,72.0,84.0,156.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 76,MASSU Juliette,75.1,-61.0,-63.0,63.0,-70.0,70.0,-75.0,63.0,70.0,133.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Women 64,IAFRATE Sara,64.0,70.0,-74.0,75.0,93.0,98.0,-0.0,75.0,98.0,173.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,SAINT AIME Sarah,64.0,80.0,-85.0,85.0,103.0,107.0,-110.0,85.0,107.0,192.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,RECH Charline,63.55,70.0,-74.0,-74.0,82.0,86.0,-90.0,70.0,86.0,156.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,MOUDIN Marion,62.4,64.0,66.0,68.0,80.0,85.0,-90.0,68.0,85.0,153.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,LACROIX Evelyne,61.35,67.0,-70.0,70.0,77.0,-81.0,-82.0,70.0,77.0,147.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,COUDERT Flore,62.0,62.0,-65.0,65.0,78.0,82.0,-85.0,65.0,82.0,147.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,PAILLET Victoria,63.95,60.0,62.0,64.0,78.0,-83.0,-83.0,64.0,78.0,142.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,MANTAROPOULOS Marie,64.0,-89.0,-89.0,-91.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 76,GUILLOT Clara,74.25,66.0,69.0,72.0,80.0,-84.0,84.0,72.0,84.0,156.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 76,MASSU Juliette,75.1,-61.0,-63.0,63.0,-70.0,70.0,-75.0,63.0,70.0,133.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Men 55,IAFRATE Ismael,50.6,41.0,43.0,45.0,51.0,53.0,55.0,45.0,55.0,100.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Men 55,IAFRATE Ismael,50.6,41.0,43.0,45.0,51.0,53.0,55.0,45.0,55.0,100.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Men 35,BRUCK Joan,30.2,19.0,21.0,23.0,27.0,29.0,31.0,23.0,31.0,54.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Men 35,BONNENFANT Marlon,33.3,16.0,-18.0,18.0,19.0,-21.0,21.0,18.0,21.0,39.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Men 35,DUCHAUFFOUR Louis,26.7,13.0,15.0,-17.0,18.0,20.0,22.0,15.0,22.0,37.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Men 61,DUBOIS MIKULASKO Tom,57.0,22.0,24.0,26.0,30.0,32.0,34.0,26.0,34.0,60.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women 35,BESANCENOT Juliette,30.3,17.0,19.0,21.0,21.0,23.0,25.0,21.0,25.0,46.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Men 35,BRUCK Joan,30.2,19.0,21.0,23.0,27.0,29.0,31.0,23.0,31.0,54.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Men 35,BONNENFANT Marlon,33.3,16.0,-18.0,18.0,19.0,-21.0,21.0,18.0,21.0,39.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Men 35,DUCHAUFFOUR Louis,26.7,13.0,15.0,-17.0,18.0,20.0,22.0,15.0,22.0,37.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Men 61,DUBOIS MIKULASKO Tom,57.0,22.0,24.0,26.0,30.0,32.0,34.0,26.0,34.0,60.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women 35,BESANCENOT Juliette,30.3,17.0,19.0,21.0,21.0,23.0,25.0,21.0,25.0,46.0
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Women 40,DUCHAUFFOUR Rose,34.9,17.0,20.0,-22.0,27.0,30.0,-32.0,20.0,30.0,50.0
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Women 55,ROUSSEL Naomie,53.7,32.0,34.0,35.0,37.0,41.0,-44.0,35.0,41.0,76.0
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Women 59,HURSON Lou,56.8,37.0,40.0,-42.0,48.0,52.0,55.0,40.0,55.0,95.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,PHILIPPE Anais,51.8,40.0,-43.0,-43.0,60.0,-65.0,-65.0,40.0,60.0,100.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,GUENOT Hélène,63.6,53.0,56.0,60.0,-75.0,76.0,-87.0,60.0,76.0,136.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,LANDRY Aurelie,60.7,58.0,60.0,63.0,65.0,70.0,-75.0,63.0,70.0,133.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,SCHNELLER Justine,62.0,50.0,53.0,-57.0,68.0,73.0,77.0,53.0,77.0,130.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,LE VAILLANT DE CHARNY Audrey,69.5,-74.0,74.0,-78.0,93.0,98.0,102.0,74.0,102.0,176.0
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Women 40,DUCHAUFFOUR Rose,34.9,17.0,20.0,-22.0,27.0,30.0,-32.0,20.0,30.0,50.0
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Women 55,ROUSSEL Naomie,53.7,32.0,34.0,35.0,37.0,41.0,-44.0,35.0,41.0,76.0
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Women 59,HURSON Lou,56.8,37.0,40.0,-42.0,48.0,52.0,55.0,40.0,55.0,95.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,PHILIPPE Anais,51.8,40.0,-43.0,-43.0,60.0,-65.0,-65.0,40.0,60.0,100.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,GUENOT Hélène,63.6,53.0,56.0,60.0,-75.0,76.0,-87.0,60.0,76.0,136.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,LANDRY Aurelie,60.7,58.0,60.0,63.0,65.0,70.0,-75.0,63.0,70.0,133.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,SCHNELLER Justine,62.0,50.0,53.0,-57.0,68.0,73.0,77.0,53.0,77.0,130.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,LE VAILLANT DE CHARNY Audrey,69.5,-74.0,74.0,-78.0,93.0,98.0,102.0,74.0,102.0,176.0
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Men 61,CARCANO Tom,58.5,50.0,53.0,55.0,61.0,65.0,-67.0,55.0,65.0,120.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 89,CHAVINIER Fabrice,88.8,100.0,107.0,110.0,-137.0,137.0,145.0,110.0,145.0,255.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 96,THOMASSON Yann,95.0,138.0,-143.0,145.0,166.0,-171.0,-171.0,145.0,166.0,311.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 96,FLAUS Dylan,95.5,126.0,132.0,136.0,153.0,159.0,-164.0,136.0,159.0,295.0
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Men 61,CARCANO Tom,58.5,50.0,53.0,55.0,61.0,65.0,-67.0,55.0,65.0,120.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 89,CHAVINIER Fabrice,88.8,100.0,107.0,110.0,-137.0,137.0,145.0,110.0,145.0,255.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 96,THOMASSON Yann,95.0,138.0,-143.0,145.0,166.0,-171.0,-171.0,145.0,166.0,311.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 96,FLAUS Dylan,95.5,126.0,132.0,136.0,153.0,159.0,-164.0,136.0,159.0,295.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 67,BARDEL Thibaut,66.9,80.0,85.0,-90.0,110.0,115.0,-120.0,85.0,115.0,200.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,LENFANT Benjamin,77.7,-103.0,-110.0,110.0,123.0,130.0,-133.0,110.0,130.0,240.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 96,FROMOND Camille,92.4,-100.0,-100.0,-103.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 67,BARDEL Thibaut,66.9,80.0,85.0,-90.0,110.0,115.0,-120.0,85.0,115.0,200.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,LENFANT Benjamin,77.7,-103.0,-110.0,110.0,123.0,130.0,-133.0,110.0,130.0,240.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 96,FROMOND Camille,92.4,-100.0,-100.0,-103.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Women 59,PLANCQUE Molly,56.65,38.0,-43.0,-43.0,52.0,57.0,62.0,38.0,62.0,100.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 49,AOUAGHI Audrey,48.95,46.0,48.0,51.0,61.0,-63.0,64.0,51.0,64.0,115.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,MALBRUN Andréa,57.85,60.0,63.0,65.0,73.0,75.0,-78.0,65.0,75.0,140.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,RUBIA DE LA TORRE Lucia,58.3,-53.0,53.0,-56.0,64.0,-67.0,67.0,53.0,67.0,120.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,DUMONT Emilie,58.4,-69.0,69.0,-71.0,-86.0,-0.0,-0.0,69.0,0.0,0.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,MARTIN Jade,63.3,57.0,61.0,63.0,70.0,-75.0,-76.0,63.0,70.0,133.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,SIBILLE Laura,62.65,53.0,56.0,58.0,67.0,73.0,-75.0,58.0,73.0,131.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,RENAUDIN Fanny,66.8,58.0,-63.0,63.0,78.0,81.0,84.0,63.0,84.0,147.0
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Women 59,PLANCQUE Molly,56.65,38.0,-43.0,-43.0,52.0,57.0,62.0,38.0,62.0,100.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 49,AOUAGHI Audrey,48.95,46.0,48.0,51.0,61.0,-63.0,64.0,51.0,64.0,115.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,MALBRUN Andréa,57.85,60.0,63.0,65.0,73.0,75.0,-78.0,65.0,75.0,140.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,RUBIA DE LA TORRE Lucia,58.3,-53.0,53.0,-56.0,64.0,-67.0,67.0,53.0,67.0,120.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,DUMONT Emilie,58.4,-69.0,69.0,-71.0,-86.0,-0.0,-0.0,69.0,0.0,0.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,MARTIN Jade,63.3,57.0,61.0,63.0,70.0,-75.0,-76.0,63.0,70.0,133.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,SIBILLE Laura,62.65,53.0,56.0,58.0,67.0,73.0,-75.0,58.0,73.0,131.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,RENAUDIN Fanny,66.8,58.0,-63.0,63.0,78.0,81.0,84.0,63.0,84.0,147.0
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Men 55,ZUGETTA Bryan,49.2,33.0,-35.0,35.0,45.0,-50.0,-50.0,35.0,45.0,80.0
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Men 55,ZUGETTA Bryan,49.2,33.0,-35.0,35.0,45.0,-50.0,-50.0,35.0,45.0,80.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 49,ALCANIZ PLAZA Blandine,48.5,53.0,56.0,-58.0,64.0,-68.0,-68.0,56.0,64.0,120.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,TRAN Thanh-lan,53.8,-55.0,57.0,60.0,-70.0,73.0,75.0,60.0,75.0,135.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,FERDINAND Sarah,64.0,65.0,-68.0,-69.0,88.0,91.0,93.0,65.0,93.0,158.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,PANN Nina,59.9,56.0,60.0,-62.0,76.0,80.0,-83.0,60.0,80.0,140.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,GUILLOT Joana,66.4,48.0,52.0,-54.0,67.0,70.0,73.0,52.0,73.0,125.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,SOUCHU Chloe,68.8,40.0,44.0,48.0,65.0,70.0,-73.0,48.0,70.0,118.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 87,LINGUET Ingrid,86.6,-63.0,63.0,-65.0,75.0,77.0,80.0,63.0,80.0,143.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 49,ALCANIZ PLAZA Blandine,48.5,53.0,56.0,-58.0,64.0,-68.0,-68.0,56.0,64.0,120.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,TRAN Thanh-lan,53.8,-55.0,57.0,60.0,-70.0,73.0,75.0,60.0,75.0,135.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,FERDINAND Sarah,64.0,65.0,-68.0,-69.0,88.0,91.0,93.0,65.0,93.0,158.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,PANN Nina,59.9,56.0,60.0,-62.0,76.0,80.0,-83.0,60.0,80.0,140.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,GUILLOT Joana,66.4,48.0,52.0,-54.0,67.0,70.0,73.0,52.0,73.0,125.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,SOUCHU Chloe,68.8,40.0,44.0,48.0,65.0,70.0,-73.0,48.0,70.0,118.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 87,LINGUET Ingrid,86.6,-63.0,63.0,-65.0,75.0,77.0,80.0,63.0,80.0,143.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women 45,AMELINE Inès,41.1,18.0,20.0,22.0,25.0,27.0,29.0,22.0,29.0,51.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women 55,LEON Charline,53.52,26.0,-28.0,-28.0,34.0,-36.0,-36.0,26.0,34.0,60.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women 45,AMELINE Inès,41.1,18.0,20.0,22.0,25.0,27.0,29.0,22.0,29.0,51.0
+BFC - Critérium National - Luxeuil,2022-12-03,U13 Women 55,LEON Charline,53.52,26.0,-28.0,-28.0,34.0,-36.0,-36.0,26.0,34.0,60.0
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Men 61,JARDIN Lucas,60.6,55.0,60.0,63.0,63.0,67.0,-70.0,63.0,67.0,130.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 73,GARDELLE Quentin,69.4,-95.0,95.0,-100.0,121.0,125.0,130.0,95.0,130.0,225.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,AVETISYAN Norayr,81.0,-120.0,120.0,125.0,150.0,160.0,165.0,125.0,165.0,290.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,LEGRAND Louis,79.3,88.0,92.0,-97.0,115.0,-118.0,-118.0,92.0,115.0,207.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 89,CANIVET Paul,88.3,124.0,129.0,-133.0,-155.0,155.0,-170.0,129.0,155.0,284.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 102,LE ROUX Nicolas,97.2,-117.0,117.0,-120.0,-153.0,-153.0,-153.0,117.0,0.0,0.0
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Men 61,JARDIN Lucas,60.6,55.0,60.0,63.0,63.0,67.0,-70.0,63.0,67.0,130.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 73,GARDELLE Quentin,69.4,-95.0,95.0,-100.0,121.0,125.0,130.0,95.0,130.0,225.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,AVETISYAN Norayr,81.0,-120.0,120.0,125.0,150.0,160.0,165.0,125.0,165.0,290.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 81,LEGRAND Louis,79.3,88.0,92.0,-97.0,115.0,-118.0,-118.0,92.0,115.0,207.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 89,CANIVET Paul,88.3,124.0,129.0,-133.0,-155.0,155.0,-170.0,129.0,155.0,284.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Men 102,LE ROUX Nicolas,97.2,-117.0,117.0,-120.0,-153.0,-153.0,-153.0,117.0,0.0,0.0
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Women 55,HANOCQUE Astrid,49.5,42.0,-45.0,45.0,52.0,55.0,-58.0,45.0,55.0,100.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Women 55,LEMÉ Youna,52.8,60.0,-62.0,62.0,73.0,78.0,-80.0,62.0,78.0,140.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Women 55,GOST Lola,52.9,47.0,50.0,-52.0,-57.0,57.0,60.0,50.0,60.0,110.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Women 59,ANDREU Juliette,56.48,34.0,-36.0,36.0,43.0,-46.0,46.0,36.0,46.0,82.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Women 59,MICHEL Maelyn,58.6,71.0,-74.0,-75.0,88.0,91.0,-94.0,71.0,91.0,162.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Women 59,GODU Lou-anne,58.2,52.0,55.0,57.0,70.0,73.0,-77.0,57.0,73.0,130.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,RETAILLE Manon,54.7,64.0,67.0,-70.0,84.0,88.0,-91.0,67.0,88.0,155.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,LOUBAR Léa,54.6,55.0,58.0,-60.0,63.0,-67.0,67.0,58.0,67.0,125.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,LAISNÉ Johanie,55.0,48.0,-51.0,52.0,62.0,-65.0,-68.0,52.0,62.0,114.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,FREBOURG Elise,52.9,46.0,-49.0,49.0,63.0,-67.0,-67.0,49.0,63.0,112.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,PINEAU Oceane,58.6,52.0,55.0,59.0,70.0,-73.0,-73.0,59.0,70.0,129.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,GOMIS Clarisse,63.48,70.0,-73.0,-73.0,95.0,96.0,-98.0,70.0,96.0,166.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,HAUTERS Laetitia,70.29,70.0,73.0,75.0,80.0,-84.0,84.0,75.0,84.0,159.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,MAUME Priscilla,67.8,59.0,61.0,-63.0,69.0,73.0,77.0,61.0,77.0,138.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 87,FLOCH Melanie,84.1,55.0,60.0,-65.0,-75.0,75.0,82.0,60.0,82.0,142.0
+BFC - Critérium National - Luxeuil,2022-12-03,U15 Women 55,HANOCQUE Astrid,49.5,42.0,-45.0,45.0,52.0,55.0,-58.0,45.0,55.0,100.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Women 55,LEMÉ Youna,52.8,60.0,-62.0,62.0,73.0,78.0,-80.0,62.0,78.0,140.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Women 55,GOST Lola,52.9,47.0,50.0,-52.0,-57.0,57.0,60.0,50.0,60.0,110.0
+BFC - Critérium National - Luxeuil,2022-12-03,U17 Women 59,ANDREU Juliette,56.48,34.0,-36.0,36.0,43.0,-46.0,46.0,36.0,46.0,82.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Women 59,MICHEL Maelyn,58.6,71.0,-74.0,-75.0,88.0,91.0,-94.0,71.0,91.0,162.0
+BFC - Critérium National - Luxeuil,2022-12-03,U20 Women 59,GODU Lou-anne,58.2,52.0,55.0,57.0,70.0,73.0,-77.0,57.0,73.0,130.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,RETAILLE Manon,54.7,64.0,67.0,-70.0,84.0,88.0,-91.0,67.0,88.0,155.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,LOUBAR Léa,54.6,55.0,58.0,-60.0,63.0,-67.0,67.0,58.0,67.0,125.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,LAISNÉ Johanie,55.0,48.0,-51.0,52.0,62.0,-65.0,-68.0,52.0,62.0,114.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 55,FREBOURG Elise,52.9,46.0,-49.0,49.0,63.0,-67.0,-67.0,49.0,63.0,112.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 59,PINEAU Oceane,58.6,52.0,55.0,59.0,70.0,-73.0,-73.0,59.0,70.0,129.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 64,GOMIS Clarisse,63.48,70.0,-73.0,-73.0,95.0,96.0,-98.0,70.0,96.0,166.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,HAUTERS Laetitia,70.29,70.0,73.0,75.0,80.0,-84.0,84.0,75.0,84.0,159.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 71,MAUME Priscilla,67.8,59.0,61.0,-63.0,69.0,73.0,77.0,61.0,77.0,138.0
+BFC - Critérium National - Luxeuil,2022-12-03,SEN Women 87,FLOCH Melanie,84.1,55.0,60.0,-65.0,-75.0,75.0,82.0,60.0,82.0,142.0

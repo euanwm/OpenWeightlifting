@@ -1,0 +1,521 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U15 Men 67,MBENGA HARDOROCK Kylian emmanuel,61.3,55.0,60.0,62.0,68.0,-72.0,72.0,62.0,72.0,134.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U17 Men 89,LAMLICHE Amine,87.6,62.0,67.0,-70.0,82.0,87.0,-90.0,67.0,87.0,154.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U17 Men 89,LOUSSE Marius,84.4,35.0,40.0,-43.0,43.0,46.0,50.0,40.0,50.0,90.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,BRET Xan,73.3,75.0,80.0,85.0,85.0,90.0,95.0,85.0,95.0,180.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,LULLIEN Ronan,73.6,45.0,50.0,-55.0,60.0,65.0,70.0,50.0,70.0,120.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,GALLERON Lionel,84.3,80.0,85.0,90.0,110.0,120.0,-130.0,90.0,120.0,210.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,COLIN Bruno,88.0,67.0,70.0,73.0,90.0,95.0,100.0,73.0,100.0,173.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 96,MAUMAIRE Loïc,91.4,80.0,85.0,87.0,-95.0,95.0,100.0,87.0,100.0,187.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 102,TERHA Lamine,100.0,83.0,87.0,-92.0,105.0,110.0,115.0,87.0,115.0,202.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U15 Women 55,RICHEVAUX Jade,52.1,40.0,43.0,46.0,51.0,55.0,57.0,46.0,57.0,103.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U20 Women 81,TATI Ayah,80.2,33.0,36.0,38.0,48.0,52.0,-55.0,38.0,52.0,90.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 81,TOURAINE HELIAS Kyla,79.3,30.0,33.0,-36.0,40.0,43.0,-46.0,33.0,43.0,76.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U15 Women 59,MONGRAIN Ellie,55.35,33.0,36.0,38.0,41.0,44.0,-47.0,38.0,44.0,82.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U17 Women 64,SICARD Oceane,60.75,-34.0,34.0,36.0,41.0,-44.0,44.0,36.0,44.0,80.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U20 Women 55,BRUN Heloise,55.0,40.0,43.0,45.0,45.0,50.0,-55.0,45.0,50.0,95.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 45,ROUSSEL Mylène,45.0,35.0,-38.0,-38.0,45.0,50.0,-52.0,35.0,50.0,85.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 55,FUIN Lucile,54.8,43.0,45.0,48.0,59.0,-62.0,-66.0,48.0,59.0,107.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 55,GUIHAUMÉ Léna,53.8,43.0,-46.0,46.0,53.0,55.0,-57.0,46.0,55.0,101.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 55,BAKROU Nassira,55.0,36.0,39.0,-41.0,53.0,-55.0,55.0,39.0,55.0,94.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 55,REIGNER Delphine,53.0,-53.0,-55.0,-55.0,63.0,66.0,-70.0,0.0,66.0,0.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 59,SADOUN Eglantine,55.95,53.0,56.0,-58.0,68.0,-71.0,72.0,56.0,72.0,128.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,ILCHUK Kateryna,62.3,70.0,73.0,75.0,82.0,85.0,-90.0,75.0,85.0,160.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,MORIN Jessica,63.3,58.0,-62.0,-62.0,76.0,-79.0,80.0,58.0,80.0,138.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,BARROCHE Clemence,59.6,45.0,48.0,50.0,62.0,65.0,68.0,50.0,68.0,118.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,LE COQ Maella,64.0,45.0,48.0,50.0,58.0,61.0,-64.0,50.0,61.0,111.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,CADYCK Alexandra,61.6,36.0,39.0,41.0,-48.0,48.0,50.0,41.0,50.0,91.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,CHOYER Anissa,68.1,61.0,64.0,67.0,79.0,83.0,-86.0,67.0,83.0,150.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,COGNON Sonia,70.8,-55.0,55.0,58.0,70.0,72.0,75.0,58.0,75.0,133.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,IZMAR Océane,70.0,47.0,50.0,54.0,65.0,68.0,-72.0,54.0,68.0,122.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,GUYARD Romane,64.5,43.0,46.0,-49.0,57.0,-60.0,60.0,46.0,60.0,106.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,PARANT Anais,65.8,-44.0,44.0,-48.0,54.0,-57.0,-60.0,44.0,54.0,98.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 87,BODARD Suzanne,83.6,42.0,-44.0,-44.0,52.0,54.0,-56.0,42.0,54.0,96.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U15 Women 59,MONGRAIN Ellie,55.35,33.0,36.0,38.0,41.0,44.0,-47.0,38.0,44.0,82.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U17 Women 64,SICARD Oceane,60.75,-34.0,34.0,36.0,41.0,-44.0,44.0,36.0,44.0,80.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U20 Women 55,BRUN Heloise,55.0,40.0,43.0,45.0,45.0,50.0,-55.0,45.0,50.0,95.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 45,ROUSSEL Mylène,45.0,35.0,-38.0,-38.0,45.0,50.0,-52.0,35.0,50.0,85.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 55,FUIN Lucile,54.8,43.0,45.0,48.0,59.0,-62.0,-66.0,48.0,59.0,107.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 55,GUIHAUMÉ Léna,53.8,43.0,-46.0,46.0,53.0,55.0,-57.0,46.0,55.0,101.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 55,BAKROU Nassira,55.0,36.0,39.0,-41.0,53.0,-55.0,55.0,39.0,55.0,94.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 55,REIGNER Delphine,53.0,-53.0,-55.0,-55.0,63.0,66.0,-70.0,0.0,66.0,0.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 59,SADOUN Eglantine,55.95,53.0,56.0,-58.0,68.0,-71.0,72.0,56.0,72.0,128.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,ILCHUK Kateryna,62.3,70.0,73.0,75.0,82.0,85.0,-90.0,75.0,85.0,160.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,MORIN Jessica,63.3,58.0,-62.0,-62.0,76.0,-79.0,80.0,58.0,80.0,138.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,BARROCHE Clemence,59.6,45.0,48.0,50.0,62.0,65.0,68.0,50.0,68.0,118.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,LE COQ Maella,64.0,45.0,48.0,50.0,58.0,61.0,-64.0,50.0,61.0,111.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,CADYCK Alexandra,61.6,36.0,39.0,41.0,-48.0,48.0,50.0,41.0,50.0,91.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,CHOYER Anissa,68.1,61.0,64.0,67.0,79.0,83.0,-86.0,67.0,83.0,150.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,COGNON Sonia,70.8,-55.0,55.0,58.0,70.0,72.0,75.0,58.0,75.0,133.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,IZMAR Océane,70.0,47.0,50.0,54.0,65.0,68.0,-72.0,54.0,68.0,122.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,GUYARD Romane,64.5,43.0,46.0,-49.0,57.0,-60.0,60.0,46.0,60.0,106.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,PARANT Anais,65.8,-44.0,44.0,-48.0,54.0,-57.0,-60.0,44.0,54.0,98.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 87,BODARD Suzanne,83.6,42.0,-44.0,-44.0,52.0,54.0,-56.0,42.0,54.0,96.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 61,GEUSA Paul,58.7,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,HIRIGOYEN Florian,78.6,83.0,-90.0,-95.0,105.0,115.0,120.0,83.0,120.0,203.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,MARTIAS Mickaël,78.6,55.0,-60.0,60.0,77.0,80.0,85.0,60.0,85.0,145.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,VEERGNE Antoine,85.2,80.0,85.0,90.0,100.0,110.0,115.0,90.0,115.0,205.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,NSOGA Kevin,84.5,-88.0,-88.0,88.0,110.0,-115.0,-115.0,88.0,110.0,198.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,EHRLACHER Denis,85.2,-75.0,75.0,-80.0,95.0,100.0,105.0,75.0,105.0,180.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,NASRI Nima,87.9,65.0,70.0,-77.0,-91.0,91.0,-100.0,70.0,91.0,161.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,DESCHAMPS Johan,85.5,60.0,65.0,-70.0,80.0,85.0,90.0,65.0,90.0,155.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 96,VOTINOV Pavel,93.9,102.0,107.0,112.0,132.0,137.0,142.0,112.0,142.0,254.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 61,GEUSA Paul,58.7,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,HIRIGOYEN Florian,78.6,83.0,-90.0,-95.0,105.0,115.0,120.0,83.0,120.0,203.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,MARTIAS Mickaël,78.6,55.0,-60.0,60.0,77.0,80.0,85.0,60.0,85.0,145.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,VEERGNE Antoine,85.2,80.0,85.0,90.0,100.0,110.0,115.0,90.0,115.0,205.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,NSOGA Kevin,84.5,-88.0,-88.0,88.0,110.0,-115.0,-115.0,88.0,110.0,198.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,EHRLACHER Denis,85.2,-75.0,75.0,-80.0,95.0,100.0,105.0,75.0,105.0,180.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,NASRI Nima,87.9,65.0,70.0,-77.0,-91.0,91.0,-100.0,70.0,91.0,161.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,DESCHAMPS Johan,85.5,60.0,65.0,-70.0,80.0,85.0,90.0,65.0,90.0,155.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 96,VOTINOV Pavel,93.9,102.0,107.0,112.0,132.0,137.0,142.0,112.0,142.0,254.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U17 Women 59,DUCHENNE ALLARD Alexya,57.0,35.0,38.0,40.0,43.0,47.0,50.0,40.0,50.0,90.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 49,LAURENT Alexandra,48.9,50.0,-55.0,-55.0,70.0,75.0,80.0,50.0,80.0,130.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 55,AMRANE Hayate,53.5,40.0,45.0,-50.0,54.0,58.0,61.0,45.0,61.0,106.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 59,BRETELLE Rose,58.3,48.0,53.0,-56.0,62.0,67.0,-71.0,53.0,67.0,120.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,ALMEIDA Lea,63.0,-55.0,55.0,58.0,63.0,66.0,-70.0,58.0,66.0,124.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,DIAMIN Morgane,63.4,48.0,51.0,-54.0,-68.0,68.0,71.0,51.0,71.0,122.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,BESBAS Nawel,63.0,45.0,50.0,-53.0,65.0,70.0,-75.0,50.0,70.0,120.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,AMATO Maelys,62.5,25.0,27.0,30.0,30.0,-35.0,35.0,30.0,35.0,65.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,CUVILLIER Elodie,67.6,54.0,58.0,-61.0,66.0,71.0,-75.0,58.0,71.0,129.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,AJIMI Nadra,70.4,45.0,-47.0,47.0,55.0,60.0,62.0,47.0,62.0,109.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 87,VINCENT Chloe,81.4,55.0,-58.0,-60.0,75.0,80.0,-86.0,55.0,80.0,135.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 87,ROUEK Rachel,84.9,55.0,-58.0,-58.0,68.0,-73.0,-75.0,55.0,68.0,123.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U17 Women 59,DUCHENNE ALLARD Alexya,57.0,35.0,38.0,40.0,43.0,47.0,50.0,40.0,50.0,90.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 49,LAURENT Alexandra,48.9,50.0,-55.0,-55.0,70.0,75.0,80.0,50.0,80.0,130.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 55,AMRANE Hayate,53.5,40.0,45.0,-50.0,54.0,58.0,61.0,45.0,61.0,106.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 59,BRETELLE Rose,58.3,48.0,53.0,-56.0,62.0,67.0,-71.0,53.0,67.0,120.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,ALMEIDA Lea,63.0,-55.0,55.0,58.0,63.0,66.0,-70.0,58.0,66.0,124.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,DIAMIN Morgane,63.4,48.0,51.0,-54.0,-68.0,68.0,71.0,51.0,71.0,122.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,BESBAS Nawel,63.0,45.0,50.0,-53.0,65.0,70.0,-75.0,50.0,70.0,120.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,AMATO Maelys,62.5,25.0,27.0,30.0,30.0,-35.0,35.0,30.0,35.0,65.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,CUVILLIER Elodie,67.6,54.0,58.0,-61.0,66.0,71.0,-75.0,58.0,71.0,129.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,AJIMI Nadra,70.4,45.0,-47.0,47.0,55.0,60.0,62.0,47.0,62.0,109.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 87,VINCENT Chloe,81.4,55.0,-58.0,-60.0,75.0,80.0,-86.0,55.0,80.0,135.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 87,ROUEK Rachel,84.9,55.0,-58.0,-58.0,68.0,-73.0,-75.0,55.0,68.0,123.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U15 Men 67,STERLE Enzo,63.1,55.0,58.0,60.0,-64.0,64.0,70.0,60.0,70.0,130.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U15 Men 67,MARCHETTI Ethan  roch,66.7,42.0,-47.0,47.0,52.0,57.0,-62.0,47.0,57.0,104.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U15 Men 73,CLAUSS LACHMANN Sacha,72.3,42.0,47.0,-52.0,50.0,57.0,-62.0,47.0,57.0,104.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U17 Men 61,KAMMERER Jules,57.0,25.0,30.0,-37.0,32.0,37.0,40.0,30.0,40.0,70.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U17 Men 67,CARCANO Tom,65.5,70.0,73.0,75.0,83.0,90.0,95.0,75.0,95.0,170.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U17 Men 73,FERRON Thomas,70.1,70.0,74.0,-76.0,85.0,-90.0,90.0,74.0,90.0,164.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U20 Men >109,FLOQUET Louison,125.3,75.0,80.0,84.0,95.0,100.0,107.0,84.0,107.0,191.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 73,DA SILVA Come,68.9,84.0,88.0,-91.0,98.0,102.0,-105.0,88.0,102.0,190.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,BEYLER Pierre,79.9,100.0,107.0,-112.0,120.0,127.0,132.0,107.0,132.0,239.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,GINER Georges-antoine,77.5,75.0,80.0,-85.0,105.0,112.0,-117.0,80.0,112.0,192.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,GOETZ Valentin,73.4,80.0,-85.0,-85.0,-100.0,-100.0,-100.0,80.0,0.0,0.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,CHAIX Bastien,81.8,85.0,95.0,101.0,115.0,125.0,-131.0,101.0,125.0,226.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,DRIOUT Alexis,86.0,87.0,94.0,-98.0,115.0,120.0,-125.0,94.0,120.0,214.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,BOESS Yohan,88.7,80.0,84.0,88.0,100.0,106.0,112.0,88.0,112.0,200.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 96,GUERIN Thomas,94.6,90.0,95.0,-100.0,120.0,125.0,130.0,95.0,130.0,225.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men >109,MEYER Benjamin,114.2,82.0,88.0,-91.0,115.0,120.0,-125.0,88.0,120.0,208.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U15 Men 67,STERLE Enzo,63.1,55.0,58.0,60.0,-64.0,64.0,70.0,60.0,70.0,130.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U15 Men 67,MARCHETTI Ethan  roch,66.7,42.0,-47.0,47.0,52.0,57.0,-62.0,47.0,57.0,104.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U15 Men 73,CLAUSS LACHMANN Sacha,72.3,42.0,47.0,-52.0,50.0,57.0,-62.0,47.0,57.0,104.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U17 Men 61,KAMMERER Jules,57.0,25.0,30.0,-37.0,32.0,37.0,40.0,30.0,40.0,70.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U17 Men 67,CARCANO Tom,65.5,70.0,73.0,75.0,83.0,90.0,95.0,75.0,95.0,170.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U17 Men 73,FERRON Thomas,70.1,70.0,74.0,-76.0,85.0,-90.0,90.0,74.0,90.0,164.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U20 Men >109,FLOQUET Louison,125.3,75.0,80.0,84.0,95.0,100.0,107.0,84.0,107.0,191.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 73,DA SILVA Come,68.9,84.0,88.0,-91.0,98.0,102.0,-105.0,88.0,102.0,190.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,BEYLER Pierre,79.9,100.0,107.0,-112.0,120.0,127.0,132.0,107.0,132.0,239.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,GINER Georges-antoine,77.5,75.0,80.0,-85.0,105.0,112.0,-117.0,80.0,112.0,192.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,GOETZ Valentin,73.4,80.0,-85.0,-85.0,-100.0,-100.0,-100.0,80.0,0.0,0.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,CHAIX Bastien,81.8,85.0,95.0,101.0,115.0,125.0,-131.0,101.0,125.0,226.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,DRIOUT Alexis,86.0,87.0,94.0,-98.0,115.0,120.0,-125.0,94.0,120.0,214.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,BOESS Yohan,88.7,80.0,84.0,88.0,100.0,106.0,112.0,88.0,112.0,200.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 96,GUERIN Thomas,94.6,90.0,95.0,-100.0,120.0,125.0,130.0,95.0,130.0,225.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men >109,MEYER Benjamin,114.2,82.0,88.0,-91.0,115.0,120.0,-125.0,88.0,120.0,208.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U15 Women 59,GAUCHOTTE Maelys,56.7,22.0,25.0,28.0,30.0,33.0,35.0,28.0,35.0,63.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U17 Women 64,BEUGNEZ Maelie,64.0,-32.0,32.0,-35.0,43.0,-45.0,45.0,32.0,45.0,77.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U20 Women 76,KAERCHER Maïwenn,71.5,52.0,55.0,58.0,68.0,71.0,-73.0,58.0,71.0,129.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 55,FEILLARD Lea,53.6,43.0,46.0,48.0,59.0,62.0,64.0,48.0,64.0,112.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 59,HERTRICH Marielle,55.1,-67.0,67.0,71.0,80.0,-84.0,-84.0,71.0,80.0,151.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 59,SCHEER Pauline,58.2,55.0,58.0,60.0,73.0,-77.0,-77.0,60.0,73.0,133.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 59,BEUGNEZ Leticia,57.5,39.0,42.0,-45.0,57.0,-59.0,59.0,42.0,59.0,101.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,GAUCHOTTE Vanessa,61.7,38.0,-41.0,41.0,43.0,46.0,-49.0,41.0,46.0,87.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,OTTO Celine,67.0,40.0,-42.0,-43.0,58.0,-61.0,-61.0,40.0,58.0,98.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 76,HOLTZMANN Anthea,74.8,43.0,46.0,48.0,60.0,63.0,65.0,48.0,65.0,113.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U15 Women 59,GAUCHOTTE Maelys,56.7,22.0,25.0,28.0,30.0,33.0,35.0,28.0,35.0,63.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U17 Women 64,BEUGNEZ Maelie,64.0,-32.0,32.0,-35.0,43.0,-45.0,45.0,32.0,45.0,77.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U20 Women 76,KAERCHER Maïwenn,71.5,52.0,55.0,58.0,68.0,71.0,-73.0,58.0,71.0,129.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 55,FEILLARD Lea,53.6,43.0,46.0,48.0,59.0,62.0,64.0,48.0,64.0,112.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 59,HERTRICH Marielle,55.1,-67.0,67.0,71.0,80.0,-84.0,-84.0,71.0,80.0,151.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 59,SCHEER Pauline,58.2,55.0,58.0,60.0,73.0,-77.0,-77.0,60.0,73.0,133.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 59,BEUGNEZ Leticia,57.5,39.0,42.0,-45.0,57.0,-59.0,59.0,42.0,59.0,101.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,GAUCHOTTE Vanessa,61.7,38.0,-41.0,41.0,43.0,46.0,-49.0,41.0,46.0,87.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,OTTO Celine,67.0,40.0,-42.0,-43.0,58.0,-61.0,-61.0,40.0,58.0,98.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 76,HOLTZMANN Anthea,74.8,43.0,46.0,48.0,60.0,63.0,65.0,48.0,65.0,113.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U17 Women 64,KIMOUCHE Hidaya,62.7,43.0,46.0,-48.0,58.0,61.0,63.0,46.0,63.0,109.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U20 Women 59,CHAMPION Lilou,57.7,46.0,49.0,51.0,55.0,58.0,61.0,51.0,61.0,112.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 55,STANDAERT Asia,49.4,47.0,50.0,52.0,60.0,63.0,66.0,52.0,66.0,118.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 55,BLANCHET Esther,54.0,35.0,39.0,-43.0,45.0,50.0,56.0,39.0,56.0,95.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 59,BRAULT Flore,57.0,54.0,57.0,-60.0,73.0,76.0,78.0,57.0,78.0,135.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 59,DEFFIT Armelle,58.7,54.0,57.0,60.0,67.0,71.0,-74.0,60.0,71.0,131.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 59,FRILLEY Brenda,58.3,40.0,43.0,-45.0,60.0,-63.0,-65.0,43.0,60.0,103.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,DELACHAT Mathilde,63.4,60.0,65.0,-68.0,77.0,81.0,-84.0,65.0,81.0,146.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,EBERENA Sylvie,63.9,-58.0,-58.0,58.0,73.0,-77.0,-80.0,58.0,73.0,131.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,LEBUZULLIER Gwendoline,60.2,51.0,54.0,57.0,65.0,-71.0,71.0,57.0,71.0,128.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,CORMERAIS Marion,63.2,40.0,45.0,48.0,60.0,65.0,68.0,48.0,68.0,116.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,DOUCOURÉ Mantia,63.7,50.0,-54.0,54.0,60.0,-64.0,-65.0,54.0,60.0,114.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,KAMIENNY Marie,70.9,53.0,-56.0,56.0,73.0,78.0,80.0,56.0,80.0,136.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,ORSINI Cléa,70.6,40.0,44.0,48.0,60.0,64.0,68.0,48.0,68.0,116.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,EVANO Marine,68.0,32.0,-35.0,35.0,43.0,46.0,-49.0,35.0,46.0,81.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 76,PRIM Melanie,73.7,50.0,54.0,-57.0,62.0,67.0,-70.0,54.0,67.0,121.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U17 Women 64,KIMOUCHE Hidaya,62.7,43.0,46.0,-48.0,58.0,61.0,63.0,46.0,63.0,109.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U20 Women 59,CHAMPION Lilou,57.7,46.0,49.0,51.0,55.0,58.0,61.0,51.0,61.0,112.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 55,STANDAERT Asia,49.4,47.0,50.0,52.0,60.0,63.0,66.0,52.0,66.0,118.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 55,BLANCHET Esther,54.0,35.0,39.0,-43.0,45.0,50.0,56.0,39.0,56.0,95.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 59,BRAULT Flore,57.0,54.0,57.0,-60.0,73.0,76.0,78.0,57.0,78.0,135.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 59,DEFFIT Armelle,58.7,54.0,57.0,60.0,67.0,71.0,-74.0,60.0,71.0,131.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 59,FRILLEY Brenda,58.3,40.0,43.0,-45.0,60.0,-63.0,-65.0,43.0,60.0,103.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,DELACHAT Mathilde,63.4,60.0,65.0,-68.0,77.0,81.0,-84.0,65.0,81.0,146.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,EBERENA Sylvie,63.9,-58.0,-58.0,58.0,73.0,-77.0,-80.0,58.0,73.0,131.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,LEBUZULLIER Gwendoline,60.2,51.0,54.0,57.0,65.0,-71.0,71.0,57.0,71.0,128.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,CORMERAIS Marion,63.2,40.0,45.0,48.0,60.0,65.0,68.0,48.0,68.0,116.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,DOUCOURÉ Mantia,63.7,50.0,-54.0,54.0,60.0,-64.0,-65.0,54.0,60.0,114.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,KAMIENNY Marie,70.9,53.0,-56.0,56.0,73.0,78.0,80.0,56.0,80.0,136.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,ORSINI Cléa,70.6,40.0,44.0,48.0,60.0,64.0,68.0,48.0,68.0,116.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,EVANO Marine,68.0,32.0,-35.0,35.0,43.0,46.0,-49.0,35.0,46.0,81.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 76,PRIM Melanie,73.7,50.0,54.0,-57.0,62.0,67.0,-70.0,54.0,67.0,121.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U20 Men >109,TAHRAT Dylan,122.1,90.0,-95.0,95.0,115.0,125.0,-130.0,95.0,125.0,220.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 73,HOMMET Erik,67.9,68.0,75.0,-80.0,92.0,97.0,-100.0,75.0,97.0,172.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,ANGOT Alexis,80.7,95.0,103.0,107.0,110.0,120.0,125.0,107.0,125.0,232.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,FREYLING Mathieu,74.0,95.0,100.0,105.0,115.0,125.0,-130.0,105.0,125.0,230.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,MOUYABI Aurelien,77.6,-90.0,90.0,95.0,-125.0,-125.0,125.0,95.0,125.0,220.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,JAROSZ Quentin,73.8,78.0,83.0,87.0,113.0,118.0,-121.0,87.0,118.0,205.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,SAADI Tiseme,77.1,80.0,85.0,88.0,105.0,-108.0,108.0,88.0,108.0,196.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,NGUYEN Sylvain,80.7,79.0,85.0,-90.0,95.0,-100.0,100.0,85.0,100.0,185.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,BUSCAINO Ludovic,79.3,65.0,-69.0,69.0,80.0,-85.0,85.0,69.0,85.0,154.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,GRAVOIS Ugo,81.1,110.0,115.0,120.0,135.0,-145.0,145.0,120.0,145.0,265.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,BURY Valentin,86.7,95.0,100.0,105.0,125.0,-130.0,130.0,105.0,130.0,235.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,COLIN Clément,81.3,90.0,-100.0,-100.0,-120.0,-120.0,120.0,90.0,120.0,210.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,PANNIRSELVAME Thomas,82.6,-82.0,82.0,-90.0,118.0,-125.0,125.0,82.0,125.0,207.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 96,VITAL Jules,91.7,115.0,120.0,125.0,140.0,-150.0,-150.0,125.0,140.0,265.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 102,LEZIN Vivien,97.6,78.0,87.0,92.0,100.0,115.0,122.0,92.0,122.0,214.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U20 Men >109,TAHRAT Dylan,122.1,90.0,-95.0,95.0,115.0,125.0,-130.0,95.0,125.0,220.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 73,HOMMET Erik,67.9,68.0,75.0,-80.0,92.0,97.0,-100.0,75.0,97.0,172.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,ANGOT Alexis,80.7,95.0,103.0,107.0,110.0,120.0,125.0,107.0,125.0,232.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,FREYLING Mathieu,74.0,95.0,100.0,105.0,115.0,125.0,-130.0,105.0,125.0,230.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,MOUYABI Aurelien,77.6,-90.0,90.0,95.0,-125.0,-125.0,125.0,95.0,125.0,220.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,JAROSZ Quentin,73.8,78.0,83.0,87.0,113.0,118.0,-121.0,87.0,118.0,205.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,SAADI Tiseme,77.1,80.0,85.0,88.0,105.0,-108.0,108.0,88.0,108.0,196.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,NGUYEN Sylvain,80.7,79.0,85.0,-90.0,95.0,-100.0,100.0,85.0,100.0,185.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,BUSCAINO Ludovic,79.3,65.0,-69.0,69.0,80.0,-85.0,85.0,69.0,85.0,154.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,GRAVOIS Ugo,81.1,110.0,115.0,120.0,135.0,-145.0,145.0,120.0,145.0,265.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,BURY Valentin,86.7,95.0,100.0,105.0,125.0,-130.0,130.0,105.0,130.0,235.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,COLIN Clément,81.3,90.0,-100.0,-100.0,-120.0,-120.0,120.0,90.0,120.0,210.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,PANNIRSELVAME Thomas,82.6,-82.0,82.0,-90.0,118.0,-125.0,125.0,82.0,125.0,207.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 96,VITAL Jules,91.7,115.0,120.0,125.0,140.0,-150.0,-150.0,125.0,140.0,265.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 102,LEZIN Vivien,97.6,78.0,87.0,92.0,100.0,115.0,122.0,92.0,122.0,214.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U15 Women 64,KUSS--BILDSTEIN Irene,60.8,47.0,50.0,52.0,60.0,63.0,66.0,52.0,66.0,118.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U15 Women 76,KLOCK Amanda,73.3,57.0,60.0,-63.0,68.0,71.0,-73.0,60.0,71.0,131.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U20 Women 64,GUENOT HUS Lola,59.7,50.0,55.0,-58.0,60.0,65.0,-70.0,55.0,65.0,120.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U20 Women 71,OSTROWSKY Chloe,66.3,47.0,50.0,53.0,62.0,-66.0,-66.0,53.0,62.0,115.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 55,TEN VOORDE Maryse,54.5,54.0,58.0,-61.0,66.0,70.0,73.0,58.0,73.0,131.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 59,GROBOTEK MOUROT Delphine,56.9,55.0,59.0,-62.0,-75.0,76.0,82.0,59.0,82.0,141.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,WIETRICH Marion,61.5,52.0,55.0,57.0,69.0,72.0,74.0,57.0,74.0,131.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,BITHOREL Marion,65.9,61.0,64.0,66.0,75.0,79.0,83.0,66.0,83.0,149.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,PRIEUR Justine,66.9,58.0,62.0,66.0,72.0,-76.0,80.0,66.0,80.0,146.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 76,DEPENWEILLER Pauline,73.2,73.0,77.0,-80.0,92.0,100.0,-102.0,77.0,100.0,177.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 76,LAMOTTE Jeanne,72.0,52.0,56.0,60.0,67.0,71.0,75.0,60.0,75.0,135.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U15 Women 64,KUSS--BILDSTEIN Irene,60.8,47.0,50.0,52.0,60.0,63.0,66.0,52.0,66.0,118.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U15 Women 76,KLOCK Amanda,73.3,57.0,60.0,-63.0,68.0,71.0,-73.0,60.0,71.0,131.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U20 Women 64,GUENOT HUS Lola,59.7,50.0,55.0,-58.0,60.0,65.0,-70.0,55.0,65.0,120.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U20 Women 71,OSTROWSKY Chloe,66.3,47.0,50.0,53.0,62.0,-66.0,-66.0,53.0,62.0,115.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 55,TEN VOORDE Maryse,54.5,54.0,58.0,-61.0,66.0,70.0,73.0,58.0,73.0,131.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 59,GROBOTEK MOUROT Delphine,56.9,55.0,59.0,-62.0,-75.0,76.0,82.0,59.0,82.0,141.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,WIETRICH Marion,61.5,52.0,55.0,57.0,69.0,72.0,74.0,57.0,74.0,131.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,BITHOREL Marion,65.9,61.0,64.0,66.0,75.0,79.0,83.0,66.0,83.0,149.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,PRIEUR Justine,66.9,58.0,62.0,66.0,72.0,-76.0,80.0,66.0,80.0,146.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 76,DEPENWEILLER Pauline,73.2,73.0,77.0,-80.0,92.0,100.0,-102.0,77.0,100.0,177.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 76,LAMOTTE Jeanne,72.0,52.0,56.0,60.0,67.0,71.0,75.0,60.0,75.0,135.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 49,RESTREPO Luna,48.5,42.0,45.0,-47.0,55.0,57.0,-60.0,45.0,57.0,102.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 55,DUJARDIN Carla,53.4,48.0,-52.0,52.0,-68.0,68.0,-72.0,52.0,68.0,120.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 55,DYSLI Elise,55.0,35.0,40.0,-43.0,40.0,45.0,48.0,40.0,48.0,88.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 55,PRECART Camille,50.3,33.0,-35.0,35.0,45.0,47.0,50.0,35.0,50.0,85.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 59,TCHICHE Linda,57.3,55.0,-58.0,59.0,71.0,74.0,78.0,59.0,78.0,137.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 59,ZAVLYANOVA Maria,56.8,53.0,56.0,-60.0,75.0,77.0,-80.0,56.0,77.0,133.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 59,ZHENG Noëlle,58.0,55.0,57.0,59.0,64.0,-66.0,66.0,59.0,66.0,125.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 59,ZHENG Axelle,58.8,48.0,50.0,-52.0,60.0,62.0,-64.0,50.0,62.0,112.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,AZAGOURY Sephora,61.7,41.0,-43.0,-43.0,53.0,-56.0,56.0,41.0,56.0,97.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,RAHMANI Aciyah,69.0,63.0,66.0,70.0,83.0,85.0,87.0,70.0,87.0,157.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,PEREIRA Camille,70.1,60.0,65.0,-68.0,80.0,-83.0,-83.0,65.0,80.0,145.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 76,POUSTOMIS Marie,72.0,73.0,76.0,79.0,95.0,98.0,100.0,79.0,100.0,179.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 49,RESTREPO Luna,48.5,42.0,45.0,-47.0,55.0,57.0,-60.0,45.0,57.0,102.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 55,DUJARDIN Carla,53.4,48.0,-52.0,52.0,-68.0,68.0,-72.0,52.0,68.0,120.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 55,DYSLI Elise,55.0,35.0,40.0,-43.0,40.0,45.0,48.0,40.0,48.0,88.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 55,PRECART Camille,50.3,33.0,-35.0,35.0,45.0,47.0,50.0,35.0,50.0,85.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 59,TCHICHE Linda,57.3,55.0,-58.0,59.0,71.0,74.0,78.0,59.0,78.0,137.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 59,ZAVLYANOVA Maria,56.8,53.0,56.0,-60.0,75.0,77.0,-80.0,56.0,77.0,133.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 59,ZHENG Noëlle,58.0,55.0,57.0,59.0,64.0,-66.0,66.0,59.0,66.0,125.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 59,ZHENG Axelle,58.8,48.0,50.0,-52.0,60.0,62.0,-64.0,50.0,62.0,112.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,AZAGOURY Sephora,61.7,41.0,-43.0,-43.0,53.0,-56.0,56.0,41.0,56.0,97.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,RAHMANI Aciyah,69.0,63.0,66.0,70.0,83.0,85.0,87.0,70.0,87.0,157.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,PEREIRA Camille,70.1,60.0,65.0,-68.0,80.0,-83.0,-83.0,65.0,80.0,145.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 76,POUSTOMIS Marie,72.0,73.0,76.0,79.0,95.0,98.0,100.0,79.0,100.0,179.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U20 Men 81,ARIHIR Sofian,78.0,60.0,65.0,-67.0,-70.0,70.0,77.0,65.0,77.0,142.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 61,PECHARD Antoine,58.2,-65.0,65.0,-74.0,85.0,90.0,-92.0,65.0,90.0,155.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 67,RASCLE David,61.3,72.0,77.0,-80.0,90.0,95.0,-98.0,77.0,95.0,172.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 73,SAUVE Michael,68.4,85.0,95.0,100.0,105.0,115.0,-120.0,100.0,115.0,215.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 73,MICHELET Nicolas,71.2,-87.0,87.0,95.0,-110.0,110.0,-120.0,95.0,110.0,205.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 73,CARACATZANIS Quentin,71.6,75.0,78.0,-80.0,82.0,-88.0,88.0,78.0,88.0,166.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,PETRATOS Soren,80.4,-95.0,95.0,100.0,115.0,120.0,125.0,100.0,125.0,225.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,HRUZA Loic mathias,79.5,88.0,-92.0,-92.0,110.0,-115.0,115.0,88.0,115.0,203.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,DE SOUSA Abel,75.2,75.0,80.0,86.0,105.0,110.0,-115.0,86.0,110.0,196.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,GUOI Olivier,76.2,75.0,78.0,-80.0,95.0,-100.0,100.0,78.0,100.0,178.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,RAFFAILLAC Romain,78.0,70.0,-75.0,-75.0,90.0,-95.0,-95.0,70.0,90.0,160.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,VALERY Antoine,81.0,-60.0,60.0,70.0,80.0,90.0,-100.0,70.0,90.0,160.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,ETAIX Gaultier,78.8,60.0,65.0,-70.0,75.0,80.0,85.0,65.0,85.0,150.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,HERBRETEAU Thibault,74.2,-55.0,55.0,-60.0,73.0,-77.0,78.0,55.0,78.0,133.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,LAMBERT Auguste,85.0,90.0,95.0,-100.0,120.0,-125.0,125.0,95.0,125.0,220.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,TALBOT Romain nicolas,87.4,85.0,90.0,-95.0,115.0,120.0,122.0,90.0,122.0,212.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,TORTES Hugo,85.6,80.0,85.0,-90.0,105.0,-110.0,110.0,85.0,110.0,195.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,DOGU Dylan,86.8,-70.0,-70.0,70.0,80.0,85.0,90.0,70.0,90.0,160.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 102,LEAL PILLOT Ludvi oscar,98.6,110.0,115.0,120.0,140.0,150.0,155.0,120.0,155.0,275.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 109,LEPIONNIER Gregory,106.7,85.0,90.0,95.0,110.0,120.0,-125.0,95.0,120.0,215.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U20 Men 81,ARIHIR Sofian,78.0,60.0,65.0,-67.0,-70.0,70.0,77.0,65.0,77.0,142.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 61,PECHARD Antoine,58.2,-65.0,65.0,-74.0,85.0,90.0,-92.0,65.0,90.0,155.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 67,RASCLE David,61.3,72.0,77.0,-80.0,90.0,95.0,-98.0,77.0,95.0,172.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 73,SAUVE Michael,68.4,85.0,95.0,100.0,105.0,115.0,-120.0,100.0,115.0,215.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 73,MICHELET Nicolas,71.2,-87.0,87.0,95.0,-110.0,110.0,-120.0,95.0,110.0,205.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 73,CARACATZANIS Quentin,71.6,75.0,78.0,-80.0,82.0,-88.0,88.0,78.0,88.0,166.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,PETRATOS Soren,80.4,-95.0,95.0,100.0,115.0,120.0,125.0,100.0,125.0,225.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,HRUZA Loic mathias,79.5,88.0,-92.0,-92.0,110.0,-115.0,115.0,88.0,115.0,203.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,DE SOUSA Abel,75.2,75.0,80.0,86.0,105.0,110.0,-115.0,86.0,110.0,196.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,GUOI Olivier,76.2,75.0,78.0,-80.0,95.0,-100.0,100.0,78.0,100.0,178.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,RAFFAILLAC Romain,78.0,70.0,-75.0,-75.0,90.0,-95.0,-95.0,70.0,90.0,160.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,VALERY Antoine,81.0,-60.0,60.0,70.0,80.0,90.0,-100.0,70.0,90.0,160.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,ETAIX Gaultier,78.8,60.0,65.0,-70.0,75.0,80.0,85.0,65.0,85.0,150.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,HERBRETEAU Thibault,74.2,-55.0,55.0,-60.0,73.0,-77.0,78.0,55.0,78.0,133.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,LAMBERT Auguste,85.0,90.0,95.0,-100.0,120.0,-125.0,125.0,95.0,125.0,220.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,TALBOT Romain nicolas,87.4,85.0,90.0,-95.0,115.0,120.0,122.0,90.0,122.0,212.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,TORTES Hugo,85.6,80.0,85.0,-90.0,105.0,-110.0,110.0,85.0,110.0,195.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,DOGU Dylan,86.8,-70.0,-70.0,70.0,80.0,85.0,90.0,70.0,90.0,160.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 102,LEAL PILLOT Ludvi oscar,98.6,110.0,115.0,120.0,140.0,150.0,155.0,120.0,155.0,275.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 109,LEPIONNIER Gregory,106.7,85.0,90.0,95.0,110.0,120.0,-125.0,95.0,120.0,215.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U20 Men 73,SULEJIC Alexandre,72.5,80.0,85.0,90.0,105.0,110.0,115.0,90.0,115.0,205.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 67,LO Lim-kheng,64.5,65.0,70.0,-73.0,85.0,-90.0,90.0,70.0,90.0,160.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 67,GURUNG Subrat,63.7,65.0,-70.0,-70.0,85.0,90.0,-95.0,65.0,90.0,155.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 73,MORIOT Théo,72.1,70.0,75.0,80.0,95.0,103.0,-107.0,80.0,103.0,183.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 73,DALBERA Adrien,72.1,65.0,71.0,75.0,85.0,90.0,95.0,75.0,95.0,170.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 73,LE MOY Kevin,73.0,65.0,67.0,70.0,90.0,-95.0,95.0,70.0,95.0,165.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 73,DEJEU Mathieu,72.1,53.0,56.0,59.0,70.0,74.0,77.0,59.0,77.0,136.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,DEBRET Anthony,74.3,80.0,85.0,-90.0,105.0,110.0,-115.0,85.0,110.0,195.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,LASERNA Fernando,73.6,-70.0,70.0,73.0,82.0,86.0,90.0,73.0,90.0,163.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,SABER-CHERIF Walid,75.7,65.0,68.0,-70.0,80.0,85.0,-90.0,68.0,85.0,153.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,BOUTZ Joäne,74.7,65.0,-70.0,-70.0,82.0,88.0,-92.0,65.0,88.0,153.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,MAURICE Wandrille,81.7,72.0,-80.0,-80.0,102.0,107.0,111.0,72.0,111.0,183.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,RASOLOMANDIMBY Andrianick,81.9,73.0,80.0,-85.0,-93.0,94.0,100.0,80.0,100.0,180.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,MOINE Julien,85.0,65.0,-68.0,68.0,-75.0,75.0,78.0,68.0,78.0,146.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 96,GAY Christophe,89.4,65.0,70.0,75.0,85.0,90.0,95.0,75.0,95.0,170.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U20 Men 73,SULEJIC Alexandre,72.5,80.0,85.0,90.0,105.0,110.0,115.0,90.0,115.0,205.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 67,LO Lim-kheng,64.5,65.0,70.0,-73.0,85.0,-90.0,90.0,70.0,90.0,160.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 67,GURUNG Subrat,63.7,65.0,-70.0,-70.0,85.0,90.0,-95.0,65.0,90.0,155.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 73,MORIOT Théo,72.1,70.0,75.0,80.0,95.0,103.0,-107.0,80.0,103.0,183.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 73,DALBERA Adrien,72.1,65.0,71.0,75.0,85.0,90.0,95.0,75.0,95.0,170.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 73,LE MOY Kevin,73.0,65.0,67.0,70.0,90.0,-95.0,95.0,70.0,95.0,165.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 73,DEJEU Mathieu,72.1,53.0,56.0,59.0,70.0,74.0,77.0,59.0,77.0,136.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,DEBRET Anthony,74.3,80.0,85.0,-90.0,105.0,110.0,-115.0,85.0,110.0,195.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,LASERNA Fernando,73.6,-70.0,70.0,73.0,82.0,86.0,90.0,73.0,90.0,163.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,SABER-CHERIF Walid,75.7,65.0,68.0,-70.0,80.0,85.0,-90.0,68.0,85.0,153.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,BOUTZ Joäne,74.7,65.0,-70.0,-70.0,82.0,88.0,-92.0,65.0,88.0,153.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,MAURICE Wandrille,81.7,72.0,-80.0,-80.0,102.0,107.0,111.0,72.0,111.0,183.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,RASOLOMANDIMBY Andrianick,81.9,73.0,80.0,-85.0,-93.0,94.0,100.0,80.0,100.0,180.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,MOINE Julien,85.0,65.0,-68.0,68.0,-75.0,75.0,78.0,68.0,78.0,146.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 96,GAY Christophe,89.4,65.0,70.0,75.0,85.0,90.0,95.0,75.0,95.0,170.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 73,SALAMBEAU Morgan,72.5,-75.0,75.0,-80.0,-105.0,105.0,-110.0,75.0,105.0,180.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,GLOWACKI GOSSE Léopold,73.6,95.0,-100.0,-100.0,120.0,-125.0,-0.0,95.0,120.0,215.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,CREUILLOT Charles,83.0,105.0,110.0,115.0,130.0,140.0,-150.0,115.0,140.0,255.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 96,CHELALI Zakaria,91.9,105.0,110.0,-120.0,140.0,-150.0,-150.0,110.0,140.0,250.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 49,DEPEYROT Julie,48.7,-38.0,38.0,-40.0,55.0,-60.0,-60.0,38.0,55.0,93.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 55,RICO Shizuka,52.6,60.0,65.0,-70.0,80.0,87.0,-91.0,65.0,87.0,152.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 55,LAVILLAUGOUET Morgane,54.6,40.0,45.0,50.0,55.0,60.0,65.0,50.0,65.0,115.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,BELKHIRIA Soraya,63.1,44.0,46.0,-48.0,57.0,60.0,-63.0,46.0,60.0,106.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,ULM Petra,62.5,-40.0,-40.0,40.0,58.0,-60.0,-60.0,40.0,58.0,98.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,BIFANO Elena,68.5,-55.0,55.0,-60.0,65.0,-69.0,-70.0,55.0,65.0,120.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,TIBO Valérie,64.7,32.0,35.0,-38.0,50.0,55.0,60.0,35.0,60.0,95.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 87,PETIT Tracy,83.5,50.0,-55.0,55.0,65.0,70.0,73.0,55.0,73.0,128.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 73,SALAMBEAU Morgan,72.5,-75.0,75.0,-80.0,-105.0,105.0,-110.0,75.0,105.0,180.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,GLOWACKI GOSSE Léopold,73.6,95.0,-100.0,-100.0,120.0,-125.0,-0.0,95.0,120.0,215.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,CREUILLOT Charles,83.0,105.0,110.0,115.0,130.0,140.0,-150.0,115.0,140.0,255.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 96,CHELALI Zakaria,91.9,105.0,110.0,-120.0,140.0,-150.0,-150.0,110.0,140.0,250.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 49,DEPEYROT Julie,48.7,-38.0,38.0,-40.0,55.0,-60.0,-60.0,38.0,55.0,93.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 55,RICO Shizuka,52.6,60.0,65.0,-70.0,80.0,87.0,-91.0,65.0,87.0,152.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 55,LAVILLAUGOUET Morgane,54.6,40.0,45.0,50.0,55.0,60.0,65.0,50.0,65.0,115.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,BELKHIRIA Soraya,63.1,44.0,46.0,-48.0,57.0,60.0,-63.0,46.0,60.0,106.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,ULM Petra,62.5,-40.0,-40.0,40.0,58.0,-60.0,-60.0,40.0,58.0,98.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,BIFANO Elena,68.5,-55.0,55.0,-60.0,65.0,-69.0,-70.0,55.0,65.0,120.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,TIBO Valérie,64.7,32.0,35.0,-38.0,50.0,55.0,60.0,35.0,60.0,95.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 87,PETIT Tracy,83.5,50.0,-55.0,55.0,65.0,70.0,73.0,55.0,73.0,128.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,LEE Jung ho,81.0,90.0,95.0,-97.0,105.0,110.0,-113.0,95.0,110.0,205.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,OLAGNIER Charles,80.9,-90.0,90.0,-95.0,100.0,105.0,-111.0,90.0,105.0,195.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 96,LEANDRI Guillaume,92.4,81.0,-85.0,85.0,-100.0,100.0,105.0,85.0,105.0,190.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 102,VIAUD Georges,98.0,85.0,92.0,97.0,117.0,125.0,132.0,97.0,132.0,229.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 55,RAHARIMANANA Vanity,53.5,30.0,33.0,-36.0,43.0,-46.0,-46.0,33.0,43.0,76.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 55,MUNTEANU Louise,50.7,25.0,28.0,-30.0,40.0,43.0,45.0,28.0,45.0,73.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 59,ANTUNES Emilie,57.3,53.0,56.0,-59.0,68.0,-71.0,71.0,56.0,71.0,127.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 87,SALLOUM Flora,84.7,53.0,-56.0,-57.0,-63.0,63.0,-67.0,53.0,63.0,116.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,LEE Jung ho,81.0,90.0,95.0,-97.0,105.0,110.0,-113.0,95.0,110.0,205.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,OLAGNIER Charles,80.9,-90.0,90.0,-95.0,100.0,105.0,-111.0,90.0,105.0,195.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 96,LEANDRI Guillaume,92.4,81.0,-85.0,85.0,-100.0,100.0,105.0,85.0,105.0,190.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 102,VIAUD Georges,98.0,85.0,92.0,97.0,117.0,125.0,132.0,97.0,132.0,229.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 55,RAHARIMANANA Vanity,53.5,30.0,33.0,-36.0,43.0,-46.0,-46.0,33.0,43.0,76.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 55,MUNTEANU Louise,50.7,25.0,28.0,-30.0,40.0,43.0,45.0,28.0,45.0,73.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 59,ANTUNES Emilie,57.3,53.0,56.0,-59.0,68.0,-71.0,71.0,56.0,71.0,127.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 87,SALLOUM Flora,84.7,53.0,-56.0,-57.0,-63.0,63.0,-67.0,53.0,63.0,116.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 55,CHUI Lynn,52.8,52.0,54.0,56.0,66.0,69.0,71.0,56.0,71.0,127.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 59,CHANTIER Agathe,57.3,56.0,-58.0,-58.0,64.0,67.0,-69.0,56.0,67.0,123.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 59,EL SHAMY Chama,58.0,45.0,-48.0,-49.0,60.0,63.0,-65.0,45.0,63.0,108.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 76,AIT SI AMER Nora,74.6,50.0,55.0,-57.0,62.0,-66.0,-67.0,55.0,62.0,117.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 55,CHUI Lynn,52.8,52.0,54.0,56.0,66.0,69.0,71.0,56.0,71.0,127.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 59,CHANTIER Agathe,57.3,56.0,-58.0,-58.0,64.0,67.0,-69.0,56.0,67.0,123.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 59,EL SHAMY Chama,58.0,45.0,-48.0,-49.0,60.0,63.0,-65.0,45.0,63.0,108.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 76,AIT SI AMER Nora,74.6,50.0,55.0,-57.0,62.0,-66.0,-67.0,55.0,62.0,117.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 73,AKBARY Mujtaba,72.9,-80.0,-80.0,80.0,100.0,105.0,108.0,80.0,108.0,188.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,JAFFAR Hussein,74.2,72.0,75.0,-80.0,85.0,90.0,92.0,75.0,92.0,167.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,GONZAGUE-MOLONGO Elisée,78.9,-80.0,-80.0,-80.0,105.0,110.0,113.0,0.0,113.0,0.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,CAUPENNE Carl,82.5,88.0,92.0,95.0,105.0,-110.0,115.0,95.0,115.0,210.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,BOISSEAU Baptiste,82.0,-87.0,-87.0,87.0,98.0,104.0,110.0,87.0,110.0,197.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 73,AKBARY Mujtaba,72.9,-80.0,-80.0,80.0,100.0,105.0,108.0,80.0,108.0,188.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,JAFFAR Hussein,74.2,72.0,75.0,-80.0,85.0,90.0,92.0,75.0,92.0,167.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,GONZAGUE-MOLONGO Elisée,78.9,-80.0,-80.0,-80.0,105.0,110.0,113.0,0.0,113.0,0.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,CAUPENNE Carl,82.5,88.0,92.0,95.0,105.0,-110.0,115.0,95.0,115.0,210.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,BOISSEAU Baptiste,82.0,-87.0,-87.0,87.0,98.0,104.0,110.0,87.0,110.0,197.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U17 Men 61,MOSER Léo,59.5,62.0,66.0,70.0,85.0,90.0,-95.0,70.0,90.0,160.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U20 Men 81,GIGONDAN Matheo,80.5,105.0,110.0,115.0,130.0,-0.0,-0.0,115.0,130.0,245.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 73,FOUET Damien,72.8,75.0,80.0,85.0,100.0,105.0,110.0,85.0,110.0,195.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,SPIESER Nicolas,79.2,110.0,115.0,118.0,125.0,132.0,-141.0,118.0,132.0,250.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,SANCHEZ Samuel,75.3,100.0,105.0,-110.0,120.0,126.0,-130.0,105.0,126.0,231.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,POINTET Robin,78.9,89.0,-93.0,93.0,120.0,125.0,128.0,93.0,128.0,221.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,SINGER Marc,79.1,95.0,-105.0,-110.0,120.0,-125.0,125.0,95.0,125.0,220.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,HASSAN Najitoufic,75.8,70.0,74.0,76.0,80.0,85.0,90.0,76.0,90.0,166.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,ROHRBACH Stephane,81.7,105.0,110.0,115.0,130.0,135.0,-140.0,115.0,135.0,250.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,NICKLES Maxime,87.3,105.0,110.0,115.0,135.0,-140.0,-140.0,115.0,135.0,250.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,BOILLON Vincent,83.5,-88.0,88.0,93.0,110.0,115.0,120.0,93.0,120.0,213.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,MAGNAN Frederic,83.1,78.0,82.0,84.0,98.0,-105.0,105.0,84.0,105.0,189.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 96,BAUDEWYNS Gauthier,92.9,100.0,105.0,108.0,130.0,135.0,140.0,108.0,140.0,248.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 96,KLICKI Alexis,93.6,-93.0,93.0,98.0,130.0,135.0,-140.0,98.0,135.0,233.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 96,BAUER Adrien,92.3,93.0,100.0,-103.0,115.0,120.0,-125.0,100.0,120.0,220.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 96,GUILLAUME Emmanuel,93.1,78.0,81.0,84.0,100.0,105.0,110.0,84.0,110.0,194.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U17 Men 61,MOSER Léo,59.5,62.0,66.0,70.0,85.0,90.0,-95.0,70.0,90.0,160.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U20 Men 81,GIGONDAN Matheo,80.5,105.0,110.0,115.0,130.0,-0.0,-0.0,115.0,130.0,245.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 73,FOUET Damien,72.8,75.0,80.0,85.0,100.0,105.0,110.0,85.0,110.0,195.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,SPIESER Nicolas,79.2,110.0,115.0,118.0,125.0,132.0,-141.0,118.0,132.0,250.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,SANCHEZ Samuel,75.3,100.0,105.0,-110.0,120.0,126.0,-130.0,105.0,126.0,231.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,POINTET Robin,78.9,89.0,-93.0,93.0,120.0,125.0,128.0,93.0,128.0,221.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,SINGER Marc,79.1,95.0,-105.0,-110.0,120.0,-125.0,125.0,95.0,125.0,220.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,HASSAN Najitoufic,75.8,70.0,74.0,76.0,80.0,85.0,90.0,76.0,90.0,166.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,ROHRBACH Stephane,81.7,105.0,110.0,115.0,130.0,135.0,-140.0,115.0,135.0,250.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,NICKLES Maxime,87.3,105.0,110.0,115.0,135.0,-140.0,-140.0,115.0,135.0,250.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,BOILLON Vincent,83.5,-88.0,88.0,93.0,110.0,115.0,120.0,93.0,120.0,213.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,MAGNAN Frederic,83.1,78.0,82.0,84.0,98.0,-105.0,105.0,84.0,105.0,189.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 96,BAUDEWYNS Gauthier,92.9,100.0,105.0,108.0,130.0,135.0,140.0,108.0,140.0,248.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 96,KLICKI Alexis,93.6,-93.0,93.0,98.0,130.0,135.0,-140.0,98.0,135.0,233.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 96,BAUER Adrien,92.3,93.0,100.0,-103.0,115.0,120.0,-125.0,100.0,120.0,220.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 96,GUILLAUME Emmanuel,93.1,78.0,81.0,84.0,100.0,105.0,110.0,84.0,110.0,194.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U15 Women 64,SIEGRIST Amandine,63.33,30.0,33.0,35.0,43.0,-48.0,48.0,35.0,48.0,83.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U17 Women 45,WACK Cléone,43.34,25.0,27.0,-29.0,35.0,-37.0,37.0,27.0,37.0,64.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U20 Women 64,WOLFF Adeline,61.66,54.0,57.0,60.0,74.0,-78.0,-80.0,60.0,74.0,134.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 59,ESTNER Sarah,56.54,53.0,-57.0,-57.0,67.0,70.0,73.0,53.0,73.0,126.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 59,PICHAUD Sarah,55.91,45.0,48.0,-51.0,55.0,59.0,61.0,48.0,61.0,109.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,STRZODA Lina,59.48,51.0,-55.0,58.0,63.0,67.0,70.0,58.0,70.0,128.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,CHAUFFAUD Manuella,70.87,40.0,43.0,-45.0,61.0,65.0,68.0,43.0,68.0,111.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 87,CERDAN Margot,81.72,70.0,-75.0,-78.0,90.0,95.0,-99.0,70.0,95.0,165.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U15 Women 64,SIEGRIST Amandine,63.33,30.0,33.0,35.0,43.0,-48.0,48.0,35.0,48.0,83.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U17 Women 45,WACK Cléone,43.34,25.0,27.0,-29.0,35.0,-37.0,37.0,27.0,37.0,64.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U20 Women 64,WOLFF Adeline,61.66,54.0,57.0,60.0,74.0,-78.0,-80.0,60.0,74.0,134.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 59,ESTNER Sarah,56.54,53.0,-57.0,-57.0,67.0,70.0,73.0,53.0,73.0,126.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 59,PICHAUD Sarah,55.91,45.0,48.0,-51.0,55.0,59.0,61.0,48.0,61.0,109.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,STRZODA Lina,59.48,51.0,-55.0,58.0,63.0,67.0,70.0,58.0,70.0,128.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,CHAUFFAUD Manuella,70.87,40.0,43.0,-45.0,61.0,65.0,68.0,43.0,68.0,111.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 87,CERDAN Margot,81.72,70.0,-75.0,-78.0,90.0,95.0,-99.0,70.0,95.0,165.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U15 Women 64,LE NOC Orlane,60.4,36.0,38.0,-40.0,46.0,48.0,50.0,38.0,50.0,88.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U17 Women 64,BEDEIR LARADE Safana,59.5,46.0,50.0,54.0,64.0,67.0,-70.0,54.0,67.0,121.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U20 Women 59,HERBIN Vinciane,58.1,40.0,43.0,-45.0,47.0,-52.0,52.0,43.0,52.0,95.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 55,MARTINELLI Laetitia,53.5,38.0,41.0,-44.0,57.0,-60.0,61.0,41.0,61.0,102.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 59,LE Aurélie,55.8,53.0,57.0,59.0,-70.0,70.0,73.0,59.0,73.0,132.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,LEVRERO Camille,63.4,40.0,45.0,50.0,60.0,65.0,70.0,50.0,70.0,120.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,PAILLARD Mailys,66.4,60.0,63.0,65.0,80.0,83.0,-85.0,65.0,83.0,148.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,RAVENNE Lea,65.8,38.0,43.0,-46.0,55.0,58.0,62.0,43.0,62.0,105.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 76,ASSAH Morgane,71.9,-78.0,78.0,-82.0,90.0,95.0,-100.0,78.0,95.0,173.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 81,DUMUR Armony,76.5,60.0,65.0,70.0,85.0,90.0,-95.0,70.0,90.0,160.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 81,LE VIENNESSE Marjorie,78.6,-56.0,-57.0,57.0,-72.0,72.0,-77.0,57.0,72.0,129.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 81,IDIRI Massinissa,78.4,-42.0,44.0,47.0,55.0,-58.0,-58.0,47.0,55.0,102.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 87,CHAUVIN Selma,84.5,35.0,40.0,43.0,45.0,52.0,-57.0,43.0,52.0,95.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U15 Women 64,LE NOC Orlane,60.4,36.0,38.0,-40.0,46.0,48.0,50.0,38.0,50.0,88.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U17 Women 64,BEDEIR LARADE Safana,59.5,46.0,50.0,54.0,64.0,67.0,-70.0,54.0,67.0,121.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U20 Women 59,HERBIN Vinciane,58.1,40.0,43.0,-45.0,47.0,-52.0,52.0,43.0,52.0,95.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 55,MARTINELLI Laetitia,53.5,38.0,41.0,-44.0,57.0,-60.0,61.0,41.0,61.0,102.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 59,LE Aurélie,55.8,53.0,57.0,59.0,-70.0,70.0,73.0,59.0,73.0,132.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 64,LEVRERO Camille,63.4,40.0,45.0,50.0,60.0,65.0,70.0,50.0,70.0,120.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,PAILLARD Mailys,66.4,60.0,63.0,65.0,80.0,83.0,-85.0,65.0,83.0,148.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 71,RAVENNE Lea,65.8,38.0,43.0,-46.0,55.0,58.0,62.0,43.0,62.0,105.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 76,ASSAH Morgane,71.9,-78.0,78.0,-82.0,90.0,95.0,-100.0,78.0,95.0,173.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 81,DUMUR Armony,76.5,60.0,65.0,70.0,85.0,90.0,-95.0,70.0,90.0,160.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 81,LE VIENNESSE Marjorie,78.6,-56.0,-57.0,57.0,-72.0,72.0,-77.0,57.0,72.0,129.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 81,IDIRI Massinissa,78.4,-42.0,44.0,47.0,55.0,-58.0,-58.0,47.0,55.0,102.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Women 87,CHAUVIN Selma,84.5,35.0,40.0,43.0,45.0,52.0,-57.0,43.0,52.0,95.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U15 Men 89,AIT CHALALET Samy,83.4,49.0,-53.0,54.0,-65.0,65.0,68.0,54.0,68.0,122.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 61,BEKKAR Ayoub,60.3,80.0,85.0,87.0,105.0,-110.0,-112.0,87.0,105.0,192.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 73,COTTEREAU Antoine,71.2,90.0,-95.0,95.0,110.0,-115.0,-117.0,95.0,110.0,205.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 73,MOGÉ Olivier,71.0,-86.0,86.0,90.0,105.0,110.0,-113.0,90.0,110.0,200.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,DAVID Bastien,80.7,92.0,97.0,-101.0,121.0,126.0,-128.0,97.0,126.0,223.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,HESHMATI Sohrab,79.5,90.0,96.0,-100.0,120.0,-125.0,125.0,96.0,125.0,221.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,SUPPLY Joanin,75.0,84.0,88.0,92.0,-111.0,113.0,-116.0,92.0,113.0,205.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,LE VIENNESSE Stephane,79.6,90.0,-95.0,-95.0,110.0,115.0,-120.0,90.0,115.0,205.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,LEFRANCS Dimitri,76.7,85.0,-93.0,-98.0,100.0,108.0,-115.0,85.0,108.0,193.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,OMIDVAR Alireza,84.7,120.0,-130.0,-130.0,150.0,-160.0,-162.0,120.0,150.0,270.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,BERNARD Xavier,89.0,110.0,-118.0,-118.0,130.0,135.0,-141.0,110.0,135.0,245.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 96,GLEVAREC Maxence,93.0,102.0,106.0,110.0,-125.0,125.0,130.0,110.0,130.0,240.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 102,MOHAMMEDI Ahmed,98.0,57.0,60.0,65.0,83.0,-85.0,85.0,65.0,85.0,150.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 109,LE VIENNESSE Tony,104.9,-75.0,75.0,-76.0,85.0,-90.0,-90.0,75.0,85.0,160.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men >109,CORADO GARRO Lenny,126.6,95.0,100.0,105.0,121.0,-130.0,131.0,105.0,131.0,236.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U15 Men 89,AIT CHALALET Samy,83.4,49.0,-53.0,54.0,-65.0,65.0,68.0,54.0,68.0,122.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 61,BEKKAR Ayoub,60.3,80.0,85.0,87.0,105.0,-110.0,-112.0,87.0,105.0,192.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 73,COTTEREAU Antoine,71.2,90.0,-95.0,95.0,110.0,-115.0,-117.0,95.0,110.0,205.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 73,MOGÉ Olivier,71.0,-86.0,86.0,90.0,105.0,110.0,-113.0,90.0,110.0,200.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,DAVID Bastien,80.7,92.0,97.0,-101.0,121.0,126.0,-128.0,97.0,126.0,223.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,HESHMATI Sohrab,79.5,90.0,96.0,-100.0,120.0,-125.0,125.0,96.0,125.0,221.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,SUPPLY Joanin,75.0,84.0,88.0,92.0,-111.0,113.0,-116.0,92.0,113.0,205.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,LE VIENNESSE Stephane,79.6,90.0,-95.0,-95.0,110.0,115.0,-120.0,90.0,115.0,205.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,LEFRANCS Dimitri,76.7,85.0,-93.0,-98.0,100.0,108.0,-115.0,85.0,108.0,193.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,OMIDVAR Alireza,84.7,120.0,-130.0,-130.0,150.0,-160.0,-162.0,120.0,150.0,270.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,BERNARD Xavier,89.0,110.0,-118.0,-118.0,130.0,135.0,-141.0,110.0,135.0,245.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 96,GLEVAREC Maxence,93.0,102.0,106.0,110.0,-125.0,125.0,130.0,110.0,130.0,240.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 102,MOHAMMEDI Ahmed,98.0,57.0,60.0,65.0,83.0,-85.0,85.0,65.0,85.0,150.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 109,LE VIENNESSE Tony,104.9,-75.0,75.0,-76.0,85.0,-90.0,-90.0,75.0,85.0,160.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men >109,CORADO GARRO Lenny,126.6,95.0,100.0,105.0,121.0,-130.0,131.0,105.0,131.0,236.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U20 Men 67,RIAULT Maxime,63.6,58.0,63.0,67.0,78.0,-82.0,82.0,67.0,82.0,149.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U20 Men 73,GARZANDAT Mattéo,72.0,78.0,83.0,85.0,104.0,109.0,114.0,85.0,114.0,199.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 67,BALLOUT Tarek,65.5,73.0,78.0,81.0,90.0,95.0,-104.0,81.0,95.0,176.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 73,BELLEAU Quentin,72.2,75.0,78.0,81.0,98.0,103.0,-108.0,81.0,103.0,184.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 73,USMA GOMEZ Daniel eduardo,71.7,70.0,-75.0,-75.0,95.0,100.0,-105.0,70.0,100.0,170.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,JACQUEL Florian,80.7,95.0,100.0,105.0,125.0,130.0,-135.0,105.0,130.0,235.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,RUOLT Sebastien,80.7,93.0,-98.0,100.0,117.0,122.0,-127.0,100.0,122.0,222.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,LE Hoang dong,76.9,88.0,-93.0,-95.0,111.0,116.0,120.0,88.0,120.0,208.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,MARTINEZ Sebastien,78.2,85.0,90.0,-95.0,105.0,-110.0,111.0,90.0,111.0,201.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,HO Theduyan,77.3,80.0,-85.0,85.0,102.0,107.0,-112.0,85.0,107.0,192.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,SCHINDLER Romain,77.2,-83.0,83.0,87.0,96.0,-101.0,-103.0,87.0,96.0,183.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,ANDRIEUX Nicolas,84.2,98.0,103.0,106.0,130.0,135.0,140.0,106.0,140.0,246.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,DEMOULIN Albin,82.7,-83.0,83.0,87.0,108.0,114.0,-120.0,87.0,114.0,201.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,SCHINDLER Pierre,87.5,60.0,-65.0,65.0,68.0,75.0,-80.0,65.0,75.0,140.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 96,CAQUEUX Baptiste,93.1,85.0,90.0,95.0,120.0,125.0,-0.0,95.0,125.0,220.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 102,SPIELMANN Arthur,98.3,115.0,-120.0,120.0,155.0,-165.0,-0.0,120.0,155.0,275.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 102,KELHETTER Jerome,96.7,95.0,100.0,103.0,123.0,130.0,-137.0,103.0,130.0,233.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U20 Men 67,RIAULT Maxime,63.6,58.0,63.0,67.0,78.0,-82.0,82.0,67.0,82.0,149.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,U20 Men 73,GARZANDAT Mattéo,72.0,78.0,83.0,85.0,104.0,109.0,114.0,85.0,114.0,199.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 67,BALLOUT Tarek,65.5,73.0,78.0,81.0,90.0,95.0,-104.0,81.0,95.0,176.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 73,BELLEAU Quentin,72.2,75.0,78.0,81.0,98.0,103.0,-108.0,81.0,103.0,184.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 73,USMA GOMEZ Daniel eduardo,71.7,70.0,-75.0,-75.0,95.0,100.0,-105.0,70.0,100.0,170.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,JACQUEL Florian,80.7,95.0,100.0,105.0,125.0,130.0,-135.0,105.0,130.0,235.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,RUOLT Sebastien,80.7,93.0,-98.0,100.0,117.0,122.0,-127.0,100.0,122.0,222.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,LE Hoang dong,76.9,88.0,-93.0,-95.0,111.0,116.0,120.0,88.0,120.0,208.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,MARTINEZ Sebastien,78.2,85.0,90.0,-95.0,105.0,-110.0,111.0,90.0,111.0,201.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,HO Theduyan,77.3,80.0,-85.0,85.0,102.0,107.0,-112.0,85.0,107.0,192.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 81,SCHINDLER Romain,77.2,-83.0,83.0,87.0,96.0,-101.0,-103.0,87.0,96.0,183.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,ANDRIEUX Nicolas,84.2,98.0,103.0,106.0,130.0,135.0,140.0,106.0,140.0,246.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,DEMOULIN Albin,82.7,-83.0,83.0,87.0,108.0,114.0,-120.0,87.0,114.0,201.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 89,SCHINDLER Pierre,87.5,60.0,-65.0,65.0,68.0,75.0,-80.0,65.0,75.0,140.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 96,CAQUEUX Baptiste,93.1,85.0,90.0,95.0,120.0,125.0,-0.0,95.0,125.0,220.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 102,SPIELMANN Arthur,98.3,115.0,-120.0,120.0,155.0,-165.0,-0.0,120.0,155.0,275.0
+IDF - REG 1 - Osny - 2ème tour championnat régional des clubs,2023-12-09,SEN Men 102,KELHETTER Jerome,96.7,95.0,100.0,103.0,123.0,130.0,-137.0,103.0,130.0,233.0

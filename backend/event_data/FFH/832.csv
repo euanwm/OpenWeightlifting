@@ -1,0 +1,63 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,U20 Men 81,MONNET Liliam,80.35,57.0,62.0,-65.0,77.0,82.0,-86.0,62.0,82.0,144.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 67,FINANCE Edgar,66.85,-55.0,55.0,60.0,75.0,80.0,-85.0,60.0,80.0,140.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 73,KUBLER Bastien,67.8,70.0,75.0,-78.0,92.0,-97.0,-98.0,75.0,92.0,167.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 81,LE Hoang dong,75.85,-83.0,83.0,87.0,108.0,112.0,115.0,87.0,115.0,202.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 81,KEK Moni,80.35,73.0,78.0,-82.0,95.0,100.0,-103.0,78.0,100.0,178.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 89,FLAUS Dylan,85.6,114.0,120.0,126.0,135.0,140.0,-145.0,126.0,140.0,266.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 89,RUOLT Sebastien,81.6,95.0,-102.0,103.0,118.0,124.0,128.0,103.0,128.0,231.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 89,MARTINEZ Sebastien,84.4,85.0,90.0,-93.0,100.0,108.0,-111.0,90.0,108.0,198.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 89,HOLLER Sebastien,81.7,80.0,-85.0,-85.0,103.0,-108.0,108.0,80.0,108.0,188.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 89,FLAUS Kevin,84.6,78.0,83.0,-87.0,98.0,104.0,-107.0,83.0,104.0,187.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 89,MALINI Didier,84.05,70.0,-73.0,73.0,90.0,93.0,96.0,73.0,96.0,169.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 89,SAAD Ahmad,86.95,60.0,65.0,70.0,75.0,80.0,83.0,70.0,83.0,153.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 96,CAQUEUX Baptiste,90.9,103.0,108.0,112.0,131.0,-136.0,-136.0,112.0,131.0,243.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 96,GAG Yoann,95.95,85.0,90.0,96.0,120.0,125.0,130.0,96.0,130.0,226.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 109,EL GHOUL Mohamed,105.4,75.0,80.0,85.0,95.0,100.0,105.0,85.0,105.0,190.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,U20 Women 64,PROKOPOWICZ Camille,59.6,35.0,40.0,-43.0,48.0,52.0,-55.0,40.0,52.0,92.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,U17 Women 59,WOLFF Adeline,56.2,42.0,45.0,-48.0,62.0,65.0,68.0,45.0,68.0,113.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,U20 Women 55,TOUSSAINT Margot,54.7,42.0,45.0,-47.0,55.0,60.0,-63.0,45.0,60.0,105.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,U20 Women 71,BAUER Camille,66.8,42.0,45.0,-50.0,54.0,-57.0,57.0,45.0,57.0,102.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Women 55,PERRET Angélique,53.4,42.0,46.0,48.0,63.0,66.0,-68.0,48.0,66.0,114.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Women 64,VEAUTIER Lina,59.6,45.0,50.0,54.0,63.0,68.0,-73.0,54.0,68.0,122.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Women 71,LE VAILLANT DE CHARNY Audrey,70.0,73.0,78.0,82.0,95.0,100.0,105.0,82.0,105.0,187.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Women 71,MASSON Heloise,64.9,57.0,61.0,65.0,75.0,80.0,85.0,65.0,85.0,150.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Women 71,CHAUFFAUD Manuella,67.0,38.0,41.0,45.0,53.0,57.0,61.0,45.0,61.0,106.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,U17 Women 59,WOLFF Adeline,56.2,42.0,45.0,-48.0,62.0,65.0,68.0,45.0,68.0,113.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,U20 Women 55,TOUSSAINT Margot,54.7,42.0,45.0,-47.0,55.0,60.0,-63.0,45.0,60.0,105.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,U20 Women 71,BAUER Camille,66.8,42.0,45.0,-50.0,54.0,-57.0,57.0,45.0,57.0,102.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Women 55,PERRET Angélique,53.4,42.0,46.0,48.0,63.0,66.0,-68.0,48.0,66.0,114.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Women 64,VEAUTIER Lina,59.6,45.0,50.0,54.0,63.0,68.0,-73.0,54.0,68.0,122.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Women 71,LE VAILLANT DE CHARNY Audrey,70.0,73.0,78.0,82.0,95.0,100.0,105.0,82.0,105.0,187.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Women 71,MASSON Heloise,64.9,57.0,61.0,65.0,75.0,80.0,85.0,65.0,85.0,150.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Women 71,CHAUFFAUD Manuella,67.0,38.0,41.0,45.0,53.0,57.0,61.0,45.0,61.0,106.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,U15 Men 49,MOSER Léo,48.7,32.0,35.0,-38.0,45.0,50.0,-53.0,35.0,50.0,85.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,U20 Men 96,THOMASSON Yann,95.6,126.0,131.0,136.0,156.0,162.0,-170.0,136.0,162.0,298.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 73,CUVILLIER Valentin,70.8,113.0,116.0,120.0,142.0,147.0,151.0,120.0,151.0,271.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 73,GIGONDAN Lucas,72.2,82.0,-86.0,86.0,107.0,111.0,-115.0,86.0,111.0,197.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 81,SPIESER Nicolas,77.9,100.0,-106.0,108.0,120.0,-125.0,127.0,108.0,127.0,235.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 81,ROHRBACH Stephane,75.3,100.0,105.0,-110.0,120.0,-125.0,-125.0,105.0,120.0,225.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 81,POINTET Robin,80.0,92.0,-97.0,-100.0,118.0,-122.0,-122.0,92.0,118.0,210.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 81,GIORGIANI Dylan,74.9,82.0,86.0,-89.0,108.0,112.0,115.0,86.0,115.0,201.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 81,MAURER Nicolas,73.3,55.0,60.0,65.0,75.0,80.0,85.0,65.0,85.0,150.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 89,NICKLES Maxime,84.1,90.0,95.0,100.0,120.0,125.0,-130.0,100.0,125.0,225.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 89,FERSING Kevin,83.4,-84.0,84.0,87.0,107.0,112.0,-115.0,87.0,112.0,199.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 89,GRUNER Arnaud,84.7,70.0,80.0,85.0,100.0,105.0,-110.0,85.0,105.0,190.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 96,VIANELLO Lorenzo,89.5,113.0,116.0,120.0,142.0,147.0,151.0,120.0,151.0,271.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 96,SAHIRI Julien,91.3,-92.0,-92.0,-92.0,110.0,115.0,-120.0,0.0,115.0,0.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 109,THOMASSON Loic,108.8,84.0,87.0,90.0,107.0,-112.0,112.0,90.0,112.0,202.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,U15 Men 49,MOSER Léo,48.7,32.0,35.0,-38.0,45.0,50.0,-53.0,35.0,50.0,85.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,U20 Men 96,THOMASSON Yann,95.6,126.0,131.0,136.0,156.0,162.0,-170.0,136.0,162.0,298.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 73,CUVILLIER Valentin,70.8,113.0,116.0,120.0,142.0,147.0,151.0,120.0,151.0,271.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 73,GIGONDAN Lucas,72.2,82.0,-86.0,86.0,107.0,111.0,-115.0,86.0,111.0,197.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 81,SPIESER Nicolas,77.9,100.0,-106.0,108.0,120.0,-125.0,127.0,108.0,127.0,235.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 81,ROHRBACH Stephane,75.3,100.0,105.0,-110.0,120.0,-125.0,-125.0,105.0,120.0,225.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 81,POINTET Robin,80.0,92.0,-97.0,-100.0,118.0,-122.0,-122.0,92.0,118.0,210.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 81,GIORGIANI Dylan,74.9,82.0,86.0,-89.0,108.0,112.0,115.0,86.0,115.0,201.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 81,MAURER Nicolas,73.3,55.0,60.0,65.0,75.0,80.0,85.0,65.0,85.0,150.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 89,NICKLES Maxime,84.1,90.0,95.0,100.0,120.0,125.0,-130.0,100.0,125.0,225.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 89,FERSING Kevin,83.4,-84.0,84.0,87.0,107.0,112.0,-115.0,87.0,112.0,199.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 89,GRUNER Arnaud,84.7,70.0,80.0,85.0,100.0,105.0,-110.0,85.0,105.0,190.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 96,VIANELLO Lorenzo,89.5,113.0,116.0,120.0,142.0,147.0,151.0,120.0,151.0,271.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 96,SAHIRI Julien,91.3,-92.0,-92.0,-92.0,110.0,115.0,-120.0,0.0,115.0,0.0
+GE - REG 1 - MjcU - Pte Roselle - Sak (Ungersheim),2021-11-27,SEN Men 109,THOMASSON Loic,108.8,84.0,87.0,90.0,107.0,-112.0,112.0,90.0,112.0,202.0

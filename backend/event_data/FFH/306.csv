@@ -1,0 +1,68 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+REU - 3ème Challenge Avenir,2021-01-30,U15 Women 55,GOURREAU Naomi,53.23,-29.0,-31.0,31.0,38.0,41.0,-44.0,31.0,41.0,72.0
+REU - 3ème Challenge Avenir,2021-01-30,SEN Women 45,SAOUDIN Lucie,43.0,29.0,-32.0,-34.0,38.0,-41.0,-41.0,29.0,38.0,67.0
+REU - 3ème Challenge Avenir,2021-01-30,SEN Women 55,GRELLE Elyse,51.8,-44.0,44.0,47.0,54.0,57.0,60.0,47.0,60.0,107.0
+REU - 3ème Challenge Avenir,2021-01-30,SEN Women 55,CADET Elodie,54.1,37.0,40.0,-43.0,45.0,-49.0,49.0,40.0,49.0,89.0
+REU - 3ème Challenge Avenir,2021-01-30,SEN Women 55,JEANNIN Sophie,54.1,-35.0,36.0,-38.0,46.0,-48.0,-48.0,36.0,46.0,82.0
+REU - 3ème Challenge Avenir,2021-01-30,SEN Women 55,ROBERT Manon,53.64,-32.0,32.0,-35.0,-40.0,40.0,43.0,32.0,43.0,75.0
+REU - 3ème Challenge Avenir,2021-01-30,SEN Women 59,DE COCK Alexandra,57.24,43.0,-46.0,48.0,52.0,56.0,60.0,48.0,60.0,108.0
+REU - 3ème Challenge Avenir,2021-01-30,SEN Women 59,LEOCADIE Florence,56.8,-40.0,40.0,-42.0,50.0,52.0,-54.0,40.0,52.0,92.0
+REU - 3ème Challenge Avenir,2021-01-30,SEN Women 64,BENARD Julie,63.8,46.0,-50.0,50.0,67.0,71.0,-75.0,50.0,71.0,121.0
+REU - 3ème Challenge Avenir,2021-01-30,SEN Women 64,DELERUYELLE Juliette,60.1,32.0,-34.0,-34.0,48.0,-51.0,-51.0,32.0,48.0,80.0
+REU - 3ème Challenge Avenir,2021-01-30,SEN Women 64,CAZAL Tamara,62.1,-45.0,-47.0,-47.0,55.0,58.0,-63.0,0.0,58.0,0.0
+REU - 3ème Challenge Avenir,2021-01-30,U15 Men 61,BARSOUNAIK Dorian,59.0,30.0,-35.0,35.0,40.0,45.0,50.0,35.0,50.0,85.0
+REU - 3ème Challenge Avenir,2021-01-30,U15 Men 73,TURBAN Farid,70.0,46.0,48.0,-50.0,62.0,66.0,68.0,48.0,68.0,116.0
+REU - 3ème Challenge Avenir,2021-01-30,U20 Men 61,LEFEVRE Florent,61.0,-62.0,65.0,-68.0,80.0,85.0,-88.0,65.0,85.0,150.0
+REU - 3ème Challenge Avenir,2021-01-30,U20 Men 81,RASPAIL Victor,74.7,65.0,70.0,75.0,85.0,90.0,95.0,75.0,95.0,170.0
+REU - 3ème Challenge Avenir,2021-01-30,SEN Men 73,GRAFFION Romain,72.9,72.0,76.0,80.0,85.0,-93.0,95.0,80.0,95.0,175.0
+REU - 3ème Challenge Avenir,2021-01-30,SEN Men 73,TURPIN Samuel,70.0,50.0,-55.0,-56.0,-70.0,70.0,-75.0,50.0,70.0,120.0
+REU - 3ème Challenge Avenir,2021-01-30,SEN Men 81,WAN-HOI Stephan,79.8,85.0,90.0,-93.0,110.0,-115.0,-115.0,90.0,110.0,200.0
+REU - 3ème Challenge Avenir,2021-01-30,SEN Men 81,LAYLAVERGNE David,77.7,77.0,-82.0,82.0,95.0,100.0,-105.0,82.0,100.0,182.0
+REU - 3ème Challenge Avenir,2021-01-30,SEN Men 81,BALBOLIA Hamza,76.0,65.0,-70.0,72.0,88.0,-93.0,93.0,72.0,93.0,165.0
+REU - 3ème Challenge Avenir,2021-01-30,SEN Men 89,DIJOUX Vincent,88.3,87.0,92.0,96.0,112.0,120.0,124.0,96.0,124.0,220.0
+REU - 3ème Challenge Avenir,2021-01-30,SEN Men 89,SIMPLON Jean bénédict,86.0,85.0,-90.0,90.0,110.0,120.0,-125.0,90.0,120.0,210.0
+REU - 3ème Challenge Avenir,2021-01-30,SEN Men 89,LEVEQUE Timothé,83.8,-86.0,86.0,90.0,-112.0,112.0,115.0,90.0,115.0,205.0
+REU - 3ème Challenge Avenir,2021-01-30,SEN Men 89,ROBLES Romain,84.0,78.0,-82.0,-85.0,94.0,98.0,101.0,78.0,101.0,179.0
+REU - 3ème Challenge Avenir,2021-01-30,SEN Men 96,NICAISE Olivier jean cedric,90.2,85.0,90.0,-95.0,105.0,110.0,-115.0,90.0,110.0,200.0
+REU - 3ème Challenge Avenir,2021-01-30,SEN Men 109,DALE Olivier,104.0,65.0,70.0,-75.0,-105.0,-105.0,105.0,70.0,105.0,175.0
+REU - 3ème Challenge Avenir,2021-01-30,SEN Men >109,RICHARD Kenny,110.0,95.0,100.0,105.0,120.0,130.0,140.0,105.0,140.0,245.0
+REU - 3ème Challenge Avenir,2021-01-30,U15 Men 61,BARSOUNAIK Dorian,59.0,30.0,-35.0,35.0,40.0,45.0,50.0,35.0,50.0,85.0
+REU - 3ème Challenge Avenir,2021-01-30,U15 Men 73,TURBAN Farid,70.0,46.0,48.0,-50.0,62.0,66.0,68.0,48.0,68.0,116.0
+REU - 3ème Challenge Avenir,2021-01-30,U20 Men 61,LEFEVRE Florent,61.0,-62.0,65.0,-68.0,80.0,85.0,-88.0,65.0,85.0,150.0
+REU - 3ème Challenge Avenir,2021-01-30,U20 Men 81,RASPAIL Victor,74.7,65.0,70.0,75.0,85.0,90.0,95.0,75.0,95.0,170.0
+REU - 3ème Challenge Avenir,2021-01-30,SEN Men 73,GRAFFION Romain,72.9,72.0,76.0,80.0,85.0,-93.0,95.0,80.0,95.0,175.0
+REU - 3ème Challenge Avenir,2021-01-30,SEN Men 73,TURPIN Samuel,70.0,50.0,-55.0,-56.0,-70.0,70.0,-75.0,50.0,70.0,120.0
+REU - 3ème Challenge Avenir,2021-01-30,SEN Men 81,WAN-HOI Stephan,79.8,85.0,90.0,-93.0,110.0,-115.0,-115.0,90.0,110.0,200.0
+REU - 3ème Challenge Avenir,2021-01-30,SEN Men 81,LAYLAVERGNE David,77.7,77.0,-82.0,82.0,95.0,100.0,-105.0,82.0,100.0,182.0
+REU - 3ème Challenge Avenir,2021-01-30,SEN Men 81,BALBOLIA Hamza,76.0,65.0,-70.0,72.0,88.0,-93.0,93.0,72.0,93.0,165.0
+REU - 3ème Challenge Avenir,2021-01-30,SEN Men 89,DIJOUX Vincent,88.3,87.0,92.0,96.0,112.0,120.0,124.0,96.0,124.0,220.0
+REU - 3ème Challenge Avenir,2021-01-30,SEN Men 89,SIMPLON Jean bénédict,86.0,85.0,-90.0,90.0,110.0,120.0,-125.0,90.0,120.0,210.0
+REU - 3ème Challenge Avenir,2021-01-30,SEN Men 89,LEVEQUE Timothé,83.8,-86.0,86.0,90.0,-112.0,112.0,115.0,90.0,115.0,205.0
+REU - 3ème Challenge Avenir,2021-01-30,SEN Men 89,ROBLES Romain,84.0,78.0,-82.0,-85.0,94.0,98.0,101.0,78.0,101.0,179.0
+REU - 3ème Challenge Avenir,2021-01-30,SEN Men 96,NICAISE Olivier jean cedric,90.2,85.0,90.0,-95.0,105.0,110.0,-115.0,90.0,110.0,200.0
+REU - 3ème Challenge Avenir,2021-01-30,SEN Men 109,DALE Olivier,104.0,65.0,70.0,-75.0,-105.0,-105.0,105.0,70.0,105.0,175.0
+REU - 3ème Challenge Avenir,2021-01-30,SEN Men >109,RICHARD Kenny,110.0,95.0,100.0,105.0,120.0,130.0,140.0,105.0,140.0,245.0
+REU - 3ème Challenge Avenir,2021-01-30,U10 Men ,VEFOUR Noah,22.9,9.0,11.0,13.0,-11.0,11.0,13.0,13.0,13.0,26.0
+REU - 3ème Challenge Avenir,2021-01-30,U10 Men ,TÉLISMART Maxime,27.93,14.0,16.0,18.0,22.0,-24.0,-24.0,18.0,22.0,40.0
+REU - 3ème Challenge Avenir,2021-01-30,U13 Men 35,PATEL Ilyane,25.73,-16.0,16.0,17.0,22.0,-24.0,-24.0,17.0,22.0,39.0
+REU - 3ème Challenge Avenir,2021-01-30,U13 Men 40,RICHARD Sevan,37.1,23.0,25.0,27.0,31.0,33.0,35.0,27.0,35.0,62.0
+REU - 3ème Challenge Avenir,2021-01-30,U13 Men 40,SAUTRON Damien téo,39.73,18.0,20.0,-22.0,-26.0,26.0,28.0,20.0,28.0,48.0
+REU - 3ème Challenge Avenir,2021-01-30,U13 Men 67,RICHARD Djim,62.4,-36.0,36.0,38.0,51.0,53.0,-55.0,38.0,53.0,91.0
+REU - 3ème Challenge Avenir,2021-01-30,U10 Women ,SAUTRON Marion,26.41,12.0,14.0,-16.0,16.0,17.0,18.0,14.0,18.0,32.0
+REU - 3ème Challenge Avenir,2021-01-30,U10 Women ,RICHARD Maelys,29.7,9.0,11.0,13.0,11.0,13.0,15.0,13.0,15.0,28.0
+REU - 3ème Challenge Avenir,2021-01-30,U13 Women 35,VEFOUR Adèle,26.4,9.0,11.0,13.0,11.0,13.0,15.0,13.0,15.0,28.0
+REU - 3ème Challenge Avenir,2021-01-30,U13 Women 49,RICHARD Kéllia,46.3,27.0,29.0,-31.0,33.0,35.0,37.0,29.0,37.0,66.0
+REU - 3ème Challenge Avenir,2021-01-30,U13 Women 59,FIRENZOLE Maya,58.3,25.0,-27.0,-27.0,30.0,32.0,34.0,25.0,34.0,59.0
+REU - 3ème Challenge Avenir,2021-01-30,U13 Women 71,MAILLOT Indira,64.5,-30.0,30.0,-32.0,33.0,-35.0,35.0,30.0,35.0,65.0
+REU - 3ème Challenge Avenir,2021-01-30,U10 Men ,VEFOUR Noah,22.9,9.0,11.0,13.0,-11.0,11.0,13.0,13.0,13.0,26.0
+REU - 3ème Challenge Avenir,2021-01-30,U10 Men ,TÉLISMART Maxime,27.93,14.0,16.0,18.0,22.0,-24.0,-24.0,18.0,22.0,40.0
+REU - 3ème Challenge Avenir,2021-01-30,U13 Men 35,PATEL Ilyane,25.73,-16.0,16.0,17.0,22.0,-24.0,-24.0,17.0,22.0,39.0
+REU - 3ème Challenge Avenir,2021-01-30,U13 Men 40,RICHARD Sevan,37.1,23.0,25.0,27.0,31.0,33.0,35.0,27.0,35.0,62.0
+REU - 3ème Challenge Avenir,2021-01-30,U13 Men 40,SAUTRON Damien téo,39.73,18.0,20.0,-22.0,-26.0,26.0,28.0,20.0,28.0,48.0
+REU - 3ème Challenge Avenir,2021-01-30,U13 Men 67,RICHARD Djim,62.4,-36.0,36.0,38.0,51.0,53.0,-55.0,38.0,53.0,91.0
+REU - 3ème Challenge Avenir,2021-01-30,U10 Women ,SAUTRON Marion,26.41,12.0,14.0,-16.0,16.0,17.0,18.0,14.0,18.0,32.0
+REU - 3ème Challenge Avenir,2021-01-30,U10 Women ,RICHARD Maelys,29.7,9.0,11.0,13.0,11.0,13.0,15.0,13.0,15.0,28.0
+REU - 3ème Challenge Avenir,2021-01-30,U13 Women 35,VEFOUR Adèle,26.4,9.0,11.0,13.0,11.0,13.0,15.0,13.0,15.0,28.0
+REU - 3ème Challenge Avenir,2021-01-30,U13 Women 49,RICHARD Kéllia,46.3,27.0,29.0,-31.0,33.0,35.0,37.0,29.0,37.0,66.0
+REU - 3ème Challenge Avenir,2021-01-30,U13 Women 59,FIRENZOLE Maya,58.3,25.0,-27.0,-27.0,30.0,32.0,34.0,25.0,34.0,59.0
+REU - 3ème Challenge Avenir,2021-01-30,U13 Women 71,MAILLOT Indira,64.5,-30.0,30.0,-32.0,33.0,-35.0,35.0,30.0,35.0,65.0

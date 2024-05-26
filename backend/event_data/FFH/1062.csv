@@ -1,0 +1,35 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+AURA - Chpt Ligue - Anse - Grand Prix AURA Jeunes - Minime,2023-06-17,U10 Men ,CHEVAT Mathis,43.9,8.0,9.0,10.0,9.0,10.0,11.0,10.0,11.0,21.0
+AURA - Chpt Ligue - Anse - Grand Prix AURA Jeunes - Minime,2023-06-17,U13 Men 35,DOMMARTIN Axel,34.7,14.0,16.0,-18.0,17.0,19.0,21.0,16.0,21.0,37.0
+AURA - Chpt Ligue - Anse - Grand Prix AURA Jeunes - Minime,2023-06-17,U10 Women ,MARTIN Clemence,39.1,15.0,17.0,-19.0,15.0,17.0,19.0,17.0,19.0,36.0
+AURA - Chpt Ligue - Anse - Grand Prix AURA Jeunes - Minime,2023-06-17,U10 Women ,CHAUTAIN Alice,27.75,11.0,12.0,13.0,15.0,16.0,17.0,13.0,17.0,30.0
+AURA - Chpt Ligue - Anse - Grand Prix AURA Jeunes - Minime,2023-06-17,U13 Women 49,OLEJNICZAK Merinne,46.65,20.0,22.0,23.0,26.0,28.0,29.0,23.0,29.0,52.0
+AURA - Chpt Ligue - Anse - Grand Prix AURA Jeunes - Minime,2023-06-17,U13 Women 55,HORVATH Asya,51.0,34.0,-36.0,-36.0,42.0,44.0,46.0,34.0,46.0,80.0
+AURA - Chpt Ligue - Anse - Grand Prix AURA Jeunes - Minime,2023-06-17,U15 Women 45,MOREL Maud,43.25,27.0,-29.0,-29.0,33.0,36.0,38.0,27.0,38.0,65.0
+AURA - Chpt Ligue - Anse - Grand Prix AURA Jeunes - Minime,2023-06-17,U15 Women 71,BELLE Mathilde,67.3,-43.0,43.0,46.0,54.0,57.0,-60.0,46.0,57.0,103.0
+AURA - Chpt Ligue - Anse - Grand Prix AURA Jeunes - Minime,2023-06-17,U17 Women 71,LAURENT Emeline,69.55,47.0,50.0,53.0,58.0,62.0,-65.0,53.0,62.0,115.0
+AURA - Chpt Ligue - Anse - Grand Prix AURA Jeunes - Minime,2023-06-17,U20 Women 64,DURAES DE PINHO Elvira,63.15,34.0,-37.0,-37.0,47.0,50.0,-53.0,34.0,50.0,84.0
+AURA - Chpt Ligue - Anse - Grand Prix AURA Jeunes - Minime,2023-06-17,U15 Women 45,MOREL Maud,43.25,27.0,-29.0,-29.0,33.0,36.0,38.0,27.0,38.0,65.0
+AURA - Chpt Ligue - Anse - Grand Prix AURA Jeunes - Minime,2023-06-17,U15 Women 71,BELLE Mathilde,67.3,-43.0,43.0,46.0,54.0,57.0,-60.0,46.0,57.0,103.0
+AURA - Chpt Ligue - Anse - Grand Prix AURA Jeunes - Minime,2023-06-17,U17 Women 71,LAURENT Emeline,69.55,47.0,50.0,53.0,58.0,62.0,-65.0,53.0,62.0,115.0
+AURA - Chpt Ligue - Anse - Grand Prix AURA Jeunes - Minime,2023-06-17,U20 Women 64,DURAES DE PINHO Elvira,63.15,34.0,-37.0,-37.0,47.0,50.0,-53.0,34.0,50.0,84.0
+AURA - Chpt Ligue - Anse - Grand Prix AURA Jeunes - Minime,2023-06-17,U15 Men 67,ISRAILOV Abubakar,66.4,90.0,-95.0,100.0,110.0,115.0,120.0,100.0,120.0,220.0
+AURA - Chpt Ligue - Anse - Grand Prix AURA Jeunes - Minime,2023-06-17,U17 Men 81,COTTE-GAUDIN Simon,76.6,95.0,102.0,-107.0,-115.0,115.0,123.0,102.0,123.0,225.0
+AURA - Chpt Ligue - Anse - Grand Prix AURA Jeunes - Minime,2023-06-17,U20 Men 61,RENARD Hugo,59.1,-68.0,68.0,-71.0,85.0,-92.0,-0.0,68.0,85.0,153.0
+AURA - Chpt Ligue - Anse - Grand Prix AURA Jeunes - Minime,2023-06-17,U20 Men 67,RENARD Benjamin,61.3,71.0,-76.0,78.0,92.0,97.0,102.0,78.0,102.0,180.0
+AURA - Chpt Ligue - Anse - Grand Prix AURA Jeunes - Minime,2023-06-17,U20 Men 73,DA SILVA Thibaut,72.7,-93.0,93.0,-97.0,103.0,107.0,-111.0,93.0,107.0,200.0
+AURA - Chpt Ligue - Anse - Grand Prix AURA Jeunes - Minime,2023-06-17,U20 Men 73,BENNEGENT Loïc,71.4,73.0,-78.0,-78.0,100.0,-104.0,-104.0,73.0,100.0,173.0
+AURA - Chpt Ligue - Anse - Grand Prix AURA Jeunes - Minime,2023-06-17,U20 Men 81,GODARD Tanguy,76.9,90.0,95.0,-100.0,112.0,116.0,-123.0,95.0,116.0,211.0
+AURA - Chpt Ligue - Anse - Grand Prix AURA Jeunes - Minime,2023-06-17,U20 Men 81,DA SILVA Romain,79.0,115.0,-120.0,-120.0,-143.0,-145.0,-145.0,115.0,0.0,0.0
+AURA - Chpt Ligue - Anse - Grand Prix AURA Jeunes - Minime,2023-06-17,U20 Men 89,HEAFALA Jonah,84.2,100.0,105.0,110.0,130.0,137.0,-144.0,110.0,137.0,247.0
+AURA - Chpt Ligue - Anse - Grand Prix AURA Jeunes - Minime,2023-06-17,U20 Men 89,SCHIARI Florian,82.8,90.0,95.0,-100.0,110.0,115.0,120.0,95.0,120.0,215.0
+AURA - Chpt Ligue - Anse - Grand Prix AURA Jeunes - Minime,2023-06-17,U15 Men 67,ISRAILOV Abubakar,66.4,90.0,-95.0,100.0,110.0,115.0,120.0,100.0,120.0,220.0
+AURA - Chpt Ligue - Anse - Grand Prix AURA Jeunes - Minime,2023-06-17,U17 Men 81,COTTE-GAUDIN Simon,76.6,95.0,102.0,-107.0,-115.0,115.0,123.0,102.0,123.0,225.0
+AURA - Chpt Ligue - Anse - Grand Prix AURA Jeunes - Minime,2023-06-17,U20 Men 61,RENARD Hugo,59.1,-68.0,68.0,-71.0,85.0,-92.0,-0.0,68.0,85.0,153.0
+AURA - Chpt Ligue - Anse - Grand Prix AURA Jeunes - Minime,2023-06-17,U20 Men 67,RENARD Benjamin,61.3,71.0,-76.0,78.0,92.0,97.0,102.0,78.0,102.0,180.0
+AURA - Chpt Ligue - Anse - Grand Prix AURA Jeunes - Minime,2023-06-17,U20 Men 73,DA SILVA Thibaut,72.7,-93.0,93.0,-97.0,103.0,107.0,-111.0,93.0,107.0,200.0
+AURA - Chpt Ligue - Anse - Grand Prix AURA Jeunes - Minime,2023-06-17,U20 Men 73,BENNEGENT Loïc,71.4,73.0,-78.0,-78.0,100.0,-104.0,-104.0,73.0,100.0,173.0
+AURA - Chpt Ligue - Anse - Grand Prix AURA Jeunes - Minime,2023-06-17,U20 Men 81,GODARD Tanguy,76.9,90.0,95.0,-100.0,112.0,116.0,-123.0,95.0,116.0,211.0
+AURA - Chpt Ligue - Anse - Grand Prix AURA Jeunes - Minime,2023-06-17,U20 Men 81,DA SILVA Romain,79.0,115.0,-120.0,-120.0,-143.0,-145.0,-145.0,115.0,0.0,0.0
+AURA - Chpt Ligue - Anse - Grand Prix AURA Jeunes - Minime,2023-06-17,U20 Men 89,HEAFALA Jonah,84.2,100.0,105.0,110.0,130.0,137.0,-144.0,110.0,137.0,247.0
+AURA - Chpt Ligue - Anse - Grand Prix AURA Jeunes - Minime,2023-06-17,U20 Men 89,SCHIARI Florian,82.8,90.0,95.0,-100.0,110.0,115.0,120.0,95.0,120.0,215.0

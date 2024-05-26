@@ -1,0 +1,62 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U13 Men 35,VILLADIER Cyprien,32.0,22.0,24.0,26.0,35.0,37.0,39.0,26.0,39.0,65.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U13 Men 35,BLONDEAU Mae,27.0,13.0,15.0,-17.0,15.0,17.0,-19.0,15.0,17.0,32.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U13 Men 35,ROY Corentin,34.0,10.0,12.0,-14.0,14.0,-16.0,16.0,12.0,16.0,28.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U13 Men 40,MOINGEON Theo,39.6,16.0,18.0,20.0,20.0,22.0,24.0,20.0,24.0,44.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U13 Men 40,PROMONET Nael,38.0,12.0,14.0,16.0,18.0,20.0,22.0,16.0,22.0,38.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U13 Men 40,TUAILLON Nathan,39.5,12.0,14.0,16.0,18.0,20.0,22.0,16.0,22.0,38.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U13 Men 40,FOLLOT Lenny,35.5,14.0,16.0,18.0,14.0,16.0,18.0,18.0,18.0,36.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U13 Men 40,VINCENT Yanis,36.0,-10.0,10.0,12.0,12.0,14.0,-16.0,12.0,14.0,26.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U13 Men 45,REGNIER Louis,41.1,22.0,24.0,26.0,30.0,32.0,34.0,26.0,34.0,60.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U13 Men 45,VAN HAENDEL Cesar,45.0,14.0,16.0,18.0,15.0,17.0,-19.0,18.0,17.0,35.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U13 Men 45,VOGEL Evan,42.0,12.0,14.0,16.0,14.0,16.0,18.0,16.0,18.0,34.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U13 Men 45,FOUREAU Loris,43.9,12.0,-14.0,14.0,14.0,16.0,18.0,14.0,18.0,32.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U13 Men 45,ROER Philie,44.2,10.0,12.0,14.0,14.0,16.0,18.0,14.0,18.0,32.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U13 Men 49,HERIT Julien,47.3,22.0,23.0,-25.0,26.0,28.0,30.0,23.0,30.0,53.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U13 Men 49,ROYER Wyatt,45.4,16.0,18.0,-20.0,-16.0,16.0,18.0,18.0,18.0,36.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U13 Men 55,CELESTIN Melvin,49.3,21.0,23.0,-25.0,-32.0,32.0,34.0,23.0,34.0,57.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U13 Men 61,PILLOT Antoine,56.0,20.0,22.0,-24.0,26.0,28.0,30.0,22.0,30.0,52.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U13 Women 45,ELHABRI Farah,41.1,12.0,14.0,16.0,16.0,18.0,20.0,16.0,20.0,36.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U13 Women 45,DELAPLACE Romane,44.2,-12.0,12.0,-14.0,16.0,18.0,-20.0,12.0,18.0,30.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U13 Women 49,LAMALLE Angeline,45.5,25.0,27.0,29.0,35.0,37.0,39.0,29.0,39.0,68.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U13 Women 55,NICOLAS Julie,53.9,25.0,27.0,29.0,23.0,25.0,27.0,29.0,27.0,56.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U13 Women 55,DESCHAMPS Aurore,52.2,12.0,14.0,16.0,14.0,16.0,18.0,16.0,18.0,34.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U13 Women 55,DELMAS Lauriane,53.1,10.0,-12.0,12.0,14.0,-16.0,16.0,12.0,16.0,28.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U13 Women 59,GAUTHIER Marylou,56.8,16.0,18.0,20.0,-18.0,18.0,20.0,20.0,20.0,40.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U13 Women 71,ROULLOT Marielle,70.2,-14.0,14.0,-16.0,16.0,18.0,-20.0,14.0,18.0,32.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U17 Women 59,LIENGA Gaelle,56.6,23.0,-25.0,-25.0,25.0,27.0,29.0,23.0,29.0,52.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U17 Women 59,LIENGA Gaelle,56.6,23.0,-25.0,-25.0,25.0,27.0,29.0,23.0,29.0,52.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U17 Men 61,PORCHER Clément,55.1,25.0,28.0,30.0,35.0,-38.0,38.0,30.0,38.0,68.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U17 Men 67,NOULIN Gaëtan,64.8,30.0,33.0,-35.0,43.0,45.0,-48.0,33.0,45.0,78.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U20 Men 55,CHAMPIGNY Enzo,53.4,30.0,33.0,35.0,43.0,45.0,48.0,35.0,48.0,83.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U17 Men 61,PORCHER Clément,55.1,25.0,28.0,30.0,35.0,-38.0,38.0,30.0,38.0,68.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U17 Men 67,NOULIN Gaëtan,64.8,30.0,33.0,-35.0,43.0,45.0,-48.0,33.0,45.0,78.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U20 Men 55,CHAMPIGNY Enzo,53.4,30.0,33.0,35.0,43.0,45.0,48.0,35.0,48.0,83.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U15 Women 40,BRESSON Rose,36.3,11.0,13.0,15.0,18.0,20.0,22.0,15.0,22.0,37.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U15 Women 49,GERARD Clara,48.2,15.0,-17.0,17.0,20.0,22.0,24.0,17.0,24.0,41.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U15 Women 55,GAGNARD Lana,55.0,26.0,28.0,30.0,40.0,42.0,44.0,30.0,44.0,74.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U15 Women 55,TALLEC Lucie,50.4,20.0,22.0,24.0,26.0,28.0,30.0,24.0,30.0,54.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U15 Women 59,VERGE Marine,58.2,22.0,24.0,-26.0,30.0,32.0,-34.0,24.0,32.0,56.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U15 Women >81,BIRONDA-AVRIL Cassandra,88.6,22.0,24.0,26.0,31.0,33.0,35.0,26.0,35.0,61.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U15 Women 40,BRESSON Rose,36.3,11.0,13.0,15.0,18.0,20.0,22.0,15.0,22.0,37.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U15 Women 49,GERARD Clara,48.2,15.0,-17.0,17.0,20.0,22.0,24.0,17.0,24.0,41.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U15 Women 55,GAGNARD Lana,55.0,26.0,28.0,30.0,40.0,42.0,44.0,30.0,44.0,74.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U15 Women 55,TALLEC Lucie,50.4,20.0,22.0,24.0,26.0,28.0,30.0,24.0,30.0,54.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U15 Women 59,VERGE Marine,58.2,22.0,24.0,-26.0,30.0,32.0,-34.0,24.0,32.0,56.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U15 Women >81,BIRONDA-AVRIL Cassandra,88.6,22.0,24.0,26.0,31.0,33.0,35.0,26.0,35.0,61.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U15 Men 49,HERIT Thomas,43.0,18.0,20.0,22.0,20.0,-22.0,22.0,22.0,22.0,44.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U15 Men 55,LA FONTAINE Hugo,51.7,-33.0,33.0,35.0,-51.0,51.0,53.0,35.0,53.0,88.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U15 Men 55,BOUSSARD Kilian,50.6,-32.0,32.0,34.0,40.0,42.0,44.0,34.0,44.0,78.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U15 Men 55,LIBERT Quentin,49.8,30.0,32.0,34.0,38.0,40.0,42.0,34.0,42.0,76.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U15 Men 55,QUIGNARD Elioth,49.8,24.0,26.0,28.0,30.0,32.0,-34.0,28.0,32.0,60.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U15 Men 73,TRINQUETEL Mattenzo,72.2,50.0,52.0,-54.0,70.0,72.0,74.0,52.0,74.0,126.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U15 Men 96,BILLET Joris,91.3,48.0,50.0,-52.0,70.0,72.0,74.0,50.0,74.0,124.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U17 Men 55,DE OLIVIERA ABREV Cristiano,53.4,30.0,-32.0,32.0,44.0,46.0,48.0,32.0,48.0,80.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U15 Men 49,HERIT Thomas,43.0,18.0,20.0,22.0,20.0,-22.0,22.0,22.0,22.0,44.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U15 Men 55,LA FONTAINE Hugo,51.7,-33.0,33.0,35.0,-51.0,51.0,53.0,35.0,53.0,88.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U15 Men 55,BOUSSARD Kilian,50.6,-32.0,32.0,34.0,40.0,42.0,44.0,34.0,44.0,78.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U15 Men 55,LIBERT Quentin,49.8,30.0,32.0,34.0,38.0,40.0,42.0,34.0,42.0,76.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U15 Men 55,QUIGNARD Elioth,49.8,24.0,26.0,28.0,30.0,32.0,-34.0,28.0,32.0,60.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U15 Men 73,TRINQUETEL Mattenzo,72.2,50.0,52.0,-54.0,70.0,72.0,74.0,52.0,74.0,126.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U15 Men 96,BILLET Joris,91.3,48.0,50.0,-52.0,70.0,72.0,74.0,50.0,74.0,124.0
+BFC - Challenge Avenir - Epinac - Collège Hubert-Reeves,2024-04-10,U17 Men 55,DE OLIVIERA ABREV Cristiano,53.4,30.0,-32.0,32.0,44.0,46.0,48.0,32.0,48.0,80.0

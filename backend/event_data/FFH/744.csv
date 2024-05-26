@@ -1,0 +1,149 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+GE - Critérium National - (Obernai),2021-12-18,U17 Women 59,WOLFF Adeline,55.5,43.0,46.0,-48.0,-64.0,64.0,-67.0,46.0,64.0,110.0
+GE - Critérium National - (Obernai),2021-12-18,U17 Women 59,KIENTZI Léanne,57.4,39.0,-42.0,-42.0,47.0,50.0,53.0,39.0,53.0,92.0
+GE - Critérium National - (Obernai),2021-12-18,U20 Women 45,DUL Camille,44.6,42.0,45.0,-47.0,60.0,64.0,-66.0,45.0,64.0,109.0
+GE - Critérium National - (Obernai),2021-12-18,U20 Women 55,TOUSSAINT Margot,54.9,43.0,46.0,-48.0,60.0,63.0,-65.0,46.0,63.0,109.0
+GE - Critérium National - (Obernai),2021-12-18,U20 Women 59,CORBETHAU Eva,57.3,44.0,47.0,-49.0,60.0,-63.0,64.0,47.0,64.0,111.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Women 49,CHRISTOPHEL Marie,47.9,52.0,-55.0,55.0,70.0,73.0,75.0,55.0,75.0,130.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Women 55,HERTRICH Marielle,54.4,63.0,66.0,68.0,78.0,82.0,-85.0,68.0,82.0,150.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Women 55,IBANEZ Cindy,55.0,43.0,-45.0,45.0,-56.0,56.0,60.0,45.0,60.0,105.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Women 55,MELELLI Sarah,54.5,41.0,-44.0,44.0,-58.0,58.0,-61.0,44.0,58.0,102.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Women 59,WIETRICH Marion,58.1,42.0,46.0,-48.0,61.0,64.0,-67.0,46.0,64.0,110.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Women 71,MORITZ Cindy,67.8,62.0,65.0,67.0,77.0,80.0,82.0,67.0,82.0,149.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Women 76,PETIT Cyrielle,74.0,71.0,75.0,-0.0,91.0,95.0,-0.0,75.0,95.0,170.0
+GE - Critérium National - (Obernai),2021-12-18,U20 Men 61,SCHMITT Jules,59.7,65.0,68.0,-71.0,82.0,86.0,-90.0,68.0,86.0,154.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Men 61,POTENZA David,60.0,92.0,-95.0,-100.0,113.0,-117.0,-118.0,92.0,113.0,205.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Men 73,D'ANNA Steven,71.4,90.0,95.0,-100.0,120.0,125.0,-130.0,95.0,125.0,220.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Men 81,GEREDA LIZCANO Angel jesus,73.8,-93.0,93.0,100.0,118.0,125.0,-130.0,100.0,125.0,225.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Men 89,SPIELMANN Arthur,88.7,-110.0,-110.0,110.0,140.0,145.0,-150.0,110.0,145.0,255.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Men 89,AL MAZLOUM Bachar,87.2,95.0,100.0,-110.0,125.0,-130.0,-130.0,100.0,125.0,225.0
+GE - Critérium National - (Obernai),2021-12-18,U20 Men 61,SCHMITT Jules,59.7,65.0,68.0,-71.0,82.0,86.0,-90.0,68.0,86.0,154.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Men 61,POTENZA David,60.0,92.0,-95.0,-100.0,113.0,-117.0,-118.0,92.0,113.0,205.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Men 73,D'ANNA Steven,71.4,90.0,95.0,-100.0,120.0,125.0,-130.0,95.0,125.0,220.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Men 81,GEREDA LIZCANO Angel jesus,73.8,-93.0,93.0,100.0,118.0,125.0,-130.0,100.0,125.0,225.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Men 89,SPIELMANN Arthur,88.7,-110.0,-110.0,110.0,140.0,145.0,-150.0,110.0,145.0,255.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Men 89,AL MAZLOUM Bachar,87.2,95.0,100.0,-110.0,125.0,-130.0,-130.0,100.0,125.0,225.0
+GE - Critérium National - (Obernai),2021-12-18,U17 Men 61,L'ESPRIT Gabin,59.77,71.0,-75.0,-78.0,86.0,92.0,-99.0,71.0,92.0,163.0
+GE - Critérium National - (Obernai),2021-12-18,U20 Men 61,CONILL Axel,59.22,-70.0,-70.0,73.0,91.0,-97.0,97.0,73.0,97.0,170.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Men 73,BOUCHERES Simon,71.9,105.0,-110.0,-110.0,135.0,-140.0,-140.0,105.0,135.0,240.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Men 89,BOULINGUEZ Maxime,88.13,-118.0,-118.0,-118.0,140.0,-145.0,-150.0,0.0,140.0,0.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Men 96,MALBEC Guillaume,94.77,-117.0,-118.0,-118.0,-140.0,-145.0,-150.0,0.0,0.0,0.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Men 102,BERTRAND Mathieu,96.65,115.0,120.0,123.0,135.0,140.0,-147.0,123.0,140.0,263.0
+GE - Critérium National - (Obernai),2021-12-18,U17 Men 61,L'ESPRIT Gabin,59.77,71.0,-75.0,-78.0,86.0,92.0,-99.0,71.0,92.0,163.0
+GE - Critérium National - (Obernai),2021-12-18,U20 Men 61,CONILL Axel,59.22,-70.0,-70.0,73.0,91.0,-97.0,97.0,73.0,97.0,170.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Men 73,BOUCHERES Simon,71.9,105.0,-110.0,-110.0,135.0,-140.0,-140.0,105.0,135.0,240.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Men 89,BOULINGUEZ Maxime,88.13,-118.0,-118.0,-118.0,140.0,-145.0,-150.0,0.0,140.0,0.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Men 96,MALBEC Guillaume,94.77,-117.0,-118.0,-118.0,-140.0,-145.0,-150.0,0.0,0.0,0.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Men 102,BERTRAND Mathieu,96.65,115.0,120.0,123.0,135.0,140.0,-147.0,123.0,140.0,263.0
+GE - Critérium National - (Obernai),2021-12-18,U17 Women 55,LORET Leïlou,52.7,42.0,45.0,47.0,52.0,55.0,58.0,47.0,58.0,105.0
+GE - Critérium National - (Obernai),2021-12-18,U17 Women 76,CIANCIO Lisea,73.0,-57.0,58.0,60.0,65.0,68.0,70.0,60.0,70.0,130.0
+GE - Critérium National - (Obernai),2021-12-18,U20 Women 59,KUGELMANN Flavie,57.0,57.0,-59.0,60.0,65.0,68.0,-70.0,60.0,68.0,128.0
+GE - Critérium National - (Obernai),2021-12-18,U20 Women 59,DE SAMPAIO Nina,59.0,45.0,48.0,50.0,55.0,-60.0,-60.0,50.0,55.0,105.0
+GE - Critérium National - (Obernai),2021-12-18,U20 Women 64,PINARD Agathe,62.3,-56.0,57.0,61.0,70.0,74.0,77.0,61.0,77.0,138.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Women 59,RECURT Justine,56.1,57.0,60.0,62.0,65.0,68.0,72.0,62.0,72.0,134.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Women 64,NACHIN Lisa,62.1,51.0,54.0,57.0,64.0,68.0,-72.0,57.0,68.0,125.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Women 71,MARCOUX Isaure,69.9,57.0,-60.0,-60.0,63.0,-67.0,68.0,57.0,68.0,125.0
+GE - Critérium National - (Obernai),2021-12-18,U17 Women 55,LORET Leïlou,52.7,42.0,45.0,47.0,52.0,55.0,58.0,47.0,58.0,105.0
+GE - Critérium National - (Obernai),2021-12-18,U17 Women 76,CIANCIO Lisea,73.0,-57.0,58.0,60.0,65.0,68.0,70.0,60.0,70.0,130.0
+GE - Critérium National - (Obernai),2021-12-18,U20 Women 59,KUGELMANN Flavie,57.0,57.0,-59.0,60.0,65.0,68.0,-70.0,60.0,68.0,128.0
+GE - Critérium National - (Obernai),2021-12-18,U20 Women 59,DE SAMPAIO Nina,59.0,45.0,48.0,50.0,55.0,-60.0,-60.0,50.0,55.0,105.0
+GE - Critérium National - (Obernai),2021-12-18,U20 Women 64,PINARD Agathe,62.3,-56.0,57.0,61.0,70.0,74.0,77.0,61.0,77.0,138.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Women 59,RECURT Justine,56.1,57.0,60.0,62.0,65.0,68.0,72.0,62.0,72.0,134.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Women 64,NACHIN Lisa,62.1,51.0,54.0,57.0,64.0,68.0,-72.0,57.0,68.0,125.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Women 71,MARCOUX Isaure,69.9,57.0,-60.0,-60.0,63.0,-67.0,68.0,57.0,68.0,125.0
+GE - Critérium National - (Obernai),2021-12-18,U15 Men 49,BEAURAIN Noah,46.78,40.0,-43.0,-43.0,52.0,-55.0,-55.0,40.0,52.0,92.0
+GE - Critérium National - (Obernai),2021-12-18,U20 Men 61,LE GUEN Juninho,59.03,70.0,75.0,-80.0,95.0,100.0,104.0,75.0,104.0,179.0
+GE - Critérium National - (Obernai),2021-12-18,U20 Men 67,GEORGE Kilyan,66.34,88.0,92.0,-95.0,-112.0,112.0,-0.0,92.0,112.0,204.0
+GE - Critérium National - (Obernai),2021-12-18,U20 Men 73,LECLERC Lucas,68.25,95.0,100.0,-103.0,115.0,130.0,132.0,100.0,132.0,232.0
+GE - Critérium National - (Obernai),2021-12-18,U20 Men 81,OLIVEIRA Gauthier,80.1,-95.0,-95.0,-95.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+GE - Critérium National - (Obernai),2021-12-18,U20 Men 89,LEGRAND Maxime,88.37,105.0,110.0,114.0,136.0,141.0,-0.0,114.0,141.0,255.0
+GE - Critérium National - (Obernai),2021-12-18,U20 Men 89,NEMERY Lylian,86.61,-95.0,95.0,100.0,125.0,-130.0,-130.0,100.0,125.0,225.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Men 67,JEROME Alexis,65.0,95.0,-100.0,-100.0,110.0,-120.0,-0.0,95.0,110.0,205.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Men 67,MONVOISIN Lucas,62.63,70.0,-74.0,75.0,95.0,-100.0,-100.0,75.0,95.0,170.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Men 81,D'AGUANNO Florian,80.15,-105.0,105.0,-110.0,-133.0,135.0,137.0,105.0,137.0,242.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Men 81,TALAOURAR Yanis,76.8,112.0,-116.0,117.0,-142.0,-142.0,-142.0,117.0,0.0,0.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Men 96,LACORNE Mathieu,91.54,98.0,102.0,-105.0,127.0,132.0,137.0,102.0,137.0,239.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Men 96,COMMONT Benoit,91.37,95.0,100.0,104.0,126.0,131.0,134.0,104.0,134.0,238.0
+GE - Critérium National - (Obernai),2021-12-18,U15 Men 49,BEAURAIN Noah,46.78,40.0,-43.0,-43.0,52.0,-55.0,-55.0,40.0,52.0,92.0
+GE - Critérium National - (Obernai),2021-12-18,U20 Men 61,LE GUEN Juninho,59.03,70.0,75.0,-80.0,95.0,100.0,104.0,75.0,104.0,179.0
+GE - Critérium National - (Obernai),2021-12-18,U20 Men 67,GEORGE Kilyan,66.34,88.0,92.0,-95.0,-112.0,112.0,-0.0,92.0,112.0,204.0
+GE - Critérium National - (Obernai),2021-12-18,U20 Men 73,LECLERC Lucas,68.25,95.0,100.0,-103.0,115.0,130.0,132.0,100.0,132.0,232.0
+GE - Critérium National - (Obernai),2021-12-18,U20 Men 81,OLIVEIRA Gauthier,80.1,-95.0,-95.0,-95.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+GE - Critérium National - (Obernai),2021-12-18,U20 Men 89,LEGRAND Maxime,88.37,105.0,110.0,114.0,136.0,141.0,-0.0,114.0,141.0,255.0
+GE - Critérium National - (Obernai),2021-12-18,U20 Men 89,NEMERY Lylian,86.61,-95.0,95.0,100.0,125.0,-130.0,-130.0,100.0,125.0,225.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Men 67,JEROME Alexis,65.0,95.0,-100.0,-100.0,110.0,-120.0,-0.0,95.0,110.0,205.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Men 67,MONVOISIN Lucas,62.63,70.0,-74.0,75.0,95.0,-100.0,-100.0,75.0,95.0,170.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Men 81,D'AGUANNO Florian,80.15,-105.0,105.0,-110.0,-133.0,135.0,137.0,105.0,137.0,242.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Men 81,TALAOURAR Yanis,76.8,112.0,-116.0,117.0,-142.0,-142.0,-142.0,117.0,0.0,0.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Men 96,LACORNE Mathieu,91.54,98.0,102.0,-105.0,127.0,132.0,137.0,102.0,137.0,239.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Men 96,COMMONT Benoit,91.37,95.0,100.0,104.0,126.0,131.0,134.0,104.0,134.0,238.0
+GE - Critérium National - (Obernai),2021-12-18,U15 Women 49,PIVAIN Cloe,46.7,32.0,34.0,36.0,42.0,45.0,-49.0,36.0,45.0,81.0
+GE - Critérium National - (Obernai),2021-12-18,U15 Women 49,BEAUGEOIST Romane,46.04,32.0,-35.0,-35.0,37.0,40.0,43.0,32.0,43.0,75.0
+GE - Critérium National - (Obernai),2021-12-18,U15 Women 49,BELDAME Salomé,48.55,28.0,31.0,34.0,38.0,-0.0,-0.0,34.0,38.0,72.0
+GE - Critérium National - (Obernai),2021-12-18,U15 Women 49,ROUSSEAU Nathanaelle,47.56,22.0,25.0,28.0,32.0,36.0,39.0,28.0,39.0,67.0
+GE - Critérium National - (Obernai),2021-12-18,U15 Women 55,LESAGE Mylene,53.91,36.0,39.0,-41.0,45.0,48.0,51.0,39.0,51.0,90.0
+GE - Critérium National - (Obernai),2021-12-18,U15 Women 59,ALONSO Maelys,58.59,40.0,42.0,44.0,50.0,53.0,-56.0,44.0,53.0,97.0
+GE - Critérium National - (Obernai),2021-12-18,U17 Women 49,PHAM Lee na,48.74,36.0,-38.0,38.0,45.0,48.0,-50.0,38.0,48.0,86.0
+GE - Critérium National - (Obernai),2021-12-18,U17 Women 55,LECLERC Jade,54.74,48.0,51.0,54.0,63.0,67.0,-70.0,54.0,67.0,121.0
+GE - Critérium National - (Obernai),2021-12-18,U17 Women 55,BERTRAND Jeanne,53.71,37.0,40.0,-42.0,48.0,-52.0,-52.0,40.0,48.0,88.0
+GE - Critérium National - (Obernai),2021-12-18,U17 Women 59,LECLERC Lilou,58.54,40.0,44.0,47.0,57.0,60.0,-63.0,47.0,60.0,107.0
+GE - Critérium National - (Obernai),2021-12-18,U17 Women 59,GAILLET Jade,57.55,-39.0,39.0,41.0,54.0,56.0,-60.0,41.0,56.0,97.0
+GE - Critérium National - (Obernai),2021-12-18,U17 Women 59,WITASSE Valentine,58.2,42.0,45.0,-47.0,-52.0,-52.0,-52.0,45.0,0.0,0.0
+GE - Critérium National - (Obernai),2021-12-18,U15 Women 49,PIVAIN Cloe,46.7,32.0,34.0,36.0,42.0,45.0,-49.0,36.0,45.0,81.0
+GE - Critérium National - (Obernai),2021-12-18,U15 Women 49,BEAUGEOIST Romane,46.04,32.0,-35.0,-35.0,37.0,40.0,43.0,32.0,43.0,75.0
+GE - Critérium National - (Obernai),2021-12-18,U15 Women 49,BELDAME Salomé,48.55,28.0,31.0,34.0,38.0,-0.0,-0.0,34.0,38.0,72.0
+GE - Critérium National - (Obernai),2021-12-18,U15 Women 49,ROUSSEAU Nathanaelle,47.56,22.0,25.0,28.0,32.0,36.0,39.0,28.0,39.0,67.0
+GE - Critérium National - (Obernai),2021-12-18,U15 Women 55,LESAGE Mylene,53.91,36.0,39.0,-41.0,45.0,48.0,51.0,39.0,51.0,90.0
+GE - Critérium National - (Obernai),2021-12-18,U15 Women 59,ALONSO Maelys,58.59,40.0,42.0,44.0,50.0,53.0,-56.0,44.0,53.0,97.0
+GE - Critérium National - (Obernai),2021-12-18,U17 Women 49,PHAM Lee na,48.74,36.0,-38.0,38.0,45.0,48.0,-50.0,38.0,48.0,86.0
+GE - Critérium National - (Obernai),2021-12-18,U17 Women 55,LECLERC Jade,54.74,48.0,51.0,54.0,63.0,67.0,-70.0,54.0,67.0,121.0
+GE - Critérium National - (Obernai),2021-12-18,U17 Women 55,BERTRAND Jeanne,53.71,37.0,40.0,-42.0,48.0,-52.0,-52.0,40.0,48.0,88.0
+GE - Critérium National - (Obernai),2021-12-18,U17 Women 59,LECLERC Lilou,58.54,40.0,44.0,47.0,57.0,60.0,-63.0,47.0,60.0,107.0
+GE - Critérium National - (Obernai),2021-12-18,U17 Women 59,GAILLET Jade,57.55,-39.0,39.0,41.0,54.0,56.0,-60.0,41.0,56.0,97.0
+GE - Critérium National - (Obernai),2021-12-18,U17 Women 59,WITASSE Valentine,58.2,42.0,45.0,-47.0,-52.0,-52.0,-52.0,45.0,0.0,0.0
+GE - Critérium National - (Obernai),2021-12-18,U20 Women 45,THIERRY Charlotte,44.19,46.0,50.0,-0.0,55.0,60.0,-65.0,50.0,60.0,110.0
+GE - Critérium National - (Obernai),2021-12-18,U20 Women 71,VAN OVERBEKE Axelle,69.78,70.0,-73.0,75.0,80.0,84.0,87.0,75.0,87.0,162.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Women 49,SITTER Cécile,48.98,48.0,51.0,-53.0,60.0,-63.0,-64.0,51.0,60.0,111.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Women 55,GIRAUD Alice,53.82,50.0,-53.0,53.0,-70.0,-70.0,-70.0,53.0,0.0,0.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Women 59,CAÏEZ Marie,58.17,50.0,52.0,55.0,75.0,80.0,-84.0,55.0,80.0,135.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Women 59,SEIGNEUR Manon,56.36,54.0,57.0,-60.0,69.0,73.0,-76.0,57.0,73.0,130.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Women 64,HENIN Manon,60.13,48.0,50.0,-52.0,60.0,63.0,65.0,50.0,65.0,115.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Women 64,PATAILLE Mathilde,62.88,40.0,45.0,48.0,62.0,67.0,-72.0,48.0,67.0,115.0
+GE - Critérium National - (Obernai),2021-12-18,U20 Women 45,THIERRY Charlotte,44.19,46.0,50.0,-0.0,55.0,60.0,-65.0,50.0,60.0,110.0
+GE - Critérium National - (Obernai),2021-12-18,U20 Women 71,VAN OVERBEKE Axelle,69.78,70.0,-73.0,75.0,80.0,84.0,87.0,75.0,87.0,162.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Women 49,SITTER Cécile,48.98,48.0,51.0,-53.0,60.0,-63.0,-64.0,51.0,60.0,111.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Women 55,GIRAUD Alice,53.82,50.0,-53.0,53.0,-70.0,-70.0,-70.0,53.0,0.0,0.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Women 59,CAÏEZ Marie,58.17,50.0,52.0,55.0,75.0,80.0,-84.0,55.0,80.0,135.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Women 59,SEIGNEUR Manon,56.36,54.0,57.0,-60.0,69.0,73.0,-76.0,57.0,73.0,130.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Women 64,HENIN Manon,60.13,48.0,50.0,-52.0,60.0,63.0,65.0,50.0,65.0,115.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Women 64,PATAILLE Mathilde,62.88,40.0,45.0,48.0,62.0,67.0,-72.0,48.0,67.0,115.0
+GE - Critérium National - (Obernai),2021-12-18,U15 Women 55,TISSERAND Maëlys,51.4,30.0,-33.0,33.0,40.0,43.0,-45.0,33.0,43.0,76.0
+GE - Critérium National - (Obernai),2021-12-18,U15 Women 59,BOYER Kristina,59.0,45.0,-50.0,50.0,57.0,61.0,-65.0,50.0,61.0,111.0
+GE - Critérium National - (Obernai),2021-12-18,U17 Women 59,CHAUMEIL Marie,58.3,50.0,53.0,55.0,60.0,-65.0,65.0,55.0,65.0,120.0
+GE - Critérium National - (Obernai),2021-12-18,U20 Women 55,DE BARROS Clara,54.9,50.0,55.0,58.0,65.0,-70.0,70.0,58.0,70.0,128.0
+GE - Critérium National - (Obernai),2021-12-18,U20 Women 76,DALIA Carla,71.3,47.0,-52.0,52.0,62.0,67.0,70.0,52.0,70.0,122.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Women 49,FAGOT Alice,48.2,49.0,52.0,-54.0,65.0,-68.0,-70.0,52.0,65.0,117.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Women 55,BERNARD Manon,54.0,62.0,-64.0,64.0,74.0,77.0,80.0,64.0,80.0,144.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Women 55,VATRY Aurore,51.5,50.0,53.0,-55.0,60.0,65.0,-68.0,53.0,65.0,118.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Women 59,CAMACHO Marine,56.7,50.0,-55.0,55.0,65.0,70.0,-75.0,55.0,70.0,125.0
+GE - Critérium National - (Obernai),2021-12-18,U15 Women 55,TISSERAND Maëlys,51.4,30.0,-33.0,33.0,40.0,43.0,-45.0,33.0,43.0,76.0
+GE - Critérium National - (Obernai),2021-12-18,U15 Women 59,BOYER Kristina,59.0,45.0,-50.0,50.0,57.0,61.0,-65.0,50.0,61.0,111.0
+GE - Critérium National - (Obernai),2021-12-18,U17 Women 59,CHAUMEIL Marie,58.3,50.0,53.0,55.0,60.0,-65.0,65.0,55.0,65.0,120.0
+GE - Critérium National - (Obernai),2021-12-18,U20 Women 55,DE BARROS Clara,54.9,50.0,55.0,58.0,65.0,-70.0,70.0,58.0,70.0,128.0
+GE - Critérium National - (Obernai),2021-12-18,U20 Women 76,DALIA Carla,71.3,47.0,-52.0,52.0,62.0,67.0,70.0,52.0,70.0,122.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Women 49,FAGOT Alice,48.2,49.0,52.0,-54.0,65.0,-68.0,-70.0,52.0,65.0,117.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Women 55,BERNARD Manon,54.0,62.0,-64.0,64.0,74.0,77.0,80.0,64.0,80.0,144.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Women 55,VATRY Aurore,51.5,50.0,53.0,-55.0,60.0,65.0,-68.0,53.0,65.0,118.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Women 59,CAMACHO Marine,56.7,50.0,-55.0,55.0,65.0,70.0,-75.0,55.0,70.0,125.0
+GE - Critérium National - (Obernai),2021-12-18,U17 Men 55,BAILLIEUX Cyril,50.8,58.0,61.0,63.0,74.0,78.0,82.0,63.0,82.0,145.0
+GE - Critérium National - (Obernai),2021-12-18,U20 Men 73,DE BARROS Fabio,71.4,95.0,100.0,105.0,115.0,120.0,-125.0,105.0,120.0,225.0
+GE - Critérium National - (Obernai),2021-12-18,U20 Men 81,MARIN Clément,78.4,100.0,105.0,-110.0,115.0,-123.0,-123.0,105.0,115.0,220.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Men 67,CLAUX Anthony,66.2,107.0,110.0,-113.0,125.0,-130.0,-130.0,110.0,125.0,235.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Men 81,LAUGIER Jonathan,80.8,-100.0,100.0,-110.0,120.0,125.0,-133.0,100.0,125.0,225.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Men 109,HUGUENIN Matthieu,103.8,112.0,117.0,122.0,135.0,140.0,-145.0,122.0,140.0,262.0
+GE - Critérium National - (Obernai),2021-12-18,U17 Men 55,BAILLIEUX Cyril,50.8,58.0,61.0,63.0,74.0,78.0,82.0,63.0,82.0,145.0
+GE - Critérium National - (Obernai),2021-12-18,U20 Men 73,DE BARROS Fabio,71.4,95.0,100.0,105.0,115.0,120.0,-125.0,105.0,120.0,225.0
+GE - Critérium National - (Obernai),2021-12-18,U20 Men 81,MARIN Clément,78.4,100.0,105.0,-110.0,115.0,-123.0,-123.0,105.0,115.0,220.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Men 67,CLAUX Anthony,66.2,107.0,110.0,-113.0,125.0,-130.0,-130.0,110.0,125.0,235.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Men 81,LAUGIER Jonathan,80.8,-100.0,100.0,-110.0,120.0,125.0,-133.0,100.0,125.0,225.0
+GE - Critérium National - (Obernai),2021-12-18,SEN Men 109,HUGUENIN Matthieu,103.8,112.0,117.0,122.0,135.0,140.0,-145.0,122.0,140.0,262.0

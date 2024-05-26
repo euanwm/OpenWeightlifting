@@ -1,0 +1,45 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,U15 Women 55,DOUYERE Solene,53.0,35.0,38.0,40.0,45.0,48.0,50.0,40.0,50.0,90.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,U17 Women 55,"ZITTE Annaëlle, gwendoline",51.4,22.0,-25.0,25.0,30.0,33.0,35.0,25.0,35.0,60.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,U17 Women 55,PERROT Marie-laurine,52.2,20.0,22.0,-23.0,25.0,28.0,30.0,22.0,30.0,52.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,U17 Women 59,EDMOND Jade,59.0,30.0,33.0,35.0,37.0,40.0,-42.0,35.0,40.0,75.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,U20 Women 71,VERNY Capucine,67.7,37.0,42.0,-45.0,45.0,50.0,55.0,42.0,55.0,97.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Women 59,TIN-SANG Maurane,59.0,32.0,-36.0,36.0,50.0,-54.0,-54.0,36.0,50.0,86.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Women 59,AMIOT Anaïs,56.23,30.0,33.0,-35.0,37.0,42.0,45.0,33.0,45.0,78.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Women 64,MOREL Ericka,62.0,50.0,52.0,54.0,65.0,68.0,-70.0,54.0,68.0,122.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Women 64,PAUSE Patricia,63.1,42.0,44.0,46.0,60.0,63.0,-66.0,46.0,63.0,109.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Women 71,PERRIERE Lou-ann,69.12,47.0,-50.0,50.0,60.0,62.0,-65.0,50.0,62.0,112.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Women 71,GRONDIN Charlotte,66.45,-37.0,37.0,-42.0,-43.0,45.0,-48.0,37.0,45.0,82.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Women >87,ST MART Jessica sandra,89.1,17.0,20.0,23.0,25.0,30.0,32.0,23.0,32.0,55.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 67,FONTAINE Didier,64.42,-35.0,35.0,40.0,-47.0,47.0,55.0,40.0,55.0,95.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 81,NABUCHODONOSOR Stéphane,76.8,75.0,80.0,-85.0,105.0,110.0,115.0,80.0,115.0,195.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 81,HAUSS Manoa,77.1,75.0,-80.0,-80.0,100.0,105.0,-110.0,75.0,105.0,180.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 81,TEILLAUCHET Jacky,75.25,55.0,58.0,-61.0,-70.0,70.0,72.0,58.0,72.0,130.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 89,PAUSE Cédric,87.5,71.0,74.0,78.0,100.0,105.0,107.0,78.0,107.0,185.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 89,SACRIAS Stéphane,84.33,74.0,77.0,-80.0,90.0,95.0,100.0,77.0,100.0,177.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 96,ST MART Giovanni jean marie,93.0,60.0,70.0,75.0,90.0,100.0,110.0,75.0,110.0,185.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 96,DECROP Adrien,89.25,71.0,75.0,77.0,95.0,-100.0,100.0,77.0,100.0,177.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 96,GROÉNÉ Alexandre,91.0,57.0,59.0,61.0,67.0,71.0,73.0,61.0,73.0,134.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 109,LAPIERRE Matthieu,103.5,70.0,73.0,-76.0,-92.0,92.0,96.0,73.0,96.0,169.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 67,FONTAINE Didier,64.42,-35.0,35.0,40.0,-47.0,47.0,55.0,40.0,55.0,95.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 81,NABUCHODONOSOR Stéphane,76.8,75.0,80.0,-85.0,105.0,110.0,115.0,80.0,115.0,195.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 81,HAUSS Manoa,77.1,75.0,-80.0,-80.0,100.0,105.0,-110.0,75.0,105.0,180.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 81,TEILLAUCHET Jacky,75.25,55.0,58.0,-61.0,-70.0,70.0,72.0,58.0,72.0,130.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 89,PAUSE Cédric,87.5,71.0,74.0,78.0,100.0,105.0,107.0,78.0,107.0,185.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 89,SACRIAS Stéphane,84.33,74.0,77.0,-80.0,90.0,95.0,100.0,77.0,100.0,177.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 96,ST MART Giovanni jean marie,93.0,60.0,70.0,75.0,90.0,100.0,110.0,75.0,110.0,185.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 96,DECROP Adrien,89.25,71.0,75.0,77.0,95.0,-100.0,100.0,77.0,100.0,177.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 96,GROÉNÉ Alexandre,91.0,57.0,59.0,61.0,67.0,71.0,73.0,61.0,73.0,134.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 109,LAPIERRE Matthieu,103.5,70.0,73.0,-76.0,-92.0,92.0,96.0,73.0,96.0,169.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,U10 Men ,ST MART Lyam,46.75,5.0,7.0,8.0,6.0,8.0,10.0,8.0,10.0,18.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,U13 Men 35,VEFOUR Noah,29.56,26.0,28.0,30.0,34.0,36.0,38.0,30.0,38.0,68.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,U13 Men 61,AUZATE Ismaël,57.8,40.0,-42.0,42.0,50.0,52.0,54.0,42.0,54.0,96.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,U13 Women 40,ADOLPHE Alya maïwenn,39.75,16.0,18.0,-20.0,18.0,20.0,22.0,18.0,22.0,40.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,U13 Women 49,RICHARD Maelys,47.0,36.0,38.0,40.0,46.0,48.0,50.0,40.0,50.0,90.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,U13 Women 55,ST MART Kia,54.13,30.0,32.0,34.0,38.0,40.0,42.0,34.0,42.0,76.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,U10 Men ,ST MART Lyam,46.75,5.0,7.0,8.0,6.0,8.0,10.0,8.0,10.0,18.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,U13 Men 35,VEFOUR Noah,29.56,26.0,28.0,30.0,34.0,36.0,38.0,30.0,38.0,68.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,U13 Men 61,AUZATE Ismaël,57.8,40.0,-42.0,42.0,50.0,52.0,54.0,42.0,54.0,96.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,U13 Women 40,ADOLPHE Alya maïwenn,39.75,16.0,18.0,-20.0,18.0,20.0,22.0,18.0,22.0,40.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,U13 Women 49,RICHARD Maelys,47.0,36.0,38.0,40.0,46.0,48.0,50.0,40.0,50.0,90.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,U13 Women 55,ST MART Kia,54.13,30.0,32.0,34.0,38.0,40.0,42.0,34.0,42.0,76.0

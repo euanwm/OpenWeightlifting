@@ -1,0 +1,108 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men 35,DECOO Bryan,29.4,10.0,11.0,12.0,14.0,15.0,16.0,12.0,16.0,28.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men 40,CAESEMAEKER Gabriel,37.6,12.0,14.0,-16.0,17.0,19.0,21.0,14.0,21.0,35.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men 40,STASZAK Yanis,35.3,12.0,13.0,14.0,17.0,-19.0,-19.0,14.0,17.0,31.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men 40,MASSON Raphael,36.2,7.0,8.0,10.0,7.0,9.0,-10.0,10.0,9.0,19.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men 45,CAESEMAEKER Aaron,42.4,27.0,29.0,31.0,39.0,41.0,43.0,31.0,43.0,74.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men 49,MONIER Thibaut,48.2,30.0,-31.0,31.0,41.0,42.0,44.0,31.0,44.0,75.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men 55,SADORGE Soan,49.4,27.0,29.0,31.0,31.0,33.0,35.0,31.0,35.0,66.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men 55,ROTSAERT Adam,49.2,15.0,17.0,-19.0,22.0,24.0,26.0,17.0,26.0,43.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men 73,WAHL Timeo,70.4,26.0,28.0,-30.0,36.0,38.0,40.0,28.0,40.0,68.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men >73,VANDEWATTYNE Arthur,79.8,20.0,22.0,24.0,32.0,34.0,-36.0,24.0,34.0,58.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 35,PEREIRA Amalia,34.9,17.0,18.0,-20.0,23.0,25.0,27.0,18.0,27.0,45.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 35,GEERAERT Emmy,34.5,15.0,17.0,-18.0,18.0,20.0,22.0,17.0,22.0,39.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 35,DECORTE-DELHAIE Leonie,33.8,14.0,15.0,-16.0,18.0,20.0,22.0,15.0,22.0,37.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 40,ARAB Aliyah,38.0,19.0,20.0,-21.0,23.0,24.0,-25.0,20.0,24.0,44.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 45,NOYELLE Victoire,43.6,12.0,14.0,-15.0,16.0,-17.0,17.0,14.0,17.0,31.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 49,DODRE Mae,45.9,30.0,32.0,34.0,38.0,40.0,-42.0,34.0,40.0,74.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 55,LEDOUX Shaïna,51.1,13.0,14.0,15.0,21.0,23.0,-24.0,15.0,23.0,38.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 59,FONTENELLE Chloe,55.8,31.0,33.0,35.0,46.0,48.0,50.0,35.0,50.0,85.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 59,DAUPHIN Zoe,55.9,18.0,-20.0,20.0,21.0,23.0,25.0,20.0,25.0,45.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 59,THIRY Cheyenne,56.5,13.0,15.0,-16.0,18.0,19.0,-21.0,15.0,19.0,34.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 64,ROUCHER Emma,60.8,23.0,25.0,26.0,30.0,32.0,-34.0,26.0,32.0,58.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men 40,BOUCKÉ Luc,36.1,13.0,14.0,16.0,17.0,19.0,21.0,16.0,21.0,37.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men 45,DESCHRYVER Oscar,42.1,18.0,19.0,21.0,23.0,25.0,27.0,21.0,27.0,48.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men 55,ALLAYS RAMACKERS Enguerrand,54.3,38.0,40.0,42.0,46.0,48.0,50.0,42.0,50.0,92.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men 61,TILLIEZ Noë,58.0,13.0,15.0,17.0,23.0,25.0,27.0,17.0,27.0,44.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men >73,LEBLANC Lucas,78.0,26.0,28.0,30.0,33.0,35.0,37.0,30.0,37.0,67.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 35,RIQUIER Alicia,29.7,13.0,15.0,17.0,22.0,24.0,-26.0,17.0,24.0,41.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 45,BOSQ Selena,42.0,17.0,19.0,21.0,22.0,24.0,26.0,21.0,26.0,47.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 45,FYVEY Lola,44.6,12.0,14.0,16.0,21.0,23.0,25.0,16.0,25.0,41.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 49,RADAMA Shaina,48.5,31.0,32.0,34.0,40.0,42.0,44.0,34.0,44.0,78.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 55,GIORDANELLA Emma,49.6,25.0,26.0,-28.0,36.0,38.0,40.0,26.0,40.0,66.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 59,CUVILLIER Ema,59.0,29.0,31.0,32.0,39.0,40.0,42.0,32.0,42.0,74.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women >71,NAKOULMA Mounira,99.5,24.0,26.0,28.0,36.0,38.0,40.0,28.0,40.0,68.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men 40,BOUCKÉ Luc,36.1,13.0,14.0,16.0,17.0,19.0,21.0,16.0,21.0,37.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men 45,DESCHRYVER Oscar,42.1,18.0,19.0,21.0,23.0,25.0,27.0,21.0,27.0,48.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men 55,ALLAYS RAMACKERS Enguerrand,54.3,38.0,40.0,42.0,46.0,48.0,50.0,42.0,50.0,92.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men 61,TILLIEZ Noë,58.0,13.0,15.0,17.0,23.0,25.0,27.0,17.0,27.0,44.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men >73,LEBLANC Lucas,78.0,26.0,28.0,30.0,33.0,35.0,37.0,30.0,37.0,67.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 35,RIQUIER Alicia,29.7,13.0,15.0,17.0,22.0,24.0,-26.0,17.0,24.0,41.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 45,BOSQ Selena,42.0,17.0,19.0,21.0,22.0,24.0,26.0,21.0,26.0,47.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 45,FYVEY Lola,44.6,12.0,14.0,16.0,21.0,23.0,25.0,16.0,25.0,41.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 49,RADAMA Shaina,48.5,31.0,32.0,34.0,40.0,42.0,44.0,34.0,44.0,78.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 55,GIORDANELLA Emma,49.6,25.0,26.0,-28.0,36.0,38.0,40.0,26.0,40.0,66.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 59,CUVILLIER Ema,59.0,29.0,31.0,32.0,39.0,40.0,42.0,32.0,42.0,74.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women >71,NAKOULMA Mounira,99.5,24.0,26.0,28.0,36.0,38.0,40.0,28.0,40.0,68.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men 40,FORESTIER Gaspard,37.9,19.0,21.0,-22.0,22.0,24.0,25.0,21.0,25.0,46.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men 45,LAURES Hugo,40.5,15.0,17.0,-19.0,-18.0,18.0,20.0,17.0,20.0,37.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men 49,DESVIGNES Ilan,48.0,25.0,27.0,28.0,33.0,35.0,36.0,28.0,36.0,64.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men 49,FRISONROCHE Hugo,45.4,25.0,27.0,29.0,32.0,34.0,-36.0,29.0,34.0,63.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men 49,LECOMTE Noa,45.1,17.0,19.0,-21.0,29.0,31.0,32.0,19.0,32.0,51.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men 49,MUTEL Timeo,47.7,13.0,15.0,-17.0,15.0,-17.0,17.0,15.0,17.0,32.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men 67,VELU Luka,65.6,18.0,20.0,22.0,24.0,26.0,28.0,22.0,28.0,50.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men 73,GOURGUECHON ALLART Elie,67.6,40.0,42.0,-43.0,43.0,45.0,46.0,42.0,46.0,88.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men 73,DAVID Ethan,68.2,21.0,23.0,25.0,31.0,33.0,35.0,25.0,35.0,60.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men 73,LAFFILEZ Esteban,68.5,17.0,19.0,21.0,21.0,23.0,25.0,21.0,25.0,46.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men >73,CAIEZ Kenzo,83.6,29.0,31.0,33.0,34.0,36.0,-38.0,33.0,36.0,69.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men >73,MOUZER Ilan,79.4,22.0,24.0,-26.0,29.0,31.0,-33.0,24.0,31.0,55.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 35,ALONSO Meline,30.5,20.0,22.0,24.0,26.0,28.0,30.0,24.0,30.0,54.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 35,DUCHATEAU Lou anne,34.7,19.0,21.0,23.0,24.0,26.0,-28.0,23.0,26.0,49.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 35,CHIZZOLINI Inaya,33.9,10.0,12.0,14.0,15.0,17.0,-19.0,14.0,17.0,31.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 40,DECRAENE Selenia,37.3,28.0,30.0,32.0,34.0,36.0,38.0,32.0,38.0,70.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 40,ALONSO Lea,38.4,23.0,25.0,27.0,29.0,31.0,33.0,27.0,33.0,60.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 40,TRIBOULOIS Tess,40.0,19.0,21.0,23.0,29.0,-31.0,31.0,23.0,31.0,54.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 45,DUCHATEAU Marilou,44.8,24.0,26.0,-28.0,31.0,33.0,-35.0,26.0,33.0,59.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 45,BOUCHEZ Clarys,43.0,20.0,22.0,24.0,30.0,32.0,34.0,24.0,34.0,58.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 45,HURIEZ Louanne,44.2,17.0,19.0,21.0,22.0,24.0,26.0,21.0,26.0,47.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 45,LAFFILEZ Zia,43.5,16.0,-18.0,18.0,22.0,24.0,26.0,18.0,26.0,44.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 45,DINOUARD Louison,44.8,16.0,18.0,20.0,17.0,19.0,21.0,20.0,21.0,41.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 49,MARTINEZ Clea,46.2,25.0,27.0,-29.0,31.0,33.0,-35.0,27.0,33.0,60.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 55,ANDRIEUX Flora,50.3,36.0,38.0,40.0,46.0,48.0,50.0,40.0,50.0,90.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 55,LENGLET Julie,53.4,24.0,26.0,-28.0,30.0,32.0,-34.0,26.0,32.0,58.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 55,LAPO Emeline - unss,52.2,20.0,22.0,-24.0,27.0,29.0,31.0,22.0,31.0,53.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 55,CARTIER Emma - unss,49.8,20.0,22.0,-24.0,27.0,29.0,31.0,22.0,31.0,53.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 55,DUPRAZ Manon - unss,54.7,20.0,22.0,-24.0,27.0,29.0,31.0,22.0,31.0,53.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 59,LEFEBVRE Lomane - unss,57.8,19.0,21.0,-23.0,25.0,27.0,-29.0,21.0,27.0,48.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 71,BERZIN Zoé,65.8,24.0,-26.0,26.0,28.0,30.0,-31.0,26.0,30.0,56.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men 40,FORESTIER Gaspard,37.9,19.0,21.0,-22.0,22.0,24.0,25.0,21.0,25.0,46.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men 45,LAURES Hugo,40.5,15.0,17.0,-19.0,-18.0,18.0,20.0,17.0,20.0,37.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men 49,DESVIGNES Ilan,48.0,25.0,27.0,28.0,33.0,35.0,36.0,28.0,36.0,64.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men 49,FRISONROCHE Hugo,45.4,25.0,27.0,29.0,32.0,34.0,-36.0,29.0,34.0,63.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men 49,LECOMTE Noa,45.1,17.0,19.0,-21.0,29.0,31.0,32.0,19.0,32.0,51.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men 49,MUTEL Timeo,47.7,13.0,15.0,-17.0,15.0,-17.0,17.0,15.0,17.0,32.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men 67,VELU Luka,65.6,18.0,20.0,22.0,24.0,26.0,28.0,22.0,28.0,50.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men 73,GOURGUECHON ALLART Elie,67.6,40.0,42.0,-43.0,43.0,45.0,46.0,42.0,46.0,88.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men 73,DAVID Ethan,68.2,21.0,23.0,25.0,31.0,33.0,35.0,25.0,35.0,60.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men 73,LAFFILEZ Esteban,68.5,17.0,19.0,21.0,21.0,23.0,25.0,21.0,25.0,46.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men >73,CAIEZ Kenzo,83.6,29.0,31.0,33.0,34.0,36.0,-38.0,33.0,36.0,69.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Men >73,MOUZER Ilan,79.4,22.0,24.0,-26.0,29.0,31.0,-33.0,24.0,31.0,55.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 35,ALONSO Meline,30.5,20.0,22.0,24.0,26.0,28.0,30.0,24.0,30.0,54.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 35,DUCHATEAU Lou anne,34.7,19.0,21.0,23.0,24.0,26.0,-28.0,23.0,26.0,49.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 35,CHIZZOLINI Inaya,33.9,10.0,12.0,14.0,15.0,17.0,-19.0,14.0,17.0,31.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 40,DECRAENE Selenia,37.3,28.0,30.0,32.0,34.0,36.0,38.0,32.0,38.0,70.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 40,ALONSO Lea,38.4,23.0,25.0,27.0,29.0,31.0,33.0,27.0,33.0,60.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 40,TRIBOULOIS Tess,40.0,19.0,21.0,23.0,29.0,-31.0,31.0,23.0,31.0,54.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 45,DUCHATEAU Marilou,44.8,24.0,26.0,-28.0,31.0,33.0,-35.0,26.0,33.0,59.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 45,BOUCHEZ Clarys,43.0,20.0,22.0,24.0,30.0,32.0,34.0,24.0,34.0,58.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 45,HURIEZ Louanne,44.2,17.0,19.0,21.0,22.0,24.0,26.0,21.0,26.0,47.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 45,LAFFILEZ Zia,43.5,16.0,-18.0,18.0,22.0,24.0,26.0,18.0,26.0,44.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 45,DINOUARD Louison,44.8,16.0,18.0,20.0,17.0,19.0,21.0,20.0,21.0,41.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 49,MARTINEZ Clea,46.2,25.0,27.0,-29.0,31.0,33.0,-35.0,27.0,33.0,60.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 55,ANDRIEUX Flora,50.3,36.0,38.0,40.0,46.0,48.0,50.0,40.0,50.0,90.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 55,LENGLET Julie,53.4,24.0,26.0,-28.0,30.0,32.0,-34.0,26.0,32.0,58.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 55,LAPO Emeline - unss,52.2,20.0,22.0,-24.0,27.0,29.0,31.0,22.0,31.0,53.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 55,CARTIER Emma - unss,49.8,20.0,22.0,-24.0,27.0,29.0,31.0,22.0,31.0,53.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 55,DUPRAZ Manon - unss,54.7,20.0,22.0,-24.0,27.0,29.0,31.0,22.0,31.0,53.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 59,LEFEBVRE Lomane - unss,57.8,19.0,21.0,-23.0,25.0,27.0,-29.0,21.0,27.0,48.0
+HDF - Cpe de France des Clubs - Comines - District Nord Implant 1,2023-03-04,U13 Women 71,BERZIN Zoé,65.8,24.0,-26.0,26.0,28.0,30.0,-31.0,26.0,30.0,56.0

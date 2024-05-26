@@ -1,0 +1,279 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U10 Men ,ST MART Lyam,50.77,-8.0,8.0,10.0,10.0,12.0,14.0,10.0,14.0,24.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U10 Men ,TEILLAUCHET Théo emmanuel,28.25,-4.0,4.0,5.0,6.0,8.0,9.0,5.0,9.0,14.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U13 Men 35,VEFOUR Noah,30.37,28.0,30.0,32.0,38.0,40.0,-42.0,32.0,40.0,72.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U10 Women ,LOUIS Maëlya,42.0,16.0,17.0,-19.0,-20.0,20.0,21.0,17.0,21.0,38.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U10 Women ,BALLANT Mei,23.5,8.0,9.0,-10.0,8.0,9.0,10.0,9.0,10.0,19.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U10 Women ,DIJOUX Luce,29.67,3.0,4.0,-5.0,5.0,6.0,8.0,4.0,8.0,12.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U13 Women 35,VAGLIO Capucine,28.0,11.0,-13.0,-13.0,15.0,17.0,18.0,11.0,18.0,29.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U13 Women 45,ONEZIME Mya,44.0,19.0,21.0,23.0,25.0,27.0,29.0,23.0,29.0,52.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U13 Women 45,ADOLPHE Alya maïwenn,42.02,18.0,20.0,22.0,20.0,22.0,24.0,22.0,24.0,46.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U13 Women 49,RICHARD Maelys,47.0,38.0,40.0,42.0,49.0,51.0,53.0,42.0,53.0,95.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U13 Women 49,ANAS Kamila,47.29,17.0,19.0,-21.0,24.0,26.0,28.0,19.0,28.0,47.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U13 Women 59,ST MART Kia,56.26,28.0,30.0,32.0,38.0,40.0,41.0,32.0,41.0,73.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U15 Women 40,HOBAYA Chayma,39.23,21.0,23.0,25.0,28.0,30.0,32.0,25.0,32.0,57.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U15 Women 45,HOBAYA Loujeina,43.41,21.0,23.0,25.0,-25.0,27.0,30.0,25.0,30.0,55.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U15 Women 64,SMITH Gabrielle,62.9,40.0,42.0,44.0,50.0,-53.0,55.0,44.0,55.0,99.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U17 Women 55,GHIOTTO Lucille,54.39,40.0,42.0,44.0,50.0,53.0,55.0,44.0,55.0,99.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U20 Women 59,THIANN-BO MOREL Lolita,58.68,38.0,41.0,43.0,50.0,53.0,-56.0,43.0,53.0,96.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 45,IVAHA Alice,43.81,30.0,32.0,-34.0,-38.0,38.0,40.0,32.0,40.0,72.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 55,NACCACHE Sarah,51.38,33.0,36.0,39.0,43.0,46.0,49.0,39.0,49.0,88.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 55,ZOUNIA-OUNASSY Anne-emmanuelle,51.6,31.0,34.0,37.0,43.0,47.0,-51.0,37.0,47.0,84.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 55,GALLET Nadine,50.62,22.0,25.0,28.0,30.0,33.0,36.0,28.0,36.0,64.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 59,DE GERUS Léa,58.93,41.0,43.0,45.0,55.0,58.0,-61.0,45.0,58.0,103.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 71,CHOTTEAU Marion,67.92,44.0,47.0,-50.0,60.0,63.0,66.0,47.0,66.0,113.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 76,LAMY Gaby,73.67,-46.0,46.0,48.0,58.0,63.0,67.0,48.0,67.0,115.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 87,LE ROUX Lisa,82.25,25.0,27.0,30.0,33.0,36.0,40.0,30.0,40.0,70.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U15 Women 40,HOBAYA Chayma,39.23,21.0,23.0,25.0,28.0,30.0,32.0,25.0,32.0,57.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U15 Women 45,HOBAYA Loujeina,43.41,21.0,23.0,25.0,-25.0,27.0,30.0,25.0,30.0,55.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U15 Women 64,SMITH Gabrielle,62.9,40.0,42.0,44.0,50.0,-53.0,55.0,44.0,55.0,99.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U17 Women 55,GHIOTTO Lucille,54.39,40.0,42.0,44.0,50.0,53.0,55.0,44.0,55.0,99.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U20 Women 59,THIANN-BO MOREL Lolita,58.68,38.0,41.0,43.0,50.0,53.0,-56.0,43.0,53.0,96.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 45,IVAHA Alice,43.81,30.0,32.0,-34.0,-38.0,38.0,40.0,32.0,40.0,72.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 55,NACCACHE Sarah,51.38,33.0,36.0,39.0,43.0,46.0,49.0,39.0,49.0,88.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 55,ZOUNIA-OUNASSY Anne-emmanuelle,51.6,31.0,34.0,37.0,43.0,47.0,-51.0,37.0,47.0,84.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 55,GALLET Nadine,50.62,22.0,25.0,28.0,30.0,33.0,36.0,28.0,36.0,64.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 59,DE GERUS Léa,58.93,41.0,43.0,45.0,55.0,58.0,-61.0,45.0,58.0,103.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 71,CHOTTEAU Marion,67.92,44.0,47.0,-50.0,60.0,63.0,66.0,47.0,66.0,113.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 76,LAMY Gaby,73.67,-46.0,46.0,48.0,58.0,63.0,67.0,48.0,67.0,115.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 87,LE ROUX Lisa,82.25,25.0,27.0,30.0,33.0,36.0,40.0,30.0,40.0,70.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 55,VITRY Mylene,53.0,33.0,36.0,39.0,43.0,-46.0,47.0,39.0,47.0,86.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 59,DOUYERE Helene,58.0,29.0,31.0,-33.0,38.0,-41.0,41.0,31.0,41.0,72.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 64,PAUSE Patricia,62.5,46.0,-49.0,-50.0,63.0,-66.0,66.0,46.0,66.0,112.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 64,PLANTE Graziella,60.0,45.0,48.0,52.0,58.0,-62.0,-63.0,52.0,58.0,110.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 64,DUHAMEL Severine,61.5,33.0,38.0,41.0,47.0,57.0,-61.0,41.0,57.0,98.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 64,GROSSET Gladys,62.5,30.0,-33.0,33.0,45.0,48.0,-51.0,33.0,48.0,81.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 71,BERTHELIER Magalie,66.5,-40.0,40.0,42.0,52.0,56.0,58.0,42.0,58.0,100.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 71,QUEZADA Ana,66.5,33.0,36.0,39.0,42.0,46.0,-50.0,39.0,46.0,85.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 71,GRONDIN Charlotte,67.0,32.0,-35.0,35.0,45.0,-48.0,48.0,35.0,48.0,83.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 76,DE OLIVEIRA Marylene,73.0,-33.0,34.0,37.0,36.0,40.0,-46.0,37.0,40.0,77.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women >87,LEGROS Johanna,104.0,28.0,32.0,-36.0,38.0,41.0,46.0,32.0,46.0,78.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women >87,ST MART Jessica sandra,91.0,-20.0,25.0,-30.0,30.0,35.0,-40.0,25.0,35.0,60.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 55,VITRY Mylene,53.0,33.0,36.0,39.0,43.0,-46.0,47.0,39.0,47.0,86.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 59,DOUYERE Helene,58.0,29.0,31.0,-33.0,38.0,-41.0,41.0,31.0,41.0,72.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 64,PAUSE Patricia,62.5,46.0,-49.0,-50.0,63.0,-66.0,66.0,46.0,66.0,112.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 64,PLANTE Graziella,60.0,45.0,48.0,52.0,58.0,-62.0,-63.0,52.0,58.0,110.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 64,DUHAMEL Severine,61.5,33.0,38.0,41.0,47.0,57.0,-61.0,41.0,57.0,98.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 64,GROSSET Gladys,62.5,30.0,-33.0,33.0,45.0,48.0,-51.0,33.0,48.0,81.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 71,BERTHELIER Magalie,66.5,-40.0,40.0,42.0,52.0,56.0,58.0,42.0,58.0,100.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 71,QUEZADA Ana,66.5,33.0,36.0,39.0,42.0,46.0,-50.0,39.0,46.0,85.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 71,GRONDIN Charlotte,67.0,32.0,-35.0,35.0,45.0,-48.0,48.0,35.0,48.0,83.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 76,DE OLIVEIRA Marylene,73.0,-33.0,34.0,37.0,36.0,40.0,-46.0,37.0,40.0,77.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women >87,LEGROS Johanna,104.0,28.0,32.0,-36.0,38.0,41.0,46.0,32.0,46.0,78.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women >87,ST MART Jessica sandra,91.0,-20.0,25.0,-30.0,30.0,35.0,-40.0,25.0,35.0,60.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U15 Men 49,RAMDAS RIVIÈRE Jad nathan,43.44,25.0,27.0,30.0,30.0,35.0,40.0,30.0,40.0,70.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 67,SALAÏ Loïc,61.63,55.0,58.0,-61.0,70.0,75.0,80.0,58.0,80.0,138.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 67,FONTAINE Didier,65.17,45.0,-48.0,48.0,55.0,62.0,-65.0,48.0,62.0,110.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 67,PAGES Bryan,64.43,-45.0,45.0,48.0,50.0,55.0,-60.0,48.0,55.0,103.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 67,MARTIN Brendan,64.16,-40.0,-40.0,40.0,45.0,50.0,55.0,40.0,55.0,95.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 73,GAILLAC Eric,71.43,77.0,83.0,88.0,90.0,97.0,100.0,88.0,100.0,188.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 73,DOUYERE Stéphane,71.96,75.0,79.0,83.0,92.0,97.0,102.0,83.0,102.0,185.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 73,RICHARD Olivier,70.0,65.0,70.0,75.0,85.0,90.0,95.0,75.0,95.0,170.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 73,LEBLE Jean louis,72.29,63.0,66.0,-71.0,92.0,98.0,-102.0,66.0,98.0,164.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 73,TEILLAUCHET Jacky,72.07,58.0,61.0,64.0,75.0,-78.0,-79.0,64.0,75.0,139.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 73,LALLEMAND Julien,71.7,-48.0,48.0,-50.0,50.0,55.0,-60.0,48.0,55.0,103.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 81,HOAREAU Emerick,80.87,80.0,-83.0,83.0,100.0,105.0,-110.0,83.0,105.0,188.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 81,MOREL Christophe,74.17,-75.0,75.0,80.0,95.0,-100.0,100.0,80.0,100.0,180.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 81,AROCHA Alejandro,74.87,41.0,44.0,-50.0,50.0,56.0,-60.0,44.0,56.0,100.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 89,DELAY Nicolas,86.82,50.0,53.0,-56.0,-63.0,63.0,65.0,53.0,65.0,118.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U15 Men 49,RAMDAS RIVIÈRE Jad nathan,43.44,25.0,27.0,30.0,30.0,35.0,40.0,30.0,40.0,70.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 67,SALAÏ Loïc,61.63,55.0,58.0,-61.0,70.0,75.0,80.0,58.0,80.0,138.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 67,FONTAINE Didier,65.17,45.0,-48.0,48.0,55.0,62.0,-65.0,48.0,62.0,110.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 67,PAGES Bryan,64.43,-45.0,45.0,48.0,50.0,55.0,-60.0,48.0,55.0,103.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 67,MARTIN Brendan,64.16,-40.0,-40.0,40.0,45.0,50.0,55.0,40.0,55.0,95.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 73,GAILLAC Eric,71.43,77.0,83.0,88.0,90.0,97.0,100.0,88.0,100.0,188.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 73,DOUYERE Stéphane,71.96,75.0,79.0,83.0,92.0,97.0,102.0,83.0,102.0,185.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 73,RICHARD Olivier,70.0,65.0,70.0,75.0,85.0,90.0,95.0,75.0,95.0,170.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 73,LEBLE Jean louis,72.29,63.0,66.0,-71.0,92.0,98.0,-102.0,66.0,98.0,164.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 73,TEILLAUCHET Jacky,72.07,58.0,61.0,64.0,75.0,-78.0,-79.0,64.0,75.0,139.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 73,LALLEMAND Julien,71.7,-48.0,48.0,-50.0,50.0,55.0,-60.0,48.0,55.0,103.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 81,HOAREAU Emerick,80.87,80.0,-83.0,83.0,100.0,105.0,-110.0,83.0,105.0,188.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 81,MOREL Christophe,74.17,-75.0,75.0,80.0,95.0,-100.0,100.0,80.0,100.0,180.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 81,AROCHA Alejandro,74.87,41.0,44.0,-50.0,50.0,56.0,-60.0,44.0,56.0,100.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 89,DELAY Nicolas,86.82,50.0,53.0,-56.0,-63.0,63.0,65.0,53.0,65.0,118.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U20 Men 89,DUMOULEIN Louis,82.0,40.0,45.0,50.0,65.0,-75.0,-75.0,50.0,65.0,115.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 73,NABUCHODONOSOR Stéphane,72.9,75.0,-82.0,82.0,-100.0,100.0,-110.0,82.0,100.0,182.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 73,ALY Meinrad,67.24,40.0,45.0,50.0,65.0,-70.0,70.0,50.0,70.0,120.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 81,LAW THU Alexandre,75.0,89.0,94.0,101.0,108.0,-114.0,-119.0,101.0,108.0,209.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 81,HAUSS Manoa,75.8,-75.0,75.0,-80.0,100.0,105.0,-108.0,75.0,105.0,180.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 81,SEVERIN - GAUVIN Owen,80.8,78.0,82.0,-86.0,95.0,-103.0,-106.0,82.0,95.0,177.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 81,BOUHENNOUCHE Djalil,80.0,70.0,75.0,80.0,80.0,87.0,-95.0,80.0,87.0,167.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 81,DÉRAND Guillaume,76.6,65.0,70.0,-75.0,85.0,90.0,-95.0,70.0,90.0,160.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 81,DAVID Rodolphe,78.0,57.0,62.0,66.0,78.0,-85.0,85.0,66.0,85.0,151.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 81,GRONDIN Evans,79.1,52.0,56.0,-60.0,65.0,70.0,74.0,56.0,74.0,130.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 96,PAUSE Cédric,89.6,-75.0,75.0,80.0,105.0,-111.0,115.0,80.0,115.0,195.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 96,DECROP Adrien,90.68,75.0,80.0,-83.0,-100.0,102.0,107.0,80.0,107.0,187.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 102,LAPIERRE Matthieu,100.8,70.0,-75.0,75.0,90.0,100.0,-103.0,75.0,100.0,175.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men >109,TECHER Jean florian,143.0,78.0,-83.0,87.0,-112.0,112.0,115.0,87.0,115.0,202.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men >109,RAMDAS Jean jonathan,120.0,-70.0,70.0,73.0,95.0,100.0,-110.0,73.0,100.0,173.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U20 Men 89,DUMOULEIN Louis,82.0,40.0,45.0,50.0,65.0,-75.0,-75.0,50.0,65.0,115.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 73,NABUCHODONOSOR Stéphane,72.9,75.0,-82.0,82.0,-100.0,100.0,-110.0,82.0,100.0,182.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 73,ALY Meinrad,67.24,40.0,45.0,50.0,65.0,-70.0,70.0,50.0,70.0,120.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 81,LAW THU Alexandre,75.0,89.0,94.0,101.0,108.0,-114.0,-119.0,101.0,108.0,209.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 81,HAUSS Manoa,75.8,-75.0,75.0,-80.0,100.0,105.0,-108.0,75.0,105.0,180.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 81,SEVERIN - GAUVIN Owen,80.8,78.0,82.0,-86.0,95.0,-103.0,-106.0,82.0,95.0,177.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 81,BOUHENNOUCHE Djalil,80.0,70.0,75.0,80.0,80.0,87.0,-95.0,80.0,87.0,167.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 81,DÉRAND Guillaume,76.6,65.0,70.0,-75.0,85.0,90.0,-95.0,70.0,90.0,160.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 81,DAVID Rodolphe,78.0,57.0,62.0,66.0,78.0,-85.0,85.0,66.0,85.0,151.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 81,GRONDIN Evans,79.1,52.0,56.0,-60.0,65.0,70.0,74.0,56.0,74.0,130.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 96,PAUSE Cédric,89.6,-75.0,75.0,80.0,105.0,-111.0,115.0,80.0,115.0,195.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 96,DECROP Adrien,90.68,75.0,80.0,-83.0,-100.0,102.0,107.0,80.0,107.0,187.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 102,LAPIERRE Matthieu,100.8,70.0,-75.0,75.0,90.0,100.0,-103.0,75.0,100.0,175.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men >109,TECHER Jean florian,143.0,78.0,-83.0,87.0,-112.0,112.0,115.0,87.0,115.0,202.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men >109,RAMDAS Jean jonathan,120.0,-70.0,70.0,73.0,95.0,100.0,-110.0,73.0,100.0,173.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U13 Men 40,POLINTSOV German,35.8,19.0,21.0,23.0,21.0,23.0,-25.0,23.0,23.0,46.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U13 Men 40,FOUMENAIGUE Eliott,37.8,15.0,16.0,17.0,18.0,19.0,20.0,17.0,20.0,37.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U13 Men 61,MYNHARDT Alexander,58.2,20.0,22.0,-23.0,25.0,26.0,28.0,22.0,28.0,50.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U13 Women 40,MOTHES Ambre,36.4,9.0,11.0,12.0,10.0,12.0,14.0,12.0,14.0,26.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U13 Men 40,POLINTSOV German,35.8,19.0,21.0,23.0,21.0,23.0,-25.0,23.0,23.0,46.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U13 Men 40,FOUMENAIGUE Eliott,37.8,15.0,16.0,17.0,18.0,19.0,20.0,17.0,20.0,37.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U13 Men 61,MYNHARDT Alexander,58.2,20.0,22.0,-23.0,25.0,26.0,28.0,22.0,28.0,50.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U13 Women 40,MOTHES Ambre,36.4,9.0,11.0,12.0,10.0,12.0,14.0,12.0,14.0,26.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U20 Women 55,JALKH Elyssa,50.8,35.0,38.0,41.0,47.0,50.0,53.0,41.0,53.0,94.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 59,ALFONSIN Marysol,56.3,45.0,49.0,53.0,-66.0,-68.0,68.0,53.0,68.0,121.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 59,LAISNEY Jade,58.7,35.0,-38.0,38.0,45.0,47.0,-50.0,38.0,47.0,85.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 64,MAGAR Solene,64.0,62.0,65.0,-67.0,-80.0,-82.0,82.0,65.0,82.0,147.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 64,PRIOUZEAU Florine,63.9,56.0,61.0,-64.0,68.0,73.0,76.0,61.0,76.0,137.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 64,FARRUGIA Celia,63.9,49.0,-53.0,54.0,66.0,70.0,-73.0,54.0,70.0,124.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 64,MARTY Nadege,64.0,45.0,47.0,-51.0,55.0,58.0,61.0,47.0,61.0,108.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 64,PHAM VIET Nina,62.3,35.0,38.0,40.0,45.0,50.0,53.0,40.0,53.0,93.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 71,ZHYLKO Sophia,66.1,63.0,66.0,69.0,82.0,85.0,89.0,69.0,89.0,158.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 71,VAILLET Julie,67.9,62.0,-67.0,70.0,75.0,82.0,-87.0,70.0,82.0,152.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 71,NONIS Clarisse,66.3,59.0,62.0,65.0,71.0,74.0,-77.0,65.0,74.0,139.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 71,MARTIN-GUILLOUX Léa,66.8,58.0,62.0,-65.0,-70.0,70.0,75.0,62.0,75.0,137.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 71,GARMONT Julie,67.8,-33.0,-33.0,-36.0,43.0,-46.0,-46.0,0.0,43.0,0.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women >87,KOCH Pauline,102.2,46.0,49.0,52.0,56.0,60.0,65.0,52.0,65.0,117.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U20 Women 55,JALKH Elyssa,50.8,35.0,38.0,41.0,47.0,50.0,53.0,41.0,53.0,94.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 59,ALFONSIN Marysol,56.3,45.0,49.0,53.0,-66.0,-68.0,68.0,53.0,68.0,121.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 59,LAISNEY Jade,58.7,35.0,-38.0,38.0,45.0,47.0,-50.0,38.0,47.0,85.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 64,MAGAR Solene,64.0,62.0,65.0,-67.0,-80.0,-82.0,82.0,65.0,82.0,147.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 64,PRIOUZEAU Florine,63.9,56.0,61.0,-64.0,68.0,73.0,76.0,61.0,76.0,137.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 64,FARRUGIA Celia,63.9,49.0,-53.0,54.0,66.0,70.0,-73.0,54.0,70.0,124.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 64,MARTY Nadege,64.0,45.0,47.0,-51.0,55.0,58.0,61.0,47.0,61.0,108.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 64,PHAM VIET Nina,62.3,35.0,38.0,40.0,45.0,50.0,53.0,40.0,53.0,93.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 71,ZHYLKO Sophia,66.1,63.0,66.0,69.0,82.0,85.0,89.0,69.0,89.0,158.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 71,VAILLET Julie,67.9,62.0,-67.0,70.0,75.0,82.0,-87.0,70.0,82.0,152.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 71,NONIS Clarisse,66.3,59.0,62.0,65.0,71.0,74.0,-77.0,65.0,74.0,139.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 71,MARTIN-GUILLOUX Léa,66.8,58.0,62.0,-65.0,-70.0,70.0,75.0,62.0,75.0,137.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 71,GARMONT Julie,67.8,-33.0,-33.0,-36.0,43.0,-46.0,-46.0,0.0,43.0,0.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women >87,KOCH Pauline,102.2,46.0,49.0,52.0,56.0,60.0,65.0,52.0,65.0,117.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U17 Men 67,TOUT Kais,63.5,52.0,55.0,60.0,70.0,75.0,78.0,60.0,78.0,138.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U20 Men 89,ATIK Youness,83.6,65.0,70.0,75.0,90.0,96.0,102.0,75.0,102.0,177.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 61,TESQUET Corentin,57.1,52.0,56.0,-61.0,70.0,75.0,-80.0,56.0,75.0,131.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 67,FAUGERAS Philippe,67.0,50.0,-55.0,-55.0,65.0,70.0,73.0,50.0,73.0,123.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 73,CARTAU Arthur,72.0,25.0,50.0,55.0,35.0,60.0,70.0,55.0,70.0,125.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 73,GÉLIS Corentin,69.7,30.0,35.0,-40.0,40.0,50.0,-55.0,35.0,50.0,85.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 81,MENINI Loïc,80.9,80.0,85.0,-90.0,105.0,110.0,-113.0,85.0,110.0,195.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 81,LOUATIK Benoit,80.9,78.0,83.0,-90.0,105.0,-112.0,112.0,83.0,112.0,195.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 81,CHERI-ZECOTTE Souaïel,78.0,60.0,68.0,72.0,50.0,65.0,75.0,72.0,75.0,147.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 81,GRENIER Matthieu,76.0,40.0,45.0,-53.0,50.0,57.0,65.0,45.0,65.0,110.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 89,FAURIE Yorick,86.3,48.0,53.0,55.0,72.0,77.0,-81.0,55.0,77.0,132.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 89,BENSAID Julien,87.8,50.0,55.0,60.0,60.0,65.0,-70.0,60.0,65.0,125.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 96,DOUANGPHRACHANH Tom,93.2,50.0,55.0,60.0,-70.0,70.0,80.0,60.0,80.0,140.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 96,MOURCIN Mathis,89.8,40.0,45.0,50.0,60.0,-70.0,70.0,50.0,70.0,120.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 102,TETUAMANUHIRI Tetaumatani,96.2,93.0,97.0,101.0,-115.0,-116.0,116.0,101.0,116.0,217.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U17 Men 67,TOUT Kais,63.5,52.0,55.0,60.0,70.0,75.0,78.0,60.0,78.0,138.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U20 Men 89,ATIK Youness,83.6,65.0,70.0,75.0,90.0,96.0,102.0,75.0,102.0,177.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 61,TESQUET Corentin,57.1,52.0,56.0,-61.0,70.0,75.0,-80.0,56.0,75.0,131.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 67,FAUGERAS Philippe,67.0,50.0,-55.0,-55.0,65.0,70.0,73.0,50.0,73.0,123.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 73,CARTAU Arthur,72.0,25.0,50.0,55.0,35.0,60.0,70.0,55.0,70.0,125.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 73,GÉLIS Corentin,69.7,30.0,35.0,-40.0,40.0,50.0,-55.0,35.0,50.0,85.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 81,MENINI Loïc,80.9,80.0,85.0,-90.0,105.0,110.0,-113.0,85.0,110.0,195.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 81,LOUATIK Benoit,80.9,78.0,83.0,-90.0,105.0,-112.0,112.0,83.0,112.0,195.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 81,CHERI-ZECOTTE Souaïel,78.0,60.0,68.0,72.0,50.0,65.0,75.0,72.0,75.0,147.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 81,GRENIER Matthieu,76.0,40.0,45.0,-53.0,50.0,57.0,65.0,45.0,65.0,110.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 89,FAURIE Yorick,86.3,48.0,53.0,55.0,72.0,77.0,-81.0,55.0,77.0,132.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 89,BENSAID Julien,87.8,50.0,55.0,60.0,60.0,65.0,-70.0,60.0,65.0,125.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 96,DOUANGPHRACHANH Tom,93.2,50.0,55.0,60.0,-70.0,70.0,80.0,60.0,80.0,140.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 96,MOURCIN Mathis,89.8,40.0,45.0,50.0,60.0,-70.0,70.0,50.0,70.0,120.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 102,TETUAMANUHIRI Tetaumatani,96.2,93.0,97.0,101.0,-115.0,-116.0,116.0,101.0,116.0,217.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 67,LABONDE Romain,66.4,85.0,-88.0,-89.0,105.0,110.0,-0.0,85.0,110.0,195.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 67,BOTHERON Etienne,61.6,-83.0,84.0,-87.0,104.0,-108.0,-111.0,84.0,104.0,188.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 73,LONGEAT Louis,71.4,70.0,75.0,80.0,100.0,105.0,-108.0,80.0,105.0,185.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 81,RUBIO Valentin,78.0,85.0,90.0,95.0,100.0,105.0,110.0,95.0,110.0,205.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 81,DERECOURT Antoine,76.9,70.0,73.0,-76.0,80.0,85.0,88.0,73.0,88.0,161.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 89,MENALDO Kevin,86.2,95.0,100.0,105.0,115.0,120.0,125.0,105.0,125.0,230.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 89,PRATS Thomas,85.5,95.0,100.0,-105.0,125.0,130.0,-132.0,100.0,130.0,230.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 89,MARCHAND Antoine,84.9,100.0,-105.0,105.0,120.0,-125.0,-125.0,105.0,120.0,225.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 89,BERNES Marc,87.05,-65.0,68.0,72.0,75.0,80.0,-85.0,72.0,80.0,152.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 96,BOTEL Corentin,94.2,85.0,90.0,-95.0,105.0,-110.0,110.0,90.0,110.0,200.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 102,CIRIA Louis,97.2,-100.0,-105.0,-105.0,125.0,130.0,135.0,0.0,135.0,0.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 67,LABONDE Romain,66.4,85.0,-88.0,-89.0,105.0,110.0,-0.0,85.0,110.0,195.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 67,BOTHERON Etienne,61.6,-83.0,84.0,-87.0,104.0,-108.0,-111.0,84.0,104.0,188.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 73,LONGEAT Louis,71.4,70.0,75.0,80.0,100.0,105.0,-108.0,80.0,105.0,185.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 81,RUBIO Valentin,78.0,85.0,90.0,95.0,100.0,105.0,110.0,95.0,110.0,205.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 81,DERECOURT Antoine,76.9,70.0,73.0,-76.0,80.0,85.0,88.0,73.0,88.0,161.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 89,MENALDO Kevin,86.2,95.0,100.0,105.0,115.0,120.0,125.0,105.0,125.0,230.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 89,PRATS Thomas,85.5,95.0,100.0,-105.0,125.0,130.0,-132.0,100.0,130.0,230.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 89,MARCHAND Antoine,84.9,100.0,-105.0,105.0,120.0,-125.0,-125.0,105.0,120.0,225.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 89,BERNES Marc,87.05,-65.0,68.0,72.0,75.0,80.0,-85.0,72.0,80.0,152.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 96,BOTEL Corentin,94.2,85.0,90.0,-95.0,105.0,-110.0,110.0,90.0,110.0,200.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 102,CIRIA Louis,97.2,-100.0,-105.0,-105.0,125.0,130.0,135.0,0.0,135.0,0.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U17 Men 81,PEJOINE Leo,78.3,43.0,46.0,50.0,60.0,65.0,70.0,50.0,70.0,120.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 61,LERAUT Baptiste,57.6,25.0,30.0,40.0,30.0,40.0,45.0,40.0,45.0,85.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 81,DUSSOULIER Arnaud,81.0,74.0,79.0,84.0,100.0,-105.0,109.0,84.0,109.0,193.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 102,HERBE Maxime,98.7,-100.0,-100.0,100.0,123.0,128.0,133.0,100.0,133.0,233.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 109,MASSON Christophe,106.8,75.0,80.0,-85.0,105.0,-110.0,-112.0,80.0,105.0,185.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men >109,BUTON Gaetan,114.8,52.0,55.0,-58.0,-66.0,66.0,70.0,55.0,70.0,125.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men >109,SEIJO LOPEZ Valentin,124.9,44.0,49.0,52.0,-60.0,62.0,-68.0,52.0,62.0,114.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U17 Men 81,PEJOINE Leo,78.3,43.0,46.0,50.0,60.0,65.0,70.0,50.0,70.0,120.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 61,LERAUT Baptiste,57.6,25.0,30.0,40.0,30.0,40.0,45.0,40.0,45.0,85.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 81,DUSSOULIER Arnaud,81.0,74.0,79.0,84.0,100.0,-105.0,109.0,84.0,109.0,193.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 102,HERBE Maxime,98.7,-100.0,-100.0,100.0,123.0,128.0,133.0,100.0,133.0,233.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 109,MASSON Christophe,106.8,75.0,80.0,-85.0,105.0,-110.0,-112.0,80.0,105.0,185.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men >109,BUTON Gaetan,114.8,52.0,55.0,-58.0,-66.0,66.0,70.0,55.0,70.0,125.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men >109,SEIJO LOPEZ Valentin,124.9,44.0,49.0,52.0,-60.0,62.0,-68.0,52.0,62.0,114.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U20 Women 64,COURE Léa,61.4,35.0,-40.0,40.0,45.0,-50.0,-50.0,40.0,45.0,85.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 64,LAPRUNE Justine,60.1,67.0,70.0,-72.0,82.0,85.0,-87.0,70.0,85.0,155.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 64,DEMSKI Océane,64.0,41.0,-45.0,-46.0,52.0,-56.0,-56.0,41.0,52.0,93.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 71,PIARD Philomène,69.9,58.0,63.0,-65.0,76.0,80.0,-82.0,63.0,80.0,143.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 71,SUISSE Lauren,68.7,48.0,-50.0,-52.0,59.0,-63.0,63.0,48.0,63.0,111.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 76,BRUNETEAU Elise,74.8,39.0,41.0,43.0,48.0,52.0,-54.0,43.0,52.0,95.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U20 Women 64,COURE Léa,61.4,35.0,-40.0,40.0,45.0,-50.0,-50.0,40.0,45.0,85.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 64,LAPRUNE Justine,60.1,67.0,70.0,-72.0,82.0,85.0,-87.0,70.0,85.0,155.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 64,DEMSKI Océane,64.0,41.0,-45.0,-46.0,52.0,-56.0,-56.0,41.0,52.0,93.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 71,PIARD Philomène,69.9,58.0,63.0,-65.0,76.0,80.0,-82.0,63.0,80.0,143.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 71,SUISSE Lauren,68.7,48.0,-50.0,-52.0,59.0,-63.0,63.0,48.0,63.0,111.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 76,BRUNETEAU Elise,74.8,39.0,41.0,43.0,48.0,52.0,-54.0,43.0,52.0,95.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 59,ADAMKIEWICZ Nastasia,58.0,30.0,35.0,-38.0,40.0,45.0,-48.0,35.0,45.0,80.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 76,GERAN Héléna,75.0,48.0,53.0,-55.0,65.0,70.0,-75.0,53.0,70.0,123.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 76,PETIT Pauline,75.8,30.0,35.0,-40.0,45.0,50.0,-53.0,35.0,50.0,85.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 59,ADAMKIEWICZ Nastasia,58.0,30.0,35.0,-38.0,40.0,45.0,-48.0,35.0,45.0,80.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 76,GERAN Héléna,75.0,48.0,53.0,-55.0,65.0,70.0,-75.0,53.0,70.0,123.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Women 76,PETIT Pauline,75.8,30.0,35.0,-40.0,45.0,50.0,-53.0,35.0,50.0,85.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U15 Men 55,POUPONNOT Ethan,54.7,30.0,35.0,-37.0,42.0,45.0,-48.0,35.0,45.0,80.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U17 Men 89,VOISSET Enzo,85.0,47.0,52.0,-54.0,60.0,65.0,-70.0,52.0,65.0,117.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U17 Men 96,URGEN Lucas,96.0,47.0,52.0,-55.0,72.0,-77.0,77.0,52.0,77.0,129.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U20 Men 67,GERARD Kelian,67.0,55.0,-58.0,-58.0,65.0,70.0,-75.0,55.0,70.0,125.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U20 Men 73,RIBCZAK Tibo,69.0,45.0,50.0,-53.0,55.0,60.0,-65.0,50.0,60.0,110.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U20 Men 81,LE VILLAIN Noam,78.5,52.0,57.0,-60.0,67.0,72.0,-75.0,57.0,72.0,129.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 67,MORANCI Richard,65.5,35.0,40.0,-43.0,45.0,50.0,-55.0,40.0,50.0,90.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 73,PIERRE Phil,71.7,65.0,70.0,-73.0,82.0,-85.0,-88.0,70.0,82.0,152.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 73,APPATORE Chryley-kilian,72.6,57.0,-62.0,-62.0,70.0,75.0,-80.0,57.0,75.0,132.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 73,REGNIER Gabriel,72.9,50.0,55.0,-57.0,65.0,70.0,-73.0,55.0,70.0,125.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 73,GALLEANO Cyril,70.0,50.0,55.0,-60.0,65.0,70.0,-75.0,55.0,70.0,125.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 81,LEROY Cédric,80.0,55.0,60.0,-63.0,75.0,80.0,-84.0,60.0,80.0,140.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 81,MARTIN Dylahn,75.2,40.0,45.0,50.0,55.0,60.0,-65.0,50.0,60.0,110.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 89,PEROUMAL Gérard,87.5,65.0,70.0,-75.0,90.0,95.0,-100.0,70.0,95.0,165.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 89,VERIN Cyrille,84.0,65.0,70.0,-73.0,80.0,85.0,88.0,70.0,88.0,158.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 89,RENCIOT Jean-michel,88.2,60.0,63.0,-65.0,70.0,75.0,-80.0,63.0,75.0,138.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 89,WILLIAM Willem,84.2,50.0,55.0,-58.0,60.0,65.0,-68.0,55.0,65.0,120.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 96,GALIANA Frédéric,95.0,65.0,70.0,-75.0,85.0,90.0,-95.0,70.0,90.0,160.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U15 Men 55,POUPONNOT Ethan,54.7,30.0,35.0,-37.0,42.0,45.0,-48.0,35.0,45.0,80.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U17 Men 89,VOISSET Enzo,85.0,47.0,52.0,-54.0,60.0,65.0,-70.0,52.0,65.0,117.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U17 Men 96,URGEN Lucas,96.0,47.0,52.0,-55.0,72.0,-77.0,77.0,52.0,77.0,129.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U20 Men 67,GERARD Kelian,67.0,55.0,-58.0,-58.0,65.0,70.0,-75.0,55.0,70.0,125.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U20 Men 73,RIBCZAK Tibo,69.0,45.0,50.0,-53.0,55.0,60.0,-65.0,50.0,60.0,110.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,U20 Men 81,LE VILLAIN Noam,78.5,52.0,57.0,-60.0,67.0,72.0,-75.0,57.0,72.0,129.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 67,MORANCI Richard,65.5,35.0,40.0,-43.0,45.0,50.0,-55.0,40.0,50.0,90.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 73,PIERRE Phil,71.7,65.0,70.0,-73.0,82.0,-85.0,-88.0,70.0,82.0,152.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 73,APPATORE Chryley-kilian,72.6,57.0,-62.0,-62.0,70.0,75.0,-80.0,57.0,75.0,132.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 73,REGNIER Gabriel,72.9,50.0,55.0,-57.0,65.0,70.0,-73.0,55.0,70.0,125.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 73,GALLEANO Cyril,70.0,50.0,55.0,-60.0,65.0,70.0,-75.0,55.0,70.0,125.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 81,LEROY Cédric,80.0,55.0,60.0,-63.0,75.0,80.0,-84.0,60.0,80.0,140.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 81,MARTIN Dylahn,75.2,40.0,45.0,50.0,55.0,60.0,-65.0,50.0,60.0,110.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 89,PEROUMAL Gérard,87.5,65.0,70.0,-75.0,90.0,95.0,-100.0,70.0,95.0,165.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 89,VERIN Cyrille,84.0,65.0,70.0,-73.0,80.0,85.0,88.0,70.0,88.0,158.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 89,RENCIOT Jean-michel,88.2,60.0,63.0,-65.0,70.0,75.0,-80.0,63.0,75.0,138.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 89,WILLIAM Willem,84.2,50.0,55.0,-58.0,60.0,65.0,-68.0,55.0,65.0,120.0
+REU - Challenge Avenir - Saint-paul - ZONE NORD-MIXTE,2024-02-24,SEN Men 96,GALIANA Frédéric,95.0,65.0,70.0,-75.0,85.0,90.0,-95.0,70.0,90.0,160.0

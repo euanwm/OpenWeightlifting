@@ -1,0 +1,32 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+NDIE - Chal Avenir 1 - Masculin,2020-10-03,U17 Men 61,FERNAND Yannis,59.3,45.0,50.0,-53.0,55.0,-58.0,-58.0,50.0,55.0,105.0
+NDIE - Chal Avenir 1 - Masculin,2020-10-03,U17 Men 73,LENGLOS Quentin,69.5,30.0,33.0,35.0,40.0,45.0,50.0,35.0,50.0,85.0
+NDIE - Chal Avenir 1 - Masculin,2020-10-03,U20 Men 73,COMBEAU Victor,72.2,70.0,75.0,-80.0,-97.0,105.0,110.0,75.0,110.0,185.0
+NDIE - Chal Avenir 1 - Masculin,2020-10-03,U20 Men 73,HUBERT Titouan,68.5,60.0,65.0,68.0,80.0,85.0,90.0,68.0,90.0,158.0
+NDIE - Chal Avenir 1 - Masculin,2020-10-03,SEN Men 55,ROUSSELET Clement,53.0,47.0,53.0,55.0,63.0,67.0,70.0,55.0,70.0,125.0
+NDIE - Chal Avenir 1 - Masculin,2020-10-03,SEN Men 61,MANSON-BAZEILLE Quentin,60.9,45.0,50.0,53.0,70.0,75.0,77.0,53.0,77.0,130.0
+NDIE - Chal Avenir 1 - Masculin,2020-10-03,SEN Men 67,HONORE Fabrice,67.0,38.0,45.0,48.0,58.0,63.0,-66.0,48.0,63.0,111.0
+NDIE - Chal Avenir 1 - Masculin,2020-10-03,SEN Men 73,FORT Quentin,72.8,-95.0,95.0,100.0,115.0,120.0,125.0,100.0,125.0,225.0
+NDIE - Chal Avenir 1 - Masculin,2020-10-03,SEN Men 81,HADDAD Samy,75.0,48.0,52.0,-56.0,-0.0,-0.0,-0.0,52.0,0.0,0.0
+NDIE - Chal Avenir 1 - Masculin,2020-10-03,SEN Men 89,BLONDELLE Cedric,81.5,-70.0,70.0,-75.0,85.0,90.0,-95.0,70.0,90.0,160.0
+NDIE - Chal Avenir 1 - Masculin,2020-10-03,SEN Men 96,SOUSA Jose,93.4,70.0,-76.0,76.0,85.0,-91.0,-91.0,76.0,85.0,161.0
+NDIE - Chal Avenir 1 - Masculin,2020-10-03,SEN Men 96,BETH Sébastien,90.2,48.0,52.0,55.0,70.0,75.0,-77.0,55.0,75.0,130.0
+NDIE - Chal Avenir 1 - Masculin,2020-10-03,SEN Men 102,VALLET Richard,97.4,75.0,80.0,85.0,112.0,117.0,-120.0,85.0,117.0,202.0
+NDIE - Chal Avenir 1 - Masculin,2020-10-03,U15 Women 55,GOST Lola,50.1,18.0,20.0,21.0,25.0,28.0,30.0,21.0,30.0,51.0
+NDIE - Chal Avenir 1 - Masculin,2020-10-03,U17 Women 55,BELLAUNAY Lilou,53.8,32.0,35.0,-38.0,42.0,45.0,-48.0,35.0,45.0,80.0
+NDIE - Chal Avenir 1 - Masculin,2020-10-03,U20 Women 64,SOREAU Alia,63.2,-33.0,33.0,38.0,50.0,-55.0,55.0,38.0,55.0,93.0
+NDIE - Chal Avenir 1 - Masculin,2020-10-03,SEN Women 55,ORNELLAS Talitha,50.7,38.0,40.0,43.0,48.0,51.0,-53.0,43.0,51.0,94.0
+NDIE - Chal Avenir 1 - Masculin,2020-10-03,SEN Women 71,BERHAUT Muriel,64.4,43.0,45.0,47.0,53.0,55.0,58.0,47.0,58.0,105.0
+NDIE - Chal Avenir 1 - Masculin,2020-10-03,SEN Women 81,LE FAUCHEUR Margot,76.1,31.0,33.0,35.0,47.0,-50.0,50.0,35.0,50.0,85.0
+NDIE - Chal Avenir 1 - Masculin,2020-10-03,U15 Women 55,GOST Lola,50.1,18.0,20.0,21.0,25.0,28.0,30.0,21.0,30.0,51.0
+NDIE - Chal Avenir 1 - Masculin,2020-10-03,U17 Women 55,BELLAUNAY Lilou,53.8,32.0,35.0,-38.0,42.0,45.0,-48.0,35.0,45.0,80.0
+NDIE - Chal Avenir 1 - Masculin,2020-10-03,U20 Women 64,SOREAU Alia,63.2,-33.0,33.0,38.0,50.0,-55.0,55.0,38.0,55.0,93.0
+NDIE - Chal Avenir 1 - Masculin,2020-10-03,SEN Women 55,ORNELLAS Talitha,50.7,38.0,40.0,43.0,48.0,51.0,-53.0,43.0,51.0,94.0
+NDIE - Chal Avenir 1 - Masculin,2020-10-03,SEN Women 71,BERHAUT Muriel,64.4,43.0,45.0,47.0,53.0,55.0,58.0,47.0,58.0,105.0
+NDIE - Chal Avenir 1 - Masculin,2020-10-03,SEN Women 81,LE FAUCHEUR Margot,76.1,31.0,33.0,35.0,47.0,-50.0,50.0,35.0,50.0,85.0
+NDIE - Chal Avenir 1 - Masculin,2020-10-03,U13 Men 67,JARDIN Lucas,64.1,21.0,23.0,25.0,29.0,31.0,33.0,25.0,33.0,58.0
+NDIE - Chal Avenir 1 - Masculin,2020-10-03,U13 Men >73,PISTOL Antonin,87.2,20.0,22.0,24.0,25.0,27.0,29.0,24.0,29.0,53.0
+NDIE - Chal Avenir 1 - Masculin,2020-10-03,U13 Women >71,PISTOL Léonie,83.7,20.0,22.0,24.0,25.0,27.0,29.0,24.0,29.0,53.0
+NDIE - Chal Avenir 1 - Masculin,2020-10-03,U13 Men 67,JARDIN Lucas,64.1,21.0,23.0,25.0,29.0,31.0,33.0,25.0,33.0,58.0
+NDIE - Chal Avenir 1 - Masculin,2020-10-03,U13 Men >73,PISTOL Antonin,87.2,20.0,22.0,24.0,25.0,27.0,29.0,24.0,29.0,53.0
+NDIE - Chal Avenir 1 - Masculin,2020-10-03,U13 Women >71,PISTOL Léonie,83.7,20.0,22.0,24.0,25.0,27.0,29.0,24.0,29.0,53.0

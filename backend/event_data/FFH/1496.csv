@@ -1,0 +1,236 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U15 Women 45,BORSANI Cammille,44.8,20.0,23.0,25.0,26.0,-28.0,30.0,25.0,30.0,55.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U15 Women 49,DESHAIES Amandine,48.9,35.0,38.0,41.0,46.0,49.0,51.0,41.0,51.0,92.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U15 Women 49,DELIMA SANCHES Stefanie,45.8,19.0,21.0,23.0,23.0,26.0,-29.0,23.0,26.0,49.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U17 Women 55,MAILLIEZ Lily,51.9,28.0,30.0,32.0,40.0,-43.0,43.0,32.0,43.0,75.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U17 Women 55,TREMOUILLE Janelle,53.6,29.0,31.0,33.0,36.0,38.0,-40.0,33.0,38.0,71.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U17 Women 64,GABILLAT Lucie,61.9,36.0,-39.0,39.0,47.0,-51.0,-51.0,39.0,47.0,86.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U20 Women 55,BLANCHARD Chloé,52.3,-48.0,48.0,51.0,60.0,63.0,65.0,51.0,65.0,116.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U20 Women 55,EINIG Celia,54.5,39.0,41.0,-43.0,47.0,50.0,-53.0,41.0,50.0,91.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U20 Women 64,PICAROUGNE Delphine,62.9,35.0,37.0,-39.0,46.0,-49.0,49.0,37.0,49.0,86.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U10 Men ,THOMARAT Pablo,31.8,7.0,9.0,11.0,8.0,10.0,12.0,11.0,12.0,23.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U13 Men 49,KIDA Stanislas,49.0,9.0,10.0,11.0,10.0,11.0,12.0,11.0,12.0,23.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U13 Men 61,MASSIAS Gabriel,55.1,12.0,14.0,16.0,-14.0,14.0,16.0,16.0,16.0,32.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U13 Men 61,ROBIN Raphael,58.0,12.0,14.0,-16.0,14.0,16.0,18.0,14.0,18.0,32.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U13 Men 67,GRIGORIAN Samvel,65.5,26.0,28.0,30.0,34.0,-36.0,36.0,30.0,36.0,66.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U13 Women 45,THOMARAT Juliette,40.4,17.0,19.0,21.0,20.0,22.0,24.0,21.0,24.0,45.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U13 Women 49,MOUSLIAH Mariah,45.3,12.0,14.0,16.0,15.0,17.0,19.0,16.0,19.0,35.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U10 Men ,THOMARAT Pablo,31.8,7.0,9.0,11.0,8.0,10.0,12.0,11.0,12.0,23.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U13 Men 49,KIDA Stanislas,49.0,9.0,10.0,11.0,10.0,11.0,12.0,11.0,12.0,23.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U13 Men 61,MASSIAS Gabriel,55.1,12.0,14.0,16.0,-14.0,14.0,16.0,16.0,16.0,32.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U13 Men 61,ROBIN Raphael,58.0,12.0,14.0,-16.0,14.0,16.0,18.0,14.0,18.0,32.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U13 Men 67,GRIGORIAN Samvel,65.5,26.0,28.0,30.0,34.0,-36.0,36.0,30.0,36.0,66.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U13 Women 45,THOMARAT Juliette,40.4,17.0,19.0,21.0,20.0,22.0,24.0,21.0,24.0,45.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U13 Women 49,MOUSLIAH Mariah,45.3,12.0,14.0,16.0,15.0,17.0,19.0,16.0,19.0,35.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 49,GRIMAL Claire,46.9,27.0,29.0,-31.0,31.0,34.0,37.0,29.0,37.0,66.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 55,ESPLAS Elisa,55.0,40.0,43.0,-46.0,45.0,48.0,51.0,43.0,51.0,94.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 64,BADIANO Valentine,62.1,51.0,53.0,55.0,61.0,64.0,-67.0,55.0,64.0,119.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 64,ROGER Pauline,63.5,-50.0,50.0,-55.0,63.0,-66.0,-69.0,50.0,63.0,113.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 64,MARIE ROSE Michelle,61.7,44.0,47.0,50.0,54.0,57.0,-60.0,50.0,57.0,107.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 64,SANSON-STERN Maj,60.6,45.0,48.0,-51.0,50.0,-53.0,53.0,48.0,53.0,101.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 64,JOUNIAUX Alexane,63.3,37.0,-39.0,39.0,43.0,46.0,-49.0,39.0,46.0,85.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 64,DELAGNES Angélique,59.6,32.0,35.0,-38.0,40.0,45.0,-50.0,35.0,45.0,80.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 71,ELIOT Diane,65.5,55.0,58.0,61.0,70.0,-75.0,78.0,61.0,78.0,139.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 71,FABRE Margot,69.9,40.0,42.0,-44.0,51.0,-54.0,54.0,42.0,54.0,96.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 71,BEAUSSART Sophie,67.7,35.0,37.0,-40.0,45.0,48.0,52.0,37.0,52.0,89.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 71,JOLY Valerie,68.7,25.0,27.0,29.0,30.0,33.0,35.0,29.0,35.0,64.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 76,MARING Mylène,72.9,50.0,53.0,56.0,60.0,64.0,67.0,56.0,67.0,123.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 87,BOADA Salomé,82.3,49.0,52.0,-55.0,65.0,-69.0,-70.0,52.0,65.0,117.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 87,PETIT Jade,81.6,44.0,47.0,50.0,58.0,62.0,-66.0,50.0,62.0,112.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women >87,CARRAT DE BLUZE Maelis,96.1,43.0,45.0,-48.0,58.0,61.0,-64.0,45.0,61.0,106.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women >87,FAJARDO Julie,95.3,30.0,-35.0,35.0,45.0,-50.0,50.0,35.0,50.0,85.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women >87,PROUET Bernadette,96.3,27.0,29.0,31.0,29.0,-35.0,-35.0,31.0,29.0,60.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 49,GRIMAL Claire,46.9,27.0,29.0,-31.0,31.0,34.0,37.0,29.0,37.0,66.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 55,ESPLAS Elisa,55.0,40.0,43.0,-46.0,45.0,48.0,51.0,43.0,51.0,94.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 64,BADIANO Valentine,62.1,51.0,53.0,55.0,61.0,64.0,-67.0,55.0,64.0,119.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 64,ROGER Pauline,63.5,-50.0,50.0,-55.0,63.0,-66.0,-69.0,50.0,63.0,113.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 64,MARIE ROSE Michelle,61.7,44.0,47.0,50.0,54.0,57.0,-60.0,50.0,57.0,107.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 64,SANSON-STERN Maj,60.6,45.0,48.0,-51.0,50.0,-53.0,53.0,48.0,53.0,101.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 64,JOUNIAUX Alexane,63.3,37.0,-39.0,39.0,43.0,46.0,-49.0,39.0,46.0,85.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 64,DELAGNES Angélique,59.6,32.0,35.0,-38.0,40.0,45.0,-50.0,35.0,45.0,80.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 71,ELIOT Diane,65.5,55.0,58.0,61.0,70.0,-75.0,78.0,61.0,78.0,139.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 71,FABRE Margot,69.9,40.0,42.0,-44.0,51.0,-54.0,54.0,42.0,54.0,96.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 71,BEAUSSART Sophie,67.7,35.0,37.0,-40.0,45.0,48.0,52.0,37.0,52.0,89.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 71,JOLY Valerie,68.7,25.0,27.0,29.0,30.0,33.0,35.0,29.0,35.0,64.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 76,MARING Mylène,72.9,50.0,53.0,56.0,60.0,64.0,67.0,56.0,67.0,123.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 87,BOADA Salomé,82.3,49.0,52.0,-55.0,65.0,-69.0,-70.0,52.0,65.0,117.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 87,PETIT Jade,81.6,44.0,47.0,50.0,58.0,62.0,-66.0,50.0,62.0,112.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women >87,CARRAT DE BLUZE Maelis,96.1,43.0,45.0,-48.0,58.0,61.0,-64.0,45.0,61.0,106.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women >87,FAJARDO Julie,95.3,30.0,-35.0,35.0,45.0,-50.0,50.0,35.0,50.0,85.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women >87,PROUET Bernadette,96.3,27.0,29.0,31.0,29.0,-35.0,-35.0,31.0,29.0,60.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U15 Men 49,DELIMA SANCHES Adriano,47.5,28.0,31.0,34.0,37.0,40.0,-43.0,34.0,40.0,74.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U15 Men 61,KHALIFA Leymann,60.6,47.0,50.0,-52.0,-60.0,60.0,-65.0,50.0,60.0,110.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U15 Men 61,CATOLIQUOT Malone,55.7,42.0,46.0,-49.0,54.0,-57.0,-57.0,46.0,54.0,100.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U15 Men 61,COLLIOU Ethan,59.2,33.0,36.0,40.0,45.0,48.0,-51.0,40.0,48.0,88.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U15 Men 73,FILHES Marius,71.7,42.0,46.0,-49.0,56.0,60.0,63.0,46.0,63.0,109.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U17 Men 61,DUCLOS Tinai,59.3,46.0,49.0,52.0,60.0,64.0,-68.0,52.0,64.0,116.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U17 Men 89,PASCAL Morgan,86.0,79.0,82.0,-85.0,-94.0,-94.0,-98.0,82.0,0.0,0.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U17 Men >102,AMUSAN Mathis,104.0,-49.0,49.0,55.0,-60.0,60.0,65.0,55.0,65.0,120.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U20 Men 81,DARDAILLER Axel,79.9,56.0,61.0,-65.0,62.0,-66.0,-66.0,61.0,62.0,123.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U20 Men 89,BRAQUET Remy,81.6,60.0,65.0,70.0,90.0,-100.0,-100.0,70.0,90.0,160.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 61,GALONNIER Jérémy,59.1,53.0,57.0,-60.0,65.0,69.0,-73.0,57.0,69.0,126.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 73,LAMY Thomas,72.4,88.0,91.0,-94.0,109.0,-114.0,-119.0,91.0,109.0,200.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 73,AMUSAN Medhy,72.3,79.0,-82.0,85.0,-97.0,100.0,-103.0,85.0,100.0,185.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 73,BARNATO Steeven,72.2,-68.0,-68.0,68.0,95.0,-99.0,-100.0,68.0,95.0,163.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 73,DIAS Carlo,70.0,50.0,-55.0,-55.0,70.0,74.0,-77.0,50.0,74.0,124.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U15 Men 49,DELIMA SANCHES Adriano,47.5,28.0,31.0,34.0,37.0,40.0,-43.0,34.0,40.0,74.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U15 Men 61,KHALIFA Leymann,60.6,47.0,50.0,-52.0,-60.0,60.0,-65.0,50.0,60.0,110.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U15 Men 61,CATOLIQUOT Malone,55.7,42.0,46.0,-49.0,54.0,-57.0,-57.0,46.0,54.0,100.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U15 Men 61,COLLIOU Ethan,59.2,33.0,36.0,40.0,45.0,48.0,-51.0,40.0,48.0,88.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U15 Men 73,FILHES Marius,71.7,42.0,46.0,-49.0,56.0,60.0,63.0,46.0,63.0,109.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U17 Men 61,DUCLOS Tinai,59.3,46.0,49.0,52.0,60.0,64.0,-68.0,52.0,64.0,116.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U17 Men 89,PASCAL Morgan,86.0,79.0,82.0,-85.0,-94.0,-94.0,-98.0,82.0,0.0,0.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U17 Men >102,AMUSAN Mathis,104.0,-49.0,49.0,55.0,-60.0,60.0,65.0,55.0,65.0,120.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U20 Men 81,DARDAILLER Axel,79.9,56.0,61.0,-65.0,62.0,-66.0,-66.0,61.0,62.0,123.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U20 Men 89,BRAQUET Remy,81.6,60.0,65.0,70.0,90.0,-100.0,-100.0,70.0,90.0,160.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 61,GALONNIER Jérémy,59.1,53.0,57.0,-60.0,65.0,69.0,-73.0,57.0,69.0,126.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 73,LAMY Thomas,72.4,88.0,91.0,-94.0,109.0,-114.0,-119.0,91.0,109.0,200.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 73,AMUSAN Medhy,72.3,79.0,-82.0,85.0,-97.0,100.0,-103.0,85.0,100.0,185.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 73,BARNATO Steeven,72.2,-68.0,-68.0,68.0,95.0,-99.0,-100.0,68.0,95.0,163.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 73,DIAS Carlo,70.0,50.0,-55.0,-55.0,70.0,74.0,-77.0,50.0,74.0,124.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 81,RAVALISSE Steven,78.6,95.0,-100.0,-100.0,-115.0,120.0,-125.0,95.0,120.0,215.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 81,CATANOSO Silvio,78.15,75.0,-81.0,81.0,105.0,-108.0,108.0,81.0,108.0,189.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 81,VALLEIX Fabrice,77.2,72.0,76.0,80.0,100.0,105.0,-110.0,80.0,105.0,185.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 81,MUNOZ Jean philippe,79.33,-57.0,57.0,-60.0,70.0,73.0,-76.0,57.0,73.0,130.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 81,FILMOTTE Frederic,79.2,50.0,-53.0,53.0,70.0,73.0,76.0,53.0,76.0,129.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 81,DUTREY Jean pierre,78.5,43.0,45.0,47.0,53.0,56.0,58.0,47.0,58.0,105.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 89,NGUYEN Minh,81.85,97.0,101.0,-103.0,115.0,120.0,124.0,101.0,124.0,225.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 89,MELO Romain,86.95,80.0,85.0,90.0,95.0,100.0,-110.0,90.0,100.0,190.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 89,ASTRUC Nicolas,85.2,80.0,85.0,-90.0,100.0,-105.0,-105.0,85.0,100.0,185.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 96,L'EXACT Roderic,95.36,90.0,-95.0,-95.0,-115.0,120.0,-124.0,90.0,120.0,210.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 96,BOULINGUEZ Xavier,89.85,-87.0,-88.0,90.0,106.0,-110.0,-110.0,90.0,106.0,196.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 96,BEYREND Victor,91.48,80.0,85.0,-88.0,-100.0,100.0,-107.0,85.0,100.0,185.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 102,LAVIE DERANDE Julien,100.95,95.0,100.0,105.0,127.0,132.0,137.0,105.0,137.0,242.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 102,BLUM Pierre,100.99,105.0,-110.0,-110.0,125.0,130.0,-135.0,105.0,130.0,235.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 102,DESPECHE Gerard,97.95,45.0,-50.0,50.0,-65.0,65.0,70.0,50.0,70.0,120.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 81,RAVALISSE Steven,78.6,95.0,-100.0,-100.0,-115.0,120.0,-125.0,95.0,120.0,215.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 81,CATANOSO Silvio,78.15,75.0,-81.0,81.0,105.0,-108.0,108.0,81.0,108.0,189.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 81,VALLEIX Fabrice,77.2,72.0,76.0,80.0,100.0,105.0,-110.0,80.0,105.0,185.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 81,MUNOZ Jean philippe,79.33,-57.0,57.0,-60.0,70.0,73.0,-76.0,57.0,73.0,130.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 81,FILMOTTE Frederic,79.2,50.0,-53.0,53.0,70.0,73.0,76.0,53.0,76.0,129.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 81,DUTREY Jean pierre,78.5,43.0,45.0,47.0,53.0,56.0,58.0,47.0,58.0,105.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 89,NGUYEN Minh,81.85,97.0,101.0,-103.0,115.0,120.0,124.0,101.0,124.0,225.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 89,MELO Romain,86.95,80.0,85.0,90.0,95.0,100.0,-110.0,90.0,100.0,190.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 89,ASTRUC Nicolas,85.2,80.0,85.0,-90.0,100.0,-105.0,-105.0,85.0,100.0,185.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 96,L'EXACT Roderic,95.36,90.0,-95.0,-95.0,-115.0,120.0,-124.0,90.0,120.0,210.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 96,BOULINGUEZ Xavier,89.85,-87.0,-88.0,90.0,106.0,-110.0,-110.0,90.0,106.0,196.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 96,BEYREND Victor,91.48,80.0,85.0,-88.0,-100.0,100.0,-107.0,85.0,100.0,185.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 102,LAVIE DERANDE Julien,100.95,95.0,100.0,105.0,127.0,132.0,137.0,105.0,137.0,242.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 102,BLUM Pierre,100.99,105.0,-110.0,-110.0,125.0,130.0,-135.0,105.0,130.0,235.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 102,DESPECHE Gerard,97.95,45.0,-50.0,50.0,-65.0,65.0,70.0,50.0,70.0,120.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U15 Women 49,SANZ Clémence,48.1,15.0,17.0,19.0,22.0,25.0,28.0,19.0,28.0,47.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U20 Women 71,MONTALIEU Chloé,70.6,28.0,30.0,33.0,48.0,51.0,-55.0,33.0,51.0,84.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 64,GAUDIN Elodie,61.1,38.0,40.0,42.0,48.0,53.0,-56.0,42.0,53.0,95.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 71,DURAND Slaviana,68.7,45.0,48.0,51.0,57.0,-61.0,62.0,51.0,62.0,113.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 71,HARDY Alexia,70.0,40.0,43.0,46.0,50.0,56.0,61.0,46.0,61.0,107.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 71,PANNETRAT Eva,68.0,30.0,35.0,38.0,48.0,52.0,56.0,38.0,56.0,94.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U15 Women 49,SANZ Clémence,48.1,15.0,17.0,19.0,22.0,25.0,28.0,19.0,28.0,47.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U20 Women 71,MONTALIEU Chloé,70.6,28.0,30.0,33.0,48.0,51.0,-55.0,33.0,51.0,84.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 64,GAUDIN Elodie,61.1,38.0,40.0,42.0,48.0,53.0,-56.0,42.0,53.0,95.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 71,DURAND Slaviana,68.7,45.0,48.0,51.0,57.0,-61.0,62.0,51.0,62.0,113.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 71,HARDY Alexia,70.0,40.0,43.0,46.0,50.0,56.0,61.0,46.0,61.0,107.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 71,PANNETRAT Eva,68.0,30.0,35.0,38.0,48.0,52.0,56.0,38.0,56.0,94.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U15 Men 61,GARCIA-DUHAMEL Jullian,55.7,35.0,40.0,43.0,50.0,55.0,-60.0,43.0,55.0,98.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U17 Men 67,LUSCHKA VON SELLHEIM Simon,65.3,40.0,-45.0,45.0,60.0,65.0,70.0,45.0,70.0,115.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U17 Men 73,D'ABOVILLE TORTERAT Edgar,72.7,55.0,60.0,-65.0,70.0,75.0,80.0,60.0,80.0,140.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U20 Men 61,SINGER Joël,61.0,40.0,-43.0,43.0,53.0,-57.0,58.0,43.0,58.0,101.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U20 Men 67,ROSSI Alexis,62.6,75.0,80.0,85.0,90.0,95.0,100.0,85.0,100.0,185.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U20 Men 73,VARGAS AMOUROUX Jonathan,71.4,52.0,55.0,58.0,65.0,-67.0,-67.0,58.0,65.0,123.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U20 Men 73,MOUTON Luc,72.0,-50.0,-50.0,50.0,68.0,-71.0,71.0,50.0,71.0,121.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U20 Men 81,ROUSSEAU Arthur,80.3,73.0,76.0,80.0,95.0,100.0,105.0,80.0,105.0,185.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U20 Men 81,SEDDA Ethan,80.0,50.0,57.0,64.0,69.0,77.0,83.0,64.0,83.0,147.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U20 Men 81,DE CICCO Enzo,75.0,50.0,53.0,56.0,65.0,68.0,71.0,56.0,71.0,127.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U20 Men 89,MARTIN Jonathan,87.3,65.0,67.0,70.0,75.0,77.0,-83.0,70.0,77.0,147.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U15 Men 61,GARCIA-DUHAMEL Jullian,55.7,35.0,40.0,43.0,50.0,55.0,-60.0,43.0,55.0,98.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U17 Men 67,LUSCHKA VON SELLHEIM Simon,65.3,40.0,-45.0,45.0,60.0,65.0,70.0,45.0,70.0,115.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U17 Men 73,D'ABOVILLE TORTERAT Edgar,72.7,55.0,60.0,-65.0,70.0,75.0,80.0,60.0,80.0,140.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U20 Men 61,SINGER Joël,61.0,40.0,-43.0,43.0,53.0,-57.0,58.0,43.0,58.0,101.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U20 Men 67,ROSSI Alexis,62.6,75.0,80.0,85.0,90.0,95.0,100.0,85.0,100.0,185.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U20 Men 73,VARGAS AMOUROUX Jonathan,71.4,52.0,55.0,58.0,65.0,-67.0,-67.0,58.0,65.0,123.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U20 Men 73,MOUTON Luc,72.0,-50.0,-50.0,50.0,68.0,-71.0,71.0,50.0,71.0,121.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U20 Men 81,ROUSSEAU Arthur,80.3,73.0,76.0,80.0,95.0,100.0,105.0,80.0,105.0,185.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U20 Men 81,SEDDA Ethan,80.0,50.0,57.0,64.0,69.0,77.0,83.0,64.0,83.0,147.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U20 Men 81,DE CICCO Enzo,75.0,50.0,53.0,56.0,65.0,68.0,71.0,56.0,71.0,127.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U20 Men 89,MARTIN Jonathan,87.3,65.0,67.0,70.0,75.0,77.0,-83.0,70.0,77.0,147.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 67,STORME Frédéric,65.1,60.0,63.0,68.0,80.0,85.0,-90.0,68.0,85.0,153.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 67,KAISER Arthur,65.4,52.0,-55.0,55.0,70.0,75.0,-80.0,55.0,75.0,130.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 73,MASSOL Lucas,73.0,80.0,85.0,91.0,110.0,-115.0,-115.0,91.0,110.0,201.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 73,MILLION Morgan,67.3,70.0,75.0,-80.0,80.0,85.0,90.0,75.0,90.0,165.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 73,MARTIN Teddy,72.9,70.0,74.0,-80.0,85.0,90.0,-100.0,74.0,90.0,164.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 81,GIL TALI Jose yasin,77.9,81.0,89.0,-95.0,100.0,110.0,115.0,89.0,115.0,204.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 81,LAURENT Stefan,80.4,-80.0,81.0,-86.0,95.0,102.0,-110.0,81.0,102.0,183.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 81,RUDEL Thomas,78.8,70.0,75.0,80.0,90.0,95.0,101.0,80.0,101.0,181.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 89,MONTESINOS Thomas,86.1,68.0,72.0,75.0,95.0,100.0,-105.0,75.0,100.0,175.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 102,TRICOIRE Guillaume,99.7,75.0,80.0,-85.0,-90.0,92.0,-95.0,80.0,92.0,172.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 109,CORNU Jonathan,105.1,80.0,85.0,-90.0,105.0,115.0,-121.0,85.0,115.0,200.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 67,STORME Frédéric,65.1,60.0,63.0,68.0,80.0,85.0,-90.0,68.0,85.0,153.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 67,KAISER Arthur,65.4,52.0,-55.0,55.0,70.0,75.0,-80.0,55.0,75.0,130.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 73,MASSOL Lucas,73.0,80.0,85.0,91.0,110.0,-115.0,-115.0,91.0,110.0,201.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 73,MILLION Morgan,67.3,70.0,75.0,-80.0,80.0,85.0,90.0,75.0,90.0,165.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 73,MARTIN Teddy,72.9,70.0,74.0,-80.0,85.0,90.0,-100.0,74.0,90.0,164.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 81,GIL TALI Jose yasin,77.9,81.0,89.0,-95.0,100.0,110.0,115.0,89.0,115.0,204.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 81,LAURENT Stefan,80.4,-80.0,81.0,-86.0,95.0,102.0,-110.0,81.0,102.0,183.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 81,RUDEL Thomas,78.8,70.0,75.0,80.0,90.0,95.0,101.0,80.0,101.0,181.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 89,MONTESINOS Thomas,86.1,68.0,72.0,75.0,95.0,100.0,-105.0,75.0,100.0,175.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 102,TRICOIRE Guillaume,99.7,75.0,80.0,-85.0,-90.0,92.0,-95.0,80.0,92.0,172.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 109,CORNU Jonathan,105.1,80.0,85.0,-90.0,105.0,115.0,-121.0,85.0,115.0,200.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 55,KONIG Astrid,51.9,43.0,47.0,-54.0,60.0,-65.0,67.0,47.0,67.0,114.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 55,GOUJEAU Johanna,53.0,-33.0,33.0,35.0,50.0,-52.0,52.0,35.0,52.0,87.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 55,PIFFAULT Virginie,52.2,36.0,38.0,40.0,43.0,46.0,-49.0,40.0,46.0,86.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 55,BROSSARD Bernadette,54.9,24.0,26.0,28.0,35.0,37.0,39.0,28.0,39.0,67.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 55,TABORDET Nelly,54.2,20.0,22.0,-23.0,27.0,29.0,30.0,22.0,30.0,52.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 59,VERDY Laeticia,58.8,40.0,42.0,44.0,52.0,55.0,58.0,44.0,58.0,102.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 64,BASTIE Marie,62.7,44.0,47.0,-50.0,60.0,64.0,-67.0,47.0,64.0,111.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 64,RIVOAL Mathilde,59.6,-35.0,-35.0,35.0,40.0,45.0,48.0,35.0,48.0,83.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 71,MOREAU Doralicia,68.8,46.0,49.0,-52.0,57.0,61.0,-64.0,49.0,61.0,110.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 71,RENOUX Corentine,64.9,35.0,38.0,-40.0,40.0,43.0,-45.0,38.0,43.0,81.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 76,LEPAIN Cindy,72.5,34.0,36.0,38.0,45.0,48.0,52.0,38.0,52.0,90.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 81,DESENCLOS Cindy,80.2,38.0,40.0,-42.0,50.0,53.0,-55.0,40.0,53.0,93.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 55,KONIG Astrid,51.9,43.0,47.0,-54.0,60.0,-65.0,67.0,47.0,67.0,114.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 55,GOUJEAU Johanna,53.0,-33.0,33.0,35.0,50.0,-52.0,52.0,35.0,52.0,87.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 55,PIFFAULT Virginie,52.2,36.0,38.0,40.0,43.0,46.0,-49.0,40.0,46.0,86.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 55,BROSSARD Bernadette,54.9,24.0,26.0,28.0,35.0,37.0,39.0,28.0,39.0,67.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 55,TABORDET Nelly,54.2,20.0,22.0,-23.0,27.0,29.0,30.0,22.0,30.0,52.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 59,VERDY Laeticia,58.8,40.0,42.0,44.0,52.0,55.0,58.0,44.0,58.0,102.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 64,BASTIE Marie,62.7,44.0,47.0,-50.0,60.0,64.0,-67.0,47.0,64.0,111.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 64,RIVOAL Mathilde,59.6,-35.0,-35.0,35.0,40.0,45.0,48.0,35.0,48.0,83.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 71,MOREAU Doralicia,68.8,46.0,49.0,-52.0,57.0,61.0,-64.0,49.0,61.0,110.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 71,RENOUX Corentine,64.9,35.0,38.0,-40.0,40.0,43.0,-45.0,38.0,43.0,81.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 76,LEPAIN Cindy,72.5,34.0,36.0,38.0,45.0,48.0,52.0,38.0,52.0,90.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Women 81,DESENCLOS Cindy,80.2,38.0,40.0,-42.0,50.0,53.0,-55.0,40.0,53.0,93.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U15 Men 61,ROISER Louis,57.1,-40.0,40.0,-43.0,50.0,-53.0,-53.0,40.0,50.0,90.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U17 Men 81,BEN ELHADJ KHALIFA Nadir,79.0,-48.0,48.0,50.0,60.0,64.0,68.0,50.0,68.0,118.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 61,JACQUET Vincent,59.8,48.0,52.0,-54.0,62.0,66.0,68.0,52.0,68.0,120.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 61,ANTONIO Cédric,59.1,35.0,38.0,40.0,45.0,50.0,52.0,40.0,52.0,92.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 67,FIETTE Laurent,66.2,55.0,58.0,-61.0,72.0,77.0,81.0,58.0,81.0,139.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 67,CAILLAUD Jean philippe,65.9,55.0,58.0,-60.0,73.0,77.0,-80.0,58.0,77.0,135.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 73,JANVIER Clement,70.6,68.0,72.0,-76.0,95.0,100.0,-105.0,72.0,100.0,172.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 73,FIETTE Thimothée,71.0,-55.0,-55.0,55.0,-65.0,65.0,70.0,55.0,70.0,125.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 81,PAILLE Nicolas,76.0,90.0,-95.0,95.0,110.0,-115.0,115.0,95.0,115.0,210.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 89,HUTEAU Rudolphe,87.8,85.0,90.0,95.0,105.0,110.0,115.0,95.0,115.0,210.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 89,ROUSSEAU Teiva,84.2,-87.0,87.0,90.0,108.0,112.0,-115.0,90.0,112.0,202.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 89,FRAIZE Pascal,87.1,80.0,85.0,-88.0,105.0,110.0,115.0,85.0,115.0,200.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 89,HALLEY Matiss,84.6,65.0,70.0,75.0,80.0,85.0,90.0,75.0,90.0,165.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 96,BECHEREAU Axel,96.0,92.0,95.0,98.0,110.0,115.0,120.0,98.0,120.0,218.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 96,MAUPOINT Johnny,90.1,-75.0,75.0,80.0,105.0,110.0,115.0,80.0,115.0,195.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 109,SEIGNEUR Gael,107.8,40.0,44.0,47.0,57.0,62.0,-65.0,47.0,62.0,109.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men >109,GEORGES Valentin,113.7,55.0,58.0,62.0,73.0,78.0,82.0,62.0,82.0,144.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U15 Men 61,ROISER Louis,57.1,-40.0,40.0,-43.0,50.0,-53.0,-53.0,40.0,50.0,90.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U17 Men 81,BEN ELHADJ KHALIFA Nadir,79.0,-48.0,48.0,50.0,60.0,64.0,68.0,50.0,68.0,118.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 61,JACQUET Vincent,59.8,48.0,52.0,-54.0,62.0,66.0,68.0,52.0,68.0,120.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 61,ANTONIO Cédric,59.1,35.0,38.0,40.0,45.0,50.0,52.0,40.0,52.0,92.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 67,FIETTE Laurent,66.2,55.0,58.0,-61.0,72.0,77.0,81.0,58.0,81.0,139.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 67,CAILLAUD Jean philippe,65.9,55.0,58.0,-60.0,73.0,77.0,-80.0,58.0,77.0,135.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 73,JANVIER Clement,70.6,68.0,72.0,-76.0,95.0,100.0,-105.0,72.0,100.0,172.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 73,FIETTE Thimothée,71.0,-55.0,-55.0,55.0,-65.0,65.0,70.0,55.0,70.0,125.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 81,PAILLE Nicolas,76.0,90.0,-95.0,95.0,110.0,-115.0,115.0,95.0,115.0,210.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 89,HUTEAU Rudolphe,87.8,85.0,90.0,95.0,105.0,110.0,115.0,95.0,115.0,210.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 89,ROUSSEAU Teiva,84.2,-87.0,87.0,90.0,108.0,112.0,-115.0,90.0,112.0,202.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 89,FRAIZE Pascal,87.1,80.0,85.0,-88.0,105.0,110.0,115.0,85.0,115.0,200.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 89,HALLEY Matiss,84.6,65.0,70.0,75.0,80.0,85.0,90.0,75.0,90.0,165.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 96,BECHEREAU Axel,96.0,92.0,95.0,98.0,110.0,115.0,120.0,98.0,120.0,218.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 96,MAUPOINT Johnny,90.1,-75.0,75.0,80.0,105.0,110.0,115.0,80.0,115.0,195.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men 109,SEIGNEUR Gael,107.8,40.0,44.0,47.0,57.0,62.0,-65.0,47.0,62.0,109.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,SEN Men >109,GEORGES Valentin,113.7,55.0,58.0,62.0,73.0,78.0,82.0,62.0,82.0,144.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U15 Men >102,DEFIOBANA Ange,125.0,32.0,-35.0,-35.0,35.0,40.0,-45.0,32.0,40.0,72.0
+OCC - Challenge Avenir - Montauban - U15F+U17F+U20F Plateau 1,2024-01-13,U15 Men >102,DEFIOBANA Ange,125.0,32.0,-35.0,-35.0,35.0,40.0,-45.0,32.0,40.0,72.0

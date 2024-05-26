@@ -1,0 +1,64 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,U13 Men 35,TÉLISMART Maxime,34.9,-23.0,23.0,24.0,28.0,30.0,31.0,24.0,31.0,55.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,U13 Men 40,MOULS Paul-maxime,37.0,15.0,16.0,17.0,19.0,-20.0,20.0,17.0,20.0,37.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,U13 Men 45,TAÏLÉ Soan,43.4,15.0,17.0,-19.0,18.0,20.0,22.0,17.0,22.0,39.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,U15 Women 55,CADET Abigaël,51.3,25.0,28.0,32.0,35.0,38.0,41.0,32.0,41.0,73.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women 55,CADET Elodie,54.4,-41.0,41.0,-44.0,-54.0,54.0,-57.0,41.0,54.0,95.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women 55,DI CRISTO Ingrid,52.2,25.0,27.0,30.0,30.0,34.0,38.0,30.0,38.0,68.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women 59,PAYET Graziella,57.0,35.0,-38.0,38.0,45.0,-48.0,-48.0,38.0,45.0,83.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women 64,LÉPINAY Marie amélie,61.2,45.0,48.0,-51.0,-58.0,58.0,-61.0,48.0,58.0,106.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women 64,MOLLAN Leyla,62.0,41.0,-43.0,43.0,55.0,57.0,60.0,43.0,60.0,103.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women 71,MANIECA Christelle,69.3,58.0,60.0,-62.0,66.0,-68.0,-68.0,60.0,66.0,126.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women 71,NIVY Julie,69.3,-47.0,47.0,-50.0,58.0,61.0,64.0,47.0,64.0,111.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women 71,SAUTRON Pascale,70.0,37.0,40.0,-42.0,50.0,-54.0,54.0,40.0,54.0,94.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women 81,SOUPRAYENPOULLÉ PÉRY NAYAGOM Valérie,80.0,45.0,47.0,50.0,62.0,65.0,68.0,50.0,68.0,118.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women 87,TECHER Carolann,84.9,35.0,39.0,-45.0,45.0,49.0,53.0,39.0,53.0,92.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women >87,DURIEUX Laura,87.4,45.0,48.0,51.0,55.0,59.0,-64.0,51.0,59.0,110.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,U15 Women 55,CADET Abigaël,51.3,25.0,28.0,32.0,35.0,38.0,41.0,32.0,41.0,73.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women 55,CADET Elodie,54.4,-41.0,41.0,-44.0,-54.0,54.0,-57.0,41.0,54.0,95.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women 55,DI CRISTO Ingrid,52.2,25.0,27.0,30.0,30.0,34.0,38.0,30.0,38.0,68.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women 59,PAYET Graziella,57.0,35.0,-38.0,38.0,45.0,-48.0,-48.0,38.0,45.0,83.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women 64,LÉPINAY Marie amélie,61.2,45.0,48.0,-51.0,-58.0,58.0,-61.0,48.0,58.0,106.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women 64,MOLLAN Leyla,62.0,41.0,-43.0,43.0,55.0,57.0,60.0,43.0,60.0,103.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women 71,MANIECA Christelle,69.3,58.0,60.0,-62.0,66.0,-68.0,-68.0,60.0,66.0,126.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women 71,NIVY Julie,69.3,-47.0,47.0,-50.0,58.0,61.0,64.0,47.0,64.0,111.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women 71,SAUTRON Pascale,70.0,37.0,40.0,-42.0,50.0,-54.0,54.0,40.0,54.0,94.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women 81,SOUPRAYENPOULLÉ PÉRY NAYAGOM Valérie,80.0,45.0,47.0,50.0,62.0,65.0,68.0,50.0,68.0,118.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women 87,TECHER Carolann,84.9,35.0,39.0,-45.0,45.0,49.0,53.0,39.0,53.0,92.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women >87,DURIEUX Laura,87.4,45.0,48.0,51.0,55.0,59.0,-64.0,51.0,59.0,110.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,U15 Men 49,SAUTRON Damien téo,46.49,29.0,30.0,-32.0,37.0,-39.0,-39.0,30.0,37.0,67.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,U15 Men 49,PATEL Ilyane,34.3,20.0,23.0,-26.0,30.0,33.0,36.0,23.0,36.0,59.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,U17 Men 67,LEBON Louis,64.8,43.0,46.0,50.0,53.0,57.0,64.0,50.0,64.0,114.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Men 73,ERUDEL Raphael,72.5,55.0,57.0,59.0,70.0,74.0,76.0,59.0,76.0,135.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Men 81,ABADIE Thomas,79.1,85.0,90.0,95.0,108.0,113.0,-117.0,95.0,113.0,208.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Men 81,BALBOLIA Hamza,79.2,64.0,71.0,73.0,84.0,89.0,-91.0,73.0,89.0,162.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Men 96,DIJOUX Ludovic,92.9,63.0,-70.0,-72.0,83.0,-88.0,90.0,63.0,90.0,153.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Men 102,SULLIMAN Djabir,97.5,77.0,-80.0,81.0,105.0,110.0,113.0,81.0,113.0,194.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,U15 Men 49,SAUTRON Damien téo,46.49,29.0,30.0,-32.0,37.0,-39.0,-39.0,30.0,37.0,67.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,U15 Men 49,PATEL Ilyane,34.3,20.0,23.0,-26.0,30.0,33.0,36.0,23.0,36.0,59.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,U17 Men 67,LEBON Louis,64.8,43.0,46.0,50.0,53.0,57.0,64.0,50.0,64.0,114.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Men 73,ERUDEL Raphael,72.5,55.0,57.0,59.0,70.0,74.0,76.0,59.0,76.0,135.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Men 81,ABADIE Thomas,79.1,85.0,90.0,95.0,108.0,113.0,-117.0,95.0,113.0,208.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Men 81,BALBOLIA Hamza,79.2,64.0,71.0,73.0,84.0,89.0,-91.0,73.0,89.0,162.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Men 96,DIJOUX Ludovic,92.9,63.0,-70.0,-72.0,83.0,-88.0,90.0,63.0,90.0,153.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Men 102,SULLIMAN Djabir,97.5,77.0,-80.0,81.0,105.0,110.0,113.0,81.0,113.0,194.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,U17 Women >81,LEBON Leane,86.8,31.0,34.0,37.0,41.0,45.0,-48.0,37.0,45.0,82.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women 49,NATIVEL Laure,48.7,30.0,-33.0,-35.0,42.0,46.0,-50.0,30.0,46.0,76.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women 55,ANDRIEUX Estelle,52.17,30.0,-33.0,34.0,42.0,46.0,-50.0,34.0,46.0,80.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women 59,TORNEY Constance,58.1,37.0,40.0,-43.0,-52.0,52.0,55.0,40.0,55.0,95.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women 64,BOBAN Marine,60.9,45.0,49.0,52.0,60.0,64.0,-68.0,52.0,64.0,116.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women 64,ROY Emilie,61.8,32.0,-35.0,-37.0,45.0,50.0,-54.0,32.0,50.0,82.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women 71,NOE Jennifer,68.6,42.0,46.0,50.0,55.0,59.0,-62.0,50.0,59.0,109.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women 76,BENARD Claudine,73.8,30.0,33.0,37.0,45.0,50.0,-55.0,37.0,50.0,87.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women 81,PUTMAN Aurelie,78.0,40.0,43.0,-44.0,50.0,56.0,59.0,43.0,59.0,102.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women 87,MAILLOT Roxane,85.7,40.0,-44.0,-45.0,45.0,50.0,57.0,40.0,57.0,97.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,U17 Women >81,LEBON Leane,86.8,31.0,34.0,37.0,41.0,45.0,-48.0,37.0,45.0,82.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women 49,NATIVEL Laure,48.7,30.0,-33.0,-35.0,42.0,46.0,-50.0,30.0,46.0,76.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women 55,ANDRIEUX Estelle,52.17,30.0,-33.0,34.0,42.0,46.0,-50.0,34.0,46.0,80.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women 59,TORNEY Constance,58.1,37.0,40.0,-43.0,-52.0,52.0,55.0,40.0,55.0,95.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women 64,BOBAN Marine,60.9,45.0,49.0,52.0,60.0,64.0,-68.0,52.0,64.0,116.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women 64,ROY Emilie,61.8,32.0,-35.0,-37.0,45.0,50.0,-54.0,32.0,50.0,82.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women 71,NOE Jennifer,68.6,42.0,46.0,50.0,55.0,59.0,-62.0,50.0,59.0,109.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women 76,BENARD Claudine,73.8,30.0,33.0,37.0,45.0,50.0,-55.0,37.0,50.0,87.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women 81,PUTMAN Aurelie,78.0,40.0,43.0,-44.0,50.0,56.0,59.0,43.0,59.0,102.0
+REU - Challenge Avenir - Tampon - U10-U13,2023-01-22,SEN Women 87,MAILLOT Roxane,85.7,40.0,-44.0,-45.0,45.0,50.0,57.0,40.0,57.0,97.0

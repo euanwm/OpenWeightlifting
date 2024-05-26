@@ -1,0 +1,145 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U10 Women ,BACHE Maelis,27.3,10.0,11.0,12.0,12.0,13.0,14.0,12.0,14.0,26.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U13 Women 40,VEFOUR Adèle,35.6,23.0,25.0,27.0,33.0,35.0,37.0,27.0,37.0,64.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U13 Women 45,RICHARD Maelys,41.4,26.0,28.0,30.0,36.0,38.0,40.0,30.0,40.0,70.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U13 Women 49,ST MART Kia,46.1,23.0,25.0,-26.0,29.0,31.0,33.0,25.0,33.0,58.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U13 Men 35,ESSOB Noah,27.4,23.0,24.0,25.0,26.0,28.0,30.0,25.0,30.0,55.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U13 Men 35,TÉLISMART Maxime,34.1,21.0,23.0,-25.0,27.0,29.0,31.0,23.0,31.0,54.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U13 Men 35,VEFOUR Noah,33.7,21.0,23.0,-25.0,26.0,28.0,30.0,23.0,30.0,53.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U13 Men 35,MOULS Paul-maxime,34.9,12.0,13.0,-14.0,17.0,18.0,19.0,13.0,19.0,32.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U13 Men 45,TAÏLÉ Soan,43.4,15.0,16.0,-18.0,20.0,22.0,-23.0,16.0,22.0,38.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U13 Men 55,AUZATE Ismaël,51.7,26.0,28.0,30.0,36.0,38.0,40.0,30.0,40.0,70.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U15 Women 49,DOUYERE Solene,47.4,23.0,25.0,27.0,30.0,33.0,35.0,27.0,35.0,62.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U15 Women 59,ROBERT Célia,57.6,-35.0,37.0,40.0,45.0,48.0,-50.0,40.0,48.0,88.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U17 Women 49,XAVIER Célia,48.3,30.0,-33.0,-33.0,38.0,-41.0,41.0,30.0,41.0,71.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U20 Women 64,MARLIN Amélie,60.4,27.0,30.0,33.0,35.0,38.0,40.0,33.0,40.0,73.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U20 Women 71,PERRIERE Lou-ann,66.2,-35.0,35.0,-39.0,40.0,45.0,50.0,35.0,50.0,85.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 55,CADET Elodie,53.1,38.0,-41.0,-41.0,49.0,52.0,55.0,38.0,55.0,93.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 55,PERRAUD Laetitia,54.6,34.0,-37.0,37.0,44.0,47.0,-50.0,37.0,47.0,84.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 59,PAYET Graziella,57.8,-37.0,37.0,-40.0,45.0,48.0,-51.0,37.0,48.0,85.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 59,DOUYERE Helene,57.7,31.0,33.0,-35.0,43.0,-45.0,-45.0,33.0,43.0,76.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 64,LÉPINAY Marie amélie,61.4,43.0,45.0,-47.0,55.0,57.0,-60.0,45.0,57.0,102.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 64,MOLLAN Leyla,63.2,-39.0,41.0,-43.0,52.0,54.0,56.0,41.0,56.0,97.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 64,LAUFERON Margaux,61.3,36.0,39.0,41.0,46.0,49.0,51.0,41.0,51.0,92.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 64,GEDEAS Marie lydie,62.7,32.0,-34.0,34.0,41.0,44.0,47.0,34.0,47.0,81.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 64,M'TIMA Jessica,62.4,31.0,33.0,-35.0,43.0,46.0,-49.0,33.0,46.0,79.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 71,MANIECA Christelle,69.2,-58.0,58.0,-60.0,66.0,-69.0,-69.0,58.0,66.0,124.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 71,BAKOWSKI Charline,66.9,-45.0,47.0,-50.0,57.0,60.0,-63.0,47.0,60.0,107.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 71,GROSSET Gladys,65.9,30.0,33.0,-35.0,43.0,46.0,-48.0,33.0,46.0,79.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 81,SOUPRAYENPOULLÉ PÉRY NAYAGOM Valérie,78.6,37.0,39.0,42.0,54.0,59.0,62.0,42.0,62.0,104.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 87,HOAREAU Marjorie,86.0,45.0,50.0,53.0,72.0,76.0,80.0,53.0,80.0,133.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 87,ALMANZY Cassandra,87.0,58.0,-62.0,62.0,70.0,-75.0,-75.0,62.0,70.0,132.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U15 Women 49,DOUYERE Solene,47.4,23.0,25.0,27.0,30.0,33.0,35.0,27.0,35.0,62.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U15 Women 59,ROBERT Célia,57.6,-35.0,37.0,40.0,45.0,48.0,-50.0,40.0,48.0,88.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U17 Women 49,XAVIER Célia,48.3,30.0,-33.0,-33.0,38.0,-41.0,41.0,30.0,41.0,71.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U20 Women 64,MARLIN Amélie,60.4,27.0,30.0,33.0,35.0,38.0,40.0,33.0,40.0,73.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U20 Women 71,PERRIERE Lou-ann,66.2,-35.0,35.0,-39.0,40.0,45.0,50.0,35.0,50.0,85.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 55,CADET Elodie,53.1,38.0,-41.0,-41.0,49.0,52.0,55.0,38.0,55.0,93.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 55,PERRAUD Laetitia,54.6,34.0,-37.0,37.0,44.0,47.0,-50.0,37.0,47.0,84.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 59,PAYET Graziella,57.8,-37.0,37.0,-40.0,45.0,48.0,-51.0,37.0,48.0,85.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 59,DOUYERE Helene,57.7,31.0,33.0,-35.0,43.0,-45.0,-45.0,33.0,43.0,76.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 64,LÉPINAY Marie amélie,61.4,43.0,45.0,-47.0,55.0,57.0,-60.0,45.0,57.0,102.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 64,MOLLAN Leyla,63.2,-39.0,41.0,-43.0,52.0,54.0,56.0,41.0,56.0,97.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 64,LAUFERON Margaux,61.3,36.0,39.0,41.0,46.0,49.0,51.0,41.0,51.0,92.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 64,GEDEAS Marie lydie,62.7,32.0,-34.0,34.0,41.0,44.0,47.0,34.0,47.0,81.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 64,M'TIMA Jessica,62.4,31.0,33.0,-35.0,43.0,46.0,-49.0,33.0,46.0,79.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 71,MANIECA Christelle,69.2,-58.0,58.0,-60.0,66.0,-69.0,-69.0,58.0,66.0,124.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 71,BAKOWSKI Charline,66.9,-45.0,47.0,-50.0,57.0,60.0,-63.0,47.0,60.0,107.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 71,GROSSET Gladys,65.9,30.0,33.0,-35.0,43.0,46.0,-48.0,33.0,46.0,79.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 81,SOUPRAYENPOULLÉ PÉRY NAYAGOM Valérie,78.6,37.0,39.0,42.0,54.0,59.0,62.0,42.0,62.0,104.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 87,HOAREAU Marjorie,86.0,45.0,50.0,53.0,72.0,76.0,80.0,53.0,80.0,133.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 87,ALMANZY Cassandra,87.0,58.0,-62.0,62.0,70.0,-75.0,-75.0,62.0,70.0,132.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U17 Men 55,DEMEILLERS Matis,54.86,50.0,53.0,-56.0,65.0,68.0,-71.0,53.0,68.0,121.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U17 Men 61,BARSOUNAIK Dorian,57.24,35.0,37.0,-40.0,-55.0,55.0,58.0,37.0,58.0,95.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U20 Men 67,RIVASSEAU Valentin,64.61,67.0,70.0,-73.0,80.0,83.0,-85.0,70.0,83.0,153.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Men 73,DOUYERE Stéphane,70.81,65.0,70.0,-75.0,-85.0,85.0,90.0,70.0,90.0,160.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Men 73,TEILLAUCHET Jacky,71.8,57.0,-60.0,-62.0,75.0,-78.0,-78.0,57.0,75.0,132.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Men 73,TIBERE Sébastien,69.07,45.0,-50.0,55.0,60.0,-65.0,65.0,55.0,65.0,120.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Men 81,LAW THU Alexandre,78.04,90.0,100.0,-103.0,-100.0,105.0,-115.0,100.0,105.0,205.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Men 81,SACRIAS Stéphane,80.85,-71.0,73.0,76.0,91.0,-97.0,-101.0,76.0,91.0,167.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Men 81,ISAMA Loïc,81.0,50.0,57.0,-60.0,70.0,75.0,80.0,57.0,80.0,137.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Men 81,ERUDEL Raphael,73.87,53.0,55.0,-58.0,65.0,70.0,-73.0,55.0,70.0,125.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Men 89,SIMPLON Jean bénédict,88.04,85.0,90.0,95.0,110.0,115.0,-120.0,95.0,115.0,210.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Men 89,SOUPAYA Frédéric,82.85,48.0,52.0,55.0,60.0,65.0,70.0,55.0,70.0,125.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Men 96,JOUVE Maxence,89.5,-75.0,75.0,81.0,90.0,-95.0,-95.0,81.0,90.0,171.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Men 102,SULLIMAN Djabir,98.6,75.0,77.0,-80.0,100.0,105.0,-110.0,77.0,105.0,182.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Men 102,LAPIERRE Matthieu,99.61,65.0,-70.0,-70.0,90.0,95.0,-100.0,65.0,95.0,160.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U17 Men 55,DEMEILLERS Matis,54.86,50.0,53.0,-56.0,65.0,68.0,-71.0,53.0,68.0,121.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U17 Men 61,BARSOUNAIK Dorian,57.24,35.0,37.0,-40.0,-55.0,55.0,58.0,37.0,58.0,95.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U20 Men 67,RIVASSEAU Valentin,64.61,67.0,70.0,-73.0,80.0,83.0,-85.0,70.0,83.0,153.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Men 73,DOUYERE Stéphane,70.81,65.0,70.0,-75.0,-85.0,85.0,90.0,70.0,90.0,160.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Men 73,TEILLAUCHET Jacky,71.8,57.0,-60.0,-62.0,75.0,-78.0,-78.0,57.0,75.0,132.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Men 73,TIBERE Sébastien,69.07,45.0,-50.0,55.0,60.0,-65.0,65.0,55.0,65.0,120.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Men 81,LAW THU Alexandre,78.04,90.0,100.0,-103.0,-100.0,105.0,-115.0,100.0,105.0,205.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Men 81,SACRIAS Stéphane,80.85,-71.0,73.0,76.0,91.0,-97.0,-101.0,76.0,91.0,167.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Men 81,ISAMA Loïc,81.0,50.0,57.0,-60.0,70.0,75.0,80.0,57.0,80.0,137.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Men 81,ERUDEL Raphael,73.87,53.0,55.0,-58.0,65.0,70.0,-73.0,55.0,70.0,125.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Men 89,SIMPLON Jean bénédict,88.04,85.0,90.0,95.0,110.0,115.0,-120.0,95.0,115.0,210.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Men 89,SOUPAYA Frédéric,82.85,48.0,52.0,55.0,60.0,65.0,70.0,55.0,70.0,125.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Men 96,JOUVE Maxence,89.5,-75.0,75.0,81.0,90.0,-95.0,-95.0,81.0,90.0,171.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Men 102,SULLIMAN Djabir,98.6,75.0,77.0,-80.0,100.0,105.0,-110.0,77.0,105.0,182.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Men 102,LAPIERRE Matthieu,99.61,65.0,-70.0,-70.0,90.0,95.0,-100.0,65.0,95.0,160.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U15 Men 49,PATEL Ilyane,32.39,18.0,20.0,23.0,28.0,31.0,33.0,23.0,33.0,56.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U15 Men 61,CLAIN Raphael,58.86,40.0,45.0,50.0,50.0,55.0,60.0,50.0,60.0,110.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U15 Men 61,ROBERT Yan,56.6,30.0,35.0,40.0,40.0,45.0,50.0,40.0,50.0,90.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U17 Men 55,ESSOB Alexandre,50.77,40.0,45.0,-50.0,45.0,50.0,55.0,45.0,55.0,100.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U20 Men 73,NASSAU Romain françois,72.5,60.0,63.0,-65.0,75.0,80.0,85.0,63.0,85.0,148.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U20 Men 81,POLITINO Enzo o,77.8,75.0,80.0,85.0,100.0,105.0,-110.0,85.0,105.0,190.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U20 Men 81,YENG SENG Alexandre,80.64,53.0,-57.0,57.0,75.0,80.0,85.0,57.0,85.0,142.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U20 Men 81,HAORAU Antoine,75.49,45.0,-50.0,50.0,55.0,60.0,-62.0,50.0,60.0,110.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U20 Men 89,BALMANN Antoine,84.07,55.0,60.0,65.0,80.0,-85.0,-85.0,65.0,80.0,145.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U20 Men 89,MAINIX Victor,82.93,-55.0,55.0,-60.0,80.0,85.0,-90.0,55.0,85.0,140.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U20 Men 89,MOUHADJI Karim,82.52,60.0,-65.0,-65.0,-75.0,-75.0,75.0,60.0,75.0,135.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Men 73,SMITH Quentin,72.38,70.0,-75.0,75.0,85.0,90.0,-95.0,75.0,90.0,165.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Men 73,KLOCK Jean michel,70.78,57.0,-61.0,61.0,-70.0,-72.0,72.0,61.0,72.0,133.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Men 81,ANKIBO Leonce,79.94,-75.0,-75.0,-75.0,95.0,100.0,105.0,0.0,105.0,0.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Men 102,VERBARD Ludovic,101.61,65.0,70.0,75.0,-80.0,-85.0,85.0,75.0,85.0,160.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U15 Men 49,PATEL Ilyane,32.39,18.0,20.0,23.0,28.0,31.0,33.0,23.0,33.0,56.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U15 Men 61,CLAIN Raphael,58.86,40.0,45.0,50.0,50.0,55.0,60.0,50.0,60.0,110.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U15 Men 61,ROBERT Yan,56.6,30.0,35.0,40.0,40.0,45.0,50.0,40.0,50.0,90.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U17 Men 55,ESSOB Alexandre,50.77,40.0,45.0,-50.0,45.0,50.0,55.0,45.0,55.0,100.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U20 Men 73,NASSAU Romain françois,72.5,60.0,63.0,-65.0,75.0,80.0,85.0,63.0,85.0,148.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U20 Men 81,POLITINO Enzo o,77.8,75.0,80.0,85.0,100.0,105.0,-110.0,85.0,105.0,190.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U20 Men 81,YENG SENG Alexandre,80.64,53.0,-57.0,57.0,75.0,80.0,85.0,57.0,85.0,142.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U20 Men 81,HAORAU Antoine,75.49,45.0,-50.0,50.0,55.0,60.0,-62.0,50.0,60.0,110.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U20 Men 89,BALMANN Antoine,84.07,55.0,60.0,65.0,80.0,-85.0,-85.0,65.0,80.0,145.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U20 Men 89,MAINIX Victor,82.93,-55.0,55.0,-60.0,80.0,85.0,-90.0,55.0,85.0,140.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U20 Men 89,MOUHADJI Karim,82.52,60.0,-65.0,-65.0,-75.0,-75.0,75.0,60.0,75.0,135.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Men 73,SMITH Quentin,72.38,70.0,-75.0,75.0,85.0,90.0,-95.0,75.0,90.0,165.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Men 73,KLOCK Jean michel,70.78,57.0,-61.0,61.0,-70.0,-72.0,72.0,61.0,72.0,133.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Men 81,ANKIBO Leonce,79.94,-75.0,-75.0,-75.0,95.0,100.0,105.0,0.0,105.0,0.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Men 102,VERBARD Ludovic,101.61,65.0,70.0,75.0,-80.0,-85.0,85.0,75.0,85.0,160.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U17 Women 55,BOROWIAK Julia,53.0,30.0,32.0,-34.0,38.0,41.0,43.0,32.0,43.0,75.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U17 Women >81,LEBON Leane,86.0,28.0,31.0,34.0,40.0,44.0,-47.0,34.0,44.0,78.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U20 Women 55,LEBIAN Melody,49.3,30.0,-34.0,-34.0,33.0,36.0,39.0,30.0,39.0,69.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 55,DALLET Charline,52.8,30.0,32.0,34.0,40.0,43.0,46.0,34.0,46.0,80.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 59,CAMALOM Oriane,57.3,51.0,55.0,-57.0,58.0,62.0,-64.0,55.0,62.0,117.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 59,PERINET Vanille,57.9,35.0,39.0,-42.0,48.0,-52.0,-55.0,39.0,48.0,87.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 64,TAMBON Leila,60.5,-42.0,42.0,45.0,52.0,55.0,58.0,45.0,58.0,103.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 64,TORNEY Constance,59.4,-36.0,36.0,40.0,49.0,51.0,53.0,40.0,53.0,93.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 64,BONMALAIS Valérie,61.15,35.0,38.0,-40.0,42.0,46.0,-50.0,38.0,46.0,84.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 64,ROY Emilie,63.19,-32.0,32.0,-36.0,-45.0,-49.0,49.0,32.0,49.0,81.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 71,AH-SING Sophie,66.0,45.0,48.0,51.0,60.0,63.0,65.0,51.0,65.0,116.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 71,NOE Jennifer,69.2,48.0,-52.0,-52.0,62.0,65.0,-68.0,48.0,65.0,113.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 71,CLAIN Erika,64.4,35.0,38.0,41.0,45.0,47.0,50.0,41.0,50.0,91.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 81,PUTMAN Aurelie,76.17,35.0,38.0,41.0,45.0,47.0,50.0,41.0,50.0,91.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 87,DURIEUX Laura,85.9,46.0,48.0,51.0,-60.0,-60.0,60.0,51.0,60.0,111.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 87,BENARD Rachel,81.1,40.0,43.0,46.0,60.0,64.0,-66.0,46.0,64.0,110.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women >87,MAILLOT Roxane,88.0,38.0,42.0,-45.0,48.0,52.0,56.0,42.0,56.0,98.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U17 Women 55,BOROWIAK Julia,53.0,30.0,32.0,-34.0,38.0,41.0,43.0,32.0,43.0,75.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U17 Women >81,LEBON Leane,86.0,28.0,31.0,34.0,40.0,44.0,-47.0,34.0,44.0,78.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,U20 Women 55,LEBIAN Melody,49.3,30.0,-34.0,-34.0,33.0,36.0,39.0,30.0,39.0,69.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 55,DALLET Charline,52.8,30.0,32.0,34.0,40.0,43.0,46.0,34.0,46.0,80.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 59,CAMALOM Oriane,57.3,51.0,55.0,-57.0,58.0,62.0,-64.0,55.0,62.0,117.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 59,PERINET Vanille,57.9,35.0,39.0,-42.0,48.0,-52.0,-55.0,39.0,48.0,87.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 64,TAMBON Leila,60.5,-42.0,42.0,45.0,52.0,55.0,58.0,45.0,58.0,103.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 64,TORNEY Constance,59.4,-36.0,36.0,40.0,49.0,51.0,53.0,40.0,53.0,93.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 64,BONMALAIS Valérie,61.15,35.0,38.0,-40.0,42.0,46.0,-50.0,38.0,46.0,84.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 64,ROY Emilie,63.19,-32.0,32.0,-36.0,-45.0,-49.0,49.0,32.0,49.0,81.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 71,AH-SING Sophie,66.0,45.0,48.0,51.0,60.0,63.0,65.0,51.0,65.0,116.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 71,NOE Jennifer,69.2,48.0,-52.0,-52.0,62.0,65.0,-68.0,48.0,65.0,113.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 71,CLAIN Erika,64.4,35.0,38.0,41.0,45.0,47.0,50.0,41.0,50.0,91.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 81,PUTMAN Aurelie,76.17,35.0,38.0,41.0,45.0,47.0,50.0,41.0,50.0,91.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 87,DURIEUX Laura,85.9,46.0,48.0,51.0,-60.0,-60.0,60.0,51.0,60.0,111.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women 87,BENARD Rachel,81.1,40.0,43.0,46.0,60.0,64.0,-66.0,46.0,64.0,110.0
+REU - Challenge Avenir - La possession - U10-U13,2022-11-20,SEN Women >87,MAILLOT Roxane,88.0,38.0,42.0,-45.0,48.0,52.0,56.0,42.0,56.0,98.0
