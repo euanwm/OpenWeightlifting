@@ -1,5 +1,10 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-AURA - Challenge Avenir Lyonnais - 17 Juillet,2021-07-17,U20 Men 67,DIEUMEGARDE Erwann,66.9,85.0,90.0,95.0,105.0,110.0,115.0,95.0,115.0,210.0
-AURA - Challenge Avenir Lyonnais - 17 Juillet,2021-07-17,U20 Men 67,DUTILLEUL Stephane,63.2,65.0,70.0,72.0,90.0,93.0,98.0,72.0,98.0,170.0
-AURA - Challenge Avenir Lyonnais - 17 Juillet,2021-07-17,SEN Men 81,HUMBERT Victor,77.8,85.0,90.0,-92.0,105.0,110.0,115.0,90.0,115.0,205.0
-AURA - Challenge Avenir Lyonnais - 17 Juillet,2021-07-17,SEN Men 89,BASTIN Lionel,85.4,90.0,95.0,-100.0,110.0,115.0,-120.0,95.0,115.0,210.0
+CVL - Challenge Avenir - Olivet - Tournoi de la Faculté d'Orléans Hom,2023-02-17,U20 Men 81,PROCHASSON Raphael,79.3,68.0,71.0,-73.0,85.0,90.0,93.0,71.0,93.0,164.0
+CVL - Challenge Avenir - Olivet - Tournoi de la Faculté d'Orléans Hom,2023-02-17,SEN Men 73,MICHEL Anthony,71.2,60.0,-63.0,63.0,80.0,-85.0,87.0,63.0,87.0,150.0
+CVL - Challenge Avenir - Olivet - Tournoi de la Faculté d'Orléans Hom,2023-02-17,SEN Men 81,FARINA Didier,79.8,35.0,38.0,40.0,45.0,48.0,50.0,40.0,50.0,90.0
+CVL - Challenge Avenir - Olivet - Tournoi de la Faculté d'Orléans Hom,2023-02-17,SEN Men 89,POUPLOT Nicolas,88.2,55.0,-60.0,-60.0,-75.0,75.0,80.0,55.0,80.0,135.0
+CVL - Challenge Avenir - Olivet - Tournoi de la Faculté d'Orléans Hom,2023-02-17,SEN Men >109,SEIGNEUR Gael,110.2,40.0,45.0,-48.0,40.0,45.0,50.0,45.0,50.0,95.0
+CVL - Challenge Avenir - Olivet - Tournoi de la Faculté d'Orléans Hom,2023-02-17,SEN Women 71,MOREAU Doralicia,68.4,34.0,36.0,37.0,53.0,58.0,60.0,37.0,60.0,97.0
+CVL - Challenge Avenir - Olivet - Tournoi de la Faculté d'Orléans Hom,2023-02-17,SEN Women 71,DOS SANTOS Barbara,68.3,34.0,36.0,-38.0,52.0,-59.0,-59.0,36.0,52.0,88.0
+CVL - Challenge Avenir - Olivet - Tournoi de la Faculté d'Orléans Hom,2023-02-17,SEN Women 71,MOREAU Doralicia,68.4,34.0,36.0,37.0,53.0,58.0,60.0,37.0,60.0,97.0
+CVL - Challenge Avenir - Olivet - Tournoi de la Faculté d'Orléans Hom,2023-02-17,SEN Women 71,DOS SANTOS Barbara,68.3,34.0,36.0,-38.0,52.0,-59.0,-59.0,36.0,52.0,88.0

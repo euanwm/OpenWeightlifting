@@ -1,7 +1,31 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-AURA - 1er Chal Avenir U15 U17 U 20  S F,2020-10-17,U20 Women 59,FELIX Clemence,56.7,40.0,-43.0,43.0,-52.0,53.0,-56.0,43.0,53.0,96.0
-AURA - 1er Chal Avenir U15 U17 U 20  S F,2020-10-17,SEN Women 55,FONSECA BRAS Mylène,52.9,47.0,50.0,-52.0,62.0,65.0,-68.0,50.0,65.0,115.0
-AURA - 1er Chal Avenir U15 U17 U 20  S F,2020-10-17,SEN Women 59,SCHIAVO Laurine,57.7,35.0,37.0,-39.0,48.0,52.0,-54.0,37.0,52.0,89.0
-AURA - 1er Chal Avenir U15 U17 U 20  S F,2020-10-17,SEN Women 64,GOURGEL Annick,62.7,47.0,50.0,-53.0,62.0,-65.0,67.0,50.0,67.0,117.0
-AURA - 1er Chal Avenir U15 U17 U 20  S F,2020-10-17,SEN Women 71,POTHIN Julie,70.4,52.0,55.0,-57.0,63.0,67.0,-69.0,55.0,67.0,122.0
-AURA - 1er Chal Avenir U15 U17 U 20  S F,2020-10-17,SEN Women 71,BONCHEVA Bilyana,68.5,45.0,50.0,-52.0,56.0,60.0,-63.0,50.0,60.0,110.0
+PACA - 3e Challenge Avenir - Minimes (Sorgues),2022-01-29,U10 Men ,MATHIEU Thibault,46.2,9.0,11.0,13.0,11.0,13.0,15.0,13.0,15.0,28.0
+PACA - 3e Challenge Avenir - Minimes (Sorgues),2022-01-29,U10 Men ,MATHIEU Gabriel,29.0,9.0,-11.0,11.0,11.0,13.0,15.0,11.0,15.0,26.0
+PACA - 3e Challenge Avenir - Minimes (Sorgues),2022-01-29,U13 Men 49,HOARAU Marley,48.8,12.0,14.0,16.0,14.0,-16.0,16.0,16.0,16.0,32.0
+PACA - 3e Challenge Avenir - Minimes (Sorgues),2022-01-29,U13 Men 55,DEBON Timeo,51.6,14.0,16.0,18.0,-21.0,21.0,23.0,18.0,23.0,41.0
+PACA - 3e Challenge Avenir - Minimes (Sorgues),2022-01-29,U20 Women 71,ALLET Melanie,66.7,26.0,29.0,32.0,36.0,40.0,43.0,32.0,43.0,75.0
+PACA - 3e Challenge Avenir - Minimes (Sorgues),2022-01-29,U20 Women >87,BONDU Manon,95.0,32.0,35.0,-38.0,40.0,44.0,47.0,35.0,47.0,82.0
+PACA - 3e Challenge Avenir - Minimes (Sorgues),2022-01-29,SEN Women 49,BOURDIN Charlene,46.8,25.0,28.0,29.0,30.0,34.0,-38.0,29.0,34.0,63.0
+PACA - 3e Challenge Avenir - Minimes (Sorgues),2022-01-29,SEN Women 59,ZINOUNE Aimane,59.0,35.0,38.0,41.0,43.0,47.0,-51.0,41.0,47.0,88.0
+PACA - 3e Challenge Avenir - Minimes (Sorgues),2022-01-29,SEN Women 64,YAHIAOUI Caroline,61.5,50.0,54.0,58.0,70.0,74.0,-76.0,58.0,74.0,132.0
+PACA - 3e Challenge Avenir - Minimes (Sorgues),2022-01-29,SEN Women 64,LEININGER Pauline,62.9,22.0,25.0,28.0,28.0,32.0,36.0,28.0,36.0,64.0
+PACA - 3e Challenge Avenir - Minimes (Sorgues),2022-01-29,U20 Women 71,ALLET Melanie,66.7,26.0,29.0,32.0,36.0,40.0,43.0,32.0,43.0,75.0
+PACA - 3e Challenge Avenir - Minimes (Sorgues),2022-01-29,U20 Women >87,BONDU Manon,95.0,32.0,35.0,-38.0,40.0,44.0,47.0,35.0,47.0,82.0
+PACA - 3e Challenge Avenir - Minimes (Sorgues),2022-01-29,SEN Women 49,BOURDIN Charlene,46.8,25.0,28.0,29.0,30.0,34.0,-38.0,29.0,34.0,63.0
+PACA - 3e Challenge Avenir - Minimes (Sorgues),2022-01-29,SEN Women 59,ZINOUNE Aimane,59.0,35.0,38.0,41.0,43.0,47.0,-51.0,41.0,47.0,88.0
+PACA - 3e Challenge Avenir - Minimes (Sorgues),2022-01-29,SEN Women 64,YAHIAOUI Caroline,61.5,50.0,54.0,58.0,70.0,74.0,-76.0,58.0,74.0,132.0
+PACA - 3e Challenge Avenir - Minimes (Sorgues),2022-01-29,SEN Women 64,LEININGER Pauline,62.9,22.0,25.0,28.0,28.0,32.0,36.0,28.0,36.0,64.0
+PACA - 3e Challenge Avenir - Minimes (Sorgues),2022-01-29,SEN Men 73,LOUPIAC Quentin,71.2,72.0,76.0,80.0,85.0,92.0,-97.0,80.0,92.0,172.0
+PACA - 3e Challenge Avenir - Minimes (Sorgues),2022-01-29,SEN Men 81,RIBAUDO Frédéric,76.4,70.0,75.0,-80.0,85.0,-90.0,90.0,75.0,90.0,165.0
+PACA - 3e Challenge Avenir - Minimes (Sorgues),2022-01-29,SEN Men 81,BAUDRY Marc,75.0,-70.0,70.0,-75.0,90.0,95.0,-100.0,70.0,95.0,165.0
+PACA - 3e Challenge Avenir - Minimes (Sorgues),2022-01-29,SEN Men 81,BASSI Grégory,74.8,63.0,67.0,70.0,80.0,85.0,90.0,70.0,90.0,160.0
+PACA - 3e Challenge Avenir - Minimes (Sorgues),2022-01-29,SEN Men 81,EVESQUE Hugo,74.5,48.0,52.0,56.0,68.0,73.0,78.0,56.0,78.0,134.0
+PACA - 3e Challenge Avenir - Minimes (Sorgues),2022-01-29,SEN Men 81,CARDONA Leo,76.65,45.0,50.0,55.0,65.0,-70.0,73.0,55.0,73.0,128.0
+PACA - 3e Challenge Avenir - Minimes (Sorgues),2022-01-29,SEN Men 96,BONICI MORENO Sebastien,89.2,-66.0,66.0,-70.0,77.0,81.0,87.0,66.0,87.0,153.0
+PACA - 3e Challenge Avenir - Minimes (Sorgues),2022-01-29,SEN Men 73,LOUPIAC Quentin,71.2,72.0,76.0,80.0,85.0,92.0,-97.0,80.0,92.0,172.0
+PACA - 3e Challenge Avenir - Minimes (Sorgues),2022-01-29,SEN Men 81,RIBAUDO Frédéric,76.4,70.0,75.0,-80.0,85.0,-90.0,90.0,75.0,90.0,165.0
+PACA - 3e Challenge Avenir - Minimes (Sorgues),2022-01-29,SEN Men 81,BAUDRY Marc,75.0,-70.0,70.0,-75.0,90.0,95.0,-100.0,70.0,95.0,165.0
+PACA - 3e Challenge Avenir - Minimes (Sorgues),2022-01-29,SEN Men 81,BASSI Grégory,74.8,63.0,67.0,70.0,80.0,85.0,90.0,70.0,90.0,160.0
+PACA - 3e Challenge Avenir - Minimes (Sorgues),2022-01-29,SEN Men 81,EVESQUE Hugo,74.5,48.0,52.0,56.0,68.0,73.0,78.0,56.0,78.0,134.0
+PACA - 3e Challenge Avenir - Minimes (Sorgues),2022-01-29,SEN Men 81,CARDONA Leo,76.65,45.0,50.0,55.0,65.0,-70.0,73.0,55.0,73.0,128.0
+PACA - 3e Challenge Avenir - Minimes (Sorgues),2022-01-29,SEN Men 96,BONICI MORENO Sebastien,89.2,-66.0,66.0,-70.0,77.0,81.0,87.0,66.0,87.0,153.0

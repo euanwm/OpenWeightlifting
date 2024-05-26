@@ -1,12 +1,19 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-PDL - Grand prix des pays de la loire,2020-10-24,U15 Women 49,GARNIER Camille,48.62,35.0,38.0,40.0,45.0,48.0,-50.0,40.0,48.0,88.0
-PDL - Grand prix des pays de la loire,2020-10-24,U15 Women 71,COGNON Loubna,70.81,58.0,62.0,65.0,75.0,81.0,83.0,65.0,83.0,148.0
-PDL - Grand prix des pays de la loire,2020-10-24,U17 Women 55,BRUN Heloise,52.02,23.0,26.0,28.0,37.0,40.0,-42.0,28.0,40.0,68.0
-PDL - Grand prix des pays de la loire,2020-10-24,U17 Women 64,CADIEU Anais,62.72,43.0,46.0,-49.0,55.0,58.0,-60.0,46.0,58.0,104.0
-PDL - Grand prix des pays de la loire,2020-10-24,U17 Women 76,HAMARD Zelie,72.3,35.0,-38.0,38.0,43.0,45.0,-47.0,38.0,45.0,83.0
-PDL - Grand prix des pays de la loire,2020-10-24,U17 Women 81,BECHERIE Carla,78.03,40.0,43.0,45.0,52.0,55.0,58.0,45.0,58.0,103.0
-PDL - Grand prix des pays de la loire,2020-10-24,U17 Women >81,DODARD Mathilde,83.1,35.0,38.0,40.0,47.0,-50.0,50.0,40.0,50.0,90.0
-PDL - Grand prix des pays de la loire,2020-10-24,SEN Women 49,PROUSTEAU Anais,47.47,48.0,51.0,54.0,60.0,65.0,-68.0,54.0,65.0,119.0
-PDL - Grand prix des pays de la loire,2020-10-24,SEN Women 59,VIRFOLLET Émilie,58.2,45.0,-50.0,50.0,65.0,-70.0,-70.0,50.0,65.0,115.0
-PDL - Grand prix des pays de la loire,2020-10-24,SEN Women 71,POUSTOMIS Marie,67.43,62.0,65.0,-67.0,75.0,80.0,82.0,65.0,82.0,147.0
-PDL - Grand prix des pays de la loire,2020-10-24,SEN Women 71,COGNON Sonia,68.33,58.0,62.0,64.0,75.0,78.0,-80.0,64.0,78.0,142.0
+IDF - 3°J Reg (Genneviliers) F,2022-01-22,U15 Women 55,BORY Mila,51.16,21.0,-23.0,23.0,23.0,25.0,27.0,23.0,27.0,50.0
+IDF - 3°J Reg (Genneviliers) F,2022-01-22,U20 Women 55,ZHENG Noëlle,54.95,47.0,-51.0,-51.0,55.0,60.0,-62.0,47.0,60.0,107.0
+IDF - 3°J Reg (Genneviliers) F,2022-01-22,U20 Women 55,ZHENG Axelle,54.3,40.0,43.0,-45.0,51.0,-55.0,55.0,43.0,55.0,98.0
+IDF - 3°J Reg (Genneviliers) F,2022-01-22,U20 Women 55,CHAMPION Lilou,54.66,28.0,31.0,33.0,35.0,39.0,41.0,33.0,41.0,74.0
+IDF - 3°J Reg (Genneviliers) F,2022-01-22,U20 Women 64,BORY Lola,63.88,33.0,36.0,37.0,37.0,40.0,43.0,37.0,43.0,80.0
+IDF - 3°J Reg (Genneviliers) F,2022-01-22,SEN Women 55,DEBIAIS Joanna,54.2,45.0,50.0,53.0,56.0,60.0,-64.0,53.0,60.0,113.0
+IDF - 3°J Reg (Genneviliers) F,2022-01-22,SEN Women 59,KHEFIF Layna,57.79,38.0,41.0,43.0,57.0,61.0,-64.0,43.0,61.0,104.0
+IDF - 3°J Reg (Genneviliers) F,2022-01-22,SEN Women 59,NAIRI Dounia,59.0,36.0,-39.0,40.0,47.0,50.0,53.0,40.0,53.0,93.0
+IDF - 3°J Reg (Genneviliers) F,2022-01-22,SEN Women 64,LOURIAIS Louise,63.15,62.0,66.0,-69.0,82.0,86.0,88.0,66.0,88.0,154.0
+IDF - 3°J Reg (Genneviliers) F,2022-01-22,SEN Women 64,SROUJI Julia,59.7,47.0,49.0,51.0,62.0,65.0,67.0,51.0,67.0,118.0
+IDF - 3°J Reg (Genneviliers) F,2022-01-22,SEN Women 64,PETIT Marion,59.22,47.0,49.0,-53.0,60.0,64.0,66.0,49.0,66.0,115.0
+IDF - 3°J Reg (Genneviliers) F,2022-01-22,SEN Women 64,MICHEAU Esther,63.5,31.0,-33.0,-34.0,46.0,48.0,50.0,31.0,50.0,81.0
+IDF - 3°J Reg (Genneviliers) F,2022-01-22,SEN Women 71,PEREIRA Camille,69.72,-60.0,60.0,66.0,70.0,-75.0,-80.0,66.0,70.0,136.0
+IDF - 3°J Reg (Genneviliers) F,2022-01-22,SEN Women 71,LOURIAIS Camille,66.07,53.0,56.0,58.0,63.0,66.0,68.0,58.0,68.0,126.0
+IDF - 3°J Reg (Genneviliers) F,2022-01-22,SEN Women 71,PERILLAT Clara,67.9,30.0,33.0,36.0,46.0,49.0,52.0,36.0,52.0,88.0
+IDF - 3°J Reg (Genneviliers) F,2022-01-22,SEN Women 76,NECHITA Flavia,73.92,42.0,-46.0,-46.0,57.0,61.0,63.0,42.0,63.0,105.0
+IDF - 3°J Reg (Genneviliers) F,2022-01-22,SEN Women >87,TUERNAL Floriane,109.37,-40.0,40.0,43.0,55.0,60.0,-63.0,43.0,60.0,103.0
+IDF - 3°J Reg (Genneviliers) F,2022-01-22,SEN Women >87,LE MASSON Elodie,97.42,30.0,33.0,35.0,45.0,48.0,50.0,35.0,50.0,85.0

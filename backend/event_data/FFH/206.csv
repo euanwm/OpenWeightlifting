@@ -1,16 +1,14 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-REG 1M Langres - CsB - SaK,2019-12-21,U15 Men 67,STERLE Mathéo,67.0,30.0,34.0,37.0,40.0,44.0,47.0,37.0,47.0,84.0
-REG 1M Langres - CsB - SaK,2019-12-21,SEN Men 67,CHAPLET Jason,65.7,55.0,59.0,61.0,70.0,74.0,77.0,61.0,77.0,138.0
-REG 1M Langres - CsB - SaK,2019-12-21,SEN Men 73,SCHNEIDER Axel,69.1,-82.0,82.0,86.0,100.0,105.0,-107.0,86.0,105.0,191.0
-REG 1M Langres - CsB - SaK,2019-12-21,SEN Men 81,HUYNH Phuong,78.1,91.0,-96.0,-98.0,-114.0,115.0,120.0,91.0,120.0,211.0
-REG 1M Langres - CsB - SaK,2019-12-21,SEN Men 89,BEYLER Pierre,83.5,106.0,111.0,116.0,131.0,140.0,146.0,116.0,146.0,262.0
-REG 1M Langres - CsB - SaK,2019-12-21,SEN Men 89,GROSLIER Alexandre,85.9,110.0,120.0,-0.0,120.0,-0.0,-0.0,120.0,120.0,240.0
-REG 1M Langres - CsB - SaK,2019-12-21,SEN Men 89,TRAUTMANN Guillaume,87.1,95.0,100.0,105.0,122.0,128.0,-132.0,105.0,128.0,233.0
-REG 1M Langres - CsB - SaK,2019-12-21,SEN Men 89,SIGRIST Maxime,84.8,92.0,97.0,101.0,116.0,-121.0,123.0,101.0,123.0,224.0
-REG 1M Langres - CsB - SaK,2019-12-21,SEN Men 89,HURREAU Jeremie,87.4,90.0,95.0,97.0,117.0,122.0,127.0,97.0,127.0,224.0
-REG 1M Langres - CsB - SaK,2019-12-21,SEN Men 96,VAUTARD Brandon,94.5,133.0,138.0,142.0,180.0,190.0,-0.0,142.0,190.0,332.0
-REG 1M Langres - CsB - SaK,2019-12-21,SEN Men 96,GAG Yoann,94.4,107.0,112.0,115.0,135.0,145.0,155.0,115.0,155.0,270.0
-REG 1M Langres - CsB - SaK,2019-12-21,SEN Men 96,MARTIN Alex,91.2,85.0,88.0,90.0,110.0,115.0,117.0,90.0,117.0,207.0
-REG 1M Langres - CsB - SaK,2019-12-21,SEN Men 96,RENAUT Guillaume,95.4,77.0,80.0,82.0,97.0,101.0,105.0,82.0,105.0,187.0
-REG 1M Langres - CsB - SaK,2019-12-21,SEN Men 102,DZELADIN Elvir,99.3,87.0,92.0,-95.0,117.0,122.0,126.0,92.0,126.0,218.0
-REG 1M Langres - CsB - SaK,2019-12-21,SEN Men 102,EL GHOUL Mohamed,96.6,82.0,88.0,90.0,105.0,110.0,-114.0,90.0,110.0,200.0
+PDL - Challenge de l'avenir n°3 Masc A,2021-07-10,U15 Men 49,NIVET DOUET Argan,49.0,42.0,45.0,50.0,50.0,-54.0,55.0,50.0,55.0,105.0
+PDL - Challenge de l'avenir n°3 Masc A,2021-07-10,U15 Men 49,COTTEREAU Hugo,42.0,31.0,33.0,35.0,40.0,-42.0,-43.0,35.0,40.0,75.0
+PDL - Challenge de l'avenir n°3 Masc A,2021-07-10,U15 Men 61,MACÉ Axel,56.4,27.0,30.0,33.0,42.0,44.0,46.0,33.0,46.0,79.0
+PDL - Challenge de l'avenir n°3 Masc A,2021-07-10,U15 Men 67,PATRY Baptiste,62.0,20.0,22.0,-24.0,24.0,26.0,28.0,22.0,28.0,50.0
+PDL - Challenge de l'avenir n°3 Masc A,2021-07-10,U15 Men 81,DOS SANTOS Tiago,78.0,-64.0,65.0,71.0,78.0,-83.0,85.0,71.0,85.0,156.0
+PDL - Challenge de l'avenir n°3 Masc A,2021-07-10,U20 Men 73,LOUKA Albert,72.0,-60.0,-63.0,63.0,75.0,-82.0,-85.0,63.0,75.0,138.0
+PDL - Challenge de l'avenir n°3 Masc A,2021-07-10,U20 Men 81,BRISAC Ron,79.0,-70.0,-76.0,-76.0,90.0,-96.0,-96.0,0.0,90.0,0.0
+PDL - Challenge de l'avenir n°3 Masc A,2021-07-10,SEN Men 67,JEAN Kevin,64.0,50.0,52.0,-53.0,62.0,-65.0,-66.0,52.0,62.0,114.0
+PDL - Challenge de l'avenir n°3 Masc A,2021-07-10,SEN Men 73,LOUIS Grellier,70.0,52.0,55.0,-60.0,66.0,69.0,-75.0,55.0,69.0,124.0
+PDL - Challenge de l'avenir n°3 Masc A,2021-07-10,SEN Men 73,GERARD Pierre-yves,72.0,50.0,53.0,-56.0,67.0,70.0,-73.0,53.0,70.0,123.0
+PDL - Challenge de l'avenir n°3 Masc A,2021-07-10,SEN Men 81,TALOC Aloïs,75.0,60.0,65.0,70.0,70.0,75.0,80.0,70.0,80.0,150.0
+PDL - Challenge de l'avenir n°3 Masc A,2021-07-10,SEN Men 81,DIAZ Juan-manuel,79.0,48.0,51.0,54.0,58.0,63.0,66.0,54.0,66.0,120.0
+PDL - Challenge de l'avenir n°3 Masc A,2021-07-10,SEN Men 89,REMI Jimmy,83.0,-60.0,62.0,-65.0,75.0,-80.0,80.0,62.0,80.0,142.0

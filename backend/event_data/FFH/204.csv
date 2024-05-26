@@ -1,16 +1,16 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-REG 1M UsW - Reims - AsiA,2019-12-21,U17 Men 81,KLICKI Alexis,74.4,56.0,60.0,63.0,75.0,80.0,83.0,63.0,83.0,146.0
-REG 1M UsW - Reims - AsiA,2019-12-21,U20 Men 73,ROHRBACH Stephane,70.7,92.0,96.0,-100.0,112.0,116.0,120.0,96.0,120.0,216.0
-REG 1M UsW - Reims - AsiA,2019-12-21,U20 Men 73,MIGEON Arthur,67.2,60.0,65.0,70.0,71.0,76.0,80.0,70.0,80.0,150.0
-REG 1M UsW - Reims - AsiA,2019-12-21,U20 Men 81,POINTET Robin,78.4,85.0,90.0,95.0,115.0,120.0,123.0,95.0,123.0,218.0
-REG 1M UsW - Reims - AsiA,2019-12-21,U20 Men 81,NICKLES Maxime,79.6,85.0,90.0,95.0,105.0,110.0,-120.0,95.0,110.0,205.0
-REG 1M UsW - Reims - AsiA,2019-12-21,U20 Men 81,BAUER Adrien,73.8,70.0,75.0,80.0,90.0,95.0,100.0,80.0,100.0,180.0
-REG 1M UsW - Reims - AsiA,2019-12-21,U20 Men 96,BOIGEOL Aurelien,92.9,92.0,-97.0,97.0,123.0,128.0,131.0,97.0,131.0,228.0
-REG 1M UsW - Reims - AsiA,2019-12-21,SEN Men 73,SANCHEZ Corentin,72.6,70.0,75.0,80.0,108.0,114.0,120.0,80.0,120.0,200.0
-REG 1M UsW - Reims - AsiA,2019-12-21,SEN Men 73,BOUTEILLER Kevin,68.4,57.0,61.0,-65.0,68.0,73.0,78.0,61.0,78.0,139.0
-REG 1M UsW - Reims - AsiA,2019-12-21,SEN Men 81,SPIESER Nicolas,75.9,102.0,106.0,-110.0,115.0,120.0,124.0,106.0,124.0,230.0
-REG 1M UsW - Reims - AsiA,2019-12-21,SEN Men 81,GIORGIANI Dylan,77.8,-82.0,-82.0,82.0,-110.0,110.0,114.0,82.0,114.0,196.0
-REG 1M UsW - Reims - AsiA,2019-12-21,SEN Men 81,GORTH Alexandre,75.9,80.0,-84.0,84.0,100.0,105.0,-107.0,84.0,105.0,189.0
-REG 1M UsW - Reims - AsiA,2019-12-21,SEN Men 89,DORSCHNER Jonathan,84.2,80.0,85.0,-90.0,110.0,115.0,120.0,85.0,120.0,205.0
-REG 1M UsW - Reims - AsiA,2019-12-21,SEN Men 89,GUILLAUME Emmanuel,89.0,65.0,70.0,75.0,90.0,96.0,101.0,75.0,101.0,176.0
-REG 1M UsW - Reims - AsiA,2019-12-21,SEN Men 96,MOHAMADI Hakim,93.0,60.0,65.0,70.0,70.0,75.0,80.0,70.0,80.0,150.0
+PDL - Challenge de l'avenir n°3 Masc B,2021-07-10,SEN Men 67,DODARD Sebastien,64.0,70.0,73.0,-76.0,90.0,93.0,-95.0,73.0,93.0,166.0
+PDL - Challenge de l'avenir n°3 Masc B,2021-07-10,SEN Men 73,BIGOT Aurelien,71.0,71.0,74.0,-77.0,92.0,-96.0,96.0,74.0,96.0,170.0
+PDL - Challenge de l'avenir n°3 Masc B,2021-07-10,SEN Men 73,MOREL Antoine,71.0,70.0,-75.0,-75.0,90.0,95.0,100.0,70.0,100.0,170.0
+PDL - Challenge de l'avenir n°3 Masc B,2021-07-10,SEN Men 81,MERCIER Jean,78.0,-85.0,90.0,94.0,120.0,-125.0,130.0,94.0,130.0,224.0
+PDL - Challenge de l'avenir n°3 Masc B,2021-07-10,SEN Men 81,DALMONT Kévin,74.0,55.0,-57.0,-57.0,75.0,-79.0,79.0,55.0,79.0,134.0
+PDL - Challenge de l'avenir n°3 Masc B,2021-07-10,SEN Men 89,DEFORGE Florent,84.0,108.0,111.0,-115.0,122.0,126.0,-130.0,111.0,126.0,237.0
+PDL - Challenge de l'avenir n°3 Masc B,2021-07-10,SEN Men 89,HAISSANT Alexandre,89.0,85.0,-96.0,-101.0,-125.0,130.0,-135.0,85.0,130.0,215.0
+PDL - Challenge de l'avenir n°3 Masc B,2021-07-10,SEN Men 89,COUILLANDEAU Alexandre,83.0,90.0,-95.0,-100.0,105.0,113.0,117.0,90.0,117.0,207.0
+PDL - Challenge de l'avenir n°3 Masc B,2021-07-10,SEN Men 89,BEZIE Franck,84.4,81.0,86.0,-88.0,100.0,-105.0,105.0,86.0,105.0,191.0
+PDL - Challenge de l'avenir n°3 Masc B,2021-07-10,SEN Men 89,GBEDA Yohan,83.0,65.0,70.0,73.0,78.0,-83.0,83.0,73.0,83.0,156.0
+PDL - Challenge de l'avenir n°3 Masc B,2021-07-10,SEN Men 96,MARTOS Nathan,91.0,80.0,85.0,87.0,-107.0,107.0,-112.0,87.0,107.0,194.0
+PDL - Challenge de l'avenir n°3 Masc B,2021-07-10,SEN Men 96,COTTEN Flavien,90.0,70.0,-75.0,-76.0,95.0,100.0,-105.0,70.0,100.0,170.0
+PDL - Challenge de l'avenir n°3 Masc B,2021-07-10,SEN Men 96,LANDRY Aurélien,91.0,70.0,-75.0,75.0,90.0,-95.0,-95.0,75.0,90.0,165.0
+PDL - Challenge de l'avenir n°3 Masc B,2021-07-10,SEN Men 102,QUINTIN Cyrille,101.0,80.0,-85.0,85.0,105.0,109.0,112.0,85.0,112.0,197.0
+PDL - Challenge de l'avenir n°3 Masc B,2021-07-10,SEN Men 102,ROBIN Damien,98.3,110.0,-115.0,-115.0,-135.0,-136.0,-136.0,110.0,0.0,0.0

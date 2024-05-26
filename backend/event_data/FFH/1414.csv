@@ -1,13 +1,11 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-GE - 1° J Reg 1F (Strasbourg),2021-10-16,SEN Women 55,HERTRICH Marielle,53.8,57.0,60.0,63.0,73.0,77.0,80.0,63.0,80.0,143.0
-GE - 1° J Reg 1F (Strasbourg),2021-10-16,SEN Women 55,PERRET Angélique,54.2,42.0,45.0,47.0,62.0,65.0,-67.0,47.0,65.0,112.0
-GE - 1° J Reg 1F (Strasbourg),2021-10-16,SEN Women 55,MELELLI Sarah,53.4,37.0,40.0,42.0,55.0,-58.0,60.0,42.0,60.0,102.0
-GE - 1° J Reg 1F (Strasbourg),2021-10-16,SEN Women 55,FEILLARD Lea,55.0,39.0,-41.0,42.0,51.0,53.0,55.0,42.0,55.0,97.0
-GE - 1° J Reg 1F (Strasbourg),2021-10-16,SEN Women 59,ARRIVET Melanie,57.5,37.0,40.0,42.0,55.0,58.0,60.0,42.0,60.0,102.0
-GE - 1° J Reg 1F (Strasbourg),2021-10-16,SEN Women 64,MASSON Heloise,62.2,55.0,59.0,-63.0,73.0,78.0,-81.0,59.0,78.0,137.0
-GE - 1° J Reg 1F (Strasbourg),2021-10-16,SEN Women 64,HERRMANN Melissa,61.1,44.0,47.0,49.0,57.0,60.0,62.0,49.0,62.0,111.0
-GE - 1° J Reg 1F (Strasbourg),2021-10-16,SEN Women 64,KUSS BILDSTEIN Isabelle,62.9,43.0,46.0,48.0,57.0,61.0,-64.0,48.0,61.0,109.0
-GE - 1° J Reg 1F (Strasbourg),2021-10-16,SEN Women 64,DURIF Joanna,61.9,-46.0,-46.0,47.0,53.0,56.0,59.0,47.0,59.0,106.0
-GE - 1° J Reg 1F (Strasbourg),2021-10-16,SEN Women 71,LE VAILLANT DE CHARNY Audrey,68.1,70.0,75.0,80.0,90.0,95.0,100.0,80.0,100.0,180.0
-GE - 1° J Reg 1F (Strasbourg),2021-10-16,SEN Women 71,DOMERGUE Nolwenn,64.2,40.0,44.0,46.0,50.0,55.0,60.0,46.0,60.0,106.0
-GE - 1° J Reg 1F (Strasbourg),2021-10-16,SEN Women 76,HOLTZMANN Anthea,72.7,41.0,43.0,45.0,53.0,-55.0,56.0,45.0,56.0,101.0
+BRE - REG 2 - Brest - BRE - REG 2 - Brest 4e journée hommes,2024-03-09,U17 Men 81,LAGARDE Paul,73.6,73.0,-78.0,78.0,103.0,108.0,-110.0,78.0,108.0,186.0
+BRE - REG 2 - Brest - BRE - REG 2 - Brest 4e journée hommes,2024-03-09,U20 Men 73,COULIBALY Diowage,70.9,65.0,-68.0,-70.0,90.0,-95.0,-95.0,65.0,90.0,155.0
+BRE - REG 2 - Brest - BRE - REG 2 - Brest 4e journée hommes,2024-03-09,SEN Men 61,MAGNIEZ Baptiste,59.9,44.0,-47.0,-47.0,64.0,67.0,-70.0,44.0,67.0,111.0
+BRE - REG 2 - Brest - BRE - REG 2 - Brest 4e journée hommes,2024-03-09,SEN Men 81,RUARD Mathieu,74.0,78.0,-82.0,-82.0,95.0,103.0,-110.0,78.0,103.0,181.0
+BRE - REG 2 - Brest - BRE - REG 2 - Brest 4e journée hommes,2024-03-09,SEN Men 81,LE ROUSSEAU Guillaume,77.9,70.0,-80.0,-80.0,90.0,-95.0,-96.0,70.0,90.0,160.0
+BRE - REG 2 - Brest - BRE - REG 2 - Brest 4e journée hommes,2024-03-09,SEN Men 81,MÉNAGER Maxime,79.0,55.0,60.0,-65.0,92.0,-96.0,-96.0,60.0,92.0,152.0
+BRE - REG 2 - Brest - BRE - REG 2 - Brest 4e journée hommes,2024-03-09,SEN Men 89,DAVY Geoffrey,87.7,90.0,-95.0,-95.0,107.0,112.0,-115.0,90.0,112.0,202.0
+BRE - REG 2 - Brest - BRE - REG 2 - Brest 4e journée hommes,2024-03-09,SEN Men 89,TROUILLE Julien,84.2,73.0,78.0,-82.0,95.0,100.0,-105.0,78.0,100.0,178.0
+BRE - REG 2 - Brest - BRE - REG 2 - Brest 4e journée hommes,2024-03-09,SEN Men 96,TOULOUSE Uriac,95.8,-87.0,87.0,-88.0,97.0,105.0,-110.0,87.0,105.0,192.0
+BRE - REG 2 - Brest - BRE - REG 2 - Brest 4e journée hommes,2024-03-09,SEN Men 102,WRIGHT George,96.6,105.0,115.0,-121.0,133.0,143.0,-150.0,115.0,143.0,258.0

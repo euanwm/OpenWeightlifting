@@ -1,20 +1,382 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-NDIE - Chpt Régional,2021-10-02,U15 Men 67,JARDIN Lucas,61.8,31.0,33.0,36.0,-37.0,37.0,41.0,36.0,41.0,77.0
-NDIE - Chpt Régional,2021-10-02,U20 Men 67,NIVAULT Gregoire,66.7,-72.0,72.0,76.0,90.0,95.0,100.0,76.0,100.0,176.0
-NDIE - Chpt Régional,2021-10-02,U20 Men 67,JAMES Paul,64.8,55.0,60.0,-65.0,70.0,75.0,-80.0,60.0,75.0,135.0
-NDIE - Chpt Régional,2021-10-02,U20 Men 67,DENIAUD Lucas,65.6,20.0,25.0,28.0,45.0,-50.0,50.0,28.0,50.0,78.0
-NDIE - Chpt Régional,2021-10-02,U20 Men 89,LEGRAND Louis,84.6,-90.0,-90.0,90.0,105.0,112.0,-118.0,90.0,112.0,202.0
-NDIE - Chpt Régional,2021-10-02,U20 Men 89,PERRIER Gabriel,81.9,50.0,55.0,-58.0,65.0,70.0,75.0,55.0,75.0,130.0
-NDIE - Chpt Régional,2021-10-02,SEN Men 55,CHAPRON Jean-francois,54.9,42.0,-46.0,46.0,52.0,54.0,-57.0,46.0,54.0,100.0
-NDIE - Chpt Régional,2021-10-02,SEN Men 61,DUVAL Bernard,59.3,30.0,33.0,-35.0,40.0,43.0,45.0,33.0,45.0,78.0
-NDIE - Chpt Régional,2021-10-02,SEN Men 67,MANSON-BAZEILLE Quentin,65.9,58.0,62.0,65.0,78.0,-80.0,80.0,65.0,80.0,145.0
-NDIE - Chpt Régional,2021-10-02,SEN Men 73,FORT Quentin,72.7,97.0,102.0,105.0,-123.0,123.0,127.0,105.0,127.0,232.0
-NDIE - Chpt Régional,2021-10-02,SEN Men 73,LECANNELLIER Paul,70.1,75.0,80.0,85.0,110.0,115.0,-117.0,85.0,115.0,200.0
-NDIE - Chpt Régional,2021-10-02,SEN Men 81,FAUNY Sebastien,78.7,75.0,81.0,-85.0,95.0,101.0,-106.0,81.0,101.0,182.0
-NDIE - Chpt Régional,2021-10-02,SEN Men 81,DUVAL Cyril,78.6,55.0,60.0,63.0,75.0,80.0,83.0,63.0,83.0,146.0
-NDIE - Chpt Régional,2021-10-02,SEN Men 89,BLONDEL Manu,86.5,70.0,73.0,-76.0,-100.0,100.0,-102.0,73.0,100.0,173.0
-NDIE - Chpt Régional,2021-10-02,SEN Men 89,LANDREAU Arthur,82.4,67.0,72.0,-77.0,75.0,82.0,-85.0,72.0,82.0,154.0
-NDIE - Chpt Régional,2021-10-02,SEN Men 89,FALK Nicola,85.0,60.0,65.0,-69.0,75.0,80.0,-83.0,65.0,80.0,145.0
-NDIE - Chpt Régional,2021-10-02,SEN Men 89,BETH Sebastien,84.8,53.0,57.0,-60.0,73.0,77.0,80.0,57.0,80.0,137.0
-NDIE - Chpt Régional,2021-10-02,SEN Men 102,ANNE Cyrille,97.3,80.0,-85.0,-85.0,108.0,112.0,117.0,80.0,117.0,197.0
-NDIE - Chpt Régional,2021-10-02,SEN Men 102,VALLET Richard,99.5,78.0,83.0,-0.0,110.0,-115.0,-0.0,83.0,110.0,193.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U10 Men ,GAHAM Lenny,32.0,14.0,16.0,-18.0,18.0,20.0,22.0,16.0,22.0,38.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U10 Men ,MENONI Eden,24.3,-14.0,14.0,16.0,18.0,20.0,-22.0,16.0,20.0,36.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U10 Men ,GALINDO Malo,26.7,7.0,8.0,9.0,10.0,12.0,14.0,9.0,14.0,23.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U10 Men ,RUTHER Sacha,23.7,4.0,5.0,6.0,5.0,7.0,8.0,6.0,8.0,14.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 40,TRUCHET Lucas,39.0,14.0,16.0,-18.0,21.0,23.0,25.0,16.0,25.0,41.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 45,ISRAILOV Jafar,44.7,36.0,38.0,40.0,48.0,50.0,52.0,40.0,52.0,92.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 61,ECKMANN Gael,55.2,52.0,54.0,56.0,65.0,67.0,69.0,56.0,69.0,125.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 61,LOPEZ Daoud,55.2,37.0,39.0,-41.0,40.0,42.0,44.0,39.0,44.0,83.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U10 Women ,JAUNE Apolline,39.1,16.0,18.0,-20.0,19.0,21.0,23.0,18.0,23.0,41.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U10 Women ,LOPEZ Maymouna,35.3,12.0,14.0,16.0,19.0,21.0,22.0,16.0,22.0,38.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U10 Women ,SIMIAN-MERMIER Judy,28.6,11.0,12.0,13.0,16.0,18.0,20.0,13.0,20.0,33.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U10 Women ,MAGNIN-LACHAUX Alicia,23.1,7.0,8.0,-9.0,9.0,11.0,12.0,8.0,12.0,20.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U10 Women ,RIVIERE Sharone,21.5,4.0,-5.0,5.0,6.0,8.0,-9.0,5.0,8.0,13.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 35,GRASSINI Laurena,34.8,16.0,18.0,-20.0,18.0,20.0,21.0,18.0,21.0,39.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 49,DECARPIGNY Louise,47.8,19.0,-21.0,21.0,26.0,28.0,29.0,21.0,29.0,50.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 49,NATIVEL Laure,48.38,-43.0,-43.0,-43.0,55.0,-60.0,-60.0,0.0,55.0,0.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 55,TORNEY Constance,54.79,50.0,-54.0,-55.0,68.0,71.0,-74.0,50.0,71.0,121.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 55,ANDRIEUX Estelle,54.87,45.0,-49.0,-49.0,-60.0,-60.0,-60.0,45.0,0.0,0.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 59,VERMONT Morgane,59.0,70.0,-74.0,-74.0,90.0,93.0,-96.0,70.0,93.0,163.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 59,BINETRUY Camille,59.0,68.0,71.0,-74.0,79.0,-83.0,-83.0,71.0,79.0,150.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 59,SAN ISIDRO GRANDE Sonia,57.6,56.0,59.0,61.0,68.0,71.0,-74.0,61.0,71.0,132.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 59,RAKOTOMALALA Emma,58.18,60.0,63.0,-66.0,-88.0,-88.0,-92.0,63.0,0.0,0.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 64,CADET Auberi,60.2,57.0,-60.0,60.0,73.0,76.0,78.0,60.0,78.0,138.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 64,RAZAKARIA Glena,60.6,53.0,-56.0,57.0,73.0,76.0,-79.0,57.0,76.0,133.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 71,FONTAINE Elodie,64.94,65.0,-68.0,68.0,83.0,86.0,88.0,68.0,88.0,156.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 71,TOULLEC Gaëlle,68.8,65.0,68.0,-70.0,80.0,84.0,-87.0,68.0,84.0,152.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 76,TISSOT Clarisse,75.85,73.0,-76.0,76.0,85.0,89.0,91.0,76.0,91.0,167.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women >87,HOAREAU Marjorie,90.5,55.0,60.0,65.0,75.0,78.0,-81.0,65.0,78.0,143.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 49,NATIVEL Laure,48.38,-43.0,-43.0,-43.0,55.0,-60.0,-60.0,0.0,55.0,0.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 55,TORNEY Constance,54.79,50.0,-54.0,-55.0,68.0,71.0,-74.0,50.0,71.0,121.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 55,ANDRIEUX Estelle,54.87,45.0,-49.0,-49.0,-60.0,-60.0,-60.0,45.0,0.0,0.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 59,VERMONT Morgane,59.0,70.0,-74.0,-74.0,90.0,93.0,-96.0,70.0,93.0,163.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 59,BINETRUY Camille,59.0,68.0,71.0,-74.0,79.0,-83.0,-83.0,71.0,79.0,150.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 59,SAN ISIDRO GRANDE Sonia,57.6,56.0,59.0,61.0,68.0,71.0,-74.0,61.0,71.0,132.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 59,RAKOTOMALALA Emma,58.18,60.0,63.0,-66.0,-88.0,-88.0,-92.0,63.0,0.0,0.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 64,CADET Auberi,60.2,57.0,-60.0,60.0,73.0,76.0,78.0,60.0,78.0,138.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 64,RAZAKARIA Glena,60.6,53.0,-56.0,57.0,73.0,76.0,-79.0,57.0,76.0,133.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 71,FONTAINE Elodie,64.94,65.0,-68.0,68.0,83.0,86.0,88.0,68.0,88.0,156.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 71,TOULLEC Gaëlle,68.8,65.0,68.0,-70.0,80.0,84.0,-87.0,68.0,84.0,152.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 76,TISSOT Clarisse,75.85,73.0,-76.0,76.0,85.0,89.0,91.0,76.0,91.0,167.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women >87,HOAREAU Marjorie,90.5,55.0,60.0,65.0,75.0,78.0,-81.0,65.0,78.0,143.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 49,ROULLET Tony,47.8,27.0,29.0,31.0,37.0,39.0,41.0,31.0,41.0,72.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 49,MILLIT Yacoub,46.75,17.0,18.0,19.0,20.0,21.0,21.0,19.0,21.0,40.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 61,HUDAN Esteban,56.5,22.0,24.0,26.0,25.0,27.0,-29.0,26.0,27.0,53.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men >73,CHAVAND Azaël,73.1,37.0,39.0,-41.0,47.0,49.0,-51.0,39.0,49.0,88.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men >73,SABILLAH Walid,95.85,21.0,23.0,24.0,-31.0,31.0,33.0,24.0,33.0,57.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 35,BLAIZE Elésia,31.55,15.0,-17.0,17.0,18.0,20.0,22.0,17.0,22.0,39.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 45,DURIC Ema,42.5,36.0,38.0,40.0,46.0,48.0,50.0,40.0,50.0,90.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 45,BAUD Tina,41.4,28.0,30.0,32.0,39.0,41.0,-43.0,32.0,41.0,73.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 45,AUBRY Leena,40.05,21.0,23.0,25.0,29.0,31.0,33.0,25.0,33.0,58.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 49,LACOMBE Oriane,45.2,17.0,19.0,-21.0,23.0,25.0,27.0,19.0,27.0,46.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 64,SIGUST DUQUESNOY Lya,63.05,21.0,23.0,-25.0,29.0,31.0,33.0,23.0,33.0,56.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women >71,JAILLET Kiara,73.35,21.0,-23.0,-23.0,28.0,-30.0,30.0,21.0,30.0,51.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 49,ROULLET Tony,47.8,27.0,29.0,31.0,37.0,39.0,41.0,31.0,41.0,72.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 49,MILLIT Yacoub,46.75,17.0,18.0,19.0,20.0,21.0,21.0,19.0,21.0,40.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 61,HUDAN Esteban,56.5,22.0,24.0,26.0,25.0,27.0,-29.0,26.0,27.0,53.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men >73,CHAVAND Azaël,73.1,37.0,39.0,-41.0,47.0,49.0,-51.0,39.0,49.0,88.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men >73,SABILLAH Walid,95.85,21.0,23.0,24.0,-31.0,31.0,33.0,24.0,33.0,57.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 35,BLAIZE Elésia,31.55,15.0,-17.0,17.0,18.0,20.0,22.0,17.0,22.0,39.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 45,DURIC Ema,42.5,36.0,38.0,40.0,46.0,48.0,50.0,40.0,50.0,90.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 45,BAUD Tina,41.4,28.0,30.0,32.0,39.0,41.0,-43.0,32.0,41.0,73.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 45,AUBRY Leena,40.05,21.0,23.0,25.0,29.0,31.0,33.0,25.0,33.0,58.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 49,LACOMBE Oriane,45.2,17.0,19.0,-21.0,23.0,25.0,27.0,19.0,27.0,46.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 64,SIGUST DUQUESNOY Lya,63.05,21.0,23.0,-25.0,29.0,31.0,33.0,23.0,33.0,56.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women >71,JAILLET Kiara,73.35,21.0,-23.0,-23.0,28.0,-30.0,30.0,21.0,30.0,51.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U15 Men 61,SALVATICI Lucio,61.0,52.0,55.0,-57.0,-75.0,75.0,-80.0,55.0,75.0,130.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Men 55,DELOEYERE Florian,49.9,-56.0,-56.0,56.0,60.0,64.0,-68.0,56.0,64.0,120.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Men 61,MAGGIO Aaron,60.4,85.0,-94.0,94.0,105.0,-115.0,-115.0,94.0,105.0,199.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Men 61,DE HARO Sacha,61.0,70.0,-73.0,75.0,90.0,-93.0,-94.0,75.0,90.0,165.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Men 67,REY Lucas,63.0,78.0,81.0,-85.0,-98.0,98.0,102.0,81.0,102.0,183.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Men 67,HENNEUSE Mathias,65.1,72.0,-75.0,-75.0,87.0,-91.0,-93.0,72.0,87.0,159.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Men >102,FERRON Rudy,119.7,92.0,-96.0,-96.0,-104.0,-108.0,-108.0,92.0,0.0,0.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Men 61,ALONSO Nicolas,60.1,70.0,75.0,-77.0,90.0,95.0,-0.0,75.0,95.0,170.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Men 61,BAILLIEUX Cyril,57.6,69.0,73.0,-75.0,89.0,-93.0,-97.0,73.0,89.0,162.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Men 67,GLEYZE Alexis,64.5,-78.0,83.0,85.0,100.0,105.0,-0.0,85.0,105.0,190.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Men 73,CHANUT Leo,72.8,95.0,98.0,102.0,115.0,-119.0,119.0,102.0,119.0,221.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Men 73,JUREK Marcel,70.4,82.0,88.0,-90.0,105.0,-112.0,112.0,88.0,112.0,200.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Men 73,GAY Milan,71.8,-86.0,-89.0,90.0,105.0,-108.0,-110.0,90.0,105.0,195.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Men 81,REY Dorian,80.1,100.0,105.0,110.0,125.0,130.0,135.0,110.0,135.0,245.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Men 81,ROUSSEAU Arthur,79.9,89.0,92.0,95.0,-115.0,120.0,-125.0,95.0,120.0,215.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U15 Men 61,SALVATICI Lucio,61.0,52.0,55.0,-57.0,-75.0,75.0,-80.0,55.0,75.0,130.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Men 55,DELOEYERE Florian,49.9,-56.0,-56.0,56.0,60.0,64.0,-68.0,56.0,64.0,120.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Men 61,MAGGIO Aaron,60.4,85.0,-94.0,94.0,105.0,-115.0,-115.0,94.0,105.0,199.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Men 61,DE HARO Sacha,61.0,70.0,-73.0,75.0,90.0,-93.0,-94.0,75.0,90.0,165.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Men 67,REY Lucas,63.0,78.0,81.0,-85.0,-98.0,98.0,102.0,81.0,102.0,183.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Men 67,HENNEUSE Mathias,65.1,72.0,-75.0,-75.0,87.0,-91.0,-93.0,72.0,87.0,159.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Men >102,FERRON Rudy,119.7,92.0,-96.0,-96.0,-104.0,-108.0,-108.0,92.0,0.0,0.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Men 61,ALONSO Nicolas,60.1,70.0,75.0,-77.0,90.0,95.0,-0.0,75.0,95.0,170.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Men 61,BAILLIEUX Cyril,57.6,69.0,73.0,-75.0,89.0,-93.0,-97.0,73.0,89.0,162.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Men 67,GLEYZE Alexis,64.5,-78.0,83.0,85.0,100.0,105.0,-0.0,85.0,105.0,190.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Men 73,CHANUT Leo,72.8,95.0,98.0,102.0,115.0,-119.0,119.0,102.0,119.0,221.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Men 73,JUREK Marcel,70.4,82.0,88.0,-90.0,105.0,-112.0,112.0,88.0,112.0,200.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Men 73,GAY Milan,71.8,-86.0,-89.0,90.0,105.0,-108.0,-110.0,90.0,105.0,195.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Men 81,REY Dorian,80.1,100.0,105.0,110.0,125.0,130.0,135.0,110.0,135.0,245.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Men 81,ROUSSEAU Arthur,79.9,89.0,92.0,95.0,-115.0,120.0,-125.0,95.0,120.0,215.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 45,PEETERS Emilie,44.8,-53.0,53.0,-56.0,64.0,67.0,70.0,53.0,70.0,123.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 45,CHEDED Julie,44.8,-50.0,-52.0,-52.0,-60.0,62.0,-65.0,0.0,62.0,0.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 59,JOUBIN Ophelie,58.35,-53.0,54.0,57.0,62.0,66.0,-69.0,57.0,66.0,123.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 64,AUTILLO Clara,61.5,73.0,77.0,80.0,90.0,93.0,96.0,80.0,96.0,176.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 64,SANCI Solenza,63.9,65.0,68.0,70.0,85.0,-90.0,-90.0,70.0,85.0,155.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 64,TRAN Christine,62.6,55.0,58.0,-62.0,70.0,-75.0,75.0,58.0,75.0,133.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 64,WAZNI Geneviève,64.0,55.0,58.0,-62.0,67.0,70.0,-74.0,58.0,70.0,128.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 64,HUGNY Alice,63.3,45.0,-0.0,-0.0,65.0,-0.0,-0.0,45.0,65.0,110.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 71,BLANC Lucie,70.0,73.0,76.0,78.0,90.0,-94.0,94.0,78.0,94.0,172.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 71,FURMANOSKI Vicky,68.0,66.0,69.0,-72.0,-77.0,79.0,83.0,69.0,83.0,152.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 71,SEVERIN Alina,70.7,64.0,-68.0,-68.0,82.0,-86.0,-88.0,64.0,82.0,146.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women >87,GIMBERT Valeriane,99.75,60.0,63.0,-65.0,83.0,88.0,90.0,63.0,90.0,153.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 45,PEETERS Emilie,44.8,-53.0,53.0,-56.0,64.0,67.0,70.0,53.0,70.0,123.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 45,CHEDED Julie,44.8,-50.0,-52.0,-52.0,-60.0,62.0,-65.0,0.0,62.0,0.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 59,JOUBIN Ophelie,58.35,-53.0,54.0,57.0,62.0,66.0,-69.0,57.0,66.0,123.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 64,AUTILLO Clara,61.5,73.0,77.0,80.0,90.0,93.0,96.0,80.0,96.0,176.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 64,SANCI Solenza,63.9,65.0,68.0,70.0,85.0,-90.0,-90.0,70.0,85.0,155.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 64,TRAN Christine,62.6,55.0,58.0,-62.0,70.0,-75.0,75.0,58.0,75.0,133.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 64,WAZNI Geneviève,64.0,55.0,58.0,-62.0,67.0,70.0,-74.0,58.0,70.0,128.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 64,HUGNY Alice,63.3,45.0,-0.0,-0.0,65.0,-0.0,-0.0,45.0,65.0,110.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 71,BLANC Lucie,70.0,73.0,76.0,78.0,90.0,-94.0,94.0,78.0,94.0,172.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 71,FURMANOSKI Vicky,68.0,66.0,69.0,-72.0,-77.0,79.0,83.0,69.0,83.0,152.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women 71,SEVERIN Alina,70.7,64.0,-68.0,-68.0,82.0,-86.0,-88.0,64.0,82.0,146.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Women >87,GIMBERT Valeriane,99.75,60.0,63.0,-65.0,83.0,88.0,90.0,63.0,90.0,153.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Men 67,APRAHAMIAN Azad,66.6,93.0,-97.0,97.0,-104.0,104.0,-108.0,97.0,104.0,201.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Men 73,BASSI Grégory,71.5,94.0,-100.0,-102.0,123.0,131.0,-138.0,94.0,131.0,225.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Men 73,PONS Thierry,70.1,-100.0,100.0,-107.0,120.0,124.0,-130.0,100.0,124.0,224.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Men 81,SAMMUT Nicolas,78.0,115.0,-120.0,-121.0,147.0,155.0,-160.0,115.0,155.0,270.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Men 81,AGUILERA Marc,79.9,-100.0,105.0,110.0,140.0,150.0,-154.0,110.0,150.0,260.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Men 81,GARCIA Guillaume,80.9,103.0,110.0,-113.0,123.0,127.0,132.0,110.0,132.0,242.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Men 81,SIMEONOV Tsvetan,77.4,-110.0,110.0,115.0,125.0,-130.0,-130.0,115.0,125.0,240.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Men 81,LAHAYE Pierre,77.8,105.0,107.0,-109.0,128.0,132.0,-135.0,107.0,132.0,239.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Men 81,DALOUR Killian,80.4,100.0,-105.0,105.0,130.0,-136.0,-137.0,105.0,130.0,235.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Men 67,APRAHAMIAN Azad,66.6,93.0,-97.0,97.0,-104.0,104.0,-108.0,97.0,104.0,201.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Men 73,BASSI Grégory,71.5,94.0,-100.0,-102.0,123.0,131.0,-138.0,94.0,131.0,225.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Men 73,PONS Thierry,70.1,-100.0,100.0,-107.0,120.0,124.0,-130.0,100.0,124.0,224.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Men 81,SAMMUT Nicolas,78.0,115.0,-120.0,-121.0,147.0,155.0,-160.0,115.0,155.0,270.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Men 81,AGUILERA Marc,79.9,-100.0,105.0,110.0,140.0,150.0,-154.0,110.0,150.0,260.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Men 81,GARCIA Guillaume,80.9,103.0,110.0,-113.0,123.0,127.0,132.0,110.0,132.0,242.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Men 81,SIMEONOV Tsvetan,77.4,-110.0,110.0,115.0,125.0,-130.0,-130.0,115.0,125.0,240.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Men 81,LAHAYE Pierre,77.8,105.0,107.0,-109.0,128.0,132.0,-135.0,107.0,132.0,239.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,SEN Men 81,DALOUR Killian,80.4,100.0,-105.0,105.0,130.0,-136.0,-137.0,105.0,130.0,235.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U10 Women ,DECLERCQ Zélyna,29.2,17.0,-19.0,19.0,22.0,23.0,25.0,19.0,25.0,44.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U10 Women ,NOLLET Floor,34.1,14.0,16.0,17.0,22.0,24.0,25.0,17.0,25.0,42.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U10 Women ,BEHAGUE Elya,27.3,11.0,13.0,-15.0,18.0,19.0,-20.0,13.0,19.0,32.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U10 Women ,GEERAERT Lena,26.0,9.0,11.0,-12.0,12.0,14.0,16.0,11.0,16.0,27.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U10 Women ,ANG-WAN Syara,28.2,6.0,8.0,9.0,10.0,-11.0,11.0,9.0,11.0,20.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U10 Women ,VASSAUX Syriane,25.06,-5.0,5.0,7.0,7.0,9.0,11.0,7.0,11.0,18.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U10 Women ,REYNDERS Sasha,17.8,5.0,7.0,-9.0,7.0,8.0,9.0,7.0,9.0,16.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U10 Women ,HENAULT Kassidy,27.9,-16.0,16.0,-18.0,22.0,24.0,25.0,16.0,25.0,41.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 35,DEBREUX Margot,34.3,20.0,22.0,24.0,28.0,30.0,-32.0,24.0,30.0,54.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 35,RHAMDAMI-KALLIFA Khadidja,32.5,16.0,18.0,-20.0,25.0,26.0,27.0,18.0,27.0,45.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 35,LEBRE Camille,30.9,13.0,15.0,17.0,16.0,18.0,20.0,17.0,20.0,37.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 35,HECQUET Maelys,35.0,11.0,13.0,-14.0,13.0,15.0,17.0,13.0,17.0,30.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 35,BOURGUIGNON Kelya,35.0,10.0,12.0,-14.0,14.0,16.0,18.0,12.0,18.0,30.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 35,TYROU Linoa,30.5,11.0,13.0,-15.0,14.0,15.0,-17.0,13.0,15.0,28.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 35,RIQUIER Alicia,34.7,16.0,18.0,20.0,25.0,-27.0,-27.0,20.0,25.0,45.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 35,HORN Ines,29.2,16.0,18.0,20.0,-0.0,-0.0,-0.0,20.0,0.0,0.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U10 Women ,DECLERCQ Zélyna,29.2,17.0,-19.0,19.0,22.0,23.0,25.0,19.0,25.0,44.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U10 Women ,NOLLET Floor,34.1,14.0,16.0,17.0,22.0,24.0,25.0,17.0,25.0,42.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U10 Women ,BEHAGUE Elya,27.3,11.0,13.0,-15.0,18.0,19.0,-20.0,13.0,19.0,32.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U10 Women ,GEERAERT Lena,26.0,9.0,11.0,-12.0,12.0,14.0,16.0,11.0,16.0,27.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U10 Women ,ANG-WAN Syara,28.2,6.0,8.0,9.0,10.0,-11.0,11.0,9.0,11.0,20.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U10 Women ,VASSAUX Syriane,25.06,-5.0,5.0,7.0,7.0,9.0,11.0,7.0,11.0,18.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U10 Women ,REYNDERS Sasha,17.8,5.0,7.0,-9.0,7.0,8.0,9.0,7.0,9.0,16.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U10 Women ,HENAULT Kassidy,27.9,-16.0,16.0,-18.0,22.0,24.0,25.0,16.0,25.0,41.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 35,DEBREUX Margot,34.3,20.0,22.0,24.0,28.0,30.0,-32.0,24.0,30.0,54.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 35,RHAMDAMI-KALLIFA Khadidja,32.5,16.0,18.0,-20.0,25.0,26.0,27.0,18.0,27.0,45.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 35,LEBRE Camille,30.9,13.0,15.0,17.0,16.0,18.0,20.0,17.0,20.0,37.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 35,HECQUET Maelys,35.0,11.0,13.0,-14.0,13.0,15.0,17.0,13.0,17.0,30.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 35,BOURGUIGNON Kelya,35.0,10.0,12.0,-14.0,14.0,16.0,18.0,12.0,18.0,30.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 35,TYROU Linoa,30.5,11.0,13.0,-15.0,14.0,15.0,-17.0,13.0,15.0,28.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 35,RIQUIER Alicia,34.7,16.0,18.0,20.0,25.0,-27.0,-27.0,20.0,25.0,45.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 35,HORN Ines,29.2,16.0,18.0,20.0,-0.0,-0.0,-0.0,20.0,0.0,0.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 35,BEAURAIN Isaac,33.7,22.0,24.0,26.0,31.0,33.0,35.0,26.0,35.0,61.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 35,ARAB Nahil,27.8,19.0,20.0,21.0,25.0,26.0,28.0,21.0,28.0,49.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 35,DANGUY Lyam,31.6,17.0,19.0,-21.0,22.0,24.0,26.0,19.0,26.0,45.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 35,ALARD Tyler,31.2,14.0,16.0,-18.0,22.0,24.0,-25.0,16.0,24.0,40.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 35,BRUNET Timeo,28.8,10.0,-12.0,12.0,14.0,16.0,17.0,12.0,17.0,29.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 35,DELABRE Leo,32.9,14.0,-15.0,-15.0,21.0,23.0,24.0,14.0,24.0,38.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men >73,DECLERCQ Manoé,79.9,42.0,44.0,46.0,50.0,52.0,54.0,46.0,54.0,100.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 35,BEAURAIN Isaac,33.7,22.0,24.0,26.0,31.0,33.0,35.0,26.0,35.0,61.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 35,ARAB Nahil,27.8,19.0,20.0,21.0,25.0,26.0,28.0,21.0,28.0,49.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 35,DANGUY Lyam,31.6,17.0,19.0,-21.0,22.0,24.0,26.0,19.0,26.0,45.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 35,ALARD Tyler,31.2,14.0,16.0,-18.0,22.0,24.0,-25.0,16.0,24.0,40.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 35,BRUNET Timeo,28.8,10.0,-12.0,12.0,14.0,16.0,17.0,12.0,17.0,29.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 35,DELABRE Leo,32.9,14.0,-15.0,-15.0,21.0,23.0,24.0,14.0,24.0,38.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men >73,DECLERCQ Manoé,79.9,42.0,44.0,46.0,50.0,52.0,54.0,46.0,54.0,100.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 49,MECHNAME Etan,45.7,20.0,22.0,24.0,30.0,32.0,34.0,24.0,34.0,58.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 55,LECOMTE Noa,55.0,27.0,29.0,31.0,36.0,38.0,40.0,31.0,40.0,71.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 55,DEDECKER Mathéo,49.6,25.0,27.0,-29.0,35.0,37.0,39.0,27.0,39.0,66.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 61,ALLAYS RAMACKERS Enguerrand,60.8,46.0,48.0,50.0,56.0,58.0,60.0,50.0,60.0,110.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 67,TILLIEZ Noë,63.3,25.0,27.0,-29.0,34.0,35.0,37.0,27.0,37.0,64.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 67,LENFANT Mathieu,64.3,20.0,22.0,24.0,30.0,32.0,34.0,24.0,34.0,58.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 67,MOUCHON Louness,64.2,15.0,17.0,19.0,19.0,21.0,23.0,19.0,23.0,42.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 67,PENEZ Nathaniel,65.1,15.0,16.0,-17.0,-20.0,20.0,21.0,16.0,21.0,37.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 49,MECHNAME Etan,45.7,20.0,22.0,24.0,30.0,32.0,34.0,24.0,34.0,58.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 55,LECOMTE Noa,55.0,27.0,29.0,31.0,36.0,38.0,40.0,31.0,40.0,71.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 55,DEDECKER Mathéo,49.6,25.0,27.0,-29.0,35.0,37.0,39.0,27.0,39.0,66.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 61,ALLAYS RAMACKERS Enguerrand,60.8,46.0,48.0,50.0,56.0,58.0,60.0,50.0,60.0,110.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 67,TILLIEZ Noë,63.3,25.0,27.0,-29.0,34.0,35.0,37.0,27.0,37.0,64.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 67,LENFANT Mathieu,64.3,20.0,22.0,24.0,30.0,32.0,34.0,24.0,34.0,58.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 67,MOUCHON Louness,64.2,15.0,17.0,19.0,19.0,21.0,23.0,19.0,23.0,42.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 67,PENEZ Nathaniel,65.1,15.0,16.0,-17.0,-20.0,20.0,21.0,16.0,21.0,37.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 40,LEBLANC Lana,39.4,19.0,21.0,23.0,29.0,31.0,33.0,23.0,33.0,56.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 40,DECORTE-DELHAIE Leonie,40.0,16.0,18.0,-20.0,-23.0,23.0,25.0,18.0,25.0,43.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 40,RIQUIER Marie,37.7,-14.0,14.0,15.0,20.0,22.0,-24.0,15.0,22.0,37.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 40,FRADET Zoe,39.3,10.0,12.0,14.0,12.0,14.0,16.0,14.0,16.0,30.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 49,RADAMA Shaina,48.4,36.0,38.0,-40.0,48.0,50.0,52.0,38.0,52.0,90.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 49,BOSQ Selena,46.4,26.0,28.0,-30.0,37.0,-39.0,39.0,28.0,39.0,67.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 49,BERNARD Liliana,46.0,22.0,24.0,26.0,30.0,32.0,34.0,26.0,34.0,60.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 49,CUGLIETTA Rachel,46.8,15.0,17.0,18.0,20.0,22.0,24.0,18.0,24.0,42.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 49,NOYELLE Victoire,48.6,16.0,-18.0,18.0,22.0,-24.0,24.0,18.0,24.0,42.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 55,MARTINEZ Clea,50.7,25.0,27.0,29.0,36.0,38.0,40.0,29.0,40.0,69.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 55,BACHELET Louna,53.6,27.0,29.0,-30.0,30.0,-32.0,32.0,29.0,32.0,61.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 55,WARNET Louise,51.6,16.0,18.0,-20.0,20.0,21.0,22.0,18.0,22.0,40.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 55,DODRE Mae,49.4,36.0,38.0,-40.0,-46.0,46.0,-47.0,38.0,46.0,84.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 59,MONIER Maelys,55.9,24.0,26.0,28.0,34.0,36.0,37.0,28.0,37.0,65.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 40,LEBLANC Lana,39.4,19.0,21.0,23.0,29.0,31.0,33.0,23.0,33.0,56.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 40,DECORTE-DELHAIE Leonie,40.0,16.0,18.0,-20.0,-23.0,23.0,25.0,18.0,25.0,43.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 40,RIQUIER Marie,37.7,-14.0,14.0,15.0,20.0,22.0,-24.0,15.0,22.0,37.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 40,FRADET Zoe,39.3,10.0,12.0,14.0,12.0,14.0,16.0,14.0,16.0,30.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 49,RADAMA Shaina,48.4,36.0,38.0,-40.0,48.0,50.0,52.0,38.0,52.0,90.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 49,BOSQ Selena,46.4,26.0,28.0,-30.0,37.0,-39.0,39.0,28.0,39.0,67.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 49,BERNARD Liliana,46.0,22.0,24.0,26.0,30.0,32.0,34.0,26.0,34.0,60.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 49,CUGLIETTA Rachel,46.8,15.0,17.0,18.0,20.0,22.0,24.0,18.0,24.0,42.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 49,NOYELLE Victoire,48.6,16.0,-18.0,18.0,22.0,-24.0,24.0,18.0,24.0,42.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 55,MARTINEZ Clea,50.7,25.0,27.0,29.0,36.0,38.0,40.0,29.0,40.0,69.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 55,BACHELET Louna,53.6,27.0,29.0,-30.0,30.0,-32.0,32.0,29.0,32.0,61.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 55,WARNET Louise,51.6,16.0,18.0,-20.0,20.0,21.0,22.0,18.0,22.0,40.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 55,DODRE Mae,49.4,36.0,38.0,-40.0,-46.0,46.0,-47.0,38.0,46.0,84.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 59,MONIER Maelys,55.9,24.0,26.0,28.0,34.0,36.0,37.0,28.0,37.0,65.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 45,ARAB Aliyah,43.9,29.0,30.0,-32.0,34.0,35.0,37.0,30.0,37.0,67.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 45,GEERAERT Emmy,43.2,19.0,21.0,23.0,29.0,31.0,33.0,23.0,33.0,56.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 45,BUTTEZ DECRAMP Louise,42.8,14.0,16.0,-18.0,23.0,25.0,-27.0,16.0,25.0,41.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 64,FONTENELLE Chloe,60.5,42.0,44.0,-45.0,56.0,58.0,-60.0,44.0,58.0,102.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 64,MISSUE Celia,63.0,25.0,27.0,29.0,38.0,40.0,42.0,29.0,42.0,71.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 64,PREVOST Anais,61.0,22.0,24.0,25.0,31.0,33.0,35.0,25.0,35.0,60.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 64,BARTHELEMY Elisa,63.3,18.0,20.0,21.0,25.0,27.0,28.0,21.0,28.0,49.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 64,VANLAERES Cassandra,60.9,18.0,20.0,22.0,20.0,22.0,24.0,22.0,24.0,46.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 71,THIRY Cheyenne,64.9,25.0,27.0,-28.0,35.0,37.0,-39.0,27.0,37.0,64.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 71,OPIGEZ Lena,64.5,22.0,-24.0,-24.0,27.0,29.0,30.0,22.0,30.0,52.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women >71,NAKOULMA Mounira,107.7,35.0,37.0,39.0,-49.0,49.0,50.0,39.0,50.0,89.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women >71,DEVYNCK Lyna,72.1,28.0,30.0,32.0,35.0,37.0,-39.0,32.0,37.0,69.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women >71,DUCLERMORTIER Ismerie,85.6,20.0,22.0,24.0,24.0,26.0,28.0,24.0,28.0,52.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 45,ARAB Aliyah,43.9,29.0,30.0,-32.0,34.0,35.0,37.0,30.0,37.0,67.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 45,GEERAERT Emmy,43.2,19.0,21.0,23.0,29.0,31.0,33.0,23.0,33.0,56.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 45,BUTTEZ DECRAMP Louise,42.8,14.0,16.0,-18.0,23.0,25.0,-27.0,16.0,25.0,41.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 64,FONTENELLE Chloe,60.5,42.0,44.0,-45.0,56.0,58.0,-60.0,44.0,58.0,102.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 64,MISSUE Celia,63.0,25.0,27.0,29.0,38.0,40.0,42.0,29.0,42.0,71.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 64,PREVOST Anais,61.0,22.0,24.0,25.0,31.0,33.0,35.0,25.0,35.0,60.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 64,BARTHELEMY Elisa,63.3,18.0,20.0,21.0,25.0,27.0,28.0,21.0,28.0,49.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 64,VANLAERES Cassandra,60.9,18.0,20.0,22.0,20.0,22.0,24.0,22.0,24.0,46.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 71,THIRY Cheyenne,64.9,25.0,27.0,-28.0,35.0,37.0,-39.0,27.0,37.0,64.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 71,OPIGEZ Lena,64.5,22.0,-24.0,-24.0,27.0,29.0,30.0,22.0,30.0,52.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women >71,NAKOULMA Mounira,107.7,35.0,37.0,39.0,-49.0,49.0,50.0,39.0,50.0,89.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women >71,DEVYNCK Lyna,72.1,28.0,30.0,32.0,35.0,37.0,-39.0,32.0,37.0,69.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women >71,DUCLERMORTIER Ismerie,85.6,20.0,22.0,24.0,24.0,26.0,28.0,24.0,28.0,52.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U15 Women 45,MONNET-BESSON Lisa,41.5,24.0,26.0,-28.0,29.0,-31.0,31.0,26.0,31.0,57.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U15 Women 59,HORVATH Asya,56.8,47.0,49.0,51.0,57.0,60.0,62.0,51.0,62.0,113.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U15 Women 59,GODELLE Clara,57.7,30.0,33.0,36.0,38.0,41.0,43.0,36.0,43.0,79.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Women 55,RENARD Lèa,51.8,43.0,-47.0,-47.0,54.0,58.0,-60.0,43.0,58.0,101.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Women 64,VAN STRAATEN Clara,63.1,-63.0,-63.0,63.0,78.0,83.0,-86.0,63.0,83.0,146.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Women 64,CORBINEAU Lea,62.8,40.0,-44.0,45.0,-51.0,51.0,-55.0,45.0,51.0,96.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Women 64,GIRARD-CLOS Océane,60.5,-45.0,-45.0,-45.0,56.0,-60.0,-60.0,0.0,56.0,0.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Women 64,MATHELIN Lou,61.1,50.0,-53.0,-53.0,-66.0,-69.0,-69.0,50.0,0.0,0.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Women 87,JUMEL Chiara,84.0,-75.0,75.0,79.0,95.0,99.0,-101.0,79.0,99.0,178.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U15 Women 45,MONNET-BESSON Lisa,41.5,24.0,26.0,-28.0,29.0,-31.0,31.0,26.0,31.0,57.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U15 Women 59,HORVATH Asya,56.8,47.0,49.0,51.0,57.0,60.0,62.0,51.0,62.0,113.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U15 Women 59,GODELLE Clara,57.7,30.0,33.0,36.0,38.0,41.0,43.0,36.0,43.0,79.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Women 55,RENARD Lèa,51.8,43.0,-47.0,-47.0,54.0,58.0,-60.0,43.0,58.0,101.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Women 64,VAN STRAATEN Clara,63.1,-63.0,-63.0,63.0,78.0,83.0,-86.0,63.0,83.0,146.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Women 64,CORBINEAU Lea,62.8,40.0,-44.0,45.0,-51.0,51.0,-55.0,45.0,51.0,96.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Women 64,GIRARD-CLOS Océane,60.5,-45.0,-45.0,-45.0,56.0,-60.0,-60.0,0.0,56.0,0.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Women 64,MATHELIN Lou,61.1,50.0,-53.0,-53.0,-66.0,-69.0,-69.0,50.0,0.0,0.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Women 87,JUMEL Chiara,84.0,-75.0,75.0,79.0,95.0,99.0,-101.0,79.0,99.0,178.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Men 67,ISRAILOV Abubakar,67.0,95.0,100.0,-105.0,115.0,120.0,123.0,100.0,123.0,223.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Men 73,HELENA Baptiste,71.7,75.0,78.0,-80.0,95.0,-102.0,-102.0,78.0,95.0,173.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Men 73,DA SILVA Thibaut,72.0,96.0,101.0,-104.0,106.0,114.0,-119.0,101.0,114.0,215.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Men 73,BENNEGENT Loïc,71.85,78.0,-81.0,-81.0,95.0,100.0,105.0,78.0,105.0,183.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Men 81,COTTE-GAUDIN Simon,81.0,105.0,-110.0,113.0,130.0,-136.0,-138.0,113.0,130.0,243.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Men 81,GODARD Tanguy,76.1,95.0,-98.0,98.0,117.0,-122.0,-123.0,98.0,117.0,215.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Men 89,HEAFALA Jonah,85.1,100.0,107.0,115.0,130.0,138.0,145.0,115.0,145.0,260.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Men 89,JACQUOT Damien,88.45,95.0,99.0,-101.0,120.0,126.0,-130.0,99.0,126.0,225.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Men 67,ISRAILOV Abubakar,67.0,95.0,100.0,-105.0,115.0,120.0,123.0,100.0,123.0,223.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Men 73,HELENA Baptiste,71.7,75.0,78.0,-80.0,95.0,-102.0,-102.0,78.0,95.0,173.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Men 73,DA SILVA Thibaut,72.0,96.0,101.0,-104.0,106.0,114.0,-119.0,101.0,114.0,215.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Men 73,BENNEGENT Loïc,71.85,78.0,-81.0,-81.0,95.0,100.0,105.0,78.0,105.0,183.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Men 81,COTTE-GAUDIN Simon,81.0,105.0,-110.0,113.0,130.0,-136.0,-138.0,113.0,130.0,243.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Men 81,GODARD Tanguy,76.1,95.0,-98.0,98.0,117.0,-122.0,-123.0,98.0,117.0,215.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Men 89,HEAFALA Jonah,85.1,100.0,107.0,115.0,130.0,138.0,145.0,115.0,145.0,260.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Men 89,JACQUOT Damien,88.45,95.0,99.0,-101.0,120.0,126.0,-130.0,99.0,126.0,225.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 35,BRUCK Joan,34.4,26.0,28.0,30.0,30.0,32.0,34.0,30.0,34.0,64.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 35,RUCKLIN Lucas,30.05,12.0,14.0,16.0,-15.0,15.0,17.0,16.0,17.0,33.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 35,WEISS Louis,30.95,11.0,13.0,-15.0,16.0,18.0,20.0,13.0,20.0,33.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 40,THOMAS Briac,37.2,27.0,-29.0,29.0,33.0,35.0,36.0,29.0,36.0,65.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 40,BONNENFANT Marlon,36.25,26.0,28.0,30.0,32.0,34.0,-36.0,30.0,34.0,64.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 40,JUNG Eugène,38.45,22.0,24.0,26.0,32.0,34.0,-36.0,26.0,34.0,60.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 40,DOS SANTOS Paolo,36.95,21.0,23.0,25.0,28.0,30.0,-0.0,25.0,30.0,55.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 45,LEGOUX Jules,44.45,27.0,29.0,31.0,34.0,36.0,-38.0,31.0,36.0,67.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 55,HUBER Nathan,54.95,25.0,27.0,29.0,36.0,38.0,40.0,29.0,40.0,69.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 55,JAVAUDIN Kilian,53.0,19.0,21.0,-23.0,24.0,26.0,28.0,21.0,28.0,49.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 61,SEGUIN Timeo,58.7,22.0,-24.0,24.0,26.0,28.0,30.0,24.0,30.0,54.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 67,KLOCK Janis,61.75,36.0,38.0,40.0,46.0,48.0,50.0,40.0,50.0,90.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 67,DUBOIS MIKULASKO Tom,62.1,31.0,33.0,-35.0,40.0,42.0,44.0,33.0,44.0,77.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 73,SIMONET Arthur,67.6,16.0,18.0,20.0,20.0,22.0,24.0,20.0,24.0,44.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 35,TOURNY Loréline,28.75,10.0,12.0,-14.0,13.0,15.0,17.0,12.0,17.0,29.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 35,VACHEY Louise,28.0,10.0,12.0,-14.0,13.0,-15.0,15.0,12.0,15.0,27.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 40,BESANCENOT Juliette,39.15,28.0,30.0,32.0,36.0,38.0,40.0,32.0,40.0,72.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 45,MARGUERAT Mila,41.85,22.0,24.0,-26.0,32.0,34.0,-36.0,24.0,34.0,58.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 35,BRUCK Joan,34.4,26.0,28.0,30.0,30.0,32.0,34.0,30.0,34.0,64.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 35,RUCKLIN Lucas,30.05,12.0,14.0,16.0,-15.0,15.0,17.0,16.0,17.0,33.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 35,WEISS Louis,30.95,11.0,13.0,-15.0,16.0,18.0,20.0,13.0,20.0,33.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 40,THOMAS Briac,37.2,27.0,-29.0,29.0,33.0,35.0,36.0,29.0,36.0,65.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 40,BONNENFANT Marlon,36.25,26.0,28.0,30.0,32.0,34.0,-36.0,30.0,34.0,64.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 40,JUNG Eugène,38.45,22.0,24.0,26.0,32.0,34.0,-36.0,26.0,34.0,60.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 40,DOS SANTOS Paolo,36.95,21.0,23.0,25.0,28.0,30.0,-0.0,25.0,30.0,55.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 45,LEGOUX Jules,44.45,27.0,29.0,31.0,34.0,36.0,-38.0,31.0,36.0,67.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 55,HUBER Nathan,54.95,25.0,27.0,29.0,36.0,38.0,40.0,29.0,40.0,69.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 55,JAVAUDIN Kilian,53.0,19.0,21.0,-23.0,24.0,26.0,28.0,21.0,28.0,49.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 61,SEGUIN Timeo,58.7,22.0,-24.0,24.0,26.0,28.0,30.0,24.0,30.0,54.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 67,KLOCK Janis,61.75,36.0,38.0,40.0,46.0,48.0,50.0,40.0,50.0,90.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 67,DUBOIS MIKULASKO Tom,62.1,31.0,33.0,-35.0,40.0,42.0,44.0,33.0,44.0,77.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Men 73,SIMONET Arthur,67.6,16.0,18.0,20.0,20.0,22.0,24.0,20.0,24.0,44.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 35,TOURNY Loréline,28.75,10.0,12.0,-14.0,13.0,15.0,17.0,12.0,17.0,29.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 35,VACHEY Louise,28.0,10.0,12.0,-14.0,13.0,-15.0,15.0,12.0,15.0,27.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 40,BESANCENOT Juliette,39.15,28.0,30.0,32.0,36.0,38.0,40.0,32.0,40.0,72.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U13 Women 45,MARGUERAT Mila,41.85,22.0,24.0,-26.0,32.0,34.0,-36.0,24.0,34.0,58.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U15 Men 49,PERIARD-LOHNER Thyméo,47.1,43.0,45.0,47.0,59.0,63.0,-66.0,47.0,63.0,110.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U15 Men 61,GONDRAN Lého,59.65,58.0,62.0,-65.0,74.0,78.0,80.0,62.0,80.0,142.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U15 Men 61,SCHULTZ Martin,56.95,50.0,-55.0,-55.0,68.0,72.0,-75.0,50.0,72.0,122.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U15 Men 67,AOUNI Maxence,61.95,70.0,74.0,78.0,90.0,94.0,-97.0,78.0,94.0,172.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U15 Men 67,STERLE Enzo,63.75,64.0,67.0,-70.0,75.0,-80.0,-83.0,67.0,75.0,142.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U15 Men 73,GEIGER Aymeric,71.8,83.0,-88.0,-88.0,115.0,-121.0,-121.0,83.0,115.0,198.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Men 61,MOSER Léo,58.85,-70.0,-70.0,70.0,95.0,100.0,-102.0,70.0,100.0,170.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Men 67,CARCANO Tom,65.9,80.0,83.0,86.0,97.0,102.0,105.0,86.0,105.0,191.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Men 73,PERIARD-LOHNER Léo,70.0,80.0,83.0,-86.0,100.0,103.0,-106.0,83.0,103.0,186.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Men 73,FERRON Thomas,69.9,75.0,-78.0,-80.0,90.0,94.0,-100.0,75.0,94.0,169.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Men 67,GACHOD Pierre,64.55,81.0,85.0,88.0,94.0,-98.0,102.0,88.0,102.0,190.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Men 73,GARZANDAT Mattéo,72.5,79.0,82.0,85.0,103.0,108.0,110.0,85.0,110.0,195.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Men 73,GAUROIS Nathan,69.5,-80.0,80.0,-85.0,95.0,100.0,-105.0,80.0,100.0,180.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Men 89,VALENTIN Julien,85.5,93.0,100.0,-107.0,115.0,122.0,125.0,100.0,125.0,225.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U15 Men 49,PERIARD-LOHNER Thyméo,47.1,43.0,45.0,47.0,59.0,63.0,-66.0,47.0,63.0,110.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U15 Men 61,GONDRAN Lého,59.65,58.0,62.0,-65.0,74.0,78.0,80.0,62.0,80.0,142.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U15 Men 61,SCHULTZ Martin,56.95,50.0,-55.0,-55.0,68.0,72.0,-75.0,50.0,72.0,122.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U15 Men 67,AOUNI Maxence,61.95,70.0,74.0,78.0,90.0,94.0,-97.0,78.0,94.0,172.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U15 Men 67,STERLE Enzo,63.75,64.0,67.0,-70.0,75.0,-80.0,-83.0,67.0,75.0,142.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U15 Men 73,GEIGER Aymeric,71.8,83.0,-88.0,-88.0,115.0,-121.0,-121.0,83.0,115.0,198.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Men 61,MOSER Léo,58.85,-70.0,-70.0,70.0,95.0,100.0,-102.0,70.0,100.0,170.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Men 67,CARCANO Tom,65.9,80.0,83.0,86.0,97.0,102.0,105.0,86.0,105.0,191.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Men 73,PERIARD-LOHNER Léo,70.0,80.0,83.0,-86.0,100.0,103.0,-106.0,83.0,103.0,186.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Men 73,FERRON Thomas,69.9,75.0,-78.0,-80.0,90.0,94.0,-100.0,75.0,94.0,169.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Men 67,GACHOD Pierre,64.55,81.0,85.0,88.0,94.0,-98.0,102.0,88.0,102.0,190.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Men 73,GARZANDAT Mattéo,72.5,79.0,82.0,85.0,103.0,108.0,110.0,85.0,110.0,195.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Men 73,GAUROIS Nathan,69.5,-80.0,80.0,-85.0,95.0,100.0,-105.0,80.0,100.0,180.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Men 89,VALENTIN Julien,85.5,93.0,100.0,-107.0,115.0,122.0,125.0,100.0,125.0,225.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U15 Women 55,SIKORA Celeste,53.3,42.0,44.0,46.0,53.0,57.0,60.0,46.0,60.0,106.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U15 Women 59,KUSS--BILDSTEIN Irene,58.3,50.0,-52.0,-53.0,60.0,-63.0,63.0,50.0,63.0,113.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U15 Women 64,ROUSSEL Naomie,63.5,53.0,56.0,58.0,62.0,-66.0,66.0,58.0,66.0,124.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U15 Women 64,SIEGRIST Amandine,63.5,40.0,-43.0,43.0,52.0,-55.0,-55.0,43.0,52.0,95.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U15 Women 71,KOCH Melody,70.45,33.0,35.0,37.0,-42.0,42.0,47.0,37.0,47.0,84.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U15 Women 76,KLOCK Amanda,74.55,60.0,63.0,-65.0,-70.0,70.0,-73.0,63.0,70.0,133.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Women 45,WACK Cléone,41.45,28.0,30.0,-33.0,37.0,40.0,-42.0,30.0,40.0,70.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Women 49,ZOGHLAMI Clemence,48.55,36.0,39.0,41.0,-47.0,47.0,-50.0,41.0,47.0,88.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Women 59,MARGUERAT Lola,57.7,-32.0,32.0,-36.0,46.0,-51.0,-51.0,32.0,46.0,78.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Women 64,VIOLET Grazia,62.35,45.0,47.0,-49.0,-58.0,58.0,-61.0,47.0,58.0,105.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Women 55,GORGES Armelle,54.05,47.0,-51.0,-55.0,60.0,-64.0,64.0,47.0,64.0,111.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Women 59,PRIGENT MADEC Théoline,59.0,70.0,73.0,-75.0,90.0,-94.0,-94.0,73.0,90.0,163.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Women 59,MILTO Erine,57.65,50.0,-53.0,-53.0,62.0,-65.0,65.0,50.0,65.0,115.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Women 64,GUENOT HUS Lola,63.65,53.0,57.0,61.0,65.0,70.0,-74.0,61.0,70.0,131.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Women 71,KIENTZI Léanne,68.1,67.0,71.0,-75.0,84.0,-88.0,-90.0,71.0,84.0,155.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U15 Women 55,SIKORA Celeste,53.3,42.0,44.0,46.0,53.0,57.0,60.0,46.0,60.0,106.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U15 Women 59,KUSS--BILDSTEIN Irene,58.3,50.0,-52.0,-53.0,60.0,-63.0,63.0,50.0,63.0,113.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U15 Women 64,ROUSSEL Naomie,63.5,53.0,56.0,58.0,62.0,-66.0,66.0,58.0,66.0,124.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U15 Women 64,SIEGRIST Amandine,63.5,40.0,-43.0,43.0,52.0,-55.0,-55.0,43.0,52.0,95.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U15 Women 71,KOCH Melody,70.45,33.0,35.0,37.0,-42.0,42.0,47.0,37.0,47.0,84.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U15 Women 76,KLOCK Amanda,74.55,60.0,63.0,-65.0,-70.0,70.0,-73.0,63.0,70.0,133.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Women 45,WACK Cléone,41.45,28.0,30.0,-33.0,37.0,40.0,-42.0,30.0,40.0,70.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Women 49,ZOGHLAMI Clemence,48.55,36.0,39.0,41.0,-47.0,47.0,-50.0,41.0,47.0,88.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Women 59,MARGUERAT Lola,57.7,-32.0,32.0,-36.0,46.0,-51.0,-51.0,32.0,46.0,78.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U17 Women 64,VIOLET Grazia,62.35,45.0,47.0,-49.0,-58.0,58.0,-61.0,47.0,58.0,105.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Women 55,GORGES Armelle,54.05,47.0,-51.0,-55.0,60.0,-64.0,64.0,47.0,64.0,111.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Women 59,PRIGENT MADEC Théoline,59.0,70.0,73.0,-75.0,90.0,-94.0,-94.0,73.0,90.0,163.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Women 59,MILTO Erine,57.65,50.0,-53.0,-53.0,62.0,-65.0,65.0,50.0,65.0,115.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Women 64,GUENOT HUS Lola,63.65,53.0,57.0,61.0,65.0,70.0,-74.0,61.0,70.0,131.0
+AURA - Chpt Ligue - Saint marcellin - MINIMES U10  U13,2024-04-07,U20 Women 71,KIENTZI Léanne,68.1,67.0,71.0,-75.0,84.0,-88.0,-90.0,71.0,84.0,155.0

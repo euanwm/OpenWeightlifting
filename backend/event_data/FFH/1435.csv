@@ -1,7 +1,194 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-OCC - Champ de France Masters 2021 - St Médard,2021-10-09,M35 Men 89,CAVERIVIÈRE Guillaume,88.3,-100.0,100.0,-105.0,125.0,-130.0,-130.0,100.0,125.0,225.0
-OCC - Champ de France Masters 2021 - St Médard,2021-10-09,M45 Men 81,BOSSIAN David,80.3,90.0,94.0,96.0,110.0,115.0,-119.0,96.0,115.0,211.0
-OCC - Champ de France Masters 2021 - St Médard,2021-10-09,M50 Men 102,SAHRAOUI Kamel,97.9,-100.0,102.0,106.0,126.0,131.0,-132.0,106.0,131.0,237.0
-OCC - Champ de France Masters 2021 - St Médard,2021-10-09,M65 Men 89,MORENO Gerard,81.2,56.0,60.0,63.0,-73.0,73.0,75.0,63.0,75.0,138.0
-OCC - Champ de France Masters 2021 - St Médard,2021-10-09,M70 Men 73,COZERET Jean claude,70.5,45.0,48.0,-50.0,55.0,58.0,60.0,48.0,60.0,108.0
-OCC - Champ de France Masters 2021 - St Médard,2021-10-09,M70 Men 102,DESPECHE Gerard,98.8,45.0,-50.0,-50.0,65.0,70.0,75.0,45.0,75.0,120.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U20 Women 64,GAIGEOT Erinn,63.7,43.0,-46.0,46.0,51.0,54.0,-56.0,46.0,54.0,100.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Women 55,BIGNON Caroline,54.6,53.0,-56.0,-56.0,-63.0,65.0,-70.0,53.0,65.0,118.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Women 64,AZAGOURY Sephora,62.6,43.0,46.0,-48.0,58.0,-61.0,-61.0,46.0,58.0,104.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Women 71,MBOULE Clarisse,70.1,48.0,52.0,55.0,60.0,63.0,-67.0,55.0,63.0,118.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Women 87,ROUEK Rachel,86.2,48.0,52.0,57.0,65.0,70.0,-75.0,57.0,70.0,127.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U13 Women 49,PIZEM Ashley,48.9,25.0,27.0,29.0,35.0,-37.0,37.0,29.0,37.0,66.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U13 Women 49,PIZEM Ashley,48.9,25.0,27.0,29.0,35.0,-37.0,37.0,29.0,37.0,66.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 61,ALAOUI BENZAKROUM Ismail,60.3,50.0,54.0,57.0,65.0,70.0,-73.0,57.0,70.0,127.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 67,ISHIBASHI Hideo,66.8,-62.0,-62.0,-62.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 73,JAFFAR Hussein,73.0,78.0,-80.0,80.0,90.0,92.0,-94.0,80.0,92.0,172.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 73,LALOU Yacine,68.6,65.0,-68.0,68.0,85.0,90.0,92.0,68.0,92.0,160.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 73,VENARD Thomas,70.4,-55.0,-55.0,55.0,70.0,75.0,80.0,55.0,80.0,135.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 73,MASCLEF Franck,73.0,45.0,-48.0,48.0,60.0,-65.0,-65.0,48.0,60.0,108.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 81,ASRI Walid,80.5,70.0,73.0,-75.0,90.0,95.0,100.0,73.0,100.0,173.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 81,LEE Guillaume,80.5,68.0,72.0,-76.0,93.0,97.0,-101.0,72.0,97.0,169.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 81,LABAN Jean-luc,76.6,55.0,60.0,-63.0,80.0,85.0,-90.0,60.0,85.0,145.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 81,HERBRETEAU Thibault,76.4,55.0,58.0,-61.0,75.0,80.0,-82.0,58.0,80.0,138.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 81,LULLIEN Ronan,73.5,50.0,-53.0,54.0,65.0,70.0,-75.0,54.0,70.0,124.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 89,GIROT Loris,83.5,83.0,88.0,93.0,103.0,108.0,113.0,93.0,113.0,206.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 89,TANVET ABADIA Julien,84.5,75.0,-78.0,78.0,100.0,105.0,-110.0,78.0,105.0,183.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 89,DOGU Dylan,88.6,73.0,76.0,-80.0,90.0,-95.0,-95.0,76.0,90.0,166.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 89,ISA ALI Abdulkarim,82.3,43.0,46.0,48.0,60.0,64.0,-66.0,48.0,64.0,112.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 96,MESOGNON Benoit,89.5,61.0,65.0,-67.0,90.0,95.0,100.0,65.0,100.0,165.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 109,AOUICI Karim,107.8,72.0,-77.0,78.0,95.0,101.0,-105.0,78.0,101.0,179.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 61,ALAOUI BENZAKROUM Ismail,60.3,50.0,54.0,57.0,65.0,70.0,-73.0,57.0,70.0,127.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 67,ISHIBASHI Hideo,66.8,-62.0,-62.0,-62.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 73,JAFFAR Hussein,73.0,78.0,-80.0,80.0,90.0,92.0,-94.0,80.0,92.0,172.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 73,LALOU Yacine,68.6,65.0,-68.0,68.0,85.0,90.0,92.0,68.0,92.0,160.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 73,VENARD Thomas,70.4,-55.0,-55.0,55.0,70.0,75.0,80.0,55.0,80.0,135.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 73,MASCLEF Franck,73.0,45.0,-48.0,48.0,60.0,-65.0,-65.0,48.0,60.0,108.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 81,ASRI Walid,80.5,70.0,73.0,-75.0,90.0,95.0,100.0,73.0,100.0,173.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 81,LEE Guillaume,80.5,68.0,72.0,-76.0,93.0,97.0,-101.0,72.0,97.0,169.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 81,LABAN Jean-luc,76.6,55.0,60.0,-63.0,80.0,85.0,-90.0,60.0,85.0,145.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 81,HERBRETEAU Thibault,76.4,55.0,58.0,-61.0,75.0,80.0,-82.0,58.0,80.0,138.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 81,LULLIEN Ronan,73.5,50.0,-53.0,54.0,65.0,70.0,-75.0,54.0,70.0,124.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 89,GIROT Loris,83.5,83.0,88.0,93.0,103.0,108.0,113.0,93.0,113.0,206.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 89,TANVET ABADIA Julien,84.5,75.0,-78.0,78.0,100.0,105.0,-110.0,78.0,105.0,183.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 89,DOGU Dylan,88.6,73.0,76.0,-80.0,90.0,-95.0,-95.0,76.0,90.0,166.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 89,ISA ALI Abdulkarim,82.3,43.0,46.0,48.0,60.0,64.0,-66.0,48.0,64.0,112.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 96,MESOGNON Benoit,89.5,61.0,65.0,-67.0,90.0,95.0,100.0,65.0,100.0,165.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 109,AOUICI Karim,107.8,72.0,-77.0,78.0,95.0,101.0,-105.0,78.0,101.0,179.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U17 Women 49,SALLES Lea,48.1,23.0,27.0,-29.0,33.0,36.0,-38.0,27.0,36.0,63.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Women 45,MA Cécile,45.0,-27.0,-27.0,-27.0,-33.0,-33.0,-33.0,0.0,0.0,0.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Women 55,KERBICHE Naïma,54.6,30.0,-32.0,-32.0,35.0,38.0,40.0,30.0,40.0,70.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Women 59,MASSEN Magali,58.4,-32.0,32.0,-34.0,-30.0,30.0,-33.0,32.0,30.0,62.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Women 71,COGGINS Emma,68.8,38.0,40.0,42.0,52.0,-55.0,57.0,42.0,57.0,99.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Women 76,BADOCCHI Ada,73.2,40.0,43.0,45.0,60.0,64.0,67.0,45.0,67.0,112.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Women 76,TALBI Samia,72.9,39.0,-42.0,-42.0,50.0,53.0,-55.0,39.0,53.0,92.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Women 76,MOUCHET Alix,72.2,-40.0,-40.0,40.0,42.0,45.0,50.0,40.0,50.0,90.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U17 Women 49,SALLES Lea,48.1,23.0,27.0,-29.0,33.0,36.0,-38.0,27.0,36.0,63.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Women 45,MA Cécile,45.0,-27.0,-27.0,-27.0,-33.0,-33.0,-33.0,0.0,0.0,0.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Women 55,KERBICHE Naïma,54.6,30.0,-32.0,-32.0,35.0,38.0,40.0,30.0,40.0,70.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Women 59,MASSEN Magali,58.4,-32.0,32.0,-34.0,-30.0,30.0,-33.0,32.0,30.0,62.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Women 71,COGGINS Emma,68.8,38.0,40.0,42.0,52.0,-55.0,57.0,42.0,57.0,99.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Women 76,BADOCCHI Ada,73.2,40.0,43.0,45.0,60.0,64.0,67.0,45.0,67.0,112.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Women 76,TALBI Samia,72.9,39.0,-42.0,-42.0,50.0,53.0,-55.0,39.0,53.0,92.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Women 76,MOUCHET Alix,72.2,-40.0,-40.0,40.0,42.0,45.0,50.0,40.0,50.0,90.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 61,MERCIER Nicolas,60.7,57.0,61.0,-64.0,80.0,-85.0,-85.0,61.0,80.0,141.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 67,RASCLE David,62.0,75.0,-80.0,-80.0,90.0,95.0,-100.0,75.0,95.0,170.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 81,MARLE Stephan,80.0,90.0,95.0,-100.0,112.0,116.0,-120.0,95.0,116.0,211.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 81,RAFFAILLAC Romain,79.74,70.0,75.0,-80.0,90.0,95.0,100.0,75.0,100.0,175.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 81,CARREIRA Ramiro,78.8,68.0,73.0,-78.0,88.0,93.0,98.0,73.0,98.0,171.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 89,NASRI Nima,86.5,71.0,-76.0,-80.0,92.0,96.0,-100.0,71.0,96.0,167.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 109,BELOTTI Stephane,108.0,65.0,70.0,-73.0,70.0,75.0,78.0,70.0,78.0,148.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 61,MERCIER Nicolas,60.7,57.0,61.0,-64.0,80.0,-85.0,-85.0,61.0,80.0,141.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 67,RASCLE David,62.0,75.0,-80.0,-80.0,90.0,95.0,-100.0,75.0,95.0,170.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 81,MARLE Stephan,80.0,90.0,95.0,-100.0,112.0,116.0,-120.0,95.0,116.0,211.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 81,RAFFAILLAC Romain,79.74,70.0,75.0,-80.0,90.0,95.0,100.0,75.0,100.0,175.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 81,CARREIRA Ramiro,78.8,68.0,73.0,-78.0,88.0,93.0,98.0,73.0,98.0,171.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 89,NASRI Nima,86.5,71.0,-76.0,-80.0,92.0,96.0,-100.0,71.0,96.0,167.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 109,BELOTTI Stephane,108.0,65.0,70.0,-73.0,70.0,75.0,78.0,70.0,78.0,148.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U17 Men 67,FAUCON Maxence,64.3,54.0,56.0,60.0,70.0,75.0,80.0,60.0,80.0,140.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U17 Men 73,HOAREAU Soann,72.15,74.0,78.0,82.0,80.0,85.0,-0.0,82.0,85.0,167.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U20 Men 61,CLOAREC Lenny,56.7,68.0,72.0,-75.0,85.0,88.0,-92.0,72.0,88.0,160.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 73,LECLAIR Cedric,70.4,76.0,80.0,83.0,97.0,-105.0,105.0,83.0,105.0,188.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 81,LOCQUENEUX Charles,81.0,98.0,102.0,-105.0,132.0,136.0,-140.0,102.0,136.0,238.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 81,CHAVRY Dylan,79.9,90.0,95.0,100.0,110.0,115.0,120.0,100.0,120.0,220.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 81,FILY Youen,79.7,45.0,50.0,55.0,60.0,65.0,70.0,55.0,70.0,125.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 89,BOUGET Alexandre,86.4,100.0,105.0,110.0,130.0,135.0,140.0,110.0,140.0,250.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 102,HENRIO Damien,97.9,69.0,72.0,75.0,95.0,-100.0,100.0,75.0,100.0,175.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U17 Men 67,FAUCON Maxence,64.3,54.0,56.0,60.0,70.0,75.0,80.0,60.0,80.0,140.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U17 Men 73,HOAREAU Soann,72.15,74.0,78.0,82.0,80.0,85.0,-0.0,82.0,85.0,167.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U20 Men 61,CLOAREC Lenny,56.7,68.0,72.0,-75.0,85.0,88.0,-92.0,72.0,88.0,160.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 73,LECLAIR Cedric,70.4,76.0,80.0,83.0,97.0,-105.0,105.0,83.0,105.0,188.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 81,LOCQUENEUX Charles,81.0,98.0,102.0,-105.0,132.0,136.0,-140.0,102.0,136.0,238.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 81,CHAVRY Dylan,79.9,90.0,95.0,100.0,110.0,115.0,120.0,100.0,120.0,220.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 81,FILY Youen,79.7,45.0,50.0,55.0,60.0,65.0,70.0,55.0,70.0,125.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 89,BOUGET Alexandre,86.4,100.0,105.0,110.0,130.0,135.0,140.0,110.0,140.0,250.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 102,HENRIO Damien,97.9,69.0,72.0,75.0,95.0,-100.0,100.0,75.0,100.0,175.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U10 Women ,PAUL Lucie,31.3,14.0,16.0,18.0,17.0,19.0,-21.0,18.0,19.0,37.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U10 Women ,DELOUVÉE Alix,32.05,12.0,13.0,14.0,16.0,18.0,20.0,14.0,20.0,34.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U13 Women 45,LE ROUSSEAU Lexie,40.35,12.0,13.0,14.0,13.0,15.0,17.0,14.0,17.0,31.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U13 Women 45,BALCON Inès,43.95,10.0,11.0,12.0,14.0,15.0,16.0,12.0,16.0,28.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U13 Men 40,HOYOUX Naël,36.95,22.0,24.0,-25.0,25.0,27.0,29.0,24.0,29.0,53.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U13 Men 45,CORMONT Enzo,43.6,28.0,30.0,-32.0,38.0,-40.0,40.0,30.0,40.0,70.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U13 Men 49,VICHON Ethan,45.35,32.0,34.0,-36.0,40.0,42.0,44.0,34.0,44.0,78.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U10 Women ,PAUL Lucie,31.3,14.0,16.0,18.0,17.0,19.0,-21.0,18.0,19.0,37.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U10 Women ,DELOUVÉE Alix,32.05,12.0,13.0,14.0,16.0,18.0,20.0,14.0,20.0,34.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U13 Women 45,LE ROUSSEAU Lexie,40.35,12.0,13.0,14.0,13.0,15.0,17.0,14.0,17.0,31.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U13 Women 45,BALCON Inès,43.95,10.0,11.0,12.0,14.0,15.0,16.0,12.0,16.0,28.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U13 Men 40,HOYOUX Naël,36.95,22.0,24.0,-25.0,25.0,27.0,29.0,24.0,29.0,53.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U13 Men 45,CORMONT Enzo,43.6,28.0,30.0,-32.0,38.0,-40.0,40.0,30.0,40.0,70.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U13 Men 49,VICHON Ethan,45.35,32.0,34.0,-36.0,40.0,42.0,44.0,34.0,44.0,78.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U17 Women 55,SAOUT Ainoa,52.15,35.0,38.0,40.0,53.0,56.0,60.0,40.0,60.0,100.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U17 Women 55,SERS Lorelei,54.8,35.0,-37.0,-37.0,45.0,48.0,-50.0,35.0,48.0,83.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U17 Women 55,SAOUT Ainoa,52.15,35.0,38.0,40.0,53.0,56.0,60.0,40.0,60.0,100.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U17 Women 55,SERS Lorelei,54.8,35.0,-37.0,-37.0,45.0,48.0,-50.0,35.0,48.0,83.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U15 Women 49,FORTIN Camille,45.95,20.0,-23.0,-23.0,27.0,-30.0,-30.0,20.0,27.0,47.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Women 76,FIGUEROA Erika,74.8,37.0,40.0,-43.0,50.0,53.0,56.0,40.0,56.0,96.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U15 Women 49,FORTIN Camille,45.95,20.0,-23.0,-23.0,27.0,-30.0,-30.0,20.0,27.0,47.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Women 76,FIGUEROA Erika,74.8,37.0,40.0,-43.0,50.0,53.0,56.0,40.0,56.0,96.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U15 Men 55,DERRIEN Ruben,55.0,25.0,28.0,-30.0,35.0,-38.0,-40.0,28.0,35.0,63.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U15 Men 61,THOMAS Titouan,57.5,40.0,-43.0,43.0,57.0,60.0,-63.0,43.0,60.0,103.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U20 Men 61,URUCI Kevin,60.5,55.0,60.0,-62.0,65.0,70.0,-75.0,60.0,70.0,130.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U20 Men 61,GAILLARD Nicolas,59.0,55.0,-60.0,-60.0,70.0,75.0,-80.0,55.0,75.0,130.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U20 Men 73,THOMAS Mathis,68.95,45.0,50.0,-55.0,67.0,-72.0,-72.0,50.0,67.0,117.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U20 Men 81,YRIS Noah,74.7,70.0,75.0,77.0,95.0,-101.0,-101.0,77.0,95.0,172.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U15 Men 55,DERRIEN Ruben,55.0,25.0,28.0,-30.0,35.0,-38.0,-40.0,28.0,35.0,63.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U15 Men 61,THOMAS Titouan,57.5,40.0,-43.0,43.0,57.0,60.0,-63.0,43.0,60.0,103.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U20 Men 61,URUCI Kevin,60.5,55.0,60.0,-62.0,65.0,70.0,-75.0,60.0,70.0,130.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U20 Men 61,GAILLARD Nicolas,59.0,55.0,-60.0,-60.0,70.0,75.0,-80.0,55.0,75.0,130.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U20 Men 73,THOMAS Mathis,68.95,45.0,50.0,-55.0,67.0,-72.0,-72.0,50.0,67.0,117.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U20 Men 81,YRIS Noah,74.7,70.0,75.0,77.0,95.0,-101.0,-101.0,77.0,95.0,172.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U20 Men 67,LEGRAS Alban,64.3,45.0,50.0,-55.0,57.0,62.0,-67.0,50.0,62.0,112.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 81,VERET Jerome,80.1,61.0,65.0,68.0,82.0,86.0,-90.0,68.0,86.0,154.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 81,LEROUX Matthieu,81.0,-60.0,62.0,66.0,75.0,-81.0,83.0,66.0,83.0,149.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 81,DECOOPMAN Adil,75.2,55.0,60.0,-66.0,70.0,80.0,84.0,60.0,84.0,144.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 81,BARRAULT Adrien,79.9,-71.0,-72.0,-72.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 102,CLERC Philippe,97.8,60.0,70.0,-75.0,70.0,80.0,83.0,70.0,83.0,153.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U20 Men 67,LEGRAS Alban,64.3,45.0,50.0,-55.0,57.0,62.0,-67.0,50.0,62.0,112.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 81,VERET Jerome,80.1,61.0,65.0,68.0,82.0,86.0,-90.0,68.0,86.0,154.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 81,LEROUX Matthieu,81.0,-60.0,62.0,66.0,75.0,-81.0,83.0,66.0,83.0,149.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 81,DECOOPMAN Adil,75.2,55.0,60.0,-66.0,70.0,80.0,84.0,60.0,84.0,144.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 81,BARRAULT Adrien,79.9,-71.0,-72.0,-72.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 102,CLERC Philippe,97.8,60.0,70.0,-75.0,70.0,80.0,83.0,70.0,83.0,153.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 73,HAYES Quentin,72.4,55.0,58.0,-61.0,65.0,72.0,-75.0,58.0,72.0,130.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 73,ESNAULT Romain,71.3,-50.0,50.0,-55.0,70.0,-75.0,-75.0,50.0,70.0,120.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 81,TOUIMI Ilian,79.05,78.0,81.0,-83.0,-98.0,-98.0,-98.0,81.0,0.0,0.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 89,DAVY Geoffrey,87.65,92.0,95.0,-97.0,-113.0,113.0,-116.0,95.0,113.0,208.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 89,BOISSIER Vincent,83.6,57.0,61.0,65.0,75.0,-95.0,-220.0,65.0,75.0,140.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 89,COHU Emanuel,85.75,-55.0,55.0,-59.0,70.0,72.0,75.0,55.0,75.0,130.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 96,TOULOUSE Uriac,95.65,90.0,93.0,96.0,105.0,109.0,-113.0,96.0,109.0,205.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 96,DUFRESNE Karl,94.6,78.0,83.0,-90.0,109.0,113.0,116.0,83.0,116.0,199.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 96,CASSAN Laurent,94.85,78.0,81.0,83.0,98.0,-103.0,103.0,83.0,103.0,186.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 102,LE GALL Hervé,97.8,72.0,-77.0,-78.0,-88.0,-88.0,88.0,72.0,88.0,160.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 73,HAYES Quentin,72.4,55.0,58.0,-61.0,65.0,72.0,-75.0,58.0,72.0,130.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 73,ESNAULT Romain,71.3,-50.0,50.0,-55.0,70.0,-75.0,-75.0,50.0,70.0,120.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 81,TOUIMI Ilian,79.05,78.0,81.0,-83.0,-98.0,-98.0,-98.0,81.0,0.0,0.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 89,DAVY Geoffrey,87.65,92.0,95.0,-97.0,-113.0,113.0,-116.0,95.0,113.0,208.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 89,BOISSIER Vincent,83.6,57.0,61.0,65.0,75.0,-95.0,-220.0,65.0,75.0,140.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 89,COHU Emanuel,85.75,-55.0,55.0,-59.0,70.0,72.0,75.0,55.0,75.0,130.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 96,TOULOUSE Uriac,95.65,90.0,93.0,96.0,105.0,109.0,-113.0,96.0,109.0,205.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 96,DUFRESNE Karl,94.6,78.0,83.0,-90.0,109.0,113.0,116.0,83.0,116.0,199.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 96,CASSAN Laurent,94.85,78.0,81.0,83.0,98.0,-103.0,103.0,83.0,103.0,186.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 102,LE GALL Hervé,97.8,72.0,-77.0,-78.0,-88.0,-88.0,88.0,72.0,88.0,160.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Women 64,SISOWATH Emily,62.3,24.0,27.0,-29.0,29.0,32.0,35.0,27.0,35.0,62.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Women 64,SISOWATH Emily,62.3,24.0,27.0,-29.0,29.0,32.0,35.0,27.0,35.0,62.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U20 Women 71,BIDON Emilie,66.4,20.0,22.0,23.0,24.0,-28.0,28.0,23.0,28.0,51.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Women 55,NEDJMA Lilya,51.0,28.0,31.0,-35.0,37.0,41.0,-45.0,31.0,41.0,72.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Women 59,WYNS Anaïs,57.3,38.0,40.0,43.0,45.0,48.0,52.0,43.0,52.0,95.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Women 64,RAMEZ Charlotte,61.25,65.0,70.0,-75.0,81.0,85.0,90.0,70.0,90.0,160.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Women 64,BENDJEGUELLAL Aïda,62.4,43.0,48.0,-51.0,58.0,-61.0,61.0,48.0,61.0,109.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Women 71,BAYON Maeva,66.4,50.0,55.0,-58.0,60.0,65.0,-0.0,55.0,65.0,120.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Women 76,FOISSY Margaux,71.2,55.0,-58.0,-61.0,65.0,69.0,72.0,55.0,72.0,127.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Women 76,NOBLOT Mathilde,72.05,46.0,50.0,53.0,60.0,64.0,-67.0,53.0,64.0,117.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U20 Women 71,BIDON Emilie,66.4,20.0,22.0,23.0,24.0,-28.0,28.0,23.0,28.0,51.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Women 55,NEDJMA Lilya,51.0,28.0,31.0,-35.0,37.0,41.0,-45.0,31.0,41.0,72.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Women 59,WYNS Anaïs,57.3,38.0,40.0,43.0,45.0,48.0,52.0,43.0,52.0,95.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Women 64,RAMEZ Charlotte,61.25,65.0,70.0,-75.0,81.0,85.0,90.0,70.0,90.0,160.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Women 64,BENDJEGUELLAL Aïda,62.4,43.0,48.0,-51.0,58.0,-61.0,61.0,48.0,61.0,109.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Women 71,BAYON Maeva,66.4,50.0,55.0,-58.0,60.0,65.0,-0.0,55.0,65.0,120.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Women 76,FOISSY Margaux,71.2,55.0,-58.0,-61.0,65.0,69.0,72.0,55.0,72.0,127.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Women 76,NOBLOT Mathilde,72.05,46.0,50.0,53.0,60.0,64.0,-67.0,53.0,64.0,117.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U15 Men 49,PERIARD-LOHNER Thyméo,46.7,38.0,-42.0,42.0,53.0,-58.0,58.0,42.0,58.0,100.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U15 Men >102,DEFIOBANA Ange,122.4,30.0,34.0,36.0,35.0,38.0,41.0,36.0,41.0,77.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U17 Men 73,PERIARD-LOHNER Léo,70.7,70.0,75.0,80.0,90.0,95.0,101.0,80.0,101.0,181.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 67,BOUCHET Nicolas,66.2,70.0,77.0,83.0,100.0,107.0,111.0,83.0,111.0,194.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 67,CHANTIER Jacky,62.8,30.0,32.0,-34.0,32.0,35.0,40.0,32.0,40.0,72.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 73,RIFFAULT Maxime,72.6,55.0,60.0,65.0,76.0,81.0,-85.0,65.0,81.0,146.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 73,DEHU Olivier,68.9,45.0,52.0,55.0,65.0,72.0,75.0,55.0,75.0,130.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 81,DOS SANTOS Ernest,80.2,65.0,70.0,72.0,95.0,100.0,-105.0,72.0,100.0,172.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 81,LAHELY Léo,73.7,55.0,60.0,65.0,70.0,75.0,80.0,65.0,80.0,145.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 96,TANGUY Michel,90.2,55.0,58.0,-60.0,80.0,85.0,-87.0,58.0,85.0,143.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U15 Men 49,PERIARD-LOHNER Thyméo,46.7,38.0,-42.0,42.0,53.0,-58.0,58.0,42.0,58.0,100.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U15 Men >102,DEFIOBANA Ange,122.4,30.0,34.0,36.0,35.0,38.0,41.0,36.0,41.0,77.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,U17 Men 73,PERIARD-LOHNER Léo,70.7,70.0,75.0,80.0,90.0,95.0,101.0,80.0,101.0,181.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 67,BOUCHET Nicolas,66.2,70.0,77.0,83.0,100.0,107.0,111.0,83.0,111.0,194.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 67,CHANTIER Jacky,62.8,30.0,32.0,-34.0,32.0,35.0,40.0,32.0,40.0,72.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 73,RIFFAULT Maxime,72.6,55.0,60.0,65.0,76.0,81.0,-85.0,65.0,81.0,146.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 73,DEHU Olivier,68.9,45.0,52.0,55.0,65.0,72.0,75.0,55.0,75.0,130.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 81,DOS SANTOS Ernest,80.2,65.0,70.0,72.0,95.0,100.0,-105.0,72.0,100.0,172.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 81,LAHELY Léo,73.7,55.0,60.0,65.0,70.0,75.0,80.0,65.0,80.0,145.0
+IDF - Challenge Avenir - Cachan - Féminines,2024-02-17,SEN Men 96,TANGUY Michel,90.2,55.0,58.0,-60.0,80.0,85.0,-87.0,58.0,85.0,143.0

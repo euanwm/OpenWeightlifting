@@ -1,0 +1,151 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+NAQ - Figeac - France élite,2022-06-11,U15 Women 45,KOCHETOVA Margot,42.6,51.0,53.0,55.0,61.0,63.0,65.0,55.0,65.0,120.0
+NAQ - Figeac - France élite,2022-06-11,U15 Women 55,PLANCQUE Molly,55.0,36.0,40.0,-43.0,50.0,54.0,56.0,40.0,56.0,96.0
+NAQ - Figeac - France élite,2022-06-11,U17 Women 55,KOUCHENSKY Darya,52.6,48.0,50.0,-52.0,-59.0,59.0,61.0,50.0,61.0,111.0
+NAQ - Figeac - France élite,2022-06-11,U17 Women 59,DEROULEDE Lili-gabrielle,57.3,-70.0,73.0,75.0,85.0,-88.0,88.0,75.0,88.0,163.0
+NAQ - Figeac - France élite,2022-06-11,U20 Women 59,LOZANO Zoe,57.8,-52.0,52.0,-55.0,-65.0,65.0,-70.0,52.0,65.0,117.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 49,MOCAER LORGERE Nolwenn,48.0,55.0,-58.0,58.0,74.0,77.0,-79.0,58.0,77.0,135.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 49,BIENVENU Aimée,48.6,55.0,57.0,-59.0,73.0,76.0,-78.0,57.0,76.0,133.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 49,TOUCHARD Maeva,47.7,58.0,-60.0,60.0,67.0,70.0,-73.0,60.0,70.0,130.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 55,JOUNIAUX Camille,55.0,70.0,73.0,-75.0,88.0,-89.0,-92.0,73.0,88.0,161.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 55,GANET Segolène,54.3,61.0,-63.0,-63.0,74.0,-77.0,-77.0,61.0,74.0,135.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 59,DUMONT Emilie,58.3,63.0,68.0,-70.0,73.0,78.0,-82.0,68.0,78.0,146.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 59,DOMERGUE Cecile,57.3,61.0,-64.0,-64.0,78.0,-81.0,-81.0,61.0,78.0,139.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 59,DUROT Virginie,58.5,69.0,71.0,73.0,-85.0,-85.0,-86.0,73.0,0.0,0.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 71,FAUVEL Laurène,64.8,86.0,-90.0,-90.0,-104.0,104.0,-116.0,86.0,104.0,190.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 71,LANCRY Anais,69.2,70.0,75.0,80.0,-95.0,95.0,-100.0,80.0,95.0,175.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 76,ANDRIVET Morgane,74.3,-81.0,-82.0,83.0,91.0,95.0,-98.0,83.0,95.0,178.0
+NAQ - Figeac - France élite,2022-06-11,U20 Men 67,RASCLE Lenny,66.0,98.0,101.0,-103.0,117.0,120.0,-125.0,101.0,120.0,221.0
+NAQ - Figeac - France élite,2022-06-11,SEN Men 55,NDICKA MATAM Paul heracles,54.7,80.0,83.0,-85.0,110.0,114.0,116.0,83.0,116.0,199.0
+NAQ - Figeac - France élite,2022-06-11,SEN Men 67,PAUL Jill,66.6,105.0,110.0,115.0,136.0,-145.0,145.0,115.0,145.0,260.0
+NAQ - Figeac - France élite,2022-06-11,SEN Men 73,KINGUE MATAM Bernardin,69.0,130.0,-0.0,-0.0,165.0,-0.0,-0.0,130.0,165.0,295.0
+NAQ - Figeac - France élite,2022-06-11,SEN Men 73,ARNOU MEUNIER Killiann,72.1,117.0,120.0,-121.0,156.0,-161.0,-166.0,120.0,156.0,276.0
+NAQ - Figeac - France élite,2022-06-11,SEN Men 73,AMADOU Alexis,71.5,-115.0,-115.0,115.0,-150.0,-150.0,-150.0,115.0,0.0,0.0
+NAQ - Figeac - France élite,2022-06-11,SEN Men 81,COLIN Thomas,81.0,122.0,125.0,-127.0,-148.0,148.0,-153.0,125.0,148.0,273.0
+NAQ - Figeac - France élite,2022-06-11,SEN Men 102,MANUSHI Redon,98.0,160.0,-165.0,167.0,185.0,-197.0,-0.0,167.0,185.0,352.0
+NAQ - Figeac - France élite,2022-06-11,SEN Men 102,SCHACHERER Damien,101.6,135.0,140.0,-145.0,169.0,-173.0,-175.0,140.0,169.0,309.0
+NAQ - Figeac - France élite,2022-06-11,U20 Men 67,RASCLE Lenny,66.0,98.0,101.0,-103.0,117.0,120.0,-125.0,101.0,120.0,221.0
+NAQ - Figeac - France élite,2022-06-11,SEN Men 55,NDICKA MATAM Paul heracles,54.7,80.0,83.0,-85.0,110.0,114.0,116.0,83.0,116.0,199.0
+NAQ - Figeac - France élite,2022-06-11,SEN Men 67,PAUL Jill,66.6,105.0,110.0,115.0,136.0,-145.0,145.0,115.0,145.0,260.0
+NAQ - Figeac - France élite,2022-06-11,SEN Men 73,KINGUE MATAM Bernardin,69.0,130.0,-0.0,-0.0,165.0,-0.0,-0.0,130.0,165.0,295.0
+NAQ - Figeac - France élite,2022-06-11,SEN Men 73,ARNOU MEUNIER Killiann,72.1,117.0,120.0,-121.0,156.0,-161.0,-166.0,120.0,156.0,276.0
+NAQ - Figeac - France élite,2022-06-11,SEN Men 73,AMADOU Alexis,71.5,-115.0,-115.0,115.0,-150.0,-150.0,-150.0,115.0,0.0,0.0
+NAQ - Figeac - France élite,2022-06-11,SEN Men 81,COLIN Thomas,81.0,122.0,125.0,-127.0,-148.0,148.0,-153.0,125.0,148.0,273.0
+NAQ - Figeac - France élite,2022-06-11,SEN Men 102,MANUSHI Redon,98.0,160.0,-165.0,167.0,185.0,-197.0,-0.0,167.0,185.0,352.0
+NAQ - Figeac - France élite,2022-06-11,SEN Men 102,SCHACHERER Damien,101.6,135.0,140.0,-145.0,169.0,-173.0,-175.0,140.0,169.0,309.0
+NAQ - Figeac - France élite,2022-06-11,U15 Women 40,DEGEZ Florette,40.0,37.0,40.0,42.0,47.0,49.0,51.0,42.0,51.0,93.0
+NAQ - Figeac - France élite,2022-06-11,U17 Women 55,LORET Leïlou,52.5,-47.0,47.0,50.0,59.0,-62.0,-63.0,50.0,59.0,109.0
+NAQ - Figeac - France élite,2022-06-11,U17 Women 76,CIANCIO Lisea,72.5,-59.0,59.0,-64.0,71.0,-76.0,-76.0,59.0,71.0,130.0
+NAQ - Figeac - France élite,2022-06-11,U20 Women 49,PARISIS Ambre,47.5,-50.0,50.0,53.0,57.0,-61.0,61.0,53.0,61.0,114.0
+NAQ - Figeac - France élite,2022-06-11,U20 Women 59,KUGELMANN Flavie,57.4,56.0,-59.0,60.0,66.0,-69.0,70.0,60.0,70.0,130.0
+NAQ - Figeac - France élite,2022-06-11,U20 Women 59,DE SAMPAIO Nina,58.1,55.0,58.0,-61.0,64.0,68.0,70.0,58.0,70.0,128.0
+NAQ - Figeac - France élite,2022-06-11,U20 Women 64,PINARD Agathe,63.2,-65.0,-65.0,-65.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 55,SEIXO Lola,54.3,63.0,66.0,-70.0,74.0,-77.0,77.0,66.0,77.0,143.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 59,ROUX Celia,57.7,-67.0,-67.0,-67.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+NAQ - Figeac - France élite,2022-06-11,U15 Women 40,DEGEZ Florette,40.0,37.0,40.0,42.0,47.0,49.0,51.0,42.0,51.0,93.0
+NAQ - Figeac - France élite,2022-06-11,U17 Women 55,LORET Leïlou,52.5,-47.0,47.0,50.0,59.0,-62.0,-63.0,50.0,59.0,109.0
+NAQ - Figeac - France élite,2022-06-11,U17 Women 76,CIANCIO Lisea,72.5,-59.0,59.0,-64.0,71.0,-76.0,-76.0,59.0,71.0,130.0
+NAQ - Figeac - France élite,2022-06-11,U20 Women 49,PARISIS Ambre,47.5,-50.0,50.0,53.0,57.0,-61.0,61.0,53.0,61.0,114.0
+NAQ - Figeac - France élite,2022-06-11,U20 Women 59,KUGELMANN Flavie,57.4,56.0,-59.0,60.0,66.0,-69.0,70.0,60.0,70.0,130.0
+NAQ - Figeac - France élite,2022-06-11,U20 Women 59,DE SAMPAIO Nina,58.1,55.0,58.0,-61.0,64.0,68.0,70.0,58.0,70.0,128.0
+NAQ - Figeac - France élite,2022-06-11,U20 Women 64,PINARD Agathe,63.2,-65.0,-65.0,-65.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 55,SEIXO Lola,54.3,63.0,66.0,-70.0,74.0,-77.0,77.0,66.0,77.0,143.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 59,ROUX Celia,57.7,-67.0,-67.0,-67.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+NAQ - Figeac - France élite,2022-06-11,U15 Women 59,BOYER Kristina,57.5,54.0,57.0,-60.0,65.0,70.0,-73.0,57.0,70.0,127.0
+NAQ - Figeac - France élite,2022-06-11,U17 Women 55,ROUSSEAU Clementine,54.3,58.0,-61.0,-61.0,70.0,-74.0,75.0,58.0,75.0,133.0
+NAQ - Figeac - France élite,2022-06-11,U17 Women 55,MATEOS Carla,54.2,-49.0,-49.0,49.0,59.0,62.0,-64.0,49.0,62.0,111.0
+NAQ - Figeac - France élite,2022-06-11,U17 Women 59,CHAUMEIL Marie,57.8,57.0,60.0,-63.0,-67.0,67.0,69.0,60.0,69.0,129.0
+NAQ - Figeac - France élite,2022-06-11,U20 Women 49,REDIEN Lea,47.9,55.0,-58.0,-58.0,66.0,-70.0,-70.0,55.0,66.0,121.0
+NAQ - Figeac - France élite,2022-06-11,U20 Women 55,RAMBACH Raphaelle,53.7,50.0,53.0,56.0,68.0,71.0,74.0,56.0,74.0,130.0
+NAQ - Figeac - France élite,2022-06-11,U20 Women 55,DE BARROS Clara,55.0,50.0,53.0,56.0,65.0,70.0,72.0,56.0,72.0,128.0
+NAQ - Figeac - France élite,2022-06-11,U20 Women 59,BENSUSSAN Manon,58.8,55.0,-58.0,58.0,73.0,75.0,-78.0,58.0,75.0,133.0
+NAQ - Figeac - France élite,2022-06-11,U20 Women 64,PAYET Loane,62.3,77.0,80.0,-82.0,97.0,-102.0,-102.0,80.0,97.0,177.0
+NAQ - Figeac - France élite,2022-06-11,U20 Women 71,PLAINDOUX Erika,68.6,-58.0,58.0,62.0,74.0,78.0,-81.0,62.0,78.0,140.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 55,PLANCQ Deborah,55.0,73.0,76.0,80.0,91.0,94.0,-100.0,80.0,94.0,174.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 55,PAGE Louisiane,54.2,67.0,70.0,-73.0,90.0,92.0,95.0,70.0,95.0,165.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 55,BERNARD Manon,54.4,65.0,-69.0,-70.0,80.0,83.0,-86.0,65.0,83.0,148.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 55,FERREIRA Denise,54.5,60.0,63.0,-65.0,75.0,-78.0,79.0,63.0,79.0,142.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 55,MAZOUZ Elodie,55.0,60.0,-63.0,63.0,75.0,78.0,-80.0,63.0,78.0,141.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 59,RUSSO Oceane,56.3,-69.0,69.0,72.0,84.0,86.0,-89.0,72.0,86.0,158.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 59,TESTE Flavie,57.9,69.0,72.0,-74.0,83.0,86.0,-89.0,72.0,86.0,158.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 59,AUTILLO Clara,57.9,70.0,-73.0,73.0,-87.0,-87.0,-87.0,73.0,0.0,0.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 64,OLIVE Chloé,63.5,62.0,-66.0,-66.0,80.0,85.0,-88.0,62.0,85.0,147.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 71,FERREIRA NUNES Aureleny,64.3,87.0,90.0,93.0,-105.0,105.0,110.0,93.0,110.0,203.0
+NAQ - Figeac - France élite,2022-06-11,U15 Women 59,BOYER Kristina,57.5,54.0,57.0,-60.0,65.0,70.0,-73.0,57.0,70.0,127.0
+NAQ - Figeac - France élite,2022-06-11,U17 Women 55,ROUSSEAU Clementine,54.3,58.0,-61.0,-61.0,70.0,-74.0,75.0,58.0,75.0,133.0
+NAQ - Figeac - France élite,2022-06-11,U17 Women 55,MATEOS Carla,54.2,-49.0,-49.0,49.0,59.0,62.0,-64.0,49.0,62.0,111.0
+NAQ - Figeac - France élite,2022-06-11,U17 Women 59,CHAUMEIL Marie,57.8,57.0,60.0,-63.0,-67.0,67.0,69.0,60.0,69.0,129.0
+NAQ - Figeac - France élite,2022-06-11,U20 Women 49,REDIEN Lea,47.9,55.0,-58.0,-58.0,66.0,-70.0,-70.0,55.0,66.0,121.0
+NAQ - Figeac - France élite,2022-06-11,U20 Women 55,RAMBACH Raphaelle,53.7,50.0,53.0,56.0,68.0,71.0,74.0,56.0,74.0,130.0
+NAQ - Figeac - France élite,2022-06-11,U20 Women 55,DE BARROS Clara,55.0,50.0,53.0,56.0,65.0,70.0,72.0,56.0,72.0,128.0
+NAQ - Figeac - France élite,2022-06-11,U20 Women 59,BENSUSSAN Manon,58.8,55.0,-58.0,58.0,73.0,75.0,-78.0,58.0,75.0,133.0
+NAQ - Figeac - France élite,2022-06-11,U20 Women 64,PAYET Loane,62.3,77.0,80.0,-82.0,97.0,-102.0,-102.0,80.0,97.0,177.0
+NAQ - Figeac - France élite,2022-06-11,U20 Women 71,PLAINDOUX Erika,68.6,-58.0,58.0,62.0,74.0,78.0,-81.0,62.0,78.0,140.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 55,PLANCQ Deborah,55.0,73.0,76.0,80.0,91.0,94.0,-100.0,80.0,94.0,174.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 55,PAGE Louisiane,54.2,67.0,70.0,-73.0,90.0,92.0,95.0,70.0,95.0,165.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 55,BERNARD Manon,54.4,65.0,-69.0,-70.0,80.0,83.0,-86.0,65.0,83.0,148.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 55,FERREIRA Denise,54.5,60.0,63.0,-65.0,75.0,-78.0,79.0,63.0,79.0,142.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 55,MAZOUZ Elodie,55.0,60.0,-63.0,63.0,75.0,78.0,-80.0,63.0,78.0,141.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 59,RUSSO Oceane,56.3,-69.0,69.0,72.0,84.0,86.0,-89.0,72.0,86.0,158.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 59,TESTE Flavie,57.9,69.0,72.0,-74.0,83.0,86.0,-89.0,72.0,86.0,158.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 59,AUTILLO Clara,57.9,70.0,-73.0,73.0,-87.0,-87.0,-87.0,73.0,0.0,0.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 64,OLIVE Chloé,63.5,62.0,-66.0,-66.0,80.0,85.0,-88.0,62.0,85.0,147.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 71,FERREIRA NUNES Aureleny,64.3,87.0,90.0,93.0,-105.0,105.0,110.0,93.0,110.0,203.0
+NAQ - Figeac - France élite,2022-06-11,U20 Men 81,GROSJEAN Alexandre,80.7,117.0,122.0,-126.0,-136.0,136.0,-145.0,122.0,136.0,258.0
+NAQ - Figeac - France élite,2022-06-11,U20 Men 102,GRAILLOT Jessy,98.8,133.0,139.0,-143.0,163.0,169.0,172.0,139.0,172.0,311.0
+NAQ - Figeac - France élite,2022-06-11,SEN Men 55,BACHEROT Yannis,54.9,81.0,84.0,86.0,104.0,-109.0,-113.0,86.0,104.0,190.0
+NAQ - Figeac - France élite,2022-06-11,SEN Men 73,CITAS Raphael,71.5,110.0,-114.0,-116.0,-146.0,146.0,-151.0,110.0,146.0,256.0
+NAQ - Figeac - France élite,2022-06-11,SEN Men 81,LEPAUL Emmanuel,78.5,130.0,134.0,-137.0,160.0,-166.0,-170.0,134.0,160.0,294.0
+NAQ - Figeac - France élite,2022-06-11,SEN Men 81,GRAILLOT Steven,77.8,112.0,113.0,118.0,150.0,156.0,-162.0,118.0,156.0,274.0
+NAQ - Figeac - France élite,2022-06-11,SEN Men 89,CARABETTA Guillaume,86.5,134.0,139.0,-143.0,162.0,169.0,-171.0,139.0,169.0,308.0
+NAQ - Figeac - France élite,2022-06-11,SEN Men 89,SPERKA Sacha,88.9,130.0,134.0,-138.0,162.0,168.0,-171.0,134.0,168.0,302.0
+NAQ - Figeac - France élite,2022-06-11,SEN Men 109,FERRE Benjamin,103.5,145.0,-151.0,-155.0,180.0,-192.0,-197.0,145.0,180.0,325.0
+NAQ - Figeac - France élite,2022-06-11,U20 Men 81,GROSJEAN Alexandre,80.7,117.0,122.0,-126.0,-136.0,136.0,-145.0,122.0,136.0,258.0
+NAQ - Figeac - France élite,2022-06-11,U20 Men 102,GRAILLOT Jessy,98.8,133.0,139.0,-143.0,163.0,169.0,172.0,139.0,172.0,311.0
+NAQ - Figeac - France élite,2022-06-11,SEN Men 55,BACHEROT Yannis,54.9,81.0,84.0,86.0,104.0,-109.0,-113.0,86.0,104.0,190.0
+NAQ - Figeac - France élite,2022-06-11,SEN Men 73,CITAS Raphael,71.5,110.0,-114.0,-116.0,-146.0,146.0,-151.0,110.0,146.0,256.0
+NAQ - Figeac - France élite,2022-06-11,SEN Men 81,LEPAUL Emmanuel,78.5,130.0,134.0,-137.0,160.0,-166.0,-170.0,134.0,160.0,294.0
+NAQ - Figeac - France élite,2022-06-11,SEN Men 81,GRAILLOT Steven,77.8,112.0,113.0,118.0,150.0,156.0,-162.0,118.0,156.0,274.0
+NAQ - Figeac - France élite,2022-06-11,SEN Men 89,CARABETTA Guillaume,86.5,134.0,139.0,-143.0,162.0,169.0,-171.0,139.0,169.0,308.0
+NAQ - Figeac - France élite,2022-06-11,SEN Men 89,SPERKA Sacha,88.9,130.0,134.0,-138.0,162.0,168.0,-171.0,134.0,168.0,302.0
+NAQ - Figeac - France élite,2022-06-11,SEN Men 109,FERRE Benjamin,103.5,145.0,-151.0,-155.0,180.0,-192.0,-197.0,145.0,180.0,325.0
+NAQ - Figeac - France élite,2022-06-11,U15 Women 55,CALMUS Thais,54.9,50.0,-54.0,-54.0,57.0,-61.0,-64.0,50.0,57.0,107.0
+NAQ - Figeac - France élite,2022-06-11,U17 Women 71,ANTONIO Lea marie,64.3,71.0,-75.0,-78.0,90.0,-95.0,95.0,71.0,95.0,166.0
+NAQ - Figeac - France élite,2022-06-11,U20 Women 59,FREVILLE Mathilde,58.3,57.0,60.0,-62.0,70.0,72.0,75.0,60.0,75.0,135.0
+NAQ - Figeac - France élite,2022-06-11,U20 Women 59,PIETROSANTE Cassandra,58.0,55.0,58.0,61.0,-70.0,-70.0,-70.0,61.0,0.0,0.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 59,HERANNEY Camille,58.5,57.0,60.0,62.0,82.0,84.0,87.0,62.0,87.0,149.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 64,GRAILLOT Vicky,63.6,86.0,-90.0,-92.0,107.0,111.0,-115.0,86.0,111.0,197.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 64,SIMS Erin,59.5,-68.0,68.0,-71.0,87.0,-89.0,-89.0,68.0,87.0,155.0
+NAQ - Figeac - France élite,2022-06-11,U15 Women 55,CALMUS Thais,54.9,50.0,-54.0,-54.0,57.0,-61.0,-64.0,50.0,57.0,107.0
+NAQ - Figeac - France élite,2022-06-11,U17 Women 71,ANTONIO Lea marie,64.3,71.0,-75.0,-78.0,90.0,-95.0,95.0,71.0,95.0,166.0
+NAQ - Figeac - France élite,2022-06-11,U20 Women 59,FREVILLE Mathilde,58.3,57.0,60.0,-62.0,70.0,72.0,75.0,60.0,75.0,135.0
+NAQ - Figeac - France élite,2022-06-11,U20 Women 59,PIETROSANTE Cassandra,58.0,55.0,58.0,61.0,-70.0,-70.0,-70.0,61.0,0.0,0.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 59,HERANNEY Camille,58.5,57.0,60.0,62.0,82.0,84.0,87.0,62.0,87.0,149.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 64,GRAILLOT Vicky,63.6,86.0,-90.0,-92.0,107.0,111.0,-115.0,86.0,111.0,197.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 64,SIMS Erin,59.5,-68.0,68.0,-71.0,87.0,-89.0,-89.0,68.0,87.0,155.0
+NAQ - Figeac - France élite,2022-06-11,U17 Women 59,WOLFF Adeline,56.9,52.0,-55.0,55.0,-72.0,72.0,-75.0,55.0,72.0,127.0
+NAQ - Figeac - France élite,2022-06-11,U17 Women 59,KIENTZI Léanne,56.6,-50.0,50.0,-53.0,55.0,58.0,61.0,50.0,61.0,111.0
+NAQ - Figeac - France élite,2022-06-11,U20 Women 45,DUL Camille,44.4,44.0,46.0,48.0,63.0,66.0,-69.0,48.0,66.0,114.0
+NAQ - Figeac - France élite,2022-06-11,U20 Women 55,GANGLOFF Lucie,54.0,53.0,56.0,58.0,70.0,73.0,-76.0,58.0,73.0,131.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 55,HERTRICH Marielle,53.5,68.0,71.0,-73.0,78.0,82.0,86.0,71.0,86.0,157.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 59,AIGLE Elena,57.8,-73.0,73.0,-75.0,88.0,91.0,-94.0,73.0,91.0,164.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 71,NASRALLAH Carole,70.4,76.0,-79.0,-80.0,89.0,92.0,-95.0,76.0,92.0,168.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 76,LE VAILLANT DE CHARNY Audrey,71.3,-77.0,78.0,-80.0,94.0,98.0,-101.0,78.0,98.0,176.0
+NAQ - Figeac - France élite,2022-06-11,U17 Women 59,WOLFF Adeline,56.9,52.0,-55.0,55.0,-72.0,72.0,-75.0,55.0,72.0,127.0
+NAQ - Figeac - France élite,2022-06-11,U17 Women 59,KIENTZI Léanne,56.6,-50.0,50.0,-53.0,55.0,58.0,61.0,50.0,61.0,111.0
+NAQ - Figeac - France élite,2022-06-11,U20 Women 45,DUL Camille,44.4,44.0,46.0,48.0,63.0,66.0,-69.0,48.0,66.0,114.0
+NAQ - Figeac - France élite,2022-06-11,U20 Women 55,GANGLOFF Lucie,54.0,53.0,56.0,58.0,70.0,73.0,-76.0,58.0,73.0,131.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 55,HERTRICH Marielle,53.5,68.0,71.0,-73.0,78.0,82.0,86.0,71.0,86.0,157.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 59,AIGLE Elena,57.8,-73.0,73.0,-75.0,88.0,91.0,-94.0,73.0,91.0,164.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 71,NASRALLAH Carole,70.4,76.0,-79.0,-80.0,89.0,92.0,-95.0,76.0,92.0,168.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 76,LE VAILLANT DE CHARNY Audrey,71.3,-77.0,78.0,-80.0,94.0,98.0,-101.0,78.0,98.0,176.0
+NAQ - Figeac - France élite,2022-06-11,SEN Men 89,BOUGET Alexandre,83.8,131.0,134.0,138.0,159.0,163.0,166.0,138.0,166.0,304.0
+NAQ - Figeac - France élite,2022-06-11,SEN Men 109,LEMO Tamiano,108.1,133.0,137.0,-145.0,-171.0,-171.0,171.0,137.0,171.0,308.0
+NAQ - Figeac - France élite,2022-06-11,SEN Men 89,BOUGET Alexandre,83.8,131.0,134.0,138.0,159.0,163.0,166.0,138.0,166.0,304.0
+NAQ - Figeac - France élite,2022-06-11,SEN Men 109,LEMO Tamiano,108.1,133.0,137.0,-145.0,-171.0,-171.0,171.0,137.0,171.0,308.0
+NAQ - Figeac - France élite,2022-06-11,SEN Men 89,CANIVET Paul,87.2,-127.0,127.0,-132.0,-165.0,169.0,-173.0,127.0,169.0,296.0
+NAQ - Figeac - France élite,2022-06-11,SEN Men 89,CANIVET Paul,87.2,-127.0,127.0,-132.0,-165.0,169.0,-173.0,127.0,169.0,296.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 49,ALCANIZ PLAZA Blandine,48.9,53.0,56.0,58.0,63.0,-67.0,-67.0,58.0,63.0,121.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 55,TRAN Thanh-lan,53.6,58.0,61.0,64.0,-75.0,75.0,-80.0,64.0,75.0,139.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 49,ALCANIZ PLAZA Blandine,48.9,53.0,56.0,58.0,63.0,-67.0,-67.0,58.0,63.0,121.0
+NAQ - Figeac - France élite,2022-06-11,SEN Women 55,TRAN Thanh-lan,53.6,58.0,61.0,64.0,-75.0,75.0,-80.0,64.0,75.0,139.0

@@ -1,2 +1,44 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-IDF - Challenge Avenir 77 hommes,2021-07-02,SEN Men 81,JAROSZ Quentin,76.0,60.0,65.0,-70.0,-95.0,95.0,101.0,65.0,101.0,166.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,U13 Women 49,PEJOINE Gabriella,47.35,20.0,21.0,22.0,30.0,31.0,32.0,22.0,32.0,54.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,U20 Men 73,DASSONVILLE Nolan,72.5,68.0,-72.0,74.0,90.0,-95.0,95.0,74.0,95.0,169.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,U20 Men 96,BOIS Armand,92.75,87.0,91.0,95.0,-115.0,115.0,121.0,95.0,121.0,216.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,SEN Men 67,BARDEL Thibaut,65.4,80.0,-86.0,-90.0,105.0,110.0,-115.0,80.0,110.0,190.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,SEN Men 73,CORBIERE Jules,68.15,75.0,80.0,82.0,90.0,-95.0,95.0,82.0,95.0,177.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,SEN Men 81,LENFANT Benjamin,79.3,100.0,106.0,112.0,125.0,130.0,-138.0,112.0,130.0,242.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,SEN Men 81,PINTO Benjamin,76.85,-82.0,82.0,-86.0,-112.0,-112.0,112.0,82.0,112.0,194.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,SEN Men 81,GAUTIER Alexis,79.25,78.0,82.0,85.0,-108.0,108.0,-113.0,85.0,108.0,193.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,SEN Men 89,DESACHY Tom,86.1,105.0,110.0,116.0,127.0,132.0,-138.0,116.0,132.0,248.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,SEN Men 89,EXCOFFIER Cyrille,83.85,54.0,58.0,61.0,70.0,75.0,-80.0,61.0,75.0,136.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,SEN Men 96,CHEVILLOT Emmanuel,96.0,77.0,81.0,85.0,105.0,110.0,-115.0,85.0,110.0,195.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,SEN Men 96,AUBRY Charly,94.0,73.0,78.0,82.0,100.0,105.0,-110.0,82.0,105.0,187.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,SEN Men 102,HERBE Maxime,101.5,95.0,-100.0,-100.0,120.0,125.0,127.0,95.0,127.0,222.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,SEN Men 102,MASSON Christophe,102.0,75.0,-79.0,-80.0,102.0,107.0,112.0,75.0,112.0,187.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,SEN Men >109,SEIJO LOPEZ Valentin,119.0,40.0,45.0,-55.0,50.0,55.0,-60.0,45.0,55.0,100.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,U20 Men 73,DASSONVILLE Nolan,72.5,68.0,-72.0,74.0,90.0,-95.0,95.0,74.0,95.0,169.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,U20 Men 96,BOIS Armand,92.75,87.0,91.0,95.0,-115.0,115.0,121.0,95.0,121.0,216.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,SEN Men 67,BARDEL Thibaut,65.4,80.0,-86.0,-90.0,105.0,110.0,-115.0,80.0,110.0,190.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,SEN Men 73,CORBIERE Jules,68.15,75.0,80.0,82.0,90.0,-95.0,95.0,82.0,95.0,177.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,SEN Men 81,LENFANT Benjamin,79.3,100.0,106.0,112.0,125.0,130.0,-138.0,112.0,130.0,242.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,SEN Men 81,PINTO Benjamin,76.85,-82.0,82.0,-86.0,-112.0,-112.0,112.0,82.0,112.0,194.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,SEN Men 81,GAUTIER Alexis,79.25,78.0,82.0,85.0,-108.0,108.0,-113.0,85.0,108.0,193.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,SEN Men 89,DESACHY Tom,86.1,105.0,110.0,116.0,127.0,132.0,-138.0,116.0,132.0,248.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,SEN Men 89,EXCOFFIER Cyrille,83.85,54.0,58.0,61.0,70.0,75.0,-80.0,61.0,75.0,136.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,SEN Men 96,CHEVILLOT Emmanuel,96.0,77.0,81.0,85.0,105.0,110.0,-115.0,85.0,110.0,195.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,SEN Men 96,AUBRY Charly,94.0,73.0,78.0,82.0,100.0,105.0,-110.0,82.0,105.0,187.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,SEN Men 102,HERBE Maxime,101.5,95.0,-100.0,-100.0,120.0,125.0,127.0,95.0,127.0,222.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,SEN Men 102,MASSON Christophe,102.0,75.0,-79.0,-80.0,102.0,107.0,112.0,75.0,112.0,187.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,SEN Men >109,SEIJO LOPEZ Valentin,119.0,40.0,45.0,-55.0,50.0,55.0,-60.0,45.0,55.0,100.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,U20 Women 71,PIARD Philomène,67.75,55.0,-57.0,57.0,65.0,68.0,70.0,57.0,70.0,127.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,SEN Women 64,LAMBERT Anne-solene,60.35,50.0,54.0,57.0,65.0,70.0,73.0,57.0,73.0,130.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,SEN Women 64,RUBIA DE LA TORRE Lucia,62.2,51.0,54.0,57.0,63.0,66.0,-69.0,57.0,66.0,123.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,SEN Women 64,DEMSKI Océane,62.9,36.0,39.0,-41.0,45.0,-48.0,-50.0,39.0,45.0,84.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,SEN Women 71,SUISSE Lauren,69.5,-40.0,40.0,44.0,52.0,57.0,-60.0,44.0,57.0,101.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,SEN Women 76,GAUCI Justine,75.9,40.0,43.0,46.0,54.0,58.0,-62.0,46.0,58.0,104.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,SEN Women 81,EXCOFFIER Émilie,77.2,54.0,57.0,-60.0,-70.0,-73.0,73.0,57.0,73.0,130.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,U20 Women 71,PIARD Philomène,67.75,55.0,-57.0,57.0,65.0,68.0,70.0,57.0,70.0,127.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,SEN Women 64,LAMBERT Anne-solene,60.35,50.0,54.0,57.0,65.0,70.0,73.0,57.0,73.0,130.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,SEN Women 64,RUBIA DE LA TORRE Lucia,62.2,51.0,54.0,57.0,63.0,66.0,-69.0,57.0,66.0,123.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,SEN Women 64,DEMSKI Océane,62.9,36.0,39.0,-41.0,45.0,-48.0,-50.0,39.0,45.0,84.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,SEN Women 71,SUISSE Lauren,69.5,-40.0,40.0,44.0,52.0,57.0,-60.0,44.0,57.0,101.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,SEN Women 76,GAUCI Justine,75.9,40.0,43.0,46.0,54.0,58.0,-62.0,46.0,58.0,104.0
+NAQ - autre - Saint jean d'angély - Challenge Michel Ferrandier,2023-06-10,SEN Women 81,EXCOFFIER Émilie,77.2,54.0,57.0,-60.0,-70.0,-73.0,73.0,57.0,73.0,130.0

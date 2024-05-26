@@ -1,8 +1,60 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-AURA - Challenge Avenir Clermont Ferrand,2021-08-14,U15 Men 67,DITHURBIDE Ange,65.6,30.0,32.0,35.0,40.0,45.0,-47.0,35.0,45.0,80.0
-AURA - Challenge Avenir Clermont Ferrand,2021-08-14,U17 Men 55,RENARD Hugo,53.8,48.0,52.0,-55.0,67.0,71.0,75.0,52.0,75.0,127.0
-AURA - Challenge Avenir Clermont Ferrand,2021-08-14,U17 Men 61,RENARD Benjamin,56.9,54.0,58.0,61.0,72.0,76.0,-80.0,61.0,76.0,137.0
-AURA - Challenge Avenir Clermont Ferrand,2021-08-14,SEN Men 81,BOCCON Alex,79.9,-75.0,-77.0,77.0,81.0,87.0,93.0,77.0,93.0,170.0
-AURA - Challenge Avenir Clermont Ferrand,2021-08-14,SEN Men 81,CALASSI Jerome,77.2,60.0,65.0,-70.0,70.0,80.0,86.0,65.0,86.0,151.0
-AURA - Challenge Avenir Clermont Ferrand,2021-08-14,SEN Men 81,DE LUCA Matthias,73.5,50.0,-55.0,-56.0,70.0,80.0,85.0,50.0,85.0,135.0
-AURA - Challenge Avenir Clermont Ferrand,2021-08-14,SEN Men 81,COUAVOUX Cédric,77.3,40.0,50.0,58.0,60.0,70.0,-78.0,58.0,70.0,128.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,SEN Men 73,JOLY Lucas,71.0,110.0,115.0,-118.0,141.0,145.0,-150.0,115.0,145.0,260.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,SEN Men 81,LANDAIS Alexis,75.0,95.0,100.0,105.0,130.0,135.0,140.0,105.0,140.0,245.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,SEN Men 89,VATAN Luca,88.0,97.0,-102.0,102.0,130.0,135.0,-140.0,102.0,135.0,237.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,U15 Women 59,PEREIRA Kelly,58.95,33.0,35.0,37.0,40.0,43.0,45.0,37.0,45.0,82.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,U20 Women 49,REDIEN Lea,48.0,53.0,-55.0,55.0,65.0,68.0,70.0,55.0,70.0,125.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,SEN Women 59,TESTE Flavie,57.55,67.0,70.0,72.0,80.0,83.0,-86.0,72.0,83.0,155.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,U15 Women 59,PEREIRA Kelly,58.95,33.0,35.0,37.0,40.0,43.0,45.0,37.0,45.0,82.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,U20 Women 49,REDIEN Lea,48.0,53.0,-55.0,55.0,65.0,68.0,70.0,55.0,70.0,125.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,SEN Women 59,TESTE Flavie,57.55,67.0,70.0,72.0,80.0,83.0,-86.0,72.0,83.0,155.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,U15 Men 73,ANDREASIAN Agkop,70.7,68.0,72.0,-75.0,83.0,88.0,-90.0,72.0,88.0,160.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,U17 Men 61,GLEYZE Alexis,60.6,-67.0,70.0,-72.0,75.0,80.0,82.0,70.0,82.0,152.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,U17 Men 67,BOYER Karsten,65.9,60.0,65.0,70.0,80.0,85.0,90.0,70.0,90.0,160.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,U20 Men 61,BAILLIEUX Cyril,55.8,65.0,68.0,-70.0,82.0,86.0,90.0,68.0,90.0,158.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,SEN Men 81,DARCHEN Johan,80.5,108.0,-115.0,-115.0,135.0,-142.0,-142.0,108.0,135.0,243.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,SEN Men 81,LAUGIER Jonathan,80.7,106.0,-112.0,-115.0,120.0,128.0,131.0,106.0,131.0,237.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,SEN Men 81,MARIN Clément,80.8,105.0,-110.0,-110.0,120.0,-0.0,-0.0,105.0,120.0,225.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,SEN Men 81,FERREIRA CORTES Thibault,78.2,85.0,90.0,95.0,105.0,110.0,115.0,95.0,115.0,210.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,SEN Men 81,SAMMUT Nicolas,76.6,-105.0,-105.0,-105.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,SEN Men 89,MAYOR Tom,86.3,110.0,115.0,-120.0,128.0,133.0,138.0,115.0,138.0,253.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,SEN Men 96,MIKAELIAN Jordan,91.8,115.0,118.0,121.0,144.0,148.0,152.0,121.0,152.0,273.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,SEN Men >109,COULLET Anthony,155.3,152.0,157.0,162.0,200.0,-210.0,213.0,162.0,213.0,375.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,U15 Men 73,ANDREASIAN Agkop,70.7,68.0,72.0,-75.0,83.0,88.0,-90.0,72.0,88.0,160.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,U17 Men 61,GLEYZE Alexis,60.6,-67.0,70.0,-72.0,75.0,80.0,82.0,70.0,82.0,152.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,U17 Men 67,BOYER Karsten,65.9,60.0,65.0,70.0,80.0,85.0,90.0,70.0,90.0,160.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,U20 Men 61,BAILLIEUX Cyril,55.8,65.0,68.0,-70.0,82.0,86.0,90.0,68.0,90.0,158.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,SEN Men 81,DARCHEN Johan,80.5,108.0,-115.0,-115.0,135.0,-142.0,-142.0,108.0,135.0,243.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,SEN Men 81,LAUGIER Jonathan,80.7,106.0,-112.0,-115.0,120.0,128.0,131.0,106.0,131.0,237.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,SEN Men 81,MARIN Clément,80.8,105.0,-110.0,-110.0,120.0,-0.0,-0.0,105.0,120.0,225.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,SEN Men 81,FERREIRA CORTES Thibault,78.2,85.0,90.0,95.0,105.0,110.0,115.0,95.0,115.0,210.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,SEN Men 81,SAMMUT Nicolas,76.6,-105.0,-105.0,-105.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,SEN Men 89,MAYOR Tom,86.3,110.0,115.0,-120.0,128.0,133.0,138.0,115.0,138.0,253.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,SEN Men 96,MIKAELIAN Jordan,91.8,115.0,118.0,121.0,144.0,148.0,152.0,121.0,152.0,273.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,SEN Men >109,COULLET Anthony,155.3,152.0,157.0,162.0,200.0,-210.0,213.0,162.0,213.0,375.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,U15 Women 49,YAYA Floriane,48.7,35.0,38.0,-40.0,45.0,50.0,52.0,38.0,52.0,90.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,U15 Women 59,GLEYZE Aurelia,56.4,34.0,37.0,-40.0,45.0,49.0,-53.0,37.0,49.0,86.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,U17 Women 55,TISSERAND Maëlys,54.2,-38.0,38.0,40.0,45.0,50.0,-53.0,40.0,50.0,90.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,U17 Women 64,BOYER Kristina,59.1,50.0,-0.0,-0.0,70.0,-0.0,-0.0,50.0,70.0,120.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,U20 Women 55,RAMBACH Raphaelle,54.3,52.0,55.0,58.0,70.0,73.0,75.0,58.0,75.0,133.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,SEN Women 49,CHAIX Calista,48.9,49.0,-51.0,51.0,60.0,-64.0,-64.0,51.0,60.0,111.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,SEN Women 49,BANI LOMBARD Alexane,48.5,-44.0,44.0,-48.0,50.0,-54.0,-54.0,44.0,50.0,94.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,SEN Women 55,FERREIRA Denise,54.6,60.0,63.0,-65.0,75.0,-79.0,-0.0,63.0,75.0,138.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,SEN Women 59,AUTILLO Clara,58.6,-70.0,70.0,73.0,82.0,-85.0,-85.0,73.0,82.0,155.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,SEN Women 59,TOULZE Esther,59.0,55.0,60.0,63.0,75.0,77.0,80.0,63.0,80.0,143.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,SEN Women 59,CLARY Charline,56.6,57.0,61.0,-64.0,73.0,76.0,79.0,61.0,79.0,140.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,SEN Women 64,CAMACHO Marine,62.5,-60.0,60.0,-65.0,-81.0,81.0,-87.0,60.0,81.0,141.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,SEN Women 64,GAMBIEZ Mathilde,59.8,55.0,-60.0,-62.0,70.0,-75.0,76.0,55.0,76.0,131.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,U15 Women 49,YAYA Floriane,48.7,35.0,38.0,-40.0,45.0,50.0,52.0,38.0,52.0,90.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,U15 Women 59,GLEYZE Aurelia,56.4,34.0,37.0,-40.0,45.0,49.0,-53.0,37.0,49.0,86.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,U17 Women 55,TISSERAND Maëlys,54.2,-38.0,38.0,40.0,45.0,50.0,-53.0,40.0,50.0,90.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,U17 Women 64,BOYER Kristina,59.1,50.0,-0.0,-0.0,70.0,-0.0,-0.0,50.0,70.0,120.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,U20 Women 55,RAMBACH Raphaelle,54.3,52.0,55.0,58.0,70.0,73.0,75.0,58.0,75.0,133.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,SEN Women 49,CHAIX Calista,48.9,49.0,-51.0,51.0,60.0,-64.0,-64.0,51.0,60.0,111.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,SEN Women 49,BANI LOMBARD Alexane,48.5,-44.0,44.0,-48.0,50.0,-54.0,-54.0,44.0,50.0,94.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,SEN Women 55,FERREIRA Denise,54.6,60.0,63.0,-65.0,75.0,-79.0,-0.0,63.0,75.0,138.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,SEN Women 59,AUTILLO Clara,58.6,-70.0,70.0,73.0,82.0,-85.0,-85.0,73.0,82.0,155.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,SEN Women 59,TOULZE Esther,59.0,55.0,60.0,63.0,75.0,77.0,80.0,63.0,80.0,143.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,SEN Women 59,CLARY Charline,56.6,57.0,61.0,-64.0,73.0,76.0,79.0,61.0,79.0,140.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,SEN Women 64,CAMACHO Marine,62.5,-60.0,60.0,-65.0,-81.0,81.0,-87.0,60.0,81.0,141.0
+PACA - Critérium National - Villeneuve loubet - SECTEUR A,2022-12-04,SEN Women 64,GAMBIEZ Mathilde,59.8,55.0,-60.0,-62.0,70.0,-75.0,76.0,55.0,76.0,131.0

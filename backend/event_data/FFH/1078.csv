@@ -1,2 +1,72 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-HDF - Challenge Avenir 2 Dép 80 BM,2021-07-03,U10 Men ,DEWALLY Enzo,35.6,7.0,9.0,11.0,10.0,12.0,13.0,11.0,13.0,45.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,U17 Men 73,GUELT Louis,72.7,35.0,40.0,42.0,55.0,58.0,61.0,42.0,61.0,103.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,U17 Men 102,BIVEGUE Kurtys,98.1,50.0,60.0,70.0,60.0,-75.0,80.0,70.0,80.0,150.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,U20 Men 73,STRUILLOU Evan,70.1,73.0,-76.0,76.0,-100.0,100.0,104.0,76.0,104.0,180.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,U20 Men 73,TOUMBOU COMBO Nayel,71.9,70.0,74.0,-78.0,90.0,94.0,-100.0,74.0,94.0,168.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Men 73,TOUPET Jean noël - rené,70.8,-43.0,-43.0,-43.0,53.0,-55.0,55.0,0.0,55.0,0.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Men 81,CARPENTIER Stéphane,78.1,50.0,55.0,60.0,70.0,75.0,80.0,60.0,80.0,140.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Men 102,ONDON ASSOUMOU Ludovic,98.5,60.0,65.0,-72.0,-75.0,75.0,80.0,65.0,80.0,145.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Men 67,HAYAT Raphaël,66.5,88.0,93.0,-95.0,110.0,-115.0,-117.0,93.0,110.0,203.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Men 67,MOUSSET Allan,61.5,80.0,85.0,88.0,100.0,-107.0,-107.0,88.0,100.0,188.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Men 67,LE GLAUNEC Julien,64.4,70.0,73.0,76.0,90.0,-93.0,93.0,76.0,93.0,169.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Men 73,CAVILLON Théau,72.4,-95.0,95.0,-100.0,115.0,120.0,-125.0,95.0,120.0,215.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Men 73,AUDOUX Flavien,69.6,80.0,-85.0,-85.0,90.0,97.0,-100.0,80.0,97.0,177.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Men 73,MERAULT Baptiste,72.3,67.0,70.0,73.0,98.0,-102.0,-104.0,73.0,98.0,171.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Men 73,HUIN Théo,68.9,55.0,58.0,-62.0,72.0,77.0,-80.0,58.0,77.0,135.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Men 81,GAY Julien,75.8,62.0,65.0,68.0,82.0,85.0,-90.0,68.0,85.0,153.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Men 89,BAURAIN Rudy,87.4,97.0,100.0,103.0,-117.0,-117.0,117.0,103.0,117.0,220.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Men 89,LINO Julien,85.6,-70.0,75.0,80.0,97.0,105.0,-110.0,80.0,105.0,185.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Men 89,JARNO Franck,88.0,77.0,-80.0,80.0,97.0,101.0,-104.0,80.0,101.0,181.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Men 89,GUILOT Ghislain,85.5,45.0,48.0,51.0,58.0,-62.0,62.0,51.0,62.0,113.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Men 96,TRAVERSE Alexander,90.0,90.0,103.0,-120.0,120.0,-130.0,130.0,103.0,130.0,233.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Men 96,TANG Mathieu,90.1,-90.0,90.0,-102.0,130.0,-140.0,140.0,90.0,140.0,230.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Men 102,GODEC Hakim,101.6,91.0,96.0,-101.0,105.0,-115.0,120.0,96.0,120.0,216.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Men >109,SAILOFA Abimaël,135.5,80.0,85.0,90.0,-105.0,105.0,110.0,90.0,110.0,200.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Men 67,HAYAT Raphaël,66.5,88.0,93.0,-95.0,110.0,-115.0,-117.0,93.0,110.0,203.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Men 67,MOUSSET Allan,61.5,80.0,85.0,88.0,100.0,-107.0,-107.0,88.0,100.0,188.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Men 67,LE GLAUNEC Julien,64.4,70.0,73.0,76.0,90.0,-93.0,93.0,76.0,93.0,169.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Men 73,CAVILLON Théau,72.4,-95.0,95.0,-100.0,115.0,120.0,-125.0,95.0,120.0,215.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Men 73,AUDOUX Flavien,69.6,80.0,-85.0,-85.0,90.0,97.0,-100.0,80.0,97.0,177.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Men 73,MERAULT Baptiste,72.3,67.0,70.0,73.0,98.0,-102.0,-104.0,73.0,98.0,171.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Men 73,HUIN Théo,68.9,55.0,58.0,-62.0,72.0,77.0,-80.0,58.0,77.0,135.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Men 81,GAY Julien,75.8,62.0,65.0,68.0,82.0,85.0,-90.0,68.0,85.0,153.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Men 89,BAURAIN Rudy,87.4,97.0,100.0,103.0,-117.0,-117.0,117.0,103.0,117.0,220.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Men 89,LINO Julien,85.6,-70.0,75.0,80.0,97.0,105.0,-110.0,80.0,105.0,185.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Men 89,JARNO Franck,88.0,77.0,-80.0,80.0,97.0,101.0,-104.0,80.0,101.0,181.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Men 89,GUILOT Ghislain,85.5,45.0,48.0,51.0,58.0,-62.0,62.0,51.0,62.0,113.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Men 96,TRAVERSE Alexander,90.0,90.0,103.0,-120.0,120.0,-130.0,130.0,103.0,130.0,233.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Men 96,TANG Mathieu,90.1,-90.0,90.0,-102.0,130.0,-140.0,140.0,90.0,140.0,230.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Men 102,GODEC Hakim,101.6,91.0,96.0,-101.0,105.0,-115.0,120.0,96.0,120.0,216.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Men >109,SAILOFA Abimaël,135.5,80.0,85.0,90.0,-105.0,105.0,110.0,90.0,110.0,200.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,U17 Women 55,RICHIR Chloe,54.2,25.0,-28.0,28.0,30.0,33.0,-35.0,28.0,33.0,61.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,U20 Women 55,BERNHARD Aude,53.5,38.0,40.0,-43.0,42.0,45.0,-48.0,40.0,45.0,85.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,U20 Women 64,DUHAMEL Léa,62.7,-30.0,30.0,-33.0,37.0,41.0,-45.0,30.0,41.0,71.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,U20 Women 81,GUILLEY Valentine,78.3,33.0,36.0,-38.0,43.0,46.0,-49.0,36.0,46.0,82.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Women 59,LE FLOCH Amandine,57.1,50.0,-53.0,-53.0,-62.0,63.0,-65.0,50.0,63.0,113.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Women 59,GARRO Maud,58.9,43.0,46.0,-49.0,52.0,-55.0,-55.0,46.0,52.0,98.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Women 64,ALLOUCHE Elodie,63.9,53.0,56.0,59.0,68.0,-71.0,72.0,59.0,72.0,131.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Women 64,KERVIEL Morgane,59.7,30.0,33.0,-36.0,48.0,51.0,-53.0,33.0,51.0,84.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Women 71,KERMORVANT Emilie,67.4,43.0,46.0,49.0,55.0,59.0,63.0,49.0,63.0,112.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Women 76,GOSSE Marine,72.4,42.0,-45.0,46.0,58.0,63.0,-65.0,46.0,63.0,109.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Women 81,MOLLET Marie,80.3,58.0,62.0,-65.0,72.0,75.0,80.0,62.0,80.0,142.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Women >87,JORDAN Emilie,88.9,56.0,59.0,-61.0,70.0,73.0,-76.0,59.0,73.0,132.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,U17 Women 55,RICHIR Chloe,54.2,25.0,-28.0,28.0,30.0,33.0,-35.0,28.0,33.0,61.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,U20 Women 55,BERNHARD Aude,53.5,38.0,40.0,-43.0,42.0,45.0,-48.0,40.0,45.0,85.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,U20 Women 64,DUHAMEL Léa,62.7,-30.0,30.0,-33.0,37.0,41.0,-45.0,30.0,41.0,71.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,U20 Women 81,GUILLEY Valentine,78.3,33.0,36.0,-38.0,43.0,46.0,-49.0,36.0,46.0,82.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Women 59,LE FLOCH Amandine,57.1,50.0,-53.0,-53.0,-62.0,63.0,-65.0,50.0,63.0,113.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Women 59,GARRO Maud,58.9,43.0,46.0,-49.0,52.0,-55.0,-55.0,46.0,52.0,98.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Women 64,ALLOUCHE Elodie,63.9,53.0,56.0,59.0,68.0,-71.0,72.0,59.0,72.0,131.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Women 64,KERVIEL Morgane,59.7,30.0,33.0,-36.0,48.0,51.0,-53.0,33.0,51.0,84.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Women 71,KERMORVANT Emilie,67.4,43.0,46.0,49.0,55.0,59.0,63.0,49.0,63.0,112.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Women 76,GOSSE Marine,72.4,42.0,-45.0,46.0,58.0,63.0,-65.0,46.0,63.0,109.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Women 81,MOLLET Marie,80.3,58.0,62.0,-65.0,72.0,75.0,80.0,62.0,80.0,142.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,SEN Women >87,JORDAN Emilie,88.9,56.0,59.0,-61.0,70.0,73.0,-76.0,59.0,73.0,132.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,U13 Men 35,BRIVOAL Antoine,33.2,18.0,20.0,-22.0,22.0,-24.0,24.0,20.0,24.0,44.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,U13 Men 35,VANBEUGHEN Soren,34.1,-8.0,8.0,10.0,-11.0,11.0,13.0,10.0,13.0,23.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,U13 Men 45,AUGRAND Baptiste,44.1,10.0,12.0,14.0,17.0,19.0,21.0,14.0,21.0,35.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,U13 Women >71,FAVIÈRE Yvannie,84.8,33.0,34.0,35.0,43.0,45.0,47.0,35.0,47.0,82.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,U13 Men 35,BRIVOAL Antoine,33.2,18.0,20.0,-22.0,22.0,-24.0,24.0,20.0,24.0,44.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,U13 Men 35,VANBEUGHEN Soren,34.1,-8.0,8.0,10.0,-11.0,11.0,13.0,10.0,13.0,23.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,U13 Men 45,AUGRAND Baptiste,44.1,10.0,12.0,14.0,17.0,19.0,21.0,14.0,21.0,35.0
+BRE - Challenge Avenir - Vannes - Avenir 4 Morbihan Ille et vilaine Wild Bear P2,2023-05-21,U13 Women >71,FAVIÈRE Yvannie,84.8,33.0,34.0,35.0,43.0,45.0,47.0,35.0,47.0,82.0

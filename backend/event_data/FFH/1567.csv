@@ -1,21 +1,45 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-OCC - 2°J Championnat Régional par Equipe Mixte - Frontignan,2021-11-06,U15 Women 71,JONQUIERES Héloïse,67.4,26.0,29.0,32.0,40.0,44.0,47.0,32.0,47.0,79.0
-OCC - 2°J Championnat Régional par Equipe Mixte - Frontignan,2021-11-06,U17 Women 55,LORET Leïlou,52.7,37.0,40.0,42.0,47.0,51.0,55.0,42.0,55.0,97.0
-OCC - 2°J Championnat Régional par Equipe Mixte - Frontignan,2021-11-06,U17 Women 76,CIANCIO Lisea,72.7,53.0,56.0,58.0,60.0,63.0,-66.0,58.0,63.0,121.0
-OCC - 2°J Championnat Régional par Equipe Mixte - Frontignan,2021-11-06,U20 Women 59,PERAUD BROUSSET Ambre,57.7,39.0,41.0,43.0,46.0,49.0,-52.0,43.0,49.0,92.0
-OCC - 2°J Championnat Régional par Equipe Mixte - Frontignan,2021-11-06,SEN Women 64,LENEZ Enora,63.3,45.0,50.0,53.0,60.0,-65.0,65.0,53.0,65.0,118.0
-OCC - 2°J Championnat Régional par Equipe Mixte - Frontignan,2021-11-06,SEN Women 64,LEVALLOIS Mélanie,62.0,35.0,-38.0,38.0,-48.0,48.0,-53.0,38.0,48.0,86.0
-OCC - 2°J Championnat Régional par Equipe Mixte - Frontignan,2021-11-06,SEN Women 71,YAN Emmanuelle,64.5,48.0,52.0,56.0,70.0,-74.0,77.0,56.0,77.0,133.0
-OCC - 2°J Championnat Régional par Equipe Mixte - Frontignan,2021-11-06,U17 Men 61,L'ESPRIT Gabin,59.9,65.0,70.0,-75.0,-85.0,85.0,-90.0,70.0,85.0,155.0
-OCC - 2°J Championnat Régional par Equipe Mixte - Frontignan,2021-11-06,U17 Men 73,LOUKILI Mehdi,70.1,-62.0,62.0,70.0,-75.0,75.0,-85.0,70.0,75.0,145.0
-OCC - 2°J Championnat Régional par Equipe Mixte - Frontignan,2021-11-06,U20 Men 89,HAVET Bastien,87.2,-110.0,110.0,-117.0,141.0,147.0,-150.0,110.0,147.0,257.0
-OCC - 2°J Championnat Régional par Equipe Mixte - Frontignan,2021-11-06,SEN Men 67,DELPECH Remy,61.6,63.0,67.0,70.0,85.0,90.0,-95.0,70.0,90.0,160.0
-OCC - 2°J Championnat Régional par Equipe Mixte - Frontignan,2021-11-06,SEN Men 73,BOUCHERES Simon,70.7,-90.0,90.0,-105.0,120.0,130.0,-135.0,90.0,130.0,220.0
-OCC - 2°J Championnat Régional par Equipe Mixte - Frontignan,2021-11-06,SEN Men 73,CORNU Lorik,67.5,80.0,85.0,-90.0,95.0,100.0,-107.0,85.0,100.0,185.0
-OCC - 2°J Championnat Régional par Equipe Mixte - Frontignan,2021-11-06,SEN Men 73,LAMY Thomas,71.5,65.0,70.0,75.0,85.0,90.0,95.0,75.0,95.0,170.0
-OCC - 2°J Championnat Régional par Equipe Mixte - Frontignan,2021-11-06,SEN Men 81,JALABERT Louis,78.4,87.0,93.0,-100.0,115.0,120.0,-125.0,93.0,120.0,213.0
-OCC - 2°J Championnat Régional par Equipe Mixte - Frontignan,2021-11-06,SEN Men 81,LOPES BAPTISTA Osvaldo,79.9,90.0,-95.0,-95.0,110.0,115.0,120.0,90.0,120.0,210.0
-OCC - 2°J Championnat Régional par Equipe Mixte - Frontignan,2021-11-06,SEN Men 81,BONHOMME Aurélien,77.2,85.0,90.0,-93.0,100.0,105.0,110.0,90.0,110.0,200.0
-OCC - 2°J Championnat Régional par Equipe Mixte - Frontignan,2021-11-06,SEN Men 89,CASTEL Guillaume,81.2,103.0,108.0,-111.0,125.0,130.0,-135.0,108.0,130.0,238.0
-OCC - 2°J Championnat Régional par Equipe Mixte - Frontignan,2021-11-06,SEN Men 89,BOULINGUEZ Maxime,88.2,-105.0,105.0,112.0,125.0,-135.0,-140.0,112.0,125.0,237.0
-OCC - 2°J Championnat Régional par Equipe Mixte - Frontignan,2021-11-06,SEN Men 96,MALBEC Guillaume,95.2,104.0,108.0,112.0,130.0,-138.0,-143.0,112.0,130.0,242.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,U15 Women 55,DOUYERE Solene,53.0,35.0,38.0,40.0,45.0,48.0,50.0,40.0,50.0,90.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,U17 Women 55,"ZITTE Annaëlle, gwendoline",51.4,22.0,-25.0,25.0,30.0,33.0,35.0,25.0,35.0,60.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,U17 Women 55,PERROT Marie-laurine,52.2,20.0,22.0,-23.0,25.0,28.0,30.0,22.0,30.0,52.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,U17 Women 59,EDMOND Jade,59.0,30.0,33.0,35.0,37.0,40.0,-42.0,35.0,40.0,75.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,U20 Women 71,VERNY Capucine,67.7,37.0,42.0,-45.0,45.0,50.0,55.0,42.0,55.0,97.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Women 59,TIN-SANG Maurane,59.0,32.0,-36.0,36.0,50.0,-54.0,-54.0,36.0,50.0,86.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Women 59,AMIOT Anaïs,56.23,30.0,33.0,-35.0,37.0,42.0,45.0,33.0,45.0,78.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Women 64,MOREL Ericka,62.0,50.0,52.0,54.0,65.0,68.0,-70.0,54.0,68.0,122.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Women 64,PAUSE Patricia,63.1,42.0,44.0,46.0,60.0,63.0,-66.0,46.0,63.0,109.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Women 71,PERRIERE Lou-ann,69.12,47.0,-50.0,50.0,60.0,62.0,-65.0,50.0,62.0,112.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Women 71,GRONDIN Charlotte,66.45,-37.0,37.0,-42.0,-43.0,45.0,-48.0,37.0,45.0,82.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Women >87,ST MART Jessica sandra,89.1,17.0,20.0,23.0,25.0,30.0,32.0,23.0,32.0,55.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 67,FONTAINE Didier,64.42,-35.0,35.0,40.0,-47.0,47.0,55.0,40.0,55.0,95.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 81,NABUCHODONOSOR Stéphane,76.8,75.0,80.0,-85.0,105.0,110.0,115.0,80.0,115.0,195.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 81,HAUSS Manoa,77.1,75.0,-80.0,-80.0,100.0,105.0,-110.0,75.0,105.0,180.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 81,TEILLAUCHET Jacky,75.25,55.0,58.0,-61.0,-70.0,70.0,72.0,58.0,72.0,130.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 89,PAUSE Cédric,87.5,71.0,74.0,78.0,100.0,105.0,107.0,78.0,107.0,185.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 89,SACRIAS Stéphane,84.33,74.0,77.0,-80.0,90.0,95.0,100.0,77.0,100.0,177.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 96,ST MART Giovanni jean marie,93.0,60.0,70.0,75.0,90.0,100.0,110.0,75.0,110.0,185.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 96,DECROP Adrien,89.25,71.0,75.0,77.0,95.0,-100.0,100.0,77.0,100.0,177.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 96,GROÉNÉ Alexandre,91.0,57.0,59.0,61.0,67.0,71.0,73.0,61.0,73.0,134.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 109,LAPIERRE Matthieu,103.5,70.0,73.0,-76.0,-92.0,92.0,96.0,73.0,96.0,169.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 67,FONTAINE Didier,64.42,-35.0,35.0,40.0,-47.0,47.0,55.0,40.0,55.0,95.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 81,NABUCHODONOSOR Stéphane,76.8,75.0,80.0,-85.0,105.0,110.0,115.0,80.0,115.0,195.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 81,HAUSS Manoa,77.1,75.0,-80.0,-80.0,100.0,105.0,-110.0,75.0,105.0,180.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 81,TEILLAUCHET Jacky,75.25,55.0,58.0,-61.0,-70.0,70.0,72.0,58.0,72.0,130.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 89,PAUSE Cédric,87.5,71.0,74.0,78.0,100.0,105.0,107.0,78.0,107.0,185.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 89,SACRIAS Stéphane,84.33,74.0,77.0,-80.0,90.0,95.0,100.0,77.0,100.0,177.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 96,ST MART Giovanni jean marie,93.0,60.0,70.0,75.0,90.0,100.0,110.0,75.0,110.0,185.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 96,DECROP Adrien,89.25,71.0,75.0,77.0,95.0,-100.0,100.0,77.0,100.0,177.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 96,GROÉNÉ Alexandre,91.0,57.0,59.0,61.0,67.0,71.0,73.0,61.0,73.0,134.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,SEN Men 109,LAPIERRE Matthieu,103.5,70.0,73.0,-76.0,-92.0,92.0,96.0,73.0,96.0,169.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,U10 Men ,ST MART Lyam,46.75,5.0,7.0,8.0,6.0,8.0,10.0,8.0,10.0,18.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,U13 Men 35,VEFOUR Noah,29.56,26.0,28.0,30.0,34.0,36.0,38.0,30.0,38.0,68.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,U13 Men 61,AUZATE Ismaël,57.8,40.0,-42.0,42.0,50.0,52.0,54.0,42.0,54.0,96.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,U13 Women 40,ADOLPHE Alya maïwenn,39.75,16.0,18.0,-20.0,18.0,20.0,22.0,18.0,22.0,40.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,U13 Women 49,RICHARD Maelys,47.0,36.0,38.0,40.0,46.0,48.0,50.0,40.0,50.0,90.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,U13 Women 55,ST MART Kia,54.13,30.0,32.0,34.0,38.0,40.0,42.0,34.0,42.0,76.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,U10 Men ,ST MART Lyam,46.75,5.0,7.0,8.0,6.0,8.0,10.0,8.0,10.0,18.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,U13 Men 35,VEFOUR Noah,29.56,26.0,28.0,30.0,34.0,36.0,38.0,30.0,38.0,68.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,U13 Men 61,AUZATE Ismaël,57.8,40.0,-42.0,42.0,50.0,52.0,54.0,42.0,54.0,96.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,U13 Women 40,ADOLPHE Alya maïwenn,39.75,16.0,18.0,-20.0,18.0,20.0,22.0,18.0,22.0,40.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,U13 Women 49,RICHARD Maelys,47.0,36.0,38.0,40.0,46.0,48.0,50.0,40.0,50.0,90.0
+REU - Challenge Avenir - Saint denis  la reunion - 1ère journée  Zone Nord,2023-11-04,U13 Women 55,ST MART Kia,54.13,30.0,32.0,34.0,38.0,40.0,42.0,34.0,42.0,76.0

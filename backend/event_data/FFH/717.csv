@@ -1,2 +1,29 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-BRE - Tournoi Dpt Fem 56,2020-10-11,SEN Women 64,FERREC Énora,63.8,57.0,60.0,62.0,73.0,76.0,79.0,62.0,79.0,141.0
+AURA - Challenge Avenir (Arbresle),2022-01-08,U13 Women 40,MOREL Maud,36.9,10.0,12.0,14.0,15.0,-17.0,17.0,14.0,17.0,31.0
+AURA - Challenge Avenir (Arbresle),2022-01-08,U20 Women 55,HUGONNIER Lea,51.2,30.0,34.0,38.0,40.0,-45.0,-45.0,38.0,40.0,78.0
+AURA - Challenge Avenir (Arbresle),2022-01-08,SEN Women 45,VACHEROT Lucile,42.4,17.0,19.0,20.0,25.0,-30.0,-30.0,20.0,25.0,45.0
+AURA - Challenge Avenir (Arbresle),2022-01-08,SEN Women 49,PRIMEL Laetitia,45.4,35.0,37.0,38.0,-47.0,50.0,-52.0,38.0,50.0,88.0
+AURA - Challenge Avenir (Arbresle),2022-01-08,SEN Women 55,GIORDANO Camille,50.6,37.0,39.0,41.0,45.0,-48.0,48.0,41.0,48.0,89.0
+AURA - Challenge Avenir (Arbresle),2022-01-08,SEN Women 55,DURIS Laetitia,54.6,-35.0,-35.0,35.0,45.0,48.0,50.0,35.0,50.0,85.0
+AURA - Challenge Avenir (Arbresle),2022-01-08,SEN Women 64,KYRIAKIDES Alexia,61.9,45.0,50.0,-57.0,60.0,63.0,67.0,50.0,67.0,117.0
+AURA - Challenge Avenir (Arbresle),2022-01-08,SEN Women 64,GENY Annie,60.9,-26.0,26.0,30.0,35.0,40.0,-45.0,30.0,40.0,70.0
+AURA - Challenge Avenir (Arbresle),2022-01-08,SEN Women 76,CHARROIS Pauline,74.5,-30.0,30.0,34.0,40.0,45.0,50.0,34.0,50.0,84.0
+AURA - Challenge Avenir (Arbresle),2022-01-08,SEN Women 81,MASSU Juliette,80.7,45.0,48.0,50.0,50.0,55.0,-60.0,50.0,55.0,105.0
+AURA - Challenge Avenir (Arbresle),2022-01-08,U13 Men 40,CATHELIN Clement,39.9,8.0,10.0,12.0,11.0,13.0,15.0,12.0,15.0,27.0
+AURA - Challenge Avenir (Arbresle),2022-01-08,U13 Men 40,CATHELIN Clement,39.9,8.0,10.0,12.0,11.0,13.0,15.0,12.0,15.0,27.0
+AURA - Challenge Avenir (Arbresle),2022-01-08,U15 Men 49,DEPLANCHE Elouen,46.5,15.0,19.0,24.0,22.0,25.0,-28.0,24.0,25.0,49.0
+AURA - Challenge Avenir (Arbresle),2022-01-08,U17 Men >102,SAFFAR TEBBI Taylan,126.1,48.0,51.0,54.0,51.0,-55.0,56.0,54.0,56.0,110.0
+AURA - Challenge Avenir (Arbresle),2022-01-08,SEN Men 81,MARSZALEK Hugo,76.1,75.0,80.0,85.0,90.0,-97.0,-100.0,85.0,90.0,175.0
+AURA - Challenge Avenir (Arbresle),2022-01-08,SEN Men 81,DEUMIE Valentin,79.3,65.0,70.0,75.0,-95.0,95.0,-102.0,75.0,95.0,170.0
+AURA - Challenge Avenir (Arbresle),2022-01-08,SEN Men 89,CANNET Sebastien,84.0,83.0,-87.0,-90.0,112.0,-116.0,-116.0,83.0,112.0,195.0
+AURA - Challenge Avenir (Arbresle),2022-01-08,SEN Men 89,RAMIREZ Thomas,83.6,79.0,83.0,-86.0,100.0,-107.0,-107.0,83.0,100.0,183.0
+AURA - Challenge Avenir (Arbresle),2022-01-08,SEN Men 89,MOKTAR Selim,87.1,70.0,75.0,-78.0,93.0,97.0,100.0,75.0,100.0,175.0
+AURA - Challenge Avenir (Arbresle),2022-01-08,SEN Men 102,VINCENT Ludovic,97.1,90.0,95.0,100.0,114.0,120.0,-125.0,100.0,120.0,220.0
+AURA - Challenge Avenir (Arbresle),2022-01-08,U15 Men 49,DEPLANCHE Elouen,46.5,15.0,19.0,24.0,22.0,25.0,-28.0,24.0,25.0,49.0
+AURA - Challenge Avenir (Arbresle),2022-01-08,U17 Men >102,SAFFAR TEBBI Taylan,126.1,48.0,51.0,54.0,51.0,-55.0,56.0,54.0,56.0,110.0
+AURA - Challenge Avenir (Arbresle),2022-01-08,SEN Men 81,MARSZALEK Hugo,76.1,75.0,80.0,85.0,90.0,-97.0,-100.0,85.0,90.0,175.0
+AURA - Challenge Avenir (Arbresle),2022-01-08,SEN Men 81,DEUMIE Valentin,79.3,65.0,70.0,75.0,-95.0,95.0,-102.0,75.0,95.0,170.0
+AURA - Challenge Avenir (Arbresle),2022-01-08,SEN Men 89,CANNET Sebastien,84.0,83.0,-87.0,-90.0,112.0,-116.0,-116.0,83.0,112.0,195.0
+AURA - Challenge Avenir (Arbresle),2022-01-08,SEN Men 89,RAMIREZ Thomas,83.6,79.0,83.0,-86.0,100.0,-107.0,-107.0,83.0,100.0,183.0
+AURA - Challenge Avenir (Arbresle),2022-01-08,SEN Men 89,MOKTAR Selim,87.1,70.0,75.0,-78.0,93.0,97.0,100.0,75.0,100.0,175.0
+AURA - Challenge Avenir (Arbresle),2022-01-08,SEN Men 102,VINCENT Ludovic,97.1,90.0,95.0,100.0,114.0,120.0,-125.0,100.0,120.0,220.0

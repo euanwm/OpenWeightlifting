@@ -1,11 +1,12 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-AURA - 1°J Nat 2B (Vaise),2021-11-06,SEN Men 73,ANTON Xavier,71.0,85.0,-90.0,90.0,105.0,110.0,115.0,90.0,115.0,205.0
-AURA - 1°J Nat 2B (Vaise),2021-11-06,SEN Men 73,DOMINGUEZ Gaetan,71.0,70.0,80.0,85.0,110.0,115.0,120.0,85.0,120.0,205.0
-AURA - 1°J Nat 2B (Vaise),2021-11-06,SEN Men 81,DUDOGNON Arthur,73.7,95.0,100.0,105.0,118.0,-123.0,-123.0,105.0,118.0,223.0
-AURA - 1°J Nat 2B (Vaise),2021-11-06,SEN Men 81,SAINT PIERRE Quentin,78.1,90.0,95.0,-100.0,105.0,110.0,-115.0,95.0,110.0,205.0
-AURA - 1°J Nat 2B (Vaise),2021-11-06,SEN Men 81,SENECLAUZE Merlin,75.8,85.0,90.0,-95.0,110.0,115.0,-120.0,90.0,115.0,205.0
-AURA - 1°J Nat 2B (Vaise),2021-11-06,SEN Men 89,GAUTHIER Sébastien,87.7,100.0,105.0,110.0,122.0,127.0,131.0,110.0,131.0,241.0
-AURA - 1°J Nat 2B (Vaise),2021-11-06,SEN Men 89,RAMBELO MANGA Alexandre lala,86.1,-110.0,-110.0,110.0,130.0,-140.0,-140.0,110.0,130.0,240.0
-AURA - 1°J Nat 2B (Vaise),2021-11-06,SEN Men 89,MASSE Samuel,82.7,100.0,-105.0,105.0,128.0,135.0,-140.0,105.0,135.0,240.0
-AURA - 1°J Nat 2B (Vaise),2021-11-06,SEN Men 89,HOUDEAU Tristan,81.2,98.0,-103.0,103.0,117.0,122.0,127.0,103.0,127.0,230.0
-AURA - 1°J Nat 2B (Vaise),2021-11-06,SEN Men 102,DAWID Joris,98.8,105.0,110.0,-115.0,122.0,127.0,130.0,110.0,130.0,240.0
+GE - autre - Ljubljana (slo) - Coupe de l'Union Européenne,2023-10-13,U20 Men 73,CHRISTOPHEL Valentin,68.95,110.0,-114.0,-117.0,130.0,-135.0,-135.0,110.0,130.0,240.0
+GE - autre - Ljubljana (slo) - Coupe de l'Union Européenne,2023-10-13,U17 Women 55,HANOCQUE Astrid,50.2,51.0,-54.0,-54.0,60.0,63.0,65.0,51.0,65.0,116.0
+GE - autre - Ljubljana (slo) - Coupe de l'Union Européenne,2023-10-13,U17 Women 55,HANOCQUE Astrid,50.2,51.0,-54.0,-54.0,60.0,63.0,65.0,51.0,65.0,116.0
+GE - autre - Ljubljana (slo) - Coupe de l'Union Européenne,2023-10-13,U17 Women 64,CALMUS Thais,63.85,65.0,68.0,70.0,75.0,78.0,81.0,70.0,81.0,151.0
+GE - autre - Ljubljana (slo) - Coupe de l'Union Européenne,2023-10-13,U20 Women 64,ANTONIO Lea marie,63.0,74.0,77.0,80.0,95.0,98.0,-100.0,80.0,98.0,178.0
+GE - autre - Ljubljana (slo) - Coupe de l'Union Européenne,2023-10-13,U17 Women 64,CALMUS Thais,63.85,65.0,68.0,70.0,75.0,78.0,81.0,70.0,81.0,151.0
+GE - autre - Ljubljana (slo) - Coupe de l'Union Européenne,2023-10-13,U20 Women 64,ANTONIO Lea marie,63.0,74.0,77.0,80.0,95.0,98.0,-100.0,80.0,98.0,178.0
+GE - autre - Ljubljana (slo) - Coupe de l'Union Européenne,2023-10-13,U17 Men 55,DELAMOTTE Lukas,51.5,64.0,67.0,70.0,83.0,-87.0,88.0,70.0,88.0,158.0
+GE - autre - Ljubljana (slo) - Coupe de l'Union Européenne,2023-10-13,U17 Men 55,DELAMOTTE Lukas,51.5,64.0,67.0,70.0,83.0,-87.0,88.0,70.0,88.0,158.0
+GE - autre - Ljubljana (slo) - Coupe de l'Union Européenne,2023-10-13,U17 Men 61,REY Lucas,60.65,68.0,71.0,73.0,84.0,88.0,91.0,73.0,91.0,164.0
+GE - autre - Ljubljana (slo) - Coupe de l'Union Européenne,2023-10-13,U17 Men 61,REY Lucas,60.65,68.0,71.0,73.0,84.0,88.0,91.0,73.0,91.0,164.0

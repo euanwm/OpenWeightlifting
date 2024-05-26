@@ -1,17 +1,21 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-REG 1M - ASPTT 2 - CS Brumath - ASI Avenir,2020-02-08,U17 Men 81,KLICKI Alexis,75.5,58.0,62.0,65.0,80.0,85.0,90.0,65.0,90.0,155.0
-REG 1M - ASPTT 2 - CS Brumath - ASI Avenir,2020-02-08,U20 Men 73,ROHRBACH Stephane,72.6,95.0,-100.0,100.0,110.0,120.0,-125.0,100.0,120.0,220.0
-REG 1M - ASPTT 2 - CS Brumath - ASI Avenir,2020-02-08,U20 Men 89,NICKLES Maxime,83.9,85.0,-90.0,-90.0,100.0,-0.0,-0.0,85.0,100.0,185.0
-REG 1M - ASPTT 2 - CS Brumath - ASI Avenir,2020-02-08,SEN Men 73,CHRISTOPHEL Christian,71.3,68.0,72.0,76.0,97.0,104.0,108.0,76.0,108.0,184.0
-REG 1M - ASPTT 2 - CS Brumath - ASI Avenir,2020-02-08,SEN Men 73,SCHNEIDER Axel,69.6,75.0,-80.0,80.0,90.0,95.0,100.0,80.0,100.0,180.0
-REG 1M - ASPTT 2 - CS Brumath - ASI Avenir,2020-02-08,SEN Men 73,MAURER Julien,69.4,55.0,60.0,65.0,70.0,75.0,80.0,65.0,80.0,145.0
-REG 1M - ASPTT 2 - CS Brumath - ASI Avenir,2020-02-08,SEN Men 81,CAUSSE Frederick,80.9,95.0,100.0,-105.0,115.0,-122.0,-125.0,100.0,115.0,215.0
-REG 1M - ASPTT 2 - CS Brumath - ASI Avenir,2020-02-08,SEN Men 81,ARBOGAST Vincent,73.1,88.0,93.0,97.0,105.0,113.0,-117.0,97.0,113.0,210.0
-REG 1M - ASPTT 2 - CS Brumath - ASI Avenir,2020-02-08,SEN Men 81,TAUVALE Vinceslas,80.6,80.0,85.0,88.0,110.0,115.0,120.0,88.0,120.0,208.0
-REG 1M - ASPTT 2 - CS Brumath - ASI Avenir,2020-02-08,SEN Men 81,MILLER David,73.3,85.0,88.0,91.0,110.0,115.0,-120.0,91.0,115.0,206.0
-REG 1M - ASPTT 2 - CS Brumath - ASI Avenir,2020-02-08,SEN Men 81,MORDACHOV Alexandre,74.7,75.0,80.0,85.0,95.0,100.0,105.0,85.0,105.0,190.0
-REG 1M - ASPTT 2 - CS Brumath - ASI Avenir,2020-02-08,SEN Men 89,BEYLER Pierre,84.4,100.0,110.0,-115.0,120.0,143.0,-0.0,110.0,143.0,253.0
-REG 1M - ASPTT 2 - CS Brumath - ASI Avenir,2020-02-08,SEN Men 89,GROSLIER Alexandre,85.2,105.0,115.0,-122.0,110.0,120.0,-125.0,115.0,120.0,235.0
-REG 1M - ASPTT 2 - CS Brumath - ASI Avenir,2020-02-08,SEN Men 89,TRAUTMANN Guillaume,85.4,75.0,87.0,100.0,105.0,115.0,-125.0,100.0,115.0,215.0
-REG 1M - ASPTT 2 - CS Brumath - ASI Avenir,2020-02-08,SEN Men 89,DORSCHNER Jonathan,83.3,80.0,85.0,90.0,105.0,110.0,115.0,90.0,115.0,205.0
-REG 1M - ASPTT 2 - CS Brumath - ASI Avenir,2020-02-08,SEN Men 89,GRUNER Arnaud,86.0,80.0,85.0,90.0,100.0,110.0,-114.0,90.0,110.0,200.0
+GE - Challenge Avenir 1 - Bas-Rhin - U10-13 Mixte,2021-06-26,U10 Men ,MIGUEL Antoine,48.0,10.0,12.0,14.0,12.0,14.0,-16.0,14.0,14.0,28.0
+GE - Challenge Avenir 1 - Bas-Rhin - U10-13 Mixte,2021-06-26,U10 Men ,KLOCK Janis,37.7,8.0,10.0,12.0,12.0,14.0,16.0,12.0,16.0,28.0
+GE - Challenge Avenir 1 - Bas-Rhin - U10-13 Mixte,2021-06-26,U13 Men 49,TUGEND Timeo,46.2,14.0,16.0,18.0,19.0,21.0,23.0,18.0,23.0,41.0
+GE - Challenge Avenir 1 - Bas-Rhin - U10-13 Mixte,2021-06-26,U13 Women 71,KLOCK Amanda,68.3,33.0,35.0,-37.0,41.0,43.0,45.0,35.0,45.0,80.0
+GE - Challenge Avenir 1 - Bas-Rhin - U10-13 Mixte,2021-06-26,SEN Women 59,WIETRICH Marion,57.4,-44.0,44.0,47.0,55.0,58.0,-60.0,47.0,58.0,105.0
+GE - Challenge Avenir 1 - Bas-Rhin - U10-13 Mixte,2021-06-26,SEN Women 64,KUSS BILDSTEIN Isabelle,62.9,35.0,38.0,41.0,50.0,54.0,57.0,41.0,57.0,98.0
+GE - Challenge Avenir 1 - Bas-Rhin - U10-13 Mixte,2021-06-26,SEN Women 64,LOTTIGIER Chloe,63.4,40.0,42.0,44.0,45.0,-48.0,48.0,44.0,48.0,92.0
+GE - Challenge Avenir 1 - Bas-Rhin - U10-13 Mixte,2021-06-26,SEN Women 59,WIETRICH Marion,57.4,-44.0,44.0,47.0,55.0,58.0,-60.0,47.0,58.0,105.0
+GE - Challenge Avenir 1 - Bas-Rhin - U10-13 Mixte,2021-06-26,SEN Women 64,KUSS BILDSTEIN Isabelle,62.9,35.0,38.0,41.0,50.0,54.0,57.0,41.0,57.0,98.0
+GE - Challenge Avenir 1 - Bas-Rhin - U10-13 Mixte,2021-06-26,SEN Women 64,LOTTIGIER Chloe,63.4,40.0,42.0,44.0,45.0,-48.0,48.0,44.0,48.0,92.0
+GE - Challenge Avenir 1 - Bas-Rhin - U10-13 Mixte,2021-06-26,U15 Men 73,MOVSESYAN Vahe,72.0,23.0,25.0,27.0,30.0,33.0,36.0,27.0,36.0,63.0
+GE - Challenge Avenir 1 - Bas-Rhin - U10-13 Mixte,2021-06-26,SEN Men 73,D'ANNA Steven,71.8,77.0,84.0,90.0,100.0,105.0,110.0,90.0,110.0,200.0
+GE - Challenge Avenir 1 - Bas-Rhin - U10-13 Mixte,2021-06-26,SEN Men 81,RICCIARDELLA Angelo,79.4,91.0,-96.0,96.0,110.0,115.0,122.0,96.0,122.0,218.0
+GE - Challenge Avenir 1 - Bas-Rhin - U10-13 Mixte,2021-06-26,SEN Men 81,CHAIX Bastien,78.9,75.0,80.0,83.0,-110.0,110.0,115.0,83.0,115.0,198.0
+GE - Challenge Avenir 1 - Bas-Rhin - U10-13 Mixte,2021-06-26,SEN Men 89,AL MAZLOUM Bachar,84.6,76.0,82.0,87.0,92.0,100.0,105.0,87.0,105.0,192.0
+GE - Challenge Avenir 1 - Bas-Rhin - U10-13 Mixte,2021-06-26,U15 Men 73,MOVSESYAN Vahe,72.0,23.0,25.0,27.0,30.0,33.0,36.0,27.0,36.0,63.0
+GE - Challenge Avenir 1 - Bas-Rhin - U10-13 Mixte,2021-06-26,SEN Men 73,D'ANNA Steven,71.8,77.0,84.0,90.0,100.0,105.0,110.0,90.0,110.0,200.0
+GE - Challenge Avenir 1 - Bas-Rhin - U10-13 Mixte,2021-06-26,SEN Men 81,RICCIARDELLA Angelo,79.4,91.0,-96.0,96.0,110.0,115.0,122.0,96.0,122.0,218.0
+GE - Challenge Avenir 1 - Bas-Rhin - U10-13 Mixte,2021-06-26,SEN Men 81,CHAIX Bastien,78.9,75.0,80.0,83.0,-110.0,110.0,115.0,83.0,115.0,198.0
+GE - Challenge Avenir 1 - Bas-Rhin - U10-13 Mixte,2021-06-26,SEN Men 89,AL MAZLOUM Bachar,84.6,76.0,82.0,87.0,92.0,100.0,105.0,87.0,105.0,192.0

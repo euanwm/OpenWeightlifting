@@ -1,9 +1,3 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-BFC - Chal Avenir 1 U10-U13,2020-10-17,U10 Men ,ORSAT Louis,43.05,11.0,12.0,13.0,12.0,14.0,16.0,13.0,16.0,55.0
-BFC - Chal Avenir 1 U10-U13,2020-10-17,U10 Men ,LA ROSA Séan,23.1,3.0,4.0,5.0,8.0,9.0,-10.0,5.0,9.0,26.0
-BFC - Chal Avenir 1 U10-U13,2020-10-17,U13 Men 35,ANTONIO Paolo,30.15,8.0,10.0,-11.0,11.0,-13.0,13.0,10.0,13.0,42.0
-BFC - Chal Avenir 1 U10-U13,2020-10-17,U13 Men 40,CHIARISOLO Lucas,35.5,11.0,13.0,-15.0,15.0,17.0,19.0,13.0,19.0,60.0
-BFC - Chal Avenir 1 U10-U13,2020-10-17,U13 Men 45,GADRET Marceau,43.4,12.0,14.0,16.0,17.0,-19.0,19.0,16.0,19.0,66.0
-BFC - Chal Avenir 1 U10-U13,2020-10-17,U13 Men >73,BEN MOUSSA Badiss,97.5,22.0,24.0,26.0,28.0,29.0,31.0,26.0,31.0,110.0
-BFC - Chal Avenir 1 U10-U13,2020-10-17,U10 Women ,DURIC Ema,26.1,10.0,12.0,13.0,14.0,16.0,17.0,13.0,17.0,58.0
-BFC - Chal Avenir 1 U10-U13,2020-10-17,U13 Women 55,GALMICHE Lana,50.3,-13.0,13.0,14.0,18.0,20.0,-22.0,14.0,20.0,65.0
+Challenge de l'avenir n°5 (Angers),2022-05-21,SEN Women 59,SADOUN Eglantine,57.2,44.0,-48.0,-48.0,-58.0,58.0,61.0,44.0,61.0,105.0
+Challenge de l'avenir n°5 (Angers),2022-05-21,SEN Women 71,GALLIAN Clara,69.7,34.0,36.0,40.0,40.0,45.0,50.0,40.0,50.0,90.0

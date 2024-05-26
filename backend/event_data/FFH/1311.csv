@@ -1,5 +1,248 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-HDF - Critérium 5 Femmes,2021-08-31,U15 Women 40,DIOGUARDI Nina,37.5,28.0,30.0,32.0,40.0,42.0,-44.0,32.0,42.0,74.0
-HDF - Critérium 5 Femmes,2021-08-31,U15 Women 45,DUVET Ines,44.0,23.0,25.0,-27.0,33.0,35.0,38.0,25.0,38.0,63.0
-HDF - Critérium 5 Femmes,2021-08-31,U17 Women 64,GHESQUIERE Deborah,62.7,-47.0,47.0,-50.0,60.0,62.0,-65.0,47.0,62.0,109.0
-HDF - Critérium 5 Femmes,2021-08-31,U20 Women 59,COURTOIS Alexandra,56.2,55.0,58.0,-60.0,-67.0,-67.0,-67.0,58.0,-67.0,0.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U17 Men 89,COTTE-GAUDIN Simon,81.2,95.0,100.0,-105.0,110.0,118.0,-125.0,100.0,118.0,218.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U20 Men 73,DA SILVA Thibaut,72.1,85.0,91.0,95.0,95.0,105.0,-110.0,95.0,105.0,200.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U20 Men 73,GABET-LECORDIER Marius,71.5,60.0,65.0,69.0,70.0,78.0,82.0,69.0,82.0,151.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U20 Men 73,EYDELON-MONTAL Yoan,69.7,-60.0,60.0,63.0,75.0,80.0,85.0,63.0,85.0,148.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U20 Men 81,DA SILVA Romain,74.6,105.0,110.0,-114.0,130.0,135.0,-140.0,110.0,135.0,245.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U20 Men 81,GODARD Tanguy,77.8,80.0,-90.0,90.0,95.0,105.0,110.0,90.0,110.0,200.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U20 Men 81,SOLLIER Henry,80.6,-85.0,85.0,-90.0,95.0,100.0,-105.0,85.0,100.0,185.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U20 Men 81,VARCIN Adrien,80.1,60.0,64.0,-70.0,80.0,85.0,-90.0,64.0,85.0,149.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 67,VAILLOUD Fabien,65.9,80.0,85.0,87.0,100.0,105.0,108.0,87.0,108.0,195.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 67,CHARNAILLAT Mathias,62.2,-65.0,65.0,-70.0,80.0,85.0,-90.0,65.0,85.0,150.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 73,DUMAS Geremy,71.0,75.0,83.0,-88.0,85.0,90.0,94.0,83.0,94.0,177.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 81,BAILLET Valentin,73.1,-101.0,-101.0,101.0,-117.0,117.0,-125.0,101.0,117.0,218.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 81,SAN JOSE Mathieu,79.8,80.0,85.0,90.0,90.0,97.0,-102.0,90.0,97.0,187.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 81,VEZZU Arnaud,78.6,60.0,65.0,70.0,100.0,105.0,108.0,70.0,108.0,178.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 81,PEREIRA Jordan,75.4,65.0,70.0,75.0,90.0,95.0,-100.0,75.0,95.0,170.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 81,PRADA PRADA Jonathan,78.8,75.0,79.0,-0.0,40.0,-0.0,-0.0,79.0,40.0,119.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,MERCIER Jimmy,87.1,-92.0,92.0,-100.0,110.0,115.0,120.0,92.0,120.0,212.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,SANTOYO Alexandre,81.5,50.0,55.0,60.0,70.0,-76.0,-76.0,60.0,70.0,130.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,LYAUDET Patrick,84.3,54.0,57.0,-60.0,70.0,73.0,-76.0,57.0,73.0,130.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U20 Women 71,PICOT Zeline,68.1,66.0,70.0,73.0,85.0,90.0,-94.0,73.0,90.0,163.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U20 Women 71,MICAND Lilou,66.5,40.0,43.0,46.0,-57.0,-57.0,-57.0,46.0,0.0,0.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 64,LACROIX Evelyne,61.4,65.0,68.0,-71.0,76.0,80.0,-83.0,68.0,80.0,148.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 64,MENONI Aline,59.2,47.0,-50.0,-50.0,-60.0,-63.0,63.0,47.0,63.0,110.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 71,MANTAROPOULOS Marie,67.4,85.0,-89.0,92.0,105.0,110.0,-113.0,92.0,110.0,202.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 71,MARRON Valentine,70.7,57.0,60.0,65.0,75.0,80.0,-85.0,65.0,80.0,145.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 71,BONNET Cindy,66.0,-57.0,-57.0,57.0,70.0,75.0,-78.0,57.0,75.0,132.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 71,POTHIN Julie,69.3,-53.0,-53.0,-53.0,65.0,-68.0,-68.0,0.0,65.0,0.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U20 Women 71,PICOT Zeline,68.1,66.0,70.0,73.0,85.0,90.0,-94.0,73.0,90.0,163.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U20 Women 71,MICAND Lilou,66.5,40.0,43.0,46.0,-57.0,-57.0,-57.0,46.0,0.0,0.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 64,LACROIX Evelyne,61.4,65.0,68.0,-71.0,76.0,80.0,-83.0,68.0,80.0,148.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 64,MENONI Aline,59.2,47.0,-50.0,-50.0,-60.0,-63.0,63.0,47.0,63.0,110.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 71,MANTAROPOULOS Marie,67.4,85.0,-89.0,92.0,105.0,110.0,-113.0,92.0,110.0,202.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 71,MARRON Valentine,70.7,57.0,60.0,65.0,75.0,80.0,-85.0,65.0,80.0,145.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 71,BONNET Cindy,66.0,-57.0,-57.0,57.0,70.0,75.0,-78.0,57.0,75.0,132.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 71,POTHIN Julie,69.3,-53.0,-53.0,-53.0,65.0,-68.0,-68.0,0.0,65.0,0.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 73,SAPALLY Damien,69.8,-92.0,92.0,100.0,110.0,117.0,-122.0,100.0,117.0,217.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 73,CORNU Lorik,68.9,87.0,-91.0,92.0,105.0,-110.0,-113.0,92.0,105.0,197.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 73,ANDRIAMIRADO Jérome,72.6,-65.0,70.0,-78.0,90.0,100.0,-106.0,70.0,100.0,170.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 81,BONAQUE Cyril,80.2,85.0,-90.0,91.0,105.0,112.0,-117.0,91.0,112.0,203.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 81,GUILLOT Théo,79.7,81.0,86.0,-91.0,103.0,-106.0,-108.0,86.0,103.0,189.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 55,BOUVIER Lisa marie,54.7,35.0,-38.0,38.0,43.0,46.0,50.0,38.0,50.0,88.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 59,CAILLEAU Ophélie,57.0,57.0,62.0,-67.0,75.0,80.0,85.0,62.0,85.0,147.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 59,LOUBERE-CLAVERIE Noa,59.0,50.0,54.0,-56.0,65.0,70.0,-75.0,54.0,70.0,124.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 64,ROUX Celia,59.2,-63.0,64.0,-68.0,74.0,-78.0,-82.0,64.0,74.0,138.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 64,PINARD Agathe,63.6,57.0,-63.0,-65.0,68.0,73.0,77.0,57.0,77.0,134.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 71,ROSSARIE Jeanne,67.8,65.0,70.0,72.0,85.0,90.0,-96.0,72.0,90.0,162.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 71,LENEZ Enora,67.4,55.0,-59.0,-60.0,65.0,-70.0,72.0,55.0,72.0,127.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 71,ELIOT Diane,65.6,50.0,54.0,57.0,60.0,65.0,-70.0,57.0,65.0,122.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 71,BENCHABANE Fiona,66.1,50.0,-53.0,53.0,60.0,64.0,67.0,53.0,67.0,120.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 71,DELRIEU-SABY Elise,64.8,-37.0,40.0,44.0,-50.0,51.0,-53.0,44.0,51.0,95.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 73,SAPALLY Damien,69.8,-92.0,92.0,100.0,110.0,117.0,-122.0,100.0,117.0,217.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 73,CORNU Lorik,68.9,87.0,-91.0,92.0,105.0,-110.0,-113.0,92.0,105.0,197.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 73,ANDRIAMIRADO Jérome,72.6,-65.0,70.0,-78.0,90.0,100.0,-106.0,70.0,100.0,170.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 81,BONAQUE Cyril,80.2,85.0,-90.0,91.0,105.0,112.0,-117.0,91.0,112.0,203.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 81,GUILLOT Théo,79.7,81.0,86.0,-91.0,103.0,-106.0,-108.0,86.0,103.0,189.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 55,BOUVIER Lisa marie,54.7,35.0,-38.0,38.0,43.0,46.0,50.0,38.0,50.0,88.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 59,CAILLEAU Ophélie,57.0,57.0,62.0,-67.0,75.0,80.0,85.0,62.0,85.0,147.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 59,LOUBERE-CLAVERIE Noa,59.0,50.0,54.0,-56.0,65.0,70.0,-75.0,54.0,70.0,124.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 64,ROUX Celia,59.2,-63.0,64.0,-68.0,74.0,-78.0,-82.0,64.0,74.0,138.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 64,PINARD Agathe,63.6,57.0,-63.0,-65.0,68.0,73.0,77.0,57.0,77.0,134.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 71,ROSSARIE Jeanne,67.8,65.0,70.0,72.0,85.0,90.0,-96.0,72.0,90.0,162.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 71,LENEZ Enora,67.4,55.0,-59.0,-60.0,65.0,-70.0,72.0,55.0,72.0,127.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 71,ELIOT Diane,65.6,50.0,54.0,57.0,60.0,65.0,-70.0,57.0,65.0,122.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 71,BENCHABANE Fiona,66.1,50.0,-53.0,53.0,60.0,64.0,67.0,53.0,67.0,120.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 71,DELRIEU-SABY Elise,64.8,-37.0,40.0,44.0,-50.0,51.0,-53.0,44.0,51.0,95.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U15 Women 45,DEGEZ Florette,45.0,37.0,40.0,43.0,50.0,53.0,-56.0,43.0,53.0,96.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U17 Women 71,JONQUIERES Héloïse,70.6,40.0,44.0,47.0,55.0,-60.0,60.0,47.0,60.0,107.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 59,CAVAILLE Melina,57.9,48.0,52.0,-56.0,60.0,-65.0,65.0,52.0,65.0,117.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 59,ESCOLANO Manon,55.7,35.0,40.0,45.0,50.0,-55.0,55.0,45.0,55.0,100.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 64,SOURD Hélène,62.5,37.0,41.0,-46.0,55.0,59.0,-63.0,41.0,59.0,100.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 64,HURET Marianne,63.8,37.0,40.0,-45.0,50.0,54.0,58.0,40.0,58.0,98.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 71,YAN Emmanuelle,66.9,55.0,59.0,62.0,75.0,79.0,-82.0,62.0,79.0,141.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U17 Men 67,PAILLE-KROBB Mathys,63.8,45.0,49.0,55.0,70.0,75.0,-79.0,55.0,75.0,130.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U17 Men 73,ROUSSEL Emilien,68.4,65.0,70.0,-73.0,85.0,90.0,95.0,70.0,95.0,165.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U17 Men >102,AT Pierre-louis,111.6,57.0,62.0,66.0,70.0,75.0,80.0,66.0,80.0,146.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U20 Men 73,VINNAC Lilian,73.0,80.0,85.0,90.0,100.0,105.0,110.0,90.0,110.0,200.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U20 Men 73,GABILLAT Damien,72.0,70.0,78.0,82.0,90.0,-98.0,-98.0,82.0,90.0,172.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 67,DELPECH Remy,66.8,70.0,-75.0,75.0,90.0,95.0,100.0,75.0,100.0,175.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,YANOU KETCHANKE Jean baptiste,84.5,112.0,117.0,122.0,130.0,140.0,152.0,122.0,152.0,274.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 102,MAGDELEINE Patrice,99.7,77.0,82.0,-87.0,-100.0,105.0,-110.0,82.0,105.0,187.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U15 Women 45,DEGEZ Florette,45.0,37.0,40.0,43.0,50.0,53.0,-56.0,43.0,53.0,96.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U17 Women 71,JONQUIERES Héloïse,70.6,40.0,44.0,47.0,55.0,-60.0,60.0,47.0,60.0,107.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 59,CAVAILLE Melina,57.9,48.0,52.0,-56.0,60.0,-65.0,65.0,52.0,65.0,117.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 59,ESCOLANO Manon,55.7,35.0,40.0,45.0,50.0,-55.0,55.0,45.0,55.0,100.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 64,SOURD Hélène,62.5,37.0,41.0,-46.0,55.0,59.0,-63.0,41.0,59.0,100.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 64,HURET Marianne,63.8,37.0,40.0,-45.0,50.0,54.0,58.0,40.0,58.0,98.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 71,YAN Emmanuelle,66.9,55.0,59.0,62.0,75.0,79.0,-82.0,62.0,79.0,141.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U17 Men 67,PAILLE-KROBB Mathys,63.8,45.0,49.0,55.0,70.0,75.0,-79.0,55.0,75.0,130.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U17 Men 73,ROUSSEL Emilien,68.4,65.0,70.0,-73.0,85.0,90.0,95.0,70.0,95.0,165.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U17 Men >102,AT Pierre-louis,111.6,57.0,62.0,66.0,70.0,75.0,80.0,66.0,80.0,146.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U20 Men 73,VINNAC Lilian,73.0,80.0,85.0,90.0,100.0,105.0,110.0,90.0,110.0,200.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U20 Men 73,GABILLAT Damien,72.0,70.0,78.0,82.0,90.0,-98.0,-98.0,82.0,90.0,172.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 67,DELPECH Remy,66.8,70.0,-75.0,75.0,90.0,95.0,100.0,75.0,100.0,175.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,YANOU KETCHANKE Jean baptiste,84.5,112.0,117.0,122.0,130.0,140.0,152.0,122.0,152.0,274.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 102,MAGDELEINE Patrice,99.7,77.0,82.0,-87.0,-100.0,105.0,-110.0,82.0,105.0,187.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U17 Men 67,IAFRATE Adam,62.8,75.0,-80.0,-80.0,90.0,96.0,100.0,75.0,100.0,175.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U20 Men 73,BENNEGENT Loïc,69.1,70.0,-74.0,-74.0,90.0,95.0,97.0,70.0,97.0,167.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 61,BUCHWALTER Morgan,61.0,70.0,74.0,-76.0,90.0,94.0,-96.0,74.0,94.0,168.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 67,CHAPUIS Mathieu,61.3,65.0,70.0,-73.0,85.0,90.0,-93.0,70.0,90.0,160.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 73,MONTORIER Robin,69.6,67.0,72.0,-75.0,90.0,94.0,-96.0,72.0,94.0,166.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 73,FAURE Richard,67.3,66.0,71.0,75.0,-86.0,86.0,-92.0,75.0,86.0,161.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 73,LACROIX Guilhem,71.3,68.0,72.0,-76.0,82.0,85.0,88.0,72.0,88.0,160.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 81,LESAGE Sebastien,80.9,85.0,-93.0,-95.0,95.0,105.0,-111.0,85.0,105.0,190.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 81,GRANET Lionel,79.2,65.0,70.0,-75.0,85.0,90.0,-95.0,70.0,90.0,160.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,NICOLAS Theo,88.4,105.0,-110.0,112.0,125.0,130.0,-135.0,112.0,130.0,242.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,GAUTHIER Sébastien,88.7,95.0,102.0,107.0,110.0,123.0,130.0,107.0,130.0,237.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,CANNET Sebastien,85.3,78.0,82.0,-85.0,103.0,108.0,-113.0,82.0,108.0,190.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,SAIEB Beranger,84.2,75.0,80.0,-85.0,100.0,-110.0,-110.0,80.0,100.0,180.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,GAGET Julien,83.0,65.0,70.0,73.0,80.0,85.0,90.0,73.0,90.0,163.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,TEILLON Patrice,84.2,55.0,60.0,63.0,75.0,80.0,-85.0,63.0,80.0,143.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,BERNE Julien,82.1,-75.0,-75.0,-75.0,85.0,90.0,-100.0,0.0,90.0,0.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 96,DE LA CALLE Yoann,93.4,93.0,98.0,101.0,110.0,120.0,-125.0,101.0,120.0,221.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 96,MITU Dragos daniel,91.2,84.0,88.0,92.0,107.0,-113.0,115.0,92.0,115.0,207.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 96,PESSEY Julien,93.3,75.0,80.0,-85.0,95.0,105.0,110.0,80.0,110.0,190.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 96,REMER PALET William,89.7,55.0,60.0,65.0,70.0,-75.0,-77.0,65.0,70.0,135.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U17 Men 67,IAFRATE Adam,62.8,75.0,-80.0,-80.0,90.0,96.0,100.0,75.0,100.0,175.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U20 Men 73,BENNEGENT Loïc,69.1,70.0,-74.0,-74.0,90.0,95.0,97.0,70.0,97.0,167.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 61,BUCHWALTER Morgan,61.0,70.0,74.0,-76.0,90.0,94.0,-96.0,74.0,94.0,168.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 67,CHAPUIS Mathieu,61.3,65.0,70.0,-73.0,85.0,90.0,-93.0,70.0,90.0,160.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 73,MONTORIER Robin,69.6,67.0,72.0,-75.0,90.0,94.0,-96.0,72.0,94.0,166.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 73,FAURE Richard,67.3,66.0,71.0,75.0,-86.0,86.0,-92.0,75.0,86.0,161.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 73,LACROIX Guilhem,71.3,68.0,72.0,-76.0,82.0,85.0,88.0,72.0,88.0,160.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 81,LESAGE Sebastien,80.9,85.0,-93.0,-95.0,95.0,105.0,-111.0,85.0,105.0,190.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 81,GRANET Lionel,79.2,65.0,70.0,-75.0,85.0,90.0,-95.0,70.0,90.0,160.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,NICOLAS Theo,88.4,105.0,-110.0,112.0,125.0,130.0,-135.0,112.0,130.0,242.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,GAUTHIER Sébastien,88.7,95.0,102.0,107.0,110.0,123.0,130.0,107.0,130.0,237.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,CANNET Sebastien,85.3,78.0,82.0,-85.0,103.0,108.0,-113.0,82.0,108.0,190.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,SAIEB Beranger,84.2,75.0,80.0,-85.0,100.0,-110.0,-110.0,80.0,100.0,180.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,GAGET Julien,83.0,65.0,70.0,73.0,80.0,85.0,90.0,73.0,90.0,163.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,TEILLON Patrice,84.2,55.0,60.0,63.0,75.0,80.0,-85.0,63.0,80.0,143.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,BERNE Julien,82.1,-75.0,-75.0,-75.0,85.0,90.0,-100.0,0.0,90.0,0.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 96,DE LA CALLE Yoann,93.4,93.0,98.0,101.0,110.0,120.0,-125.0,101.0,120.0,221.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 96,MITU Dragos daniel,91.2,84.0,88.0,92.0,107.0,-113.0,115.0,92.0,115.0,207.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 96,PESSEY Julien,93.3,75.0,80.0,-85.0,95.0,105.0,110.0,80.0,110.0,190.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 96,REMER PALET William,89.7,55.0,60.0,65.0,70.0,-75.0,-77.0,65.0,70.0,135.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 81,CROSNIER Adrien,78.1,100.0,108.0,112.0,130.0,138.0,-141.0,112.0,138.0,250.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 81,MONTHULE-BIRER Théo,80.5,75.0,82.0,90.0,105.0,-110.0,112.0,90.0,112.0,202.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,LESAINT Romain,88.55,85.0,90.0,-95.0,115.0,119.0,123.0,90.0,123.0,213.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,MARINGUES Benjamin,86.35,85.0,-91.0,-91.0,107.0,114.0,-117.0,85.0,114.0,199.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 96,VAN BESIEN Arthur,90.3,80.0,-85.0,85.0,100.0,105.0,-112.0,85.0,105.0,190.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 81,CROSNIER Adrien,78.1,100.0,108.0,112.0,130.0,138.0,-141.0,112.0,138.0,250.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 81,MONTHULE-BIRER Théo,80.5,75.0,82.0,90.0,105.0,-110.0,112.0,90.0,112.0,202.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,LESAINT Romain,88.55,85.0,90.0,-95.0,115.0,119.0,123.0,90.0,123.0,213.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,MARINGUES Benjamin,86.35,85.0,-91.0,-91.0,107.0,114.0,-117.0,85.0,114.0,199.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 96,VAN BESIEN Arthur,90.3,80.0,-85.0,85.0,100.0,105.0,-112.0,85.0,105.0,190.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U17 Women 76,CIANCIO Lisea,74.2,-59.0,60.0,63.0,70.0,75.0,80.0,63.0,80.0,143.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 55,CADONI Perrine,50.6,-48.0,48.0,51.0,55.0,60.0,70.0,51.0,70.0,121.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 59,LENY Apolline,58.7,48.0,-52.0,-55.0,63.0,68.0,-72.0,48.0,68.0,116.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 71,MALET Marion,64.6,-53.0,53.0,56.0,71.0,75.0,77.0,56.0,77.0,133.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 76,THIOLLIER Zoe,74.4,50.0,55.0,58.0,70.0,73.0,76.0,58.0,76.0,134.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 81,BENOIT Zoe,80.4,37.0,40.0,43.0,44.0,48.0,51.0,43.0,51.0,94.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U20 Men 67,L'ESPRIT Gabin,64.0,-70.0,73.0,78.0,90.0,95.0,-100.0,78.0,95.0,173.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 73,MILOSEVIC Yvan - alexis,72.3,85.0,92.0,93.0,105.0,112.0,120.0,93.0,120.0,213.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 73,VALLEIX Fabrice,71.7,45.0,48.0,53.0,60.0,64.0,-70.0,53.0,64.0,117.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 81,BOUCHERES Simon,75.2,90.0,100.0,110.0,130.0,-140.0,-140.0,110.0,130.0,240.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 81,BOUTELEUX Jordan,80.8,75.0,80.0,85.0,95.0,102.0,110.0,85.0,110.0,195.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,ASTRUC Nicolas,84.6,72.0,76.0,80.0,95.0,100.0,-105.0,80.0,100.0,180.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 96,BOULINGUEZ Maxime,91.0,100.0,110.0,116.0,135.0,-145.0,-147.0,116.0,135.0,251.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 102,BLUM Pierre,101.3,88.0,-92.0,92.0,105.0,110.0,-115.0,92.0,110.0,202.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U17 Women 76,CIANCIO Lisea,74.2,-59.0,60.0,63.0,70.0,75.0,80.0,63.0,80.0,143.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 55,CADONI Perrine,50.6,-48.0,48.0,51.0,55.0,60.0,70.0,51.0,70.0,121.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 59,LENY Apolline,58.7,48.0,-52.0,-55.0,63.0,68.0,-72.0,48.0,68.0,116.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 71,MALET Marion,64.6,-53.0,53.0,56.0,71.0,75.0,77.0,56.0,77.0,133.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 76,THIOLLIER Zoe,74.4,50.0,55.0,58.0,70.0,73.0,76.0,58.0,76.0,134.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 81,BENOIT Zoe,80.4,37.0,40.0,43.0,44.0,48.0,51.0,43.0,51.0,94.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U20 Men 67,L'ESPRIT Gabin,64.0,-70.0,73.0,78.0,90.0,95.0,-100.0,78.0,95.0,173.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 73,MILOSEVIC Yvan - alexis,72.3,85.0,92.0,93.0,105.0,112.0,120.0,93.0,120.0,213.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 73,VALLEIX Fabrice,71.7,45.0,48.0,53.0,60.0,64.0,-70.0,53.0,64.0,117.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 81,BOUCHERES Simon,75.2,90.0,100.0,110.0,130.0,-140.0,-140.0,110.0,130.0,240.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 81,BOUTELEUX Jordan,80.8,75.0,80.0,85.0,95.0,102.0,110.0,85.0,110.0,195.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,ASTRUC Nicolas,84.6,72.0,76.0,80.0,95.0,100.0,-105.0,80.0,100.0,180.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 96,BOULINGUEZ Maxime,91.0,100.0,110.0,116.0,135.0,-145.0,-147.0,116.0,135.0,251.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 102,BLUM Pierre,101.3,88.0,-92.0,92.0,105.0,110.0,-115.0,92.0,110.0,202.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U15 Women 45,MOREL Maud,40.45,17.0,19.0,21.0,23.0,26.0,28.0,21.0,28.0,49.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U17 Women 71,IAFRATE Sara,64.2,68.0,72.0,75.0,88.0,93.0,-98.0,75.0,93.0,168.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U20 Women 55,HUGONNIER Lea,51.5,30.0,34.0,-38.0,40.0,-44.0,-44.0,34.0,40.0,74.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 55,VALLUCHE Sandra,49.8,59.0,-62.0,62.0,70.0,75.0,-78.0,62.0,75.0,137.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 55,BOYER Lucille,50.3,38.0,-41.0,-41.0,46.0,49.0,-51.0,38.0,49.0,87.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 59,MOUNIER Camille,57.8,63.0,-67.0,-68.0,75.0,78.0,81.0,63.0,81.0,144.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 59,KYRIAKIDES Alexia,56.4,50.0,53.0,55.0,61.0,64.0,66.0,55.0,66.0,121.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 59,VATINEL Anais,58.7,45.0,48.0,50.0,58.0,-61.0,-61.0,50.0,58.0,108.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 64,KHERRAF Chloe,61.5,52.0,55.0,-58.0,65.0,70.0,-72.0,55.0,70.0,125.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 64,BERLAND Lucie,61.7,40.0,43.0,46.0,55.0,60.0,-63.0,46.0,60.0,106.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 71,ROUSSEY Justine,64.4,45.0,50.0,-53.0,60.0,65.0,68.0,50.0,68.0,118.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 76,GUILLOT Clara,73.2,60.0,-67.0,-67.0,-75.0,75.0,-80.0,60.0,75.0,135.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 76,MASSU Juliette,76.0,-59.0,-59.0,60.0,-68.0,-68.0,-68.0,60.0,0.0,0.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U15 Women 45,MOREL Maud,40.45,17.0,19.0,21.0,23.0,26.0,28.0,21.0,28.0,49.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U17 Women 71,IAFRATE Sara,64.2,68.0,72.0,75.0,88.0,93.0,-98.0,75.0,93.0,168.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U20 Women 55,HUGONNIER Lea,51.5,30.0,34.0,-38.0,40.0,-44.0,-44.0,34.0,40.0,74.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 55,VALLUCHE Sandra,49.8,59.0,-62.0,62.0,70.0,75.0,-78.0,62.0,75.0,137.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 55,BOYER Lucille,50.3,38.0,-41.0,-41.0,46.0,49.0,-51.0,38.0,49.0,87.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 59,MOUNIER Camille,57.8,63.0,-67.0,-68.0,75.0,78.0,81.0,63.0,81.0,144.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 59,KYRIAKIDES Alexia,56.4,50.0,53.0,55.0,61.0,64.0,66.0,55.0,66.0,121.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 59,VATINEL Anais,58.7,45.0,48.0,50.0,58.0,-61.0,-61.0,50.0,58.0,108.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 64,KHERRAF Chloe,61.5,52.0,55.0,-58.0,65.0,70.0,-72.0,55.0,70.0,125.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 64,BERLAND Lucie,61.7,40.0,43.0,46.0,55.0,60.0,-63.0,46.0,60.0,106.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 71,ROUSSEY Justine,64.4,45.0,50.0,-53.0,60.0,65.0,68.0,50.0,68.0,118.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 76,GUILLOT Clara,73.2,60.0,-67.0,-67.0,-75.0,75.0,-80.0,60.0,75.0,135.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Women 76,MASSU Juliette,76.0,-59.0,-59.0,60.0,-68.0,-68.0,-68.0,60.0,0.0,0.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 81,COUTANT Nolan,78.35,90.0,95.0,100.0,110.0,115.0,120.0,100.0,120.0,220.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 81,DUVERT Samuel,79.95,91.0,97.0,-102.0,111.0,-118.0,121.0,97.0,121.0,218.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,BOUYER Romain,84.7,100.0,105.0,-110.0,125.0,130.0,-134.0,105.0,130.0,235.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,MABIRE LA CAILLE Jocelyn,81.6,92.0,97.0,-102.0,105.0,110.0,-115.0,97.0,110.0,207.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 109,POTIER Pierre,102.95,-95.0,95.0,103.0,115.0,122.0,127.0,103.0,127.0,230.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 81,COUTANT Nolan,78.35,90.0,95.0,100.0,110.0,115.0,120.0,100.0,120.0,220.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 81,DUVERT Samuel,79.95,91.0,97.0,-102.0,111.0,-118.0,121.0,97.0,121.0,218.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,BOUYER Romain,84.7,100.0,105.0,-110.0,125.0,130.0,-134.0,105.0,130.0,235.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,MABIRE LA CAILLE Jocelyn,81.6,92.0,97.0,-102.0,105.0,110.0,-115.0,97.0,110.0,207.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 109,POTIER Pierre,102.95,-95.0,95.0,103.0,115.0,122.0,127.0,103.0,127.0,230.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U17 Men 89,ROGUET Thomas,81.1,-80.0,80.0,-83.0,98.0,103.0,106.0,80.0,106.0,186.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U20 Men 89,TERRIER Killian,82.0,100.0,105.0,110.0,123.0,127.0,-135.0,110.0,127.0,237.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 73,QUINIOU Maxime,71.1,73.0,77.0,80.0,100.0,105.0,-107.0,80.0,105.0,185.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 81,COGNON Jonathan,78.6,103.0,107.0,-111.0,130.0,-135.0,135.0,107.0,135.0,242.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 81,COGNON Theo,75.7,100.0,105.0,110.0,130.0,-135.0,-135.0,110.0,130.0,240.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 81,MERCIER Jean,78.3,85.0,90.0,95.0,125.0,-130.0,130.0,95.0,130.0,225.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 81,MERIGOT Aurelien,76.2,65.0,70.0,-75.0,91.0,95.0,-100.0,70.0,95.0,165.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 96,MARTOS Nathan,94.2,80.0,90.0,-94.0,110.0,-117.0,-117.0,90.0,110.0,200.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 102,DUCHEMANE Nelson,101.5,85.0,90.0,95.0,115.0,120.0,125.0,95.0,125.0,220.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U17 Men 89,ROGUET Thomas,81.1,-80.0,80.0,-83.0,98.0,103.0,106.0,80.0,106.0,186.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,U20 Men 89,TERRIER Killian,82.0,100.0,105.0,110.0,123.0,127.0,-135.0,110.0,127.0,237.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 73,QUINIOU Maxime,71.1,73.0,77.0,80.0,100.0,105.0,-107.0,80.0,105.0,185.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 81,COGNON Jonathan,78.6,103.0,107.0,-111.0,130.0,-135.0,135.0,107.0,135.0,242.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 81,COGNON Theo,75.7,100.0,105.0,110.0,130.0,-135.0,-135.0,110.0,130.0,240.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 81,MERCIER Jean,78.3,85.0,90.0,95.0,125.0,-130.0,130.0,95.0,130.0,225.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 81,MERIGOT Aurelien,76.2,65.0,70.0,-75.0,91.0,95.0,-100.0,70.0,95.0,165.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 96,MARTOS Nathan,94.2,80.0,90.0,-94.0,110.0,-117.0,-117.0,90.0,110.0,200.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 102,DUCHEMANE Nelson,101.5,85.0,90.0,95.0,115.0,120.0,125.0,95.0,125.0,220.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 67,PALATIN Jules,64.2,70.0,-76.0,-76.0,88.0,-0.0,-0.0,70.0,88.0,158.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 73,MANSON-BAZEILLE Quentin,71.1,70.0,75.0,-80.0,90.0,95.0,-100.0,75.0,95.0,170.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 81,LECANNELLIER Paul,78.0,78.0,82.0,-85.0,105.0,112.0,-115.0,82.0,112.0,194.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 81,FENART Adrien,80.9,70.0,77.0,-82.0,100.0,105.0,-110.0,77.0,105.0,182.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,AVETISYAN Norayr,87.7,115.0,125.0,130.0,155.0,-165.0,-170.0,130.0,155.0,285.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,RENAUD Adonis,85.6,91.0,96.0,100.0,110.0,115.0,-120.0,100.0,115.0,215.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,LORMIER Quentin,88.1,90.0,95.0,-100.0,-105.0,-105.0,105.0,95.0,105.0,200.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,PATINO FLORES Francisco,83.0,-75.0,75.0,81.0,100.0,105.0,-110.0,81.0,105.0,186.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,FERNAND Sébastien,81.2,70.0,-74.0,74.0,92.0,-97.0,99.0,74.0,99.0,173.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 102,VALLET Richard,99.7,82.0,86.0,88.0,114.0,119.0,122.0,88.0,122.0,210.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 67,PALATIN Jules,64.2,70.0,-76.0,-76.0,88.0,-0.0,-0.0,70.0,88.0,158.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 73,MANSON-BAZEILLE Quentin,71.1,70.0,75.0,-80.0,90.0,95.0,-100.0,75.0,95.0,170.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 81,LECANNELLIER Paul,78.0,78.0,82.0,-85.0,105.0,112.0,-115.0,82.0,112.0,194.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 81,FENART Adrien,80.9,70.0,77.0,-82.0,100.0,105.0,-110.0,77.0,105.0,182.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,AVETISYAN Norayr,87.7,115.0,125.0,130.0,155.0,-165.0,-170.0,130.0,155.0,285.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,RENAUD Adonis,85.6,91.0,96.0,100.0,110.0,115.0,-120.0,100.0,115.0,215.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,LORMIER Quentin,88.1,90.0,95.0,-100.0,-105.0,-105.0,105.0,95.0,105.0,200.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,PATINO FLORES Francisco,83.0,-75.0,75.0,81.0,100.0,105.0,-110.0,81.0,105.0,186.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 89,FERNAND Sébastien,81.2,70.0,-74.0,74.0,92.0,-97.0,99.0,74.0,99.0,173.0
+AURA - REG 1 - St baldoph - 1ere journéee AURA,2022-10-08,SEN Men 102,VALLET Richard,99.7,82.0,86.0,88.0,114.0,119.0,122.0,88.0,122.0,210.0

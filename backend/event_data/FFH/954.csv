@@ -1,2 +1,28 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-NAQ - ELEIKO Tournoi de France 3.0,2021-06-19,U20 Men 89,KOCHETOV Makariy,84.2,120.0,125.0,130.0,150.0,155.0,160.0,130.0,160.0,290.0
+BFC - 1er Challenge Avenir - dpt 70,2021-11-03,U10 Women ,DURIC Ema,29.7,15.0,17.0,-19.0,18.0,20.0,22.0,17.0,22.0,39.0
+BFC - 1er Challenge Avenir - dpt 70,2021-11-03,U10 Women ,AUBRY Leena,27.8,6.0,8.0,10.0,8.0,10.0,12.0,10.0,12.0,22.0
+BFC - 1er Challenge Avenir - dpt 70,2021-11-03,U13 Women 59,AUBRY Elyne,58.3,23.0,25.0,-27.0,30.0,32.0,34.0,25.0,34.0,59.0
+BFC - 1er Challenge Avenir - dpt 70,2021-11-03,U15 Women 64,PIETROSANTE Channel,63.8,27.0,30.0,-33.0,-35.0,35.0,-38.0,30.0,35.0,65.0
+BFC - 1er Challenge Avenir - dpt 70,2021-11-03,U20 Women 49,ROY Chloe,47.8,20.0,-23.0,23.0,27.0,30.0,-33.0,23.0,30.0,53.0
+BFC - 1er Challenge Avenir - dpt 70,2021-11-03,U20 Women 76,FERREIRA ROLO Mathilde,73.0,37.0,40.0,-43.0,50.0,-55.0,55.0,40.0,55.0,95.0
+BFC - 1er Challenge Avenir - dpt 70,2021-11-03,U15 Women 64,PIETROSANTE Channel,63.8,27.0,30.0,-33.0,-35.0,35.0,-38.0,30.0,35.0,65.0
+BFC - 1er Challenge Avenir - dpt 70,2021-11-03,U20 Women 49,ROY Chloe,47.8,20.0,-23.0,23.0,27.0,30.0,-33.0,23.0,30.0,53.0
+BFC - 1er Challenge Avenir - dpt 70,2021-11-03,U20 Women 76,FERREIRA ROLO Mathilde,73.0,37.0,40.0,-43.0,50.0,-55.0,55.0,40.0,55.0,95.0
+BFC - 1er Challenge Avenir - dpt 70,2021-11-03,U15 Men 67,BOUCQ Titouan,61.7,18.0,20.0,23.0,28.0,30.0,-32.0,23.0,30.0,53.0
+BFC - 1er Challenge Avenir - dpt 70,2021-11-03,U15 Men 81,SEILER Aymeric,76.3,38.0,40.0,-43.0,45.0,48.0,50.0,40.0,50.0,90.0
+BFC - 1er Challenge Avenir - dpt 70,2021-11-03,U17 Men 96,SEILER Lucas,95.9,50.0,-55.0,55.0,68.0,70.0,73.0,55.0,73.0,128.0
+BFC - 1er Challenge Avenir - dpt 70,2021-11-03,U17 Men 102,DEMURGER Axel,100.5,30.0,35.0,38.0,45.0,-50.0,-50.0,38.0,45.0,83.0
+BFC - 1er Challenge Avenir - dpt 70,2021-11-03,U20 Men 67,GROSJEAN Remi,66.85,55.0,60.0,-65.0,70.0,75.0,-80.0,60.0,75.0,135.0
+BFC - 1er Challenge Avenir - dpt 70,2021-11-03,U20 Men 81,POUTOT Julien,76.5,55.0,-60.0,60.0,65.0,-70.0,-70.0,60.0,65.0,125.0
+BFC - 1er Challenge Avenir - dpt 70,2021-11-03,SEN Men 67,LANCELLOTTI--ROITEL Victor,66.2,80.0,84.0,-87.0,90.0,-95.0,95.0,84.0,95.0,179.0
+BFC - 1er Challenge Avenir - dpt 70,2021-11-03,SEN Men 81,VETTOREL Aubin,78.6,-75.0,75.0,-78.0,85.0,-90.0,-90.0,75.0,85.0,160.0
+BFC - 1er Challenge Avenir - dpt 70,2021-11-03,SEN Men 96,DREIDEMY Victor,94.0,70.0,-75.0,75.0,-90.0,90.0,-95.0,75.0,90.0,165.0
+BFC - 1er Challenge Avenir - dpt 70,2021-11-03,U15 Men 67,BOUCQ Titouan,61.7,18.0,20.0,23.0,28.0,30.0,-32.0,23.0,30.0,53.0
+BFC - 1er Challenge Avenir - dpt 70,2021-11-03,U15 Men 81,SEILER Aymeric,76.3,38.0,40.0,-43.0,45.0,48.0,50.0,40.0,50.0,90.0
+BFC - 1er Challenge Avenir - dpt 70,2021-11-03,U17 Men 96,SEILER Lucas,95.9,50.0,-55.0,55.0,68.0,70.0,73.0,55.0,73.0,128.0
+BFC - 1er Challenge Avenir - dpt 70,2021-11-03,U17 Men 102,DEMURGER Axel,100.5,30.0,35.0,38.0,45.0,-50.0,-50.0,38.0,45.0,83.0
+BFC - 1er Challenge Avenir - dpt 70,2021-11-03,U20 Men 67,GROSJEAN Remi,66.85,55.0,60.0,-65.0,70.0,75.0,-80.0,60.0,75.0,135.0
+BFC - 1er Challenge Avenir - dpt 70,2021-11-03,U20 Men 81,POUTOT Julien,76.5,55.0,-60.0,60.0,65.0,-70.0,-70.0,60.0,65.0,125.0
+BFC - 1er Challenge Avenir - dpt 70,2021-11-03,SEN Men 67,LANCELLOTTI--ROITEL Victor,66.2,80.0,84.0,-87.0,90.0,-95.0,95.0,84.0,95.0,179.0
+BFC - 1er Challenge Avenir - dpt 70,2021-11-03,SEN Men 81,VETTOREL Aubin,78.6,-75.0,75.0,-78.0,85.0,-90.0,-90.0,75.0,85.0,160.0
+BFC - 1er Challenge Avenir - dpt 70,2021-11-03,SEN Men 96,DREIDEMY Victor,94.0,70.0,-75.0,75.0,-90.0,90.0,-95.0,75.0,90.0,165.0

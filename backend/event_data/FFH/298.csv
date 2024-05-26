@@ -1,8 +1,52 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-GE - FFSU - académie Strasbourg,2020-02-20,U20 Men 61,SUTTER Victor,59.9,25.0,30.0,-35.0,40.0,45.0,-50.0,30.0,45.0,75.0
-GE - FFSU - académie Strasbourg,2020-02-20,SEN Men 73,CUVILLIER Valentin,71.8,105.0,111.0,-117.0,126.0,133.0,140.0,111.0,140.0,251.0
-GE - FFSU - académie Strasbourg,2020-02-20,SEN Men 73,ARBOGAST Vincent,71.8,95.0,-101.0,105.0,115.0,122.0,-127.0,105.0,122.0,227.0
-GE - FFSU - académie Strasbourg,2020-02-20,SEN Men 81,BONNAMANT Bastien,79.3,105.0,112.0,-120.0,140.0,148.0,154.0,112.0,154.0,266.0
-GE - FFSU - académie Strasbourg,2020-02-20,SEN Men 81,TAUVALE Vinceslas,79.5,75.0,80.0,85.0,105.0,110.0,115.0,85.0,115.0,200.0
-GE - FFSU - académie Strasbourg,2020-02-20,U20 Women 55,MELELLI Sarah,52.9,33.0,35.0,37.0,44.0,-47.0,50.0,37.0,50.0,87.0
-GE - FFSU - académie Strasbourg,2020-02-20,SEN Women 59,WIETRICH Marion,57.7,33.0,36.0,38.0,48.0,52.0,56.0,38.0,56.0,94.0
+PDL - Tournoi Exterieur,2021-05-29,U10 Women ,LOPES Amandine,40.3,6.0,7.0,8.0,7.0,8.0,9.0,8.0,9.0,17.0
+PDL - Tournoi Exterieur,2021-05-29,U13 Women 40,FERRAND COGNON Lyna,38.58,12.0,14.0,16.0,16.0,18.0,20.0,16.0,20.0,36.0
+PDL - Tournoi Exterieur,2021-05-29,U13 Women >71,GLASSIER Barbara,79.25,20.0,21.0,22.0,24.0,25.0,26.0,22.0,26.0,48.0
+PDL - Tournoi Exterieur,2021-05-29,U13 Men 55,PIRIOU Yundy,50.0,27.0,-29.0,29.0,38.0,40.0,42.0,29.0,42.0,71.0
+PDL - Tournoi Exterieur,2021-05-29,U13 Men 55,BARBASTRO Maxime,50.3,10.0,11.0,12.0,12.0,14.0,15.0,12.0,15.0,27.0
+PDL - Tournoi Exterieur,2021-05-29,U13 Men 73,PAGANO Lenny,73.0,23.0,25.0,27.0,32.0,34.0,36.0,27.0,36.0,63.0
+PDL - Tournoi Exterieur,2021-05-29,U13 Men 73,PICHON Nolan,69.7,16.0,18.0,20.0,20.0,22.0,24.0,20.0,24.0,44.0
+PDL - Tournoi Exterieur,2021-05-29,U15 Women 59,MENARD Elia,56.6,23.0,26.0,30.0,30.0,40.0,-45.0,30.0,40.0,70.0
+PDL - Tournoi Exterieur,2021-05-29,U17 Women 64,CADIEU Anais,59.8,40.0,43.0,45.0,50.0,53.0,55.0,45.0,55.0,100.0
+PDL - Tournoi Exterieur,2021-05-29,U17 Women 71,HAMARD Zelie,70.0,35.0,37.0,38.0,-45.0,-45.0,45.0,38.0,45.0,83.0
+PDL - Tournoi Exterieur,2021-05-29,U20 Women 64,ILCHUK Kateryna,59.72,33.0,37.0,43.0,50.0,-56.0,60.0,43.0,60.0,103.0
+PDL - Tournoi Exterieur,2021-05-29,SEN Women 49,PROUSTEAU Anais,48.56,54.0,-58.0,-62.0,65.0,-69.0,69.0,54.0,69.0,123.0
+PDL - Tournoi Exterieur,2021-05-29,SEN Women 64,COHELEAC'H Gwennan,61.16,25.0,28.0,-31.0,32.0,35.0,38.0,28.0,38.0,66.0
+PDL - Tournoi Exterieur,2021-05-29,SEN Women 71,COGNON Sonia,69.8,62.0,65.0,67.0,80.0,-82.0,82.0,67.0,82.0,149.0
+PDL - Tournoi Exterieur,2021-05-29,SEN Women 71,CUSSON Roxane,65.97,63.0,-70.0,-70.0,75.0,80.0,82.0,63.0,82.0,145.0
+PDL - Tournoi Exterieur,2021-05-29,SEN Women 71,BOUYER Alexia,66.9,54.0,58.0,-62.0,68.0,-72.0,-73.0,58.0,68.0,126.0
+PDL - Tournoi Exterieur,2021-05-29,SEN Women 76,COGNON Charlene,75.13,43.0,45.0,47.0,50.0,54.0,-57.0,47.0,54.0,101.0
+PDL - Tournoi Exterieur,2021-05-29,SEN Women 87,POGU Fanny,83.0,40.0,45.0,-48.0,48.0,52.0,-58.0,45.0,52.0,97.0
+PDL - Tournoi Exterieur,2021-05-29,U15 Women 59,MENARD Elia,56.6,23.0,26.0,30.0,30.0,40.0,-45.0,30.0,40.0,70.0
+PDL - Tournoi Exterieur,2021-05-29,U17 Women 64,CADIEU Anais,59.8,40.0,43.0,45.0,50.0,53.0,55.0,45.0,55.0,100.0
+PDL - Tournoi Exterieur,2021-05-29,U17 Women 71,HAMARD Zelie,70.0,35.0,37.0,38.0,-45.0,-45.0,45.0,38.0,45.0,83.0
+PDL - Tournoi Exterieur,2021-05-29,U20 Women 64,ILCHUK Kateryna,59.72,33.0,37.0,43.0,50.0,-56.0,60.0,43.0,60.0,103.0
+PDL - Tournoi Exterieur,2021-05-29,SEN Women 49,PROUSTEAU Anais,48.56,54.0,-58.0,-62.0,65.0,-69.0,69.0,54.0,69.0,123.0
+PDL - Tournoi Exterieur,2021-05-29,SEN Women 64,COHELEAC'H Gwennan,61.16,25.0,28.0,-31.0,32.0,35.0,38.0,28.0,38.0,66.0
+PDL - Tournoi Exterieur,2021-05-29,SEN Women 71,COGNON Sonia,69.8,62.0,65.0,67.0,80.0,-82.0,82.0,67.0,82.0,149.0
+PDL - Tournoi Exterieur,2021-05-29,SEN Women 71,CUSSON Roxane,65.97,63.0,-70.0,-70.0,75.0,80.0,82.0,63.0,82.0,145.0
+PDL - Tournoi Exterieur,2021-05-29,SEN Women 71,BOUYER Alexia,66.9,54.0,58.0,-62.0,68.0,-72.0,-73.0,58.0,68.0,126.0
+PDL - Tournoi Exterieur,2021-05-29,SEN Women 76,COGNON Charlene,75.13,43.0,45.0,47.0,50.0,54.0,-57.0,47.0,54.0,101.0
+PDL - Tournoi Exterieur,2021-05-29,SEN Women 87,POGU Fanny,83.0,40.0,45.0,-48.0,48.0,52.0,-58.0,45.0,52.0,97.0
+PDL - Tournoi Exterieur,2021-05-29,U15 Men 49,NIVET DOUET Argan,49.0,25.0,32.0,-40.0,40.0,45.0,50.0,32.0,50.0,82.0
+PDL - Tournoi Exterieur,2021-05-29,U15 Men 49,COTTEREAU Hugo,40.0,28.0,30.0,32.0,38.0,40.0,42.0,32.0,42.0,74.0
+PDL - Tournoi Exterieur,2021-05-29,U15 Men 61,PICHON Timothée,57.8,18.0,21.0,23.0,26.0,28.0,30.0,23.0,30.0,53.0
+PDL - Tournoi Exterieur,2021-05-29,U15 Men 81,DOS SANTOS Tiago,78.4,40.0,50.0,55.0,57.0,65.0,70.0,55.0,70.0,125.0
+PDL - Tournoi Exterieur,2021-05-29,U20 Men 61,CADIEU Clement,57.4,75.0,78.0,80.0,85.0,88.0,90.0,80.0,90.0,170.0
+PDL - Tournoi Exterieur,2021-05-29,SEN Men 73,GUINOBERT Fabien,71.0,55.0,60.0,-63.0,70.0,76.0,82.0,60.0,82.0,142.0
+PDL - Tournoi Exterieur,2021-05-29,SEN Men 81,HOLDERBAUM Teddy,79.7,60.0,63.0,66.0,90.0,-95.0,97.0,66.0,97.0,163.0
+PDL - Tournoi Exterieur,2021-05-29,SEN Men 89,BOUYER Romain,86.6,100.0,105.0,112.0,128.0,-133.0,-135.0,112.0,128.0,240.0
+PDL - Tournoi Exterieur,2021-05-29,SEN Men 89,DORIDOT Fabrice,86.0,55.0,58.0,60.0,75.0,-78.0,79.0,60.0,79.0,139.0
+PDL - Tournoi Exterieur,2021-05-29,SEN Men 102,ROBIN Damien,101.6,105.0,110.0,-115.0,135.0,-145.0,-145.0,110.0,135.0,245.0
+PDL - Tournoi Exterieur,2021-05-29,SEN Men 109,JEANNETTE Olivier,103.8,80.0,-85.0,85.0,110.0,115.0,120.0,85.0,120.0,205.0
+PDL - Tournoi Exterieur,2021-05-29,U15 Men 49,NIVET DOUET Argan,49.0,25.0,32.0,-40.0,40.0,45.0,50.0,32.0,50.0,82.0
+PDL - Tournoi Exterieur,2021-05-29,U15 Men 49,COTTEREAU Hugo,40.0,28.0,30.0,32.0,38.0,40.0,42.0,32.0,42.0,74.0
+PDL - Tournoi Exterieur,2021-05-29,U15 Men 61,PICHON Timothée,57.8,18.0,21.0,23.0,26.0,28.0,30.0,23.0,30.0,53.0
+PDL - Tournoi Exterieur,2021-05-29,U15 Men 81,DOS SANTOS Tiago,78.4,40.0,50.0,55.0,57.0,65.0,70.0,55.0,70.0,125.0
+PDL - Tournoi Exterieur,2021-05-29,U20 Men 61,CADIEU Clement,57.4,75.0,78.0,80.0,85.0,88.0,90.0,80.0,90.0,170.0
+PDL - Tournoi Exterieur,2021-05-29,SEN Men 73,GUINOBERT Fabien,71.0,55.0,60.0,-63.0,70.0,76.0,82.0,60.0,82.0,142.0
+PDL - Tournoi Exterieur,2021-05-29,SEN Men 81,HOLDERBAUM Teddy,79.7,60.0,63.0,66.0,90.0,-95.0,97.0,66.0,97.0,163.0
+PDL - Tournoi Exterieur,2021-05-29,SEN Men 89,BOUYER Romain,86.6,100.0,105.0,112.0,128.0,-133.0,-135.0,112.0,128.0,240.0
+PDL - Tournoi Exterieur,2021-05-29,SEN Men 89,DORIDOT Fabrice,86.0,55.0,58.0,60.0,75.0,-78.0,79.0,60.0,79.0,139.0
+PDL - Tournoi Exterieur,2021-05-29,SEN Men 102,ROBIN Damien,101.6,105.0,110.0,-115.0,135.0,-145.0,-145.0,110.0,135.0,245.0
+PDL - Tournoi Exterieur,2021-05-29,SEN Men 109,JEANNETTE Olivier,103.8,80.0,-85.0,85.0,110.0,115.0,120.0,85.0,120.0,205.0

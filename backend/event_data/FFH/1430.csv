@@ -1,13 +1,346 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-AURA - Champ de France Masters,2021-10-09,W35 Women 55,DURIS Laetitia,54.0,32.0,35.0,37.0,40.0,45.0,48.0,37.0,48.0,85.0
-AURA - Champ de France Masters,2021-10-09,W35 Women 55,ESTABLET Eva,54.6,30.0,33.0,-35.0,40.0,44.0,46.0,33.0,46.0,79.0
-AURA - Champ de France Masters,2021-10-09,W35 Women 71,CELLETTE Jenny,69.5,67.0,-71.0,-73.0,75.0,80.0,85.0,67.0,85.0,152.0
-AURA - Champ de France Masters,2021-10-09,W35 Women 76,FORBES Nicole,75.0,60.0,-63.0,65.0,80.0,85.0,-90.0,65.0,85.0,150.0
-AURA - Champ de France Masters,2021-10-09,W35 Women 76,VALEGEAS Alexandra,74.5,40.0,42.0,-44.0,50.0,-55.0,-55.0,42.0,50.0,92.0
-AURA - Champ de France Masters,2021-10-09,W40 Women 59,GHERARDI Anne sophie,57.7,52.0,55.0,57.0,70.0,-73.0,-73.0,57.0,70.0,127.0
-AURA - Champ de France Masters,2021-10-09,W40 Women 59,SAVIN DE LARCLAUSE Cecile,58.6,-48.0,-48.0,48.0,-60.0,60.0,-62.0,48.0,60.0,108.0
-AURA - Champ de France Masters,2021-10-09,W40 Women 64,GAY Emmanuelle,62.8,52.0,55.0,59.0,72.0,-75.0,-75.0,59.0,72.0,131.0
-AURA - Champ de France Masters,2021-10-09,W45 Women 64,VERDY Virginie,63.1,40.0,42.0,-44.0,55.0,57.0,-62.0,42.0,57.0,99.0
-AURA - Champ de France Masters,2021-10-09,W50 Women 55,LYAUDET INABNIT Chrystel,52.7,37.0,40.0,42.0,45.0,50.0,-52.0,42.0,50.0,92.0
-AURA - Champ de France Masters,2021-10-09,W50 Women 55,VALEMBOIS FRANCA Fabienne,53.1,28.0,32.0,34.0,40.0,44.0,46.0,34.0,46.0,80.0
-AURA - Champ de France Masters,2021-10-09,W50 Women 59,MAHIER Francoise,58.4,40.0,-45.0,45.0,55.0,60.0,65.0,45.0,65.0,110.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U15 Men 67,MILLE Adam,63.5,47.0,50.0,52.0,55.0,58.0,61.0,52.0,61.0,113.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U20 Men 73,JUREK Marcel,69.65,78.0,-85.0,87.0,100.0,-110.0,-110.0,87.0,100.0,187.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U20 Men 81,PATOURAUX Esteban,79.65,87.0,92.0,96.0,110.0,115.0,119.0,96.0,119.0,215.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U20 Men 81,BEY Zelian,78.7,65.0,70.0,-73.0,86.0,91.0,101.0,70.0,101.0,171.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 61,DUTILLEUL Stephane,60.8,70.0,77.0,-85.0,95.0,102.0,-110.0,77.0,102.0,179.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 61,FERRER MARTINEZ Jan,59.95,70.0,-75.0,-75.0,90.0,-95.0,-95.0,70.0,90.0,160.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 67,PENNACCHIONI Alexandre,66.95,63.0,66.0,-68.0,80.0,-85.0,-85.0,66.0,80.0,146.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 73,DEVOTI Benoit,72.4,-86.0,86.0,-93.0,104.0,109.0,-112.0,86.0,109.0,195.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 73,GAY Maxime,71.0,82.0,-87.0,-88.0,110.0,-116.0,-117.0,82.0,110.0,192.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 73,PEREZ Sébastien,71.25,-75.0,79.0,-86.0,95.0,101.0,-106.0,79.0,101.0,180.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 81,MELGRANI Thibaut,80.45,80.0,84.0,-90.0,110.0,-115.0,-120.0,84.0,110.0,194.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 81,BOUCHERF Lois,76.0,68.0,-71.0,-71.0,86.0,-90.0,90.0,68.0,90.0,158.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 89,MENU Geoffrey,88.6,105.0,110.0,116.0,135.0,141.0,-150.0,116.0,141.0,257.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 89,FLOIRAS Florian,86.45,-100.0,100.0,110.0,-130.0,130.0,140.0,110.0,140.0,250.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 89,FAGOTHEY Theo,87.5,-93.0,-93.0,93.0,120.0,-125.0,-125.0,93.0,120.0,213.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 89,FERRIER Maxime,88.7,-80.0,85.0,92.0,110.0,115.0,-120.0,92.0,115.0,207.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 89,ZAPHIRATO Dimitri,86.5,80.0,85.0,-90.0,105.0,110.0,-115.0,85.0,110.0,195.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 89,MOULIS Franck,86.1,80.0,-90.0,-90.0,100.0,-110.0,-110.0,80.0,100.0,180.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 102,AMBS Florestan,101.1,90.0,95.0,-100.0,105.0,-115.0,-115.0,95.0,105.0,200.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U10 Women ,MATAM MATAM Rebecca marguerite,34.0,15.0,17.0,19.0,15.0,17.0,19.0,19.0,19.0,38.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U13 Women 35,CARETTI Candice,34.7,14.0,16.0,18.0,18.0,20.0,22.0,18.0,22.0,40.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U13 Women 45,BAUD Tina,40.55,27.0,29.0,-31.0,36.0,38.0,40.0,29.0,40.0,69.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U13 Women 45,BONNET Manon,40.55,16.0,18.0,-19.0,23.0,25.0,27.0,18.0,27.0,45.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U13 Women 59,FORESTIER Méline,55.5,24.0,26.0,28.0,32.0,34.0,35.0,28.0,35.0,63.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U13 Women 59,BEQAJ Uerda,55.8,12.0,14.0,15.0,12.0,13.0,15.0,15.0,15.0,30.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U10 Women ,MATAM MATAM Rebecca marguerite,34.0,15.0,17.0,19.0,15.0,17.0,19.0,19.0,19.0,38.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U13 Women 35,CARETTI Candice,34.7,14.0,16.0,18.0,18.0,20.0,22.0,18.0,22.0,40.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U13 Women 45,BAUD Tina,40.55,27.0,29.0,-31.0,36.0,38.0,40.0,29.0,40.0,69.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U13 Women 45,BONNET Manon,40.55,16.0,18.0,-19.0,23.0,25.0,27.0,18.0,27.0,45.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U13 Women 59,FORESTIER Méline,55.5,24.0,26.0,28.0,32.0,34.0,35.0,28.0,35.0,63.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U13 Women 59,BEQAJ Uerda,55.8,12.0,14.0,15.0,12.0,13.0,15.0,15.0,15.0,30.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U15 Women 64,MILLE Sarah,62.8,38.0,41.0,-43.0,-48.0,48.0,-51.0,41.0,48.0,89.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 55,DUCROCQ Eva,53.4,40.0,45.0,47.0,-58.0,58.0,61.0,47.0,61.0,108.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 59,KEGREISZ Valentine,56.1,52.0,-55.0,55.0,62.0,65.0,-68.0,55.0,65.0,120.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 59,MLODZINSKI Alexandra,58.5,45.0,49.0,-52.0,63.0,-66.0,66.0,49.0,66.0,115.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 59,BOUCHERF Anais,57.6,36.0,38.0,40.0,45.0,-47.0,-49.0,40.0,45.0,85.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 64,AUTILLO Clara,62.0,70.0,73.0,76.0,85.0,90.0,-95.0,76.0,90.0,166.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 64,WAZNI Geneviève,63.4,53.0,-56.0,-58.0,65.0,68.0,-70.0,53.0,68.0,121.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 76,DAMIANI Morgane,72.9,45.0,48.0,-50.0,65.0,67.0,70.0,48.0,70.0,118.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 87,BAILLY Emma,85.9,60.0,65.0,70.0,75.0,85.0,-90.0,70.0,85.0,155.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U15 Women 64,MILLE Sarah,62.8,38.0,41.0,-43.0,-48.0,48.0,-51.0,41.0,48.0,89.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 55,DUCROCQ Eva,53.4,40.0,45.0,47.0,-58.0,58.0,61.0,47.0,61.0,108.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 59,KEGREISZ Valentine,56.1,52.0,-55.0,55.0,62.0,65.0,-68.0,55.0,65.0,120.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 59,MLODZINSKI Alexandra,58.5,45.0,49.0,-52.0,63.0,-66.0,66.0,49.0,66.0,115.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 59,BOUCHERF Anais,57.6,36.0,38.0,40.0,45.0,-47.0,-49.0,40.0,45.0,85.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 64,AUTILLO Clara,62.0,70.0,73.0,76.0,85.0,90.0,-95.0,76.0,90.0,166.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 64,WAZNI Geneviève,63.4,53.0,-56.0,-58.0,65.0,68.0,-70.0,53.0,68.0,121.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 76,DAMIANI Morgane,72.9,45.0,48.0,-50.0,65.0,67.0,70.0,48.0,70.0,118.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 87,BAILLY Emma,85.9,60.0,65.0,70.0,75.0,85.0,-90.0,70.0,85.0,155.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 67,POTENZA David,61.54,70.0,75.0,80.0,90.0,95.0,100.0,80.0,100.0,180.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 67,ZYADE MANSOR Awos,66.78,-67.0,67.0,70.0,80.0,90.0,100.0,70.0,100.0,170.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 73,SPAGNULO Paolo,71.2,85.0,-90.0,90.0,115.0,123.0,-0.0,90.0,123.0,213.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 73,DA SILVA Come,69.76,80.0,85.0,-90.0,100.0,105.0,110.0,85.0,110.0,195.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 81,GEREDA LIZCANO Angel jesus,75.36,90.0,95.0,100.0,120.0,125.0,130.0,100.0,130.0,230.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 81,CRUZEL Alexis,76.34,85.0,-90.0,90.0,112.0,118.0,124.0,90.0,124.0,214.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 81,SCHINDLER Romain,79.46,85.0,-90.0,90.0,100.0,105.0,-110.0,90.0,105.0,195.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 81,AUDET Jeremy,77.24,-82.0,82.0,-87.0,107.0,-112.0,-115.0,82.0,107.0,189.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 81,GOETZ Valentin,75.16,75.0,80.0,85.0,95.0,102.0,-107.0,85.0,102.0,187.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 81,BIRRY Xavier,80.76,81.0,-85.0,85.0,92.0,96.0,-100.0,85.0,96.0,181.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 81,TRAORE David,76.52,75.0,80.0,-83.0,-95.0,98.0,-103.0,80.0,98.0,178.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 67,POTENZA David,61.54,70.0,75.0,80.0,90.0,95.0,100.0,80.0,100.0,180.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 67,ZYADE MANSOR Awos,66.78,-67.0,67.0,70.0,80.0,90.0,100.0,70.0,100.0,170.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 73,SPAGNULO Paolo,71.2,85.0,-90.0,90.0,115.0,123.0,-0.0,90.0,123.0,213.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 73,DA SILVA Come,69.76,80.0,85.0,-90.0,100.0,105.0,110.0,85.0,110.0,195.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 81,GEREDA LIZCANO Angel jesus,75.36,90.0,95.0,100.0,120.0,125.0,130.0,100.0,130.0,230.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 81,CRUZEL Alexis,76.34,85.0,-90.0,90.0,112.0,118.0,124.0,90.0,124.0,214.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 81,SCHINDLER Romain,79.46,85.0,-90.0,90.0,100.0,105.0,-110.0,90.0,105.0,195.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 81,AUDET Jeremy,77.24,-82.0,82.0,-87.0,107.0,-112.0,-115.0,82.0,107.0,189.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 81,GOETZ Valentin,75.16,75.0,80.0,85.0,95.0,102.0,-107.0,85.0,102.0,187.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 81,BIRRY Xavier,80.76,81.0,-85.0,85.0,92.0,96.0,-100.0,85.0,96.0,181.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 81,TRAORE David,76.52,75.0,80.0,-83.0,-95.0,98.0,-103.0,80.0,98.0,178.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 49,CHRISTOPHEL Marie,49.0,50.0,53.0,56.0,72.0,75.0,78.0,56.0,78.0,134.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 49,ALEMSHIRAZI Yasaman,48.6,33.0,36.0,39.0,44.0,47.0,50.0,39.0,50.0,89.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 55,HERTRICH Marielle,53.7,69.0,72.0,-75.0,80.0,83.0,-85.0,72.0,83.0,155.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 55,FEILLARD Lea,52.5,45.0,48.0,-50.0,60.0,64.0,-66.0,48.0,64.0,112.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 55,WITKOWSKI Dagmar,54.7,39.0,42.0,-44.0,43.0,46.0,48.0,42.0,48.0,90.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 55,FERON-GRIMM Lilou,54.4,29.0,31.0,33.0,39.0,42.0,-44.0,33.0,42.0,75.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 55,OHREL Julie,52.1,30.0,33.0,-35.0,-38.0,38.0,-42.0,33.0,38.0,71.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 59,CORBETHAU Eva,57.8,60.0,-63.0,-63.0,78.0,81.0,84.0,60.0,84.0,144.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 59,SCHEER Pauline,57.3,57.0,60.0,-63.0,77.0,-81.0,-83.0,60.0,77.0,137.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 49,CHRISTOPHEL Marie,49.0,50.0,53.0,56.0,72.0,75.0,78.0,56.0,78.0,134.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 49,ALEMSHIRAZI Yasaman,48.6,33.0,36.0,39.0,44.0,47.0,50.0,39.0,50.0,89.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 55,HERTRICH Marielle,53.7,69.0,72.0,-75.0,80.0,83.0,-85.0,72.0,83.0,155.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 55,FEILLARD Lea,52.5,45.0,48.0,-50.0,60.0,64.0,-66.0,48.0,64.0,112.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 55,WITKOWSKI Dagmar,54.7,39.0,42.0,-44.0,43.0,46.0,48.0,42.0,48.0,90.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 55,FERON-GRIMM Lilou,54.4,29.0,31.0,33.0,39.0,42.0,-44.0,33.0,42.0,75.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 55,OHREL Julie,52.1,30.0,33.0,-35.0,-38.0,38.0,-42.0,33.0,38.0,71.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 59,CORBETHAU Eva,57.8,60.0,-63.0,-63.0,78.0,81.0,84.0,60.0,84.0,144.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 59,SCHEER Pauline,57.3,57.0,60.0,-63.0,77.0,-81.0,-83.0,60.0,77.0,137.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 64,CORLOBE-PHOL Melanie,63.6,48.0,-52.0,53.0,57.0,61.0,-65.0,53.0,61.0,114.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 64,ARRIVET Melanie,59.8,38.0,39.0,40.0,57.0,60.0,-63.0,40.0,60.0,100.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 64,DECOOL Noemie,63.5,37.0,39.0,-41.0,46.0,50.0,-54.0,39.0,50.0,89.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 71,MARDIROSSIAN Vaina,68.7,42.0,45.0,-48.0,54.0,57.0,60.0,45.0,60.0,105.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 76,DEPENWEILLER Pauline,73.75,75.0,78.0,81.0,94.0,98.0,-101.0,81.0,98.0,179.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 81,THOMAS Evelyne,81.0,44.0,47.0,50.0,54.0,-57.0,57.0,50.0,57.0,107.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 64,CORLOBE-PHOL Melanie,63.6,48.0,-52.0,53.0,57.0,61.0,-65.0,53.0,61.0,114.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 64,ARRIVET Melanie,59.8,38.0,39.0,40.0,57.0,60.0,-63.0,40.0,60.0,100.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 64,DECOOL Noemie,63.5,37.0,39.0,-41.0,46.0,50.0,-54.0,39.0,50.0,89.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 71,MARDIROSSIAN Vaina,68.7,42.0,45.0,-48.0,54.0,57.0,60.0,45.0,60.0,105.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 76,DEPENWEILLER Pauline,73.75,75.0,78.0,81.0,94.0,98.0,-101.0,81.0,98.0,179.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 81,THOMAS Evelyne,81.0,44.0,47.0,50.0,54.0,-57.0,57.0,50.0,57.0,107.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 89,NICKLES Maxime,88.56,107.0,-112.0,-112.0,130.0,135.0,140.0,107.0,140.0,247.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 89,ROHRBACH Stephane,83.1,100.0,105.0,110.0,125.0,130.0,135.0,110.0,135.0,245.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 89,RICCIARDELLA Angelo,83.14,92.0,97.0,101.0,110.0,115.0,120.0,101.0,120.0,221.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 89,BUSCH Ethann,82.8,85.0,90.0,-95.0,-110.0,-110.0,-110.0,90.0,0.0,0.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 96,BAUDEWYNS Gauthier,94.98,103.0,107.0,-110.0,130.0,135.0,-140.0,107.0,135.0,242.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 96,KLICKI Alexis,94.94,93.0,-97.0,97.0,130.0,-135.0,-138.0,97.0,130.0,227.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 96,BAUER Adrien,92.1,93.0,98.0,-101.0,110.0,-120.0,120.0,98.0,120.0,218.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 96,DELUCCHI Mattéo,95.88,90.0,94.0,-97.0,103.0,106.0,-110.0,94.0,106.0,200.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 102,SPIELMANN Arthur,97.98,115.0,120.0,-125.0,150.0,160.0,-166.0,120.0,160.0,280.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 102,KELHETTER Jerome,96.56,101.0,106.0,111.0,130.0,138.0,-143.0,111.0,138.0,249.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 102,GRAUSS Alexis,100.14,90.0,-96.0,-96.0,115.0,120.0,125.0,90.0,125.0,215.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 109,CANDRAY MEDINA Hector,103.14,110.0,-115.0,116.0,-140.0,141.0,146.0,116.0,146.0,262.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men >109,MEYER Benjamin,110.0,80.0,85.0,-90.0,100.0,110.0,115.0,85.0,115.0,200.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 89,NICKLES Maxime,88.56,107.0,-112.0,-112.0,130.0,135.0,140.0,107.0,140.0,247.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 89,ROHRBACH Stephane,83.1,100.0,105.0,110.0,125.0,130.0,135.0,110.0,135.0,245.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 89,RICCIARDELLA Angelo,83.14,92.0,97.0,101.0,110.0,115.0,120.0,101.0,120.0,221.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 89,BUSCH Ethann,82.8,85.0,90.0,-95.0,-110.0,-110.0,-110.0,90.0,0.0,0.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 96,BAUDEWYNS Gauthier,94.98,103.0,107.0,-110.0,130.0,135.0,-140.0,107.0,135.0,242.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 96,KLICKI Alexis,94.94,93.0,-97.0,97.0,130.0,-135.0,-138.0,97.0,130.0,227.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 96,BAUER Adrien,92.1,93.0,98.0,-101.0,110.0,-120.0,120.0,98.0,120.0,218.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 96,DELUCCHI Mattéo,95.88,90.0,94.0,-97.0,103.0,106.0,-110.0,94.0,106.0,200.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 102,SPIELMANN Arthur,97.98,115.0,120.0,-125.0,150.0,160.0,-166.0,120.0,160.0,280.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 102,KELHETTER Jerome,96.56,101.0,106.0,111.0,130.0,138.0,-143.0,111.0,138.0,249.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 102,GRAUSS Alexis,100.14,90.0,-96.0,-96.0,115.0,120.0,125.0,90.0,125.0,215.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 109,CANDRAY MEDINA Hector,103.14,110.0,-115.0,116.0,-140.0,141.0,146.0,116.0,146.0,262.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men >109,MEYER Benjamin,110.0,80.0,85.0,-90.0,100.0,110.0,115.0,85.0,115.0,200.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 73,JANVIER Clement,71.76,70.0,74.0,78.0,98.0,103.0,107.0,78.0,107.0,185.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 102,BECHEREAU Axel,98.74,94.0,97.0,-100.0,117.0,-122.0,-127.0,97.0,117.0,214.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 73,JANVIER Clement,71.76,70.0,74.0,78.0,98.0,103.0,107.0,78.0,107.0,185.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 102,BECHEREAU Axel,98.74,94.0,97.0,-100.0,117.0,-122.0,-127.0,97.0,117.0,214.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 71,FERDINAND Sarah,67.85,67.0,-70.0,-72.0,85.0,88.0,91.0,67.0,91.0,158.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 71,DUME Jennifer,65.76,-54.0,54.0,58.0,69.0,74.0,-78.0,58.0,74.0,132.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 71,FOURNY Perrine,68.2,54.0,56.0,-57.0,63.0,65.0,67.0,56.0,67.0,123.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 71,REBILLON Elea,68.8,51.0,-55.0,55.0,60.0,63.0,65.0,55.0,65.0,120.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 76,BEIGNET Sylvanie,71.9,-45.0,45.0,-48.0,59.0,62.0,65.0,45.0,65.0,110.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 71,FERDINAND Sarah,67.85,67.0,-70.0,-72.0,85.0,88.0,91.0,67.0,91.0,158.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 71,DUME Jennifer,65.76,-54.0,54.0,58.0,69.0,74.0,-78.0,58.0,74.0,132.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 71,FOURNY Perrine,68.2,54.0,56.0,-57.0,63.0,65.0,67.0,56.0,67.0,123.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 71,REBILLON Elea,68.8,51.0,-55.0,55.0,60.0,63.0,65.0,55.0,65.0,120.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 76,BEIGNET Sylvanie,71.9,-45.0,45.0,-48.0,59.0,62.0,65.0,45.0,65.0,110.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U15 Women 55,PEUGNET Noémie,51.0,15.0,18.0,20.0,29.0,-31.0,31.0,20.0,31.0,51.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U20 Women 55,GAUMONT Chloe,53.7,28.0,31.0,-34.0,37.0,40.0,44.0,31.0,44.0,75.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U20 Women 59,GENEVIER Clemence,59.0,40.0,43.0,45.0,55.0,58.0,60.0,45.0,60.0,105.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 55,ALCANIZ PLAZA Blandine,50.8,52.0,-57.0,-59.0,62.0,65.0,68.0,52.0,68.0,120.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 55,ETIENNE Morgane,54.3,44.0,47.0,-50.0,55.0,58.0,60.0,47.0,60.0,107.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 55,GOUJEAU Johanna,51.8,35.0,37.0,-40.0,50.0,-55.0,-56.0,37.0,50.0,87.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 59,MENON Felicia,58.9,43.0,46.0,48.0,61.0,64.0,-67.0,48.0,64.0,112.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 59,ARNAUD Enora,57.4,37.0,40.0,-42.0,50.0,53.0,-55.0,40.0,53.0,93.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 59,ANOUAR Yasmine,58.9,35.0,38.0,40.0,42.0,46.0,50.0,40.0,50.0,90.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 59,THOMELIN Armelle,58.5,30.0,33.0,-35.0,38.0,42.0,47.0,33.0,47.0,80.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U15 Women 55,PEUGNET Noémie,51.0,15.0,18.0,20.0,29.0,-31.0,31.0,20.0,31.0,51.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U20 Women 55,GAUMONT Chloe,53.7,28.0,31.0,-34.0,37.0,40.0,44.0,31.0,44.0,75.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U20 Women 59,GENEVIER Clemence,59.0,40.0,43.0,45.0,55.0,58.0,60.0,45.0,60.0,105.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 55,ALCANIZ PLAZA Blandine,50.8,52.0,-57.0,-59.0,62.0,65.0,68.0,52.0,68.0,120.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 55,ETIENNE Morgane,54.3,44.0,47.0,-50.0,55.0,58.0,60.0,47.0,60.0,107.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 55,GOUJEAU Johanna,51.8,35.0,37.0,-40.0,50.0,-55.0,-56.0,37.0,50.0,87.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 59,MENON Felicia,58.9,43.0,46.0,48.0,61.0,64.0,-67.0,48.0,64.0,112.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 59,ARNAUD Enora,57.4,37.0,40.0,-42.0,50.0,53.0,-55.0,40.0,53.0,93.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 59,ANOUAR Yasmine,58.9,35.0,38.0,40.0,42.0,46.0,50.0,40.0,50.0,90.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 59,THOMELIN Armelle,58.5,30.0,33.0,-35.0,38.0,42.0,47.0,33.0,47.0,80.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U20 Women 71,BOILEAU Emma,67.7,32.0,35.0,37.0,47.0,50.0,52.0,37.0,52.0,89.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 64,BASTIE Marie,62.3,48.0,-51.0,-51.0,63.0,66.0,-68.0,48.0,66.0,114.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 71,MOREAU Doralicia,69.3,48.0,51.0,-54.0,63.0,67.0,-70.0,51.0,67.0,118.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 76,AMRI Nadia,71.8,-42.0,45.0,-48.0,52.0,55.0,58.0,45.0,58.0,103.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U20 Women 71,BOILEAU Emma,67.7,32.0,35.0,37.0,47.0,50.0,52.0,37.0,52.0,89.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 64,BASTIE Marie,62.3,48.0,-51.0,-51.0,63.0,66.0,-68.0,48.0,66.0,114.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 71,MOREAU Doralicia,69.3,48.0,51.0,-54.0,63.0,67.0,-70.0,51.0,67.0,118.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 76,AMRI Nadia,71.8,-42.0,45.0,-48.0,52.0,55.0,58.0,45.0,58.0,103.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U13 Men 45,CHOURRET Camille,44.9,13.0,15.0,-17.0,16.0,18.0,-20.0,15.0,18.0,33.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U13 Men 61,FRAZEY Alistair,57.3,13.0,15.0,-17.0,16.0,18.0,20.0,15.0,20.0,35.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U13 Men 45,CHOURRET Camille,44.9,13.0,15.0,-17.0,16.0,18.0,-20.0,15.0,18.0,33.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U13 Men 61,FRAZEY Alistair,57.3,13.0,15.0,-17.0,16.0,18.0,20.0,15.0,20.0,35.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U20 Men 81,COSTENOBLE Thadde,80.0,75.0,80.0,83.0,95.0,100.0,-105.0,83.0,100.0,183.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U20 Men 81,GARNIER Nathanael,79.7,75.0,80.0,-82.0,-95.0,-95.0,95.0,80.0,95.0,175.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 81,THIERRY Gilles,77.9,91.0,96.0,100.0,115.0,120.0,-125.0,100.0,120.0,220.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 81,PROCHASSON Raphael,79.2,82.0,86.0,-90.0,113.0,-117.0,118.0,86.0,118.0,204.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 81,YON Vincent,78.7,80.0,90.0,-95.0,106.0,-115.0,-116.0,90.0,106.0,196.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 89,VICTOR Nathan,83.8,75.0,80.0,85.0,105.0,110.0,117.0,85.0,117.0,202.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 89,LELIEVRE Robin,83.9,86.0,-92.0,-92.0,105.0,110.0,115.0,86.0,115.0,201.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 89,CHAILLOU Tristan,88.7,75.0,80.0,85.0,100.0,-108.0,108.0,85.0,108.0,193.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 96,NAYDENOV Delian,90.0,95.0,98.0,-100.0,-105.0,110.0,-115.0,98.0,110.0,208.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 96,CHOSSELER Maxime,95.7,75.0,80.0,-82.0,100.0,105.0,108.0,80.0,108.0,188.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 96,GALLAND Joey,93.4,75.0,80.0,83.0,98.0,102.0,-110.0,83.0,102.0,185.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U20 Men 81,COSTENOBLE Thadde,80.0,75.0,80.0,83.0,95.0,100.0,-105.0,83.0,100.0,183.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U20 Men 81,GARNIER Nathanael,79.7,75.0,80.0,-82.0,-95.0,-95.0,95.0,80.0,95.0,175.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 81,THIERRY Gilles,77.9,91.0,96.0,100.0,115.0,120.0,-125.0,100.0,120.0,220.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 81,PROCHASSON Raphael,79.2,82.0,86.0,-90.0,113.0,-117.0,118.0,86.0,118.0,204.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 81,YON Vincent,78.7,80.0,90.0,-95.0,106.0,-115.0,-116.0,90.0,106.0,196.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 89,VICTOR Nathan,83.8,75.0,80.0,85.0,105.0,110.0,117.0,85.0,117.0,202.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 89,LELIEVRE Robin,83.9,86.0,-92.0,-92.0,105.0,110.0,115.0,86.0,115.0,201.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 89,CHAILLOU Tristan,88.7,75.0,80.0,85.0,100.0,-108.0,108.0,85.0,108.0,193.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 96,NAYDENOV Delian,90.0,95.0,98.0,-100.0,-105.0,110.0,-115.0,98.0,110.0,208.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 96,CHOSSELER Maxime,95.7,75.0,80.0,-82.0,100.0,105.0,108.0,80.0,108.0,188.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 96,GALLAND Joey,93.4,75.0,80.0,83.0,98.0,102.0,-110.0,83.0,102.0,185.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 73,PERARD Allan,68.9,77.0,82.0,87.0,97.0,101.0,105.0,87.0,105.0,192.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 73,MICHEL Anthony,71.1,63.0,66.0,69.0,88.0,91.0,-93.0,69.0,91.0,160.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men >109,GRANVILLE Yannick,118.8,87.0,93.0,98.0,107.0,113.0,-118.0,98.0,113.0,211.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 73,PERARD Allan,68.9,77.0,82.0,87.0,97.0,101.0,105.0,87.0,105.0,192.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 73,MICHEL Anthony,71.1,63.0,66.0,69.0,88.0,91.0,-93.0,69.0,91.0,160.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men >109,GRANVILLE Yannick,118.8,87.0,93.0,98.0,107.0,113.0,-118.0,98.0,113.0,211.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U15 Men 55,MATEOS Shinji,51.72,29.0,31.0,-34.0,34.0,37.0,39.0,31.0,39.0,70.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U15 Men 61,SALVATICI Lucio,60.95,48.0,51.0,-54.0,70.0,74.0,-78.0,51.0,74.0,125.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U15 Men 81,HATEM Kenan,74.55,25.0,28.0,30.0,27.0,-30.0,-30.0,30.0,27.0,57.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U15 Men >102,LAVENUE Johan,104.74,35.0,38.0,41.0,-40.0,40.0,44.0,41.0,44.0,85.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 67,JULLIEN Gabriel,65.78,96.0,100.0,-104.0,115.0,120.0,-125.0,100.0,120.0,220.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 73,SEGURA ARBOLEDA Jophser ivan,70.7,75.0,-79.0,-79.0,90.0,-94.0,-95.0,75.0,90.0,165.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 81,FOUR Anthony,75.57,-83.0,-83.0,83.0,-105.0,-107.0,107.0,83.0,107.0,190.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 81,ESSAMA-PORLON Cyril,73.25,70.0,73.0,76.0,88.0,92.0,-96.0,76.0,92.0,168.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 81,CARLIER Alex,78.19,42.0,44.0,-46.0,-57.0,57.0,61.0,44.0,61.0,105.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 89,FLOTAT Gareth,87.33,100.0,103.0,-107.0,-128.0,128.0,-133.0,103.0,128.0,231.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 89,SANTINELLI Guillaume,83.99,-85.0,88.0,-90.0,-105.0,105.0,-112.0,88.0,105.0,193.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 96,NONNIS Kilian,95.47,65.0,70.0,72.0,80.0,85.0,90.0,72.0,90.0,162.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 102,EMMANUEL Ange,101.55,85.0,-90.0,-90.0,105.0,-110.0,-110.0,85.0,105.0,190.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U15 Men 55,MATEOS Shinji,51.72,29.0,31.0,-34.0,34.0,37.0,39.0,31.0,39.0,70.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U15 Men 61,SALVATICI Lucio,60.95,48.0,51.0,-54.0,70.0,74.0,-78.0,51.0,74.0,125.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U15 Men 81,HATEM Kenan,74.55,25.0,28.0,30.0,27.0,-30.0,-30.0,30.0,27.0,57.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U15 Men >102,LAVENUE Johan,104.74,35.0,38.0,41.0,-40.0,40.0,44.0,41.0,44.0,85.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 67,JULLIEN Gabriel,65.78,96.0,100.0,-104.0,115.0,120.0,-125.0,100.0,120.0,220.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 73,SEGURA ARBOLEDA Jophser ivan,70.7,75.0,-79.0,-79.0,90.0,-94.0,-95.0,75.0,90.0,165.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 81,FOUR Anthony,75.57,-83.0,-83.0,83.0,-105.0,-107.0,107.0,83.0,107.0,190.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 81,ESSAMA-PORLON Cyril,73.25,70.0,73.0,76.0,88.0,92.0,-96.0,76.0,92.0,168.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 81,CARLIER Alex,78.19,42.0,44.0,-46.0,-57.0,57.0,61.0,44.0,61.0,105.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 89,FLOTAT Gareth,87.33,100.0,103.0,-107.0,-128.0,128.0,-133.0,103.0,128.0,231.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 89,SANTINELLI Guillaume,83.99,-85.0,88.0,-90.0,-105.0,105.0,-112.0,88.0,105.0,193.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 96,NONNIS Kilian,95.47,65.0,70.0,72.0,80.0,85.0,90.0,72.0,90.0,162.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 102,EMMANUEL Ange,101.55,85.0,-90.0,-90.0,105.0,-110.0,-110.0,85.0,105.0,190.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U17 Women 59,CASONI Lila,58.15,23.0,26.0,-28.0,28.0,30.0,32.0,26.0,32.0,58.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U17 Women 64,RAYNAUD Laura,63.71,50.0,-53.0,-53.0,70.0,73.0,-76.0,50.0,73.0,123.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U20 Women 59,GALLOU Lula,56.75,25.0,28.0,30.0,38.0,41.0,44.0,30.0,44.0,74.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U20 Women 71,MANFREDI Lesia,70.74,57.0,-60.0,60.0,65.0,70.0,76.0,60.0,76.0,136.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 45,CHEDED Julie,44.26,48.0,-51.0,-52.0,59.0,62.0,-65.0,48.0,62.0,110.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 49,GENTON Matilda,47.98,-50.0,52.0,-54.0,-60.0,-63.0,63.0,52.0,63.0,115.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 49,DURAN Sandra,47.86,33.0,36.0,-39.0,45.0,49.0,-53.0,36.0,49.0,85.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 55,GEFFROY Lisa,54.65,50.0,53.0,55.0,60.0,-63.0,-64.0,55.0,60.0,115.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 71,SEVERIN Alina,70.48,60.0,64.0,-67.0,-78.0,78.0,-82.0,64.0,78.0,142.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 71,HUGNY Alice,64.64,45.0,47.0,-49.0,65.0,70.0,-72.0,47.0,70.0,117.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 76,DESHAYES Lucille,76.0,37.0,40.0,-43.0,47.0,50.0,53.0,40.0,53.0,93.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U17 Women 59,CASONI Lila,58.15,23.0,26.0,-28.0,28.0,30.0,32.0,26.0,32.0,58.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U17 Women 64,RAYNAUD Laura,63.71,50.0,-53.0,-53.0,70.0,73.0,-76.0,50.0,73.0,123.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U20 Women 59,GALLOU Lula,56.75,25.0,28.0,30.0,38.0,41.0,44.0,30.0,44.0,74.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U20 Women 71,MANFREDI Lesia,70.74,57.0,-60.0,60.0,65.0,70.0,76.0,60.0,76.0,136.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 45,CHEDED Julie,44.26,48.0,-51.0,-52.0,59.0,62.0,-65.0,48.0,62.0,110.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 49,GENTON Matilda,47.98,-50.0,52.0,-54.0,-60.0,-63.0,63.0,52.0,63.0,115.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 49,DURAN Sandra,47.86,33.0,36.0,-39.0,45.0,49.0,-53.0,36.0,49.0,85.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 55,GEFFROY Lisa,54.65,50.0,53.0,55.0,60.0,-63.0,-64.0,55.0,60.0,115.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 71,SEVERIN Alina,70.48,60.0,64.0,-67.0,-78.0,78.0,-82.0,64.0,78.0,142.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 71,HUGNY Alice,64.64,45.0,47.0,-49.0,65.0,70.0,-72.0,47.0,70.0,117.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 76,DESHAYES Lucille,76.0,37.0,40.0,-43.0,47.0,50.0,53.0,40.0,53.0,93.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U13 Men 35,DUCHAUFFOUR Louis,28.7,16.0,18.0,20.0,23.0,25.0,27.0,20.0,27.0,47.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U13 Women 40,MARGUERAT Mila,39.5,21.0,23.0,-25.0,31.0,33.0,35.0,23.0,35.0,58.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U13 Women 49,STATTNER Léa,47.2,24.0,26.0,-28.0,33.0,35.0,37.0,26.0,37.0,63.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U13 Men 35,DUCHAUFFOUR Louis,28.7,16.0,18.0,20.0,23.0,25.0,27.0,20.0,27.0,47.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U13 Women 40,MARGUERAT Mila,39.5,21.0,23.0,-25.0,31.0,33.0,35.0,23.0,35.0,58.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U13 Women 49,STATTNER Léa,47.2,24.0,26.0,-28.0,33.0,35.0,37.0,26.0,37.0,63.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U15 Women 45,DUCHAUFFOUR Rose,40.4,25.0,28.0,-30.0,35.0,39.0,-40.0,28.0,39.0,67.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U17 Women 59,MARGUERAT Lola,55.9,30.0,32.0,34.0,45.0,48.0,50.0,34.0,50.0,84.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U17 Women 76,TRIDON Christina,75.6,41.0,44.0,45.0,53.0,56.0,60.0,45.0,60.0,105.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U20 Women 55,WEISKOPF Emilie,50.9,29.0,31.0,32.0,39.0,41.0,43.0,32.0,43.0,75.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 55,TEN VOORDE Maryse,54.3,55.0,-59.0,-63.0,64.0,69.0,-73.0,55.0,69.0,124.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 55,PHILIPPE Anais,51.7,42.0,-45.0,45.0,60.0,-64.0,-65.0,45.0,60.0,105.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 59,GROBOTEK MOUROT Delphine,57.7,55.0,-60.0,65.0,75.0,80.0,-90.0,65.0,80.0,145.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 64,BODIN Sarah,63.3,45.0,49.0,52.0,64.0,68.0,-72.0,52.0,68.0,120.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 64,BASTIEN Lola,60.1,-40.0,40.0,-44.0,55.0,60.0,-63.0,40.0,60.0,100.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 71,PRIEUR Justine,67.6,56.0,61.0,-66.0,73.0,78.0,82.0,61.0,82.0,143.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 71,LAMOTTE Jeanne,70.2,52.0,56.0,60.0,72.0,77.0,-82.0,60.0,77.0,137.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 71,ALVES Claire,67.3,47.0,51.0,55.0,65.0,70.0,-75.0,55.0,70.0,125.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 71,EHRET Léa,69.3,-36.0,36.0,-40.0,52.0,56.0,-59.0,36.0,56.0,92.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U15 Women 45,DUCHAUFFOUR Rose,40.4,25.0,28.0,-30.0,35.0,39.0,-40.0,28.0,39.0,67.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U17 Women 59,MARGUERAT Lola,55.9,30.0,32.0,34.0,45.0,48.0,50.0,34.0,50.0,84.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U17 Women 76,TRIDON Christina,75.6,41.0,44.0,45.0,53.0,56.0,60.0,45.0,60.0,105.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U20 Women 55,WEISKOPF Emilie,50.9,29.0,31.0,32.0,39.0,41.0,43.0,32.0,43.0,75.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 55,TEN VOORDE Maryse,54.3,55.0,-59.0,-63.0,64.0,69.0,-73.0,55.0,69.0,124.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 55,PHILIPPE Anais,51.7,42.0,-45.0,45.0,60.0,-64.0,-65.0,45.0,60.0,105.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 59,GROBOTEK MOUROT Delphine,57.7,55.0,-60.0,65.0,75.0,80.0,-90.0,65.0,80.0,145.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 64,BODIN Sarah,63.3,45.0,49.0,52.0,64.0,68.0,-72.0,52.0,68.0,120.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 64,BASTIEN Lola,60.1,-40.0,40.0,-44.0,55.0,60.0,-63.0,40.0,60.0,100.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 71,PRIEUR Justine,67.6,56.0,61.0,-66.0,73.0,78.0,82.0,61.0,82.0,143.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 71,LAMOTTE Jeanne,70.2,52.0,56.0,60.0,72.0,77.0,-82.0,60.0,77.0,137.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 71,ALVES Claire,67.3,47.0,51.0,55.0,65.0,70.0,-75.0,55.0,70.0,125.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 71,EHRET Léa,69.3,-36.0,36.0,-40.0,52.0,56.0,-59.0,36.0,56.0,92.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U20 Men 73,NGALAMO KROUSSI William steve,73.0,55.0,60.0,-65.0,80.0,85.0,-99.0,60.0,85.0,145.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 81,D'ANNA Steven,73.7,90.0,100.0,110.0,120.0,130.0,140.0,110.0,140.0,250.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 81,GROSJEAN Paul,79.15,77.0,84.0,90.0,89.0,96.0,99.0,90.0,99.0,189.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 81,MARGUIER Flavien,79.5,-77.0,-77.0,77.0,95.0,-100.0,-100.0,77.0,95.0,172.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men >109,HACKEL Jean christophe,124.6,55.0,65.0,-70.0,75.0,80.0,-81.0,65.0,80.0,145.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U20 Men 73,NGALAMO KROUSSI William steve,73.0,55.0,60.0,-65.0,80.0,85.0,-99.0,60.0,85.0,145.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 81,D'ANNA Steven,73.7,90.0,100.0,110.0,120.0,130.0,140.0,110.0,140.0,250.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 81,GROSJEAN Paul,79.15,77.0,84.0,90.0,89.0,96.0,99.0,90.0,99.0,189.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 81,MARGUIER Flavien,79.5,-77.0,-77.0,77.0,95.0,-100.0,-100.0,77.0,95.0,172.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men >109,HACKEL Jean christophe,124.6,55.0,65.0,-70.0,75.0,80.0,-81.0,65.0,80.0,145.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U15 Women 59,LALAZARYAN Milena,55.8,16.0,19.0,21.0,23.0,26.0,29.0,21.0,29.0,50.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 55,YSSOUFI Bibi-fatima,50.5,43.0,47.0,-50.0,63.0,67.0,-70.0,47.0,67.0,114.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 59,ROBERT Juliette,57.9,45.0,-48.0,48.0,58.0,61.0,-63.0,48.0,61.0,109.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 64,SIMS Erin,61.15,55.0,-60.0,62.0,72.0,76.0,78.0,62.0,78.0,140.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 64,TURRI Céline,59.6,48.0,51.0,53.0,60.0,63.0,-65.0,53.0,63.0,116.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 71,JAMAR Mathilda,66.0,43.0,45.0,48.0,52.0,55.0,58.0,48.0,58.0,106.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 87,ZAHNER Fany,83.7,52.0,55.0,-59.0,64.0,68.0,71.0,55.0,71.0,126.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women >87,LANTOINE Julie,91.55,47.0,50.0,52.0,57.0,60.0,63.0,52.0,63.0,115.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U15 Women 59,LALAZARYAN Milena,55.8,16.0,19.0,21.0,23.0,26.0,29.0,21.0,29.0,50.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 55,YSSOUFI Bibi-fatima,50.5,43.0,47.0,-50.0,63.0,67.0,-70.0,47.0,67.0,114.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 59,ROBERT Juliette,57.9,45.0,-48.0,48.0,58.0,61.0,-63.0,48.0,61.0,109.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 64,SIMS Erin,61.15,55.0,-60.0,62.0,72.0,76.0,78.0,62.0,78.0,140.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 64,TURRI Céline,59.6,48.0,51.0,53.0,60.0,63.0,-65.0,53.0,63.0,116.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 71,JAMAR Mathilda,66.0,43.0,45.0,48.0,52.0,55.0,58.0,48.0,58.0,106.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women 87,ZAHNER Fany,83.7,52.0,55.0,-59.0,64.0,68.0,71.0,55.0,71.0,126.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Women >87,LANTOINE Julie,91.55,47.0,50.0,52.0,57.0,60.0,63.0,52.0,63.0,115.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U10 Women ,MANDARD Oceane,35.98,13.0,15.0,-17.0,16.0,18.0,20.0,15.0,20.0,35.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U10 Women ,MANDARD Oceane,35.98,13.0,15.0,-17.0,16.0,18.0,20.0,15.0,20.0,35.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,M75 Men 73,COZERET Jean claude,73.0,35.0,40.0,-42.0,50.0,55.0,60.0,40.0,60.0,100.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,M75 Men 73,COZERET Jean claude,73.0,35.0,40.0,-42.0,50.0,55.0,60.0,40.0,60.0,100.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U10 Men ,VIJAYAPASKARAN Harys,41.8,12.0,14.0,-16.0,18.0,20.0,21.0,14.0,21.0,35.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U13 Men 49,MILLIT Yacoub,47.0,12.0,14.0,16.0,17.0,19.0,21.0,16.0,21.0,37.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U13 Men 67,ORSAT Louis,61.45,26.0,28.0,30.0,36.0,38.0,-40.0,30.0,38.0,68.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U13 Men >73,SABILLAH Walid,92.6,13.0,15.0,17.0,17.0,19.0,21.0,17.0,21.0,38.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U10 Men ,VIJAYAPASKARAN Harys,41.8,12.0,14.0,-16.0,18.0,20.0,21.0,14.0,21.0,35.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U13 Men 49,MILLIT Yacoub,47.0,12.0,14.0,16.0,17.0,19.0,21.0,16.0,21.0,37.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U13 Men 67,ORSAT Louis,61.45,26.0,28.0,30.0,36.0,38.0,-40.0,30.0,38.0,68.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U13 Men >73,SABILLAH Walid,92.6,13.0,15.0,17.0,17.0,19.0,21.0,17.0,21.0,38.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U20 Men 73,GARZANDAT Mattéo,71.4,82.0,87.0,-92.0,105.0,-111.0,-113.0,87.0,105.0,192.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 61,FORTEL Florian,59.5,70.0,75.0,78.0,87.0,92.0,98.0,78.0,98.0,176.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 73,BOILLAUD Damien,71.5,90.0,93.0,-95.0,100.0,-107.0,-107.0,93.0,100.0,193.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 73,BELLEAU Quentin,72.5,75.0,80.0,85.0,100.0,105.0,-110.0,85.0,105.0,190.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 73,USMA GOMEZ Daniel eduardo,72.5,70.0,75.0,-80.0,100.0,105.0,-110.0,75.0,105.0,180.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 73,DUCHAUFFOUR Anthony,68.1,68.0,-73.0,75.0,90.0,-95.0,-0.0,75.0,90.0,165.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 73,GOSSER Xavier,72.5,52.0,56.0,-61.0,63.0,68.0,-72.0,56.0,68.0,124.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 81,MARIE-JOSEPH Patrick,81.0,-83.0,85.0,-90.0,105.0,110.0,115.0,85.0,115.0,200.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 81,KATOLA Jocelyn,79.3,66.0,70.0,75.0,90.0,95.0,102.0,75.0,102.0,177.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 89,FERSING Kevin,84.6,89.0,93.0,-96.0,116.0,121.0,-125.0,93.0,121.0,214.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 89,GREMLING Tristan,87.0,85.0,-90.0,95.0,105.0,112.0,-120.0,95.0,112.0,207.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 89,BISCHOFF Bastien,82.6,70.0,-77.0,-77.0,100.0,-106.0,-106.0,70.0,100.0,170.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 89,MENEZES Lucas,86.5,55.0,60.0,65.0,70.0,75.0,80.0,65.0,80.0,145.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,U20 Men 73,GARZANDAT Mattéo,71.4,82.0,87.0,-92.0,105.0,-111.0,-113.0,87.0,105.0,192.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 61,FORTEL Florian,59.5,70.0,75.0,78.0,87.0,92.0,98.0,78.0,98.0,176.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 73,BOILLAUD Damien,71.5,90.0,93.0,-95.0,100.0,-107.0,-107.0,93.0,100.0,193.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 73,BELLEAU Quentin,72.5,75.0,80.0,85.0,100.0,105.0,-110.0,85.0,105.0,190.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 73,USMA GOMEZ Daniel eduardo,72.5,70.0,75.0,-80.0,100.0,105.0,-110.0,75.0,105.0,180.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 73,DUCHAUFFOUR Anthony,68.1,68.0,-73.0,75.0,90.0,-95.0,-0.0,75.0,90.0,165.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 73,GOSSER Xavier,72.5,52.0,56.0,-61.0,63.0,68.0,-72.0,56.0,68.0,124.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 81,MARIE-JOSEPH Patrick,81.0,-83.0,85.0,-90.0,105.0,110.0,115.0,85.0,115.0,200.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 81,KATOLA Jocelyn,79.3,66.0,70.0,75.0,90.0,95.0,102.0,75.0,102.0,177.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 89,FERSING Kevin,84.6,89.0,93.0,-96.0,116.0,121.0,-125.0,93.0,121.0,214.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 89,GREMLING Tristan,87.0,85.0,-90.0,95.0,105.0,112.0,-120.0,95.0,112.0,207.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 89,BISCHOFF Bastien,82.6,70.0,-77.0,-77.0,100.0,-106.0,-106.0,70.0,100.0,170.0
+PACA - Chpt Départemental - Noves - Bouches du Rhône,2024-02-18,SEN Men 89,MENEZES Lucas,86.5,55.0,60.0,65.0,70.0,75.0,80.0,65.0,80.0,145.0

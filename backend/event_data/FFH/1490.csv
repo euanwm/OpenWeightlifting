@@ -1,2 +1,96 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-CVL - Champ de France Elite,2021-10-23,SEN Men 102,HALILI Erjon,99.0,-130.0,130.0,135.0,162.0,168.0,174.0,135.0,174.0,309.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 67,RASCLE David,61.6,-77.0,77.0,-80.0,90.0,-95.0,-96.0,77.0,90.0,167.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 67,LO Lim-kheng,64.1,-65.0,65.0,70.0,85.0,90.0,-95.0,70.0,90.0,160.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 67,ISHIBASHI Hideo,66.4,62.0,-66.0,-68.0,75.0,80.0,-82.0,62.0,80.0,142.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 67,GROSSMANN Pascal,67.0,43.0,45.0,-48.0,-52.0,52.0,55.0,45.0,55.0,100.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 73,BRET Xan,73.0,75.0,80.0,-83.0,85.0,93.0,-100.0,80.0,93.0,173.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 73,JAFFAR Hussein,72.8,75.0,78.0,-80.0,-90.0,-90.0,90.0,78.0,90.0,168.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 73,MASCLEF Franck,72.8,45.0,-48.0,-48.0,60.0,65.0,-68.0,45.0,65.0,110.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 81,MARLE Stephan,80.2,-90.0,90.0,95.0,112.0,116.0,-120.0,95.0,116.0,211.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 81,LASERNA Fernando,74.7,70.0,73.0,-76.0,93.0,97.0,-100.0,73.0,97.0,170.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 81,AIECH Claude,75.0,62.0,-70.0,-70.0,80.0,85.0,90.0,62.0,90.0,152.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 89,HESHMATI Sohrab,83.7,-95.0,95.0,-102.0,120.0,-128.0,-130.0,95.0,120.0,215.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 89,LAMOTHE Francois,85.0,80.0,85.0,-90.0,-105.0,105.0,110.0,85.0,110.0,195.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 89,AURIFEILLE Aurelien,86.2,78.0,83.0,86.0,100.0,104.0,-109.0,86.0,104.0,190.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 89,ISA ALI Abdulkarim,82.0,43.0,45.0,47.0,57.0,62.0,64.0,47.0,64.0,111.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 96,GAY Christophe,90.8,70.0,77.0,-0.0,90.0,97.0,100.0,77.0,100.0,177.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 109,LAINEL Dorian,104.0,83.0,-87.0,-87.0,95.0,100.0,-102.0,83.0,100.0,183.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 109,AOUICI Karim,107.8,70.0,-75.0,-75.0,90.0,95.0,-101.0,70.0,95.0,165.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,U20 Men 73,QUIBLIER Jules,70.8,60.0,-70.0,-70.0,80.0,85.0,-90.0,60.0,85.0,145.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,U20 Men 81,BOIROT Florian,80.05,90.0,95.0,100.0,110.0,115.0,-120.0,100.0,115.0,215.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 67,COLON Benjamin,66.5,40.0,60.0,-65.0,60.0,-80.0,89.0,60.0,89.0,149.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 67,LEJAS Mathieu,65.8,56.0,60.0,65.0,75.0,-85.0,-85.0,65.0,75.0,140.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 73,CALASSI Jerome,72.2,70.0,75.0,-78.0,95.0,-100.0,-100.0,75.0,95.0,170.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 73,COVINHES Jean,72.95,45.0,-55.0,-55.0,80.0,-92.0,-100.0,45.0,80.0,125.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 81,BOSMET Yoann,76.15,65.0,70.0,74.0,80.0,-94.0,94.0,74.0,94.0,168.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 81,COMBES Pierre,75.8,40.0,60.0,65.0,60.0,70.0,-80.0,65.0,70.0,135.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 81,PLAT Quentin,78.25,45.0,55.0,60.0,60.0,-75.0,-80.0,60.0,60.0,120.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 81,PERRETTE-BENMOUSSA Raphael,77.75,46.0,-55.0,55.0,50.0,65.0,-71.0,55.0,65.0,120.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 81,PINEAU Jules,78.8,-63.0,-63.0,-63.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 89,ROGER Tristan,85.8,78.0,83.0,87.0,98.0,104.0,108.0,87.0,108.0,195.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 89,MULLER Max,85.0,85.0,-90.0,-90.0,-100.0,100.0,-110.0,85.0,100.0,185.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 89,MARCHAT Sylvain,86.2,65.0,-70.0,70.0,97.0,-102.0,-102.0,70.0,97.0,167.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 89,BISSON Baptiste,84.3,40.0,-60.0,60.0,60.0,75.0,-85.0,60.0,75.0,135.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,U20 Men 73,QUIBLIER Jules,70.8,60.0,-70.0,-70.0,80.0,85.0,-90.0,60.0,85.0,145.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,U20 Men 81,BOIROT Florian,80.05,90.0,95.0,100.0,110.0,115.0,-120.0,100.0,115.0,215.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 67,COLON Benjamin,66.5,40.0,60.0,-65.0,60.0,-80.0,89.0,60.0,89.0,149.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 67,LEJAS Mathieu,65.8,56.0,60.0,65.0,75.0,-85.0,-85.0,65.0,75.0,140.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 73,CALASSI Jerome,72.2,70.0,75.0,-78.0,95.0,-100.0,-100.0,75.0,95.0,170.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 73,COVINHES Jean,72.95,45.0,-55.0,-55.0,80.0,-92.0,-100.0,45.0,80.0,125.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 81,BOSMET Yoann,76.15,65.0,70.0,74.0,80.0,-94.0,94.0,74.0,94.0,168.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 81,COMBES Pierre,75.8,40.0,60.0,65.0,60.0,70.0,-80.0,65.0,70.0,135.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 81,PLAT Quentin,78.25,45.0,55.0,60.0,60.0,-75.0,-80.0,60.0,60.0,120.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 81,PERRETTE-BENMOUSSA Raphael,77.75,46.0,-55.0,55.0,50.0,65.0,-71.0,55.0,65.0,120.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 81,PINEAU Jules,78.8,-63.0,-63.0,-63.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 89,ROGER Tristan,85.8,78.0,83.0,87.0,98.0,104.0,108.0,87.0,108.0,195.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 89,MULLER Max,85.0,85.0,-90.0,-90.0,-100.0,100.0,-110.0,85.0,100.0,185.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 89,MARCHAT Sylvain,86.2,65.0,-70.0,70.0,97.0,-102.0,-102.0,70.0,97.0,167.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Men 89,BISSON Baptiste,84.3,40.0,-60.0,60.0,60.0,75.0,-85.0,60.0,75.0,135.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 55,PICOD Aurelia,53.9,30.0,32.0,-33.0,40.0,42.0,-43.0,32.0,42.0,74.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 59,EL SHAMY Chama,58.6,50.0,-52.0,-52.0,65.0,-68.0,68.0,50.0,68.0,118.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 59,ARNOL Virginie,58.6,35.0,40.0,42.0,53.0,57.0,-58.0,42.0,57.0,99.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 59,BERANGER Francine,55.8,28.0,32.0,-35.0,38.0,-42.0,42.0,32.0,42.0,74.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 64,LEMOINE Jennifer,64.0,42.0,-44.0,45.0,55.0,58.0,-60.0,45.0,58.0,103.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 64,ULM Petra,61.9,38.0,40.0,42.0,55.0,58.0,-62.0,42.0,58.0,100.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 64,TIBO Valérie,63.0,-35.0,35.0,38.0,52.0,57.0,62.0,38.0,62.0,100.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 71,SILVA Sabrina,66.9,38.0,41.0,-44.0,53.0,56.0,59.0,41.0,59.0,100.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 81,SALLOUM Flora,80.6,-50.0,-50.0,50.0,62.0,-64.0,-64.0,50.0,62.0,112.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 87,CHAUVIN Selma,85.2,43.0,47.0,-50.0,54.0,58.0,-61.0,47.0,58.0,105.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 87,MOUCHARD Elisabeth,82.6,43.0,46.0,-49.0,53.0,56.0,-60.0,46.0,56.0,102.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women >87,TUERNAL Floriane,115.3,48.0,-52.0,-53.0,63.0,68.0,72.0,48.0,72.0,120.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women >87,ALVES DE PUGA Barbara,104.2,40.0,45.0,47.0,60.0,64.0,67.0,47.0,67.0,114.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 55,PICOD Aurelia,53.9,30.0,32.0,-33.0,40.0,42.0,-43.0,32.0,42.0,74.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 59,EL SHAMY Chama,58.6,50.0,-52.0,-52.0,65.0,-68.0,68.0,50.0,68.0,118.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 59,ARNOL Virginie,58.6,35.0,40.0,42.0,53.0,57.0,-58.0,42.0,57.0,99.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 59,BERANGER Francine,55.8,28.0,32.0,-35.0,38.0,-42.0,42.0,32.0,42.0,74.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 64,LEMOINE Jennifer,64.0,42.0,-44.0,45.0,55.0,58.0,-60.0,45.0,58.0,103.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 64,ULM Petra,61.9,38.0,40.0,42.0,55.0,58.0,-62.0,42.0,58.0,100.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 64,TIBO Valérie,63.0,-35.0,35.0,38.0,52.0,57.0,62.0,38.0,62.0,100.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 71,SILVA Sabrina,66.9,38.0,41.0,-44.0,53.0,56.0,59.0,41.0,59.0,100.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 81,SALLOUM Flora,80.6,-50.0,-50.0,50.0,62.0,-64.0,-64.0,50.0,62.0,112.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 87,CHAUVIN Selma,85.2,43.0,47.0,-50.0,54.0,58.0,-61.0,47.0,58.0,105.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 87,MOUCHARD Elisabeth,82.6,43.0,46.0,-49.0,53.0,56.0,-60.0,46.0,56.0,102.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women >87,TUERNAL Floriane,115.3,48.0,-52.0,-53.0,63.0,68.0,72.0,48.0,72.0,120.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women >87,ALVES DE PUGA Barbara,104.2,40.0,45.0,47.0,60.0,64.0,67.0,47.0,67.0,114.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 55,RODRIGUEZ Alexandra,53.7,45.0,50.0,-55.0,65.0,70.0,-75.0,50.0,70.0,120.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 55,TOUZAIN Anouk,53.6,32.0,-34.0,36.0,42.0,46.0,50.0,36.0,50.0,86.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 55,MASFRAND Maelyse,54.0,37.0,-39.0,-39.0,42.0,45.0,-50.0,37.0,45.0,82.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 55,BERTIN Gwenola,51.2,30.0,33.0,-35.0,-42.0,42.0,-46.0,33.0,42.0,75.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 59,ROBERT Séverine,57.2,38.0,42.0,-46.0,54.0,57.0,60.0,42.0,60.0,102.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 59,DOS SANTOS Aude,57.9,-38.0,40.0,43.0,50.0,-54.0,54.0,43.0,54.0,97.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 59,FURNESTIN Manon,56.6,-35.0,35.0,-38.0,-42.0,42.0,45.0,35.0,45.0,80.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 64,CHOFFEL Eléona,64.0,45.0,52.0,-60.0,70.0,76.0,81.0,52.0,81.0,133.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 64,BELLARD Florie,62.9,42.0,-47.0,48.0,-50.0,54.0,-57.0,48.0,54.0,102.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 64,BASTIDE Océane,61.0,32.0,35.0,-38.0,45.0,-50.0,-55.0,35.0,45.0,80.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 71,MEGUERBA Camille,68.0,40.0,45.0,-50.0,60.0,65.0,71.0,45.0,71.0,116.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 55,RODRIGUEZ Alexandra,53.7,45.0,50.0,-55.0,65.0,70.0,-75.0,50.0,70.0,120.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 55,TOUZAIN Anouk,53.6,32.0,-34.0,36.0,42.0,46.0,50.0,36.0,50.0,86.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 55,MASFRAND Maelyse,54.0,37.0,-39.0,-39.0,42.0,45.0,-50.0,37.0,45.0,82.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 55,BERTIN Gwenola,51.2,30.0,33.0,-35.0,-42.0,42.0,-46.0,33.0,42.0,75.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 59,ROBERT Séverine,57.2,38.0,42.0,-46.0,54.0,57.0,60.0,42.0,60.0,102.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 59,DOS SANTOS Aude,57.9,-38.0,40.0,43.0,50.0,-54.0,54.0,43.0,54.0,97.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 59,FURNESTIN Manon,56.6,-35.0,35.0,-38.0,-42.0,42.0,45.0,35.0,45.0,80.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 64,CHOFFEL Eléona,64.0,45.0,52.0,-60.0,70.0,76.0,81.0,52.0,81.0,133.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 64,BELLARD Florie,62.9,42.0,-47.0,48.0,-50.0,54.0,-57.0,48.0,54.0,102.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 64,BASTIDE Océane,61.0,32.0,35.0,-38.0,45.0,-50.0,-55.0,35.0,45.0,80.0
+IDF - Challenge Avenir - Paris 18ème - Challenge de l'avenir hommes,2024-01-20,SEN Women 71,MEGUERBA Camille,68.0,40.0,45.0,-50.0,60.0,65.0,71.0,45.0,71.0,116.0

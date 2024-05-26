@@ -1,4 +1,132 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-BFC - 1er challenge avenir - dpt 89,2021-09-25,U15 Women 59,CALMUS Thais,55.2,25.0,28.0,30.0,33.0,37.0,40.0,30.0,40.0,70.0
-BFC - 1er challenge avenir - dpt 89,2021-09-25,U20 Women 64,BUET Fanny,61.8,35.0,38.0,40.0,43.0,46.0,48.0,40.0,48.0,88.0
-BFC - 1er challenge avenir - dpt 89,2021-09-25,U20 Women 64,DELBARBA Sarah,59.2,28.0,30.0,32.0,37.0,40.0,43.0,32.0,43.0,75.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 45,PRIMEL Laetitia,43.61,44.0,-47.0,47.0,60.0,-64.0,-64.0,47.0,60.0,107.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 55,FALGOUX Erine,54.12,-63.0,63.0,65.0,80.0,-84.0,-84.0,65.0,80.0,145.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 55,SCHILLACI Emmanuelle,53.96,-59.0,59.0,-62.0,72.0,75.0,-78.0,59.0,75.0,134.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 55,BERTIN Fanny,54.5,58.0,61.0,-63.0,68.0,-71.0,-72.0,61.0,68.0,129.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 55,DOUCET CHARPIN Sophie,55.0,55.0,58.0,-61.0,68.0,-70.0,70.0,58.0,70.0,128.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 64,ARMSTRONG Victoria,63.0,-72.0,72.0,75.0,87.0,90.0,-93.0,75.0,90.0,165.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 64,LACROIX Evelyne,62.1,-72.0,-72.0,72.0,-86.0,-86.0,-86.0,72.0,0.0,0.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 45,CHEDED Julie,45.0,48.0,-50.0,-52.0,62.0,-65.0,-67.0,48.0,62.0,110.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 49,GENTON Matilda,49.0,51.0,-54.0,-55.0,63.0,-66.0,68.0,51.0,68.0,119.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 49,PAILLAS Manon,47.9,48.0,50.0,-52.0,60.0,63.0,-65.0,50.0,63.0,113.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 55,BERNARD Manon,54.2,63.0,65.0,67.0,78.0,80.0,-83.0,67.0,80.0,147.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 59,VAILLES Shirley,58.7,63.0,66.0,-69.0,74.0,-77.0,78.0,66.0,78.0,144.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 59,CANAMERO Léa,55.1,60.0,-63.0,-63.0,-75.0,75.0,-80.0,60.0,75.0,135.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 59,ZINOUNE Naouel,58.2,60.0,-64.0,-65.0,-71.0,71.0,-75.0,60.0,71.0,131.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 59,GAMBIEZ Mathilde,59.0,65.0,-68.0,-68.0,-85.0,-86.0,-87.0,65.0,0.0,0.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 59,JOUGLA Amelie,58.1,58.0,61.0,64.0,-73.0,-75.0,-77.0,64.0,0.0,0.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 64,DUBOIS Marion,62.7,67.0,-71.0,72.0,-84.0,84.0,-93.0,72.0,84.0,156.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 64,SANCI Solenza,63.1,65.0,-68.0,-70.0,85.0,-88.0,-89.0,65.0,85.0,150.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 64,PASTA Jennifer,64.0,-64.0,-64.0,-64.0,75.0,80.0,-84.0,0.0,80.0,0.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 76,DALIA Carla,75.1,63.0,-67.0,67.0,82.0,87.0,-92.0,67.0,87.0,154.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 45,CHEDED Julie,45.0,48.0,-50.0,-52.0,62.0,-65.0,-67.0,48.0,62.0,110.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 49,GENTON Matilda,49.0,51.0,-54.0,-55.0,63.0,-66.0,68.0,51.0,68.0,119.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 49,PAILLAS Manon,47.9,48.0,50.0,-52.0,60.0,63.0,-65.0,50.0,63.0,113.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 55,BERNARD Manon,54.2,63.0,65.0,67.0,78.0,80.0,-83.0,67.0,80.0,147.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 59,VAILLES Shirley,58.7,63.0,66.0,-69.0,74.0,-77.0,78.0,66.0,78.0,144.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 59,CANAMERO Léa,55.1,60.0,-63.0,-63.0,-75.0,75.0,-80.0,60.0,75.0,135.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 59,ZINOUNE Naouel,58.2,60.0,-64.0,-65.0,-71.0,71.0,-75.0,60.0,71.0,131.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 59,GAMBIEZ Mathilde,59.0,65.0,-68.0,-68.0,-85.0,-86.0,-87.0,65.0,0.0,0.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 59,JOUGLA Amelie,58.1,58.0,61.0,64.0,-73.0,-75.0,-77.0,64.0,0.0,0.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 64,DUBOIS Marion,62.7,67.0,-71.0,72.0,-84.0,84.0,-93.0,72.0,84.0,156.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 64,SANCI Solenza,63.1,65.0,-68.0,-70.0,85.0,-88.0,-89.0,65.0,85.0,150.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 64,PASTA Jennifer,64.0,-64.0,-64.0,-64.0,75.0,80.0,-84.0,0.0,80.0,0.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 76,DALIA Carla,75.1,63.0,-67.0,67.0,82.0,87.0,-92.0,67.0,87.0,154.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 49,CHUI Lynn,49.0,53.0,55.0,-57.0,65.0,68.0,70.0,55.0,70.0,125.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 55,BONNET Flavie,53.07,-63.0,-63.0,63.0,-78.0,78.0,-82.0,63.0,78.0,141.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 55,ZHENG Noëlle,54.22,58.0,-60.0,-60.0,-70.0,-70.0,-70.0,58.0,0.0,0.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 59,DEFFIT Armelle,58.53,67.0,70.0,-72.0,79.0,-81.0,-82.0,70.0,79.0,149.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 59,CHAPELLE Celia,58.65,62.0,-65.0,-65.0,-80.0,82.0,-85.0,62.0,82.0,144.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 59,DAM WAN Diane,59.0,-60.0,60.0,63.0,70.0,74.0,78.0,63.0,78.0,141.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 59,BRAULT Flore,57.8,59.0,62.0,-64.0,79.0,-83.0,-83.0,62.0,79.0,141.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 59,TCHICHE Linda,57.8,61.0,-64.0,-65.0,76.0,-80.0,-80.0,61.0,76.0,137.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 59,BRETELLE Rose,58.7,55.0,-62.0,-62.0,-75.0,75.0,-82.0,55.0,75.0,130.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 64,JAHIER Camille,63.1,70.0,-72.0,72.0,78.0,-80.0,80.0,72.0,80.0,152.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 64,GENIN Marie,60.1,63.0,-66.0,66.0,84.0,-87.0,-87.0,66.0,84.0,150.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 64,DELACHAT Mathilde,63.6,62.0,-65.0,-66.0,82.0,-85.0,87.0,62.0,87.0,149.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 64,LAUV Pauline,63.7,-63.0,63.0,-72.0,80.0,83.0,-85.0,63.0,83.0,146.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 64,EBERENA Sylvie,63.9,64.0,-67.0,-67.0,80.0,-84.0,-85.0,64.0,80.0,144.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 64,MAINCENT Laetitia,63.2,63.0,66.0,-68.0,-80.0,-80.0,-80.0,66.0,0.0,0.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 71,RAHMANI Aciyah,70.7,-68.0,68.0,71.0,85.0,-90.0,-90.0,71.0,85.0,156.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 71,LOUSTALET JOUAN Anaïs,67.0,-69.0,69.0,71.0,81.0,84.0,-86.0,71.0,84.0,155.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 71,PEREIRA Camille,68.1,66.0,-70.0,71.0,-80.0,80.0,-86.0,71.0,80.0,151.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 76,DUMUR Armony,74.8,-68.0,-68.0,68.0,85.0,90.0,-99.0,68.0,90.0,158.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women >87,SERRE Julie,96.5,72.0,-76.0,-76.0,-94.0,-94.0,94.0,72.0,94.0,166.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 49,CHUI Lynn,49.0,53.0,55.0,-57.0,65.0,68.0,70.0,55.0,70.0,125.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 55,BONNET Flavie,53.07,-63.0,-63.0,63.0,-78.0,78.0,-82.0,63.0,78.0,141.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 55,ZHENG Noëlle,54.22,58.0,-60.0,-60.0,-70.0,-70.0,-70.0,58.0,0.0,0.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 59,DEFFIT Armelle,58.53,67.0,70.0,-72.0,79.0,-81.0,-82.0,70.0,79.0,149.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 59,CHAPELLE Celia,58.65,62.0,-65.0,-65.0,-80.0,82.0,-85.0,62.0,82.0,144.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 59,DAM WAN Diane,59.0,-60.0,60.0,63.0,70.0,74.0,78.0,63.0,78.0,141.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 59,BRAULT Flore,57.8,59.0,62.0,-64.0,79.0,-83.0,-83.0,62.0,79.0,141.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 59,TCHICHE Linda,57.8,61.0,-64.0,-65.0,76.0,-80.0,-80.0,61.0,76.0,137.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 59,BRETELLE Rose,58.7,55.0,-62.0,-62.0,-75.0,75.0,-82.0,55.0,75.0,130.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 64,JAHIER Camille,63.1,70.0,-72.0,72.0,78.0,-80.0,80.0,72.0,80.0,152.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 64,GENIN Marie,60.1,63.0,-66.0,66.0,84.0,-87.0,-87.0,66.0,84.0,150.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 64,DELACHAT Mathilde,63.6,62.0,-65.0,-66.0,82.0,-85.0,87.0,62.0,87.0,149.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 64,LAUV Pauline,63.7,-63.0,63.0,-72.0,80.0,83.0,-85.0,63.0,83.0,146.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 64,EBERENA Sylvie,63.9,64.0,-67.0,-67.0,80.0,-84.0,-85.0,64.0,80.0,144.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 64,MAINCENT Laetitia,63.2,63.0,66.0,-68.0,-80.0,-80.0,-80.0,66.0,0.0,0.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 71,RAHMANI Aciyah,70.7,-68.0,68.0,71.0,85.0,-90.0,-90.0,71.0,85.0,156.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 71,LOUSTALET JOUAN Anaïs,67.0,-69.0,69.0,71.0,81.0,84.0,-86.0,71.0,84.0,155.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 71,PEREIRA Camille,68.1,66.0,-70.0,71.0,-80.0,80.0,-86.0,71.0,80.0,151.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 76,DUMUR Armony,74.8,-68.0,-68.0,68.0,85.0,90.0,-99.0,68.0,90.0,158.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women >87,SERRE Julie,96.5,72.0,-76.0,-76.0,-94.0,-94.0,94.0,72.0,94.0,166.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 55,CADONI Perrine,53.82,63.0,-65.0,-66.0,77.0,-80.0,-82.0,63.0,77.0,140.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 55,BICH Adèlaïde,53.6,56.0,59.0,-61.0,75.0,78.0,-80.0,59.0,78.0,137.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 55,LENY Apolline,54.5,57.0,-60.0,-61.0,-70.0,70.0,-74.0,57.0,70.0,127.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 59,LOUBERE-CLAVERIE Noa,57.9,61.0,65.0,67.0,80.0,88.0,-90.0,67.0,88.0,155.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 59,LALLOYEAU Marilou,58.13,65.0,68.0,70.0,82.0,-85.0,-85.0,70.0,82.0,152.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 64,LORTAL Orane,62.5,-63.0,63.0,-66.0,78.0,-82.0,-82.0,63.0,78.0,141.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 64,SALELLES Manon,60.6,-66.0,-66.0,-67.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 55,CADONI Perrine,53.82,63.0,-65.0,-66.0,77.0,-80.0,-82.0,63.0,77.0,140.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 55,BICH Adèlaïde,53.6,56.0,59.0,-61.0,75.0,78.0,-80.0,59.0,78.0,137.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 55,LENY Apolline,54.5,57.0,-60.0,-61.0,-70.0,70.0,-74.0,57.0,70.0,127.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 59,LOUBERE-CLAVERIE Noa,57.9,61.0,65.0,67.0,80.0,88.0,-90.0,67.0,88.0,155.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 59,LALLOYEAU Marilou,58.13,65.0,68.0,70.0,82.0,-85.0,-85.0,70.0,82.0,152.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 64,LORTAL Orane,62.5,-63.0,63.0,-66.0,78.0,-82.0,-82.0,63.0,78.0,141.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 64,SALELLES Manon,60.6,-66.0,-66.0,-67.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 45,SITTER Cécile,44.39,50.0,52.0,53.0,61.0,-64.0,-64.0,53.0,61.0,114.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 55,ORTIBUS Nieke,55.0,57.0,-60.0,-60.0,-68.0,70.0,-72.0,57.0,70.0,127.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 55,CLEUTJENS Alix,54.32,58.0,62.0,64.0,-77.0,-81.0,-82.0,64.0,0.0,0.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 59,PESIN Adelyne,55.91,64.0,-67.0,67.0,85.0,-88.0,88.0,67.0,88.0,155.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 64,ROBERT Lucie,60.5,62.0,66.0,-70.0,82.0,86.0,-91.0,66.0,86.0,152.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 76,VAN OVERBEKE Axelle,75.6,70.0,73.0,76.0,84.0,87.0,90.0,76.0,90.0,166.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 45,SITTER Cécile,44.39,50.0,52.0,53.0,61.0,-64.0,-64.0,53.0,61.0,114.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 55,ORTIBUS Nieke,55.0,57.0,-60.0,-60.0,-68.0,70.0,-72.0,57.0,70.0,127.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 55,CLEUTJENS Alix,54.32,58.0,62.0,64.0,-77.0,-81.0,-82.0,64.0,0.0,0.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 59,PESIN Adelyne,55.91,64.0,-67.0,67.0,85.0,-88.0,88.0,67.0,88.0,155.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 64,ROBERT Lucie,60.5,62.0,66.0,-70.0,82.0,86.0,-91.0,66.0,86.0,152.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 76,VAN OVERBEKE Axelle,75.6,70.0,73.0,76.0,84.0,87.0,90.0,76.0,90.0,166.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 49,YSSOUFI Bibi-fatima,48.6,48.0,-51.0,51.0,-65.0,65.0,-68.0,51.0,65.0,116.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 55,GONTIER Amandine,54.6,56.0,59.0,62.0,68.0,71.0,73.0,62.0,73.0,135.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 81,GIRARD Clara,80.5,70.0,-78.0,-78.0,-90.0,-90.0,-90.0,70.0,0.0,0.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 49,YSSOUFI Bibi-fatima,48.6,48.0,-51.0,51.0,-65.0,65.0,-68.0,51.0,65.0,116.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 55,GONTIER Amandine,54.6,56.0,59.0,62.0,68.0,71.0,73.0,62.0,73.0,135.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 81,GIRARD Clara,80.5,70.0,-78.0,-78.0,-90.0,-90.0,-90.0,70.0,0.0,0.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 55,GUYOT Charlene,53.0,53.0,58.0,-62.0,68.0,72.0,-75.0,58.0,72.0,130.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 55,REIGNER Delphine,54.1,53.0,58.0,-62.0,68.0,-72.0,-75.0,58.0,68.0,126.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 55,GUYOT Charlene,53.0,53.0,58.0,-62.0,68.0,72.0,-75.0,58.0,72.0,130.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 55,REIGNER Delphine,54.1,53.0,58.0,-62.0,68.0,-72.0,-75.0,58.0,68.0,126.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 64,PANN Nina,63.3,68.0,71.0,-74.0,86.0,-94.0,94.0,71.0,94.0,165.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 64,MIMOUNI VAUDIN Lisa,64.0,67.0,70.0,73.0,82.0,-86.0,-86.0,73.0,82.0,155.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 87,MOREAU Léa,84.85,75.0,-78.0,-78.0,100.0,-104.0,105.0,75.0,105.0,180.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 87,CREGUT DUPONT Léa,82.91,75.0,-78.0,-78.0,95.0,100.0,-107.0,75.0,100.0,175.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 64,PANN Nina,63.3,68.0,71.0,-74.0,86.0,-94.0,94.0,71.0,94.0,165.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 64,MIMOUNI VAUDIN Lisa,64.0,67.0,70.0,73.0,82.0,-86.0,-86.0,73.0,82.0,155.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 87,MOREAU Léa,84.85,75.0,-78.0,-78.0,100.0,-104.0,105.0,75.0,105.0,180.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 87,CREGUT DUPONT Léa,82.91,75.0,-78.0,-78.0,95.0,100.0,-107.0,75.0,100.0,175.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 64,FERREC Énora,62.6,64.0,-68.0,-68.0,-77.0,77.0,80.0,64.0,80.0,144.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 64,FERREC Énora,62.6,64.0,-68.0,-68.0,-77.0,77.0,80.0,64.0,80.0,144.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 59,SCHEER Pauline,57.42,-61.0,63.0,-65.0,-81.0,82.0,85.0,63.0,85.0,148.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 59,CORBETHAU Eva,58.5,60.0,63.0,-65.0,80.0,84.0,-86.0,63.0,84.0,147.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 64,RAMEZ Charlotte,63.1,70.0,73.0,75.0,-90.0,90.0,-93.0,75.0,90.0,165.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 64,BITHOREL Marion,63.0,64.0,67.0,-70.0,83.0,86.0,89.0,67.0,89.0,156.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 71,PRIEUR Justine,69.8,63.0,-67.0,-69.0,82.0,-86.0,-89.0,63.0,82.0,145.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 87,CERDAN Margot,85.88,70.0,73.0,-76.0,96.0,98.0,-103.0,73.0,98.0,171.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 59,SCHEER Pauline,57.42,-61.0,63.0,-65.0,-81.0,82.0,85.0,63.0,85.0,148.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 59,CORBETHAU Eva,58.5,60.0,63.0,-65.0,80.0,84.0,-86.0,63.0,84.0,147.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 64,RAMEZ Charlotte,63.1,70.0,73.0,75.0,-90.0,90.0,-93.0,75.0,90.0,165.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 64,BITHOREL Marion,63.0,64.0,67.0,-70.0,83.0,86.0,89.0,67.0,89.0,156.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 71,PRIEUR Justine,69.8,63.0,-67.0,-69.0,82.0,-86.0,-89.0,63.0,82.0,145.0
+AURA - Grand Prix Fédéral - Comines - 45kg + 55 kg  64,2024-05-18,SEN Women 87,CERDAN Margot,85.88,70.0,73.0,-76.0,96.0,98.0,-103.0,73.0,98.0,171.0

@@ -1,9 +1,27 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-PACA - Criterium Vital sport Monteux F,2021-08-28,U15 Women 64,BOYER Kristina,61.0,44.0,-47.0,48.0,54.0,57.0,60.0,48.0,60.0,108.0
-PACA - Criterium Vital sport Monteux F,2021-08-28,U20 Women 55,RAMBACH Raphaelle,52.0,-48.0,48.0,-50.0,57.0,-60.0,-60.0,48.0,57.0,105.0
-PACA - Criterium Vital sport Monteux F,2021-08-28,SEN Women 45,GRILLON Marie-anne,45.0,25.0,27.0,30.0,30.0,35.0,38.0,30.0,38.0,68.0
-PACA - Criterium Vital sport Monteux F,2021-08-28,SEN Women 55,PAGE Louisiane,54.2,63.0,-67.0,70.0,85.0,90.0,-95.0,70.0,90.0,160.0
-PACA - Criterium Vital sport Monteux F,2021-08-28,SEN Women 59,ZINOUNE Naouel,59.0,40.0,45.0,-50.0,50.0,55.0,60.0,45.0,60.0,105.0
-PACA - Criterium Vital sport Monteux F,2021-08-28,SEN Women 64,MEMBRÉ Tatiana,61.0,63.0,67.0,73.0,85.0,90.0,95.0,73.0,95.0,168.0
-PACA - Criterium Vital sport Monteux F,2021-08-28,W40 Women 59,NOBRE Angelina,57.3,28.0,30.0,-33.0,35.0,37.0,40.0,30.0,40.0,70.0
-PACA - Criterium Vital sport Monteux F,2021-08-28,W55 Women 71,EKEDAHL Annika,65.4,30.0,33.0,-35.0,40.0,43.0,-46.0,33.0,43.0,76.0
+AURA - Challenge Avenir - Clermont ferrant - 1 Challenge Avenir a l'ASM,2022-11-05,U17 Women 55,PICHON Laurine,51.2,18.0,21.0,24.0,28.0,31.0,-33.0,24.0,31.0,55.0
+AURA - Challenge Avenir - Clermont ferrant - 1 Challenge Avenir a l'ASM,2022-11-05,SEN Women 55,BLANCHET Célia,53.8,-51.0,51.0,53.0,-60.0,60.0,63.0,53.0,63.0,116.0
+AURA - Challenge Avenir - Clermont ferrant - 1 Challenge Avenir a l'ASM,2022-11-05,SEN Women 55,COGNARD Albane,54.6,38.0,42.0,45.0,52.0,55.0,58.0,45.0,58.0,103.0
+AURA - Challenge Avenir - Clermont ferrant - 1 Challenge Avenir a l'ASM,2022-11-05,SEN Women 59,ROUGIER Louane,57.4,55.0,60.0,64.0,-75.0,75.0,77.0,64.0,77.0,141.0
+AURA - Challenge Avenir - Clermont ferrant - 1 Challenge Avenir a l'ASM,2022-11-05,U13 Men 35,ISRAILOV Belal,31.2,-27.0,27.0,29.0,32.0,33.0,35.0,29.0,35.0,64.0
+AURA - Challenge Avenir - Clermont ferrant - 1 Challenge Avenir a l'ASM,2022-11-05,U13 Men 40,ISRAILOV Jafar,38.55,27.0,29.0,-31.0,31.0,33.0,35.0,29.0,35.0,64.0
+AURA - Challenge Avenir - Clermont ferrant - 1 Challenge Avenir a l'ASM,2022-11-05,U13 Men 35,ISRAILOV Belal,31.2,-27.0,27.0,29.0,32.0,33.0,35.0,29.0,35.0,64.0
+AURA - Challenge Avenir - Clermont ferrant - 1 Challenge Avenir a l'ASM,2022-11-05,U13 Men 40,ISRAILOV Jafar,38.55,27.0,29.0,-31.0,31.0,33.0,35.0,29.0,35.0,64.0
+AURA - Challenge Avenir - Clermont ferrant - 1 Challenge Avenir a l'ASM,2022-11-05,U20 Men 61,RENARD Hugo,59.15,62.0,67.0,71.0,84.0,89.0,94.0,71.0,94.0,165.0
+AURA - Challenge Avenir - Clermont ferrant - 1 Challenge Avenir a l'ASM,2022-11-05,U20 Men 61,RENARD Benjamin,56.9,62.0,-66.0,69.0,82.0,87.0,-91.0,69.0,87.0,156.0
+AURA - Challenge Avenir - Clermont ferrant - 1 Challenge Avenir a l'ASM,2022-11-05,U20 Men 73,MULLER Nicolas,68.7,59.0,63.0,-66.0,80.0,86.0,-90.0,63.0,86.0,149.0
+AURA - Challenge Avenir - Clermont ferrant - 1 Challenge Avenir a l'ASM,2022-11-05,SEN Men 81,CHAZELLE Bastien,80.75,75.0,-80.0,80.0,95.0,100.0,-105.0,80.0,100.0,180.0
+AURA - Challenge Avenir - Clermont ferrant - 1 Challenge Avenir a l'ASM,2022-11-05,SEN Men 81,BRUNEL Lilian,81.0,60.0,-64.0,66.0,85.0,-90.0,90.0,66.0,90.0,156.0
+AURA - Challenge Avenir - Clermont ferrant - 1 Challenge Avenir a l'ASM,2022-11-05,SEN Men 81,CARTELIER Dimitri,81.0,-58.0,-60.0,60.0,70.0,-75.0,-75.0,60.0,70.0,130.0
+AURA - Challenge Avenir - Clermont ferrant - 1 Challenge Avenir a l'ASM,2022-11-05,SEN Men 89,ADJERI Ramzi,87.15,60.0,65.0,70.0,80.0,85.0,-90.0,70.0,85.0,155.0
+AURA - Challenge Avenir - Clermont ferrant - 1 Challenge Avenir a l'ASM,2022-11-05,SEN Men 102,CANTUEL Sebastien,99.2,90.0,95.0,100.0,110.0,115.0,-120.0,100.0,115.0,215.0
+AURA - Challenge Avenir - Clermont ferrant - 1 Challenge Avenir a l'ASM,2022-11-05,SEN Men 102,NICOLAS Rance,100.0,65.0,70.0,73.0,85.0,90.0,-95.0,73.0,90.0,163.0
+AURA - Challenge Avenir - Clermont ferrant - 1 Challenge Avenir a l'ASM,2022-11-05,U20 Men 61,RENARD Hugo,59.15,62.0,67.0,71.0,84.0,89.0,94.0,71.0,94.0,165.0
+AURA - Challenge Avenir - Clermont ferrant - 1 Challenge Avenir a l'ASM,2022-11-05,U20 Men 61,RENARD Benjamin,56.9,62.0,-66.0,69.0,82.0,87.0,-91.0,69.0,87.0,156.0
+AURA - Challenge Avenir - Clermont ferrant - 1 Challenge Avenir a l'ASM,2022-11-05,U20 Men 73,MULLER Nicolas,68.7,59.0,63.0,-66.0,80.0,86.0,-90.0,63.0,86.0,149.0
+AURA - Challenge Avenir - Clermont ferrant - 1 Challenge Avenir a l'ASM,2022-11-05,SEN Men 81,CHAZELLE Bastien,80.75,75.0,-80.0,80.0,95.0,100.0,-105.0,80.0,100.0,180.0
+AURA - Challenge Avenir - Clermont ferrant - 1 Challenge Avenir a l'ASM,2022-11-05,SEN Men 81,BRUNEL Lilian,81.0,60.0,-64.0,66.0,85.0,-90.0,90.0,66.0,90.0,156.0
+AURA - Challenge Avenir - Clermont ferrant - 1 Challenge Avenir a l'ASM,2022-11-05,SEN Men 81,CARTELIER Dimitri,81.0,-58.0,-60.0,60.0,70.0,-75.0,-75.0,60.0,70.0,130.0
+AURA - Challenge Avenir - Clermont ferrant - 1 Challenge Avenir a l'ASM,2022-11-05,SEN Men 89,ADJERI Ramzi,87.15,60.0,65.0,70.0,80.0,85.0,-90.0,70.0,85.0,155.0
+AURA - Challenge Avenir - Clermont ferrant - 1 Challenge Avenir a l'ASM,2022-11-05,SEN Men 102,CANTUEL Sebastien,99.2,90.0,95.0,100.0,110.0,115.0,-120.0,100.0,115.0,215.0
+AURA - Challenge Avenir - Clermont ferrant - 1 Challenge Avenir a l'ASM,2022-11-05,SEN Men 102,NICOLAS Rance,100.0,65.0,70.0,73.0,85.0,90.0,-95.0,73.0,90.0,163.0

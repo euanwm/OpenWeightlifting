@@ -1,16 +1,14 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 67,HAYAT Raphaël,64.8,83.0,-87.0,87.0,104.0,-108.0,-108.0,87.0,104.0,191.0
-BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 67,AUBIN Dylan,64.6,70.0,73.0,76.0,-90.0,95.0,-100.0,76.0,95.0,171.0
-BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 67,BUTEAU Aurélien,65.8,60.0,68.0,75.0,-75.0,-75.0,76.0,75.0,76.0,151.0
-BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 73,COVILLE Charles,71.9,60.0,65.0,72.0,85.0,88.0,-93.0,72.0,88.0,160.0
-BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 73,AUDOUX Flavien,69.6,60.0,65.0,68.0,75.0,-76.0,76.0,68.0,76.0,144.0
-BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 81,JACQUART Vincent,79.8,85.0,90.0,93.0,-108.0,108.0,-118.0,93.0,108.0,201.0
-BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 81,CHENAL-BORDONNOT Vincent,75.1,73.0,76.0,80.0,90.0,-95.0,98.0,80.0,98.0,178.0
-BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 81,AVRY Valentin,78.4,68.0,71.0,-74.0,90.0,95.0,98.0,71.0,98.0,169.0
-BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 81,HOQUET Simon,78.8,42.0,-45.0,45.0,50.0,55.0,60.0,45.0,60.0,105.0
-BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 89,DIXNEUF Mathias,87.6,90.0,-95.0,95.0,120.0,-128.0,-128.0,95.0,120.0,215.0
-BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 89,DENOUILLE Kevin,85.4,75.0,80.0,82.0,-92.0,95.0,-105.0,82.0,95.0,177.0
-BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 96,TRAVERSE Alexander,90.5,85.0,100.0,105.0,105.0,115.0,-120.0,105.0,115.0,220.0
-BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 96,GUEHENNEC François,92.0,68.0,-71.0,71.0,95.0,100.0,104.0,71.0,104.0,175.0
-BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men 109,LECARS Denovan,106.6,75.0,80.0,85.0,-112.0,115.0,-0.0,85.0,115.0,200.0
-BRE - Challenge Avenir 1 (Lorient),2021-10-31,SEN Men >109,LEMO Tamiano,113.3,130.0,-138.0,141.0,165.0,-175.0,181.0,141.0,181.0,322.0
+NCL - autre - Honiara (sol) - Pacific Games + Oceania Championships,2023-11-20,SEN Women 55,PIOTROWSKY Prescillia,53.85,68.0,-71.0,-72.0,85.0,-88.0,-91.0,68.0,85.0,153.0
+NCL - autre - Honiara (sol) - Pacific Games + Oceania Championships,2023-11-20,SEN Women 64,IDJAN Jessica,62.2,-70.0,70.0,-73.0,-90.0,90.0,-92.0,70.0,90.0,160.0
+NCL - autre - Honiara (sol) - Pacific Games + Oceania Championships,2023-11-20,SEN Women 76,DABIN Demy,75.25,72.0,76.0,78.0,90.0,-93.0,-93.0,78.0,90.0,168.0
+NCL - autre - Honiara (sol) - Pacific Games + Oceania Championships,2023-11-20,SEN Men 55,LAO YAN Mathieu,55.0,-81.0,-83.0,-83.0,95.0,-98.0,98.0,0.0,98.0,0.0
+NCL - autre - Honiara (sol) - Pacific Games + Oceania Championships,2023-11-20,SEN Men 73,PERRAUD Mattéo,72.3,105.0,110.0,-115.0,130.0,137.0,-145.0,110.0,137.0,247.0
+NCL - autre - Honiara (sol) - Pacific Games + Oceania Championships,2023-11-20,SEN Men 81,DUCLOS Sylvain,80.85,115.0,120.0,-124.0,150.0,153.0,-160.0,120.0,153.0,273.0
+NCL - autre - Honiara (sol) - Pacific Games + Oceania Championships,2023-11-20,SEN Men >109,MICHEL Kyle,117.3,125.0,130.0,135.0,155.0,160.0,165.0,135.0,165.0,300.0
+NCL - autre - Honiara (sol) - Pacific Games + Oceania Championships,2023-11-20,SEN Men 55,LAO YAN Mathieu,55.0,-81.0,-83.0,-83.0,95.0,-98.0,98.0,0.0,98.0,0.0
+NCL - autre - Honiara (sol) - Pacific Games + Oceania Championships,2023-11-20,SEN Men 73,PERRAUD Mattéo,72.3,105.0,110.0,-115.0,130.0,137.0,-145.0,110.0,137.0,247.0
+NCL - autre - Honiara (sol) - Pacific Games + Oceania Championships,2023-11-20,SEN Men 81,DUCLOS Sylvain,80.85,115.0,120.0,-124.0,150.0,153.0,-160.0,120.0,153.0,273.0
+NCL - autre - Honiara (sol) - Pacific Games + Oceania Championships,2023-11-20,SEN Men >109,MICHEL Kyle,117.3,125.0,130.0,135.0,155.0,160.0,165.0,135.0,165.0,300.0
+NCL - autre - Honiara (sol) - Pacific Games + Oceania Championships,2023-11-20,SEN Women 59,DAM WAN Diane,58.5,67.0,-70.0,71.0,76.0,-79.0,-80.0,71.0,76.0,147.0
+NCL - autre - Honiara (sol) - Pacific Games + Oceania Championships,2023-11-20,SEN Women 59,DAM WAN Diane,58.5,67.0,-70.0,71.0,76.0,-79.0,-80.0,71.0,76.0,147.0

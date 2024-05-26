@@ -1,12 +1,15 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-Chal Avenir 3 - U15 à SEN - Dpt 68,2019-11-30,U15 Women 45,MULLER Manon,44.35,16.0,-19.0,19.0,16.0,18.0,-20.0,19.0,18.0,37.0
-Chal Avenir 3 - U15 à SEN - Dpt 68,2019-11-30,U15 Women 71,LICHTLE Elisa,71.0,25.0,-28.0,28.0,35.0,-38.0,38.0,28.0,38.0,66.0
-Chal Avenir 3 - U15 à SEN - Dpt 68,2019-11-30,U15 Women 71,VIKOR-KANIA Marjorie,69.75,15.0,-18.0,18.0,22.0,24.0,26.0,18.0,26.0,44.0
-Chal Avenir 3 - U15 à SEN - Dpt 68,2019-11-30,U17 Women 55,MANNY Elodie,52.6,23.0,25.0,27.0,29.0,32.0,-35.0,27.0,32.0,59.0
-Chal Avenir 3 - U15 à SEN - Dpt 68,2019-11-30,SEN Women 59,MAMET Audrey,58.7,30.0,35.0,-38.0,40.0,43.0,46.0,35.0,46.0,81.0
-Chal Avenir 3 - U15 à SEN - Dpt 68,2019-11-30,SEN Women 59,KATT Jennifer,55.45,30.0,33.0,-35.0,40.0,43.0,45.0,33.0,45.0,78.0
-Chal Avenir 3 - U15 à SEN - Dpt 68,2019-11-30,SEN Women 64,RUOLT Celine,63.2,50.0,53.0,55.0,61.0,66.0,-70.0,55.0,66.0,121.0
-Chal Avenir 3 - U15 à SEN - Dpt 68,2019-11-30,SEN Women 64,LICHTLE Corinne,63.2,-36.0,36.0,38.0,46.0,49.0,-52.0,38.0,49.0,87.0
-Chal Avenir 3 - U15 à SEN - Dpt 68,2019-11-30,SEN Women 71,MORITZ Cindy,66.6,48.0,51.0,-53.0,57.0,62.0,64.0,51.0,64.0,115.0
-Chal Avenir 3 - U15 à SEN - Dpt 68,2019-11-30,SEN Women 71,GRANDJEAN Coraline,64.35,38.0,-40.0,-42.0,50.0,56.0,57.0,38.0,57.0,95.0
-Chal Avenir 3 - U15 à SEN - Dpt 68,2019-11-30,SEN Women 76,VOGT Clémence,72.55,-40.0,40.0,-43.0,50.0,54.0,57.0,40.0,57.0,97.0
+PACA - Challenge avenir 1 - secteur A,2021-07-24,U17 Men 61,JOLY Thibaut,60.6,75.0,80.0,-85.0,95.0,100.0,-105.0,80.0,100.0,180.0
+PACA - Challenge avenir 1 - secteur A,2021-07-24,U17 Men 73,ESPIN Antoine,69.5,57.0,-59.0,60.0,84.0,88.0,90.0,60.0,90.0,150.0
+PACA - Challenge avenir 1 - secteur A,2021-07-24,U20 Men 73,BATTAGLIA Nicolas,72.9,78.0,81.0,83.0,95.0,100.0,105.0,83.0,105.0,188.0
+PACA - Challenge avenir 1 - secteur A,2021-07-24,SEN Men 67,AVRILLAS Quentin,63.9,87.0,-91.0,93.0,108.0,115.0,120.0,93.0,120.0,213.0
+PACA - Challenge avenir 1 - secteur A,2021-07-24,SEN Men 73,FOLCHER Guilhem,73.0,90.0,95.0,-100.0,110.0,115.0,-121.0,95.0,115.0,210.0
+PACA - Challenge avenir 1 - secteur A,2021-07-24,SEN Men 81,FORESTIERI Joris,81.0,-95.0,96.0,101.0,108.0,113.0,-120.0,101.0,113.0,214.0
+PACA - Challenge avenir 1 - secteur A,2021-07-24,SEN Men 81,RAMOS Julien,81.0,90.0,-95.0,-95.0,110.0,115.0,120.0,90.0,120.0,210.0
+PACA - Challenge avenir 1 - secteur A,2021-07-24,SEN Men 81,AZZARETTO Enzo,74.0,86.0,91.0,-95.0,105.0,-110.0,-111.0,91.0,105.0,196.0
+PACA - Challenge avenir 1 - secteur A,2021-07-24,SEN Men 81,ESPIN Baptiste,78.0,82.0,86.0,-90.0,101.0,106.0,110.0,86.0,110.0,196.0
+PACA - Challenge avenir 1 - secteur A,2021-07-24,SEN Men 81,KADRY Yanis,74.9,77.0,-81.0,-81.0,101.0,107.0,111.0,77.0,111.0,188.0
+PACA - Challenge avenir 1 - secteur A,2021-07-24,SEN Men 81,ROLANDO Jonathan,80.1,70.0,75.0,-78.0,-85.0,90.0,95.0,75.0,95.0,170.0
+PACA - Challenge avenir 1 - secteur A,2021-07-24,SEN Men 89,NEBLEZA Thierry,81.9,77.0,81.0,-85.0,92.0,-100.0,-100.0,81.0,92.0,173.0
+PACA - Challenge avenir 1 - secteur A,2021-07-24,U13 Men 45,ESPIN Yanis,42.15,24.0,-26.0,26.0,29.0,31.0,33.0,26.0,33.0,59.0
+PACA - Challenge avenir 1 - secteur A,2021-07-24,U13 Men 45,ESPIN Yanis,42.15,24.0,-26.0,26.0,29.0,31.0,33.0,26.0,33.0,59.0

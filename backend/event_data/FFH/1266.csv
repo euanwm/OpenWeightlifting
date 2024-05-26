@@ -1,15 +1,17 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-AURA - Critérium nationale lyonnais - 28 août 2021,2021-08-28,U17 Women 71,OUTTERS Maud,65.25,53.0,55.0,-56.0,-62.0,-65.0,65.0,55.0,65.0,120.0
-AURA - Critérium nationale lyonnais - 28 août 2021,2021-08-28,U20 Women 64,HOUELCHE Charline,62.4,60.0,63.0,64.0,71.0,-73.0,-73.0,64.0,71.0,135.0
-AURA - Critérium nationale lyonnais - 28 août 2021,2021-08-28,U20 Women 64,KHERRAF Chloe,63.3,55.0,-60.0,-61.0,70.0,-75.0,-75.0,55.0,70.0,125.0
-AURA - Critérium nationale lyonnais - 28 août 2021,2021-08-28,SEN Women 45,PEETERS Emilie,42.25,-50.0,50.0,-52.0,61.0,63.0,-65.0,50.0,63.0,113.0
-AURA - Critérium nationale lyonnais - 28 août 2021,2021-08-28,SEN Women 55,AMORUSO Estelle,51.75,-60.0,60.0,-62.0,72.0,-78.0,-78.0,60.0,72.0,132.0
-AURA - Critérium nationale lyonnais - 28 août 2021,2021-08-28,SEN Women 55,DOUCET CHARPIN Sophie,54.9,-50.0,50.0,53.0,63.0,67.0,70.0,53.0,70.0,123.0
-AURA - Critérium nationale lyonnais - 28 août 2021,2021-08-28,SEN Women 59,VASCONCELOS Helen,59.0,65.0,70.0,75.0,80.0,-87.0,-90.0,75.0,80.0,155.0
-AURA - Critérium nationale lyonnais - 28 août 2021,2021-08-28,SEN Women 59,GOMEZ Charlène,58.35,46.0,-48.0,-48.0,56.0,59.0,-61.0,46.0,59.0,105.0
-AURA - Critérium nationale lyonnais - 28 août 2021,2021-08-28,SEN Women 64,VALEMBOIS Emma,63.8,75.0,-80.0,-80.0,90.0,100.0,105.0,75.0,105.0,180.0
-AURA - Critérium nationale lyonnais - 28 août 2021,2021-08-28,SEN Women 64,AIGLE Elena,60.6,67.0,-70.0,70.0,-85.0,85.0,-88.0,70.0,85.0,155.0
-AURA - Critérium nationale lyonnais - 28 août 2021,2021-08-28,SEN Women 64,MOUDIN Marion,62.05,-55.0,-55.0,55.0,65.0,70.0,-73.0,55.0,70.0,125.0
-AURA - Critérium nationale lyonnais - 28 août 2021,2021-08-28,SEN Women 64,DEBRAY Naomie,63.7,-50.0,50.0,-53.0,62.0,-66.0,-70.0,50.0,62.0,112.0
-AURA - Critérium nationale lyonnais - 28 août 2021,2021-08-28,SEN Women 71,DA SILVA Dominique,69.4,-58.0,-58.0,58.0,70.0,-75.0,-75.0,58.0,70.0,128.0
-AURA - Critérium nationale lyonnais - 28 août 2021,2021-08-28,SEN Women 76,PEREZ-MIVIERE Alexia,74.7,70.0,-73.0,-73.0,100.0,-103.0,-105.0,70.0,100.0,170.0
+GE - Challenge Avenir - Langres (haute-marne - 052),2022-11-18,U13 Men 35,BONNENFANT Marlon,33.5,-15.0,15.0,17.0,17.0,-19.0,19.0,17.0,19.0,36.0
+GE - Challenge Avenir - Langres (haute-marne - 052),2022-11-18,U13 Men 61,SEGUIN Timeo,55.3,12.0,14.0,-15.0,14.0,16.0,18.0,14.0,18.0,32.0
+GE - Challenge Avenir - Langres (haute-marne - 052),2022-11-18,U13 Women 35,BESANCENOT Juliette,29.9,15.0,17.0,19.0,19.0,21.0,23.0,19.0,23.0,42.0
+GE - Challenge Avenir - Langres (haute-marne - 052),2022-11-18,U13 Women 45,RAILLARD Lucie,40.8,15.0,17.0,19.0,17.0,19.0,21.0,19.0,21.0,40.0
+GE - Challenge Avenir - Langres (haute-marne - 052),2022-11-18,U13 Women 71,KOCH Melody,70.6,12.0,14.0,16.0,15.0,17.0,19.0,16.0,19.0,35.0
+GE - Challenge Avenir - Langres (haute-marne - 052),2022-11-18,U13 Women >71,DOUMBIA Emna-kady,93.1,-12.0,12.0,14.0,15.0,17.0,19.0,14.0,19.0,33.0
+GE - Challenge Avenir - Langres (haute-marne - 052),2022-11-18,U15 Women 49,SIKORA Celeste,47.7,26.0,-30.0,30.0,30.0,35.0,39.0,30.0,39.0,69.0
+GE - Challenge Avenir - Langres (haute-marne - 052),2022-11-18,U15 Women 55,ROUSSEL Naomie,53.9,30.0,34.0,-36.0,35.0,40.0,43.0,34.0,43.0,77.0
+GE - Challenge Avenir - Langres (haute-marne - 052),2022-11-18,U15 Women 49,SIKORA Celeste,47.7,26.0,-30.0,30.0,30.0,35.0,39.0,30.0,39.0,69.0
+GE - Challenge Avenir - Langres (haute-marne - 052),2022-11-18,U15 Women 55,ROUSSEL Naomie,53.9,30.0,34.0,-36.0,35.0,40.0,43.0,34.0,43.0,77.0
+GE - Challenge Avenir - Langres (haute-marne - 052),2022-11-18,U15 Men 55,BONNENFANT Aaron,54.8,35.0,40.0,44.0,-40.0,40.0,43.0,44.0,43.0,87.0
+GE - Challenge Avenir - Langres (haute-marne - 052),2022-11-18,U17 Men 61,BLAISON Paul,55.3,30.0,34.0,36.0,35.0,40.0,44.0,36.0,44.0,80.0
+GE - Challenge Avenir - Langres (haute-marne - 052),2022-11-18,U20 Men >109,FLOQUET Louison,121.0,70.0,75.0,80.0,90.0,95.0,101.0,80.0,101.0,181.0
+GE - Challenge Avenir - Langres (haute-marne - 052),2022-11-18,U15 Men 55,BONNENFANT Aaron,54.8,35.0,40.0,44.0,-40.0,40.0,43.0,44.0,43.0,87.0
+GE - Challenge Avenir - Langres (haute-marne - 052),2022-11-18,U17 Men 61,BLAISON Paul,55.3,30.0,34.0,36.0,35.0,40.0,44.0,36.0,44.0,80.0
+GE - Challenge Avenir - Langres (haute-marne - 052),2022-11-18,U20 Men >109,FLOQUET Louison,121.0,70.0,75.0,80.0,90.0,95.0,101.0,80.0,101.0,181.0

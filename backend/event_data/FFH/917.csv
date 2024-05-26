@@ -1,6 +1,21 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-PDL - Challenge de l'avenir n°2,2021-06-12,U17 Women 55,BRUN Heloise,54.05,30.0,34.0,-37.0,39.0,42.0,45.0,34.0,45.0,79.0
-PDL - Challenge de l'avenir n°2,2021-06-12,U17 Women 71,HAMARD Zelie,70.08,36.0,38.0,-40.0,45.0,48.0,-50.0,38.0,48.0,86.0
-PDL - Challenge de l'avenir n°2,2021-06-12,U17 Women >81,DODARD Mathilde,81.79,42.0,45.0,-48.0,53.0,56.0,-59.0,45.0,56.0,101.0
-PDL - Challenge de l'avenir n°2,2021-06-12,SEN Women 64,COHELEAC'H Gwennan,60.42,28.0,31.0,-33.0,38.0,40.0,42.0,31.0,42.0,73.0
-PDL - Challenge de l'avenir n°2,2021-06-12,SEN Women 76,COGNON Charlene,74.62,43.0,-45.0,45.0,52.0,-55.0,-0.0,45.0,52.0,97.0
+HDF - 1er Challenge Avenir Dép59 Hommes SEN,2021-11-13,SEN Men 73,PARANTHOEN Kevin,69.1,60.0,65.0,70.0,80.0,90.0,100.0,70.0,100.0,170.0
+HDF - 1er Challenge Avenir Dép59 Hommes SEN,2021-11-13,SEN Men 73,FONTENELLE Ludovic,71.6,65.0,70.0,75.0,80.0,86.0,92.0,75.0,92.0,167.0
+HDF - 1er Challenge Avenir Dép59 Hommes SEN,2021-11-13,SEN Men 73,BELHADJOUDJA Fayçal,73.0,73.0,-77.0,-78.0,-0.0,-0.0,-0.0,73.0,0.0,0.0
+HDF - 1er Challenge Avenir Dép59 Hommes SEN,2021-11-13,SEN Men 81,LANGLOIS Meryl,77.8,65.0,70.0,75.0,95.0,105.0,112.0,75.0,112.0,187.0
+HDF - 1er Challenge Avenir Dép59 Hommes SEN,2021-11-13,SEN Men 81,RIQUIER Daniel,75.9,75.0,80.0,-83.0,95.0,100.0,103.0,80.0,103.0,183.0
+HDF - 1er Challenge Avenir Dép59 Hommes SEN,2021-11-13,SEN Men 81,LECOINTRE Stephane,79.3,75.0,80.0,-85.0,90.0,95.0,-100.0,80.0,95.0,175.0
+HDF - 1er Challenge Avenir Dép59 Hommes SEN,2021-11-13,SEN Men 81,ROBERT Julien,80.0,75.0,-78.0,78.0,85.0,90.0,93.0,78.0,93.0,171.0
+HDF - 1er Challenge Avenir Dép59 Hommes SEN,2021-11-13,SEN Men 81,PENDON Christophe,81.0,-70.0,-75.0,75.0,85.0,92.0,-100.0,75.0,92.0,167.0
+HDF - 1er Challenge Avenir Dép59 Hommes SEN,2021-11-13,SEN Men 81,LEHAQUE Herve,80.2,42.0,-45.0,45.0,55.0,60.0,-62.0,45.0,60.0,105.0
+HDF - 1er Challenge Avenir Dép59 Hommes SEN,2021-11-13,SEN Men 89,AMOUSSOU Edwin,87.8,105.0,110.0,117.0,127.0,132.0,-137.0,117.0,132.0,249.0
+HDF - 1er Challenge Avenir Dép59 Hommes SEN,2021-11-13,SEN Men 89,DOCQ Stéphane,87.11,78.0,82.0,-86.0,95.0,100.0,-105.0,82.0,100.0,182.0
+HDF - 1er Challenge Avenir Dép59 Hommes SEN,2021-11-13,SEN Men 89,PIRON Matthieu,87.72,45.0,-50.0,50.0,65.0,70.0,75.0,50.0,75.0,125.0
+HDF - 1er Challenge Avenir Dép59 Hommes SEN,2021-11-13,SEN Men 96,DAVESNE Adrien,89.6,88.0,93.0,98.0,108.0,113.0,118.0,98.0,118.0,216.0
+HDF - 1er Challenge Avenir Dép59 Hommes SEN,2021-11-13,SEN Men 96,HOELLE Alexis,91.3,-75.0,75.0,80.0,91.0,100.0,105.0,80.0,105.0,185.0
+HDF - 1er Challenge Avenir Dép59 Hommes SEN,2021-11-13,SEN Men 96,BONNEL Fabien,94.15,40.0,45.0,50.0,65.0,70.0,75.0,50.0,75.0,125.0
+HDF - 1er Challenge Avenir Dép59 Hommes SEN,2021-11-13,SEN Men 102,LE GONIDEC Eddy,99.5,80.0,85.0,90.0,100.0,110.0,115.0,90.0,115.0,205.0
+HDF - 1er Challenge Avenir Dép59 Hommes SEN,2021-11-13,SEN Men 109,MICHEL Arthur,108.3,-110.0,110.0,115.0,130.0,136.0,-142.0,115.0,136.0,251.0
+HDF - 1er Challenge Avenir Dép59 Hommes SEN,2021-11-13,SEN Men 109,BOEYKENS Nicolas,107.3,-100.0,100.0,105.0,120.0,130.0,140.0,105.0,140.0,245.0
+HDF - 1er Challenge Avenir Dép59 Hommes SEN,2021-11-13,SEN Men 109,BRANCHEREAU Samuel,107.2,101.0,-106.0,-108.0,-112.0,112.0,-118.0,101.0,112.0,213.0
+HDF - 1er Challenge Avenir Dép59 Hommes SEN,2021-11-13,SEN Men >109,ALARD Jimmy,119.9,80.0,90.0,100.0,110.0,120.0,-0.0,100.0,120.0,220.0

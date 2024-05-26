@@ -1,12 +1,9 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-GE - Challenge Avenir 2- Haut-Rhin - Hom,2021-11-06,U15 Men 73,NICOLAS Cléo,70.65,28.0,-31.0,31.0,32.0,37.0,40.0,31.0,40.0,71.0
-GE - Challenge Avenir 2- Haut-Rhin - Hom,2021-11-06,U15 Men 73,PARMENTIER Arthur,71.4,20.0,22.0,-24.0,20.0,23.0,-25.0,22.0,23.0,45.0
-GE - Challenge Avenir 2- Haut-Rhin - Hom,2021-11-06,U17 Men 73,LAEMLIN Yoan,71.0,50.0,54.0,-57.0,63.0,67.0,70.0,54.0,70.0,124.0
-GE - Challenge Avenir 2- Haut-Rhin - Hom,2021-11-06,U20 Men 67,OTT Guillaume,66.1,50.0,55.0,-60.0,60.0,67.0,72.0,55.0,72.0,127.0
-GE - Challenge Avenir 2- Haut-Rhin - Hom,2021-11-06,U20 Men 73,KATT Joshua,69.35,68.0,72.0,75.0,85.0,90.0,93.0,75.0,93.0,168.0
-GE - Challenge Avenir 2- Haut-Rhin - Hom,2021-11-06,U20 Men >109,LAEMLIN Jules,130.7,70.0,75.0,78.0,100.0,-105.0,-105.0,78.0,100.0,178.0
-GE - Challenge Avenir 2- Haut-Rhin - Hom,2021-11-06,SEN Men 73,RITZENTHALER Frederic,68.9,81.0,84.0,87.0,105.0,110.0,113.0,87.0,113.0,200.0
-GE - Challenge Avenir 2- Haut-Rhin - Hom,2021-11-06,SEN Men 81,KEK Moni,80.1,67.0,72.0,77.0,90.0,95.0,-100.0,77.0,95.0,172.0
-GE - Challenge Avenir 2- Haut-Rhin - Hom,2021-11-06,SEN Men 89,LEPPERT Steeve,81.15,85.0,87.0,90.0,105.0,110.0,113.0,90.0,113.0,203.0
-GE - Challenge Avenir 2- Haut-Rhin - Hom,2021-11-06,SEN Men 89,FRANK Lionel,81.35,-80.0,-80.0,81.0,-99.0,99.0,-101.0,81.0,99.0,180.0
-GE - Challenge Avenir 2- Haut-Rhin - Hom,2021-11-06,SEN Men 89,SAAD Ahmad,84.3,60.0,-65.0,65.0,75.0,80.0,85.0,65.0,85.0,150.0
+HDF - REG1 - Amiens - 1er Tour  SCHAM/KCVB,2023-11-18,U20 Women 59,LECLERC Jade,56.0,50.0,-54.0,54.0,65.0,69.0,-71.0,54.0,69.0,123.0
+HDF - REG1 - Amiens - 1er Tour  SCHAM/KCVB,2023-11-18,U20 Women 76,NOURTIER Lyla,74.8,62.0,64.0,66.0,78.0,-81.0,-81.0,66.0,78.0,144.0
+HDF - REG1 - Amiens - 1er Tour  SCHAM/KCVB,2023-11-18,SEN Women 49,SITTER Cécile,45.1,45.0,48.0,50.0,55.0,58.0,-60.0,50.0,58.0,108.0
+HDF - REG1 - Amiens - 1er Tour  SCHAM/KCVB,2023-11-18,SEN Women 59,BOURBIER Maeva,58.1,45.0,-48.0,48.0,52.0,55.0,60.0,48.0,60.0,108.0
+HDF - REG1 - Amiens - 1er Tour  SCHAM/KCVB,2023-11-18,SEN Women 64,DUCHAN Chloé,59.9,62.0,64.0,66.0,75.0,80.0,-82.0,66.0,80.0,146.0
+HDF - REG1 - Amiens - 1er Tour  SCHAM/KCVB,2023-11-18,SEN Women 64,RIEDBERGER Aude,59.7,40.0,43.0,45.0,48.0,51.0,53.0,45.0,53.0,98.0
+HDF - REG1 - Amiens - 1er Tour  SCHAM/KCVB,2023-11-18,SEN Women 71,RIBET Manon,65.9,53.0,-55.0,-55.0,65.0,70.0,-73.0,53.0,70.0,123.0
+HDF - REG1 - Amiens - 1er Tour  SCHAM/KCVB,2023-11-18,SEN Women 71,VIVIER Charlotte,68.9,45.0,48.0,50.0,55.0,58.0,61.0,50.0,61.0,111.0

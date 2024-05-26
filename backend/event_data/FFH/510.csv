@@ -1,0 +1,484 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U15 Women 55,LASFAR Dounia,55.0,28.0,-30.0,-30.0,38.0,40.0,-42.0,28.0,40.0,68.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U15 Women 71,JONQUIERES Héloïse,68.4,38.0,42.0,-45.0,52.0,-56.0,-60.0,42.0,52.0,94.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U17 Women 55,LORET Leïlou,52.2,46.0,49.0,-51.0,60.0,64.0,-67.0,49.0,64.0,113.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 49,PARISIS Ambre,46.8,-47.0,47.0,50.0,50.0,55.0,61.0,50.0,61.0,111.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 55,DELHAYE Lea,51.4,38.0,-41.0,-43.0,51.0,54.0,56.0,38.0,56.0,94.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 59,MANSO Alexya,57.6,42.0,45.0,47.0,60.0,62.0,63.0,47.0,63.0,110.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 64,DE SAMPAIO Nina,61.7,51.0,54.0,56.0,60.0,64.0,68.0,56.0,68.0,124.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U15 Men 67,ROUSSEL Emilien,65.97,-60.0,60.0,-65.0,83.0,-90.0,-90.0,60.0,83.0,143.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U17 Men 61,L'ESPRIT Gabin,60.53,72.0,76.0,-80.0,82.0,86.0,-90.0,76.0,86.0,162.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Men 67,VINNAC Lilian,65.9,82.0,-85.0,-85.0,-103.0,-103.0,-108.0,82.0,0.0,0.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Men 96,HAVET Bastien,91.85,-115.0,115.0,-120.0,146.0,-152.0,-152.0,115.0,146.0,261.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 67,CORNU Lorik,66.23,86.0,91.0,-95.0,-105.0,105.0,-110.0,91.0,105.0,196.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 73,PRISSE Kevin,72.02,92.0,100.0,103.0,120.0,-125.0,-125.0,103.0,120.0,223.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 73,MILOSEVIC Yvan - alexis,71.8,-88.0,88.0,95.0,110.0,115.0,-120.0,95.0,115.0,210.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,GHAZARYAN Norik,80.48,135.0,-141.0,141.0,175.0,-176.0,-180.0,141.0,175.0,316.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,AWUVE Seyenam,78.89,110.0,-120.0,-120.0,140.0,-150.0,-0.0,110.0,140.0,250.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,NGUYEN Minh,80.46,95.0,100.0,-102.0,115.0,120.0,123.0,100.0,123.0,223.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,CASTEL Guillaume,79.42,108.0,-112.0,-112.0,-130.0,-130.0,-130.0,108.0,0.0,0.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 89,BOULINGUEZ Maxime,88.18,115.0,-119.0,119.0,141.0,-150.0,-150.0,119.0,141.0,260.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 96,COMBES Matthieu,93.63,110.0,-114.0,-115.0,130.0,-135.0,-135.0,110.0,130.0,240.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 96,BERTRAND Mathieu,90.16,-105.0,-108.0,108.0,-0.0,-0.0,-0.0,108.0,0.0,0.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 102,DAMME Arthur,98.74,-113.0,113.0,-117.0,151.0,-157.0,-157.0,113.0,151.0,264.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men >109,COULLET Anthony,153.64,140.0,147.0,153.0,185.0,195.0,202.0,153.0,202.0,355.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U15 Men 67,ROUSSEL Emilien,65.97,-60.0,60.0,-65.0,83.0,-90.0,-90.0,60.0,83.0,143.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U17 Men 61,L'ESPRIT Gabin,60.53,72.0,76.0,-80.0,82.0,86.0,-90.0,76.0,86.0,162.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Men 67,VINNAC Lilian,65.9,82.0,-85.0,-85.0,-103.0,-103.0,-108.0,82.0,0.0,0.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Men 96,HAVET Bastien,91.85,-115.0,115.0,-120.0,146.0,-152.0,-152.0,115.0,146.0,261.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 67,CORNU Lorik,66.23,86.0,91.0,-95.0,-105.0,105.0,-110.0,91.0,105.0,196.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 73,PRISSE Kevin,72.02,92.0,100.0,103.0,120.0,-125.0,-125.0,103.0,120.0,223.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 73,MILOSEVIC Yvan - alexis,71.8,-88.0,88.0,95.0,110.0,115.0,-120.0,95.0,115.0,210.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,GHAZARYAN Norik,80.48,135.0,-141.0,141.0,175.0,-176.0,-180.0,141.0,175.0,316.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,AWUVE Seyenam,78.89,110.0,-120.0,-120.0,140.0,-150.0,-0.0,110.0,140.0,250.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,NGUYEN Minh,80.46,95.0,100.0,-102.0,115.0,120.0,123.0,100.0,123.0,223.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,CASTEL Guillaume,79.42,108.0,-112.0,-112.0,-130.0,-130.0,-130.0,108.0,0.0,0.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 89,BOULINGUEZ Maxime,88.18,115.0,-119.0,119.0,141.0,-150.0,-150.0,119.0,141.0,260.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 96,COMBES Matthieu,93.63,110.0,-114.0,-115.0,130.0,-135.0,-135.0,110.0,130.0,240.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 96,BERTRAND Mathieu,90.16,-105.0,-108.0,108.0,-0.0,-0.0,-0.0,108.0,0.0,0.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 102,DAMME Arthur,98.74,-113.0,113.0,-117.0,151.0,-157.0,-157.0,113.0,151.0,264.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men >109,COULLET Anthony,153.64,140.0,147.0,153.0,185.0,195.0,202.0,153.0,202.0,355.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Men 40,MISSEGUE Loris,39.0,14.0,16.0,18.0,-26.0,26.0,28.0,18.0,28.0,46.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Men 45,ALCARAZ Thomas,43.1,22.0,24.0,25.0,33.0,35.0,37.0,25.0,37.0,62.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Men 45,ROSS Clément,44.6,20.0,-22.0,22.0,31.0,33.0,35.0,22.0,35.0,57.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Men 45,DIAS Aaron,43.4,20.0,22.0,24.0,26.0,28.0,30.0,24.0,30.0,54.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Men 61,CRUZ Clément,56.3,35.0,37.0,-39.0,44.0,46.0,48.0,37.0,48.0,85.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Men 61,FILHES Marius,58.9,24.0,26.0,28.0,35.0,37.0,-39.0,28.0,37.0,65.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Men 67,GOUGEON Arthur,63.7,20.0,22.0,24.0,26.0,28.0,30.0,24.0,30.0,54.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Women 45,ALCARAZ Charlotte,43.4,25.0,27.0,-28.0,35.0,37.0,38.0,27.0,38.0,65.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Women 49,COLUCCI-BREIL Ninon,46.2,12.0,14.0,16.0,-22.0,22.0,24.0,16.0,24.0,40.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Men 40,MISSEGUE Loris,39.0,14.0,16.0,18.0,-26.0,26.0,28.0,18.0,28.0,46.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Men 45,ALCARAZ Thomas,43.1,22.0,24.0,25.0,33.0,35.0,37.0,25.0,37.0,62.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Men 45,ROSS Clément,44.6,20.0,-22.0,22.0,31.0,33.0,35.0,22.0,35.0,57.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Men 45,DIAS Aaron,43.4,20.0,22.0,24.0,26.0,28.0,30.0,24.0,30.0,54.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Men 61,CRUZ Clément,56.3,35.0,37.0,-39.0,44.0,46.0,48.0,37.0,48.0,85.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Men 61,FILHES Marius,58.9,24.0,26.0,28.0,35.0,37.0,-39.0,28.0,37.0,65.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Men 67,GOUGEON Arthur,63.7,20.0,22.0,24.0,26.0,28.0,30.0,24.0,30.0,54.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Women 45,ALCARAZ Charlotte,43.4,25.0,27.0,-28.0,35.0,37.0,38.0,27.0,38.0,65.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Women 49,COLUCCI-BREIL Ninon,46.2,12.0,14.0,16.0,-22.0,22.0,24.0,16.0,24.0,40.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,L HERMIER Nolwen,54.6,64.0,67.0,-69.0,84.0,86.0,-88.0,67.0,86.0,153.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,SEIXO Lola,54.4,61.0,63.0,-65.0,72.0,75.0,77.0,63.0,77.0,140.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,VELASCO LANDEAU Laura camila,52.9,47.0,-50.0,50.0,66.0,-70.0,-73.0,50.0,66.0,116.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,CAVAILLE Melina,54.3,50.0,-53.0,-53.0,60.0,-64.0,64.0,50.0,64.0,114.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,COMBES Caroline,53.4,45.0,48.0,-50.0,-56.0,56.0,60.0,48.0,60.0,108.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,CARIVEN Agathe,58.9,48.0,50.0,-52.0,60.0,62.0,65.0,50.0,65.0,115.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,BADIANO Valentine,58.8,-49.0,50.0,-53.0,58.0,61.0,64.0,50.0,64.0,114.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 64,CARPENTIER Augustine,63.0,-61.0,61.0,-63.0,73.0,-76.0,-76.0,61.0,73.0,134.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 64,LENEZ Enora,63.6,-54.0,57.0,-60.0,64.0,-68.0,68.0,57.0,68.0,125.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 64,OBRY Aurore,62.5,52.0,54.0,-56.0,62.0,64.0,66.0,54.0,66.0,120.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 71,MARCOUX Isaure,70.7,63.0,65.0,-66.0,74.0,-77.0,-77.0,65.0,74.0,139.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 71,MALET Marion,66.5,58.0,60.0,-62.0,71.0,75.0,-80.0,60.0,75.0,135.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 71,MASSON Floriane,69.8,-62.0,-62.0,-64.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 76,THIOLLIER Zoe,72.6,53.0,56.0,-60.0,71.0,75.0,-80.0,56.0,75.0,131.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,L HERMIER Nolwen,54.6,64.0,67.0,-69.0,84.0,86.0,-88.0,67.0,86.0,153.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,SEIXO Lola,54.4,61.0,63.0,-65.0,72.0,75.0,77.0,63.0,77.0,140.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,VELASCO LANDEAU Laura camila,52.9,47.0,-50.0,50.0,66.0,-70.0,-73.0,50.0,66.0,116.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,CAVAILLE Melina,54.3,50.0,-53.0,-53.0,60.0,-64.0,64.0,50.0,64.0,114.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,COMBES Caroline,53.4,45.0,48.0,-50.0,-56.0,56.0,60.0,48.0,60.0,108.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,CARIVEN Agathe,58.9,48.0,50.0,-52.0,60.0,62.0,65.0,50.0,65.0,115.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,BADIANO Valentine,58.8,-49.0,50.0,-53.0,58.0,61.0,64.0,50.0,64.0,114.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 64,CARPENTIER Augustine,63.0,-61.0,61.0,-63.0,73.0,-76.0,-76.0,61.0,73.0,134.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 64,LENEZ Enora,63.6,-54.0,57.0,-60.0,64.0,-68.0,68.0,57.0,68.0,125.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 64,OBRY Aurore,62.5,52.0,54.0,-56.0,62.0,64.0,66.0,54.0,66.0,120.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 71,MARCOUX Isaure,70.7,63.0,65.0,-66.0,74.0,-77.0,-77.0,65.0,74.0,139.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 71,MALET Marion,66.5,58.0,60.0,-62.0,71.0,75.0,-80.0,60.0,75.0,135.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 71,MASSON Floriane,69.8,-62.0,-62.0,-64.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 76,THIOLLIER Zoe,72.6,53.0,56.0,-60.0,71.0,75.0,-80.0,56.0,75.0,131.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U10 Men ,MORTELETTE Matys,44.8,-8.0,8.0,10.0,8.0,10.0,12.0,10.0,12.0,22.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U10 Men ,BELARBI Anis,30.0,6.0,8.0,10.0,8.0,10.0,11.0,10.0,11.0,21.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U10 Men ,BELARBI Youssef,35.3,6.0,8.0,9.0,8.0,10.0,11.0,9.0,11.0,20.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U10 Men ,KERTIOU Mohamed,22.3,3.0,5.0,-7.0,8.0,9.0,10.0,5.0,10.0,15.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Men 35,KERTIOU Rachid,31.6,6.0,8.0,9.0,8.0,10.0,11.0,9.0,11.0,20.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U10 Women ,LE VIENNESSE - BOHER Melany,24.8,12.0,14.0,15.0,18.0,-20.0,20.0,15.0,20.0,35.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Women 35,VIAUD Victoria,26.7,11.0,12.0,13.0,-14.0,14.0,-16.0,13.0,14.0,27.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Women 40,RICHEVAUX Jade,39.5,16.0,18.0,20.0,21.0,23.0,25.0,20.0,25.0,45.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Women 49,PICOD KINANY Lila jade,45.8,17.0,19.0,21.0,23.0,25.0,27.0,21.0,27.0,48.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U10 Men ,MORTELETTE Matys,44.8,-8.0,8.0,10.0,8.0,10.0,12.0,10.0,12.0,22.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U10 Men ,BELARBI Anis,30.0,6.0,8.0,10.0,8.0,10.0,11.0,10.0,11.0,21.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U10 Men ,BELARBI Youssef,35.3,6.0,8.0,9.0,8.0,10.0,11.0,9.0,11.0,20.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U10 Men ,KERTIOU Mohamed,22.3,3.0,5.0,-7.0,8.0,9.0,10.0,5.0,10.0,15.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Men 35,KERTIOU Rachid,31.6,6.0,8.0,9.0,8.0,10.0,11.0,9.0,11.0,20.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U10 Women ,LE VIENNESSE - BOHER Melany,24.8,12.0,14.0,15.0,18.0,-20.0,20.0,15.0,20.0,35.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Women 35,VIAUD Victoria,26.7,11.0,12.0,13.0,-14.0,14.0,-16.0,13.0,14.0,27.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Women 40,RICHEVAUX Jade,39.5,16.0,18.0,20.0,21.0,23.0,25.0,20.0,25.0,45.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Women 49,PICOD KINANY Lila jade,45.8,17.0,19.0,21.0,23.0,25.0,27.0,21.0,27.0,48.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 45,MOREAU Élisabeth,41.81,47.0,-49.0,-49.0,63.0,-65.0,-65.0,47.0,63.0,110.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,MANOSA Ona,55.0,40.0,43.0,45.0,54.0,57.0,-59.0,45.0,57.0,102.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,LE FLOCH Amandine,58.92,48.0,-51.0,-52.0,-63.0,63.0,-68.0,48.0,63.0,111.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 64,FERREC Énora,63.97,62.0,65.0,67.0,75.0,78.0,-80.0,67.0,78.0,145.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 71,HERBEL Sarah,69.48,60.0,-62.0,-62.0,77.0,82.0,-85.0,60.0,82.0,142.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 76,LOUISON TANGUY Céline,73.13,70.0,73.0,75.0,90.0,95.0,101.0,75.0,101.0,176.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 45,MOREAU Élisabeth,41.81,47.0,-49.0,-49.0,63.0,-65.0,-65.0,47.0,63.0,110.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,MANOSA Ona,55.0,40.0,43.0,45.0,54.0,57.0,-59.0,45.0,57.0,102.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,LE FLOCH Amandine,58.92,48.0,-51.0,-52.0,-63.0,63.0,-68.0,48.0,63.0,111.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 64,FERREC Énora,63.97,62.0,65.0,67.0,75.0,78.0,-80.0,67.0,78.0,145.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 71,HERBEL Sarah,69.48,60.0,-62.0,-62.0,77.0,82.0,-85.0,60.0,82.0,142.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 76,LOUISON TANGUY Céline,73.13,70.0,73.0,75.0,90.0,95.0,101.0,75.0,101.0,176.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,CHENEAU Maud,58.4,45.0,48.0,-51.0,65.0,68.0,-71.0,48.0,68.0,116.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,BERTAUD Camille,57.1,45.0,48.0,-50.0,60.0,-68.0,-70.0,48.0,60.0,108.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 64,PANN Nina,60.5,50.0,56.0,60.0,67.0,72.0,-77.0,60.0,72.0,132.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 87,MIZSER Bertille,81.7,68.0,71.0,74.0,83.0,87.0,90.0,74.0,90.0,164.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women >87,LINGUET Ingrid,93.1,65.0,68.0,70.0,75.0,-80.0,-80.0,70.0,75.0,145.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,CHENEAU Maud,58.4,45.0,48.0,-51.0,65.0,68.0,-71.0,48.0,68.0,116.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,BERTAUD Camille,57.1,45.0,48.0,-50.0,60.0,-68.0,-70.0,48.0,60.0,108.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 64,PANN Nina,60.5,50.0,56.0,60.0,67.0,72.0,-77.0,60.0,72.0,132.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 87,MIZSER Bertille,81.7,68.0,71.0,74.0,83.0,87.0,90.0,74.0,90.0,164.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women >87,LINGUET Ingrid,93.1,65.0,68.0,70.0,75.0,-80.0,-80.0,70.0,75.0,145.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U15 Men 67,BABO Ramiz,61.8,65.0,-70.0,-70.0,80.0,85.0,90.0,65.0,90.0,155.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U15 Men 73,ROUGE Hugo,68.3,80.0,85.0,-90.0,104.0,108.0,111.0,85.0,111.0,196.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 73,SAUVE Michael,71.6,105.0,108.0,-110.0,-125.0,-125.0,-125.0,108.0,0.0,0.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,LEMARINIER Vincent,79.5,108.0,112.0,-115.0,-130.0,130.0,-138.0,112.0,130.0,242.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U15 Men 67,BABO Ramiz,61.8,65.0,-70.0,-70.0,80.0,85.0,90.0,65.0,90.0,155.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U15 Men 73,ROUGE Hugo,68.3,80.0,85.0,-90.0,104.0,108.0,111.0,85.0,111.0,196.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 73,SAUVE Michael,71.6,105.0,108.0,-110.0,-125.0,-125.0,-125.0,108.0,0.0,0.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,LEMARINIER Vincent,79.5,108.0,112.0,-115.0,-130.0,130.0,-138.0,112.0,130.0,242.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 89,LE GALL Jean baptiste,88.07,110.0,-115.0,115.0,-145.0,-145.0,150.0,115.0,150.0,265.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 89,BOUGET Alexandre,84.76,120.0,-0.0,-0.0,140.0,-0.0,-0.0,120.0,140.0,260.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 89,HUET Florian,88.3,-105.0,105.0,-0.0,-130.0,130.0,-0.0,105.0,130.0,235.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 109,LEMO Tamiano,107.85,130.0,135.0,140.0,-170.0,170.0,-175.0,140.0,170.0,310.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 89,LE GALL Jean baptiste,88.07,110.0,-115.0,115.0,-145.0,-145.0,150.0,115.0,150.0,265.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 89,BOUGET Alexandre,84.76,120.0,-0.0,-0.0,140.0,-0.0,-0.0,120.0,140.0,260.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 89,HUET Florian,88.3,-105.0,105.0,-0.0,-130.0,130.0,-0.0,105.0,130.0,235.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 109,LEMO Tamiano,107.85,130.0,135.0,140.0,-170.0,170.0,-175.0,140.0,170.0,310.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Men >109,TAHRAT Dylan,116.5,-85.0,85.0,92.0,112.0,121.0,-161.0,92.0,121.0,213.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 67,DA FONSECA Raphael,66.5,100.0,105.0,-107.0,120.0,-135.0,-135.0,105.0,120.0,225.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 89,COLIN Thomas,84.7,125.0,-135.0,-135.0,148.0,158.0,-162.0,125.0,158.0,283.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 89,CARLIER Damien,86.5,122.0,127.0,-131.0,145.0,-0.0,-0.0,127.0,145.0,272.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 89,BERNARD Xavier,88.2,-110.0,110.0,-117.0,-130.0,-130.0,-130.0,110.0,0.0,0.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 96,VEJUX Gianni,95.6,110.0,-115.0,-115.0,130.0,-140.0,-140.0,110.0,130.0,240.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 96,VITAL Jules,95.0,-115.0,-115.0,-115.0,135.0,-145.0,-161.0,0.0,135.0,0.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Men >109,TAHRAT Dylan,116.5,-85.0,85.0,92.0,112.0,121.0,-161.0,92.0,121.0,213.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 67,DA FONSECA Raphael,66.5,100.0,105.0,-107.0,120.0,-135.0,-135.0,105.0,120.0,225.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 89,COLIN Thomas,84.7,125.0,-135.0,-135.0,148.0,158.0,-162.0,125.0,158.0,283.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 89,CARLIER Damien,86.5,122.0,127.0,-131.0,145.0,-0.0,-0.0,127.0,145.0,272.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 89,BERNARD Xavier,88.2,-110.0,110.0,-117.0,-130.0,-130.0,-130.0,110.0,0.0,0.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 96,VEJUX Gianni,95.6,110.0,-115.0,-115.0,130.0,-140.0,-140.0,110.0,130.0,240.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 96,VITAL Jules,95.0,-115.0,-115.0,-115.0,135.0,-145.0,-161.0,0.0,135.0,0.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 55,NDICKA MATAM Paul heracles,54.4,76.0,80.0,82.0,105.0,108.0,111.0,82.0,111.0,193.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 73,ARNOU MEUNIER Killiann,72.3,115.0,-120.0,-120.0,155.0,-158.0,158.0,115.0,158.0,273.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 73,PAUL Jill,67.8,120.0,-123.0,-125.0,152.0,-155.0,-157.0,120.0,152.0,272.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 73,AMADOU Alexis,72.8,110.0,-115.0,-115.0,135.0,140.0,-182.0,110.0,140.0,250.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 73,CABEL Killian,72.4,100.0,105.0,-108.0,115.0,120.0,125.0,105.0,125.0,230.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,KINGUE MATAM Bernardin,73.4,135.0,140.0,-143.0,177.0,-182.0,-182.0,140.0,177.0,317.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,DEMEULEMEESTER Gregory,80.9,-106.0,106.0,-111.0,135.0,-140.0,-142.0,106.0,135.0,241.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,GRAVOIS Ugo,81.0,107.0,-111.0,-111.0,130.0,-135.0,-135.0,107.0,130.0,237.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,DENOIRJEAN Cedric,80.5,-100.0,100.0,-105.0,115.0,130.0,-135.0,100.0,130.0,230.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,CISSOKO Christopher,73.6,100.0,-107.0,-107.0,-130.0,130.0,-137.0,100.0,130.0,230.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,MANGHETTI Jean,76.0,100.0,105.0,-108.0,120.0,-125.0,-125.0,105.0,120.0,225.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,RODRIGUEZ Killian,73.7,-95.0,95.0,-100.0,115.0,120.0,-125.0,95.0,120.0,215.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 55,NDICKA MATAM Paul heracles,54.4,76.0,80.0,82.0,105.0,108.0,111.0,82.0,111.0,193.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 73,ARNOU MEUNIER Killiann,72.3,115.0,-120.0,-120.0,155.0,-158.0,158.0,115.0,158.0,273.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 73,PAUL Jill,67.8,120.0,-123.0,-125.0,152.0,-155.0,-157.0,120.0,152.0,272.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 73,AMADOU Alexis,72.8,110.0,-115.0,-115.0,135.0,140.0,-182.0,110.0,140.0,250.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 73,CABEL Killian,72.4,100.0,105.0,-108.0,115.0,120.0,125.0,105.0,125.0,230.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,KINGUE MATAM Bernardin,73.4,135.0,140.0,-143.0,177.0,-182.0,-182.0,140.0,177.0,317.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,DEMEULEMEESTER Gregory,80.9,-106.0,106.0,-111.0,135.0,-140.0,-142.0,106.0,135.0,241.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,GRAVOIS Ugo,81.0,107.0,-111.0,-111.0,130.0,-135.0,-135.0,107.0,130.0,237.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,DENOIRJEAN Cedric,80.5,-100.0,100.0,-105.0,115.0,130.0,-135.0,100.0,130.0,230.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,CISSOKO Christopher,73.6,100.0,-107.0,-107.0,-130.0,130.0,-137.0,100.0,130.0,230.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,MANGHETTI Jean,76.0,100.0,105.0,-108.0,120.0,-125.0,-125.0,105.0,120.0,225.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,RODRIGUEZ Killian,73.7,-95.0,95.0,-100.0,115.0,120.0,-125.0,95.0,120.0,215.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U10 Men ,VEFOUR Noah,25.8,21.0,22.0,-23.0,26.0,28.0,-30.0,22.0,28.0,50.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Men 35,TÉLISMART Maxime,32.8,18.0,-20.0,20.0,28.0,30.0,-32.0,20.0,30.0,50.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Men 35,PATEL Ilyane,28.7,-21.0,21.0,22.0,29.0,-31.0,-31.0,22.0,29.0,51.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Men 49,AUZATE Ismaël,47.7,26.0,-28.0,28.0,36.0,38.0,40.0,28.0,40.0,68.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Men 49,SAUTRON Damien téo,47.3,26.0,28.0,-30.0,35.0,37.0,39.0,28.0,39.0,67.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Women 35,VEFOUR Adèle,31.0,21.0,23.0,24.0,26.0,28.0,30.0,24.0,30.0,54.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Women 40,RICHARD Maelys,36.9,21.0,23.0,24.0,26.0,28.0,30.0,24.0,30.0,54.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Women 49,RICHARD Kéllia,48.2,37.0,39.0,-41.0,46.0,48.0,50.0,39.0,50.0,89.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Women 64,BONMALAIS Rose,62.6,37.0,39.0,41.0,46.0,48.0,-50.0,41.0,48.0,89.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Women 71,MAILLOT Indira,67.3,38.0,40.0,42.0,47.0,49.0,51.0,42.0,51.0,93.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U10 Men ,VEFOUR Noah,25.8,21.0,22.0,-23.0,26.0,28.0,-30.0,22.0,28.0,50.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Men 35,TÉLISMART Maxime,32.8,18.0,-20.0,20.0,28.0,30.0,-32.0,20.0,30.0,50.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Men 35,PATEL Ilyane,28.7,-21.0,21.0,22.0,29.0,-31.0,-31.0,22.0,29.0,51.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Men 49,AUZATE Ismaël,47.7,26.0,-28.0,28.0,36.0,38.0,40.0,28.0,40.0,68.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Men 49,SAUTRON Damien téo,47.3,26.0,28.0,-30.0,35.0,37.0,39.0,28.0,39.0,67.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Women 35,VEFOUR Adèle,31.0,21.0,23.0,24.0,26.0,28.0,30.0,24.0,30.0,54.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Women 40,RICHARD Maelys,36.9,21.0,23.0,24.0,26.0,28.0,30.0,24.0,30.0,54.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Women 49,RICHARD Kéllia,48.2,37.0,39.0,-41.0,46.0,48.0,50.0,39.0,50.0,89.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Women 64,BONMALAIS Rose,62.6,37.0,39.0,41.0,46.0,48.0,-50.0,41.0,48.0,89.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Women 71,MAILLOT Indira,67.3,38.0,40.0,42.0,47.0,49.0,51.0,42.0,51.0,93.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U15 Women 55,RICHARD Maeva,50.3,40.0,43.0,-46.0,52.0,55.0,57.0,43.0,57.0,100.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U15 Women 55,VAGLIO Cléa,50.9,38.0,41.0,43.0,48.0,50.0,-52.0,43.0,50.0,93.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U15 Women 55,GOURREAU Naomi,52.7,35.0,37.0,40.0,46.0,48.0,50.0,40.0,50.0,90.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U15 Women 64,AUZATE Séréna,63.6,47.0,50.0,53.0,57.0,60.0,63.0,53.0,63.0,116.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U15 Women 71,FIRENZULA Maya charlotte,66.7,-40.0,-42.0,-44.0,50.0,-53.0,-53.0,0.0,50.0,0.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U17 Women 45,MOULS Pryanka,44.2,35.0,-38.0,-40.0,43.0,46.0,-49.0,35.0,46.0,81.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U17 Women 49,AUZATE Alicia,48.8,-47.0,-50.0,-50.0,59.0,-62.0,62.0,0.0,62.0,0.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U17 Women 59,DIOT Léna,56.7,-48.0,-50.0,-50.0,55.0,58.0,-60.0,0.0,58.0,0.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 49,MOTAIS DE NARBONNE Raphaëlle,48.3,-47.0,49.0,-51.0,59.0,-62.0,-62.0,49.0,59.0,108.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 55,SAINT-ALME Celia,53.7,53.0,-56.0,56.0,63.0,-66.0,66.0,56.0,66.0,122.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 76,TISSOT Clarisse,74.5,-67.0,67.0,70.0,76.0,80.0,82.0,70.0,82.0,152.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,GOURREAU Valérie,53.0,44.0,46.0,-48.0,54.0,-56.0,-58.0,46.0,54.0,100.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U15 Women 55,RICHARD Maeva,50.3,40.0,43.0,-46.0,52.0,55.0,57.0,43.0,57.0,100.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U15 Women 55,VAGLIO Cléa,50.9,38.0,41.0,43.0,48.0,50.0,-52.0,43.0,50.0,93.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U15 Women 55,GOURREAU Naomi,52.7,35.0,37.0,40.0,46.0,48.0,50.0,40.0,50.0,90.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U15 Women 64,AUZATE Séréna,63.6,47.0,50.0,53.0,57.0,60.0,63.0,53.0,63.0,116.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U15 Women 71,FIRENZULA Maya charlotte,66.7,-40.0,-42.0,-44.0,50.0,-53.0,-53.0,0.0,50.0,0.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U17 Women 45,MOULS Pryanka,44.2,35.0,-38.0,-40.0,43.0,46.0,-49.0,35.0,46.0,81.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U17 Women 49,AUZATE Alicia,48.8,-47.0,-50.0,-50.0,59.0,-62.0,62.0,0.0,62.0,0.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U17 Women 59,DIOT Léna,56.7,-48.0,-50.0,-50.0,55.0,58.0,-60.0,0.0,58.0,0.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 49,MOTAIS DE NARBONNE Raphaëlle,48.3,-47.0,49.0,-51.0,59.0,-62.0,-62.0,49.0,59.0,108.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 55,SAINT-ALME Celia,53.7,53.0,-56.0,56.0,63.0,-66.0,66.0,56.0,66.0,122.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 76,TISSOT Clarisse,74.5,-67.0,67.0,70.0,76.0,80.0,82.0,70.0,82.0,152.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,GOURREAU Valérie,53.0,44.0,46.0,-48.0,54.0,-56.0,-58.0,46.0,54.0,100.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U17 Men 73,MUSSARD Raphael,72.9,75.0,82.0,-88.0,100.0,-105.0,-105.0,82.0,100.0,182.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Men 61,TURPIN Aurelien,60.6,80.0,83.0,85.0,100.0,105.0,108.0,85.0,108.0,193.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Men 67,LEFEVRE Florent,64.0,80.0,-85.0,-85.0,100.0,-105.0,-105.0,80.0,100.0,180.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Men 89,RICHARD Damien,85.4,-90.0,90.0,-97.0,105.0,110.0,115.0,90.0,115.0,205.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 55,ESSOB Etienne,55.0,-80.0,80.0,-84.0,95.0,98.0,-100.0,80.0,98.0,178.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 55,ESSOB David,55.0,75.0,77.0,80.0,90.0,-91.0,-91.0,80.0,90.0,170.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 61,MEDARD Hugo,60.8,-88.0,-90.0,90.0,100.0,-105.0,-108.0,90.0,100.0,190.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 73,LEFEVRE Jérome,71.7,103.0,-107.0,-108.0,130.0,-137.0,-137.0,103.0,130.0,233.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,LAW THU Alexandre,74.0,92.0,-100.0,-100.0,107.0,115.0,-121.0,92.0,115.0,207.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,CORREIA Tony,78.2,82.0,-85.0,-85.0,-103.0,-103.0,-103.0,82.0,0.0,0.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 89,HOOLANS Charly,87.1,-105.0,105.0,-111.0,130.0,140.0,-145.0,105.0,140.0,245.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 102,PRUGNIERES Jean philippe,97.68,114.0,-118.0,-118.0,-0.0,-0.0,-0.0,114.0,0.0,0.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men >109,RICHARD Kenny,121.6,100.0,105.0,-110.0,130.0,135.0,140.0,105.0,140.0,245.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U17 Men 73,MUSSARD Raphael,72.9,75.0,82.0,-88.0,100.0,-105.0,-105.0,82.0,100.0,182.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Men 61,TURPIN Aurelien,60.6,80.0,83.0,85.0,100.0,105.0,108.0,85.0,108.0,193.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Men 67,LEFEVRE Florent,64.0,80.0,-85.0,-85.0,100.0,-105.0,-105.0,80.0,100.0,180.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Men 89,RICHARD Damien,85.4,-90.0,90.0,-97.0,105.0,110.0,115.0,90.0,115.0,205.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 55,ESSOB Etienne,55.0,-80.0,80.0,-84.0,95.0,98.0,-100.0,80.0,98.0,178.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 55,ESSOB David,55.0,75.0,77.0,80.0,90.0,-91.0,-91.0,80.0,90.0,170.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 61,MEDARD Hugo,60.8,-88.0,-90.0,90.0,100.0,-105.0,-108.0,90.0,100.0,190.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 73,LEFEVRE Jérome,71.7,103.0,-107.0,-108.0,130.0,-137.0,-137.0,103.0,130.0,233.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,LAW THU Alexandre,74.0,92.0,-100.0,-100.0,107.0,115.0,-121.0,92.0,115.0,207.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,CORREIA Tony,78.2,82.0,-85.0,-85.0,-103.0,-103.0,-103.0,82.0,0.0,0.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 89,HOOLANS Charly,87.1,-105.0,105.0,-111.0,130.0,140.0,-145.0,105.0,140.0,245.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 102,PRUGNIERES Jean philippe,97.68,114.0,-118.0,-118.0,-0.0,-0.0,-0.0,114.0,0.0,0.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men >109,RICHARD Kenny,121.6,100.0,105.0,-110.0,130.0,135.0,140.0,105.0,140.0,245.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 45,VIRAMA Deborah,44.9,55.0,-0.0,-0.0,67.0,-0.0,-0.0,55.0,67.0,122.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 49,EDMOND Neige line,48.3,53.0,55.0,-57.0,65.0,67.0,-70.0,55.0,67.0,122.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,BOUTIN Solène,54.9,55.0,58.0,-60.0,-73.0,73.0,-76.0,58.0,73.0,131.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,BRIOIS Luna,54.3,-48.0,-48.0,48.0,-61.0,62.0,-65.0,48.0,62.0,110.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,CADET Elodie,53.4,-40.0,-40.0,40.0,50.0,53.0,-56.0,40.0,53.0,93.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,BONNEMER Hermine,52.2,-37.0,37.0,-40.0,-48.0,50.0,52.0,37.0,52.0,89.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,VERMONT Morgane,59.0,67.0,70.0,73.0,83.0,86.0,-90.0,73.0,86.0,159.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,CADET Auberi,58.8,55.0,58.0,-60.0,73.0,76.0,-78.0,58.0,76.0,134.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,SACRIAS Elia,57.3,50.0,53.0,56.0,62.0,65.0,68.0,56.0,68.0,124.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,DE COCK Alexandra,56.0,49.0,51.0,-54.0,62.0,64.0,-66.0,51.0,64.0,115.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 64,HOARAU Veronique,62.6,54.0,57.0,-60.0,72.0,76.0,78.0,57.0,78.0,135.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 71,AGAPET Melissa,68.2,54.0,57.0,60.0,66.0,70.0,74.0,60.0,74.0,134.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 81,LEIBUNDGUTH Lisa,79.6,68.0,72.0,74.0,-93.0,93.0,98.0,74.0,98.0,172.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women >87,HOAREAU Marjorie,94.6,58.0,61.0,-64.0,78.0,81.0,-84.0,61.0,81.0,142.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 45,VIRAMA Deborah,44.9,55.0,-0.0,-0.0,67.0,-0.0,-0.0,55.0,67.0,122.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 49,EDMOND Neige line,48.3,53.0,55.0,-57.0,65.0,67.0,-70.0,55.0,67.0,122.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,BOUTIN Solène,54.9,55.0,58.0,-60.0,-73.0,73.0,-76.0,58.0,73.0,131.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,BRIOIS Luna,54.3,-48.0,-48.0,48.0,-61.0,62.0,-65.0,48.0,62.0,110.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,CADET Elodie,53.4,-40.0,-40.0,40.0,50.0,53.0,-56.0,40.0,53.0,93.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,BONNEMER Hermine,52.2,-37.0,37.0,-40.0,-48.0,50.0,52.0,37.0,52.0,89.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,VERMONT Morgane,59.0,67.0,70.0,73.0,83.0,86.0,-90.0,73.0,86.0,159.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,CADET Auberi,58.8,55.0,58.0,-60.0,73.0,76.0,-78.0,58.0,76.0,134.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,SACRIAS Elia,57.3,50.0,53.0,56.0,62.0,65.0,68.0,56.0,68.0,124.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,DE COCK Alexandra,56.0,49.0,51.0,-54.0,62.0,64.0,-66.0,51.0,64.0,115.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 64,HOARAU Veronique,62.6,54.0,57.0,-60.0,72.0,76.0,78.0,57.0,78.0,135.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 71,AGAPET Melissa,68.2,54.0,57.0,60.0,66.0,70.0,74.0,60.0,74.0,134.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 81,LEIBUNDGUTH Lisa,79.6,68.0,72.0,74.0,-93.0,93.0,98.0,74.0,98.0,172.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women >87,HOAREAU Marjorie,94.6,58.0,61.0,-64.0,78.0,81.0,-84.0,61.0,81.0,142.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,PLANCQ Deborah,54.9,-78.0,78.0,-81.0,98.0,-103.0,-106.0,78.0,98.0,176.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,FERREIRA Denise,54.9,58.0,61.0,63.0,72.0,75.0,78.0,63.0,78.0,141.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,MAZOUZ Elodie,55.0,-60.0,60.0,63.0,75.0,-78.0,-79.0,63.0,75.0,138.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,VATRY Aurore,51.2,53.0,56.0,58.0,63.0,67.0,69.0,58.0,69.0,127.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,CHEVILLARD Pauline,52.6,50.0,52.0,54.0,65.0,-69.0,69.0,54.0,69.0,123.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,GONZALEZ Marion,52.8,47.0,-49.0,51.0,-67.0,67.0,-72.0,51.0,67.0,118.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,ESTEVES Laura,50.3,49.0,-55.0,-55.0,63.0,66.0,-68.0,49.0,66.0,115.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,ESTEQUE-JAMBOU Roxane,54.5,-55.0,-55.0,-55.0,-67.0,-0.0,-0.0,0.0,0.0,0.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,PLANCQ Deborah,54.9,-78.0,78.0,-81.0,98.0,-103.0,-106.0,78.0,98.0,176.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,FERREIRA Denise,54.9,58.0,61.0,63.0,72.0,75.0,78.0,63.0,78.0,141.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,MAZOUZ Elodie,55.0,-60.0,60.0,63.0,75.0,-78.0,-79.0,63.0,75.0,138.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,VATRY Aurore,51.2,53.0,56.0,58.0,63.0,67.0,69.0,58.0,69.0,127.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,CHEVILLARD Pauline,52.6,50.0,52.0,54.0,65.0,-69.0,69.0,54.0,69.0,123.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,GONZALEZ Marion,52.8,47.0,-49.0,51.0,-67.0,67.0,-72.0,51.0,67.0,118.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,ESTEVES Laura,50.3,49.0,-55.0,-55.0,63.0,66.0,-68.0,49.0,66.0,115.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,ESTEQUE-JAMBOU Roxane,54.5,-55.0,-55.0,-55.0,-67.0,-0.0,-0.0,0.0,0.0,0.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,AUTILLO Clara,59.0,65.0,68.0,70.0,83.0,86.0,90.0,70.0,90.0,160.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,BERNARD Manon,57.8,63.0,-67.0,-69.0,82.0,-86.0,-86.0,63.0,82.0,145.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,LECLAIRE Orane,58.3,-60.0,-60.0,60.0,77.0,80.0,-85.0,60.0,80.0,140.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,ABRIL Manon,59.0,-55.0,55.0,-58.0,68.0,72.0,-75.0,55.0,72.0,127.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,L'HELGOUALCH Perrine,58.0,44.0,47.0,51.0,60.0,64.0,68.0,51.0,68.0,119.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,ZINOUNE Naouel,57.6,47.0,50.0,52.0,54.0,59.0,63.0,52.0,63.0,115.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 64,CARRER Alexia,63.7,65.0,68.0,-72.0,87.0,-90.0,90.0,68.0,90.0,158.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 64,TESTE Flavie,59.1,69.0,72.0,-74.0,80.0,83.0,-86.0,72.0,83.0,155.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 64,MEMBRE Stécy,63.7,61.0,-65.0,-65.0,76.0,81.0,-85.0,61.0,81.0,142.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 64,CAMACHO Marine,60.4,-55.0,-55.0,55.0,77.0,-82.0,82.0,55.0,82.0,137.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 64,YAHIAOUI Caroline,61.8,55.0,58.0,-60.0,72.0,76.0,-79.0,58.0,76.0,134.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 71,FERREIRA NUNES Aureleny,64.7,85.0,90.0,-95.0,105.0,110.0,115.0,90.0,115.0,205.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 71,PASTA Jennifer,67.5,60.0,65.0,-68.0,77.0,83.0,-86.0,65.0,83.0,148.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 76,FEGUE Marie josephe,75.8,102.0,107.0,-111.0,125.0,130.0,-135.0,107.0,130.0,237.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,AUTILLO Clara,59.0,65.0,68.0,70.0,83.0,86.0,90.0,70.0,90.0,160.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,BERNARD Manon,57.8,63.0,-67.0,-69.0,82.0,-86.0,-86.0,63.0,82.0,145.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,LECLAIRE Orane,58.3,-60.0,-60.0,60.0,77.0,80.0,-85.0,60.0,80.0,140.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,ABRIL Manon,59.0,-55.0,55.0,-58.0,68.0,72.0,-75.0,55.0,72.0,127.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,L'HELGOUALCH Perrine,58.0,44.0,47.0,51.0,60.0,64.0,68.0,51.0,68.0,119.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,ZINOUNE Naouel,57.6,47.0,50.0,52.0,54.0,59.0,63.0,52.0,63.0,115.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 64,CARRER Alexia,63.7,65.0,68.0,-72.0,87.0,-90.0,90.0,68.0,90.0,158.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 64,TESTE Flavie,59.1,69.0,72.0,-74.0,80.0,83.0,-86.0,72.0,83.0,155.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 64,MEMBRE Stécy,63.7,61.0,-65.0,-65.0,76.0,81.0,-85.0,61.0,81.0,142.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 64,CAMACHO Marine,60.4,-55.0,-55.0,55.0,77.0,-82.0,82.0,55.0,82.0,137.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 64,YAHIAOUI Caroline,61.8,55.0,58.0,-60.0,72.0,76.0,-79.0,58.0,76.0,134.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 71,FERREIRA NUNES Aureleny,64.7,85.0,90.0,-95.0,105.0,110.0,115.0,90.0,115.0,205.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 71,PASTA Jennifer,67.5,60.0,65.0,-68.0,77.0,83.0,-86.0,65.0,83.0,148.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 76,FEGUE Marie josephe,75.8,102.0,107.0,-111.0,125.0,130.0,-135.0,107.0,130.0,237.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U15 Women 55,TISSERAND Maëlys,53.8,36.0,39.0,41.0,46.0,50.0,-54.0,41.0,50.0,91.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U15 Women 59,BOYER Kristina,57.4,-50.0,50.0,52.0,63.0,66.0,-68.0,52.0,66.0,118.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U17 Women 55,MATEOS Carla,53.4,48.0,-51.0,52.0,-58.0,60.0,62.0,52.0,62.0,114.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U17 Women 55,ROUSSEAU Clementine,53.7,45.0,-52.0,-54.0,65.0,-70.0,-70.0,45.0,65.0,110.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 49,REDIEN Lea,48.0,-55.0,55.0,-58.0,65.0,-70.0,-70.0,55.0,65.0,120.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 49,CHAIX Calista,48.3,-38.0,38.0,-39.0,49.0,52.0,54.0,38.0,54.0,92.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 55,RAMBACH Raphaelle,54.4,50.0,-53.0,-53.0,63.0,65.0,68.0,50.0,68.0,118.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 59,DE BARROS Clara,55.8,-52.0,56.0,-60.0,65.0,-69.0,69.0,56.0,69.0,125.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 59,JOUGLA Amelie,58.7,53.0,55.0,57.0,62.0,65.0,67.0,57.0,67.0,124.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 64,PAYET Loane,59.6,-77.0,-80.0,-80.0,-95.0,95.0,-100.0,0.0,95.0,0.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 71,SEGOND Oriane,65.0,58.0,61.0,-63.0,65.0,-71.0,71.0,61.0,71.0,132.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 71,PLAINDOUX Erika,66.2,-52.0,52.0,55.0,70.0,73.0,-78.0,55.0,73.0,128.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 71,DALIA Carla,68.4,-51.0,51.0,54.0,70.0,73.0,-79.0,54.0,73.0,127.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 87,RIGUERA Chloe,84.2,55.0,-58.0,-60.0,-74.0,76.0,-80.0,55.0,76.0,131.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U15 Women 55,TISSERAND Maëlys,53.8,36.0,39.0,41.0,46.0,50.0,-54.0,41.0,50.0,91.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U15 Women 59,BOYER Kristina,57.4,-50.0,50.0,52.0,63.0,66.0,-68.0,52.0,66.0,118.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U17 Women 55,MATEOS Carla,53.4,48.0,-51.0,52.0,-58.0,60.0,62.0,52.0,62.0,114.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U17 Women 55,ROUSSEAU Clementine,53.7,45.0,-52.0,-54.0,65.0,-70.0,-70.0,45.0,65.0,110.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 49,REDIEN Lea,48.0,-55.0,55.0,-58.0,65.0,-70.0,-70.0,55.0,65.0,120.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 49,CHAIX Calista,48.3,-38.0,38.0,-39.0,49.0,52.0,54.0,38.0,54.0,92.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 55,RAMBACH Raphaelle,54.4,50.0,-53.0,-53.0,63.0,65.0,68.0,50.0,68.0,118.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 59,DE BARROS Clara,55.8,-52.0,56.0,-60.0,65.0,-69.0,69.0,56.0,69.0,125.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 59,JOUGLA Amelie,58.7,53.0,55.0,57.0,62.0,65.0,67.0,57.0,67.0,124.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 64,PAYET Loane,59.6,-77.0,-80.0,-80.0,-95.0,95.0,-100.0,0.0,95.0,0.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 71,SEGOND Oriane,65.0,58.0,61.0,-63.0,65.0,-71.0,71.0,61.0,71.0,132.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 71,PLAINDOUX Erika,66.2,-52.0,52.0,55.0,70.0,73.0,-78.0,55.0,73.0,128.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 71,DALIA Carla,68.4,-51.0,51.0,54.0,70.0,73.0,-79.0,54.0,73.0,127.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 87,RIGUERA Chloe,84.2,55.0,-58.0,-60.0,-74.0,76.0,-80.0,55.0,76.0,131.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Women 40,RANELY VERGÉ DEPRÉ Luna,39.45,14.0,16.0,17.0,18.0,20.0,22.0,17.0,22.0,39.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Women 55,DELOUVÉE Chloé,50.41,22.0,24.0,26.0,27.0,29.0,31.0,26.0,31.0,57.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Women 59,LE ROUSSEAU Lili,58.42,28.0,30.0,-32.0,38.0,40.0,-42.0,30.0,40.0,70.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Women 64,VIVET Lola,61.89,20.0,-22.0,22.0,27.0,29.0,-31.0,22.0,29.0,51.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Women 40,RANELY VERGÉ DEPRÉ Luna,39.45,14.0,16.0,17.0,18.0,20.0,22.0,17.0,22.0,39.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Women 55,DELOUVÉE Chloé,50.41,22.0,24.0,26.0,27.0,29.0,31.0,26.0,31.0,57.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Women 59,LE ROUSSEAU Lili,58.42,28.0,30.0,-32.0,38.0,40.0,-42.0,30.0,40.0,70.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Women 64,VIVET Lola,61.89,20.0,-22.0,22.0,27.0,29.0,-31.0,22.0,29.0,51.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 45,PEETERS Emilie,43.45,-51.0,51.0,53.0,63.0,65.0,67.0,53.0,67.0,120.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 45,PRIMEL Laetitia,44.95,-40.0,40.0,42.0,53.0,55.0,56.0,42.0,56.0,98.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 64,SINGIER Ophélie,63.45,65.0,-68.0,68.0,84.0,87.0,90.0,68.0,90.0,158.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 64,RECH Charline,63.8,62.0,-66.0,-68.0,75.0,80.0,-83.0,62.0,80.0,142.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 64,MOUDIN Marion,61.75,60.0,-63.0,-65.0,-80.0,80.0,-85.0,60.0,80.0,140.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 64,LACROIX Evelyne,59.4,62.0,-65.0,-65.0,72.0,75.0,-77.0,62.0,75.0,137.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 64,GRIMAL Anna,60.7,55.0,-58.0,-60.0,65.0,-69.0,-73.0,55.0,65.0,120.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 64,QUER Heloise,63.1,-54.0,-54.0,-54.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 71,GRENERON Metty,67.7,75.0,-80.0,83.0,95.0,100.0,105.0,83.0,105.0,188.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 71,BARBOT Camille,67.2,70.0,72.0,73.0,-88.0,88.0,-92.0,73.0,88.0,161.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 71,COSSUTTA Lou,68.6,65.0,70.0,-72.0,83.0,-88.0,88.0,70.0,88.0,158.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 81,CERDA Delphine,77.1,60.0,63.0,65.0,73.0,77.0,80.0,65.0,80.0,145.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 45,PEETERS Emilie,43.45,-51.0,51.0,53.0,63.0,65.0,67.0,53.0,67.0,120.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 45,PRIMEL Laetitia,44.95,-40.0,40.0,42.0,53.0,55.0,56.0,42.0,56.0,98.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 64,SINGIER Ophélie,63.45,65.0,-68.0,68.0,84.0,87.0,90.0,68.0,90.0,158.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 64,RECH Charline,63.8,62.0,-66.0,-68.0,75.0,80.0,-83.0,62.0,80.0,142.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 64,MOUDIN Marion,61.75,60.0,-63.0,-65.0,-80.0,80.0,-85.0,60.0,80.0,140.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 64,LACROIX Evelyne,59.4,62.0,-65.0,-65.0,72.0,75.0,-77.0,62.0,75.0,137.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 64,GRIMAL Anna,60.7,55.0,-58.0,-60.0,65.0,-69.0,-73.0,55.0,65.0,120.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 64,QUER Heloise,63.1,-54.0,-54.0,-54.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 71,GRENERON Metty,67.7,75.0,-80.0,83.0,95.0,100.0,105.0,83.0,105.0,188.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 71,BARBOT Camille,67.2,70.0,72.0,73.0,-88.0,88.0,-92.0,73.0,88.0,161.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 71,COSSUTTA Lou,68.6,65.0,70.0,-72.0,83.0,-88.0,88.0,70.0,88.0,158.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 81,CERDA Delphine,77.1,60.0,63.0,65.0,73.0,77.0,80.0,65.0,80.0,145.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Men 35,BRUCK Joan,28.5,15.0,17.0,19.0,19.0,21.0,23.0,19.0,23.0,42.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Men 55,SCHULTZ Martin,52.3,26.0,28.0,30.0,30.0,32.0,34.0,30.0,34.0,64.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Men 55,DUBOIS MIKULASKO Tom,52.9,19.0,21.0,23.0,24.0,26.0,-28.0,23.0,26.0,49.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Men 61,STERLE Enzo,60.3,20.0,22.0,24.0,30.0,32.0,34.0,24.0,34.0,58.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Women 35,DUCHAUFFOUR Rose,31.1,15.0,17.0,-19.0,20.0,22.0,24.0,17.0,24.0,41.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Women 35,BESANCENOT Juliette,28.0,11.0,13.0,15.0,13.0,15.0,17.0,15.0,17.0,32.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Women 55,HURSON Lou,54.2,25.0,27.0,29.0,-35.0,35.0,36.0,29.0,36.0,65.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Men 35,BRUCK Joan,28.5,15.0,17.0,19.0,19.0,21.0,23.0,19.0,23.0,42.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Men 55,SCHULTZ Martin,52.3,26.0,28.0,30.0,30.0,32.0,34.0,30.0,34.0,64.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Men 55,DUBOIS MIKULASKO Tom,52.9,19.0,21.0,23.0,24.0,26.0,-28.0,23.0,26.0,49.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Men 61,STERLE Enzo,60.3,20.0,22.0,24.0,30.0,32.0,34.0,24.0,34.0,58.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Women 35,DUCHAUFFOUR Rose,31.1,15.0,17.0,-19.0,20.0,22.0,24.0,17.0,24.0,41.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Women 35,BESANCENOT Juliette,28.0,11.0,13.0,15.0,13.0,15.0,17.0,15.0,17.0,32.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U13 Women 55,HURSON Lou,54.2,25.0,27.0,29.0,-35.0,35.0,36.0,29.0,36.0,65.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U17 Women 59,KIENTZI Léanne,58.0,45.0,48.0,50.0,57.0,60.0,-63.0,50.0,60.0,110.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 55,TOUSSAINT Margot,54.5,44.0,-47.0,47.0,57.0,-60.0,-60.0,47.0,57.0,104.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 55,BAUER Camille,54.7,45.0,-48.0,-48.0,-55.0,-55.0,-55.0,45.0,0.0,0.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 64,MOTSCH Amandine,62.9,48.0,54.0,-60.0,65.0,-70.0,-70.0,54.0,65.0,119.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 71,CAILLEAUD Noeline,70.4,47.0,50.0,-52.0,57.0,-61.0,-61.0,50.0,57.0,107.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U17 Women 59,KIENTZI Léanne,58.0,45.0,48.0,50.0,57.0,60.0,-63.0,50.0,60.0,110.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 55,TOUSSAINT Margot,54.5,44.0,-47.0,47.0,57.0,-60.0,-60.0,47.0,57.0,104.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 55,BAUER Camille,54.7,45.0,-48.0,-48.0,-55.0,-55.0,-55.0,45.0,0.0,0.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 64,MOTSCH Amandine,62.9,48.0,54.0,-60.0,65.0,-70.0,-70.0,54.0,65.0,119.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 71,CAILLEAUD Noeline,70.4,47.0,50.0,-52.0,57.0,-61.0,-61.0,50.0,57.0,107.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U15 Men 55,MOSER Léo,50.9,45.0,48.0,-50.0,63.0,67.0,-70.0,48.0,67.0,115.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Men 73,LAMY Yannick,71.6,74.0,78.0,-82.0,93.0,97.0,-102.0,78.0,97.0,175.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Men 96,THOMASSON Yann,95.3,120.0,126.0,130.0,144.0,149.0,155.0,130.0,155.0,285.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 73,D'ANNA Steven,72.1,90.0,95.0,-100.0,120.0,128.0,-133.0,95.0,128.0,223.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 73,GIGONDAN Lucas,72.7,85.0,90.0,-94.0,115.0,-120.0,-120.0,90.0,115.0,205.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,CUVILLIER Valentin,73.5,119.0,123.0,126.0,144.0,149.0,155.0,126.0,155.0,281.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,SPIESER Nicolas,76.7,108.0,112.0,115.0,-125.0,125.0,-135.0,115.0,125.0,240.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,GEREDA LIZCANO Angel jesus,74.7,97.0,-102.0,105.0,120.0,125.0,-136.0,105.0,125.0,230.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,POINTET Robin,80.4,-99.0,-99.0,-99.0,119.0,123.0,127.0,0.0,127.0,0.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U15 Men 55,MOSER Léo,50.9,45.0,48.0,-50.0,63.0,67.0,-70.0,48.0,67.0,115.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Men 73,LAMY Yannick,71.6,74.0,78.0,-82.0,93.0,97.0,-102.0,78.0,97.0,175.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Men 96,THOMASSON Yann,95.3,120.0,126.0,130.0,144.0,149.0,155.0,130.0,155.0,285.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 73,D'ANNA Steven,72.1,90.0,95.0,-100.0,120.0,128.0,-133.0,95.0,128.0,223.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 73,GIGONDAN Lucas,72.7,85.0,90.0,-94.0,115.0,-120.0,-120.0,90.0,115.0,205.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,CUVILLIER Valentin,73.5,119.0,123.0,126.0,144.0,149.0,155.0,126.0,155.0,281.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,SPIESER Nicolas,76.7,108.0,112.0,115.0,-125.0,125.0,-135.0,115.0,125.0,240.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,GEREDA LIZCANO Angel jesus,74.7,97.0,-102.0,105.0,120.0,125.0,-136.0,105.0,125.0,230.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,POINTET Robin,80.4,-99.0,-99.0,-99.0,119.0,123.0,127.0,0.0,127.0,0.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Men 61,MOUSSET Allan,59.4,64.0,-67.0,67.0,-83.0,83.0,-87.0,67.0,83.0,150.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Men 61,MOUSSET Allan,59.4,64.0,-67.0,67.0,-83.0,83.0,-87.0,67.0,83.0,150.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 59,LEMOINE Coline,57.44,-50.0,50.0,-54.0,62.0,65.0,68.0,50.0,68.0,118.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,U20 Women 59,LEMOINE Coline,57.44,-50.0,50.0,-54.0,62.0,65.0,68.0,50.0,68.0,118.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 67,APRAHAMIAN Antranig,66.1,90.0,96.0,-100.0,110.0,117.0,120.0,96.0,120.0,216.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 73,DOMINGUEZ Gaetan,71.1,-113.0,113.0,-118.0,135.0,-140.0,-140.0,113.0,135.0,248.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,BONIFACE Clement,79.4,104.0,108.0,-112.0,125.0,129.0,-133.0,108.0,129.0,237.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,SAINT PIERRE Quentin,78.05,97.0,101.0,103.0,115.0,122.0,125.0,103.0,125.0,228.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,BAILLET Valentin,74.3,102.0,-105.0,-105.0,115.0,-121.0,121.0,102.0,121.0,223.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,SENECLAUZE Merlin,78.45,93.0,-98.0,-100.0,-125.0,125.0,130.0,93.0,130.0,223.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,GAUTIER Lucas,77.35,90.0,96.0,-102.0,115.0,-121.0,-125.0,96.0,115.0,211.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 89,MENONI Enzo,88.5,134.0,-137.0,-137.0,153.0,-0.0,-0.0,134.0,153.0,287.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 89,MASSE Samuel,85.1,102.0,-107.0,-110.0,130.0,134.0,-0.0,102.0,134.0,236.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 96,CECCHI Thomas,89.45,118.0,-122.0,122.0,142.0,148.0,-152.0,122.0,148.0,270.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 96,RAMBELO MANGA Alexandre lala,90.0,115.0,120.0,-125.0,140.0,-148.0,148.0,120.0,148.0,268.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 96,PAGNIER Paul-louis,89.45,103.0,106.0,-110.0,129.0,-134.0,137.0,106.0,137.0,243.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 96,DE LA CALLE Yoann,95.2,93.0,-97.0,97.0,110.0,115.0,-120.0,97.0,115.0,212.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 67,APRAHAMIAN Antranig,66.1,90.0,96.0,-100.0,110.0,117.0,120.0,96.0,120.0,216.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 73,DOMINGUEZ Gaetan,71.1,-113.0,113.0,-118.0,135.0,-140.0,-140.0,113.0,135.0,248.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,BONIFACE Clement,79.4,104.0,108.0,-112.0,125.0,129.0,-133.0,108.0,129.0,237.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,SAINT PIERRE Quentin,78.05,97.0,101.0,103.0,115.0,122.0,125.0,103.0,125.0,228.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,BAILLET Valentin,74.3,102.0,-105.0,-105.0,115.0,-121.0,121.0,102.0,121.0,223.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,SENECLAUZE Merlin,78.45,93.0,-98.0,-100.0,-125.0,125.0,130.0,93.0,130.0,223.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 81,GAUTIER Lucas,77.35,90.0,96.0,-102.0,115.0,-121.0,-125.0,96.0,115.0,211.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 89,MENONI Enzo,88.5,134.0,-137.0,-137.0,153.0,-0.0,-0.0,134.0,153.0,287.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 89,MASSE Samuel,85.1,102.0,-107.0,-110.0,130.0,134.0,-0.0,102.0,134.0,236.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 96,CECCHI Thomas,89.45,118.0,-122.0,122.0,142.0,148.0,-152.0,122.0,148.0,270.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 96,RAMBELO MANGA Alexandre lala,90.0,115.0,120.0,-125.0,140.0,-148.0,148.0,120.0,148.0,268.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 96,PAGNIER Paul-louis,89.45,103.0,106.0,-110.0,129.0,-134.0,137.0,106.0,137.0,243.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Men 96,DE LA CALLE Yoann,95.2,93.0,-97.0,97.0,110.0,115.0,-120.0,97.0,115.0,212.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,AMORUSO Estelle,52.15,50.0,55.0,58.0,-70.0,70.0,-80.0,58.0,70.0,128.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,DOUCET CHARPIN Sophie,54.25,58.0,-61.0,-61.0,70.0,-73.0,-73.0,58.0,70.0,128.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,BERTIN Fanny,53.5,50.0,53.0,-55.0,54.0,57.0,60.0,53.0,60.0,113.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,VALLUCHE Sandra,50.3,-60.0,-60.0,60.0,-70.0,-70.0,-0.0,60.0,0.0,0.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,BONATO Camille,58.1,66.0,69.0,-72.0,84.0,87.0,-90.0,69.0,87.0,156.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,DUCLAVÉ Cassandra,58.6,62.0,65.0,-68.0,80.0,85.0,88.0,65.0,88.0,153.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,LE MANAC'H Aurore,58.6,60.0,63.0,65.0,70.0,73.0,75.0,65.0,75.0,140.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,GRANDE Camille,55.95,55.0,-58.0,58.0,70.0,-73.0,73.0,58.0,73.0,131.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,KYRIAKIDES Alexia,58.4,-58.0,-58.0,58.0,-72.0,-72.0,72.0,58.0,72.0,130.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,NOIRON Capucine,58.95,54.0,-57.0,57.0,70.0,-73.0,73.0,57.0,73.0,130.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,SELAR Varinia,57.7,53.0,-56.0,-58.0,65.0,69.0,71.0,53.0,71.0,124.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,GOMEZ Charlène,58.25,52.0,55.0,57.0,-62.0,65.0,-70.0,57.0,65.0,122.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,GOURGEL Annick,58.6,50.0,53.0,-56.0,65.0,-70.0,-70.0,53.0,65.0,118.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,BLANCHET Célia,56.3,50.0,-54.0,-54.0,58.0,61.0,-64.0,50.0,61.0,111.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,ARMSTRONG Victoria,59.0,-55.0,-58.0,-60.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,AMORUSO Estelle,52.15,50.0,55.0,58.0,-70.0,70.0,-80.0,58.0,70.0,128.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,DOUCET CHARPIN Sophie,54.25,58.0,-61.0,-61.0,70.0,-73.0,-73.0,58.0,70.0,128.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,BERTIN Fanny,53.5,50.0,53.0,-55.0,54.0,57.0,60.0,53.0,60.0,113.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 55,VALLUCHE Sandra,50.3,-60.0,-60.0,60.0,-70.0,-70.0,-0.0,60.0,0.0,0.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,BONATO Camille,58.1,66.0,69.0,-72.0,84.0,87.0,-90.0,69.0,87.0,156.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,DUCLAVÉ Cassandra,58.6,62.0,65.0,-68.0,80.0,85.0,88.0,65.0,88.0,153.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,LE MANAC'H Aurore,58.6,60.0,63.0,65.0,70.0,73.0,75.0,65.0,75.0,140.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,GRANDE Camille,55.95,55.0,-58.0,58.0,70.0,-73.0,73.0,58.0,73.0,131.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,KYRIAKIDES Alexia,58.4,-58.0,-58.0,58.0,-72.0,-72.0,72.0,58.0,72.0,130.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,NOIRON Capucine,58.95,54.0,-57.0,57.0,70.0,-73.0,73.0,57.0,73.0,130.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,SELAR Varinia,57.7,53.0,-56.0,-58.0,65.0,69.0,71.0,53.0,71.0,124.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,GOMEZ Charlène,58.25,52.0,55.0,57.0,-62.0,65.0,-70.0,57.0,65.0,122.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,GOURGEL Annick,58.6,50.0,53.0,-56.0,65.0,-70.0,-70.0,53.0,65.0,118.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,BLANCHET Célia,56.3,50.0,-54.0,-54.0,58.0,61.0,-64.0,50.0,61.0,111.0
+OCC - Chpt Ligue - Hc montalbanais - U15-U17-U20,2022-04-03,SEN Women 59,ARMSTRONG Victoria,59.0,-55.0,-58.0,-60.0,-0.0,-0.0,-0.0,0.0,0.0,0.0

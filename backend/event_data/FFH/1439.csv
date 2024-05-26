@@ -1,4 +1,56 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-CVL - Champ de France Masters,2021-10-09,M40 Men >109,MOQUART Philippe,117.7,98.0,103.0,108.0,127.0,132.0,137.0,108.0,137.0,245.0
-CVL - Champ de France Masters,2021-10-09,M55 Men 67,FIETTE Laurent,66.2,50.0,55.0,58.0,70.0,-75.0,75.0,58.0,75.0,133.0
-CVL - Champ de France Masters,2021-10-09,M70 Men 81,CHAVIGNY Roland,75.0,65.0,70.0,-72.0,85.0,90.0,94.0,70.0,94.0,164.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,U17 Women 55,BOYER Kristina,54.2,55.0,-59.0,60.0,75.0,78.0,80.0,60.0,80.0,140.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Women 55,FERREIRA Denise,54.7,55.0,58.0,60.0,71.0,74.0,76.0,60.0,76.0,136.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Women 55,BERNARD Manon,55.0,55.0,58.0,61.0,68.0,71.0,74.0,61.0,74.0,135.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Women 55,DE MACEDO Fanny,51.5,20.0,24.0,26.0,25.0,30.0,35.0,26.0,35.0,61.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Women 64,ZINOUNE Naouel,60.4,-57.0,58.0,62.0,70.0,75.0,-78.0,62.0,75.0,137.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Women 71,PRADURAT Pauline,69.6,45.0,49.0,-52.0,60.0,64.0,-67.0,49.0,64.0,113.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Women 76,DALIA Carla,74.5,64.0,-68.0,-71.0,80.0,85.0,90.0,64.0,90.0,154.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Women >87,GIMBERT Valeriane,96.8,54.0,58.0,62.0,78.0,83.0,87.0,62.0,87.0,149.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Women >87,BONDU Manon,99.9,48.0,51.0,54.0,63.0,67.0,-71.0,54.0,67.0,121.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,U15 Men 55,HOARAU Marley,54.8,40.0,43.0,45.0,50.0,53.0,-56.0,45.0,53.0,98.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,U15 Men 67,LANGLOIS Emeryck,62.0,17.0,20.0,23.0,25.0,30.0,32.0,23.0,32.0,55.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,U17 Men 49,HERIN Dylan,37.5,30.0,33.0,35.0,40.0,43.0,-45.0,35.0,43.0,78.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,U20 Men 61,ALONSO Nicolas,61.0,66.0,70.0,72.0,85.0,90.0,-95.0,72.0,90.0,162.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,U20 Men 67,GLEYZE Alexis,64.1,78.0,-82.0,-83.0,95.0,100.0,103.0,78.0,103.0,181.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Men 55,VICENTE Francois,53.9,38.0,40.0,41.0,48.0,50.0,52.0,41.0,52.0,93.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Men 67,GENDRE Sebastien,64.2,30.0,35.0,40.0,50.0,-58.0,58.0,40.0,58.0,98.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Men 67,REBOUL Dylan,66.8,-30.0,30.0,35.0,50.0,58.0,-62.0,35.0,58.0,93.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Men 73,PONS Thierry,72.3,97.0,-100.0,-100.0,117.0,121.0,-124.0,97.0,121.0,218.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Men 73,BASSI Grégory,72.6,-92.0,92.0,-98.0,120.0,-127.0,-127.0,92.0,120.0,212.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Men 73,LOUPIAC Quentin,72.8,-78.0,78.0,-83.0,93.0,98.0,102.0,78.0,102.0,180.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Men 81,LAUGIER Jonathan,81.0,108.0,112.0,-116.0,125.0,134.0,-0.0,112.0,134.0,246.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Men 81,FERREIRA CORTES Thibault,80.4,-98.0,98.0,-102.0,118.0,-123.0,-126.0,98.0,118.0,216.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Men 81,CABRERA Antoni,80.4,50.0,55.0,60.0,80.0,85.0,90.0,60.0,90.0,150.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Men 81,GENOVA Tony,76.8,45.0,50.0,55.0,65.0,70.0,75.0,55.0,75.0,130.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Men 89,MAYOR Tom,87.6,114.0,119.0,123.0,133.0,-138.0,-143.0,123.0,133.0,256.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Men 89,MARIN Clément,85.7,-104.0,105.0,-111.0,120.0,-126.0,-126.0,105.0,120.0,225.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Men 96,POUPET Remy,95.5,80.0,90.0,100.0,110.0,120.0,125.0,100.0,125.0,225.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Men 96,ROYER SYLVESTRE BRU Carl,94.9,-90.0,-92.0,92.0,118.0,-125.0,-127.0,92.0,118.0,210.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Men 102,REY Benjamin,97.0,95.0,100.0,-105.0,100.0,110.0,120.0,100.0,120.0,220.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Men 102,RAFFALI Camille,99.2,78.0,82.0,-85.0,95.0,100.0,-105.0,82.0,100.0,182.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Men 109,DURAND Nicolas,105.3,65.0,-70.0,70.0,80.0,90.0,-95.0,70.0,90.0,160.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Men 109,BELMAS Jean paul,103.4,40.0,-45.0,45.0,55.0,60.0,-63.0,45.0,60.0,105.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,U15 Men 55,HOARAU Marley,54.8,40.0,43.0,45.0,50.0,53.0,-56.0,45.0,53.0,98.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,U15 Men 67,LANGLOIS Emeryck,62.0,17.0,20.0,23.0,25.0,30.0,32.0,23.0,32.0,55.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,U17 Men 49,HERIN Dylan,37.5,30.0,33.0,35.0,40.0,43.0,-45.0,35.0,43.0,78.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,U20 Men 61,ALONSO Nicolas,61.0,66.0,70.0,72.0,85.0,90.0,-95.0,72.0,90.0,162.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,U20 Men 67,GLEYZE Alexis,64.1,78.0,-82.0,-83.0,95.0,100.0,103.0,78.0,103.0,181.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Men 55,VICENTE Francois,53.9,38.0,40.0,41.0,48.0,50.0,52.0,41.0,52.0,93.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Men 67,GENDRE Sebastien,64.2,30.0,35.0,40.0,50.0,-58.0,58.0,40.0,58.0,98.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Men 67,REBOUL Dylan,66.8,-30.0,30.0,35.0,50.0,58.0,-62.0,35.0,58.0,93.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Men 73,PONS Thierry,72.3,97.0,-100.0,-100.0,117.0,121.0,-124.0,97.0,121.0,218.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Men 73,BASSI Grégory,72.6,-92.0,92.0,-98.0,120.0,-127.0,-127.0,92.0,120.0,212.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Men 73,LOUPIAC Quentin,72.8,-78.0,78.0,-83.0,93.0,98.0,102.0,78.0,102.0,180.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Men 81,LAUGIER Jonathan,81.0,108.0,112.0,-116.0,125.0,134.0,-0.0,112.0,134.0,246.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Men 81,FERREIRA CORTES Thibault,80.4,-98.0,98.0,-102.0,118.0,-123.0,-126.0,98.0,118.0,216.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Men 81,CABRERA Antoni,80.4,50.0,55.0,60.0,80.0,85.0,90.0,60.0,90.0,150.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Men 81,GENOVA Tony,76.8,45.0,50.0,55.0,65.0,70.0,75.0,55.0,75.0,130.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Men 89,MAYOR Tom,87.6,114.0,119.0,123.0,133.0,-138.0,-143.0,123.0,133.0,256.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Men 89,MARIN Clément,85.7,-104.0,105.0,-111.0,120.0,-126.0,-126.0,105.0,120.0,225.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Men 96,POUPET Remy,95.5,80.0,90.0,100.0,110.0,120.0,125.0,100.0,125.0,225.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Men 96,ROYER SYLVESTRE BRU Carl,94.9,-90.0,-92.0,92.0,118.0,-125.0,-127.0,92.0,118.0,210.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Men 102,REY Benjamin,97.0,95.0,100.0,-105.0,100.0,110.0,120.0,100.0,120.0,220.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Men 102,RAFFALI Camille,99.2,78.0,82.0,-85.0,95.0,100.0,-105.0,82.0,100.0,182.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Men 109,DURAND Nicolas,105.3,65.0,-70.0,70.0,80.0,90.0,-95.0,70.0,90.0,160.0
+PACA - Chpt Départemental Vaucluse CD 84 - Mondragon - Féminines - U15 à SEN,2024-02-17,SEN Men 109,BELMAS Jean paul,103.4,40.0,-45.0,45.0,55.0,60.0,-63.0,45.0,60.0,105.0

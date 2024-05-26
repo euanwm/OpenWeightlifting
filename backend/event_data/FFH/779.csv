@@ -1,2 +1,26 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-NDIE - ELEIKO Tournoi de France,2020-12-19,U17 Women 55,MICHEL Maelyn,54.5,66.0,-69.0,-69.0,78.0,82.0,-85.0,66.0,82.0,148.0
+GE - Challenge Avenir 3 - (Laneuveville),2021-12-12,U15 Men 49,ESNAULT Reda,45.0,17.0,20.0,22.0,20.0,25.0,30.0,22.0,30.0,52.0
+GE - Challenge Avenir 3 - (Laneuveville),2021-12-12,U17 Men 55,COLLAS Killian,50.9,20.0,-22.0,22.0,25.0,28.0,30.0,22.0,30.0,52.0
+GE - Challenge Avenir 3 - (Laneuveville),2021-12-12,U20 Men 73,LUMBRERAS Raul,68.3,68.0,71.0,74.0,85.0,90.0,95.0,74.0,95.0,169.0
+GE - Challenge Avenir 3 - (Laneuveville),2021-12-12,SEN Men 67,CRETON Boris,65.8,61.0,-69.0,-70.0,81.0,-87.0,87.0,61.0,87.0,148.0
+GE - Challenge Avenir 3 - (Laneuveville),2021-12-12,SEN Men 73,MULLER Philippe,73.0,32.0,35.0,-40.0,65.0,70.0,-76.0,35.0,70.0,105.0
+GE - Challenge Avenir 3 - (Laneuveville),2021-12-12,SEN Men 81,MARIE-JOSEPH Patrick,80.2,73.0,76.0,80.0,100.0,-105.0,-105.0,80.0,100.0,180.0
+GE - Challenge Avenir 3 - (Laneuveville),2021-12-12,SEN Men 81,LAURET Patrick,78.6,70.0,-76.0,-78.0,90.0,92.0,-96.0,70.0,92.0,162.0
+GE - Challenge Avenir 3 - (Laneuveville),2021-12-12,SEN Men 81,VESSOU Jean paul,80.8,-50.0,50.0,53.0,65.0,-70.0,70.0,53.0,70.0,123.0
+GE - Challenge Avenir 3 - (Laneuveville),2021-12-12,SEN Men 89,JACQUET Dominique,88.9,40.0,43.0,46.0,50.0,55.0,60.0,46.0,60.0,106.0
+GE - Challenge Avenir 3 - (Laneuveville),2021-12-12,U17 Women 55,WEISKOPF Emilie,54.0,20.0,22.0,23.0,25.0,27.0,30.0,23.0,30.0,53.0
+GE - Challenge Avenir 3 - (Laneuveville),2021-12-12,U17 Women 59,DUPRIEZ Mathilde,57.5,18.0,22.0,25.0,24.0,28.0,30.0,25.0,30.0,55.0
+GE - Challenge Avenir 3 - (Laneuveville),2021-12-12,SEN Women 64,KAEMPF Isaure,61.0,28.0,30.0,33.0,38.0,-40.0,40.0,33.0,40.0,73.0
+GE - Challenge Avenir 3 - (Laneuveville),2021-12-12,SEN Women 71,ULDRY Deborah,67.2,44.0,-48.0,-48.0,55.0,60.0,63.0,44.0,63.0,107.0
+GE - Challenge Avenir 3 - (Laneuveville),2021-12-12,SEN Women 87,KIRCHE Elisa,82.0,40.0,43.0,44.0,50.0,55.0,-60.0,44.0,55.0,99.0
+GE - Challenge Avenir 3 - (Laneuveville),2021-12-12,U17 Women 55,WEISKOPF Emilie,54.0,20.0,22.0,23.0,25.0,27.0,30.0,23.0,30.0,53.0
+GE - Challenge Avenir 3 - (Laneuveville),2021-12-12,U17 Women 59,DUPRIEZ Mathilde,57.5,18.0,22.0,25.0,24.0,28.0,30.0,25.0,30.0,55.0
+GE - Challenge Avenir 3 - (Laneuveville),2021-12-12,SEN Women 64,KAEMPF Isaure,61.0,28.0,30.0,33.0,38.0,-40.0,40.0,33.0,40.0,73.0
+GE - Challenge Avenir 3 - (Laneuveville),2021-12-12,SEN Women 71,ULDRY Deborah,67.2,44.0,-48.0,-48.0,55.0,60.0,63.0,44.0,63.0,107.0
+GE - Challenge Avenir 3 - (Laneuveville),2021-12-12,SEN Women 87,KIRCHE Elisa,82.0,40.0,43.0,44.0,50.0,55.0,-60.0,44.0,55.0,99.0
+GE - Challenge Avenir 3 - (Laneuveville),2021-12-12,U10 Men ,DUCHAUFFOUR Louis,24.2,10.0,11.0,-13.0,15.0,17.0,19.0,11.0,19.0,30.0
+GE - Challenge Avenir 3 - (Laneuveville),2021-12-12,U13 Women 35,DUCHAUFFOUR Rose,29.4,14.0,16.0,-17.0,18.0,20.0,22.0,16.0,22.0,38.0
+GE - Challenge Avenir 3 - (Laneuveville),2021-12-12,U13 Women 45,BONNET Elia,41.1,-10.0,10.0,-12.0,15.0,17.0,19.0,10.0,19.0,29.0
+GE - Challenge Avenir 3 - (Laneuveville),2021-12-12,U10 Men ,DUCHAUFFOUR Louis,24.2,10.0,11.0,-13.0,15.0,17.0,19.0,11.0,19.0,30.0
+GE - Challenge Avenir 3 - (Laneuveville),2021-12-12,U13 Women 35,DUCHAUFFOUR Rose,29.4,14.0,16.0,-17.0,18.0,20.0,22.0,16.0,22.0,38.0
+GE - Challenge Avenir 3 - (Laneuveville),2021-12-12,U13 Women 45,BONNET Elia,41.1,-10.0,10.0,-12.0,15.0,17.0,19.0,10.0,19.0,29.0

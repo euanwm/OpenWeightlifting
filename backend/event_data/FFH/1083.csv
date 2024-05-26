@@ -1,12 +1,20 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-HDF - Critérium 2 Dép 59 Hommes CJS,2021-07-03,U15 Men 61,ROOSEBEKE Yanis,56.9,-55.0,55.0,58.0,65.0,70.0,72.0,58.0,72.0,130.0
-HDF - Critérium 2 Dép 59 Hommes CJS,2021-07-03,U17 Men 55,FELICIANO Martin,54.7,70.0,73.0,-76.0,90.0,97.0,-100.0,73.0,97.0,170.0
-HDF - Critérium 2 Dép 59 Hommes CJS,2021-07-03,U17 Men 61,ALINANT Sebastien,56.8,65.0,69.0,72.0,80.0,85.0,-87.0,72.0,85.0,157.0
-HDF - Critérium 2 Dép 59 Hommes CJS,2021-07-03,U17 Men 73,FOURNIER Hugo,69.0,88.0,-92.0,-93.0,112.0,-115.0,-115.0,88.0,112.0,200.0
-HDF - Critérium 2 Dép 59 Hommes CJS,2021-07-03,U20 Men 73,BUYSSCHAERT Tristan,67.1,105.0,109.0,-111.0,121.0,-0.0,-0.0,109.0,121.0,230.0
-HDF - Critérium 2 Dép 59 Hommes CJS,2021-07-03,SEN Men 73,BUYSSCHAERT Eliott,72.9,85.0,90.0,-95.0,100.0,105.0,110.0,90.0,110.0,200.0
-HDF - Critérium 2 Dép 59 Hommes CJS,2021-07-03,SEN Men 81,FOURNIER Louis,74.0,125.0,130.0,-133.0,150.0,155.0,160.0,130.0,160.0,290.0
-HDF - Critérium 2 Dép 59 Hommes CJS,2021-07-03,SEN Men 96,DJASSIDJI Willy,93.3,125.0,-130.0,-132.0,152.0,-0.0,-0.0,125.0,152.0,277.0
-HDF - Critérium 2 Dép 59 Hommes CJS,2021-07-03,SEN Men 96,FARETIE Sony,91.1,128.0,132.0,-135.0,-155.0,-163.0,-163.0,132.0,-155.0,0.0
-HDF - Critérium 2 Dép 59 Hommes CJS,2021-07-03,SEN Men 102,FONTENELLE Vincent,96.1,130.0,-135.0,-135.0,160.0,172.0,-0.0,130.0,172.0,302.0
-HDF - Critérium 2 Dép 59 Hommes CJS,2021-07-03,SEN Men 102,MONIER Bruno,98.3,100.0,107.0,112.0,128.0,132.0,137.0,112.0,137.0,249.0
+HDF - Championnats d'Europe MASTER - Waterford (irl) - M,2023-05-14,M35 Men 89,NOTTELET Luc,87.2,85.0,90.0,95.0,115.0,120.0,-126.0,95.0,120.0,215.0
+HDF - Championnats d'Europe MASTER - Waterford (irl) - M,2023-05-14,M35 Men 96,MONIER Bruno,94.8,105.0,110.0,115.0,-135.0,139.0,-144.0,115.0,139.0,254.0
+HDF - Championnats d'Europe MASTER - Waterford (irl) - M,2023-05-14,M40 Men 89,VIGNOT Quentin,83.5,87.0,-92.0,-92.0,-112.0,116.0,-120.0,87.0,116.0,203.0
+HDF - Championnats d'Europe MASTER - Waterford (irl) - M,2023-05-14,M40 Men 96,FONTENELLE Vincent,95.35,123.0,127.0,-130.0,155.0,-163.0,-0.0,127.0,155.0,282.0
+HDF - Championnats d'Europe MASTER - Waterford (irl) - M,2023-05-14,M45 Men 73,DUHAUTOY David,72.9,75.0,-80.0,-80.0,90.0,95.0,-100.0,75.0,95.0,170.0
+HDF - Championnats d'Europe MASTER - Waterford (irl) - M,2023-05-14,M50 Men 89,REMOND David,86.47,90.0,95.0,-100.0,120.0,131.0,-0.0,95.0,131.0,226.0
+HDF - Championnats d'Europe MASTER - Waterford (irl) - M,2023-05-14,M60 Men 102,DEFRANCE Jean marc,96.05,64.0,-68.0,68.0,87.0,91.0,-95.0,68.0,91.0,159.0
+HDF - Championnats d'Europe MASTER - Waterford (irl) - M,2023-05-14,M35 Men 81,DAVID Bastien,80.45,95.0,99.0,-102.0,120.0,126.0,-0.0,99.0,126.0,225.0
+HDF - Championnats d'Europe MASTER - Waterford (irl) - M,2023-05-14,M35 Men 89,LARROQUE Jeremy,87.78,103.0,-107.0,-110.0,140.0,-144.0,-145.0,103.0,140.0,243.0
+HDF - Championnats d'Europe MASTER - Waterford (irl) - M,2023-05-14,M40 Men 81,BESNARD Cristophe,80.0,110.0,115.0,120.0,135.0,143.0,150.0,120.0,150.0,270.0
+HDF - Championnats d'Europe MASTER - Waterford (irl) - M,2023-05-14,M45 Men 89,BERNARD Xavier,87.75,108.0,-114.0,114.0,127.0,130.0,-133.0,114.0,130.0,244.0
+HDF - Championnats d'Europe MASTER - Waterford (irl) - M,2023-05-14,M50 Men 89,HESHMATI Sohrab,84.55,100.0,-105.0,-105.0,124.0,-129.0,-129.0,100.0,124.0,224.0
+HDF - Championnats d'Europe MASTER - Waterford (irl) - M,2023-05-14,M55 Men 73,AIECH Claude,72.6,70.0,-75.0,77.0,-91.0,91.0,-101.0,77.0,91.0,168.0
+HDF - Championnats d'Europe MASTER - Waterford (irl) - M,2023-05-14,M35 Men 81,DAVID Bastien,80.45,95.0,99.0,-102.0,120.0,126.0,-0.0,99.0,126.0,225.0
+HDF - Championnats d'Europe MASTER - Waterford (irl) - M,2023-05-14,M35 Men 89,LARROQUE Jeremy,87.78,103.0,-107.0,-110.0,140.0,-144.0,-145.0,103.0,140.0,243.0
+HDF - Championnats d'Europe MASTER - Waterford (irl) - M,2023-05-14,M40 Men 81,BESNARD Cristophe,80.0,110.0,115.0,120.0,135.0,143.0,150.0,120.0,150.0,270.0
+HDF - Championnats d'Europe MASTER - Waterford (irl) - M,2023-05-14,M45 Men 89,BERNARD Xavier,87.75,108.0,-114.0,114.0,127.0,130.0,-133.0,114.0,130.0,244.0
+HDF - Championnats d'Europe MASTER - Waterford (irl) - M,2023-05-14,M50 Men 89,HESHMATI Sohrab,84.55,100.0,-105.0,-105.0,124.0,-129.0,-129.0,100.0,124.0,224.0
+HDF - Championnats d'Europe MASTER - Waterford (irl) - M,2023-05-14,M55 Men 73,AIECH Claude,72.6,70.0,-75.0,77.0,-91.0,91.0,-101.0,77.0,91.0,168.0

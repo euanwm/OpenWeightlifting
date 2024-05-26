@@ -1,12 +1,123 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-HDF - 1er Challenge Avenir Cadets (Péronne) + Détection Cadets (avec épreuves combinées),2021-10-16,U15 Men 49,BEAURAIN Noah,45.8,36.0,38.0,-40.0,40.0,43.0,-46.0,38.0,43.0,81.0
-HDF - 1er Challenge Avenir Cadets (Péronne) + Détection Cadets (avec épreuves combinées),2021-10-16,U15 Men 49,HUMÉ Louis,46.5,25.0,28.0,31.0,38.0,41.0,-44.0,31.0,41.0,72.0
-HDF - 1er Challenge Avenir Cadets (Péronne) + Détection Cadets (avec épreuves combinées),2021-10-16,U15 Men 55,DUMEIGE Rémy,49.6,30.0,33.0,-35.0,40.0,43.0,45.0,33.0,45.0,78.0
-HDF - 1er Challenge Avenir Cadets (Péronne) + Détection Cadets (avec épreuves combinées),2021-10-16,U15 Men 61,LENGLET Maxime,60.9,33.0,35.0,37.0,43.0,46.0,49.0,37.0,49.0,86.0
-HDF - 1er Challenge Avenir Cadets (Péronne) + Détection Cadets (avec épreuves combinées),2021-10-16,U15 Men 61,DEHANE Raphael,56.0,30.0,34.0,38.0,38.0,41.0,44.0,38.0,44.0,82.0
-HDF - 1er Challenge Avenir Cadets (Péronne) + Détection Cadets (avec épreuves combinées),2021-10-16,U15 Men 61,LEDOUX Noah,60.15,-18.0,18.0,20.0,22.0,24.0,27.0,20.0,27.0,47.0
-HDF - 1er Challenge Avenir Cadets (Péronne) + Détection Cadets (avec épreuves combinées),2021-10-16,U15 Men 81,EVENEPOEL Paul,78.75,42.0,45.0,48.0,60.0,-64.0,-64.0,48.0,60.0,108.0
-HDF - 1er Challenge Avenir Cadets (Péronne) + Détection Cadets (avec épreuves combinées),2021-10-16,U17 Men 49,RIQUIER Alexis,48.0,20.0,-23.0,23.0,35.0,38.0,40.0,23.0,40.0,63.0
-HDF - 1er Challenge Avenir Cadets (Péronne) + Détection Cadets (avec épreuves combinées),2021-10-16,U17 Men 67,RIQUIER Daniel,61.5,42.0,46.0,50.0,61.0,-64.0,-64.0,50.0,61.0,111.0
-HDF - 1er Challenge Avenir Cadets (Péronne) + Détection Cadets (avec épreuves combinées),2021-10-16,U17 Men 67,BERTUZZI Dario,61.9,-18.0,18.0,21.0,25.0,30.0,35.0,21.0,35.0,56.0
-HDF - 1er Challenge Avenir Cadets (Péronne) + Détection Cadets (avec épreuves combinées),2021-10-16,U17 Men 96,SOMBRET Raphael,90.5,40.0,45.0,-50.0,60.0,65.0,70.0,45.0,70.0,115.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U15 Women 49,BOURGEOIS Loane,48.3,18.0,21.0,-24.0,28.0,31.0,-34.0,21.0,31.0,52.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U15 Women 49,PERDRIAT Laurine,48.1,18.0,20.0,22.0,24.0,26.0,28.0,22.0,28.0,50.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U15 Women >81,POIROT-LAIR Lou-anne,83.6,34.0,37.0,40.0,44.0,47.0,-50.0,40.0,47.0,87.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U17 Women 59,PRETRE Faustine,58.6,22.0,25.0,28.0,32.0,-35.0,-37.0,28.0,32.0,60.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U20 Women 55,DECTOT Elie,51.8,34.0,36.0,38.0,-44.0,44.0,47.0,38.0,47.0,85.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Women 55,LALLEMAND Anne,52.2,18.0,21.0,23.0,-33.0,33.0,-37.0,23.0,33.0,56.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Women 59,SANAVAY Anita,56.2,40.0,-43.0,45.0,52.0,-54.0,-55.0,45.0,52.0,97.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Women 71,ROCHER Margaux,64.2,47.0,-50.0,-51.0,68.0,-72.0,-75.0,47.0,68.0,115.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Women 71,CANTOT Aurore,67.7,27.0,30.0,-32.0,28.0,31.0,34.0,30.0,34.0,64.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Women 76,BERTRAND GANTOIS Alex,75.4,-45.0,46.0,-50.0,52.0,-56.0,56.0,46.0,56.0,102.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Women 81,CLERC Ophélie,80.0,40.0,43.0,-45.0,50.0,53.0,55.0,43.0,55.0,98.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Women >87,LANTOINE Julie,91.3,50.0,53.0,55.0,65.0,-67.0,-67.0,55.0,65.0,120.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U15 Men 49,TRIGALOT Alessandro,44.7,24.0,26.0,-28.0,30.0,33.0,35.0,26.0,35.0,61.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U15 Men 67,MAUGE--GRAFF Paul,62.6,35.0,38.0,41.0,47.0,51.0,54.0,41.0,54.0,95.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U15 Men 73,MORETTI Pierre,72.0,29.0,31.0,33.0,34.0,-36.0,36.0,33.0,36.0,69.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U17 Men 73,BOUCHER Nathan,72.8,57.0,-61.0,61.0,74.0,78.0,-82.0,61.0,78.0,139.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U20 Men >109,PICOT Sam,112.0,86.0,-90.0,-90.0,107.0,111.0,115.0,86.0,115.0,201.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 67,CREVOISIER Lucien,65.3,82.0,86.0,-90.0,90.0,-109.0,-110.0,86.0,90.0,176.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 67,HOCQUELOUX Philippe,66.0,40.0,43.0,-46.0,-57.0,-57.0,57.0,43.0,57.0,100.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 73,DURIC Sifet,72.25,83.0,-90.0,-93.0,95.0,102.0,-110.0,83.0,102.0,185.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 73,CAMBON Tanguy,69.45,30.0,31.0,32.0,-45.0,47.0,48.0,32.0,48.0,80.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 81,PRUNIER Philippe,77.5,80.0,-84.0,84.0,105.0,-111.0,-111.0,84.0,105.0,189.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 81,MONTILLOT Clovis,76.25,52.0,-56.0,56.0,65.0,70.0,-75.0,56.0,70.0,126.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 81,MARGUIER Flavien,80.05,77.0,80.0,-83.0,-95.0,-100.0,-105.0,80.0,0.0,0.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 89,GROSJEAN Paul,81.4,-83.0,85.0,-91.0,90.0,97.0,-0.0,85.0,97.0,182.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 89,TAIEB Ilan,84.5,52.0,55.0,-57.0,67.0,71.0,-74.0,55.0,71.0,126.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 96,THOMASSEY Adrien,90.5,70.0,75.0,-80.0,90.0,-95.0,-100.0,75.0,90.0,165.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U15 Men 49,TRIGALOT Alessandro,44.7,24.0,26.0,-28.0,30.0,33.0,35.0,26.0,35.0,61.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U15 Men 67,MAUGE--GRAFF Paul,62.6,35.0,38.0,41.0,47.0,51.0,54.0,41.0,54.0,95.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U15 Men 73,MORETTI Pierre,72.0,29.0,31.0,33.0,34.0,-36.0,36.0,33.0,36.0,69.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U17 Men 73,BOUCHER Nathan,72.8,57.0,-61.0,61.0,74.0,78.0,-82.0,61.0,78.0,139.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U20 Men >109,PICOT Sam,112.0,86.0,-90.0,-90.0,107.0,111.0,115.0,86.0,115.0,201.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 67,CREVOISIER Lucien,65.3,82.0,86.0,-90.0,90.0,-109.0,-110.0,86.0,90.0,176.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 67,HOCQUELOUX Philippe,66.0,40.0,43.0,-46.0,-57.0,-57.0,57.0,43.0,57.0,100.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 73,DURIC Sifet,72.25,83.0,-90.0,-93.0,95.0,102.0,-110.0,83.0,102.0,185.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 73,CAMBON Tanguy,69.45,30.0,31.0,32.0,-45.0,47.0,48.0,32.0,48.0,80.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 81,PRUNIER Philippe,77.5,80.0,-84.0,84.0,105.0,-111.0,-111.0,84.0,105.0,189.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 81,MONTILLOT Clovis,76.25,52.0,-56.0,56.0,65.0,70.0,-75.0,56.0,70.0,126.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 81,MARGUIER Flavien,80.05,77.0,80.0,-83.0,-95.0,-100.0,-105.0,80.0,0.0,0.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 89,GROSJEAN Paul,81.4,-83.0,85.0,-91.0,90.0,97.0,-0.0,85.0,97.0,182.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 89,TAIEB Ilan,84.5,52.0,55.0,-57.0,67.0,71.0,-74.0,55.0,71.0,126.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 96,THOMASSEY Adrien,90.5,70.0,75.0,-80.0,90.0,-95.0,-100.0,75.0,90.0,165.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U15 Men 49,GUILLEMETTE Léo,47.0,29.0,33.0,35.0,40.0,46.0,-50.0,35.0,46.0,81.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U15 Men 49,BRIVOAL Antoine,35.9,22.0,24.0,-26.0,27.0,-30.0,30.0,24.0,30.0,54.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U15 Men 49,VANBEUGHEN Soren,41.7,15.0,17.0,19.0,19.0,21.0,24.0,19.0,24.0,43.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U15 Men 55,BADZAGUA Andro,54.1,38.0,41.0,43.0,48.0,-50.0,51.0,43.0,51.0,94.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U15 Men 55,GUILLEMETTE Roman,53.8,27.0,30.0,-33.0,35.0,38.0,41.0,30.0,41.0,71.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U15 Men 61,LE LESLÉ Maël,60.4,30.0,32.0,34.0,42.0,45.0,-48.0,34.0,45.0,79.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U15 Men 61,BESNARD Ewen,61.0,25.0,27.0,29.0,33.0,36.0,40.0,29.0,40.0,69.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U15 Men 67,WILLE Mathis,62.7,23.0,25.0,27.0,45.0,48.0,50.0,27.0,50.0,77.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U17 Men 67,BADZAGUA Sandro,63.8,56.0,59.0,62.0,68.0,71.0,74.0,62.0,74.0,136.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U17 Men 81,GUELT Louis,80.8,57.0,60.0,63.0,69.0,72.0,76.0,63.0,76.0,139.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U20 Men 73,COULIBALY Diowage,69.5,60.0,-67.0,-68.0,80.0,85.0,-90.0,60.0,85.0,145.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U15 Men 49,GUILLEMETTE Léo,47.0,29.0,33.0,35.0,40.0,46.0,-50.0,35.0,46.0,81.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U15 Men 49,BRIVOAL Antoine,35.9,22.0,24.0,-26.0,27.0,-30.0,30.0,24.0,30.0,54.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U15 Men 49,VANBEUGHEN Soren,41.7,15.0,17.0,19.0,19.0,21.0,24.0,19.0,24.0,43.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U15 Men 55,BADZAGUA Andro,54.1,38.0,41.0,43.0,48.0,-50.0,51.0,43.0,51.0,94.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U15 Men 55,GUILLEMETTE Roman,53.8,27.0,30.0,-33.0,35.0,38.0,41.0,30.0,41.0,71.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U15 Men 61,LE LESLÉ Maël,60.4,30.0,32.0,34.0,42.0,45.0,-48.0,34.0,45.0,79.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U15 Men 61,BESNARD Ewen,61.0,25.0,27.0,29.0,33.0,36.0,40.0,29.0,40.0,69.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U15 Men 67,WILLE Mathis,62.7,23.0,25.0,27.0,45.0,48.0,50.0,27.0,50.0,77.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U17 Men 67,BADZAGUA Sandro,63.8,56.0,59.0,62.0,68.0,71.0,74.0,62.0,74.0,136.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U17 Men 81,GUELT Louis,80.8,57.0,60.0,63.0,69.0,72.0,76.0,63.0,76.0,139.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U20 Men 73,COULIBALY Diowage,69.5,60.0,-67.0,-68.0,80.0,85.0,-90.0,60.0,85.0,145.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U15 Women 55,LE BAGOUSSE Laly,51.5,20.0,23.0,-25.0,26.0,30.0,-33.0,23.0,30.0,53.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U15 Women >81,FAVIÈRE Yvannie,85.6,33.0,35.0,39.0,53.0,55.0,-57.0,39.0,55.0,94.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U15 Women >81,BEGOT Maïna,93.8,24.0,26.0,-30.0,30.0,33.0,-37.0,26.0,33.0,59.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U20 Women 76,CAILLE Titia,74.7,45.0,48.0,52.0,57.0,61.0,64.0,52.0,64.0,116.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U20 Women >87,DESTREE-RIANT Blanche,91.2,45.0,-48.0,-48.0,58.0,61.0,64.0,45.0,64.0,109.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Women 49,GUILLARD Pretty-laure,47.2,27.0,29.0,31.0,-37.0,37.0,40.0,31.0,40.0,71.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Women 55,BIGOT Inès,50.0,52.0,55.0,57.0,65.0,68.0,-73.0,57.0,68.0,125.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Women 59,LE BOURLOUT Annaëlle,58.4,33.0,35.0,38.0,-49.0,49.0,-52.0,38.0,49.0,87.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Women 76,BERNARD Nolwenn,72.9,50.0,53.0,56.0,65.0,68.0,-71.0,56.0,68.0,124.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Women 76,ROUSSELET Claire,74.2,40.0,-43.0,43.0,-54.0,54.0,-57.0,43.0,54.0,97.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Women 76,FIGUEROA Erika,75.7,38.0,-41.0,-42.0,54.0,-57.0,-58.0,38.0,54.0,92.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Women 76,CRENEGUY Blandine,75.3,33.0,-36.0,36.0,43.0,46.0,-50.0,36.0,46.0,82.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Women 81,BAILLON Celia,79.0,43.0,-45.0,-45.0,55.0,58.0,60.0,43.0,60.0,103.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Women 81,PALENCIA Christèle,77.6,37.0,40.0,-42.0,46.0,-50.0,50.0,40.0,50.0,90.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Women >87,DORVEAUX Chloé,93.9,50.0,53.0,56.0,60.0,-65.0,65.0,56.0,65.0,121.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Women >87,LE GOFF Lucie,87.5,35.0,41.0,-44.0,-45.0,45.0,48.0,41.0,48.0,89.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U15 Women 55,LE BAGOUSSE Laly,51.5,20.0,23.0,-25.0,26.0,30.0,-33.0,23.0,30.0,53.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U15 Women >81,FAVIÈRE Yvannie,85.6,33.0,35.0,39.0,53.0,55.0,-57.0,39.0,55.0,94.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U15 Women >81,BEGOT Maïna,93.8,24.0,26.0,-30.0,30.0,33.0,-37.0,26.0,33.0,59.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U20 Women 76,CAILLE Titia,74.7,45.0,48.0,52.0,57.0,61.0,64.0,52.0,64.0,116.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,U20 Women >87,DESTREE-RIANT Blanche,91.2,45.0,-48.0,-48.0,58.0,61.0,64.0,45.0,64.0,109.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Women 49,GUILLARD Pretty-laure,47.2,27.0,29.0,31.0,-37.0,37.0,40.0,31.0,40.0,71.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Women 55,BIGOT Inès,50.0,52.0,55.0,57.0,65.0,68.0,-73.0,57.0,68.0,125.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Women 59,LE BOURLOUT Annaëlle,58.4,33.0,35.0,38.0,-49.0,49.0,-52.0,38.0,49.0,87.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Women 76,BERNARD Nolwenn,72.9,50.0,53.0,56.0,65.0,68.0,-71.0,56.0,68.0,124.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Women 76,ROUSSELET Claire,74.2,40.0,-43.0,43.0,-54.0,54.0,-57.0,43.0,54.0,97.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Women 76,FIGUEROA Erika,75.7,38.0,-41.0,-42.0,54.0,-57.0,-58.0,38.0,54.0,92.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Women 76,CRENEGUY Blandine,75.3,33.0,-36.0,36.0,43.0,46.0,-50.0,36.0,46.0,82.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Women 81,BAILLON Celia,79.0,43.0,-45.0,-45.0,55.0,58.0,60.0,43.0,60.0,103.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Women 81,PALENCIA Christèle,77.6,37.0,40.0,-42.0,46.0,-50.0,50.0,40.0,50.0,90.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Women >87,DORVEAUX Chloé,93.9,50.0,53.0,56.0,60.0,-65.0,65.0,56.0,65.0,121.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Women >87,LE GOFF Lucie,87.5,35.0,41.0,-44.0,-45.0,45.0,48.0,41.0,48.0,89.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 73,GODET Mathieu,72.0,86.0,90.0,-94.0,105.0,110.0,-115.0,90.0,110.0,200.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 73,BADAIRE Hippolyte,72.7,64.0,67.0,-70.0,87.0,90.0,-93.0,67.0,90.0,157.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 73,ADAM Liam,71.1,67.0,-72.0,-73.0,-100.0,-100.0,-100.0,67.0,0.0,0.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 81,JODEAU Nicolas,79.7,60.0,63.0,-66.0,68.0,71.0,-77.0,63.0,71.0,134.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 81,BONNOUVRIER Denis,78.5,56.0,59.0,-63.0,70.0,-73.0,73.0,59.0,73.0,132.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 81,LEDURE David,76.5,-81.0,84.0,90.0,-120.0,-120.0,-125.0,90.0,0.0,0.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 89,STRUILLOU Evan,81.8,80.0,-84.0,84.0,105.0,110.0,115.0,84.0,115.0,199.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 89,GUILOT Ghislain,86.7,56.0,60.0,64.0,66.0,70.0,75.0,64.0,75.0,139.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 96,LEVRAY Fabien,91.7,62.0,66.0,-69.0,80.0,85.0,90.0,66.0,90.0,156.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 102,GUEHENNEC François,96.6,85.0,89.0,-92.0,110.0,115.0,-120.0,89.0,115.0,204.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 102,HENRIO Damien,100.2,68.0,72.0,75.0,97.0,-101.0,-101.0,75.0,97.0,172.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 102,BONNET Jean-françois,99.2,-71.0,71.0,-74.0,88.0,92.0,96.0,71.0,96.0,167.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men >109,BERTIN Pierre-antoine,109.5,85.0,-89.0,-89.0,110.0,115.0,120.0,85.0,120.0,205.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 73,GODET Mathieu,72.0,86.0,90.0,-94.0,105.0,110.0,-115.0,90.0,110.0,200.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 73,BADAIRE Hippolyte,72.7,64.0,67.0,-70.0,87.0,90.0,-93.0,67.0,90.0,157.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 73,ADAM Liam,71.1,67.0,-72.0,-73.0,-100.0,-100.0,-100.0,67.0,0.0,0.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 81,JODEAU Nicolas,79.7,60.0,63.0,-66.0,68.0,71.0,-77.0,63.0,71.0,134.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 81,BONNOUVRIER Denis,78.5,56.0,59.0,-63.0,70.0,-73.0,73.0,59.0,73.0,132.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 81,LEDURE David,76.5,-81.0,84.0,90.0,-120.0,-120.0,-125.0,90.0,0.0,0.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 89,STRUILLOU Evan,81.8,80.0,-84.0,84.0,105.0,110.0,115.0,84.0,115.0,199.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 89,GUILOT Ghislain,86.7,56.0,60.0,64.0,66.0,70.0,75.0,64.0,75.0,139.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 96,LEVRAY Fabien,91.7,62.0,66.0,-69.0,80.0,85.0,90.0,66.0,90.0,156.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 102,GUEHENNEC François,96.6,85.0,89.0,-92.0,110.0,115.0,-120.0,89.0,115.0,204.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 102,HENRIO Damien,100.2,68.0,72.0,75.0,97.0,-101.0,-101.0,75.0,97.0,172.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men 102,BONNET Jean-françois,99.2,-71.0,71.0,-74.0,88.0,92.0,96.0,71.0,96.0,167.0
+BFC - Challenge Avenir - Luxeuil,2024-04-07,SEN Men >109,BERTIN Pierre-antoine,109.5,85.0,-89.0,-89.0,110.0,115.0,120.0,85.0,120.0,205.0

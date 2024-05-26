@@ -1,12 +1,28 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-BFC - J1 REG Masc  Luxeuil - Besancon,2020-10-17,U15 Men 96,VINCENT Gaetan,95.9,65.0,70.0,-74.0,85.0,-90.0,90.0,70.0,90.0,160.0
-BFC - J1 REG Masc  Luxeuil - Besancon,2020-10-17,U20 Men 67,MATHIOT Hugo,64.0,-60.0,60.0,-65.0,-80.0,80.0,-85.0,60.0,80.0,140.0
-BFC - J1 REG Masc  Luxeuil - Besancon,2020-10-17,U20 Men 81,SYLLA Steve,79.7,83.0,86.0,-90.0,95.0,100.0,-103.0,86.0,100.0,186.0
-BFC - J1 REG Masc  Luxeuil - Besancon,2020-10-17,SEN Men 61,GROSJEAN Marc,59.6,68.0,72.0,-75.0,83.0,86.0,88.0,72.0,88.0,160.0
-BFC - J1 REG Masc  Luxeuil - Besancon,2020-10-17,SEN Men 67,CITAS Raphael,65.9,88.0,91.0,94.0,115.0,118.0,121.0,94.0,121.0,215.0
-BFC - J1 REG Masc  Luxeuil - Besancon,2020-10-17,SEN Men 67,KROUMOV Yvan,66.1,55.0,60.0,65.0,75.0,80.0,85.0,65.0,85.0,150.0
-BFC - J1 REG Masc  Luxeuil - Besancon,2020-10-17,SEN Men 73,MULLER John,70.7,95.0,100.0,-105.0,125.0,130.0,-135.0,100.0,130.0,230.0
-BFC - J1 REG Masc  Luxeuil - Besancon,2020-10-17,SEN Men 73,JEGAN Thaya,69.2,90.0,-95.0,95.0,-110.0,110.0,115.0,95.0,115.0,210.0
-BFC - J1 REG Masc  Luxeuil - Besancon,2020-10-17,SEN Men 73,DURIC Sifet,68.15,83.0,87.0,90.0,100.0,105.0,-110.0,90.0,105.0,195.0
-BFC - J1 REG Masc  Luxeuil - Besancon,2020-10-17,SEN Men 81,CARDEY Léo,77.95,-93.0,93.0,97.0,118.0,123.0,-130.0,97.0,123.0,220.0
-BFC - J1 REG Masc  Luxeuil - Besancon,2020-10-17,SEN Men 102,ARSIMERZAYEV Aslanbek,99.85,130.0,135.0,-140.0,155.0,160.0,-165.0,135.0,160.0,295.0
+BFC - Challenge Avenir - Granges narboz - Haltérophilie Pontissalienne,2022-05-21,U17 Men 81,CLAUDET Ambroise,77.3,-55.0,60.0,65.0,85.0,90.0,-95.0,65.0,90.0,155.0
+BFC - Challenge Avenir - Granges narboz - Haltérophilie Pontissalienne,2022-05-21,U17 Men 89,GIRARDOT Ewan,84.1,45.0,50.0,55.0,75.0,-80.0,80.0,55.0,80.0,135.0
+BFC - Challenge Avenir - Granges narboz - Haltérophilie Pontissalienne,2022-05-21,U20 Men 73,GUILLAUME Axel,72.9,55.0,65.0,-70.0,80.0,85.0,-90.0,65.0,85.0,150.0
+BFC - Challenge Avenir - Granges narboz - Haltérophilie Pontissalienne,2022-05-21,U20 Men 81,MARECHAL Antoine,79.0,75.0,-80.0,85.0,95.0,110.0,-115.0,85.0,110.0,195.0
+BFC - Challenge Avenir - Granges narboz - Haltérophilie Pontissalienne,2022-05-21,U20 Men 89,CLAUDET Amédée,84.4,45.0,50.0,55.0,70.0,-75.0,80.0,55.0,80.0,135.0
+BFC - Challenge Avenir - Granges narboz - Haltérophilie Pontissalienne,2022-05-21,SEN Men 73,CHATEAU Yoann,68.7,35.0,45.0,-50.0,55.0,65.0,-70.0,45.0,65.0,110.0
+BFC - Challenge Avenir - Granges narboz - Haltérophilie Pontissalienne,2022-05-21,SEN Men 96,HAGENBACH Jerome,92.3,50.0,55.0,60.0,75.0,80.0,82.0,60.0,82.0,142.0
+BFC - Challenge Avenir - Granges narboz - Haltérophilie Pontissalienne,2022-05-21,U17 Women 55,LAMBERT Lola,52.4,30.0,-33.0,33.0,-44.0,44.0,47.0,33.0,47.0,80.0
+BFC - Challenge Avenir - Granges narboz - Haltérophilie Pontissalienne,2022-05-21,U20 Women 59,BLONDEAU Romane,56.2,-33.0,33.0,36.0,44.0,-47.0,47.0,36.0,47.0,83.0
+BFC - Challenge Avenir - Granges narboz - Haltérophilie Pontissalienne,2022-05-21,SEN Women 55,DESCAMPS Rachel,54.2,-39.0,-39.0,39.0,-50.0,-50.0,50.0,39.0,50.0,89.0
+BFC - Challenge Avenir - Granges narboz - Haltérophilie Pontissalienne,2022-05-21,SEN Women 71,LUCON Sawsen,64.3,-42.0,-42.0,42.0,56.0,-59.0,59.0,42.0,59.0,101.0
+BFC - Challenge Avenir - Granges narboz - Haltérophilie Pontissalienne,2022-05-21,SEN Women 87,BAUD Marie,83.1,36.0,-39.0,39.0,44.0,47.0,50.0,39.0,50.0,89.0
+BFC - Challenge Avenir - Granges narboz - Haltérophilie Pontissalienne,2022-05-21,U17 Women 55,LAMBERT Lola,52.4,30.0,-33.0,33.0,-44.0,44.0,47.0,33.0,47.0,80.0
+BFC - Challenge Avenir - Granges narboz - Haltérophilie Pontissalienne,2022-05-21,U20 Women 59,BLONDEAU Romane,56.2,-33.0,33.0,36.0,44.0,-47.0,47.0,36.0,47.0,83.0
+BFC - Challenge Avenir - Granges narboz - Haltérophilie Pontissalienne,2022-05-21,SEN Women 55,DESCAMPS Rachel,54.2,-39.0,-39.0,39.0,-50.0,-50.0,50.0,39.0,50.0,89.0
+BFC - Challenge Avenir - Granges narboz - Haltérophilie Pontissalienne,2022-05-21,SEN Women 71,LUCON Sawsen,64.3,-42.0,-42.0,42.0,56.0,-59.0,59.0,42.0,59.0,101.0
+BFC - Challenge Avenir - Granges narboz - Haltérophilie Pontissalienne,2022-05-21,SEN Women 87,BAUD Marie,83.1,36.0,-39.0,39.0,44.0,47.0,50.0,39.0,50.0,89.0
+BFC - Challenge Avenir - Granges narboz - Haltérophilie Pontissalienne,2022-05-21,U17 Men 67,HUBERT JOUBERT Arthur,62.73,-47.0,47.0,50.0,57.0,60.0,63.0,50.0,63.0,113.0
+BFC - Challenge Avenir - Granges narboz - Haltérophilie Pontissalienne,2022-05-21,U17 Men 73,TRANQUILLAIN Nathanael,70.62,-70.0,72.0,75.0,85.0,88.0,-90.0,75.0,88.0,163.0
+BFC - Challenge Avenir - Granges narboz - Haltérophilie Pontissalienne,2022-05-21,SEN Men 81,MIEUZET Frederic,80.86,58.0,-60.0,60.0,74.0,77.0,80.0,60.0,80.0,140.0
+BFC - Challenge Avenir - Granges narboz - Haltérophilie Pontissalienne,2022-05-21,SEN Men 89,DORIDOT Fabrice,87.02,57.0,59.0,-61.0,77.0,-80.0,81.0,59.0,81.0,140.0
+BFC - Challenge Avenir - Granges narboz - Haltérophilie Pontissalienne,2022-05-21,U17 Men 67,HUBERT JOUBERT Arthur,62.73,-47.0,47.0,50.0,57.0,60.0,63.0,50.0,63.0,113.0
+BFC - Challenge Avenir - Granges narboz - Haltérophilie Pontissalienne,2022-05-21,U17 Men 73,TRANQUILLAIN Nathanael,70.62,-70.0,72.0,75.0,85.0,88.0,-90.0,75.0,88.0,163.0
+BFC - Challenge Avenir - Granges narboz - Haltérophilie Pontissalienne,2022-05-21,SEN Men 81,MIEUZET Frederic,80.86,58.0,-60.0,60.0,74.0,77.0,80.0,60.0,80.0,140.0
+BFC - Challenge Avenir - Granges narboz - Haltérophilie Pontissalienne,2022-05-21,SEN Men 89,DORIDOT Fabrice,87.02,57.0,59.0,-61.0,77.0,-80.0,81.0,59.0,81.0,140.0
+BFC - Challenge Avenir - Granges narboz - Haltérophilie Pontissalienne,2022-05-21,SEN Women 76,ONG Aline,73.97,25.0,27.0,29.0,35.0,38.0,40.0,29.0,40.0,69.0
+BFC - Challenge Avenir - Granges narboz - Haltérophilie Pontissalienne,2022-05-21,SEN Women 76,ONG Aline,73.97,25.0,27.0,29.0,35.0,38.0,40.0,29.0,40.0,69.0

@@ -1,12 +1,129 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-GE - Challenge Avenir 2 - Bas-Rhin - U15-17-20-SEN - Hom,2021-10-30,U15 Men 49,MOSER Léo,47.6,-32.0,32.0,35.0,42.0,45.0,48.0,35.0,48.0,83.0
-GE - Challenge Avenir 2 - Bas-Rhin - U15-17-20-SEN - Hom,2021-10-30,U15 Men 49,ZENTZ Victor,41.3,15.0,18.0,20.0,23.0,25.0,27.0,20.0,27.0,47.0
-GE - Challenge Avenir 2 - Bas-Rhin - U15-17-20-SEN - Hom,2021-10-30,U15 Men 67,PILATER Vincent,61.3,20.0,23.0,25.0,30.0,33.0,35.0,25.0,35.0,60.0
-GE - Challenge Avenir 2 - Bas-Rhin - U15-17-20-SEN - Hom,2021-10-30,U15 Men 73,MOVSESYAN Vahe,71.1,32.0,34.0,-35.0,36.0,39.0,43.0,34.0,43.0,77.0
-GE - Challenge Avenir 2 - Bas-Rhin - U15-17-20-SEN - Hom,2021-10-30,U15 Men 81,BEGEL Achille,76.4,38.0,-41.0,-41.0,45.0,-47.0,47.0,38.0,47.0,85.0
-GE - Challenge Avenir 2 - Bas-Rhin - U15-17-20-SEN - Hom,2021-10-30,U17 Men 49,WAXIN Axel,40.4,24.0,26.0,28.0,29.0,31.0,34.0,28.0,34.0,62.0
-GE - Challenge Avenir 2 - Bas-Rhin - U15-17-20-SEN - Hom,2021-10-30,U17 Men 81,SPAGNULO Tommaso,75.8,48.0,52.0,55.0,60.0,64.0,67.0,55.0,67.0,122.0
-GE - Challenge Avenir 2 - Bas-Rhin - U15-17-20-SEN - Hom,2021-10-30,SEN Men 73,D'ANNA Steven,71.4,85.0,90.0,95.0,115.0,-122.0,122.0,95.0,122.0,217.0
-GE - Challenge Avenir 2 - Bas-Rhin - U15-17-20-SEN - Hom,2021-10-30,SEN Men 81,GITTER Patrick,77.7,73.0,77.0,80.0,93.0,97.0,100.0,80.0,100.0,180.0
-GE - Challenge Avenir 2 - Bas-Rhin - U15-17-20-SEN - Hom,2021-10-30,SEN Men 89,AL MAZLOUM Bachar,86.4,95.0,100.0,105.0,120.0,125.0,130.0,105.0,130.0,235.0
-GE - Challenge Avenir 2 - Bas-Rhin - U15-17-20-SEN - Hom,2021-10-30,SEN Men 109,JEHL Arnaud,102.6,95.0,100.0,-105.0,110.0,-115.0,-115.0,100.0,110.0,210.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U20 Women 64,CONGA Eloane,62.3,44.0,-47.0,47.0,63.0,68.0,75.0,47.0,75.0,122.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Women 55,MARAMOTTI Anna,53.0,38.0,-41.0,43.0,52.0,-57.0,-60.0,43.0,52.0,95.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Women 59,GARRO Maud,56.7,48.0,51.0,-53.0,58.0,62.0,-64.0,51.0,62.0,113.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Women 64,BLOQUEL Amélie,61.6,48.0,-51.0,-51.0,60.0,65.0,-70.0,48.0,65.0,113.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Women 71,LAMIRAL Valentine,67.9,50.0,-55.0,57.0,64.0,69.0,-73.0,57.0,69.0,126.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Women 76,FIGUEROA Erika,71.8,35.0,38.0,-40.0,48.0,51.0,52.0,38.0,52.0,90.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Women 81,MOLLET Marie,79.6,45.0,50.0,55.0,63.0,70.0,75.0,55.0,75.0,130.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Women 87,PATY Melissa,86.2,33.0,36.0,40.0,45.0,50.0,55.0,40.0,55.0,95.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U10 Women ,PAUL Lucie,31.65,8.0,10.0,12.0,12.0,14.0,-16.0,12.0,14.0,26.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U13 Women 35,TUDO Liyah,34.4,14.0,16.0,17.0,16.0,18.0,20.0,17.0,20.0,37.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U13 Women 40,LE ROUSSEAU Lexie,39.85,12.0,13.0,15.0,14.0,15.0,17.0,15.0,17.0,32.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U13 Women 49,DRIANT Luna,48.7,11.0,-12.0,12.0,14.0,16.0,18.0,12.0,18.0,30.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U13 Women >71,FABBRO Léna,75.25,11.0,12.0,14.0,13.0,14.0,16.0,14.0,16.0,30.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U13 Men 35,HOYOUX Naël,35.0,14.0,16.0,18.0,20.0,22.0,24.0,18.0,24.0,42.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U13 Men 45,VICHON Ethan,44.1,30.0,32.0,34.0,38.0,40.0,42.0,34.0,42.0,76.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U13 Men 45,CORMONT Enzo,43.75,29.0,31.0,-33.0,38.0,40.0,-42.0,31.0,40.0,71.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U10 Women ,PAUL Lucie,31.65,8.0,10.0,12.0,12.0,14.0,-16.0,12.0,14.0,26.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U13 Women 35,TUDO Liyah,34.4,14.0,16.0,17.0,16.0,18.0,20.0,17.0,20.0,37.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U13 Women 40,LE ROUSSEAU Lexie,39.85,12.0,13.0,15.0,14.0,15.0,17.0,15.0,17.0,32.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U13 Women 49,DRIANT Luna,48.7,11.0,-12.0,12.0,14.0,16.0,18.0,12.0,18.0,30.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U13 Women >71,FABBRO Léna,75.25,11.0,12.0,14.0,13.0,14.0,16.0,14.0,16.0,30.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U13 Men 35,HOYOUX Naël,35.0,14.0,16.0,18.0,20.0,22.0,24.0,18.0,24.0,42.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U13 Men 45,VICHON Ethan,44.1,30.0,32.0,34.0,38.0,40.0,42.0,34.0,42.0,76.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U13 Men 45,CORMONT Enzo,43.75,29.0,31.0,-33.0,38.0,40.0,-42.0,31.0,40.0,71.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U15 Women 59,GRANDMONTAGNE Chloé,55.3,31.0,34.0,36.0,37.0,39.0,42.0,36.0,42.0,78.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U15 Women 64,LE ROUSSEAU Lili,63.8,33.0,37.0,-39.0,44.0,48.0,-50.0,37.0,48.0,85.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U17 Women 55,SAOUT Ainoa,50.2,32.0,35.0,38.0,45.0,48.0,51.0,38.0,51.0,89.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U17 Women 55,SERS Lorelei,54.65,31.0,34.0,-36.0,41.0,44.0,-47.0,34.0,44.0,78.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U17 Women 71,MORRISON Fanny,68.35,30.0,33.0,36.0,40.0,44.0,-47.0,36.0,44.0,80.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U20 Women 64,QUERE Noémie,60.4,53.0,56.0,-58.0,60.0,-63.0,63.0,56.0,63.0,119.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U20 Women 71,QUERE Eloïse,65.8,57.0,59.0,62.0,72.0,-75.0,-76.0,62.0,72.0,134.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Women 55,QUERE Romane,53.7,38.0,40.0,42.0,48.0,51.0,53.0,42.0,53.0,95.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Women 59,TRIMECH Nourhene,57.15,43.0,47.0,50.0,60.0,62.0,-67.0,50.0,62.0,112.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Women 64,GARRIC Juliette,62.1,55.0,59.0,63.0,68.0,72.0,75.0,63.0,75.0,138.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Women 64,WIPLIER Manon,61.5,50.0,52.0,-54.0,66.0,-70.0,70.0,52.0,70.0,122.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Women 64,LE GOFF Mélanie,60.2,8.0,10.0,12.0,-10.0,10.0,-14.0,12.0,10.0,22.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Women 76,TASSAN TOFFOLA Noéllie,73.5,-39.0,-39.0,39.0,54.0,-58.0,-60.0,39.0,54.0,93.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Women 81,LOUISON TANGUY Céline,77.9,-75.0,75.0,80.0,95.0,100.0,105.0,80.0,105.0,185.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U15 Women 59,GRANDMONTAGNE Chloé,55.3,31.0,34.0,36.0,37.0,39.0,42.0,36.0,42.0,78.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U15 Women 64,LE ROUSSEAU Lili,63.8,33.0,37.0,-39.0,44.0,48.0,-50.0,37.0,48.0,85.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U17 Women 55,SAOUT Ainoa,50.2,32.0,35.0,38.0,45.0,48.0,51.0,38.0,51.0,89.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U17 Women 55,SERS Lorelei,54.65,31.0,34.0,-36.0,41.0,44.0,-47.0,34.0,44.0,78.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U17 Women 71,MORRISON Fanny,68.35,30.0,33.0,36.0,40.0,44.0,-47.0,36.0,44.0,80.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U20 Women 64,QUERE Noémie,60.4,53.0,56.0,-58.0,60.0,-63.0,63.0,56.0,63.0,119.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U20 Women 71,QUERE Eloïse,65.8,57.0,59.0,62.0,72.0,-75.0,-76.0,62.0,72.0,134.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Women 55,QUERE Romane,53.7,38.0,40.0,42.0,48.0,51.0,53.0,42.0,53.0,95.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Women 59,TRIMECH Nourhene,57.15,43.0,47.0,50.0,60.0,62.0,-67.0,50.0,62.0,112.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Women 64,GARRIC Juliette,62.1,55.0,59.0,63.0,68.0,72.0,75.0,63.0,75.0,138.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Women 64,WIPLIER Manon,61.5,50.0,52.0,-54.0,66.0,-70.0,70.0,52.0,70.0,122.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Women 64,LE GOFF Mélanie,60.2,8.0,10.0,12.0,-10.0,10.0,-14.0,12.0,10.0,22.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Women 76,TASSAN TOFFOLA Noéllie,73.5,-39.0,-39.0,39.0,54.0,-58.0,-60.0,39.0,54.0,93.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Women 81,LOUISON TANGUY Céline,77.9,-75.0,75.0,80.0,95.0,100.0,105.0,80.0,105.0,185.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,W35 Women 76,BERNARD Nolwenn,72.7,47.0,51.0,-55.0,58.0,62.0,-66.0,51.0,62.0,113.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,W40 Women 81,LEON EPIE Osounga ndoua,79.1,50.0,55.0,60.0,70.0,72.0,76.0,60.0,76.0,136.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,W35 Women 76,BERNARD Nolwenn,72.7,47.0,51.0,-55.0,58.0,62.0,-66.0,51.0,62.0,113.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,W40 Women 81,LEON EPIE Osounga ndoua,79.1,50.0,55.0,60.0,70.0,72.0,76.0,60.0,76.0,136.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U15 Men 61,JACQUEMINET Hugo,57.65,25.0,28.0,30.0,33.0,36.0,40.0,30.0,40.0,70.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U17 Men 67,FAUCON Maxence,63.4,-52.0,52.0,-55.0,70.0,74.0,-78.0,52.0,74.0,126.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U17 Men 73,HOAREAU Soann,70.25,72.0,76.0,80.0,85.0,90.0,95.0,80.0,95.0,175.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U20 Men 61,CLOAREC Lenny,57.7,62.0,65.0,68.0,78.0,82.0,86.0,68.0,86.0,154.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U20 Men 73,COULIBALY Diowage,70.1,54.0,58.0,61.0,70.0,75.0,79.0,61.0,79.0,140.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Men 61,MAGNIEZ Baptiste,60.0,42.0,45.0,-47.0,63.0,-65.0,-65.0,45.0,63.0,108.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Men 73,LECLAIR Cedric,68.75,74.0,78.0,-81.0,95.0,100.0,107.0,78.0,107.0,185.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Men 81,MÉNAGER Maxime,78.2,55.0,58.0,-62.0,82.0,87.0,91.0,58.0,91.0,149.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Men 81,MONIEZ Maxence,77.95,52.0,-57.0,-0.0,25.0,-30.0,35.0,52.0,35.0,87.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Men 89,LE GALL Jean baptiste,88.95,110.0,116.0,-121.0,150.0,157.0,-161.0,116.0,157.0,273.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Men 89,LEVRAY Fabien,89.0,-58.0,58.0,62.0,73.0,77.0,-82.0,62.0,77.0,139.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U15 Men 61,JACQUEMINET Hugo,57.65,25.0,28.0,30.0,33.0,36.0,40.0,30.0,40.0,70.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U17 Men 67,FAUCON Maxence,63.4,-52.0,52.0,-55.0,70.0,74.0,-78.0,52.0,74.0,126.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U17 Men 73,HOAREAU Soann,70.25,72.0,76.0,80.0,85.0,90.0,95.0,80.0,95.0,175.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U20 Men 61,CLOAREC Lenny,57.7,62.0,65.0,68.0,78.0,82.0,86.0,68.0,86.0,154.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U20 Men 73,COULIBALY Diowage,70.1,54.0,58.0,61.0,70.0,75.0,79.0,61.0,79.0,140.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Men 61,MAGNIEZ Baptiste,60.0,42.0,45.0,-47.0,63.0,-65.0,-65.0,45.0,63.0,108.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Men 73,LECLAIR Cedric,68.75,74.0,78.0,-81.0,95.0,100.0,107.0,78.0,107.0,185.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Men 81,MÉNAGER Maxime,78.2,55.0,58.0,-62.0,82.0,87.0,91.0,58.0,91.0,149.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Men 81,MONIEZ Maxence,77.95,52.0,-57.0,-0.0,25.0,-30.0,35.0,52.0,35.0,87.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Men 89,LE GALL Jean baptiste,88.95,110.0,116.0,-121.0,150.0,157.0,-161.0,116.0,157.0,273.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Men 89,LEVRAY Fabien,89.0,-58.0,58.0,62.0,73.0,77.0,-82.0,62.0,77.0,139.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,M40 Men 81,DELOUVEE Johan,76.35,85.0,-90.0,-90.0,101.0,-108.0,-110.0,85.0,101.0,186.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,M40 Men 81,LE ROUSSEAU Guillaume,75.7,77.0,-80.0,80.0,95.0,-100.0,-100.0,80.0,95.0,175.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,M40 Men 81,TROUILLE Julien,80.85,77.0,-82.0,-82.0,97.0,-104.0,-109.0,77.0,97.0,174.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,M40 Men 81,DELOUVEE Johan,76.35,85.0,-90.0,-90.0,101.0,-108.0,-110.0,85.0,101.0,186.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,M40 Men 81,LE ROUSSEAU Guillaume,75.7,77.0,-80.0,80.0,95.0,-100.0,-100.0,80.0,95.0,175.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,M40 Men 81,TROUILLE Julien,80.85,77.0,-82.0,-82.0,97.0,-104.0,-109.0,77.0,97.0,174.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U15 Men 55,BADZAGUA Andro,52.1,33.0,36.0,-40.0,43.0,47.0,49.0,36.0,49.0,85.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U17 Men 49,DERBAS Rayan,49.0,50.0,-53.0,53.0,65.0,-72.0,-72.0,53.0,65.0,118.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U17 Men 61,BADZAGUA Sandro,58.85,50.0,55.0,58.0,62.0,67.0,-72.0,58.0,67.0,125.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U17 Men 73,LAGARDE Paul,71.3,67.0,73.0,-80.0,90.0,-95.0,95.0,73.0,95.0,168.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U17 Men 73,CHARUEL Noménoë,72.2,35.0,40.0,-55.0,-61.0,-61.0,61.0,40.0,61.0,101.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U20 Men 61,GAILLARD Nicolas,58.3,52.0,55.0,60.0,72.0,77.0,-80.0,60.0,77.0,137.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U20 Men 61,URUCI Kevin,59.7,47.0,50.0,55.0,63.0,-70.0,70.0,55.0,70.0,125.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U20 Men 73,ARNIAUD Tom,71.6,67.0,72.0,-75.0,-87.0,-87.0,-90.0,72.0,0.0,0.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U20 Men 81,YRIS Noah,74.85,68.0,72.0,-75.0,90.0,97.0,-100.0,72.0,97.0,169.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U20 Men 89,BATAIS Félix,82.7,65.0,-70.0,70.0,90.0,-97.0,-97.0,70.0,90.0,160.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U15 Men 55,BADZAGUA Andro,52.1,33.0,36.0,-40.0,43.0,47.0,49.0,36.0,49.0,85.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U17 Men 49,DERBAS Rayan,49.0,50.0,-53.0,53.0,65.0,-72.0,-72.0,53.0,65.0,118.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U17 Men 61,BADZAGUA Sandro,58.85,50.0,55.0,58.0,62.0,67.0,-72.0,58.0,67.0,125.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U17 Men 73,LAGARDE Paul,71.3,67.0,73.0,-80.0,90.0,-95.0,95.0,73.0,95.0,168.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U17 Men 73,CHARUEL Noménoë,72.2,35.0,40.0,-55.0,-61.0,-61.0,61.0,40.0,61.0,101.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U20 Men 61,GAILLARD Nicolas,58.3,52.0,55.0,60.0,72.0,77.0,-80.0,60.0,77.0,137.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U20 Men 61,URUCI Kevin,59.7,47.0,50.0,55.0,63.0,-70.0,70.0,55.0,70.0,125.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U20 Men 73,ARNIAUD Tom,71.6,67.0,72.0,-75.0,-87.0,-87.0,-90.0,72.0,0.0,0.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U20 Men 81,YRIS Noah,74.85,68.0,72.0,-75.0,90.0,97.0,-100.0,72.0,97.0,169.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,U20 Men 89,BATAIS Félix,82.7,65.0,-70.0,70.0,90.0,-97.0,-97.0,70.0,90.0,160.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Men 61,MOUSSET Allan,60.6,82.0,90.0,-93.0,103.0,-114.0,-114.0,90.0,103.0,193.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Men 67,JEANVILLE Thibault,64.0,-65.0,65.0,-71.0,75.0,80.0,-84.0,65.0,80.0,145.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Men 81,RUARD Mathieu,74.15,80.0,-85.0,86.0,103.0,-109.0,-109.0,86.0,103.0,189.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Men 81,TOUIMI Ilian,76.55,78.0,-81.0,-82.0,98.0,-100.0,-100.0,78.0,98.0,176.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Men 81,M’BAREK Benjamin,80.35,60.0,65.0,70.0,85.0,90.0,95.0,70.0,95.0,165.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Men 89,TANG Mathieu,81.5,90.0,97.0,-102.0,123.0,133.0,-143.0,97.0,133.0,230.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Men 89,DAVY Geoffrey,88.3,90.0,-95.0,95.0,110.0,-115.0,115.0,95.0,115.0,210.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Men 89,DIXNEUF Mathias,88.9,-108.0,-108.0,-113.0,-114.0,-114.0,-114.0,0.0,0.0,0.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Men 96,WRIGHT George,95.5,-103.0,103.0,113.0,130.0,142.0,-146.0,113.0,142.0,255.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Men 96,TOULOUSE Uriac,95.0,83.0,-87.0,87.0,-100.0,100.0,-108.0,87.0,100.0,187.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Men 96,CASSAN Laurent,94.15,73.0,76.0,79.0,95.0,100.0,-102.0,79.0,100.0,179.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Men 102,LE GALL Hervé,97.25,-76.0,76.0,-79.0,88.0,92.0,-95.0,76.0,92.0,168.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Men 61,MOUSSET Allan,60.6,82.0,90.0,-93.0,103.0,-114.0,-114.0,90.0,103.0,193.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Men 67,JEANVILLE Thibault,64.0,-65.0,65.0,-71.0,75.0,80.0,-84.0,65.0,80.0,145.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Men 81,RUARD Mathieu,74.15,80.0,-85.0,86.0,103.0,-109.0,-109.0,86.0,103.0,189.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Men 81,TOUIMI Ilian,76.55,78.0,-81.0,-82.0,98.0,-100.0,-100.0,78.0,98.0,176.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Men 81,M’BAREK Benjamin,80.35,60.0,65.0,70.0,85.0,90.0,95.0,70.0,95.0,165.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Men 89,TANG Mathieu,81.5,90.0,97.0,-102.0,123.0,133.0,-143.0,97.0,133.0,230.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Men 89,DAVY Geoffrey,88.3,90.0,-95.0,95.0,110.0,-115.0,115.0,95.0,115.0,210.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Men 89,DIXNEUF Mathias,88.9,-108.0,-108.0,-113.0,-114.0,-114.0,-114.0,0.0,0.0,0.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Men 96,WRIGHT George,95.5,-103.0,103.0,113.0,130.0,142.0,-146.0,113.0,142.0,255.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Men 96,TOULOUSE Uriac,95.0,83.0,-87.0,87.0,-100.0,100.0,-108.0,87.0,100.0,187.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Men 96,CASSAN Laurent,94.15,73.0,76.0,79.0,95.0,100.0,-102.0,79.0,100.0,179.0
+BRE - Chpt Départemental - Ille et Vilaine/Côte d'Armor - Le rheu - Plateau 2 Femmes,2023-12-16,SEN Men 102,LE GALL Hervé,97.25,-76.0,76.0,-79.0,88.0,92.0,-95.0,76.0,92.0,168.0

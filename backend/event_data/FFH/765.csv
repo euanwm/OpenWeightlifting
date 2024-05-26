@@ -1,27 +1,7 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-REU - 1ere J chpt régional par équipes Hommes,2020-11-14,U17 Men 73,MUSSARD Raphael,72.5,-65.0,65.0,-68.0,-80.0,80.0,85.0,65.0,85.0,150.0
-REU - 1ere J chpt régional par équipes Hommes,2020-11-14,U17 Men 73,PAQUETTE Ian,68.0,60.0,64.0,67.0,72.0,76.0,-80.0,67.0,76.0,143.0
-REU - 1ere J chpt régional par équipes Hommes,2020-11-14,U20 Men 55,ESSOB Etienne,54.2,-75.0,-75.0,75.0,80.0,85.0,-88.0,75.0,85.0,160.0
-REU - 1ere J chpt régional par équipes Hommes,2020-11-14,U20 Men 61,ESSOB David,57.1,75.0,80.0,-83.0,90.0,95.0,-100.0,80.0,95.0,175.0
-REU - 1ere J chpt régional par équipes Hommes,2020-11-14,SEN Men 67,MEDARD Hugo,61.5,-85.0,-90.0,90.0,95.0,-102.0,105.0,90.0,105.0,195.0
-REU - 1ere J chpt régional par équipes Hommes,2020-11-14,SEN Men 67,VIRAMA Loic,66.9,70.0,-75.0,75.0,90.0,95.0,-100.0,75.0,95.0,170.0
-REU - 1ere J chpt régional par équipes Hommes,2020-11-14,SEN Men 73,LEFEVRE Jérome,68.4,85.0,90.0,-95.0,115.0,-120.0,-120.0,90.0,115.0,205.0
-REU - 1ere J chpt régional par équipes Hommes,2020-11-14,SEN Men 73,LEBLE Jean louis,69.4,65.0,-72.0,72.0,90.0,97.0,102.0,72.0,102.0,174.0
-REU - 1ere J chpt régional par équipes Hommes,2020-11-14,SEN Men 81,WAN-HOI Stephan,79.0,85.0,-90.0,-90.0,-105.0,107.0,112.0,85.0,112.0,197.0
-REU - 1ere J chpt régional par équipes Hommes,2020-11-14,SEN Men 81,LAW THU Alexandre,77.8,77.0,81.0,87.0,95.0,100.0,-107.0,87.0,100.0,187.0
-REU - 1ere J chpt régional par équipes Hommes,2020-11-14,SEN Men 81,CORREIA Tony,77.5,80.0,-83.0,-84.0,100.0,-105.0,105.0,80.0,105.0,185.0
-REU - 1ere J chpt régional par équipes Hommes,2020-11-14,SEN Men 81,FOLIO Hugo,78.3,75.0,78.0,-81.0,90.0,95.0,-100.0,78.0,95.0,173.0
-REU - 1ere J chpt régional par équipes Hommes,2020-11-14,SEN Men 81,VITRY Kévin,75.9,65.0,70.0,-75.0,85.0,90.0,95.0,70.0,95.0,165.0
-REU - 1ere J chpt régional par équipes Hommes,2020-11-14,SEN Men 81,GRONDIN William,73.5,65.0,69.0,-73.0,83.0,-88.0,88.0,69.0,88.0,157.0
-REU - 1ere J chpt régional par équipes Hommes,2020-11-14,SEN Men 89,TAMI Antoine,86.0,110.0,-116.0,120.0,152.0,158.0,-165.0,120.0,158.0,278.0
-REU - 1ere J chpt régional par équipes Hommes,2020-11-14,SEN Men 89,BRICHE Julien,85.7,100.0,105.0,-110.0,-120.0,120.0,125.0,105.0,125.0,230.0
-REU - 1ere J chpt régional par équipes Hommes,2020-11-14,SEN Men 89,SIMPLON Jean bénédict,85.0,80.0,90.0,100.0,110.0,120.0,-125.0,100.0,120.0,220.0
-REU - 1ere J chpt régional par équipes Hommes,2020-11-14,SEN Men 89,MUSSARD Nicolas  florent,87.1,100.0,-110.0,-115.0,120.0,-121.0,-121.0,100.0,120.0,220.0
-REU - 1ere J chpt régional par équipes Hommes,2020-11-14,SEN Men 89,HOOLANS Charly,87.7,90.0,95.0,-100.0,120.0,125.0,-130.0,95.0,125.0,220.0
-REU - 1ere J chpt régional par équipes Hommes,2020-11-14,SEN Men 89,CALONNE Arnaud,82.8,85.0,89.0,-94.0,115.0,119.0,-124.0,89.0,119.0,208.0
-REU - 1ere J chpt régional par équipes Hommes,2020-11-14,SEN Men 89,DIJOUX Vincent,88.8,75.0,82.0,87.0,112.0,118.0,-121.0,87.0,118.0,205.0
-REU - 1ere J chpt régional par équipes Hommes,2020-11-14,SEN Men 89,PAYET Jerome,82.1,82.0,88.0,92.0,-97.0,97.0,-102.0,92.0,97.0,189.0
-REU - 1ere J chpt régional par équipes Hommes,2020-11-14,SEN Men 89,BOYER Florent,87.5,74.0,77.0,80.0,-92.0,92.0,-97.0,80.0,92.0,172.0
-REU - 1ere J chpt régional par équipes Hommes,2020-11-14,SEN Men 96,CADET Jerome,92.4,98.0,-103.0,105.0,135.0,140.0,146.0,105.0,146.0,251.0
-REU - 1ere J chpt régional par équipes Hommes,2020-11-14,SEN Men >109,RICHARD Kenny,110.5,95.0,-100.0,-100.0,115.0,125.0,130.0,95.0,130.0,225.0
-REU - 1ere J chpt régional par équipes Hommes,2020-11-14,SEN Women 87,RICHARD Dolorès,84.0,60.0,-81.0,81.0,90.0,100.0,-105.0,81.0,100.0,181.0
+AURA - Challenge Avenir (Vaulx en Velin),2021-12-18,SEN Men 73,HAKKAR Corentin,72.0,73.0,-76.0,-76.0,-95.0,95.0,100.0,73.0,100.0,173.0
+AURA - Challenge Avenir (Vaulx en Velin),2021-12-18,SEN Men 81,AUSTIN Melvin,75.8,-58.0,58.0,62.0,73.0,79.0,83.0,62.0,83.0,145.0
+AURA - Challenge Avenir (Vaulx en Velin),2021-12-18,U20 Women 55,RIVAUD Emmy,53.5,-40.0,-40.0,40.0,57.0,60.0,63.0,40.0,63.0,103.0
+AURA - Challenge Avenir (Vaulx en Velin),2021-12-18,SEN Women 45,PRIMEL Laetitia,44.5,35.0,-38.0,-38.0,47.0,-50.0,-50.0,35.0,47.0,82.0
+AURA - Challenge Avenir (Vaulx en Velin),2021-12-18,U20 Women 55,RIVAUD Emmy,53.5,-40.0,-40.0,40.0,57.0,60.0,63.0,40.0,63.0,103.0
+AURA - Challenge Avenir (Vaulx en Velin),2021-12-18,SEN Women 45,PRIMEL Laetitia,44.5,35.0,-38.0,-38.0,47.0,-50.0,-50.0,35.0,47.0,82.0

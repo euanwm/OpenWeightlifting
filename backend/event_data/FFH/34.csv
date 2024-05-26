@@ -1,0 +1,4 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+DPTX 54 - U13,2020-01-19,U13 Men 45,BANKA Arnaud,42.6,18.0,19.0,20.0,-21.0,21.0,23.0,20.0,23.0,43.0
+DPTX 54 - U13,2020-01-19,U13 Men 49,PARISOT Gabin,47.8,17.0,-19.0,19.0,19.0,20.0,22.0,19.0,22.0,41.0
+DPTX 54 - U13,2020-01-19,U13 Women 35,DUCHAUFFOUR Rose,22.7,11.0,12.0,-13.0,15.0,-16.0,16.0,12.0,16.0,28.0

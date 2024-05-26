@@ -1,3 +1,12 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-AURA - Critérium nationale lyonnais - 28 août 2021,2021-08-28,U13 Men 45,IAFRATE Ismael,40.75,26.0,28.0,30.0,36.0,38.0,40.0,30.0,40.0,70.0
-AURA - Critérium nationale lyonnais - 28 août 2021,2021-08-28,U13 Men 55,ISRAILOV Abubakar,54.4,70.0,72.0,74.0,85.0,87.0,89.0,74.0,89.0,163.0
+NCAL - Critérium National - Nouméa - IHMD - Critérium National - NCL,2022-11-19,U17 Women 76,KAVAHEEAGA Sarah-lisa,75.28,51.0,-55.0,-55.0,-0.0,-0.0,-0.0,51.0,0.0,0.0
+NCAL - Critérium National - Nouméa - IHMD - Critérium National - NCL,2022-11-19,SEN Women 55,PIOTROWSKY Prescillia,53.19,63.0,66.0,-69.0,78.0,81.0,83.0,66.0,83.0,149.0
+NCAL - Critérium National - Nouméa - IHMD - Critérium National - NCL,2022-11-19,SEN Women 55,EGEA Andrea,52.02,47.0,50.0,-53.0,59.0,62.0,65.0,50.0,65.0,115.0
+NCAL - Critérium National - Nouméa - IHMD - Critérium National - NCL,2022-11-19,SEN Women 59,PAUL Julia,58.56,48.0,51.0,54.0,67.0,70.0,72.0,54.0,72.0,126.0
+NCAL - Critérium National - Nouméa - IHMD - Critérium National - NCL,2022-11-19,SEN Women 76,DABIN Demy,73.93,60.0,65.0,68.0,83.0,86.0,-89.0,68.0,86.0,154.0
+NCAL - Critérium National - Nouméa - IHMD - Critérium National - NCL,2022-11-19,U20 Men 73,PERRAUD Mattéo,72.93,100.0,102.0,104.0,126.0,129.0,132.0,104.0,132.0,236.0
+NCAL - Critérium National - Nouméa - IHMD - Critérium National - NCL,2022-11-19,SEN Men 81,DUCLOS Sylvain,79.05,-105.0,109.0,113.0,142.0,147.0,-150.0,113.0,147.0,260.0
+NCAL - Critérium National - Nouméa - IHMD - Critérium National - NCL,2022-11-19,SEN Men >109,MICHEL Kyle,110.0,120.0,125.0,130.0,148.0,-152.0,-155.0,130.0,148.0,278.0
+NCAL - Critérium National - Nouméa - IHMD - Critérium National - NCL,2022-11-19,U20 Men 73,PERRAUD Mattéo,72.93,100.0,102.0,104.0,126.0,129.0,132.0,104.0,132.0,236.0
+NCAL - Critérium National - Nouméa - IHMD - Critérium National - NCL,2022-11-19,SEN Men 81,DUCLOS Sylvain,79.05,-105.0,109.0,113.0,142.0,147.0,-150.0,113.0,147.0,260.0
+NCAL - Critérium National - Nouméa - IHMD - Critérium National - NCL,2022-11-19,SEN Men >109,MICHEL Kyle,110.0,120.0,125.0,130.0,148.0,-152.0,-155.0,130.0,148.0,278.0

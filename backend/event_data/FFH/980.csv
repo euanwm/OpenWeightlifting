@@ -1,6 +1,12 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-IDF - Challenge Avenir 92 91 M,2021-06-26,U17 Men 73,ALLEGOT Noa,69.3,58.0,62.0,-65.0,72.0,75.0,80.0,62.0,80.0,142.0
-IDF - Challenge Avenir 92 91 M,2021-06-26,SEN Men 81,MANGHETTI Jean,76.3,95.0,100.0,-105.0,-110.0,115.0,-120.0,100.0,115.0,215.0
-IDF - Challenge Avenir 92 91 M,2021-06-26,SEN Men 81,HESHMATI Sohrab,80.2,88.0,-93.0,-94.0,110.0,116.0,-120.0,88.0,116.0,204.0
-IDF - Challenge Avenir 92 91 M,2021-06-26,SEN Men 81,DIONIS Etienne,76.9,85.0,90.0,93.0,105.0,109.0,-113.0,93.0,109.0,202.0
-IDF - Challenge Avenir 92 91 M,2021-06-26,SEN Men 89,CHELALI Zakaria,87.5,100.0,-105.0,105.0,125.0,130.0,-135.0,105.0,130.0,235.0
+GE - Champ d'Europe Masters,2021-10-17,W60 Women 55,WITKOWSKI Dagmar,54.2,34.0,36.0,38.0,39.0,41.0,-43.0,38.0,41.0,79.0
+GE - Champ d'Europe Masters,2021-10-17,M55 Men 67,FIETTE Laurent,66.3,50.0,55.0,59.0,70.0,75.0,78.0,59.0,78.0,137.0
+GE - Champ d'Europe Masters,2021-10-17,M70 Men 73,CHAVIGNY Roland,72.7,67.0,71.0,-74.0,85.0,90.0,-94.0,71.0,90.0,161.0
+GE - Champ d'Europe Masters,2021-10-17,M55 Men 67,FIETTE Laurent,66.3,50.0,55.0,59.0,70.0,75.0,78.0,59.0,78.0,137.0
+GE - Champ d'Europe Masters,2021-10-17,M70 Men 73,CHAVIGNY Roland,72.7,67.0,71.0,-74.0,85.0,90.0,-94.0,71.0,90.0,161.0
+GE - Champ d'Europe Masters,2021-10-17,M45 Men 81,PRADA PRADA Jonathan,80.3,75.0,80.0,-83.0,90.0,95.0,100.0,80.0,100.0,180.0
+GE - Champ d'Europe Masters,2021-10-17,M50 Men 73,BUSQUES Emmanuel,72.2,84.0,-88.0,89.0,-107.0,-107.0,-107.0,89.0,0.0,0.0
+GE - Champ d'Europe Masters,2021-10-17,M60 Men 55,LARGET Charles,53.8,45.0,50.0,-55.0,55.0,60.0,-65.0,50.0,60.0,110.0
+GE - Champ d'Europe Masters,2021-10-17,M45 Men 81,PRADA PRADA Jonathan,80.3,75.0,80.0,-83.0,90.0,95.0,100.0,80.0,100.0,180.0
+GE - Champ d'Europe Masters,2021-10-17,M50 Men 73,BUSQUES Emmanuel,72.2,84.0,-88.0,89.0,-107.0,-107.0,-107.0,89.0,0.0,0.0
+GE - Champ d'Europe Masters,2021-10-17,M60 Men 55,LARGET Charles,53.8,45.0,50.0,-55.0,55.0,60.0,-65.0,50.0,60.0,110.0

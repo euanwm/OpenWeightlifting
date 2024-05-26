@@ -1,5 +1,302 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-GUA - Critérium national de Guadeloupe,2021-06-25,U15 Women 59,EZZEDDINE Shada,58.5,30.0,32.0,-34.0,40.0,43.0,45.0,32.0,45.0,77.0
-GUA - Critérium national de Guadeloupe,2021-06-25,U15 Women >81,AYMES Lilou,113.0,57.0,61.0,64.0,73.0,77.0,-81.0,64.0,77.0,141.0
-GUA - Critérium national de Guadeloupe,2021-06-25,U20 Women 64,EZZEDINE Alissa,63.9,58.0,62.0,65.0,77.0,81.0,-84.0,65.0,81.0,146.0
-GUA - Critérium national de Guadeloupe,2021-06-25,SEN Women 55,SERVAIS Julie,54.8,58.0,60.0,62.0,70.0,73.0,76.0,62.0,76.0,138.0
+GE - Champ de France Elite,2021-10-23,U20 Men 67,CHRISTOPHEL Valentin,65.44,93.0,97.0,100.0,113.0,117.0,120.0,100.0,120.0,220.0
+GE - Champ de France Elite,2021-10-23,U20 Men 96,THOMASSON Yann,94.2,125.0,-132.0,132.0,150.0,158.0,-162.0,132.0,158.0,290.0
+GE - Champ de France Elite,2021-10-23,SEN Men 67,CUVILLIER Valentin,66.08,110.0,114.0,117.0,135.0,141.0,146.0,117.0,146.0,263.0
+GE - Champ de France Elite,2021-10-23,SEN Men 73,TODADZE Tornike,72.67,115.0,120.0,-0.0,145.0,152.0,157.0,120.0,157.0,277.0
+GE - Champ de France Elite,2021-10-23,SEN Men 89,VAUTARD Brandon,88.9,132.0,137.0,141.0,175.0,185.0,191.0,141.0,191.0,332.0
+GE - Champ de France Elite,2021-10-23,SEN Men 89,BONNAMANT Bastien,85.5,123.0,127.0,131.0,160.0,-164.0,165.0,131.0,165.0,296.0
+GE - Champ de France Elite,2021-10-23,SEN Men 89,COLOMBO Ludwig,88.0,-134.0,134.0,-137.0,155.0,160.0,-163.0,134.0,160.0,294.0
+GE - Champ de France Elite,2021-10-23,U20 Men 61,JOLY Thibaut,59.9,77.0,81.0,85.0,101.0,-106.0,106.0,85.0,106.0,191.0
+GE - Champ de France Elite,2021-10-23,U20 Men 73,DESTEUQUE Maxime,71.91,95.0,99.0,101.0,117.0,-121.0,123.0,101.0,123.0,224.0
+GE - Champ de France Elite,2021-10-23,U20 Men 73,DE BARROS Fabio,71.02,90.0,95.0,100.0,110.0,115.0,-118.0,100.0,115.0,215.0
+GE - Champ de France Elite,2021-10-23,SEN Men 67,CLAUX Anthony,66.2,105.0,110.0,-113.0,125.0,-130.0,-130.0,110.0,125.0,235.0
+GE - Champ de France Elite,2021-10-23,U20 Men 61,JOLY Thibaut,59.9,77.0,81.0,85.0,101.0,-106.0,106.0,85.0,106.0,191.0
+GE - Champ de France Elite,2021-10-23,U20 Men 73,DESTEUQUE Maxime,71.91,95.0,99.0,101.0,117.0,-121.0,123.0,101.0,123.0,224.0
+GE - Champ de France Elite,2021-10-23,U20 Men 73,DE BARROS Fabio,71.02,90.0,95.0,100.0,110.0,115.0,-118.0,100.0,115.0,215.0
+GE - Champ de France Elite,2021-10-23,SEN Men 67,CLAUX Anthony,66.2,105.0,110.0,-113.0,125.0,-130.0,-130.0,110.0,125.0,235.0
+GE - Champ de France Elite,2021-10-23,U20 Men 61,FERNANDES Hugo,60.42,79.0,83.0,-88.0,95.0,-100.0,100.0,83.0,100.0,183.0
+GE - Champ de France Elite,2021-10-23,SEN Men 67,LECOMTE Ewen,66.58,109.0,-112.0,112.0,132.0,-141.0,-141.0,112.0,132.0,244.0
+GE - Champ de France Elite,2021-10-23,SEN Men 89,KOCHETOV Makariy,84.3,127.0,-132.0,-134.0,155.0,-165.0,-168.0,127.0,155.0,282.0
+GE - Champ de France Elite,2021-10-23,U20 Men 61,FERNANDES Hugo,60.42,79.0,83.0,-88.0,95.0,-100.0,100.0,83.0,100.0,183.0
+GE - Champ de France Elite,2021-10-23,SEN Men 67,LECOMTE Ewen,66.58,109.0,-112.0,112.0,132.0,-141.0,-141.0,112.0,132.0,244.0
+GE - Champ de France Elite,2021-10-23,SEN Men 89,KOCHETOV Makariy,84.3,127.0,-132.0,-134.0,155.0,-165.0,-168.0,127.0,155.0,282.0
+GE - Champ de France Elite,2021-10-23,U20 Men 55,CADIEU Clement,54.25,78.0,-81.0,-81.0,88.0,93.0,-95.0,78.0,93.0,171.0
+GE - Champ de France Elite,2021-10-23,U20 Men 55,CADIEU Clement,54.25,78.0,-81.0,-81.0,88.0,93.0,-95.0,78.0,93.0,171.0
+GE - Champ de France Elite,2021-10-23,U20 Men 61,TURPIN Aurelien,59.69,73.0,-77.0,77.0,93.0,-97.0,100.0,77.0,100.0,177.0
+GE - Champ de France Elite,2021-10-23,SEN Men 55,ESSOB Etienne,54.19,80.0,-83.0,-83.0,95.0,98.0,-102.0,80.0,98.0,178.0
+GE - Champ de France Elite,2021-10-23,SEN Men 55,ESSOB David,54.79,80.0,83.0,-85.0,93.0,-95.0,-95.0,83.0,93.0,176.0
+GE - Champ de France Elite,2021-10-23,U20 Men 61,TURPIN Aurelien,59.69,73.0,-77.0,77.0,93.0,-97.0,100.0,77.0,100.0,177.0
+GE - Champ de France Elite,2021-10-23,SEN Men 55,ESSOB Etienne,54.19,80.0,-83.0,-83.0,95.0,98.0,-102.0,80.0,98.0,178.0
+GE - Champ de France Elite,2021-10-23,SEN Men 55,ESSOB David,54.79,80.0,83.0,-85.0,93.0,-95.0,-95.0,83.0,93.0,176.0
+GE - Champ de France Elite,2021-10-23,U17 Men 96,NUIRO Hevy guy,94.24,95.0,100.0,105.0,-120.0,120.0,125.0,105.0,125.0,230.0
+GE - Champ de France Elite,2021-10-23,U17 Men 96,NUIRO Hevy guy,94.24,95.0,100.0,105.0,-120.0,120.0,125.0,105.0,125.0,230.0
+GE - Champ de France Elite,2021-10-23,U20 Men 81,GROSJEAN Alexandre,75.6,110.0,-115.0,118.0,130.0,135.0,141.0,118.0,141.0,259.0
+GE - Champ de France Elite,2021-10-23,U20 Men 102,GRAILLOT Jessy,97.5,130.0,136.0,141.0,161.0,170.0,-176.0,141.0,170.0,311.0
+GE - Champ de France Elite,2021-10-23,SEN Men 81,LEPAUL Emmanuel,79.07,132.0,-136.0,-138.0,-165.0,-165.0,-165.0,132.0,0.0,0.0
+GE - Champ de France Elite,2021-10-23,U20 Men 81,GROSJEAN Alexandre,75.6,110.0,-115.0,118.0,130.0,135.0,141.0,118.0,141.0,259.0
+GE - Champ de France Elite,2021-10-23,U20 Men 102,GRAILLOT Jessy,97.5,130.0,136.0,141.0,161.0,170.0,-176.0,141.0,170.0,311.0
+GE - Champ de France Elite,2021-10-23,SEN Men 81,LEPAUL Emmanuel,79.07,132.0,-136.0,-138.0,-165.0,-165.0,-165.0,132.0,0.0,0.0
+GE - Champ de France Elite,2021-10-23,SEN Men 73,ARNOU MEUNIER Killiann,71.36,114.0,-118.0,-118.0,140.0,157.0,164.0,114.0,164.0,278.0
+GE - Champ de France Elite,2021-10-23,SEN Men 73,PAUL Jill,71.96,-120.0,-123.0,-123.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+GE - Champ de France Elite,2021-10-23,SEN Men 102,SCHACHERER Damien,101.7,135.0,139.0,142.0,170.0,-175.0,-175.0,142.0,170.0,312.0
+GE - Champ de France Elite,2021-10-23,SEN Men 73,ARNOU MEUNIER Killiann,71.36,114.0,-118.0,-118.0,140.0,157.0,164.0,114.0,164.0,278.0
+GE - Champ de France Elite,2021-10-23,SEN Men 73,PAUL Jill,71.96,-120.0,-123.0,-123.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+GE - Champ de France Elite,2021-10-23,SEN Men 102,SCHACHERER Damien,101.7,135.0,139.0,142.0,170.0,-175.0,-175.0,142.0,170.0,312.0
+GE - Champ de France Elite,2021-10-23,U17 Men 67,FOURNIER Hugo,66.56,87.0,-91.0,-91.0,100.0,-113.0,118.0,87.0,118.0,205.0
+GE - Champ de France Elite,2021-10-23,U20 Men 55,FELICIANO Martin,54.19,70.0,76.0,80.0,90.0,96.0,-100.0,80.0,96.0,176.0
+GE - Champ de France Elite,2021-10-23,U20 Men 55,LE GUEN Juninho,54.57,70.0,75.0,-77.0,-95.0,95.0,-97.0,75.0,95.0,170.0
+GE - Champ de France Elite,2021-10-23,U20 Men 67,BUYSSCHAERT Tristan,66.3,103.0,107.0,111.0,122.0,-126.0,129.0,111.0,129.0,240.0
+GE - Champ de France Elite,2021-10-23,U20 Men 67,LECLERC Lucas,66.39,98.0,-102.0,102.0,120.0,125.0,-130.0,102.0,125.0,227.0
+GE - Champ de France Elite,2021-10-23,U20 Men 67,GEORGE Kilyan,65.03,-89.0,-89.0,89.0,110.0,113.0,115.0,89.0,115.0,204.0
+GE - Champ de France Elite,2021-10-23,SEN Men 61,CAESEMAEKER Kevin,60.76,105.0,-109.0,109.0,-125.0,125.0,-132.0,109.0,125.0,234.0
+GE - Champ de France Elite,2021-10-23,SEN Men 73,TALAOURAR Yanis,72.85,107.0,-111.0,-112.0,132.0,-140.0,-140.0,107.0,132.0,239.0
+GE - Champ de France Elite,2021-10-23,SEN Men 73,FOURNIER Louis,71.0,-124.0,-124.0,-124.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+GE - Champ de France Elite,2021-10-23,SEN Men 96,IMADOUCHENE Romain,94.1,155.0,162.0,-165.0,200.0,210.0,-215.0,162.0,210.0,372.0
+GE - Champ de France Elite,2021-10-23,SEN Men 102,FONTENELLE Vincent,96.1,130.0,-134.0,-134.0,161.0,-171.0,-171.0,130.0,161.0,291.0
+GE - Champ de France Elite,2021-10-23,U17 Men 67,FOURNIER Hugo,66.56,87.0,-91.0,-91.0,100.0,-113.0,118.0,87.0,118.0,205.0
+GE - Champ de France Elite,2021-10-23,U20 Men 55,FELICIANO Martin,54.19,70.0,76.0,80.0,90.0,96.0,-100.0,80.0,96.0,176.0
+GE - Champ de France Elite,2021-10-23,U20 Men 55,LE GUEN Juninho,54.57,70.0,75.0,-77.0,-95.0,95.0,-97.0,75.0,95.0,170.0
+GE - Champ de France Elite,2021-10-23,U20 Men 67,BUYSSCHAERT Tristan,66.3,103.0,107.0,111.0,122.0,-126.0,129.0,111.0,129.0,240.0
+GE - Champ de France Elite,2021-10-23,U20 Men 67,LECLERC Lucas,66.39,98.0,-102.0,102.0,120.0,125.0,-130.0,102.0,125.0,227.0
+GE - Champ de France Elite,2021-10-23,U20 Men 67,GEORGE Kilyan,65.03,-89.0,-89.0,89.0,110.0,113.0,115.0,89.0,115.0,204.0
+GE - Champ de France Elite,2021-10-23,SEN Men 61,CAESEMAEKER Kevin,60.76,105.0,-109.0,109.0,-125.0,125.0,-132.0,109.0,125.0,234.0
+GE - Champ de France Elite,2021-10-23,SEN Men 73,TALAOURAR Yanis,72.85,107.0,-111.0,-112.0,132.0,-140.0,-140.0,107.0,132.0,239.0
+GE - Champ de France Elite,2021-10-23,SEN Men 73,FOURNIER Louis,71.0,-124.0,-124.0,-124.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+GE - Champ de France Elite,2021-10-23,SEN Men 96,IMADOUCHENE Romain,94.1,155.0,162.0,-165.0,200.0,210.0,-215.0,162.0,210.0,372.0
+GE - Champ de France Elite,2021-10-23,SEN Men 102,FONTENELLE Vincent,96.1,130.0,-134.0,-134.0,161.0,-171.0,-171.0,130.0,161.0,291.0
+GE - Champ de France Elite,2021-10-23,U15 Men 61,IAFRATE Adam,58.21,-63.0,63.0,68.0,75.0,80.0,84.0,68.0,84.0,152.0
+GE - Champ de France Elite,2021-10-23,U17 Men 73,DA SILVA Romain,69.21,98.0,102.0,-105.0,118.0,121.0,-123.0,102.0,121.0,223.0
+GE - Champ de France Elite,2021-10-23,U17 Men 81,COTTE-GAUDIN Simon,75.79,-85.0,85.0,-92.0,100.0,-107.0,107.0,85.0,107.0,192.0
+GE - Champ de France Elite,2021-10-23,U20 Men 67,DIEUMEGARDE Erwann,66.62,98.0,-102.0,102.0,118.0,122.0,-126.0,102.0,122.0,224.0
+GE - Champ de France Elite,2021-10-23,U20 Men 73,CHABERT Lucas,71.32,105.0,110.0,-114.0,120.0,127.0,-133.0,110.0,127.0,237.0
+GE - Champ de France Elite,2021-10-23,U20 Men 89,HEAFALA Jonah,88.03,-110.0,110.0,-115.0,120.0,127.0,133.0,110.0,133.0,243.0
+GE - Champ de France Elite,2021-10-23,SEN Men 73,DOMINGUEZ Gaetan,70.86,110.0,-115.0,-115.0,128.0,132.0,136.0,110.0,136.0,246.0
+GE - Champ de France Elite,2021-10-23,SEN Men 73,DUDOGNON Arthur,72.6,-102.0,-102.0,102.0,120.0,-125.0,-125.0,102.0,120.0,222.0
+GE - Champ de France Elite,2021-10-23,SEN Men 81,JOFFRET Teddy,79.78,133.0,-137.0,-138.0,163.0,170.0,-174.0,133.0,170.0,303.0
+GE - Champ de France Elite,2021-10-23,SEN Men 96,MENONI Enzo,89.1,132.0,-138.0,-140.0,146.0,-0.0,-0.0,132.0,146.0,278.0
+GE - Champ de France Elite,2021-10-23,SEN Men 102,DOREL Valentin,98.5,132.0,-136.0,-136.0,168.0,172.0,-178.0,132.0,172.0,304.0
+GE - Champ de France Elite,2021-10-23,SEN Men 102,LAROIX Anthony,100.6,-135.0,135.0,-140.0,155.0,-167.0,-167.0,135.0,155.0,290.0
+GE - Champ de France Elite,2021-10-23,U15 Men 61,IAFRATE Adam,58.21,-63.0,63.0,68.0,75.0,80.0,84.0,68.0,84.0,152.0
+GE - Champ de France Elite,2021-10-23,U17 Men 73,DA SILVA Romain,69.21,98.0,102.0,-105.0,118.0,121.0,-123.0,102.0,121.0,223.0
+GE - Champ de France Elite,2021-10-23,U17 Men 81,COTTE-GAUDIN Simon,75.79,-85.0,85.0,-92.0,100.0,-107.0,107.0,85.0,107.0,192.0
+GE - Champ de France Elite,2021-10-23,U20 Men 67,DIEUMEGARDE Erwann,66.62,98.0,-102.0,102.0,118.0,122.0,-126.0,102.0,122.0,224.0
+GE - Champ de France Elite,2021-10-23,U20 Men 73,CHABERT Lucas,71.32,105.0,110.0,-114.0,120.0,127.0,-133.0,110.0,127.0,237.0
+GE - Champ de France Elite,2021-10-23,U20 Men 89,HEAFALA Jonah,88.03,-110.0,110.0,-115.0,120.0,127.0,133.0,110.0,133.0,243.0
+GE - Champ de France Elite,2021-10-23,SEN Men 73,DOMINGUEZ Gaetan,70.86,110.0,-115.0,-115.0,128.0,132.0,136.0,110.0,136.0,246.0
+GE - Champ de France Elite,2021-10-23,SEN Men 73,DUDOGNON Arthur,72.6,-102.0,-102.0,102.0,120.0,-125.0,-125.0,102.0,120.0,222.0
+GE - Champ de France Elite,2021-10-23,SEN Men 81,JOFFRET Teddy,79.78,133.0,-137.0,-138.0,163.0,170.0,-174.0,133.0,170.0,303.0
+GE - Champ de France Elite,2021-10-23,SEN Men 96,MENONI Enzo,89.1,132.0,-138.0,-140.0,146.0,-0.0,-0.0,132.0,146.0,278.0
+GE - Champ de France Elite,2021-10-23,SEN Men 102,DOREL Valentin,98.5,132.0,-136.0,-136.0,168.0,172.0,-178.0,132.0,172.0,304.0
+GE - Champ de France Elite,2021-10-23,SEN Men 102,LAROIX Anthony,100.6,-135.0,135.0,-140.0,155.0,-167.0,-167.0,135.0,155.0,290.0
+GE - Champ de France Elite,2021-10-23,SEN Men 96,CANIVET Paul,89.2,128.0,132.0,-135.0,165.0,171.0,-175.0,132.0,171.0,303.0
+GE - Champ de France Elite,2021-10-23,SEN Men 96,CANIVET Paul,89.2,128.0,132.0,-135.0,165.0,171.0,-175.0,132.0,171.0,303.0
+GE - Champ de France Elite,2021-10-23,SEN Men 102,HALILI Erjon,99.0,-130.0,130.0,135.0,162.0,168.0,174.0,135.0,174.0,309.0
+GE - Champ de France Elite,2021-10-23,SEN Men 102,HALILI Erjon,99.0,-130.0,130.0,135.0,162.0,168.0,174.0,135.0,174.0,309.0
+GE - Champ de France Elite,2021-10-23,U17 Women 49,LEMÉ Youna,47.7,-50.0,50.0,-53.0,61.0,64.0,66.0,50.0,66.0,116.0
+GE - Champ de France Elite,2021-10-23,U17 Women 55,PRIGENT MADEC Théoline,53.05,58.0,61.0,64.0,70.0,74.0,-78.0,64.0,74.0,138.0
+GE - Champ de France Elite,2021-10-23,U17 Women 55,QUERE Eloïse,52.66,43.0,46.0,-49.0,55.0,59.0,62.0,46.0,62.0,108.0
+GE - Champ de France Elite,2021-10-23,U17 Women 55,QUERE Noémie,54.12,48.0,-51.0,-51.0,55.0,58.0,-60.0,48.0,58.0,106.0
+GE - Champ de France Elite,2021-10-23,U17 Women 76,SCOARNEC Ambre,73.2,55.0,60.0,-65.0,78.0,82.0,-85.0,60.0,82.0,142.0
+GE - Champ de France Elite,2021-10-23,U20 Women 81,GRISOT Yvane,76.05,65.0,69.0,72.0,78.0,82.0,-85.0,72.0,82.0,154.0
+GE - Champ de France Elite,2021-10-23,SEN Women 45,MOREAU Élisabeth,42.84,43.0,-46.0,46.0,58.0,61.0,-63.0,46.0,61.0,107.0
+GE - Champ de France Elite,2021-10-23,U17 Women 49,LEMÉ Youna,47.7,-50.0,50.0,-53.0,61.0,64.0,66.0,50.0,66.0,116.0
+GE - Champ de France Elite,2021-10-23,U17 Women 55,PRIGENT MADEC Théoline,53.05,58.0,61.0,64.0,70.0,74.0,-78.0,64.0,74.0,138.0
+GE - Champ de France Elite,2021-10-23,U17 Women 55,QUERE Eloïse,52.66,43.0,46.0,-49.0,55.0,59.0,62.0,46.0,62.0,108.0
+GE - Champ de France Elite,2021-10-23,U17 Women 55,QUERE Noémie,54.12,48.0,-51.0,-51.0,55.0,58.0,-60.0,48.0,58.0,106.0
+GE - Champ de France Elite,2021-10-23,U17 Women 76,SCOARNEC Ambre,73.2,55.0,60.0,-65.0,78.0,82.0,-85.0,60.0,82.0,142.0
+GE - Champ de France Elite,2021-10-23,U20 Women 81,GRISOT Yvane,76.05,65.0,69.0,72.0,78.0,82.0,-85.0,72.0,82.0,154.0
+GE - Champ de France Elite,2021-10-23,SEN Women 45,MOREAU Élisabeth,42.84,43.0,-46.0,46.0,58.0,61.0,-63.0,46.0,61.0,107.0
+GE - Champ de France Elite,2021-10-23,U15 Women 45,VAGLIO Cléa,44.55,32.0,34.0,37.0,43.0,-47.0,-47.0,37.0,43.0,80.0
+GE - Champ de France Elite,2021-10-23,U15 Women 49,RICHARD Maeva,47.08,-37.0,37.0,-41.0,48.0,51.0,-54.0,37.0,51.0,88.0
+GE - Champ de France Elite,2021-10-23,U15 Women 64,AUZATE Séréna,62.6,42.0,-45.0,45.0,53.0,56.0,-59.0,45.0,56.0,101.0
+GE - Champ de France Elite,2021-10-23,U17 Women 49,AUZATE Alicia,47.9,45.0,47.0,49.0,-55.0,56.0,58.0,49.0,58.0,107.0
+GE - Champ de France Elite,2021-10-23,U20 Women 45,MOTAIS DE NARBONNE Raphaëlle,43.5,42.0,-45.0,45.0,55.0,-58.0,-60.0,45.0,55.0,100.0
+GE - Champ de France Elite,2021-10-23,U20 Women 55,SAINT-ALME Celia,52.34,48.0,51.0,53.0,57.0,60.0,-63.0,53.0,60.0,113.0
+GE - Champ de France Elite,2021-10-23,U20 Women 76,TISSOT Clarisse,73.28,64.0,-67.0,67.0,75.0,80.0,-83.0,67.0,80.0,147.0
+GE - Champ de France Elite,2021-10-23,SEN Women 45,VIRAMA Deborah,44.01,55.0,60.0,-62.0,68.0,71.0,-73.0,60.0,71.0,131.0
+GE - Champ de France Elite,2021-10-23,SEN Women 59,VERMONT Morgane,58.31,68.0,71.0,-73.0,83.0,-88.0,-88.0,71.0,83.0,154.0
+GE - Champ de France Elite,2021-10-23,U15 Women 45,VAGLIO Cléa,44.55,32.0,34.0,37.0,43.0,-47.0,-47.0,37.0,43.0,80.0
+GE - Champ de France Elite,2021-10-23,U15 Women 49,RICHARD Maeva,47.08,-37.0,37.0,-41.0,48.0,51.0,-54.0,37.0,51.0,88.0
+GE - Champ de France Elite,2021-10-23,U15 Women 64,AUZATE Séréna,62.6,42.0,-45.0,45.0,53.0,56.0,-59.0,45.0,56.0,101.0
+GE - Champ de France Elite,2021-10-23,U17 Women 49,AUZATE Alicia,47.9,45.0,47.0,49.0,-55.0,56.0,58.0,49.0,58.0,107.0
+GE - Champ de France Elite,2021-10-23,U20 Women 45,MOTAIS DE NARBONNE Raphaëlle,43.5,42.0,-45.0,45.0,55.0,-58.0,-60.0,45.0,55.0,100.0
+GE - Champ de France Elite,2021-10-23,U20 Women 55,SAINT-ALME Celia,52.34,48.0,51.0,53.0,57.0,60.0,-63.0,53.0,60.0,113.0
+GE - Champ de France Elite,2021-10-23,U20 Women 76,TISSOT Clarisse,73.28,64.0,-67.0,67.0,75.0,80.0,-83.0,67.0,80.0,147.0
+GE - Champ de France Elite,2021-10-23,SEN Women 45,VIRAMA Deborah,44.01,55.0,60.0,-62.0,68.0,71.0,-73.0,60.0,71.0,131.0
+GE - Champ de France Elite,2021-10-23,SEN Women 59,VERMONT Morgane,58.31,68.0,71.0,-73.0,83.0,-88.0,-88.0,71.0,83.0,154.0
+GE - Champ de France Elite,2021-10-23,U20 Women 49,DUL Camille,45.48,44.0,46.0,48.0,61.0,64.0,-68.0,48.0,64.0,112.0
+GE - Champ de France Elite,2021-10-23,U20 Women 49,CORBETHAU Amélie,48.9,44.0,47.0,-49.0,55.0,58.0,61.0,47.0,61.0,108.0
+GE - Champ de France Elite,2021-10-23,SEN Women 49,CHRISTOPHEL Marie,46.19,56.0,-59.0,59.0,75.0,77.0,-79.0,59.0,77.0,136.0
+GE - Champ de France Elite,2021-10-23,SEN Women 55,HERTRICH Marielle,53.37,64.0,67.0,-70.0,80.0,83.0,-85.0,67.0,83.0,150.0
+GE - Champ de France Elite,2021-10-23,SEN Women 59,BONNAMANT Melanie,57.12,70.0,-72.0,73.0,91.0,93.0,-95.0,73.0,93.0,166.0
+GE - Champ de France Elite,2021-10-23,SEN Women 59,AIGLE Elena,58.14,68.0,71.0,-72.0,-89.0,89.0,-92.0,71.0,89.0,160.0
+GE - Champ de France Elite,2021-10-23,SEN Women 71,NUIRO Naomy,70.89,85.0,88.0,-90.0,-95.0,-95.0,-95.0,88.0,0.0,0.0
+GE - Champ de France Elite,2021-10-23,SEN Women 76,LE VAILLANT DE CHARNY Audrey,71.2,77.0,81.0,84.0,97.0,101.0,104.0,84.0,104.0,188.0
+GE - Champ de France Elite,2021-10-23,SEN Women 76,PETIT Cyrielle,71.78,-79.0,81.0,-85.0,101.0,105.0,-108.0,81.0,105.0,186.0
+GE - Champ de France Elite,2021-10-23,U20 Women 49,DUL Camille,45.48,44.0,46.0,48.0,61.0,64.0,-68.0,48.0,64.0,112.0
+GE - Champ de France Elite,2021-10-23,U20 Women 49,CORBETHAU Amélie,48.9,44.0,47.0,-49.0,55.0,58.0,61.0,47.0,61.0,108.0
+GE - Champ de France Elite,2021-10-23,SEN Women 49,CHRISTOPHEL Marie,46.19,56.0,-59.0,59.0,75.0,77.0,-79.0,59.0,77.0,136.0
+GE - Champ de France Elite,2021-10-23,SEN Women 55,HERTRICH Marielle,53.37,64.0,67.0,-70.0,80.0,83.0,-85.0,67.0,83.0,150.0
+GE - Champ de France Elite,2021-10-23,SEN Women 59,BONNAMANT Melanie,57.12,70.0,-72.0,73.0,91.0,93.0,-95.0,73.0,93.0,166.0
+GE - Champ de France Elite,2021-10-23,SEN Women 59,AIGLE Elena,58.14,68.0,71.0,-72.0,-89.0,89.0,-92.0,71.0,89.0,160.0
+GE - Champ de France Elite,2021-10-23,SEN Women 71,NUIRO Naomy,70.89,85.0,88.0,-90.0,-95.0,-95.0,-95.0,88.0,0.0,0.0
+GE - Champ de France Elite,2021-10-23,SEN Women 76,LE VAILLANT DE CHARNY Audrey,71.2,77.0,81.0,84.0,97.0,101.0,104.0,84.0,104.0,188.0
+GE - Champ de France Elite,2021-10-23,SEN Women 76,PETIT Cyrielle,71.78,-79.0,81.0,-85.0,101.0,105.0,-108.0,81.0,105.0,186.0
+GE - Champ de France Elite,2021-10-23,U20 Women 55,BEL Iris,53.8,55.0,59.0,61.0,75.0,80.0,-83.0,61.0,80.0,141.0
+GE - Champ de France Elite,2021-10-23,U20 Women 59,REZZAK Amelle,58.71,68.0,70.0,72.0,88.0,90.0,-95.0,72.0,90.0,162.0
+GE - Champ de France Elite,2021-10-23,SEN Women 71,GHEKAP WAFO Myriam,67.76,70.0,-73.0,73.0,93.0,95.0,-98.0,73.0,95.0,168.0
+GE - Champ de France Elite,2021-10-23,SEN Women 71,GRZESIAK Laetitia,68.49,68.0,71.0,-75.0,-91.0,-91.0,93.0,71.0,93.0,164.0
+GE - Champ de France Elite,2021-10-23,SEN Women 76,SAICIC Sonia,73.13,85.0,-88.0,88.0,95.0,99.0,-102.0,88.0,99.0,187.0
+GE - Champ de France Elite,2021-10-23,U20 Women 55,BEL Iris,53.8,55.0,59.0,61.0,75.0,80.0,-83.0,61.0,80.0,141.0
+GE - Champ de France Elite,2021-10-23,U20 Women 59,REZZAK Amelle,58.71,68.0,70.0,72.0,88.0,90.0,-95.0,72.0,90.0,162.0
+GE - Champ de France Elite,2021-10-23,SEN Women 71,GHEKAP WAFO Myriam,67.76,70.0,-73.0,73.0,93.0,95.0,-98.0,73.0,95.0,168.0
+GE - Champ de France Elite,2021-10-23,SEN Women 71,GRZESIAK Laetitia,68.49,68.0,71.0,-75.0,-91.0,-91.0,93.0,71.0,93.0,164.0
+GE - Champ de France Elite,2021-10-23,SEN Women 76,SAICIC Sonia,73.13,85.0,-88.0,88.0,95.0,99.0,-102.0,88.0,99.0,187.0
+GE - Champ de France Elite,2021-10-23,U17 Women 64,ANTONIO Lea marie,63.01,69.0,72.0,-75.0,82.0,86.0,90.0,72.0,90.0,162.0
+GE - Champ de France Elite,2021-10-23,U20 Women 55,FREVILLE Mathilde,54.76,50.0,-54.0,-55.0,60.0,63.0,-67.0,50.0,63.0,113.0
+GE - Champ de France Elite,2021-10-23,SEN Women 59,DEFRANCE Romane,57.73,61.0,-64.0,64.0,81.0,-84.0,85.0,64.0,85.0,149.0
+GE - Champ de France Elite,2021-10-23,SEN Women 59,HERANNEY Camille,56.52,58.0,-62.0,62.0,-83.0,83.0,87.0,62.0,87.0,149.0
+GE - Champ de France Elite,2021-10-23,SEN Women 71,GRAILLOT Vicky,65.59,83.0,87.0,-90.0,104.0,-109.0,-109.0,87.0,104.0,191.0
+GE - Champ de France Elite,2021-10-23,U17 Women 64,ANTONIO Lea marie,63.01,69.0,72.0,-75.0,82.0,86.0,90.0,72.0,90.0,162.0
+GE - Champ de France Elite,2021-10-23,U20 Women 55,FREVILLE Mathilde,54.76,50.0,-54.0,-55.0,60.0,63.0,-67.0,50.0,63.0,113.0
+GE - Champ de France Elite,2021-10-23,SEN Women 59,DEFRANCE Romane,57.73,61.0,-64.0,64.0,81.0,-84.0,85.0,64.0,85.0,149.0
+GE - Champ de France Elite,2021-10-23,SEN Women 59,HERANNEY Camille,56.52,58.0,-62.0,62.0,-83.0,83.0,87.0,62.0,87.0,149.0
+GE - Champ de France Elite,2021-10-23,SEN Women 71,GRAILLOT Vicky,65.59,83.0,87.0,-90.0,104.0,-109.0,-109.0,87.0,104.0,191.0
+GE - Champ de France Elite,2021-10-23,U20 Women 59,MICHEL Maëlyn,56.7,67.0,70.0,-72.0,82.0,86.0,-91.0,70.0,86.0,156.0
+GE - Champ de France Elite,2021-10-23,SEN Women 55,RETAILLE Manon,54.21,67.0,70.0,-73.0,85.0,90.0,94.0,70.0,94.0,164.0
+GE - Champ de France Elite,2021-10-23,SEN Women 55,L HERMIER Nolwen,53.75,64.0,-67.0,-67.0,84.0,-85.0,87.0,64.0,87.0,151.0
+GE - Champ de France Elite,2021-10-23,SEN Women 64,GOMIS Clarisse,62.9,65.0,68.0,-70.0,-88.0,-88.0,88.0,68.0,88.0,156.0
+GE - Champ de France Elite,2021-10-23,SEN Women 64,LE MALEFANT Samantha,63.04,80.0,-84.0,84.0,-102.0,-102.0,-102.0,84.0,0.0,0.0
+GE - Champ de France Elite,2021-10-23,U20 Women 59,MICHEL Maëlyn,56.7,67.0,70.0,-72.0,82.0,86.0,-91.0,70.0,86.0,156.0
+GE - Champ de France Elite,2021-10-23,SEN Women 55,RETAILLE Manon,54.21,67.0,70.0,-73.0,85.0,90.0,94.0,70.0,94.0,164.0
+GE - Champ de France Elite,2021-10-23,SEN Women 55,L HERMIER Nolwen,53.75,64.0,-67.0,-67.0,84.0,-85.0,87.0,64.0,87.0,151.0
+GE - Champ de France Elite,2021-10-23,SEN Women 64,GOMIS Clarisse,62.9,65.0,68.0,-70.0,-88.0,-88.0,88.0,68.0,88.0,156.0
+GE - Champ de France Elite,2021-10-23,SEN Women 64,LE MALEFANT Samantha,63.04,80.0,-84.0,84.0,-102.0,-102.0,-102.0,84.0,0.0,0.0
+GE - Champ de France Elite,2021-10-23,U17 Women >81,AYMES Lilou,115.4,60.0,64.0,66.0,75.0,78.0,81.0,66.0,81.0,147.0
+GE - Champ de France Elite,2021-10-23,U20 Women 64,EZZEDINE Alissa,62.31,61.0,65.0,67.0,79.0,83.0,-86.0,67.0,83.0,150.0
+GE - Champ de France Elite,2021-10-23,SEN Women 55,SERVAIS Julie,54.28,58.0,-62.0,-64.0,68.0,72.0,-75.0,58.0,72.0,130.0
+GE - Champ de France Elite,2021-10-23,SEN Women 59,CHIAULON Maud,57.08,73.0,-75.0,76.0,90.0,-94.0,95.0,76.0,95.0,171.0
+GE - Champ de France Elite,2021-10-23,U17 Women >81,AYMES Lilou,115.4,60.0,64.0,66.0,75.0,78.0,81.0,66.0,81.0,147.0
+GE - Champ de France Elite,2021-10-23,U20 Women 64,EZZEDINE Alissa,62.31,61.0,65.0,67.0,79.0,83.0,-86.0,67.0,83.0,150.0
+GE - Champ de France Elite,2021-10-23,SEN Women 55,SERVAIS Julie,54.28,58.0,-62.0,-64.0,68.0,72.0,-75.0,58.0,72.0,130.0
+GE - Champ de France Elite,2021-10-23,SEN Women 59,CHIAULON Maud,57.08,73.0,-75.0,76.0,90.0,-94.0,95.0,76.0,95.0,171.0
+GE - Champ de France Elite,2021-10-23,U17 Women 55,GARNIER Camille,51.23,42.0,45.0,-47.0,53.0,-57.0,57.0,45.0,57.0,102.0
+GE - Champ de France Elite,2021-10-23,U17 Women 64,CADIEU Anais,59.56,48.0,-51.0,-51.0,58.0,61.0,63.0,48.0,63.0,111.0
+GE - Champ de France Elite,2021-10-23,U17 Women 76,COGNON Loubna,74.58,58.0,62.0,65.0,78.0,-82.0,-0.0,65.0,78.0,143.0
+GE - Champ de France Elite,2021-10-23,SEN Women 49,PROUSTEAU Anais,47.46,-60.0,60.0,-62.0,73.0,-75.0,-76.0,60.0,73.0,133.0
+GE - Champ de France Elite,2021-10-23,U17 Women 55,GARNIER Camille,51.23,42.0,45.0,-47.0,53.0,-57.0,57.0,45.0,57.0,102.0
+GE - Champ de France Elite,2021-10-23,U17 Women 64,CADIEU Anais,59.56,48.0,-51.0,-51.0,58.0,61.0,63.0,48.0,63.0,111.0
+GE - Champ de France Elite,2021-10-23,U17 Women 76,COGNON Loubna,74.58,58.0,62.0,65.0,78.0,-82.0,-0.0,65.0,78.0,143.0
+GE - Champ de France Elite,2021-10-23,SEN Women 49,PROUSTEAU Anais,47.46,-60.0,60.0,-62.0,73.0,-75.0,-76.0,60.0,73.0,133.0
+GE - Champ de France Elite,2021-10-23,U17 Women 49,KOUCHENSKY Darya,48.9,42.0,44.0,-46.0,-54.0,-55.0,55.0,44.0,55.0,99.0
+GE - Champ de France Elite,2021-10-23,U17 Women 59,DEROULEDE Lili-gabrielle,58.02,60.0,64.0,66.0,77.0,80.0,82.0,66.0,82.0,148.0
+GE - Champ de France Elite,2021-10-23,SEN Women 49,MOCAER LORGERE Nolwenn,46.2,52.0,54.0,56.0,71.0,74.0,-78.0,56.0,74.0,130.0
+GE - Champ de France Elite,2021-10-23,SEN Women 49,TOUCHARD Maeva,47.47,-55.0,-55.0,57.0,64.0,67.0,-70.0,57.0,67.0,124.0
+GE - Champ de France Elite,2021-10-23,SEN Women 49,BIENVENU Aimée,47.7,50.0,-53.0,-54.0,71.0,-74.0,-75.0,50.0,71.0,121.0
+GE - Champ de France Elite,2021-10-23,SEN Women 55,RIGAUD Garance,54.91,75.0,78.0,81.0,95.0,98.0,100.0,81.0,100.0,181.0
+GE - Champ de France Elite,2021-10-23,SEN Women 55,GANET Segolène,54.19,62.0,-65.0,-65.0,73.0,77.0,-80.0,62.0,77.0,139.0
+GE - Champ de France Elite,2021-10-23,SEN Women 59,JOUNIAUX Camille,55.89,-69.0,-70.0,-71.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+GE - Champ de France Elite,2021-10-23,SEN Women 64,FAUVEL Laurène,62.48,81.0,-84.0,85.0,102.0,104.0,-109.0,85.0,104.0,189.0
+GE - Champ de France Elite,2021-10-23,SEN Women 71,LANCRY Anais,68.95,-72.0,72.0,75.0,88.0,-92.0,-94.0,75.0,88.0,163.0
+GE - Champ de France Elite,2021-10-23,SEN Women 76,ANDRIVET Morgane,72.44,82.0,85.0,-89.0,-92.0,-92.0,-93.0,85.0,0.0,0.0
+GE - Champ de France Elite,2021-10-23,U17 Women 49,KOUCHENSKY Darya,48.9,42.0,44.0,-46.0,-54.0,-55.0,55.0,44.0,55.0,99.0
+GE - Champ de France Elite,2021-10-23,U17 Women 59,DEROULEDE Lili-gabrielle,58.02,60.0,64.0,66.0,77.0,80.0,82.0,66.0,82.0,148.0
+GE - Champ de France Elite,2021-10-23,SEN Women 49,MOCAER LORGERE Nolwenn,46.2,52.0,54.0,56.0,71.0,74.0,-78.0,56.0,74.0,130.0
+GE - Champ de France Elite,2021-10-23,SEN Women 49,TOUCHARD Maeva,47.47,-55.0,-55.0,57.0,64.0,67.0,-70.0,57.0,67.0,124.0
+GE - Champ de France Elite,2021-10-23,SEN Women 49,BIENVENU Aimée,47.7,50.0,-53.0,-54.0,71.0,-74.0,-75.0,50.0,71.0,121.0
+GE - Champ de France Elite,2021-10-23,SEN Women 55,RIGAUD Garance,54.91,75.0,78.0,81.0,95.0,98.0,100.0,81.0,100.0,181.0
+GE - Champ de France Elite,2021-10-23,SEN Women 55,GANET Segolène,54.19,62.0,-65.0,-65.0,73.0,77.0,-80.0,62.0,77.0,139.0
+GE - Champ de France Elite,2021-10-23,SEN Women 59,JOUNIAUX Camille,55.89,-69.0,-70.0,-71.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+GE - Champ de France Elite,2021-10-23,SEN Women 64,FAUVEL Laurène,62.48,81.0,-84.0,85.0,102.0,104.0,-109.0,85.0,104.0,189.0
+GE - Champ de France Elite,2021-10-23,SEN Women 71,LANCRY Anais,68.95,-72.0,72.0,75.0,88.0,-92.0,-94.0,75.0,88.0,163.0
+GE - Champ de France Elite,2021-10-23,SEN Women 76,ANDRIVET Morgane,72.44,82.0,85.0,-89.0,-92.0,-92.0,-93.0,85.0,0.0,0.0
+GE - Champ de France Elite,2021-10-23,U15 Women 40,DIOGUARDI Nina,38.07,30.0,33.0,-35.0,42.0,45.0,47.0,33.0,47.0,80.0
+GE - Champ de France Elite,2021-10-23,U17 Women 59,LECLERC Jade,55.38,48.0,51.0,53.0,-65.0,65.0,-69.0,53.0,65.0,118.0
+GE - Champ de France Elite,2021-10-23,U17 Women 71,NOURTIER Lyla,67.61,55.0,58.0,-59.0,-70.0,70.0,73.0,58.0,73.0,131.0
+GE - Champ de France Elite,2021-10-23,U20 Women 45,THIERRY Charlotte,44.31,-45.0,-45.0,46.0,55.0,60.0,64.0,46.0,64.0,110.0
+GE - Champ de France Elite,2021-10-23,U20 Women 55,MAAFI Meissane,54.2,-50.0,-52.0,52.0,60.0,64.0,-68.0,52.0,64.0,116.0
+GE - Champ de France Elite,2021-10-23,U20 Women 71,VAN OVERBEKE Axelle,69.9,68.0,71.0,73.0,78.0,81.0,-84.0,73.0,81.0,154.0
+GE - Champ de France Elite,2021-10-23,SEN Women 45,PATRY-LECLAIRE Chloé,43.09,48.0,-50.0,-50.0,61.0,-64.0,-65.0,48.0,61.0,109.0
+GE - Champ de France Elite,2021-10-23,SEN Women 55,COURTOIS Alexandra,54.2,-55.0,57.0,60.0,64.0,67.0,-70.0,60.0,67.0,127.0
+GE - Champ de France Elite,2021-10-23,SEN Women 64,DEBAUD Manon,63.59,-65.0,65.0,70.0,85.0,-89.0,93.0,70.0,93.0,163.0
+GE - Champ de France Elite,2021-10-23,U15 Women 40,DIOGUARDI Nina,38.07,30.0,33.0,-35.0,42.0,45.0,47.0,33.0,47.0,80.0
+GE - Champ de France Elite,2021-10-23,U17 Women 59,LECLERC Jade,55.38,48.0,51.0,53.0,-65.0,65.0,-69.0,53.0,65.0,118.0
+GE - Champ de France Elite,2021-10-23,U17 Women 71,NOURTIER Lyla,67.61,55.0,58.0,-59.0,-70.0,70.0,73.0,58.0,73.0,131.0
+GE - Champ de France Elite,2021-10-23,U20 Women 45,THIERRY Charlotte,44.31,-45.0,-45.0,46.0,55.0,60.0,64.0,46.0,64.0,110.0
+GE - Champ de France Elite,2021-10-23,U20 Women 55,MAAFI Meissane,54.2,-50.0,-52.0,52.0,60.0,64.0,-68.0,52.0,64.0,116.0
+GE - Champ de France Elite,2021-10-23,U20 Women 71,VAN OVERBEKE Axelle,69.9,68.0,71.0,73.0,78.0,81.0,-84.0,73.0,81.0,154.0
+GE - Champ de France Elite,2021-10-23,SEN Women 45,PATRY-LECLAIRE Chloé,43.09,48.0,-50.0,-50.0,61.0,-64.0,-65.0,48.0,61.0,109.0
+GE - Champ de France Elite,2021-10-23,SEN Women 55,COURTOIS Alexandra,54.2,-55.0,57.0,60.0,64.0,67.0,-70.0,60.0,67.0,127.0
+GE - Champ de France Elite,2021-10-23,SEN Women 64,DEBAUD Manon,63.59,-65.0,65.0,70.0,85.0,-89.0,93.0,70.0,93.0,163.0
+GE - Champ de France Elite,2021-10-23,U15 Women 59,BOYER Kristina,58.87,44.0,-47.0,48.0,55.0,59.0,-60.0,48.0,59.0,107.0
+GE - Champ de France Elite,2021-10-23,U17 Women 59,ROUSSEAU Clementine,57.18,-47.0,47.0,-50.0,62.0,66.0,-70.0,47.0,66.0,113.0
+GE - Champ de France Elite,2021-10-23,U20 Women 49,REDIEN Lea,47.84,46.0,-49.0,-50.0,-59.0,59.0,61.0,46.0,61.0,107.0
+GE - Champ de France Elite,2021-10-23,U20 Women 55,DE BARROS Clara,54.61,50.0,55.0,57.0,65.0,70.0,-73.0,57.0,70.0,127.0
+GE - Champ de France Elite,2021-10-23,U20 Women 59,BENSUSSAN Manon,57.62,53.0,57.0,-60.0,-71.0,71.0,-75.0,57.0,71.0,128.0
+GE - Champ de France Elite,2021-10-23,U20 Women 64,PAYET Loane,60.5,70.0,-74.0,74.0,88.0,92.0,96.0,74.0,96.0,170.0
+GE - Champ de France Elite,2021-10-23,SEN Women 45,ESTEVES Laura,44.8,42.0,-44.0,-44.0,53.0,-58.0,-58.0,42.0,53.0,95.0
+GE - Champ de France Elite,2021-10-23,SEN Women 49,FALCOU Cassandra,45.12,45.0,47.0,49.0,58.0,60.0,62.0,49.0,62.0,111.0
+GE - Champ de France Elite,2021-10-23,SEN Women 55,PLANCQ Deborah,53.5,-69.0,69.0,72.0,87.0,91.0,-93.0,72.0,91.0,163.0
+GE - Champ de France Elite,2021-10-23,SEN Women 59,AUTILLO Clara,58.51,-68.0,-68.0,68.0,80.0,-85.0,-0.0,68.0,80.0,148.0
+GE - Champ de France Elite,2021-10-23,SEN Women 59,BERNARD Manon,56.59,65.0,-68.0,68.0,77.0,-81.0,-81.0,68.0,77.0,145.0
+GE - Champ de France Elite,2021-10-23,SEN Women 64,COLLADO Noa,61.34,70.0,73.0,75.0,-78.0,78.0,80.0,75.0,80.0,155.0
+GE - Champ de France Elite,2021-10-23,SEN Women 64,PASTA Jennifer,63.59,63.0,65.0,-68.0,85.0,-88.0,-90.0,65.0,85.0,150.0
+GE - Champ de France Elite,2021-10-23,SEN Women 71,FERREIRA NUNES Aureleny,67.04,90.0,95.0,100.0,110.0,115.0,-120.0,100.0,115.0,215.0
+GE - Champ de France Elite,2021-10-23,SEN Women 81,FEGUE Marie josephe,77.34,102.0,107.0,110.0,130.0,135.0,-136.0,110.0,135.0,245.0
+GE - Champ de France Elite,2021-10-23,U15 Women 59,BOYER Kristina,58.87,44.0,-47.0,48.0,55.0,59.0,-60.0,48.0,59.0,107.0
+GE - Champ de France Elite,2021-10-23,U17 Women 59,ROUSSEAU Clementine,57.18,-47.0,47.0,-50.0,62.0,66.0,-70.0,47.0,66.0,113.0
+GE - Champ de France Elite,2021-10-23,U20 Women 49,REDIEN Lea,47.84,46.0,-49.0,-50.0,-59.0,59.0,61.0,46.0,61.0,107.0
+GE - Champ de France Elite,2021-10-23,U20 Women 55,DE BARROS Clara,54.61,50.0,55.0,57.0,65.0,70.0,-73.0,57.0,70.0,127.0
+GE - Champ de France Elite,2021-10-23,U20 Women 59,BENSUSSAN Manon,57.62,53.0,57.0,-60.0,-71.0,71.0,-75.0,57.0,71.0,128.0
+GE - Champ de France Elite,2021-10-23,U20 Women 64,PAYET Loane,60.5,70.0,-74.0,74.0,88.0,92.0,96.0,74.0,96.0,170.0
+GE - Champ de France Elite,2021-10-23,SEN Women 45,ESTEVES Laura,44.8,42.0,-44.0,-44.0,53.0,-58.0,-58.0,42.0,53.0,95.0
+GE - Champ de France Elite,2021-10-23,SEN Women 49,FALCOU Cassandra,45.12,45.0,47.0,49.0,58.0,60.0,62.0,49.0,62.0,111.0
+GE - Champ de France Elite,2021-10-23,SEN Women 55,PLANCQ Deborah,53.5,-69.0,69.0,72.0,87.0,91.0,-93.0,72.0,91.0,163.0
+GE - Champ de France Elite,2021-10-23,SEN Women 59,AUTILLO Clara,58.51,-68.0,-68.0,68.0,80.0,-85.0,-0.0,68.0,80.0,148.0
+GE - Champ de France Elite,2021-10-23,SEN Women 59,BERNARD Manon,56.59,65.0,-68.0,68.0,77.0,-81.0,-81.0,68.0,77.0,145.0
+GE - Champ de France Elite,2021-10-23,SEN Women 64,COLLADO Noa,61.34,70.0,73.0,75.0,-78.0,78.0,80.0,75.0,80.0,155.0
+GE - Champ de France Elite,2021-10-23,SEN Women 64,PASTA Jennifer,63.59,63.0,65.0,-68.0,85.0,-88.0,-90.0,65.0,85.0,150.0
+GE - Champ de France Elite,2021-10-23,SEN Women 71,FERREIRA NUNES Aureleny,67.04,90.0,95.0,100.0,110.0,115.0,-120.0,100.0,115.0,215.0
+GE - Champ de France Elite,2021-10-23,SEN Women 81,FEGUE Marie josephe,77.34,102.0,107.0,110.0,130.0,135.0,-136.0,110.0,135.0,245.0
+GE - Champ de France Elite,2021-10-23,U17 Women 49,ROSTAND Eva,48.78,47.0,-51.0,51.0,55.0,61.0,-63.0,51.0,61.0,112.0
+GE - Champ de France Elite,2021-10-23,U17 Women 64,IAFRATE Sara,63.07,51.0,52.0,55.0,61.0,65.0,70.0,55.0,70.0,125.0
+GE - Champ de France Elite,2021-10-23,U20 Women 55,JACOB Carla,53.94,60.0,62.0,64.0,74.0,78.0,-83.0,64.0,78.0,142.0
+GE - Champ de France Elite,2021-10-23,U20 Women 71,MANTAROPOULOS Marie,66.3,72.0,75.0,-78.0,95.0,-0.0,-0.0,75.0,95.0,170.0
+GE - Champ de France Elite,2021-10-23,U20 Women 71,PICOT Zeline,68.21,63.0,66.0,-69.0,80.0,85.0,-89.0,66.0,85.0,151.0
+GE - Champ de France Elite,2021-10-23,U20 Women 71,OUTTERS Maud,65.53,58.0,-61.0,-61.0,68.0,-71.0,74.0,58.0,74.0,132.0
+GE - Champ de France Elite,2021-10-23,SEN Women 45,PEETERS Emilie,42.26,-47.0,47.0,48.0,62.0,-64.0,-64.0,48.0,62.0,110.0
+GE - Champ de France Elite,2021-10-23,SEN Women 59,VASCONCELOS Helen,58.33,-72.0,72.0,-75.0,85.0,90.0,-95.0,72.0,90.0,162.0
+GE - Champ de France Elite,2021-10-23,SEN Women 59,MOUNIER Camille,57.49,67.0,-71.0,71.0,85.0,-89.0,89.0,71.0,89.0,160.0
+GE - Champ de France Elite,2021-10-23,SEN Women 59,VERNET Julie,58.78,65.0,69.0,71.0,87.0,-90.0,-90.0,71.0,87.0,158.0
+GE - Champ de France Elite,2021-10-23,SEN Women 59,DUCLAVÉ Cassandra,57.51,54.0,58.0,-60.0,-71.0,-71.0,-74.0,58.0,0.0,0.0
+GE - Champ de France Elite,2021-10-23,SEN Women 64,SAINT AIME Sarah,63.01,-80.0,80.0,82.0,102.0,-106.0,-108.0,82.0,102.0,184.0
+GE - Champ de France Elite,2021-10-23,SEN Women 64,GRENERON Metty,64.0,80.0,-83.0,-83.0,95.0,100.0,-103.0,80.0,100.0,180.0
+GE - Champ de France Elite,2021-10-23,SEN Women 64,MOSTAERT Eva,63.87,68.0,72.0,-75.0,85.0,90.0,-95.0,72.0,90.0,162.0
+GE - Champ de France Elite,2021-10-23,SEN Women 64,HOUELCHE Charline,62.07,60.0,62.0,-63.0,65.0,68.0,-70.0,62.0,68.0,130.0
+GE - Champ de France Elite,2021-10-23,SEN Women 71,ROBIN Marie,69.37,88.0,90.0,93.0,109.0,-112.0,-112.0,93.0,109.0,202.0
+GE - Champ de France Elite,2021-10-23,SEN Women 71,VALEMBOIS Emma,67.17,75.0,-79.0,-79.0,100.0,105.0,-110.0,75.0,105.0,180.0
+GE - Champ de France Elite,2021-10-23,SEN Women 71,JAEG Mélanie,70.7,72.0,-75.0,-75.0,93.0,-97.0,99.0,72.0,99.0,171.0
+GE - Champ de France Elite,2021-10-23,SEN Women 71,COMBELLES Laetitia,68.77,75.0,-79.0,-79.0,-95.0,-95.0,95.0,75.0,95.0,170.0
+GE - Champ de France Elite,2021-10-23,SEN Women 71,COSSUTTA Lou,69.8,60.0,-64.0,64.0,-80.0,80.0,-85.0,64.0,80.0,144.0
+GE - Champ de France Elite,2021-10-23,SEN Women 76,PEREZ-MIVIERE Alexia,74.04,72.0,75.0,78.0,100.0,-105.0,-109.0,78.0,100.0,178.0
+GE - Champ de France Elite,2021-10-23,U17 Women 49,ROSTAND Eva,48.78,47.0,-51.0,51.0,55.0,61.0,-63.0,51.0,61.0,112.0
+GE - Champ de France Elite,2021-10-23,U17 Women 64,IAFRATE Sara,63.07,51.0,52.0,55.0,61.0,65.0,70.0,55.0,70.0,125.0
+GE - Champ de France Elite,2021-10-23,U20 Women 55,JACOB Carla,53.94,60.0,62.0,64.0,74.0,78.0,-83.0,64.0,78.0,142.0
+GE - Champ de France Elite,2021-10-23,U20 Women 71,MANTAROPOULOS Marie,66.3,72.0,75.0,-78.0,95.0,-0.0,-0.0,75.0,95.0,170.0
+GE - Champ de France Elite,2021-10-23,U20 Women 71,PICOT Zeline,68.21,63.0,66.0,-69.0,80.0,85.0,-89.0,66.0,85.0,151.0
+GE - Champ de France Elite,2021-10-23,U20 Women 71,OUTTERS Maud,65.53,58.0,-61.0,-61.0,68.0,-71.0,74.0,58.0,74.0,132.0
+GE - Champ de France Elite,2021-10-23,SEN Women 45,PEETERS Emilie,42.26,-47.0,47.0,48.0,62.0,-64.0,-64.0,48.0,62.0,110.0
+GE - Champ de France Elite,2021-10-23,SEN Women 59,VASCONCELOS Helen,58.33,-72.0,72.0,-75.0,85.0,90.0,-95.0,72.0,90.0,162.0
+GE - Champ de France Elite,2021-10-23,SEN Women 59,MOUNIER Camille,57.49,67.0,-71.0,71.0,85.0,-89.0,89.0,71.0,89.0,160.0
+GE - Champ de France Elite,2021-10-23,SEN Women 59,VERNET Julie,58.78,65.0,69.0,71.0,87.0,-90.0,-90.0,71.0,87.0,158.0
+GE - Champ de France Elite,2021-10-23,SEN Women 59,DUCLAVÉ Cassandra,57.51,54.0,58.0,-60.0,-71.0,-71.0,-74.0,58.0,0.0,0.0
+GE - Champ de France Elite,2021-10-23,SEN Women 64,SAINT AIME Sarah,63.01,-80.0,80.0,82.0,102.0,-106.0,-108.0,82.0,102.0,184.0
+GE - Champ de France Elite,2021-10-23,SEN Women 64,GRENERON Metty,64.0,80.0,-83.0,-83.0,95.0,100.0,-103.0,80.0,100.0,180.0
+GE - Champ de France Elite,2021-10-23,SEN Women 64,MOSTAERT Eva,63.87,68.0,72.0,-75.0,85.0,90.0,-95.0,72.0,90.0,162.0
+GE - Champ de France Elite,2021-10-23,SEN Women 64,HOUELCHE Charline,62.07,60.0,62.0,-63.0,65.0,68.0,-70.0,62.0,68.0,130.0
+GE - Champ de France Elite,2021-10-23,SEN Women 71,ROBIN Marie,69.37,88.0,90.0,93.0,109.0,-112.0,-112.0,93.0,109.0,202.0
+GE - Champ de France Elite,2021-10-23,SEN Women 71,VALEMBOIS Emma,67.17,75.0,-79.0,-79.0,100.0,105.0,-110.0,75.0,105.0,180.0
+GE - Champ de France Elite,2021-10-23,SEN Women 71,JAEG Mélanie,70.7,72.0,-75.0,-75.0,93.0,-97.0,99.0,72.0,99.0,171.0
+GE - Champ de France Elite,2021-10-23,SEN Women 71,COMBELLES Laetitia,68.77,75.0,-79.0,-79.0,-95.0,-95.0,95.0,75.0,95.0,170.0
+GE - Champ de France Elite,2021-10-23,SEN Women 71,COSSUTTA Lou,69.8,60.0,-64.0,64.0,-80.0,80.0,-85.0,64.0,80.0,144.0
+GE - Champ de France Elite,2021-10-23,SEN Women 76,PEREZ-MIVIERE Alexia,74.04,72.0,75.0,78.0,100.0,-105.0,-109.0,78.0,100.0,178.0

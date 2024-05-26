@@ -1,3 +1,377 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-NAQ - Chal Avenir 1 Féminins implantation Limousin,2020-10-10,U15 Women 64,BOUGAMONT Agath,63.0,24.0,26.0,-28.0,27.0,29.0,30.0,26.0,30.0,56.0
-NAQ - Chal Avenir 1 Féminins implantation Limousin,2020-10-10,U20 Women 64,CELERIER Anna,62.0,25.0,28.0,30.0,35.0,38.0,40.0,30.0,40.0,70.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W35 Women 49,AOUAGHI Audrey,46.48,-45.0,45.0,-52.0,55.0,-65.0,-65.0,45.0,55.0,100.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W35 Women 71,LENFANT Emilie,70.15,55.0,60.0,65.0,70.0,80.0,90.0,65.0,90.0,155.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W40 Women 81,EXCOFFIER Émilie,77.36,-45.0,-45.0,47.0,55.0,60.0,-65.0,47.0,60.0,107.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W55 Women 59,GIRAUD Isabelle,56.6,27.0,30.0,32.0,36.0,40.0,42.0,32.0,42.0,74.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 89,POIRIER Mathieu,87.9,105.0,-111.0,-117.0,130.0,-140.0,-140.0,105.0,130.0,235.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 89,MARCHAND Antoine,88.0,98.0,-102.0,-102.0,115.0,-119.0,121.0,98.0,121.0,219.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 102,BOULANGER Vincent,97.83,85.0,-89.0,-89.0,112.0,-116.0,119.0,85.0,119.0,204.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M60 Men 73,BABIN Patrick,72.28,55.0,-58.0,-58.0,65.0,-69.0,-70.0,55.0,65.0,120.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M65 Men 102,SAUNIER Roland,96.1,-55.0,55.0,60.0,65.0,70.0,-75.0,60.0,70.0,130.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M70 Men 73,MICHAUD Jean pierre,71.4,33.0,35.0,37.0,48.0,50.0,52.0,37.0,52.0,89.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M75 Men 89,TAGLIATI André,84.63,60.0,63.0,-65.0,70.0,75.0,-78.0,63.0,75.0,138.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M80 Men 102,ORTIZ Francois,97.18,35.0,38.0,40.0,45.0,48.0,50.0,40.0,50.0,90.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 89,POIRIER Mathieu,87.9,105.0,-111.0,-117.0,130.0,-140.0,-140.0,105.0,130.0,235.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 89,MARCHAND Antoine,88.0,98.0,-102.0,-102.0,115.0,-119.0,121.0,98.0,121.0,219.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 102,BOULANGER Vincent,97.83,85.0,-89.0,-89.0,112.0,-116.0,119.0,85.0,119.0,204.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M60 Men 73,BABIN Patrick,72.28,55.0,-58.0,-58.0,65.0,-69.0,-70.0,55.0,65.0,120.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M65 Men 102,SAUNIER Roland,96.1,-55.0,55.0,60.0,65.0,70.0,-75.0,60.0,70.0,130.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M70 Men 73,MICHAUD Jean pierre,71.4,33.0,35.0,37.0,48.0,50.0,52.0,37.0,52.0,89.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M75 Men 89,TAGLIATI André,84.63,60.0,63.0,-65.0,70.0,75.0,-78.0,63.0,75.0,138.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M80 Men 102,ORTIZ Francois,97.18,35.0,38.0,40.0,45.0,48.0,50.0,40.0,50.0,90.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W35 Women 55,AUDIBERT Coralie,53.0,40.0,44.0,-48.0,55.0,-60.0,-62.0,44.0,55.0,99.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W35 Women 64,MORVAN Maureen,61.38,-49.0,49.0,52.0,65.0,69.0,-71.0,52.0,69.0,121.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W35 Women 81,CRISTOFOLI Adeline,79.76,60.0,63.0,65.0,72.0,80.0,84.0,65.0,84.0,149.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W45 Women >87,GERIN Larissa yvonne,147.36,45.0,50.0,55.0,57.0,63.0,70.0,55.0,70.0,125.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W50 Women 71,ALVES Claire,69.22,50.0,53.0,-56.0,63.0,67.0,-72.0,53.0,67.0,120.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W60 Women 59,WITKOWSKI Dagmar,55.66,37.0,40.0,42.0,42.0,44.0,46.0,42.0,46.0,88.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W35 Women 55,AUDIBERT Coralie,53.0,40.0,44.0,-48.0,55.0,-60.0,-62.0,44.0,55.0,99.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W35 Women 64,MORVAN Maureen,61.38,-49.0,49.0,52.0,65.0,69.0,-71.0,52.0,69.0,121.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W35 Women 81,CRISTOFOLI Adeline,79.76,60.0,63.0,65.0,72.0,80.0,84.0,65.0,84.0,149.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W45 Women >87,GERIN Larissa yvonne,147.36,45.0,50.0,55.0,57.0,63.0,70.0,55.0,70.0,125.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W50 Women 71,ALVES Claire,69.22,50.0,53.0,-56.0,63.0,67.0,-72.0,53.0,67.0,120.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W60 Women 59,WITKOWSKI Dagmar,55.66,37.0,40.0,42.0,42.0,44.0,46.0,42.0,46.0,88.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 73,RITZENTHALER Frederic,69.96,84.0,88.0,-92.0,109.0,114.0,-118.0,88.0,114.0,202.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 81,GORTH Alexandre,79.66,82.0,-87.0,-87.0,102.0,107.0,112.0,82.0,112.0,194.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 109,JEHL Arnaud,104.84,-92.0,-92.0,92.0,110.0,116.0,-121.0,92.0,116.0,208.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 81,FRANK Lionel,79.89,75.0,-81.0,-85.0,95.0,-100.0,-103.0,75.0,95.0,170.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 109,BOULY Kevin,106.54,120.0,126.0,132.0,160.0,171.0,-175.0,132.0,171.0,303.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M45 Men 96,GUILLAUME Emmanuel,92.0,75.0,79.0,84.0,98.0,-104.0,105.0,84.0,105.0,189.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M45 Men 109,BAECHLER David,106.18,103.0,108.0,-115.0,130.0,-0.0,-0.0,108.0,130.0,238.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M50 Men 55,WAHRHEIT Cyrille,54.46,50.0,52.0,54.0,68.0,70.0,-72.0,54.0,70.0,124.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M55 Men 81,MAGNAN Frederic,80.77,72.0,80.0,84.0,85.0,100.0,-105.0,84.0,100.0,184.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M60 Men 73,DEHU Olivier,69.82,48.0,52.0,55.0,65.0,-69.0,69.0,55.0,69.0,124.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M65 Men 81,LARCY Stephane,76.93,60.0,65.0,-68.0,77.0,81.0,84.0,65.0,84.0,149.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M65 Men 96,TANGUY Michel,90.28,60.0,65.0,-67.0,87.0,90.0,-92.0,65.0,90.0,155.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M75 Men 81,DEBELLEMANIERE Jean claude,78.2,40.0,42.0,-44.0,45.0,-0.0,-0.0,42.0,45.0,87.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M75 Men 89,BAECHLER Claude,82.02,40.0,-45.0,-45.0,50.0,54.0,-56.0,40.0,54.0,94.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 73,RITZENTHALER Frederic,69.96,84.0,88.0,-92.0,109.0,114.0,-118.0,88.0,114.0,202.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 81,GORTH Alexandre,79.66,82.0,-87.0,-87.0,102.0,107.0,112.0,82.0,112.0,194.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 109,JEHL Arnaud,104.84,-92.0,-92.0,92.0,110.0,116.0,-121.0,92.0,116.0,208.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 81,FRANK Lionel,79.89,75.0,-81.0,-85.0,95.0,-100.0,-103.0,75.0,95.0,170.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 109,BOULY Kevin,106.54,120.0,126.0,132.0,160.0,171.0,-175.0,132.0,171.0,303.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M45 Men 96,GUILLAUME Emmanuel,92.0,75.0,79.0,84.0,98.0,-104.0,105.0,84.0,105.0,189.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M45 Men 109,BAECHLER David,106.18,103.0,108.0,-115.0,130.0,-0.0,-0.0,108.0,130.0,238.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M50 Men 55,WAHRHEIT Cyrille,54.46,50.0,52.0,54.0,68.0,70.0,-72.0,54.0,70.0,124.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M55 Men 81,MAGNAN Frederic,80.77,72.0,80.0,84.0,85.0,100.0,-105.0,84.0,100.0,184.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M60 Men 73,DEHU Olivier,69.82,48.0,52.0,55.0,65.0,-69.0,69.0,55.0,69.0,124.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M65 Men 81,LARCY Stephane,76.93,60.0,65.0,-68.0,77.0,81.0,84.0,65.0,84.0,149.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M65 Men 96,TANGUY Michel,90.28,60.0,65.0,-67.0,87.0,90.0,-92.0,65.0,90.0,155.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M75 Men 81,DEBELLEMANIERE Jean claude,78.2,40.0,42.0,-44.0,45.0,-0.0,-0.0,42.0,45.0,87.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M75 Men 89,BAECHLER Claude,82.02,40.0,-45.0,-45.0,50.0,54.0,-56.0,40.0,54.0,94.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W35 Women 76,GUION Anne soizic,72.98,70.0,74.0,-79.0,80.0,84.0,-90.0,74.0,84.0,158.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W45 Women 76,CAILLE Valérie,71.08,34.0,37.0,40.0,44.0,47.0,50.0,40.0,50.0,90.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W35 Women 76,GUION Anne soizic,72.98,70.0,74.0,-79.0,80.0,84.0,-90.0,74.0,84.0,158.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W45 Women 76,CAILLE Valérie,71.08,34.0,37.0,40.0,44.0,47.0,50.0,40.0,50.0,90.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 73,DELOUVEE Johan,72.48,85.0,90.0,-92.0,-100.0,100.0,-105.0,90.0,100.0,190.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 89,HUET Florian,88.51,105.0,110.0,-115.0,130.0,135.0,140.0,110.0,140.0,250.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 102,CAILLE Yoann,96.31,102.0,108.0,-113.0,120.0,125.0,130.0,108.0,130.0,238.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M45 Men 73,COLENO Yoann,72.78,-90.0,90.0,95.0,110.0,114.0,118.0,95.0,118.0,213.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M55 Men 102,LUAKI Amete,97.2,90.0,102.0,105.0,115.0,130.0,-140.0,105.0,130.0,235.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M60 Men 73,BURBAN Didier,71.9,57.0,59.0,61.0,75.0,80.0,84.0,61.0,84.0,145.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M65 Men 61,TANGUY Michel,59.89,43.0,-48.0,48.0,54.0,58.0,61.0,48.0,61.0,109.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M65 Men 96,LE GALL Hervé,95.25,70.0,76.0,-81.0,80.0,-87.0,87.0,76.0,87.0,163.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M70 Men 81,HOUET Bernard,80.86,41.0,44.0,47.0,52.0,-57.0,-57.0,47.0,52.0,99.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 73,DELOUVEE Johan,72.48,85.0,90.0,-92.0,-100.0,100.0,-105.0,90.0,100.0,190.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 89,HUET Florian,88.51,105.0,110.0,-115.0,130.0,135.0,140.0,110.0,140.0,250.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 102,CAILLE Yoann,96.31,102.0,108.0,-113.0,120.0,125.0,130.0,108.0,130.0,238.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M45 Men 73,COLENO Yoann,72.78,-90.0,90.0,95.0,110.0,114.0,118.0,95.0,118.0,213.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M55 Men 102,LUAKI Amete,97.2,90.0,102.0,105.0,115.0,130.0,-140.0,105.0,130.0,235.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M60 Men 73,BURBAN Didier,71.9,57.0,59.0,61.0,75.0,80.0,84.0,61.0,84.0,145.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M65 Men 61,TANGUY Michel,59.89,43.0,-48.0,48.0,54.0,58.0,61.0,48.0,61.0,109.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M65 Men 96,LE GALL Hervé,95.25,70.0,76.0,-81.0,80.0,-87.0,87.0,76.0,87.0,163.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M70 Men 81,HOUET Bernard,80.86,41.0,44.0,47.0,52.0,-57.0,-57.0,47.0,52.0,99.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 89,BARKAT Mohamed,84.45,83.0,86.0,88.0,118.0,-123.0,-123.0,88.0,118.0,206.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 61,GROSJEAN Marc,60.8,73.0,-76.0,-77.0,-82.0,82.0,87.0,73.0,87.0,160.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 67,DURIC Sifet,67.0,80.0,-90.0,90.0,95.0,-105.0,-105.0,90.0,95.0,185.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 73,JEGAN Thaya,71.96,-94.0,94.0,98.0,110.0,120.0,125.0,98.0,125.0,223.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 81,AUBRY Stephane,80.71,-100.0,-100.0,-100.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men >109,BOFFY Matthieu,109.8,108.0,-112.0,112.0,135.0,-139.0,-140.0,112.0,135.0,247.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M75 Men 73,LARCY Yvan,71.56,30.0,35.0,-38.0,40.0,45.0,-50.0,35.0,45.0,80.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 89,BARKAT Mohamed,84.45,83.0,86.0,88.0,118.0,-123.0,-123.0,88.0,118.0,206.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 61,GROSJEAN Marc,60.8,73.0,-76.0,-77.0,-82.0,82.0,87.0,73.0,87.0,160.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 67,DURIC Sifet,67.0,80.0,-90.0,90.0,95.0,-105.0,-105.0,90.0,95.0,185.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 73,JEGAN Thaya,71.96,-94.0,94.0,98.0,110.0,120.0,125.0,98.0,125.0,223.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 81,AUBRY Stephane,80.71,-100.0,-100.0,-100.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men >109,BOFFY Matthieu,109.8,108.0,-112.0,112.0,135.0,-139.0,-140.0,112.0,135.0,247.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M75 Men 73,LARCY Yvan,71.56,30.0,35.0,-38.0,40.0,45.0,-50.0,35.0,45.0,80.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W35 Women 87,FLOCH Melanie,86.53,-63.0,-63.0,63.0,83.0,87.0,88.0,63.0,88.0,151.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W40 Women 55,FREBOURG Elise,51.98,47.0,-49.0,51.0,63.0,65.0,-67.0,51.0,65.0,116.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W40 Women 55,LAISNÉ Johanie,54.54,49.0,-52.0,-52.0,65.0,-68.0,-69.0,49.0,65.0,114.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W50 Women 76,COLLINOT France,75.76,37.0,40.0,43.0,50.0,55.0,-60.0,43.0,55.0,98.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W65 Women 64,BERHAUT Muriel,63.76,43.0,-45.0,45.0,54.0,56.0,-58.0,45.0,56.0,101.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W35 Women 87,FLOCH Melanie,86.53,-63.0,-63.0,63.0,83.0,87.0,88.0,63.0,88.0,151.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W40 Women 55,FREBOURG Elise,51.98,47.0,-49.0,51.0,63.0,65.0,-67.0,51.0,65.0,116.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W40 Women 55,LAISNÉ Johanie,54.54,49.0,-52.0,-52.0,65.0,-68.0,-69.0,49.0,65.0,114.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W50 Women 76,COLLINOT France,75.76,37.0,40.0,43.0,50.0,55.0,-60.0,43.0,55.0,98.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W65 Women 64,BERHAUT Muriel,63.76,43.0,-45.0,45.0,54.0,56.0,-58.0,45.0,56.0,101.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 102,VALLET Richard,98.46,80.0,85.0,-87.0,113.0,-118.0,120.0,85.0,120.0,205.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M45 Men 89,DUBOC Laurent,85.11,75.0,80.0,-83.0,100.0,106.0,-110.0,80.0,106.0,186.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M45 Men 96,ANNE Cyrille,95.23,82.0,85.0,88.0,110.0,-114.0,-114.0,88.0,110.0,198.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M50 Men 81,DUVAL Cyril,79.98,62.0,67.0,-72.0,80.0,85.0,90.0,67.0,90.0,157.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M55 Men 96,SOUSA Jose,95.37,70.0,-75.0,-75.0,80.0,86.0,95.0,70.0,95.0,165.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M70 Men 67,DUVAL Bernard,61.55,32.0,35.0,-38.0,42.0,45.0,48.0,35.0,48.0,83.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 102,VALLET Richard,98.46,80.0,85.0,-87.0,113.0,-118.0,120.0,85.0,120.0,205.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M45 Men 89,DUBOC Laurent,85.11,75.0,80.0,-83.0,100.0,106.0,-110.0,80.0,106.0,186.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M45 Men 96,ANNE Cyrille,95.23,82.0,85.0,88.0,110.0,-114.0,-114.0,88.0,110.0,198.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M50 Men 81,DUVAL Cyril,79.98,62.0,67.0,-72.0,80.0,85.0,90.0,67.0,90.0,157.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M55 Men 96,SOUSA Jose,95.37,70.0,-75.0,-75.0,80.0,86.0,95.0,70.0,95.0,165.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M70 Men 67,DUVAL Bernard,61.55,32.0,35.0,-38.0,42.0,45.0,48.0,35.0,48.0,83.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W35 Women 64,HOARAU Veronique,61.8,56.0,-59.0,61.0,70.0,74.0,-77.0,61.0,74.0,135.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W35 Women 64,LENORMAND Alexandra,60.12,58.0,-61.0,-61.0,70.0,73.0,75.0,58.0,75.0,133.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W35 Women 76,PROUET Caroline,75.04,71.0,75.0,-76.0,85.0,91.0,-93.0,75.0,91.0,166.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W40 Women 49,EDMOND Neige line,48.22,50.0,53.0,56.0,60.0,65.0,68.0,56.0,68.0,124.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W35 Women 64,HOARAU Veronique,61.8,56.0,-59.0,61.0,70.0,74.0,-77.0,61.0,74.0,135.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W35 Women 64,LENORMAND Alexandra,60.12,58.0,-61.0,-61.0,70.0,73.0,75.0,58.0,75.0,133.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W35 Women 76,PROUET Caroline,75.04,71.0,75.0,-76.0,85.0,91.0,-93.0,75.0,91.0,166.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W40 Women 49,EDMOND Neige line,48.22,50.0,53.0,56.0,60.0,65.0,68.0,56.0,68.0,124.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 81,CORREIA Tony,78.18,-83.0,83.0,-86.0,-103.0,-103.0,103.0,83.0,103.0,186.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 81,WAN-HOI Stephan,79.3,86.0,-90.0,-90.0,107.0,-113.0,-118.0,86.0,107.0,193.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 81,CORREIA Tony,78.18,-83.0,83.0,-86.0,-103.0,-103.0,103.0,83.0,103.0,186.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 81,WAN-HOI Stephan,79.3,86.0,-90.0,-90.0,107.0,-113.0,-118.0,86.0,107.0,193.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W35 Women 71,COGNON Charlene,70.25,38.0,41.0,43.0,48.0,51.0,54.0,43.0,54.0,97.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W45 Women 55,COUPE Jocelyne,53.96,31.0,33.0,35.0,40.0,42.0,46.0,35.0,46.0,81.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W45 Women 64,BOUGANNE Karen,59.86,38.0,40.0,-42.0,46.0,49.0,52.0,40.0,52.0,92.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W45 Women 71,COGNON Sonia,64.1,-60.0,60.0,65.0,75.0,80.0,-82.0,65.0,80.0,145.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W55 Women 87,BODARD Suzanne,83.08,41.0,44.0,-46.0,52.0,54.0,-56.0,44.0,54.0,98.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W35 Women 71,COGNON Charlene,70.25,38.0,41.0,43.0,48.0,51.0,54.0,43.0,54.0,97.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W45 Women 55,COUPE Jocelyne,53.96,31.0,33.0,35.0,40.0,42.0,46.0,35.0,46.0,81.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W45 Women 64,BOUGANNE Karen,59.86,38.0,40.0,-42.0,46.0,49.0,52.0,40.0,52.0,92.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W45 Women 71,COGNON Sonia,64.1,-60.0,60.0,65.0,75.0,80.0,-82.0,65.0,80.0,145.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W55 Women 87,BODARD Suzanne,83.08,41.0,44.0,-46.0,52.0,54.0,-56.0,44.0,54.0,98.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 73,BIGOT Aurelien,71.74,70.0,-73.0,73.0,93.0,96.0,-100.0,73.0,96.0,169.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M45 Men 109,QUINTIN Cyrille,103.7,70.0,75.0,-80.0,90.0,-0.0,-0.0,75.0,90.0,165.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M50 Men 61,PASCAL Eric,60.32,58.0,61.0,64.0,76.0,-80.0,80.0,64.0,80.0,144.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M55 Men 89,BEZIE Franck,87.02,-82.0,82.0,86.0,100.0,103.0,105.0,86.0,105.0,191.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M55 Men 89,L HERMIER Joel,85.47,67.0,70.0,72.0,83.0,85.0,87.0,72.0,87.0,159.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M70 Men 73,JALLU Remy,71.54,35.0,38.0,40.0,47.0,49.0,51.0,40.0,51.0,91.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 73,BIGOT Aurelien,71.74,70.0,-73.0,73.0,93.0,96.0,-100.0,73.0,96.0,169.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M45 Men 109,QUINTIN Cyrille,103.7,70.0,75.0,-80.0,90.0,-0.0,-0.0,75.0,90.0,165.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M50 Men 61,PASCAL Eric,60.32,58.0,61.0,64.0,76.0,-80.0,80.0,64.0,80.0,144.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M55 Men 89,BEZIE Franck,87.02,-82.0,82.0,86.0,100.0,103.0,105.0,86.0,105.0,191.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M55 Men 89,L HERMIER Joel,85.47,67.0,70.0,72.0,83.0,85.0,87.0,72.0,87.0,159.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M70 Men 73,JALLU Remy,71.54,35.0,38.0,40.0,47.0,49.0,51.0,40.0,51.0,91.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W35 Women 59,ZIOINI Sofia,57.3,38.0,40.0,-42.0,55.0,58.0,-60.0,40.0,58.0,98.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W50 Women 55,LYAUDET INABNIT Chrystel,53.26,40.0,43.0,45.0,50.0,53.0,-55.0,45.0,53.0,98.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W35 Women 59,ZIOINI Sofia,57.3,38.0,40.0,-42.0,55.0,58.0,-60.0,40.0,58.0,98.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W50 Women 55,LYAUDET INABNIT Chrystel,53.26,40.0,43.0,45.0,50.0,53.0,-55.0,45.0,53.0,98.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W35 Women 64,JOURNEAUX Stephanie,63.7,38.0,40.0,-43.0,-57.0,57.0,60.0,40.0,60.0,100.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W35 Women 64,ARQUIER Beatrice,63.56,35.0,37.0,-39.0,50.0,-53.0,-53.0,37.0,50.0,87.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W40 Women 76,TERRISSE Emmanuelle,75.53,-56.0,56.0,-59.0,66.0,-68.0,-69.0,56.0,66.0,122.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W35 Women 64,JOURNEAUX Stephanie,63.7,38.0,40.0,-43.0,-57.0,57.0,60.0,40.0,60.0,100.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W35 Women 64,ARQUIER Beatrice,63.56,35.0,37.0,-39.0,50.0,-53.0,-53.0,37.0,50.0,87.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W40 Women 76,TERRISSE Emmanuelle,75.53,-56.0,56.0,-59.0,66.0,-68.0,-69.0,56.0,66.0,122.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 73,BURLA Romain,71.96,-75.0,75.0,-82.0,97.0,-104.0,-105.0,75.0,97.0,172.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 89,ARREDONDO Marc,86.6,92.0,96.0,-101.0,-122.0,-123.0,124.0,96.0,124.0,220.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 96,ROYER SYLVESTRE BRU Carl,94.11,-85.0,-85.0,-85.0,110.0,-120.0,-122.0,0.0,110.0,0.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 73,HARDOUIN Edouard,72.72,75.0,-80.0,-81.0,90.0,95.0,-100.0,75.0,95.0,170.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men >109,LAUGIER Sebastien,112.54,110.0,115.0,-118.0,135.0,140.0,-141.0,115.0,140.0,255.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M60 Men 102,BATTAGLIA Eric,101.0,70.0,-75.0,75.0,80.0,85.0,-88.0,75.0,85.0,160.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M60 Men 109,MANFRIN Igor,102.3,60.0,62.0,64.0,85.0,-88.0,90.0,64.0,90.0,154.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M65 Men 61,PEDROLA Jean marc,60.38,43.0,-46.0,46.0,55.0,60.0,-64.0,46.0,60.0,106.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M65 Men 81,ESPINOLA Manuel,76.22,57.0,64.0,66.0,77.0,80.0,82.0,66.0,82.0,148.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M65 Men 89,KRETTLY Marc-antoine,87.77,62.0,67.0,-72.0,82.0,-88.0,-90.0,67.0,82.0,149.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M70 Men 96,SAVOLDELLI Bruno,93.36,45.0,50.0,-55.0,55.0,60.0,63.0,50.0,63.0,113.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M70 Men 109,BELMAS Jean paul,106.24,50.0,55.0,60.0,70.0,75.0,-80.0,60.0,75.0,135.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M75 Men 102,LEBAILLY Pierre,96.1,45.0,48.0,-51.0,56.0,60.0,64.0,48.0,64.0,112.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 73,BURLA Romain,71.96,-75.0,75.0,-82.0,97.0,-104.0,-105.0,75.0,97.0,172.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 89,ARREDONDO Marc,86.6,92.0,96.0,-101.0,-122.0,-123.0,124.0,96.0,124.0,220.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 96,ROYER SYLVESTRE BRU Carl,94.11,-85.0,-85.0,-85.0,110.0,-120.0,-122.0,0.0,110.0,0.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 73,HARDOUIN Edouard,72.72,75.0,-80.0,-81.0,90.0,95.0,-100.0,75.0,95.0,170.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men >109,LAUGIER Sebastien,112.54,110.0,115.0,-118.0,135.0,140.0,-141.0,115.0,140.0,255.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M60 Men 102,BATTAGLIA Eric,101.0,70.0,-75.0,75.0,80.0,85.0,-88.0,75.0,85.0,160.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M60 Men 109,MANFRIN Igor,102.3,60.0,62.0,64.0,85.0,-88.0,90.0,64.0,90.0,154.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M65 Men 61,PEDROLA Jean marc,60.38,43.0,-46.0,46.0,55.0,60.0,-64.0,46.0,60.0,106.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M65 Men 81,ESPINOLA Manuel,76.22,57.0,64.0,66.0,77.0,80.0,82.0,66.0,82.0,148.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M65 Men 89,KRETTLY Marc-antoine,87.77,62.0,67.0,-72.0,82.0,-88.0,-90.0,67.0,82.0,149.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M70 Men 96,SAVOLDELLI Bruno,93.36,45.0,50.0,-55.0,55.0,60.0,63.0,50.0,63.0,113.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M70 Men 109,BELMAS Jean paul,106.24,50.0,55.0,60.0,70.0,75.0,-80.0,60.0,75.0,135.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M75 Men 102,LEBAILLY Pierre,96.1,45.0,48.0,-51.0,56.0,60.0,64.0,48.0,64.0,112.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 67,VAILLOUD Fabien,67.0,80.0,85.0,-90.0,100.0,105.0,108.0,85.0,108.0,193.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 73,RUSSEIL Jeremy,72.14,-89.0,90.0,-95.0,105.0,-110.0,110.0,90.0,110.0,200.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 102,DITHURBIDE Johnny,97.96,90.0,-100.0,100.0,114.0,-120.0,120.0,100.0,120.0,220.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 102,COUTURIER Fabien,97.19,98.0,-101.0,-101.0,115.0,-117.0,-120.0,98.0,115.0,213.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 61,ROQUIER Cédric,60.32,-57.0,57.0,60.0,78.0,82.0,86.0,60.0,86.0,146.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 81,VEZZU Arnaud,80.27,75.0,78.0,80.0,105.0,-110.0,110.0,80.0,110.0,190.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M45 Men 89,PRADA PRADA Jonathan,81.23,80.0,85.0,-87.0,95.0,100.0,-103.0,85.0,100.0,185.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M45 Men 102,CANTUEL Sebastien,97.6,-90.0,90.0,-95.0,110.0,117.0,122.0,90.0,122.0,212.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M50 Men 73,BUSQUES Emmanuel,72.78,80.0,86.0,91.0,-101.0,102.0,-111.0,91.0,102.0,193.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M50 Men 96,BAILLET Jerome,93.36,-98.0,98.0,102.0,122.0,-127.0,128.0,102.0,128.0,230.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M55 Men 67,KENZARI Rachid,66.07,65.0,70.0,75.0,85.0,90.0,95.0,75.0,95.0,170.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M55 Men 89,LYAUDET Patrick,85.83,61.0,64.0,66.0,80.0,-84.0,-84.0,66.0,80.0,146.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M60 Men 55,LARGET Charles,54.2,45.0,50.0,-55.0,55.0,60.0,-65.0,50.0,60.0,110.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M65 Men 67,BELLI Alain,66.36,53.0,60.0,63.0,75.0,80.0,85.0,63.0,85.0,148.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M65 Men 89,DEMON Pascal,86.39,50.0,55.0,-58.0,65.0,70.0,-75.0,55.0,70.0,125.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M70 Men 73,CALLE Francois,71.2,50.0,55.0,-60.0,60.0,65.0,-70.0,55.0,65.0,120.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M70 Men 89,DURGUERIAN Sarkis,87.0,62.0,65.0,68.0,78.0,82.0,85.0,68.0,85.0,153.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M70 Men 89,DEMON Gilles,84.98,35.0,40.0,-0.0,40.0,47.0,-63.0,40.0,47.0,87.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M80 Men 61,HACHERELLE Michel,60.38,28.0,30.0,32.0,45.0,50.0,55.0,32.0,55.0,87.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M85 Men 96,LENZI Pierre,95.41,30.0,-35.0,-35.0,38.0,42.0,45.0,30.0,45.0,75.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 67,VAILLOUD Fabien,67.0,80.0,85.0,-90.0,100.0,105.0,108.0,85.0,108.0,193.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 73,RUSSEIL Jeremy,72.14,-89.0,90.0,-95.0,105.0,-110.0,110.0,90.0,110.0,200.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 102,DITHURBIDE Johnny,97.96,90.0,-100.0,100.0,114.0,-120.0,120.0,100.0,120.0,220.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 102,COUTURIER Fabien,97.19,98.0,-101.0,-101.0,115.0,-117.0,-120.0,98.0,115.0,213.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 61,ROQUIER Cédric,60.32,-57.0,57.0,60.0,78.0,82.0,86.0,60.0,86.0,146.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 81,VEZZU Arnaud,80.27,75.0,78.0,80.0,105.0,-110.0,110.0,80.0,110.0,190.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M45 Men 89,PRADA PRADA Jonathan,81.23,80.0,85.0,-87.0,95.0,100.0,-103.0,85.0,100.0,185.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M45 Men 102,CANTUEL Sebastien,97.6,-90.0,90.0,-95.0,110.0,117.0,122.0,90.0,122.0,212.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M50 Men 73,BUSQUES Emmanuel,72.78,80.0,86.0,91.0,-101.0,102.0,-111.0,91.0,102.0,193.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M50 Men 96,BAILLET Jerome,93.36,-98.0,98.0,102.0,122.0,-127.0,128.0,102.0,128.0,230.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M55 Men 67,KENZARI Rachid,66.07,65.0,70.0,75.0,85.0,90.0,95.0,75.0,95.0,170.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M55 Men 89,LYAUDET Patrick,85.83,61.0,64.0,66.0,80.0,-84.0,-84.0,66.0,80.0,146.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M60 Men 55,LARGET Charles,54.2,45.0,50.0,-55.0,55.0,60.0,-65.0,50.0,60.0,110.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M65 Men 67,BELLI Alain,66.36,53.0,60.0,63.0,75.0,80.0,85.0,63.0,85.0,148.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M65 Men 89,DEMON Pascal,86.39,50.0,55.0,-58.0,65.0,70.0,-75.0,55.0,70.0,125.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M70 Men 73,CALLE Francois,71.2,50.0,55.0,-60.0,60.0,65.0,-70.0,55.0,65.0,120.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M70 Men 89,DURGUERIAN Sarkis,87.0,62.0,65.0,68.0,78.0,82.0,85.0,68.0,85.0,153.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M70 Men 89,DEMON Gilles,84.98,35.0,40.0,-0.0,40.0,47.0,-63.0,40.0,47.0,87.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M80 Men 61,HACHERELLE Michel,60.38,28.0,30.0,32.0,45.0,50.0,55.0,32.0,55.0,87.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M85 Men 96,LENZI Pierre,95.41,30.0,-35.0,-35.0,38.0,42.0,45.0,30.0,45.0,75.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W35 Women 81,DAVESNE Dorothee,80.82,53.0,57.0,-61.0,60.0,66.0,70.0,57.0,70.0,127.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W40 Women 59,BRULE Fanny,58.2,42.0,45.0,48.0,55.0,60.0,63.0,48.0,63.0,111.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W40 Women 59,VAN CLEEF Anne,57.76,38.0,40.0,42.0,50.0,-52.0,53.0,42.0,53.0,95.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W40 Women 64,LANOY Laetitia,62.1,58.0,61.0,-64.0,-68.0,68.0,73.0,61.0,73.0,134.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W40 Women >87,MARDON Juliana,100.64,45.0,-50.0,51.0,55.0,60.0,-65.0,51.0,60.0,111.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W50 Women 59,KOCSIS Anita,55.74,31.0,34.0,-36.0,43.0,46.0,48.0,34.0,48.0,82.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W50 Women 71,BOUAOUD Dalila,67.64,31.0,33.0,-36.0,-47.0,47.0,50.0,33.0,50.0,83.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W50 Women 81,CHEVALLIER Celia,78.0,40.0,43.0,46.0,45.0,50.0,55.0,46.0,55.0,101.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W65 Women 76,SAUGOUT Noelle,72.74,22.0,25.0,-27.0,33.0,35.0,37.0,25.0,37.0,62.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W35 Women 81,DAVESNE Dorothee,80.82,53.0,57.0,-61.0,60.0,66.0,70.0,57.0,70.0,127.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W40 Women 59,BRULE Fanny,58.2,42.0,45.0,48.0,55.0,60.0,63.0,48.0,63.0,111.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W40 Women 59,VAN CLEEF Anne,57.76,38.0,40.0,42.0,50.0,-52.0,53.0,42.0,53.0,95.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W40 Women 64,LANOY Laetitia,62.1,58.0,61.0,-64.0,-68.0,68.0,73.0,61.0,73.0,134.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W40 Women >87,MARDON Juliana,100.64,45.0,-50.0,51.0,55.0,60.0,-65.0,51.0,60.0,111.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W50 Women 59,KOCSIS Anita,55.74,31.0,34.0,-36.0,43.0,46.0,48.0,34.0,48.0,82.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W50 Women 71,BOUAOUD Dalila,67.64,31.0,33.0,-36.0,-47.0,47.0,50.0,33.0,50.0,83.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W50 Women 81,CHEVALLIER Celia,78.0,40.0,43.0,46.0,45.0,50.0,55.0,46.0,55.0,101.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W65 Women 76,SAUGOUT Noelle,72.74,22.0,25.0,-27.0,33.0,35.0,37.0,25.0,37.0,62.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 67,CAESEMAEKER Kevin,65.82,105.0,110.0,115.0,130.0,-140.0,-140.0,115.0,130.0,245.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 89,NOTTELET Luc,88.5,90.0,95.0,-100.0,120.0,126.0,130.0,95.0,130.0,225.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 96,MONIER Bruno,94.56,105.0,112.0,117.0,130.0,137.0,143.0,117.0,143.0,260.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 96,COMMONT Benoit,91.38,97.0,101.0,-105.0,127.0,132.0,135.0,101.0,135.0,236.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 73,FONTENELLE Ludovic,70.5,80.0,85.0,90.0,95.0,102.0,107.0,90.0,107.0,197.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 73,RIQUIER Daniel,72.58,74.0,78.0,81.0,92.0,95.0,-100.0,81.0,95.0,176.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 81,RIQUIER Laurent,77.09,-97.0,100.0,-0.0,110.0,-0.0,-0.0,100.0,110.0,210.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 96,FONTENELLE Vincent,95.15,120.0,125.0,-128.0,155.0,162.0,-165.0,125.0,162.0,287.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M45 Men 89,REMOND David,86.9,92.0,97.0,-101.0,121.0,125.0,131.0,97.0,131.0,228.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M45 Men 96,ROGER Jerome,89.5,85.0,90.0,-95.0,111.0,115.0,118.0,90.0,118.0,208.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M45 Men 102,LE GONIDEC Eddy,100.5,-85.0,85.0,90.0,110.0,116.0,-121.0,90.0,116.0,206.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M45 Men >109,ALARD Jimmy,124.22,80.0,90.0,100.0,110.0,125.0,135.0,100.0,135.0,235.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M50 Men 81,MOITIE Christophe,79.36,98.0,100.0,102.0,122.0,-125.0,-126.0,102.0,122.0,224.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M50 Men 81,LECOINTRE Stephane,79.52,76.0,-80.0,-80.0,90.0,95.0,100.0,76.0,100.0,176.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M50 Men 89,HELENA Christophe,85.38,74.0,79.0,81.0,95.0,100.0,105.0,81.0,105.0,186.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M50 Men 96,DESTRAZ Christophe,94.54,95.0,99.0,-101.0,120.0,132.0,-0.0,99.0,132.0,231.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M50 Men >109,DUBOURDIEU Gerald,126.86,70.0,75.0,-78.0,100.0,107.0,-0.0,75.0,107.0,182.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M55 Men 81,DUMEIGE Christophe,76.7,55.0,59.0,62.0,80.0,-88.0,-94.0,62.0,80.0,142.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M55 Men 89,ATATRI El houssane,82.45,60.0,67.0,-72.0,77.0,-82.0,-82.0,67.0,77.0,144.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M60 Men 81,CHARLES Roger,77.34,55.0,60.0,-65.0,75.0,-80.0,-80.0,60.0,75.0,135.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M65 Men 89,POUILLAUDE Dominique,87.61,50.0,53.0,56.0,-73.0,73.0,78.0,56.0,78.0,134.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M70 Men 89,LEHAQUE Herve,81.9,40.0,43.0,-46.0,54.0,59.0,61.0,43.0,61.0,104.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 67,CAESEMAEKER Kevin,65.82,105.0,110.0,115.0,130.0,-140.0,-140.0,115.0,130.0,245.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 89,NOTTELET Luc,88.5,90.0,95.0,-100.0,120.0,126.0,130.0,95.0,130.0,225.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 96,MONIER Bruno,94.56,105.0,112.0,117.0,130.0,137.0,143.0,117.0,143.0,260.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 96,COMMONT Benoit,91.38,97.0,101.0,-105.0,127.0,132.0,135.0,101.0,135.0,236.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 73,FONTENELLE Ludovic,70.5,80.0,85.0,90.0,95.0,102.0,107.0,90.0,107.0,197.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 73,RIQUIER Daniel,72.58,74.0,78.0,81.0,92.0,95.0,-100.0,81.0,95.0,176.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 81,RIQUIER Laurent,77.09,-97.0,100.0,-0.0,110.0,-0.0,-0.0,100.0,110.0,210.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 96,FONTENELLE Vincent,95.15,120.0,125.0,-128.0,155.0,162.0,-165.0,125.0,162.0,287.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M45 Men 89,REMOND David,86.9,92.0,97.0,-101.0,121.0,125.0,131.0,97.0,131.0,228.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M45 Men 96,ROGER Jerome,89.5,85.0,90.0,-95.0,111.0,115.0,118.0,90.0,118.0,208.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M45 Men 102,LE GONIDEC Eddy,100.5,-85.0,85.0,90.0,110.0,116.0,-121.0,90.0,116.0,206.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M45 Men >109,ALARD Jimmy,124.22,80.0,90.0,100.0,110.0,125.0,135.0,100.0,135.0,235.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M50 Men 81,MOITIE Christophe,79.36,98.0,100.0,102.0,122.0,-125.0,-126.0,102.0,122.0,224.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M50 Men 81,LECOINTRE Stephane,79.52,76.0,-80.0,-80.0,90.0,95.0,100.0,76.0,100.0,176.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M50 Men 89,HELENA Christophe,85.38,74.0,79.0,81.0,95.0,100.0,105.0,81.0,105.0,186.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M50 Men 96,DESTRAZ Christophe,94.54,95.0,99.0,-101.0,120.0,132.0,-0.0,99.0,132.0,231.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M50 Men >109,DUBOURDIEU Gerald,126.86,70.0,75.0,-78.0,100.0,107.0,-0.0,75.0,107.0,182.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M55 Men 81,DUMEIGE Christophe,76.7,55.0,59.0,62.0,80.0,-88.0,-94.0,62.0,80.0,142.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M55 Men 89,ATATRI El houssane,82.45,60.0,67.0,-72.0,77.0,-82.0,-82.0,67.0,77.0,144.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M60 Men 81,CHARLES Roger,77.34,55.0,60.0,-65.0,75.0,-80.0,-80.0,60.0,75.0,135.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M65 Men 89,POUILLAUDE Dominique,87.61,50.0,53.0,56.0,-73.0,73.0,78.0,56.0,78.0,134.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M70 Men 89,LEHAQUE Herve,81.9,40.0,43.0,-46.0,54.0,59.0,61.0,43.0,61.0,104.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W35 Women 59,LE Aurélie,56.26,54.0,57.0,-60.0,68.0,71.0,-74.0,57.0,71.0,128.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W35 Women 64,YOUSSOUF Halima,62.86,35.0,-40.0,40.0,50.0,60.0,-65.0,40.0,60.0,100.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W35 Women 71,MBOULE Clarisse,69.72,45.0,48.0,50.0,60.0,63.0,-66.0,50.0,63.0,113.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W35 Women 87,DRENO Eva marie,85.16,63.0,66.0,69.0,81.0,-85.0,-88.0,69.0,81.0,150.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W35 Women >87,DE CAMPOS Judith,93.92,-55.0,-55.0,55.0,65.0,-70.0,-73.0,55.0,65.0,120.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W40 Women 55,BEREZAY Sophia,53.72,45.0,47.0,-49.0,63.0,68.0,-70.0,47.0,68.0,115.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W40 Women 59,AUSSEL Frederique,57.0,43.0,45.0,-47.0,52.0,54.0,-56.0,45.0,54.0,99.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W40 Women 64,DELACHAT Mathilde,63.35,58.0,61.0,-63.0,72.0,75.0,78.0,61.0,78.0,139.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W40 Women 64,EBERENA Sylvie,59.2,-50.0,-50.0,-50.0,-65.0,-65.0,65.0,0.0,65.0,0.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W40 Women 71,BOUKERROU Pascale,68.52,69.0,72.0,74.0,87.0,90.0,93.0,74.0,93.0,167.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W40 Women 71,LARADE Juliana,64.95,50.0,55.0,-58.0,62.0,67.0,-71.0,55.0,67.0,122.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W40 Women 76,PRIM Melanie,71.44,-52.0,53.0,55.0,63.0,66.0,-70.0,55.0,66.0,121.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W40 Women 76,NECHITA Flavia,74.99,48.0,52.0,-55.0,63.0,-0.0,-0.0,52.0,63.0,115.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W40 Women 81,LE VIENNESSE Marjorie,76.46,52.0,-56.0,-56.0,65.0,69.0,-73.0,52.0,69.0,121.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W45 Women 55,PICOD Aurelia,54.06,28.0,31.0,-32.0,38.0,41.0,42.0,31.0,42.0,73.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W45 Women 64,LEMOINE Jennifer,63.6,40.0,45.0,-48.0,50.0,55.0,-60.0,45.0,55.0,100.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W50 Women 59,BOURGEOIS Chantale,57.58,40.0,43.0,45.0,56.0,61.0,66.0,45.0,66.0,111.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W50 Women 59,CALMES Valerie,58.12,31.0,-33.0,35.0,42.0,44.0,-45.0,35.0,44.0,79.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W35 Women 59,LE Aurélie,56.26,54.0,57.0,-60.0,68.0,71.0,-74.0,57.0,71.0,128.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W35 Women 64,YOUSSOUF Halima,62.86,35.0,-40.0,40.0,50.0,60.0,-65.0,40.0,60.0,100.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W35 Women 71,MBOULE Clarisse,69.72,45.0,48.0,50.0,60.0,63.0,-66.0,50.0,63.0,113.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W35 Women 87,DRENO Eva marie,85.16,63.0,66.0,69.0,81.0,-85.0,-88.0,69.0,81.0,150.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W35 Women >87,DE CAMPOS Judith,93.92,-55.0,-55.0,55.0,65.0,-70.0,-73.0,55.0,65.0,120.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W40 Women 55,BEREZAY Sophia,53.72,45.0,47.0,-49.0,63.0,68.0,-70.0,47.0,68.0,115.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W40 Women 59,AUSSEL Frederique,57.0,43.0,45.0,-47.0,52.0,54.0,-56.0,45.0,54.0,99.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W40 Women 64,DELACHAT Mathilde,63.35,58.0,61.0,-63.0,72.0,75.0,78.0,61.0,78.0,139.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W40 Women 64,EBERENA Sylvie,59.2,-50.0,-50.0,-50.0,-65.0,-65.0,65.0,0.0,65.0,0.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W40 Women 71,BOUKERROU Pascale,68.52,69.0,72.0,74.0,87.0,90.0,93.0,74.0,93.0,167.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W40 Women 71,LARADE Juliana,64.95,50.0,55.0,-58.0,62.0,67.0,-71.0,55.0,67.0,122.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W40 Women 76,PRIM Melanie,71.44,-52.0,53.0,55.0,63.0,66.0,-70.0,55.0,66.0,121.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W40 Women 76,NECHITA Flavia,74.99,48.0,52.0,-55.0,63.0,-0.0,-0.0,52.0,63.0,115.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W40 Women 81,LE VIENNESSE Marjorie,76.46,52.0,-56.0,-56.0,65.0,69.0,-73.0,52.0,69.0,121.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W45 Women 55,PICOD Aurelia,54.06,28.0,31.0,-32.0,38.0,41.0,42.0,31.0,42.0,73.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W45 Women 64,LEMOINE Jennifer,63.6,40.0,45.0,-48.0,50.0,55.0,-60.0,45.0,55.0,100.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W50 Women 59,BOURGEOIS Chantale,57.58,40.0,43.0,45.0,56.0,61.0,66.0,45.0,66.0,111.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,W50 Women 59,CALMES Valerie,58.12,31.0,-33.0,35.0,42.0,44.0,-45.0,35.0,44.0,79.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 73,OLLIVIER Frederic,72.0,90.0,95.0,-97.0,113.0,-118.0,118.0,95.0,118.0,213.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 81,DEMEULEMEESTER Gregory,80.78,107.0,-112.0,112.0,138.0,142.0,145.0,112.0,145.0,257.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 81,CAUPENNE Benjamin,79.92,103.0,107.0,110.0,-136.0,136.0,145.0,110.0,145.0,255.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 81,CHANE KUNE Guillaume,80.46,95.0,100.0,-105.0,113.0,-119.0,-119.0,100.0,113.0,213.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 81,COTTEREAU Eric,76.54,87.0,91.0,-95.0,113.0,118.0,-121.0,91.0,118.0,209.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 81,COMTE Nicolas,80.32,-108.0,-108.0,-108.0,-130.0,130.0,-136.0,0.0,130.0,0.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 89,DAVID Bastien,83.56,95.0,-99.0,99.0,120.0,127.0,-131.0,99.0,127.0,226.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 89,FORBACH Morgan,87.92,90.0,-95.0,-95.0,-115.0,115.0,120.0,90.0,120.0,210.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 102,BIDELOGNE Didier,96.82,-95.0,95.0,100.0,-115.0,115.0,-120.0,100.0,115.0,215.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 61,RASCLE David,59.1,76.0,79.0,-82.0,90.0,-96.0,-98.0,79.0,90.0,169.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 73,KITAMURA Kiyotake,72.5,76.0,-79.0,79.0,88.0,93.0,-97.0,79.0,93.0,172.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 73,JAFFAR Hussein,72.36,72.0,-76.0,-78.0,87.0,-90.0,90.0,72.0,90.0,162.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 81,BESNARD Cristophe,77.56,105.0,110.0,-120.0,130.0,135.0,143.0,110.0,143.0,253.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 81,BRET Xan,79.9,95.0,-100.0,-100.0,-102.0,103.0,-106.0,95.0,103.0,198.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 89,JUMEL Christophe,86.49,93.0,-100.0,100.0,105.0,-110.0,115.0,100.0,115.0,215.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 96,CHALI Christophe,94.55,90.0,100.0,-106.0,105.0,-115.0,-115.0,100.0,105.0,205.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men >109,KAMDEM Vassili,116.4,94.0,98.0,-101.0,-125.0,127.0,131.0,98.0,131.0,229.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M45 Men 81,HESHMATI Sohrab,80.23,92.0,97.0,-100.0,115.0,120.0,-125.0,97.0,120.0,217.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M45 Men 81,LE VIENNESSE Stephane,79.45,90.0,-95.0,-95.0,110.0,-115.0,-123.0,90.0,110.0,200.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M50 Men 96,MORO Wilfrid,91.96,80.0,86.0,90.0,100.0,-110.0,-110.0,90.0,100.0,190.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M55 Men 73,AIECH Claude,71.96,70.0,75.0,-80.0,-90.0,90.0,-95.0,75.0,90.0,165.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M55 Men 89,COLIN Bruno,88.38,74.0,76.0,78.0,98.0,-108.0,110.0,78.0,110.0,188.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M60 Men 73,RODET Philippe,68.4,48.0,51.0,53.0,65.0,-68.0,-68.0,53.0,65.0,118.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M60 Men 89,GAY Christophe,87.28,65.0,70.0,75.0,85.0,90.0,95.0,75.0,95.0,170.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M65 Men 89,HENRIQUES Jose,87.08,51.0,-54.0,-54.0,70.0,75.0,-79.0,51.0,75.0,126.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 73,OLLIVIER Frederic,72.0,90.0,95.0,-97.0,113.0,-118.0,118.0,95.0,118.0,213.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 81,DEMEULEMEESTER Gregory,80.78,107.0,-112.0,112.0,138.0,142.0,145.0,112.0,145.0,257.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 81,CAUPENNE Benjamin,79.92,103.0,107.0,110.0,-136.0,136.0,145.0,110.0,145.0,255.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 81,CHANE KUNE Guillaume,80.46,95.0,100.0,-105.0,113.0,-119.0,-119.0,100.0,113.0,213.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 81,COTTEREAU Eric,76.54,87.0,91.0,-95.0,113.0,118.0,-121.0,91.0,118.0,209.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 81,COMTE Nicolas,80.32,-108.0,-108.0,-108.0,-130.0,130.0,-136.0,0.0,130.0,0.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 89,DAVID Bastien,83.56,95.0,-99.0,99.0,120.0,127.0,-131.0,99.0,127.0,226.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 89,FORBACH Morgan,87.92,90.0,-95.0,-95.0,-115.0,115.0,120.0,90.0,120.0,210.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M35 Men 102,BIDELOGNE Didier,96.82,-95.0,95.0,100.0,-115.0,115.0,-120.0,100.0,115.0,215.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 61,RASCLE David,59.1,76.0,79.0,-82.0,90.0,-96.0,-98.0,79.0,90.0,169.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 73,KITAMURA Kiyotake,72.5,76.0,-79.0,79.0,88.0,93.0,-97.0,79.0,93.0,172.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 73,JAFFAR Hussein,72.36,72.0,-76.0,-78.0,87.0,-90.0,90.0,72.0,90.0,162.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 81,BESNARD Cristophe,77.56,105.0,110.0,-120.0,130.0,135.0,143.0,110.0,143.0,253.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 81,BRET Xan,79.9,95.0,-100.0,-100.0,-102.0,103.0,-106.0,95.0,103.0,198.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 89,JUMEL Christophe,86.49,93.0,-100.0,100.0,105.0,-110.0,115.0,100.0,115.0,215.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men 96,CHALI Christophe,94.55,90.0,100.0,-106.0,105.0,-115.0,-115.0,100.0,105.0,205.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M40 Men >109,KAMDEM Vassili,116.4,94.0,98.0,-101.0,-125.0,127.0,131.0,98.0,131.0,229.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M45 Men 81,HESHMATI Sohrab,80.23,92.0,97.0,-100.0,115.0,120.0,-125.0,97.0,120.0,217.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M45 Men 81,LE VIENNESSE Stephane,79.45,90.0,-95.0,-95.0,110.0,-115.0,-123.0,90.0,110.0,200.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M50 Men 96,MORO Wilfrid,91.96,80.0,86.0,90.0,100.0,-110.0,-110.0,90.0,100.0,190.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M55 Men 73,AIECH Claude,71.96,70.0,75.0,-80.0,-90.0,90.0,-95.0,75.0,90.0,165.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M55 Men 89,COLIN Bruno,88.38,74.0,76.0,78.0,98.0,-108.0,110.0,78.0,110.0,188.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M60 Men 73,RODET Philippe,68.4,48.0,51.0,53.0,65.0,-68.0,-68.0,53.0,65.0,118.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M60 Men 89,GAY Christophe,87.28,65.0,70.0,75.0,85.0,90.0,95.0,75.0,95.0,170.0
+NAQ - autre - Comines - Chpt France Masters,2022-04-16,M65 Men 89,HENRIQUES Jose,87.08,51.0,-54.0,-54.0,70.0,75.0,-79.0,51.0,75.0,126.0

@@ -1,5 +1,56 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-CVL - 1er Challenge Avenir CD45 - Hommes,2021-11-06,U17 Men 55,FAURE BIGNOLAS Guerric,53.4,25.0,28.0,30.0,35.0,38.0,40.0,30.0,40.0,70.0
-CVL - 1er Challenge Avenir CD45 - Hommes,2021-11-06,SEN Men 67,PERARD Allan,66.4,52.0,56.0,60.0,80.0,85.0,90.0,60.0,90.0,150.0
-CVL - 1er Challenge Avenir CD45 - Hommes,2021-11-06,SEN Men 73,COELHO Quentin,71.0,60.0,67.0,70.0,80.0,83.0,86.0,70.0,86.0,156.0
-CVL - 1er Challenge Avenir CD45 - Hommes,2021-11-06,SEN Men 81,ROUGE Cedrick,74.9,47.0,50.0,55.0,65.0,68.0,71.0,55.0,71.0,126.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,U15 Men 49,FLECHAUD Mateo,45.6,20.0,22.0,25.0,25.0,28.0,-31.0,25.0,28.0,53.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,U20 Men 89,MUSSARD Raphael,81.2,80.0,87.0,92.0,105.0,112.0,120.0,92.0,120.0,212.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Men 73,LEFEVRE Jérome,72.8,100.0,108.0,-112.0,120.0,-125.0,125.0,108.0,125.0,233.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Men 73,GRAFFION Romain,73.0,80.0,-87.0,88.0,100.0,-108.0,-110.0,88.0,100.0,188.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Men 73,GRONDIN Alan-théo,67.4,40.0,45.0,50.0,50.0,55.0,-60.0,50.0,55.0,105.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Men 81,OMAR Julien,79.8,95.0,-105.0,105.0,120.0,130.0,-140.0,105.0,130.0,235.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Men 81,CORREIA Tony,79.8,-78.0,81.0,85.0,100.0,105.0,-108.0,85.0,105.0,190.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Men 81,JEAN MARIE Franck,74.4,70.0,75.0,-78.0,90.0,-97.0,97.0,75.0,97.0,172.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Men 81,JACQUES Corentin,79.6,60.0,63.0,65.0,75.0,-78.0,81.0,65.0,81.0,146.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Men 89,MUSSARD Nicolas  florent,86.4,100.0,-108.0,-108.0,125.0,130.0,135.0,100.0,135.0,235.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Men 89,HOOLANS Charly,85.4,-100.0,100.0,-108.0,120.0,-130.0,-130.0,100.0,120.0,220.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Men 89,LEDEZ Hugo,86.8,85.0,-88.0,90.0,115.0,120.0,-125.0,90.0,120.0,210.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Men 89,MAILLOT Sebastien,83.5,85.0,88.0,91.0,-100.0,100.0,110.0,91.0,110.0,201.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Men 89,WAN-HOI Stephan,82.1,80.0,84.0,-87.0,-100.0,100.0,105.0,84.0,105.0,189.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Men 89,HOAREAU Patrice,87.5,78.0,-81.0,81.0,95.0,100.0,103.0,81.0,103.0,184.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,U15 Women 81,BONMALAIS Rose,78.0,45.0,48.0,51.0,55.0,58.0,-60.0,51.0,58.0,109.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,U17 Women 64,BOROWIAK Julia,60.6,45.0,47.0,-50.0,53.0,-57.0,57.0,47.0,57.0,104.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,U20 Women 71,METRO Isabelle,69.3,25.0,30.0,35.0,35.0,40.0,45.0,35.0,45.0,80.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,U20 Women 71,PAYET Orlane,64.3,22.0,-24.0,24.0,31.0,34.0,-37.0,24.0,34.0,58.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,U20 Women 87,LEBON Leane,83.2,41.0,44.0,46.0,54.0,56.0,-59.0,46.0,56.0,102.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Women 55,BONNEMER Hermine,54.5,37.0,40.0,42.0,50.0,-54.0,56.0,42.0,56.0,98.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Women 55,JEANNIN Sophie,53.9,-36.0,-37.0,37.0,46.0,-50.0,51.0,37.0,51.0,88.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Women 59,LAURET Noémie,58.7,55.0,-58.0,60.0,-66.0,66.0,70.0,60.0,70.0,130.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Women 59,TORNEY Constance,59.0,44.0,47.0,-50.0,65.0,68.0,70.0,47.0,70.0,117.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Women 59,LÉPINAY Marie amélie,58.8,-48.0,-48.0,48.0,-55.0,55.0,60.0,48.0,60.0,108.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Women 59,AROUMOUGOM Bruna,57.8,42.0,45.0,47.0,52.0,54.0,-56.0,47.0,54.0,101.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Women 59,PAYET Graziella,57.3,35.0,38.0,-41.0,45.0,-48.0,50.0,38.0,50.0,88.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Women 64,BINETRUY Camille,60.8,63.0,-66.0,66.0,75.0,-78.0,78.0,66.0,78.0,144.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Women 64,RAZAKARIA Glena,60.6,50.0,-53.0,53.0,65.0,70.0,75.0,53.0,75.0,128.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Women 64,BENSE Pauline,63.9,35.0,38.0,41.0,50.0,-55.0,57.0,41.0,57.0,98.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Women 71,BAISSE Chloé,67.3,50.0,53.0,-56.0,62.0,-65.0,-66.0,53.0,62.0,115.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Women 71,NIVY Julie,69.1,45.0,48.0,-51.0,56.0,-60.0,60.0,48.0,60.0,108.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Women 81,LEIBUNDGUTH Lisa,81.0,68.0,71.0,73.0,90.0,-94.0,-94.0,73.0,90.0,163.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Women 81,PROUET Caroline,76.1,68.0,71.0,73.0,88.0,90.0,-92.0,73.0,90.0,163.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Women >87,DESTINE Germilda,95.6,33.0,35.0,37.0,50.0,55.0,58.0,37.0,58.0,95.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,U15 Women 81,BONMALAIS Rose,78.0,45.0,48.0,51.0,55.0,58.0,-60.0,51.0,58.0,109.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,U17 Women 64,BOROWIAK Julia,60.6,45.0,47.0,-50.0,53.0,-57.0,57.0,47.0,57.0,104.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,U20 Women 71,METRO Isabelle,69.3,25.0,30.0,35.0,35.0,40.0,45.0,35.0,45.0,80.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,U20 Women 71,PAYET Orlane,64.3,22.0,-24.0,24.0,31.0,34.0,-37.0,24.0,34.0,58.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,U20 Women 87,LEBON Leane,83.2,41.0,44.0,46.0,54.0,56.0,-59.0,46.0,56.0,102.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Women 55,BONNEMER Hermine,54.5,37.0,40.0,42.0,50.0,-54.0,56.0,42.0,56.0,98.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Women 55,JEANNIN Sophie,53.9,-36.0,-37.0,37.0,46.0,-50.0,51.0,37.0,51.0,88.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Women 59,LAURET Noémie,58.7,55.0,-58.0,60.0,-66.0,66.0,70.0,60.0,70.0,130.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Women 59,TORNEY Constance,59.0,44.0,47.0,-50.0,65.0,68.0,70.0,47.0,70.0,117.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Women 59,LÉPINAY Marie amélie,58.8,-48.0,-48.0,48.0,-55.0,55.0,60.0,48.0,60.0,108.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Women 59,AROUMOUGOM Bruna,57.8,42.0,45.0,47.0,52.0,54.0,-56.0,47.0,54.0,101.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Women 59,PAYET Graziella,57.3,35.0,38.0,-41.0,45.0,-48.0,50.0,38.0,50.0,88.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Women 64,BINETRUY Camille,60.8,63.0,-66.0,66.0,75.0,-78.0,78.0,66.0,78.0,144.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Women 64,RAZAKARIA Glena,60.6,50.0,-53.0,53.0,65.0,70.0,75.0,53.0,75.0,128.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Women 64,BENSE Pauline,63.9,35.0,38.0,41.0,50.0,-55.0,57.0,41.0,57.0,98.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Women 71,BAISSE Chloé,67.3,50.0,53.0,-56.0,62.0,-65.0,-66.0,53.0,62.0,115.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Women 71,NIVY Julie,69.1,45.0,48.0,-51.0,56.0,-60.0,60.0,48.0,60.0,108.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Women 81,LEIBUNDGUTH Lisa,81.0,68.0,71.0,73.0,90.0,-94.0,-94.0,73.0,90.0,163.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Women 81,PROUET Caroline,76.1,68.0,71.0,73.0,88.0,90.0,-92.0,73.0,90.0,163.0
+Championnat régional équipe HOMME - 1ere journée,2023-10-21,SEN Women >87,DESTINE Germilda,95.6,33.0,35.0,37.0,50.0,55.0,58.0,37.0,58.0,95.0

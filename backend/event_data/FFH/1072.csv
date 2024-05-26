@@ -1,8 +1,139 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-NDIE - Challenge avenir,2021-07-03,U20 Men 73,HUBERT Titouan,72.7,60.0,65.0,-70.0,75.0,80.0,85.0,65.0,85.0,150.0
-NDIE - Challenge avenir,2021-07-03,SEN Men 55,CHAPRON Jean-francois,54.7,42.0,45.0,47.0,52.0,55.0,57.0,47.0,57.0,104.0
-NDIE - Challenge avenir,2021-07-03,SEN Men 73,MANSON-BAZEILLE Quentin,69.0,55.0,58.0,60.0,70.0,74.0,76.0,60.0,76.0,136.0
-NDIE - Challenge avenir,2021-07-03,SEN Men 81,FAUNY Sebastien,78.7,74.0,-78.0,-78.0,85.0,92.0,98.0,74.0,98.0,172.0
-NDIE - Challenge avenir,2021-07-03,SEN Men 89,BLONDEL Manu,87.5,68.0,72.0,-75.0,95.0,-102.0,-102.0,72.0,95.0,167.0
-NDIE - Challenge avenir,2021-07-03,SEN Men 89,BETH Sébastien,84.4,50.0,55.0,58.0,70.0,-75.0,-75.0,58.0,70.0,128.0
-NDIE - Challenge avenir,2021-07-03,SEN Men 96,SOUSA Jose,95.5,70.0,74.0,-77.0,-90.0,90.0,-98.0,74.0,90.0,164.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U10 Men ,ZEKANOWSKI Martin,36.75,12.0,14.0,15.0,16.0,18.0,20.0,15.0,20.0,35.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U10 Men ,MARQUES Fabio,60.15,8.0,10.0,12.0,12.0,14.0,16.0,12.0,16.0,28.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U13 Men 35,THOMAS Briac,33.66,21.0,23.0,25.0,27.0,29.0,31.0,25.0,31.0,56.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U13 Men 61,KLOCK Janis,55.4,30.0,32.0,34.0,40.0,41.0,-42.0,34.0,41.0,75.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U13 Men 61,TUGEND Timeo,60.4,26.0,28.0,29.0,40.0,42.0,-44.0,29.0,42.0,71.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U10 Women ,DENESSINE Khelyia,36.59,5.0,6.0,7.0,7.0,9.0,10.0,7.0,10.0,17.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U17 Men 81,GARZANDAT Mattéo,74.6,50.0,-55.0,-55.0,65.0,70.0,-75.0,50.0,70.0,120.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Women 64,ROGER Pauline,62.2,43.0,48.0,-53.0,57.0,-60.0,60.0,48.0,60.0,108.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Women 64,PEROINE Nina,62.2,29.0,32.0,-35.0,40.0,43.0,46.0,32.0,46.0,78.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Women 76,VEILLER Julie,73.1,43.0,-48.0,-48.0,55.0,60.0,65.0,43.0,65.0,108.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U17 Men 81,GARZANDAT Mattéo,74.6,50.0,-55.0,-55.0,65.0,70.0,-75.0,50.0,70.0,120.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Women 64,ROGER Pauline,62.2,43.0,48.0,-53.0,57.0,-60.0,60.0,48.0,60.0,108.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Women 64,PEROINE Nina,62.2,29.0,32.0,-35.0,40.0,43.0,46.0,32.0,46.0,78.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Women 76,VEILLER Julie,73.1,43.0,-48.0,-48.0,55.0,60.0,65.0,43.0,65.0,108.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U13 Women 45,STATTNER Léa,43.9,16.0,18.0,20.0,23.0,25.0,27.0,20.0,27.0,47.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U13 Women 45,STATTNER Léa,43.9,16.0,18.0,20.0,23.0,25.0,27.0,20.0,27.0,47.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U20 Women 55,GORGES Armelle,52.7,40.0,-44.0,-44.0,52.0,60.0,-62.0,40.0,60.0,100.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U20 Women 55,GORGES Armelle,52.7,40.0,-44.0,-44.0,52.0,60.0,-62.0,40.0,60.0,100.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U15 Men >102,DUBOIS MIKULASKO Lucas,117.6,52.0,56.0,60.0,65.0,70.0,-75.0,60.0,70.0,130.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U17 Men 67,KIRCHSTETTER Timéo,63.9,-40.0,40.0,45.0,58.0,-62.0,62.0,45.0,62.0,107.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U20 Men 61,BOUHALOUANI Samy,57.2,-45.0,45.0,-50.0,66.0,71.0,-75.0,45.0,71.0,116.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men 73,BELLEAU Quentin,72.5,72.0,77.0,-82.0,95.0,100.0,-105.0,77.0,100.0,177.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men 96,BEYREND Victor,92.6,70.0,75.0,80.0,-96.0,96.0,-101.0,80.0,96.0,176.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men 102,DA CRUZ PINHEIRO Denis manuel,100.1,90.0,95.0,100.0,115.0,125.0,130.0,100.0,130.0,230.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U15 Men >102,DUBOIS MIKULASKO Lucas,117.6,52.0,56.0,60.0,65.0,70.0,-75.0,60.0,70.0,130.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U17 Men 67,KIRCHSTETTER Timéo,63.9,-40.0,40.0,45.0,58.0,-62.0,62.0,45.0,62.0,107.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U20 Men 61,BOUHALOUANI Samy,57.2,-45.0,45.0,-50.0,66.0,71.0,-75.0,45.0,71.0,116.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men 73,BELLEAU Quentin,72.5,72.0,77.0,-82.0,95.0,100.0,-105.0,77.0,100.0,177.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men 96,BEYREND Victor,92.6,70.0,75.0,80.0,-96.0,96.0,-101.0,80.0,96.0,176.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men 102,DA CRUZ PINHEIRO Denis manuel,100.1,90.0,95.0,100.0,115.0,125.0,130.0,100.0,130.0,230.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U15 Men 49,EVEN Joakim,44.9,25.0,27.0,29.0,33.0,36.0,38.0,29.0,38.0,67.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U15 Men 61,TRIGODET Titouan,55.99,40.0,43.0,-45.0,52.0,55.0,-57.0,43.0,55.0,98.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U15 Men 73,PICHON Nolan,67.95,45.0,49.0,-53.0,55.0,60.0,-64.0,49.0,60.0,109.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U17 Men 55,BELLIER--BARREAU Mael,52.9,40.0,-43.0,43.0,50.0,-53.0,-55.0,43.0,50.0,93.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U20 Men 89,CINTAS Milo,84.83,60.0,65.0,-70.0,-83.0,-83.0,-83.0,65.0,0.0,0.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men 73,BIGOT Aurelien,72.15,77.0,80.0,-83.0,90.0,95.0,100.0,80.0,100.0,180.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men 81,MERIGOT Aurelien,80.11,83.0,-86.0,-86.0,102.0,106.0,-110.0,83.0,106.0,189.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men 81,ALIX Clément,78.02,65.0,68.0,-71.0,-100.0,105.0,-110.0,68.0,105.0,173.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men 96,LARROQUE Marc,90.6,48.0,53.0,57.0,65.0,70.0,-76.0,57.0,70.0,127.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U15 Men 49,EVEN Joakim,44.9,25.0,27.0,29.0,33.0,36.0,38.0,29.0,38.0,67.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U15 Men 61,TRIGODET Titouan,55.99,40.0,43.0,-45.0,52.0,55.0,-57.0,43.0,55.0,98.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U15 Men 73,PICHON Nolan,67.95,45.0,49.0,-53.0,55.0,60.0,-64.0,49.0,60.0,109.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U17 Men 55,BELLIER--BARREAU Mael,52.9,40.0,-43.0,43.0,50.0,-53.0,-55.0,43.0,50.0,93.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U20 Men 89,CINTAS Milo,84.83,60.0,65.0,-70.0,-83.0,-83.0,-83.0,65.0,0.0,0.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men 73,BIGOT Aurelien,72.15,77.0,80.0,-83.0,90.0,95.0,100.0,80.0,100.0,180.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men 81,MERIGOT Aurelien,80.11,83.0,-86.0,-86.0,102.0,106.0,-110.0,83.0,106.0,189.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men 81,ALIX Clément,78.02,65.0,68.0,-71.0,-100.0,105.0,-110.0,68.0,105.0,173.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men 96,LARROQUE Marc,90.6,48.0,53.0,57.0,65.0,70.0,-76.0,57.0,70.0,127.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U17 Women 45,BRUN Léanore,43.9,29.0,32.0,-34.0,41.0,-0.0,-0.0,32.0,41.0,73.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U17 Women 64,SICARD Oceane,61.6,31.0,34.0,36.0,40.0,-43.0,43.0,36.0,43.0,79.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Women 59,SADOUN Eglantine,56.7,52.0,-54.0,54.0,-67.0,-67.0,67.0,54.0,67.0,121.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Women 64,BERNARD Clara,63.3,48.0,53.0,-56.0,50.0,55.0,-60.0,53.0,55.0,108.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Women 87,BODARD Suzanne,86.9,40.0,42.0,-44.0,50.0,-52.0,52.0,42.0,52.0,94.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U17 Women 45,BRUN Léanore,43.9,29.0,32.0,-34.0,41.0,-0.0,-0.0,32.0,41.0,73.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U17 Women 64,SICARD Oceane,61.6,31.0,34.0,36.0,40.0,-43.0,43.0,36.0,43.0,79.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Women 59,SADOUN Eglantine,56.7,52.0,-54.0,54.0,-67.0,-67.0,67.0,54.0,67.0,121.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Women 64,BERNARD Clara,63.3,48.0,53.0,-56.0,50.0,55.0,-60.0,53.0,55.0,108.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Women 87,BODARD Suzanne,86.9,40.0,42.0,-44.0,50.0,-52.0,52.0,42.0,52.0,94.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U13 Women 45,PERRAUT Anais,42.0,22.0,-23.0,23.0,25.0,-26.0,26.0,23.0,26.0,49.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U13 Women 45,PERRAUT Anais,42.0,22.0,-23.0,23.0,25.0,-26.0,26.0,23.0,26.0,49.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Women 49,VIDARD Charlotte,47.9,22.0,25.0,28.0,38.0,41.0,43.0,28.0,43.0,71.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Women 59,MICHEL Juliette,58.5,44.0,46.0,48.0,53.0,-55.0,55.0,48.0,55.0,103.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Women 64,RENOUX Corentine,63.5,35.0,37.0,39.0,-42.0,42.0,44.0,39.0,44.0,83.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Women 71,MOREAU Doralicia,68.4,-38.0,38.0,41.0,61.0,64.0,-67.0,41.0,64.0,105.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Women 81,DESENCLOS Cindy,79.8,33.0,35.0,37.0,43.0,46.0,48.0,37.0,48.0,85.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Women 49,VIDARD Charlotte,47.9,22.0,25.0,28.0,38.0,41.0,43.0,28.0,43.0,71.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Women 59,MICHEL Juliette,58.5,44.0,46.0,48.0,53.0,-55.0,55.0,48.0,55.0,103.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Women 64,RENOUX Corentine,63.5,35.0,37.0,39.0,-42.0,42.0,44.0,39.0,44.0,83.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Women 71,MOREAU Doralicia,68.4,-38.0,38.0,41.0,61.0,64.0,-67.0,41.0,64.0,105.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Women 81,DESENCLOS Cindy,79.8,33.0,35.0,37.0,43.0,46.0,48.0,37.0,48.0,85.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U20 Men 73,DEBRAY Louis,69.0,45.0,50.0,55.0,65.0,70.0,75.0,55.0,75.0,130.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men 81,CHAVIGNY Germain,73.9,66.0,69.0,-71.0,80.0,84.0,-86.0,69.0,84.0,153.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men 89,DUFOUR Laurent,85.8,46.0,50.0,55.0,65.0,70.0,-75.0,55.0,70.0,125.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men 89,HENDRICKS Dale,81.5,45.0,50.0,-55.0,65.0,-70.0,70.0,50.0,70.0,120.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men >109,GEORGES Valentin,110.1,60.0,63.0,65.0,75.0,80.0,-85.0,65.0,80.0,145.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U20 Men 73,DEBRAY Louis,69.0,45.0,50.0,55.0,65.0,70.0,75.0,55.0,75.0,130.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men 81,CHAVIGNY Germain,73.9,66.0,69.0,-71.0,80.0,84.0,-86.0,69.0,84.0,153.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men 89,DUFOUR Laurent,85.8,46.0,50.0,55.0,65.0,70.0,-75.0,55.0,70.0,125.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men 89,HENDRICKS Dale,81.5,45.0,50.0,-55.0,65.0,-70.0,70.0,50.0,70.0,120.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men >109,GEORGES Valentin,110.1,60.0,63.0,65.0,75.0,80.0,-85.0,65.0,80.0,145.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U15 Women 55,ACINHO Estelle,49.1,30.0,32.0,34.0,40.0,43.0,46.0,34.0,46.0,80.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U15 Women 55,GONCALVES Chelsy,53.25,28.0,30.0,32.0,38.0,40.0,42.0,32.0,42.0,74.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U15 Women 55,PIN Kaliste,50.0,-23.0,23.0,25.0,30.0,33.0,36.0,25.0,36.0,61.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U15 Women 55,RHARIB Lina,50.15,20.0,22.0,24.0,27.0,29.0,31.0,24.0,31.0,55.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U15 Women 64,PEREIRA Kelly,59.9,42.0,45.0,48.0,55.0,59.0,62.0,48.0,62.0,110.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U15 Women 64,LIZERAY Shani,62.25,26.0,28.0,-30.0,32.0,34.0,37.0,28.0,37.0,65.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U15 Women 64,LISERAY LASCAR Romy,62.3,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U15 Women 55,ACINHO Estelle,49.1,30.0,32.0,34.0,40.0,43.0,46.0,34.0,46.0,80.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U15 Women 55,GONCALVES Chelsy,53.25,28.0,30.0,32.0,38.0,40.0,42.0,32.0,42.0,74.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U15 Women 55,PIN Kaliste,50.0,-23.0,23.0,25.0,30.0,33.0,36.0,25.0,36.0,61.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U15 Women 55,RHARIB Lina,50.15,20.0,22.0,24.0,27.0,29.0,31.0,24.0,31.0,55.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U15 Women 64,PEREIRA Kelly,59.9,42.0,45.0,48.0,55.0,59.0,62.0,48.0,62.0,110.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U15 Women 64,LIZERAY Shani,62.25,26.0,28.0,-30.0,32.0,34.0,37.0,28.0,37.0,65.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U15 Women 64,LISERAY LASCAR Romy,62.3,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U15 Men 49,MATON Raphael,45.6,23.0,25.0,27.0,32.0,34.0,36.0,27.0,36.0,63.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U15 Men 55,MORRA Arthur,51.4,40.0,42.0,44.0,54.0,57.0,-60.0,44.0,57.0,101.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U15 Men 67,CECCHINI Vincenzo,65.8,52.0,54.0,56.0,75.0,-80.0,-80.0,56.0,75.0,131.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U15 Men 67,HENNEUSE Mathias,65.8,53.0,55.0,57.0,67.0,70.0,73.0,57.0,73.0,130.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U15 Men 67,VETTER Alexandre,66.7,42.0,44.0,46.0,54.0,57.0,60.0,46.0,60.0,106.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U15 Men 102,FERRON Rudy,100.1,-70.0,70.0,-75.0,85.0,-90.0,-90.0,70.0,85.0,155.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U15 Men 49,MATON Raphael,45.6,23.0,25.0,27.0,32.0,34.0,36.0,27.0,36.0,63.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U15 Men 55,MORRA Arthur,51.4,40.0,42.0,44.0,54.0,57.0,-60.0,44.0,57.0,101.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U15 Men 67,CECCHINI Vincenzo,65.8,52.0,54.0,56.0,75.0,-80.0,-80.0,56.0,75.0,131.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U15 Men 67,HENNEUSE Mathias,65.8,53.0,55.0,57.0,67.0,70.0,73.0,57.0,73.0,130.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U15 Men 67,VETTER Alexandre,66.7,42.0,44.0,46.0,54.0,57.0,60.0,46.0,60.0,106.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,U15 Men 102,FERRON Rudy,100.1,-70.0,70.0,-75.0,85.0,-90.0,-90.0,70.0,85.0,155.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Women 55,SORRENTI Laura,54.85,-20.0,20.0,-23.0,28.0,30.0,33.0,20.0,33.0,53.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Women 59,CANAMERO Léa,58.5,52.0,55.0,60.0,67.0,72.0,76.0,60.0,76.0,136.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Women 59,BOUCHET Oceane,55.7,30.0,33.0,-36.0,-48.0,-48.0,48.0,33.0,48.0,81.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Women 64,ARSUFFI Celia marie,63.4,48.0,50.0,-52.0,-65.0,-65.0,65.0,50.0,65.0,115.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Women 64,CHAUDET Margot,62.7,47.0,-50.0,-51.0,-62.0,64.0,-69.0,47.0,64.0,111.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Women 64,BARIBAUD Cecile,62.7,39.0,42.0,-45.0,45.0,50.0,54.0,42.0,54.0,96.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Women 81,CHMYKOV Oksana,79.4,40.0,42.0,44.0,50.0,53.0,56.0,44.0,56.0,100.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Women 55,SORRENTI Laura,54.85,-20.0,20.0,-23.0,28.0,30.0,33.0,20.0,33.0,53.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Women 59,CANAMERO Léa,58.5,52.0,55.0,60.0,67.0,72.0,76.0,60.0,76.0,136.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Women 59,BOUCHET Oceane,55.7,30.0,33.0,-36.0,-48.0,-48.0,48.0,33.0,48.0,81.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Women 64,ARSUFFI Celia marie,63.4,48.0,50.0,-52.0,-65.0,-65.0,65.0,50.0,65.0,115.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Women 64,CHAUDET Margot,62.7,47.0,-50.0,-51.0,-62.0,64.0,-69.0,47.0,64.0,111.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Women 64,BARIBAUD Cecile,62.7,39.0,42.0,-45.0,45.0,50.0,54.0,42.0,54.0,96.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Women 81,CHMYKOV Oksana,79.4,40.0,42.0,44.0,50.0,53.0,56.0,44.0,56.0,100.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men 73,MOUMEN Arafet,70.7,70.0,-73.0,-73.0,86.0,-90.0,-90.0,70.0,86.0,156.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men 73,DJAMCHED Djawed,72.2,65.0,-68.0,-68.0,75.0,80.0,83.0,65.0,83.0,148.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men 73,FASULO Luca,72.5,-78.0,-78.0,-80.0,100.0,-105.0,-105.0,0.0,100.0,0.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men 81,BATTAGLIA Nicolas,74.65,83.0,87.0,90.0,105.0,110.0,115.0,90.0,115.0,205.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men 81,PALAMARA Frederic,79.6,65.0,-70.0,70.0,85.0,90.0,-95.0,70.0,90.0,160.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men 81,MILLION Charles,79.2,60.0,65.0,-70.0,80.0,85.0,88.0,65.0,88.0,153.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men 89,LANDRAIN Nicolas,88.3,-70.0,73.0,-77.0,-85.0,-85.0,85.0,73.0,85.0,158.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men 96,DESRUMEAUX Nicolas,94.9,70.0,73.0,-76.0,85.0,-91.0,-91.0,73.0,85.0,158.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men 102,KEOGH David,97.25,70.0,75.0,80.0,110.0,117.0,122.0,80.0,122.0,202.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men 73,MOUMEN Arafet,70.7,70.0,-73.0,-73.0,86.0,-90.0,-90.0,70.0,86.0,156.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men 73,DJAMCHED Djawed,72.2,65.0,-68.0,-68.0,75.0,80.0,83.0,65.0,83.0,148.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men 73,FASULO Luca,72.5,-78.0,-78.0,-80.0,100.0,-105.0,-105.0,0.0,100.0,0.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men 81,BATTAGLIA Nicolas,74.65,83.0,87.0,90.0,105.0,110.0,115.0,90.0,115.0,205.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men 81,PALAMARA Frederic,79.6,65.0,-70.0,70.0,85.0,90.0,-95.0,70.0,90.0,160.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men 81,MILLION Charles,79.2,60.0,65.0,-70.0,80.0,85.0,88.0,65.0,88.0,153.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men 89,LANDRAIN Nicolas,88.3,-70.0,73.0,-77.0,-85.0,-85.0,85.0,73.0,85.0,158.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men 96,DESRUMEAUX Nicolas,94.9,70.0,73.0,-76.0,85.0,-91.0,-91.0,73.0,85.0,158.0
+GE - Challenge Avenir - Brumath - Bas-Rhin - U10 / U13,2023-06-03,SEN Men 102,KEOGH David,97.25,70.0,75.0,80.0,110.0,117.0,122.0,80.0,122.0,202.0

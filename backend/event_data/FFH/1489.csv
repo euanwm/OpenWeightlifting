@@ -1,2 +1,63 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-NDIE - Champ de France Elite,2021-10-23,SEN Men 96,CANIVET Paul,89.2,128.0,132.0,-135.0,165.0,171.0,-175.0,132.0,171.0,303.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,SEN Men 67,ROUBIN Simeon,63.5,60.0,65.0,68.0,70.0,75.0,-78.0,68.0,75.0,143.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,SEN Men 73,VERRIER Matéo,71.6,90.0,-95.0,-95.0,115.0,120.0,125.0,90.0,125.0,215.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,SEN Men 73,DUMAS Geremy,68.5,70.0,75.0,80.0,95.0,-100.0,-100.0,80.0,95.0,175.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,SEN Men 73,EYNARD David,70.7,55.0,58.0,-60.0,63.0,-68.0,70.0,58.0,70.0,128.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,SEN Men 81,ROCHE Léo,80.5,100.0,-105.0,105.0,120.0,125.0,-130.0,105.0,125.0,230.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,SEN Men 81,SAN JOSE Mathieu,79.8,88.0,95.0,-100.0,107.0,-112.0,112.0,95.0,112.0,207.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,SEN Men 81,SANTOYO Alexandre,77.6,53.0,58.0,-62.0,83.0,86.0,-89.0,58.0,86.0,144.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,SEN Men 81,CADI Eric,75.0,50.0,55.0,-60.0,68.0,-75.0,75.0,55.0,75.0,130.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,SEN Men 81,PACON Fabien,80.8,-38.0,38.0,-40.0,-50.0,50.0,-55.0,38.0,50.0,88.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,SEN Men 89,MAGNE Anael,82.8,75.0,87.0,95.0,112.0,116.0,120.0,95.0,120.0,215.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,SEN Men 89,SAUTY Tom,87.6,78.0,83.0,87.0,100.0,105.0,-110.0,87.0,105.0,192.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,SEN Men 89,DIARA Raphaël,88.6,75.0,-80.0,80.0,90.0,100.0,105.0,80.0,105.0,185.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,SEN Men 89,BELLON Luc,84.4,60.0,65.0,70.0,90.0,95.0,-100.0,70.0,95.0,165.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,SEN Men 102,LOPEZ PLAZA Jose,101.0,38.0,40.0,-43.0,38.0,-42.0,-42.0,40.0,38.0,78.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,SEN Men 109,REYNAUD Davy,104.5,80.0,-87.0,87.0,100.0,105.0,-108.0,87.0,105.0,192.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,SEN Men 109,BIASINI Patrick,104.7,50.0,55.0,60.0,70.0,75.0,80.0,60.0,80.0,140.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,U15 Women 55,VASSEUR Léna,54.0,20.0,25.0,-30.0,25.0,30.0,35.0,25.0,35.0,60.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,U15 Women 55,GUEYRAUD Charlyne,50.0,14.0,16.0,18.0,15.0,20.0,25.0,18.0,25.0,43.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,SEN Women 55,NICOLAS Zoé,55.0,43.0,45.0,-48.0,60.0,-65.0,65.0,45.0,65.0,110.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,SEN Women 59,PASTEL Hélène,59.0,55.0,-58.0,-58.0,70.0,-73.0,-73.0,55.0,70.0,125.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,SEN Women 64,GAILLARD Lucie,59.5,55.0,57.0,-61.0,73.0,-77.0,-80.0,57.0,73.0,130.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,SEN Women 64,DESNOYERS Chloé,61.0,53.0,55.0,-58.0,-69.0,-69.0,-69.0,55.0,0.0,0.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,SEN Women 76,BIASINI Kelly,73.8,25.0,29.0,-31.0,35.0,38.0,40.0,29.0,40.0,69.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,U15 Women 55,VASSEUR Léna,54.0,20.0,25.0,-30.0,25.0,30.0,35.0,25.0,35.0,60.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,U15 Women 55,GUEYRAUD Charlyne,50.0,14.0,16.0,18.0,15.0,20.0,25.0,18.0,25.0,43.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,SEN Women 55,NICOLAS Zoé,55.0,43.0,45.0,-48.0,60.0,-65.0,65.0,45.0,65.0,110.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,SEN Women 59,PASTEL Hélène,59.0,55.0,-58.0,-58.0,70.0,-73.0,-73.0,55.0,70.0,125.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,SEN Women 64,GAILLARD Lucie,59.5,55.0,57.0,-61.0,73.0,-77.0,-80.0,57.0,73.0,130.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,SEN Women 64,DESNOYERS Chloé,61.0,53.0,55.0,-58.0,-69.0,-69.0,-69.0,55.0,0.0,0.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,SEN Women 76,BIASINI Kelly,73.8,25.0,29.0,-31.0,35.0,38.0,40.0,29.0,40.0,69.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,U15 Men 55,NAUDIN Gabriel,52.0,37.0,38.0,-40.0,45.0,48.0,-50.0,38.0,48.0,86.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,U15 Men 89,DUGNE Wesley,85.8,28.0,-31.0,31.0,32.0,37.0,-40.0,31.0,37.0,68.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,U15 Men >102,EYSSAVEL Jerome,108.0,30.0,35.0,40.0,35.0,40.0,46.0,40.0,46.0,86.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,U17 Men 55,NOFRONI Romain,53.8,45.0,-48.0,-48.0,55.0,60.0,62.0,45.0,62.0,107.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,U17 Men 55,LOUIS-EUGENE Ylies,52.0,20.0,-25.0,25.0,20.0,25.0,-30.0,25.0,25.0,50.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,U17 Men 81,SYLVESTRE Thomas,77.0,48.0,51.0,54.0,55.0,-60.0,-60.0,54.0,55.0,109.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,U15 Men 55,NAUDIN Gabriel,52.0,37.0,38.0,-40.0,45.0,48.0,-50.0,38.0,48.0,86.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,U15 Men 89,DUGNE Wesley,85.8,28.0,-31.0,31.0,32.0,37.0,-40.0,31.0,37.0,68.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,U15 Men >102,EYSSAVEL Jerome,108.0,30.0,35.0,40.0,35.0,40.0,46.0,40.0,46.0,86.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,U17 Men 55,NOFRONI Romain,53.8,45.0,-48.0,-48.0,55.0,60.0,62.0,45.0,62.0,107.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,U17 Men 55,LOUIS-EUGENE Ylies,52.0,20.0,-25.0,25.0,20.0,25.0,-30.0,25.0,25.0,50.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,U17 Men 81,SYLVESTRE Thomas,77.0,48.0,51.0,54.0,55.0,-60.0,-60.0,54.0,55.0,109.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,U13 Men 55,ECKMANN Gael,50.0,47.0,49.0,51.0,60.0,-62.0,-62.0,51.0,60.0,111.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,U13 Men 73,GONCALVES MARINHO Angel,68.0,-20.0,20.0,22.0,25.0,27.0,29.0,22.0,29.0,51.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,U13 Men >73,VARDANYAN Vardges,92.0,38.0,40.0,42.0,50.0,52.0,-54.0,42.0,52.0,94.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,U13 Women 49,DECARPIGNY Louise,47.0,12.0,14.0,15.0,18.0,20.0,-22.0,15.0,20.0,35.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,U13 Men 55,ECKMANN Gael,50.0,47.0,49.0,51.0,60.0,-62.0,-62.0,51.0,60.0,111.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,U13 Men 73,GONCALVES MARINHO Angel,68.0,-20.0,20.0,22.0,25.0,27.0,29.0,22.0,29.0,51.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,U13 Men >73,VARDANYAN Vardges,92.0,38.0,40.0,42.0,50.0,52.0,-54.0,42.0,52.0,94.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,U13 Women 49,DECARPIGNY Louise,47.0,12.0,14.0,15.0,18.0,20.0,-22.0,15.0,20.0,35.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,U20 Women 55,PICHON Laurine,51.6,28.0,31.0,-34.0,37.0,40.0,-43.0,31.0,40.0,71.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,U20 Women 55,PICHON Laurine,51.6,28.0,31.0,-34.0,37.0,40.0,-43.0,31.0,40.0,71.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,U20 Men 67,YENGOYAN Rafayel,62.25,67.0,-70.0,-71.0,-85.0,-85.0,-87.0,67.0,0.0,0.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,SEN Men 81,ALLAIS Xavier,79.85,95.0,100.0,-110.0,115.0,-120.0,120.0,100.0,120.0,220.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,SEN Men 89,PELLISSIER Nathan,86.3,90.0,-100.0,-100.0,120.0,125.0,-130.0,90.0,125.0,215.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,SEN Men 96,NICOLAS Rance,93.4,75.0,-85.0,-85.0,90.0,-100.0,-105.0,75.0,90.0,165.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,SEN Men 102,CANTUEL Sebastien,99.25,85.0,90.0,-0.0,105.0,-0.0,-0.0,90.0,105.0,195.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,U20 Men 67,YENGOYAN Rafayel,62.25,67.0,-70.0,-71.0,-85.0,-85.0,-87.0,67.0,0.0,0.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,SEN Men 81,ALLAIS Xavier,79.85,95.0,100.0,-110.0,115.0,-120.0,120.0,100.0,120.0,220.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,SEN Men 89,PELLISSIER Nathan,86.3,90.0,-100.0,-100.0,120.0,125.0,-130.0,90.0,125.0,215.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,SEN Men 96,NICOLAS Rance,93.4,75.0,-85.0,-85.0,90.0,-100.0,-105.0,75.0,90.0,165.0
+AURA - Chpt Départemental - Drôme Ardèche - Crest - Masculins Seniors,2024-01-20,SEN Men 102,CANTUEL Sebastien,99.25,85.0,90.0,-0.0,105.0,-0.0,-0.0,90.0,105.0,195.0

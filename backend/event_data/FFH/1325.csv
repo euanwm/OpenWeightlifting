@@ -1,0 +1,65 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U15 Men >102,BOFFY Lucas,116.1,67.0,71.0,-75.0,88.0,93.0,-99.0,71.0,93.0,164.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U17 Men 81,SEILER Aymeric,77.5,45.0,-49.0,-50.0,58.0,-62.0,63.0,45.0,63.0,108.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U17 Men 89,BOUCHER Nathan,82.5,37.0,40.0,43.0,47.0,50.0,53.0,43.0,53.0,96.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U20 Men 96,SEILER Lucas,91.6,70.0,-75.0,75.0,90.0,95.0,-100.0,75.0,95.0,170.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,SEN Men 61,GROSJEAN Marc,60.8,68.0,71.0,-75.0,79.0,85.0,-88.0,71.0,85.0,156.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,SEN Men 73,FOURNIER Loïc,70.7,70.0,75.0,-80.0,90.0,97.0,-105.0,75.0,97.0,172.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,SEN Men 81,GINER Georges-antoine,78.7,80.0,-85.0,85.0,110.0,-115.0,-115.0,85.0,110.0,195.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,SEN Men 89,BARKAT Mohamed,85.4,85.0,89.0,93.0,124.0,-131.0,-132.0,93.0,124.0,217.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U15 Women 55,BOFFY Lauryne,54.7,20.0,23.0,25.0,28.0,-32.0,32.0,25.0,32.0,57.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U15 Women 59,PRETRE Faustine,58.2,17.0,20.0,-22.0,25.0,-28.0,-28.0,20.0,25.0,45.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U17 Women 45,JALLET-GOUX Léonie,44.7,22.0,23.0,-24.0,26.0,28.0,30.0,23.0,30.0,53.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U17 Women 55,LAMBERT Lola,52.5,31.0,34.0,37.0,42.0,46.0,-50.0,37.0,46.0,83.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U17 Women 55,COUSIN Marie,54.8,25.0,28.0,30.0,35.0,38.0,41.0,30.0,41.0,71.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U17 Women 59,CALMUS Thais,58.9,53.0,55.0,-58.0,63.0,66.0,-68.0,55.0,66.0,121.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U17 Women 64,VILACA Lina,59.7,25.0,27.0,-28.0,30.0,33.0,35.0,27.0,35.0,62.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,SEN Women 71,RIPPLINGER Tya,66.4,44.0,47.0,-50.0,50.0,55.0,-60.0,47.0,55.0,102.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U15 Women 55,BOFFY Lauryne,54.7,20.0,23.0,25.0,28.0,-32.0,32.0,25.0,32.0,57.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U15 Women 59,PRETRE Faustine,58.2,17.0,20.0,-22.0,25.0,-28.0,-28.0,20.0,25.0,45.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U17 Women 45,JALLET-GOUX Léonie,44.7,22.0,23.0,-24.0,26.0,28.0,30.0,23.0,30.0,53.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U17 Women 55,LAMBERT Lola,52.5,31.0,34.0,37.0,42.0,46.0,-50.0,37.0,46.0,83.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U17 Women 55,COUSIN Marie,54.8,25.0,28.0,30.0,35.0,38.0,41.0,30.0,41.0,71.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U17 Women 59,CALMUS Thais,58.9,53.0,55.0,-58.0,63.0,66.0,-68.0,55.0,66.0,121.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U17 Women 64,VILACA Lina,59.7,25.0,27.0,-28.0,30.0,33.0,35.0,27.0,35.0,62.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,SEN Women 71,RIPPLINGER Tya,66.4,44.0,47.0,-50.0,50.0,55.0,-60.0,47.0,55.0,102.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U10 Women ,BAUD Tina,34.8,-13.0,-13.0,-14.0,18.0,20.0,22.0,0.0,22.0,0.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U13 Women 35,DURIC Ema,31.7,20.0,22.0,24.0,26.0,28.0,30.0,24.0,30.0,54.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U13 Women 35,AUBRY Leena,33.8,13.0,15.0,-16.0,16.0,-18.0,18.0,15.0,18.0,33.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U13 Women 40,BONNET Manon,36.1,12.0,14.0,-15.0,17.0,18.0,19.0,14.0,19.0,33.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U13 Women 55,GUCCIARDI Clara,51.2,18.0,20.0,22.0,25.0,27.0,29.0,22.0,29.0,51.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U13 Women 55,SIGUST DUQUESNOY Lya,52.1,13.0,15.0,17.0,19.0,20.0,22.0,17.0,22.0,39.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U13 Men 55,ORSAT Louis,54.1,18.0,20.0,-22.0,20.0,22.0,24.0,20.0,24.0,44.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U13 Men 61,GADRET Marceau,58.0,18.0,20.0,22.0,28.0,30.0,32.0,22.0,32.0,54.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U10 Women ,BAUD Tina,34.8,-13.0,-13.0,-14.0,18.0,20.0,22.0,0.0,22.0,0.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U13 Women 35,DURIC Ema,31.7,20.0,22.0,24.0,26.0,28.0,30.0,24.0,30.0,54.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U13 Women 35,AUBRY Leena,33.8,13.0,15.0,-16.0,16.0,-18.0,18.0,15.0,18.0,33.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U13 Women 40,BONNET Manon,36.1,12.0,14.0,-15.0,17.0,18.0,19.0,14.0,19.0,33.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U13 Women 55,GUCCIARDI Clara,51.2,18.0,20.0,22.0,25.0,27.0,29.0,22.0,29.0,51.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U13 Women 55,SIGUST DUQUESNOY Lya,52.1,13.0,15.0,17.0,19.0,20.0,22.0,17.0,22.0,39.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U13 Men 55,ORSAT Louis,54.1,18.0,20.0,-22.0,20.0,22.0,24.0,20.0,24.0,44.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U13 Men 61,GADRET Marceau,58.0,18.0,20.0,22.0,28.0,30.0,32.0,22.0,32.0,54.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U17 Women 76,KAVAHEEAGA Sarah-lisa,75.88,45.0,47.0,-50.0,50.0,55.0,60.0,47.0,60.0,107.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,SEN Women 55,PIOTROWSKY Prescillia,53.56,-65.0,67.0,-70.0,77.0,80.0,82.0,67.0,82.0,149.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,SEN Women 55,EGEA Andrea,51.85,46.0,48.0,50.0,58.0,61.0,63.0,50.0,63.0,113.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,SEN Women 59,DABIN Nelly,56.4,46.0,48.0,-51.0,57.0,60.0,-62.0,48.0,60.0,108.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,SEN Women 64,IDJAN Jessica,59.6,65.0,-68.0,68.0,82.0,-85.0,85.0,68.0,85.0,153.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,SEN Women 71,DABIN Demy,71.0,-65.0,65.0,67.0,80.0,83.0,86.0,67.0,86.0,153.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U17 Women 76,KAVAHEEAGA Sarah-lisa,75.88,45.0,47.0,-50.0,50.0,55.0,60.0,47.0,60.0,107.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,SEN Women 55,PIOTROWSKY Prescillia,53.56,-65.0,67.0,-70.0,77.0,80.0,82.0,67.0,82.0,149.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,SEN Women 55,EGEA Andrea,51.85,46.0,48.0,50.0,58.0,61.0,63.0,50.0,63.0,113.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,SEN Women 59,DABIN Nelly,56.4,46.0,48.0,-51.0,57.0,60.0,-62.0,48.0,60.0,108.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,SEN Women 64,IDJAN Jessica,59.6,65.0,-68.0,68.0,82.0,-85.0,85.0,68.0,85.0,153.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,SEN Women 71,DABIN Demy,71.0,-65.0,65.0,67.0,80.0,83.0,86.0,67.0,86.0,153.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U17 Men 73,TURMEL Thomas,70.2,75.0,78.0,81.0,98.0,102.0,109.0,81.0,109.0,190.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U17 Men 89,LESTE Mayken,87.0,35.0,40.0,45.0,45.0,-50.0,-50.0,45.0,45.0,90.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U20 Men 73,PERRAUD Mattéo,72.9,96.0,100.0,-103.0,-121.0,123.0,130.0,100.0,130.0,230.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,SEN Men 61,LAO YAN Mathieu,57.3,78.0,80.0,-83.0,96.0,-98.0,99.0,80.0,99.0,179.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,SEN Men 81,DUCLOS Sylvain,79.58,110.0,115.0,-119.0,150.0,155.0,-160.0,115.0,155.0,270.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,SEN Men 109,MICHEL Kyle,108.78,114.0,-118.0,118.0,145.0,-150.0,152.0,118.0,152.0,270.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U17 Men 73,TURMEL Thomas,70.2,75.0,78.0,81.0,98.0,102.0,109.0,81.0,109.0,190.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U17 Men 89,LESTE Mayken,87.0,35.0,40.0,45.0,45.0,-50.0,-50.0,45.0,45.0,90.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,U20 Men 73,PERRAUD Mattéo,72.9,96.0,100.0,-103.0,-121.0,123.0,130.0,100.0,130.0,230.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,SEN Men 61,LAO YAN Mathieu,57.3,78.0,80.0,-83.0,96.0,-98.0,99.0,80.0,99.0,179.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,SEN Men 81,DUCLOS Sylvain,79.58,110.0,115.0,-119.0,150.0,155.0,-160.0,115.0,155.0,270.0
+BFC - Challenge Avenir - Grange Narboz,2022-09-17,SEN Men 109,MICHEL Kyle,108.78,114.0,-118.0,118.0,145.0,-150.0,152.0,118.0,152.0,270.0

@@ -1,0 +1,64 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U15 Women 49,LOIGEROT Elisa,46.4,20.0,22.0,23.0,32.0,34.0,36.0,23.0,36.0,59.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U15 Women 55,PY Maelys,50.7,23.0,25.0,27.0,32.0,34.0,36.0,27.0,36.0,63.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Women 55,COLLIGNON Aurélie,54.6,28.0,31.0,33.0,37.0,40.0,42.0,33.0,42.0,75.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Women 55,PIETROSANTE Camille,52.5,30.0,-33.0,-33.0,40.0,43.0,45.0,30.0,45.0,75.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Women 71,PIETROSANTE Channel,69.4,43.0,47.0,50.0,53.0,57.0,60.0,50.0,60.0,110.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U20 Women 55,BRESSON Judith,53.3,28.0,31.0,33.0,34.0,37.0,40.0,33.0,40.0,73.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U20 Women 64,PIETROSANTE Cassandra,59.1,56.0,-60.0,60.0,70.0,74.0,-78.0,60.0,74.0,134.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U20 Women 71,MOUGIN Lou,67.5,-38.0,-38.0,38.0,45.0,49.0,53.0,38.0,53.0,91.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U20 Women 81,BOLORE Amandine,79.2,-38.0,38.0,40.0,48.0,51.0,-53.0,40.0,51.0,91.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U15 Men 55,BOURLET Gabriel,49.5,-28.0,-28.0,28.0,40.0,43.0,45.0,28.0,45.0,73.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U15 Men 61,DURIC Adis,57.8,-41.0,41.0,42.0,56.0,58.0,-60.0,42.0,58.0,100.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U15 Men 67,MARBOUTIE Sacha,64.0,26.0,-28.0,28.0,37.0,39.0,41.0,28.0,41.0,69.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U15 Men >102,BOFFY Lucas,115.3,66.0,68.0,70.0,86.0,88.0,90.0,70.0,90.0,160.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Men 61,SIMARD--FERNANDES Mathis,57.45,33.0,37.0,-40.0,43.0,48.0,53.0,37.0,53.0,90.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Men 67,MARBOUTIE Danis,63.75,42.0,46.0,50.0,58.0,62.0,65.0,50.0,65.0,115.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Men 67,PHILIPP Theo,64.4,34.0,-37.0,-37.0,37.0,40.0,43.0,34.0,43.0,77.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Men 73,NARJOZ Tanguy,70.05,37.0,40.0,-43.0,47.0,50.0,53.0,40.0,53.0,93.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Men 81,SEILER Aymeric,79.0,50.0,54.0,57.0,66.0,70.0,-73.0,57.0,70.0,127.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Men 81,BOUCHER Nathan,78.65,52.0,56.0,-60.0,62.0,-66.0,66.0,56.0,66.0,122.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U15 Men 55,BOURLET Gabriel,49.5,-28.0,-28.0,28.0,40.0,43.0,45.0,28.0,45.0,73.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U15 Men 61,DURIC Adis,57.8,-41.0,41.0,42.0,56.0,58.0,-60.0,42.0,58.0,100.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U15 Men 67,MARBOUTIE Sacha,64.0,26.0,-28.0,28.0,37.0,39.0,41.0,28.0,41.0,69.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U15 Men >102,BOFFY Lucas,115.3,66.0,68.0,70.0,86.0,88.0,90.0,70.0,90.0,160.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Men 61,SIMARD--FERNANDES Mathis,57.45,33.0,37.0,-40.0,43.0,48.0,53.0,37.0,53.0,90.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Men 67,MARBOUTIE Danis,63.75,42.0,46.0,50.0,58.0,62.0,65.0,50.0,65.0,115.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Men 67,PHILIPP Theo,64.4,34.0,-37.0,-37.0,37.0,40.0,43.0,34.0,43.0,77.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Men 73,NARJOZ Tanguy,70.05,37.0,40.0,-43.0,47.0,50.0,53.0,40.0,53.0,93.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Men 81,SEILER Aymeric,79.0,50.0,54.0,57.0,66.0,70.0,-73.0,57.0,70.0,127.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Men 81,BOUCHER Nathan,78.65,52.0,56.0,-60.0,62.0,-66.0,66.0,56.0,66.0,122.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Men 55,AUDOUIN Maxence,54.4,23.0,26.0,30.0,35.0,38.0,-40.0,30.0,38.0,68.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Men 55,MAILLET Lucas,51.7,28.0,30.0,-33.0,32.0,36.0,38.0,30.0,38.0,68.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Men 67,RIVAIN Mattes,62.4,15.0,17.0,22.0,30.0,34.0,-39.0,22.0,34.0,56.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Men 73,ROUSSEAU Maxyn,67.9,40.0,-45.0,-45.0,45.0,49.0,-55.0,40.0,49.0,89.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Men 73,FERAND Evans,68.3,10.0,-15.0,15.0,15.0,20.0,25.0,15.0,25.0,40.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Men 81,DANIEL Gaetan,77.4,47.0,52.0,57.0,60.0,65.0,70.0,57.0,70.0,127.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Men 81,PEIGNE Titouan,74.8,45.0,48.0,-51.0,45.0,50.0,-55.0,48.0,50.0,98.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Men 81,ARNAULT Erwan,74.4,36.0,38.0,41.0,40.0,43.0,45.0,41.0,45.0,86.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U20 Men 61,GOACOLOU Clement,60.7,30.0,35.0,-38.0,40.0,44.0,48.0,35.0,48.0,83.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U20 Men 73,DECOUX Axel,71.7,35.0,38.0,41.0,40.0,50.0,55.0,41.0,55.0,96.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U20 Men 81,BAUDRY Antoine,79.8,47.0,52.0,-57.0,70.0,75.0,-80.0,52.0,75.0,127.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,SEN Men 89,DANCIN Anthony,87.2,45.0,50.0,55.0,65.0,-70.0,72.0,55.0,72.0,127.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Men 55,AUDOUIN Maxence,54.4,23.0,26.0,30.0,35.0,38.0,-40.0,30.0,38.0,68.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Men 55,MAILLET Lucas,51.7,28.0,30.0,-33.0,32.0,36.0,38.0,30.0,38.0,68.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Men 67,RIVAIN Mattes,62.4,15.0,17.0,22.0,30.0,34.0,-39.0,22.0,34.0,56.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Men 73,ROUSSEAU Maxyn,67.9,40.0,-45.0,-45.0,45.0,49.0,-55.0,40.0,49.0,89.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Men 73,FERAND Evans,68.3,10.0,-15.0,15.0,15.0,20.0,25.0,15.0,25.0,40.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Men 81,DANIEL Gaetan,77.4,47.0,52.0,57.0,60.0,65.0,70.0,57.0,70.0,127.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Men 81,PEIGNE Titouan,74.8,45.0,48.0,-51.0,45.0,50.0,-55.0,48.0,50.0,98.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Men 81,ARNAULT Erwan,74.4,36.0,38.0,41.0,40.0,43.0,45.0,41.0,45.0,86.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U20 Men 61,GOACOLOU Clement,60.7,30.0,35.0,-38.0,40.0,44.0,48.0,35.0,48.0,83.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U20 Men 73,DECOUX Axel,71.7,35.0,38.0,41.0,40.0,50.0,55.0,41.0,55.0,96.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U20 Men 81,BAUDRY Antoine,79.8,47.0,52.0,-57.0,70.0,75.0,-80.0,52.0,75.0,127.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,SEN Men 89,DANCIN Anthony,87.2,45.0,50.0,55.0,65.0,-70.0,72.0,55.0,72.0,127.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Women 45,GOULARD - TRAVERS Lauralyne,43.54,8.0,9.0,10.0,8.0,9.0,10.0,10.0,10.0,20.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Women 49,LOUBET -MERANS Adeline,48.63,10.0,12.0,15.0,-18.0,18.0,-23.0,15.0,18.0,33.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Women 71,MARILLEAU Lucie,64.4,25.0,29.0,33.0,32.0,36.0,40.0,33.0,40.0,73.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Women 71,CHASLES Maya,64.4,20.0,23.0,26.0,28.0,32.0,35.0,26.0,35.0,61.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Women 45,GOULARD - TRAVERS Lauralyne,43.54,8.0,9.0,10.0,8.0,9.0,10.0,10.0,10.0,20.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Women 49,LOUBET -MERANS Adeline,48.63,10.0,12.0,15.0,-18.0,18.0,-23.0,15.0,18.0,33.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Women 71,MARILLEAU Lucie,64.4,25.0,29.0,33.0,32.0,36.0,40.0,33.0,40.0,73.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Women 71,CHASLES Maya,64.4,20.0,23.0,26.0,28.0,32.0,35.0,26.0,35.0,61.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Men 55,BLANVILAIN Alex,51.3,15.0,18.0,22.0,20.0,24.0,27.0,22.0,27.0,49.0
+BFC - Challenge Avenir - Luxeuil - 3,2023-01-25,U17 Men 55,BLANVILAIN Alex,51.3,15.0,18.0,22.0,20.0,24.0,27.0,22.0,27.0,49.0

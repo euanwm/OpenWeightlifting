@@ -1,10 +1,115 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-BFC - 1er Challenge Avenir - dpt 70,2021-11-03,U15 Men 67,BOUCQ Titouan,61.7,18.0,20.0,23.0,28.0,30.0,-32.0,23.0,30.0,53.0
-BFC - 1er Challenge Avenir - dpt 70,2021-11-03,U15 Men 81,SEILER Aymeric,76.3,38.0,40.0,-43.0,45.0,48.0,50.0,40.0,50.0,90.0
-BFC - 1er Challenge Avenir - dpt 70,2021-11-03,U17 Men 96,SEILER Lucas,95.9,50.0,-55.0,55.0,68.0,70.0,73.0,55.0,73.0,128.0
-BFC - 1er Challenge Avenir - dpt 70,2021-11-03,U17 Men 102,DEMURGER Axel,100.5,30.0,35.0,38.0,45.0,-50.0,-50.0,38.0,45.0,83.0
-BFC - 1er Challenge Avenir - dpt 70,2021-11-03,U20 Men 67,GROSJEAN Remi,66.85,55.0,60.0,-65.0,70.0,75.0,-80.0,60.0,75.0,135.0
-BFC - 1er Challenge Avenir - dpt 70,2021-11-03,U20 Men 81,POUTOT Julien,76.5,55.0,-60.0,60.0,65.0,-70.0,-70.0,60.0,65.0,125.0
-BFC - 1er Challenge Avenir - dpt 70,2021-11-03,SEN Men 67,LANCELLOTTI--ROITEL Victor,66.2,80.0,84.0,-87.0,90.0,-95.0,95.0,84.0,95.0,179.0
-BFC - 1er Challenge Avenir - dpt 70,2021-11-03,SEN Men 81,VETTOREL Aubin,78.6,-75.0,75.0,-78.0,85.0,-90.0,-90.0,75.0,85.0,160.0
-BFC - 1er Challenge Avenir - dpt 70,2021-11-03,SEN Men 96,DREIDEMY Victor,94.0,70.0,-75.0,75.0,-90.0,90.0,-95.0,75.0,90.0,165.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,U15 Women 64,KUSS--BILDSTEIN Irene,61.9,45.0,48.0,50.0,57.0,59.0,61.0,50.0,61.0,111.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,U20 Women 71,OSTROWSKY Chloe,65.8,45.0,48.0,-51.0,-58.0,58.0,-62.0,48.0,58.0,106.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Women 55,TSCHAEN Amandine,52.7,42.0,-45.0,-46.0,53.0,56.0,-59.0,42.0,56.0,98.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Women 59,ESTNER Sarah,55.2,54.0,58.0,-61.0,68.0,72.0,-75.0,58.0,72.0,130.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Women 59,STRZODA Lina,58.8,51.0,55.0,-58.0,63.0,67.0,-70.0,55.0,67.0,122.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Women 71,KUSS BILDSTEIN Isabelle,67.2,45.0,47.0,-50.0,58.0,61.0,-64.0,47.0,61.0,108.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Women 76,DEPENWEILLER Pauline,73.6,70.0,74.0,-77.0,91.0,95.0,98.0,74.0,98.0,172.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Women 87,CERDAN Margot,82.6,-72.0,72.0,-75.0,90.0,95.0,-99.0,72.0,95.0,167.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,U15 Men 73,MARCHETTI Ethan  roch,68.6,40.0,45.0,50.0,45.0,55.0,-60.0,50.0,55.0,105.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,U15 Men 73,CLAUSS LACHMANN Sacha,71.0,35.0,40.0,45.0,-40.0,45.0,50.0,45.0,50.0,95.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 73,GERBER Sebastien,68.5,75.0,79.0,82.0,97.0,103.0,-107.0,82.0,103.0,185.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 81,JACQUEL Florian,79.8,95.0,100.0,103.0,120.0,125.0,-130.0,103.0,125.0,228.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 81,SCHINDLER Romain,78.9,80.0,84.0,88.0,95.0,100.0,-103.0,88.0,100.0,188.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 81,GOETZ Valentin,73.7,-75.0,-80.0,80.0,95.0,100.0,105.0,80.0,105.0,185.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 81,CASPAR Joan,78.0,70.0,75.0,80.0,85.0,90.0,95.0,80.0,95.0,175.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 89,NICKLES Maxime,87.5,102.0,108.0,113.0,130.0,135.0,-140.0,113.0,135.0,248.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 89,ROHRBACH Stephane,82.4,105.0,-110.0,110.0,125.0,132.0,-138.0,110.0,132.0,242.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 89,TRAUTMANN Guillaume,87.7,60.0,70.0,80.0,60.0,-80.0,90.0,80.0,90.0,170.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 89,SCHINDLER Pierre,87.8,60.0,64.0,68.0,70.0,75.0,-80.0,68.0,75.0,143.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 96,KELHETTER Jerome,96.0,101.0,-106.0,107.0,133.0,140.0,145.0,107.0,145.0,252.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 96,BAUDEWYNS Gauthier,93.0,95.0,102.0,-107.0,125.0,130.0,135.0,102.0,135.0,237.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 96,KLICKI Alexis,95.1,88.0,92.0,95.0,122.0,126.0,130.0,95.0,130.0,225.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 96,BAUER Adrien,93.8,90.0,98.0,-105.0,-115.0,115.0,-120.0,98.0,115.0,213.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 102,SPIELMANN Arthur,98.2,110.0,115.0,120.0,150.0,156.0,-165.0,120.0,156.0,276.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 102,MARINHO Gilian,97.6,80.0,84.0,88.0,110.0,115.0,120.0,88.0,120.0,208.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men >109,MEYER Benjamin,114.2,82.0,87.0,-90.0,115.0,-123.0,125.0,87.0,125.0,212.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,U15 Men 73,MARCHETTI Ethan  roch,68.6,40.0,45.0,50.0,45.0,55.0,-60.0,50.0,55.0,105.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,U15 Men 73,CLAUSS LACHMANN Sacha,71.0,35.0,40.0,45.0,-40.0,45.0,50.0,45.0,50.0,95.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 73,GERBER Sebastien,68.5,75.0,79.0,82.0,97.0,103.0,-107.0,82.0,103.0,185.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 81,JACQUEL Florian,79.8,95.0,100.0,103.0,120.0,125.0,-130.0,103.0,125.0,228.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 81,SCHINDLER Romain,78.9,80.0,84.0,88.0,95.0,100.0,-103.0,88.0,100.0,188.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 81,GOETZ Valentin,73.7,-75.0,-80.0,80.0,95.0,100.0,105.0,80.0,105.0,185.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 81,CASPAR Joan,78.0,70.0,75.0,80.0,85.0,90.0,95.0,80.0,95.0,175.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 89,NICKLES Maxime,87.5,102.0,108.0,113.0,130.0,135.0,-140.0,113.0,135.0,248.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 89,ROHRBACH Stephane,82.4,105.0,-110.0,110.0,125.0,132.0,-138.0,110.0,132.0,242.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 89,TRAUTMANN Guillaume,87.7,60.0,70.0,80.0,60.0,-80.0,90.0,80.0,90.0,170.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 89,SCHINDLER Pierre,87.8,60.0,64.0,68.0,70.0,75.0,-80.0,68.0,75.0,143.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 96,KELHETTER Jerome,96.0,101.0,-106.0,107.0,133.0,140.0,145.0,107.0,145.0,252.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 96,BAUDEWYNS Gauthier,93.0,95.0,102.0,-107.0,125.0,130.0,135.0,102.0,135.0,237.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 96,KLICKI Alexis,95.1,88.0,92.0,95.0,122.0,126.0,130.0,95.0,130.0,225.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 96,BAUER Adrien,93.8,90.0,98.0,-105.0,-115.0,115.0,-120.0,98.0,115.0,213.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 102,SPIELMANN Arthur,98.2,110.0,115.0,120.0,150.0,156.0,-165.0,120.0,156.0,276.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 102,MARINHO Gilian,97.6,80.0,84.0,88.0,110.0,115.0,120.0,88.0,120.0,208.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men >109,MEYER Benjamin,114.2,82.0,87.0,-90.0,115.0,-123.0,125.0,87.0,125.0,212.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,U20 Women 64,WOLFF Adeline,62.2,50.0,-54.0,-55.0,70.0,74.0,-77.0,50.0,74.0,124.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,U20 Women 71,KAERCHER Maïwenn,70.2,51.0,-54.0,55.0,66.0,70.0,-74.0,55.0,70.0,125.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Women 55,HERTRICH Marielle,54.6,-67.0,67.0,71.0,80.0,84.0,-87.0,71.0,84.0,155.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Women 55,FEILLARD Lea,53.5,-43.0,43.0,46.0,58.0,61.0,63.0,46.0,63.0,109.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Women 59,SCHEER Pauline,57.2,53.0,56.0,58.0,70.0,74.0,-78.0,58.0,74.0,132.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Women 64,GANGLOFF Lucie,61.1,50.0,54.0,-57.0,70.0,-74.0,75.0,54.0,75.0,129.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Women 64,BAILLY Lucie,61.7,40.0,43.0,-45.0,52.0,55.0,58.0,43.0,58.0,101.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Women 71,BAUER Camille,70.7,45.0,49.0,53.0,55.0,59.0,-63.0,53.0,59.0,112.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Women 71,CHAUFFAUD Manuella,70.7,40.0,43.0,45.0,60.0,-63.0,64.0,45.0,64.0,109.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,U20 Women 64,WOLFF Adeline,62.2,50.0,-54.0,-55.0,70.0,74.0,-77.0,50.0,74.0,124.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,U20 Women 71,KAERCHER Maïwenn,70.2,51.0,-54.0,55.0,66.0,70.0,-74.0,55.0,70.0,125.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Women 55,HERTRICH Marielle,54.6,-67.0,67.0,71.0,80.0,84.0,-87.0,71.0,84.0,155.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Women 55,FEILLARD Lea,53.5,-43.0,43.0,46.0,58.0,61.0,63.0,46.0,63.0,109.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Women 59,SCHEER Pauline,57.2,53.0,56.0,58.0,70.0,74.0,-78.0,58.0,74.0,132.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Women 64,GANGLOFF Lucie,61.1,50.0,54.0,-57.0,70.0,-74.0,75.0,54.0,75.0,129.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Women 64,BAILLY Lucie,61.7,40.0,43.0,-45.0,52.0,55.0,58.0,43.0,58.0,101.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Women 71,BAUER Camille,70.7,45.0,49.0,53.0,55.0,59.0,-63.0,53.0,59.0,112.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Women 71,CHAUFFAUD Manuella,70.7,40.0,43.0,45.0,60.0,-63.0,64.0,45.0,64.0,109.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,U15 Women 59,GAUCHOTTE Maelys,56.1,21.0,22.0,24.0,25.0,28.0,32.0,24.0,32.0,56.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,U17 Women 59,BRIFFAUD Cyrielle,57.4,28.0,30.0,32.0,-39.0,40.0,-42.0,32.0,40.0,72.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,U17 Women 71,BEUGNEZ Maelie,64.2,28.0,30.0,-32.0,39.0,41.0,43.0,30.0,43.0,73.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Women 55,TEN VOORDE Maryse,54.4,54.0,-57.0,-60.0,65.0,70.0,-74.0,54.0,70.0,124.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Women 59,GROBOTEK MOUROT Delphine,56.1,54.0,58.0,62.0,73.0,78.0,83.0,62.0,83.0,145.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Women 64,BODIN Sarah,63.5,51.0,55.0,-58.0,66.0,70.0,-74.0,55.0,70.0,125.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Women 64,BEUGNEZ Leticia,59.3,39.0,-41.0,-42.0,56.0,58.0,-62.0,39.0,58.0,97.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Women 64,GAUCHOTTE Vanessa,61.1,33.0,35.0,-40.0,40.0,43.0,-46.0,35.0,43.0,78.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Women 71,PRIEUR Justine,66.7,58.0,62.0,65.0,71.0,74.0,78.0,65.0,78.0,143.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Women 71,LAMOTTE Jeanne,70.3,52.0,56.0,59.0,70.0,74.0,-78.0,59.0,74.0,133.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Women 71,OTTO Celine,66.4,37.0,39.0,42.0,53.0,56.0,60.0,42.0,60.0,102.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,U15 Women 59,GAUCHOTTE Maelys,56.1,21.0,22.0,24.0,25.0,28.0,32.0,24.0,32.0,56.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,U17 Women 59,BRIFFAUD Cyrielle,57.4,28.0,30.0,32.0,-39.0,40.0,-42.0,32.0,40.0,72.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,U17 Women 71,BEUGNEZ Maelie,64.2,28.0,30.0,-32.0,39.0,41.0,43.0,30.0,43.0,73.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Women 55,TEN VOORDE Maryse,54.4,54.0,-57.0,-60.0,65.0,70.0,-74.0,54.0,70.0,124.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Women 59,GROBOTEK MOUROT Delphine,56.1,54.0,58.0,62.0,73.0,78.0,83.0,62.0,83.0,145.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Women 64,BODIN Sarah,63.5,51.0,55.0,-58.0,66.0,70.0,-74.0,55.0,70.0,125.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Women 64,BEUGNEZ Leticia,59.3,39.0,-41.0,-42.0,56.0,58.0,-62.0,39.0,58.0,97.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Women 64,GAUCHOTTE Vanessa,61.1,33.0,35.0,-40.0,40.0,43.0,-46.0,35.0,43.0,78.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Women 71,PRIEUR Justine,66.7,58.0,62.0,65.0,71.0,74.0,78.0,65.0,78.0,143.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Women 71,LAMOTTE Jeanne,70.3,52.0,56.0,59.0,70.0,74.0,-78.0,59.0,74.0,133.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Women 71,OTTO Celine,66.4,37.0,39.0,42.0,53.0,56.0,60.0,42.0,60.0,102.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,U17 Men 67,CARCANO Tom,64.4,-67.0,67.0,-70.0,80.0,85.0,-88.0,67.0,85.0,152.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,U17 Men 73,FERRON Thomas,69.0,-70.0,70.0,73.0,85.0,90.0,92.0,73.0,92.0,165.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,U20 Men 67,RIAULT Maxime,64.6,57.0,62.0,65.0,76.0,81.0,-85.0,65.0,81.0,146.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,U20 Men >109,FLOQUET Louison,124.8,75.0,80.0,-82.0,95.0,100.0,105.0,80.0,105.0,185.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 73,FOUET Damien,71.6,73.0,-78.0,78.0,95.0,100.0,-105.0,78.0,100.0,178.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 81,SINGER Marc,79.0,-95.0,95.0,103.0,120.0,-125.0,128.0,103.0,128.0,231.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 81,LE Hoang dong,75.8,-90.0,90.0,-95.0,110.0,115.0,118.0,90.0,118.0,208.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 81,RUOLT Sebastien,80.5,80.0,85.0,90.0,105.0,110.0,-115.0,90.0,110.0,200.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 81,HO Theduyan,76.4,77.0,83.0,-86.0,101.0,107.0,110.0,83.0,110.0,193.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 89,KREUTZER Florian,87.4,90.0,95.0,100.0,105.0,110.0,115.0,100.0,115.0,215.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 89,DRIOUT Alexis,85.4,-90.0,90.0,94.0,113.0,117.0,-120.0,94.0,117.0,211.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 89,MAGNAN Frederic,84.5,78.0,82.0,84.0,97.0,102.0,-105.0,84.0,102.0,186.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 96,CAQUEUX Baptiste,94.3,90.0,95.0,100.0,125.0,129.0,-133.0,100.0,129.0,229.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 96,GUILLAUME Emmanuel,93.1,78.0,-82.0,82.0,100.0,-105.0,105.0,82.0,105.0,187.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 109,VAUTARD Brandon,102.9,135.0,145.0,150.0,185.0,200.0,-206.0,150.0,200.0,350.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,U17 Men 67,CARCANO Tom,64.4,-67.0,67.0,-70.0,80.0,85.0,-88.0,67.0,85.0,152.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,U17 Men 73,FERRON Thomas,69.0,-70.0,70.0,73.0,85.0,90.0,92.0,73.0,92.0,165.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,U20 Men 67,RIAULT Maxime,64.6,57.0,62.0,65.0,76.0,81.0,-85.0,65.0,81.0,146.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,U20 Men >109,FLOQUET Louison,124.8,75.0,80.0,-82.0,95.0,100.0,105.0,80.0,105.0,185.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 73,FOUET Damien,71.6,73.0,-78.0,78.0,95.0,100.0,-105.0,78.0,100.0,178.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 81,SINGER Marc,79.0,-95.0,95.0,103.0,120.0,-125.0,128.0,103.0,128.0,231.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 81,LE Hoang dong,75.8,-90.0,90.0,-95.0,110.0,115.0,118.0,90.0,118.0,208.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 81,RUOLT Sebastien,80.5,80.0,85.0,90.0,105.0,110.0,-115.0,90.0,110.0,200.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 81,HO Theduyan,76.4,77.0,83.0,-86.0,101.0,107.0,110.0,83.0,110.0,193.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 89,KREUTZER Florian,87.4,90.0,95.0,100.0,105.0,110.0,115.0,100.0,115.0,215.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 89,DRIOUT Alexis,85.4,-90.0,90.0,94.0,113.0,117.0,-120.0,94.0,117.0,211.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 89,MAGNAN Frederic,84.5,78.0,82.0,84.0,97.0,102.0,-105.0,84.0,102.0,186.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 96,CAQUEUX Baptiste,94.3,90.0,95.0,100.0,125.0,129.0,-133.0,100.0,129.0,229.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 96,GUILLAUME Emmanuel,93.1,78.0,-82.0,82.0,100.0,-105.0,105.0,82.0,105.0,187.0
+GE - REG 1 - Strasbourg - 2ème Journée - Asptt Strasbourg 2- US Wittenheim,2023-11-11,SEN Men 109,VAUTARD Brandon,102.9,135.0,145.0,150.0,185.0,200.0,-206.0,150.0,200.0,350.0

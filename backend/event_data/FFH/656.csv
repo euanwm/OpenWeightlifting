@@ -1,12 +1,6 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-PDL - Grand prix des pays de la loire,2020-10-24,U15 Men 49,COTTEREAU Hugo,38.34,27.0,30.0,-32.0,37.0,40.0,42.0,30.0,42.0,72.0
-PDL - Grand prix des pays de la loire,2020-10-24,U15 Men 67,CHAMBRUN Remi,64.4,50.0,53.0,55.0,70.0,73.0,75.0,55.0,75.0,130.0
-PDL - Grand prix des pays de la loire,2020-10-24,U15 Men 73,ROGUET Thomas,72.0,50.0,53.0,55.0,68.0,70.0,73.0,55.0,73.0,128.0
-PDL - Grand prix des pays de la loire,2020-10-24,U17 Men 81,TRANQUILLAIN Nathanael,75.4,62.0,65.0,68.0,80.0,83.0,-86.0,68.0,83.0,151.0
-PDL - Grand prix des pays de la loire,2020-10-24,U20 Men 61,CADIEU Clement,56.52,73.0,-76.0,77.0,85.0,-90.0,-95.0,77.0,85.0,162.0
-PDL - Grand prix des pays de la loire,2020-10-24,U20 Men 81,COGNON Theo,73.84,97.0,100.0,102.0,120.0,125.0,-130.0,102.0,125.0,227.0
-PDL - Grand prix des pays de la loire,2020-10-24,SEN Men 73,ADAMOVICH Andrei,70.03,98.0,103.0,-105.0,120.0,125.0,128.0,103.0,128.0,231.0
-PDL - Grand prix des pays de la loire,2020-10-24,SEN Men 73,MEZIERE Benjamin,71.82,80.0,85.0,90.0,100.0,105.0,-110.0,90.0,105.0,195.0
-PDL - Grand prix des pays de la loire,2020-10-24,SEN Men 81,COGNON Jonathan,75.62,100.0,105.0,-108.0,125.0,130.0,133.0,105.0,133.0,238.0
-PDL - Grand prix des pays de la loire,2020-10-24,SEN Men 81,LECHAT Kevin,76.45,90.0,95.0,100.0,110.0,115.0,120.0,100.0,120.0,220.0
-PDL - Grand prix des pays de la loire,2020-10-24,SEN Men 89,LAPIERRE Sebastien,82.93,85.0,-90.0,95.0,110.0,115.0,120.0,95.0,120.0,215.0
+IDF - 3°J Reg (Gennevilliers) Mixtes,2022-01-22,SEN Men 81,CANTUEL Sebastien,77.2,65.0,75.0,-80.0,100.0,-107.0,107.0,75.0,107.0,182.0
+IDF - 3°J Reg (Gennevilliers) Mixtes,2022-01-22,SEN Men 89,TREMENBERT Mathieu,86.5,35.0,40.0,-45.0,55.0,60.0,66.0,40.0,66.0,106.0
+IDF - 3°J Reg (Gennevilliers) Mixtes,2022-01-22,SEN Men 96,MALBRANCHE Peterson,91.5,80.0,90.0,95.0,80.0,-81.0,-81.0,95.0,80.0,175.0
+IDF - 3°J Reg (Gennevilliers) Mixtes,2022-01-22,SEN Women >87,TUERNAL Floriane,109.3,-40.0,40.0,43.0,55.0,60.0,-63.0,43.0,60.0,103.0
+IDF - 3°J Reg (Gennevilliers) Mixtes,2022-01-22,SEN Women >87,LE MASSON Elodie,97.4,30.0,33.0,35.0,45.0,48.0,50.0,35.0,50.0,85.0

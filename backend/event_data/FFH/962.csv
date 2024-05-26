@@ -1,14 +1,10 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-REU - Challenge Avenir,2021-07-17,U15 Men 67,TURBAN Farid,66.0,50.0,53.0,-57.0,65.0,68.0,-72.0,53.0,68.0,121.0
-REU - Challenge Avenir,2021-07-17,U20 Men 67,LAMBERT Thomas,66.0,63.0,68.0,72.0,83.0,88.0,-91.0,72.0,88.0,160.0
-REU - Challenge Avenir,2021-07-17,SEN Men 73,GRAFFION Romain,72.0,76.0,81.0,85.0,100.0,-106.0,108.0,85.0,108.0,193.0
-REU - Challenge Avenir,2021-07-17,SEN Men 73,LAW THU Alexandre,73.0,78.0,-84.0,-90.0,95.0,103.0,-111.0,78.0,103.0,181.0
-REU - Challenge Avenir,2021-07-17,SEN Men 81,CHANE KUNE Guillaume,80.0,95.0,100.0,105.0,115.0,-120.0,-120.0,105.0,115.0,220.0
-REU - Challenge Avenir,2021-07-17,SEN Men 81,MAILLOT Sebastien,80.0,79.0,83.0,-87.0,93.0,-98.0,98.0,83.0,98.0,181.0
-REU - Challenge Avenir,2021-07-17,SEN Men 81,BALBOLIA Hamza,80.0,-68.0,70.0,-75.0,-90.0,90.0,-96.0,70.0,90.0,160.0
-REU - Challenge Avenir,2021-07-17,SEN Men 89,DIJOUX Vincent,88.0,87.0,92.0,-100.0,-115.0,115.0,-120.0,92.0,115.0,207.0
-REU - Challenge Avenir,2021-07-17,SEN Men 89,RENAUD Fabrice,87.0,80.0,90.0,95.0,100.0,110.0,-115.0,95.0,110.0,205.0
-REU - Challenge Avenir,2021-07-17,SEN Men 89,ROBLES Romain,88.0,84.0,-88.0,90.0,96.0,-102.0,-102.0,90.0,96.0,186.0
-REU - Challenge Avenir,2021-07-17,SEN Men 96,BOYER Florent,93.0,-77.0,-77.0,77.0,96.0,-101.0,101.0,77.0,101.0,178.0
-REU - Challenge Avenir,2021-07-17,SEN Men 102,IFANGOUSINE Jean philippe,98.0,70.0,75.0,77.0,100.0,-105.0,105.0,77.0,105.0,182.0
-REU - Challenge Avenir,2021-07-17,SEN Men >109,RICHARD Kenny,112.0,95.0,105.0,110.0,130.0,140.0,-150.0,110.0,140.0,250.0
+NAQ - 1er tour championnat régional des clubs femmes,2021-10-30,U17 Women 40,PENEAUD Mahana,36.9,28.0,30.0,-0.0,30.0,34.0,-38.0,30.0,34.0,64.0
+NAQ - 1er tour championnat régional des clubs femmes,2021-10-30,U20 Women 45,FESTY Ketty,41.6,20.0,23.0,26.0,27.0,30.0,33.0,26.0,33.0,59.0
+NAQ - 1er tour championnat régional des clubs femmes,2021-10-30,SEN Women 49,AOUAGHI Audrey,48.45,-42.0,42.0,47.0,57.0,-65.0,-65.0,47.0,57.0,104.0
+NAQ - 1er tour championnat régional des clubs femmes,2021-10-30,SEN Women 55,MALBRUN Andréa,54.45,45.0,-50.0,-51.0,55.0,60.0,63.0,45.0,63.0,108.0
+NAQ - 1er tour championnat régional des clubs femmes,2021-10-30,SEN Women 64,GREMILLET Louise,63.8,63.0,66.0,70.0,75.0,80.0,85.0,70.0,85.0,155.0
+NAQ - 1er tour championnat régional des clubs femmes,2021-10-30,SEN Women 64,PULCINA Alexandra,60.4,54.0,60.0,-62.0,72.0,-76.0,76.0,60.0,76.0,136.0
+NAQ - 1er tour championnat régional des clubs femmes,2021-10-30,SEN Women 64,ROUSSEL Lisa,61.85,53.0,58.0,-63.0,65.0,70.0,-75.0,58.0,70.0,128.0
+NAQ - 1er tour championnat régional des clubs femmes,2021-10-30,SEN Women 64,SIBILLE Laura,62.5,44.0,48.0,-51.0,56.0,61.0,64.0,48.0,64.0,112.0
+NAQ - 1er tour championnat régional des clubs femmes,2021-10-30,SEN Women 71,GRIMALDI Julie,69.5,-43.0,-43.0,43.0,51.0,56.0,-60.0,43.0,56.0,99.0

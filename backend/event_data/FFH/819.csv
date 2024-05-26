@@ -1,10 +1,6 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-HDF - Tournoi de Noel Benj Min,2020-12-22,U10 Women ,FONTENELLE Chloe,39.0,17.0,19.0,21.0,26.0,28.0,30.0,21.0,30.0,98.0
-HDF - Tournoi de Noel Benj Min,2020-12-22,U10 Women ,VERON Mailine,35.5,10.0,12.0,-13.0,13.0,15.0,17.0,12.0,17.0,54.0
-HDF - Tournoi de Noel Benj Min,2020-12-22,U13 Women 35,DELEVOYE Zelie,34.9,10.0,12.0,-13.0,12.0,14.0,16.0,12.0,16.0,52.0
-HDF - Tournoi de Noel Benj Min,2020-12-22,U13 Women 40,SCHUH Clemence,36.0,15.0,17.0,19.0,18.0,20.0,22.0,19.0,22.0,78.0
-HDF - Tournoi de Noel Benj Min,2020-12-22,U13 Women 49,PLANCQUE Molly,46.3,28.0,30.0,32.0,43.0,45.0,-47.0,32.0,45.0,150.0
-HDF - Tournoi de Noel Benj Min,2020-12-22,U13 Women 59,ROSSEEL-DELRUE Lenaelle,56.0,12.0,14.0,16.0,15.0,17.0,19.0,16.0,19.0,66.0
-HDF - Tournoi de Noel Benj Min,2020-12-22,U13 Women 71,ROSSEEL-DELRUE Raphaelle,68.0,12.0,14.0,16.0,15.0,17.0,19.0,16.0,19.0,66.0
-HDF - Tournoi de Noel Benj Min,2020-12-22,U13 Men 55,LECONTE Nathan,54.8,17.0,19.0,21.0,26.0,28.0,30.0,21.0,30.0,98.0
-HDF - Tournoi de Noel Benj Min,2020-12-22,U13 Men 61,WAHL Timeo,57.8,17.0,19.0,21.0,26.0,28.0,30.0,21.0,30.0,98.0
+REU - 2° J Chpt Reg / Equipes - Plateau B,2021-11-28,SEN Men 73,KLOCK Jean michel,70.0,52.0,-56.0,-60.0,65.0,-70.0,-73.0,52.0,65.0,117.0
+REU - 2° J Chpt Reg / Equipes - Plateau B,2021-11-28,SEN Men 81,RAGOU Julien,81.0,-70.0,75.0,-80.0,95.0,100.0,-0.0,75.0,100.0,175.0
+REU - 2° J Chpt Reg / Equipes - Plateau B,2021-11-28,SEN Men 81,BALBOLIA Hamza,76.0,60.0,65.0,70.0,80.0,85.0,90.0,70.0,90.0,160.0
+REU - 2° J Chpt Reg / Equipes - Plateau B,2021-11-28,SEN Men 89,DANIES Dimitri,89.0,80.0,85.0,-90.0,100.0,105.0,-110.0,85.0,105.0,190.0
+REU - 2° J Chpt Reg / Equipes - Plateau B,2021-11-28,SEN Men 102,PRUGNIERES Jean philippe,100.0,105.0,110.0,120.0,145.0,155.0,-162.0,120.0,155.0,275.0

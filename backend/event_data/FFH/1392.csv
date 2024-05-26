@@ -1,4 +1,202 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-PDL-Challenge de l'avenir n°1 Min 44,2021-10-16,U10 Women ,LOPES Amandine,42.4,7.0,8.0,9.0,9.0,10.0,11.0,9.0,11.0,38.0
-PDL-Challenge de l'avenir n°1 Min 44,2021-10-16,U13 Men 40,BELLIER--BARREAU Mathis,36.9,-25.0,25.0,26.0,31.0,33.0,-35.0,26.0,33.0,115.0
-PDL-Challenge de l'avenir n°1 Min 44,2021-10-16,U13 Men 40,BONAMY JAHIER Noa,36.3,15.0,16.0,17.0,18.0,19.0,21.0,17.0,21.0,73.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 73,SAUVE Michael,69.8,80.0,-90.0,90.0,100.0,-110.0,110.0,90.0,110.0,200.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 73,DEJEU Mathieu,70.9,55.0,58.0,61.0,70.0,75.0,-79.0,61.0,75.0,136.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 81,MARTIAS Mickaël,80.2,60.0,-62.0,-62.0,80.0,83.0,86.0,60.0,86.0,146.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 81,GOTTRANT Michel,80.2,60.0,65.0,-67.0,70.0,-75.0,-80.0,65.0,70.0,135.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 89,TALBOT Romain nicolas,87.6,85.0,-90.0,-90.0,105.0,110.0,115.0,85.0,115.0,200.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 89,MAURICE Wandrille,83.6,75.0,80.0,85.0,105.0,-110.0,-113.0,85.0,105.0,190.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 89,BOU SLEIMAN Tarek,82.6,-75.0,75.0,-80.0,107.0,112.0,-116.0,75.0,112.0,187.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 89,EHRLACHER Denis,86.3,75.0,-79.0,-81.0,100.0,-106.0,106.0,75.0,106.0,181.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 89,RASOLOMANDIMBY Andrianick,81.7,-75.0,-75.0,-75.0,95.0,100.0,-105.0,0.0,100.0,0.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 96,DOGU Dylan,89.4,75.0,-80.0,80.0,90.0,95.0,-100.0,80.0,95.0,175.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 96,DESCHAMPS Johan,89.3,-70.0,-70.0,70.0,90.0,95.0,-102.0,70.0,95.0,165.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 96,HIPPOLYTE Fanfan,89.3,65.0,70.0,71.0,90.0,-100.0,-100.0,71.0,90.0,161.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 109,VELASCO Freddy,103.4,-55.0,55.0,-60.0,75.0,78.0,83.0,55.0,83.0,138.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,U15 Women 59,MONGRAIN Ellie,55.6,38.0,40.0,-42.0,45.0,53.0,56.0,40.0,56.0,96.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,U17 Women 45,BRUN Léanore,43.7,30.0,33.0,-35.0,40.0,-43.0,-45.0,33.0,40.0,73.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,U20 Women 49,ESNAULT Célia,48.7,35.0,-38.0,38.0,46.0,-51.0,-0.0,38.0,46.0,84.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,U20 Women 59,GARNIER Camille,57.9,-50.0,50.0,-53.0,62.0,65.0,67.0,50.0,67.0,117.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,U20 Women 59,BRUN Heloise,57.5,42.0,45.0,47.0,53.0,56.0,-60.0,47.0,56.0,103.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 45,ROUSSEL Mylène,44.9,35.0,38.0,-39.0,48.0,52.0,-55.0,38.0,52.0,90.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 49,PANSERAT Emma,48.5,43.0,46.0,-50.0,53.0,-55.0,-57.0,46.0,53.0,99.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 55,GUYOT Charlene,53.8,51.0,54.0,57.0,63.0,67.0,70.0,57.0,70.0,127.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 55,CORVE Fanny,53.3,45.0,48.0,-50.0,52.0,55.0,58.0,48.0,58.0,106.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 55,GUIHAUMÉ Léna,54.1,43.0,-46.0,46.0,53.0,-56.0,56.0,46.0,56.0,102.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 59,CHEVALLIER Charlotte,57.5,53.0,55.0,-57.0,-70.0,70.0,-73.0,55.0,70.0,125.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 59,FUIN Lucile,55.4,43.0,47.0,-50.0,57.0,60.0,-63.0,47.0,60.0,107.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 64,PARANT Anais,63.2,42.0,-45.0,45.0,55.0,-60.0,-60.0,45.0,55.0,100.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 71,LE MALEFANT Samantha,65.7,76.0,81.0,-84.0,97.0,101.0,-104.0,81.0,101.0,182.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 71,BERNARD Clara,66.4,52.0,-55.0,-55.0,60.0,-63.0,-0.0,52.0,60.0,112.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 71,LE COQ Maella,66.4,43.0,47.0,-50.0,57.0,60.0,-63.0,47.0,60.0,107.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 71,GUYARD Romane,65.9,45.0,-48.0,-50.0,58.0,-61.0,61.0,45.0,61.0,106.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 71,CHOYER Anissa,68.1,67.0,-70.0,-70.0,-87.0,-87.0,-87.0,67.0,0.0,0.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 71,MUNIER Katline,68.3,20.0,-21.0,-21.0,20.0,-0.0,-0.0,20.0,20.0,40.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 76,CHOTTIN Laure,71.9,40.0,-43.0,43.0,63.0,65.0,-68.0,43.0,65.0,108.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,U15 Women 59,MONGRAIN Ellie,55.6,38.0,40.0,-42.0,45.0,53.0,56.0,40.0,56.0,96.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,U17 Women 45,BRUN Léanore,43.7,30.0,33.0,-35.0,40.0,-43.0,-45.0,33.0,40.0,73.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,U20 Women 49,ESNAULT Célia,48.7,35.0,-38.0,38.0,46.0,-51.0,-0.0,38.0,46.0,84.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,U20 Women 59,GARNIER Camille,57.9,-50.0,50.0,-53.0,62.0,65.0,67.0,50.0,67.0,117.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,U20 Women 59,BRUN Heloise,57.5,42.0,45.0,47.0,53.0,56.0,-60.0,47.0,56.0,103.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 45,ROUSSEL Mylène,44.9,35.0,38.0,-39.0,48.0,52.0,-55.0,38.0,52.0,90.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 49,PANSERAT Emma,48.5,43.0,46.0,-50.0,53.0,-55.0,-57.0,46.0,53.0,99.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 55,GUYOT Charlene,53.8,51.0,54.0,57.0,63.0,67.0,70.0,57.0,70.0,127.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 55,CORVE Fanny,53.3,45.0,48.0,-50.0,52.0,55.0,58.0,48.0,58.0,106.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 55,GUIHAUMÉ Léna,54.1,43.0,-46.0,46.0,53.0,-56.0,56.0,46.0,56.0,102.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 59,CHEVALLIER Charlotte,57.5,53.0,55.0,-57.0,-70.0,70.0,-73.0,55.0,70.0,125.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 59,FUIN Lucile,55.4,43.0,47.0,-50.0,57.0,60.0,-63.0,47.0,60.0,107.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 64,PARANT Anais,63.2,42.0,-45.0,45.0,55.0,-60.0,-60.0,45.0,55.0,100.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 71,LE MALEFANT Samantha,65.7,76.0,81.0,-84.0,97.0,101.0,-104.0,81.0,101.0,182.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 71,BERNARD Clara,66.4,52.0,-55.0,-55.0,60.0,-63.0,-0.0,52.0,60.0,112.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 71,LE COQ Maella,66.4,43.0,47.0,-50.0,57.0,60.0,-63.0,47.0,60.0,107.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 71,GUYARD Romane,65.9,45.0,-48.0,-50.0,58.0,-61.0,61.0,45.0,61.0,106.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 71,CHOYER Anissa,68.1,67.0,-70.0,-70.0,-87.0,-87.0,-87.0,67.0,0.0,0.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 71,MUNIER Katline,68.3,20.0,-21.0,-21.0,20.0,-0.0,-0.0,20.0,20.0,40.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 76,CHOTTIN Laure,71.9,40.0,-43.0,43.0,63.0,65.0,-68.0,43.0,65.0,108.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 49,CHUI Lynn,48.7,-54.0,-54.0,54.0,65.0,68.0,-70.0,54.0,68.0,122.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 59,DUJARDIN Carla,55.6,50.0,-53.0,53.0,70.0,-73.0,74.0,53.0,74.0,127.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 64,BRUNO Eva,62.0,65.0,69.0,72.0,-83.0,83.0,88.0,72.0,88.0,160.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 64,HERNEQUET Océane,64.0,62.0,-66.0,-66.0,83.0,-88.0,90.0,62.0,90.0,152.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 64,MAINCENT Laetitia,63.4,62.0,-65.0,65.0,78.0,-82.0,-83.0,65.0,78.0,143.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 64,DELACHAT Mathilde,63.8,-60.0,60.0,-63.0,75.0,80.0,-85.0,60.0,80.0,140.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 71,PAUBERT Albane,69.1,-52.0,52.0,-55.0,70.0,74.0,-77.0,52.0,74.0,126.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 76,POUSTOMIS Marie,72.2,75.0,80.0,-83.0,-98.0,-98.0,98.0,80.0,98.0,178.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 76,RAHMANI Aciyah,71.8,66.0,70.0,72.0,86.0,90.0,93.0,72.0,93.0,165.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 76,MAKOWSKI Eugénie,75.9,53.0,55.0,57.0,70.0,75.0,80.0,57.0,80.0,137.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 76,TORRES Marina,72.6,45.0,48.0,50.0,65.0,70.0,-73.0,50.0,70.0,120.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 76,MARIUS Ines,72.4,65.0,69.0,-72.0,-0.0,-0.0,-0.0,69.0,0.0,0.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 49,CHUI Lynn,48.7,-54.0,-54.0,54.0,65.0,68.0,-70.0,54.0,68.0,122.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 59,DUJARDIN Carla,55.6,50.0,-53.0,53.0,70.0,-73.0,74.0,53.0,74.0,127.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 64,BRUNO Eva,62.0,65.0,69.0,72.0,-83.0,83.0,88.0,72.0,88.0,160.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 64,HERNEQUET Océane,64.0,62.0,-66.0,-66.0,83.0,-88.0,90.0,62.0,90.0,152.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 64,MAINCENT Laetitia,63.4,62.0,-65.0,65.0,78.0,-82.0,-83.0,65.0,78.0,143.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 64,DELACHAT Mathilde,63.8,-60.0,60.0,-63.0,75.0,80.0,-85.0,60.0,80.0,140.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 71,PAUBERT Albane,69.1,-52.0,52.0,-55.0,70.0,74.0,-77.0,52.0,74.0,126.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 76,POUSTOMIS Marie,72.2,75.0,80.0,-83.0,-98.0,-98.0,98.0,80.0,98.0,178.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 76,RAHMANI Aciyah,71.8,66.0,70.0,72.0,86.0,90.0,93.0,72.0,93.0,165.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 76,MAKOWSKI Eugénie,75.9,53.0,55.0,57.0,70.0,75.0,80.0,57.0,80.0,137.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 76,TORRES Marina,72.6,45.0,48.0,50.0,65.0,70.0,-73.0,50.0,70.0,120.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 76,MARIUS Ines,72.4,65.0,69.0,-72.0,-0.0,-0.0,-0.0,69.0,0.0,0.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 61,RASCLE David,60.6,-75.0,-75.0,-75.0,90.0,-95.0,95.0,0.0,95.0,0.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 73,COTTEREAU Antoine,72.5,90.0,-95.0,-95.0,115.0,120.0,-125.0,90.0,120.0,210.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 73,MICHELET Nicolas,71.6,90.0,-94.0,-95.0,110.0,-115.0,115.0,90.0,115.0,205.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 73,MOGÉ Olivier,72.6,85.0,88.0,-92.0,105.0,-110.0,110.0,88.0,110.0,198.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 81,FREYLING Mathieu,76.7,100.0,105.0,110.0,115.0,125.0,-132.0,110.0,125.0,235.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 81,MARLE Stephan,80.0,-90.0,90.0,95.0,112.0,-117.0,-117.0,95.0,112.0,207.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 81,SUPPLY Joanin,76.8,-90.0,90.0,-96.0,-115.0,115.0,-120.0,90.0,115.0,205.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 81,LEFRANCS Dimitri,75.2,90.0,-95.0,-95.0,100.0,107.0,112.0,90.0,112.0,202.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 81,OLAGNIER Charles,79.8,85.0,90.0,-100.0,105.0,109.0,-115.0,90.0,109.0,199.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 81,LE VIENNESSE Stephane,79.5,75.0,80.0,85.0,100.0,-108.0,-108.0,85.0,100.0,185.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 81,LEE Jung ho,80.9,-90.0,90.0,-95.0,-110.0,-110.0,-110.0,90.0,0.0,0.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 89,GRAVOIS Ugo,82.5,110.0,-118.0,-120.0,130.0,-137.0,-145.0,110.0,130.0,240.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 89,LAMBERT Auguste,84.3,90.0,95.0,-100.0,-120.0,120.0,-125.0,95.0,120.0,215.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 96,PONTET Mathias,93.2,105.0,110.0,115.0,140.0,150.0,160.0,115.0,160.0,275.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 96,VITAL Jules,93.0,106.0,111.0,116.0,131.0,140.0,145.0,116.0,145.0,261.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 96,GLEVAREC Maxence,94.0,103.0,108.0,112.0,130.0,-134.0,-134.0,112.0,130.0,242.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 96,PERRIN-BIT Aubin,90.1,95.0,-100.0,-100.0,120.0,125.0,-130.0,95.0,125.0,220.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 109,LEAL PILLOT Ludvi oscar,102.3,110.0,115.0,122.0,150.0,155.0,-161.0,122.0,155.0,277.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 109,AOUICI Karim,108.0,70.0,75.0,80.0,95.0,100.0,105.0,80.0,105.0,185.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men >109,CORADO GARRO Lenny,122.3,95.0,100.0,106.0,115.0,125.0,132.0,106.0,132.0,238.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 61,RASCLE David,60.6,-75.0,-75.0,-75.0,90.0,-95.0,95.0,0.0,95.0,0.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 73,COTTEREAU Antoine,72.5,90.0,-95.0,-95.0,115.0,120.0,-125.0,90.0,120.0,210.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 73,MICHELET Nicolas,71.6,90.0,-94.0,-95.0,110.0,-115.0,115.0,90.0,115.0,205.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 73,MOGÉ Olivier,72.6,85.0,88.0,-92.0,105.0,-110.0,110.0,88.0,110.0,198.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 81,FREYLING Mathieu,76.7,100.0,105.0,110.0,115.0,125.0,-132.0,110.0,125.0,235.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 81,MARLE Stephan,80.0,-90.0,90.0,95.0,112.0,-117.0,-117.0,95.0,112.0,207.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 81,SUPPLY Joanin,76.8,-90.0,90.0,-96.0,-115.0,115.0,-120.0,90.0,115.0,205.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 81,LEFRANCS Dimitri,75.2,90.0,-95.0,-95.0,100.0,107.0,112.0,90.0,112.0,202.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 81,OLAGNIER Charles,79.8,85.0,90.0,-100.0,105.0,109.0,-115.0,90.0,109.0,199.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 81,LE VIENNESSE Stephane,79.5,75.0,80.0,85.0,100.0,-108.0,-108.0,85.0,100.0,185.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 81,LEE Jung ho,80.9,-90.0,90.0,-95.0,-110.0,-110.0,-110.0,90.0,0.0,0.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 89,GRAVOIS Ugo,82.5,110.0,-118.0,-120.0,130.0,-137.0,-145.0,110.0,130.0,240.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 89,LAMBERT Auguste,84.3,90.0,95.0,-100.0,-120.0,120.0,-125.0,95.0,120.0,215.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 96,PONTET Mathias,93.2,105.0,110.0,115.0,140.0,150.0,160.0,115.0,160.0,275.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 96,VITAL Jules,93.0,106.0,111.0,116.0,131.0,140.0,145.0,116.0,145.0,261.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 96,GLEVAREC Maxence,94.0,103.0,108.0,112.0,130.0,-134.0,-134.0,112.0,130.0,242.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 96,PERRIN-BIT Aubin,90.1,95.0,-100.0,-100.0,120.0,125.0,-130.0,95.0,125.0,220.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 109,LEAL PILLOT Ludvi oscar,102.3,110.0,115.0,122.0,150.0,155.0,-161.0,122.0,155.0,277.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 109,AOUICI Karim,108.0,70.0,75.0,80.0,95.0,100.0,105.0,80.0,105.0,185.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men >109,CORADO GARRO Lenny,122.3,95.0,100.0,106.0,115.0,125.0,132.0,106.0,132.0,238.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,U17 Women 64,BEDEIR LARADE Safana,62.2,57.0,60.0,-62.0,72.0,-75.0,76.0,60.0,76.0,136.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,U20 Women 59,HERBIN Vinciane,56.4,45.0,47.0,50.0,54.0,-56.0,56.0,50.0,56.0,106.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 55,AMRANE Hayate,54.2,45.0,48.0,-51.0,57.0,60.0,-64.0,48.0,60.0,108.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 55,MARTINELLI Laetitia,53.2,40.0,43.0,-46.0,58.0,61.0,-64.0,43.0,61.0,104.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 59,BRETELLE Rose,59.0,55.0,-60.0,60.0,75.0,80.0,-83.0,60.0,80.0,140.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 59,TCHICHE Linda,56.8,58.0,61.0,64.0,70.0,75.0,-80.0,64.0,75.0,139.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 59,ZHENG Noëlle,55.2,-58.0,58.0,-61.0,66.0,-69.0,69.0,58.0,69.0,127.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 59,CONSOLO Celia,56.0,45.0,48.0,-52.0,65.0,70.0,73.0,48.0,73.0,121.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 59,ZHENG Axelle,57.7,51.0,-53.0,-53.0,63.0,64.0,-66.0,51.0,64.0,115.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 71,PEREIRA Camille,69.0,-66.0,-66.0,66.0,75.0,-80.0,80.0,66.0,80.0,146.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 71,PACHOLAK Wendy,69.1,60.0,-63.0,-64.0,-80.0,80.0,83.0,60.0,83.0,143.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 87,VINCENT Chloe,81.2,60.0,-65.0,-66.0,80.0,85.0,88.0,60.0,88.0,148.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,U17 Women 64,BEDEIR LARADE Safana,62.2,57.0,60.0,-62.0,72.0,-75.0,76.0,60.0,76.0,136.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,U20 Women 59,HERBIN Vinciane,56.4,45.0,47.0,50.0,54.0,-56.0,56.0,50.0,56.0,106.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 55,AMRANE Hayate,54.2,45.0,48.0,-51.0,57.0,60.0,-64.0,48.0,60.0,108.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 55,MARTINELLI Laetitia,53.2,40.0,43.0,-46.0,58.0,61.0,-64.0,43.0,61.0,104.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 59,BRETELLE Rose,59.0,55.0,-60.0,60.0,75.0,80.0,-83.0,60.0,80.0,140.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 59,TCHICHE Linda,56.8,58.0,61.0,64.0,70.0,75.0,-80.0,64.0,75.0,139.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 59,ZHENG Noëlle,55.2,-58.0,58.0,-61.0,66.0,-69.0,69.0,58.0,69.0,127.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 59,CONSOLO Celia,56.0,45.0,48.0,-52.0,65.0,70.0,73.0,48.0,73.0,121.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 59,ZHENG Axelle,57.7,51.0,-53.0,-53.0,63.0,64.0,-66.0,51.0,64.0,115.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 71,PEREIRA Camille,69.0,-66.0,-66.0,66.0,75.0,-80.0,80.0,66.0,80.0,146.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 71,PACHOLAK Wendy,69.1,60.0,-63.0,-64.0,-80.0,80.0,83.0,60.0,83.0,143.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 87,VINCENT Chloe,81.2,60.0,-65.0,-66.0,80.0,85.0,88.0,60.0,88.0,148.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,U20 Women 59,CHAMPION Lilou,57.2,47.0,52.0,-54.0,57.0,-62.0,-63.0,52.0,57.0,109.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 55,DEPEYROT Julie,51.3,38.0,40.0,-42.0,55.0,58.0,-60.0,40.0,58.0,98.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 59,BLANCHET Esther,55.6,38.0,41.0,43.0,51.0,54.0,57.0,43.0,57.0,100.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 64,ALMEIDA Lea,63.8,-60.0,61.0,65.0,70.0,-73.0,-73.0,65.0,70.0,135.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 64,LEBUZULLIER Gwendoline,61.4,52.0,55.0,58.0,68.0,72.0,-75.0,58.0,72.0,130.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 64,DOUCOURÉ Mantia,63.1,54.0,-58.0,-58.0,64.0,-68.0,-68.0,54.0,64.0,118.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 64,MONNIER Olwen,59.4,47.0,50.0,-55.0,60.0,65.0,-70.0,50.0,65.0,115.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 64,SROUJI Julia,61.2,-47.0,48.0,-51.0,60.0,-63.0,64.0,48.0,64.0,112.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 64,BELKHIRIA Soraya,63.4,45.0,-47.0,47.0,-60.0,60.0,-63.0,47.0,60.0,107.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 64,TIBO Valérie,63.3,38.0,40.0,-43.0,55.0,60.0,-64.0,40.0,60.0,100.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 64,AMATO Maelys,63.1,28.0,31.0,-35.0,40.0,44.0,-47.0,31.0,44.0,75.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 71,ORSINI Cléa,70.6,45.0,49.0,-53.0,63.0,-68.0,-68.0,49.0,63.0,112.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 71,AJIMI Nadra,70.0,46.0,48.0,-50.0,-63.0,-63.0,-63.0,48.0,0.0,0.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 76,ARNAULT Albane,72.7,47.0,-50.0,50.0,61.0,64.0,-68.0,50.0,64.0,114.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 81,TOURAINE HELIAS Kyla,78.6,37.0,40.0,-42.0,40.0,45.0,49.0,40.0,49.0,89.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,U20 Women 59,CHAMPION Lilou,57.2,47.0,52.0,-54.0,57.0,-62.0,-63.0,52.0,57.0,109.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 55,DEPEYROT Julie,51.3,38.0,40.0,-42.0,55.0,58.0,-60.0,40.0,58.0,98.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 59,BLANCHET Esther,55.6,38.0,41.0,43.0,51.0,54.0,57.0,43.0,57.0,100.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 64,ALMEIDA Lea,63.8,-60.0,61.0,65.0,70.0,-73.0,-73.0,65.0,70.0,135.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 64,LEBUZULLIER Gwendoline,61.4,52.0,55.0,58.0,68.0,72.0,-75.0,58.0,72.0,130.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 64,DOUCOURÉ Mantia,63.1,54.0,-58.0,-58.0,64.0,-68.0,-68.0,54.0,64.0,118.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 64,MONNIER Olwen,59.4,47.0,50.0,-55.0,60.0,65.0,-70.0,50.0,65.0,115.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 64,SROUJI Julia,61.2,-47.0,48.0,-51.0,60.0,-63.0,64.0,48.0,64.0,112.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 64,BELKHIRIA Soraya,63.4,45.0,-47.0,47.0,-60.0,60.0,-63.0,47.0,60.0,107.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 64,TIBO Valérie,63.3,38.0,40.0,-43.0,55.0,60.0,-64.0,40.0,60.0,100.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 64,AMATO Maelys,63.1,28.0,31.0,-35.0,40.0,44.0,-47.0,31.0,44.0,75.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 71,ORSINI Cléa,70.6,45.0,49.0,-53.0,63.0,-68.0,-68.0,49.0,63.0,112.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 71,AJIMI Nadra,70.0,46.0,48.0,-50.0,-63.0,-63.0,-63.0,48.0,0.0,0.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 76,ARNAULT Albane,72.7,47.0,-50.0,50.0,61.0,64.0,-68.0,50.0,64.0,114.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Women 81,TOURAINE HELIAS Kyla,78.6,37.0,40.0,-42.0,40.0,45.0,49.0,40.0,49.0,89.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,U17 Men 89,LOUSSE Marius,82.2,60.0,67.0,-71.0,80.0,-85.0,85.0,67.0,85.0,152.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,U20 Men 81,SULEJIC Alexandre,73.2,90.0,95.0,-100.0,110.0,-115.0,115.0,95.0,115.0,210.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 67,HOMMET Erik,66.9,73.0,77.0,-80.0,-93.0,93.0,100.0,77.0,100.0,177.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 67,GURUNG Subrat,66.1,70.0,75.0,-77.0,85.0,95.0,100.0,75.0,100.0,175.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 67,LO Lim-kheng,64.9,65.0,70.0,73.0,-85.0,85.0,-90.0,73.0,85.0,158.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 81,OLLIVIER Frederic,74.4,90.0,100.0,-105.0,117.0,-121.0,123.0,100.0,123.0,223.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 81,MARTIN Vincent,75.4,85.0,92.0,-95.0,110.0,120.0,-125.0,92.0,120.0,212.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 81,DEBRET Anthony,77.1,90.0,95.0,-100.0,110.0,-120.0,-120.0,95.0,110.0,205.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 81,JAROSZ Quentin,74.3,-80.0,80.0,-90.0,115.0,-120.0,-120.0,80.0,115.0,195.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 81,MORIOT Théo,74.7,75.0,80.0,85.0,100.0,105.0,-110.0,85.0,105.0,190.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 81,SAADI Tiseme,76.2,75.0,80.0,-88.0,100.0,-105.0,105.0,80.0,105.0,185.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 89,BURY Valentin,87.6,95.0,100.0,-105.0,125.0,130.0,-135.0,100.0,130.0,230.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 89,PANNIRSELVAME Thomas,82.2,80.0,86.0,-91.0,-121.0,121.0,-123.0,86.0,121.0,207.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 96,LEZIN Vivien,96.0,-90.0,91.0,96.0,120.0,125.0,-130.0,96.0,125.0,221.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 96,CARLIER Vincent,91.7,95.0,100.0,-105.0,115.0,-120.0,120.0,100.0,120.0,220.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,U17 Men 89,LOUSSE Marius,82.2,60.0,67.0,-71.0,80.0,-85.0,85.0,67.0,85.0,152.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,U20 Men 81,SULEJIC Alexandre,73.2,90.0,95.0,-100.0,110.0,-115.0,115.0,95.0,115.0,210.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 67,HOMMET Erik,66.9,73.0,77.0,-80.0,-93.0,93.0,100.0,77.0,100.0,177.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 67,GURUNG Subrat,66.1,70.0,75.0,-77.0,85.0,95.0,100.0,75.0,100.0,175.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 67,LO Lim-kheng,64.9,65.0,70.0,73.0,-85.0,85.0,-90.0,73.0,85.0,158.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 81,OLLIVIER Frederic,74.4,90.0,100.0,-105.0,117.0,-121.0,123.0,100.0,123.0,223.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 81,MARTIN Vincent,75.4,85.0,92.0,-95.0,110.0,120.0,-125.0,92.0,120.0,212.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 81,DEBRET Anthony,77.1,90.0,95.0,-100.0,110.0,-120.0,-120.0,95.0,110.0,205.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 81,JAROSZ Quentin,74.3,-80.0,80.0,-90.0,115.0,-120.0,-120.0,80.0,115.0,195.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 81,MORIOT Théo,74.7,75.0,80.0,85.0,100.0,105.0,-110.0,85.0,105.0,190.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 81,SAADI Tiseme,76.2,75.0,80.0,-88.0,100.0,-105.0,105.0,80.0,105.0,185.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 89,BURY Valentin,87.6,95.0,100.0,-105.0,125.0,130.0,-135.0,100.0,130.0,230.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 89,PANNIRSELVAME Thomas,82.2,80.0,86.0,-91.0,-121.0,121.0,-123.0,86.0,121.0,207.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 96,LEZIN Vivien,96.0,-90.0,91.0,96.0,120.0,125.0,-130.0,96.0,125.0,221.0
+IDF - REG 1 - Paris 18ème - 4ème tour championnat régional des clubs Plateau 1,2024-03-23,SEN Men 96,CARLIER Vincent,91.7,95.0,100.0,-105.0,115.0,-120.0,120.0,100.0,120.0,220.0

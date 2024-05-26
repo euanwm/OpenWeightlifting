@@ -1,22 +1,363 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-AURA - Champ de France Elite,2021-10-23,U17 Women 49,ROSTAND Eva,48.78,47.0,-51.0,51.0,55.0,61.0,-63.0,51.0,61.0,112.0
-AURA - Champ de France Elite,2021-10-23,U17 Women 64,IAFRATE Sara,63.07,51.0,52.0,55.0,61.0,65.0,70.0,55.0,70.0,125.0
-AURA - Champ de France Elite,2021-10-23,U20 Women 55,JACOB Carla,53.94,60.0,62.0,64.0,74.0,78.0,-83.0,64.0,78.0,142.0
-AURA - Champ de France Elite,2021-10-23,U20 Women 71,MANTAROPOULOS Marie,66.3,72.0,75.0,-78.0,95.0,-0.0,-0.0,75.0,95.0,170.0
-AURA - Champ de France Elite,2021-10-23,U20 Women 71,PICOT Zeline,68.21,63.0,66.0,-69.0,80.0,85.0,-89.0,66.0,85.0,151.0
-AURA - Champ de France Elite,2021-10-23,U20 Women 71,OUTTERS Maud,65.53,58.0,-61.0,-61.0,68.0,-71.0,74.0,58.0,74.0,132.0
-AURA - Champ de France Elite,2021-10-23,SEN Women 45,PEETERS Emilie,42.26,-47.0,47.0,48.0,62.0,-64.0,-64.0,48.0,62.0,110.0
-AURA - Champ de France Elite,2021-10-23,SEN Women 59,VASCONCELOS Helen,58.33,-72.0,72.0,-75.0,85.0,90.0,-95.0,72.0,90.0,162.0
-AURA - Champ de France Elite,2021-10-23,SEN Women 59,MOUNIER Camille,57.49,67.0,-71.0,71.0,85.0,-89.0,89.0,71.0,89.0,160.0
-AURA - Champ de France Elite,2021-10-23,SEN Women 59,VERNET Julie,58.78,65.0,69.0,71.0,87.0,-90.0,-90.0,71.0,87.0,158.0
-AURA - Champ de France Elite,2021-10-23,SEN Women 59,DUCLAVÉ Cassandra,57.51,54.0,58.0,-60.0,-71.0,-71.0,-74.0,58.0,-71.0,0.0
-AURA - Champ de France Elite,2021-10-23,SEN Women 64,SAINT AIME Sarah,63.01,-80.0,80.0,82.0,102.0,-106.0,-108.0,82.0,102.0,184.0
-AURA - Champ de France Elite,2021-10-23,SEN Women 64,GRENERON Metty,64.0,80.0,-83.0,-83.0,95.0,100.0,-103.0,80.0,100.0,180.0
-AURA - Champ de France Elite,2021-10-23,SEN Women 64,MOSTAERT Eva,63.87,68.0,72.0,-75.0,85.0,90.0,-95.0,72.0,90.0,162.0
-AURA - Champ de France Elite,2021-10-23,SEN Women 64,HOUELCHE Charline,62.07,60.0,62.0,-63.0,65.0,68.0,-70.0,62.0,68.0,130.0
-AURA - Champ de France Elite,2021-10-23,SEN Women 71,ROBIN Marie,69.37,88.0,90.0,93.0,109.0,-112.0,-112.0,93.0,109.0,202.0
-AURA - Champ de France Elite,2021-10-23,SEN Women 71,VALEMBOIS Emma,67.17,75.0,-79.0,-79.0,100.0,105.0,-110.0,75.0,105.0,180.0
-AURA - Champ de France Elite,2021-10-23,SEN Women 71,JAEG Mélanie,70.7,72.0,-75.0,-75.0,93.0,-97.0,99.0,72.0,99.0,171.0
-AURA - Champ de France Elite,2021-10-23,SEN Women 71,COMBELLES Laetitia,68.77,75.0,-79.0,-79.0,-95.0,-95.0,95.0,75.0,95.0,170.0
-AURA - Champ de France Elite,2021-10-23,SEN Women 71,COSSUTTA Lou,69.8,60.0,-64.0,64.0,-80.0,80.0,-85.0,64.0,80.0,144.0
-AURA - Champ de France Elite,2021-10-23,SEN Women 76,PEREZ-MIVIERE Alexia,74.04,72.0,75.0,78.0,100.0,-105.0,-109.0,78.0,100.0,178.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U15 Men 67,PENCOLE Benjamin,65.3,32.0,34.0,-36.0,40.0,43.0,45.0,34.0,45.0,79.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U17 Men 55,DELAMOTTE Lukas,52.6,67.0,70.0,72.0,86.0,-90.0,91.0,72.0,91.0,163.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U17 Men 73,JARDIN Lucas,68.4,70.0,-75.0,75.0,80.0,85.0,88.0,75.0,88.0,163.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Men 81,TRIBEHOU Deven,73.6,85.0,90.0,-93.0,-100.0,100.0,-107.0,90.0,100.0,190.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Men 102,JAME Mathéo,101.9,-85.0,85.0,90.0,100.0,105.0,110.0,90.0,110.0,200.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Men 102,ANGOT Yann,96.3,55.0,60.0,-65.0,70.0,73.0,75.0,60.0,75.0,135.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 67,MADELAINE Sacha,64.5,75.0,80.0,-85.0,100.0,-105.0,-105.0,80.0,100.0,180.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 67,BOHEME Théo,65.6,60.0,65.0,70.0,75.0,80.0,85.0,70.0,85.0,155.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 73,RENAUX Alan,72.2,93.0,98.0,-100.0,107.0,112.0,-115.0,98.0,112.0,210.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 73,MONAHAN James,72.0,65.0,70.0,73.0,87.0,-90.0,-90.0,73.0,87.0,160.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 73,FREBOURG Guillaume,71.7,62.0,-65.0,67.0,81.0,86.0,-88.0,67.0,86.0,153.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 73,LEFORT Maxime,72.4,55.0,60.0,65.0,80.0,85.0,-90.0,65.0,85.0,150.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,SAUVOUREL Elian,73.7,78.0,81.0,83.0,102.0,-107.0,-107.0,83.0,102.0,185.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,MEYER Hugo,76.3,75.0,80.0,82.0,95.0,100.0,-103.0,82.0,100.0,182.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,JAMES Paul,77.2,60.0,-65.0,65.0,70.0,75.0,80.0,65.0,80.0,145.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 89,LEGRAND Louis,83.6,80.0,82.0,84.0,110.0,114.0,-117.0,84.0,114.0,198.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 89,REMBOTTE Doryann,86.8,70.0,75.0,-80.0,-88.0,88.0,95.0,75.0,95.0,170.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 89,BERTHELIN LE TELLIER Thomas,86.7,52.0,-57.0,57.0,60.0,65.0,70.0,57.0,70.0,127.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 96,ANNE Cyrille,94.3,80.0,85.0,-88.0,105.0,110.0,-115.0,85.0,110.0,195.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 96,FRIBOULET Léo,90.6,-70.0,-70.0,70.0,85.0,90.0,97.0,70.0,97.0,167.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 102,CAILLARD Charly,99.0,95.0,100.0,105.0,115.0,121.0,125.0,105.0,125.0,230.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 102,JAME Jason,97.8,90.0,-95.0,95.0,-110.0,110.0,120.0,95.0,120.0,215.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U15 Women 55,GUINET Romane,54.5,25.0,-28.0,28.0,34.0,36.0,38.0,28.0,38.0,66.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U15 Women 71,WEXSTEEN Malvina,70.9,33.0,36.0,40.0,40.0,45.0,49.0,40.0,49.0,89.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U17 Women 49,BECQUET Morgane,48.0,18.0,-20.0,20.0,25.0,28.0,-30.0,20.0,28.0,48.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U17 Women 64,FONTENELLE Lea,62.8,42.0,-44.0,45.0,-52.0,-55.0,55.0,45.0,55.0,100.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U17 Women 76,HOFLACK Laura,76.0,40.0,44.0,47.0,50.0,55.0,58.0,47.0,58.0,105.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Women 64,BLONDE Camille,62.2,35.0,37.0,39.0,50.0,55.0,57.0,39.0,57.0,96.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 59,DEFONTAINE Elodie,56.8,18.0,21.0,23.0,30.0,33.0,36.0,23.0,36.0,59.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 71,VANHOUTTE Alexia,64.8,45.0,50.0,55.0,57.0,61.0,-65.0,55.0,61.0,116.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U15 Women 55,GUINET Romane,54.5,25.0,-28.0,28.0,34.0,36.0,38.0,28.0,38.0,66.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U15 Women 71,WEXSTEEN Malvina,70.9,33.0,36.0,40.0,40.0,45.0,49.0,40.0,49.0,89.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U17 Women 49,BECQUET Morgane,48.0,18.0,-20.0,20.0,25.0,28.0,-30.0,20.0,28.0,48.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U17 Women 64,FONTENELLE Lea,62.8,42.0,-44.0,45.0,-52.0,-55.0,55.0,45.0,55.0,100.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U17 Women 76,HOFLACK Laura,76.0,40.0,44.0,47.0,50.0,55.0,58.0,47.0,58.0,105.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Women 64,BLONDE Camille,62.2,35.0,37.0,39.0,50.0,55.0,57.0,39.0,57.0,96.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 59,DEFONTAINE Elodie,56.8,18.0,21.0,23.0,30.0,33.0,36.0,23.0,36.0,59.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 71,VANHOUTTE Alexia,64.8,45.0,50.0,55.0,57.0,61.0,-65.0,55.0,61.0,116.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Men 67,MARTIN Hugo,66.8,65.0,70.0,75.0,90.0,95.0,100.0,75.0,100.0,175.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Men 67,GELE Ulysse,67.0,73.0,78.0,-82.0,89.0,94.0,96.0,78.0,96.0,174.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Men 67,BLONDIN Victorien,63.5,57.0,61.0,-64.0,78.0,82.0,-86.0,61.0,82.0,143.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Men 73,VARLET Aymeric,72.0,-65.0,65.0,70.0,86.0,91.0,-95.0,70.0,91.0,161.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 67,MONVOISIN Lucas,64.0,80.0,-85.0,-85.0,105.0,110.0,-113.0,80.0,110.0,190.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 67,ROHAUT Florian,62.6,71.0,74.0,76.0,90.0,95.0,100.0,76.0,100.0,176.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,HIROUX Julien,74.9,73.0,76.0,-80.0,103.0,-107.0,-107.0,76.0,103.0,179.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,LEROUGE Ludovic,78.8,74.0,-78.0,-79.0,87.0,92.0,-96.0,74.0,92.0,166.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 89,FONTAINE Camille,82.0,80.0,84.0,-88.0,110.0,115.0,-118.0,84.0,115.0,199.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men >109,JOLY Emilien,109.1,100.0,106.0,111.0,115.0,120.0,-125.0,111.0,120.0,231.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Men 67,MARTIN Hugo,66.8,65.0,70.0,75.0,90.0,95.0,100.0,75.0,100.0,175.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Men 67,GELE Ulysse,67.0,73.0,78.0,-82.0,89.0,94.0,96.0,78.0,96.0,174.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Men 67,BLONDIN Victorien,63.5,57.0,61.0,-64.0,78.0,82.0,-86.0,61.0,82.0,143.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Men 73,VARLET Aymeric,72.0,-65.0,65.0,70.0,86.0,91.0,-95.0,70.0,91.0,161.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 67,MONVOISIN Lucas,64.0,80.0,-85.0,-85.0,105.0,110.0,-113.0,80.0,110.0,190.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 67,ROHAUT Florian,62.6,71.0,74.0,76.0,90.0,95.0,100.0,76.0,100.0,176.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,HIROUX Julien,74.9,73.0,76.0,-80.0,103.0,-107.0,-107.0,76.0,103.0,179.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,LEROUGE Ludovic,78.8,74.0,-78.0,-79.0,87.0,92.0,-96.0,74.0,92.0,166.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 89,FONTAINE Camille,82.0,80.0,84.0,-88.0,110.0,115.0,-118.0,84.0,115.0,199.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men >109,JOLY Emilien,109.1,100.0,106.0,111.0,115.0,120.0,-125.0,111.0,120.0,231.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U17 Women 49,BEAUGEOIST Romane,46.2,32.0,35.0,37.0,42.0,45.0,48.0,37.0,48.0,85.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Women 49,MATHUREL Kalia,46.9,35.0,38.0,40.0,48.0,-52.0,52.0,40.0,52.0,92.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Women 55,ROUSSEL Julie,54.7,56.0,60.0,-62.0,68.0,71.0,73.0,60.0,73.0,133.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Women 55,PHAM Lee na,53.0,50.0,54.0,56.0,65.0,68.0,-71.0,56.0,68.0,124.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Women 64,BERTRAND Jeanne,63.5,42.0,45.0,-48.0,52.0,55.0,-58.0,45.0,55.0,100.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Women 71,WITASSE Valentine,69.8,48.0,52.0,-55.0,58.0,62.0,-66.0,52.0,62.0,114.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Women >87,HUYSSEUNE Iliana,93.7,55.0,-61.0,-61.0,71.0,76.0,-79.0,55.0,76.0,131.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 64,CABON Ophelie,62.4,61.0,65.0,68.0,75.0,80.0,-85.0,68.0,80.0,148.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U17 Women 49,BEAUGEOIST Romane,46.2,32.0,35.0,37.0,42.0,45.0,48.0,37.0,48.0,85.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Women 49,MATHUREL Kalia,46.9,35.0,38.0,40.0,48.0,-52.0,52.0,40.0,52.0,92.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Women 55,ROUSSEL Julie,54.7,56.0,60.0,-62.0,68.0,71.0,73.0,60.0,73.0,133.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Women 55,PHAM Lee na,53.0,50.0,54.0,56.0,65.0,68.0,-71.0,56.0,68.0,124.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Women 64,BERTRAND Jeanne,63.5,42.0,45.0,-48.0,52.0,55.0,-58.0,45.0,55.0,100.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Women 71,WITASSE Valentine,69.8,48.0,52.0,-55.0,58.0,62.0,-66.0,52.0,62.0,114.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Women >87,HUYSSEUNE Iliana,93.7,55.0,-61.0,-61.0,71.0,76.0,-79.0,55.0,76.0,131.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 64,CABON Ophelie,62.4,61.0,65.0,68.0,75.0,80.0,-85.0,68.0,80.0,148.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U15 Women 49,CAPART Lola,45.7,34.0,-38.0,-38.0,42.0,-45.0,45.0,34.0,45.0,79.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Women 76,NOURTIER Lyla,73.9,59.0,63.0,66.0,-78.0,78.0,-80.0,66.0,78.0,144.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 49,SITTER Cécile,45.6,47.0,50.0,-52.0,57.0,-60.0,-60.0,50.0,57.0,107.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 59,PAJACZKOWSKI Zoe,58.7,45.0,48.0,-50.0,59.0,63.0,-66.0,48.0,63.0,111.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 71,VIVIER Charlotte,68.6,47.0,50.0,52.0,57.0,-60.0,61.0,52.0,61.0,113.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 71,LANCE BOUSSARIE Estelle,67.8,45.0,48.0,51.0,57.0,61.0,-65.0,51.0,61.0,112.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 71,BESSE Alexandra,65.1,40.0,45.0,47.0,53.0,58.0,61.0,47.0,61.0,108.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 71,VUYLSTEKER Lisa,65.4,43.0,45.0,-47.0,-55.0,55.0,59.0,45.0,59.0,104.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U15 Women 49,CAPART Lola,45.7,34.0,-38.0,-38.0,42.0,-45.0,45.0,34.0,45.0,79.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Women 76,NOURTIER Lyla,73.9,59.0,63.0,66.0,-78.0,78.0,-80.0,66.0,78.0,144.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 49,SITTER Cécile,45.6,47.0,50.0,-52.0,57.0,-60.0,-60.0,50.0,57.0,107.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 59,PAJACZKOWSKI Zoe,58.7,45.0,48.0,-50.0,59.0,63.0,-66.0,48.0,63.0,111.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 71,VIVIER Charlotte,68.6,47.0,50.0,52.0,57.0,-60.0,61.0,52.0,61.0,113.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 71,LANCE BOUSSARIE Estelle,67.8,45.0,48.0,51.0,57.0,61.0,-65.0,51.0,61.0,112.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 71,BESSE Alexandra,65.1,40.0,45.0,47.0,53.0,58.0,61.0,47.0,61.0,108.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 71,VUYLSTEKER Lisa,65.4,43.0,45.0,-47.0,-55.0,55.0,59.0,45.0,59.0,104.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U15 Men 61,LEGRAND Tom,57.4,36.0,-39.0,39.0,48.0,52.0,55.0,39.0,55.0,94.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U17 Men 55,EDOUARD TRIOLETT Timothey,50.2,47.0,-51.0,-51.0,62.0,-67.0,67.0,47.0,67.0,114.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U17 Men 67,DUMEIGE Rémy,63.8,51.0,56.0,-58.0,70.0,75.0,78.0,56.0,78.0,134.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Men 96,SOMBRET Raphael,89.4,53.0,58.0,60.0,70.0,75.0,78.0,60.0,78.0,138.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 67,CANUT Timothe,67.0,96.0,101.0,-103.0,119.0,-124.0,-124.0,101.0,119.0,220.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 67,SEGARD Lilian,65.7,75.0,80.0,84.0,108.0,-113.0,115.0,84.0,115.0,199.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,SOETENS Loucas,78.9,85.0,93.0,-96.0,108.0,113.0,-116.0,93.0,113.0,206.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,BOUFFLET Dylan,74.8,-53.0,53.0,55.0,-68.0,68.0,-0.0,55.0,68.0,123.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 89,TEIRLYNCK Henri,84.0,90.0,94.0,97.0,115.0,122.0,-125.0,97.0,122.0,219.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 89,CHÉRIGIÉ Xavier,87.4,60.0,65.0,70.0,85.0,91.0,-95.0,70.0,91.0,161.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 96,LEGRAND Maxime,91.6,115.0,120.0,-123.0,140.0,145.0,-150.0,120.0,145.0,265.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 96,VERREYCKEN Dirk,95.1,96.0,100.0,-103.0,125.0,-130.0,130.0,100.0,130.0,230.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U15 Men 61,LEGRAND Tom,57.4,36.0,-39.0,39.0,48.0,52.0,55.0,39.0,55.0,94.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U17 Men 55,EDOUARD TRIOLETT Timothey,50.2,47.0,-51.0,-51.0,62.0,-67.0,67.0,47.0,67.0,114.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U17 Men 67,DUMEIGE Rémy,63.8,51.0,56.0,-58.0,70.0,75.0,78.0,56.0,78.0,134.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Men 96,SOMBRET Raphael,89.4,53.0,58.0,60.0,70.0,75.0,78.0,60.0,78.0,138.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 67,CANUT Timothe,67.0,96.0,101.0,-103.0,119.0,-124.0,-124.0,101.0,119.0,220.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 67,SEGARD Lilian,65.7,75.0,80.0,84.0,108.0,-113.0,115.0,84.0,115.0,199.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,SOETENS Loucas,78.9,85.0,93.0,-96.0,108.0,113.0,-116.0,93.0,113.0,206.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,BOUFFLET Dylan,74.8,-53.0,53.0,55.0,-68.0,68.0,-0.0,55.0,68.0,123.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 89,TEIRLYNCK Henri,84.0,90.0,94.0,97.0,115.0,122.0,-125.0,97.0,122.0,219.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 89,CHÉRIGIÉ Xavier,87.4,60.0,65.0,70.0,85.0,91.0,-95.0,70.0,91.0,161.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 96,LEGRAND Maxime,91.6,115.0,120.0,-123.0,140.0,145.0,-150.0,120.0,145.0,265.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 96,VERREYCKEN Dirk,95.1,96.0,100.0,-103.0,125.0,-130.0,130.0,100.0,130.0,230.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 73,RIQUIER Daniel,73.0,75.0,-80.0,80.0,93.0,97.0,102.0,80.0,102.0,182.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,D'AGUANNO Florian,80.4,105.0,-109.0,-109.0,-134.0,134.0,-136.0,105.0,134.0,239.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,MOITIE Christophe,80.0,-95.0,95.0,100.0,125.0,-128.0,-128.0,100.0,125.0,225.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,LEBLANC Thomas,79.1,95.0,-100.0,101.0,110.0,116.0,122.0,101.0,122.0,223.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,GATNER Arthur,79.4,88.0,93.0,-98.0,110.0,115.0,120.0,93.0,120.0,213.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 89,CINTAS Lucas,83.0,107.0,111.0,115.0,135.0,-140.0,140.0,115.0,140.0,255.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 89,RIQUIER Jeremy,81.3,113.0,118.0,-122.0,125.0,132.0,-140.0,118.0,132.0,250.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 89,BERAL Sebastien,84.8,103.0,107.0,-111.0,125.0,130.0,-135.0,107.0,130.0,237.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 89,DELPLANQUE Antoine,89.0,95.0,-100.0,102.0,-125.0,-125.0,125.0,102.0,125.0,227.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 109,TCHOUDEN TCHAMGOUE Jaurès verlaine,108.4,125.0,-130.0,-130.0,155.0,160.0,-161.0,125.0,160.0,285.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 73,RIQUIER Daniel,73.0,75.0,-80.0,80.0,93.0,97.0,102.0,80.0,102.0,182.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,D'AGUANNO Florian,80.4,105.0,-109.0,-109.0,-134.0,134.0,-136.0,105.0,134.0,239.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,MOITIE Christophe,80.0,-95.0,95.0,100.0,125.0,-128.0,-128.0,100.0,125.0,225.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,LEBLANC Thomas,79.1,95.0,-100.0,101.0,110.0,116.0,122.0,101.0,122.0,223.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,GATNER Arthur,79.4,88.0,93.0,-98.0,110.0,115.0,120.0,93.0,120.0,213.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 89,CINTAS Lucas,83.0,107.0,111.0,115.0,135.0,-140.0,140.0,115.0,140.0,255.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 89,RIQUIER Jeremy,81.3,113.0,118.0,-122.0,125.0,132.0,-140.0,118.0,132.0,250.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 89,BERAL Sebastien,84.8,103.0,107.0,-111.0,125.0,130.0,-135.0,107.0,130.0,237.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 89,DELPLANQUE Antoine,89.0,95.0,-100.0,102.0,-125.0,-125.0,125.0,102.0,125.0,227.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 109,TCHOUDEN TCHAMGOUE Jaurès verlaine,108.4,125.0,-130.0,-130.0,155.0,160.0,-161.0,125.0,160.0,285.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 55,GACQUERRE Chloé,54.9,42.0,45.0,-47.0,53.0,-56.0,-58.0,45.0,53.0,98.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 59,BOURBIER Maeva,59.0,46.0,50.0,52.0,59.0,61.0,64.0,52.0,64.0,116.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 64,LANOY Laetitia,63.3,60.0,63.0,65.0,76.0,79.0,82.0,65.0,82.0,147.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 64,DUCHAN Chloé,60.1,60.0,-63.0,-63.0,77.0,80.0,83.0,60.0,83.0,143.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 64,RIBET Manon,63.8,50.0,53.0,-55.0,65.0,70.0,72.0,53.0,72.0,125.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 64,RIEDBERGER Aude,62.1,-41.0,41.0,45.0,50.0,-55.0,55.0,45.0,55.0,100.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 64,TRAINEL Lucie,63.7,27.0,30.0,33.0,40.0,45.0,50.0,33.0,50.0,83.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 71,MORIN Amélya,67.7,35.0,38.0,40.0,42.0,47.0,52.0,40.0,52.0,92.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 55,GACQUERRE Chloé,54.9,42.0,45.0,-47.0,53.0,-56.0,-58.0,45.0,53.0,98.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 59,BOURBIER Maeva,59.0,46.0,50.0,52.0,59.0,61.0,64.0,52.0,64.0,116.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 64,LANOY Laetitia,63.3,60.0,63.0,65.0,76.0,79.0,82.0,65.0,82.0,147.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 64,DUCHAN Chloé,60.1,60.0,-63.0,-63.0,77.0,80.0,83.0,60.0,83.0,143.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 64,RIBET Manon,63.8,50.0,53.0,-55.0,65.0,70.0,72.0,53.0,72.0,125.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 64,RIEDBERGER Aude,62.1,-41.0,41.0,45.0,50.0,-55.0,55.0,45.0,55.0,100.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 64,TRAINEL Lucie,63.7,27.0,30.0,33.0,40.0,45.0,50.0,33.0,50.0,83.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 71,MORIN Amélya,67.7,35.0,38.0,40.0,42.0,47.0,52.0,40.0,52.0,92.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U15 Women 55,GUILMAU Prune,49.7,30.0,-35.0,-35.0,38.0,40.0,43.0,30.0,43.0,73.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U15 Women 59,LEON Charline,57.6,41.0,44.0,46.0,53.0,55.0,58.0,46.0,58.0,104.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U17 Women 55,HANOCQUE Astrid,52.7,52.0,55.0,57.0,63.0,67.0,69.0,57.0,69.0,126.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U17 Women 59,ROUSSEAU Norah,57.2,30.0,33.0,36.0,40.0,42.0,45.0,36.0,45.0,81.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U17 Women 64,RENAULT Alice,60.6,-46.0,46.0,52.0,60.0,63.0,65.0,52.0,65.0,117.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U17 Women 64,CORDIER Kenza,63.5,20.0,25.0,27.0,27.0,30.0,33.0,27.0,33.0,60.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U17 Women 71,LÉON Addison,69.2,32.0,34.0,-36.0,40.0,43.0,46.0,34.0,46.0,80.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U17 Women 71,LEON Marika,69.2,31.0,34.0,-36.0,41.0,44.0,-49.0,34.0,44.0,78.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Women 59,LEROY Lili,56.0,25.0,30.0,-32.0,30.0,-35.0,35.0,30.0,35.0,65.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Women 64,ANDREU Juliette,60.1,35.0,38.0,41.0,47.0,50.0,-53.0,41.0,50.0,91.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 49,LAISNÉ Johanie,48.8,35.0,40.0,44.0,50.0,-55.0,55.0,44.0,55.0,99.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 55,GUEROULT Gwenaëlle,52.6,55.0,57.0,-61.0,72.0,-74.0,74.0,57.0,74.0,131.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 55,FREBOURG Elise,50.2,47.0,50.0,53.0,65.0,-68.0,-68.0,53.0,65.0,118.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 55,LOUBAR Léa,54.9,53.0,-55.0,-55.0,60.0,-64.0,-64.0,53.0,60.0,113.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 59,BRASSART Alyssa,57.0,62.0,65.0,67.0,77.0,80.0,-83.0,67.0,80.0,147.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 59,BUKATO Aline,57.9,45.0,-48.0,-50.0,-60.0,60.0,63.0,45.0,63.0,108.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 64,TAQUIN Laura,59.6,64.0,67.0,-70.0,74.0,77.0,-80.0,67.0,77.0,144.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 64,PINEAU Oceane,64.0,54.0,-57.0,58.0,70.0,74.0,-78.0,58.0,74.0,132.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 64,ANDREU Marianne,62.3,38.0,-40.0,-40.0,45.0,48.0,-51.0,38.0,48.0,86.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 71,SOREAU Alia,64.5,55.0,-58.0,-58.0,65.0,-68.0,68.0,55.0,68.0,123.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 71,CAILLEAUD Noeline,70.5,52.0,55.0,57.0,60.0,-63.0,63.0,57.0,63.0,120.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 76,HAUTERS Laetitia,71.3,55.0,60.0,65.0,80.0,85.0,-88.0,65.0,85.0,150.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women >87,DUBUC Iliana,92.7,53.0,-56.0,57.0,65.0,70.0,74.0,57.0,74.0,131.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U15 Women 55,GUILMAU Prune,49.7,30.0,-35.0,-35.0,38.0,40.0,43.0,30.0,43.0,73.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U15 Women 59,LEON Charline,57.6,41.0,44.0,46.0,53.0,55.0,58.0,46.0,58.0,104.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U17 Women 55,HANOCQUE Astrid,52.7,52.0,55.0,57.0,63.0,67.0,69.0,57.0,69.0,126.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U17 Women 59,ROUSSEAU Norah,57.2,30.0,33.0,36.0,40.0,42.0,45.0,36.0,45.0,81.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U17 Women 64,RENAULT Alice,60.6,-46.0,46.0,52.0,60.0,63.0,65.0,52.0,65.0,117.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U17 Women 64,CORDIER Kenza,63.5,20.0,25.0,27.0,27.0,30.0,33.0,27.0,33.0,60.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U17 Women 71,LÉON Addison,69.2,32.0,34.0,-36.0,40.0,43.0,46.0,34.0,46.0,80.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U17 Women 71,LEON Marika,69.2,31.0,34.0,-36.0,41.0,44.0,-49.0,34.0,44.0,78.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Women 59,LEROY Lili,56.0,25.0,30.0,-32.0,30.0,-35.0,35.0,30.0,35.0,65.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Women 64,ANDREU Juliette,60.1,35.0,38.0,41.0,47.0,50.0,-53.0,41.0,50.0,91.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 49,LAISNÉ Johanie,48.8,35.0,40.0,44.0,50.0,-55.0,55.0,44.0,55.0,99.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 55,GUEROULT Gwenaëlle,52.6,55.0,57.0,-61.0,72.0,-74.0,74.0,57.0,74.0,131.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 55,FREBOURG Elise,50.2,47.0,50.0,53.0,65.0,-68.0,-68.0,53.0,65.0,118.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 55,LOUBAR Léa,54.9,53.0,-55.0,-55.0,60.0,-64.0,-64.0,53.0,60.0,113.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 59,BRASSART Alyssa,57.0,62.0,65.0,67.0,77.0,80.0,-83.0,67.0,80.0,147.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 59,BUKATO Aline,57.9,45.0,-48.0,-50.0,-60.0,60.0,63.0,45.0,63.0,108.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 64,TAQUIN Laura,59.6,64.0,67.0,-70.0,74.0,77.0,-80.0,67.0,77.0,144.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 64,PINEAU Oceane,64.0,54.0,-57.0,58.0,70.0,74.0,-78.0,58.0,74.0,132.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 64,ANDREU Marianne,62.3,38.0,-40.0,-40.0,45.0,48.0,-51.0,38.0,48.0,86.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 71,SOREAU Alia,64.5,55.0,-58.0,-58.0,65.0,-68.0,68.0,55.0,68.0,123.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 71,CAILLEAUD Noeline,70.5,52.0,55.0,57.0,60.0,-63.0,63.0,57.0,63.0,120.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 76,HAUTERS Laetitia,71.3,55.0,60.0,65.0,80.0,85.0,-88.0,65.0,85.0,150.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women >87,DUBUC Iliana,92.7,53.0,-56.0,57.0,65.0,70.0,74.0,57.0,74.0,131.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U15 Men 89,DEBARD Martin,83.0,29.0,32.0,35.0,38.0,-41.0,42.0,35.0,42.0,77.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,MARGUIER Flavien,78.8,70.0,73.0,75.0,90.0,94.0,95.0,75.0,95.0,170.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,LACROIX Jonathan,73.8,70.0,73.0,-75.0,86.0,89.0,-92.0,73.0,89.0,162.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,BOURDENET Cyrille,77.7,60.0,65.0,-68.0,80.0,85.0,-88.0,65.0,85.0,150.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,SEURRE Florent,74.5,53.0,57.0,-61.0,72.0,76.0,-81.0,57.0,76.0,133.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 89,SANER Lucas,81.4,70.0,-73.0,73.0,80.0,84.0,88.0,73.0,88.0,161.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 89,GIGER Alescanche,81.6,45.0,50.0,-55.0,55.0,60.0,65.0,50.0,65.0,115.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 102,LANQUETIN Allan,97.3,65.0,68.0,-72.0,80.0,84.0,-88.0,68.0,84.0,152.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U15 Men 89,DEBARD Martin,83.0,29.0,32.0,35.0,38.0,-41.0,42.0,35.0,42.0,77.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,MARGUIER Flavien,78.8,70.0,73.0,75.0,90.0,94.0,95.0,75.0,95.0,170.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,LACROIX Jonathan,73.8,70.0,73.0,-75.0,86.0,89.0,-92.0,73.0,89.0,162.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,BOURDENET Cyrille,77.7,60.0,65.0,-68.0,80.0,85.0,-88.0,65.0,85.0,150.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,SEURRE Florent,74.5,53.0,57.0,-61.0,72.0,76.0,-81.0,57.0,76.0,133.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 89,SANER Lucas,81.4,70.0,-73.0,73.0,80.0,84.0,88.0,73.0,88.0,161.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 89,GIGER Alescanche,81.6,45.0,50.0,-55.0,55.0,60.0,65.0,50.0,65.0,115.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 102,LANQUETIN Allan,97.3,65.0,68.0,-72.0,80.0,84.0,-88.0,68.0,84.0,152.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U15 Women 71,FORESTIER Lison,67.7,60.0,-63.0,65.0,68.0,72.0,-76.0,65.0,72.0,137.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Women 55,LIGIER Maelys,54.5,-39.0,41.0,-43.0,48.0,-51.0,51.0,41.0,51.0,92.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Women 64,BLONDEAU Romane,59.1,33.0,-0.0,-0.0,-0.0,-0.0,-0.0,33.0,0.0,0.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 55,YSSOUFI Bibi-fatima,49.3,-43.0,43.0,46.0,60.0,63.0,66.0,46.0,66.0,112.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 59,SANAVAY Anita,56.9,34.0,37.0,-40.0,47.0,50.0,-55.0,37.0,50.0,87.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 59,SANTI Leonie,57.6,30.0,33.0,35.0,39.0,42.0,45.0,35.0,45.0,80.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 71,JAMAR Mathilda,66.1,-38.0,38.0,43.0,50.0,54.0,-57.0,43.0,54.0,97.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 87,ZAHNER Fany,83.6,50.0,-53.0,55.0,63.0,-66.0,-69.0,55.0,63.0,118.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U15 Women 71,FORESTIER Lison,67.7,60.0,-63.0,65.0,68.0,72.0,-76.0,65.0,72.0,137.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Women 55,LIGIER Maelys,54.5,-39.0,41.0,-43.0,48.0,-51.0,51.0,41.0,51.0,92.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Women 64,BLONDEAU Romane,59.1,33.0,-0.0,-0.0,-0.0,-0.0,-0.0,33.0,0.0,0.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 55,YSSOUFI Bibi-fatima,49.3,-43.0,43.0,46.0,60.0,63.0,66.0,46.0,66.0,112.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 59,SANAVAY Anita,56.9,34.0,37.0,-40.0,47.0,50.0,-55.0,37.0,50.0,87.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 59,SANTI Leonie,57.6,30.0,33.0,35.0,39.0,42.0,45.0,35.0,45.0,80.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 71,JAMAR Mathilda,66.1,-38.0,38.0,43.0,50.0,54.0,-57.0,43.0,54.0,97.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 87,ZAHNER Fany,83.6,50.0,-53.0,55.0,63.0,-66.0,-69.0,55.0,63.0,118.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U17 Men 89,KERKENI Noam,84.5,75.0,-80.0,-80.0,95.0,100.0,105.0,75.0,105.0,180.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Men 67,VIGNERESSE Erwan,67.0,78.0,82.0,-87.0,97.0,-102.0,-102.0,82.0,97.0,179.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Men 67,SIMARD--FERNANDES Mathis,61.4,66.0,-70.0,70.0,90.0,-95.0,-100.0,70.0,90.0,160.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 67,CREVOISIER Lucien,63.9,-81.0,81.0,-85.0,90.0,-95.0,-100.0,81.0,90.0,171.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 73,OLIVEIRA Robin,67.6,80.0,86.0,90.0,100.0,106.0,-110.0,90.0,106.0,196.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,MATHIOT Hugo,73.9,92.0,96.0,100.0,115.0,120.0,125.0,100.0,125.0,225.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,MALBEC Arthur,81.0,-83.0,-85.0,-85.0,100.0,105.0,-108.0,0.0,105.0,0.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 89,STUMPF Fabien,88.3,88.0,-95.0,95.0,120.0,-125.0,-0.0,95.0,120.0,215.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 89,DUBOIS Vincent,88.3,84.0,87.0,-90.0,102.0,106.0,109.0,87.0,109.0,196.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 89,LECHEVALIER Charles,81.5,80.0,85.0,-91.0,95.0,-100.0,101.0,85.0,101.0,186.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 96,NICOLIN Aslam,91.8,100.0,-112.0,-112.0,135.0,-145.0,-150.0,100.0,135.0,235.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 96,PHARIZAT Kevin,95.2,98.0,103.0,-108.0,116.0,-121.0,-121.0,103.0,116.0,219.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 96,LANGE Jérémy,90.5,93.0,97.0,101.0,110.0,115.0,-120.0,101.0,115.0,216.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 96,GILBIN Alexandre,89.8,82.0,-85.0,-85.0,100.0,106.0,-108.0,82.0,106.0,188.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 102,OUENICH Ahmed,98.0,75.0,80.0,85.0,100.0,110.0,115.0,85.0,115.0,200.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U17 Men 89,KERKENI Noam,84.5,75.0,-80.0,-80.0,95.0,100.0,105.0,75.0,105.0,180.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Men 67,VIGNERESSE Erwan,67.0,78.0,82.0,-87.0,97.0,-102.0,-102.0,82.0,97.0,179.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Men 67,SIMARD--FERNANDES Mathis,61.4,66.0,-70.0,70.0,90.0,-95.0,-100.0,70.0,90.0,160.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 67,CREVOISIER Lucien,63.9,-81.0,81.0,-85.0,90.0,-95.0,-100.0,81.0,90.0,171.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 73,OLIVEIRA Robin,67.6,80.0,86.0,90.0,100.0,106.0,-110.0,90.0,106.0,196.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,MATHIOT Hugo,73.9,92.0,96.0,100.0,115.0,120.0,125.0,100.0,125.0,225.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,MALBEC Arthur,81.0,-83.0,-85.0,-85.0,100.0,105.0,-108.0,0.0,105.0,0.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 89,STUMPF Fabien,88.3,88.0,-95.0,95.0,120.0,-125.0,-0.0,95.0,120.0,215.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 89,DUBOIS Vincent,88.3,84.0,87.0,-90.0,102.0,106.0,109.0,87.0,109.0,196.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 89,LECHEVALIER Charles,81.5,80.0,85.0,-91.0,95.0,-100.0,101.0,85.0,101.0,186.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 96,NICOLIN Aslam,91.8,100.0,-112.0,-112.0,135.0,-145.0,-150.0,100.0,135.0,235.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 96,PHARIZAT Kevin,95.2,98.0,103.0,-108.0,116.0,-121.0,-121.0,103.0,116.0,219.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 96,LANGE Jérémy,90.5,93.0,97.0,101.0,110.0,115.0,-120.0,101.0,115.0,216.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 96,GILBIN Alexandre,89.8,82.0,-85.0,-85.0,100.0,106.0,-108.0,82.0,106.0,188.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 102,OUENICH Ahmed,98.0,75.0,80.0,85.0,100.0,110.0,115.0,85.0,115.0,200.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U15 Women 49,LOIGEROT Elisa,48.4,27.0,30.0,32.0,37.0,40.0,43.0,32.0,43.0,75.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U15 Women 64,AUBRY Elyne,63.1,36.0,39.0,41.0,47.0,50.0,-52.0,41.0,50.0,91.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Women 55,COLLIGNON Aurélie,53.0,40.0,43.0,-46.0,52.0,55.0,-58.0,43.0,55.0,98.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 59,ROBERT Juliette,57.8,45.0,-50.0,-50.0,60.0,63.0,-65.0,45.0,63.0,108.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 64,TURRI Céline,59.5,47.0,-50.0,-51.0,-55.0,55.0,58.0,47.0,58.0,105.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 64,THIEBAUT Salima,62.0,27.0,-30.0,-32.0,30.0,34.0,38.0,27.0,38.0,65.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 71,CHIQUET Agnes,65.2,71.0,74.0,-78.0,95.0,100.0,-103.0,74.0,100.0,174.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 71,FERREIRA ROLO Mathilde,68.5,55.0,58.0,60.0,68.0,72.0,-75.0,60.0,72.0,132.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 76,ROZZI Olivia,73.2,40.0,45.0,48.0,50.0,55.0,-58.0,48.0,55.0,103.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 76,MYRTHE Aline,73.9,35.0,-40.0,-40.0,40.0,48.0,-51.0,35.0,48.0,83.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U15 Women 49,LOIGEROT Elisa,48.4,27.0,30.0,32.0,37.0,40.0,43.0,32.0,43.0,75.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U15 Women 64,AUBRY Elyne,63.1,36.0,39.0,41.0,47.0,50.0,-52.0,41.0,50.0,91.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Women 55,COLLIGNON Aurélie,53.0,40.0,43.0,-46.0,52.0,55.0,-58.0,43.0,55.0,98.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 59,ROBERT Juliette,57.8,45.0,-50.0,-50.0,60.0,63.0,-65.0,45.0,63.0,108.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 64,TURRI Céline,59.5,47.0,-50.0,-51.0,-55.0,55.0,58.0,47.0,58.0,105.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 64,THIEBAUT Salima,62.0,27.0,-30.0,-32.0,30.0,34.0,38.0,27.0,38.0,65.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 71,CHIQUET Agnes,65.2,71.0,74.0,-78.0,95.0,100.0,-103.0,74.0,100.0,174.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 71,FERREIRA ROLO Mathilde,68.5,55.0,58.0,60.0,68.0,72.0,-75.0,60.0,72.0,132.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 76,ROZZI Olivia,73.2,40.0,45.0,48.0,50.0,55.0,-58.0,48.0,55.0,103.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 76,MYRTHE Aline,73.9,35.0,-40.0,-40.0,40.0,48.0,-51.0,35.0,48.0,83.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U15 Men 96,DUPON Leny,92.8,40.0,44.0,47.0,50.0,54.0,58.0,47.0,58.0,105.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U17 Men 61,DEHANE Raphael,57.0,54.0,57.0,-60.0,73.0,76.0,78.0,57.0,78.0,135.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Men 102,AKKAS Ismael,101.5,65.0,70.0,-73.0,75.0,80.0,84.0,70.0,84.0,154.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 73,PAPEGAY Florian,72.3,93.0,98.0,-102.0,120.0,125.0,130.0,98.0,130.0,228.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 73,FONTENELLE Ludovic,70.6,70.0,-75.0,-75.0,75.0,82.0,87.0,70.0,87.0,157.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,DEFRANCE Florent,78.5,85.0,90.0,93.0,112.0,117.0,-122.0,93.0,117.0,210.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,WILLIAMSON William,77.9,60.0,65.0,70.0,-90.0,90.0,-95.0,70.0,90.0,160.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 89,CHOQUET Matthieu,81.8,90.0,95.0,-98.0,115.0,120.0,125.0,95.0,125.0,220.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 89,VIGNOT Quentin,86.2,80.0,86.0,90.0,110.0,117.0,120.0,90.0,120.0,210.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 109,FRANCHOIS Kevin,108.1,90.0,-95.0,95.0,110.0,115.0,118.0,95.0,118.0,213.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U15 Men 96,DUPON Leny,92.8,40.0,44.0,47.0,50.0,54.0,58.0,47.0,58.0,105.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U17 Men 61,DEHANE Raphael,57.0,54.0,57.0,-60.0,73.0,76.0,78.0,57.0,78.0,135.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Men 102,AKKAS Ismael,101.5,65.0,70.0,-73.0,75.0,80.0,84.0,70.0,84.0,154.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 73,PAPEGAY Florian,72.3,93.0,98.0,-102.0,120.0,125.0,130.0,98.0,130.0,228.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 73,FONTENELLE Ludovic,70.6,70.0,-75.0,-75.0,75.0,82.0,87.0,70.0,87.0,157.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,DEFRANCE Florent,78.5,85.0,90.0,93.0,112.0,117.0,-122.0,93.0,117.0,210.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,WILLIAMSON William,77.9,60.0,65.0,70.0,-90.0,90.0,-95.0,70.0,90.0,160.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 89,CHOQUET Matthieu,81.8,90.0,95.0,-98.0,115.0,120.0,125.0,95.0,125.0,220.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 89,VIGNOT Quentin,86.2,80.0,86.0,90.0,110.0,117.0,120.0,90.0,120.0,210.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 109,FRANCHOIS Kevin,108.1,90.0,-95.0,95.0,110.0,115.0,118.0,95.0,118.0,213.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U15 Women 40,ANGELO Jamie lynn,37.2,22.0,24.0,27.0,34.0,37.0,40.0,27.0,40.0,67.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 59,RECURT Justine,58.3,-68.0,68.0,-72.0,77.0,80.0,-83.0,68.0,80.0,148.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 59,COTTRON Aurore,55.1,53.0,-57.0,57.0,73.0,-77.0,-77.0,57.0,73.0,130.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 59,BICH Adèlaïde,57.1,52.0,55.0,-57.0,67.0,71.0,74.0,55.0,74.0,129.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 64,BOUTIN Solène,59.8,62.0,65.0,67.0,83.0,87.0,-91.0,67.0,87.0,154.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 64,LORTAL Orane,61.7,55.0,58.0,-60.0,68.0,72.0,-76.0,58.0,72.0,130.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 71,GILLET Manon,66.3,45.0,50.0,55.0,70.0,75.0,-80.0,55.0,75.0,130.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U17 Men 73,ROUSSEL Emilien,70.7,75.0,-80.0,80.0,90.0,100.0,105.0,80.0,105.0,185.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Men 73,ROBINSON Tom,69.6,80.0,85.0,88.0,100.0,105.0,110.0,88.0,110.0,198.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Men 89,DEYRIS Simon,83.5,96.0,100.0,103.0,124.0,130.0,-133.0,103.0,130.0,233.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,RAVALISSE Steven,80.8,85.0,92.0,-97.0,110.0,117.0,122.0,92.0,122.0,214.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,VALLEIX Fabrice,77.4,70.0,-75.0,-75.0,-100.0,100.0,105.0,70.0,105.0,175.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 102,MORET Sylvain,101.4,110.0,115.0,120.0,140.0,145.0,-150.0,120.0,145.0,265.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 102,MARTINEZ MORA Victor,96.9,-125.0,-125.0,-125.0,-150.0,-150.0,150.0,0.0,150.0,0.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U15 Women 40,ANGELO Jamie lynn,37.2,22.0,24.0,27.0,34.0,37.0,40.0,27.0,40.0,67.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 59,RECURT Justine,58.3,-68.0,68.0,-72.0,77.0,80.0,-83.0,68.0,80.0,148.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 59,COTTRON Aurore,55.1,53.0,-57.0,57.0,73.0,-77.0,-77.0,57.0,73.0,130.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 59,BICH Adèlaïde,57.1,52.0,55.0,-57.0,67.0,71.0,74.0,55.0,74.0,129.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 64,BOUTIN Solène,59.8,62.0,65.0,67.0,83.0,87.0,-91.0,67.0,87.0,154.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 64,LORTAL Orane,61.7,55.0,58.0,-60.0,68.0,72.0,-76.0,58.0,72.0,130.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 71,GILLET Manon,66.3,45.0,50.0,55.0,70.0,75.0,-80.0,55.0,75.0,130.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U17 Men 73,ROUSSEL Emilien,70.7,75.0,-80.0,80.0,90.0,100.0,105.0,80.0,105.0,185.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Men 73,ROBINSON Tom,69.6,80.0,85.0,88.0,100.0,105.0,110.0,88.0,110.0,198.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Men 89,DEYRIS Simon,83.5,96.0,100.0,103.0,124.0,130.0,-133.0,103.0,130.0,233.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,RAVALISSE Steven,80.8,85.0,92.0,-97.0,110.0,117.0,122.0,92.0,122.0,214.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,VALLEIX Fabrice,77.4,70.0,-75.0,-75.0,-100.0,100.0,105.0,70.0,105.0,175.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 102,MORET Sylvain,101.4,110.0,115.0,120.0,140.0,145.0,-150.0,120.0,145.0,265.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 102,MARTINEZ MORA Victor,96.9,-125.0,-125.0,-125.0,-150.0,-150.0,150.0,0.0,150.0,0.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U17 Women 45,BIZEAU Alexine,41.5,48.0,-51.0,-51.0,56.0,60.0,63.0,48.0,63.0,111.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U17 Women 55,BEAUGER Louna,52.8,-29.0,29.0,32.0,42.0,45.0,-47.0,32.0,45.0,77.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Women 71,YACTINE Selena,69.2,42.0,46.0,-48.0,53.0,57.0,60.0,46.0,60.0,106.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 59,NOIRON Capucine,57.7,69.0,72.0,-75.0,88.0,-91.0,92.0,72.0,92.0,164.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 64,FRICOT Manon,62.7,48.0,51.0,-54.0,58.0,-62.0,-62.0,51.0,58.0,109.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 71,BAUDE Laurie,68.1,50.0,-53.0,-53.0,58.0,-61.0,-63.0,50.0,58.0,108.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 71,MARAGE Lucine,66.1,45.0,48.0,-51.0,55.0,58.0,-60.0,48.0,58.0,106.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 76,POISSON Jade,71.2,-51.0,52.0,-56.0,57.0,61.0,63.0,52.0,63.0,115.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U17 Women 45,BIZEAU Alexine,41.5,48.0,-51.0,-51.0,56.0,60.0,63.0,48.0,63.0,111.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U17 Women 55,BEAUGER Louna,52.8,-29.0,29.0,32.0,42.0,45.0,-47.0,32.0,45.0,77.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Women 71,YACTINE Selena,69.2,42.0,46.0,-48.0,53.0,57.0,60.0,46.0,60.0,106.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 59,NOIRON Capucine,57.7,69.0,72.0,-75.0,88.0,-91.0,92.0,72.0,92.0,164.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 64,FRICOT Manon,62.7,48.0,51.0,-54.0,58.0,-62.0,-62.0,51.0,58.0,109.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 71,BAUDE Laurie,68.1,50.0,-53.0,-53.0,58.0,-61.0,-63.0,50.0,58.0,108.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 71,MARAGE Lucine,66.1,45.0,48.0,-51.0,55.0,58.0,-60.0,48.0,58.0,106.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Women 76,POISSON Jade,71.2,-51.0,52.0,-56.0,57.0,61.0,63.0,52.0,63.0,115.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U15 Men 55,MONIER Thibaut,53.2,33.0,35.0,37.0,-45.0,45.0,50.0,37.0,50.0,87.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Men 61,MAYOUB Toufik,58.5,40.0,-43.0,45.0,60.0,65.0,70.0,45.0,70.0,115.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 73,SCHOLAERT Thomas,71.6,70.0,75.0,-80.0,95.0,-100.0,100.0,75.0,100.0,175.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,SAUVAGE Hector,80.5,89.0,-92.0,92.0,105.0,107.0,109.0,92.0,109.0,201.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 89,CAFFIN Arthur,87.4,85.0,90.0,-95.0,115.0,120.0,125.0,90.0,125.0,215.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 89,COURMONT Benoit,85.1,85.0,-88.0,88.0,107.0,112.0,116.0,88.0,116.0,204.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 96,REMOND David,89.4,90.0,-95.0,-95.0,110.0,115.0,123.0,90.0,123.0,213.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 102,DELAHAYE Julien,98.8,95.0,100.0,-105.0,115.0,125.0,-130.0,100.0,125.0,225.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 109,LE GONIDEC Eddy,108.2,75.0,80.0,-85.0,100.0,110.0,115.0,80.0,115.0,195.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men >109,VAN THIENEN Tom,134.7,95.0,102.0,107.0,125.0,130.0,-135.0,107.0,130.0,237.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U15 Men 55,MONIER Thibaut,53.2,33.0,35.0,37.0,-45.0,45.0,50.0,37.0,50.0,87.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,U20 Men 61,MAYOUB Toufik,58.5,40.0,-43.0,45.0,60.0,65.0,70.0,45.0,70.0,115.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 73,SCHOLAERT Thomas,71.6,70.0,75.0,-80.0,95.0,-100.0,100.0,75.0,100.0,175.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 81,SAUVAGE Hector,80.5,89.0,-92.0,92.0,105.0,107.0,109.0,92.0,109.0,201.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 89,CAFFIN Arthur,87.4,85.0,90.0,-95.0,115.0,120.0,125.0,90.0,125.0,215.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 89,COURMONT Benoit,85.1,85.0,-88.0,88.0,107.0,112.0,116.0,88.0,116.0,204.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 96,REMOND David,89.4,90.0,-95.0,-95.0,110.0,115.0,123.0,90.0,123.0,213.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 102,DELAHAYE Julien,98.8,95.0,100.0,-105.0,115.0,125.0,-130.0,100.0,125.0,225.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men 109,LE GONIDEC Eddy,108.2,75.0,80.0,-85.0,100.0,110.0,115.0,80.0,115.0,195.0
+NDIE - REG 1 - Le trait - 2ème journée,2023-12-16,SEN Men >109,VAN THIENEN Tom,134.7,95.0,102.0,107.0,125.0,130.0,-135.0,107.0,130.0,237.0

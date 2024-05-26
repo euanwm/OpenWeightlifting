@@ -1,14 +1,35 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-PDL - Challenge de l'avenir n°3 Masc A,2021-07-10,U15 Men 49,NIVET DOUET Argan,49.0,42.0,45.0,50.0,50.0,-54.0,55.0,50.0,55.0,105.0
-PDL - Challenge de l'avenir n°3 Masc A,2021-07-10,U15 Men 49,COTTEREAU Hugo,42.0,31.0,33.0,35.0,40.0,-42.0,-43.0,35.0,40.0,75.0
-PDL - Challenge de l'avenir n°3 Masc A,2021-07-10,U15 Men 61,MACÉ Axel,56.4,27.0,30.0,33.0,42.0,44.0,46.0,33.0,46.0,79.0
-PDL - Challenge de l'avenir n°3 Masc A,2021-07-10,U15 Men 67,PATRY Baptiste,62.0,20.0,22.0,-24.0,24.0,26.0,28.0,22.0,28.0,50.0
-PDL - Challenge de l'avenir n°3 Masc A,2021-07-10,U15 Men 81,DOS SANTOS Tiago,78.0,-64.0,65.0,71.0,78.0,-83.0,85.0,71.0,85.0,156.0
-PDL - Challenge de l'avenir n°3 Masc A,2021-07-10,U20 Men 73,LOUKA Albert,72.0,-60.0,-63.0,63.0,75.0,-82.0,-85.0,63.0,75.0,138.0
-PDL - Challenge de l'avenir n°3 Masc A,2021-07-10,U20 Men 81,BRISAC Ron,79.0,-70.0,-76.0,-76.0,90.0,-96.0,-96.0,-70.0,90.0,0.0
-PDL - Challenge de l'avenir n°3 Masc A,2021-07-10,SEN Men 67,JEAN Kevin,64.0,50.0,52.0,-53.0,62.0,-65.0,-66.0,52.0,62.0,114.0
-PDL - Challenge de l'avenir n°3 Masc A,2021-07-10,SEN Men 73,LOUIS Grellier,70.0,52.0,55.0,-60.0,66.0,69.0,-75.0,55.0,69.0,124.0
-PDL - Challenge de l'avenir n°3 Masc A,2021-07-10,SEN Men 73,GERARD Pierre-yves,72.0,50.0,53.0,-56.0,67.0,70.0,-73.0,53.0,70.0,123.0
-PDL - Challenge de l'avenir n°3 Masc A,2021-07-10,SEN Men 81,TALOC Aloïs,75.0,60.0,65.0,70.0,70.0,75.0,80.0,70.0,80.0,150.0
-PDL - Challenge de l'avenir n°3 Masc A,2021-07-10,SEN Men 81,DIAZ Juan-manuel,79.0,48.0,51.0,54.0,58.0,63.0,66.0,54.0,66.0,120.0
-PDL - Challenge de l'avenir n°3 Masc A,2021-07-10,SEN Men 89,REMI Jimmy,83.0,-60.0,62.0,-65.0,75.0,-80.0,80.0,62.0,80.0,142.0
+BRE - autre - Dorlisheim - Championnat de France des équipes de ligue,2023-04-23,U17 Women 64,QUERE Eloïse,59.6,52.0,54.0,56.0,63.0,66.0,-68.0,56.0,66.0,122.0
+BRE - autre - Dorlisheim - Championnat de France des équipes de ligue,2023-04-23,U20 Women 76,CAILLE Titia,73.8,40.0,44.0,48.0,50.0,54.0,57.0,48.0,57.0,105.0
+BRE - autre - Dorlisheim - Championnat de France des équipes de ligue,2023-04-23,U20 Women 81,SCOARNEC Ambre,77.9,66.0,69.0,72.0,87.0,90.0,93.0,72.0,93.0,165.0
+BRE - autre - Dorlisheim - Championnat de France des équipes de ligue,2023-04-23,U20 Men 73,STRUILLOU Evan,68.8,70.0,-73.0,73.0,95.0,98.0,101.0,73.0,101.0,174.0
+BRE - autre - Dorlisheim - Championnat de France des équipes de ligue,2023-04-23,U20 Men 73,TOUMBOU COMBO Nayel,71.3,-73.0,-73.0,73.0,-87.0,87.0,-90.0,73.0,87.0,160.0
+BRE - autre - Dorlisheim - Championnat de France des équipes de ligue,2023-04-23,U20 Men 73,JEANVILLE Thibault,70.4,64.0,-67.0,67.0,79.0,82.0,85.0,67.0,85.0,152.0
+BRE - autre - Dorlisheim - Championnat de France des équipes de ligue,2023-04-23,U15 Men 49,LAUMONIER Augustin,48.4,37.0,40.0,43.0,50.0,54.0,57.0,43.0,57.0,100.0
+BRE - autre - Dorlisheim - Championnat de France des équipes de ligue,2023-04-23,U15 Men 49,JEAN Wyatt,45.1,35.0,40.0,43.0,45.0,-50.0,50.0,43.0,50.0,93.0
+BRE - autre - Dorlisheim - Championnat de France des équipes de ligue,2023-04-23,U17 Men 67,PAILLE-KROBB Mathys,66.5,60.0,64.0,66.0,78.0,81.0,84.0,66.0,84.0,150.0
+BRE - autre - Dorlisheim - Championnat de France des équipes de ligue,2023-04-23,U20 Men 73,FREMONT Enzo,68.6,90.0,95.0,100.0,110.0,115.0,122.0,100.0,122.0,222.0
+BRE - autre - Dorlisheim - Championnat de France des équipes de ligue,2023-04-23,U20 Men 73,EON Yann,70.0,72.0,76.0,-78.0,90.0,-95.0,95.0,76.0,95.0,171.0
+BRE - autre - Dorlisheim - Championnat de France des équipes de ligue,2023-04-23,U20 Men 81,VINNAC Lilian,74.3,88.0,-92.0,92.0,112.0,117.0,122.0,92.0,122.0,214.0
+BRE - autre - Dorlisheim - Championnat de France des équipes de ligue,2023-04-23,U15 Women 49,DEGEZ Florette,47.6,47.0,50.0,53.0,60.0,-65.0,67.0,53.0,67.0,120.0
+BRE - autre - Dorlisheim - Championnat de France des équipes de ligue,2023-04-23,U17 Women 59,PEIGUET Clara,56.4,-38.0,40.0,-45.0,62.0,67.0,72.0,40.0,72.0,112.0
+BRE - autre - Dorlisheim - Championnat de France des équipes de ligue,2023-04-23,U17 Women 59,DIAW Lia,57.5,45.0,48.0,51.0,-57.0,57.0,-62.0,51.0,57.0,108.0
+BRE - autre - Dorlisheim - Championnat de France des équipes de ligue,2023-04-23,U17 Women 76,JONQUIERES Héloïse,71.1,50.0,53.0,55.0,63.0,67.0,-70.0,55.0,67.0,122.0
+BRE - autre - Dorlisheim - Championnat de France des équipes de ligue,2023-04-23,U20 Women 55,LORET Leïlou,49.7,53.0,56.0,58.0,64.0,68.0,-71.0,58.0,68.0,126.0
+BRE - autre - Dorlisheim - Championnat de France des équipes de ligue,2023-04-23,U20 Women 64,PICAROUGNE Lisa,60.6,37.0,40.0,43.0,49.0,52.0,-55.0,43.0,52.0,95.0
+BRE - autre - Dorlisheim - Championnat de France des équipes de ligue,2023-04-23,U15 Men 49,LAUMONIER Augustin,48.4,37.0,40.0,43.0,50.0,54.0,57.0,43.0,57.0,100.0
+BRE - autre - Dorlisheim - Championnat de France des équipes de ligue,2023-04-23,U15 Men 49,JEAN Wyatt,45.1,35.0,40.0,43.0,45.0,-50.0,50.0,43.0,50.0,93.0
+BRE - autre - Dorlisheim - Championnat de France des équipes de ligue,2023-04-23,U17 Men 67,PAILLE-KROBB Mathys,66.5,60.0,64.0,66.0,78.0,81.0,84.0,66.0,84.0,150.0
+BRE - autre - Dorlisheim - Championnat de France des équipes de ligue,2023-04-23,U20 Men 73,FREMONT Enzo,68.6,90.0,95.0,100.0,110.0,115.0,122.0,100.0,122.0,222.0
+BRE - autre - Dorlisheim - Championnat de France des équipes de ligue,2023-04-23,U20 Men 73,EON Yann,70.0,72.0,76.0,-78.0,90.0,-95.0,95.0,76.0,95.0,171.0
+BRE - autre - Dorlisheim - Championnat de France des équipes de ligue,2023-04-23,U20 Men 81,VINNAC Lilian,74.3,88.0,-92.0,92.0,112.0,117.0,122.0,92.0,122.0,214.0
+BRE - autre - Dorlisheim - Championnat de France des équipes de ligue,2023-04-23,U15 Women 49,DEGEZ Florette,47.6,47.0,50.0,53.0,60.0,-65.0,67.0,53.0,67.0,120.0
+BRE - autre - Dorlisheim - Championnat de France des équipes de ligue,2023-04-23,U17 Women 59,PEIGUET Clara,56.4,-38.0,40.0,-45.0,62.0,67.0,72.0,40.0,72.0,112.0
+BRE - autre - Dorlisheim - Championnat de France des équipes de ligue,2023-04-23,U17 Women 59,DIAW Lia,57.5,45.0,48.0,51.0,-57.0,57.0,-62.0,51.0,57.0,108.0
+BRE - autre - Dorlisheim - Championnat de France des équipes de ligue,2023-04-23,U17 Women 76,JONQUIERES Héloïse,71.1,50.0,53.0,55.0,63.0,67.0,-70.0,55.0,67.0,122.0
+BRE - autre - Dorlisheim - Championnat de France des équipes de ligue,2023-04-23,U20 Women 55,LORET Leïlou,49.7,53.0,56.0,58.0,64.0,68.0,-71.0,58.0,68.0,126.0
+BRE - autre - Dorlisheim - Championnat de France des équipes de ligue,2023-04-23,U20 Women 64,PICAROUGNE Lisa,60.6,37.0,40.0,43.0,49.0,52.0,-55.0,43.0,52.0,95.0
+BRE - autre - Dorlisheim - Championnat de France des équipes de ligue,2023-04-23,SEN Men >109,COULLET Anthony,149.46,-160.0,160.0,-165.0,202.0,206.0,-215.0,160.0,206.0,366.0
+BRE - autre - Dorlisheim - Championnat de France des équipes de ligue,2023-04-23,SEN Men >109,COULLET Anthony,149.46,-160.0,160.0,-165.0,202.0,206.0,-215.0,160.0,206.0,366.0
+BRE - autre - Dorlisheim - Championnat de France des équipes de ligue,2023-04-23,U17 Women >81,AYMES Lilou,122.63,65.0,66.0,72.0,86.0,-89.0,-91.0,72.0,86.0,158.0
+BRE - autre - Dorlisheim - Championnat de France des équipes de ligue,2023-04-23,U17 Women >81,AYMES Lilou,122.63,65.0,66.0,72.0,86.0,-89.0,-91.0,72.0,86.0,158.0

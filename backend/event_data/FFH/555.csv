@@ -1,5 +1,26 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-PDL - Chal Avenir U13 Le bourg,2020-10-10,U13 Men 45,DUCHEMIN Raphael,44.4,22.0,24.0,26.0,28.0,30.0,32.0,26.0,32.0,112.0
-PDL - Chal Avenir U13 Le bourg,2020-10-10,U13 Women 35,FERRAND COGNON Lyna,33.85,6.0,8.0,-10.0,10.0,12.0,14.0,8.0,14.0,40.0
-PDL - Chal Avenir U13 Le bourg,2020-10-10,U13 Women 35,ROGUET Lylou,34.95,6.0,8.0,-10.0,8.0,10.0,-12.0,8.0,10.0,32.0
-PDL - Chal Avenir U13 Le bourg,2020-10-10,U13 Women 64,DODARD Maelisse,60.3,17.0,19.0,21.0,22.0,24.0,26.0,21.0,26.0,90.0
+BFC - Challenge Avenir - Luxeuil - dpt 70,2022-03-02,U15 Men 81,SEILER Aymeric,77.5,45.0,48.0,-51.0,55.0,60.0,-65.0,48.0,60.0,108.0
+BFC - Challenge Avenir - Luxeuil - dpt 70,2022-03-02,U15 Men 89,BOUCHER Nathan,87.2,30.0,35.0,-40.0,40.0,-45.0,-45.0,35.0,40.0,75.0
+BFC - Challenge Avenir - Luxeuil - dpt 70,2022-03-02,U17 Men 61,CAREDDA Tony,56.85,27.0,31.0,-35.0,38.0,42.0,45.0,31.0,45.0,76.0
+BFC - Challenge Avenir - Luxeuil - dpt 70,2022-03-02,U17 Men 96,SEILER Lucas,96.0,65.0,-70.0,70.0,-85.0,85.0,-90.0,70.0,85.0,155.0
+BFC - Challenge Avenir - Luxeuil - dpt 70,2022-03-02,U17 Men 102,VINCENT Gaetan,101.8,75.0,-80.0,-85.0,100.0,105.0,-110.0,75.0,105.0,180.0
+BFC - Challenge Avenir - Luxeuil - dpt 70,2022-03-02,U20 Men 67,GROSJEAN Remi,62.0,17.0,20.0,-23.0,25.0,30.0,-33.0,20.0,30.0,50.0
+BFC - Challenge Avenir - Luxeuil - dpt 70,2022-03-02,U20 Men 73,SARMIENTO Paul,68.0,33.0,37.0,-40.0,40.0,45.0,50.0,37.0,50.0,87.0
+BFC - Challenge Avenir - Luxeuil - dpt 70,2022-03-02,U20 Men 81,MONGUILLON Erwan,75.5,36.0,41.0,45.0,55.0,60.0,64.0,45.0,64.0,109.0
+BFC - Challenge Avenir - Luxeuil - dpt 70,2022-03-02,SEN Men 61,GROSJEAN Marc,60.8,72.0,-75.0,-78.0,80.0,85.0,-90.0,72.0,85.0,157.0
+BFC - Challenge Avenir - Luxeuil - dpt 70,2022-03-02,SEN Men 67,MARIE Sullivan,66.95,80.0,-85.0,85.0,100.0,-110.0,110.0,85.0,110.0,195.0
+BFC - Challenge Avenir - Luxeuil - dpt 70,2022-03-02,SEN Men 67,LANCELLOTTI--ROITEL Victor,66.4,82.0,86.0,-90.0,95.0,100.0,-105.0,86.0,100.0,186.0
+BFC - Challenge Avenir - Luxeuil - dpt 70,2022-03-02,U15 Women 71,PIETROSANTE Channel,70.6,30.0,33.0,36.0,42.0,-46.0,46.0,36.0,46.0,82.0
+BFC - Challenge Avenir - Luxeuil - dpt 70,2022-03-02,U17 Women 64,BOFFY Alycia,63.8,26.0,-30.0,-30.0,35.0,-39.0,39.0,26.0,39.0,65.0
+BFC - Challenge Avenir - Luxeuil - dpt 70,2022-03-02,U17 Women 76,BOLORE Amandine,74.55,20.0,23.0,-25.0,27.0,30.0,33.0,23.0,33.0,56.0
+BFC - Challenge Avenir - Luxeuil - dpt 70,2022-03-02,U20 Women 49,ROY Chloe,48.6,20.0,23.0,-25.0,28.0,-32.0,-32.0,23.0,28.0,51.0
+BFC - Challenge Avenir - Luxeuil - dpt 70,2022-03-02,U20 Women 49,GREINER Marie,45.15,15.0,18.0,20.0,22.0,25.0,28.0,20.0,28.0,48.0
+BFC - Challenge Avenir - Luxeuil - dpt 70,2022-03-02,U20 Women 49,MAUFFREY Chloe,48.7,15.0,18.0,-20.0,22.0,25.0,-28.0,18.0,25.0,43.0
+BFC - Challenge Avenir - Luxeuil - dpt 70,2022-03-02,U20 Women 71,FERREIRA ROLO Mathilde,66.5,37.0,40.0,-43.0,45.0,50.0,-55.0,40.0,50.0,90.0
+BFC - Challenge Avenir - Luxeuil - dpt 70,2022-03-02,U15 Women 71,PIETROSANTE Channel,70.6,30.0,33.0,36.0,42.0,-46.0,46.0,36.0,46.0,82.0
+BFC - Challenge Avenir - Luxeuil - dpt 70,2022-03-02,U17 Women 64,BOFFY Alycia,63.8,26.0,-30.0,-30.0,35.0,-39.0,39.0,26.0,39.0,65.0
+BFC - Challenge Avenir - Luxeuil - dpt 70,2022-03-02,U17 Women 76,BOLORE Amandine,74.55,20.0,23.0,-25.0,27.0,30.0,33.0,23.0,33.0,56.0
+BFC - Challenge Avenir - Luxeuil - dpt 70,2022-03-02,U20 Women 49,ROY Chloe,48.6,20.0,23.0,-25.0,28.0,-32.0,-32.0,23.0,28.0,51.0
+BFC - Challenge Avenir - Luxeuil - dpt 70,2022-03-02,U20 Women 49,GREINER Marie,45.15,15.0,18.0,20.0,22.0,25.0,28.0,20.0,28.0,48.0
+BFC - Challenge Avenir - Luxeuil - dpt 70,2022-03-02,U20 Women 49,MAUFFREY Chloe,48.7,15.0,18.0,-20.0,22.0,25.0,-28.0,18.0,25.0,43.0
+BFC - Challenge Avenir - Luxeuil - dpt 70,2022-03-02,U20 Women 71,FERREIRA ROLO Mathilde,66.5,37.0,40.0,-43.0,45.0,50.0,-55.0,40.0,50.0,90.0

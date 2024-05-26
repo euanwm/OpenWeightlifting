@@ -1,4 +1,39 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-BFC - Champ de France Elite,2021-10-23,U20 Men 81,GROSJEAN Alexandre,75.6,110.0,-115.0,118.0,130.0,135.0,141.0,118.0,141.0,259.0
-BFC - Champ de France Elite,2021-10-23,U20 Men 102,GRAILLOT Jessy,97.5,130.0,136.0,141.0,161.0,170.0,-176.0,141.0,170.0,311.0
-BFC - Champ de France Elite,2021-10-23,SEN Men 81,LEPAUL Emmanuel,79.07,132.0,-136.0,-138.0,-165.0,-165.0,-165.0,132.0,-165.0,0.0
+IDF - Critérium National - Paris 18ème - SENIORS HOMMES,2024-01-20,SEN Men 61,MEY Sovannarith,60.7,76.0,80.0,-84.0,98.0,104.0,-115.0,80.0,104.0,184.0
+IDF - Critérium National - Paris 18ème - SENIORS HOMMES,2024-01-20,SEN Men 81,GRAVOIS Ugo,81.0,115.0,-125.0,-125.0,135.0,-146.0,-155.0,115.0,135.0,250.0
+IDF - Critérium National - Paris 18ème - SENIORS HOMMES,2024-01-20,SEN Men 81,CAUPENNE Benjamin,80.7,-105.0,105.0,-110.0,135.0,-145.0,-145.0,105.0,135.0,240.0
+IDF - Critérium National - Paris 18ème - SENIORS HOMMES,2024-01-20,SEN Men 81,ANGOT Alexis,80.0,-115.0,-115.0,-115.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+IDF - Critérium National - Paris 18ème - SENIORS HOMMES,2024-01-20,SEN Men 89,MAUNIER Raphaël,86.0,75.0,78.0,-80.0,100.0,102.0,-105.0,78.0,102.0,180.0
+IDF - Critérium National - Paris 18ème - SENIORS HOMMES,2024-01-20,SEN Men 96,VITAL Jules,92.4,-120.0,120.0,-125.0,145.0,152.0,-155.0,120.0,152.0,272.0
+IDF - Critérium National - Paris 18ème - SENIORS HOMMES,2024-01-20,SEN Men 96,COLIN Bruno,90.0,75.0,-79.0,79.0,101.0,103.0,105.0,79.0,105.0,184.0
+IDF - Critérium National - Paris 18ème - SENIORS HOMMES,2024-01-20,SEN Men >109,BELOTTI Stephane,109.7,65.0,70.0,-75.0,70.0,75.0,80.0,70.0,80.0,150.0
+IDF - Critérium National - Paris 18ème - SENIORS HOMMES,2024-01-20,U20 Women 59,SOUVIAT Marine,58.5,-47.0,-47.0,48.0,58.0,62.0,-65.0,48.0,62.0,110.0
+IDF - Critérium National - Paris 18ème - SENIORS HOMMES,2024-01-20,SEN Women 64,TOROMONA-TRAFTON Micky,59.8,58.0,-61.0,-61.0,73.0,-75.0,-75.0,58.0,73.0,131.0
+IDF - Critérium National - Paris 18ème - SENIORS HOMMES,2024-01-20,SEN Women 71,RIVAL Cyndi,66.2,45.0,48.0,51.0,58.0,62.0,-65.0,51.0,62.0,113.0
+IDF - Critérium National - Paris 18ème - SENIORS HOMMES,2024-01-20,SEN Women 76,KONBOUARE Laure,73.2,58.0,-61.0,-61.0,-70.0,73.0,75.0,58.0,75.0,133.0
+IDF - Critérium National - Paris 18ème - SENIORS HOMMES,2024-01-20,SEN Women 81,DABIN Demy,77.9,70.0,-73.0,-75.0,90.0,-93.0,-93.0,70.0,90.0,160.0
+IDF - Critérium National - Paris 18ème - SENIORS HOMMES,2024-01-20,SEN Women 81,SIMON Adèle,79.5,-60.0,60.0,63.0,80.0,-83.0,85.0,63.0,85.0,148.0
+IDF - Critérium National - Paris 18ème - SENIORS HOMMES,2024-01-20,SEN Women >87,CALLEJON Jessy,95.3,52.0,-54.0,55.0,68.0,72.0,75.0,55.0,75.0,130.0
+IDF - Critérium National - Paris 18ème - SENIORS HOMMES,2024-01-20,U20 Women 59,SOUVIAT Marine,58.5,-47.0,-47.0,48.0,58.0,62.0,-65.0,48.0,62.0,110.0
+IDF - Critérium National - Paris 18ème - SENIORS HOMMES,2024-01-20,SEN Women 64,TOROMONA-TRAFTON Micky,59.8,58.0,-61.0,-61.0,73.0,-75.0,-75.0,58.0,73.0,131.0
+IDF - Critérium National - Paris 18ème - SENIORS HOMMES,2024-01-20,SEN Women 71,RIVAL Cyndi,66.2,45.0,48.0,51.0,58.0,62.0,-65.0,51.0,62.0,113.0
+IDF - Critérium National - Paris 18ème - SENIORS HOMMES,2024-01-20,SEN Women 76,KONBOUARE Laure,73.2,58.0,-61.0,-61.0,-70.0,73.0,75.0,58.0,75.0,133.0
+IDF - Critérium National - Paris 18ème - SENIORS HOMMES,2024-01-20,SEN Women 81,DABIN Demy,77.9,70.0,-73.0,-75.0,90.0,-93.0,-93.0,70.0,90.0,160.0
+IDF - Critérium National - Paris 18ème - SENIORS HOMMES,2024-01-20,SEN Women 81,SIMON Adèle,79.5,-60.0,60.0,63.0,80.0,-83.0,85.0,63.0,85.0,148.0
+IDF - Critérium National - Paris 18ème - SENIORS HOMMES,2024-01-20,SEN Women >87,CALLEJON Jessy,95.3,52.0,-54.0,55.0,68.0,72.0,75.0,55.0,75.0,130.0
+IDF - Critérium National - Paris 18ème - SENIORS HOMMES,2024-01-20,U15 Men >102,SAKO Mathys,124.4,60.0,65.0,-70.0,70.0,75.0,80.0,65.0,80.0,145.0
+IDF - Critérium National - Paris 18ème - SENIORS HOMMES,2024-01-20,U17 Men 102,LESTE Mayken,97.7,80.0,-85.0,-87.0,-90.0,90.0,-95.0,80.0,90.0,170.0
+IDF - Critérium National - Paris 18ème - SENIORS HOMMES,2024-01-20,SEN Men 61,LAO YAN Mathieu,58.2,65.0,73.0,-77.0,80.0,86.0,90.0,73.0,90.0,163.0
+IDF - Critérium National - Paris 18ème - SENIORS HOMMES,2024-01-20,SEN Men 81,DUCLOS Sylvain,80.3,112.0,-117.0,-117.0,140.0,145.0,150.0,112.0,150.0,262.0
+IDF - Critérium National - Paris 18ème - SENIORS HOMMES,2024-01-20,SEN Men 81,NONGSANTHIAH Wanchalern,74.9,83.0,86.0,-88.0,100.0,106.0,110.0,86.0,110.0,196.0
+IDF - Critérium National - Paris 18ème - SENIORS HOMMES,2024-01-20,SEN Men 89,FAURE Jean-nicolas,86.0,85.0,-90.0,-90.0,115.0,120.0,125.0,85.0,125.0,210.0
+IDF - Critérium National - Paris 18ème - SENIORS HOMMES,2024-01-20,SEN Men 96,MARTIN Julien,89.9,90.0,-95.0,-95.0,115.0,120.0,-125.0,90.0,120.0,210.0
+IDF - Critérium National - Paris 18ème - SENIORS HOMMES,2024-01-20,SEN Men 109,TUTAGATA Yvan,103.3,90.0,-95.0,-96.0,-110.0,113.0,-117.0,90.0,113.0,203.0
+IDF - Critérium National - Paris 18ème - SENIORS HOMMES,2024-01-20,U15 Men >102,SAKO Mathys,124.4,60.0,65.0,-70.0,70.0,75.0,80.0,65.0,80.0,145.0
+IDF - Critérium National - Paris 18ème - SENIORS HOMMES,2024-01-20,U17 Men 102,LESTE Mayken,97.7,80.0,-85.0,-87.0,-90.0,90.0,-95.0,80.0,90.0,170.0
+IDF - Critérium National - Paris 18ème - SENIORS HOMMES,2024-01-20,SEN Men 61,LAO YAN Mathieu,58.2,65.0,73.0,-77.0,80.0,86.0,90.0,73.0,90.0,163.0
+IDF - Critérium National - Paris 18ème - SENIORS HOMMES,2024-01-20,SEN Men 81,DUCLOS Sylvain,80.3,112.0,-117.0,-117.0,140.0,145.0,150.0,112.0,150.0,262.0
+IDF - Critérium National - Paris 18ème - SENIORS HOMMES,2024-01-20,SEN Men 81,NONGSANTHIAH Wanchalern,74.9,83.0,86.0,-88.0,100.0,106.0,110.0,86.0,110.0,196.0
+IDF - Critérium National - Paris 18ème - SENIORS HOMMES,2024-01-20,SEN Men 89,FAURE Jean-nicolas,86.0,85.0,-90.0,-90.0,115.0,120.0,125.0,85.0,125.0,210.0
+IDF - Critérium National - Paris 18ème - SENIORS HOMMES,2024-01-20,SEN Men 96,MARTIN Julien,89.9,90.0,-95.0,-95.0,115.0,120.0,-125.0,90.0,120.0,210.0
+IDF - Critérium National - Paris 18ème - SENIORS HOMMES,2024-01-20,SEN Men 109,TUTAGATA Yvan,103.3,90.0,-95.0,-96.0,-110.0,113.0,-117.0,90.0,113.0,203.0

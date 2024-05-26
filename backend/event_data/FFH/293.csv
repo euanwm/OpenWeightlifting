@@ -1,6 +1,26 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-Chal Avenir 5 - U13 - Dpt 54,2020-02-15,U10 Men ,DUCHAUFFOUR Louis,19.5,8.0,9.0,-10.0,11.0,12.0,13.0,9.0,13.0,42.0
-Chal Avenir 5 - U13 - Dpt 54,2020-02-15,U13 Men 45,BANKA Arnaud,43.5,18.0,20.0,22.0,21.0,23.0,25.0,22.0,25.0,90.0
-Chal Avenir 5 - U13 - Dpt 54,2020-02-15,U13 Men 49,PARISOT Gabin,46.8,17.0,-18.0,18.0,-19.0,19.0,20.0,18.0,20.0,74.0
-Chal Avenir 5 - U13 - Dpt 54,2020-02-15,U10 Women ,BANKA Anastasia,21.1,8.0,9.0,10.0,11.0,12.0,13.0,10.0,13.0,44.0
-Chal Avenir 5 - U13 - Dpt 54,2020-02-15,U13 Women 35,DUCHAUFFOUR Rose,23.7,12.0,13.0,-15.0,15.0,16.0,18.0,13.0,18.0,59.0
+AURA - Challenge Avenir été ML,2021-06-19,U15 Women 49,ROSTAND Eva,48.8,-47.0,47.0,-50.0,-50.0,50.0,55.0,47.0,55.0,102.0
+AURA - Challenge Avenir été ML,2021-06-19,U17 Women 55,GAUMARD Juliette,53.7,35.0,-39.0,-39.0,42.0,46.0,-51.0,35.0,46.0,81.0
+AURA - Challenge Avenir été ML,2021-06-19,U17 Women 64,OUTTERS Maud,61.6,52.0,55.0,-57.0,-62.0,-62.0,62.0,55.0,62.0,117.0
+AURA - Challenge Avenir été ML,2021-06-19,SEN Women 55,VALEMBOIS FRANCA Fabienne,54.0,31.0,33.0,-35.0,35.0,40.0,45.0,33.0,45.0,78.0
+AURA - Challenge Avenir été ML,2021-06-19,SEN Women 59,DJORDJEVIC Alexandra,58.75,27.0,29.0,-31.0,34.0,-36.0,-37.0,29.0,34.0,63.0
+AURA - Challenge Avenir été ML,2021-06-19,SEN Women 64,DEBRAY Naomie,64.0,-47.0,50.0,-55.0,55.0,60.0,-63.0,50.0,60.0,110.0
+AURA - Challenge Avenir été ML,2021-06-19,SEN Women 64,GROMFELD Delphine,63.95,46.0,50.0,53.0,-60.0,-60.0,-64.0,53.0,0.0,0.0
+AURA - Challenge Avenir été ML,2021-06-19,SEN Women 71,JAEG Mélanie,70.25,70.0,73.0,-75.0,90.0,-95.0,95.0,73.0,95.0,168.0
+AURA - Challenge Avenir été ML,2021-06-19,SEN Women 87,MASSU Juliette,81.55,40.0,-45.0,-47.0,50.0,-55.0,-55.0,40.0,50.0,90.0
+AURA - Challenge Avenir été ML,2021-06-19,U20 Men 81,BECHIRI Janis,78.05,77.0,-83.0,83.0,-105.0,105.0,110.0,83.0,110.0,193.0
+AURA - Challenge Avenir été ML,2021-06-19,SEN Men 61,HACHERELLE Michel,60.5,28.0,30.0,-32.0,35.0,40.0,45.0,30.0,45.0,75.0
+AURA - Challenge Avenir été ML,2021-06-19,SEN Men 73,GAMS Jean-philippe,69.6,70.0,73.0,75.0,-95.0,95.0,100.0,75.0,100.0,175.0
+AURA - Challenge Avenir été ML,2021-06-19,SEN Men 73,CALLE Francois,71.8,40.0,45.0,50.0,55.0,60.0,65.0,50.0,65.0,115.0
+AURA - Challenge Avenir été ML,2021-06-19,SEN Men 81,WEBER Gary,80.5,100.0,110.0,-115.0,-120.0,-120.0,120.0,110.0,120.0,230.0
+AURA - Challenge Avenir été ML,2021-06-19,SEN Men 89,VINCENOT Kevin,88.5,-100.0,100.0,-110.0,130.0,-0.0,-0.0,100.0,130.0,230.0
+AURA - Challenge Avenir été ML,2021-06-19,SEN Men 89,DURGUERIAN Sarkis,88.9,60.0,63.0,66.0,72.0,76.0,80.0,66.0,80.0,146.0
+AURA - Challenge Avenir été ML,2021-06-19,SEN Men 102,DAWID Joris,98.3,98.0,102.0,105.0,117.0,121.0,125.0,105.0,125.0,230.0
+AURA - Challenge Avenir été ML,2021-06-19,U20 Men 81,BECHIRI Janis,78.05,77.0,-83.0,83.0,-105.0,105.0,110.0,83.0,110.0,193.0
+AURA - Challenge Avenir été ML,2021-06-19,SEN Men 61,HACHERELLE Michel,60.5,28.0,30.0,-32.0,35.0,40.0,45.0,30.0,45.0,75.0
+AURA - Challenge Avenir été ML,2021-06-19,SEN Men 73,GAMS Jean-philippe,69.6,70.0,73.0,75.0,-95.0,95.0,100.0,75.0,100.0,175.0
+AURA - Challenge Avenir été ML,2021-06-19,SEN Men 73,CALLE Francois,71.8,40.0,45.0,50.0,55.0,60.0,65.0,50.0,65.0,115.0
+AURA - Challenge Avenir été ML,2021-06-19,SEN Men 81,WEBER Gary,80.5,100.0,110.0,-115.0,-120.0,-120.0,120.0,110.0,120.0,230.0
+AURA - Challenge Avenir été ML,2021-06-19,SEN Men 89,VINCENOT Kevin,88.5,-100.0,100.0,-110.0,130.0,-0.0,-0.0,100.0,130.0,230.0
+AURA - Challenge Avenir été ML,2021-06-19,SEN Men 89,DURGUERIAN Sarkis,88.9,60.0,63.0,66.0,72.0,76.0,80.0,66.0,80.0,146.0
+AURA - Challenge Avenir été ML,2021-06-19,SEN Men 102,DAWID Joris,98.3,98.0,102.0,105.0,117.0,121.0,125.0,105.0,125.0,230.0

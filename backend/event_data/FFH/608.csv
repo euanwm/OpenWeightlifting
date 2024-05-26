@@ -1,14 +1,5 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-NDIE - 1J REG Masc Rouen - StLo - Alencon,2020-10-17,U15 Men 49,TOUZARD Paul,45.9,29.0,31.0,33.0,35.0,40.0,42.0,33.0,42.0,75.0
-NDIE - 1J REG Masc Rouen - StLo - Alencon,2020-10-17,U20 Men 89,LANDREAU Arthur,82.1,65.0,70.0,-76.0,80.0,-85.0,85.0,70.0,85.0,155.0
-NDIE - 1J REG Masc Rouen - StLo - Alencon,2020-10-17,SEN Men 61,CHAPRON Jean-francois,56.0,36.0,-40.0,40.0,46.0,50.0,-52.0,40.0,50.0,90.0
-NDIE - 1J REG Masc Rouen - StLo - Alencon,2020-10-17,SEN Men 67,ANDREU Gilles,65.9,30.0,-34.0,34.0,38.0,40.0,45.0,34.0,45.0,79.0
-NDIE - 1J REG Masc Rouen - StLo - Alencon,2020-10-17,SEN Men 73,RIPAULT Baptiste,70.9,55.0,60.0,65.0,75.0,80.0,85.0,65.0,85.0,150.0
-NDIE - 1J REG Masc Rouen - StLo - Alencon,2020-10-17,SEN Men 73,BLEUET Romain,70.5,55.0,58.0,61.0,75.0,80.0,84.0,61.0,84.0,145.0
-NDIE - 1J REG Masc Rouen - StLo - Alencon,2020-10-17,SEN Men 73,LEPRINCE Clément,69.0,-60.0,60.0,62.0,75.0,77.0,80.0,62.0,80.0,142.0
-NDIE - 1J REG Masc Rouen - StLo - Alencon,2020-10-17,SEN Men 73,TOUZARD David,69.6,35.0,40.0,-42.0,40.0,42.0,45.0,40.0,45.0,85.0
-NDIE - 1J REG Masc Rouen - StLo - Alencon,2020-10-17,SEN Men 81,FAUNY Sebastien,79.3,70.0,75.0,81.0,95.0,101.0,105.0,81.0,105.0,186.0
-NDIE - 1J REG Masc Rouen - StLo - Alencon,2020-10-17,SEN Men 81,POMMAREDE Dorian,78.4,80.0,83.0,87.0,95.0,97.0,-103.0,87.0,97.0,184.0
-NDIE - 1J REG Masc Rouen - StLo - Alencon,2020-10-17,SEN Men 89,DIONIS Thilbault,86.5,80.0,-85.0,-90.0,105.0,110.0,120.0,80.0,120.0,200.0
-NDIE - 1J REG Masc Rouen - StLo - Alencon,2020-10-17,SEN Men 89,BLONDEL Manu,85.9,60.0,62.0,-64.0,80.0,85.0,87.0,62.0,87.0,149.0
-NDIE - 1J REG Masc Rouen - StLo - Alencon,2020-10-17,SEN Men 109,CONRAD Franck,102.5,50.0,55.0,-60.0,60.0,-65.0,65.0,55.0,65.0,120.0
+GUA - Chpt Dépt (St Francois),2022-01-29,U13 Men 35,MAXWELL Evans,30.0,16.0,18.0,20.0,21.0,23.0,25.0,20.0,25.0,45.0
+GUA - Chpt Dépt (St Francois),2022-01-29,U13 Men 40,BODOT Kean,40.0,22.0,24.0,26.0,26.0,28.0,30.0,26.0,30.0,56.0
+GUA - Chpt Dépt (St Francois),2022-01-29,U13 Men 45,ZAOUROU Charly,41.0,25.0,27.0,29.0,30.0,32.0,34.0,29.0,34.0,63.0
+GUA - Chpt Dépt (St Francois),2022-01-29,U13 Women 49,ZAOUROU Maïana,46.5,28.0,30.0,32.0,35.0,37.0,39.0,32.0,39.0,71.0

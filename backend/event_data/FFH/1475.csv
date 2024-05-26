@@ -1,0 +1,268 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U13 Men 35,BOUCHERIT Naim,32.7,-13.0,13.0,15.0,16.0,18.0,19.0,15.0,19.0,34.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U13 Men 40,BAUDU Charles,38.8,15.0,17.0,19.0,23.0,-25.0,-25.0,19.0,23.0,42.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U13 Men 49,LI Nicolas,48.3,15.0,17.0,19.0,20.0,22.0,-24.0,19.0,22.0,41.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Men 49,CHIAULON Bastien,45.7,-30.0,30.0,-38.0,40.0,45.0,-50.0,30.0,45.0,75.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Men 55,BOUKRAA Yanis,54.9,40.0,43.0,-45.0,45.0,-48.0,-48.0,43.0,45.0,88.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Men 61,LOUAHEB Imad,59.6,33.0,37.0,41.0,40.0,45.0,-50.0,41.0,45.0,86.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Men 67,MBENGA HARDOROCK Kylian emmanuel,63.3,57.0,-61.0,-61.0,65.0,69.0,73.0,57.0,73.0,130.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Men 67,ALBOUY Florent,66.2,45.0,48.0,50.0,65.0,-70.0,-70.0,50.0,65.0,115.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Men 73,NAJAR Ilyes,72.3,33.0,-37.0,-37.0,35.0,-40.0,40.0,33.0,40.0,73.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Men 81,HERAUD BROUSSE Zachary,78.3,45.0,50.0,-55.0,70.0,-75.0,-75.0,50.0,70.0,120.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Men 89,AIT CHALALET Samy,81.6,55.0,58.0,-60.0,68.0,-71.0,-71.0,58.0,68.0,126.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Men 96,GAUCHET Bastien,92.5,15.0,18.0,21.0,18.0,20.0,23.0,21.0,23.0,44.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Men 61,MARAIS DELACOUR Jael,57.6,33.0,37.0,-40.0,40.0,-45.0,45.0,37.0,45.0,82.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Men 61,LE VIENNESSE--BOHER Luka,55.9,20.0,25.0,30.0,35.0,40.0,43.0,30.0,43.0,73.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Men 73,CHAUDUN Antoine,72.7,60.0,-64.0,64.0,76.0,80.0,-83.0,64.0,80.0,144.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Men 89,LAMLICHE Amine,86.8,-65.0,65.0,70.0,84.0,89.0,-92.0,70.0,89.0,159.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Men 89,LOUSSE Marius,81.5,63.0,67.0,-71.0,-80.0,-80.0,80.0,67.0,80.0,147.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Men 61,ZUGETTA Jordan,56.4,45.0,48.0,-50.0,52.0,56.0,60.0,48.0,60.0,108.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Men 73,BOCHEW William,68.7,60.0,63.0,65.0,74.0,77.0,80.0,65.0,80.0,145.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Men 73,GAIGEOT Nicolas,69.4,55.0,-60.0,60.0,65.0,70.0,-75.0,60.0,70.0,130.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Men 73,BAH-TIREAU Tancrede,70.6,45.0,-50.0,-53.0,51.0,56.0,62.0,45.0,62.0,107.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Men 81,ZERBIB Manoah,80.7,55.0,-60.0,-60.0,58.0,63.0,-67.0,55.0,63.0,118.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Men 89,BERFINI Viktor,87.0,65.0,70.0,-73.0,85.0,-90.0,90.0,70.0,90.0,160.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Men >109,TAHRAT Dylan,123.9,-100.0,100.0,-105.0,130.0,-132.0,-132.0,100.0,130.0,230.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Men 49,CHIAULON Bastien,45.7,-30.0,30.0,-38.0,40.0,45.0,-50.0,30.0,45.0,75.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Men 55,BOUKRAA Yanis,54.9,40.0,43.0,-45.0,45.0,-48.0,-48.0,43.0,45.0,88.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Men 61,LOUAHEB Imad,59.6,33.0,37.0,41.0,40.0,45.0,-50.0,41.0,45.0,86.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Men 67,MBENGA HARDOROCK Kylian emmanuel,63.3,57.0,-61.0,-61.0,65.0,69.0,73.0,57.0,73.0,130.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Men 67,ALBOUY Florent,66.2,45.0,48.0,50.0,65.0,-70.0,-70.0,50.0,65.0,115.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Men 73,NAJAR Ilyes,72.3,33.0,-37.0,-37.0,35.0,-40.0,40.0,33.0,40.0,73.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Men 81,HERAUD BROUSSE Zachary,78.3,45.0,50.0,-55.0,70.0,-75.0,-75.0,50.0,70.0,120.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Men 89,AIT CHALALET Samy,81.6,55.0,58.0,-60.0,68.0,-71.0,-71.0,58.0,68.0,126.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Men 96,GAUCHET Bastien,92.5,15.0,18.0,21.0,18.0,20.0,23.0,21.0,23.0,44.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Men 61,MARAIS DELACOUR Jael,57.6,33.0,37.0,-40.0,40.0,-45.0,45.0,37.0,45.0,82.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Men 61,LE VIENNESSE--BOHER Luka,55.9,20.0,25.0,30.0,35.0,40.0,43.0,30.0,43.0,73.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Men 73,CHAUDUN Antoine,72.7,60.0,-64.0,64.0,76.0,80.0,-83.0,64.0,80.0,144.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Men 89,LAMLICHE Amine,86.8,-65.0,65.0,70.0,84.0,89.0,-92.0,70.0,89.0,159.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Men 89,LOUSSE Marius,81.5,63.0,67.0,-71.0,-80.0,-80.0,80.0,67.0,80.0,147.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Men 61,ZUGETTA Jordan,56.4,45.0,48.0,-50.0,52.0,56.0,60.0,48.0,60.0,108.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Men 73,BOCHEW William,68.7,60.0,63.0,65.0,74.0,77.0,80.0,65.0,80.0,145.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Men 73,GAIGEOT Nicolas,69.4,55.0,-60.0,60.0,65.0,70.0,-75.0,60.0,70.0,130.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Men 73,BAH-TIREAU Tancrede,70.6,45.0,-50.0,-53.0,51.0,56.0,62.0,45.0,62.0,107.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Men 81,ZERBIB Manoah,80.7,55.0,-60.0,-60.0,58.0,63.0,-67.0,55.0,63.0,118.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Men 89,BERFINI Viktor,87.0,65.0,70.0,-73.0,85.0,-90.0,90.0,70.0,90.0,160.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Men >109,TAHRAT Dylan,123.9,-100.0,100.0,-105.0,130.0,-132.0,-132.0,100.0,130.0,230.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Women 40,KIMOUCHE Layina,36.3,20.0,22.0,24.0,24.0,26.0,-28.0,24.0,26.0,50.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Women 45,BOUILLARD Louhann,44.8,18.0,-20.0,-20.0,20.0,22.0,-25.0,18.0,22.0,40.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Women 49,PICOD KINANY Lila jade,48.8,29.0,31.0,32.0,39.0,41.0,43.0,32.0,43.0,75.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Women 55,RICHEVAUX Jade,52.0,45.0,48.0,-50.0,53.0,56.0,-58.0,48.0,56.0,104.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Women 64,LE NOC Orlane,60.8,40.0,42.0,-44.0,48.0,-51.0,-53.0,42.0,48.0,90.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Women 55,LEROY Cathie,52.4,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Women 59,DUCHENNE ALLARD Alexya,58.7,37.0,-40.0,-42.0,47.0,-50.0,-52.0,37.0,47.0,84.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Women 59,SANTOS FERNANDES Christelle,55.4,25.0,28.0,-31.0,32.0,35.0,-37.0,28.0,35.0,63.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Women 59,SILVA Léana,57.5,20.0,-22.0,22.0,-23.0,23.0,26.0,22.0,26.0,48.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Women 64,BEDEIR LARADE Safana,61.4,54.0,-58.0,-60.0,65.0,-70.0,70.0,54.0,70.0,124.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Women 64,KIMOUCHE Hidaya,61.1,45.0,-48.0,48.0,55.0,59.0,-61.0,48.0,59.0,107.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Women 71,PENCOLE Yael,65.0,-41.0,-41.0,-41.0,-58.0,-0.0,-0.0,0.0,0.0,0.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Women >81,BAUDOUIN Marjane,90.1,45.0,-48.0,48.0,58.0,-61.0,-61.0,48.0,58.0,106.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Women 49,LEROY Manon,46.9,-35.0,35.0,40.0,50.0,-54.0,-55.0,40.0,50.0,90.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Women 59,BOURGEOIS Téa,58.7,50.0,55.0,-60.0,65.0,70.0,75.0,55.0,75.0,130.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Women 64,POMERET Clemence,60.2,-51.0,51.0,54.0,64.0,-66.0,-66.0,54.0,64.0,118.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Women 81,TATI Ayah,80.0,32.0,-35.0,-35.0,45.0,49.0,-53.0,32.0,49.0,81.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Women 87,ROBIN Maeline,86.3,35.0,-38.0,38.0,46.0,-49.0,49.0,38.0,49.0,87.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Women 40,KIMOUCHE Layina,36.3,20.0,22.0,24.0,24.0,26.0,-28.0,24.0,26.0,50.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Women 45,BOUILLARD Louhann,44.8,18.0,-20.0,-20.0,20.0,22.0,-25.0,18.0,22.0,40.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Women 49,PICOD KINANY Lila jade,48.8,29.0,31.0,32.0,39.0,41.0,43.0,32.0,43.0,75.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Women 55,RICHEVAUX Jade,52.0,45.0,48.0,-50.0,53.0,56.0,-58.0,48.0,56.0,104.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Women 64,LE NOC Orlane,60.8,40.0,42.0,-44.0,48.0,-51.0,-53.0,42.0,48.0,90.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Women 55,LEROY Cathie,52.4,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Women 59,DUCHENNE ALLARD Alexya,58.7,37.0,-40.0,-42.0,47.0,-50.0,-52.0,37.0,47.0,84.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Women 59,SANTOS FERNANDES Christelle,55.4,25.0,28.0,-31.0,32.0,35.0,-37.0,28.0,35.0,63.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Women 59,SILVA Léana,57.5,20.0,-22.0,22.0,-23.0,23.0,26.0,22.0,26.0,48.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Women 64,BEDEIR LARADE Safana,61.4,54.0,-58.0,-60.0,65.0,-70.0,70.0,54.0,70.0,124.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Women 64,KIMOUCHE Hidaya,61.1,45.0,-48.0,48.0,55.0,59.0,-61.0,48.0,59.0,107.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Women 71,PENCOLE Yael,65.0,-41.0,-41.0,-41.0,-58.0,-0.0,-0.0,0.0,0.0,0.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Women >81,BAUDOUIN Marjane,90.1,45.0,-48.0,48.0,58.0,-61.0,-61.0,48.0,58.0,106.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Women 49,LEROY Manon,46.9,-35.0,35.0,40.0,50.0,-54.0,-55.0,40.0,50.0,90.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Women 59,BOURGEOIS Téa,58.7,50.0,55.0,-60.0,65.0,70.0,75.0,55.0,75.0,130.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Women 64,POMERET Clemence,60.2,-51.0,51.0,54.0,64.0,-66.0,-66.0,54.0,64.0,118.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Women 81,TATI Ayah,80.0,32.0,-35.0,-35.0,45.0,49.0,-53.0,32.0,49.0,81.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Women 87,ROBIN Maeline,86.3,35.0,-38.0,38.0,46.0,-49.0,49.0,38.0,49.0,87.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U13 Men 61,KERINGER-DIEUPART Gabin,58.8,19.0,20.0,-22.0,22.0,-24.0,-24.0,20.0,22.0,42.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U13 Women 35,LE VIENNESSE - BOHER Melany,31.7,20.0,21.0,23.0,26.0,28.0,30.0,23.0,30.0,53.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U13 Women 40,DEMEULEMEESTER Kalyah,38.8,14.0,16.0,18.0,21.0,-23.0,-23.0,18.0,21.0,39.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U13 Men 61,KERINGER-DIEUPART Gabin,58.8,19.0,20.0,-22.0,22.0,-24.0,-24.0,20.0,22.0,42.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U13 Women 35,LE VIENNESSE - BOHER Melany,31.7,20.0,21.0,23.0,26.0,28.0,30.0,23.0,30.0,53.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U13 Women 40,DEMEULEMEESTER Kalyah,38.8,14.0,16.0,18.0,21.0,-23.0,-23.0,18.0,21.0,39.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Women 71,FORESTIER Lison,67.6,58.0,61.0,63.0,70.0,73.0,76.0,63.0,76.0,139.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Women 55,COLLIGNON Aurélie,54.7,40.0,44.0,47.0,56.0,60.0,63.0,47.0,63.0,110.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Women 55,LIGIER Maelys,54.4,35.0,38.0,42.0,45.0,48.0,-53.0,42.0,48.0,90.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Women 59,PIETROSANTE Cassandra,56.3,46.0,49.0,52.0,57.0,60.0,-63.0,52.0,60.0,112.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Women 59,LAMBERT Lola,56.9,-45.0,45.0,-48.0,55.0,58.0,-62.0,45.0,58.0,103.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Women 64,ANTONIO Lea marie,63.1,60.0,65.0,68.0,70.0,74.0,77.0,68.0,77.0,145.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Women 64,FREVILLE Emma,61.0,45.0,48.0,51.0,59.0,63.0,66.0,51.0,66.0,117.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Women 64,GOMES Lisa,61.1,41.0,44.0,-47.0,52.0,56.0,59.0,44.0,59.0,103.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Women 76,HAUDRECHY Chloé,73.5,49.0,53.0,55.0,69.0,72.0,75.0,55.0,75.0,130.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Women 71,FORESTIER Lison,67.6,58.0,61.0,63.0,70.0,73.0,76.0,63.0,76.0,139.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Women 55,COLLIGNON Aurélie,54.7,40.0,44.0,47.0,56.0,60.0,63.0,47.0,63.0,110.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Women 55,LIGIER Maelys,54.4,35.0,38.0,42.0,45.0,48.0,-53.0,42.0,48.0,90.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Women 59,PIETROSANTE Cassandra,56.3,46.0,49.0,52.0,57.0,60.0,-63.0,52.0,60.0,112.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Women 59,LAMBERT Lola,56.9,-45.0,45.0,-48.0,55.0,58.0,-62.0,45.0,58.0,103.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Women 64,ANTONIO Lea marie,63.1,60.0,65.0,68.0,70.0,74.0,77.0,68.0,77.0,145.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Women 64,FREVILLE Emma,61.0,45.0,48.0,51.0,59.0,63.0,66.0,51.0,66.0,117.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Women 64,GOMES Lisa,61.1,41.0,44.0,-47.0,52.0,56.0,59.0,44.0,59.0,103.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Women 76,HAUDRECHY Chloé,73.5,49.0,53.0,55.0,69.0,72.0,75.0,55.0,75.0,130.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Men 73,MARTIN Gabriel,67.5,-97.0,97.0,-100.0,-120.0,120.0,-124.0,97.0,120.0,217.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Men 81,BOUCHER Nathan,73.1,56.0,60.0,63.0,73.0,77.0,81.0,63.0,81.0,144.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Men 89,KERKENI Noam,86.0,76.0,80.0,-84.0,102.0,106.0,109.0,80.0,109.0,189.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Men 61,SIMARD--FERNANDES Mathis,60.8,-67.0,67.0,-71.0,90.0,-94.0,-95.0,67.0,90.0,157.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Men 73,VIGNERESSE Erwan,69.0,80.0,-85.0,85.0,-102.0,102.0,-105.0,85.0,102.0,187.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Men 109,VINCENT Gaetan,108.5,100.0,105.0,-108.0,125.0,130.0,-135.0,105.0,130.0,235.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Men 73,MARTIN Gabriel,67.5,-97.0,97.0,-100.0,-120.0,120.0,-124.0,97.0,120.0,217.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Men 81,BOUCHER Nathan,73.1,56.0,60.0,63.0,73.0,77.0,81.0,63.0,81.0,144.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Men 89,KERKENI Noam,86.0,76.0,80.0,-84.0,102.0,106.0,109.0,80.0,109.0,189.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Men 61,SIMARD--FERNANDES Mathis,60.8,-67.0,67.0,-71.0,90.0,-94.0,-95.0,67.0,90.0,157.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Men 73,VIGNERESSE Erwan,69.0,80.0,-85.0,85.0,-102.0,102.0,-105.0,85.0,102.0,187.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Men 109,VINCENT Gaetan,108.5,100.0,105.0,-108.0,125.0,130.0,-135.0,105.0,130.0,235.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U13 Men 40,FAIJAN Felicien,36.5,10.0,12.0,14.0,14.0,-16.0,16.0,14.0,16.0,30.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U13 Men 49,KUKRIC Mathis,46.5,26.0,28.0,30.0,34.0,36.0,38.0,30.0,38.0,68.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U13 Men 55,GIANNOTTI Leo,51.1,15.0,16.0,17.0,17.0,19.0,21.0,17.0,21.0,38.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U13 Men 55,BOUST Thimeo,52.0,10.0,12.0,13.0,15.0,17.0,19.0,13.0,19.0,32.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U13 Women 45,MONIER Eloise,43.6,17.0,19.0,21.0,22.0,24.0,25.0,21.0,25.0,46.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U13 Women 45,CARRER Emma,42.4,10.0,12.0,-13.0,13.0,14.0,15.0,12.0,15.0,27.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U13 Men 40,FAIJAN Felicien,36.5,10.0,12.0,14.0,14.0,-16.0,16.0,14.0,16.0,30.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U13 Men 49,KUKRIC Mathis,46.5,26.0,28.0,30.0,34.0,36.0,38.0,30.0,38.0,68.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U13 Men 55,GIANNOTTI Leo,51.1,15.0,16.0,17.0,17.0,19.0,21.0,17.0,21.0,38.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U13 Men 55,BOUST Thimeo,52.0,10.0,12.0,13.0,15.0,17.0,19.0,13.0,19.0,32.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U13 Women 45,MONIER Eloise,43.6,17.0,19.0,21.0,22.0,24.0,25.0,21.0,25.0,46.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U13 Women 45,CARRER Emma,42.4,10.0,12.0,-13.0,13.0,14.0,15.0,12.0,15.0,27.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Men 49,ROUX Simon,36.7,24.0,26.0,28.0,34.0,36.0,38.0,28.0,38.0,66.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Men 49,DALMOLIN Fabio,43.5,15.0,18.0,21.0,20.0,24.0,30.0,21.0,30.0,51.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Men 55,HOARAU Marley,54.8,38.0,40.0,43.0,47.0,51.0,54.0,43.0,54.0,97.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Men 61,LANGLOIS Emeryck,61.0,15.0,18.0,21.0,20.0,24.0,28.0,21.0,28.0,49.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Men 73,DEBON Timeo,72.7,27.0,28.0,30.0,32.0,35.0,38.0,30.0,38.0,68.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Men 49,HERIN Dylan,36.5,28.0,30.0,33.0,38.0,41.0,43.0,33.0,43.0,76.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Men 61,BAILLIEUX Cyril,56.0,67.0,70.0,73.0,85.0,89.0,92.0,73.0,92.0,165.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Men 61,BREDELOUX Hoany,60.6,15.0,18.0,21.0,22.0,26.0,30.0,21.0,30.0,51.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Men 67,GLEYZE Alexis,64.7,76.0,80.0,82.0,95.0,98.0,-101.0,82.0,98.0,180.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Men 49,ROUX Simon,36.7,24.0,26.0,28.0,34.0,36.0,38.0,28.0,38.0,66.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Men 49,DALMOLIN Fabio,43.5,15.0,18.0,21.0,20.0,24.0,30.0,21.0,30.0,51.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Men 55,HOARAU Marley,54.8,38.0,40.0,43.0,47.0,51.0,54.0,43.0,54.0,97.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Men 61,LANGLOIS Emeryck,61.0,15.0,18.0,21.0,20.0,24.0,28.0,21.0,28.0,49.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Men 73,DEBON Timeo,72.7,27.0,28.0,30.0,32.0,35.0,38.0,30.0,38.0,68.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Men 49,HERIN Dylan,36.5,28.0,30.0,33.0,38.0,41.0,43.0,33.0,43.0,76.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Men 61,BAILLIEUX Cyril,56.0,67.0,70.0,73.0,85.0,89.0,92.0,73.0,92.0,165.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Men 61,BREDELOUX Hoany,60.6,15.0,18.0,21.0,22.0,26.0,30.0,21.0,30.0,51.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Men 67,GLEYZE Alexis,64.7,76.0,80.0,82.0,95.0,98.0,-101.0,82.0,98.0,180.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Women 59,FAIJAN Celia,57.0,12.0,14.0,15.0,17.0,20.0,22.0,15.0,22.0,37.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Women 64,GLEYZE Aurelia,62.0,32.0,36.0,40.0,42.0,46.0,50.0,40.0,50.0,90.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Women 76,MOMMEY Noeline,72.0,10.0,12.0,14.0,15.0,17.0,18.0,14.0,18.0,32.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Women 55,YAYA Floriane,52.9,40.0,-44.0,44.0,50.0,55.0,59.0,44.0,59.0,103.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Women 55,BERTO Laurine,53.8,32.0,35.0,38.0,-44.0,44.0,48.0,38.0,48.0,86.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Women 59,TISSERAND Maëlys,57.4,48.0,51.0,54.0,62.0,66.0,-69.0,54.0,66.0,120.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Women 55,BELLOT Lea,54.1,40.0,43.0,46.0,50.0,53.0,-56.0,46.0,53.0,99.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Women 59,CHAUMEIL Marie,58.7,55.0,-60.0,60.0,68.0,72.0,-75.0,60.0,72.0,132.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Women 81,BERTRAND Léna,78.2,-63.0,63.0,68.0,75.0,80.0,83.0,68.0,83.0,151.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Women 59,FAIJAN Celia,57.0,12.0,14.0,15.0,17.0,20.0,22.0,15.0,22.0,37.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Women 64,GLEYZE Aurelia,62.0,32.0,36.0,40.0,42.0,46.0,50.0,40.0,50.0,90.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U15 Women 76,MOMMEY Noeline,72.0,10.0,12.0,14.0,15.0,17.0,18.0,14.0,18.0,32.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Women 55,YAYA Floriane,52.9,40.0,-44.0,44.0,50.0,55.0,59.0,44.0,59.0,103.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Women 55,BERTO Laurine,53.8,32.0,35.0,38.0,-44.0,44.0,48.0,38.0,48.0,86.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Women 59,TISSERAND Maëlys,57.4,48.0,51.0,54.0,62.0,66.0,-69.0,54.0,66.0,120.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Women 55,BELLOT Lea,54.1,40.0,43.0,46.0,50.0,53.0,-56.0,46.0,53.0,99.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Women 59,CHAUMEIL Marie,58.7,55.0,-60.0,60.0,68.0,72.0,-75.0,60.0,72.0,132.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Women 81,BERTRAND Léna,78.2,-63.0,63.0,68.0,75.0,80.0,83.0,68.0,83.0,151.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Women 55,BOYER Kristina,54.5,50.0,53.0,56.0,70.0,73.0,76.0,56.0,76.0,132.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 55,CHAIX Calista,49.8,-45.0,45.0,-47.0,55.0,-58.0,58.0,45.0,58.0,103.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 59,KEGREISZ Valentine,56.4,-51.0,53.0,-56.0,60.0,63.0,-67.0,53.0,63.0,116.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 64,ROUSO Justine,60.0,-63.0,64.0,-67.0,80.0,84.0,86.0,64.0,86.0,150.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 64,WAZNI Geneviève,62.5,54.0,58.0,-60.0,65.0,-69.0,-71.0,58.0,65.0,123.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 64,PETERS Morgane,59.9,38.0,41.0,43.0,50.0,54.0,-58.0,43.0,54.0,97.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 64,BOYER Noemie,62.0,28.0,30.0,32.0,38.0,41.0,43.0,32.0,43.0,75.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 71,LEPLA Jalle,67.7,35.0,38.0,-40.0,48.0,50.0,55.0,38.0,55.0,93.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 76,BAUDRY Charlotte,72.5,66.0,70.0,72.0,79.0,83.0,85.0,72.0,85.0,157.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 76,DALIA Carla,75.3,60.0,64.0,68.0,80.0,85.0,-89.0,68.0,85.0,153.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women >87,GIMBERT Valeriane,97.6,54.0,-58.0,60.0,77.0,82.0,85.0,60.0,85.0,145.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women >87,BONDU Manon,100.3,-48.0,-50.0,50.0,62.0,66.0,-70.0,50.0,66.0,116.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Men 61,ALONSO Nicolas,61.0,55.0,60.0,63.0,75.0,80.0,85.0,63.0,85.0,148.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 67,GENDRE Sebastien,64.3,30.0,35.0,-40.0,45.0,50.0,-55.0,35.0,50.0,85.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 73,PONS Thierry,71.8,93.0,98.0,102.0,117.0,-122.0,-122.0,102.0,117.0,219.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 73,GAY Maxime,71.0,77.0,82.0,-87.0,100.0,110.0,116.0,82.0,116.0,198.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 81,BASSI Grégory,74.2,80.0,88.0,-95.0,110.0,118.0,123.0,88.0,123.0,211.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 81,SIRUGUET Quentin,81.0,90.0,95.0,-100.0,110.0,115.0,-118.0,95.0,115.0,210.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 81,KUKRIC Stéphane,79.0,60.0,65.0,-70.0,75.0,80.0,-85.0,65.0,80.0,145.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 89,LAUGIER Jonathan,82.2,105.0,-110.0,112.0,125.0,130.0,-135.0,112.0,130.0,242.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 89,MARIN Clément,86.2,-100.0,100.0,105.0,-115.0,120.0,125.0,105.0,125.0,230.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 89,MOULIS Franck,86.5,80.0,85.0,90.0,-100.0,100.0,110.0,90.0,110.0,200.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 102,RAFFALI Camille,99.8,76.0,80.0,-85.0,95.0,-98.0,-100.0,80.0,95.0,175.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men >109,COULLET Anthony,152.0,150.0,-160.0,-160.0,185.0,196.0,-205.0,150.0,196.0,346.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Women 55,BOYER Kristina,54.5,50.0,53.0,56.0,70.0,73.0,76.0,56.0,76.0,132.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 55,CHAIX Calista,49.8,-45.0,45.0,-47.0,55.0,-58.0,58.0,45.0,58.0,103.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 59,KEGREISZ Valentine,56.4,-51.0,53.0,-56.0,60.0,63.0,-67.0,53.0,63.0,116.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 64,ROUSO Justine,60.0,-63.0,64.0,-67.0,80.0,84.0,86.0,64.0,86.0,150.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 64,WAZNI Geneviève,62.5,54.0,58.0,-60.0,65.0,-69.0,-71.0,58.0,65.0,123.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 64,PETERS Morgane,59.9,38.0,41.0,43.0,50.0,54.0,-58.0,43.0,54.0,97.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 64,BOYER Noemie,62.0,28.0,30.0,32.0,38.0,41.0,43.0,32.0,43.0,75.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 71,LEPLA Jalle,67.7,35.0,38.0,-40.0,48.0,50.0,55.0,38.0,55.0,93.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 76,BAUDRY Charlotte,72.5,66.0,70.0,72.0,79.0,83.0,85.0,72.0,85.0,157.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 76,DALIA Carla,75.3,60.0,64.0,68.0,80.0,85.0,-89.0,68.0,85.0,153.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women >87,GIMBERT Valeriane,97.6,54.0,-58.0,60.0,77.0,82.0,85.0,60.0,85.0,145.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women >87,BONDU Manon,100.3,-48.0,-50.0,50.0,62.0,66.0,-70.0,50.0,66.0,116.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U20 Men 61,ALONSO Nicolas,61.0,55.0,60.0,63.0,75.0,80.0,85.0,63.0,85.0,148.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 67,GENDRE Sebastien,64.3,30.0,35.0,-40.0,45.0,50.0,-55.0,35.0,50.0,85.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 73,PONS Thierry,71.8,93.0,98.0,102.0,117.0,-122.0,-122.0,102.0,117.0,219.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 73,GAY Maxime,71.0,77.0,82.0,-87.0,100.0,110.0,116.0,82.0,116.0,198.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 81,BASSI Grégory,74.2,80.0,88.0,-95.0,110.0,118.0,123.0,88.0,123.0,211.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 81,SIRUGUET Quentin,81.0,90.0,95.0,-100.0,110.0,115.0,-118.0,95.0,115.0,210.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 81,KUKRIC Stéphane,79.0,60.0,65.0,-70.0,75.0,80.0,-85.0,65.0,80.0,145.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 89,LAUGIER Jonathan,82.2,105.0,-110.0,112.0,125.0,130.0,-135.0,112.0,130.0,242.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 89,MARIN Clément,86.2,-100.0,100.0,105.0,-115.0,120.0,125.0,105.0,125.0,230.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 89,MOULIS Franck,86.5,80.0,85.0,90.0,-100.0,100.0,110.0,90.0,110.0,200.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 102,RAFFALI Camille,99.8,76.0,80.0,-85.0,95.0,-98.0,-100.0,80.0,95.0,175.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men >109,COULLET Anthony,152.0,150.0,-160.0,-160.0,185.0,196.0,-205.0,150.0,196.0,346.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Women 55,BEGIN Ombeline,53.5,27.0,-30.0,32.0,37.0,40.0,42.0,32.0,42.0,74.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 64,MAAZIZ Nada,64.0,42.0,44.0,-47.0,60.0,-64.0,64.0,44.0,64.0,108.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 71,ROCHER Margaux,65.4,45.0,-49.0,-49.0,70.0,-74.0,-75.0,45.0,70.0,115.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 76,RIPPLINGER Tya,73.5,48.0,-51.0,-51.0,60.0,-64.0,-65.0,48.0,60.0,108.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 81,GIRARD Clara,80.5,60.0,63.0,66.0,75.0,80.0,-85.0,66.0,80.0,146.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 81,CLERC Ophélie,80.0,37.0,39.0,41.0,47.0,51.0,54.0,41.0,54.0,95.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 67,MARIE Sullivan,66.8,96.0,-100.0,100.0,-115.0,115.0,120.0,100.0,120.0,220.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 73,CAMBON Tanguy,69.0,60.0,65.0,68.0,95.0,97.0,100.0,68.0,100.0,168.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 73,MARGUERITAT John,70.6,58.0,61.0,-65.0,-95.0,-95.0,95.0,61.0,95.0,156.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 81,MONGEY Dylan,73.9,81.0,-85.0,-87.0,97.0,103.0,-111.0,81.0,103.0,184.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 89,AUDINOT Valentin,85.5,97.0,-101.0,-101.0,115.0,-120.0,-120.0,97.0,115.0,212.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 96,PHARIZAT Kevin,93.9,98.0,102.0,-105.0,115.0,120.0,-126.0,102.0,120.0,222.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U17 Women 55,BEGIN Ombeline,53.5,27.0,-30.0,32.0,37.0,40.0,42.0,32.0,42.0,74.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 64,MAAZIZ Nada,64.0,42.0,44.0,-47.0,60.0,-64.0,64.0,44.0,64.0,108.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 71,ROCHER Margaux,65.4,45.0,-49.0,-49.0,70.0,-74.0,-75.0,45.0,70.0,115.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 76,RIPPLINGER Tya,73.5,48.0,-51.0,-51.0,60.0,-64.0,-65.0,48.0,60.0,108.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 81,GIRARD Clara,80.5,60.0,63.0,66.0,75.0,80.0,-85.0,66.0,80.0,146.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 81,CLERC Ophélie,80.0,37.0,39.0,41.0,47.0,51.0,54.0,41.0,54.0,95.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 67,MARIE Sullivan,66.8,96.0,-100.0,100.0,-115.0,115.0,120.0,100.0,120.0,220.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 73,CAMBON Tanguy,69.0,60.0,65.0,68.0,95.0,97.0,100.0,68.0,100.0,168.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 73,MARGUERITAT John,70.6,58.0,61.0,-65.0,-95.0,-95.0,95.0,61.0,95.0,156.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 81,MONGEY Dylan,73.9,81.0,-85.0,-87.0,97.0,103.0,-111.0,81.0,103.0,184.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 89,AUDINOT Valentin,85.5,97.0,-101.0,-101.0,115.0,-120.0,-120.0,97.0,115.0,212.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 96,PHARIZAT Kevin,93.9,98.0,102.0,-105.0,115.0,120.0,-126.0,102.0,120.0,222.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 67,TAYER Kenzie,65.33,94.0,99.0,101.0,115.0,125.0,-130.0,101.0,125.0,226.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 73,LEFEVRE Jérome,72.19,-100.0,100.0,106.0,-125.0,125.0,130.0,106.0,130.0,236.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 89,BEVILACQUA Hugo,82.19,120.0,126.0,-131.0,145.0,151.0,-154.0,126.0,151.0,277.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 89,MUSSARD Nicolas  florent,86.4,100.0,-106.0,-108.0,125.0,130.0,135.0,100.0,135.0,235.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 89,HOOLANS Charly,85.14,100.0,-108.0,-108.0,125.0,-130.0,-130.0,100.0,125.0,225.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 96,FROGER Arthur,94.03,110.0,115.0,-120.0,145.0,-150.0,150.0,115.0,150.0,265.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 55,LAURET Stéphanie,54.11,60.0,62.0,64.0,75.0,79.0,-81.0,64.0,79.0,143.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 59,DAMOUR Caroline,58.33,65.0,-69.0,69.0,88.0,-93.0,93.0,69.0,93.0,162.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 59,RAKOTOMALALA Emma,55.1,61.0,-64.0,65.0,88.0,-94.0,95.0,65.0,95.0,160.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 64,MEMBRÉ Tatiana,61.12,68.0,70.0,72.0,87.0,90.0,-92.0,72.0,90.0,162.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 64,BINETRUY Camille,59.94,66.0,-70.0,70.0,80.0,83.0,-86.0,70.0,83.0,153.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 64,CADET Auberi,59.01,58.0,61.0,-63.0,75.0,79.0,-81.0,61.0,79.0,140.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 67,TAYER Kenzie,65.33,94.0,99.0,101.0,115.0,125.0,-130.0,101.0,125.0,226.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 73,LEFEVRE Jérome,72.19,-100.0,100.0,106.0,-125.0,125.0,130.0,106.0,130.0,236.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 89,BEVILACQUA Hugo,82.19,120.0,126.0,-131.0,145.0,151.0,-154.0,126.0,151.0,277.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 89,MUSSARD Nicolas  florent,86.4,100.0,-106.0,-108.0,125.0,130.0,135.0,100.0,135.0,235.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 89,HOOLANS Charly,85.14,100.0,-108.0,-108.0,125.0,-130.0,-130.0,100.0,125.0,225.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Men 96,FROGER Arthur,94.03,110.0,115.0,-120.0,145.0,-150.0,150.0,115.0,150.0,265.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 55,LAURET Stéphanie,54.11,60.0,62.0,64.0,75.0,79.0,-81.0,64.0,79.0,143.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 59,DAMOUR Caroline,58.33,65.0,-69.0,69.0,88.0,-93.0,93.0,69.0,93.0,162.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 59,RAKOTOMALALA Emma,55.1,61.0,-64.0,65.0,88.0,-94.0,95.0,65.0,95.0,160.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 64,MEMBRÉ Tatiana,61.12,68.0,70.0,72.0,87.0,90.0,-92.0,72.0,90.0,162.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 64,BINETRUY Camille,59.94,66.0,-70.0,70.0,80.0,83.0,-86.0,70.0,83.0,153.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,SEN Women 64,CADET Auberi,59.01,58.0,61.0,-63.0,75.0,79.0,-81.0,61.0,79.0,140.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U13 Men 40,TÉLISMART Maxime,37.16,25.0,27.0,29.0,34.0,36.0,-38.0,29.0,36.0,65.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U13 Men 45,MOULS Paul-maxime,40.9,20.0,22.0,-24.0,25.0,27.0,28.0,22.0,28.0,50.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U13 Women 40,LASOUR Louise,35.57,8.0,10.0,11.0,12.0,14.0,-16.0,11.0,14.0,25.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U13 Men 40,TÉLISMART Maxime,37.16,25.0,27.0,29.0,34.0,36.0,-38.0,29.0,36.0,65.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U13 Men 45,MOULS Paul-maxime,40.9,20.0,22.0,-24.0,25.0,27.0,28.0,22.0,28.0,50.0
+IDF - Cpe de France des Clubs - Saint-maur -  minimes 2,2024-01-28,U13 Women 40,LASOUR Louise,35.57,8.0,10.0,11.0,12.0,14.0,-16.0,11.0,14.0,25.0

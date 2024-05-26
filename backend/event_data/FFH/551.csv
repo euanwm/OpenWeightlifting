@@ -1,9 +1,12 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-OCC - Chal Avenir U13 - Clermont l'Ht,2020-10-10,U10 Men ,PARISIS-DURAND Estéban,27.0,6.0,7.0,8.0,9.0,10.0,11.0,8.0,11.0,36.0
-OCC - Chal Avenir U13 - Clermont l'Ht,2020-10-10,U10 Men ,CUVILLIER Valentin,31.0,5.0,6.0,7.0,7.0,8.0,9.0,7.0,9.0,30.0
-OCC - Chal Avenir U13 - Clermont l'Ht,2020-10-10,U13 Men 35,BECQUART Jessy,25.5,7.0,8.0,9.0,10.0,11.0,12.0,9.0,12.0,40.0
-OCC - Chal Avenir U13 - Clermont l'Ht,2020-10-10,U13 Men 45,GARCIA-DUHAMEL Jullian,41.7,8.0,9.0,10.0,12.0,13.0,14.0,10.0,14.0,46.0
-OCC - Chal Avenir U13 - Clermont l'Ht,2020-10-10,U13 Men 73,CHARITAT Yummy,69.9,-13.0,13.0,14.0,22.0,24.0,26.0,14.0,26.0,77.0
-OCC - Chal Avenir U13 - Clermont l'Ht,2020-10-10,U13 Women 35,DEGEZ Florette,31.3,17.0,19.0,20.0,26.0,28.0,30.0,20.0,30.0,97.0
-OCC - Chal Avenir U13 - Clermont l'Ht,2020-10-10,U13 Women 40,ALCARAZ Charlotte,36.4,15.0,16.0,17.0,18.0,20.0,22.0,17.0,22.0,75.0
-OCC - Chal Avenir U13 - Clermont l'Ht,2020-10-10,U13 Women 40,VICENT Lucia,36.0,5.0,6.0,7.0,7.0,8.0,9.0,7.0,9.0,30.0
+REU - 3° Challenge Avenir - La Fournaise,2022-03-05,U10 Men ,VEFOUR Noah,25.3,-19.0,19.0,21.0,24.0,26.0,28.0,21.0,28.0,49.0
+REU - 3° Challenge Avenir - La Fournaise,2022-03-05,U13 Men 35,PATEL Ilyane,28.71,20.0,22.0,-24.0,29.0,31.0,-33.0,22.0,31.0,53.0
+REU - 3° Challenge Avenir - La Fournaise,2022-03-05,U13 Men 35,TÉLISMART Maxime,32.0,18.0,20.0,22.0,27.0,29.0,31.0,22.0,31.0,53.0
+REU - 3° Challenge Avenir - La Fournaise,2022-03-05,U13 Men 49,SAUTRON Damien téo,46.6,26.0,-28.0,28.0,36.0,38.0,39.0,28.0,39.0,67.0
+REU - 3° Challenge Avenir - La Fournaise,2022-03-05,U13 Men 49,AUZATE Ismaël,48.9,22.0,24.0,-26.0,36.0,38.0,40.0,24.0,40.0,64.0
+REU - 3° Challenge Avenir - La Fournaise,2022-03-05,U10 Women ,BACHE Maelis,23.2,6.0,8.0,-10.0,8.0,10.0,12.0,8.0,12.0,20.0
+REU - 3° Challenge Avenir - La Fournaise,2022-03-05,U13 Women 35,VEFOUR Adèle,30.8,20.0,22.0,-24.0,27.0,29.0,31.0,22.0,31.0,53.0
+REU - 3° Challenge Avenir - La Fournaise,2022-03-05,U13 Women 40,RICHARD Maelys,36.2,21.0,23.0,24.0,27.0,29.0,31.0,24.0,31.0,55.0
+REU - 3° Challenge Avenir - La Fournaise,2022-03-05,U13 Women 49,RICHARD Kéllia,47.1,36.0,38.0,40.0,42.0,44.0,46.0,40.0,46.0,86.0
+REU - 3° Challenge Avenir - La Fournaise,2022-03-05,U13 Women 64,BONMALAIS Rose,63.2,36.0,38.0,40.0,42.0,44.0,46.0,40.0,46.0,86.0
+REU - 3° Challenge Avenir - La Fournaise,2022-03-05,U13 Women 71,MAILLOT Indira,66.5,37.0,39.0,-41.0,49.0,51.0,-53.0,39.0,51.0,90.0

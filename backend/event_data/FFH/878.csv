@@ -1,2 +1,56 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-NCAL - Barbell Clean MWA SAA - Min,2021-05-01,U13 Women 64,GARDES Emmylou,63.8,38.0,40.0,42.0,48.0,50.0,52.0,42.0,52.0,184.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,U15 Women 64,BOYER Kristina,60.0,43.0,47.0,49.0,55.0,60.0,-62.0,49.0,60.0,109.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,U20 Women 55,CHAIX Calista,53.2,30.0,34.0,36.0,40.0,45.0,48.0,36.0,48.0,84.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,U20 Women 59,BENSUSSAN Manon,58.7,53.0,57.0,60.0,65.0,-70.0,70.0,60.0,70.0,130.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,U20 Women 71,PLAINDOUX Erika,68.5,40.0,45.0,-48.0,50.0,55.0,60.0,45.0,60.0,105.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,U20 Women 76,DALIA Carla,73.3,45.0,50.0,-52.0,60.0,65.0,68.0,50.0,68.0,118.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,U20 Women >87,BONDU Manon,92.3,20.0,24.0,27.0,35.0,40.0,-42.0,27.0,40.0,67.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Women 49,GRILLON Marie-anne,48.6,32.0,-36.0,36.0,45.0,48.0,52.0,36.0,52.0,88.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Women 55,GOMEZ Patricia,54.6,48.0,53.0,58.0,65.0,-70.0,-70.0,58.0,65.0,123.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Women 55,FAGOT Alice,52.1,48.0,-52.0,52.0,60.0,63.0,66.0,52.0,66.0,118.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Women 59,BERNARD Manon,57.8,55.0,59.0,62.0,68.0,72.0,75.0,62.0,75.0,137.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Women 59,VAILLES Shirley,57.8,40.0,44.0,48.0,53.0,57.0,-61.0,48.0,57.0,105.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Women 59,ZINOUNE Naouel,58.3,43.0,47.0,-51.0,52.0,-56.0,56.0,47.0,56.0,103.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Women 64,DESANDRE NAVARRE Marie,60.0,56.0,60.0,63.0,70.0,73.0,76.0,63.0,76.0,139.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Women 71,BAUDRY Charlotte,66.4,35.0,40.0,45.0,57.0,61.0,65.0,45.0,65.0,110.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Women 71,BOYER Noemie,68.5,20.0,-0.0,-0.0,25.0,-0.0,-0.0,20.0,25.0,45.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,U17 Men 55,BAILLIEUX Cyril,53.0,56.0,59.0,-61.0,72.0,76.0,79.0,59.0,79.0,138.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,U17 Men 61,GLEYZE Alexis,57.8,53.0,57.0,59.0,60.0,-65.0,-65.0,59.0,60.0,119.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,U17 Men 67,BOYER Karsten,62.8,50.0,55.0,58.0,65.0,70.0,73.0,58.0,73.0,131.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Men 73,MOLESTI Alexandre,72.4,80.0,87.0,91.0,110.0,118.0,-125.0,91.0,118.0,209.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Men 73,BURLA Romain,72.2,73.0,-78.0,-80.0,-90.0,90.0,95.0,73.0,95.0,168.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Men 81,GANDON Romain,80.1,83.0,89.0,95.0,103.0,113.0,120.0,95.0,120.0,215.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Men 81,VILLEMINOT Alex,76.7,87.0,92.0,-97.0,111.0,118.0,-130.0,92.0,118.0,210.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Men 81,FERREIRA CORTES Thibault,73.9,83.0,88.0,92.0,100.0,110.0,-116.0,92.0,110.0,202.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Men 81,DUBOIS Anthony,80.5,80.0,85.0,-90.0,105.0,-110.0,-110.0,85.0,105.0,190.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Men 81,PEREZ Sébastien,77.7,81.0,-85.0,-87.0,101.0,-107.0,-111.0,81.0,101.0,182.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Men 81,BAUDRY Marc,76.2,65.0,70.0,75.0,85.0,90.0,98.0,75.0,98.0,173.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Men 81,BENABDALLAH Madjid,80.5,60.0,-65.0,65.0,80.0,85.0,90.0,65.0,90.0,155.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Men 81,BASSI Grégory,74.3,50.0,60.0,65.0,70.0,75.0,80.0,65.0,80.0,145.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Men 81,BENOIT Joan,76.4,-95.0,-95.0,-95.0,112.0,117.0,120.0,0.0,120.0,0.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Men 89,ZAMUDIO Sebastien,86.9,73.0,78.0,83.0,95.0,100.0,-105.0,83.0,100.0,183.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Men 96,ROYER SYLVESTRE BRU Carl,95.4,80.0,-88.0,91.0,110.0,120.0,-130.0,91.0,120.0,211.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Men 96,MARMET Benjamin,90.7,85.0,90.0,-95.0,105.0,110.0,115.0,90.0,115.0,205.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Men 96,BONICI MORENO Sebastien,94.8,60.0,63.0,68.0,77.0,80.0,85.0,68.0,85.0,153.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Men 96,DOUSPIS Florian,92.3,60.0,67.0,-72.0,75.0,-81.0,85.0,67.0,85.0,152.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Men 109,LAUGIER Sebastien,108.6,105.0,112.0,115.0,130.0,135.0,-145.0,115.0,135.0,250.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,U17 Men 55,BAILLIEUX Cyril,53.0,56.0,59.0,-61.0,72.0,76.0,79.0,59.0,79.0,138.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,U17 Men 61,GLEYZE Alexis,57.8,53.0,57.0,59.0,60.0,-65.0,-65.0,59.0,60.0,119.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,U17 Men 67,BOYER Karsten,62.8,50.0,55.0,58.0,65.0,70.0,73.0,58.0,73.0,131.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Men 73,MOLESTI Alexandre,72.4,80.0,87.0,91.0,110.0,118.0,-125.0,91.0,118.0,209.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Men 73,BURLA Romain,72.2,73.0,-78.0,-80.0,-90.0,90.0,95.0,73.0,95.0,168.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Men 81,GANDON Romain,80.1,83.0,89.0,95.0,103.0,113.0,120.0,95.0,120.0,215.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Men 81,VILLEMINOT Alex,76.7,87.0,92.0,-97.0,111.0,118.0,-130.0,92.0,118.0,210.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Men 81,FERREIRA CORTES Thibault,73.9,83.0,88.0,92.0,100.0,110.0,-116.0,92.0,110.0,202.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Men 81,DUBOIS Anthony,80.5,80.0,85.0,-90.0,105.0,-110.0,-110.0,85.0,105.0,190.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Men 81,PEREZ Sébastien,77.7,81.0,-85.0,-87.0,101.0,-107.0,-111.0,81.0,101.0,182.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Men 81,BAUDRY Marc,76.2,65.0,70.0,75.0,85.0,90.0,98.0,75.0,98.0,173.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Men 81,BENABDALLAH Madjid,80.5,60.0,-65.0,65.0,80.0,85.0,90.0,65.0,90.0,155.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Men 81,BASSI Grégory,74.3,50.0,60.0,65.0,70.0,75.0,80.0,65.0,80.0,145.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Men 81,BENOIT Joan,76.4,-95.0,-95.0,-95.0,112.0,117.0,120.0,0.0,120.0,0.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Men 89,ZAMUDIO Sebastien,86.9,73.0,78.0,83.0,95.0,100.0,-105.0,83.0,100.0,183.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Men 96,ROYER SYLVESTRE BRU Carl,95.4,80.0,-88.0,91.0,110.0,120.0,-130.0,91.0,120.0,211.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Men 96,MARMET Benjamin,90.7,85.0,90.0,-95.0,105.0,110.0,115.0,90.0,115.0,205.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Men 96,BONICI MORENO Sebastien,94.8,60.0,63.0,68.0,77.0,80.0,85.0,68.0,85.0,153.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Men 96,DOUSPIS Florian,92.3,60.0,67.0,-72.0,75.0,-81.0,85.0,67.0,85.0,152.0
+PACA - 1er tour championnat régional - féminines (Monteux),2021-11-14,SEN Men 109,LAUGIER Sebastien,108.6,105.0,112.0,115.0,130.0,135.0,-145.0,115.0,135.0,250.0

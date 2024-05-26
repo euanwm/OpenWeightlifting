@@ -1,8 +1,70 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-GE - Challenge Avenir 3 - Bas-Rhin - U15-17-20-SEN - Fem,2021-08-21,SEN Women 55,MELELLI Sarah,53.6,37.0,40.0,42.0,50.0,53.0,-56.0,42.0,53.0,95.0
-GE - Challenge Avenir 3 - Bas-Rhin - U15-17-20-SEN - Fem,2021-08-21,SEN Women 55,WITKOWSKI Dagmar,54.8,40.0,-42.0,42.0,47.0,-49.0,-49.0,42.0,47.0,89.0
-GE - Challenge Avenir 3 - Bas-Rhin - U15-17-20-SEN - Fem,2021-08-21,SEN Women 59,ARRIVET Melanie,57.2,36.0,38.0,40.0,55.0,58.0,-60.0,40.0,58.0,98.0
-GE - Challenge Avenir 3 - Bas-Rhin - U15-17-20-SEN - Fem,2021-08-21,SEN Women 64,DURIF Joanna,62.3,-43.0,43.0,46.0,50.0,-54.0,54.0,46.0,54.0,100.0
-GE - Challenge Avenir 3 - Bas-Rhin - U15-17-20-SEN - Fem,2021-08-21,SEN Women 64,KUSS BILDSTEIN Isabelle,62.7,38.0,41.0,44.0,52.0,56.0,-59.0,44.0,56.0,100.0
-GE - Challenge Avenir 3 - Bas-Rhin - U15-17-20-SEN - Fem,2021-08-21,SEN Women 64,LOTTIGIER Chloe,63.4,40.0,-44.0,44.0,45.0,48.0,50.0,44.0,50.0,94.0
-GE - Challenge Avenir 3 - Bas-Rhin - U15-17-20-SEN - Fem,2021-08-21,SEN Women 64,BAILLY Lucie,60.3,33.0,-35.0,36.0,42.0,-44.0,45.0,36.0,45.0,81.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U15 Men 61,BRAUN-KILMETIS Sascha,56.5,20.0,23.0,-24.0,26.0,30.0,32.0,23.0,32.0,55.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U15 Men 61,MONTANUY Loick,55.7,20.0,-23.0,23.0,26.0,-30.0,-30.0,23.0,26.0,49.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U17 Men 61,FAELENS Noah,57.9,49.0,53.0,-56.0,67.0,71.0,-75.0,53.0,71.0,124.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U17 Men 73,LOUSSE Marius,71.5,45.0,48.0,52.0,58.0,63.0,68.0,52.0,68.0,120.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U17 Men 81,LECOMTE Louis,76.9,41.0,43.0,46.0,48.0,51.0,55.0,46.0,55.0,101.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U17 Men 89,ROLLAND Jérémie,89.0,42.0,46.0,-50.0,54.0,58.0,61.0,46.0,61.0,107.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U20 Men 61,VASSEUR Remy,55.8,-40.0,40.0,-42.0,48.0,51.0,-54.0,40.0,51.0,91.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U20 Men 81,TCHINDA Noa,79.9,65.0,70.0,75.0,85.0,-90.0,90.0,75.0,90.0,165.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U20 Men 81,BERFINI Viktor,78.8,54.0,-58.0,58.0,-60.0,60.0,-65.0,58.0,60.0,118.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U20 Men >109,CORADO GARRO Lenny,119.3,85.0,-92.0,-92.0,110.0,117.0,123.0,85.0,123.0,208.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U15 Women 59,LE NOC Orlane,56.4,33.0,-35.0,35.0,40.0,-45.0,-45.0,35.0,40.0,75.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U17 Women 55,SANTOS FERNANDES Christelle,54.5,25.0,28.0,-30.0,35.0,-40.0,-40.0,28.0,35.0,63.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U17 Women 55,BORY Mila,51.7,21.0,22.0,-24.0,26.0,28.0,-31.0,22.0,28.0,50.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U17 Women 64,POMERET Clemence,62.2,40.0,-42.0,42.0,52.0,54.0,56.0,42.0,56.0,98.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U17 Women 64,PENCOLE Yael,59.2,34.0,-37.0,-37.0,-44.0,-44.0,44.0,34.0,44.0,78.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U20 Women 55,CHAMPION Lilou,54.9,40.0,-43.0,-43.0,48.0,51.0,-54.0,40.0,51.0,91.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U20 Women 64,GAIGEOT Erinn,62.7,37.0,40.0,42.0,47.0,-49.0,-50.0,42.0,47.0,89.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U20 Women 71,VASSEUR Chloé,65.5,26.0,28.0,30.0,30.0,-33.0,33.0,30.0,33.0,63.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,SEN Women 59,COHEN Alice,57.4,-55.0,55.0,-58.0,63.0,-67.0,67.0,55.0,67.0,122.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U15 Men 49,LE VIENNESSE--BOHER Luka,47.7,23.0,26.0,30.0,32.0,36.0,40.0,30.0,40.0,70.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U15 Men >102,BEDEIR LARADE Jilany,108.1,38.0,42.0,46.0,50.0,-55.0,-56.0,46.0,50.0,96.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U17 Men 73,CHIVÉ Lilian,72.9,55.0,58.0,-62.0,65.0,70.0,73.0,58.0,73.0,131.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U17 Men 81,CASSOBIE Mathys,75.4,65.0,-69.0,69.0,75.0,78.0,-81.0,69.0,78.0,147.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U20 Men 73,LOUP Nathan,70.9,40.0,42.0,-46.0,-60.0,60.0,-62.0,42.0,60.0,102.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U15 Women 49,RICHEVAUX Jade,46.0,28.0,30.0,32.0,30.0,35.0,38.0,32.0,38.0,70.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U17 Women 64,BEDEIR LARADE Safana,59.5,40.0,-45.0,45.0,50.0,55.0,58.0,45.0,58.0,103.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U17 Women >81,BAUDOUIN Marjane,92.7,35.0,40.0,-41.0,47.0,50.0,-52.0,40.0,50.0,90.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U20 Women 59,BOTTA Melanie,55.9,27.0,30.0,-32.0,34.0,38.0,41.0,30.0,41.0,71.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U15 Men 49,LE VIENNESSE--BOHER Luka,47.7,23.0,26.0,30.0,32.0,36.0,40.0,30.0,40.0,70.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U15 Men >102,BEDEIR LARADE Jilany,108.1,38.0,42.0,46.0,50.0,-55.0,-56.0,46.0,50.0,96.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U17 Men 73,CHIVÉ Lilian,72.9,55.0,58.0,-62.0,65.0,70.0,73.0,58.0,73.0,131.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U17 Men 81,CASSOBIE Mathys,75.4,65.0,-69.0,69.0,75.0,78.0,-81.0,69.0,78.0,147.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U20 Men 73,LOUP Nathan,70.9,40.0,42.0,-46.0,-60.0,60.0,-62.0,42.0,60.0,102.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U15 Women 49,RICHEVAUX Jade,46.0,28.0,30.0,32.0,30.0,35.0,38.0,32.0,38.0,70.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U17 Women 64,BEDEIR LARADE Safana,59.5,40.0,-45.0,45.0,50.0,55.0,58.0,45.0,58.0,103.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U17 Women >81,BAUDOUIN Marjane,92.7,35.0,40.0,-41.0,47.0,50.0,-52.0,40.0,50.0,90.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U20 Women 59,BOTTA Melanie,55.9,27.0,30.0,-32.0,34.0,38.0,41.0,30.0,41.0,71.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U15 Men 49,BELLIER--BARREAU Mathis,46.4,41.0,44.0,46.0,51.0,55.0,57.0,46.0,57.0,103.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U15 Men 49,CRAND Natan,46.1,33.0,35.0,-37.0,-40.0,-40.0,40.0,35.0,40.0,75.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U15 Men 55,TRIGODET Titouan,55.0,37.0,40.0,-42.0,47.0,-50.0,50.0,40.0,50.0,90.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U15 Men 67,PIRIOU Yundy,61.9,56.0,61.0,64.0,68.0,-72.0,74.0,64.0,74.0,138.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U17 Men 55,COTTEREAU Hugo,51.9,46.0,49.0,51.0,57.0,60.0,62.0,51.0,62.0,113.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U17 Men 55,BELLIER--BARREAU Mael,51.4,35.0,38.0,40.0,43.0,47.0,49.0,40.0,49.0,89.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U17 Men 73,PATRY Baptiste,68.3,60.0,64.0,-67.0,80.0,84.0,-87.0,64.0,84.0,148.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U17 Men 73,HUBERT JOUBERT Arthur,67.8,-60.0,60.0,63.0,-70.0,70.0,74.0,63.0,74.0,137.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U17 Men 81,ROGUET Thomas,77.8,87.0,91.0,-93.0,107.0,111.0,-113.0,91.0,111.0,202.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U17 Men 89,BIANCO Loucas,88.3,62.0,-66.0,66.0,83.0,87.0,90.0,66.0,90.0,156.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U20 Men 67,PASQUIER Enzo,65.7,42.0,46.0,50.0,60.0,64.0,-68.0,50.0,64.0,114.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U20 Men 73,RENOIR Quentin,69.9,76.0,80.0,82.0,92.0,95.0,98.0,82.0,98.0,180.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U20 Men 73,TRANQUILLAIN Nathanael,72.4,-75.0,75.0,-78.0,-90.0,90.0,95.0,75.0,95.0,170.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U15 Men 49,BELLIER--BARREAU Mathis,46.4,41.0,44.0,46.0,51.0,55.0,57.0,46.0,57.0,103.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U15 Men 49,CRAND Natan,46.1,33.0,35.0,-37.0,-40.0,-40.0,40.0,35.0,40.0,75.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U15 Men 55,TRIGODET Titouan,55.0,37.0,40.0,-42.0,47.0,-50.0,50.0,40.0,50.0,90.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U15 Men 67,PIRIOU Yundy,61.9,56.0,61.0,64.0,68.0,-72.0,74.0,64.0,74.0,138.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U17 Men 55,COTTEREAU Hugo,51.9,46.0,49.0,51.0,57.0,60.0,62.0,51.0,62.0,113.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U17 Men 55,BELLIER--BARREAU Mael,51.4,35.0,38.0,40.0,43.0,47.0,49.0,40.0,49.0,89.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U17 Men 73,PATRY Baptiste,68.3,60.0,64.0,-67.0,80.0,84.0,-87.0,64.0,84.0,148.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U17 Men 73,HUBERT JOUBERT Arthur,67.8,-60.0,60.0,63.0,-70.0,70.0,74.0,63.0,74.0,137.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U17 Men 81,ROGUET Thomas,77.8,87.0,91.0,-93.0,107.0,111.0,-113.0,91.0,111.0,202.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U17 Men 89,BIANCO Loucas,88.3,62.0,-66.0,66.0,83.0,87.0,90.0,66.0,90.0,156.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U20 Men 67,PASQUIER Enzo,65.7,42.0,46.0,50.0,60.0,64.0,-68.0,50.0,64.0,114.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U20 Men 73,RENOIR Quentin,69.9,76.0,80.0,82.0,92.0,95.0,98.0,82.0,98.0,180.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U20 Men 73,TRANQUILLAIN Nathanael,72.4,-75.0,75.0,-78.0,-90.0,90.0,95.0,75.0,95.0,170.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,SEN Men 96,USSEGLIO Julien,95.4,105.0,110.0,115.0,150.0,160.0,-165.0,115.0,160.0,275.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,SEN Men 96,USSEGLIO Julien,95.4,105.0,110.0,115.0,150.0,160.0,-165.0,115.0,160.0,275.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U17 Women 55,TISSERAND Maëlys,54.5,38.0,-40.0,40.0,47.0,-50.0,-52.0,40.0,47.0,87.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,SEN Women 64,CAMACHO Marine,62.8,60.0,65.0,68.0,80.0,-85.0,-88.0,68.0,80.0,148.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,U17 Women 55,TISSERAND Maëlys,54.5,38.0,-40.0,40.0,47.0,-50.0,-52.0,40.0,47.0,87.0
+IDF - autre - Coupe d'Ile-de-France par équipes départementales de 3 jeunes Plateau 2 - CACHAN,2022-12-10,SEN Women 64,CAMACHO Marine,62.8,60.0,65.0,68.0,80.0,-85.0,-88.0,68.0,80.0,148.0

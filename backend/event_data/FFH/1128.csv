@@ -1,2 +1,55 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-GUA - Challenge Avenir,2021-07-03,U10 Men ,MAXWELL Evans,28.7,13.0,15.0,17.0,16.0,18.0,20.0,17.0,20.0,70.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,U20 Women 71,CONGARD Romane,65.6,35.0,-40.0,-40.0,43.0,46.0,48.0,35.0,48.0,83.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,U20 Women 76,MOUNPEN Awa,71.5,38.0,-42.0,-43.0,52.0,55.0,-60.0,38.0,55.0,93.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,SEN Women 55,GOUJEAU Johanna,51.9,-33.0,33.0,-35.0,43.0,46.0,-48.0,33.0,46.0,79.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,SEN Women 59,MICHEL Juliette,58.3,-43.0,43.0,45.0,54.0,-57.0,-57.0,45.0,54.0,99.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,SEN Women 59,ANOUAR Yasmine,58.0,35.0,38.0,-40.0,45.0,48.0,-50.0,38.0,48.0,86.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,SEN Women 64,BASTIE Marie,63.7,-50.0,-50.0,50.0,62.0,65.0,67.0,50.0,67.0,117.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,SEN Women 64,ROZAN Charlotte,63.5,43.0,45.0,-48.0,-55.0,-55.0,55.0,45.0,55.0,100.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,SEN Women 71,SOUCHU Chloe,68.8,45.0,49.0,-52.0,68.0,-74.0,-74.0,49.0,68.0,117.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,SEN Women 71,FOURNY Perrine,65.1,48.0,-50.0,51.0,60.0,-62.0,62.0,51.0,62.0,113.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,SEN Women 71,MOREAU Doralicia,68.3,36.0,38.0,40.0,58.0,62.0,65.0,40.0,65.0,105.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,SEN Women 71,LEPAIN Cindy,69.5,35.0,-37.0,-0.0,42.0,45.0,48.0,35.0,48.0,83.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,SEN Women >87,MARCELIN-GABRIEL Amély,104.9,50.0,53.0,56.0,60.0,64.0,67.0,56.0,67.0,123.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,U15 Men 49,CAPAR Eren,46.0,26.0,-28.0,-28.0,-30.0,-30.0,30.0,26.0,30.0,56.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,SEN Men 73,PAILLE Nicolas,72.7,88.0,92.0,-95.0,105.0,110.0,-115.0,92.0,110.0,202.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,SEN Men 73,RENAULT Maxime,72.1,70.0,75.0,-80.0,105.0,-110.0,-110.0,75.0,105.0,180.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,SEN Men 81,SOUTENAIN Thomas,77.2,87.0,92.0,-95.0,105.0,112.0,118.0,92.0,118.0,210.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,SEN Men 81,MEUNIER Robin,79.1,75.0,-80.0,80.0,105.0,-111.0,111.0,80.0,111.0,191.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,SEN Men 81,HILLAIREAU Killian,79.5,65.0,-70.0,-70.0,-90.0,-90.0,90.0,65.0,90.0,155.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,SEN Men 81,CHAVIGNY Germain,76.0,60.0,64.0,-0.0,70.0,75.0,80.0,64.0,80.0,144.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,SEN Men 89,RICORDEAU Corentin,86.9,76.0,-80.0,80.0,-112.0,112.0,-116.0,80.0,112.0,192.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,SEN Men 96,JUGIAU Benjamin,94.0,85.0,-92.0,-92.0,100.0,105.0,110.0,85.0,110.0,195.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,SEN Men 96,NAYDENOV Delian,89.7,75.0,-80.0,-90.0,90.0,95.0,-100.0,75.0,95.0,170.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,SEN Men 96,DE GRACIA Frederic,96.0,70.0,73.0,-76.0,90.0,-95.0,-95.0,73.0,90.0,163.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,SEN Men 96,AISSA Loesha,92.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,U15 Men 49,CAPAR Eren,46.0,26.0,-28.0,-28.0,-30.0,-30.0,30.0,26.0,30.0,56.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,SEN Men 73,PAILLE Nicolas,72.7,88.0,92.0,-95.0,105.0,110.0,-115.0,92.0,110.0,202.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,SEN Men 73,RENAULT Maxime,72.1,70.0,75.0,-80.0,105.0,-110.0,-110.0,75.0,105.0,180.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,SEN Men 81,SOUTENAIN Thomas,77.2,87.0,92.0,-95.0,105.0,112.0,118.0,92.0,118.0,210.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,SEN Men 81,MEUNIER Robin,79.1,75.0,-80.0,80.0,105.0,-111.0,111.0,80.0,111.0,191.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,SEN Men 81,HILLAIREAU Killian,79.5,65.0,-70.0,-70.0,-90.0,-90.0,90.0,65.0,90.0,155.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,SEN Men 81,CHAVIGNY Germain,76.0,60.0,64.0,-0.0,70.0,75.0,80.0,64.0,80.0,144.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,SEN Men 89,RICORDEAU Corentin,86.9,76.0,-80.0,80.0,-112.0,112.0,-116.0,80.0,112.0,192.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,SEN Men 96,JUGIAU Benjamin,94.0,85.0,-92.0,-92.0,100.0,105.0,110.0,85.0,110.0,195.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,SEN Men 96,NAYDENOV Delian,89.7,75.0,-80.0,-90.0,90.0,95.0,-100.0,75.0,95.0,170.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,SEN Men 96,DE GRACIA Frederic,96.0,70.0,73.0,-76.0,90.0,-95.0,-95.0,73.0,90.0,163.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,SEN Men 96,AISSA Loesha,92.0,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,U10 Men ,TERRITEHAU-VAITANAKI Ethan,34.0,7.0,8.0,9.0,12.0,14.0,15.0,9.0,15.0,24.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,U10 Men ,BEZE Owen,20.5,4.0,5.0,6.0,6.0,7.0,8.0,6.0,8.0,14.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,U10 Women ,TETAINANUARU Laurensia,29.0,5.0,-6.0,6.0,8.0,9.0,11.0,6.0,11.0,17.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,U10 Women ,ROSOLEN Eva,25.0,4.0,5.0,6.0,6.0,7.0,8.0,6.0,8.0,14.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,U10 Women ,VAITANAKI Aby-gaelle,31.0,4.0,5.0,6.0,6.0,7.0,8.0,6.0,8.0,14.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,U13 Women 35,IWA Elanny,29.0,7.0,8.0,10.0,12.0,14.0,16.0,10.0,16.0,26.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,U13 Women 45,ROSOLEN Emy,45.0,7.0,-8.0,8.0,12.0,-14.0,14.0,8.0,14.0,22.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,U13 Women 55,ORTHOSIE Mélissa,50.0,7.0,8.0,10.0,12.0,14.0,16.0,10.0,16.0,26.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,U10 Men ,TERRITEHAU-VAITANAKI Ethan,34.0,7.0,8.0,9.0,12.0,14.0,15.0,9.0,15.0,24.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,U10 Men ,BEZE Owen,20.5,4.0,5.0,6.0,6.0,7.0,8.0,6.0,8.0,14.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,U10 Women ,TETAINANUARU Laurensia,29.0,5.0,-6.0,6.0,8.0,9.0,11.0,6.0,11.0,17.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,U10 Women ,ROSOLEN Eva,25.0,4.0,5.0,6.0,6.0,7.0,8.0,6.0,8.0,14.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,U10 Women ,VAITANAKI Aby-gaelle,31.0,4.0,5.0,6.0,6.0,7.0,8.0,6.0,8.0,14.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,U13 Women 35,IWA Elanny,29.0,7.0,8.0,10.0,12.0,14.0,16.0,10.0,16.0,26.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,U13 Women 45,ROSOLEN Emy,45.0,7.0,-8.0,8.0,12.0,-14.0,14.0,8.0,14.0,22.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,U13 Women 55,ORTHOSIE Mélissa,50.0,7.0,8.0,10.0,12.0,14.0,16.0,10.0,16.0,26.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,U17 Women 55,BADJI Lyhana,54.5,15.0,18.0,21.0,25.0,30.0,35.0,21.0,35.0,56.0
+CVL - Challenge Avenir - Tours - 4e Ch Avenir CD18-28-37-45,2023-03-25,U17 Women 55,BADJI Lyhana,54.5,15.0,18.0,21.0,25.0,30.0,35.0,21.0,35.0,56.0

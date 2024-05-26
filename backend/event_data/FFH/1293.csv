@@ -1,9 +1,150 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-NDIE - Critérium National,2021-08-28,SEN Women 55,RETAILLE Manon,55.0,62.0,66.0,70.0,80.0,85.0,90.0,70.0,90.0,160.0
-NDIE - Critérium National,2021-08-28,SEN Women 55,L HERMIER Nolwen,54.3,64.0,-67.0,-67.0,-80.0,-80.0,80.0,64.0,80.0,144.0
-NDIE - Critérium National,2021-08-28,SEN Women 55,LOUBAR Léa,53.9,48.0,50.0,53.0,58.0,61.0,-64.0,53.0,61.0,114.0
-NDIE - Critérium National,2021-08-28,SEN Women 55,FREBOURG Elise,53.1,42.0,45.0,-47.0,57.0,60.0,-62.0,45.0,60.0,105.0
-NDIE - Critérium National,2021-08-28,SEN Women 64,LE MALEFANT Samantha,64.0,79.0,84.0,-88.0,98.0,103.0,-107.0,84.0,103.0,187.0
-NDIE - Critérium National,2021-08-28,SEN Women 64,GOMIS Clarisse,64.0,60.0,65.0,67.0,84.0,88.0,91.0,67.0,91.0,158.0
-NDIE - Critérium National,2021-08-28,SEN Women 71,HAUTERS Laetitia,69.8,-63.0,63.0,-66.0,75.0,-78.0,78.0,63.0,78.0,141.0
-NDIE - Critérium National,2021-08-28,SEN Women 71,BAGOT Sarah,70.8,58.0,60.0,62.0,72.0,-76.0,-80.0,62.0,72.0,134.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U13 Men 35,FAIVRE Charly,28.0,10.0,11.0,-13.0,10.0,11.0,13.0,11.0,13.0,24.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 59,KATT Jennifer,57.1,30.0,33.0,35.0,43.0,45.0,47.0,35.0,47.0,82.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 64,LANGLOIS Natacha,62.4,34.0,37.0,-38.0,45.0,48.0,-50.0,37.0,48.0,85.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 64,ZIMMERMANN Aurelie,59.9,28.0,30.0,-32.0,35.0,-41.0,41.0,30.0,41.0,71.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 71,GRANDJEAN Coraline,67.8,44.0,-46.0,-46.0,60.0,-62.0,62.0,44.0,62.0,106.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 71,POLIMENI Angie,64.8,33.0,35.0,37.0,43.0,46.0,48.0,37.0,48.0,85.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 71,LICHTLE Corinne,68.3,-33.0,-33.0,33.0,44.0,47.0,-50.0,33.0,47.0,80.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 59,KATT Jennifer,57.1,30.0,33.0,35.0,43.0,45.0,47.0,35.0,47.0,82.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 64,LANGLOIS Natacha,62.4,34.0,37.0,-38.0,45.0,48.0,-50.0,37.0,48.0,85.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 64,ZIMMERMANN Aurelie,59.9,28.0,30.0,-32.0,35.0,-41.0,41.0,30.0,41.0,71.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 71,GRANDJEAN Coraline,67.8,44.0,-46.0,-46.0,60.0,-62.0,62.0,44.0,62.0,106.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 71,POLIMENI Angie,64.8,33.0,35.0,37.0,43.0,46.0,48.0,37.0,48.0,85.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 71,LICHTLE Corinne,68.3,-33.0,-33.0,33.0,44.0,47.0,-50.0,33.0,47.0,80.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U15 Men 55,SCHULTZ Martin,49.9,30.0,33.0,-36.0,35.0,38.0,41.0,33.0,41.0,74.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U17 Men 81,LAEMLIN Yoan,78.1,59.0,62.0,64.0,78.0,81.0,83.0,64.0,83.0,147.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U20 Men 73,DUGUE Yohan,70.4,52.0,56.0,-60.0,70.0,73.0,76.0,56.0,76.0,132.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U20 Men >109,LAEMLIN Jules,131.6,70.0,-74.0,74.0,95.0,100.0,-103.0,74.0,100.0,174.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 81,BROGLIN Jean henri,74.1,70.0,74.0,76.0,87.0,91.0,-95.0,76.0,91.0,167.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 81,TSCHAEN Philippe,74.7,-42.0,46.0,-48.0,55.0,-60.0,60.0,46.0,60.0,106.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 96,SAHIRI Julien,94.5,-100.0,-100.0,100.0,130.0,140.0,-145.0,100.0,140.0,240.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U15 Men 55,SCHULTZ Martin,49.9,30.0,33.0,-36.0,35.0,38.0,41.0,33.0,41.0,74.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U17 Men 81,LAEMLIN Yoan,78.1,59.0,62.0,64.0,78.0,81.0,83.0,64.0,83.0,147.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U20 Men 73,DUGUE Yohan,70.4,52.0,56.0,-60.0,70.0,73.0,76.0,56.0,76.0,132.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U20 Men >109,LAEMLIN Jules,131.6,70.0,-74.0,74.0,95.0,100.0,-103.0,74.0,100.0,174.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 81,BROGLIN Jean henri,74.1,70.0,74.0,76.0,87.0,91.0,-95.0,76.0,91.0,167.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 81,TSCHAEN Philippe,74.7,-42.0,46.0,-48.0,55.0,-60.0,60.0,46.0,60.0,106.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 96,SAHIRI Julien,94.5,-100.0,-100.0,100.0,130.0,140.0,-145.0,100.0,140.0,240.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U15 Women 40,DUCHAUFFOUR Rose,33.9,17.0,19.0,20.0,27.0,29.0,-31.0,20.0,29.0,49.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U20 Women 55,GORGES Armelle,51.8,30.0,-35.0,-35.0,37.0,41.0,44.0,30.0,44.0,74.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 55,PHILIPPE Anais,52.3,40.0,-43.0,-43.0,55.0,60.0,-65.0,40.0,60.0,100.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 64,SCHNELLER Justine,62.5,45.0,48.0,52.0,65.0,68.0,72.0,52.0,72.0,124.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 64,FREY Jeanne,59.6,25.0,28.0,-30.0,25.0,29.0,32.0,28.0,32.0,60.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 71,GUENOT Hélène,65.2,53.0,-57.0,-60.0,65.0,70.0,75.0,53.0,75.0,128.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 71,PRIEUR Justine,66.0,47.0,51.0,54.0,65.0,-70.0,70.0,54.0,70.0,124.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U15 Women 40,DUCHAUFFOUR Rose,33.9,17.0,19.0,20.0,27.0,29.0,-31.0,20.0,29.0,49.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U20 Women 55,GORGES Armelle,51.8,30.0,-35.0,-35.0,37.0,41.0,44.0,30.0,44.0,74.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 55,PHILIPPE Anais,52.3,40.0,-43.0,-43.0,55.0,60.0,-65.0,40.0,60.0,100.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 64,SCHNELLER Justine,62.5,45.0,48.0,52.0,65.0,68.0,72.0,52.0,72.0,124.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 64,FREY Jeanne,59.6,25.0,28.0,-30.0,25.0,29.0,32.0,28.0,32.0,60.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 71,GUENOT Hélène,65.2,53.0,-57.0,-60.0,65.0,70.0,75.0,53.0,75.0,128.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 71,PRIEUR Justine,66.0,47.0,51.0,54.0,65.0,-70.0,70.0,54.0,70.0,124.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U15 Men >102,DUBOIS MIKULASKO Lucas,108.4,42.0,47.0,50.0,53.0,58.0,62.0,50.0,62.0,112.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U17 Men 67,KIRCHSTETTER Timéo,62.4,40.0,-45.0,-47.0,52.0,57.0,-62.0,40.0,57.0,97.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U20 Men 55,BOUHALOUANI Samy,54.5,35.0,40.0,43.0,45.0,50.0,55.0,43.0,55.0,98.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 67,CRETON Boris,62.4,57.0,-63.0,-67.0,77.0,85.0,-90.0,57.0,85.0,142.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 81,TIRBISCH Patrice,76.0,-47.0,47.0,50.0,67.0,75.0,-78.0,50.0,75.0,125.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U15 Men >102,DUBOIS MIKULASKO Lucas,108.4,42.0,47.0,50.0,53.0,58.0,62.0,50.0,62.0,112.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U17 Men 67,KIRCHSTETTER Timéo,62.4,40.0,-45.0,-47.0,52.0,57.0,-62.0,40.0,57.0,97.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U20 Men 55,BOUHALOUANI Samy,54.5,35.0,40.0,43.0,45.0,50.0,55.0,43.0,55.0,98.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 67,CRETON Boris,62.4,57.0,-63.0,-67.0,77.0,85.0,-90.0,57.0,85.0,142.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 81,TIRBISCH Patrice,76.0,-47.0,47.0,50.0,67.0,75.0,-78.0,50.0,75.0,125.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U13 Men 35,BRUCK Joan,29.3,-19.0,19.0,21.0,25.0,-27.0,27.0,21.0,27.0,48.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U13 Men 35,DUCHAUFFOUR Louis,26.2,13.0,14.0,16.0,17.0,19.0,21.0,16.0,21.0,37.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U13 Men 61,DUBOIS MIKULASKO Tom,56.2,21.0,23.0,-25.0,27.0,29.0,31.0,23.0,31.0,54.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U13 Men 35,BRUCK Joan,29.3,-19.0,19.0,21.0,25.0,-27.0,27.0,21.0,27.0,48.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U13 Men 35,DUCHAUFFOUR Louis,26.2,13.0,14.0,16.0,17.0,19.0,21.0,16.0,21.0,37.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U13 Men 61,DUBOIS MIKULASKO Tom,56.2,21.0,23.0,-25.0,27.0,29.0,31.0,23.0,31.0,54.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U10 Men ,WIEDER Lenny,43.1,12.0,14.0,16.0,14.0,16.0,18.0,16.0,18.0,34.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U10 Men ,SCHIARI Simon,48.2,10.0,12.0,-14.0,12.0,14.0,16.0,12.0,16.0,28.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U13 Men 45,COCKERILL Arthur,41.7,12.0,14.0,16.0,14.0,16.0,18.0,16.0,18.0,34.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U10 Men ,WIEDER Lenny,43.1,12.0,14.0,16.0,14.0,16.0,18.0,16.0,18.0,34.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U10 Men ,SCHIARI Simon,48.2,10.0,12.0,-14.0,12.0,14.0,16.0,12.0,16.0,28.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U13 Men 45,COCKERILL Arthur,41.7,12.0,14.0,16.0,14.0,16.0,18.0,16.0,18.0,34.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U20 Men 81,REGAZZONI Téo,78.9,60.0,63.0,66.0,74.0,77.0,-80.0,66.0,77.0,143.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 81,PESCHOUD Frederic,79.2,73.0,76.0,-77.0,90.0,94.0,-97.0,76.0,94.0,170.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 89,DANTOINE Didier,87.8,75.0,80.0,85.0,85.0,92.0,97.0,85.0,97.0,182.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 102,ROUSSET Quentin,101.2,86.0,91.0,95.0,-107.0,107.0,112.0,95.0,112.0,207.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U20 Men 81,REGAZZONI Téo,78.9,60.0,63.0,66.0,74.0,77.0,-80.0,66.0,77.0,143.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 81,PESCHOUD Frederic,79.2,73.0,76.0,-77.0,90.0,94.0,-97.0,76.0,94.0,170.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 89,DANTOINE Didier,87.8,75.0,80.0,85.0,85.0,92.0,97.0,85.0,97.0,182.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 102,ROUSSET Quentin,101.2,86.0,91.0,95.0,-107.0,107.0,112.0,95.0,112.0,207.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U15 Women 71,MIGNOT Daphné,69.3,23.0,25.0,27.0,30.0,32.0,34.0,27.0,34.0,61.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U17 Women 55,JALKH Elyssa,50.9,20.0,23.0,26.0,28.0,31.0,34.0,26.0,34.0,60.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U17 Women 59,LHEUREUX Alix,55.1,30.0,33.0,35.0,40.0,43.0,45.0,35.0,45.0,80.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 59,BEAUMONT Morgane,58.2,55.0,60.0,-65.0,80.0,85.0,-90.0,60.0,85.0,145.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 59,LEDERER Adélaide,56.9,45.0,48.0,-50.0,52.0,56.0,-60.0,48.0,56.0,104.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 59,GIRAUD Isabelle,56.3,27.0,-30.0,30.0,35.0,40.0,-42.0,30.0,40.0,70.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U15 Women 71,MIGNOT Daphné,69.3,23.0,25.0,27.0,30.0,32.0,34.0,27.0,34.0,61.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U17 Women 55,JALKH Elyssa,50.9,20.0,23.0,26.0,28.0,31.0,34.0,26.0,34.0,60.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U17 Women 59,LHEUREUX Alix,55.1,30.0,33.0,35.0,40.0,43.0,45.0,35.0,45.0,80.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 59,BEAUMONT Morgane,58.2,55.0,60.0,-65.0,80.0,85.0,-90.0,60.0,85.0,145.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 59,LEDERER Adélaide,56.9,45.0,48.0,-50.0,52.0,56.0,-60.0,48.0,56.0,104.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 59,GIRAUD Isabelle,56.3,27.0,-30.0,30.0,35.0,40.0,-42.0,30.0,40.0,70.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U13 Men 55,BRANCIAT Joackim,54.6,16.0,18.0,20.0,18.0,20.0,22.0,20.0,22.0,42.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U13 Women 45,RIGAUD Louise,40.6,23.0,25.0,27.0,28.0,30.0,32.0,27.0,32.0,59.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U13 Men 55,BRANCIAT Joackim,54.6,16.0,18.0,20.0,18.0,20.0,22.0,20.0,22.0,42.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U13 Women 45,RIGAUD Louise,40.6,23.0,25.0,27.0,28.0,30.0,32.0,27.0,32.0,59.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U15 Men 55,BAUD Hugo,53.15,20.0,23.0,26.0,27.0,30.0,32.0,26.0,32.0,58.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U17 Men 55,RIGAUD Gabriel,54.7,30.0,34.0,37.0,38.0,41.0,43.0,37.0,43.0,80.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U20 Men 73,FOURCADE Loic,71.85,67.0,72.0,-78.0,104.0,110.0,-114.0,72.0,110.0,182.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 73,BABIN Patrick,72.65,-55.0,55.0,59.0,-65.0,65.0,70.0,59.0,70.0,129.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 73,MICHAUD Jean pierre,72.1,33.0,35.0,37.0,48.0,50.0,52.0,37.0,52.0,89.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 81,MANCINI Maxime,80.9,-95.0,-95.0,-95.0,-110.0,-0.0,-0.0,0.0,0.0,0.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 89,DELORT Romain,83.75,50.0,55.0,60.0,70.0,75.0,80.0,60.0,80.0,140.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 96,SAUNIER Roland,90.9,55.0,58.0,61.0,64.0,68.0,71.0,61.0,71.0,132.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U15 Men 55,BAUD Hugo,53.15,20.0,23.0,26.0,27.0,30.0,32.0,26.0,32.0,58.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U17 Men 55,RIGAUD Gabriel,54.7,30.0,34.0,37.0,38.0,41.0,43.0,37.0,43.0,80.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U20 Men 73,FOURCADE Loic,71.85,67.0,72.0,-78.0,104.0,110.0,-114.0,72.0,110.0,182.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 73,BABIN Patrick,72.65,-55.0,55.0,59.0,-65.0,65.0,70.0,59.0,70.0,129.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 73,MICHAUD Jean pierre,72.1,33.0,35.0,37.0,48.0,50.0,52.0,37.0,52.0,89.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 81,MANCINI Maxime,80.9,-95.0,-95.0,-95.0,-110.0,-0.0,-0.0,0.0,0.0,0.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 89,DELORT Romain,83.75,50.0,55.0,60.0,70.0,75.0,80.0,60.0,80.0,140.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 96,SAUNIER Roland,90.9,55.0,58.0,61.0,64.0,68.0,71.0,61.0,71.0,132.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U20 Women 59,CHILLARON-PEREZ Lou-anne,58.4,30.0,32.0,34.0,40.0,-43.0,43.0,34.0,43.0,77.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 59,LEYGNAC Solene,57.9,-53.0,55.0,-58.0,63.0,66.0,-70.0,55.0,66.0,121.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 64,PRIOUZEAU Florine,62.5,-52.0,-53.0,55.0,63.0,66.0,70.0,55.0,70.0,125.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 71,ALVES Adeline,65.8,50.0,-55.0,55.0,70.0,75.0,-80.0,55.0,75.0,130.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 71,BARRUEL Enora,66.6,52.0,-57.0,-60.0,65.0,-70.0,-75.0,52.0,65.0,117.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U20 Women 59,CHILLARON-PEREZ Lou-anne,58.4,30.0,32.0,34.0,40.0,-43.0,43.0,34.0,43.0,77.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 59,LEYGNAC Solene,57.9,-53.0,55.0,-58.0,63.0,66.0,-70.0,55.0,66.0,121.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 64,PRIOUZEAU Florine,62.5,-52.0,-53.0,55.0,63.0,66.0,70.0,55.0,70.0,125.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 71,ALVES Adeline,65.8,50.0,-55.0,55.0,70.0,75.0,-80.0,55.0,75.0,130.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 71,BARRUEL Enora,66.6,52.0,-57.0,-60.0,65.0,-70.0,-75.0,52.0,65.0,117.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U17 Men 73,DA SILVA Lucas,70.8,30.0,35.0,40.0,35.0,-40.0,42.0,40.0,42.0,82.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 73,BARRIERE Julien,70.6,55.0,60.0,65.0,75.0,-85.0,-85.0,65.0,75.0,140.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 81,VILLARS Virgile,74.1,68.0,72.0,-75.0,75.0,80.0,-85.0,72.0,80.0,152.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 89,TAILLEFER Franck,82.9,68.0,73.0,-77.0,87.0,-88.0,-88.0,73.0,87.0,160.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 109,PETORIN Alex,104.1,-100.0,-102.0,105.0,110.0,115.0,-121.0,105.0,115.0,220.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U17 Men 73,DA SILVA Lucas,70.8,30.0,35.0,40.0,35.0,-40.0,42.0,40.0,42.0,82.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 73,BARRIERE Julien,70.6,55.0,60.0,65.0,75.0,-85.0,-85.0,65.0,75.0,140.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 81,VILLARS Virgile,74.1,68.0,72.0,-75.0,75.0,80.0,-85.0,72.0,80.0,152.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 89,TAILLEFER Franck,82.9,68.0,73.0,-77.0,87.0,-88.0,-88.0,73.0,87.0,160.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 109,PETORIN Alex,104.1,-100.0,-102.0,105.0,110.0,115.0,-121.0,105.0,115.0,220.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U13 Women 45,PEJOINE Gabriella,45.0,14.0,15.0,16.0,23.0,25.0,27.0,16.0,27.0,43.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U13 Women 45,PEJOINE Gabriella,45.0,14.0,15.0,16.0,23.0,25.0,27.0,16.0,27.0,43.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U10 Women ,LITZLER Luna,31.74,17.0,19.0,-21.0,27.0,29.0,31.0,19.0,31.0,50.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U10 Women ,LITZLER Luna,31.74,17.0,19.0,-21.0,27.0,29.0,31.0,19.0,31.0,50.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 96,LITZLER Laurent,93.25,58.0,-63.0,63.0,98.0,-101.0,-103.0,63.0,98.0,161.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 96,LITZLER Laurent,93.25,58.0,-63.0,63.0,98.0,-101.0,-103.0,63.0,98.0,161.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U17 Men 89,LESTE Mayken,88.5,45.0,48.0,51.0,47.0,53.0,-60.0,51.0,53.0,104.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U20 Men 73,PERRAUD Mattéo,72.9,98.0,101.0,-103.0,-128.0,130.0,-134.0,101.0,130.0,231.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 61,LAO YAN Mathieu,58.0,78.0,82.0,86.0,-97.0,97.0,100.0,86.0,100.0,186.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 81,DUCLOS Sylvain,80.5,-99.0,103.0,106.0,135.0,141.0,-144.0,106.0,141.0,247.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 96,LANCETTE Jeremy,92.9,100.0,-105.0,-106.0,120.0,-125.0,128.0,100.0,128.0,228.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men >109,MICHEL Kyle,109.2,118.0,-122.0,-125.0,145.0,150.0,154.0,118.0,154.0,272.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U17 Men 89,LESTE Mayken,88.5,45.0,48.0,51.0,47.0,53.0,-60.0,51.0,53.0,104.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U20 Men 73,PERRAUD Mattéo,72.9,98.0,101.0,-103.0,-128.0,130.0,-134.0,101.0,130.0,231.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 61,LAO YAN Mathieu,58.0,78.0,82.0,86.0,-97.0,97.0,100.0,86.0,100.0,186.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 81,DUCLOS Sylvain,80.5,-99.0,103.0,106.0,135.0,141.0,-144.0,106.0,141.0,247.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men 96,LANCETTE Jeremy,92.9,100.0,-105.0,-106.0,120.0,-125.0,128.0,100.0,128.0,228.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Men >109,MICHEL Kyle,109.2,118.0,-122.0,-125.0,145.0,150.0,154.0,118.0,154.0,272.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U17 Women 81,KAVAHEEAGA Sarah-lisa,77.2,45.0,48.0,50.0,60.0,65.0,68.0,50.0,68.0,118.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 55,PIOTROWSKY Prescillia,53.0,-65.0,67.0,-70.0,-80.0,-82.0,-82.0,67.0,0.0,0.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 59,PAUL Julia,58.87,47.0,49.0,51.0,63.0,66.0,69.0,51.0,69.0,120.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 64,IDJAN Jessica,60.88,65.0,-68.0,69.0,83.0,86.0,88.0,69.0,88.0,157.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,U17 Women 81,KAVAHEEAGA Sarah-lisa,77.2,45.0,48.0,50.0,60.0,65.0,68.0,50.0,68.0,118.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 55,PIOTROWSKY Prescillia,53.0,-65.0,67.0,-70.0,-80.0,-82.0,-82.0,67.0,0.0,0.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 59,PAUL Julia,58.87,47.0,49.0,51.0,63.0,66.0,69.0,51.0,69.0,120.0
+GE - Challenge Avenir - Wittenheim - U13,2022-10-29,SEN Women 64,IDJAN Jessica,60.88,65.0,-68.0,69.0,83.0,86.0,88.0,69.0,88.0,157.0

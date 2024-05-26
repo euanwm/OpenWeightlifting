@@ -1,7 +1,47 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-HDF - Challenge 2 Dép 59 Femmes CJS,2021-07-03,U15 Women 40,DIOGUARDI Nina,37.7,26.0,28.0,30.0,36.0,38.0,40.0,30.0,40.0,70.0
-HDF - Challenge 2 Dép 59 Femmes CJS,2021-07-03,U15 Women 45,DUVET Ines,44.0,21.0,23.0,25.0,30.0,-33.0,33.0,25.0,33.0,58.0
-HDF - Challenge 2 Dép 59 Femmes CJS,2021-07-03,SEN Women 45,MOREAU Élisabeth,42.1,40.0,44.0,47.0,50.0,55.0,60.0,47.0,60.0,107.0
-HDF - Challenge 2 Dép 59 Femmes CJS,2021-07-03,SEN Women 59,BOCQUET Ambre,57.5,50.0,53.0,-56.0,-68.0,68.0,-72.0,53.0,68.0,121.0
-HDF - Challenge 2 Dép 59 Femmes CJS,2021-07-03,SEN Women 64,DUCHÊNE Laura,61.7,65.0,70.0,-73.0,-77.0,79.0,-85.0,70.0,79.0,149.0
-HDF - Challenge 2 Dép 59 Femmes CJS,2021-07-03,SEN Women 64,COUDERT Flore,61.4,57.0,61.0,-65.0,-75.0,-75.0,-75.0,61.0,-75.0,0.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,U13 Men 35,CRAND Owen,27.24,6.0,7.0,8.0,7.0,8.0,9.0,8.0,9.0,17.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,U13 Men 45,BONAMY JAHIER Noa,42.92,-28.0,28.0,29.0,30.0,32.0,34.0,29.0,34.0,63.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,U13 Men 55,MICHELET Simon,51.08,18.0,-20.0,20.0,24.0,26.0,28.0,20.0,28.0,48.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,U13 Women 45,PERRAUT Anais,41.3,19.0,21.0,23.0,23.0,-24.0,24.0,23.0,24.0,47.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,SEN Women 55,GUIHAUMÉ Léna,51.86,43.0,46.0,-49.0,53.0,57.0,-60.0,46.0,57.0,103.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,SEN Women 55,SZACHSZNAJDER Marie-anne,53.85,15.0,18.0,20.0,34.0,37.0,40.0,20.0,40.0,60.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,SEN Women 64,LE COQ Maella,64.0,48.0,51.0,-54.0,60.0,-63.0,63.0,51.0,63.0,114.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,SEN Women 64,BURBAN Annick,63.55,33.0,-36.0,-36.0,41.0,43.0,-45.0,33.0,43.0,76.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,SEN Women >87,BODARD Suzanne,89.0,42.0,45.0,47.0,56.0,59.0,-61.0,47.0,59.0,106.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,SEN Women >87,PROTEAU Marie,87.45,25.0,28.0,-30.0,33.0,35.0,38.0,28.0,38.0,66.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,SEN Women 55,GUIHAUMÉ Léna,51.86,43.0,46.0,-49.0,53.0,57.0,-60.0,46.0,57.0,103.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,SEN Women 55,SZACHSZNAJDER Marie-anne,53.85,15.0,18.0,20.0,34.0,37.0,40.0,20.0,40.0,60.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,SEN Women 64,LE COQ Maella,64.0,48.0,51.0,-54.0,60.0,-63.0,63.0,51.0,63.0,114.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,SEN Women 64,BURBAN Annick,63.55,33.0,-36.0,-36.0,41.0,43.0,-45.0,33.0,43.0,76.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,SEN Women >87,BODARD Suzanne,89.0,42.0,45.0,47.0,56.0,59.0,-61.0,47.0,59.0,106.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,SEN Women >87,PROTEAU Marie,87.45,25.0,28.0,-30.0,33.0,35.0,38.0,28.0,38.0,66.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,U15 Men 49,EVEN Joakim,44.14,26.0,-28.0,28.0,32.0,34.0,36.0,28.0,36.0,64.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,U15 Men 61,TRIGODET Titouan,55.62,40.0,-43.0,-43.0,52.0,55.0,-58.0,40.0,55.0,95.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,U15 Men 61,PACAUD Emilien,55.86,32.0,35.0,37.0,-43.0,43.0,48.0,37.0,48.0,85.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,U15 Men 73,PICHON Nolan,67.95,40.0,44.0,50.0,55.0,60.0,62.0,50.0,62.0,112.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,U15 Men 73,PERRAUT Paul,71.1,40.0,43.0,-45.0,50.0,55.0,60.0,43.0,60.0,103.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,U17 Men 55,BELLIER--BARREAU Mael,52.18,38.0,41.0,44.0,48.0,51.0,54.0,44.0,54.0,98.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,U17 Men 73,PATRY Baptiste,71.5,68.0,73.0,-75.0,93.0,97.0,-100.0,73.0,97.0,170.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,U20 Men 67,PASQUIER Enzo,65.9,50.0,55.0,60.0,72.0,77.0,80.0,60.0,80.0,140.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,SEN Men 81,ALIX Clément,76.65,60.0,65.0,-70.0,95.0,100.0,105.0,65.0,105.0,170.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,SEN Men 81,HINGRAT Christophe,80.5,56.0,60.0,62.0,70.0,-73.0,75.0,62.0,75.0,137.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,SEN Men 89,MELISSE Jules,88.45,81.0,-84.0,88.0,102.0,106.0,-110.0,88.0,106.0,194.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,SEN Men 89,PITON Brice,85.0,81.0,84.0,88.0,95.0,99.0,103.0,88.0,103.0,191.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,SEN Men 89,LANDRY Aurélien,86.6,79.0,-81.0,-82.0,96.0,-99.0,-100.0,79.0,96.0,175.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,SEN Men 96,MASSÉ Maxime,93.55,73.0,77.0,80.0,95.0,99.0,103.0,80.0,103.0,183.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,SEN Men 102,HERVAULT Eddy,97.55,70.0,75.0,78.0,85.0,92.0,95.0,78.0,95.0,173.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,U15 Men 49,EVEN Joakim,44.14,26.0,-28.0,28.0,32.0,34.0,36.0,28.0,36.0,64.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,U15 Men 61,TRIGODET Titouan,55.62,40.0,-43.0,-43.0,52.0,55.0,-58.0,40.0,55.0,95.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,U15 Men 61,PACAUD Emilien,55.86,32.0,35.0,37.0,-43.0,43.0,48.0,37.0,48.0,85.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,U15 Men 73,PICHON Nolan,67.95,40.0,44.0,50.0,55.0,60.0,62.0,50.0,62.0,112.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,U15 Men 73,PERRAUT Paul,71.1,40.0,43.0,-45.0,50.0,55.0,60.0,43.0,60.0,103.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,U17 Men 55,BELLIER--BARREAU Mael,52.18,38.0,41.0,44.0,48.0,51.0,54.0,44.0,54.0,98.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,U17 Men 73,PATRY Baptiste,71.5,68.0,73.0,-75.0,93.0,97.0,-100.0,73.0,97.0,170.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,U20 Men 67,PASQUIER Enzo,65.9,50.0,55.0,60.0,72.0,77.0,80.0,60.0,80.0,140.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,SEN Men 81,ALIX Clément,76.65,60.0,65.0,-70.0,95.0,100.0,105.0,65.0,105.0,170.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,SEN Men 81,HINGRAT Christophe,80.5,56.0,60.0,62.0,70.0,-73.0,75.0,62.0,75.0,137.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,SEN Men 89,MELISSE Jules,88.45,81.0,-84.0,88.0,102.0,106.0,-110.0,88.0,106.0,194.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,SEN Men 89,PITON Brice,85.0,81.0,84.0,88.0,95.0,99.0,103.0,88.0,103.0,191.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,SEN Men 89,LANDRY Aurélien,86.6,79.0,-81.0,-82.0,96.0,-99.0,-100.0,79.0,96.0,175.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,SEN Men 96,MASSÉ Maxime,93.55,73.0,77.0,80.0,95.0,99.0,103.0,80.0,103.0,183.0
+PDL - Chpt Départemental - Savenay - Loire Atlantique,2023-05-13,SEN Men 102,HERVAULT Eddy,97.55,70.0,75.0,78.0,85.0,92.0,95.0,78.0,95.0,173.0

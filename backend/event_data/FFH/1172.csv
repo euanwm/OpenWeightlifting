@@ -1,13 +1,46 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-PACA - Challenge avenir 1 - secteur A,2021-07-24,U17 Men 61,JOLY Thibaut,60.6,75.0,80.0,-85.0,95.0,100.0,-105.0,80.0,100.0,180.0
-PACA - Challenge avenir 1 - secteur A,2021-07-24,U17 Men 73,ESPIN Antoine,69.5,57.0,-59.0,60.0,84.0,88.0,90.0,60.0,90.0,150.0
-PACA - Challenge avenir 1 - secteur A,2021-07-24,U20 Men 73,BATTAGLIA Nicolas,72.9,78.0,81.0,83.0,95.0,100.0,105.0,83.0,105.0,188.0
-PACA - Challenge avenir 1 - secteur A,2021-07-24,SEN Men 67,AVRILLAS Quentin,63.9,87.0,-91.0,93.0,108.0,115.0,120.0,93.0,120.0,213.0
-PACA - Challenge avenir 1 - secteur A,2021-07-24,SEN Men 73,FOLCHER Guilhem,73.0,90.0,95.0,-100.0,110.0,115.0,-121.0,95.0,115.0,210.0
-PACA - Challenge avenir 1 - secteur A,2021-07-24,SEN Men 81,FORESTIERI Joris,81.0,-95.0,96.0,101.0,108.0,113.0,-120.0,101.0,113.0,214.0
-PACA - Challenge avenir 1 - secteur A,2021-07-24,SEN Men 81,RAMOS Julien,81.0,90.0,-95.0,-95.0,110.0,115.0,120.0,90.0,120.0,210.0
-PACA - Challenge avenir 1 - secteur A,2021-07-24,SEN Men 81,AZZARETTO Enzo,74.0,86.0,91.0,-95.0,105.0,-110.0,-111.0,91.0,105.0,196.0
-PACA - Challenge avenir 1 - secteur A,2021-07-24,SEN Men 81,ESPIN Baptiste,78.0,82.0,86.0,-90.0,101.0,106.0,110.0,86.0,110.0,196.0
-PACA - Challenge avenir 1 - secteur A,2021-07-24,SEN Men 81,KADRY Yanis,74.9,77.0,-81.0,-81.0,101.0,107.0,111.0,77.0,111.0,188.0
-PACA - Challenge avenir 1 - secteur A,2021-07-24,SEN Men 81,ROLANDO Jonathan,80.1,70.0,75.0,-78.0,-85.0,90.0,95.0,75.0,95.0,170.0
-PACA - Challenge avenir 1 - secteur A,2021-07-24,SEN Men 89,NEBLEZA Thierry,81.9,77.0,81.0,-85.0,92.0,-100.0,-100.0,81.0,92.0,173.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,W35 Women 64,JOUANDET Élodie,63.3,-47.0,47.0,49.0,60.0,63.0,-65.0,49.0,63.0,112.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,W35 Women 71,CORNIL Caroline,69.2,55.0,58.0,-61.0,65.0,68.0,71.0,58.0,71.0,129.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,W45 Women 55,ZWICK Sonja,52.2,38.0,40.0,43.0,48.0,51.0,-54.0,43.0,51.0,94.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,W55 Women 81,GRIMAL Anne marie,80.9,41.0,43.0,46.0,61.0,64.0,67.0,46.0,67.0,113.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,W60 Women >87,PROUET Bernadette,94.0,26.0,29.0,-32.0,36.0,-40.0,-40.0,29.0,36.0,65.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M70 Men 73,COZERET Jean claude,72.7,35.0,40.0,42.0,50.0,55.0,58.0,42.0,58.0,100.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M70 Men 81,BLANC Jean paul,75.1,40.0,45.0,-50.0,60.0,-65.0,65.0,45.0,65.0,110.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M70 Men 89,DUTREY Jean pierre,81.4,47.0,-50.0,-51.0,-57.0,57.0,62.0,47.0,62.0,109.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M70 Men 102,DESPECHE Gerard,99.3,45.0,50.0,-52.0,52.0,-0.0,-0.0,50.0,52.0,102.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M75 Men 89,TAGLIATI André,87.8,60.0,63.0,-0.0,70.0,75.0,-80.0,63.0,75.0,138.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M80 Men 81,DE ROUCK Pierre,79.4,-30.0,30.0,-32.0,33.0,35.0,-37.0,30.0,35.0,65.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M80 Men 89,PLANET Henri,86.5,38.0,-40.0,-40.0,50.0,52.0,-0.0,38.0,52.0,90.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M70 Men 73,COZERET Jean claude,72.7,35.0,40.0,42.0,50.0,55.0,58.0,42.0,58.0,100.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M70 Men 81,BLANC Jean paul,75.1,40.0,45.0,-50.0,60.0,-65.0,65.0,45.0,65.0,110.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M70 Men 89,DUTREY Jean pierre,81.4,47.0,-50.0,-51.0,-57.0,57.0,62.0,47.0,62.0,109.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M70 Men 102,DESPECHE Gerard,99.3,45.0,50.0,-52.0,52.0,-0.0,-0.0,50.0,52.0,102.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M75 Men 89,TAGLIATI André,87.8,60.0,63.0,-0.0,70.0,75.0,-80.0,63.0,75.0,138.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M80 Men 81,DE ROUCK Pierre,79.4,-30.0,30.0,-32.0,33.0,35.0,-37.0,30.0,35.0,65.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M80 Men 89,PLANET Henri,86.5,38.0,-40.0,-40.0,50.0,52.0,-0.0,38.0,52.0,90.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M35 Men 67,BENAMARA Hamid,64.7,45.0,50.0,55.0,-55.0,55.0,60.0,55.0,60.0,115.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M35 Men 81,PERUGA David,76.0,92.0,95.0,98.0,117.0,-123.0,-123.0,98.0,117.0,215.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M35 Men 81,ONORATO Jeremie,78.7,60.0,-65.0,65.0,80.0,85.0,-90.0,65.0,85.0,150.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M35 Men 102,L'EXACT Roderic,101.9,85.0,90.0,-95.0,-120.0,-124.0,-124.0,90.0,0.0,0.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M40 Men 67,DE MIRANDA Mickael,64.5,54.0,57.0,-60.0,-65.0,65.0,68.0,57.0,68.0,125.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M40 Men 109,DIEVART Mickael,106.4,70.0,75.0,80.0,85.0,95.0,105.0,80.0,105.0,185.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M45 Men 96,NISSERON Eric,95.8,95.0,100.0,105.0,120.0,130.0,135.0,105.0,135.0,240.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M50 Men 81,BOSSIAN David,80.4,90.0,96.0,100.0,108.0,114.0,-120.0,100.0,114.0,214.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M50 Men 96,SAHRAOUI Kamel,96.0,75.0,-80.0,-0.0,97.0,103.0,106.0,75.0,106.0,181.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M55 Men 73,DIAS Carlo,70.5,53.0,-56.0,56.0,67.0,-71.0,71.0,56.0,71.0,127.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M60 Men 81,BACQUIÉ Daniel,81.0,45.0,-50.0,50.0,51.0,-56.0,-56.0,50.0,51.0,101.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M65 Men 81,CATANOSO Silvio,77.8,70.0,-75.0,75.0,92.0,100.0,-105.0,75.0,100.0,175.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M65 Men 89,MORENO Gerard,82.3,-54.0,54.0,-57.0,65.0,70.0,75.0,54.0,75.0,129.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M35 Men 67,BENAMARA Hamid,64.7,45.0,50.0,55.0,-55.0,55.0,60.0,55.0,60.0,115.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M35 Men 81,PERUGA David,76.0,92.0,95.0,98.0,117.0,-123.0,-123.0,98.0,117.0,215.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M35 Men 81,ONORATO Jeremie,78.7,60.0,-65.0,65.0,80.0,85.0,-90.0,65.0,85.0,150.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M35 Men 102,L'EXACT Roderic,101.9,85.0,90.0,-95.0,-120.0,-124.0,-124.0,90.0,0.0,0.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M40 Men 67,DE MIRANDA Mickael,64.5,54.0,57.0,-60.0,-65.0,65.0,68.0,57.0,68.0,125.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M40 Men 109,DIEVART Mickael,106.4,70.0,75.0,80.0,85.0,95.0,105.0,80.0,105.0,185.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M45 Men 96,NISSERON Eric,95.8,95.0,100.0,105.0,120.0,130.0,135.0,105.0,135.0,240.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M50 Men 81,BOSSIAN David,80.4,90.0,96.0,100.0,108.0,114.0,-120.0,100.0,114.0,214.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M50 Men 96,SAHRAOUI Kamel,96.0,75.0,-80.0,-0.0,97.0,103.0,106.0,75.0,106.0,181.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M55 Men 73,DIAS Carlo,70.5,53.0,-56.0,56.0,67.0,-71.0,71.0,56.0,71.0,127.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M60 Men 81,BACQUIÉ Daniel,81.0,45.0,-50.0,50.0,51.0,-56.0,-56.0,50.0,51.0,101.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M65 Men 81,CATANOSO Silvio,77.8,70.0,-75.0,75.0,92.0,100.0,-105.0,75.0,100.0,175.0
+OCC - Chpt Ligue - Pamiers - Masters,2023-02-04,M65 Men 89,MORENO Gerard,82.3,-54.0,54.0,-57.0,65.0,70.0,75.0,54.0,75.0,129.0

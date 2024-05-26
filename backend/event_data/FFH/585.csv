@@ -1,2 +1,157 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-AURA - Chal Avenir 1 - U13 Montluçon,2020-10-17,U13 Men 55,ISRAILOV Abubakar,51.8,58.0,60.0,-62.0,74.0,76.0,78.0,60.0,78.0,272.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 49,CHRISTOPHEL Marie,47.0,54.0,57.0,59.0,71.0,-74.0,75.0,59.0,75.0,134.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 64,BONNAMANT Melanie,60.4,61.0,64.0,66.0,80.0,83.0,86.0,66.0,86.0,152.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 64,AZOUNKED Anais,59.3,60.0,63.0,-65.0,76.0,80.0,-84.0,63.0,80.0,143.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 76,PETIT Cyrielle,73.4,-70.0,73.0,-77.0,85.0,90.0,95.0,73.0,95.0,168.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,U17 Men 55,BAILLIEUX Cyril,52.9,58.0,61.0,64.0,76.0,80.0,83.0,64.0,83.0,147.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 81,FERREIRA CORTES Thibault,75.1,93.0,98.0,-102.0,112.0,117.0,-122.0,98.0,117.0,215.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 89,GIANNOTTI Sylvain,83.9,92.0,95.0,98.0,107.0,-112.0,-112.0,98.0,107.0,205.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 96,MIKAELIAN Jordan,92.0,110.0,115.0,117.0,138.0,145.0,148.0,117.0,148.0,265.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 109,HUGUENIN Matthieu,105.4,-115.0,-115.0,115.0,-130.0,130.0,-140.0,115.0,130.0,245.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,U17 Men 55,BAILLIEUX Cyril,52.9,58.0,61.0,64.0,76.0,80.0,83.0,64.0,83.0,147.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 81,FERREIRA CORTES Thibault,75.1,93.0,98.0,-102.0,112.0,117.0,-122.0,98.0,117.0,215.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 89,GIANNOTTI Sylvain,83.9,92.0,95.0,98.0,107.0,-112.0,-112.0,98.0,107.0,205.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 96,MIKAELIAN Jordan,92.0,110.0,115.0,117.0,138.0,145.0,148.0,117.0,148.0,265.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 109,HUGUENIN Matthieu,105.4,-115.0,-115.0,115.0,-130.0,130.0,-140.0,115.0,130.0,245.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,U20 Men 81,GROSJEAN Alexandre,76.9,-113.0,-113.0,113.0,-130.0,132.0,137.0,113.0,137.0,250.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 81,LEPAUL Emmanuel,78.1,128.0,132.0,-135.0,158.0,-164.0,-166.0,132.0,158.0,290.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 81,MULLER John,76.2,100.0,105.0,-110.0,132.0,137.0,142.0,105.0,142.0,247.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 89,SPERKA Sacha,88.8,125.0,129.0,-132.0,155.0,-160.0,-160.0,129.0,155.0,284.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 109,FERRE Benjamin,105.2,130.0,138.0,145.0,170.0,-185.0,-200.0,145.0,170.0,315.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,U20 Men 81,GROSJEAN Alexandre,76.9,-113.0,-113.0,113.0,-130.0,132.0,137.0,113.0,137.0,250.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 81,LEPAUL Emmanuel,78.1,128.0,132.0,-135.0,158.0,-164.0,-166.0,132.0,158.0,290.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 81,MULLER John,76.2,100.0,105.0,-110.0,132.0,137.0,142.0,105.0,142.0,247.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 89,SPERKA Sacha,88.8,125.0,129.0,-132.0,155.0,-160.0,-160.0,129.0,155.0,284.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 109,FERRE Benjamin,105.2,130.0,138.0,145.0,170.0,-185.0,-200.0,145.0,170.0,315.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,U20 Women 64,REZZAK Amelle,63.5,63.0,66.0,-68.0,80.0,-83.0,-85.0,66.0,80.0,146.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 49,STANDAERT Asia,48.7,47.0,50.0,-52.0,55.0,61.0,64.0,50.0,64.0,114.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 55,MICHEL-COZZELA Anais,50.8,68.0,71.0,73.0,88.0,91.0,94.0,73.0,94.0,167.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 55,BALACE Julie,51.0,63.0,-65.0,66.0,78.0,81.0,83.0,66.0,83.0,149.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 59,JACOBSEN Rebekka tao,56.6,74.0,76.0,-78.0,95.0,98.0,100.0,76.0,100.0,176.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 64,TCHAKOUNTE Dora,61.0,90.0,95.0,-100.0,107.0,112.0,115.0,95.0,115.0,210.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 71,BOUKERROU Pascale,68.8,64.0,68.0,71.0,85.0,90.0,-95.0,71.0,90.0,161.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 76,PRISCEPA Natalia,71.1,85.0,-90.0,-90.0,101.0,105.0,109.0,85.0,109.0,194.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,U20 Women 64,REZZAK Amelle,63.5,63.0,66.0,-68.0,80.0,-83.0,-85.0,66.0,80.0,146.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 49,STANDAERT Asia,48.7,47.0,50.0,-52.0,55.0,61.0,64.0,50.0,64.0,114.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 55,MICHEL-COZZELA Anais,50.8,68.0,71.0,73.0,88.0,91.0,94.0,73.0,94.0,167.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 55,BALACE Julie,51.0,63.0,-65.0,66.0,78.0,81.0,83.0,66.0,83.0,149.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 59,JACOBSEN Rebekka tao,56.6,74.0,76.0,-78.0,95.0,98.0,100.0,76.0,100.0,176.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 64,TCHAKOUNTE Dora,61.0,90.0,95.0,-100.0,107.0,112.0,115.0,95.0,115.0,210.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 71,BOUKERROU Pascale,68.8,64.0,68.0,71.0,85.0,90.0,-95.0,71.0,90.0,161.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 76,PRISCEPA Natalia,71.1,85.0,-90.0,-90.0,101.0,105.0,109.0,85.0,109.0,194.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,U20 Women 64,FREVILLE Mathilde,60.1,50.0,55.0,58.0,65.0,69.0,73.0,58.0,73.0,131.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 64,DEFRANCE Romane,59.7,63.0,67.0,70.0,83.0,87.0,90.0,70.0,90.0,160.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 71,GRAILLOT Vicky,65.5,87.0,90.0,-93.0,108.0,116.0,-0.0,90.0,116.0,206.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 76,FOUCHEREAU Emma,71.4,67.0,70.0,74.0,90.0,94.0,98.0,74.0,98.0,172.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,U20 Women 64,FREVILLE Mathilde,60.1,50.0,55.0,58.0,65.0,69.0,73.0,58.0,73.0,131.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 64,DEFRANCE Romane,59.7,63.0,67.0,70.0,83.0,87.0,90.0,70.0,90.0,160.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 71,GRAILLOT Vicky,65.5,87.0,90.0,-93.0,108.0,116.0,-0.0,90.0,116.0,206.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 76,FOUCHEREAU Emma,71.4,67.0,70.0,74.0,90.0,94.0,98.0,74.0,98.0,172.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 73,KINGUE MATAM Bernardin,72.7,130.0,-135.0,135.0,165.0,175.0,-180.0,135.0,175.0,310.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 73,ARNOU MEUNIER Killiann,72.5,105.0,115.0,-120.0,146.0,-161.0,161.0,115.0,161.0,276.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 73,AMADOU Alexis,71.9,100.0,110.0,115.0,130.0,140.0,145.0,115.0,145.0,260.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 81,BESNARD Cristophe,79.7,110.0,118.0,-125.0,135.0,142.0,147.0,118.0,147.0,265.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 81,FARDEL Marvin,79.9,112.0,-116.0,-118.0,-127.0,130.0,145.0,112.0,145.0,257.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 89,GONZALEZ AYUSO Javier,84.2,131.0,137.0,142.0,161.0,168.0,173.0,142.0,173.0,315.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 89,COLIN Thomas,85.3,122.0,-126.0,-130.0,145.0,150.0,-155.0,122.0,150.0,272.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 89,DUPUY Jeremy,82.8,115.0,-120.0,120.0,140.0,-145.0,147.0,120.0,147.0,267.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 89,CREUILLOT Charles,84.9,-110.0,110.0,-147.0,140.0,-149.0,-186.0,110.0,140.0,250.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 89,GRAVOIS Ugo,81.7,106.0,111.0,-115.0,130.0,135.0,-140.0,111.0,135.0,246.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 89,BENHAMOU Sacha,86.3,94.0,105.0,-112.0,125.0,128.0,134.0,105.0,134.0,239.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 96,VITAL Jules,95.2,110.0,-115.0,-115.0,136.0,-140.0,-145.0,110.0,136.0,246.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 109,SCHACHERER Damien,107.6,130.0,-137.0,-140.0,170.0,-178.0,-178.0,130.0,170.0,300.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men >109,TOLLEFSEN Kim eirik,123.3,-145.0,145.0,155.0,175.0,185.0,195.0,155.0,195.0,350.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 73,KINGUE MATAM Bernardin,72.7,130.0,-135.0,135.0,165.0,175.0,-180.0,135.0,175.0,310.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 73,ARNOU MEUNIER Killiann,72.5,105.0,115.0,-120.0,146.0,-161.0,161.0,115.0,161.0,276.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 73,AMADOU Alexis,71.9,100.0,110.0,115.0,130.0,140.0,145.0,115.0,145.0,260.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 81,BESNARD Cristophe,79.7,110.0,118.0,-125.0,135.0,142.0,147.0,118.0,147.0,265.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 81,FARDEL Marvin,79.9,112.0,-116.0,-118.0,-127.0,130.0,145.0,112.0,145.0,257.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 89,GONZALEZ AYUSO Javier,84.2,131.0,137.0,142.0,161.0,168.0,173.0,142.0,173.0,315.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 89,COLIN Thomas,85.3,122.0,-126.0,-130.0,145.0,150.0,-155.0,122.0,150.0,272.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 89,DUPUY Jeremy,82.8,115.0,-120.0,120.0,140.0,-145.0,147.0,120.0,147.0,267.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 89,CREUILLOT Charles,84.9,-110.0,110.0,-147.0,140.0,-149.0,-186.0,110.0,140.0,250.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 89,GRAVOIS Ugo,81.7,106.0,111.0,-115.0,130.0,135.0,-140.0,111.0,135.0,246.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 89,BENHAMOU Sacha,86.3,94.0,105.0,-112.0,125.0,128.0,134.0,105.0,134.0,239.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 96,VITAL Jules,95.2,110.0,-115.0,-115.0,136.0,-140.0,-145.0,110.0,136.0,246.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 109,SCHACHERER Damien,107.6,130.0,-137.0,-140.0,170.0,-178.0,-178.0,130.0,170.0,300.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men >109,TOLLEFSEN Kim eirik,123.3,-145.0,145.0,155.0,175.0,185.0,195.0,155.0,195.0,350.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,U20 Women 64,PAYET Loane,62.2,72.0,75.0,-79.0,92.0,96.0,-100.0,75.0,96.0,171.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 59,PLANCQ Deborah,56.1,72.0,74.0,78.0,93.0,97.0,100.0,78.0,100.0,178.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 71,CHIQUET Agnes,64.3,72.0,75.0,78.0,-96.0,96.0,-101.0,78.0,96.0,174.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 76,FEGUE Marie josephe,75.8,100.0,105.0,108.0,120.0,127.0,-133.0,108.0,127.0,235.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,U20 Women 64,PAYET Loane,62.2,72.0,75.0,-79.0,92.0,96.0,-100.0,75.0,96.0,171.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 59,PLANCQ Deborah,56.1,72.0,74.0,78.0,93.0,97.0,100.0,78.0,100.0,178.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 71,CHIQUET Agnes,64.3,72.0,75.0,78.0,-96.0,96.0,-101.0,78.0,96.0,174.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 76,FEGUE Marie josephe,75.8,100.0,105.0,108.0,120.0,127.0,-133.0,108.0,127.0,235.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 49,MOCAER LORGERE Nolwenn,47.7,52.0,55.0,57.0,67.0,70.0,73.0,57.0,73.0,130.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 55,GANET Segolène,55.0,58.0,61.0,-63.0,72.0,75.0,-78.0,61.0,75.0,136.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 59,RIGAUD Garance,57.1,70.0,74.0,-0.0,90.0,95.0,100.0,74.0,100.0,174.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 71,LANCRY Anais,69.3,70.0,75.0,-80.0,90.0,95.0,-100.0,75.0,95.0,170.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 49,MOCAER LORGERE Nolwenn,47.7,52.0,55.0,57.0,67.0,70.0,73.0,57.0,73.0,130.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 55,GANET Segolène,55.0,58.0,61.0,-63.0,72.0,75.0,-78.0,61.0,75.0,136.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 59,RIGAUD Garance,57.1,70.0,74.0,-0.0,90.0,95.0,100.0,74.0,100.0,174.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 71,LANCRY Anais,69.3,70.0,75.0,-80.0,90.0,95.0,-100.0,75.0,95.0,170.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 45,FALCOU Cassandra,43.4,52.0,55.0,-57.0,62.0,65.0,-67.0,55.0,65.0,120.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 64,COLLADO Noa,63.4,68.0,71.0,73.0,78.0,81.0,84.0,73.0,84.0,157.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 71,BLANC Lucie,66.1,68.0,-71.0,-71.0,83.0,86.0,-88.0,68.0,86.0,154.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 71,TABARIES Camille,67.6,60.0,63.0,-65.0,-78.0,78.0,-81.0,63.0,78.0,141.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 45,FALCOU Cassandra,43.4,52.0,55.0,-57.0,62.0,65.0,-67.0,55.0,65.0,120.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 64,COLLADO Noa,63.4,68.0,71.0,73.0,78.0,81.0,84.0,73.0,84.0,157.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 71,BLANC Lucie,66.1,68.0,-71.0,-71.0,83.0,86.0,-88.0,68.0,86.0,154.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 71,TABARIES Camille,67.6,60.0,63.0,-65.0,-78.0,78.0,-81.0,63.0,78.0,141.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,U20 Women 59,MICHEL Maëlyn,56.6,67.0,-70.0,70.0,82.0,86.0,-89.0,70.0,86.0,156.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 59,RETAILLE Manon,56.5,64.0,67.0,70.0,84.0,87.0,-90.0,70.0,87.0,157.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 71,BAGOT Sarah,70.3,56.0,59.0,61.0,72.0,-74.0,74.0,61.0,74.0,135.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 71,FROSSARD Anna,66.0,47.0,50.0,53.0,60.0,63.0,-65.0,53.0,63.0,116.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,U20 Women 59,MICHEL Maëlyn,56.6,67.0,-70.0,70.0,82.0,86.0,-89.0,70.0,86.0,156.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 59,RETAILLE Manon,56.5,64.0,67.0,70.0,84.0,87.0,-90.0,70.0,87.0,157.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 71,BAGOT Sarah,70.3,56.0,59.0,61.0,72.0,-74.0,74.0,61.0,74.0,135.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 71,FROSSARD Anna,66.0,47.0,50.0,53.0,60.0,63.0,-65.0,53.0,63.0,116.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,U20 Women 59,POSTEL Clara,55.1,38.0,40.0,42.0,50.0,53.0,-56.0,42.0,53.0,95.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 64,PEREZ Mélanie,62.9,45.0,48.0,-51.0,60.0,64.0,-68.0,48.0,64.0,112.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 71,BESSE Alexandra,70.7,40.0,43.0,46.0,50.0,53.0,56.0,46.0,56.0,102.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 87,VAN BELLINGHEN Anna,83.6,96.0,100.0,104.0,110.0,120.0,126.0,104.0,126.0,230.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,U20 Women 59,POSTEL Clara,55.1,38.0,40.0,42.0,50.0,53.0,-56.0,42.0,53.0,95.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 64,PEREZ Mélanie,62.9,45.0,48.0,-51.0,60.0,64.0,-68.0,48.0,64.0,112.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 71,BESSE Alexandra,70.7,40.0,43.0,46.0,50.0,53.0,56.0,46.0,56.0,102.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Women 87,VAN BELLINGHEN Anna,83.6,96.0,100.0,104.0,110.0,120.0,126.0,104.0,126.0,230.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 73,MULLOR Julien,67.5,90.0,95.0,100.0,110.0,-116.0,-120.0,100.0,110.0,210.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 81,GHAZARYAN Norik,81.0,138.0,142.0,-144.0,170.0,-180.0,180.0,142.0,180.0,322.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 81,BAGHDADI BARHDADI Mountasser,77.1,125.0,130.0,135.0,145.0,150.0,155.0,135.0,155.0,290.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 81,BARDIS Flavio,77.7,105.0,110.0,-115.0,120.0,132.0,-0.0,110.0,132.0,242.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men >109,COULLET Anthony,150.0,130.0,140.0,150.0,185.0,205.0,215.0,150.0,215.0,365.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 73,MULLOR Julien,67.5,90.0,95.0,100.0,110.0,-116.0,-120.0,100.0,110.0,210.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 81,GHAZARYAN Norik,81.0,138.0,142.0,-144.0,170.0,-180.0,180.0,142.0,180.0,322.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 81,BAGHDADI BARHDADI Mountasser,77.1,125.0,130.0,135.0,145.0,150.0,155.0,135.0,155.0,290.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 81,BARDIS Flavio,77.7,105.0,110.0,-115.0,120.0,132.0,-0.0,110.0,132.0,242.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men >109,COULLET Anthony,150.0,130.0,140.0,150.0,185.0,205.0,215.0,150.0,215.0,365.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,U17 Men 73,FOURNIER Hugo,72.8,85.0,91.0,97.0,105.0,-114.0,121.0,97.0,121.0,218.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,U20 Men 61,FELICIANO Martin,60.4,75.0,80.0,-83.0,95.0,100.0,105.0,80.0,105.0,185.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 73,FOURNIER Louis,73.0,100.0,105.0,110.0,125.0,130.0,-135.0,110.0,130.0,240.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 102,IMADOUCHENE Romain,96.9,153.0,-160.0,165.0,195.0,205.0,-215.0,165.0,205.0,370.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 102,FAIGNART Florent,96.3,120.0,130.0,-134.0,140.0,-150.0,153.0,130.0,153.0,283.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,U17 Men 73,FOURNIER Hugo,72.8,85.0,91.0,97.0,105.0,-114.0,121.0,97.0,121.0,218.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,U20 Men 61,FELICIANO Martin,60.4,75.0,80.0,-83.0,95.0,100.0,105.0,80.0,105.0,185.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 73,FOURNIER Louis,73.0,100.0,105.0,110.0,125.0,130.0,-135.0,110.0,130.0,240.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 102,IMADOUCHENE Romain,96.9,153.0,-160.0,165.0,195.0,205.0,-215.0,165.0,205.0,370.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 102,FAIGNART Florent,96.3,120.0,130.0,-134.0,140.0,-150.0,153.0,130.0,153.0,283.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,U17 Men 81,COTTE-GAUDIN Simon,75.8,85.0,-90.0,90.0,105.0,110.0,115.0,90.0,115.0,205.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 81,GENIN Eliott,76.6,110.0,115.0,-120.0,135.0,140.0,145.0,115.0,145.0,260.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 89,MENONI Enzo,88.3,125.0,-130.0,132.0,140.0,145.0,151.0,132.0,151.0,283.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 89,JOFFRET Teddy,85.1,116.0,-121.0,-121.0,146.0,151.0,-0.0,116.0,151.0,267.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 96,KAIKILEKOFE Israel,93.3,130.0,-135.0,135.0,140.0,150.0,-0.0,135.0,150.0,285.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,U17 Men 81,COTTE-GAUDIN Simon,75.8,85.0,-90.0,90.0,105.0,110.0,115.0,90.0,115.0,205.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 81,GENIN Eliott,76.6,110.0,115.0,-120.0,135.0,140.0,145.0,115.0,145.0,260.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 89,MENONI Enzo,88.3,125.0,-130.0,132.0,140.0,145.0,151.0,132.0,151.0,283.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 89,JOFFRET Teddy,85.1,116.0,-121.0,-121.0,146.0,151.0,-0.0,116.0,151.0,267.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 96,KAIKILEKOFE Israel,93.3,130.0,-135.0,135.0,140.0,150.0,-0.0,135.0,150.0,285.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 81,TODADZE Tornike,74.9,112.0,-117.0,117.0,-141.0,142.0,147.0,117.0,147.0,264.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 89,FAVETTE Alexandre,86.6,103.0,107.0,110.0,133.0,140.0,-144.0,110.0,140.0,250.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 89,CHAVINIER Fabrice,84.9,95.0,-100.0,100.0,130.0,137.0,142.0,100.0,142.0,242.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 96,COLOMBO Ludwig,91.7,135.0,140.0,143.0,160.0,-170.0,-172.0,143.0,160.0,303.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 109,BOULY Kevin,104.4,130.0,-135.0,135.0,165.0,175.0,180.0,135.0,180.0,315.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 81,TODADZE Tornike,74.9,112.0,-117.0,117.0,-141.0,142.0,147.0,117.0,147.0,264.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 89,FAVETTE Alexandre,86.6,103.0,107.0,110.0,133.0,140.0,-144.0,110.0,140.0,250.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 89,CHAVINIER Fabrice,84.9,95.0,-100.0,100.0,130.0,137.0,142.0,100.0,142.0,242.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 96,COLOMBO Ludwig,91.7,135.0,140.0,143.0,160.0,-170.0,-172.0,143.0,160.0,303.0
+GE - TOP 9 - Strasbourg - Saint Medard - Toulon,2022-02-05,SEN Men 109,BOULY Kevin,104.4,130.0,-135.0,135.0,165.0,175.0,180.0,135.0,180.0,315.0

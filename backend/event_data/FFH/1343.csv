@@ -1,16 +1,95 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-OCC - 1°J Championnat Régional par Equipe Mixte - Montpellier,2021-09-25,U20 Women 59,ROUSSEL Clélia,56.6,30.0,34.0,38.0,40.0,44.0,47.0,38.0,47.0,85.0
-OCC - 1°J Championnat Régional par Equipe Mixte - Montpellier,2021-09-25,SEN Women 55,SIRVINS Mérine,54.9,-55.0,55.0,58.0,55.0,-60.0,-60.0,58.0,55.0,113.0
-OCC - 1°J Championnat Régional par Equipe Mixte - Montpellier,2021-09-25,SEN Women 55,SORANO Jodie,50.4,20.0,25.0,30.0,30.0,35.0,38.0,30.0,38.0,68.0
-OCC - 1°J Championnat Régional par Equipe Mixte - Montpellier,2021-09-25,SEN Women 59,ROUX Celia,57.7,58.0,-61.0,62.0,68.0,72.0,-76.0,62.0,72.0,134.0
-OCC - 1°J Championnat Régional par Equipe Mixte - Montpellier,2021-09-25,SEN Women 59,NICOSIA Carla,58.2,43.0,47.0,51.0,59.0,63.0,-67.0,51.0,63.0,114.0
-OCC - 1°J Championnat Régional par Equipe Mixte - Montpellier,2021-09-25,SEN Women 64,LENEZ Enora,61.3,40.0,45.0,50.0,57.0,62.0,65.0,50.0,65.0,115.0
-OCC - 1°J Championnat Régional par Equipe Mixte - Montpellier,2021-09-25,SEN Women 64,LEVALLOIS Mélanie,63.4,30.0,35.0,38.0,40.0,45.0,50.0,38.0,50.0,88.0
-OCC - 1°J Championnat Régional par Equipe Mixte - Montpellier,2021-09-25,SEN Men 61,RIUS Quentin,57.8,54.0,58.0,62.0,65.0,70.0,75.0,62.0,75.0,137.0
-OCC - 1°J Championnat Régional par Equipe Mixte - Montpellier,2021-09-25,SEN Men 81,LOPES BAPTISTA Osvaldo,81.0,88.0,92.0,96.0,115.0,120.0,124.0,96.0,124.0,220.0
-OCC - 1°J Championnat Régional par Equipe Mixte - Montpellier,2021-09-25,SEN Men 81,BONHOMME Aurélien,77.2,85.0,88.0,91.0,105.0,108.0,111.0,91.0,111.0,202.0
-OCC - 1°J Championnat Régional par Equipe Mixte - Montpellier,2021-09-25,SEN Men 81,HOFFMANN Thomas,74.4,76.0,-83.0,-85.0,105.0,-110.0,-115.0,76.0,105.0,181.0
-OCC - 1°J Championnat Régional par Equipe Mixte - Montpellier,2021-09-25,SEN Men 81,EMIG Camille,79.3,30.0,-31.0,-31.0,50.0,-51.0,-51.0,30.0,50.0,80.0
-OCC - 1°J Championnat Régional par Equipe Mixte - Montpellier,2021-09-25,SEN Men 89,MAILLOT Sebastien,84.6,81.0,85.0,88.0,95.0,100.0,-110.0,88.0,100.0,188.0
-OCC - 1°J Championnat Régional par Equipe Mixte - Montpellier,2021-09-25,SEN Men 89,GREGOIRE Hugo,81.5,71.0,-78.0,-81.0,103.0,108.0,112.0,71.0,112.0,183.0
-OCC - 1°J Championnat Régional par Equipe Mixte - Montpellier,2021-09-25,SEN Men 96,MORET Sylvain,95.9,107.0,-112.0,-115.0,128.0,-134.0,-134.0,107.0,128.0,235.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,U17 Women 64,VAGLIO Cléa,61.1,-48.0,50.0,52.0,58.0,60.0,62.0,52.0,62.0,114.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Women 55,NACCACHE Sarah,50.39,-36.0,36.0,39.0,46.0,50.0,54.0,39.0,54.0,93.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Women 64,M'TIMA Jessica,59.8,-33.0,-33.0,33.0,46.0,49.0,-51.0,33.0,49.0,82.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Women 64,PAUSE Patricia,63.0,-47.0,-47.0,-47.0,60.0,-64.0,-64.0,0.0,60.0,0.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Women 71,LAMY Gaby,70.46,45.0,48.0,-51.0,-62.0,62.0,64.0,48.0,64.0,112.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Women 71,ETIENN Camille,70.8,-27.0,-27.0,27.0,-37.0,37.0,-39.0,27.0,37.0,64.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Women 81,TISSOT Clarisse,77.37,60.0,65.0,-70.0,75.0,80.0,85.0,65.0,85.0,150.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Women >87,LEGROS Johanna,102.38,28.0,31.0,35.0,43.0,46.0,50.0,35.0,50.0,85.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,U15 Women 55,DOUYERE Solene,53.44,40.0,43.0,-46.0,50.0,52.0,54.0,43.0,54.0,97.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,U20 Women 59,ETIENNE Olivia,59.0,54.0,57.0,-60.0,65.0,70.0,72.0,57.0,72.0,129.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Women 59,THIERRY Elsa,56.0,55.0,58.0,-61.0,64.0,68.0,71.0,58.0,71.0,129.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Women 59,LÉPINAY Marie amélie,58.12,-49.0,-49.0,-50.0,58.0,-61.0,61.0,0.0,61.0,0.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Women 64,MEMBRÉ Tatiana,61.23,70.0,76.0,-80.0,93.0,-97.0,-100.0,76.0,93.0,169.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Women 64,RAKOTOMALALA Emma,59.72,60.0,64.0,-70.0,90.0,-94.0,-98.0,64.0,90.0,154.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Women 64,BINETRUY Camille,60.38,68.0,71.0,73.0,80.0,-83.0,-83.0,73.0,80.0,153.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Women 64,DAMOUR Caroline,59.37,65.0,67.0,-69.0,-85.0,85.0,-0.0,67.0,85.0,152.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Women 64,CADET Auberi,60.19,57.0,60.0,63.0,76.0,80.0,-83.0,63.0,80.0,143.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Women 71,FONTAINE Elodie,66.1,-64.0,64.0,-70.0,84.0,-90.0,-0.0,64.0,84.0,148.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Women 71,MANIECA Christelle,65.67,51.0,-53.0,53.0,60.0,63.0,65.0,53.0,65.0,118.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Women >87,ALMANZY Cassandra,96.44,66.0,70.0,-72.0,82.0,86.0,-89.0,70.0,86.0,156.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,U15 Women 55,DOUYERE Solene,53.44,40.0,43.0,-46.0,50.0,52.0,54.0,43.0,54.0,97.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,U20 Women 59,ETIENNE Olivia,59.0,54.0,57.0,-60.0,65.0,70.0,72.0,57.0,72.0,129.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Women 59,THIERRY Elsa,56.0,55.0,58.0,-61.0,64.0,68.0,71.0,58.0,71.0,129.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Women 59,LÉPINAY Marie amélie,58.12,-49.0,-49.0,-50.0,58.0,-61.0,61.0,0.0,61.0,0.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Women 64,MEMBRÉ Tatiana,61.23,70.0,76.0,-80.0,93.0,-97.0,-100.0,76.0,93.0,169.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Women 64,RAKOTOMALALA Emma,59.72,60.0,64.0,-70.0,90.0,-94.0,-98.0,64.0,90.0,154.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Women 64,BINETRUY Camille,60.38,68.0,71.0,73.0,80.0,-83.0,-83.0,73.0,80.0,153.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Women 64,DAMOUR Caroline,59.37,65.0,67.0,-69.0,-85.0,85.0,-0.0,67.0,85.0,152.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Women 64,CADET Auberi,60.19,57.0,60.0,63.0,76.0,80.0,-83.0,63.0,80.0,143.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Women 71,FONTAINE Elodie,66.1,-64.0,64.0,-70.0,84.0,-90.0,-0.0,64.0,84.0,148.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Women 71,MANIECA Christelle,65.67,51.0,-53.0,53.0,60.0,63.0,65.0,53.0,65.0,118.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Women >87,ALMANZY Cassandra,96.44,66.0,70.0,-72.0,82.0,86.0,-89.0,70.0,86.0,156.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,U20 Men 81,RASPAIL Maxence,74.62,75.0,82.0,-85.0,95.0,104.0,-110.0,82.0,104.0,186.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,U20 Men 89,PROMI Allan,82.31,62.0,65.0,70.0,85.0,-90.0,95.0,70.0,95.0,165.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 73,LEFEVRE Jérome,72.35,100.0,-104.0,105.0,125.0,130.0,135.0,105.0,135.0,240.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 73,GRAFFION Romain,72.38,80.0,-86.0,86.0,100.0,-106.0,-106.0,86.0,100.0,186.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 81,LAW THU Alexandre,78.25,80.0,90.0,-95.0,100.0,110.0,-117.0,90.0,110.0,200.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 81,JEAN MARIE Franck,73.11,75.0,80.0,-82.0,-106.0,-106.0,106.0,80.0,106.0,186.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 81,BIGORRE Pierre,78.83,65.0,73.0,82.0,91.0,95.0,-100.0,82.0,95.0,177.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 89,BEVILACQUA Hugo,81.4,95.0,105.0,-0.0,120.0,130.0,140.0,105.0,140.0,245.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 89,HOOLANS Charly,87.97,-100.0,-100.0,100.0,125.0,-132.0,-135.0,100.0,125.0,225.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 89,LEDEZ Hugo,85.4,84.0,88.0,-92.0,115.0,122.0,-128.0,88.0,122.0,210.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 89,MAILLOT Sebastien,83.15,-88.0,-88.0,88.0,98.0,104.0,-110.0,88.0,104.0,192.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 96,TODOSKOFF Pierre,93.6,70.0,75.0,-80.0,90.0,95.0,105.0,75.0,105.0,180.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 102,CADET Jerome,98.9,90.0,100.0,105.0,130.0,140.0,145.0,105.0,145.0,250.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,U20 Men 81,RASPAIL Maxence,74.62,75.0,82.0,-85.0,95.0,104.0,-110.0,82.0,104.0,186.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,U20 Men 89,PROMI Allan,82.31,62.0,65.0,70.0,85.0,-90.0,95.0,70.0,95.0,165.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 73,LEFEVRE Jérome,72.35,100.0,-104.0,105.0,125.0,130.0,135.0,105.0,135.0,240.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 73,GRAFFION Romain,72.38,80.0,-86.0,86.0,100.0,-106.0,-106.0,86.0,100.0,186.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 81,LAW THU Alexandre,78.25,80.0,90.0,-95.0,100.0,110.0,-117.0,90.0,110.0,200.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 81,JEAN MARIE Franck,73.11,75.0,80.0,-82.0,-106.0,-106.0,106.0,80.0,106.0,186.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 81,BIGORRE Pierre,78.83,65.0,73.0,82.0,91.0,95.0,-100.0,82.0,95.0,177.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 89,BEVILACQUA Hugo,81.4,95.0,105.0,-0.0,120.0,130.0,140.0,105.0,140.0,245.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 89,HOOLANS Charly,87.97,-100.0,-100.0,100.0,125.0,-132.0,-135.0,100.0,125.0,225.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 89,LEDEZ Hugo,85.4,84.0,88.0,-92.0,115.0,122.0,-128.0,88.0,122.0,210.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 89,MAILLOT Sebastien,83.15,-88.0,-88.0,88.0,98.0,104.0,-110.0,88.0,104.0,192.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 96,TODOSKOFF Pierre,93.6,70.0,75.0,-80.0,90.0,95.0,105.0,75.0,105.0,180.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 102,CADET Jerome,98.9,90.0,100.0,105.0,130.0,140.0,145.0,105.0,145.0,250.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,U20 Men 61,BAILLIEUX Cyril,57.9,68.0,72.0,-75.0,88.0,-91.0,-91.0,72.0,88.0,160.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 73,PONS Thierry,72.2,100.0,-106.0,106.0,125.0,-130.0,-130.0,106.0,125.0,231.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,U20 Men 61,BAILLIEUX Cyril,57.9,68.0,72.0,-75.0,88.0,-91.0,-91.0,72.0,88.0,160.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 73,PONS Thierry,72.2,100.0,-106.0,106.0,125.0,-130.0,-130.0,106.0,125.0,231.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Women 55,KEGREISZ Valentine,55.0,-54.0,54.0,56.0,64.0,67.0,70.0,56.0,70.0,126.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Women >87,GIMBERT Valeriane,101.6,57.0,62.0,65.0,85.0,91.0,-95.0,65.0,91.0,156.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Women 55,KEGREISZ Valentine,55.0,-54.0,54.0,56.0,64.0,67.0,70.0,56.0,70.0,126.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Women >87,GIMBERT Valeriane,101.6,57.0,62.0,65.0,85.0,91.0,-95.0,65.0,91.0,156.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,U15 Men 55,FLECHAUD Mateo,50.6,23.0,26.0,30.0,33.0,37.0,41.0,30.0,41.0,71.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 73,DAGARD Eric,71.76,-85.0,85.0,-100.0,105.0,110.0,-115.0,85.0,110.0,195.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 73,DOUYERE Stéphane,71.96,73.0,77.0,81.0,93.0,98.0,-102.0,81.0,98.0,179.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 73,GRONDIN Alan-théo,67.63,50.0,55.0,-60.0,58.0,63.0,-70.0,55.0,63.0,118.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 81,DIJOUX Romain,80.7,116.0,-121.0,125.0,140.0,147.0,151.0,125.0,151.0,276.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 81,RAKOTOMALALA Andy,79.16,85.0,90.0,-100.0,110.0,115.0,120.0,90.0,120.0,210.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 81,GRONDEIN Anthony,79.03,85.0,90.0,-100.0,100.0,110.0,-115.0,90.0,110.0,200.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 89,DIJOUX Vincent,85.34,93.0,-97.0,-97.0,120.0,125.0,-130.0,93.0,125.0,218.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 89,KHOON-YAM Brice,84.56,-90.0,90.0,-95.0,110.0,116.0,120.0,90.0,120.0,210.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 89,PAUSE Cédric,88.74,75.0,-80.0,80.0,105.0,110.0,-115.0,80.0,110.0,190.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 89,HOAREAU Patrice,87.07,-78.0,80.0,84.0,-100.0,102.0,105.0,84.0,105.0,189.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 96,FROGER Arthur,93.6,108.0,113.0,-118.0,140.0,147.0,-152.0,113.0,147.0,260.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 96,HARTMANN Jérome,90.66,105.0,110.0,115.0,125.0,130.0,-140.0,115.0,130.0,245.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 109,FLECHAUD Romaric,107.35,50.0,54.0,58.0,70.0,75.0,80.0,58.0,80.0,138.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,U15 Men 55,FLECHAUD Mateo,50.6,23.0,26.0,30.0,33.0,37.0,41.0,30.0,41.0,71.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 73,DAGARD Eric,71.76,-85.0,85.0,-100.0,105.0,110.0,-115.0,85.0,110.0,195.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 73,DOUYERE Stéphane,71.96,73.0,77.0,81.0,93.0,98.0,-102.0,81.0,98.0,179.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 73,GRONDIN Alan-théo,67.63,50.0,55.0,-60.0,58.0,63.0,-70.0,55.0,63.0,118.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 81,DIJOUX Romain,80.7,116.0,-121.0,125.0,140.0,147.0,151.0,125.0,151.0,276.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 81,RAKOTOMALALA Andy,79.16,85.0,90.0,-100.0,110.0,115.0,120.0,90.0,120.0,210.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 81,GRONDEIN Anthony,79.03,85.0,90.0,-100.0,100.0,110.0,-115.0,90.0,110.0,200.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 89,DIJOUX Vincent,85.34,93.0,-97.0,-97.0,120.0,125.0,-130.0,93.0,125.0,218.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 89,KHOON-YAM Brice,84.56,-90.0,90.0,-95.0,110.0,116.0,120.0,90.0,120.0,210.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 89,PAUSE Cédric,88.74,75.0,-80.0,80.0,105.0,110.0,-115.0,80.0,110.0,190.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 89,HOAREAU Patrice,87.07,-78.0,80.0,84.0,-100.0,102.0,105.0,84.0,105.0,189.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 96,FROGER Arthur,93.6,108.0,113.0,-118.0,140.0,147.0,-152.0,113.0,147.0,260.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 96,HARTMANN Jérome,90.66,105.0,110.0,115.0,125.0,130.0,-140.0,115.0,130.0,245.0
+REU - autre - Saint piere - Championnat régional par équipes,2024-05-12,SEN Men 109,FLECHAUD Romaric,107.35,50.0,54.0,58.0,70.0,75.0,80.0,58.0,80.0,138.0

@@ -1,3 +1,39 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-AURA - ELEIKO Tournoi de France 2.0,2021-02-27,U17 Men 73,DA SILVA Romain,69.0,93.0,96.0,99.0,113.0,117.0,-121.0,99.0,117.0,216.0
-AURA - ELEIKO Tournoi de France 2.0,2021-02-27,U20 Men 73,DOMINGUEZ Gaetan,71.3,100.0,105.0,-110.0,122.0,128.0,-133.0,105.0,128.0,233.0
+HDF - 2°J Nat 1 (Villers Bretonneux),2021-11-20,U17 Women 59,LECLERC Jade,55.7,49.0,52.0,54.0,63.0,67.0,69.0,54.0,69.0,123.0
+HDF - 2°J Nat 1 (Villers Bretonneux),2021-11-20,U17 Women 71,NOURTIER Lyla,67.5,55.0,-58.0,-58.0,69.0,72.0,-74.0,55.0,72.0,127.0
+HDF - 2°J Nat 1 (Villers Bretonneux),2021-11-20,SEN Women 49,SITTER Cécile,48.7,46.0,49.0,51.0,57.0,60.0,62.0,51.0,62.0,113.0
+HDF - 2°J Nat 1 (Villers Bretonneux),2021-11-20,SEN Women 55,DECROIX Pauline,51.8,49.0,-52.0,52.0,62.0,-65.0,-65.0,52.0,62.0,114.0
+HDF - 2°J Nat 1 (Villers Bretonneux),2021-11-20,SEN Women 64,AIGLE Elena,59.2,65.0,68.0,70.0,85.0,-88.0,88.0,70.0,88.0,158.0
+HDF - 2°J Nat 1 (Villers Bretonneux),2021-11-20,SEN Women 64,DAM WAN Diane,61.4,48.0,53.0,-55.0,64.0,-68.0,-68.0,53.0,64.0,117.0
+HDF - 2°J Nat 1 (Villers Bretonneux),2021-11-20,SEN Women 71,GHEKAP WAFO Myriam,67.1,70.0,-75.0,-75.0,90.0,95.0,-99.0,70.0,95.0,165.0
+HDF - 2°J Nat 1 (Villers Bretonneux),2021-11-20,SEN Women 71,GRZESIAK Laetitia,67.5,60.0,65.0,68.0,85.0,91.0,94.0,68.0,94.0,162.0
+HDF - 2°J Nat 1 (Villers Bretonneux),2021-11-20,SEN Women 76,NUIRO Naomy,72.6,80.0,83.0,85.0,85.0,89.0,-102.0,85.0,89.0,174.0
+HDF - 2°J Nat 1 (Villers Bretonneux),2021-11-20,SEN Women 76,TRAORE Sara,73.2,65.0,68.0,71.0,78.0,83.0,-85.0,71.0,83.0,154.0
+HDF - 2°J Nat 1 (Villers Bretonneux),2021-11-20,SEN Women 81,CRISTOFOLI Adeline,79.3,62.0,65.0,66.0,77.0,80.0,-82.0,66.0,80.0,146.0
+HDF - 2°J Nat 1 (Villers Bretonneux),2021-11-20,SEN Women 81,VAUTARD Priscillia,79.3,57.0,-60.0,60.0,63.0,65.0,67.0,60.0,67.0,127.0
+HDF - 2°J Nat 1 (Villers Bretonneux),2021-11-20,SEN Women 64,AIGLE Elena,59.2,65.0,68.0,70.0,85.0,-88.0,88.0,70.0,88.0,158.0
+HDF - 2°J Nat 1 (Villers Bretonneux),2021-11-20,SEN Women 76,NUIRO Naomy,72.6,80.0,83.0,85.0,85.0,89.0,-102.0,85.0,89.0,174.0
+HDF - 2°J Nat 1 (Villers Bretonneux),2021-11-20,SEN Women 81,CRISTOFOLI Adeline,79.3,62.0,65.0,66.0,77.0,80.0,-82.0,66.0,80.0,146.0
+HDF - 2°J Nat 1 (Villers Bretonneux),2021-11-20,SEN Women 81,VAUTARD Priscillia,79.3,57.0,-60.0,60.0,63.0,65.0,67.0,60.0,67.0,127.0
+HDF - 2°J Nat 1 (Villers Bretonneux),2021-11-20,SEN Women 64,AIGLE Elena,59.2,65.0,68.0,70.0,85.0,-88.0,88.0,70.0,88.0,158.0
+HDF - 2°J Nat 1 (Villers Bretonneux),2021-11-20,SEN Women 76,NUIRO Naomy,72.6,80.0,83.0,85.0,85.0,89.0,-102.0,85.0,89.0,174.0
+HDF - 2°J Nat 1 (Villers Bretonneux),2021-11-20,SEN Women 81,CRISTOFOLI Adeline,79.3,62.0,65.0,66.0,77.0,80.0,-82.0,66.0,80.0,146.0
+HDF - 2°J Nat 1 (Villers Bretonneux),2021-11-20,SEN Women 81,VAUTARD Priscillia,79.3,57.0,-60.0,60.0,63.0,65.0,67.0,60.0,67.0,127.0
+HDF - 2°J Nat 1 (Villers Bretonneux),2021-11-20,SEN Women 64,DAM WAN Diane,61.4,48.0,53.0,-55.0,64.0,-68.0,-68.0,53.0,64.0,117.0
+HDF - 2°J Nat 1 (Villers Bretonneux),2021-11-20,SEN Women 71,GHEKAP WAFO Myriam,67.1,70.0,-75.0,-75.0,90.0,95.0,-99.0,70.0,95.0,165.0
+HDF - 2°J Nat 1 (Villers Bretonneux),2021-11-20,SEN Women 71,GRZESIAK Laetitia,67.5,60.0,65.0,68.0,85.0,91.0,94.0,68.0,94.0,162.0
+HDF - 2°J Nat 1 (Villers Bretonneux),2021-11-20,SEN Women 76,TRAORE Sara,73.2,65.0,68.0,71.0,78.0,83.0,-85.0,71.0,83.0,154.0
+HDF - 2°J Nat 1 (Villers Bretonneux),2021-11-20,SEN Women 64,DAM WAN Diane,61.4,48.0,53.0,-55.0,64.0,-68.0,-68.0,53.0,64.0,117.0
+HDF - 2°J Nat 1 (Villers Bretonneux),2021-11-20,SEN Women 71,GHEKAP WAFO Myriam,67.1,70.0,-75.0,-75.0,90.0,95.0,-99.0,70.0,95.0,165.0
+HDF - 2°J Nat 1 (Villers Bretonneux),2021-11-20,SEN Women 71,GRZESIAK Laetitia,67.5,60.0,65.0,68.0,85.0,91.0,94.0,68.0,94.0,162.0
+HDF - 2°J Nat 1 (Villers Bretonneux),2021-11-20,SEN Women 76,TRAORE Sara,73.2,65.0,68.0,71.0,78.0,83.0,-85.0,71.0,83.0,154.0
+HDF - 2°J Nat 1 (Villers Bretonneux),2021-11-20,SEN Men 73,PAUL Jill,71.3,110.0,-118.0,120.0,145.0,150.0,-157.0,120.0,150.0,270.0
+HDF - 2°J Nat 1 (Villers Bretonneux),2021-11-20,SEN Men 73,MOGÉ Olivier,71.6,80.0,85.0,90.0,100.0,105.0,108.0,90.0,108.0,198.0
+HDF - 2°J Nat 1 (Villers Bretonneux),2021-11-20,SEN Men 81,CAUPENNE Benjamin,80.8,100.0,105.0,-110.0,135.0,-140.0,-140.0,105.0,135.0,240.0
+HDF - 2°J Nat 1 (Villers Bretonneux),2021-11-20,SEN Men 81,HESHMATI Sohrab,80.0,-92.0,-92.0,92.0,110.0,-115.0,-118.0,92.0,110.0,202.0
+HDF - 2°J Nat 1 (Villers Bretonneux),2021-11-20,SEN Men 89,BOURRE Quentin,84.0,100.0,105.0,110.0,125.0,129.0,-133.0,110.0,129.0,239.0
+HDF - 2°J Nat 1 (Villers Bretonneux),2021-11-20,SEN Men 73,PAUL Jill,71.3,110.0,-118.0,120.0,145.0,150.0,-157.0,120.0,150.0,270.0
+HDF - 2°J Nat 1 (Villers Bretonneux),2021-11-20,SEN Men 73,MOGÉ Olivier,71.6,80.0,85.0,90.0,100.0,105.0,108.0,90.0,108.0,198.0
+HDF - 2°J Nat 1 (Villers Bretonneux),2021-11-20,SEN Men 81,CAUPENNE Benjamin,80.8,100.0,105.0,-110.0,135.0,-140.0,-140.0,105.0,135.0,240.0
+HDF - 2°J Nat 1 (Villers Bretonneux),2021-11-20,SEN Men 81,HESHMATI Sohrab,80.0,-92.0,-92.0,92.0,110.0,-115.0,-118.0,92.0,110.0,202.0
+HDF - 2°J Nat 1 (Villers Bretonneux),2021-11-20,SEN Men 89,BOURRE Quentin,84.0,100.0,105.0,110.0,125.0,129.0,-133.0,110.0,129.0,239.0

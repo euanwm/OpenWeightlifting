@@ -1,4 +1,20 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-AURA - Challenge Avenir Rhone,2021-08-01,U17 Men 61,OUTTERS Matthis,56.75,45.0,47.0,48.0,57.0,-60.0,60.0,48.0,60.0,108.0
-AURA - Challenge Avenir Rhone,2021-08-01,SEN Men 89,RAMBELO MANGA Alexandre lala,86.45,100.0,105.0,-110.0,120.0,125.0,130.0,105.0,130.0,235.0
-AURA - Challenge Avenir Rhone,2021-08-01,SEN Men 96,BAILLET Jerome,94.5,95.0,100.0,105.0,121.0,-0.0,-0.0,105.0,121.0,226.0
+OCC - Chpt Ligue - Figeac - 4°tour CRC Mixte,2023-01-14,U17 Women 71,JONQUIERES Héloïse,70.2,45.0,48.0,-50.0,58.0,-62.0,-62.0,48.0,58.0,106.0
+OCC - Chpt Ligue - Figeac - 4°tour CRC Mixte,2023-01-14,U20 Women 55,LORET Leïlou,53.7,50.0,-53.0,-53.0,-60.0,60.0,64.0,50.0,64.0,114.0
+OCC - Chpt Ligue - Figeac - 4°tour CRC Mixte,2023-01-14,U20 Women 59,MIQUEL Ines,58.4,40.0,43.0,46.0,55.0,59.0,62.0,46.0,62.0,108.0
+OCC - Chpt Ligue - Figeac - 4°tour CRC Mixte,2023-01-14,SEN Women 59,JAR Kathleen,58.2,43.0,46.0,-49.0,60.0,63.0,-65.0,46.0,63.0,109.0
+OCC - Chpt Ligue - Figeac - 4°tour CRC Mixte,2023-01-14,SEN Women 59,BOUVIER Lisa marie,56.3,-42.0,44.0,-48.0,51.0,-55.0,-57.0,44.0,51.0,95.0
+OCC - Chpt Ligue - Figeac - 4°tour CRC Mixte,2023-01-14,SEN Women 64,CARIVEN Agathe,63.5,50.0,53.0,55.0,65.0,-68.0,-69.0,55.0,65.0,120.0
+OCC - Chpt Ligue - Figeac - 4°tour CRC Mixte,2023-01-14,SEN Women 64,BADIANO Valentine,62.1,-50.0,51.0,53.0,59.0,-62.0,-63.0,53.0,59.0,112.0
+OCC - Chpt Ligue - Figeac - 4°tour CRC Mixte,2023-01-14,SEN Women 71,YAN Emmanuelle,66.0,57.0,61.0,-65.0,76.0,-80.0,80.0,61.0,80.0,141.0
+OCC - Chpt Ligue - Figeac - 4°tour CRC Mixte,2023-01-14,SEN Women 71,DELRIEU-SABY Elise,66.3,48.0,-51.0,51.0,-57.0,57.0,60.0,51.0,60.0,111.0
+OCC - Chpt Ligue - Figeac - 4°tour CRC Mixte,2023-01-14,SEN Women 76,THIOLLIER Zoe,72.2,50.0,55.0,60.0,65.0,69.0,72.0,60.0,72.0,132.0
+OCC - Chpt Ligue - Figeac - 4°tour CRC Mixte,2023-01-14,SEN Men 67,DELPECH Remy,64.7,72.0,76.0,-80.0,100.0,-105.0,-105.0,76.0,100.0,176.0
+OCC - Chpt Ligue - Figeac - 4°tour CRC Mixte,2023-01-14,SEN Men 73,MAKANGA Chris,71.3,72.0,76.0,80.0,92.0,100.0,105.0,80.0,105.0,185.0
+OCC - Chpt Ligue - Figeac - 4°tour CRC Mixte,2023-01-14,SEN Men 73,LAMY Thomas,72.8,75.0,80.0,-85.0,95.0,100.0,-105.0,80.0,100.0,180.0
+OCC - Chpt Ligue - Figeac - 4°tour CRC Mixte,2023-01-14,SEN Men 81,ESPINOSA Robin,74.1,80.0,90.0,95.0,100.0,105.0,-110.0,95.0,105.0,200.0
+OCC - Chpt Ligue - Figeac - 4°tour CRC Mixte,2023-01-14,SEN Men 81,GOUSSEF Yan,80.3,75.0,80.0,-85.0,95.0,100.0,105.0,80.0,105.0,185.0
+OCC - Chpt Ligue - Figeac - 4°tour CRC Mixte,2023-01-14,SEN Men 89,GUILLOT Théo,81.3,78.0,82.0,86.0,97.0,105.0,-110.0,86.0,105.0,191.0
+OCC - Chpt Ligue - Figeac - 4°tour CRC Mixte,2023-01-14,SEN Men 89,BALESTER Louis,85.7,69.0,73.0,-77.0,96.0,-99.0,-102.0,73.0,96.0,169.0
+OCC - Chpt Ligue - Figeac - 4°tour CRC Mixte,2023-01-14,SEN Men 96,MALBEC Guillaume,93.4,90.0,95.0,100.0,110.0,117.0,122.0,100.0,122.0,222.0
+OCC - Chpt Ligue - Figeac - 4°tour CRC Mixte,2023-01-14,SEN Men 102,HAVET Bastien,97.7,110.0,115.0,120.0,142.0,149.0,-155.0,120.0,149.0,269.0

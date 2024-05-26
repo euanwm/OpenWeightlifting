@@ -1,5 +1,21 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-BRE - ELEIKO Tournoi de France 3.0,2021-06-19,U15 Women 45,LEMÉ Youna,43.8,48.0,50.0,-52.0,58.0,60.0,62.0,50.0,62.0,112.0
-BRE - ELEIKO Tournoi de France 3.0,2021-06-19,U17 Women 55,PRIGENT MADEC Théoline,52.8,-59.0,-59.0,-59.0,70.0,73.0,-75.0,-59.0,73.0,0.0
-BRE - ELEIKO Tournoi de France 3.0,2021-06-19,U17 Women 76,GRISOT Yvane,75.2,60.0,64.0,67.0,-77.0,77.0,-80.0,67.0,77.0,144.0
-BRE - ELEIKO Tournoi de France 3.0,2021-06-19,U17 Women 76,SCOARNEC Ambre,73.6,58.0,60.0,62.0,75.0,-78.0,80.0,62.0,80.0,142.0
+OCC - 2ème journée Championnat régional par équipes mixte -Clermont l'Ht,2021-11-06,U17 Men 67,FREMONT Enzo,64.9,65.0,70.0,75.0,90.0,95.0,100.0,75.0,100.0,175.0
+OCC - 2ème journée Championnat régional par équipes mixte -Clermont l'Ht,2021-11-06,U20 Men 61,CONILL Axel,57.4,-60.0,63.0,-67.0,85.0,90.0,95.0,63.0,95.0,158.0
+OCC - 2ème journée Championnat régional par équipes mixte -Clermont l'Ht,2021-11-06,SEN Men 61,RIUS Quentin,58.6,-61.0,61.0,65.0,75.0,-80.0,80.0,65.0,80.0,145.0
+OCC - 2ème journée Championnat régional par équipes mixte -Clermont l'Ht,2021-11-06,SEN Men 67,GENAIN Théo,65.8,68.0,72.0,-78.0,83.0,88.0,93.0,72.0,93.0,165.0
+OCC - 2ème journée Championnat régional par équipes mixte -Clermont l'Ht,2021-11-06,SEN Men 81,AWUVE Seyenam,79.15,105.0,-110.0,112.0,131.0,137.0,145.0,112.0,145.0,257.0
+OCC - 2ème journée Championnat régional par équipes mixte -Clermont l'Ht,2021-11-06,SEN Men 81,BARDIS Flavio,79.25,100.0,110.0,116.0,128.0,-135.0,140.0,116.0,140.0,256.0
+OCC - 2ème journée Championnat régional par équipes mixte -Clermont l'Ht,2021-11-06,SEN Men 81,HOFFMANN Thomas,76.15,77.0,-82.0,-84.0,105.0,-109.0,-109.0,77.0,105.0,182.0
+OCC - 2ème journée Championnat régional par équipes mixte -Clermont l'Ht,2021-11-06,SEN Men 81,MARAVAL Titouan,74.6,68.0,72.0,78.0,86.0,92.0,-98.0,78.0,92.0,170.0
+OCC - 2ème journée Championnat régional par équipes mixte -Clermont l'Ht,2021-11-06,SEN Men 89,GREGOIRE Hugo,83.0,-70.0,72.0,76.0,-104.0,106.0,110.0,76.0,110.0,186.0
+OCC - 2ème journée Championnat régional par équipes mixte -Clermont l'Ht,2021-11-06,SEN Men 89,MAILLOT Sebastien,84.6,-75.0,75.0,83.0,87.0,93.0,-0.0,83.0,93.0,176.0
+OCC - 2ème journée Championnat régional par équipes mixte -Clermont l'Ht,2021-11-06,SEN Men 102,MORET Sylvain,96.7,105.0,110.0,115.0,130.0,135.0,-140.0,115.0,135.0,250.0
+OCC - 2ème journée Championnat régional par équipes mixte -Clermont l'Ht,2021-11-06,SEN Women 55,IOUISSAIDAN Hania,52.3,40.0,43.0,-45.0,48.0,52.0,55.0,43.0,55.0,98.0
+OCC - 2ème journée Championnat régional par équipes mixte -Clermont l'Ht,2021-11-06,SEN Women 59,ROUX Celia,58.75,-62.0,62.0,65.0,72.0,76.0,80.0,65.0,80.0,145.0
+OCC - 2ème journée Championnat régional par équipes mixte -Clermont l'Ht,2021-11-06,SEN Women 59,SIRVINS Mérine,56.25,-55.0,55.0,-58.0,60.0,63.0,-65.0,55.0,63.0,118.0
+OCC - 2ème journée Championnat régional par équipes mixte -Clermont l'Ht,2021-11-06,SEN Women 59,NICOSIA Carla,59.0,47.0,-50.0,-50.0,57.0,60.0,63.0,47.0,63.0,110.0
+OCC - 2ème journée Championnat régional par équipes mixte -Clermont l'Ht,2021-11-06,SEN Women 59,CAVAILLE Melina,56.5,40.0,45.0,48.0,50.0,55.0,60.0,48.0,60.0,108.0
+OCC - 2ème journée Championnat régional par équipes mixte -Clermont l'Ht,2021-11-06,SEN Women 59,ESCOLANO Manon,55.9,-40.0,-40.0,40.0,45.0,52.0,56.0,40.0,56.0,96.0
+OCC - 2ème journée Championnat régional par équipes mixte -Clermont l'Ht,2021-11-06,SEN Women 76,MARCOUX Isaure,72.4,50.0,54.0,57.0,55.0,60.0,-64.0,57.0,60.0,117.0
+OCC - 2ème journée Championnat régional par équipes mixte -Clermont l'Ht,2021-11-06,SEN Women 76,RIDAOUI Anissa,72.1,45.0,47.0,50.0,-65.0,65.0,-68.0,50.0,65.0,115.0
+OCC - 2ème journée Championnat régional par équipes mixte -Clermont l'Ht,2021-11-06,SEN Women 81,MINEAU Celia,78.25,53.0,56.0,58.0,70.0,73.0,76.0,58.0,76.0,134.0

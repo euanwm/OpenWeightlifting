@@ -1,3 +1,114 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-OCC - Champ de France Elite 2021 - Istres,2021-10-23,U15 Women 49,PEIGUET Clara,48.65,-51.0,51.0,53.0,61.0,64.0,66.0,53.0,66.0,119.0
-OCC - Champ de France Elite 2021 - Istres,2021-10-23,U20 Women 59,KUGELMANN Flavie,56.91,52.0,54.0,56.0,62.0,65.0,67.0,56.0,67.0,123.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U10 Men ,DECLERCK Estéban,35.47,12.0,14.0,15.0,17.0,-19.0,19.0,15.0,19.0,34.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Men 35,DANGUY Lyam,31.3,14.0,16.0,18.0,19.0,21.0,23.0,18.0,23.0,41.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Men 35,ALARD Tyler,30.64,10.0,11.0,12.0,15.0,17.0,19.0,12.0,19.0,31.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Men 35,BLANCQUART Dylan,29.35,-8.0,8.0,9.0,-14.0,14.0,15.0,9.0,15.0,24.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Men 35,MANIER Thaïs,26.43,6.0,8.0,9.0,10.0,12.0,13.0,9.0,13.0,22.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Men 35,ARAB Nahil,26.89,16.0,17.0,19.0,22.0,-24.0,-24.0,19.0,22.0,41.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Men 40,VANBAELINGHEM Gatien,37.82,17.0,-19.0,19.0,21.0,23.0,25.0,19.0,25.0,44.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Men 40,BAILLEUL Damien,38.03,13.0,15.0,17.0,19.0,21.0,23.0,17.0,23.0,40.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Men 40,DECLOQUEMENT Ayden,40.0,10.0,12.0,13.0,12.0,14.0,15.0,13.0,15.0,28.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Men 45,WESTEEL Boris,41.56,13.0,15.0,17.0,19.0,21.0,23.0,17.0,23.0,40.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Men 49,DEDECKER Mathéo,46.18,20.0,22.0,24.0,31.0,33.0,34.0,24.0,34.0,58.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Men 49,DEMET Tom,48.96,15.0,17.0,19.0,-18.0,18.0,20.0,19.0,20.0,39.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Men 67,ALLAYS RAMACKERS Enguerrand,61.96,37.0,39.0,41.0,47.0,49.0,51.0,41.0,51.0,92.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Men 67,TILLIEZ Noë,65.13,-23.0,23.0,25.0,31.0,33.0,35.0,25.0,35.0,60.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Men >73,DECLERCQ Manoé,77.0,32.0,34.0,36.0,40.0,42.0,43.0,36.0,43.0,79.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U10 Women ,DECLERCQ Zélyna,27.38,13.0,14.0,-15.0,18.0,19.0,-21.0,14.0,19.0,33.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U10 Women ,FASQUEL Laly,24.4,7.0,-9.0,9.0,8.0,10.0,11.0,9.0,11.0,20.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U10 Women ,GEERAERT Lena,24.89,7.0,-9.0,9.0,12.0,-13.0,-13.0,9.0,12.0,21.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 35,FOURNIER Louna,31.18,11.0,13.0,-14.0,15.0,17.0,19.0,13.0,19.0,32.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 35,TYROU Linoa,28.45,9.0,11.0,12.0,12.0,-14.0,14.0,12.0,14.0,26.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 40,GEERAERT Emmy,36.92,18.0,-20.0,-20.0,23.0,25.0,27.0,18.0,27.0,45.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 45,ARAB Aliyah,43.98,24.0,25.0,26.0,32.0,33.0,35.0,26.0,35.0,61.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 45,BOSQ Selena,44.65,22.0,24.0,-26.0,30.0,32.0,34.0,24.0,34.0,58.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 45,BERNARD Liliana,43.83,20.0,22.0,23.0,25.0,27.0,28.0,23.0,28.0,51.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 45,BOGAERT Kacy,42.99,9.0,11.0,13.0,12.0,14.0,16.0,13.0,16.0,29.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 49,RADAMA Shaina,48.32,32.0,34.0,36.0,44.0,46.0,-47.0,36.0,46.0,82.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 55,MONIER Maelys,52.26,21.0,23.0,-25.0,31.0,33.0,-35.0,23.0,33.0,56.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 59,PREVOST Anais,57.5,20.0,22.0,24.0,28.0,30.0,32.0,24.0,32.0,56.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 64,MISSUE Celia,62.95,21.0,23.0,24.0,28.0,30.0,-32.0,24.0,30.0,54.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 64,DAUPHIN Zoe,63.27,-20.0,20.0,22.0,25.0,27.0,29.0,22.0,29.0,51.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 71,OPIGEZ Lena,64.33,18.0,20.0,22.0,25.0,27.0,28.0,22.0,28.0,50.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women >71,NAKOULMA Mounira,106.93,32.0,-34.0,34.0,45.0,47.0,49.0,34.0,49.0,83.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women >71,DEVYNCK Lyna,72.2,21.0,23.0,25.0,-31.0,31.0,32.0,25.0,32.0,57.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U10 Women ,DECLERCQ Zélyna,27.38,13.0,14.0,-15.0,18.0,19.0,-21.0,14.0,19.0,33.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U10 Women ,FASQUEL Laly,24.4,7.0,-9.0,9.0,8.0,10.0,11.0,9.0,11.0,20.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U10 Women ,GEERAERT Lena,24.89,7.0,-9.0,9.0,12.0,-13.0,-13.0,9.0,12.0,21.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 35,FOURNIER Louna,31.18,11.0,13.0,-14.0,15.0,17.0,19.0,13.0,19.0,32.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 35,TYROU Linoa,28.45,9.0,11.0,12.0,12.0,-14.0,14.0,12.0,14.0,26.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 40,GEERAERT Emmy,36.92,18.0,-20.0,-20.0,23.0,25.0,27.0,18.0,27.0,45.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 45,ARAB Aliyah,43.98,24.0,25.0,26.0,32.0,33.0,35.0,26.0,35.0,61.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 45,BOSQ Selena,44.65,22.0,24.0,-26.0,30.0,32.0,34.0,24.0,34.0,58.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 45,BERNARD Liliana,43.83,20.0,22.0,23.0,25.0,27.0,28.0,23.0,28.0,51.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 45,BOGAERT Kacy,42.99,9.0,11.0,13.0,12.0,14.0,16.0,13.0,16.0,29.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 49,RADAMA Shaina,48.32,32.0,34.0,36.0,44.0,46.0,-47.0,36.0,46.0,82.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 55,MONIER Maelys,52.26,21.0,23.0,-25.0,31.0,33.0,-35.0,23.0,33.0,56.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 59,PREVOST Anais,57.5,20.0,22.0,24.0,28.0,30.0,32.0,24.0,32.0,56.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 64,MISSUE Celia,62.95,21.0,23.0,24.0,28.0,30.0,-32.0,24.0,30.0,54.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 64,DAUPHIN Zoe,63.27,-20.0,20.0,22.0,25.0,27.0,29.0,22.0,29.0,51.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 71,OPIGEZ Lena,64.33,18.0,20.0,22.0,25.0,27.0,28.0,22.0,28.0,50.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women >71,NAKOULMA Mounira,106.93,32.0,-34.0,34.0,45.0,47.0,49.0,34.0,49.0,83.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women >71,DEVYNCK Lyna,72.2,21.0,23.0,25.0,-31.0,31.0,32.0,25.0,32.0,57.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 35,RIQUIER Alicia,33.2,14.0,16.0,-18.0,22.0,24.0,26.0,16.0,26.0,42.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 35,LEBRE Camille,29.2,11.0,13.0,15.0,16.0,18.0,20.0,15.0,20.0,35.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 35,RHAMDAMI-KALLIFA Khadidja,31.1,12.0,-13.0,13.0,16.0,18.0,20.0,13.0,20.0,33.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 40,PEREIRA Amalia,38.4,20.0,21.0,-23.0,28.0,30.0,-32.0,21.0,30.0,51.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 40,LEBLANC Lana,36.2,16.0,18.0,20.0,23.0,25.0,-27.0,20.0,25.0,45.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 40,DECORTE-DELHAIE Leonie,37.6,13.0,15.0,17.0,22.0,24.0,26.0,17.0,26.0,43.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 40,VASSEUR Victoria,40.0,14.0,16.0,18.0,20.0,22.0,24.0,18.0,24.0,42.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 40,RIQUIER Marie,36.0,13.0,15.0,-17.0,22.0,24.0,-26.0,15.0,24.0,39.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 49,DODRE Mae,48.5,-33.0,33.0,35.0,42.0,44.0,45.0,35.0,45.0,80.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 49,MARGUERITAIN Léonie,45.3,16.0,18.0,20.0,24.0,-26.0,26.0,20.0,26.0,46.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 49,NOYELLE Victoire,46.6,16.0,18.0,-20.0,20.0,-22.0,22.0,18.0,22.0,40.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 59,FONTENELLE Chloe,57.7,38.0,40.0,42.0,52.0,-54.0,54.0,42.0,54.0,96.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 59,VERON Mailine,56.5,18.0,19.0,20.0,26.0,28.0,30.0,20.0,30.0,50.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 64,ADELAIDE Aelia,61.8,14.0,16.0,18.0,20.0,-22.0,22.0,18.0,22.0,40.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 71,THIRY Cheyenne,64.2,21.0,23.0,-25.0,34.0,36.0,38.0,23.0,38.0,61.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 35,RIQUIER Alicia,33.2,14.0,16.0,-18.0,22.0,24.0,26.0,16.0,26.0,42.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 35,LEBRE Camille,29.2,11.0,13.0,15.0,16.0,18.0,20.0,15.0,20.0,35.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 35,RHAMDAMI-KALLIFA Khadidja,31.1,12.0,-13.0,13.0,16.0,18.0,20.0,13.0,20.0,33.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 40,PEREIRA Amalia,38.4,20.0,21.0,-23.0,28.0,30.0,-32.0,21.0,30.0,51.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 40,LEBLANC Lana,36.2,16.0,18.0,20.0,23.0,25.0,-27.0,20.0,25.0,45.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 40,DECORTE-DELHAIE Leonie,37.6,13.0,15.0,17.0,22.0,24.0,26.0,17.0,26.0,43.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 40,VASSEUR Victoria,40.0,14.0,16.0,18.0,20.0,22.0,24.0,18.0,24.0,42.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 40,RIQUIER Marie,36.0,13.0,15.0,-17.0,22.0,24.0,-26.0,15.0,24.0,39.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 49,DODRE Mae,48.5,-33.0,33.0,35.0,42.0,44.0,45.0,35.0,45.0,80.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 49,MARGUERITAIN Léonie,45.3,16.0,18.0,20.0,24.0,-26.0,26.0,20.0,26.0,46.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 49,NOYELLE Victoire,46.6,16.0,18.0,-20.0,20.0,-22.0,22.0,18.0,22.0,40.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 59,FONTENELLE Chloe,57.7,38.0,40.0,42.0,52.0,-54.0,54.0,42.0,54.0,96.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 59,VERON Mailine,56.5,18.0,19.0,20.0,26.0,28.0,30.0,20.0,30.0,50.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 64,ADELAIDE Aelia,61.8,14.0,16.0,18.0,20.0,-22.0,22.0,18.0,22.0,40.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Women 71,THIRY Cheyenne,64.2,21.0,23.0,-25.0,34.0,36.0,38.0,23.0,38.0,61.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U10 Men ,FONTENELLE Ethan,25.5,17.0,18.0,-20.0,22.0,-24.0,24.0,18.0,24.0,42.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U10 Men ,NOYELLE Manoa,75.2,13.0,15.0,17.0,20.0,22.0,24.0,17.0,24.0,41.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U10 Men ,SERROUT LE CARRE Yovan,26.5,12.0,14.0,15.0,20.0,21.0,22.0,15.0,22.0,37.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U10 Men ,CORDEIRO Maxence,27.5,5.0,6.0,7.0,-6.0,6.0,7.0,7.0,7.0,14.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Men 35,MARLOT NIZET Mathéo,35.0,16.0,18.0,20.0,20.0,22.0,-24.0,20.0,22.0,42.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Men 40,STASZAK Yanis,39.8,13.0,15.0,17.0,20.0,22.0,24.0,17.0,24.0,41.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Men 40,BOSSU Mathéo,36.1,12.0,14.0,16.0,17.0,19.0,21.0,16.0,21.0,37.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Men 45,BOUCKÉ Luc,44.2,23.0,25.0,-27.0,36.0,38.0,-40.0,25.0,38.0,63.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Men 45,CORDEIRO Clement,42.3,12.0,13.0,15.0,18.0,-20.0,20.0,15.0,20.0,35.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Men 67,MOUCHON Louness,62.2,13.0,15.0,-17.0,17.0,19.0,21.0,15.0,21.0,36.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Men 67,PENEZ Nathaniel,64.6,10.0,12.0,14.0,15.0,17.0,19.0,14.0,19.0,33.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Men >73,EL YAAKOUBI Imrane,75.1,10.0,11.0,13.0,18.0,-20.0,20.0,13.0,20.0,33.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U10 Women ,HENAULT Kassidy,27.7,12.0,14.0,16.0,18.0,20.0,-22.0,16.0,20.0,36.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U10 Women ,NOLLET Floor,32.3,12.0,-14.0,14.0,18.0,20.0,-21.0,14.0,20.0,34.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U10 Women ,BEHAGUE Elya,26.7,10.0,11.0,12.0,13.0,14.0,16.0,12.0,16.0,28.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U10 Women ,REYNDERS Sasha,17.5,3.0,4.0,5.0,5.0,6.0,7.0,5.0,7.0,12.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U10 Men ,FONTENELLE Ethan,25.5,17.0,18.0,-20.0,22.0,-24.0,24.0,18.0,24.0,42.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U10 Men ,NOYELLE Manoa,75.2,13.0,15.0,17.0,20.0,22.0,24.0,17.0,24.0,41.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U10 Men ,SERROUT LE CARRE Yovan,26.5,12.0,14.0,15.0,20.0,21.0,22.0,15.0,22.0,37.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U10 Men ,CORDEIRO Maxence,27.5,5.0,6.0,7.0,-6.0,6.0,7.0,7.0,7.0,14.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Men 35,MARLOT NIZET Mathéo,35.0,16.0,18.0,20.0,20.0,22.0,-24.0,20.0,22.0,42.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Men 40,STASZAK Yanis,39.8,13.0,15.0,17.0,20.0,22.0,24.0,17.0,24.0,41.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Men 40,BOSSU Mathéo,36.1,12.0,14.0,16.0,17.0,19.0,21.0,16.0,21.0,37.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Men 45,BOUCKÉ Luc,44.2,23.0,25.0,-27.0,36.0,38.0,-40.0,25.0,38.0,63.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Men 45,CORDEIRO Clement,42.3,12.0,13.0,15.0,18.0,-20.0,20.0,15.0,20.0,35.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Men 67,MOUCHON Louness,62.2,13.0,15.0,-17.0,17.0,19.0,21.0,15.0,21.0,36.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Men 67,PENEZ Nathaniel,64.6,10.0,12.0,14.0,15.0,17.0,19.0,14.0,19.0,33.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U13 Men >73,EL YAAKOUBI Imrane,75.1,10.0,11.0,13.0,18.0,-20.0,20.0,13.0,20.0,33.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U10 Women ,HENAULT Kassidy,27.7,12.0,14.0,16.0,18.0,20.0,-22.0,16.0,20.0,36.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U10 Women ,NOLLET Floor,32.3,12.0,-14.0,14.0,18.0,20.0,-21.0,14.0,20.0,34.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U10 Women ,BEHAGUE Elya,26.7,10.0,11.0,12.0,13.0,14.0,16.0,12.0,16.0,28.0
+HDF - Challenge Avenir - Saint pol sur mer - 2ème Challenge d'avenir U10/U13 GARCON,2024-01-07,U10 Women ,REYNDERS Sasha,17.5,3.0,4.0,5.0,5.0,6.0,7.0,5.0,7.0,12.0

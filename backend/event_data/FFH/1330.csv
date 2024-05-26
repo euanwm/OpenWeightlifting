@@ -1,0 +1,27 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+BRE - Challenge Avenir - Dinan - U15 U 17 U20BIBOS,2024-05-26,U15 Men 61,THOMAS Titouan,60.35,43.0,45.0,48.0,67.0,73.0,75.0,48.0,75.0,123.0
+BRE - Challenge Avenir - Dinan - U15 U 17 U20BIBOS,2024-05-26,U15 Men 61,DERRIEN Ruben,56.15,30.0,33.0,-35.0,45.0,48.0,-50.0,33.0,48.0,81.0
+BRE - Challenge Avenir - Dinan - U15 U 17 U20BIBOS,2024-05-26,U17 Men 55,DERBAS Rayan,49.1,48.0,52.0,56.0,63.0,69.0,71.0,56.0,71.0,127.0
+BRE - Challenge Avenir - Dinan - U15 U 17 U20BIBOS,2024-05-26,U17 Men 67,MARIX-FEY Louis,65.75,60.0,65.0,-68.0,82.0,-85.0,-88.0,65.0,82.0,147.0
+BRE - Challenge Avenir - Dinan - U15 U 17 U20BIBOS,2024-05-26,U17 Men 81,CHARUEL Noménoë,75.2,50.0,55.0,60.0,70.0,-75.0,75.0,60.0,75.0,135.0
+BRE - Challenge Avenir - Dinan - U15 U 17 U20BIBOS,2024-05-26,U17 Men 89,LEZENNEC Liam,88.75,60.0,-66.0,-66.0,80.0,-85.0,-85.0,60.0,80.0,140.0
+BRE - Challenge Avenir - Dinan - U15 U 17 U20BIBOS,2024-05-26,U20 Men 61,GAILLARD Nicolas,59.5,60.0,-65.0,-65.0,80.0,85.0,-90.0,60.0,85.0,145.0
+BRE - Challenge Avenir - Dinan - U15 U 17 U20BIBOS,2024-05-26,U20 Men 61,URUCI Kevin,60.15,60.0,-65.0,-65.0,80.0,-83.0,-83.0,60.0,80.0,140.0
+BRE - Challenge Avenir - Dinan - U15 U 17 U20BIBOS,2024-05-26,U20 Men 61,JOUANNEAU Swann,61.0,-25.0,25.0,30.0,55.0,60.0,-65.0,30.0,60.0,90.0
+BRE - Challenge Avenir - Dinan - U15 U 17 U20BIBOS,2024-05-26,U20 Men 73,THOMAS Mathis,71.4,50.0,55.0,-60.0,75.0,80.0,-85.0,55.0,80.0,135.0
+BRE - Challenge Avenir - Dinan - U15 U 17 U20BIBOS,2024-05-26,U20 Men 81,YRIS Noah,77.7,75.0,80.0,-82.0,95.0,-100.0,-102.0,80.0,95.0,175.0
+BRE - Challenge Avenir - Dinan - U15 U 17 U20BIBOS,2024-05-26,SEN Men 73,DABEK Erwann,73.0,57.0,60.0,-63.0,85.0,-90.0,-90.0,60.0,85.0,145.0
+BRE - Challenge Avenir - Dinan - U15 U 17 U20BIBOS,2024-05-26,SEN Men 73,ESNAULT Romain,72.9,55.0,-60.0,-60.0,70.0,-75.0,-80.0,55.0,70.0,125.0
+BRE - Challenge Avenir - Dinan - U15 U 17 U20BIBOS,2024-05-26,SEN Men 81,TOUIMI Ilian,79.2,78.0,-82.0,82.0,100.0,105.0,-111.0,82.0,105.0,187.0
+BRE - Challenge Avenir - Dinan - U15 U 17 U20BIBOS,2024-05-26,SEN Men 81,RUPIN Thibault,76.8,45.0,50.0,60.0,75.0,80.0,-85.0,60.0,80.0,140.0
+BRE - Challenge Avenir - Dinan - U15 U 17 U20BIBOS,2024-05-26,SEN Men 89,STEVENS Pascal,87.95,-67.0,67.0,71.0,87.0,91.0,-93.0,71.0,91.0,162.0
+BRE - Challenge Avenir - Dinan - U15 U 17 U20BIBOS,2024-05-26,SEN Men 96,CASSAN Laurent,94.4,83.0,-86.0,86.0,103.0,106.0,-111.0,86.0,106.0,192.0
+BRE - Challenge Avenir - Dinan - U15 U 17 U20BIBOS,2024-05-26,SEN Men 96,DANIEL Christopher,93.0,75.0,80.0,85.0,92.0,100.0,-105.0,85.0,100.0,185.0
+BRE - Challenge Avenir - Dinan - U15 U 17 U20BIBOS,2024-05-26,U20 Men 81,YRIS Noah,77.7,75.0,80.0,-82.0,95.0,-100.0,-102.0,80.0,95.0,175.0
+BRE - Challenge Avenir - Dinan - U15 U 17 U20BIBOS,2024-05-26,SEN Men 73,DABEK Erwann,73.0,57.0,60.0,-63.0,85.0,-90.0,-90.0,60.0,85.0,145.0
+BRE - Challenge Avenir - Dinan - U15 U 17 U20BIBOS,2024-05-26,SEN Men 73,ESNAULT Romain,72.9,55.0,-60.0,-60.0,70.0,-75.0,-80.0,55.0,70.0,125.0
+BRE - Challenge Avenir - Dinan - U15 U 17 U20BIBOS,2024-05-26,SEN Men 81,TOUIMI Ilian,79.2,78.0,-82.0,82.0,100.0,105.0,-111.0,82.0,105.0,187.0
+BRE - Challenge Avenir - Dinan - U15 U 17 U20BIBOS,2024-05-26,SEN Men 81,RUPIN Thibault,76.8,45.0,50.0,60.0,75.0,80.0,-85.0,60.0,80.0,140.0
+BRE - Challenge Avenir - Dinan - U15 U 17 U20BIBOS,2024-05-26,SEN Men 89,STEVENS Pascal,87.95,-67.0,67.0,71.0,87.0,91.0,-93.0,71.0,91.0,162.0
+BRE - Challenge Avenir - Dinan - U15 U 17 U20BIBOS,2024-05-26,SEN Men 96,CASSAN Laurent,94.4,83.0,-86.0,86.0,103.0,106.0,-111.0,86.0,106.0,192.0
+BRE - Challenge Avenir - Dinan - U15 U 17 U20BIBOS,2024-05-26,SEN Men 96,DANIEL Christopher,93.0,75.0,80.0,85.0,92.0,100.0,-105.0,85.0,100.0,185.0

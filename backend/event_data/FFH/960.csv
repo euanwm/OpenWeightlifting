@@ -1,2 +1,39 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-OCC - ELEIKO Tournoi de France 3.0,2021-06-19,SEN Women 87,NAYO KETCHANKE Gaelle,86.2,100.0,-105.0,105.0,-132.0,132.0,138.0,105.0,138.0,243.0
+GE - Challenge Avenir 2 - Bas-Rhin - U10-13 Mixte,2021-10-30,U13 Men 35,JUNG Eugène,34.1,11.0,13.0,14.0,13.0,-15.0,15.0,14.0,15.0,29.0
+GE - Challenge Avenir 2 - Bas-Rhin - U10-13 Mixte,2021-10-30,U13 Men 49,TUGEND Timeo,47.3,20.0,22.0,-24.0,24.0,26.0,28.0,22.0,28.0,50.0
+GE - Challenge Avenir 2 - Bas-Rhin - U10-13 Mixte,2021-10-30,U15 Women 55,KENNEL Loane,50.3,22.0,25.0,27.0,28.0,30.0,32.0,27.0,32.0,59.0
+GE - Challenge Avenir 2 - Bas-Rhin - U10-13 Mixte,2021-10-30,U17 Women 59,KIENTZI Léanne,55.4,32.0,-35.0,37.0,44.0,-47.0,50.0,37.0,50.0,87.0
+GE - Challenge Avenir 2 - Bas-Rhin - U10-13 Mixte,2021-10-30,U20 Women 64,DUBAIS Charlotte,62.0,20.0,22.0,24.0,24.0,27.0,30.0,24.0,30.0,54.0
+GE - Challenge Avenir 2 - Bas-Rhin - U10-13 Mixte,2021-10-30,SEN Women 55,FEILLARD Lea,54.2,40.0,43.0,-45.0,50.0,54.0,-57.0,43.0,54.0,97.0
+GE - Challenge Avenir 2 - Bas-Rhin - U10-13 Mixte,2021-10-30,SEN Women 59,WIETRICH Marion,59.0,41.0,43.0,45.0,54.0,57.0,58.0,45.0,58.0,103.0
+GE - Challenge Avenir 2 - Bas-Rhin - U10-13 Mixte,2021-10-30,SEN Women 59,BAILLY Lucie,57.6,35.0,-37.0,37.0,44.0,47.0,50.0,37.0,50.0,87.0
+GE - Challenge Avenir 2 - Bas-Rhin - U10-13 Mixte,2021-10-30,SEN Women 64,DURIF Joanna,62.2,45.0,-48.0,50.0,55.0,-58.0,58.0,50.0,58.0,108.0
+GE - Challenge Avenir 2 - Bas-Rhin - U10-13 Mixte,2021-10-30,U15 Women 55,KENNEL Loane,50.3,22.0,25.0,27.0,28.0,30.0,32.0,27.0,32.0,59.0
+GE - Challenge Avenir 2 - Bas-Rhin - U10-13 Mixte,2021-10-30,U17 Women 59,KIENTZI Léanne,55.4,32.0,-35.0,37.0,44.0,-47.0,50.0,37.0,50.0,87.0
+GE - Challenge Avenir 2 - Bas-Rhin - U10-13 Mixte,2021-10-30,U20 Women 64,DUBAIS Charlotte,62.0,20.0,22.0,24.0,24.0,27.0,30.0,24.0,30.0,54.0
+GE - Challenge Avenir 2 - Bas-Rhin - U10-13 Mixte,2021-10-30,SEN Women 55,FEILLARD Lea,54.2,40.0,43.0,-45.0,50.0,54.0,-57.0,43.0,54.0,97.0
+GE - Challenge Avenir 2 - Bas-Rhin - U10-13 Mixte,2021-10-30,SEN Women 59,WIETRICH Marion,59.0,41.0,43.0,45.0,54.0,57.0,58.0,45.0,58.0,103.0
+GE - Challenge Avenir 2 - Bas-Rhin - U10-13 Mixte,2021-10-30,SEN Women 59,BAILLY Lucie,57.6,35.0,-37.0,37.0,44.0,47.0,50.0,37.0,50.0,87.0
+GE - Challenge Avenir 2 - Bas-Rhin - U10-13 Mixte,2021-10-30,SEN Women 64,DURIF Joanna,62.2,45.0,-48.0,50.0,55.0,-58.0,58.0,50.0,58.0,108.0
+GE - Challenge Avenir 2 - Bas-Rhin - U10-13 Mixte,2021-10-30,U15 Men 49,MOSER Léo,47.6,-32.0,32.0,35.0,42.0,45.0,48.0,35.0,48.0,83.0
+GE - Challenge Avenir 2 - Bas-Rhin - U10-13 Mixte,2021-10-30,U15 Men 49,ZENTZ Victor,41.3,15.0,18.0,20.0,23.0,25.0,27.0,20.0,27.0,47.0
+GE - Challenge Avenir 2 - Bas-Rhin - U10-13 Mixte,2021-10-30,U15 Men 67,PILATER Vincent,61.3,20.0,23.0,25.0,30.0,33.0,35.0,25.0,35.0,60.0
+GE - Challenge Avenir 2 - Bas-Rhin - U10-13 Mixte,2021-10-30,U15 Men 73,MOVSESYAN Vahe,71.1,32.0,34.0,-35.0,36.0,39.0,43.0,34.0,43.0,77.0
+GE - Challenge Avenir 2 - Bas-Rhin - U10-13 Mixte,2021-10-30,U15 Men 81,BEGEL Achille,76.4,38.0,-41.0,-41.0,45.0,-47.0,47.0,38.0,47.0,85.0
+GE - Challenge Avenir 2 - Bas-Rhin - U10-13 Mixte,2021-10-30,U17 Men 49,WAXIN Axel,40.4,24.0,26.0,28.0,29.0,31.0,34.0,28.0,34.0,62.0
+GE - Challenge Avenir 2 - Bas-Rhin - U10-13 Mixte,2021-10-30,U17 Men 81,SPAGNULO Tommaso,75.8,48.0,52.0,55.0,60.0,64.0,67.0,55.0,67.0,122.0
+GE - Challenge Avenir 2 - Bas-Rhin - U10-13 Mixte,2021-10-30,SEN Men 73,D'ANNA Steven,71.4,85.0,90.0,95.0,115.0,-122.0,122.0,95.0,122.0,217.0
+GE - Challenge Avenir 2 - Bas-Rhin - U10-13 Mixte,2021-10-30,SEN Men 81,GITTER Patrick,77.7,73.0,77.0,80.0,93.0,97.0,100.0,80.0,100.0,180.0
+GE - Challenge Avenir 2 - Bas-Rhin - U10-13 Mixte,2021-10-30,SEN Men 89,AL MAZLOUM Bachar,86.4,95.0,100.0,105.0,120.0,125.0,130.0,105.0,130.0,235.0
+GE - Challenge Avenir 2 - Bas-Rhin - U10-13 Mixte,2021-10-30,SEN Men 109,JEHL Arnaud,102.6,95.0,100.0,-105.0,110.0,-115.0,-115.0,100.0,110.0,210.0
+GE - Challenge Avenir 2 - Bas-Rhin - U10-13 Mixte,2021-10-30,U15 Men 49,MOSER Léo,47.6,-32.0,32.0,35.0,42.0,45.0,48.0,35.0,48.0,83.0
+GE - Challenge Avenir 2 - Bas-Rhin - U10-13 Mixte,2021-10-30,U15 Men 49,ZENTZ Victor,41.3,15.0,18.0,20.0,23.0,25.0,27.0,20.0,27.0,47.0
+GE - Challenge Avenir 2 - Bas-Rhin - U10-13 Mixte,2021-10-30,U15 Men 67,PILATER Vincent,61.3,20.0,23.0,25.0,30.0,33.0,35.0,25.0,35.0,60.0
+GE - Challenge Avenir 2 - Bas-Rhin - U10-13 Mixte,2021-10-30,U15 Men 73,MOVSESYAN Vahe,71.1,32.0,34.0,-35.0,36.0,39.0,43.0,34.0,43.0,77.0
+GE - Challenge Avenir 2 - Bas-Rhin - U10-13 Mixte,2021-10-30,U15 Men 81,BEGEL Achille,76.4,38.0,-41.0,-41.0,45.0,-47.0,47.0,38.0,47.0,85.0
+GE - Challenge Avenir 2 - Bas-Rhin - U10-13 Mixte,2021-10-30,U17 Men 49,WAXIN Axel,40.4,24.0,26.0,28.0,29.0,31.0,34.0,28.0,34.0,62.0
+GE - Challenge Avenir 2 - Bas-Rhin - U10-13 Mixte,2021-10-30,U17 Men 81,SPAGNULO Tommaso,75.8,48.0,52.0,55.0,60.0,64.0,67.0,55.0,67.0,122.0
+GE - Challenge Avenir 2 - Bas-Rhin - U10-13 Mixte,2021-10-30,SEN Men 73,D'ANNA Steven,71.4,85.0,90.0,95.0,115.0,-122.0,122.0,95.0,122.0,217.0
+GE - Challenge Avenir 2 - Bas-Rhin - U10-13 Mixte,2021-10-30,SEN Men 81,GITTER Patrick,77.7,73.0,77.0,80.0,93.0,97.0,100.0,80.0,100.0,180.0
+GE - Challenge Avenir 2 - Bas-Rhin - U10-13 Mixte,2021-10-30,SEN Men 89,AL MAZLOUM Bachar,86.4,95.0,100.0,105.0,120.0,125.0,130.0,105.0,130.0,235.0
+GE - Challenge Avenir 2 - Bas-Rhin - U10-13 Mixte,2021-10-30,SEN Men 109,JEHL Arnaud,102.6,95.0,100.0,-105.0,110.0,-115.0,-115.0,100.0,110.0,210.0

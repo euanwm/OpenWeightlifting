@@ -1,10 +1,247 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-GE - Champ de France Elite,2021-10-23,U20 Women 49,DUL Camille,45.48,44.0,46.0,48.0,61.0,64.0,-68.0,48.0,64.0,112.0
-GE - Champ de France Elite,2021-10-23,U20 Women 49,CORBETHAU Amélie,48.9,44.0,47.0,-49.0,55.0,58.0,61.0,47.0,61.0,108.0
-GE - Champ de France Elite,2021-10-23,SEN Women 49,CHRISTOPHEL Marie,46.19,56.0,-59.0,59.0,75.0,77.0,-79.0,59.0,77.0,136.0
-GE - Champ de France Elite,2021-10-23,SEN Women 55,HERTRICH Marielle,53.37,64.0,67.0,-70.0,80.0,83.0,-85.0,67.0,83.0,150.0
-GE - Champ de France Elite,2021-10-23,SEN Women 59,BONNAMANT Melanie,57.12,70.0,-72.0,73.0,91.0,93.0,-95.0,73.0,93.0,166.0
-GE - Champ de France Elite,2021-10-23,SEN Women 59,AIGLE Elena,58.14,68.0,71.0,-72.0,-89.0,89.0,-92.0,71.0,89.0,160.0
-GE - Champ de France Elite,2021-10-23,SEN Women 71,NUIRO Naomy,70.89,85.0,88.0,-90.0,-95.0,-95.0,-95.0,88.0,-95.0,0.0
-GE - Champ de France Elite,2021-10-23,SEN Women 76,LE VAILLANT DE CHARNY Audrey,71.2,77.0,81.0,84.0,97.0,101.0,104.0,84.0,104.0,188.0
-GE - Champ de France Elite,2021-10-23,SEN Women 76,PETIT Cyrielle,71.78,-79.0,81.0,-85.0,101.0,105.0,-108.0,81.0,105.0,186.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U15 Women 55,SOW Aby,52.0,-29.0,29.0,31.0,39.0,42.0,45.0,31.0,45.0,76.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U17 Women 59,SEKKAL Nawel,58.7,34.0,-37.0,37.0,-46.0,46.0,-49.0,37.0,46.0,83.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U17 Women 64,FILMOTTE Eurydice,61.3,-52.0,-52.0,54.0,-63.0,66.0,-68.0,54.0,66.0,120.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U17 Women 64,LASFAR Dounia,60.1,38.0,40.0,-42.0,47.0,50.0,-53.0,40.0,50.0,90.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U17 Women 76,JONQUIERES Héloïse,75.3,47.0,50.0,52.0,59.0,-63.0,63.0,52.0,63.0,115.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U20 Women 55,LORET Leïlou,50.5,53.0,56.0,59.0,72.0,76.0,-79.0,59.0,76.0,135.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U20 Women 59,MIQUEL Ines,58.9,57.0,60.0,-63.0,70.0,73.0,76.0,60.0,76.0,136.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 55,BICH Adèlaïde,54.7,53.0,-56.0,56.0,70.0,74.0,-76.0,56.0,74.0,130.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 55,LENY Apolline,54.5,53.0,57.0,59.0,68.0,-71.0,-71.0,59.0,68.0,127.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 59,RECURT Justine,57.7,68.0,71.0,-74.0,80.0,84.0,-92.0,71.0,84.0,155.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 59,BOUTIN Solène,59.0,-63.0,-63.0,63.0,87.0,92.0,-94.0,63.0,92.0,155.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 59,RODRIGUES Elora,56.9,-52.0,52.0,-55.0,62.0,65.0,68.0,52.0,68.0,120.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 64,LORTAL Orane,61.7,60.0,63.0,66.0,73.0,-77.0,-81.0,66.0,73.0,139.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 71,CORNIL Caroline,67.6,58.0,61.0,-65.0,70.0,74.0,78.0,61.0,78.0,139.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U20 Men 61,TURPIN Aurelien,61.0,82.0,86.0,-90.0,104.0,-110.0,-110.0,86.0,104.0,190.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U20 Men 73,GABARRE FONFREDE Raphael,73.0,95.0,100.0,103.0,-122.0,127.0,-130.0,103.0,127.0,230.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U20 Men 73,ROBINSON Tom,69.9,85.0,89.0,92.0,103.0,108.0,115.0,92.0,115.0,207.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U20 Men 73,EON Yann,72.1,80.0,84.0,-87.0,102.0,106.0,-110.0,84.0,106.0,190.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U20 Men 81,PERSONNIC Youenn,79.2,105.0,-110.0,-110.0,130.0,-135.0,140.0,105.0,140.0,245.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U20 Men 81,DEYRIS Simon,81.0,-100.0,100.0,-105.0,115.0,-128.0,131.0,100.0,131.0,231.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 89,DURAND Raphael,87.4,115.0,-120.0,-120.0,137.0,145.0,-150.0,115.0,145.0,260.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U20 Men 61,TURPIN Aurelien,61.0,82.0,86.0,-90.0,104.0,-110.0,-110.0,86.0,104.0,190.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U20 Men 73,GABARRE FONFREDE Raphael,73.0,95.0,100.0,103.0,-122.0,127.0,-130.0,103.0,127.0,230.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U20 Men 73,ROBINSON Tom,69.9,85.0,89.0,92.0,103.0,108.0,115.0,92.0,115.0,207.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U20 Men 73,EON Yann,72.1,80.0,84.0,-87.0,102.0,106.0,-110.0,84.0,106.0,190.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U20 Men 81,PERSONNIC Youenn,79.2,105.0,-110.0,-110.0,130.0,-135.0,140.0,105.0,140.0,245.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U20 Men 81,DEYRIS Simon,81.0,-100.0,100.0,-105.0,115.0,-128.0,131.0,100.0,131.0,231.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 89,DURAND Raphael,87.4,115.0,-120.0,-120.0,137.0,145.0,-150.0,115.0,145.0,260.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Men 49,ROULLET Tony,45.75,23.0,25.0,-27.0,31.0,33.0,35.0,25.0,35.0,60.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Men 49,MILLIT Yacoub,47.8,12.0,14.0,16.0,18.0,19.0,20.0,16.0,20.0,36.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Men 61,HUDAN Esteban,58.7,20.0,22.0,24.0,22.0,24.0,26.0,24.0,26.0,50.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Men 73,CHAVAND Azaël,72.0,34.0,36.0,38.0,44.0,46.0,-48.0,38.0,46.0,84.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 35,BLAIZE Elésia,30.9,11.0,13.0,15.0,16.0,18.0,20.0,15.0,20.0,35.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 40,DURIC Ema,39.95,32.0,34.0,36.0,42.0,44.0,45.0,36.0,45.0,81.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 45,LACOMBE Oriane,43.2,16.0,18.0,20.0,20.0,22.0,24.0,20.0,24.0,44.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 71,SIGUST DUQUESNOY Lya,64.8,18.0,20.0,22.0,24.0,26.0,28.0,22.0,28.0,50.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 71,JAILLET Kiara,70.8,12.0,14.0,16.0,18.0,20.0,22.0,16.0,22.0,38.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Men 49,ROULLET Tony,45.75,23.0,25.0,-27.0,31.0,33.0,35.0,25.0,35.0,60.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Men 49,MILLIT Yacoub,47.8,12.0,14.0,16.0,18.0,19.0,20.0,16.0,20.0,36.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Men 61,HUDAN Esteban,58.7,20.0,22.0,24.0,22.0,24.0,26.0,24.0,26.0,50.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Men 73,CHAVAND Azaël,72.0,34.0,36.0,38.0,44.0,46.0,-48.0,38.0,46.0,84.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 35,BLAIZE Elésia,30.9,11.0,13.0,15.0,16.0,18.0,20.0,15.0,20.0,35.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 40,DURIC Ema,39.95,32.0,34.0,36.0,42.0,44.0,45.0,36.0,45.0,81.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 45,LACOMBE Oriane,43.2,16.0,18.0,20.0,20.0,22.0,24.0,20.0,24.0,44.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 71,SIGUST DUQUESNOY Lya,64.8,18.0,20.0,22.0,24.0,26.0,28.0,22.0,28.0,50.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 71,JAILLET Kiara,70.8,12.0,14.0,16.0,18.0,20.0,22.0,16.0,22.0,38.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 35,FOURNIER Louna,31.0,11.0,13.0,14.0,16.0,-18.0,18.0,14.0,18.0,32.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 35,TYROU Linoa,28.5,9.0,11.0,13.0,12.0,14.0,16.0,13.0,16.0,29.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 40,GEERAERT Emmy,37.9,17.0,-19.0,-19.0,22.0,24.0,26.0,17.0,26.0,43.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 45,ARAB Aliyah,44.0,25.0,26.0,28.0,33.0,34.0,36.0,28.0,36.0,64.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 45,BOSQ Selena,44.7,22.0,24.0,26.0,31.0,33.0,35.0,26.0,35.0,61.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 45,BERNARD Liliana,43.9,20.0,22.0,23.0,25.0,26.0,27.0,23.0,27.0,50.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 45,BUTTEZ DECRAMP Louise,42.2,12.0,14.0,-16.0,16.0,18.0,20.0,14.0,20.0,34.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 45,BOGAERT Kacy,43.5,10.0,12.0,14.0,13.0,15.0,17.0,14.0,17.0,31.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 49,RADAMA Shaina,48.1,31.0,33.0,35.0,43.0,45.0,47.0,35.0,47.0,82.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 55,MONIER Maelys,52.6,21.0,22.0,24.0,31.0,32.0,34.0,24.0,34.0,58.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 55,FYVEY Lola,51.8,20.0,22.0,-24.0,28.0,30.0,32.0,22.0,32.0,54.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 59,PREVOST Anais,57.0,20.0,22.0,23.0,28.0,30.0,32.0,23.0,32.0,55.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 64,DAUPHIN Zoe,63.3,20.0,22.0,23.0,25.0,27.0,29.0,23.0,29.0,52.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 64,OPIGEZ Lena,63.4,20.0,22.0,-23.0,22.0,-24.0,24.0,22.0,24.0,46.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 71,DEVYNCK Lyna,70.9,20.0,22.0,24.0,30.0,32.0,34.0,24.0,34.0,58.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women >71,NAKOULMA Mounira,107.0,32.0,34.0,36.0,46.0,48.0,50.0,36.0,50.0,86.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 35,FOURNIER Louna,31.0,11.0,13.0,14.0,16.0,-18.0,18.0,14.0,18.0,32.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 35,TYROU Linoa,28.5,9.0,11.0,13.0,12.0,14.0,16.0,13.0,16.0,29.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 40,GEERAERT Emmy,37.9,17.0,-19.0,-19.0,22.0,24.0,26.0,17.0,26.0,43.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 45,ARAB Aliyah,44.0,25.0,26.0,28.0,33.0,34.0,36.0,28.0,36.0,64.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 45,BOSQ Selena,44.7,22.0,24.0,26.0,31.0,33.0,35.0,26.0,35.0,61.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 45,BERNARD Liliana,43.9,20.0,22.0,23.0,25.0,26.0,27.0,23.0,27.0,50.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 45,BUTTEZ DECRAMP Louise,42.2,12.0,14.0,-16.0,16.0,18.0,20.0,14.0,20.0,34.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 45,BOGAERT Kacy,43.5,10.0,12.0,14.0,13.0,15.0,17.0,14.0,17.0,31.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 49,RADAMA Shaina,48.1,31.0,33.0,35.0,43.0,45.0,47.0,35.0,47.0,82.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 55,MONIER Maelys,52.6,21.0,22.0,24.0,31.0,32.0,34.0,24.0,34.0,58.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 55,FYVEY Lola,51.8,20.0,22.0,-24.0,28.0,30.0,32.0,22.0,32.0,54.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 59,PREVOST Anais,57.0,20.0,22.0,23.0,28.0,30.0,32.0,23.0,32.0,55.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 64,DAUPHIN Zoe,63.3,20.0,22.0,23.0,25.0,27.0,29.0,23.0,29.0,52.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 64,OPIGEZ Lena,63.4,20.0,22.0,-23.0,22.0,-24.0,24.0,22.0,24.0,46.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women 71,DEVYNCK Lyna,70.9,20.0,22.0,24.0,30.0,32.0,34.0,24.0,34.0,58.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Women >71,NAKOULMA Mounira,107.0,32.0,34.0,36.0,46.0,48.0,50.0,36.0,50.0,86.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Men 35,ARAB Nahil,27.0,17.0,18.0,20.0,23.0,24.0,26.0,20.0,26.0,46.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Men 35,DANGUY Lyam,31.8,15.0,17.0,19.0,22.0,23.0,24.0,19.0,24.0,43.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Men 35,FYVEY Lois,34.0,10.0,12.0,14.0,14.0,16.0,18.0,14.0,18.0,32.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Men 40,BAILLEUL Damien,37.8,15.0,17.0,19.0,23.0,25.0,27.0,19.0,27.0,46.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Men 40,VANBAELINGHEM Gatien,37.3,17.0,19.0,-21.0,22.0,24.0,25.0,19.0,25.0,44.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Men 45,MECHNAME Etan,44.1,15.0,17.0,19.0,22.0,24.0,26.0,19.0,26.0,45.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Men 45,WESTEEL Boris,41.6,14.0,16.0,18.0,20.0,22.0,24.0,18.0,24.0,42.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Men 49,DEDECKER Mathéo,46.8,21.0,23.0,25.0,32.0,34.0,36.0,25.0,36.0,61.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Men 49,DESCHRYVER Oscar,48.7,22.0,24.0,-26.0,28.0,30.0,31.0,24.0,31.0,55.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Men 55,DEMET Tom,49.4,14.0,16.0,17.0,18.0,20.0,22.0,17.0,22.0,39.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Men 61,ALLAYS RAMACKERS Enguerrand,60.4,40.0,42.0,44.0,50.0,52.0,54.0,44.0,54.0,98.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Men 67,TILLIEZ Noë,65.4,23.0,25.0,27.0,31.0,33.0,35.0,27.0,35.0,62.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Men >73,DECLERCQ Manoé,76.5,34.0,36.0,38.0,40.0,42.0,44.0,38.0,44.0,82.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Men 35,ARAB Nahil,27.0,17.0,18.0,20.0,23.0,24.0,26.0,20.0,26.0,46.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Men 35,DANGUY Lyam,31.8,15.0,17.0,19.0,22.0,23.0,24.0,19.0,24.0,43.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Men 35,FYVEY Lois,34.0,10.0,12.0,14.0,14.0,16.0,18.0,14.0,18.0,32.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Men 40,BAILLEUL Damien,37.8,15.0,17.0,19.0,23.0,25.0,27.0,19.0,27.0,46.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Men 40,VANBAELINGHEM Gatien,37.3,17.0,19.0,-21.0,22.0,24.0,25.0,19.0,25.0,44.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Men 45,MECHNAME Etan,44.1,15.0,17.0,19.0,22.0,24.0,26.0,19.0,26.0,45.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Men 45,WESTEEL Boris,41.6,14.0,16.0,18.0,20.0,22.0,24.0,18.0,24.0,42.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Men 49,DEDECKER Mathéo,46.8,21.0,23.0,25.0,32.0,34.0,36.0,25.0,36.0,61.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Men 49,DESCHRYVER Oscar,48.7,22.0,24.0,-26.0,28.0,30.0,31.0,24.0,31.0,55.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Men 55,DEMET Tom,49.4,14.0,16.0,17.0,18.0,20.0,22.0,17.0,22.0,39.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Men 61,ALLAYS RAMACKERS Enguerrand,60.4,40.0,42.0,44.0,50.0,52.0,54.0,44.0,54.0,98.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Men 67,TILLIEZ Noë,65.4,23.0,25.0,27.0,31.0,33.0,35.0,27.0,35.0,62.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U13 Men >73,DECLERCQ Manoé,76.5,34.0,36.0,38.0,40.0,42.0,44.0,38.0,44.0,82.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U17 Men 61,REY Lucas,61.0,70.0,75.0,-78.0,90.0,95.0,-100.0,75.0,95.0,170.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U17 Men 61,MAGGIO Aaron,60.7,-85.0,-85.0,-87.0,98.0,105.0,-110.0,0.0,105.0,0.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U20 Men 67,ZAROUKI Keyan,66.0,-78.0,-82.0,82.0,-102.0,-108.0,-108.0,82.0,0.0,0.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U20 Men 73,CHANUT Leo,72.9,95.0,98.0,-101.0,108.0,-111.0,112.0,98.0,112.0,210.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U20 Men 73,GAY Milan,70.8,83.0,86.0,90.0,-99.0,103.0,-105.0,90.0,103.0,193.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U20 Men 81,REY Dorian,79.3,105.0,110.0,113.0,132.0,136.0,-140.0,113.0,136.0,249.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U20 Men 81,PATOURAUX Esteban,79.3,-92.0,92.0,-96.0,-112.0,112.0,-116.0,92.0,112.0,204.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 61,DUTILLEUL Stephane,60.6,65.0,70.0,-80.0,90.0,95.0,-105.0,70.0,95.0,165.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 67,JULLIEN Gabriel,64.7,-95.0,95.0,100.0,115.0,-120.0,-120.0,100.0,115.0,215.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 67,CONILL Axel,64.6,80.0,85.0,90.0,105.0,110.0,115.0,90.0,115.0,205.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 73,MOLESTI Alexandre,71.9,-95.0,95.0,101.0,115.0,122.0,126.0,101.0,126.0,227.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 81,DARCHEN Johan,80.0,115.0,123.0,125.0,145.0,-150.0,-150.0,125.0,145.0,270.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 81,AGUILERA Marc,78.4,100.0,105.0,-110.0,136.0,141.0,-145.0,105.0,141.0,246.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 89,VADELLA Julien,88.9,115.0,120.0,126.0,-145.0,146.0,-150.0,126.0,146.0,272.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 89,LACOUR Nathan,83.9,105.0,-110.0,110.0,140.0,-145.0,-145.0,110.0,140.0,250.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 96,TERRIER Sebatien,93.0,98.0,-103.0,-105.0,120.0,-125.0,-125.0,98.0,120.0,218.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U17 Men 61,REY Lucas,61.0,70.0,75.0,-78.0,90.0,95.0,-100.0,75.0,95.0,170.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U17 Men 61,MAGGIO Aaron,60.7,-85.0,-85.0,-87.0,98.0,105.0,-110.0,0.0,105.0,0.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U20 Men 67,ZAROUKI Keyan,66.0,-78.0,-82.0,82.0,-102.0,-108.0,-108.0,82.0,0.0,0.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U20 Men 73,CHANUT Leo,72.9,95.0,98.0,-101.0,108.0,-111.0,112.0,98.0,112.0,210.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U20 Men 73,GAY Milan,70.8,83.0,86.0,90.0,-99.0,103.0,-105.0,90.0,103.0,193.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U20 Men 81,REY Dorian,79.3,105.0,110.0,113.0,132.0,136.0,-140.0,113.0,136.0,249.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U20 Men 81,PATOURAUX Esteban,79.3,-92.0,92.0,-96.0,-112.0,112.0,-116.0,92.0,112.0,204.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 61,DUTILLEUL Stephane,60.6,65.0,70.0,-80.0,90.0,95.0,-105.0,70.0,95.0,165.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 67,JULLIEN Gabriel,64.7,-95.0,95.0,100.0,115.0,-120.0,-120.0,100.0,115.0,215.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 67,CONILL Axel,64.6,80.0,85.0,90.0,105.0,110.0,115.0,90.0,115.0,205.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 73,MOLESTI Alexandre,71.9,-95.0,95.0,101.0,115.0,122.0,126.0,101.0,126.0,227.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 81,DARCHEN Johan,80.0,115.0,123.0,125.0,145.0,-150.0,-150.0,125.0,145.0,270.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 81,AGUILERA Marc,78.4,100.0,105.0,-110.0,136.0,141.0,-145.0,105.0,141.0,246.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 89,VADELLA Julien,88.9,115.0,120.0,126.0,-145.0,146.0,-150.0,126.0,146.0,272.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 89,LACOUR Nathan,83.9,105.0,-110.0,110.0,140.0,-145.0,-145.0,110.0,140.0,250.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 96,TERRIER Sebatien,93.0,98.0,-103.0,-105.0,120.0,-125.0,-125.0,98.0,120.0,218.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 59,SCICCHITANO Emma,58.6,-68.0,68.0,-70.0,85.0,87.0,-90.0,68.0,87.0,155.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 59,JOUGLA Amelie,58.2,58.0,61.0,63.0,74.0,77.0,79.0,63.0,79.0,142.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 71,SEVERIN Alina,70.9,-58.0,58.0,-64.0,78.0,-83.0,-85.0,58.0,78.0,136.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 76,TABARIES Camille,75.1,-73.0,73.0,76.0,95.0,100.0,-105.0,76.0,100.0,176.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 76,MEVEL Hinanui,75.1,71.0,-75.0,-75.0,-80.0,80.0,85.0,71.0,85.0,156.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 87,BAILLY Emma,86.4,-65.0,-65.0,-65.0,80.0,84.0,-87.0,0.0,84.0,0.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 59,SCICCHITANO Emma,58.6,-68.0,68.0,-70.0,85.0,87.0,-90.0,68.0,87.0,155.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 59,JOUGLA Amelie,58.2,58.0,61.0,63.0,74.0,77.0,79.0,63.0,79.0,142.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 71,SEVERIN Alina,70.9,-58.0,58.0,-64.0,78.0,-83.0,-85.0,58.0,78.0,136.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 76,TABARIES Camille,75.1,-73.0,73.0,76.0,95.0,100.0,-105.0,76.0,100.0,176.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 76,MEVEL Hinanui,75.1,71.0,-75.0,-75.0,-80.0,80.0,85.0,71.0,85.0,156.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 87,BAILLY Emma,86.4,-65.0,-65.0,-65.0,80.0,84.0,-87.0,0.0,84.0,0.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U20 Women 59,MATEOS Carla,58.31,63.0,-66.0,-68.0,72.0,76.0,-79.0,63.0,76.0,139.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U20 Women 71,JABOULAY Sophie,70.3,70.0,74.0,78.0,-90.0,91.0,-93.0,78.0,91.0,169.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U20 Women 71,SEGOND Oriane,70.7,66.0,-69.0,69.0,72.0,76.0,-80.0,69.0,76.0,145.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U20 Women 71,EAST Pia,69.05,-47.0,48.0,51.0,63.0,66.0,69.0,51.0,69.0,120.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U20 Women >87,RIGUERA Chloe,91.3,60.0,64.0,66.0,-79.0,79.0,84.0,66.0,84.0,150.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 45,PEETERS Emilie,44.9,-52.0,52.0,-55.0,-65.0,65.0,68.0,52.0,68.0,120.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 45,CHEDED Julie,44.8,48.0,-50.0,-52.0,58.0,-61.0,-63.0,48.0,58.0,106.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 49,GENTON Matilda,48.8,50.0,53.0,-55.0,60.0,-63.0,63.0,53.0,63.0,116.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 49,BON Maxence,48.6,43.0,-45.0,45.0,50.0,53.0,55.0,45.0,55.0,100.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 55,ROBERT Clementine,52.7,45.0,48.0,-51.0,57.0,-60.0,62.0,48.0,62.0,110.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 55,BANI LOMBARD Alexane,53.8,45.0,48.0,-50.0,55.0,-59.0,-61.0,48.0,55.0,103.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 55,GEFFROY Lisa,54.2,50.0,-53.0,-53.0,-60.0,-62.0,-62.0,50.0,0.0,0.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 64,MOTAIS DENARBONNE Emilie,63.05,70.0,-73.0,-75.0,85.0,88.0,90.0,70.0,90.0,160.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 64,SANCI Solenza,63.9,63.0,66.0,69.0,82.0,-86.0,-88.0,69.0,82.0,151.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 64,DUBOIS Marion,62.8,-64.0,64.0,-68.0,-83.0,83.0,-86.0,64.0,83.0,147.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 64,TRAN Christine,63.3,50.0,-55.0,55.0,65.0,68.0,72.0,55.0,72.0,127.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 71,COLLADO Noa,66.1,68.0,72.0,-74.0,80.0,85.0,-90.0,72.0,85.0,157.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U20 Women 59,MATEOS Carla,58.31,63.0,-66.0,-68.0,72.0,76.0,-79.0,63.0,76.0,139.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U20 Women 71,JABOULAY Sophie,70.3,70.0,74.0,78.0,-90.0,91.0,-93.0,78.0,91.0,169.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U20 Women 71,SEGOND Oriane,70.7,66.0,-69.0,69.0,72.0,76.0,-80.0,69.0,76.0,145.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U20 Women 71,EAST Pia,69.05,-47.0,48.0,51.0,63.0,66.0,69.0,51.0,69.0,120.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,U20 Women >87,RIGUERA Chloe,91.3,60.0,64.0,66.0,-79.0,79.0,84.0,66.0,84.0,150.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 45,PEETERS Emilie,44.9,-52.0,52.0,-55.0,-65.0,65.0,68.0,52.0,68.0,120.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 45,CHEDED Julie,44.8,48.0,-50.0,-52.0,58.0,-61.0,-63.0,48.0,58.0,106.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 49,GENTON Matilda,48.8,50.0,53.0,-55.0,60.0,-63.0,63.0,53.0,63.0,116.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 49,BON Maxence,48.6,43.0,-45.0,45.0,50.0,53.0,55.0,45.0,55.0,100.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 55,ROBERT Clementine,52.7,45.0,48.0,-51.0,57.0,-60.0,62.0,48.0,62.0,110.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 55,BANI LOMBARD Alexane,53.8,45.0,48.0,-50.0,55.0,-59.0,-61.0,48.0,55.0,103.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 55,GEFFROY Lisa,54.2,50.0,-53.0,-53.0,-60.0,-62.0,-62.0,50.0,0.0,0.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 64,MOTAIS DENARBONNE Emilie,63.05,70.0,-73.0,-75.0,85.0,88.0,90.0,70.0,90.0,160.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 64,SANCI Solenza,63.9,63.0,66.0,69.0,82.0,-86.0,-88.0,69.0,82.0,151.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 64,DUBOIS Marion,62.8,-64.0,64.0,-68.0,-83.0,83.0,-86.0,64.0,83.0,147.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 64,TRAN Christine,63.3,50.0,-55.0,55.0,65.0,68.0,72.0,55.0,72.0,127.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 71,COLLADO Noa,66.1,68.0,72.0,-74.0,80.0,85.0,-90.0,72.0,85.0,157.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 59,MOUNIER Camille,58.8,67.0,70.0,-72.0,85.0,-90.0,-90.0,70.0,85.0,155.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 59,MAROUI Salma,59.0,52.0,-55.0,55.0,78.0,-82.0,-82.0,55.0,78.0,133.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 59,BARBIER Clarisse,58.3,52.0,56.0,-61.0,68.0,74.0,-77.0,56.0,74.0,130.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 59,GRESET Elodie,59.0,47.0,50.0,-52.0,65.0,-69.0,69.0,50.0,69.0,119.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 59,VATINEL Anais,56.9,48.0,-51.0,-51.0,61.0,64.0,-67.0,48.0,64.0,112.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 64,AIGLE Elena,60.5,72.0,75.0,77.0,93.0,97.0,-100.0,77.0,97.0,174.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 64,COUDERT Flore,62.6,70.0,72.0,-74.0,-90.0,90.0,-93.0,72.0,90.0,162.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 64,LACROIX Evelyne,62.8,67.0,-71.0,-73.0,82.0,-86.0,-86.0,67.0,82.0,149.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 64,ARMSTRONG Victoria,63.6,66.0,-69.0,-70.0,-81.0,82.0,-86.0,66.0,82.0,148.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 64,D ABOVILLE Margaux,63.4,50.0,-53.0,53.0,68.0,-72.0,-72.0,53.0,68.0,121.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 64,GOMEZ Charlène,60.0,50.0,53.0,55.0,62.0,-66.0,-66.0,55.0,62.0,117.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 59,MOUNIER Camille,58.8,67.0,70.0,-72.0,85.0,-90.0,-90.0,70.0,85.0,155.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 59,MAROUI Salma,59.0,52.0,-55.0,55.0,78.0,-82.0,-82.0,55.0,78.0,133.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 59,BARBIER Clarisse,58.3,52.0,56.0,-61.0,68.0,74.0,-77.0,56.0,74.0,130.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 59,GRESET Elodie,59.0,47.0,50.0,-52.0,65.0,-69.0,69.0,50.0,69.0,119.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 59,VATINEL Anais,56.9,48.0,-51.0,-51.0,61.0,64.0,-67.0,48.0,64.0,112.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 64,AIGLE Elena,60.5,72.0,75.0,77.0,93.0,97.0,-100.0,77.0,97.0,174.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 64,COUDERT Flore,62.6,70.0,72.0,-74.0,-90.0,90.0,-93.0,72.0,90.0,162.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 64,LACROIX Evelyne,62.8,67.0,-71.0,-73.0,82.0,-86.0,-86.0,67.0,82.0,149.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 64,ARMSTRONG Victoria,63.6,66.0,-69.0,-70.0,-81.0,82.0,-86.0,66.0,82.0,148.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 64,D ABOVILLE Margaux,63.4,50.0,-53.0,53.0,68.0,-72.0,-72.0,53.0,68.0,121.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 64,GOMEZ Charlène,60.0,50.0,53.0,55.0,62.0,-66.0,-66.0,55.0,62.0,117.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 71,MANTAROPOULOS Marie,70.4,85.0,89.0,-93.0,105.0,-110.0,111.0,89.0,111.0,200.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 71,SAINT AIME Sarah,64.9,77.0,80.0,82.0,95.0,100.0,102.0,82.0,102.0,184.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 71,COSSUTTA Lou,70.6,73.0,-77.0,77.0,95.0,100.0,-105.0,77.0,100.0,177.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 71,RECH Charline,68.4,-70.0,70.0,-73.0,-89.0,-89.0,89.0,70.0,89.0,159.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 71,MOUDIN Marion,69.1,-69.0,-69.0,69.0,-85.0,85.0,-88.0,69.0,85.0,154.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 71,COMBELLES Laetitia,67.8,67.0,-70.0,-70.0,80.0,-85.0,85.0,67.0,85.0,152.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 76,GUILLOT Clara,74.1,-71.0,71.0,-77.0,84.0,90.0,-95.0,71.0,90.0,161.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 76,LAPORTE Diane,75.4,70.0,75.0,-80.0,85.0,-90.0,-90.0,75.0,85.0,160.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 76,CHASSIGNOLE Cassandre,71.6,-67.0,67.0,-70.0,84.0,88.0,-91.0,67.0,88.0,155.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 87,DRUT Lea,85.7,-65.0,65.0,-70.0,80.0,-85.0,85.0,65.0,85.0,150.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 71,MANTAROPOULOS Marie,70.4,85.0,89.0,-93.0,105.0,-110.0,111.0,89.0,111.0,200.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 71,SAINT AIME Sarah,64.9,77.0,80.0,82.0,95.0,100.0,102.0,82.0,102.0,184.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 71,COSSUTTA Lou,70.6,73.0,-77.0,77.0,95.0,100.0,-105.0,77.0,100.0,177.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 71,RECH Charline,68.4,-70.0,70.0,-73.0,-89.0,-89.0,89.0,70.0,89.0,159.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 71,MOUDIN Marion,69.1,-69.0,-69.0,69.0,-85.0,85.0,-88.0,69.0,85.0,154.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 71,COMBELLES Laetitia,67.8,67.0,-70.0,-70.0,80.0,-85.0,85.0,67.0,85.0,152.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 76,GUILLOT Clara,74.1,-71.0,71.0,-77.0,84.0,90.0,-95.0,71.0,90.0,161.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 76,LAPORTE Diane,75.4,70.0,75.0,-80.0,85.0,-90.0,-90.0,75.0,85.0,160.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 76,CHASSIGNOLE Cassandre,71.6,-67.0,67.0,-70.0,84.0,88.0,-91.0,67.0,88.0,155.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Women 87,DRUT Lea,85.7,-65.0,65.0,-70.0,80.0,-85.0,85.0,65.0,85.0,150.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 67,APRAHAMIAN Antranig,66.6,110.0,113.0,116.0,124.0,135.0,-140.0,116.0,135.0,251.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 67,PORTAFAIX Maxime,66.0,88.0,92.0,-98.0,108.0,-113.0,-115.0,92.0,108.0,200.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 73,DOMINGUEZ Gaetan,72.5,120.0,125.0,-130.0,140.0,148.0,-152.0,125.0,148.0,273.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 73,BLANCHARD Tom,72.1,93.0,98.0,-100.0,-120.0,-120.0,120.0,98.0,120.0,218.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 81,DUDOGNON Arthur,77.8,110.0,115.0,-120.0,135.0,-140.0,-140.0,115.0,135.0,250.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 81,MECHELAERE Simon,81.0,105.0,-110.0,-110.0,-145.0,145.0,-150.0,105.0,145.0,250.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 81,SENECLAUZE Merlin,79.9,-96.0,-96.0,-96.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 89,RAMBELO MANGA Alexandre lala,87.1,-120.0,-120.0,120.0,140.0,-155.0,-160.0,120.0,140.0,260.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 89,VINUESA Kevin,88.9,100.0,106.0,-110.0,125.0,132.0,-140.0,106.0,132.0,238.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 102,LAROIX Anthony,101.8,131.0,135.0,138.0,158.0,164.0,-0.0,138.0,164.0,302.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 102,DAWID Joris,101.7,-110.0,-111.0,111.0,135.0,-141.0,-145.0,111.0,135.0,246.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 67,APRAHAMIAN Antranig,66.6,110.0,113.0,116.0,124.0,135.0,-140.0,116.0,135.0,251.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 67,PORTAFAIX Maxime,66.0,88.0,92.0,-98.0,108.0,-113.0,-115.0,92.0,108.0,200.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 73,DOMINGUEZ Gaetan,72.5,120.0,125.0,-130.0,140.0,148.0,-152.0,125.0,148.0,273.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 73,BLANCHARD Tom,72.1,93.0,98.0,-100.0,-120.0,-120.0,120.0,98.0,120.0,218.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 81,DUDOGNON Arthur,77.8,110.0,115.0,-120.0,135.0,-140.0,-140.0,115.0,135.0,250.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 81,MECHELAERE Simon,81.0,105.0,-110.0,-110.0,-145.0,145.0,-150.0,105.0,145.0,250.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 81,SENECLAUZE Merlin,79.9,-96.0,-96.0,-96.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 89,RAMBELO MANGA Alexandre lala,87.1,-120.0,-120.0,120.0,140.0,-155.0,-160.0,120.0,140.0,260.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 89,VINUESA Kevin,88.9,100.0,106.0,-110.0,125.0,132.0,-140.0,106.0,132.0,238.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 102,LAROIX Anthony,101.8,131.0,135.0,138.0,158.0,164.0,-0.0,138.0,164.0,302.0
+OCC - Critérium National - Montauban - U15F+U17F+U20F+SENF Plateau 5,2024-01-14,SEN Men 102,DAWID Joris,101.7,-110.0,-111.0,111.0,135.0,-141.0,-145.0,111.0,135.0,246.0

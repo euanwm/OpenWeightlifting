@@ -1,6 +1,46 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-NAQ - Chal Avenir 1 Masculins implantation Poitou-Charentes,2020-10-12,U15 Men 55,BREGEAT Batiste,52.7,20.0,24.0,27.0,28.0,32.0,35.0,27.0,35.0,62.0
-NAQ - Chal Avenir 1 Masculins implantation Poitou-Charentes,2020-10-12,U20 Men 73,DASSONVILLE Nolan,72.3,30.0,35.0,40.0,50.0,-55.0,55.0,40.0,55.0,95.0
-NAQ - Chal Avenir 1 Masculins implantation Poitou-Charentes,2020-10-12,SEN Men 67,BARDEL Thibaut,64.3,75.0,80.0,-85.0,95.0,-100.0,-100.0,80.0,95.0,175.0
-NAQ - Chal Avenir 1 Masculins implantation Poitou-Charentes,2020-10-12,SEN Men 96,BOULANGER Vincent,94.7,82.0,-86.0,-86.0,108.0,118.0,-128.0,82.0,118.0,200.0
-NAQ - Chal Avenir 1 Masculins implantation Poitou-Charentes,2020-10-12,SEN Men 96,CHEVILLOT Emmanuel,95.2,80.0,-83.0,83.0,105.0,110.0,-113.0,83.0,110.0,193.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,U10 Women ,DELOUVÉE Sarah,32.5,9.0,11.0,12.0,12.0,14.0,16.0,12.0,16.0,28.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,U10 Women ,DELOUVÉE Alix,27.3,9.0,11.0,12.0,12.0,14.0,-16.0,12.0,14.0,26.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,U10 Women ,LE ROUSSEAU Lexie,32.5,10.0,-12.0,12.0,12.0,14.0,-16.0,12.0,14.0,26.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,U10 Women ,BALCON Inès,29.9,8.0,10.0,-12.0,10.0,12.0,-13.0,10.0,12.0,22.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,U13 Women 40,RANELY VERGÉ DEPRÉ Luna,38.7,12.0,14.0,16.0,17.0,-19.0,19.0,16.0,19.0,35.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,U13 Women 55,DELOUVÉE Chloé,51.0,20.0,22.0,-24.0,25.0,27.0,29.0,22.0,29.0,51.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,U13 Women 59,LE ROUSSEAU Lili,57.3,28.0,30.0,-32.0,37.0,39.0,-41.0,30.0,39.0,69.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,U13 Women 64,VIVET Lola,60.7,18.0,20.0,22.0,25.0,27.0,29.0,22.0,29.0,51.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,U13 Men 45,BADZAGUA Andro,41.0,24.0,26.0,-28.0,29.0,31.0,33.0,26.0,33.0,59.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,U17 Women 55,RICHIR Chloe,54.4,10.0,12.0,14.0,15.0,17.0,20.0,14.0,20.0,34.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,U17 Women 71,FERTE Tifenn,64.3,25.0,27.0,29.0,28.0,30.0,32.0,29.0,32.0,61.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,U20 Women 71,LENOUVEL Zoé,65.25,-38.0,38.0,41.0,45.0,48.0,-51.0,41.0,48.0,89.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,SEN Women 71,RIVOALAN Sterenn,69.0,30.0,33.0,-36.0,37.0,40.0,44.0,33.0,44.0,77.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,SEN Women >87,JORDAN Emilie,90.55,50.0,52.0,54.0,60.0,63.0,-65.0,54.0,63.0,117.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,U17 Women 55,RICHIR Chloe,54.4,10.0,12.0,14.0,15.0,17.0,20.0,14.0,20.0,34.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,U17 Women 71,FERTE Tifenn,64.3,25.0,27.0,29.0,28.0,30.0,32.0,29.0,32.0,61.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,U20 Women 71,LENOUVEL Zoé,65.25,-38.0,38.0,41.0,45.0,48.0,-51.0,41.0,48.0,89.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,SEN Women 71,RIVOALAN Sterenn,69.0,30.0,33.0,-36.0,37.0,40.0,44.0,33.0,44.0,77.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,SEN Women >87,JORDAN Emilie,90.55,50.0,52.0,54.0,60.0,63.0,-65.0,54.0,63.0,117.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,SEN Men 73,AUDOUX Flavien,70.7,-65.0,68.0,72.0,85.0,90.0,95.0,72.0,95.0,167.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,SEN Men 73,FROUIN Jean-christophe,70.8,47.0,51.0,55.0,70.0,75.0,80.0,55.0,80.0,135.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,SEN Men 73,TOUPET Jean noël - rené,70.8,45.0,-48.0,49.0,55.0,57.0,60.0,49.0,60.0,109.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,SEN Men 89,BAURAIN Rudy,88.8,85.0,90.0,95.0,95.0,100.0,105.0,95.0,105.0,200.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,SEN Men 89,GOBIN Benjamin,87.2,83.0,85.0,88.0,100.0,-105.0,-112.0,88.0,100.0,188.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,SEN Men 96,JARNO Franck,95.2,62.0,66.0,69.0,-75.0,77.0,82.0,69.0,82.0,151.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,SEN Men >109,SAILOFA Abimaël,140.3,82.0,87.0,90.0,100.0,107.0,115.0,90.0,115.0,205.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,SEN Men 73,AUDOUX Flavien,70.7,-65.0,68.0,72.0,85.0,90.0,95.0,72.0,95.0,167.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,SEN Men 73,FROUIN Jean-christophe,70.8,47.0,51.0,55.0,70.0,75.0,80.0,55.0,80.0,135.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,SEN Men 73,TOUPET Jean noël - rené,70.8,45.0,-48.0,49.0,55.0,57.0,60.0,49.0,60.0,109.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,SEN Men 89,BAURAIN Rudy,88.8,85.0,90.0,95.0,95.0,100.0,105.0,95.0,105.0,200.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,SEN Men 89,GOBIN Benjamin,87.2,83.0,85.0,88.0,100.0,-105.0,-112.0,88.0,100.0,188.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,SEN Men 96,JARNO Franck,95.2,62.0,66.0,69.0,-75.0,77.0,82.0,69.0,82.0,151.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,SEN Men >109,SAILOFA Abimaël,140.3,82.0,87.0,90.0,100.0,107.0,115.0,90.0,115.0,205.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,U15 Men 49,BADZAGUA Sandro,45.5,31.0,33.0,36.0,38.0,40.0,43.0,36.0,43.0,79.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,U17 Men 67,MBIDA Wyatt,65.5,-35.0,-35.0,35.0,45.0,-47.0,-47.0,35.0,45.0,80.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,SEN Men 67,ÖNCÜ Mikail,64.6,55.0,59.0,62.0,-71.0,-71.0,71.0,62.0,71.0,133.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,SEN Men 81,NICOLAS Alexandre,79.9,78.0,82.0,87.0,115.0,120.0,126.0,87.0,126.0,213.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,SEN Men 96,LE GALL Hervé,95.8,60.0,68.0,71.0,72.0,82.0,86.0,71.0,86.0,157.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,SEN Men 96,GODEC Hakim,94.3,60.0,70.0,-80.0,70.0,80.0,-90.0,70.0,80.0,150.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,U15 Men 49,BADZAGUA Sandro,45.5,31.0,33.0,36.0,38.0,40.0,43.0,36.0,43.0,79.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,U17 Men 67,MBIDA Wyatt,65.5,-35.0,-35.0,35.0,45.0,-47.0,-47.0,35.0,45.0,80.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,SEN Men 67,ÖNCÜ Mikail,64.6,55.0,59.0,62.0,-71.0,-71.0,71.0,62.0,71.0,133.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,SEN Men 81,NICOLAS Alexandre,79.9,78.0,82.0,87.0,115.0,120.0,126.0,87.0,126.0,213.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,SEN Men 96,LE GALL Hervé,95.8,60.0,68.0,71.0,72.0,82.0,86.0,71.0,86.0,157.0
+BRE - Challenge Avenir 3 - Rennes,2022-03-06,SEN Men 96,GODEC Hakim,94.3,60.0,70.0,-80.0,70.0,80.0,-90.0,70.0,80.0,150.0

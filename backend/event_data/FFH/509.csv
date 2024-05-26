@@ -1,12 +1,80 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-GE - REG 2M - RHM2 - SRO2,2020-10-10,U17 Men 73,LAMY Yannick,69.2,68.0,71.0,75.0,90.0,95.0,-100.0,75.0,95.0,170.0
-GE - REG 2M - RHM2 - SRO2,2020-10-10,U20 Men 61,SCHMITT Jules,56.5,60.0,64.0,67.0,80.0,83.0,-86.0,67.0,83.0,150.0
-GE - REG 2M - RHM2 - SRO2,2020-10-10,U20 Men 81,CECERE Thomas,74.6,77.0,82.0,87.0,-100.0,-100.0,100.0,87.0,100.0,187.0
-GE - REG 2M - RHM2 - SRO2,2020-10-10,SEN Men 81,SANCHEZ Corentin,74.7,90.0,95.0,-100.0,120.0,125.0,-128.0,95.0,125.0,220.0
-GE - REG 2M - RHM2 - SRO2,2020-10-10,SEN Men 81,BRUNET Quentin,74.4,65.0,-70.0,70.0,80.0,85.0,90.0,70.0,90.0,160.0
-GE - REG 2M - RHM2 - SRO2,2020-10-10,SEN Men 89,VERLIAC Julien,85.1,95.0,100.0,105.0,120.0,-125.0,-128.0,105.0,120.0,225.0
-GE - REG 2M - RHM2 - SRO2,2020-10-10,SEN Men 89,BIRRY Xavier,84.5,85.0,-90.0,92.0,100.0,108.0,-115.0,92.0,108.0,200.0
-GE - REG 2M - RHM2 - SRO2,2020-10-10,SEN Men 96,SOUBROUILLARD Louis,89.5,80.0,85.0,90.0,114.0,120.0,125.0,90.0,125.0,215.0
-GE - REG 2M - RHM2 - SRO2,2020-10-10,SEN Men 96,KREUTZER Florian,89.1,90.0,-95.0,95.0,110.0,115.0,-120.0,95.0,115.0,210.0
-GE - REG 2M - RHM2 - SRO2,2020-10-10,SEN Men 102,BAECHLER David,102.0,105.0,110.0,115.0,130.0,-135.0,140.0,115.0,140.0,255.0
-GE - REG 2M - RHM2 - SRO2,2020-10-10,SEN Men 109,JEHL Arnaud,107.0,90.0,95.0,100.0,105.0,110.0,115.0,100.0,115.0,215.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U13 Men 61,TRINQUETEL Mattenzo,55.45,28.0,30.0,32.0,-36.0,36.0,38.0,32.0,38.0,70.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U13 Men 73,BERNARDIN Heydan,67.2,32.0,34.0,36.0,48.0,50.0,52.0,36.0,52.0,88.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U13 Women 45,ROCHETTE Laencelle,41.1,18.0,20.0,22.0,-26.0,26.0,28.0,22.0,28.0,50.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U13 Women 45,JEANNOT Angèle,41.1,12.0,14.0,16.0,-18.0,18.0,20.0,16.0,20.0,36.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U13 Women 49,GAGNARD Lara,47.9,22.0,24.0,26.0,-32.0,-32.0,-32.0,26.0,0.0,0.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U13 Women 55,DELMAS Blandine,53.8,20.0,22.0,-24.0,28.0,30.0,32.0,22.0,32.0,54.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U13 Women 55,VINCENT Lili rose,54.7,20.0,22.0,-24.0,-28.0,-28.0,28.0,22.0,28.0,50.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U15 Women 45,BAUDRY Ziane,41.0,15.0,-17.0,-17.0,18.0,19.0,20.0,15.0,20.0,35.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U15 Women 55,COUTELOU Marion,51.0,17.0,19.0,21.0,21.0,23.0,25.0,21.0,25.0,46.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U15 Women 59,VAN STRAATEN Clara,58.35,33.0,35.0,-37.0,43.0,45.0,47.0,35.0,47.0,82.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U15 Women 81,PINCHARD Elisa,77.55,20.0,22.0,23.0,27.0,-29.0,29.0,23.0,29.0,52.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U15 Women 45,BAUDRY Ziane,41.0,15.0,-17.0,-17.0,18.0,19.0,20.0,15.0,20.0,35.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U15 Women 55,COUTELOU Marion,51.0,17.0,19.0,21.0,21.0,23.0,25.0,21.0,25.0,46.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U15 Women 59,VAN STRAATEN Clara,58.35,33.0,35.0,-37.0,43.0,45.0,47.0,35.0,47.0,82.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U15 Women 81,PINCHARD Elisa,77.55,20.0,22.0,23.0,27.0,-29.0,29.0,23.0,29.0,52.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U17 Women 55,PIETROSANTE Camille,52.3,27.0,30.0,33.0,32.0,36.0,40.0,33.0,40.0,73.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U17 Women 55,BRESSON Judith,52.5,25.0,-28.0,-30.0,30.0,33.0,35.0,25.0,35.0,60.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U17 Women 76,BOLORE Amandine,74.9,23.0,-27.0,-29.0,30.0,33.0,-37.0,23.0,33.0,56.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U20 Women 49,GREINER Marie,45.1,18.0,20.0,22.0,25.0,28.0,30.0,22.0,30.0,52.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U20 Women 49,MAUFFREY Chloe,47.85,17.0,19.0,-20.0,23.0,26.0,-29.0,19.0,26.0,45.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U20 Women 59,PIETROSANTE Cassandra,58.6,47.0,-53.0,53.0,65.0,-70.0,-75.0,53.0,65.0,118.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U17 Women 55,PIETROSANTE Camille,52.3,27.0,30.0,33.0,32.0,36.0,40.0,33.0,40.0,73.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U17 Women 55,BRESSON Judith,52.5,25.0,-28.0,-30.0,30.0,33.0,35.0,25.0,35.0,60.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U17 Women 76,BOLORE Amandine,74.9,23.0,-27.0,-29.0,30.0,33.0,-37.0,23.0,33.0,56.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U20 Women 49,GREINER Marie,45.1,18.0,20.0,22.0,25.0,28.0,30.0,22.0,30.0,52.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U20 Women 49,MAUFFREY Chloe,47.85,17.0,19.0,-20.0,23.0,26.0,-29.0,19.0,26.0,45.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U20 Women 59,PIETROSANTE Cassandra,58.6,47.0,-53.0,53.0,65.0,-70.0,-75.0,53.0,65.0,118.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U17 Women 55,MATEOS Carla,53.9,47.0,50.0,-52.0,55.0,58.0,60.0,50.0,60.0,110.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U20 Women 71,SEGOND Oriane,65.4,55.0,-57.0,57.0,-65.0,65.0,-68.0,57.0,65.0,122.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U17 Women 55,MATEOS Carla,53.9,47.0,50.0,-52.0,55.0,58.0,60.0,50.0,60.0,110.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U20 Women 71,SEGOND Oriane,65.4,55.0,-57.0,57.0,-65.0,65.0,-68.0,57.0,65.0,122.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U15 Women 64,HESLOIN Constance,61.0,-26.0,26.0,-28.0,40.0,42.0,44.0,26.0,44.0,70.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U15 Women 64,HESLOIN Constance,61.0,-26.0,26.0,-28.0,40.0,42.0,44.0,26.0,44.0,70.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U20 Women 64,PROKOPOWICZ Camille,59.3,37.0,40.0,-42.0,50.0,53.0,57.0,40.0,57.0,97.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U20 Women 64,PROKOPOWICZ Camille,59.3,37.0,40.0,-42.0,50.0,53.0,57.0,40.0,57.0,97.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U15 Men 49,PANCHOUT Theo,43.75,16.0,-17.0,17.0,20.0,21.0,22.0,17.0,22.0,39.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U15 Men 61,LUGINBUHL Florentin,55.55,-25.0,25.0,26.0,37.0,39.0,41.0,26.0,41.0,67.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U15 Men 61,SAINT JEAN David,58.7,-25.0,25.0,26.0,-37.0,37.0,39.0,26.0,39.0,65.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U17 Men 81,COTTE-GAUDIN Simon,79.1,87.0,93.0,100.0,110.0,118.0,125.0,100.0,125.0,225.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U20 Men 81,GODARD Tanguy,75.6,75.0,83.0,90.0,90.0,100.0,-105.0,90.0,100.0,190.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U20 Men 89,HEAFALA Jonah,87.4,100.0,-108.0,-113.0,125.0,130.0,-135.0,100.0,130.0,230.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U15 Men 49,PANCHOUT Theo,43.75,16.0,-17.0,17.0,20.0,21.0,22.0,17.0,22.0,39.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U15 Men 61,LUGINBUHL Florentin,55.55,-25.0,25.0,26.0,37.0,39.0,41.0,26.0,41.0,67.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U15 Men 61,SAINT JEAN David,58.7,-25.0,25.0,26.0,-37.0,37.0,39.0,26.0,39.0,65.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U17 Men 81,COTTE-GAUDIN Simon,79.1,87.0,93.0,100.0,110.0,118.0,125.0,100.0,125.0,225.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U20 Men 81,GODARD Tanguy,75.6,75.0,83.0,90.0,90.0,100.0,-105.0,90.0,100.0,190.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U20 Men 89,HEAFALA Jonah,87.4,100.0,-108.0,-113.0,125.0,130.0,-135.0,100.0,130.0,230.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U15 Men 61,FOUREAU Lucas,55.95,36.0,38.0,40.0,48.0,50.0,52.0,40.0,52.0,92.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U15 Men 67,BOUILLOT Noah,66.3,28.0,30.0,32.0,36.0,38.0,40.0,32.0,40.0,72.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U15 Men 73,CHEVALIER Timothée,70.9,44.0,46.0,48.0,56.0,58.0,60.0,48.0,60.0,108.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U17 Men 55,BRUEZIERES Bastien,53.4,27.0,31.0,-35.0,-40.0,-40.0,40.0,31.0,40.0,71.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U17 Men 55,SIMARD--FERNANDES Mathis,52.35,27.0,-31.0,-31.0,-40.0,40.0,-46.0,27.0,40.0,67.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U15 Men 61,FOUREAU Lucas,55.95,36.0,38.0,40.0,48.0,50.0,52.0,40.0,52.0,92.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U15 Men 67,BOUILLOT Noah,66.3,28.0,30.0,32.0,36.0,38.0,40.0,32.0,40.0,72.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U15 Men 73,CHEVALIER Timothée,70.9,44.0,46.0,48.0,56.0,58.0,60.0,48.0,60.0,108.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U17 Men 55,BRUEZIERES Bastien,53.4,27.0,31.0,-35.0,-40.0,-40.0,40.0,31.0,40.0,71.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U17 Men 55,SIMARD--FERNANDES Mathis,52.35,27.0,-31.0,-31.0,-40.0,40.0,-46.0,27.0,40.0,67.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U17 Men 73,PEIGNE Titouan,69.19,37.0,41.0,43.0,42.0,45.0,48.0,43.0,48.0,91.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U17 Men 73,DAGUER Gael,68.35,35.0,39.0,-41.0,45.0,50.0,-53.0,39.0,50.0,89.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U17 Men 81,BAUDRY Antoine,74.1,40.0,44.0,46.0,58.0,62.0,-65.0,46.0,62.0,108.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U20 Men 67,DANCIN Anthony,61.5,32.0,-35.0,35.0,38.0,42.0,45.0,35.0,45.0,80.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U17 Men 73,PEIGNE Titouan,69.19,37.0,41.0,43.0,42.0,45.0,48.0,43.0,48.0,91.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U17 Men 73,DAGUER Gael,68.35,35.0,39.0,-41.0,45.0,50.0,-53.0,39.0,50.0,89.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U17 Men 81,BAUDRY Antoine,74.1,40.0,44.0,46.0,58.0,62.0,-65.0,46.0,62.0,108.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U20 Men 67,DANCIN Anthony,61.5,32.0,-35.0,35.0,38.0,42.0,45.0,35.0,45.0,80.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U17 Men 67,CAPON Natan,65.35,50.0,54.0,-56.0,60.0,63.0,66.0,54.0,66.0,120.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U17 Men 67,GAY Milan,65.85,42.0,45.0,47.0,53.0,56.0,60.0,47.0,60.0,107.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U17 Men 73,LE DISSEZ Rayan,72.45,45.0,48.0,51.0,61.0,-65.0,67.0,51.0,67.0,118.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U17 Men 73,GUIRA-CARGNELUTTI Liam,69.7,46.0,49.0,-51.0,58.0,61.0,63.0,49.0,63.0,112.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U17 Men 81,QUERE Baptiste,78.75,47.0,50.0,54.0,58.0,62.0,66.0,54.0,66.0,120.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U17 Men 67,CAPON Natan,65.35,50.0,54.0,-56.0,60.0,63.0,66.0,54.0,66.0,120.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U17 Men 67,GAY Milan,65.85,42.0,45.0,47.0,53.0,56.0,60.0,47.0,60.0,107.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U17 Men 73,LE DISSEZ Rayan,72.45,45.0,48.0,51.0,61.0,-65.0,67.0,51.0,67.0,118.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U17 Men 73,GUIRA-CARGNELUTTI Liam,69.7,46.0,49.0,-51.0,58.0,61.0,63.0,49.0,63.0,112.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U17 Men 81,QUERE Baptiste,78.75,47.0,50.0,54.0,58.0,62.0,66.0,54.0,66.0,120.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U20 Men 89,MONNET Liliam,81.45,65.0,-68.0,-68.0,86.0,91.0,-100.0,65.0,91.0,156.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U20 Men 89,MONNET Liliam,81.45,65.0,-68.0,-68.0,86.0,91.0,-100.0,65.0,91.0,156.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U17 Women 49,PHAM Lee na,48.5,-37.0,-37.0,37.0,40.0,50.0,-55.0,37.0,50.0,87.0
+BFC - autre - Autun - Chpt de France UNSS,2022-04-07,U17 Women 49,PHAM Lee na,48.5,-37.0,-37.0,37.0,40.0,50.0,-55.0,37.0,50.0,87.0

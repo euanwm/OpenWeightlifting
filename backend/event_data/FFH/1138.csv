@@ -1,8 +1,232 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-REU - Championnat Regional Par Equipes,2021-07-10,U17 Women 49,MOTAIS DE NARBONNE Raphaëlle,47.6,41.0,-44.0,-45.0,52.0,56.0,-60.0,41.0,56.0,97.0
-REU - Championnat Regional Par Equipes,2021-07-10,U17 Women 49,MOULS Pryanka,45.4,-27.0,27.0,-35.0,-35.0,35.0,40.0,27.0,40.0,67.0
-REU - Championnat Regional Par Equipes,2021-07-10,U17 Women 59,DIOT Léna,56.0,-36.0,36.0,40.0,45.0,50.0,-55.0,40.0,50.0,90.0
-REU - Championnat Regional Par Equipes,2021-07-10,SEN Women 55,CADET Elodie,52.6,40.0,43.0,-46.0,50.0,-53.0,-53.0,43.0,50.0,93.0
-REU - Championnat Regional Par Equipes,2021-07-10,SEN Women 59,DE COCK Alexandra,58.5,45.0,48.0,-51.0,53.0,58.0,-61.0,48.0,58.0,106.0
-REU - Championnat Regional Par Equipes,2021-07-10,SEN Women 59,DELERUYELLE Juliette,57.4,-35.0,-35.0,35.0,48.0,51.0,53.0,35.0,53.0,88.0
-REU - Championnat Regional Par Equipes,2021-07-10,SEN Women 64,MANTEAU Clémence,64.0,52.0,55.0,58.0,65.0,70.0,72.0,58.0,72.0,130.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U15 Men 61,MBENGA HARDOROCK Kylian emmanuel,56.2,39.0,42.0,45.0,53.0,57.0,-60.0,45.0,57.0,102.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U15 Men 61,BRAUN-KILMETIS Sascha,58.1,27.0,-30.0,-30.0,32.0,35.0,38.0,27.0,38.0,65.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U15 Men 61,MONTANUY Loick,57.1,25.0,-28.0,28.0,32.0,-35.0,35.0,28.0,35.0,63.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U15 Men 81,AIT CHALALET Samy,79.3,36.0,38.0,40.0,38.0,42.0,47.0,40.0,47.0,87.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Men 73,CHIVÉ Lilian,72.8,-62.0,-62.0,62.0,73.0,76.0,78.0,62.0,78.0,140.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Men 81,CASSOBIE Mathys,77.5,70.0,74.0,76.0,84.0,-88.0,-88.0,76.0,84.0,160.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Men 81,LECOMTE Louis,76.7,47.0,-49.0,50.0,56.0,58.0,-61.0,50.0,58.0,108.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Men 96,ROLLAND Jérémie,90.8,45.0,47.0,50.0,56.0,58.0,61.0,50.0,61.0,111.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Men 61,VASSEUR Remy,57.2,41.0,45.0,47.0,50.0,53.0,56.0,47.0,56.0,103.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 55,SANTOS FERNANDES Christelle,53.4,25.0,-29.0,31.0,35.0,-40.0,-42.0,31.0,35.0,66.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 59,DUCHENNE ALLARD Alexya,57.4,27.0,30.0,-35.0,37.0,40.0,-43.0,30.0,40.0,70.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 64,POMERET Clemence,63.1,40.0,43.0,45.0,52.0,55.0,57.0,45.0,57.0,102.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 64,PENCOLE Yael,61.1,40.0,43.0,-46.0,52.0,-55.0,-55.0,43.0,52.0,95.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 71,SANTOS Anais,71.0,25.0,28.0,31.0,39.0,43.0,46.0,31.0,46.0,77.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women >81,BAUDOUIN Marjane,91.0,37.0,40.0,42.0,-50.0,50.0,53.0,42.0,53.0,95.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 55,SANTOS FERNANDES Christelle,53.4,25.0,-29.0,31.0,35.0,-40.0,-42.0,31.0,35.0,66.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 59,DUCHENNE ALLARD Alexya,57.4,27.0,30.0,-35.0,37.0,40.0,-43.0,30.0,40.0,70.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 64,POMERET Clemence,63.1,40.0,43.0,45.0,52.0,55.0,57.0,45.0,57.0,102.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 64,PENCOLE Yael,61.1,40.0,43.0,-46.0,52.0,-55.0,-55.0,43.0,52.0,95.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 71,SANTOS Anais,71.0,25.0,28.0,31.0,39.0,43.0,46.0,31.0,46.0,77.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women >81,BAUDOUIN Marjane,91.0,37.0,40.0,42.0,-50.0,50.0,53.0,42.0,53.0,95.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U15 Men 96,BIALKOWSKI Simon,89.7,28.0,32.0,35.0,30.0,35.0,40.0,35.0,40.0,75.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Men 55,GUEREL Simon,52.0,45.0,-50.0,50.0,60.0,-65.0,65.0,50.0,65.0,115.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Men 61,FAELENS Noah,59.1,58.0,-62.0,-62.0,77.0,-81.0,-81.0,58.0,77.0,135.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Men 73,COTTEREAU Antoine,68.4,78.0,-82.0,82.0,-98.0,98.0,-102.0,82.0,98.0,180.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Men 73,BAH-TIREAU Tancrede,70.0,40.0,45.0,50.0,50.0,55.0,60.0,50.0,60.0,110.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Men 81,MORO Anthony,80.1,86.0,-90.0,90.0,105.0,110.0,-113.0,90.0,110.0,200.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Men 81,GUILLEBAUD Ewan,78.3,75.0,80.0,-85.0,95.0,100.0,-105.0,80.0,100.0,180.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Men 109,AOUAR Nielsen,106.6,-85.0,85.0,90.0,115.0,-118.0,-118.0,90.0,115.0,205.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Men >109,CORADO GARRO Lenny,116.9,85.0,90.0,95.0,115.0,-120.0,120.0,95.0,120.0,215.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U15 Men 96,BIALKOWSKI Simon,89.7,28.0,32.0,35.0,30.0,35.0,40.0,35.0,40.0,75.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Men 55,GUEREL Simon,52.0,45.0,-50.0,50.0,60.0,-65.0,65.0,50.0,65.0,115.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Men 61,FAELENS Noah,59.1,58.0,-62.0,-62.0,77.0,-81.0,-81.0,58.0,77.0,135.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Men 73,COTTEREAU Antoine,68.4,78.0,-82.0,82.0,-98.0,98.0,-102.0,82.0,98.0,180.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Men 73,BAH-TIREAU Tancrede,70.0,40.0,45.0,50.0,50.0,55.0,60.0,50.0,60.0,110.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Men 81,MORO Anthony,80.1,86.0,-90.0,90.0,105.0,110.0,-113.0,90.0,110.0,200.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Men 81,GUILLEBAUD Ewan,78.3,75.0,80.0,-85.0,95.0,100.0,-105.0,80.0,100.0,180.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Men 109,AOUAR Nielsen,106.6,-85.0,85.0,90.0,115.0,-118.0,-118.0,90.0,115.0,205.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Men >109,CORADO GARRO Lenny,116.9,85.0,90.0,95.0,115.0,-120.0,120.0,95.0,120.0,215.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U15 Women 59,LE NOC Orlane,55.7,32.0,35.0,-38.0,41.0,-45.0,-45.0,35.0,41.0,76.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 55,BORY Mila,52.8,21.0,23.0,-25.0,26.0,28.0,-32.0,23.0,28.0,51.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 64,BEDEIR LARADE Safana,59.6,22.0,25.0,27.0,35.0,40.0,45.0,27.0,45.0,72.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 71,DUPIC MAJKA Oksana,64.7,25.0,28.0,-30.0,33.0,38.0,41.0,28.0,41.0,69.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Women 55,PEREZ-NICOLAS Mayomi,55.0,23.0,25.0,-28.0,35.0,38.0,40.0,25.0,40.0,65.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Women 59,BONNET Flavie,58.0,55.0,58.0,60.0,-75.0,75.0,-80.0,60.0,75.0,135.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Women 59,CHAMPION Lilou,55.3,43.0,45.0,48.0,50.0,53.0,-56.0,48.0,53.0,101.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Women 59,HERBIN Vinciane,57.8,38.0,-41.0,-41.0,45.0,48.0,-51.0,38.0,48.0,86.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Women 64,MORO Ingrid,61.9,48.0,52.0,-55.0,60.0,64.0,-67.0,52.0,64.0,116.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Women 71,VASSEUR Chloé,67.9,29.0,32.0,34.0,35.0,38.0,40.0,34.0,40.0,74.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Women 71,CAUVIN-ROUSSEAU Yseult,67.5,22.0,24.0,26.0,32.0,35.0,-37.0,26.0,35.0,61.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Women 76,AIT SI AMER Nora,74.2,43.0,46.0,48.0,-60.0,60.0,-63.0,48.0,60.0,108.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U15 Women 59,LE NOC Orlane,55.7,32.0,35.0,-38.0,41.0,-45.0,-45.0,35.0,41.0,76.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 55,BORY Mila,52.8,21.0,23.0,-25.0,26.0,28.0,-32.0,23.0,28.0,51.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 64,BEDEIR LARADE Safana,59.6,22.0,25.0,27.0,35.0,40.0,45.0,27.0,45.0,72.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 71,DUPIC MAJKA Oksana,64.7,25.0,28.0,-30.0,33.0,38.0,41.0,28.0,41.0,69.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Women 55,PEREZ-NICOLAS Mayomi,55.0,23.0,25.0,-28.0,35.0,38.0,40.0,25.0,40.0,65.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Women 59,BONNET Flavie,58.0,55.0,58.0,60.0,-75.0,75.0,-80.0,60.0,75.0,135.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Women 59,CHAMPION Lilou,55.3,43.0,45.0,48.0,50.0,53.0,-56.0,48.0,53.0,101.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Women 59,HERBIN Vinciane,57.8,38.0,-41.0,-41.0,45.0,48.0,-51.0,38.0,48.0,86.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Women 64,MORO Ingrid,61.9,48.0,52.0,-55.0,60.0,64.0,-67.0,52.0,64.0,116.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Women 71,VASSEUR Chloé,67.9,29.0,32.0,34.0,35.0,38.0,40.0,34.0,40.0,74.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Women 71,CAUVIN-ROUSSEAU Yseult,67.5,22.0,24.0,26.0,32.0,35.0,-37.0,26.0,35.0,61.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Women 76,AIT SI AMER Nora,74.2,43.0,46.0,48.0,-60.0,60.0,-63.0,48.0,60.0,108.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 59,MATEOS Carla,56.53,56.0,-58.0,-60.0,68.0,71.0,73.0,56.0,73.0,129.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 64,LEFEBVRE Chloe,59.7,31.0,34.0,-36.0,42.0,45.0,-48.0,34.0,45.0,79.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 64,LACHKEM Melina,62.35,29.0,31.0,-33.0,38.0,-42.0,42.0,31.0,42.0,73.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 71,EAST Pia,68.75,40.0,43.0,45.0,52.0,56.0,60.0,45.0,60.0,105.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Women 55,BUFFILLE Marie,51.05,36.0,-40.0,-40.0,44.0,46.0,48.0,36.0,48.0,84.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Women 64,DE HARO Chiara,63.5,45.0,48.0,52.0,58.0,62.0,-68.0,52.0,62.0,114.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 59,MATEOS Carla,56.53,56.0,-58.0,-60.0,68.0,71.0,73.0,56.0,73.0,129.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 64,LEFEBVRE Chloe,59.7,31.0,34.0,-36.0,42.0,45.0,-48.0,34.0,45.0,79.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 64,LACHKEM Melina,62.35,29.0,31.0,-33.0,38.0,-42.0,42.0,31.0,42.0,73.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 71,EAST Pia,68.75,40.0,43.0,45.0,52.0,56.0,60.0,45.0,60.0,105.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Women 55,BUFFILLE Marie,51.05,36.0,-40.0,-40.0,44.0,46.0,48.0,36.0,48.0,84.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Women 64,DE HARO Chiara,63.5,45.0,48.0,52.0,58.0,62.0,-68.0,52.0,62.0,114.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U13 Women 35,LE VIENNESSE - BOHER Melany,25.5,15.0,16.0,-17.0,20.0,22.0,24.0,16.0,24.0,40.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U13 Women 35,VIAUD Victoria,30.5,10.0,11.0,13.0,15.0,16.0,18.0,13.0,18.0,31.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U13 Women 64,DAUDE Ambre,61.1,20.0,22.0,24.0,28.0,30.0,32.0,24.0,32.0,56.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U13 Women 35,LE VIENNESSE - BOHER Melany,25.5,15.0,16.0,-17.0,20.0,22.0,24.0,16.0,24.0,40.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U13 Women 35,VIAUD Victoria,30.5,10.0,11.0,13.0,15.0,16.0,18.0,13.0,18.0,31.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U13 Women 64,DAUDE Ambre,61.1,20.0,22.0,24.0,28.0,30.0,32.0,24.0,32.0,56.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U15 Men 49,SCHWALM-ENCRENAZ Guilhem,47.6,24.0,-27.0,-27.0,32.0,35.0,38.0,24.0,38.0,62.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U15 Men 55,REY Lucas,54.3,62.0,-65.0,65.0,73.0,77.0,80.0,65.0,80.0,145.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U15 Men 61,DE HARO Sacha,57.4,51.0,54.0,59.0,70.0,74.0,80.0,59.0,80.0,139.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U15 Men 61,PISSELOUP Marc,55.8,50.0,-53.0,-53.0,62.0,66.0,70.0,50.0,70.0,120.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Men 61,MAGGIO Aaron,58.1,75.0,78.0,-81.0,92.0,96.0,100.0,78.0,100.0,178.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Men 67,CARABETTA Antoine,66.1,55.0,58.0,61.0,65.0,70.0,73.0,61.0,73.0,134.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Men 73,BARBOSA Noah,72.1,42.0,45.0,47.0,50.0,-55.0,57.0,47.0,57.0,104.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Men 73,BAUDIER Romaric,69.6,-38.0,38.0,41.0,48.0,50.0,52.0,41.0,52.0,93.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Men 81,REY Dorian,76.9,100.0,104.0,-108.0,125.0,130.0,-0.0,104.0,130.0,234.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U15 Men 49,SCHWALM-ENCRENAZ Guilhem,47.6,24.0,-27.0,-27.0,32.0,35.0,38.0,24.0,38.0,62.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U15 Men 55,REY Lucas,54.3,62.0,-65.0,65.0,73.0,77.0,80.0,65.0,80.0,145.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U15 Men 61,DE HARO Sacha,57.4,51.0,54.0,59.0,70.0,74.0,80.0,59.0,80.0,139.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U15 Men 61,PISSELOUP Marc,55.8,50.0,-53.0,-53.0,62.0,66.0,70.0,50.0,70.0,120.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Men 61,MAGGIO Aaron,58.1,75.0,78.0,-81.0,92.0,96.0,100.0,78.0,100.0,178.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Men 67,CARABETTA Antoine,66.1,55.0,58.0,61.0,65.0,70.0,73.0,61.0,73.0,134.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Men 73,BARBOSA Noah,72.1,42.0,45.0,47.0,50.0,-55.0,57.0,47.0,57.0,104.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Men 73,BAUDIER Romaric,69.6,-38.0,38.0,41.0,48.0,50.0,52.0,41.0,52.0,93.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Men 81,REY Dorian,76.9,100.0,104.0,-108.0,125.0,130.0,-0.0,104.0,130.0,234.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Men 61,LABARTHE Thibault,56.1,38.0,41.0,-43.0,50.0,53.0,-56.0,41.0,53.0,94.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Men 67,CAPON Natan,66.8,-63.0,-63.0,63.0,-73.0,73.0,76.0,63.0,76.0,139.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Men 73,CHANUT Leo,72.5,-90.0,-95.0,95.0,100.0,-110.0,-110.0,95.0,100.0,195.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Men 73,GAY Milan,70.2,67.0,70.0,74.0,85.0,90.0,-93.0,74.0,90.0,164.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Men 81,LE DISSEZ Rayan,76.3,65.0,70.0,75.0,80.0,85.0,-90.0,75.0,85.0,160.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Men 73,BUISSON Romain,67.9,67.0,72.0,77.0,100.0,105.0,-110.0,77.0,105.0,182.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Men 81,SANTINELLI Guillaume,79.56,-72.0,74.0,-76.0,90.0,-95.0,97.0,74.0,97.0,171.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Men 89,LEVEAUX Camille,87.73,100.0,-103.0,-0.0,100.0,105.0,-0.0,100.0,105.0,205.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Men 89,LECOQ Clement,89.0,85.0,90.0,-95.0,105.0,110.0,-115.0,90.0,110.0,200.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Men 89,MIARD Anthony,87.9,78.0,-81.0,81.0,95.0,-100.0,100.0,81.0,100.0,181.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Men 96,TERRIER Sebatien,92.0,95.0,102.0,108.0,122.0,-127.0,-130.0,108.0,122.0,230.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Men 102,NONNIS Kilian,97.83,60.0,65.0,70.0,82.0,-87.0,-87.0,70.0,82.0,152.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Women 49,BON Maxence,47.9,40.0,-43.0,43.0,50.0,52.0,-54.0,43.0,52.0,95.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Women 55,ROBERT Clementine,53.9,47.0,51.0,-54.0,57.0,58.0,-60.0,51.0,58.0,109.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Women 55,EYRAUD Lea,54.2,46.0,48.0,50.0,56.0,-59.0,-60.0,50.0,56.0,106.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Women 55,DENOLLY Elodie,51.6,33.0,35.0,37.0,35.0,39.0,42.0,37.0,42.0,79.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Women 59,SCICCHITANO Emma,58.4,60.0,-63.0,63.0,77.0,-80.0,-81.0,63.0,77.0,140.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Women 59,GHANI Melissa,56.0,31.0,33.0,-35.0,42.0,45.0,48.0,33.0,48.0,81.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Women 64,JOUGLA Amelie,59.1,57.0,60.0,-62.0,70.0,-73.0,-74.0,60.0,70.0,130.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Women 71,CANOVAS Elodie,64.5,57.0,60.0,-62.0,68.0,71.0,74.0,60.0,74.0,134.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Women 71,MAZOUZ Sophie,64.5,56.0,59.0,61.0,72.0,-75.0,-75.0,61.0,72.0,133.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Women 71,FIQUET Johany,65.6,37.0,40.0,42.0,58.0,-61.0,61.0,42.0,61.0,103.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Women 71,MOTAIS DENARBONNE Emilie,65.2,62.0,67.0,-70.0,-81.0,-81.0,-81.0,67.0,0.0,0.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Women 76,GAUJARD Marine,75.6,46.0,49.0,52.0,56.0,60.0,-63.0,52.0,60.0,112.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Men 61,LABARTHE Thibault,56.1,38.0,41.0,-43.0,50.0,53.0,-56.0,41.0,53.0,94.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Men 67,CAPON Natan,66.8,-63.0,-63.0,63.0,-73.0,73.0,76.0,63.0,76.0,139.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Men 73,CHANUT Leo,72.5,-90.0,-95.0,95.0,100.0,-110.0,-110.0,95.0,100.0,195.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Men 73,GAY Milan,70.2,67.0,70.0,74.0,85.0,90.0,-93.0,74.0,90.0,164.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Men 81,LE DISSEZ Rayan,76.3,65.0,70.0,75.0,80.0,85.0,-90.0,75.0,85.0,160.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Men 73,BUISSON Romain,67.9,67.0,72.0,77.0,100.0,105.0,-110.0,77.0,105.0,182.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Men 81,SANTINELLI Guillaume,79.56,-72.0,74.0,-76.0,90.0,-95.0,97.0,74.0,97.0,171.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Men 89,LEVEAUX Camille,87.73,100.0,-103.0,-0.0,100.0,105.0,-0.0,100.0,105.0,205.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Men 89,LECOQ Clement,89.0,85.0,90.0,-95.0,105.0,110.0,-115.0,90.0,110.0,200.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Men 89,MIARD Anthony,87.9,78.0,-81.0,81.0,95.0,-100.0,100.0,81.0,100.0,181.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Men 96,TERRIER Sebatien,92.0,95.0,102.0,108.0,122.0,-127.0,-130.0,108.0,122.0,230.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Men 102,NONNIS Kilian,97.83,60.0,65.0,70.0,82.0,-87.0,-87.0,70.0,82.0,152.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Women 49,BON Maxence,47.9,40.0,-43.0,43.0,50.0,52.0,-54.0,43.0,52.0,95.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Women 55,ROBERT Clementine,53.9,47.0,51.0,-54.0,57.0,58.0,-60.0,51.0,58.0,109.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Women 55,EYRAUD Lea,54.2,46.0,48.0,50.0,56.0,-59.0,-60.0,50.0,56.0,106.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Women 55,DENOLLY Elodie,51.6,33.0,35.0,37.0,35.0,39.0,42.0,37.0,42.0,79.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Women 59,SCICCHITANO Emma,58.4,60.0,-63.0,63.0,77.0,-80.0,-81.0,63.0,77.0,140.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Women 59,GHANI Melissa,56.0,31.0,33.0,-35.0,42.0,45.0,48.0,33.0,48.0,81.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Women 64,JOUGLA Amelie,59.1,57.0,60.0,-62.0,70.0,-73.0,-74.0,60.0,70.0,130.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Women 71,CANOVAS Elodie,64.5,57.0,60.0,-62.0,68.0,71.0,74.0,60.0,74.0,134.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Women 71,MAZOUZ Sophie,64.5,56.0,59.0,61.0,72.0,-75.0,-75.0,61.0,72.0,133.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Women 71,FIQUET Johany,65.6,37.0,40.0,42.0,58.0,-61.0,61.0,42.0,61.0,103.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Women 71,MOTAIS DENARBONNE Emilie,65.2,62.0,67.0,-70.0,-81.0,-81.0,-81.0,67.0,0.0,0.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Women 76,GAUJARD Marine,75.6,46.0,49.0,52.0,56.0,60.0,-63.0,52.0,60.0,112.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U13 Men 35,JEAN Jarod,31.7,-7.0,7.0,9.0,10.0,12.0,14.0,9.0,14.0,23.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U13 Men 45,ALCARAZ Thomas,44.4,-33.0,33.0,34.0,45.0,47.0,49.0,34.0,49.0,83.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U13 Men 45,ANGELO Hélios,43.5,16.0,18.0,20.0,26.0,28.0,30.0,20.0,30.0,50.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U13 Men 45,SOUILLET Lorenzo,40.2,12.0,14.0,15.0,16.0,18.0,20.0,15.0,20.0,35.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U13 Men 55,GARCIA-DUHAMEL Jullian,52.4,23.0,25.0,27.0,33.0,35.0,37.0,27.0,37.0,64.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U13 Women 35,ANGELO Jamie lynn,31.3,12.0,14.0,16.0,21.0,23.0,25.0,16.0,25.0,41.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U13 Men 35,JEAN Jarod,31.7,-7.0,7.0,9.0,10.0,12.0,14.0,9.0,14.0,23.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U13 Men 45,ALCARAZ Thomas,44.4,-33.0,33.0,34.0,45.0,47.0,49.0,34.0,49.0,83.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U13 Men 45,ANGELO Hélios,43.5,16.0,18.0,20.0,26.0,28.0,30.0,20.0,30.0,50.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U13 Men 45,SOUILLET Lorenzo,40.2,12.0,14.0,15.0,16.0,18.0,20.0,15.0,20.0,35.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U13 Men 55,GARCIA-DUHAMEL Jullian,52.4,23.0,25.0,27.0,33.0,35.0,37.0,27.0,37.0,64.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U13 Women 35,ANGELO Jamie lynn,31.3,12.0,14.0,16.0,21.0,23.0,25.0,16.0,25.0,41.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U15 Women 45,ALCARAZ Charlotte,44.4,25.0,28.0,30.0,35.0,38.0,40.0,30.0,40.0,70.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U15 Women 49,DEGEZ Florette,47.4,40.0,45.0,50.0,55.0,60.0,65.0,50.0,65.0,115.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 59,DIAW Lia,56.0,40.0,45.0,50.0,55.0,60.0,65.0,50.0,65.0,115.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 59,PEIGUET Clara,55.2,40.0,43.0,-46.0,60.0,65.0,70.0,43.0,70.0,113.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 64,DUPONT Laina,61.7,20.0,23.0,25.0,30.0,35.0,38.0,25.0,38.0,63.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Women 59,OULHIOU Léa,56.3,35.0,38.0,41.0,45.0,50.0,-55.0,41.0,50.0,91.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U15 Women 45,ALCARAZ Charlotte,44.4,25.0,28.0,30.0,35.0,38.0,40.0,30.0,40.0,70.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U15 Women 49,DEGEZ Florette,47.4,40.0,45.0,50.0,55.0,60.0,65.0,50.0,65.0,115.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 59,DIAW Lia,56.0,40.0,45.0,50.0,55.0,60.0,65.0,50.0,65.0,115.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 59,PEIGUET Clara,55.2,40.0,43.0,-46.0,60.0,65.0,70.0,43.0,70.0,113.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 64,DUPONT Laina,61.7,20.0,23.0,25.0,30.0,35.0,38.0,25.0,38.0,63.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Women 59,OULHIOU Léa,56.3,35.0,38.0,41.0,45.0,50.0,-55.0,41.0,50.0,91.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U15 Men 49,ROSS Clément,45.9,32.0,35.0,37.0,45.0,48.0,50.0,37.0,50.0,87.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U15 Men 49,JEAN Wyatt,44.6,32.0,35.0,37.0,42.0,48.0,50.0,37.0,50.0,87.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U15 Men 49,FAURE BITAUDEAU Hector,49.0,27.0,30.0,33.0,35.0,38.0,-41.0,33.0,38.0,71.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U15 Men 61,ADELINO Fabien,56.7,35.0,39.0,42.0,45.0,48.0,51.0,42.0,51.0,93.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U15 Men 81,CASANOVA Lucas,73.4,20.0,24.0,27.0,30.0,35.0,-40.0,27.0,35.0,62.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Men 73,D'ABOVILLE TORTERAT Edgar,69.9,45.0,50.0,55.0,55.0,60.0,65.0,55.0,65.0,120.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Men 81,ROUSSEL Emilien,73.6,70.0,75.0,-80.0,75.0,-0.0,-0.0,75.0,75.0,150.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Men 67,CARMONA Enzo,61.8,60.0,65.0,70.0,70.0,75.0,80.0,70.0,80.0,150.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Men 73,FREMONT Enzo,67.3,90.0,95.0,-100.0,110.0,120.0,-125.0,95.0,120.0,215.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U15 Men 49,ROSS Clément,45.9,32.0,35.0,37.0,45.0,48.0,50.0,37.0,50.0,87.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U15 Men 49,JEAN Wyatt,44.6,32.0,35.0,37.0,42.0,48.0,50.0,37.0,50.0,87.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U15 Men 49,FAURE BITAUDEAU Hector,49.0,27.0,30.0,33.0,35.0,38.0,-41.0,33.0,38.0,71.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U15 Men 61,ADELINO Fabien,56.7,35.0,39.0,42.0,45.0,48.0,51.0,42.0,51.0,93.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U15 Men 81,CASANOVA Lucas,73.4,20.0,24.0,27.0,30.0,35.0,-40.0,27.0,35.0,62.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Men 73,D'ABOVILLE TORTERAT Edgar,69.9,45.0,50.0,55.0,55.0,60.0,65.0,55.0,65.0,120.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Men 81,ROUSSEL Emilien,73.6,70.0,75.0,-80.0,75.0,-0.0,-0.0,75.0,75.0,150.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Men 67,CARMONA Enzo,61.8,60.0,65.0,70.0,70.0,75.0,80.0,70.0,80.0,150.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Men 73,FREMONT Enzo,67.3,90.0,95.0,-100.0,110.0,120.0,-125.0,95.0,120.0,215.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Women 64,GRANET Camille,60.4,25.0,28.0,31.0,35.0,38.0,41.0,31.0,41.0,72.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Women 55,CANAL Elise,51.9,50.0,53.0,-56.0,62.0,66.0,70.0,53.0,70.0,123.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Women 55,ESCOLANO Manon,52.9,40.0,44.0,46.0,54.0,59.0,-62.0,46.0,59.0,105.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Women 59,PELLETIER Marie,58.0,54.0,57.0,59.0,65.0,70.0,74.0,59.0,74.0,133.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Women 59,YOLOGLU Hélin,57.4,20.0,23.0,25.0,25.0,30.0,35.0,25.0,35.0,60.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Women 87,NAYO KETCHANKE Gaelle,86.8,50.0,55.0,60.0,70.0,80.0,90.0,60.0,90.0,150.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Men 67,MULLOR Julien,66.9,100.0,105.0,108.0,120.0,127.0,-132.0,108.0,127.0,235.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Men 81,AWUVE Seyenam,80.9,-95.0,95.0,103.0,130.0,140.0,-150.0,103.0,140.0,243.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Men 81,BONHOMME Aurélien,78.6,88.0,92.0,95.0,115.0,120.0,-125.0,95.0,120.0,215.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Men 81,VALLES Yohan,78.5,80.0,85.0,90.0,105.0,110.0,115.0,90.0,115.0,205.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Men 81,MONTESINOS Thomas,79.7,55.0,60.0,65.0,80.0,86.0,91.0,65.0,91.0,156.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Men 102,MORET Sylvain,101.4,100.0,-105.0,-110.0,130.0,140.0,146.0,100.0,146.0,246.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U20 Women 64,GRANET Camille,60.4,25.0,28.0,31.0,35.0,38.0,41.0,31.0,41.0,72.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Women 55,CANAL Elise,51.9,50.0,53.0,-56.0,62.0,66.0,70.0,53.0,70.0,123.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Women 55,ESCOLANO Manon,52.9,40.0,44.0,46.0,54.0,59.0,-62.0,46.0,59.0,105.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Women 59,PELLETIER Marie,58.0,54.0,57.0,59.0,65.0,70.0,74.0,59.0,74.0,133.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Women 59,YOLOGLU Hélin,57.4,20.0,23.0,25.0,25.0,30.0,35.0,25.0,35.0,60.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Women 87,NAYO KETCHANKE Gaelle,86.8,50.0,55.0,60.0,70.0,80.0,90.0,60.0,90.0,150.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Men 67,MULLOR Julien,66.9,100.0,105.0,108.0,120.0,127.0,-132.0,108.0,127.0,235.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Men 81,AWUVE Seyenam,80.9,-95.0,95.0,103.0,130.0,140.0,-150.0,103.0,140.0,243.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Men 81,BONHOMME Aurélien,78.6,88.0,92.0,95.0,115.0,120.0,-125.0,95.0,120.0,215.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Men 81,VALLES Yohan,78.5,80.0,85.0,90.0,105.0,110.0,115.0,90.0,115.0,205.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Men 81,MONTESINOS Thomas,79.7,55.0,60.0,65.0,80.0,86.0,91.0,65.0,91.0,156.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,SEN Men 102,MORET Sylvain,101.4,100.0,-105.0,-110.0,130.0,140.0,146.0,100.0,146.0,246.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U13 Men 40,RIBAUDO Stan,39.1,22.0,24.0,26.0,25.0,27.0,29.0,26.0,29.0,55.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U13 Men 45,KUKRIC Mathis,43.2,18.0,20.0,22.0,24.0,26.0,28.0,22.0,28.0,50.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U13 Women 45,FLAHAUW BERNINES Clara,44.5,-14.0,14.0,16.0,18.0,20.0,22.0,16.0,22.0,38.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U13 Men 40,RIBAUDO Stan,39.1,22.0,24.0,26.0,25.0,27.0,29.0,26.0,29.0,55.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U13 Men 45,KUKRIC Mathis,43.2,18.0,20.0,22.0,24.0,26.0,28.0,22.0,28.0,50.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U13 Women 45,FLAHAUW BERNINES Clara,44.5,-14.0,14.0,16.0,18.0,20.0,22.0,16.0,22.0,38.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U15 Women 59,GLEYZE Aurelia,56.9,34.0,37.0,40.0,45.0,49.0,-53.0,40.0,49.0,89.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 55,SZYSZKA Séverine,52.0,15.0,18.0,20.0,20.0,23.0,25.0,20.0,25.0,45.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 59,TISSERAND Maëlys,56.1,43.0,-46.0,-46.0,50.0,53.0,-56.0,43.0,53.0,96.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 64,ROUYER Chloe,59.4,47.0,50.0,53.0,52.0,55.0,-58.0,53.0,55.0,108.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 76,ALAZARD BOCCEDA Alyssia,72.1,34.0,37.0,40.0,44.0,47.0,49.0,40.0,49.0,89.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 81,BERTRAND Léna,76.7,53.0,-57.0,-57.0,64.0,-68.0,-70.0,53.0,64.0,117.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U15 Women 59,GLEYZE Aurelia,56.9,34.0,37.0,40.0,45.0,49.0,-53.0,40.0,49.0,89.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 55,SZYSZKA Séverine,52.0,15.0,18.0,20.0,20.0,23.0,25.0,20.0,25.0,45.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 59,TISSERAND Maëlys,56.1,43.0,-46.0,-46.0,50.0,53.0,-56.0,43.0,53.0,96.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 64,ROUYER Chloe,59.4,47.0,50.0,53.0,52.0,55.0,-58.0,53.0,55.0,108.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 76,ALAZARD BOCCEDA Alyssia,72.1,34.0,37.0,40.0,44.0,47.0,49.0,40.0,49.0,89.0
+IDF - Cpe de France des Clubs - Saint-maur - 1er tour CADETS et JUNIORS HOMMES,2023-03-12,U17 Women 81,BERTRAND Léna,76.7,53.0,-57.0,-57.0,64.0,-68.0,-70.0,53.0,64.0,117.0

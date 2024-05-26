@@ -1,5 +1,37 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-REU - Criterium National,2021-07-24,SEN Men 61,MEDARD Hugo,60.0,83.0,-88.0,90.0,95.0,100.0,-106.0,90.0,100.0,190.0
-REU - Criterium National,2021-07-24,SEN Men 81,OMAR Julien,76.0,108.0,-112.0,114.0,-126.0,130.0,140.0,114.0,140.0,254.0
-REU - Criterium National,2021-07-24,SEN Men 89,HOOLANS Charly,87.8,-110.0,-110.0,110.0,130.0,-136.0,-136.0,110.0,130.0,240.0
-REU - Criterium National,2021-07-24,SEN Men >109,RICHARD Kenny,113.5,-105.0,105.0,-113.0,135.0,140.0,-150.0,105.0,140.0,245.0
+OCC - Challenge Avenir - Force staps montpellier - 3ème - Montpellier,2023-02-12,U15 Women 49,ALBOUC Morgane,49.0,22.0,25.0,28.0,31.0,34.0,38.0,28.0,38.0,66.0
+OCC - Challenge Avenir - Force staps montpellier - 3ème - Montpellier,2023-02-12,SEN Women 71,MAUHOURAT Marie amelie,65.3,45.0,48.0,50.0,60.0,65.0,-68.0,50.0,65.0,115.0
+OCC - Challenge Avenir - Force staps montpellier - 3ème - Montpellier,2023-02-12,SEN Women 71,FABRE Margot,70.6,35.0,38.0,41.0,43.0,46.0,50.0,41.0,50.0,91.0
+OCC - Challenge Avenir - Force staps montpellier - 3ème - Montpellier,2023-02-12,SEN Women 81,KONDOKI Flavy,77.1,30.0,35.0,41.0,43.0,46.0,-50.0,41.0,46.0,87.0
+OCC - Challenge Avenir - Force staps montpellier - 3ème - Montpellier,2023-02-12,U10 Men ,JAMANN Gabin,37.4,9.0,10.0,11.0,13.0,15.0,17.0,11.0,17.0,28.0
+OCC - Challenge Avenir - Force staps montpellier - 3ème - Montpellier,2023-02-12,U10 Men ,SAINT POINT Nelson,28.5,6.0,7.0,8.0,10.0,12.0,13.0,8.0,13.0,21.0
+OCC - Challenge Avenir - Force staps montpellier - 3ème - Montpellier,2023-02-12,U10 Men ,RUGGERI Marius,23.5,5.0,6.0,7.0,10.0,12.0,-14.0,7.0,12.0,19.0
+OCC - Challenge Avenir - Force staps montpellier - 3ème - Montpellier,2023-02-12,U10 Men ,SOUILLET Erwan,50.5,2.0,3.0,4.0,5.0,6.0,7.0,4.0,7.0,11.0
+OCC - Challenge Avenir - Force staps montpellier - 3ème - Montpellier,2023-02-12,U10 Women ,RUGGERI Chloé,45.2,10.0,12.0,13.0,20.0,22.0,24.0,13.0,24.0,37.0
+OCC - Challenge Avenir - Force staps montpellier - 3ème - Montpellier,2023-02-12,U10 Men ,JAMANN Gabin,37.4,9.0,10.0,11.0,13.0,15.0,17.0,11.0,17.0,28.0
+OCC - Challenge Avenir - Force staps montpellier - 3ème - Montpellier,2023-02-12,U10 Men ,SAINT POINT Nelson,28.5,6.0,7.0,8.0,10.0,12.0,13.0,8.0,13.0,21.0
+OCC - Challenge Avenir - Force staps montpellier - 3ème - Montpellier,2023-02-12,U10 Men ,RUGGERI Marius,23.5,5.0,6.0,7.0,10.0,12.0,-14.0,7.0,12.0,19.0
+OCC - Challenge Avenir - Force staps montpellier - 3ème - Montpellier,2023-02-12,U10 Men ,SOUILLET Erwan,50.5,2.0,3.0,4.0,5.0,6.0,7.0,4.0,7.0,11.0
+OCC - Challenge Avenir - Force staps montpellier - 3ème - Montpellier,2023-02-12,U10 Women ,RUGGERI Chloé,45.2,10.0,12.0,13.0,20.0,22.0,24.0,13.0,24.0,37.0
+OCC - Challenge Avenir - Force staps montpellier - 3ème - Montpellier,2023-02-12,U17 Men 73,D'ABOVILLE TORTERAT Edgar,69.8,40.0,45.0,50.0,55.0,60.0,65.0,50.0,65.0,115.0
+OCC - Challenge Avenir - Force staps montpellier - 3ème - Montpellier,2023-02-12,U20 Men 73,FREMONT Enzo,69.2,75.0,80.0,85.0,100.0,105.0,110.0,85.0,110.0,195.0
+OCC - Challenge Avenir - Force staps montpellier - 3ème - Montpellier,2023-02-12,U20 Men 81,DUVAL Martin,80.1,65.0,-68.0,68.0,80.0,-85.0,87.0,68.0,87.0,155.0
+OCC - Challenge Avenir - Force staps montpellier - 3ème - Montpellier,2023-02-12,SEN Men 61,MORGANT Arthur,60.9,50.0,55.0,58.0,65.0,70.0,-75.0,58.0,70.0,128.0
+OCC - Challenge Avenir - Force staps montpellier - 3ème - Montpellier,2023-02-12,SEN Men 73,RIBEYROL Jérémy,72.4,70.0,75.0,80.0,90.0,95.0,-100.0,80.0,95.0,175.0
+OCC - Challenge Avenir - Force staps montpellier - 3ème - Montpellier,2023-02-12,SEN Men 73,DA SILVA CARVALHO Dylan,71.4,55.0,60.0,65.0,70.0,80.0,90.0,65.0,90.0,155.0
+OCC - Challenge Avenir - Force staps montpellier - 3ème - Montpellier,2023-02-12,SEN Men 73,PRADES Lucas,72.1,60.0,63.0,67.0,73.0,77.0,-80.0,67.0,77.0,144.0
+OCC - Challenge Avenir - Force staps montpellier - 3ème - Montpellier,2023-02-12,SEN Men 81,ARMANGAU Miguel,80.6,-93.0,93.0,-97.0,110.0,116.0,-121.0,93.0,116.0,209.0
+OCC - Challenge Avenir - Force staps montpellier - 3ème - Montpellier,2023-02-12,SEN Men 81,MOISSERON Victor,77.2,-63.0,63.0,-65.0,90.0,-95.0,95.0,63.0,95.0,158.0
+OCC - Challenge Avenir - Force staps montpellier - 3ème - Montpellier,2023-02-12,SEN Men 96,MOREAU Vivien,91.7,55.0,57.0,60.0,75.0,80.0,85.0,60.0,85.0,145.0
+OCC - Challenge Avenir - Force staps montpellier - 3ème - Montpellier,2023-02-12,SEN Men 102,DE SOUZA Nicolas,101.5,90.0,-95.0,-95.0,115.0,120.0,-125.0,90.0,120.0,210.0
+OCC - Challenge Avenir - Force staps montpellier - 3ème - Montpellier,2023-02-12,U17 Men 73,D'ABOVILLE TORTERAT Edgar,69.8,40.0,45.0,50.0,55.0,60.0,65.0,50.0,65.0,115.0
+OCC - Challenge Avenir - Force staps montpellier - 3ème - Montpellier,2023-02-12,U20 Men 73,FREMONT Enzo,69.2,75.0,80.0,85.0,100.0,105.0,110.0,85.0,110.0,195.0
+OCC - Challenge Avenir - Force staps montpellier - 3ème - Montpellier,2023-02-12,U20 Men 81,DUVAL Martin,80.1,65.0,-68.0,68.0,80.0,-85.0,87.0,68.0,87.0,155.0
+OCC - Challenge Avenir - Force staps montpellier - 3ème - Montpellier,2023-02-12,SEN Men 61,MORGANT Arthur,60.9,50.0,55.0,58.0,65.0,70.0,-75.0,58.0,70.0,128.0
+OCC - Challenge Avenir - Force staps montpellier - 3ème - Montpellier,2023-02-12,SEN Men 73,RIBEYROL Jérémy,72.4,70.0,75.0,80.0,90.0,95.0,-100.0,80.0,95.0,175.0
+OCC - Challenge Avenir - Force staps montpellier - 3ème - Montpellier,2023-02-12,SEN Men 73,DA SILVA CARVALHO Dylan,71.4,55.0,60.0,65.0,70.0,80.0,90.0,65.0,90.0,155.0
+OCC - Challenge Avenir - Force staps montpellier - 3ème - Montpellier,2023-02-12,SEN Men 73,PRADES Lucas,72.1,60.0,63.0,67.0,73.0,77.0,-80.0,67.0,77.0,144.0
+OCC - Challenge Avenir - Force staps montpellier - 3ème - Montpellier,2023-02-12,SEN Men 81,ARMANGAU Miguel,80.6,-93.0,93.0,-97.0,110.0,116.0,-121.0,93.0,116.0,209.0
+OCC - Challenge Avenir - Force staps montpellier - 3ème - Montpellier,2023-02-12,SEN Men 81,MOISSERON Victor,77.2,-63.0,63.0,-65.0,90.0,-95.0,95.0,63.0,95.0,158.0
+OCC - Challenge Avenir - Force staps montpellier - 3ème - Montpellier,2023-02-12,SEN Men 96,MOREAU Vivien,91.7,55.0,57.0,60.0,75.0,80.0,85.0,60.0,85.0,145.0
+OCC - Challenge Avenir - Force staps montpellier - 3ème - Montpellier,2023-02-12,SEN Men 102,DE SOUZA Nicolas,101.5,90.0,-95.0,-95.0,115.0,120.0,-125.0,90.0,120.0,210.0

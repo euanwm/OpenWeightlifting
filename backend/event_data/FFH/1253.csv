@@ -1,8 +1,16 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-OCC - Critérium National - Masculin - Clermont l'Ht,2021-08-28,U17 Men 61,CARMONA Enzo,57.6,55.0,58.0,61.0,67.0,72.0,-75.0,61.0,72.0,133.0
-OCC - Critérium National - Masculin - Clermont l'Ht,2021-08-28,U17 Men 67,FREMONT Enzo,62.9,75.0,80.0,-82.0,92.0,97.0,101.0,80.0,101.0,181.0
-OCC - Critérium National - Masculin - Clermont l'Ht,2021-08-28,U20 Men 81,CANCE Quentin,73.9,80.0,85.0,90.0,110.0,115.0,120.0,90.0,120.0,210.0
-OCC - Critérium National - Masculin - Clermont l'Ht,2021-08-28,U20 Men 96,HAVET Bastien,89.1,110.0,115.0,-120.0,140.0,145.0,-150.0,115.0,145.0,260.0
-OCC - Critérium National - Masculin - Clermont l'Ht,2021-08-28,SEN Men 73,AUCOUTURIER Yann,72.9,110.0,115.0,-120.0,140.0,145.0,-151.0,115.0,145.0,260.0
-OCC - Critérium National - Masculin - Clermont l'Ht,2021-08-28,SEN Men 81,GHAZARYAN Norik,80.5,116.0,121.0,124.0,145.0,151.0,-0.0,124.0,151.0,275.0
-OCC - Critérium National - Masculin - Clermont l'Ht,2021-08-28,SEN Men 81,KOSTANYAN Virab,78.7,100.0,105.0,110.0,-120.0,120.0,-125.0,110.0,120.0,230.0
+REU - Critérium National  - Saint pierre -  U15-U17-U20,2022-11-26,U15 Women 49,PATCHIE Shelby,48.3,-28.0,28.0,30.0,35.0,38.0,40.0,30.0,40.0,70.0
+REU - Critérium National  - Saint pierre -  U15-U17-U20,2022-11-26,U15 Women 49,DOUYERE Solene,48.2,25.0,-27.0,28.0,32.0,35.0,37.0,28.0,37.0,65.0
+REU - Critérium National  - Saint pierre -  U15-U17-U20,2022-11-26,U15 Women 55,RICHARD Kéllia,49.6,40.0,43.0,-46.0,55.0,60.0,62.0,43.0,62.0,105.0
+REU - Critérium National  - Saint pierre -  U15-U17-U20,2022-11-26,U15 Women 59,ROBERT Célia,57.6,35.0,-38.0,40.0,-48.0,48.0,-50.0,40.0,48.0,88.0
+REU - Critérium National  - Saint pierre -  U15-U17-U20,2022-11-26,U15 Women 71,MAILLOT Indira,68.94,45.0,48.0,50.0,58.0,62.0,-65.0,50.0,62.0,112.0
+REU - Critérium National  - Saint pierre -  U15-U17-U20,2022-11-26,U15 Women 71,BONMALAIS Rose,69.8,45.0,-48.0,-48.0,58.0,62.0,65.0,45.0,65.0,110.0
+REU - Critérium National  - Saint pierre -  U15-U17-U20,2022-11-26,U17 Women 49,XAVIER Célia,48.7,30.0,-32.0,32.0,-39.0,-39.0,-39.0,32.0,0.0,0.0
+REU - Critérium National  - Saint pierre -  U15-U17-U20,2022-11-26,U17 Women 55,RICHARD Maeva,52.1,46.0,48.0,50.0,58.0,60.0,-62.0,50.0,60.0,110.0
+REU - Critérium National  - Saint pierre -  U15-U17-U20,2022-11-26,U17 Women 55,VAGLIO Cléa,54.2,47.0,50.0,-52.0,56.0,-60.0,-60.0,50.0,56.0,106.0
+REU - Critérium National  - Saint pierre -  U15-U17-U20,2022-11-26,U17 Women 71,AUZATE Séréna,68.2,50.0,53.0,55.0,60.0,63.0,65.0,55.0,65.0,120.0
+REU - Critérium National  - Saint pierre -  U15-U17-U20,2022-11-26,U20 Women 49,MOULS Pryanka,46.0,35.0,39.0,42.0,46.0,48.0,50.0,42.0,50.0,92.0
+REU - Critérium National  - Saint pierre -  U15-U17-U20,2022-11-26,U20 Women 49,MOTAIS DE NARBONNE Raphaëlle,48.8,-52.0,-52.0,-52.0,60.0,64.0,-67.0,0.0,64.0,0.0
+REU - Critérium National  - Saint pierre -  U15-U17-U20,2022-11-26,U20 Women 55,AUZATE Alicia,54.5,48.0,51.0,-54.0,60.0,63.0,65.0,51.0,65.0,116.0
+REU - Critérium National  - Saint pierre -  U15-U17-U20,2022-11-26,U20 Women 59,ETIENNE Olivia,58.7,47.0,-50.0,-50.0,57.0,-63.0,-63.0,47.0,57.0,104.0
+REU - Critérium National  - Saint pierre -  U15-U17-U20,2022-11-26,U20 Women 64,DIOT Léna,60.7,-48.0,48.0,-51.0,62.0,-66.0,-68.0,48.0,62.0,110.0
