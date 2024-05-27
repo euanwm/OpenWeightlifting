@@ -15,16 +15,15 @@ type newCase struct {
 func TestWeightKg_New(t *testing.T) {
 	cases := []newCase{
 		// Sanity checking.
-		{input: -0.0, expected: 0},
-		{input: +0.0, expected: 0},
+		{input: 0.0, expected: 0},
 		{input: -1.0, expected: -100},
-		{input: +1.0, expected: 100},
-		{input: +123.45, expected: 12345},
+		{input: 1.0, expected: 100},
+		{input: 123.45, expected: 12345},
 		{input: -123.45, expected: -12345},
 
 		// Rounding cases.
 		{input: 1.0 / 3.0, expected: 33},
-		{input: +123.4567, expected: 12345},
+		{input: 123.4567, expected: 12345},
 		{input: -123.4567, expected: -12345},
 
 		// Invalid inputs that still need to be handled.
