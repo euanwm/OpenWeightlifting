@@ -2,8 +2,8 @@ package structs
 
 type WeightClass struct {
 	Gender string
-	Upper  float32
-	Lower  float32
+	Upper  WeightKg
+	Lower  WeightKg
 }
 
 // swagger:response ContainerTime
@@ -52,11 +52,11 @@ type LifterHistory struct {
 }
 
 type LifterStats struct {
-	BestSnatch       float32 `json:"best_snatch"`
-	BestCJ           float32 `json:"best_cj"`
-	BestTotal        float32 `json:"best_total"`
-	MakeRateSnatches []int   `json:"make_rate_snatches"`
-	MakeRateCJ       []int   `json:"make_rate_cj"`
+	BestSnatch       WeightKg `json:"best_snatch"`
+	BestCJ           WeightKg `json:"best_cj"`
+	BestTotal        WeightKg `json:"best_total"`
+	MakeRateSnatches []int    `json:"make_rate_snatches"`
+	MakeRateCJ       []int    `json:"make_rate_cj"`
 }
 
 type LeaderboardData struct {
@@ -79,23 +79,23 @@ type LeaderboardPayload struct {
 // Entry Standard structs that we'll use for storing raw lift data
 // swagger:response Entry
 type Entry struct {
-	Event      string  `json:"event"`
-	Date       string  `json:"date"`
-	Gender     string  `json:"gender"`
-	Name       string  `json:"lifter_name"`
-	Bodyweight float32 `json:"bodyweight"`
-	Sn1        float32 `json:"snatch_1"`
-	Sn2        float32 `json:"snatch_2"`
-	Sn3        float32 `json:"snatch_3"`
-	CJ1        float32 `json:"cj_1"`
-	CJ2        float32 `json:"cj_2"`
-	CJ3        float32 `json:"cj_3"`
-	BestSn     float32 `json:"best_snatch"`
-	BestCJ     float32 `json:"best_cj"`
-	Total      float32 `json:"total"`
-	Sinclair   float32 `json:"sinclair"`
-	Federation string  `json:"country"`
-	Instagram  string  `json:"instagram"`
+	Event      string   `json:"event"`
+	Date       string   `json:"date"`
+	Gender     string   `json:"gender"`
+	Name       string   `json:"lifter_name"`
+	Bodyweight WeightKg `json:"bodyweight"`
+	Sn1        WeightKg `json:"snatch_1"`
+	Sn2        WeightKg `json:"snatch_2"`
+	Sn3        WeightKg `json:"snatch_3"`
+	CJ1        WeightKg `json:"cj_1"`
+	CJ2        WeightKg `json:"cj_2"`
+	CJ3        WeightKg `json:"cj_3"`
+	BestSn     WeightKg `json:"best_snatch"`
+	BestCJ     WeightKg `json:"best_cj"`
+	Total      WeightKg `json:"total"`
+	Sinclair   float32  `json:"sinclair"`
+	Federation string   `json:"country"`
+	Instagram  string   `json:"instagram"`
 }
 
 // swagger:response LeaderboardResponse
