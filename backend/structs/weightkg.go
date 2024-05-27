@@ -8,7 +8,7 @@ import (
 	"strconv"
 )
 
-// A weight in kilograms represented as a fixed-point integer.
+// WeightKg is a weight in kilograms represented as a fixed-point integer.
 // The integer representation holds two decimal places, such that
 // the floating-point value "123.45" is stored as `12345`. Values
 // that cannot be exactly represented round toward zero.
@@ -16,7 +16,7 @@ type WeightKg struct {
 	value int32
 }
 
-// Returns a new WeightKg from a floating-point value.
+// NewWeightKg returns a new WeightKg from a floating-point value.
 // Values that cannot be exactly represented round toward zero.
 // Infinite or NaN inputs are treated as zero.
 func NewWeightKg(v float64) WeightKg {
@@ -24,17 +24,17 @@ func NewWeightKg(v float64) WeightKg {
 		return WeightKg{value: 0}
 	}
 
-	is_signed := v < 0                  // -0 is treated identically to 0.
+	isSigned := v < 0                   // -0 is treated identically to 0.
 	v = math.Floor(math.Abs(v) * 100.0) // Shift two decimal places left and truncate.
 
 	i := int32(v)
-	if is_signed {
+	if isSigned {
 		i = -i
 	}
 	return WeightKg{value: i}
 }
 
-// Returns a new WeightKg from a string value.
+// NewWeightKgFromString returns a new WeightKg from a string value.
 // Values that cannot be parsed return zero.
 func NewWeightKgFromString(s string) WeightKg {
 	// Explicitly allow writing the empty string instead of zero.
@@ -50,38 +50,38 @@ func NewWeightKgFromString(s string) WeightKg {
 	return NewWeightKg(float)
 }
 
-// Returns a new WeightKg from an integer weight.
+// NewWeightKgFromInt32 returns a new WeightKg from an integer weight.
 // This is mostly useful for values that are derived from enums.
 func NewWeightKgFromInt32(i int32) WeightKg {
 	return WeightKg{i * 100}
 }
 
-// Returns whether both weights are equal.
+// Equal returns whether both weights are equal.
 func (kg WeightKg) Equal(other WeightKg) bool {
 	return kg.value == other.value
 }
 
-// Returns whether kg > other.
+// GreaterThan returns whether kg > other.
 func (kg WeightKg) GreaterThan(other WeightKg) bool {
 	return kg.value > other.value
 }
 
-// Returns whether kg >= other.
+// GreaterThanOrEqual returns whether kg >= other.
 func (kg WeightKg) GreaterThanOrEqual(other WeightKg) bool {
 	return kg.value >= other.value
 }
 
-// Returns whether kg < other.
+// LessThan returns whether kg < other.
 func (kg WeightKg) LessThan(other WeightKg) bool {
 	return kg.value < other.value
 }
 
-// Returns whether kg <= other.
+// LessThanOrEqual returns whether kg <= other.
 func (kg WeightKg) LessThanOrEqual(other WeightKg) bool {
 	return kg.value <= other.value
 }
 
-// Returns -1 if negative, 0 if zero, +1 if positive.
+// Sign returns -1 if negative, 0 if zero, +1 if positive.
 func (kg WeightKg) Sign() int {
 	if kg.value > 0 {
 		return 1
@@ -92,20 +92,22 @@ func (kg WeightKg) Sign() int {
 	return 0
 }
 
+// IsPositive returns whether the weight is a positive number.
 func (kg WeightKg) IsPositive() bool {
 	return kg.value > 0
 }
 
+// IsNegative returns whether the weight is a negative number.
 func (kg WeightKg) IsNegative() bool {
 	return kg.value < 0
 }
 
-// Returns whether the weight is zero.
+// IsZero returns whether the weight is the zero value.
 func (kg WeightKg) IsZero() bool {
 	return kg.value == 0
 }
 
-// Returns the minimum of the two WeightKgs.
+// Min returns the minimum of the two WeightKgs.
 func (kg WeightKg) Min(other WeightKg) WeightKg {
 	if kg.LessThan(other) {
 		return kg
@@ -113,7 +115,7 @@ func (kg WeightKg) Min(other WeightKg) WeightKg {
 	return other
 }
 
-// Returns the maximum of the two WeightKgs.
+// Max returns the maximum of the two WeightKgs.
 func (kg WeightKg) Max(other WeightKg) WeightKg {
 	if kg.GreaterThan(other) {
 		return kg
@@ -121,17 +123,17 @@ func (kg WeightKg) Max(other WeightKg) WeightKg {
 	return other
 }
 
-// Returns the nearest float32 value.
+// Float32 returns the nearest float32 value.
 func (kg WeightKg) Float32() float32 {
 	return float32(kg.value) / 100
 }
 
-// Returns the nearest float64 value.
+// Float64 returns the nearest float64 value.
 func (kg WeightKg) Float64() float64 {
 	return float64(kg.value) / 100
 }
 
-// Renders the WeightKg as a string, looking like a floating-point number.
+// String renders the WeightKg as a string, looking like a floating-point number.
 // Decimal places are rendered with as few zeros as possible.
 //
 // Examples:
@@ -145,13 +147,13 @@ func (kg WeightKg) String() string {
 	}
 
 	// For purposes of the later modulo, store a non-negative representation.
-	non_negative := kg.value
-	if non_negative < 0 {
-		non_negative = -non_negative
+	nonNegative := kg.value
+	if nonNegative < 0 {
+		nonNegative = -nonNegative
 	}
 
 	integer := kg.value / 100
-	fraction := non_negative % 100
+	fraction := nonNegative % 100
 
 	// Render the integer component, which can include a negative sign.
 	acc := strconv.Itoa(int(integer))
@@ -166,7 +168,7 @@ func (kg WeightKg) String() string {
 	return acc + "." + fmt.Sprintf("%02d", fraction) // Render left-padded with '0' to two places.
 }
 
-// JSON deserialization.
+// UnmarshalJSON implements JSON deserialization.
 func (kg *WeightKg) UnmarshalJSON(bytes []byte) error {
 	if string(bytes) == "null" {
 		return nil
@@ -175,7 +177,8 @@ func (kg *WeightKg) UnmarshalJSON(bytes []byte) error {
 	return nil
 }
 
-// JSON serialization.
+// MarshalJSON implements JSON serialization.
+// Weights are serialized as floating-point values.
 func (kg WeightKg) MarshalJSON() ([]byte, error) {
 	return []byte(kg.String()), nil
 }
