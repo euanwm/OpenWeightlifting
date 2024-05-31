@@ -2,7 +2,7 @@
 # Shortcuts to the most common tools should be implemented here.
 
 build_backend:
-	mv event_data/ backend/event_data
+	cp -r event_data/ backend/
 	cd backend && go build -o backend
 
 # Installs the python tools used to update the database
@@ -39,7 +39,7 @@ generate-docs:
 .PHONY: clean
 clean:
 	rm -f backend/backend
-	mv backend/event_data .
+	rm -rf backend/event_data
 
 # Removes build files plus cached dependencies.
 .PHONY: veryclean
