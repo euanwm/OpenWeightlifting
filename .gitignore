@@ -3,3 +3,4 @@
 /.idea
 /.vscode
 /python_tools/database_handler/__pycache__
+/backend/event_data
