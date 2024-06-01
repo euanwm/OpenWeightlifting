@@ -10,7 +10,7 @@ from typing import Optional
 from database_handler.result_dataclasses import Result
 from database_handler.static_helpers import load_result_csv_as_list
 
-event_data_path: str = "../backend/event_data"
+event_data_path: str = "../event_data"
 
 
 def check_db() -> None:
