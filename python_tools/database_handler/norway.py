@@ -26,7 +26,7 @@ class Norway:
 
     def __init__(self):
         self.base_url: str = "https://nvf-backend.herokuapp.com/api/public/stevner/"
-        self.results_root: str = "../backend/event_data/NVF"
+        self.results_root: str = "../event_data/NVF"
         self.catlist = load_json(
             f"{os.getcwd()}/database_handler/gender_categories.json")
 

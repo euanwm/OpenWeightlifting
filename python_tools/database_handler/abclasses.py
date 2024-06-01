@@ -13,7 +13,7 @@ class WebScraper(ABC):
 
 
 class DBInterface(ABC):
-    RESULTS_ROOT = "../backend/event_data/"
+    RESULTS_ROOT = "../event_data/"
 
     @abstractmethod
     def update_results(self) -> None:
