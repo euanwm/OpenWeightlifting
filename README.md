@@ -1,14 +1,12 @@
 # OpenWeightlifting
 This is the monorepo for the OpenWeightlifting.org project. The aim of this project is to build a database of the latest Olympic Weightlifting results from all around the world. This originally started from a scraping tool and quickly grew into what you see here now. All the results within the database were pulled directly from the event results pages from the National Governing Body of that nation. We try to avoid manual data entry so this is all done with our tooling written in Python.
 
-### Licensing, Data, and Comms
+# Licensing, Data, and Comms
 
-## Licensing
-
-# Code Licensing
+## Code Licensing
 Done this under the BSD-3-Clause license. Simply because it's what the sport80 library is under and i'm hella lazy.
 
-# Data Licensing
+## Data Licensing
 OpenWeightlifting data (`*.csv`) under `event_data/` is contributed to the public domain.
 
 The OpenWeightlifting database contains facts that, in and of themselves,<br/>
@@ -30,12 +28,12 @@ Sample attribution text:
 If you modify the data or add useful new data, please consider contributing<br/>
 the changes back so the entire (olympic) weightlifting community may benefit.
 
-## Project Discord
+## #Project Discord
 We have a somewhat small Discord, feel free to join it as it's the quickest way to reach any of the contributors on the project
 https://discord.com/invite/kqnBqdktgr
 
 
-### Testing, Building, and Nerding
+# Testing, Building, and Nerding
 
 ## Why Golang for the backend? 
 Originally it was Python but the build time was terrible and the response times were slow. Not only that but the memory usage was high. Golang was chosen because it's fast, has a low memory footprint and the build times are quick. It's also a language that's easy to pick up and learn. We migrated from Python to Golang within in a week of picking up the language.
