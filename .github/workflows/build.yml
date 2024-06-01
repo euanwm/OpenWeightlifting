@@ -35,7 +35,7 @@ jobs:
 
       - name: Move event_data
         run: |
-          cp -f event_data/ backend/
+          cp -r event_data/ backend/
 
       - name: Linting Backend
         uses: golangci/golangci-lint-action@v3
