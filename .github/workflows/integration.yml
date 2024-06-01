@@ -19,6 +19,7 @@ jobs:
 
       - name: Build & Run
         run: |
+          cp -r event_data/ backend/
           cd backend/
           go build -o backend
           ./backend local &

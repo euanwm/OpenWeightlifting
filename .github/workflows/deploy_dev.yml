@@ -10,6 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - name: Move event_data
+        run: |
+          cp -r event_data/ backend/
       - name: Deploy Development Backend
         uses: behe/heroku-build@v1
         with:
