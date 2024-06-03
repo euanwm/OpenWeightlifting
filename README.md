@@ -28,7 +28,7 @@ Sample attribution text:
 If you modify the data or add useful new data, please consider contributing<br/>
 the changes back so the entire (olympic) weightlifting community may benefit.
 
-## #Project Discord
+## Project Discord
 We have a somewhat small Discord, feel free to join it as it's the quickest way to reach any of the contributors on the project
 https://discord.com/invite/kqnBqdktgr
 
