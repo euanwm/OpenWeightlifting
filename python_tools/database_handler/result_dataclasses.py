@@ -57,6 +57,7 @@ class Result:
     total: float = 0.0
 
     def __post_init__(self):
+        self.__catch_nones()
         self.best_snatch = self.__best_snatch()
         self.best_cj = self.__best_cj()
         self.total = self.__total()
@@ -71,3 +72,9 @@ class Result:
         if self.best_snatch == 0.0 or self.best_cj == 0.0:
             return 0.0
         return self.best_snatch + self.best_cj
+
+    def __catch_nones(self):
+        for key, value in self.__dict__.items():
+            if value is None:
+                if key in ['snatch_1', 'snatch_2', 'snatch_3', 'cj_1', 'cj_2', 'cj_3']:
+                    setattr(self, key, 0)
