@@ -6,14 +6,14 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 Asian Championships,2023-05-05,55 kg Men,NAFASOV Ogabek,54.93,105,108,111,127,-131,-132,111,127,238
 2023 Asian Championships,2023-05-05,55 kg Men,NUGROHO Satrio Adi,54.71,105,109,-112,132,137,-140,109,137,246
 2023 Asian Championships,2023-05-05,55 kg Men,TAJ Md Ashikur Rahman,54.66,-90,90,95,110,-120,-120,95,110,205
-2023 Asian Championships,2023-05-05,55 kg Men,TANG CHUN YEN,54.64,-85,85,-89,115,-118,-118,85,115,200
+2023 Asian Championships,2023-05-05,55 kg Men,TANG Chun-Yen,54.64,-85,85,-89,115,-118,-118,85,115,200
 2023 Asian Championships,2023-05-05,55 kg Men,NASOD Thy,54.96,-75,76,80,-95,100,105,80,105,185
-2023 Asian Championships,2023-05-05,55 kg Men,BASEL ABDULLAH Anbar Ahmed,52.16,-75,75,-82,95,102,106,75,106,181
+2023 Asian Championships,2023-05-05,55 kg Men,ABDULLAH ANBAR AHMED M. Basel,52.16,-75,75,-82,95,102,106,75,106,181
 2023 Asian Championships,2023-05-05,61 kg Men,LI Fabin,60.96,136,141,143,166,171,-174,143,171,314
 2023 Asian Championships,2023-05-05,61 kg Men,CHEN Lijun,60.92,137,-142,142,168,-173,-173,142,168,310
 2023 Asian Championships,2023-05-05,61 kg Men,SAPUTRA Ricko,60.61,127,131,133,161,165,-168,133,165,298
 2023 Asian Championships,2023-05-05,61 kg Men,SILACHAI Theerapong,59.99,127,130,132,162,164,167,132,167,299
-2023 Asian Championships,2023-05-05,61 kg Men,CENIZA John Fabuar,60.69,125,128,-131,160,165,-168,128,165,293
+2023 Asian Championships,2023-05-05,61 kg Men,CENIZA John Febuar,60.69,125,128,-131,160,165,-168,128,165,293
 2023 Asian Championships,2023-05-05,61 kg Men,MOHAMAD ANIQ Bin Kasdan,60.70,114,119,122,151,158,162,122,162,284
 2023 Asian Championships,2023-05-05,61 kg Men,ALIYEV Otepbergen,60.95,114,118,121,143,150,-153,121,150,271
 2023 Asian Championships,2023-05-05,61 kg Men,HIRAI Kaito,60.82,113,118,-122,150,156,-164,118,156,274
@@ -22,10 +22,10 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 Asian Championships,2023-05-05,61 kg Men,BAGTYYAROV Perhat,60.95,-112,112,115,140,145,-147,115,145,260
 2023 Asian Championships,2023-05-05,61 kg Men,YODAGE Dilanka Isuru Kumara,56.35,-105,105,-112,0,0,0,105,0,0
 2023 Asian Championships,2023-05-05,61 kg Men,MUNKHBAYAR Ochirerdene,60.45,88,92,-95,108,113,-116,92,113,205
-2023 Asian Championships,2023-05-05,61 kg Men,TRINH Van Vinh,60.90,-128,-128,-128,-162,163,-167,0,163,0
 2023 Asian Championships,2023-05-05,61 kg Men,SHIN Rok,60.92,-127,-127,-127,-155,155,-166,0,155,0
 2023 Asian Championships,2023-05-05,61 kg Men,MUHAMAD Aznil Bin Bidin,60.97,-127,-128,-128,157,163,-166,0,163,0
 2023 Asian Championships,2023-05-05,61 kg Men,CHOMCHUEN Teerapat,59.80,-130,0,0,-161,0,0,0,0,0
+2023 Asian Championships,2023-05-05,61 kg Men,TRINH Van Vinh,60.90,-128,-128,-128,-162,163,-167,0,163,0
 2023 Asian Championships,2023-05-05,61 kg Men,MIRZAYEV Seyitjan,61.00,-129,-129,-129,-145,-150,-150,0,0,0
 2023 Asian Championships,2023-05-05,67 kg Men,HE Yueji,66.89,138,143,147,167,173,-177,147,173,320
 2023 Asian Championships,2023-05-05,67 kg Men,JEREMY Lalrinnunga,66.50,-137,137,141,-165,-165,-168,141,0,0
@@ -34,13 +34,101 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 Asian Championships,2023-05-05,67 kg Men,DING Hongjie,61.20,135,-138,139,166,-171,-171,139,166,305
 2023 Asian Championships,2023-05-05,67 kg Men,ERGASHEV Adkhamjon,66.89,130,134,138,162,168,174,138,174,312
 2023 Asian Championships,2023-05-05,67 kg Men,RUZMETOV Diyorbek,66.79,122,127,-130,150,-155,157,127,157,284
-2023 Asian Championships,2023-05-05,67 kg Men,AL BUSAIDI Elyas Tamim Shuwaired,66.79,120,125,-128,153,157,-162,125,157,282
+2023 Asian Championships,2023-05-05,67 kg Men,AL BUSAIDI Elyas Tamim,66.79,120,125,-128,153,157,-162,125,157,282
 2023 Asian Championships,2023-05-05,67 kg Men,LIU Yung Fu,66.62,120,-124,-126,150,156,-159,120,156,276
 2023 Asian Championships,2023-05-05,67 kg Men,MURATBEK UULU Ishimbek,66.80,115,-120,-122,-155,155,-160,115,155,270
 2023 Asian Championships,2023-05-05,67 kg Men,ULAANTSETSEG Amarbayar,65.97,-115,115,-120,141,-148,-148,115,141,256
 2023 Asian Championships,2023-05-05,67 kg Men,ALSALEEM Seraj Abdulrahim M,63.12,0,0,0,0,0,0,0,0,0
-2023 Asian Championships,2023-05-05,45 kg Women,PRAMONGKHOL Siriwimon,44.41,75,-77,77,91,95,100,77,100,177
-2023 Asian Championships,2023-05-05,45 kg Women,RAMOS Rose Jean,44.66,70,73,-75,85,88,-90,73,88,161
+2023 Asian Championships,2023-05-05,73 kg Men,WEI Yinting,72.79,150,-155,155,-173,173,-181,155,173,328
+2023 Asian Championships,2023-05-05,73 kg Men,CHURKIN Alexey,72.91,146,151,154,186,-191,-191,154,186,340
+2023 Asian Championships,2023-05-05,73 kg Men,MIYAMOTO Masanori,72.86,-148,148,153,186,-191,191,153,191,344
+2023 Asian Championships,2023-05-05,73 kg Men,WICHUMA Weeraphon,72.22,146,150,-154,186,190,192,150,192,342
+2023 Asian Championships,2023-05-05,73 kg Men,JEERAM Suttipong,72.88,145,149,-152,180,185,-189,149,185,334
+2023 Asian Championships,2023-05-05,73 kg Men,BAK Joohyo,72.71,146,149,-152,186,-190,191,149,191,340
+2023 Asian Championships,2023-05-05,73 kg Men,REYIMOV Bektimur,72.55,143,-147,147,172,-176,-176,147,172,319
+2023 Asian Championships,2023-05-05,73 kg Men,JEONG Hansol,72.82,143,-147,-147,-187,-187,-188,143,0,0
+2023 Asian Championships,2023-05-05,73 kg Men,YOKUBOV Doston,72.82,137,141,-144,175,-182,182,141,182,323
+2023 Asian Championships,2023-05-05,73 kg Men,SHEULI Achinta,72.91,136,-140,140,165,-169,-171,140,165,305
+2023 Asian Championships,2023-05-05,73 kg Men,NARAYANA Ajith,72.96,135,139,-141,164,168,-171,139,168,307
+2023 Asian Championships,2023-05-05,73 kg Men,HUANG Pin-Hsun,72.85,-135,135,138,161,-166,-166,138,161,299
+2023 Asian Championships,2023-05-05,73 kg Men,CHEN Wang-Heng,72.55,132,-136,-136,155,162,-167,132,162,294
+2023 Asian Championships,2023-05-05,73 kg Men,DISSANAYAKE MUDIYANSELAGE Indika C D,72.94,-130,130,-134,157,-160,-160,130,157,287
+2023 Asian Championships,2023-05-05,73 kg Men,ARTYKOV Izzat,72.85,120,125,130,150,160,-165,130,160,290
+2023 Asian Championships,2023-05-05,73 kg Men,MEREDOV Maksad,73.00,-140,-140,-142,0,0,0,0,0,0
+2023 Asian Championships,2023-05-05,73 kg Men,KONNAI Mitsunori,72.72,-140,0,0,0,0,0,0,0,0
+2023 Asian Championships,2023-05-05,73 kg Men,SHI Zhiyong,72.59,0,0,0,0,0,0,0,0,0
+2023 Asian Championships,2023-05-05,81 kg Men,SEITKAZY Yelaman,80.90,147,151,155,-183,-183,-183,155,0,0
+2023 Asian Championships,2023-05-05,81 kg Men,SOLTANI Hossein,80.79,149,154,-157,184,-195,-196,154,184,338
+2023 Asian Championships,2023-05-05,81 kg Men,CHUANG Sheng-Min,80.09,150,154,-156,180,0,0,154,180,334
+2023 Asian Championships,2023-05-05,81 kg Men,PARK Hyeongo,80.92,-143,-143,143,-175,175,181,143,181,324
+2023 Asian Championships,2023-05-05,81 kg Men,LOH Yuan Yee,80.27,136,-143,-145,-160,-160,-165,136,0,0
+2023 Asian Championships,2023-05-05,81 kg Men,OTGONBAYAR Buyantogtokh,80.29,105,-110,-110,130,-138,-138,105,130,235
+2023 Asian Championships,2023-05-05,81 kg Men,SHUKUROV Ilkhomjon,76.93,90,95,98,110,115,120,98,120,218
+2023 Asian Championships,2023-05-05,89 kg Men,LI Dayin,88.48,171,176,180,205,-216,216,180,216,396
+2023 Asian Championships,2023-05-05,89 kg Men,MOLDODOSOV Emil,88.87,160,166,-169,-187,187,-192,166,187,353
+2023 Asian Championships,2023-05-05,89 kg Men,TIAN Tao,88.82,165,-172,-172,210,-222,222,165,222,387
+2023 Asian Championships,2023-05-05,89 kg Men,ROSTAMI Kianoush,88.92,165,-172,-172,186,-207,-207,165,186,351
+2023 Asian Championships,2023-05-05,89 kg Men,PETROVICH Sergey,88.41,-165,165,-170,193,198,-202,165,198,363
+2023 Asian Championships,2023-05-05,89 kg Men,YU Dongju,88.50,155,161,-166,195,201,-206,161,201,362
+2023 Asian Championships,2023-05-05,89 kg Men,BEKTAY Assylzhan,88.50,155,160,-164,185,-191,-191,160,185,345
+2023 Asian Championships,2023-05-05,89 kg Men,JAVADI ALIABADI Mir Mostafa,87.29,154,159,-163,197,205,-211,159,205,364
+2023 Asian Championships,2023-05-05,89 kg Men,AL-KHANJARI Amur Salim Ramadhan,88.33,150,155,-161,191,202,-206,155,202,357
+2023 Asian Championships,2023-05-05,89 kg Men,SHISHIDO Daisuke,87.92,150,-155,-155,185,-195,-202,150,185,335
+2023 Asian Championships,2023-05-05,89 kg Men,HSIEH Meng-En,88.77,145,-150,150,185,190,-196,150,190,340
+2023 Asian Championships,2023-05-05,89 kg Men,LIM Kang Yin,86.45,130,135,-140,160,-170,170,135,170,305
+2023 Asian Championships,2023-05-05,89 kg Men,DORJSEMBE Dorjnamjim,88.99,115,-120,122,148,-153,158,122,158,280
+2023 Asian Championships,2023-05-05,89 kg Men,SANGOV Asomuddin,86.91,105,110,-117,135,141,145,110,145,255
+2023 Asian Championships,2023-05-05,89 kg Men,SHOHRADOV Shatlyk,88.87,-161,-161,-163,-190,-190,190,0,190,0
+2023 Asian Championships,2023-05-05,89 kg Men,THARAPHAN Phacharamethi,88.90,-145,-145,-145,190,-196,-196,0,190,0
+2023 Asian Championships,2023-05-05,96 kg Men,LIU Huanhua,89.43,-170,170,175,210,-223,-223,175,210,385
+2023 Asian Championships,2023-05-05,96 kg Men,SUMPRADIT Sarat,95.33,169,173,-176,202,-206,207,173,207,380
+2023 Asian Championships,2023-05-05,96 kg Men,WON Jongbeom,95.55,165,-170,171,205,-211,211,171,211,382
+2023 Asian Championships,2023-05-05,96 kg Men,AL-LAMI Qasim Hasan Abdulhussein,93.85,161,167,-172,191,195,198,167,198,365
+2023 Asian Championships,2023-05-05,96 kg Men,MATYAKUBOV Shahzadbek,95.15,160,165,-168,192,-198,-199,165,192,357
+2023 Asian Championships,2023-05-05,96 kg Men,USAROV Sunnatilla,95.85,162,-166,-168,190,196,-200,162,196,358
+2023 Asian Championships,2023-05-05,96 kg Men,MOUSAVIJARAHI Seyedayoob,95.25,-154,155,-162,182,191,-204,155,191,346
+2023 Asian Championships,2023-05-05,96 kg Men,OLIMOV Khojiakbar,90.33,145,150,155,185,190,-194,155,190,345
+2023 Asian Championships,2023-05-05,96 kg Men,POLUBOYARINOV Denis,89.65,145,150,-155,190,-196,-197,150,190,340
+2023 Asian Championships,2023-05-05,96 kg Men,ALSALLAJ Asem Mousa Husam,95.73,135,140,-145,172,180,-184,140,180,320
+2023 Asian Championships,2023-05-05,96 kg Men,ALRUWEAI Mohammad D Z F A,95.95,120,-127,-130,-150,-150,-150,120,0,0
+2023 Asian Championships,2023-05-05,102 kg Men,JANG Yeonhak,101.45,175,179,182,-210,210,-216,182,210,392
+2023 Asian Championships,2023-05-05,102 kg Men,ADILETULY Nurgissa,101.65,173,178,181,210,215,219,181,219,400
+2023 Asian Championships,2023-05-05,102 kg Men,CHEN Po-Jen,101.22,173,178,181,-203,-205,205,181,205,386
+2023 Asian Championships,2023-05-05,102 kg Men,HASANBAYEV Davranbek,101.00,173,177,180,192,-197,-197,180,192,372
+2023 Asian Championships,2023-05-05,102 kg Men,JIN Yunseong,101.45,175,-180,180,213,218,-221,180,218,398
+2023 Asian Championships,2023-05-05,102 kg Men,DEHDAR Reza,101.75,166,172,-179,204,211,-221,172,211,383
+2023 Asian Championships,2023-05-05,102 kg Men,RASULBEKOV Bekdoolot,101.71,164,-169,-169,208,214,217,164,217,381
+2023 Asian Championships,2023-05-05,102 kg Men,MOCHIDA Ryunosuke,101.90,162,-172,-172,-200,200,-220,162,200,362
+2023 Asian Championships,2023-05-05,102 kg Men,MORADI Sohrab,100.93,157,162,-166,200,-210,-221,162,200,362
+2023 Asian Championships,2023-05-05,102 kg Men,AL-CHLAIHAWI Layth Abdulkareem Kadhim,98.81,155,-161,-161,190,-200,-200,155,190,345
+2023 Asian Championships,2023-05-05,102 kg Men,MA Ching-Chieh,101.59,-145,-145,145,180,-186,-186,145,180,325
+2023 Asian Championships,2023-05-05,102 kg Men,GHAFUROV Akbarzhon,98.27,110,115,120,140,145,-147,120,145,265
+2023 Asian Championships,2023-05-05,102 kg Men,ELBAKH Fares Ibrahim E. H.,98.86,0,0,0,0,0,0,0,0,0
+2023 Asian Championships,2023-05-05,102 kg Men,PAREDES MONTANO Lesman,100.45,0,0,0,0,0,0,0,0,0
+2023 Asian Championships,2023-05-05,109 kg Men,RUBAIAWI Ali Ammar Yusur,107.70,172,176,178,202,211,-215,178,211,389
+2023 Asian Championships,2023-05-05,109 kg Men,NURUDINOV Ruslan,108.51,170,175,177,213,221,228,177,228,405
+2023 Asian Championships,2023-05-05,109 kg Men,KARAMI Mehdi,108.71,166,173,-177,203,211,-217,173,211,384
+2023 Asian Championships,2023-05-05,109 kg Men,ANTROPOV Artyom,105.35,165,169,172,220,-227,227,172,227,399
+2023 Asian Championships,2023-05-05,109 kg Men,SAMARKANOV Andas,108.76,162,169,-173,212,221,-228,169,221,390
+2023 Asian Championships,2023-05-05,109 kg Men,AZIZI Amir,108.65,163,169,-174,201,212,-218,169,212,381
+2023 Asian Championships,2023-05-05,109 kg Men,DONG Bing-Cheng,108.30,165,-171,-171,205,-212,-213,165,205,370
+2023 Asian Championships,2023-05-05,109 kg Men,NOMOZOV Kurbonmurod,108.51,152,157,-162,190,200,203,157,203,360
+2023 Asian Championships,2023-05-05,109 kg Men,ALKHAZAL Ali Ahmed A,103.05,0,0,0,0,0,0,0,0,0
+2023 Asian Championships,2023-05-05,109 kg Men,BADER D Y A Alshammari,102.10,-120,-120,-120,140,-155,155,0,155,0
+2023 Asian Championships,2023-05-05,+109 kg Men,MINASYAN Gor Tigran A.,153.73,203,213,217,235,-246,247,217,247,464
+2023 Asian Championships,2023-05-05,+109 kg Men,SHARIFIKELARIJANI Ayat,154.52,186,192,197,230,239,-245,197,239,436
+2023 Asian Championships,2023-05-05,+109 kg Men,DJANGABAEV Rustam,168.97,185,191,196,232,241,0,196,241,437
+2023 Asian Championships,2023-05-05,+109 kg Men,DJURAEV Akbar,126.76,189,-195,195,230,-240,242,195,242,437
+2023 Asian Championships,2023-05-05,+109 kg Men,YOUSEFI Alireza,186.63,176,184,190,236,246,-249,190,246,436
+2023 Asian Championships,2023-05-05,+109 kg Men,MURAKAMI Eishiro,146.59,180,185,-190,216,-226,-236,185,216,401
+2023 Asian Championships,2023-05-05,+109 kg Men,TOYCHYYEV Hojamuhammet,151.47,175,181,-186,215,220,225,181,225,406
+2023 Asian Championships,2023-05-05,+109 kg Men,CHINEN Kosuke,153.64,180,-186,-186,205,222,-226,180,222,402
+2023 Asian Championships,2023-05-05,+109 kg Men,JO Seongbin,140.86,176,-184,-185,-220,-220,222,176,222,398
+2023 Asian Championships,2023-05-05,+109 kg Men,JIN Cheng,144.39,165,-175,-176,205,-215,216,165,216,381
+2023 Asian Championships,2023-05-05,+109 kg Men,BHANDARI Sagar,116.41,112,-118,-118,145,152,-161,112,152,264
+2023 Asian Championships,2023-05-05,+109 kg Men,ASAAD Man,162.00,0,0,0,0,0,0,0,0,0
+2023 Asian Championships,2023-05-05,45 kg Women,PRAMONGHKHOL Siriwimon,44.41,75,-77,77,91,95,100,77,100,177
+2023 Asian Championships,2023-05-05,45 kg Women,RAMOS AMIS Rose Jean,44.66,70,73,-75,85,88,-90,73,88,161
 2023 Asian Championships,2023-05-05,45 kg Women,HARIROH Siti Nafisatul,44.75,68,-71,71,86,-88,88,71,88,159
 2023 Asian Championships,2023-05-05,45 kg Women,KAMNOEDSRI Khemika,44.05,69,-71,-73,-86,86,-89,69,86,155
 2023 Asian Championships,2023-05-05,45 kg Women,HONG Zi-Yu,44.84,66,-68,-68,85,87,-89,66,87,153
@@ -55,16 +143,16 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 Asian Championships,2023-05-05,49 kg Women,SUZUKI Rira,48.33,-81,81,83,104,108,111,83,111,194
 2023 Asian Championships,2023-05-05,49 kg Women,AJIMA Chiaki,48.89,-82,82,-84,-100,100,-107,82,100,182
 2023 Asian Championships,2023-05-05,49 kg Women,SHIN Jaegyeong,48.81,79,81,-83,98,101,103,81,103,184
-2023 Asian Championships,2023-05-05,49 kg Women,FANG Wan-Ling,48.69,75,80,-82,95,98,101,80,101,181
+2023 Asian Championships,2023-05-05,49 kg Women,FANG Wan Ling,48.69,75,80,-82,95,98,101,80,101,181
 2023 Asian Championships,2023-05-05,49 kg Women,INAN Lovely,48.77,-80,80,-83,-103,103,-105,80,103,183
 2023 Asian Championships,2023-05-05,49 kg Women,LIN Cheng Jing,48.63,-80,80,-83,100,102,104,80,104,184
 2023 Asian Championships,2023-05-05,49 kg Women,AISAH Windy Cantika,48.84,-80,80,-83,-95,-95,-95,80,0,0
 2023 Asian Championships,2023-05-05,49 kg Women,PHAM Dinh Thi,48.71,-79,79,-82,100,-103,103,79,103,182
 2023 Asian Championships,2023-05-05,49 kg Women,BUYANDELGER Erdenezul,49.00,71,-75,-75,87,92,-95,71,92,163
-2023 Asian Championships,2023-05-05,49 kg Women,JUMABAYEVA Yulduz,49.00,-75,-75,-75,96,99,-101,0,99,0
+2023 Asian Championships,2023-05-05,49 kg Women,DZHUMABAYEVA Yulduz,49.00,-75,-75,-75,96,99,-101,0,99,0
 2023 Asian Championships,2023-05-05,49 kg Women,NGUYEN HOAI Huong,48.88,-75,-75,-75,-91,91,-94,0,91,0
 2023 Asian Championships,2023-05-05,49 kg Women,BERDYYEVA Bagul,49.00,-72,-72,-75,-88,0,0,0,0,0
-2023 Asian Championships,2023-05-05,55 kg Women,CHEN Guan Ling,54.60,87,-90,90,107,110,114,90,114,204
+2023 Asian Championships,2023-05-05,55 kg Women,CHEN Guan-Ling,54.60,87,-90,90,107,110,114,90,114,204
 2023 Asian Championships,2023-05-05,55 kg Women,VO THI Quynh Nhu,54.60,85,-88,88,104,-108,-108,88,104,192
 2023 Asian Championships,2023-05-05,55 kg Women,PANFILOVA Jamila,54.17,83,86,-88,102,105,-107,86,105,191
 2023 Asian Championships,2023-05-05,55 kg Women,SOROKHAIBAM Bindyarani Devi,54.84,80,83,-85,109,111,-115,83,111,194
@@ -92,3 +180,57 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 Asian Championships,2023-05-05,59 kg Women,KARIMI Reihaneh,58.99,75,-80,-80,95,-100,100,75,100,175
 2023 Asian Championships,2023-05-05,59 kg Women,YODSARN Suratwadee,58.50,-90,0,0,0,0,0,0,0,0
 2023 Asian Championships,2023-05-05,59 kg Women,QUANG Thi Tam,58.52,0,0,0,0,0,0,0,0,0
+2023 Asian Championships,2023-05-05,64 kg Women,GANZORIG Anuujin,63.92,93,-98,-99,113,116,118,93,118,211
+2023 Asian Championships,2023-05-05,64 kg Women,GORICHEVA Karina,63.95,85,-90,91,95,101,-106,91,101,192
+2023 Asian Championships,2023-05-05,64 kg Women,LI Wei-Chia,62.46,-86,86,-89,105,-107,107,86,107,193
+2023 Asian Championships,2023-05-05,64 kg Women,KESHAVARZ Fatemeh,63.45,-83,85,-89,105,109,-113,85,109,194
+2023 Asian Championships,2023-05-05,64 kg Women,DURDYYEVA Gulshat,62.81,78,80,-82,87,-90,-90,80,87,167
+2023 Asian Championships,2023-05-05,64 kg Women,AKTAR Mabia,63.95,70,73,-75,91,-96,96,73,96,169
+2023 Asian Championships,2023-05-05,64 kg Women,NICOLE HENG Lin Li,62.93,-74,-74,-75,-90,-90,90,0,90,0
+2023 Asian Championships,2023-05-05,64 kg Women,AMANOVA Medine,61.12,85,88,90,105,110,117,0,0,0
+2023 Asian Championships,2023-05-05,71 kg Women,LIAO Guifang,70.82,110,115,120,140,148,0,120,148,268
+2023 Asian Championships,2023-05-05,71 kg Women,SARNO Vanessa,70.39,100,105,107,126,132,-136,107,132,239
+2023 Asian Championships,2023-05-05,71 kg Women,PHAM Thi Hong Thanh,69.95,96,100,103,118,123,127,103,127,230
+2023 Asian Championships,2023-05-05,71 kg Women,ZENG Tiantian,70.92,98,102,-105,-125,126,129,102,129,231
+2023 Asian Championships,2023-05-05,71 kg Women,MUN Minhee,70.30,95,99,102,-124,-124,-124,102,0,0
+2023 Asian Championships,2023-05-05,71 kg Women,CHEN Wen-Huei,69.89,93,97,101,123,128,131,101,131,232
+2023 Asian Championships,2023-05-05,71 kg Women,ISHII Miku,70.43,98,101,-102,-120,120,125,101,125,226
+2023 Asian Championships,2023-05-05,71 kg Women,MACROHON Kristel,70.54,98,-102,-104,-120,120,-125,98,120,218
+2023 Asian Championships,2023-05-05,71 kg Women,SEGAWA Runa,70.64,-93,93,96,121,126,129,96,129,225
+2023 Asian Championships,2023-05-05,71 kg Women,FATTOUH Mahassen Hala,69.60,86,90,94,105,110,115,94,115,209
+2023 Asian Championships,2023-05-05,71 kg Women,ALMADANI Mai Ahmad Essa Ahmad,68.74,66,-70,-70,77,80,-85,66,80,146
+2023 Asian Championships,2023-05-05,71 kg Women,KADYROVA Gulnabat,68.92,0,0,0,0,0,0,0,0,0
+2023 Asian Championships,2023-05-05,71 kg Women,GOMBOSUREN Enerel,70.44,-90,-90,-90,115,-120,122,0,122,0
+2023 Asian Championships,2023-05-05,76 kg Women,KHAIPANDUNG Siriyakorn,75.49,105,108,110,123,127,-130,110,127,237
+2023 Asian Championships,2023-05-05,76 kg Women,KIM Suhyeon,75.86,100,105,109,129,-134,134,109,134,243
+2023 Asian Championships,2023-05-05,76 kg Women,LEE Min Ji,73.43,-96,96,100,124,128,-131,100,128,228
+2023 Asian Championships,2023-05-05,76 kg Women,NURLYBEKOVA Aray,75.86,93,98,-101,120,-125,-127,98,120,218
+2023 Asian Championships,2023-05-05,76 kg Women,LI Xing-En,75.85,-85,85,-93,115,-121,-121,85,115,200
+2023 Asian Championships,2023-05-05,81 kg Women,LIANG Xiaomei,80.23,113,118,120,145,150,155,120,155,275
+2023 Asian Championships,2023-05-05,81 kg Women,WANG Zhouyu,80.84,-115,-115,115,140,146,-151,115,146,261
+2023 Asian Championships,2023-05-05,81 kg Women,MUNKHJANTSAN Ankhtsetseg,80.98,106,-108,108,135,0,0,108,135,243
+2023 Asian Championships,2023-05-05,81 kg Women,KIM Iseul,79.70,100,105,107,126,131,-136,107,131,238
+2023 Asian Championships,2023-05-05,81 kg Women,HOSSEINI Seyedehelham,80.92,101,-105,106,125,-131,131,106,131,237
+2023 Asian Championships,2023-05-05,81 kg Women,NAGASHIMA Wakana,78.30,95,100,-105,125,130,135,100,135,235
+2023 Asian Championships,2023-05-05,81 kg Women,YAMASAKI Haruko,79.02,95,-102,-102,121,-130,-137,95,121,216
+2023 Asian Championships,2023-05-05,81 kg Women,YESZHANOVA Aiym,79.96,90,93,-97,118,123,-125,93,123,216
+2023 Asian Championships,2023-05-05,81 kg Women,NOORALI Parisa,80.31,-91,91,-96,-116,116,-121,91,116,207
+2023 Asian Championships,2023-05-05,81 kg Women,ALBULOUSHI Fatemah M A M J,79.42,60,65,-68,80,85,90,65,90,155
+2023 Asian Championships,2023-05-05,81 kg Women,FAHD NAJI BAQASS Hanan,76.10,-62,-62,62,-78,-78,-78,62,0,0
+2023 Asian Championships,2023-05-05,87 kg Women,LO Ying-Yuan,84.95,105,-110,110,127,-130,131,110,131,241
+2023 Asian Championships,2023-05-05,87 kg Women,ADASHBAEVA Rigina,83.54,97,101,103,122,-126,127,103,127,230
+2023 Asian Championships,2023-05-05,87 kg Women,RUSTAMOVA Anamjan,82.73,98,100,102,120,124,-129,102,124,226
+2023 Asian Championships,2023-05-05,87 kg Women,OMAROVA Aisha,81.70,96,-99,100,123,127,-131,100,127,227
+2023 Asian Championships,2023-05-05,87 kg Women,YUN Ha Je,86.06,-99,-99,99,130,132,-143,99,132,231
+2023 Asian Championships,2023-05-05,87 kg Women,SHEIKH HASSAN ARBAB Zeinab,86.64,91,95,-97,123,-128,-128,95,123,218
+2023 Asian Championships,2023-05-05,87 kg Women,KIPSHAKBAY Dinara,84.64,87,-90,90,108,113,-118,90,113,203
+2023 Asian Championships,2023-05-05,+87 kg Women,LI Wenwen,149.30,130,135,140,170,175,0,140,175,315
+2023 Asian Championships,2023-05-05,+87 kg Women,PARK Hyejeong,133.41,118,125,127,158,165,168,127,168,295
+2023 Asian Championships,2023-05-05,+87 kg Women,SON Younghee,116.25,120,-126,-126,158,-165,169,120,169,289
+2023 Asian Championships,2023-05-05,+87 kg Women,KOVALCHUK Lyubov,139.14,110,115,118,146,151,156,118,156,274
+2023 Asian Championships,2023-05-05,+87 kg Women,JABBOROVA Tursunoy,100.30,107,112,115,130,135,140,115,140,255
+2023 Asian Championships,2023-05-05,+87 kg Women,SANSYZBAYEVA Aisamal,116.61,105,110,113,138,143,146,113,146,259
+2023 Asian Championships,2023-05-05,+87 kg Women,WANG Ling Chen,105.21,105,110,-113,-138,138,-142,110,138,248
+2023 Asian Championships,2023-05-05,+87 kg Women,NAKAJIMA Yuna,95.92,-102,-102,102,130,137,-147,102,137,239
+2023 Asian Championships,2023-05-05,+87 kg Women,TRAN Thi Hien,120.33,95,-98,98,120,125,-130,98,125,223
+2023 Asian Championships,2023-05-05,+87 kg Women,CHAIDEE Duangaksorn,114.77,-132,0,0,0,0,0,0,0,0
