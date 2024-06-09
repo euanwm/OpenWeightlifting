@@ -424,3 +424,13 @@ class InternationalWF:
         ordered_data = [list(x.values()) for x in big_data]
         ordered_data.insert(0, key_order)
         return ordered_data
+
+    def rebuild_single_event(self, csv_id: int) -> None:
+        """Rebuilds a single event"""
+        comp_index = self.fetch_events_list()
+        for comp_info in comp_index:
+            if comp_info[0] == csv_id:
+                comp_results = self.get_results(comp_info[0])
+                comp_result_data = self.__convert_to_conform(
+                    comp_results, comp_info)
+                write_to_csv(self.iwf_root_dir, comp_info[0], comp_result_data)
