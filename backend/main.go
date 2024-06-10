@@ -61,7 +61,7 @@ func buildServer() *gin.Engine {
 // CacheMeOutsideHowBoutDat - Precaches data on startup on a separate thread due to container timeout constraints.
 func CacheMeOutsideHowBoutDat() {
 	log.Println("Precaching data...")
-	for n, query := range dbtools.PreCacheQuery {
+	for n, query := range dbtools.PreCacheQuery() {
 		log.Println("Caching query: ", n)
 		_, _ = QueryCache.CheckQuery(query)
 		liftdata := LeaderboardData.Select(query.SortBy)
