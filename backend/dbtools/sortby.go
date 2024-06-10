@@ -4,6 +4,7 @@ import (
 	"backend/enum"
 	"backend/structs"
 	"backend/utilities"
+	"log"
 	"sort"
 	"time"
 )
@@ -15,6 +16,11 @@ func FilterLifts(bigData []structs.Entry, filterQuery structs.LeaderboardPayload
 	if exists {
 		filteredData.Data, filteredData.Size = fetchLifts(&bigData, positions, &filterQuery)
 		return
+	}
+
+	if exists == false && positions != nil {
+		log.Println("Partial query called")
+		bigData = fetchLiftsAll(&bigData, positions)
 	}
 
 	var names []string
@@ -77,6 +83,13 @@ func fetchLifts(bigData *[]structs.Entry, pos []int, query *structs.LeaderboardP
 
 	size = len(lifts)
 	lifts = lifts[query.Start:query.Stop]
+	return
+}
+
+func fetchLiftsAll(bigData *[]structs.Entry, pos []int) (lifts []structs.Entry) {
+	for _, p := range pos {
+		lifts = append(lifts, (*bigData)[p])
+	}
 	return
 }
 
