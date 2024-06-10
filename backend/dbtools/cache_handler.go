@@ -36,8 +36,18 @@ func (q *QueryCache) CheckQuery(query structs.LeaderboardPayload) (bool, []int) 
 	}
 	// if we get here, we haven't found a match, so we'll do some partial matching
 	for _, cacheQuery := range q.Store {
+		// all years for the same total/sinclair, federation and weight class
 		if cacheQuery.Filter.SortBy == query.SortBy && cacheQuery.Filter.Federation == query.Federation && cacheQuery.Filter.WeightClass == query.WeightClass && cacheQuery.Filter.Year == enum.AllYearsStr {
 			return false, cacheQuery.DataPositions
+		}
+		// all years for the same total/sinclair, federation, and all gendered weight classes
+		if cacheQuery.Filter.SortBy == query.SortBy && cacheQuery.Filter.Federation == query.Federation && cacheQuery.Filter.Year == enum.AllYearsStr {
+			if query.WeightClass[0] == 'M' && cacheQuery.Filter.WeightClass == "MALL" {
+				return false, cacheQuery.DataPositions
+			}
+			if query.WeightClass[0] == 'F' && cacheQuery.Filter.WeightClass == "FALL" {
+				return false, cacheQuery.DataPositions
+			}
 		}
 	}
 	return false, nil
