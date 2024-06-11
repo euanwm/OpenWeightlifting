@@ -17,7 +17,7 @@ func FilterLifts(bigData []structs.Entry, filterQuery structs.LeaderboardPayload
 		return
 	}
 
-	if exists == false && positions != nil {
+	if !exists && positions != nil {
 		bigData = fetchLiftsAll(&bigData, positions)
 	}
 
