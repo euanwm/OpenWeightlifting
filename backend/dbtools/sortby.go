@@ -17,6 +17,10 @@ func FilterLifts(bigData []structs.Entry, filterQuery structs.LeaderboardPayload
 		return
 	}
 
+	if !exists && positions != nil {
+		bigData = fetchLiftsAll(&bigData, positions)
+	}
+
 	var names []string
 	var liftPtr *structs.Entry
 	var liftPositions []int
@@ -77,6 +81,13 @@ func fetchLifts(bigData *[]structs.Entry, pos []int, query *structs.LeaderboardP
 
 	size = len(lifts)
 	lifts = lifts[query.Start:query.Stop]
+	return
+}
+
+func fetchLiftsAll(bigData *[]structs.Entry, pos []int) (lifts []structs.Entry) {
+	for _, p := range pos {
+		lifts = append(lifts, (*bigData)[p])
+	}
 	return
 }
 
