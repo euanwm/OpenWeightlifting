@@ -52,7 +52,7 @@ func buildServer() *gin.Engine {
 	r.GET("graph", LifterGraph)
 	r.GET("history", LifterHistory)
 	r.POST("events/list", Events)
-	r.POST("events", SingleEvent)
+	r.GET("events", SingleEvent)
 	r.POST("issue", IssueReport)
 	r.GET("/swagger/*any", ginSwagger.WrapHandler(swaggerFiles.Handler))
 	return r
@@ -81,7 +81,7 @@ func CacheMeOutsideHowBoutDat() {
 func main() {
 	setupDiscordBot(&DiscoKaren)
 	apiServer := buildServer()
-	go CacheMeOutsideHowBoutDat()
+	//go CacheMeOutsideHowBoutDat()
 	err := apiServer.Run() // listen and serve on
 	if err != nil {
 		log.Fatal("Failed to run server")
