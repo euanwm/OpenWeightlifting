@@ -3,11 +3,8 @@ package main
 import (
 	"backend/dbtools"
 	"backend/discordbot"
-	"backend/docs"
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
-	swaggerFiles "github.com/swaggo/files"
-	ginSwagger "github.com/swaggo/gin-swagger"
 	"log"
 	"os"
 )
@@ -44,7 +41,6 @@ func buildServer() *gin.Engine {
 	log.Println("Starting server...")
 	dbtools.BuildDatabase(&LeaderboardData, &EventsData)
 	r := gin.Default()
-	docs.SwaggerInfo.BasePath = "/"
 	r.Use(cors.New(CORSConfig()))
 	r.GET("time", ServerTime)
 	r.GET("leaderboard", Leaderboard)
@@ -54,7 +50,6 @@ func buildServer() *gin.Engine {
 	r.POST("events/list", Events)
 	r.POST("events", SingleEvent)
 	r.POST("issue", IssueReport)
-	r.GET("/swagger/*any", ginSwagger.WrapHandler(swaggerFiles.Handler))
 	return r
 }
 
