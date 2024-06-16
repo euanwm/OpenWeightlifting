@@ -9,6 +9,7 @@ import {
   TableHeader,
   PopoverContent,
   PopoverTrigger,
+  Link,
 } from '@nextui-org/react'
 import { LifterResult } from '@/api/fetchLifterData/fetchLifterDataTypes'
 
@@ -29,7 +30,9 @@ export const AllDetails = ({ full_comp }: { full_comp: LifterResult }) => {
         >
           <TableHeader>
             <TableColumn>
-              {full_comp.event}
+              <Link href={`/events/show?name=${full_comp.event}`}>
+                {full_comp.event}
+              </Link>
             </TableColumn>
           </TableHeader>
           <TableBody>
