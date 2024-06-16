@@ -8,18 +8,13 @@ import { EventTable } from '@/components/molecules/eventTable'
 
 function ShowEvent(){
   const router = useRouter()
-  const { fed } = router.query
-  const { id } = router.query
-
-  const requestPayload: EventMetaData = {
-    federation: fed as string,
-    id: id as string,
-    name: '',
-    date: ''
+  const params: { [key: string]: string } = {}
+  for (const key in router.query) {
+    params[key] = router.query[key]?.toString() || ''
   }
 
   const { data, isLoading } = useSWR(
-    requestPayload,
+    params,
     fetchEventResult,
   )
 
