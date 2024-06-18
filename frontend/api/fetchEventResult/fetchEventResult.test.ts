@@ -3,9 +3,7 @@ import fetchEventResult from './fetchEventResult';
 describe('fetchEventResult', () => {
   it('should return a valid event result', async () => {
     const eventMetaData = {
-      "name": "Leangen AK Seriestevne",
-      "federation": "NVF",
-      "date": "2023-01-07",
+      "fed": "NVF",
       "id": "58.csv"
     }
     const result = await fetchEventResult(eventMetaData);
