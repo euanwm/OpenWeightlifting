@@ -271,13 +271,18 @@ func SingleEvent(c *gin.Context) {
 	var response structs.LeaderboardResponse
 	var federation, fedExists = c.GetQuery("fed")
 	var csvID, idExists = c.GetQuery("id")
+	var date, dateExists = c.GetQuery("date")
+	var eventNameReq, nameExists = c.GetQuery("name")
+	// federation and csvID are required
 	if fedExists && idExists {
 		response.Data = dbtools.LoadSingleEvent(federation, csvID)
-	} else {
-		var eventNameReq, nameExists = c.GetQuery("name")
-		if nameExists {
-			federation, csvID = EventsData.FetchEventByName(eventNameReq)
-			response.Data = dbtools.LoadSingleEvent(federation, csvID)
+	} else if fedExists && nameExists {
+		// federation and event name are required
+		response.Data = LeaderboardData.FetchByEventName(eventNameReq)
+		// date is optional, but I'd recommend it because I fucking said so and I can't be bothered explaining at 2323hrs on a Tuesday-cunting-night
+		// only reason why it's even here is some federations load their multi-day events as such and not all on the same day
+		if dateExists {
+			response.Data, response.Size = response.FilterByDate(date)
 		}
 	}
 

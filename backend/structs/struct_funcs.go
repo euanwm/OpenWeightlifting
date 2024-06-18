@@ -6,6 +6,7 @@ import (
 	"fmt"
 	"log"
 	"reflect"
+	"strings"
 )
 
 func (e LifterHistory) GenerateChartData() ChartData {
@@ -189,6 +190,15 @@ func (e LeaderboardData) Select(sortBy string) *[]Entry {
 	return &[]Entry{}
 }
 
+func (e LeaderboardData) FetchByEventName(eventName string) (eventData []Entry) {
+	for _, entry := range e.AllTotals {
+		if entry.Event == eventName || strings.Contains(entry.Event, eventName) {
+			eventData = append(eventData, entry)
+		}
+	}
+	return
+}
+
 func (e EventsMetaData) FetchEventFP(index int) (federation, filename string) {
 	return e.Federation[index], e.ID[index]
 }
@@ -200,6 +210,15 @@ func (e EventsMetaData) FetchEventByName(eventName string) (federation, filename
 		}
 	}
 	return "", ""
+}
+
+func (e LeaderboardResponse) FilterByDate(eventDate string) (newData []Entry, newSize int) {
+	for index, entry := range e.Data {
+		if entry.Date == eventDate {
+			newData = append(newData, e.Data[index])
+		}
+	}
+	return
 }
 
 func (e EventsMetaData) FetchEventWithinDate(startDate, endDate string) (events []SingleEventMetaData) {
