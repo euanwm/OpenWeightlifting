@@ -76,7 +76,7 @@ func CacheMeOutsideHowBoutDat() {
 func main() {
 	setupDiscordBot(&DiscoKaren)
 	apiServer := buildServer()
-	//go CacheMeOutsideHowBoutDat()
+	go CacheMeOutsideHowBoutDat()
 	err := apiServer.Run() // listen and serve on
 	if err != nil {
 		log.Fatal("Failed to run server")
