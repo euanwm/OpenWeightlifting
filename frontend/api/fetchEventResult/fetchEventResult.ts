@@ -2,18 +2,15 @@ import { EventResult } from './fetchEventResultTypes'
 import { EventMetaData } from "@/api/fetchEventsList/fetchEventsListTypes";
 
 export default  async function fetchEventResult(
-  eventMetaData: EventMetaData,
+  params: { [key: string]: string },
 ): Promise<EventResult> {
 
-  const response = await fetch(`${process.env.API}/events`, {
-    method: 'POST',
+  const URLParams = new URLSearchParams(params)
+
+  const response = await fetch(`${process.env.API}/events?${URLParams}`, {
     headers: {
       'Content-Type': 'application/json',
     },
-    body: JSON.stringify({
-      "federation": eventMetaData.federation,
-      "id": eventMetaData.id,
-    }),
   })
 
   const jsonResponse = response.json()

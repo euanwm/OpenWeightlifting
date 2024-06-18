@@ -48,7 +48,7 @@ func buildServer() *gin.Engine {
 	r.GET("graph", LifterGraph)
 	r.GET("history", LifterHistory)
 	r.POST("events/list", Events)
-	r.POST("events", SingleEvent)
+	r.GET("events", SingleEvent)
 	r.POST("issue", IssueReport)
 	return r
 }
