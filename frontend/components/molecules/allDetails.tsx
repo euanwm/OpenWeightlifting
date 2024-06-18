@@ -30,7 +30,7 @@ export const AllDetails = ({ full_comp }: { full_comp: LifterResult }) => {
         >
           <TableHeader>
             <TableColumn>
-              <Link href={`/events/show?name=${full_comp.event}`}>
+              <Link href={`/events/show?name=${full_comp.event}&fed=${full_comp.country}&date=${full_comp.date}`}>
                 {full_comp.event}
               </Link>
             </TableColumn>

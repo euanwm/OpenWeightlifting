@@ -4,7 +4,7 @@ import {
   TableColumn,
   TableCell,
   TableRow,
-  TableBody,
+  TableBody, Link,
 } from '@nextui-org/react'
 import { LifterHistory } from '@/api/fetchLifterHistory/fetchLifterHistoryTypes'
 import ReportPopout from '@/components/molecules/reportPopout'
@@ -49,7 +49,11 @@ export const HistoryTable = ({
           return (
             <TableRow key={`history-${index}`}>
               <TableCell>{date}</TableCell>
-              <TableCell>{event}</TableCell>
+              <TableCell>
+                <Link href={`/events/show?name=${event}&fed=${lift.country}&date=${date}`}>
+                  {event}
+                </Link>
+              </TableCell>
               <TableCell>{bodyweight}</TableCell>
               <TableCell>{snatch_1}</TableCell>
               <TableCell>{snatch_2}</TableCell>
