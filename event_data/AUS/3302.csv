@@ -1,0 +1,56 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+OWF International Elite Tournament,2024-06-01,female,Dika Toua,49.00,70,-74,-74,90,95,-97,70,95,165
+OWF International Elite Tournament,2024-06-01,female,Thelma Toua,47.90,60,65,-68,75,80,-83,65,80,145
+OWF International Elite Tournament,2024-06-01,female,Celine Huynh,48.95,-56,56,-60,66,-69,-73,56,66,122
+OWF International Elite Tournament,2024-06-01,female,Jenly Wini,55.00,-75,75,80,95,100,-104,80,100,180
+OWF International Elite Tournament,2024-06-01,female,Giulia Imperio,52.25,75,80,-83,93,96,100,80,100,180
+OWF International Elite Tournament,2024-06-01,female,Brenna Kean,54.95,73,-76,76,96,100,104,76,104,180
+OWF International Elite Tournament,2024-06-01,female,Tessa Job,55.00,74,77,-80,-93,93,97,77,97,174
+OWF International Elite Tournament,2024-06-01,female,Isabella Lowe King,49.65,50,53,55,65,68,70,55,70,125
+OWF International Elite Tournament,2024-06-01,female,Ashley Kolomoisky,58.45,70,73,75,87,91,94,75,94,169
+OWF International Elite Tournament,2024-06-01,female,Femily Notte,63.65,78,83,88,103,108,-111,88,108,196
+OWF International Elite Tournament,2024-06-01,female,Zoe Pukekura,63.75,87,-90,-90,106,109,-113,87,109,196
+OWF International Elite Tournament,2024-06-01,female,Kiana Elliott,62.05,75,80,85,90,95,100,85,100,185
+OWF International Elite Tournament,2024-06-01,female,Bonnie Grylls-Graham,61.55,68,71,73,88,-92,92,73,92,165
+OWF International Elite Tournament,2024-06-01,female,Yasmin Aziz,62.15,-68,-68,68,85,-88,-88,68,85,153
+OWF International Elite Tournament,2024-06-01,female,Ruoni Chen,61.15,62,65,-68,73,-77,78,65,78,143
+OWF International Elite Tournament,2024-06-01,female,Mariana Arenas,63.70,56,60,63,-77,77,80,63,80,143
+OWF International Elite Tournament,2024-06-01,female,Olivia Selemaia,68.40,93,96,98,-113,-113,116,98,116,214
+OWF International Elite Tournament,2024-06-01,female,Nya Hayman,71.00,85,88,91,105,109,-111,91,109,200
+OWF International Elite Tournament,2024-06-01,female,Elise Schack,69.25,73,77,80,96,100,-105,80,100,180
+OWF International Elite Tournament,2024-06-01,female,Taiamoni Pakoti,67.85,73,-77,-77,94,99,-105,73,99,172
+OWF International Elite Tournament,2024-06-01,female,Rebecca Mcconnell,65.00,58,61,63,72,-76,-78,63,72,135
+OWF International Elite Tournament,2024-06-01,female,Avatu Opeloge,76.00,-91,91,94,111,-116,-121,94,111,205
+OWF International Elite Tournament,2024-06-01,female,Seine Stowers,75.05,85,-89,89,-105,105,-110,89,105,194
+OWF International Elite Tournament,2024-06-01,female,Teagan Newman,73.55,84,87,90,102,-106,-108,90,102,192
+OWF International Elite Tournament,2024-06-01,female,Isabel Grylls,71.85,70,73,76,86,-90,90,76,90,166
+OWF International Elite Tournament,2024-06-01,female,Eileen Cikamatana,80.55,112,116,-120,145,-150,-150,116,145,261
+OWF International Elite Tournament,2024-06-01,female,Ajah Pritchard-Lolo,81.00,-87,-87,87,102,106,-110,87,106,193
+OWF International Elite Tournament,2024-06-01,female,Medea Jones,86.40,100,-104,-104,117,-121,-124,100,117,217
+OWF International Elite Tournament,2024-06-01,female,Iuniarra Sipaia,141.75,106,-111,112,150,-155,-155,112,150,262
+OWF International Elite Tournament,2024-06-01,female,Lesila Fiapule,121.85,105,110,112,140,-145,-150,112,140,252
+OWF International Elite Tournament,2024-06-01,female,Villani Hiram,104.75,68,-72,-72,95,100,105,68,105,173
+OWF International Elite Tournament,2024-06-01,male,Miguel Meza,55.00,94,98,-102,125,130,135,98,135,233
+OWF International Elite Tournament,2024-06-01,male,Gahuna Nauari,59.70,80,85,89,105,110,114,89,114,203
+OWF International Elite Tournament,2024-06-01,male,Vaip Nevo Ioane,66.65,116,121,125,160,-167,-167,125,160,285
+OWF International Elite Tournament,2024-06-01,male,Morea Baru,63.10,112,116,-120,150,156,161,116,161,277
+OWF International Elite Tournament,2024-06-01,male,John Tafi,72.60,126,134,137,160,-171,171,137,171,308
+OWF International Elite Tournament,2024-06-01,male,Oliver Leng,72.65,96,103,107,125,132,-138,107,132,239
+OWF International Elite Tournament,2024-06-01,male,Nehmiah Elder,76.70,122,-128,130,145,153,-158,130,153,283
+OWF International Elite Tournament,2024-06-01,male,Marcincy Cook,81.00,128,-133,-133,145,152,-157,128,152,280
+OWF International Elite Tournament,2024-06-01,male,Tiago Hallen,78.40,110,114,-118,141,-146,-151,114,141,255
+OWF International Elite Tournament,2024-06-01,male,Kyle Bruce,86.05,141,-145,-146,175,180,0,141,180,321
+OWF International Elite Tournament,2024-06-01,male,Ryven Ewing,88.50,131,136,-140,170,-175,179,136,179,315
+OWF International Elite Tournament,2024-06-01,male,Gurjeet Singh Rai,86.85,105,109,113,135,142,-147,113,142,255
+OWF International Elite Tournament,2024-06-01,male,Scott Pavlovic,88.45,-100,100,-105,-130,-135,0,100,0,0
+OWF International Elite Tournament,2024-06-01,male,Jack Opeloge,95.35,148,153,158,191,200,202,158,202,360
+OWF International Elite Tournament,2024-06-01,male,Zion Tokona,95.20,120,128,-131,-150,150,156,128,156,284
+OWF International Elite Tournament,2024-06-01,male,Michael Censori,95.60,110,115,120,150,-155,-155,120,150,270
+OWF International Elite Tournament,2024-06-01,male,Jake Le Cerf,94.85,110,115,-120,148,-160,-160,115,148,263
+OWF International Elite Tournament,2024-06-01,male,Don Opeloge,101.70,-170,170,-175,215,-222,-225,170,215,385
+OWF International Elite Tournament,2024-06-01,male,Taj Marsh,99.50,134,138,142,168,174,-178,142,174,316
+OWF International Elite Tournament,2024-06-01,male,Taniela Tuisuva Rainibogi,106.30,-165,165,-171,200,205,-211,165,205,370
+OWF International Elite Tournament,2024-06-01,male,Maeu Nanai Livi,103.80,158,165,-170,191,-201,-201,165,191,356
+OWF International Elite Tournament,2024-06-01,male,Jackson Roberts-Young,108.90,146,-150,-150,185,-194,-204,146,185,331
+OWF International Elite Tournament,2024-06-01,male,Thomas Wilbur,105.10,145,-149,-149,173,-177,-177,145,173,318
+OWF International Elite Tournament,2024-06-01,male,Sanele Mao,135.75,176,-183,183,220,230,-235,183,230,413
