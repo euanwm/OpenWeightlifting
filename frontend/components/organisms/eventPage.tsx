@@ -1,20 +1,13 @@
-import { useRouter } from 'next/router'
 import HeaderBar from '@/components/molecules/head'
-import { EventMetaData } from '@/api/fetchEventsList/fetchEventsListTypes'
 import fetchEventResult from '@/api/fetchEventResult/fetchEventResult'
 import useSWR from 'swr'
 import { Spinner } from '@nextui-org/react'
 import { EventTable } from '@/components/molecules/eventTable'
+import {EventParams} from "@/pages/events/show";
 
-function ShowEvent(){
-  const router = useRouter()
-  const params: { [key: string]: string } = {}
-  for (const key in router.query) {
-    params[key] = router.query[key]?.toString() || ''
-  }
-
+function ShowEvent(params: EventParams){
   const { data, isLoading } = useSWR(
-    params,
+    params.query,
     fetchEventResult,
   )
 
