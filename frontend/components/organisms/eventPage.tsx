@@ -5,7 +5,7 @@ import { Spinner } from '@nextui-org/react'
 import { EventTable } from '@/components/molecules/eventTable'
 import {EventParams} from "@/pages/events/show";
 
-function ShowEvent(params: EventParams){
+function ShowEvent(params: EventParams | any){
   const { data, isLoading } = useSWR(
     params.query,
     fetchEventResult,
