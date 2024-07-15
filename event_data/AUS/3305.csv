@@ -1,0 +1,8 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+February Club Open,2024-02-10,female,Monica Swayne,71.98,-72,-72,72,90,-93,93,72,93,165
+February Club Open,2024-02-10,female,Erin Laas,73.54,65,-70,70,90,95,-100,70,95,165
+February Club Open,2024-02-10,male,Maksymilian Rusowski,80.64,90,95,105,120,125,130,105,130,235
+February Club Open,2024-02-10,male,James Hunter,80.64,90,95,-103,115,-120,121,95,121,216
+February Club Open,2024-02-10,male,John Aik,76.34,96,-100,100,-121,-124,-127,100,0,0
+February Club Open,2024-02-10,male,Frank Elliott,88.50,-124,124,128,160,165,170,128,170,298
+February Club Open,2024-02-10,male,Aaron Gray,110.20,105,110,113,130,137,141,113,141,254
