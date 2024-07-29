@@ -7,10 +7,11 @@ import (
 
 // Coefficient numbers
 const (
-	aMale        = 0.751945030
-	bMale        = 175.508
-	aFemale      = 0.783497476
-	bFemale      = 153.655
+	// These are the 2021-2024 Coefficient numbers
+	aMale        = 0.722762521
+	bMale        = 193.609
+	aFemale      = 0.787004341
+	bFemale      = 153.757
 	naimSinclair = 505 + 1 // The extra 1 is for rounding etc.
 	minBW        = 20      // KG, nobody is breaking records at that weight
 )
