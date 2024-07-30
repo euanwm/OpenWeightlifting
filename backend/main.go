@@ -4,6 +4,7 @@ import (
 	"backend/dbtools"
 	"backend/discordbot"
 	"github.com/gin-contrib/cors"
+	"github.com/gin-contrib/gzip"
 	"github.com/gin-gonic/gin"
 	"log"
 	"os"
@@ -42,6 +43,7 @@ func buildServer() *gin.Engine {
 	dbtools.BuildDatabase(&LeaderboardData, &EventsData)
 	r := gin.Default()
 	r.Use(cors.New(CORSConfig()))
+	r.Use(gzip.Gzip(gzip.DefaultCompression))
 	r.GET("time", ServerTime)
 	r.GET("leaderboard", Leaderboard)
 	r.GET("search", SearchName)
