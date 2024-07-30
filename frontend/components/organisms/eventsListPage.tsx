@@ -59,10 +59,14 @@ function EventsListPage() {
       <HeaderBar />
       <div className={'flex flex-col content-center'}>
         <EventsFilters handleFilterChange={handleFilterChange} />
-        {data && (
+        {data?.events && (
           <div className={'flex flex-col content-center'}>
             <EventsListTable events={data} />
           </div>
+        ) || (
+            <div className={'flex flex-col content-center text-center'}>
+                <p>No recent events found. We hope to provide an update soon. Feel free to contact us on Discord or Instagram and give us a nudge.</p>
+            </div>
         )}
       </div>
     </>
