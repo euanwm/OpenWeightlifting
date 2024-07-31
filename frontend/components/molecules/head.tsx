@@ -26,7 +26,7 @@ const HeaderBar = () => {
     <Navbar isBordered className="py-2">
       <NavbarBrand>
         <Link href="/">
-          <Image src={Logo} alt="OpenWeightlifting" height={70} />
+          <Image src={Logo} alt="OpenWeightlifting" height={70} priority={true}/>
         </Link>
       </NavbarBrand>
 
