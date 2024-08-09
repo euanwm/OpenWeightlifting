@@ -39,16 +39,17 @@ export const DataTable = ({
         <TableCell>{lifterNo}</TableCell>
         <TableCell>{lifter_name}</TableCell>
         <TableCell className="space-x-3 whitespace-nowrap">
-          <button onClick={() => openLifterGraphHandler(lifter_name)}>
+          <button onClick={() => openLifterGraphHandler(lifter_name)} aria-label="lifter history graph">
             <VscGraphLine size={25} />
           </button>
-          <Link href={lifter_page}>
+          <Link href={lifter_page} aria-label="lifter profile page">
             <CgProfile size={25} />
           </Link>
           {instagram && (
             <a
               href={`https://www.instagram.com/${instagram}`}
               className=" inline-block "
+              aria-label="lifter instagram"
             >
               <FaInstagram size={25} />
             </a>
