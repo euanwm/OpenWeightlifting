@@ -1,3 +1,5 @@
+"use client"
+
 import { LifterHistory } from './fetchLifterHistoryTypes'
 
 export default async function fetchLifterHistory(

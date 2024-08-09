@@ -1,3 +1,5 @@
+"use client"
+
 import { LifterChartData } from './fetchLifterGraphDataTypes'
 
 export default async function fetchLifterGraphData(
