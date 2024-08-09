@@ -1,3 +1,5 @@
+"use client"
+
 import { LifterSearchList } from './fetchLifterNamesTypes'
 
 export default async function fetchLifterNames(

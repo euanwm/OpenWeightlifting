@@ -1,3 +1,5 @@
+"use client"
+
 import { EventResult } from './fetchEventResultTypes'
 import { EventMetaData } from "@/api/fetchEventsList/fetchEventsListTypes";
 
