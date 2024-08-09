@@ -1,7 +1,6 @@
 "use client"
 
 import { EventResult } from './fetchEventResultTypes'
-import { EventMetaData } from "@/api/fetchEventsList/fetchEventsListTypes";
 
 export default  async function fetchEventResult(
   params: { [key: string]: string },
