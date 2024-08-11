@@ -14,6 +14,7 @@ import { MdOutlinePersonSearch } from 'react-icons/md'
 import { FiHome } from 'react-icons/fi'
 
 import Logo from '../../public/OWL-logo.png'
+import OPLLogo from '../../public/opl-logo.png'
 import { useState } from 'react'
 
 const HeaderBar = () => {
@@ -64,6 +65,12 @@ const HeaderBar = () => {
           <Link href="https://github.com/euanwm/OpenWeightlifting">
             <FaGithub size="30px" />
             <span className="ml-2">GitHub</span>
+          </Link>
+        </NavbarMenuItem>
+        <NavbarMenuItem>
+          <Link href="https://www.openpowerlifting.org/">
+            <Image src={OPLLogo} alt="OpenPowerlifting" height={30}/>
+            <span className="ml-2">OpenPowerlifting</span>
           </Link>
         </NavbarMenuItem>
       </NavbarMenu>
