@@ -38,7 +38,7 @@ class CLICommands:
                 # aus_db.add_single(15)
             case "ffh":
                 france = FranceInterface()
-                france.new_update_results()
+                france.update_results()
             case "all":
                 year = datetime.now().year
                 print("Updating UK Database")

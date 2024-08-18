@@ -1,4 +1,3 @@
-import logging
 import os
 import re
 
@@ -281,33 +280,6 @@ class FranceInterface(DBInterface):
         event_link = event_link.split("/")[-1]
         return self.f.get_data_by_id(event_link)
 
-    def update_results(self):
-        logging.info("Updating results")
-        event_list = self.get_event_list()
-        number_of_events_added = 0
-        result_db_ids = [int(x.split(".")[0])
-                         for x in os.listdir(self.RESULTS_PATH)]
-        if event_list is not None:
-            for event in event_list:
-                event_id = int(event.link.split('/')[-1])
-                if event_id not in result_db_ids:
-                    print(f"Getting results for {event.event_name} / {event.link.split('/')[-1]}")
-                    event_results = self.get_single_event(event.link)
-                    if event_results is not None:
-                        amal_data = []
-                        for result in event_results:
-                            amal_data.append(self.generate_result(result, event))
-                        if amal_data:
-                            results_to_csv(self.RESULTS_PATH, event.link.split('/')[-1], amal_data)
-                            number_of_events_added += 1
-                    else:
-                        print(f"No results logged for {event.event_name} / {event.link.split('/')[-1]}")
-        if number_of_events_added == 0 and not self.NEXT_SEASON_CHECKED:
-            print("No new events added, checking next season")
-            self.f.LATEST_SEASON += 1
-            self.NEXT_SEASON_CHECKED = True
-            self.update_results()
-
     def generate_result(self, result: FranceResult, eventdata: FranceEventInfo) -> Result | None:
         amal_data = Result(
             event=eventdata.event_name,
@@ -330,29 +302,6 @@ class FranceInterface(DBInterface):
         if " F " in category:
             return category.replace(" F ", " Women ")
 
-    def build_old_database(self):
-        # this is a one-hitter to build the database from the old naming convention
-        # you'll need to run the new_build_database func to collect the rest
-        for n in range(3, 5):
-            events_list = self.f.list_recent_events(n)
-            result_db_ids = [int(x.split(".")[0])
-                             for x in os.listdir(self.RESULTS_PATH)]
-            for event in events_list:
-                event_id = int(event.link.split('/')[-1])
-                number_of_events_added = 0
-                if event_id not in result_db_ids:
-                    print(f"Getting results for {event.event_name} / {event.link.split('/')[-1]}")
-                    event_results = self.get_single_event(event.link)
-                    if event_results is not None:
-                        amal_data = []
-                        for result in event_results:
-                            amal_data.append(self.generate_result(result, event))
-                        if amal_data:
-                            results_to_csv(self.RESULTS_PATH, event.link.split('/')[-1], amal_data)
-                            number_of_events_added += 1
-                    else:
-                        print(f"No results logged for {event.event_name} / {event.link.split('/')[-1]}")
-
     def new_build_database(self):
         starting_csv_id = self.check_available_csv_id()
         # indent and range from here
@@ -372,7 +321,7 @@ class FranceInterface(DBInterface):
                     starting_csv_id += 1
                 print(f"Event {index} done")
 
-    def new_update_results(self):
+    def update_results(self):
         events_list = self.f.list_recent_events(self.f.LATEST_SEASON)
         collated_event_info = self.collate_event_ids(events_list)
         existing_event_titles = self.all_database_event_titles()
