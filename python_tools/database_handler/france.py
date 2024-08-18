@@ -372,6 +372,32 @@ class FranceInterface(DBInterface):
                     starting_csv_id += 1
                 print(f"Event {index} done")
 
+    def new_update_results(self):
+        events_list = self.f.list_recent_events(self.f.LATEST_SEASON)
+        collated_event_info = self.collate_event_ids(events_list)
+        existing_event_titles = self.all_database_event_titles()
+        print(f"Season {self.f.LATEST_SEASON}: {len(collated_event_info)} colllated event vs {len(events_list)} events")
+        collated_event_info = self.remove_duplicate_events(existing_event_titles, collated_event_info)
+        for index, event in collated_event_info.items():
+            amal_data = []
+            for result in event.events:
+                event_results = self.get_single_event(result.link)
+                if event_results is not None:
+                    for result in event_results:
+                        amal_data.append(self.generate_result(result, event.events[0]))
+            if amal_data:
+                results_to_csv(self.RESULTS_PATH, self.NEXT_AVAILABLE_CSV_ID, amal_data)
+                self.NEXT_AVAILABLE_CSV_ID += 1
+            print(f"Event {index} done")
+
+    def remove_duplicate_events(self, existing_titles: list[str], collated_event_info: dict[int, CollatedEvent]) -> dict[int, CollatedEvent]:
+        to_remove: [int] = []
+        for k, v in collated_event_info.items():
+            if v.events[0].event_name in existing_titles:
+                to_remove.append(k)
+        for i in to_remove[::-1]:
+            collated_event_info.pop(i)
+        return collated_event_info
 
     def collate_event_ids(self, event_list: list[FranceEventInfo]) -> dict[int, CollatedEvent]:
         event_dict = {}
@@ -396,6 +422,14 @@ class FranceInterface(DBInterface):
                 return True, k
         return False, None
 
+    def all_database_event_titles(self) -> list[str]:
+        # we need the first column of the second line in each csv within the results folder
+        csv_ids = [x for x in os.listdir(self.RESULTS_PATH)]
+        event_names = []
+        for csv_id in csv_ids:
+            with open(f"{self.RESULTS_PATH}/{csv_id}", "r") as f:
+                event_names.append(f.readlines()[1].split(",")[0])
+        return event_names
 
 if __name__ == '__main__':
     # f = FranceWeightlifting()
