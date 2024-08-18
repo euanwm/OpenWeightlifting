@@ -1,0 +1,44 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,U20 Women 55,LEMÉ Youna,54.44,-70.0,70.0,-72.0,-85.0,85.0,-0.0,70.0,85.0,155.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,U20 Women 59,MICHEL Maelyn,58.68,82.0,85.0,-88.0,96.0,-100.0,-100.0,85.0,96.0,181.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Women 55,RETAILLE Manon,55.0,69.0,72.0,-74.0,90.0,95.0,98.0,72.0,98.0,170.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Women 55,LEHONGRE Clarisse,54.52,55.0,-59.0,-59.0,75.0,-78.0,-81.0,55.0,75.0,130.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Women 59,BRASSART Alyssa,58.94,67.0,-70.0,-70.0,84.0,-86.0,-88.0,67.0,84.0,151.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Women 55,BEL Iris,53.82,70.0,73.0,-75.0,90.0,94.0,96.0,73.0,96.0,169.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Women 64,DEFRANCE Romane,62.18,70.0,73.0,-76.0,93.0,-97.0,-97.0,73.0,93.0,166.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Women 71,GRAILLOT Vicky,68.14,90.0,-93.0,93.0,115.0,-120.0,122.0,93.0,122.0,215.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Women 81,SAICIC Sonia,76.06,86.0,88.0,-91.0,97.0,-101.0,-101.0,88.0,97.0,185.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Women 81,MIZSER Bertille,79.6,77.0,81.0,-84.0,93.0,-99.0,-100.0,81.0,93.0,174.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Women 55,BEL Iris,53.82,70.0,73.0,-75.0,90.0,94.0,96.0,73.0,96.0,169.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Women 64,DEFRANCE Romane,62.18,70.0,73.0,-76.0,93.0,-97.0,-97.0,73.0,93.0,166.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Women 71,GRAILLOT Vicky,68.14,90.0,-93.0,93.0,115.0,-120.0,122.0,93.0,122.0,215.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Women 81,SAICIC Sonia,76.06,86.0,88.0,-91.0,97.0,-101.0,-101.0,88.0,97.0,185.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Women 81,MIZSER Bertille,79.6,77.0,81.0,-84.0,93.0,-99.0,-100.0,81.0,93.0,174.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Men 81,TALAOURAR Yanis,80.5,105.0,110.0,-115.0,-135.0,135.0,-145.0,110.0,135.0,245.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Men 89,EL AMRANI Youssef,88.6,130.0,-134.0,-136.0,168.0,172.0,-176.0,130.0,172.0,302.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Men 96,IMADOUCHENE Romain,89.84,150.0,-155.0,-162.0,195.0,-200.0,-207.0,150.0,195.0,345.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Men 109,TCHOUDEN TCHAMGOUE Jaurès verlaine,104.5,127.0,-128.0,133.0,-165.0,-170.0,-173.0,133.0,0.0,0.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Men 81,TALAOURAR Yanis,80.5,105.0,110.0,-115.0,-135.0,135.0,-145.0,110.0,135.0,245.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Men 89,EL AMRANI Youssef,88.6,130.0,-134.0,-136.0,168.0,172.0,-176.0,130.0,172.0,302.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Men 96,IMADOUCHENE Romain,89.84,150.0,-155.0,-162.0,195.0,-200.0,-207.0,150.0,195.0,345.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Men 109,TCHOUDEN TCHAMGOUE Jaurès verlaine,104.5,127.0,-128.0,133.0,-165.0,-170.0,-173.0,133.0,0.0,0.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,U20 Men 73,CHRISTOPHEL Valentin,72.3,119.0,123.0,-126.0,140.0,145.0,-150.0,123.0,145.0,268.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Men 61,POTENZA David,59.16,92.0,95.0,97.0,113.0,-115.0,-121.0,97.0,113.0,210.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Men 73,CUVILLIER Valentin,72.78,119.0,-124.0,124.0,148.0,153.0,-156.0,124.0,153.0,277.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Men 89,BONNAMANT Bastien,84.88,127.0,132.0,-136.0,157.0,-162.0,163.0,132.0,163.0,295.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Men 96,SPIELMANN Arthur,95.22,128.0,-133.0,-135.0,-0.0,-0.0,-0.0,128.0,0.0,0.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Men 102,THOMASSON Yann,101.14,146.0,-151.0,151.0,175.0,-182.0,-182.0,151.0,175.0,326.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Men 102,FLAUS Dylan,101.62,139.0,-143.0,-144.0,170.0,-177.0,-177.0,139.0,170.0,309.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Men 109,BOULY Kevin,107.12,126.0,132.0,136.0,157.0,-167.0,172.0,136.0,172.0,308.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,U20 Men 73,CHRISTOPHEL Valentin,72.3,119.0,123.0,-126.0,140.0,145.0,-150.0,123.0,145.0,268.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Men 61,POTENZA David,59.16,92.0,95.0,97.0,113.0,-115.0,-121.0,97.0,113.0,210.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Men 73,CUVILLIER Valentin,72.78,119.0,-124.0,124.0,148.0,153.0,-156.0,124.0,153.0,277.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Men 89,BONNAMANT Bastien,84.88,127.0,132.0,-136.0,157.0,-162.0,163.0,132.0,163.0,295.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Men 96,SPIELMANN Arthur,95.22,128.0,-133.0,-135.0,-0.0,-0.0,-0.0,128.0,0.0,0.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Men 102,THOMASSON Yann,101.14,146.0,-151.0,151.0,175.0,-182.0,-182.0,151.0,175.0,326.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Men 102,FLAUS Dylan,101.62,139.0,-143.0,-144.0,170.0,-177.0,-177.0,139.0,170.0,309.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Men 109,BOULY Kevin,107.12,126.0,132.0,136.0,157.0,-167.0,172.0,136.0,172.0,308.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Men 89,CANIVET Paul,88.88,-124.0,126.0,-129.0,-160.0,162.0,164.0,126.0,164.0,290.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Men 89,CANIVET Paul,88.88,-124.0,126.0,-129.0,-160.0,162.0,164.0,126.0,164.0,290.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Men 89,HENNOUS Mathis,87.88,-122.0,122.0,127.0,162.0,-167.0,-169.0,127.0,162.0,289.0
+NDIE - Championnat de France Elite - Dunkerque -  FEM,2024-06-16,SEN Men 89,HENNOUS Mathis,87.88,-122.0,122.0,127.0,162.0,-167.0,-169.0,127.0,162.0,289.0

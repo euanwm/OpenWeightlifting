@@ -36,7 +36,7 @@ class CLICommands:
                 # leaving these here for debugging
                 # aus_db.rebuild_db()
                 # aus_db.add_single(15)
-            case "france":
+            case "ffh":
                 france = FranceInterface()
                 france.update_results()
             case "all":
@@ -69,7 +69,7 @@ class CLICommands:
         match db_name:
             case "ffh":
                 france = FranceInterface()
-                france.build_database()
+                france.new_build_database()
             case _:
                 sys.exit(f"database not found: {db_name}")
 
