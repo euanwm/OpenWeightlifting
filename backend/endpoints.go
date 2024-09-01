@@ -73,7 +73,16 @@ func SearchName(c *gin.Context) {
 		if len(results.Names) > maxResults {
 			results.Names = results.Names[:maxResults]
 		}
-		c.JSON(http.StatusOK, results)
+		// todo: bug here as an empty struct is returned if no results are found higher up in the stack
+		if len(results.Names) > 1 {
+			c.JSON(http.StatusOK, results)
+		} else if len(results.Names) == 1 {
+			if len(results.Names[0].Name) > 0 {
+				c.JSON(http.StatusOK, results)
+			} else {
+				c.JSON(http.StatusNoContent, nil)
+			}
+		}
 	}
 }
 
