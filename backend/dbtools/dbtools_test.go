@@ -57,7 +57,11 @@ func TestFilter(t *testing.T) {
 		{
 			name: "FilterByFederation",
 			args: args{
-				bigData: []structs.Entry{{Date: "2023-06-01", Name: "John Smith", Total: 100, Federation: "BWL", Gender: enum.Male, Bodyweight: 109.00}, {Date: "2023-06-01", Name: "Dave Smith", Total: 200, Federation: "BWL", Gender: enum.Male, Bodyweight: 109.00}, {Date: "2023-06-01", Name: "Ethan Smith", Total: 300, Federation: "BWL", Gender: enum.Male, Bodyweight: 109.00}},
+				bigData: []structs.Entry{
+					{Date: "2023-06-01", Name: "John Smith", Total: structs.NewWeightKg(100), Federation: "BWL", Gender: enum.Male, Bodyweight: structs.NewWeightKg(109.00)},
+					{Date: "2023-06-01", Name: "Dave Smith", Total: structs.NewWeightKg(200), Federation: "BWL", Gender: enum.Male, Bodyweight: structs.NewWeightKg(109.00)},
+					{Date: "2023-06-01", Name: "Ethan Smith", Total: structs.NewWeightKg(300), Federation: "BWL", Gender: enum.Male, Bodyweight: structs.NewWeightKg(109.00)},
+				},
 				filterQuery: structs.LeaderboardPayload{
 					Start:       0,
 					Stop:        10,
@@ -72,7 +76,11 @@ func TestFilter(t *testing.T) {
 			},
 			wantFilteredData: structs.LeaderboardResponse{
 				Size: 3,
-				Data: []structs.Entry{{Date: "2023-06-01", Name: "John Smith", Total: 100, Federation: "BWL", Gender: enum.Male, Bodyweight: 109.00}, {Date: "2023-06-01", Name: "Dave Smith", Total: 200, Federation: "BWL", Gender: enum.Male, Bodyweight: 109.00}, {Date: "2023-06-01", Name: "Ethan Smith", Total: 300, Federation: "BWL", Gender: enum.Male, Bodyweight: 109.00}},
+				Data: []structs.Entry{
+					{Date: "2023-06-01", Name: "John Smith", Total: structs.NewWeightKg(100), Federation: "BWL", Gender: enum.Male, Bodyweight: structs.NewWeightKg(109.00)},
+					{Date: "2023-06-01", Name: "Dave Smith", Total: structs.NewWeightKg(200), Federation: "BWL", Gender: enum.Male, Bodyweight: structs.NewWeightKg(109.00)},
+					{Date: "2023-06-01", Name: "Ethan Smith", Total: structs.NewWeightKg(300), Federation: "BWL", Gender: enum.Male, Bodyweight: structs.NewWeightKg(109.00)},
+				},
 			},
 		},
 	}
@@ -144,7 +152,7 @@ func TestSortLiftsBy(t *testing.T) {
 		wantFinalData []structs.Entry
 	}{
 		{name: "SortBySinclair", args: args{bigData: []structs.Entry{{Sinclair: 300}, {Sinclair: 100}, {Sinclair: 200}}, sortBy: enum.Sinclair}, wantFinalData: []structs.Entry{{Sinclair: 300}, {Sinclair: 200}, {Sinclair: 100}}},
-		{name: "SortByTotal", args: args{bigData: []structs.Entry{{Total: 300}, {Total: 100}, {Total: 200}}, sortBy: enum.Total}, wantFinalData: []structs.Entry{{Total: 300}, {Total: 200}, {Total: 100}}},
+		{name: "SortByTotal", args: args{bigData: []structs.Entry{{Total: structs.NewWeightKg(300)}, {Total: structs.NewWeightKg(100)}, {Total: structs.NewWeightKg(200)}}, sortBy: enum.Total}, wantFinalData: []structs.Entry{{Total: structs.NewWeightKg(300)}, {Total: structs.NewWeightKg(200)}, {Total: structs.NewWeightKg(100)}}},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
@@ -182,7 +190,15 @@ func TestSortTotal(t *testing.T) {
 		name string
 		args args
 	}{
-		{name: "NormalSort", args: args{sliceStructs: []structs.Entry{{Total: 300}, {Total: 100}, {Total: 200}}, wantedSlice: []structs.Entry{{Total: 100}, {Total: 200}, {Total: 300}}}},
+		{name: "NormalSort", args: args{sliceStructs: []structs.Entry{
+			{Total: structs.NewWeightKg(300)},
+			{Total: structs.NewWeightKg(100)},
+			{Total: structs.NewWeightKg(200)},
+		}, wantedSlice: []structs.Entry{
+			{Total: structs.NewWeightKg(100)},
+			{Total: structs.NewWeightKg(200)},
+			{Total: structs.NewWeightKg(300)},
+		}}},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
@@ -208,16 +224,16 @@ func Test_assignStruct(t *testing.T) {
 			Date:       "2017-10-01",
 			Gender:     "Men's Under 23 94Kg",
 			Name:       "Edmon avetisyan",
-			Bodyweight: 93.8,
-			Sn1:        -146,
-			Sn2:        150,
-			Sn3:        -156,
-			CJ1:        180,
-			CJ2:        -190,
-			CJ3:        -192,
-			BestSn:     150,
-			BestCJ:     180,
-			Total:      330,
+			Bodyweight: structs.NewWeightKg(93.8),
+			Sn1:        structs.NewWeightKg(-146),
+			Sn2:        structs.NewWeightKg(150),
+			Sn3:        structs.NewWeightKg(-156),
+			CJ1:        structs.NewWeightKg(180),
+			CJ2:        structs.NewWeightKg(-190),
+			CJ3:        structs.NewWeightKg(-192),
+			BestSn:     structs.NewWeightKg(150),
+			BestCJ:     structs.NewWeightKg(180),
+			Total:      structs.NewWeightKg(330),
 			Sinclair:   0,
 			Federation: "BWL",
 			Instagram:  "",

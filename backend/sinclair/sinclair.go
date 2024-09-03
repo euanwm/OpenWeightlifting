@@ -20,25 +20,39 @@ const (
 // the Masters coefficient is absolute nonsense. You'll see there's a lot of switching between float types.
 // It's frustrating but it serves a purpose.
 func CalcSinclair(result *structs.Entry, male bool) {
+	// Fast path: a zero or negative total has a zero Sinclair.
+	if !result.Total.IsPositive() {
+		result.Sinclair = 0
+		return
+	}
+
+	// A bodyweight below the cutoff also receives a zero score.
+	if result.Bodyweight.LessThanOrEqual(structs.NewWeightKgFromInt32(minBW)) {
+		result.Sinclair = 0
+		return
+	}
+
 	var coEffA = aMale
 	var coEffB = bMale
 	if !male {
 		coEffA = aFemale
 		coEffB = bFemale
 	}
+
+	total := result.Total.Float64()
+	bodyweight := result.Bodyweight.Float64()
+
 	// todo: add in error handling
-	if result.Total != 0 && result.Bodyweight > minBW {
-		if float64(result.Bodyweight) <= coEffB {
-			var X = math.Log10(float64(result.Bodyweight) / coEffB)
-			var expX = math.Pow(X, 2)
-			var coEffExp = coEffA * expX
-			var expSum = math.Pow(10, coEffExp)
-			var sinclair = float32(float64(result.Total) * expSum)
-			if sinclair <= naimSinclair {
-				result.Sinclair = sinclair
-			}
-		} else if result.Total <= naimSinclair {
-			result.Sinclair = result.Total
+	if bodyweight <= coEffB {
+		var X = math.Log10(bodyweight / coEffB)
+		var expX = math.Pow(X, 2)
+		var coEffExp = coEffA * expX
+		var expSum = math.Pow(10, coEffExp)
+		var sinclair = float32(total * expSum)
+		if sinclair <= naimSinclair {
+			result.Sinclair = sinclair
 		}
+	} else if total <= naimSinclair {
+		result.Sinclair = float32(total)
 	}
 }

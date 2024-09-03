@@ -17,32 +17,32 @@ func TestCalcSinclair(t *testing.T) {
 	}{
 		{
 			name:             "NormalSinclairMale",
-			args:             args{result: &structs.Entry{Bodyweight: 81, Total: 235, Sinclair: 0}, male: true},
+			args:             args{result: &structs.Entry{Bodyweight: structs.NewWeightKg(81), Total: structs.NewWeightKg(235), Sinclair: 0}, male: true},
 			expectedSinclair: 285.66986,
 		},
 		{
 			name:             "Over-rangeSinclairMale",
-			args:             args{result: &structs.Entry{Bodyweight: 160, Total: 510, Sinclair: 0}, male: true},
+			args:             args{result: &structs.Entry{Bodyweight: structs.NewWeightKg(160), Total: structs.NewWeightKg(510), Sinclair: 0}, male: true},
 			expectedSinclair: 0,
 		},
 		{
 			name:             "NormalSinclairFemale",
-			args:             args{result: &structs.Entry{Bodyweight: 81, Total: 235, Sinclair: 0}, male: false},
+			args:             args{result: &structs.Entry{Bodyweight: structs.NewWeightKg(81), Total: structs.NewWeightKg(235), Sinclair: 0}, male: false},
 			expectedSinclair: 270.17587,
 		},
 		{
 			name:             "Over-rangeSinclairFemale",
-			args:             args{result: &structs.Entry{Bodyweight: 160, Total: 510, Sinclair: 0}, male: false},
+			args:             args{result: &structs.Entry{Bodyweight: structs.NewWeightKg(160), Total: structs.NewWeightKg(510), Sinclair: 0}, male: false},
 			expectedSinclair: 0,
 		},
 		{
 			name:             "SuperHeavySinclairMale",
-			args:             args{result: &structs.Entry{Bodyweight: 200, Total: 400, Sinclair: 0}, male: true},
+			args:             args{result: &structs.Entry{Bodyweight: structs.NewWeightKg(200), Total: structs.NewWeightKg(400), Sinclair: 0}, male: true},
 			expectedSinclair: 400,
 		},
 		{
 			name:             "SuperHeavySinclairFemale",
-			args:             args{result: &structs.Entry{Bodyweight: 200, Total: 400, Sinclair: 0}, male: false},
+			args:             args{result: &structs.Entry{Bodyweight: structs.NewWeightKg(200), Total: structs.NewWeightKg(400), Sinclair: 0}, male: false},
 			expectedSinclair: 400,
 		},
 	}

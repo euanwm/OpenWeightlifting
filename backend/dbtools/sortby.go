@@ -101,7 +101,7 @@ func SortSinclair(sliceStructs []structs.Entry) {
 // SortTotal Descending order by entry total
 func SortTotal(sliceStructs []structs.Entry) {
 	sort.Slice(sliceStructs, func(i, j int) bool {
-		return sliceStructs[i].Total > sliceStructs[j].Total
+		return sliceStructs[i].Total.GreaterThan(sliceStructs[j].Total)
 	})
 }
 

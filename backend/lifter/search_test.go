@@ -9,13 +9,13 @@ import (
 // todo: add more details to allow more strict testing
 var sampleLeaderboardData = &structs.LeaderboardData{
 	AllTotals: []structs.Entry{
-		{Name: "John Smith", Total: 123},
-		{Name: "john smith", Total: 234},
-		{Name: "John smoth", Total: 345},
-		{Name: "Joanne Smith", Total: 123},
-		{Name: "joanne smith", Total: 234},
-		{Name: "joanne smith", Total: 235},
-		{Name: "joanne Smoth", Total: 345},
+		{Name: "John Smith", Total: structs.NewWeightKg(123)},
+		{Name: "john smith", Total: structs.NewWeightKg(234)},
+		{Name: "John smoth", Total: structs.NewWeightKg(345)},
+		{Name: "Joanne Smith", Total: structs.NewWeightKg(123)},
+		{Name: "joanne smith", Total: structs.NewWeightKg(234)},
+		{Name: "joanne smith", Total: structs.NewWeightKg(235)},
+		{Name: "joanne Smoth", Total: structs.NewWeightKg(345)},
 	},
 }
 
