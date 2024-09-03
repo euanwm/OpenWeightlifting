@@ -8,12 +8,12 @@ export const LifterStats = ({ stats }: { stats: LifterStatistics }) => {
         <TableColumn>Best Snatch</TableColumn>
         <TableColumn>Best C&J</TableColumn>
         <TableColumn>Best Total</TableColumn>
-        <TableColumn>Snatch Opener Rate</TableColumn>
+        <TableColumn>Snatch 1st Attempt Rate</TableColumn>
         <TableColumn>Snatch 2nd Attempt Rate</TableColumn>
-        <TableColumn>Snatch Final Attempt Rate</TableColumn>
-        <TableColumn>C&J Opener Rate</TableColumn>
+        <TableColumn>Snatch 3rd Attempt Rate</TableColumn>
+        <TableColumn>C&J 1st Attempt Rate</TableColumn>
         <TableColumn>C&J 2nd Attempt Rate</TableColumn>
-        <TableColumn>C&J Final Attempt Rate</TableColumn>
+        <TableColumn>C&J 3rd Attempt Rate</TableColumn>
       </TableHeader>
       <TableBody>
         <TableRow>
