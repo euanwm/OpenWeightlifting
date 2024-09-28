@@ -1,0 +1,38 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+FCWC Autumn Open 2024,2024-09-15,Men's Senior 89Kg,Ryan Sweetman,87.7,115,118,121,146,150,153,121,153,274
+FCWC Autumn Open 2024,2024-09-15,Men's Senior 96Kg,Jake Benson,95.3,-115,115,-120,140,146,-152,115,146,261
+FCWC Autumn Open 2024,2024-09-15,Men's Junior Under 20 96Kg,Frankie Williams,89.75,115,120,-125,140,-145,-148,120,140,260
+FCWC Autumn Open 2024,2024-09-15,Men's Senior 89Kg,Jack Cox,87.7,-110,110,113,144,-147,-147,113,144,257
+FCWC Autumn Open 2024,2024-09-15,Men's Masters (35-39) 102Kg,Toby Leeds,99.8,110,115,121,130,136,-140,121,136,257
+FCWC Autumn Open 2024,2024-09-15,Men's Senior 102Kg,Lucas Picton,101.8,102,107,-110,135,-140,-140,107,135,242
+FCWC Autumn Open 2024,2024-09-15,Men's Junior Under 20 81Kg,Ethan Henrey,81,100,105,-110,130,-135,-136,105,130,235
+FCWC Autumn Open 2024,2024-09-15,Men's Senior 73Kg,Luke Thompson,72.6,100,-105,105,122,125,-128,105,125,230
+FCWC Autumn Open 2024,2024-09-15,Men's Senior 89Kg,Cory McCabe,87.5,-95,95,-100,125,-130,-130,95,125,220
+FCWC Autumn Open 2024,2024-09-15,Men's Youth Under 17 89Kg,Alex Stockton-Hine,83.9,91,96,-100,115,120,-125,96,120,216
+FCWC Autumn Open 2024,2024-09-15,Men's Senior 81Kg,Thomas Chiu,78.1,80,-85,85,103,-107,107,85,107,192
+FCWC Autumn Open 2024,2024-09-15,Men's Senior 96Kg,Joe Robertshaw,95.9,75,80,85,100,-105,105,85,105,190
+FCWC Autumn Open 2024,2024-09-15,Men's Masters (35-39) 73Kg,Christian Glinister,72.7,-76,76,81,95,102,-106,81,102,183
+FCWC Autumn Open 2024,2024-09-15,Men's Under 23 109+Kg,Cameron  Ball,126.2,75,80,-85,95,100,-105,80,100,180
+FCWC Autumn Open 2024,2024-09-15,Men's Junior Under 20 73Kg,Joshua Panter,69.2,-72,72,76,95,100,102,76,102,178
+FCWC Autumn Open 2024,2024-09-15,Women's Senior 81Kg,Fallon Parker,78.3,74,-76,-77,90,92,-94,74,92,166
+FCWC Autumn Open 2024,2024-09-15,Women's Junior Under 20 71Kg,Olive Eleftheriou,68.9,66,-70,73,80,85,89,73,89,162
+FCWC Autumn Open 2024,2024-09-15,Men's Masters (40-44) 73Kg,Danny Meir,73,66,-70,70,88,91,-94,70,91,161
+FCWC Autumn Open 2024,2024-09-15,Men's Masters (45-49) 73Kg,Pete Montgomery,72.4,68,70,-73,88,90,-92,70,90,160
+FCWC Autumn Open 2024,2024-09-15,Women's Senior 76Kg,Zoe Dunn,75.9,-65,65,-70,85,88,91,65,91,156
+FCWC Autumn Open 2024,2024-09-15,Women's Senior 71Kg,Olivia Walker,67.3,-60,64,66,85,88,-90,66,88,154
+FCWC Autumn Open 2024,2024-09-15,Women's Youth Under 15 64Kg,Ella Henrey,64,63,-66,-67,80,84,-86,63,84,147
+FCWC Autumn Open 2024,2024-09-15,Men's Senior 67Kg,Matthew Jones,67,60,-65,65,75,80,-83,65,80,145
+FCWC Autumn Open 2024,2024-09-15,Men's Senior 81Kg,Ed Wallace,76,58,62,65,75,79,-83,65,79,144
+FCWC Autumn Open 2024,2024-09-15,Women's Under 23 49Kg,Madeleine McCormack,48.5,-54,54,58,67,70,-72,58,70,128
+FCWC Autumn Open 2024,2024-09-15,Women's Junior Under 20 55Kg,Lucy Montgomery,51.6,53,55,57,65,68,71,57,71,128
+FCWC Autumn Open 2024,2024-09-15,Women's Youth Under 17 71Kg,Ashley Brookes,66.1,50,53,56,64,67,70,56,70,126
+FCWC Autumn Open 2024,2024-09-15,Women's Junior Under 20 81Kg,Megan Williams,76.7,55,60,-62,65,-70,-71,60,65,125
+FCWC Autumn Open 2024,2024-09-15,Women's Youth Under 15 71Kg,Esther Hewitt,68.8,48,51,-54,58,61,63,51,63,114
+FCWC Autumn Open 2024,2024-09-15,Women's Senior 87Kg,Megan Murphy,84.7,-45,45,-48,-62,62,65,45,65,110
+FCWC Autumn Open 2024,2024-09-15,Women's Masters (35-39) 64Kg,Natalie Harrison,60.4,40,43,-45,62,-65,65,43,65,108
+FCWC Autumn Open 2024,2024-09-15,Women's Masters (35-39) 81Kg,Nikki Hesford,77.5,34,37,40,60,-63,63,40,63,103
+FCWC Autumn Open 2024,2024-09-15,Men's Youth Under 15 55Kg,Max Jones,54.4,38,41,44,55,58,-60,44,58,102
+FCWC Autumn Open 2024,2024-09-15,Women's Under 23 64Kg,Charlotte Peel,64,-43,43,-45,54,57,-58,43,57,100
+FCWC Autumn Open 2024,2024-09-15,Women's Youth Under 12 76Kg,Maisy Waddington,72.5,29,31,33,39,41,44,33,44,77
+FCWC Autumn Open 2024,2024-09-15,Women's Senior 64Kg,Penny Lakin,63.1,72,-75,75,-92,-92,-93,75,0,0
+FCWC Autumn Open 2024,2024-09-15,Men's Senior 96Kg,Jake Allen,95.4,117,120,-123,-154,-154,-155,120,0,0
