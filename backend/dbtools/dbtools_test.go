@@ -220,7 +220,6 @@ func Test_assignStruct(t *testing.T) {
 			Total:      330,
 			Sinclair:   0,
 			Federation: "BWL",
-			Instagram:  "",
 		},
 		}}
 	for _, tt := range tests {

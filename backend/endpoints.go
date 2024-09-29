@@ -22,9 +22,6 @@ var DiscoKaren discordbot.DiscordBot
 // LeaderboardData is a global variable that is used to hold the leaderboard data.
 var LeaderboardData structs.LeaderboardData
 
-// this is remnant of the instagram linking code
-// var lifterData = lifter.Build()
-
 // QueryCache is a global variable that is used to cache queries for the leaderboard endpoint.
 var QueryCache dbtools.QueryCache
 
