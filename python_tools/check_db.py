@@ -1,4 +1,4 @@
-""" Checks all CSV files within the backend/event_data folder and that it 
+""" Checks all CSV files within the backend/event_data folder and that it
 matches the Result dataclass """
 import logging
 import re
@@ -10,19 +10,19 @@ from typing import Optional
 from database_handler.result_dataclasses import Result
 from database_handler.static_helpers import load_result_csv_as_list
 
-event_data_path: str = "../event_data"
-
+EVENT_DATA_PATH: str = "../event_data"
+RULE_CHANGE_YEAR: int = 2005
 
 def check_db() -> None:
     """ To be used as part of a GitHub action to check the database files are up-to-date """
     print("Checking database files...")
-    fed_dir = [fed for fed in listdir(event_data_path) if "." not in fed]
+    fed_dir = [fed for fed in listdir(EVENT_DATA_PATH) if "." not in fed]
     if (arg_db := __single_database()) is not None:
         fed_dir = arg_db
     pass_test = True
     for fed in fed_dir:
         print(f"Checking {join(getcwd(), fed)} database")
-        filepath = join(getcwd(), event_data_path, fed)
+        filepath = join(getcwd(), EVENT_DATA_PATH, fed)
         if not check_files(filepath):
             pass_test = False
     if not pass_test:
@@ -37,14 +37,14 @@ def __single_database() -> Optional[list[str]]:
     """ Checks the args passed to the script from the makefile """
     if len(sys.argv) == 2 and len(sys.argv[1]) > 0:
         print(f"Checking {sys.argv[1]} database")
-        db_path = [join(getcwd(), event_data_path, sys.argv[1])]
+        db_path = [join(getcwd(), EVENT_DATA_PATH, sys.argv[1])]
         return db_path
     else:
         return None
 
 
 def check_files(folder_path: str) -> bool:
-    """check_files() checks all CSV files within a folder and that it matches the 
+    """check_files() checks all CSV files within a folder and that it matches the
     Result dataclass"""""
     pass_test = True
     for file in listdir(folder_path):
@@ -61,27 +61,16 @@ def check_files(folder_path: str) -> bool:
                     if entry.total > 500:
                         print(f"Total format incorrect for {entry}\nFile: {csv_filepath}")
                         pass_test = False
-                    # todo: maybe add this back in or make it optional
-                    """"
-                    # if a total is 0, then it's a DNF or DSQ
-                    if entry.total != 0:
-                        # check best snatch
-                        if entry.best_snatch != max(0.0, max([entry.snatch_1, entry.snatch_2, entry.snatch_3])):
-                            print(f"Best snatch incorrect for {entry}\nFile: {csv_filepath}\n")
-                            pass_test = False
-                        # check best clean & jerk
-                        if entry.best_cj != max(0.0, max([entry.cj_1, entry.cj_2, entry.cj_3])):
-                            print(f"Best clean-jerk incorrect for {entry}\nFile: {csv_filepath}\n")
-                            pass_test = False
-                    """
                     # check that the total not a negative value
                     if entry.total < 0:
                         print(f"Total incorrect for {entry}\nFile: {csv_filepath}\n")
                         pass_test = False
-                    # check that the total is the sum of the best snatch and best clean & jerk
-                    if entry.total > 0 and entry.total != entry.best_snatch + entry.best_cj:
-                        print(f"Total incorrect for {entry}\nFile: {csv_filepath}\n")
-                        pass_test = False
+                    # we're going to ignore any results prior to the change to rounded kilos because the rules were SO dumb
+                    if int(entry.date[:4]) >= RULE_CHANGE_YEAR:
+                        # check that the total is the sum of the best snatch and best clean & jerk
+                        if entry.total > 0 and entry.total != entry.best_snatch + entry.best_cj:
+                            print(f"Total incorrect for {entry}\nFile: {csv_filepath}\n")
+                            pass_test = False
             except ValueError:
                 pass_test = False
                 print(f"Error in file: {csv_filepath}")
