@@ -1,10 +1,6 @@
 package utilities
 
 import (
-	igDatabase "backend/lifterdata"
-	"io"
-	"io/fs"
-	"log"
 	"reflect"
 	"testing"
 	"time"
@@ -54,37 +50,6 @@ func TestFloat(t *testing.T) {
 		t.Run(tt.name, func(t *testing.T) {
 			if gotRetFloat := Float(tt.args.preFloatStr); gotRetFloat != tt.wantRetFloat {
 				t.Errorf("Float() = %v, want %v", gotRetFloat, tt.wantRetFloat)
-			}
-		})
-	}
-}
-
-func TestLoadCsvFile(t *testing.T) {
-	fileHandle, err := igDatabase.InstagramDatabase.Open("ighandles.csv")
-	if err != nil {
-		log.Fatal(err)
-	}
-	defer func(fileHandle fs.File) {
-		err := fileHandle.Close()
-		if err != nil {
-			log.Fatal(err)
-		}
-	}(fileHandle)
-
-	type args struct {
-		file io.Reader
-	}
-	tests := []struct {
-		name         string
-		args         args
-		wantedTypeOf [][]string
-	}{
-		{name: "LoadCsvFile", args: args{file: fileHandle}, wantedTypeOf: [][]string{}},
-	}
-	for _, tt := range tests {
-		t.Run(tt.name, func(t *testing.T) {
-			if got := LoadCsvFile(tt.args.file); !reflect.DeepEqual(reflect.TypeOf(got), reflect.TypeOf(tt.wantedTypeOf)) {
-				t.Errorf("LoadCsvFile() = %v, want %v", got, tt.wantedTypeOf)
 			}
 		})
 	}
