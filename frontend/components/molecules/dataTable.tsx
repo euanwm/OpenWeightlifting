@@ -13,7 +13,10 @@ import { CgProfile } from 'react-icons/cg'
 
 import { AllDetails } from './allDetails'
 
-import { LifterResult, LeaderboardResult } from '@/api/fetchLifterData/fetchLifterDataTypes'
+import {
+  LifterResult,
+  LeaderboardResult,
+} from '@/api/fetchLifterData/fetchLifterDataTypes'
 
 export const DataTable = ({
   lifters,
@@ -23,15 +26,8 @@ export const DataTable = ({
   openLifterGraphHandler: (lifterName: string) => void
 }) => {
   const generateLifterRow = (lifter: LifterResult, lifterNo: number) => {
-    const {
-      lifter_name,
-      instagram,
-      country,
-      best_snatch,
-      best_cj,
-      total,
-      sinclair,
-    } = lifter
+    const { lifter_name, country, best_snatch, best_cj, total, sinclair } =
+      lifter
     const lifter_page = 'lifter?name=' + lifter_name
 
     return (
@@ -39,21 +35,15 @@ export const DataTable = ({
         <TableCell>{lifterNo}</TableCell>
         <TableCell>{lifter_name}</TableCell>
         <TableCell className="space-x-3 whitespace-nowrap">
-          <button onClick={() => openLifterGraphHandler(lifter_name)} aria-label="lifter history graph">
+          <button
+            onClick={() => openLifterGraphHandler(lifter_name)}
+            aria-label="lifter history graph"
+          >
             <VscGraphLine size={25} />
           </button>
           <Link href={lifter_page} aria-label="lifter profile page">
             <CgProfile size={25} />
           </Link>
-          {instagram && (
-            <a
-              href={`https://www.instagram.com/${instagram}`}
-              className=" inline-block "
-              aria-label="lifter instagram"
-            >
-              <FaInstagram size={25} />
-            </a>
-          )}
         </TableCell>
         <TableCell>{country}</TableCell>
         <TableCell>{best_snatch}</TableCell>
