@@ -3,7 +3,7 @@ import { useRouter } from 'next/router'
 import { Spinner } from '@nextui-org/react'
 
 import { LifterStats } from '@/components/molecules/lifterStats'
-import { LifterGraph } from '@/components/molecules/lifterGraph'
+import LifterGraph from '@/components/molecules/lifterGraph'
 import { HistoryTable } from '@/components/molecules/historyTable'
 import fetchLifterHistory from '../../api/fetchLifterHistory/fetchLifterHistory'
 import HeaderBar from '@/components/molecules/head'
@@ -15,10 +15,7 @@ function LifterPage() {
     params[key] = router.query[key]?.toString() || ''
   }
 
-  const { data, isLoading } = useSWR(
-    params,
-    fetchLifterHistory,
-  )
+  const { data, isLoading } = useSWR(params, fetchLifterHistory)
 
   return (
     <>

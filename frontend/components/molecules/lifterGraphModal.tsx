@@ -1,7 +1,7 @@
 import useSWR from 'swr'
 import { Modal, ModalContent, ModalHeader, Spinner } from '@nextui-org/react'
 import fetchLifterGraphData from '@/api/fetchLifterGraphData/fetchLifterGraphData'
-import { LifterGraph } from './lifterGraph'
+import LifterGraph from './lifterGraph'
 
 function LifterGraphModal({
   lifterName,
