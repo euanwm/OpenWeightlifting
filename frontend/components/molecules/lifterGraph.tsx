@@ -8,8 +8,7 @@ import {
   Title,
   Tooltip,
   Legend,
-  ChartOptions,
-} from 'chart.js'
+  } from 'chart.js'
 import { Line } from 'react-chartjs-2'
 
 ChartJS.register(
@@ -64,7 +63,7 @@ const LifterGraph = ({
   const config = {
     plugins: {
       legend: {
-        display: false,
+        display: true,
       },
     },
     scales: {
@@ -81,8 +80,7 @@ const LifterGraph = ({
       },
       y: {
         grid: {
-          color: '#F0F0F0',
-          borderColor: '#F0F0F0',
+          display: false,
           borderWidth: 1,
         },
         ticks: {
@@ -93,7 +91,6 @@ const LifterGraph = ({
         },
       },
     },
-    maintainAspectRatio: false,
     aspectRatio: setRatio,
   }
 
