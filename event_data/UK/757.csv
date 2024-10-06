@@ -1,0 +1,44 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Nova Autumn Open,2024-09-22,Men's Senior 109Kg,George Weston,107,116,119,-122,-154,154,0,119,154,273
+Nova Autumn Open,2024-09-22,Men's Senior 102Kg,Adam Smith,99.4,110,115,-120,131,-140,0,115,131,246
+Nova Autumn Open,2024-09-22,Men's Senior 89Kg,Louis  Henry ,88.35,103,107,-112,130,136,0,107,136,243
+Nova Autumn Open,2024-09-22,Men's Senior 81Kg,Dave Wooding,78.9,90,95,100,119,124,0,100,124,224
+Nova Autumn Open,2024-09-22,Men's Senior 89Kg,Kieran Wilson,86.7,88,93,100,115,122,0,100,122,222
+Nova Autumn Open,2024-09-22,Men's Senior 73Kg,Samuel Evans,72.45,95,-100,-100,121,126,0,95,126,221
+Nova Autumn Open,2024-09-22,Men's Under 23 89Kg,Makoto Kimura-Phalon,87.1,95,-100,100,118,-126,0,100,118,218
+Nova Autumn Open,2024-09-22,Men's Senior 109Kg,Omotola Babasola,106.8,90,97,-105,110,120,0,97,120,217
+Nova Autumn Open,2024-09-22,Men's Senior 73Kg,Abdoul Aziz Amadou,71.85,-88,90,94,110,115,0,94,115,209
+Nova Autumn Open,2024-09-22,Men's Under 23 73Kg,Elliot  Runchman,69.25,85,90,-95,100,105,0,90,105,195
+Nova Autumn Open,2024-09-22,Men's Masters (35-39) 73Kg,Luis Ruiz,72.25,80,-86,-90,105,110,0,80,110,190
+Nova Autumn Open,2024-09-22,Men's Senior 73Kg,Charlie Trendall,70.75,75,80,84,-100,100,0,84,100,184
+Nova Autumn Open,2024-09-22,Men's Senior 81Kg,Nicos Antippa,80.4,70,73,76,-95,95,0,76,95,171
+Nova Autumn Open,2024-09-22,Men's Masters (40-44) 102Kg,James Marshall,98.8,70,76,-80,85,90,95,76,95,171
+Nova Autumn Open,2024-09-22,Men's Senior 109Kg,Sam Loveday,103.1,60,65,70,85,93,0,70,93,163
+Nova Autumn Open,2024-09-22,Women's Senior 64Kg,Naomi Howell Sivosh,63.35,65,69,73,80,85,0,73,85,158
+Nova Autumn Open,2024-09-22,Men's Masters (65-69) 67Kg,andrew seaber,66.8,65,70,-75,80,85,0,70,85,155
+Nova Autumn Open,2024-09-22,Men's Senior 96Kg,Izaak Heath,95,65,68,-72,82,86,0,68,86,154
+Nova Autumn Open,2024-09-22,Men's Senior 81Kg,Joe Gent,74.35,57,62,-67,80,-87,0,62,80,142
+Nova Autumn Open,2024-09-22,Men's Under 23 81Kg,Benjamin Gruneberg,76.65,55,58,62,68,75,0,62,75,137
+Nova Autumn Open,2024-09-22,Women's Senior 71Kg,Paige Harris,68.3,53,57,-60,70,74,0,57,74,131
+Nova Autumn Open,2024-09-22,Women's Senior 71Kg,Aleksandra Kmieciak,66.9,54,57,60,66,71,0,60,71,131
+Nova Autumn Open,2024-09-22,Women's Senior 76Kg,Kit Palmer,75.3,55,-59,-62,-75,75,0,55,75,130
+Nova Autumn Open,2024-09-22,Men's Senior 67Kg,Russell Flaherty,61.75,47,52,55,70,75,0,55,75,130
+Nova Autumn Open,2024-09-22,Men's Masters (60-64) 73Kg,Mark Day,71.7,50,53,56,68,72,0,56,72,128
+Nova Autumn Open,2024-09-22,Women's Masters (35-39) 81Kg,Wendy Meadows-Smith,78.3,53,-57,57,70,-73,0,57,70,127
+Nova Autumn Open,2024-09-22,Men's Masters (55-59) 89Kg,David Evans,83.75,48,-52,52,70,75,0,52,75,127
+Nova Autumn Open,2024-09-22,Women's Masters (45-49) 59Kg,Hannah Fitzgerald,58.5,42,-45,45,65,71,0,45,71,116
+Nova Autumn Open,2024-09-22,Women's Senior 64Kg,Morgan Burt,60.85,43,45,48,61,65,0,48,65,113
+Nova Autumn Open,2024-09-22,Men's Masters (60-64) 67Kg,Phil Poole,66.9,-40,43,45,62,65,0,45,65,110
+Nova Autumn Open,2024-09-22,Women's Masters (45-49) 76Kg,Steffie Kosta,75.9,43,47,-50,55,60,-65,47,60,107
+Nova Autumn Open,2024-09-22,Women's Senior 87+Kg,Lotte McDonald,89.45,45,49,-52,55,-62,0,49,55,104
+Nova Autumn Open,2024-09-22,Women's Masters (45-49) 87+Kg,Louise Oldham,90,35,40,45,45,52,0,45,52,97
+Nova Autumn Open,2024-09-22,Women's Masters (40-44) 81Kg,Hayley Carne,76.45,38,40,-43,52,56,0,40,56,96
+Nova Autumn Open,2024-09-22,Women's Senior 71Kg,Emilia Shepherd,70.5,35,38,41,40,45,0,41,45,86
+Nova Autumn Open,2024-09-22,Women's Senior 71Kg,Kim Cheng,70.15,-30,30,33,45,50,0,33,50,83
+Nova Autumn Open,2024-09-22,Women's Masters (35-39) 55Kg,Alexandra Cole,54.3,33,-35,35,43,45,0,35,45,80
+Nova Autumn Open,2024-09-22,Women's Masters (55-59) 55Kg,Rebecca Pawlikiewicz-Peacock,53.15,30,33,-36,40,43,0,33,43,76
+Nova Autumn Open,2024-09-22,Women's Masters (40-44) 71Kg,Heather Sinclair,68.7,25,28,-33,-42,42,0,28,42,70
+Nova Autumn Open,2024-09-22,Women's Under 23 59Kg,Emilija Majute,59,25,28,-31,35,38,0,28,38,66
+Nova Autumn Open,2024-09-22,Women's Masters (50-54) 81Kg,Wendy Davidson,80.6,-25,25,-28,38,-42,0,25,38,63
+Nova Autumn Open,2024-09-22,Women's Senior 64Kg,Julia Lim,62.7,-63,-64,-64,0,0,0,0,0,0
+Nova Autumn Open,2024-09-22,Men's Senior 73Kg,Tiago Costa,71.9,100,-105,-105,-125,-127,0,100,0,0
