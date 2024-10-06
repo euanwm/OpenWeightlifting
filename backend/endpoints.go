@@ -28,6 +28,9 @@ var QueryCache dbtools.QueryCache
 // EventsData is a global variable that is used to hold the event metadata.
 var EventsData structs.EventsMetaData
 
+// TheBank is a glorified byte counter, but it can be expanded to do more stuff
+var TheBank structs.BeanCounter
+
 // ServerTime godoc
 //
 //	@Summary	Checking the servers localtime
