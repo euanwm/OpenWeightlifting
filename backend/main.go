@@ -80,7 +80,7 @@ func RestartHandler(bot *discordbot.DiscordBot) {
 	signal.Notify(signals, syscall.SIGINT, syscall.SIGTERM)
 	<-signals
 	// post an update into Discord with how many bytes of data were handler
-	_, _ = bot.PostPlatformData(fmt.Sprintf("Total number of bytes handled today: %s", TheBank.UnitToString()))
+	_, _ = bot.PostPlatformData(fmt.Sprintf("Total backend data handled today: %s", TheBank.UnitToString()))
 }
 
 // @title OpenWeightlifting API
