@@ -1,20 +1,20 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
 South American Youth Championships,2022-10-19,49 kg Men,ENDARA CRIOLLO Alexis Javier,47.80,79,81,83,95,102,-107,83,102,185
-South American Youth Championships,2022-10-19,49 kg Men,SEPULVEDA Luis,48.75,55,61,64,76,81,-84,64,81,145
+South American Youth Championships,2022-10-19,49 kg Men,SEPULVEDA ARANEDA Luis Yacier,48.75,55,61,64,76,81,-84,64,81,145
 South American Youth Championships,2022-10-19,49 kg Men,SILVA Crysthian,48.40,60,63,-66,-78,78,-83,63,78,141
 South American Youth Championships,2022-10-19,55 kg Men,TORRES Benjamin,54.70,90,95,97,112,116,-119,97,116,213
 South American Youth Championships,2022-10-19,55 kg Men,MEZA Domingo Francisco,53.14,76,79,82,100,105,111,82,111,193
-South American Youth Championships,2022-10-19,55 kg Men,INUMA Michael,54.00,78,81,-84,102,107,-110,81,107,188
+South American Youth Championships,2022-10-19,55 kg Men,INUMA ROJAS Michael Angel,54.00,78,81,-84,102,107,-110,81,107,188
 South American Youth Championships,2022-10-19,61 kg Men,ARANIS Benjamin,59.88,92,96,100,114,118,120,100,120,220
 South American Youth Championships,2022-10-19,61 kg Men,TAVARES DE OLIVEIRA Mateus,60.22,95,-98,-101,110,-115,115,95,115,210
 South American Youth Championships,2022-10-19,61 kg Men,RUIZ DIAZ Tobias Ali,59.60,92,95,-98,-121,121,-126,95,121,216
-South American Youth Championships,2022-10-19,61 kg Men,FERNANDEZ Jose,60.06,73,-76,76,90,95,-99,76,95,171
+South American Youth Championships,2022-10-19,61 kg Men,FERNANDEZ MORI Jose Manuel,60.06,73,-76,76,90,95,-99,76,95,171
 South American Youth Championships,2022-10-19,67 kg Men,ELIZALDE CASTRO Franchesco Joel,66.70,110,114,-116,132,-136,136,114,136,250
 South American Youth Championships,2022-10-19,67 kg Men,ESTUPINAN VACACELA Erick Wellington,66.40,103,108,111,135,139,-142,111,139,250
 South American Youth Championships,2022-10-19,67 kg Men,GARCIA SISO David Alejandro,65.40,110,-114,-115,135,-138,141,110,141,251
 South American Youth Championships,2022-10-19,67 kg Men,NASCIMENTO COSTA Joao Victor,66.89,100,107,-112,127,132,-137,107,132,239
 South American Youth Championships,2022-10-19,67 kg Men,TORRES VASQUEZ Sebastian Ignacio,66.70,95,-100,100,118,-125,-126,100,118,218
-South American Youth Championships,2022-10-19,67 kg Men,LANDIVAR Angel,62.50,91,-95,95,119,123,-126,95,123,218
+South American Youth Championships,2022-10-19,67 kg Men,LANDIVAR Angel Gabriel,62.50,91,-95,95,119,123,-126,95,123,218
 South American Youth Championships,2022-10-19,67 kg Men,PALMA Ignacio,64.80,80,-84,-84,95,100,105,80,105,185
 South American Youth Championships,2022-10-19,73 kg Men,RODRIGUEZ Angel,70.50,113,122,-127,140,149,-153,122,149,271
 South American Youth Championships,2022-10-19,73 kg Men,SILVA ANGULO Hidver,72.50,103,-107,-107,132,136,138,103,138,241
@@ -25,8 +25,8 @@ South American Youth Championships,2022-10-19,73 kg Men,AVALOS Lautaro Benjamin,
 South American Youth Championships,2022-10-19,73 kg Men,PAVEZ Carlos,72.70,85,90,-93,110,-115,115,90,115,205
 South American Youth Championships,2022-10-19,81 kg Men,RAMIREZ MARTINEZ Elkin Shamir,80.09,116,120,123,154,160,-165,123,160,283
 South American Youth Championships,2022-10-19,81 kg Men,OLIVERA DELFINO Ramiro Valentin,75.17,110,-116,116,146,155,-161,116,155,271
-South American Youth Championships,2022-10-19,81 kg Men,ESPINOSA Luis,79.14,112,-116,-117,-140,140,-147,112,140,252
-South American Youth Championships,2022-10-19,81 kg Men,TECA Jose,80.80,95,100,-103,125,131,-135,100,131,231
+South American Youth Championships,2022-10-19,81 kg Men,ESPINOSA Luis Alberto,79.14,112,-116,-117,-140,140,-147,112,140,252
+South American Youth Championships,2022-10-19,81 kg Men,TECA ALCAUCER Jose Vicente,80.80,95,100,-103,125,131,-135,100,131,231
 South American Youth Championships,2022-10-19,81 kg Men,IGLESIAS Tobias,79.39,-95,95,-101,120,-126,129,95,129,224
 South American Youth Championships,2022-10-19,81 kg Men,RODRIGUEZ Miguel,76.00,50,55,-60,70,75,80,55,80,135
 South American Youth Championships,2022-10-19,89 kg Men,RAMOS DIAZ Felipe,87.43,122,127,-130,152,157,160,127,160,287
@@ -39,12 +39,12 @@ South American Youth Championships,2022-10-19,96 kg Men,LEON AVELLA Carlos Enriq
 South American Youth Championships,2022-10-19,96 kg Men,REVECO MARCHANT Simon Eduardo,93.98,100,105,-110,120,128,133,105,133,238
 South American Youth Championships,2022-10-19,96 kg Men,QUISPE Carlos,95.09,80,84,88,90,100,-106,88,100,188
 South American Youth Championships,2022-10-19,102 kg Men,ALOMIA FERRIN Hans Nikolay,99.59,-125,-125,126,150,155,160,126,160,286
-South American Youth Championships,2022-10-19,102 kg Men,MESA Joaquin,96.78,-125,-125,125,135,145,155,125,155,280
+South American Youth Championships,2022-10-19,102 kg Men,MESA Joaquin Eluney,96.78,-125,-125,125,135,145,155,125,155,280
 South American Youth Championships,2022-10-19,102 kg Men,ANSELMI Ramiro,100.02,102,106,110,125,130,134,110,134,244
 South American Youth Championships,2022-10-19,102 kg Men,GARCIA Augusto,98.82,77,82,86,100,-106,106,86,106,192
 South American Youth Championships,2022-10-19,+102 kg Men,ASTO SAITEROS Kevin Mateo,132.08,117,122,-127,150,160,-165,122,160,282
 South American Youth Championships,2022-10-19,+102 kg Men,COPELLO Maximiliano,107.08,97,102,105,-127,127,-133,105,127,232
-South American Youth Championships,2022-10-19,+102 kg Men,URREGO Jose,127.67,95,100,104,130,135,143,104,143,247
+South American Youth Championships,2022-10-19,+102 kg Men,URREGO GUTIERREZ Jose Ricardo,127.67,95,100,104,130,135,143,104,143,247
 South American Youth Championships,2022-10-19,45 kg Women,LARA TITUANA Delany Aylen,45.00,52,54,56,68,71,-73,56,71,127
 South American Youth Championships,2022-10-19,45 kg Women,TEZEN MONTERO Shany Tabita Elena,45.00,50,53,-55,69,-72,72,53,72,125
 South American Youth Championships,2022-10-19,45 kg Women,BERRIOS Taia,43.58,33,-36,36,40,43,45,36,45,81
@@ -58,22 +58,22 @@ South American Youth Championships,2022-10-19,55 kg Women,MONCAYO FUENTES Britha
 South American Youth Championships,2022-10-19,55 kg Women,ALVES DE SOUZA TAVARES Giovanna,54.26,70,-73,-75,85,-89,-92,70,85,155
 South American Youth Championships,2022-10-19,55 kg Women,GONZALEZ Wendy,54.28,63,67,70,77,81,-85,70,81,151
 South American Youth Championships,2022-10-19,55 kg Women,DE LIMA SANTOS Beatriz Kamille,53.65,65,-68,68,85,-88,-89,68,85,153
-South American Youth Championships,2022-10-19,55 kg Women,OLIVERA Katerin,53.12,67,-70,-71,81,85,-89,67,85,152
-South American Youth Championships,2022-10-19,55 kg Women,FRANCOS Kiara,53.25,60,-64,64,83,86,89,64,89,153
+South American Youth Championships,2022-10-19,55 kg Women,OLIVERA ASPAJO Katerin Tatiana,53.12,67,-70,-71,81,85,-89,67,85,152
+South American Youth Championships,2022-10-19,55 kg Women,FRANCOS Kiara Natali,53.25,60,-64,64,83,86,89,64,89,153
 South American Youth Championships,2022-10-19,55 kg Women,QUIROZ Sofia,53.65,53,57,59,70,75,77,59,77,136
 South American Youth Championships,2022-10-19,55 kg Women,ANGULO Fresia,54.31,52,-56,-56,70,73,-75,52,73,125
 South American Youth Championships,2022-10-19,59 kg Women,PALACIOS DAJOMES Jessica Isabel,58.47,78,-81,81,-101,101,0,81,101,182
 South American Youth Championships,2022-10-19,59 kg Women,RENGIFO CHIRINOS Claudia Alejandra,58.60,75,80,0,92,100,0,80,100,180
-South American Youth Championships,2022-10-19,59 kg Women,CASADEVALL Maria,56.52,65,68,70,80,84,91,70,91,161
+South American Youth Championships,2022-10-19,59 kg Women,CASADEVALL Maria Paz,56.52,65,68,70,80,84,91,70,91,161
 South American Youth Championships,2022-10-19,59 kg Women,RUIZ Ada,57.87,60,-64,65,78,-82,-84,65,78,143
 South American Youth Championships,2022-10-19,59 kg Women,PAREDES Evita,55.94,48,51,54,60,63,-65,54,63,117
 South American Youth Championships,2022-10-19,64 kg Women,SEGURA Ingrid,63.60,90,93,95,-105,112,114,95,114,209
 South American Youth Championships,2022-10-19,64 kg Women,AYALA Milena Madelein,62.21,77,80,83,-95,95,98,83,98,181
 South American Youth Championships,2022-10-19,64 kg Women,CALIXTO PALACIOS Jacqueline Alexa,61.78,73,-77,80,94,-97,97,80,97,177
-South American Youth Championships,2022-10-19,64 kg Women,TORRES Karina,62.01,73,76,79,97,-102,102,79,102,181
+South American Youth Championships,2022-10-19,64 kg Women,TORRES RAIN Karina Elizabeth,62.01,73,76,79,97,-102,102,79,102,181
 South American Youth Championships,2022-10-19,64 kg Women,LOPEZ Julieta,62.25,63,67,-71,-85,85,-92,67,85,152
 South American Youth Championships,2022-10-19,64 kg Women,VIDALON Yolanda,59.25,55,58,-61,-73,73,76,58,76,134
-South American Youth Championships,2022-10-19,64 kg Women,SAAVEDRA Romina,61.24,48,-51,-52,66,69,72,48,72,120
+South American Youth Championships,2022-10-19,64 kg Women,SAAVEDRA PEREYRA Romina,61.24,48,-51,-52,66,69,72,48,72,120
 South American Youth Championships,2022-10-19,64 kg Women,DA SILVA PIOVESAN Marcella,62.94,-75,0,0,0,0,0,0,0,0
 South American Youth Championships,2022-10-19,71 kg Women,SILVA FERNANDEZ Keily Carolina,64.64,83,87,90,101,105,110,90,110,200
 South American Youth Championships,2022-10-19,71 kg Women,CERQUERA MONTOYA Ivanna Gabriela,70.35,81,84,86,-105,105,109,86,109,195
@@ -82,8 +82,8 @@ South American Youth Championships,2022-10-19,71 kg Women,PAREDES VASQUEZ Jheysi
 South American Youth Championships,2022-10-19,71 kg Women,CALIXTO Escarlet,69.10,64,66,67,81,85,88,67,88,155
 South American Youth Championships,2022-10-19,71 kg Women,BASUALDO Melody Brisila,64.79,63,66,-68,84,87,-90,66,87,153
 South American Youth Championships,2022-10-19,71 kg Women,MAYORGA IGOR Constanza Muriel A,66.32,61,-65,65,-80,80,-85,65,80,145
-South American Youth Championships,2022-10-19,76 kg Women,MENA Maria,72.05,88,92,95,110,-114,-114,95,110,205
-South American Youth Championships,2022-10-19,76 kg Women,BOLANOS Martha,73.59,72,76,80,90,95,-100,80,95,175
+South American Youth Championships,2022-10-19,76 kg Women,MENA MOSQUERA Maria Fernanda,72.05,88,92,95,110,-114,-114,95,110,205
+South American Youth Championships,2022-10-19,76 kg Women,BOLANOS GANGULA Martha Salome,73.59,72,76,80,90,95,-100,80,95,175
 South American Youth Championships,2022-10-19,76 kg Women,LAGOS Isidora,71.41,55,59,61,81,85,-88,61,85,146
 South American Youth Championships,2022-10-19,76 kg Women,BARTRA Nicoll,72.04,-55,55,60,73,77,-82,60,77,137
 South American Youth Championships,2022-10-19,+81 kg Women,TYSFOROD Yairan,114.31,95,-99,-99,115,121,-126,95,121,216

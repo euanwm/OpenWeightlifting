@@ -13,7 +13,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2020 Asian Championships,2021-04-17,61 kg Men,DROZDOV Alexey,61.00,120,124,-126,145,150,154,124,154,278
 2020 Asian Championships,2021-04-17,61 kg Men,AL SALEEM Mansour Abdulrahim M,59.70,115,-120,120,-143,-143,143,120,143,263
 2020 Asian Championships,2021-04-17,61 kg Men,MATRASULOV Khusinboy,60.30,103,107,111,124,127,131,111,131,242
-2020 Asian Championships,2021-04-17,61 kg Men,CENIZA John Fabuar,58.70,105,110,-115,135,-143,-143,110,135,245
+2020 Asian Championships,2021-04-17,61 kg Men,CENIZA John Febuar,58.70,105,110,-115,135,-143,-143,110,135,245
 2020 Asian Championships,2021-04-17,61 kg Men,DON KAROLISLAGE Thilanka Wiraj K P,60.70,-115,-115,-115,145,-148,-148,0,145,0
 2020 Asian Championships,2021-04-17,61 kg Men,HIRAI Hayato,60.80,-118,-118,-118,145,-150,-150,0,145,0
 2020 Asian Championships,2021-04-17,67 kg Men,HUANG Minhao,66.80,147,152,155,168,174,177,155,177,332
@@ -94,8 +94,8 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2020 Asian Championships,2021-04-17,+109 kg Men,TOYCHYYEV Hojamuhammet,147.10,176,181,-187,223,-231,-232,181,223,404
 2020 Asian Championships,2021-04-17,+109 kg Men,HAM Sang Il,148.20,175,180,-185,215,-223,223,180,223,403
 2020 Asian Championships,2021-04-17,+109 kg Men,ALNAJJAR M Moayad,141.20,165,-173,-173,200,206,-210,165,206,371
-2020 Asian Championships,2021-04-17,+109 kg Men,ALRADHI Hassan Asaad M,129.30,145,150,155,-185,185,-192,155,185,340
-2020 Asian Championships,2021-04-17,+109 kg Men,TURKMEN Fazal Karim,140.70,125,132,137,160,167,-175,137,167,304
+2020 Asian Championships,2021-04-17,+109 kg Men,AL RADHI Hassan Asaad M,129.30,145,150,155,-185,185,-192,155,185,340
+2020 Asian Championships,2021-04-17,+109 kg Men,TURKMAN Fazal Karim,140.70,125,132,137,160,167,-175,137,167,304
 2020 Asian Championships,2021-04-17,45 kg Women,DALABEHERA Jhilli,44.60,-65,65,69,83,88,-91,69,88,157
 2020 Asian Championships,2021-04-17,45 kg Women,DIAZ Mary Flor,44.30,60,-65,-66,75,-80,0,60,75,135
 2020 Asian Championships,2021-04-17,49 kg Women,HOU Zhihui,48.70,90,94,96,110,115,117,96,117,213
@@ -103,7 +103,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2020 Asian Championships,2021-04-17,49 kg Women,AISAH Windy Cantika,48.60,82,-86,87,102,-106,-106,87,102,189
 2020 Asian Championships,2021-04-17,49 kg Women,MIRABAI Chanu Saikhom,48.90,-85,-85,86,113,117,119,86,119,205
 2020 Asian Championships,2021-04-17,49 kg Women,VUONG Thi Huyen,48.30,-78,78,-80,96,-99,99,78,99,177
-2020 Asian Championships,2021-04-17,49 kg Women,FANG Wan-Ling,48.90,76,-80,-80,95,100,-103,76,100,176
+2020 Asian Championships,2021-04-17,49 kg Women,FANG Wan Ling,48.90,76,-80,-80,95,100,-103,76,100,176
 2020 Asian Championships,2021-04-17,49 kg Women,DZHUMABAYEVA Yulduz,49.00,72,-75,75,-98,98,-101,75,98,173
 2020 Asian Championships,2021-04-17,49 kg Women,YANAGIDA Mizuki,48.90,70,74,-77,88,92,-95,74,92,166
 2020 Asian Championships,2021-04-17,49 kg Women,MIYAKE Hiromi,48.90,73,-75,-75,98,-100,0,73,98,171
@@ -139,7 +139,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2020 Asian Championships,2021-04-17,64 kg Women,MATSUMOTO Namika,63.80,-85,-85,-85,0,0,0,0,0,0
 2020 Asian Championships,2021-04-17,64 kg Women,DENG Wei,63.00,0,0,0,0,0,0,0,0,0
 2020 Asian Championships,2021-04-17,71 kg Women,KADYROVA Gulnabat,70.90,97,100,102,-120,121,-124,102,121,223
-2020 Asian Championships,2021-04-17,71 kg Women,SARNO PALOMAR Vanessa,70.30,93,97,101,120,124,128,101,128,229
+2020 Asian Championships,2021-04-17,71 kg Women,SARNO Vanessa,70.30,93,97,101,120,124,128,101,128,229
 2020 Asian Championships,2021-04-17,71 kg Women,BYKOVA Yekaterina,70.70,88,91,-93,117,122,-125,91,122,213
 2020 Asian Championships,2021-04-17,71 kg Women,OMAROVA Aisha,70.70,80,83,86,110,114,-118,86,114,200
 2020 Asian Championships,2021-04-17,71 kg Women,RUSTAMOVA Mashkhura,70.00,73,76,78,93,97,101,78,101,179

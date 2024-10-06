@@ -26,7 +26,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2022 IWF World Championships,2022-12-05,61 kg Men,NGUYEN Tran Anh Tuan,60.90,126,-129,-131,155,-162,-162,126,155,281
 2022 IWF World Championships,2022-12-05,61 kg Men,SERNA MENDOZA Jhon Jairo,60.90,120,125,-127,160,164,-166,125,164,289
 2022 IWF World Championships,2022-12-05,61 kg Men,MOTOKI Kazuma,60.80,-125,125,-129,142,-150,-151,125,142,267
-2022 IWF World Championships,2022-12-05,61 kg Men,CENIZA John Fabuar,60.10,119,122,125,155,-160,-161,125,155,280
+2022 IWF World Championships,2022-12-05,61 kg Men,CENIZA John Febuar,60.10,119,122,125,155,-160,-161,125,155,280
 2022 IWF World Championships,2022-12-05,61 kg Men,MARINOV Gabriel,60.80,121,124,-126,155,-159,-161,124,155,279
 2022 IWF World Championships,2022-12-05,61 kg Men,LUGO RODRIGUEZ Wilkeinner Nahun,60.90,117,-120,123,146,151,-153,123,151,274
 2022 IWF World Championships,2022-12-05,61 kg Men,HARDAL Ferdi,61.00,123,-126,-127,150,-154,-154,123,150,273
@@ -45,7 +45,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2022 IWF World Championships,2022-12-05,61 kg Men,IANCU Valentin-Ionadi,59.40,105,108,-111,135,140,144,108,144,252
 2022 IWF World Championships,2022-12-05,61 kg Men,LUCA Marian-Cristian,57.30,105,-110,-110,125,130,-135,105,130,235
 2022 IWF World Championships,2022-12-05,61 kg Men,NIYOYITA Davis,58.50,85,90,95,120,125,-127,95,125,220
-2022 IWF World Championships,2022-12-05,61 kg Men,MBOYA Amunga Joshua,55.60,65,70,73,80,84,86,73,86,159
+2022 IWF World Championships,2022-12-05,61 kg Men,MBOYA Joshua Amunga,55.60,65,70,73,80,84,86,73,86,159
 2022 IWF World Championships,2022-12-05,67 kg Men,CHEN Lijun,66.80,145,148,-150,171,-176,176,148,176,324
 2022 IWF World Championships,2022-12-05,67 kg Men,CHANTRI Witsanu,67.00,-139,139,144,168,-171,-172,144,168,312
 2022 IWF World Championships,2022-12-05,67 kg Men,WICHUMA Weeraphon,67.00,143,-147,-147,-175,175,180,143,180,323
@@ -54,7 +54,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2022 IWF World Championships,2022-12-05,67 kg Men,KAHRIMAN Kaan,66.60,136,141,-143,159,163,165,141,165,306
 2022 IWF World Championships,2022-12-05,67 kg Men,SAVELYEV Anatoliy,67.00,135,140,-145,163,-167,167,140,167,307
 2022 IWF World Championships,2022-12-05,67 kg Men,REYES VIDAL Jair Abimelet,66.50,136,140,-144,170,176,-180,140,176,316
-2022 IWF World Championships,2022-12-05,67 kg Men,GENC Fehmi Yusuf,66.80,-135,136,140,175,179,182,140,182,322
+2022 IWF World Championships,2022-12-05,67 kg Men,GENC Yusuf Fehmi,66.80,-135,136,140,175,179,182,140,182,322
 2022 IWF World Championships,2022-12-05,67 kg Men,HERNANDEZ MENDOZA Acoran Juan,66.80,134,-137,137,158,161,-164,137,161,298
 2022 IWF World Championships,2022-12-05,67 kg Men,LEE Sangyeon,66.50,-135,-135,136,-178,178,-182,136,178,314
 2022 IWF World Championships,2022-12-05,67 kg Men,YOKUBOV Doston,66.80,-135,135,-138,172,-178,-178,135,172,307
@@ -65,7 +65,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2022 IWF World Championships,2022-12-05,67 kg Men,GIORBELIDZE Gurami,66.80,125,-128,129,155,160,-163,129,160,289
 2022 IWF World Championships,2022-12-05,67 kg Men,PACALDO ZAMORA Dave Llyod,66.10,123,-128,128,-157,157,162,128,162,290
 2022 IWF World Championships,2022-12-05,67 kg Men,GHASHGHAEI Hafez,66.80,-126,-126,126,165,-173,-173,126,165,291
-2022 IWF World Championships,2022-12-05,67 kg Men,AL BUSAIDI Elyas Tamim Shuwaired,66.40,115,120,-125,147,152,-159,120,152,272
+2022 IWF World Championships,2022-12-05,67 kg Men,AL BUSAIDI Elyas Tamim,66.40,115,120,-125,147,152,-159,120,152,272
 2022 IWF World Championships,2022-12-05,67 kg Men,ERGASHEV Adkhamjon,66.60,-136,-136,-139,-172,-172,0,0,0,0
 2022 IWF World Championships,2022-12-05,73 kg Men,JUNIANSYAH Rizki,72.10,150,155,-158,187,192,-198,155,192,347
 2022 IWF World Championships,2022-12-05,73 kg Men,ANDREEV Bozhidar Dimitrov,72.70,150,-154,154,180,184,-190,154,184,338
@@ -89,7 +89,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2022 IWF World Championships,2022-12-05,73 kg Men,MEREDOV Maksad,73.00,137,-141,-141,165,170,-174,137,170,307
 2022 IWF World Championships,2022-12-05,73 kg Men,KUDLASZYK Piotr Mateusz,72.90,134,137,-139,171,174,0,137,174,311
 2022 IWF World Championships,2022-12-05,73 kg Men,HERNANDEZ FLORES Jorge Neptali,72.60,130,-134,134,165,170,-175,134,170,304
-2022 IWF World Championships,2022-12-05,73 kg Men,DITTO Titus Ika,68.30,105,110,-112,140,-145,145,110,145,255
+2022 IWF World Championships,2022-12-05,73 kg Men,IKA Ditto Titus,68.30,105,110,-112,140,-145,145,110,145,255
 2022 IWF World Championships,2022-12-05,73 kg Men,NSUBUGA Ibrahim,68.10,85,90,95,115,122,-125,95,122,217
 2022 IWF World Championships,2022-12-05,73 kg Men,MAYORA PERNA Julio Ruben,72.70,-148,-150,-153,0,0,0,0,0,0
 2022 IWF World Championships,2022-12-05,73 kg Men,BAK Joohyo,72.80,-148,-148,-149,-186,-188,-191,0,0,0
@@ -158,7 +158,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2022 IWF World Championships,2022-12-05,89 kg Men,HERNANDEZ MARTINEZ Alexander,87.40,-137,137,-140,175,-180,-180,137,175,312
 2022 IWF World Championships,2022-12-05,89 kg Men,PAVON FUNES Axel Haun,88.70,-136,136,-140,170,175,-181,136,175,311
 2022 IWF World Championships,2022-12-05,89 kg Men,LOPEZ CAMERON Yomar Andres,83.80,-130,130,136,150,160,-163,136,160,296
-2022 IWF World Championships,2022-12-05,89 kg Men,NASAR Karlos May Hasan,87.50,-173,-173,-174,212,-217,220,0,220,0
+2022 IWF World Championships,2022-12-05,89 kg Men,NASAR Karlos May,87.50,-173,-173,-174,212,-217,220,0,220,0
 2022 IWF World Championships,2022-12-05,89 kg Men,TIAN Tao,88.50,0,0,0,0,0,0,0,0,0
 2022 IWF World Championships,2022-12-05,89 kg Men,FICCO Cristiano Giuseppe,86.60,-165,-165,-165,0,0,0,0,0,0
 2022 IWF World Championships,2022-12-05,96 kg Men,PAREDES MONTANO Lesman,95.50,176,181,185,207,212,-214,185,212,397
@@ -191,7 +191,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2022 IWF World Championships,2022-12-05,96 kg Men,CHEN Po-Jen,95.70,0,0,0,0,0,0,0,0,0
 2022 IWF World Championships,2022-12-05,96 kg Men,JANG Yeonhak,94.80,-171,-172,-172,201,206,-210,0,206,0
 2022 IWF World Championships,2022-12-05,102 kg Men,DEHDAR Reza,100.80,168,173,177,-210,-211,213,177,213,390
-2022 IWF World Championships,2022-12-05,102 kg Men,RUIZ I. VELASCO Marcos,100.90,171,176,-178,205,-210,-210,176,205,381
+2022 IWF World Championships,2022-12-05,102 kg Men,RUIZ I VELASCO Marcos,100.90,171,176,-178,205,-210,-210,176,205,381
 2022 IWF World Championships,2022-12-05,102 kg Men,GASPARYAN Samvel,102.00,175,-179,-179,-213,-213,214,175,214,389
 2022 IWF World Championships,2022-12-05,102 kg Men,MARINOV Vasil Kaloyanov,101.90,170,174,-176,203,-208,-210,174,203,377
 2022 IWF World Championships,2022-12-05,102 kg Men,ELBAKH Fares Ibrahim E. H.,96.70,170,174,-177,217,0,0,174,217,391
@@ -217,7 +217,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2022 IWF World Championships,2022-12-05,102 kg Men,AGREN Stefan Vilhelm Mauritz,101.90,-145,145,-150,-185,-186,-186,145,0,0
 2022 IWF World Championships,2022-12-05,102 kg Men,PRIETO RECALDE Juan Jose,96.30,130,136,-140,-170,-170,-170,136,0,0
 2022 IWF World Championships,2022-12-05,102 kg Men,DALEY James Francis,98.70,113,116,120,-138,-138,138,120,138,258
-2022 IWF World Championships,2022-12-05,102 kg Men,DAVRANBEK Hasanbayev,98.60,-171,-173,-173,182,-186,-186,0,182,0
+2022 IWF World Championships,2022-12-05,102 kg Men,HASANBAYEV Davranbek,98.60,-171,-173,-173,182,-186,-186,0,182,0
 2022 IWF World Championships,2022-12-05,102 kg Men,MOCHIDA Ryunosuke,101.70,-165,-165,-165,0,0,0,0,0,0
 2022 IWF World Championships,2022-12-05,109 kg Men,NURUDINOV Ruslan,108.80,-177,177,-180,217,-220,220,177,220,397
 2022 IWF World Championships,2022-12-05,109 kg Men,KARAMI Mehdi,108.50,170,174,176,210,-216,-216,176,210,386
@@ -237,7 +237,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2022 IWF World Championships,2022-12-05,109 kg Men,VIERA ESPINOZA Hernan Moises,108.60,140,-145,145,0,0,0,145,0,0
 2022 IWF World Championships,2022-12-05,+109 kg Men,TALAKHADZE Lasha,166.50,208,215,-220,-245,245,251,215,251,466
 2022 IWF World Championships,2022-12-05,+109 kg Men,LALAYAN Varazdat,151.90,205,210,215,-245,-245,246,215,246,461
-2022 IWF World Championships,2022-12-05,+109 kg Men,MINASYAN Gor,151.00,205,212,-216,-241,242,250,212,250,462
+2022 IWF World Championships,2022-12-05,+109 kg Men,MINASYAN Gor Tigran A.,151.00,205,212,-216,-241,242,250,212,250,462
 2022 IWF World Championships,2022-12-05,+109 kg Men,DAVOUDI Ali,174.60,197,202,-204,240,247,-252,202,247,449
 2022 IWF World Championships,2022-12-05,+109 kg Men,ASAAD Man,153.00,192,198,-203,237,247,-252,198,247,445
 2022 IWF World Championships,2022-12-05,+109 kg Men,SHARIFIKELARIJANI Ayat,149.30,190,196,-201,-230,-230,236,196,236,432
@@ -263,7 +263,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2022 IWF World Championships,2022-12-05,+109 kg Men,HSIEH Yun-Ting,120.40,0,0,0,0,0,0,0,0,0
 2022 IWF World Championships,2022-12-05,+109 kg Men,DJURAEV Akbar,124.70,0,0,0,0,0,0,0,0,0
 2022 IWF World Championships,2022-12-05,45 kg Women,SUKCHAROEN Thanyathon,44.90,77,79,82,95,100,-103,82,100,182
-2022 IWF World Championships,2022-12-05,45 kg Women,PRAMONGKHOL Miss Siriwimon,44.60,74,76,78,94,99,102,78,102,180
+2022 IWF World Championships,2022-12-05,45 kg Women,PRAMONGHKHOL Siriwimon,44.60,74,76,78,94,99,102,78,102,180
 2022 IWF World Championships,2022-12-05,45 kg Women,BERRIO ZULUAGA Manuela Andrea,45.00,73,75,77,91,-93,93,77,93,170
 2022 IWF World Championships,2022-12-05,45 kg Women,KHONG My Phuong,45.00,76,-78,-78,87,-89,-89,76,87,163
 2022 IWF World Championships,2022-12-05,45 kg Women,KYLE Cicely Jevon,45.00,-71,71,-73,-90,-90,91,71,91,162
@@ -283,7 +283,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2022 IWF World Championships,2022-12-05,49 kg Women,STERCKX Nina,48.80,85,88,89,104,-109,-109,89,104,193
 2022 IWF World Championships,2022-12-05,49 kg Women,MIRABAI Chanu Saikhom,49.00,84,-87,87,-111,111,113,87,113,200
 2022 IWF World Championships,2022-12-05,49 kg Women,DELACRUZ Jourdan Elizabeth,49.00,84,-86,86,-105,105,-109,86,105,191
-2022 IWF World Championships,2022-12-05,49 kg Women,TANASAN Sanikun,48.60,85,-87,-88,-103,-103,-103,85,0,0
+2022 IWF World Championships,2022-12-05,49 kg Women,SANIKUN Tanasan,48.60,85,-87,-88,-103,-103,-103,85,0,0
 2022 IWF World Championships,2022-12-05,49 kg Women,REICHARDT Hayley Marie,49.00,81,-83,84,104,107,110,84,110,194
 2022 IWF World Championships,2022-12-05,49 kg Women,ROSA FIGUEIREDO Nathasha,48.90,83,-86,-86,104,-107,-108,83,104,187
 2022 IWF World Championships,2022-12-05,49 kg Women,HERNANDEZ VIEYRA Yesica Yadira,48.80,78,80,82,-102,102,-106,82,102,184
@@ -291,7 +291,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2022 IWF World Championships,2022-12-05,49 kg Women,DE LA HERRAN MARTINEZ Andrea,48.90,-81,-81,81,95,-100,-100,81,95,176
 2022 IWF World Championships,2022-12-05,49 kg Women,DE OLIVEIRA DIAS Luiza Fernanda,48.50,80,-82,-83,-100,-100,-100,80,0,0
 2022 IWF World Championships,2022-12-05,49 kg Women,PHAM Dinh Thi,48.90,78,80,-82,97,100,102,80,102,182
-2022 IWF World Championships,2022-12-05,49 kg Women,CANTIKA Aisah Windy,48.90,-80,80,-84,-96,96,0,80,96,176
+2022 IWF World Championships,2022-12-05,49 kg Women,AISAH Windy Cantika,48.90,-80,80,-84,-96,96,0,80,96,176
 2022 IWF World Championships,2022-12-05,49 kg Women,IMPERIO Giulia,48.90,-80,-80,80,97,101,-105,80,101,181
 2022 IWF World Championships,2022-12-05,49 kg Women,ECHANDIA ZARATE Katherin Oriana,48.60,-80,-80,80,102,-105,-105,80,102,182
 2022 IWF World Championships,2022-12-05,49 kg Women,MOHAMED Noura Essam Helmi Abdelbari,48.80,73,76,79,-91,-91,-91,79,0,0
@@ -321,7 +321,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2022 IWF World Championships,2022-12-05,55 kg Women,GALLANT Josee,52.80,82,84,86,-103,-103,104,86,104,190
 2022 IWF World Championships,2022-12-05,55 kg Women,MOORE Shayla Mariah,55.00,86,-89,-89,108,-111,-112,86,108,194
 2022 IWF World Championships,2022-12-05,55 kg Women,ABDULLAEVA Nigora,55.00,83,86,-89,100,-105,106,86,106,192
-2022 IWF World Championships,2022-12-05,55 kg Women,CHEN Guan Ling,54.70,-85,85,-88,105,-110,-110,85,105,190
+2022 IWF World Championships,2022-12-05,55 kg Women,CHEN Guan-Ling,54.70,-85,85,-88,105,-110,-110,85,105,190
 2022 IWF World Championships,2022-12-05,55 kg Women,BORREGO PALACIOS Irene Esmeralda,54.90,-85,85,-88,105,-108,-109,85,105,190
 2022 IWF World Championships,2022-12-05,55 kg Women,MEGO CONTRERAS Shoely Mabel,55.00,-83,-83,83,-108,-108,109,83,109,192
 2022 IWF World Championships,2022-12-05,55 kg Women,JONES Catrin Haf,54.60,-82,82,-84,-101,101,104,82,104,186
@@ -417,7 +417,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2022 IWF World Championships,2022-12-05,71 kg Women,LIAO Guifang,70.30,110,-116,-118,140,-147,-147,110,140,250
 2022 IWF World Championships,2022-12-05,71 kg Women,FEGUE Marie Josephe,71.00,105,110,-114,131,-136,-137,110,131,241
 2022 IWF World Championships,2022-12-05,71 kg Women,MISERENDINO Giulia,69.50,103,107,110,123,-127,-127,110,123,233
-2022 IWF World Championships,2022-12-05,71 kg Women,NYE Katherine Elizabeth,71.00,103,106,-109,132,-136,136,106,136,242
+2022 IWF World Championships,2022-12-05,71 kg Women,VIBERT Katherine Elizabeth,71.00,103,106,-109,132,-136,136,106,136,242
 2022 IWF World Championships,2022-12-05,71 kg Women,REEVES Olivia Lynn,70.70,-103,103,106,132,136,139,106,139,245
 2022 IWF World Championships,2022-12-05,71 kg Women,MACROHON Kristel,70.30,95,100,104,125,-128,128,104,128,232
 2022 IWF World Championships,2022-12-05,71 kg Women,DA COSTA Schott Amanda,70.70,100,103,-104,-122,-123,125,103,125,228
@@ -425,7 +425,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2022 IWF World Championships,2022-12-05,71 kg Women,PEINADO MEJIAS Laura Yenireet,70.90,98,-102,102,120,123,-125,102,123,225
 2022 IWF World Championships,2022-12-05,71 kg Women,ISHII Miku,70.50,97,-100,101,-121,121,-124,101,121,222
 2022 IWF World Championships,2022-12-05,71 kg Women,ASHWORTH Alexis,70.70,95,98,101,-118,-118,-118,101,0,0
-2022 IWF World Championships,2022-12-05,71 kg Women,SARNO PALOMAR Vanessa,69.90,90,96,99,125,-128,-128,99,125,224
+2022 IWF World Championships,2022-12-05,71 kg Women,SARNO Vanessa,69.90,90,96,99,125,-128,-128,99,125,224
 2022 IWF World Championships,2022-12-05,71 kg Women,DAVIES Sarah,70.90,-99,99,-103,124,-127,-130,99,124,223
 2022 IWF World Championships,2022-12-05,71 kg Women,TRUPP Megan,70.10,91,95,-98,-110,-110,110,95,110,205
 2022 IWF World Championships,2022-12-05,71 kg Women,HASHIMOTO Sumire,65.80,-92,92,95,118,121,-126,95,121,216
@@ -445,7 +445,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2022 IWF World Championships,2022-12-05,71 kg Women,SALAS PEREIRA Tatiana,67.50,-83,83,88,-103,-103,103,88,103,191
 2022 IWF World Championships,2022-12-05,71 kg Women,ANGGI Restu,66.70,-88,88,-92,115,119,-121,88,119,207
 2022 IWF World Championships,2022-12-05,71 kg Women,RAZZAGHI Elaheh,70.50,-87,87,-91,-111,-111,-113,87,0,0
-2022 IWF World Championships,2022-12-05,71 kg Women,ENOCK Rachael Achieng,69.70,65,73,-76,-80,80,-83,73,80,153
+2022 IWF World Championships,2022-12-05,71 kg Women,ENOCK Rachel Achieng,69.70,65,73,-76,-80,80,-83,73,80,153
 2022 IWF World Championships,2022-12-05,71 kg Women,IMSIROVIC Emma,69.30,60,62,-65,70,76,-80,62,76,138
 2022 IWF World Championships,2022-12-05,71 kg Women,CHEN Wen-Huei,69.20,0,0,0,0,0,0,0,0,0
 2022 IWF World Championships,2022-12-05,71 kg Women,FATTOUH Mahassen Hala,68.60,0,0,0,0,0,0,0,0,0
@@ -461,7 +461,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2022 IWF World Championships,2022-12-05,76 kg Women,NURLYBEKOVA Aray,75.60,90,95,100,117,123,-126,100,123,223
 2022 IWF World Championships,2022-12-05,76 kg Women,KHACHATRYAN Milena,75.30,95,100,-103,-120,120,-130,100,120,220
 2022 IWF World Championships,2022-12-05,76 kg Women,NOLASCO HERNANDEZ Lizbeth Gabriela,75.70,98,-102,-102,-115,-115,115,98,115,213
-2022 IWF World Championships,2022-12-05,76 kg Women,GOLD Celia,72.00,93,96,-99,-118,118,121,96,121,217
+2022 IWF World Championships,2022-12-05,76 kg Women,GOLD Celia Henna,72.00,93,96,-99,-118,118,121,96,121,217
 2022 IWF World Championships,2022-12-05,76 kg Women,OTGONBAYAR Darkhijav,75.30,95,-99,-102,-112,-112,-112,95,0,0
 2022 IWF World Championships,2022-12-05,76 kg Women,SHELTON Olivia Lauren,74.70,90,94,-98,115,119,-123,94,119,213
 2022 IWF World Championships,2022-12-05,76 kg Women,IVANOVA Daniela,72.10,-92,92,-95,120,-123,-123,92,120,212

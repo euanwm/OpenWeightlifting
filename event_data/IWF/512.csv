@@ -28,7 +28,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2021 IWF Junior World Championships,2021-05-23,67 kg Men,OZBEK Muhammed Furkan,66.60,138,141,-147,170,173,176,141,176,317
 2021 IWF Junior World Championships,2021-05-23,67 kg Men,JEREMY Lalrinnunga,66.80,-135,135,-139,160,165,-170,135,165,300
 2021 IWF Junior World Championships,2021-05-23,67 kg Men,SHARKOV Albert,66.35,130,-134,134,-150,150,-155,134,150,284
-2021 IWF Junior World Championships,2021-05-23,67 kg Men,GENC Fehmi Yusuf,66.85,129,-132,133,165,168,-172,133,168,301
+2021 IWF Junior World Championships,2021-05-23,67 kg Men,GENC Yusuf Fehmi,66.85,129,-132,133,165,168,-172,133,168,301
 2021 IWF Junior World Championships,2021-05-23,67 kg Men,AKMOLDA Sairamkez,66.50,-128,128,132,171,176,-187,132,176,308
 2021 IWF Junior World Championships,2021-05-23,67 kg Men,SAHAKYAN Gor,66.50,125,129,132,155,162,-166,132,162,294
 2021 IWF Junior World Championships,2021-05-23,67 kg Men,REYIMOV Bektimur,66.80,128,131,-133,150,-155,-158,131,150,281
@@ -67,7 +67,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2021 IWF Junior World Championships,2021-05-23,81 kg Men,CABALA Sebastian,76.85,133,137,-141,-167,169,-175,137,169,306
 2021 IWF Junior World Championships,2021-05-23,81 kg Men,FERNANDEZ Sergio,80.65,130,135,-140,160,-166,-166,135,160,295
 2021 IWF Junior World Championships,2021-05-23,81 kg Men,KURNAZ Ulas Can,80.40,135,-140,-140,165,-170,-170,135,165,300
-2021 IWF Junior World Championships,2021-05-23,81 kg Men,POWELL David Preston,79.90,127,-132,132,150,155,-160,132,155,287
+2021 IWF Junior World Championships,2021-05-23,81 kg Men,POWELL Preston David,79.90,127,-132,132,150,155,-160,132,155,287
 2021 IWF Junior World Championships,2021-05-23,81 kg Men,MOISEENKO Alexander,80.05,-130,130,-135,152,157,-161,130,157,287
 2021 IWF Junior World Championships,2021-05-23,81 kg Men,TSITLAKIDIS Dimitrios Leonidas,80.50,-125,-125,-125,150,155,-158,0,155,0
 2021 IWF Junior World Championships,2021-05-23,89 kg Men,NIKOLAIENKO Oleh,85.55,153,156,158,176,181,-185,158,181,339
@@ -125,14 +125,14 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2021 IWF Junior World Championships,2021-05-23,+109 kg Men,BURBALA Yevhen,128.60,152,156,-160,192,196,202,156,202,358
 2021 IWF Junior World Championships,2021-05-23,+109 kg Men,PASIKOWSKI Olaf Jan,138.35,-150,150,156,180,-185,186,156,186,342
 2021 IWF Junior World Championships,2021-05-23,+109 kg Men,ACAR Cebrail,115.10,155,-162,-162,190,195,-200,155,195,350
-2021 IWF Junior World Championships,2021-05-23,+109 kg Men,ALRADHI Hassan Asaad M,125.55,145,152,-157,183,186,-191,152,186,338
+2021 IWF Junior World Championships,2021-05-23,+109 kg Men,AL RADHI Hassan Asaad M,125.55,145,152,-157,183,186,-191,152,186,338
 2021 IWF Junior World Championships,2021-05-23,+109 kg Men,DAYIYEV Atajan,141.35,145,-149,-151,-180,180,190,145,190,335
 2021 IWF Junior World Championships,2021-05-23,45 kg Women,BEKTAS Cansu,44.35,65,67,70,80,84,-87,70,84,154
 2021 IWF Junior World Championships,2021-05-23,45 kg Women,GUNES Melisa,44.60,65,67,69,78,80,-84,69,80,149
 2021 IWF Junior World Championships,2021-05-23,45 kg Women,LATUSHKINA Lada,44.65,64,66,68,74,76,-78,68,76,144
 2021 IWF Junior World Championships,2021-05-23,45 kg Women,HINCU Teodora-Luminita,44.65,62,64,66,74,77,79,66,79,145
-2021 IWF Junior World Championships,2021-05-23,45 kg Women,KHOIRUNISSA Najla,44.50,-60,62,-66,-75,75,-79,62,75,137
-2021 IWF Junior World Championships,2021-05-23,45 kg Women,PANA Cosmina Adriana,44.55,-63,-63,-63,78,80,84,0,84,0
+2021 IWF Junior World Championships,2021-05-23,45 kg Women,KHOIRUNNISA Najla,44.50,-60,62,-66,-75,75,-79,62,75,137
+2021 IWF Junior World Championships,2021-05-23,45 kg Women,PANA Adriana Cosmina,44.55,-63,-63,-63,78,80,84,0,84,0
 2021 IWF Junior World Championships,2021-05-23,49 kg Women,AISAH Windy Cantika,48.55,82,86,-88,100,105,-107,86,105,191
 2021 IWF Junior World Championships,2021-05-23,49 kg Women,CAMBEI Mihaela-Valentina,48.35,81,84,86,96,-99,99,86,99,185
 2021 IWF Junior World Championships,2021-05-23,49 kg Women,IMPERIO Giulia,48.90,80,85,-87,-95,-95,-95,85,0,0
@@ -147,7 +147,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2021 IWF Junior World Championships,2021-05-23,55 kg Women,ALICI Duygu,54.20,78,81,83,100,102,104,83,104,187
 2021 IWF Junior World Championships,2021-05-23,55 kg Women,KLARISA Juliana,54.65,80,-84,-84,105,-109,-109,80,105,185
 2021 IWF Junior World Championships,2021-05-23,55 kg Women,ABDULLAEVA Nigora,54.80,76,-79,79,92,96,99,79,99,178
-2021 IWF Junior World Championships,2021-05-23,55 kg Women,ESTEP Emily Katharine,54.15,74,77,-80,94,97,-100,77,97,174
+2021 IWF Junior World Championships,2021-05-23,55 kg Women,ESTEP Katharine Emily,54.15,74,77,-80,94,97,-100,77,97,174
 2021 IWF Junior World Championships,2021-05-23,55 kg Women,VANDENABEELE Annelien,54.35,-73,73,76,90,94,-97,76,94,170
 2021 IWF Junior World Championships,2021-05-23,55 kg Women,TZATZOLLARI Elena,54.20,-67,-67,67,80,84,-87,67,84,151
 2021 IWF Junior World Championships,2021-05-23,55 kg Women,EKRA Marjia Akter,52.20,63,-67,-67,0,0,0,63,0,0
@@ -160,7 +160,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2021 IWF Junior World Championships,2021-05-23,59 kg Women,KARDARA Maria,58.30,78,81,-84,92,95,-98,81,95,176
 2021 IWF Junior World Championships,2021-05-23,59 kg Women,NELLY,58.30,80,-83,-83,105,108,110,80,110,190
 2021 IWF Junior World Championships,2021-05-23,59 kg Women,SZYMANEK Monika Malgorzata,58.50,77,-80,80,106,109,111,80,111,191
-2021 IWF Junior World Championships,2021-05-23,59 kg Women,GARZA Faith Mallory,58.80,70,74,77,97,101,-104,77,101,178
+2021 IWF Junior World Championships,2021-05-23,59 kg Women,GARZA Mallory Faith,58.80,70,74,77,97,101,-104,77,101,178
 2021 IWF Junior World Championships,2021-05-23,59 kg Women,LADVENICOVA Nina,57.65,66,69,-71,85,88,90,69,90,159
 2021 IWF Junior World Championships,2021-05-23,59 kg Women,VERHAEGEN Robine,58.40,64,-67,67,85,88,91,67,91,158
 2021 IWF Junior World Championships,2021-05-23,59 kg Women,MOYENGWA Magdeline,57.00,-60,62,65,70,75,0,65,75,140
@@ -189,7 +189,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2021 IWF Junior World Championships,2021-05-23,71 kg Women,LUOSTARINEN Aino Enni Inkeri,68.60,87,-90,-90,113,-118,-121,87,113,200
 2021 IWF Junior World Championships,2021-05-23,71 kg Women,ROSINSKA Yevheniia,70.35,83,85,87,106,109,111,87,111,198
 2021 IWF Junior World Championships,2021-05-23,71 kg Women,KACZMARCZYK Andzelika,70.30,-83,83,86,106,-111,-111,86,106,192
-2021 IWF Junior World Championships,2021-05-23,71 kg Women,ANDREWS Natalie,69.95,80,82,84,100,-103,104,84,104,188
+2021 IWF Junior World Championships,2021-05-23,71 kg Women,ANDREWS Natalie Louise,69.95,80,82,84,100,-103,104,84,104,188
 2021 IWF Junior World Championships,2021-05-23,71 kg Women,STEINER Victoria,69.30,78,-82,83,100,104,106,83,106,189
 2021 IWF Junior World Championships,2021-05-23,71 kg Women,RUSTAMOVA Mashkhura,70.55,73,-77,-78,94,98,101,73,101,174
 2021 IWF Junior World Championships,2021-05-23,71 kg Women,GOMBOSUREN Enerel,70.90,-85,-85,-85,-103,103,106,0,106,0
@@ -216,12 +216,12 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2021 IWF Junior World Championships,2021-05-23,87 kg Women,OWENS Avery Elizabeth,85.10,88,91,93,110,115,118,93,118,211
 2021 IWF Junior World Championships,2021-05-23,87 kg Women,JAMALI GALEH Yekta,82.70,85,90,92,105,111,116,92,116,208
 2021 IWF Junior World Championships,2021-05-23,87 kg Women,RAK Agnieszka,81.05,86,90,-93,106,110,-114,90,110,200
-2021 IWF Junior World Championships,2021-05-23,87 kg Women,ROBLES Denise Amanda,86.70,-86,86,90,103,107,-111,90,107,197
+2021 IWF Junior World Championships,2021-05-23,87 kg Women,ROBLES Amanda Denise,86.70,-86,86,90,103,107,-111,90,107,197
 2021 IWF Junior World Championships,2021-05-23,87 kg Women,YENIGUN Sara,81.50,88,-91,-93,110,-116,-117,88,110,198
 2021 IWF Junior World Championships,2021-05-23,87 kg Women,CEVIK Fatmagul,85.50,84,-89,-91,100,108,-113,84,108,192
 2021 IWF Junior World Championships,2021-05-23,87 kg Women,MANUMUA Salome Ovatini,81.40,65,-68,-68,75,80,85,65,85,150
 2021 IWF Junior World Championships,2021-05-23,+87 kg Women,SANSYZBAYEVA Aisamal,112.55,105,109,113,135,140,145,113,145,258
 2021 IWF Junior World Championships,2021-05-23,+87 kg Women,ORLOVA Viktoriia,121.75,95,100,105,120,125,130,105,130,235
-2021 IWF Junior World Championships,2021-05-23,+87 kg Women,FRIESEN Emma,106.90,95,-99,100,115,-120,-122,100,115,215
+2021 IWF Junior World Championships,2021-05-23,+87 kg Women,FRIESEN EMMA Mary Elizabeth,106.90,95,-99,100,115,-120,-122,100,115,215
 2021 IWF Junior World Championships,2021-05-23,+87 kg Women,YALCIN Nuran,113.45,85,88,-91,113,116,121,88,121,209
 2021 IWF Junior World Championships,2021-05-23,+87 kg Women,PAVEZ MIRANDA Arantzazu Elizabeth A,121.75,-93,-93,-93,0,0,0,0,0,0

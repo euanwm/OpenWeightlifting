@@ -24,7 +24,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2021 African Championships,2021-05-24,81 kg Men,FARDJALLAH Samir,73.70,130,-135,-136,-160,161,-167,130,161,291
 2021 African Championships,2021-05-24,81 kg Men,MASAKWE Ivan,80.25,100,-110,110,130,-140,-140,110,130,240
 2021 African Championships,2021-05-24,81 kg Men,ATETE Franklin,74.70,90,95,-100,100,107,-115,95,107,202
-2021 African Championships,2021-05-24,81 kg Men,ODUOR Geoffrey,76.50,-90,-90,90,110,116,-121,90,116,206
+2021 African Championships,2021-05-24,81 kg Men,ODUOR Geoffrey Otieno,76.50,-90,-90,90,110,116,-121,90,116,206
 2021 African Championships,2021-05-24,89 kg Men,TOUAIRI Faris,84.05,140,150,165,170,0,0,165,170,335
 2021 African Championships,2021-05-24,89 kg Men,AROMO Maurice Oduor,84.20,102,-112,-120,-132,132,-145,102,132,234
 2021 African Championships,2021-05-24,96 kg Men,ABUZRIBA Ahmed Mustafa Ahmed,94.90,143,147,150,177,181,186,150,186,336
@@ -40,19 +40,19 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2021 African Championships,2021-05-24,109 kg Men,DRIDI Ayoub,102.75,125,135,-145,160,-170,-170,135,160,295
 2021 African Championships,2021-05-24,+109 kg Men,BIDANI Walid,139.20,180,190,201,-215,215,-232,201,215,416
 2021 African Championships,2021-05-24,45 kg Women,RANDAFIARISON Rosina,43.50,55,-65,65,70,-80,-80,65,70,135
-2021 African Championships,2021-05-24,45 kg Women,ODUOR Janet,43.20,30,42,-46,40,-50,50,42,50,92
+2021 African Championships,2021-05-24,45 kg Women,ODUOR Janet Atieno,43.20,30,42,-46,40,-50,50,42,50,92
 2021 African Championships,2021-05-24,49 kg Women,CHIHI Zohra,47.70,68,72,-75,81,88,92,72,92,164
 2021 African Championships,2021-05-24,49 kg Women,KINGSLEY Stella Peter,47.95,68,71,-73,88,93,95,71,95,166
 2021 African Championships,2021-05-24,49 kg Women,NWAOKOLO Augustina Nkem,48.65,68,-71,71,85,89,-91,71,89,160
 2021 African Championships,2021-05-24,55 kg Women,OLARINOYE Adijat Adenike,54.75,85,-90,90,105,110,0,90,110,200
 2021 African Championships,2021-05-24,55 kg Women,LAGHOUATI Fatima Zohra,55.00,60,-73,75,80,-90,-90,75,80,155
 2021 African Championships,2021-05-24,55 kg Women,WANGECHI Caroline Wairimu,53.80,40,-52,-52,55,60,-67,40,60,100
-2021 African Championships,2021-05-24,59 kg Women,FOLASHADE LAWAL Rafiatu,56.93,88,90,-92,109,111,-115,90,111,201
+2021 African Championships,2021-05-24,59 kg Women,LAWAL Rafiatu Folashade,56.93,88,90,-92,109,111,-115,90,111,201
 2021 African Championships,2021-05-24,59 kg Women,LANDOULSI Nouha,56.55,-88,89,-91,-108,-110,-110,89,0,0
 2021 African Championships,2021-05-24,59 kg Women,SPIES Anneke,59.00,-75,75,-80,-98,-98,-98,75,0,0
 2021 African Championships,2021-05-24,59 kg Women,LANGAT Winny Chepngeno,57.93,55,61,-66,75,81,-85,61,81,142
 2021 African Championships,2021-05-24,59 kg Women,MOYENGWA Magdeline,57.20,60,-65,-68,70,75,-80,60,75,135
-2021 African Championships,2021-05-24,64 kg Women,OGBONNE EZE Joy,63.75,88,-92,0,100,-110,110,88,110,198
+2021 African Championships,2021-05-24,64 kg Women,EZE Joy Ogbonne,63.75,88,-92,0,100,-110,110,88,110,198
 2021 African Championships,2021-05-24,64 kg Women,CHERRARA Ikram,62.00,60,65,-70,75,-76,-76,65,75,140
 2021 African Championships,2021-05-24,64 kg Women,ENOCK Rachel Achieng,62.85,-55,55,60,65,-70,70,60,70,130
 2021 African Championships,2021-05-24,71 kg Women,ABIDI Yousra,64.10,82,-84,-84,105,-111,111,82,111,193
@@ -61,7 +61,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2021 African Championships,2021-05-24,76 kg Women,EYENGA MBOOSI Jeanne Gaelle,74.35,85,90,96,110,115,117,96,117,213
 2021 African Championships,2021-05-24,76 kg Women,TAIWO Liadi,73.40,88,91,-95,109,112,116,91,116,207
 2021 African Championships,2021-05-24,76 kg Women,HAMMADI Maghnia,73.50,83,-87,-89,100,108,112,83,112,195
-2021 African Championships,2021-05-24,76 kg Women,NYIRO Wilkister,73.95,60,-70,70,78,84,-88,70,84,154
+2021 African Championships,2021-05-24,76 kg Women,NYIRO Wilkinstar Nadzuwah,73.95,60,-70,70,78,84,-88,70,84,154
 2021 African Championships,2021-05-24,81 kg Women,HIRECH Bouchra Fatima Zohra,78.20,-80,81,-88,100,105,-111,81,105,186
 2021 African Championships,2021-05-24,87 kg Women,MEUKEUGNI NOUMBISSI Clementine,85.20,90,100,-103,115,121,-129,100,121,221
 2021 African Championships,2021-05-24,87 kg Women,BEN MOUSSA Ameni,84.30,-81,81,-87,102,0,0,81,102,183

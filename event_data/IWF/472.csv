@@ -5,7 +5,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2019 IWF World Championships,2019-09-18,55 kg Men,LAI Gia Thanh,54.90,116,119,-121,-141,-141,-142,119,0,0
 2019 IWF World Championships,2019-09-18,55 kg Men,CHONTEY Arli,54.95,115,118,-120,138,143,145,118,145,263
 2019 IWF World Championships,2019-09-18,55 kg Men,AL SALEEM Mansour Abdulrahim M,55.00,-118,118,-121,140,-147,147,118,147,265
-2019 IWF World Championships,2019-09-18,55 kg Men,CENIZA John Fabuar,54.95,110,115,117,145,-148,-148,117,145,262
+2019 IWF World Championships,2019-09-18,55 kg Men,CENIZA John Febuar,54.95,110,115,117,145,-148,-148,117,145,262
 2019 IWF World Championships,2019-09-18,55 kg Men,WIJOYO Surahmat Bin Suwoto,55.00,106,111,-114,-139,139,-145,111,139,250
 2019 IWF World Championships,2019-09-18,55 kg Men,GHASHGHAEI Hafez,55.00,111,-116,-116,140,149,-155,111,149,260
 2019 IWF World Championships,2019-09-18,55 kg Men,LUNGU Daniel,55.00,105,-110,110,-125,125,-130,110,125,235
@@ -159,7 +159,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2019 IWF World Championships,2019-09-18,81 kg Men,DU PLOOY Lyle William Henry,80.30,-118,-119,-120,0,0,0,0,0,0
 2019 IWF World Championships,2019-09-18,81 kg Men,LOZKA Ihar,80.95,-155,-155,-155,-188,-188,0,0,0,0
 2019 IWF World Championships,2019-09-18,81 kg Men,ASAYONAK Petr,80.95,-165,-165,-165,190,195,-202,0,195,0
-2019 IWF World Championships,2019-09-18,81 kg Men,RAHIMOV Nijat,79.80,140,145,-150,180,185,189,0,0,0
+2019 IWF World Championships,2019-09-18,81 kg Men,RAHIMOV Nijat (waiting for CAS decision),79.80,140,145,-150,180,185,189,0,0,0
 2019 IWF World Championships,2019-09-18,89 kg Men,DAVITADZE Revaz,88.50,166,169,172,199,-203,-204,172,199,371
 2019 IWF World Championships,2019-09-18,89 kg Men,BERSANAU Aliaksandr,89.00,160,166,169,196,201,-205,169,201,370
 2019 IWF World Championships,2019-09-18,89 kg Men,VALLENILLA SANCHEZ Keydomar Giovanni,88.45,164,167,169,195,-200,-200,169,195,364
@@ -483,7 +483,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2019 IWF World Championships,2019-09-18,64 kg Women,HAN Sojin,63.85,-100,-100,-101,112,115,120,0,120,0
 2019 IWF World Championships,2019-09-18,64 kg Women,RODRIGUEZ MITJAN Marina De La Caridad,63.90,-94,-94,-94,117,120,122,0,122,0
 2019 IWF World Championships,2019-09-18,64 kg Women,SHYMECHKO Yuliia,63.70,-87,-88,-88,113,-116,116,0,116,0
-2019 IWF World Championships,2019-09-18,71 kg Women,NYE Katherine Elizabeth,70.75,-106,107,112,131,136,-141,112,136,248
+2019 IWF World Championships,2019-09-18,71 kg Women,VIBERT Katherine Elizabeth,70.75,-106,107,112,131,136,-141,112,136,248
 2019 IWF World Championships,2019-09-18,71 kg Women,KIM Hyo Sim,65.85,106,110,-113,120,-125,0,110,120,230
 2019 IWF World Championships,2019-09-18,71 kg Women,ROGERS Martha Ann,70.75,103,106,-108,130,134,-137,106,134,240
 2019 IWF World Championships,2019-09-18,71 kg Women,GODLEY Emily Victoria (ENG),70.40,94,97,100,124,126,-131,100,126,226

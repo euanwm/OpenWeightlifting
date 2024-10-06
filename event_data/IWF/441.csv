@@ -23,7 +23,6 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2018 IWF World Championships,2018-11-01,61 kg Men,ITOKAZU Yoichi,60.88,125,129,132,155,160,-162,132,160,292
 2018 IWF World Championships,2018-11-01,61 kg Men,LAPTSEU Henadz,60.87,128,-132,132,-151,-151,151,132,151,283
 2018 IWF World Championships,2018-11-01,61 kg Men,ZURITA VALLEJO Cristhian David,60.53,125,-130,130,147,151,-153,130,151,281
-2018 IWF World Championships,2018-11-01,61 kg Men,SEZER Bunyami,60.97,129,-134,-136,-145,-145,145,129,145,274
 2018 IWF World Championships,2018-11-01,61 kg Men,WIJOYO Surahmat Bin Suwoto,60.91,117,121,124,-150,150,154,124,154,278
 2018 IWF World Championships,2018-11-01,61 kg Men,KAO Chan-Hung,60.63,120,123,-126,147,150,153,123,153,276
 2018 IWF World Championships,2018-11-01,61 kg Men,TAKAO Hiroaki,60.84,118,122,-125,147,-150,150,122,150,272
@@ -39,6 +38,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2018 IWF World Championships,2018-11-01,61 kg Men,CHIANG Nien-En,60.28,108,-112,112,-140,-140,140,112,140,252
 2018 IWF World Championships,2018-11-01,61 kg Men,ACOSTA GONZALEZ Julio Cesar,60.82,111,-115,-115,140,144,-147,111,144,255
 2018 IWF World Championships,2018-11-01,61 kg Men,HARDAL Ferdi,60.98,-120,-120,-120,-140,-140,140,0,140,0
+2018 IWF World Championships,2018-11-01,61 kg Men,SEZER Bunyami,60.97,129,-134,-136,-145,-145,145,0,0,0
 2018 IWF World Championships,2018-11-01,67 kg Men,HUANG Minhao,66.87,148,152,-154,166,171,-175,152,171,323
 2018 IWF World Championships,2018-11-01,67 kg Men,CHEN Lijun,66.81,145,150,-153,178,182,-185,150,182,332
 2018 IWF World Championships,2018-11-01,67 kg Men,MAYORA PERNA Julio Ruben,66.63,144,147,-151,175,-178,-179,147,175,322
@@ -109,7 +109,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2018 IWF World Championships,2018-11-01,73 kg Men,MOSQUERA LOZANO Luis Javier,71.45,0,0,0,0,0,0,0,0,0
 2018 IWF World Championships,2018-11-01,73 kg Men,LUNA-GRENIER Francis,72.36,-130,-130,-130,0,0,0,0,0,0
 2018 IWF World Championships,2018-11-01,73 kg Men,CERCIZ Arberi,72.77,-142,-142,-142,0,0,0,0,0,0
-2018 IWF World Championships,2018-11-01,73 kg Men,RAHIMOV Nijat,72.82,-147,147,-152,185,190,0,0,0,0
+2018 IWF World Championships,2018-11-01,73 kg Men,RAHIMOV Nijat (waiting for CAS decision),72.82,-147,147,-152,185,190,0,0,0,0
 2018 IWF World Championships,2018-11-01,81 kg Men,MAHMOUD Mohamed Ihab Youssef Ahmed,80.72,165,170,173,196,200,-203,173,200,373
 2018 IWF World Championships,2018-11-01,81 kg Men,LYU Xiaojun,80.41,165,-170,172,197,202,-205,172,202,374
 2018 IWF World Championships,2018-11-01,81 kg Men,LI Dayin,80.81,163,168,-172,193,198,204,168,204,372
@@ -327,7 +327,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2018 IWF World Championships,2018-11-01,49 kg Women,ERDOGAN Saziye,48.67,77,79,81,97,-99,-100,81,97,178
 2018 IWF World Championships,2018-11-01,49 kg Women,MIYAKE Hiromi,48.86,77,79,-80,102,-105,-105,79,102,181
 2018 IWF World Championships,2018-11-01,49 kg Women,DE LA HERRAN MARTINEZ Andrea,48.66,76,78,-81,93,-96,-96,78,93,171
-2018 IWF World Championships,2018-11-01,49 kg Women,FANG Wan-Ling,48.37,72,75,78,90,94,-98,78,94,172
+2018 IWF World Championships,2018-11-01,49 kg Women,FANG Wan Ling,48.37,72,75,78,90,94,-98,78,94,172
 2018 IWF World Championships,2018-11-01,49 kg Women,MICHEL Anais,48.44,-76,76,78,-94,94,-97,78,94,172
 2018 IWF World Championships,2018-11-01,49 kg Women,RITCHEY Alyssa Lynn,48.95,74,77,-80,96,99,101,77,101,178
 2018 IWF World Championships,2018-11-01,49 kg Women,DALABEHERA Jhilli,48.68,73,76,-78,92,96,98,76,98,174

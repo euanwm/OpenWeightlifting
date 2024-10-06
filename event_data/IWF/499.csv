@@ -2,14 +2,13 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 5th International Fajr Cup,2020-02-01,61 kg Men,GHASHGHAEI Hafez,61.00,115,120,-123,150,160,-165,120,160,280
 5th International Fajr Cup,2020-02-01,61 kg Men,RUSEV Angel Hriskov,60.10,105,110,-113,135,143,147,110,147,257
 5th International Fajr Cup,2020-02-01,67 kg Men,IRAWAN Eko Yuli,66.10,133,138,-142,165,-170,172,138,172,310
-5th International Fajr Cup,2020-02-01,67 kg Men,SEZER Bunyami,65.30,124,128,-131,142,-147,148,128,148,276
 5th International Fajr Cup,2020-02-01,67 kg Men,DENI,66.50,125,-130,-130,155,160,-166,125,160,285
 5th International Fajr Cup,2020-02-01,67 kg Men,ENKHJARGAL Munkhdul,67.00,116,-121,-121,138,143,-148,116,143,259
 5th International Fajr Cup,2020-02-01,67 kg Men,NEMER Zaid Mohammad Ayoub,66.30,90,-95,95,115,122,-127,95,122,217
+5th International Fajr Cup,2020-02-01,67 kg Men,SEZER Bunyami,65.30,124,128,-131,142,-147,148,0,0,0
 5th International Fajr Cup,2020-02-01,73 kg Men,TRIYATNO,72.70,136,-140,-140,170,-175,0,136,170,306
 5th International Fajr Cup,2020-02-01,73 kg Men,HAMEED Mohammed Qaddoori Hameed,72.40,120,127,130,150,162,-166,130,162,292
 5th International Fajr Cup,2020-02-01,81 kg Men,KARAPETYAN Andranik,81.00,150,160,-165,180,185,-190,160,185,345
-5th International Fajr Cup,2020-02-01,81 kg Men,ALJUMAILI Safaa Rashid Mahmood,81.00,151,156,159,192,196,201,159,201,360
 5th International Fajr Cup,2020-02-01,81 kg Men,BEYTULA Yunder Nedim,81.00,150,155,158,188,191,195,158,195,353
 5th International Fajr Cup,2020-02-01,81 kg Men,SOLTANI Hossein,81.00,145,152,157,185,190,-195,157,190,347
 5th International Fajr Cup,2020-02-01,81 kg Men,AL-HUSSEIN Ahmed Farooq Ghulam,81.00,137,-141,141,-175,-175,-175,141,0,0
@@ -17,6 +16,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 5th International Fajr Cup,2020-02-01,81 kg Men,DACIC Alem,81.00,85,-90,90,105,-110,110,90,110,200
 5th International Fajr Cup,2020-02-01,81 kg Men,ERDOGDU Celil,81.00,0,0,0,0,0,0,0,0,0
 5th International Fajr Cup,2020-02-01,81 kg Men,NJOYA Ahmed Valdy,81.00,-120,-121,-121,160,-165,-165,0,160,0
+5th International Fajr Cup,2020-02-01,81 kg Men,ALJUMAILI Safaa Rashid Mahmood,81.00,151,156,159,192,196,201,0,0,0
 5th International Fajr Cup,2020-02-01,96 kg Men,RASULBEKOV Bekdoolot,95.60,161,-165,165,196,202,206,165,206,371
 5th International Fajr Cup,2020-02-01,96 kg Men,DEHDAR Reza,96.00,156,-161,161,-195,-196,-201,161,0,0
 5th International Fajr Cup,2020-02-01,96 kg Men,MKRTCHYAN Hakob,92.40,155,-160,-160,190,-202,-203,155,190,345
@@ -25,7 +25,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 5th International Fajr Cup,2020-02-01,109 kg Men,HASHEMI Ali,108.00,160,167,173,200,205,215,173,215,388
 5th International Fajr Cup,2020-02-01,109 kg Men,HOGHOUGHIOSGOUEI Amir,103.60,153,160,-165,193,201,203,160,203,363
 5th International Fajr Cup,2020-02-01,109 kg Men,NGADJA NYABEYEU Junior Periclex,103.20,147,156,-160,185,195,-201,156,195,351
-5th International Fajr Cup,2020-02-01,109 kg Men,ALAIFURI Salwan Jasim Abbood,107.90,140,150,0,190,-202,202,150,202,352
+5th International Fajr Cup,2020-02-01,109 kg Men,ALAIFURI Salwan Jasim Abbood,107.90,140,150,0,190,-202,202,0,0,0
 5th International Fajr Cup,2020-02-01,+109 kg Men,DAVOUDI Ali,168.70,193,197,201,234,240,0,201,240,441
 5th International Fajr Cup,2020-02-01,+109 kg Men,MARTIROSYAN Simon,116.30,180,-190,-190,220,230,-235,180,230,410
 5th International Fajr Cup,2020-02-01,+109 kg Men,TOLLEFSEN Kim Eirik,123.10,140,150,-155,180,0,0,150,180,330
