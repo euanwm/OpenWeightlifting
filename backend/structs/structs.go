@@ -130,3 +130,7 @@ type LiftReport struct {
 	ReportedLift Entry  `json:"lift"`
 	Comments     string `json:"comments"`
 }
+
+type BeanCounter struct {
+	Bytes uint64
+}
