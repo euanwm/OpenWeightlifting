@@ -4,11 +4,11 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 IWF World Junior Championships,2023-11-15,55 kg Men,KOUSAKA Kento,55.00,93,97,-100,120,125,130,97,130,227
 2023 IWF World Junior Championships,2023-11-15,55 kg Men,ALEMAN JUAREZ Wilfredo,54.90,94,-98,-99,117,121,-126,94,121,215
 2023 IWF World Junior Championships,2023-11-15,55 kg Men,RIOS CHUMBE Nol Jermis,55.00,-94,94,-98,-110,-111,111,94,111,205
-2023 IWF World Junior Championships,2023-11-15,55 kg Men,TANG CHUN YEN,55.00,85,88,91,115,120,-124,91,120,211
+2023 IWF World Junior Championships,2023-11-15,55 kg Men,TANG Chun-Yen,55.00,85,88,91,115,120,-124,91,120,211
 2023 IWF World Junior Championships,2023-11-15,55 kg Men,DZOBAK Alexandr,52.15,82,85,89,107,112,116,89,116,205
 2023 IWF World Junior Championships,2023-11-15,61 kg Men,CHHUM Gabriel John,60.80,112,117,-121,-142,143,145,117,145,262
 2023 IWF World Junior Championships,2023-11-15,61 kg Men,RIVERA GAMEZ Abraham Jose,60.05,105,109,113,135,-139,-139,113,135,248
-2023 IWF World Junior Championships,2023-11-15,61 kg Men,ELARABY ELSAYED Ali Elsayed Attia,59.15,107,111,-114,138,143,-148,111,143,254
+2023 IWF World Junior Championships,2023-11-15,61 kg Men,ELARABY Elsayed Aly Elsayed Attia,59.15,107,111,-114,138,143,-148,111,143,254
 2023 IWF World Junior Championships,2023-11-15,61 kg Men,TUN DZIB Adolfo Angel,60.75,97,102,-105,141,-145,-147,102,141,243
 2023 IWF World Junior Championships,2023-11-15,67 kg Men,SAHAKYAN Gor,66.90,135,140,-147,165,-171,-171,140,165,305
 2023 IWF World Junior Championships,2023-11-15,67 kg Men,PAPOU Yahor,66.70,-130,130,136,158,-163,-163,136,158,294
@@ -35,28 +35,28 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 IWF World Junior Championships,2023-11-15,73 kg Men,GALLART LECHON Kilian,73.00,125,130,-133,150,155,-158,130,155,285
 2023 IWF World Junior Championships,2023-11-15,73 kg Men,PECH GOMEZ Darvin Ariel,73.00,-121,121,126,150,-155,-156,126,150,276
 2023 IWF World Junior Championships,2023-11-15,73 kg Men,DUROCHER Louis,73.00,115,120,-122,-147,148,-153,120,148,268
-2023 IWF World Junior Championships,2023-11-15,73 kg Men,PERALTA Andres,71.35,110,-115,-115,140,-145,145,110,145,255
+2023 IWF World Junior Championships,2023-11-15,73 kg Men,PERALTA ROJAS Andres,71.35,110,-115,-115,140,-145,145,110,145,255
 2023 IWF World Junior Championships,2023-11-15,73 kg Men,DE PAZ DE PAZ Jimmy Gerardo,71.05,87,91,94,102,103,105,94,105,199
 2023 IWF World Junior Championships,2023-11-15,73 kg Men,AUNAPUU Tom,70.75,85,90,93,110,115,-120,93,115,208
 2023 IWF World Junior Championships,2023-11-15,73 kg Men,DARSIGNY Shad,72.80,-130,-130,-130,150,155,158,0,158,0
-2023 IWF World Junior Championships,2023-11-15,81 kg Men,YEMBERDI Yedige,80.50,0.0,0.0,0.0,0.0,0.0,0.0,145,191,336
-2023 IWF World Junior Championships,2023-11-15,81 kg Men,PIZZUTI Dante Alessandro,80.15,0.0,0.0,0.0,0.0,0.0,0.0,141,175,316
-2023 IWF World Junior Championships,2023-11-15,81 kg Men,BORG Rylee,80.00,0.0,0.0,0.0,0.0,0.0,0.0,112,142,254
-2023 IWF World Junior Championships,2023-11-15,81 kg Men,TODOROVIC Nikola,74.90,0.0,0.0,0.0,0.0,0.0,0.0,114,139,253
-2023 IWF World Junior Championships,2023-11-15,81 kg Men,DE LEON NINO Cristian,79.20,0.0,0.0,0.0,0.0,0.0,0.0,127,160,287
-2023 IWF World Junior Championships,2023-11-15,81 kg Men,MEDINA PINZON Jorge Luis,80.65,0.0,0.0,0.0,0.0,0.0,0.0,128,152,280
-2023 IWF World Junior Championships,2023-11-15,81 kg Men,BOLES Hutton,80.20,0.0,0.0,0.0,0.0,0.0,0.0,140,160,300
-2023 IWF World Junior Championships,2023-11-15,81 kg Men,TORAYEV Gaygysyz,80.95,0.0,0.0,0.0,0.0,0.0,0.0,151,184,335
-2023 IWF World Junior Championships,2023-11-15,81 kg Men,ASANIDZE Saba,81.00,0.0,0.0,0.0,0.0,0.0,0.0,149,184,333
-2023 IWF World Junior Championships,2023-11-15,81 kg Men,POWELL Preston David,80.65,0.0,0.0,0.0,0.0,0.0,0.0,150,182,332
-2023 IWF World Junior Championships,2023-11-15,81 kg Men,MOHAMED Mohamed Abdelmoneim Sayed F,80.30,0.0,0.0,0.0,0.0,0.0,0.0,151,181,332
-2023 IWF World Junior Championships,2023-11-15,81 kg Men,SALEHI POUR Iliya,80.50,0.0,0.0,0.0,0.0,0.0,0.0,148,183,331
-2023 IWF World Junior Championships,2023-11-15,81 kg Men,BEIRANVAND Abdollah,78.40,0.0,0.0,0.0,0.0,0.0,0.0,146,180,326
-2023 IWF World Junior Championships,2023-11-15,81 kg Men,ESARTIA Nikoloz,80.50,0.0,0.0,0.0,0.0,0.0,0.0,144,177,321
-2023 IWF World Junior Championships,2023-11-15,81 kg Men,SHERIF ABDELKADER Mazen,81.00,0.0,0.0,0.0,0.0,0.0,0.0,146,173,319
-2023 IWF World Junior Championships,2023-11-15,81 kg Men,MUELLER Lucas,79.95,0.0,0.0,0.0,0.0,0.0,0.0,142,177,319
-2023 IWF World Junior Championships,2023-11-15,81 kg Men,MACHADO OLIVERA Yorelvis,81.00,0.0,0.0,0.0,0.0,0.0,0.0,136,170,306
-2023 IWF World Junior Championships,2023-11-15,81 kg Men,PALACIOS DAJOME German Enrique,80.35,0.0,0.0,0.0,0.0,0.0,0.0,148,170,318
+2023 IWF World Junior Championships,2023-11-15,81 kg Men,MOHAMED Mohamed Abdelmoneim Sayed F,80.30,145,151,-153,176,-181,181,151,181,332
+2023 IWF World Junior Championships,2023-11-15,81 kg Men,TORAYEV Gaygysyz,80.95,145,-150,151,184,-190,-190,151,184,335
+2023 IWF World Junior Championships,2023-11-15,81 kg Men,POWELL Preston David,80.65,140,145,150,175,-180,182,150,182,332
+2023 IWF World Junior Championships,2023-11-15,81 kg Men,ASANIDZE Saba,81.00,145,149,-151,-180,180,184,149,184,333
+2023 IWF World Junior Championships,2023-11-15,81 kg Men,PALACIOS DAJOME German Enrique,80.35,140,145,148,165,170,-175,148,170,318
+2023 IWF World Junior Championships,2023-11-15,81 kg Men,SALEHI POUR Iliya,80.50,-142,142,148,172,178,183,148,183,331
+2023 IWF World Junior Championships,2023-11-15,81 kg Men,AHMED Mazen Sherif Abdelkader A S,81.00,142,146,-149,173,-178,-181,146,173,319
+2023 IWF World Junior Championships,2023-11-15,81 kg Men,BEIRANVAND Abdollah,78.40,-146,-146,146,170,-180,180,146,180,326
+2023 IWF World Junior Championships,2023-11-15,81 kg Men,YEMBERDI Yedige,80.50,141,-145,145,183,189,191,145,191,336
+2023 IWF World Junior Championships,2023-11-15,81 kg Men,ESARTIA Nikoloz,80.50,135,140,144,170,-177,177,144,177,321
+2023 IWF World Junior Championships,2023-11-15,81 kg Men,MUELLER Lucas,79.95,139,142,-144,169,173,177,142,177,319
+2023 IWF World Junior Championships,2023-11-15,81 kg Men,PIZZUTI Dante Alessandro,80.15,-141,141,-145,171,175,-180,141,175,316
+2023 IWF World Junior Championships,2023-11-15,81 kg Men,BOLES Hutton,80.20,130,135,140,160,-165,-166,140,160,300
+2023 IWF World Junior Championships,2023-11-15,81 kg Men,MACHADO OLIVERA Yorelvis,81.00,-133,136,-142,-170,170,-174,136,170,306
+2023 IWF World Junior Championships,2023-11-15,81 kg Men,MEDINA PINZON Jorge Luis,80.65,126,128,-131,152,-156,-160,128,152,280
+2023 IWF World Junior Championships,2023-11-15,81 kg Men,DE LEON NINO Cristian,79.20,-127,127,-131,155,160,-165,127,160,287
+2023 IWF World Junior Championships,2023-11-15,81 kg Men,TODOROVIC Nikola,74.90,110,-114,114,135,139,-142,114,139,253
+2023 IWF World Junior Championships,2023-11-15,81 kg Men,BORG Rylee,80.00,108,-111,112,135,139,142,112,142,254
 2023 IWF World Junior Championships,2023-11-15,89 kg Men,KOFSHA Ertjan,89.00,152,156,159,-186,-186,186,159,186,345
 2023 IWF World Junior Championships,2023-11-15,89 kg Men,HEIN Elijah James,87.95,150,155,158,185,189,193,158,193,351
 2023 IWF World Junior Championships,2023-11-15,89 kg Men,PAULIUKAVETS Inhatsi,88.80,153,156,-160,182,188,192,156,192,348
@@ -66,15 +66,15 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 IWF World Junior Championships,2023-11-15,89 kg Men,GRIGORYAN Suren,88.90,150,-155,-155,190,-197,-197,150,190,340
 2023 IWF World Junior Championships,2023-11-15,89 kg Men,ZAREI Hamidreza,88.40,136,142,148,175,-185,-185,148,175,323
 2023 IWF World Junior Championships,2023-11-15,89 kg Men,RAMOS CHAIRES Jonathan David,88.90,147,-151,-152,187,192,-194,147,192,339
-2023 IWF World Junior Championships,2023-11-15,89 kg Men,HELAL ABDELFATAH Said,87.40,-147,147,-154,-174,-174,-178,147,0,0
+2023 IWF World Junior Championships,2023-11-15,89 kg Men,HELAL Said Helal Abdelfattah Sayed,87.40,-147,147,-154,-174,-174,-178,147,0,0
 2023 IWF World Junior Championships,2023-11-15,89 kg Men,FERNANDEZ VELASCO Sergio,88.40,139,143,146,165,-173,-173,146,165,311
 2023 IWF World Junior Championships,2023-11-15,89 kg Men,REJEPOV Resul,88.25,145,-150,-154,166,-171,-173,145,166,311
-2023 IWF World Junior Championships,2023-11-15,89 kg Men,SANTAVY Bradyn,88.95,140,145,-150,-180,180,-186,145,180,325
+2023 IWF World Junior Championships,2023-11-15,89 kg Men,SANTAVY Bradyn James,88.95,140,145,-150,-180,180,-186,145,180,325
 2023 IWF World Junior Championships,2023-11-15,89 kg Men,BARANSKI Patryk Grzegorz,88.90,144,-148,-150,168,173,-177,144,173,317
 2023 IWF World Junior Championships,2023-11-15,89 kg Men,JAWORSKI Michal,87.55,137,140,142,-173,173,178,142,178,320
 2023 IWF World Junior Championships,2023-11-15,89 kg Men,BARRERAS CARMONA Ihann Enrique,88.40,-136,136,141,178,-185,185,141,185,326
 2023 IWF World Junior Championships,2023-11-15,89 kg Men,CATALDI Stefano,88.10,135,140,-143,-173,-173,-173,140,0,0
-2023 IWF World Junior Championships,2023-11-15,89 kg Men,MARSH Taj,88.60,128,132,136,160,-165,169,136,169,305
+2023 IWF World Junior Championships,2023-11-15,89 kg Men,MARSH Taj Aukai Bazil,88.60,128,132,136,160,-165,169,136,169,305
 2023 IWF World Junior Championships,2023-11-15,89 kg Men,RAMIREZ MARTINEZ Elkin Shamir,86.50,130,134,-137,165,170,-174,134,170,304
 2023 IWF World Junior Championships,2023-11-15,89 kg Men,SIMBUERGER Elias,87.40,-128,128,133,164,169,173,133,173,306
 2023 IWF World Junior Championships,2023-11-15,89 kg Men,POPIELARZ Conner Michael,82.70,-128,-128,128,164,-169,-171,128,164,292
@@ -98,7 +98,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 IWF World Junior Championships,2023-11-15,102 kg Men,MCCULLOUGH Morgan Dylan,100.95,150,-155,156,191,-197,197,156,197,353
 2023 IWF World Junior Championships,2023-11-15,102 kg Men,VIKINGSSON SJOEBLOM Joen Carl Erik,101.50,151,-156,-158,182,187,193,151,193,344
 2023 IWF World Junior Championships,2023-11-15,102 kg Men,MEDINA CONTRERAS Pablo,100.75,-140,140,145,170,180,-186,145,180,325
-2023 IWF World Junior Championships,2023-11-15,102 kg Men,LIN Jui Li,96.40,130,0,0,160,0,0,130,160,290
+2023 IWF World Junior Championships,2023-11-15,102 kg Men,LIN Jui-Li,96.40,130,0,0,160,0,0,130,160,290
 2023 IWF World Junior Championships,2023-11-15,109 kg Men,KIRVALIDZE Giorgi,109.00,162,166,169,186,-192,195,169,195,364
 2023 IWF World Junior Championships,2023-11-15,109 kg Men,PAYDAR Ariya,108.05,157,163,168,-196,196,205,168,205,373
 2023 IWF World Junior Championships,2023-11-15,109 kg Men,RUBANOVSKYI Mykyta,106.70,158,163,167,-195,198,207,167,207,374
@@ -108,16 +108,16 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 IWF World Junior Championships,2023-11-15,109 kg Men,DEMIRCI Onur,108.05,-157,-157,158,195,-198,-200,158,195,353
 2023 IWF World Junior Championships,2023-11-15,109 kg Men,MARCHUK Volodymyr,108.95,152,156,-158,192,-198,-200,156,192,348
 2023 IWF World Junior Championships,2023-11-15,109 kg Men,FREGOSO GARCIA Jonathan,102.70,135,142,-148,165,173,178,142,178,320
-2023 IWF World Junior Championships,2023-11-15,109 kg Men,TAIHUKA Kitini,107.65,125,130,135,162,167,174,135,174,309
+2023 IWF World Junior Championships,2023-11-15,109 kg Men,TAIHUKA Kitini Marc,107.65,125,130,135,162,167,174,135,174,309
 2023 IWF World Junior Championships,2023-11-15,109 kg Men,MA Ching-Chieh,107.45,-150,-150,-152,185,-190,-190,0,185,0
 2023 IWF World Junior Championships,2023-11-15,+109 kg Men,YOUSEFI Alireza,189.65,173,180,0,225,-240,240,180,240,420
 2023 IWF World Junior Championships,2023-11-15,+109 kg Men,NEMATI MOGHADDAM Taha,115.65,163,172,176,-205,205,-212,176,205,381
 2023 IWF World Junior Championships,2023-11-15,+109 kg Men,MACURA Vladimir,140.05,159,164,168,186,191,-203,168,191,359
 2023 IWF World Junior Championships,2023-11-15,+109 kg Men,OSUCH Igor,110.40,153,158,-161,187,192,-202,158,192,350
 2023 IWF World Junior Championships,2023-11-15,+109 kg Men,TALEWICZ Tomasz,138.55,145,150,-154,178,-185,-187,150,178,328
-2023 IWF World Junior Championships,2023-11-15,+109 kg Men,KAO Jia Hui,150.50,135,140,144,185,-191,193,144,193,337
+2023 IWF World Junior Championships,2023-11-15,+109 kg Men,KAO Jia-Hui,150.50,135,140,144,185,-191,193,144,193,337
 2023 IWF World Junior Championships,2023-11-15,+109 kg Men,FRIEDRICH Adam,114.65,133,137,141,170,176,-181,141,176,317
-2023 IWF World Junior Championships,2023-11-15,+109 kg Men,TEPULOLO Numi,152.65,-140,140,-152,175,-185,-185,140,175,315
+2023 IWF World Junior Championships,2023-11-15,+109 kg Men,TEPULOLO Numi Junior Samasoni,152.65,-140,140,-152,175,-185,-185,140,175,315
 2023 IWF World Junior Championships,2023-11-15,45 kg Women,BEKTAS Cansu,44.80,70,73,-76,86,90,-92,73,90,163
 2023 IWF World Junior Championships,2023-11-15,45 kg Women,GARCIA RINCON Marta,44.80,69,71,-73,81,83,86,71,86,157
 2023 IWF World Junior Championships,2023-11-15,45 kg Women,ABDELFATTAH Habiba Saad Madih,44.20,69,-72,-72,-79,79,82,69,82,151
@@ -130,12 +130,12 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 IWF World Junior Championships,2023-11-15,45 kg Women,ALTUN Gamze,44.70,-63,63,-65,86,89,91,63,91,154
 2023 IWF World Junior Championships,2023-11-15,45 kg Women,LOPEZ LEDEZMA Alexandra Yamileth,44.55,55,58,60,75,78,-80,60,78,138
 2023 IWF World Junior Championships,2023-11-15,45 kg Women,CAMILLERI LAGANA Kim,44.40,56,58,-59,72,75,-77,58,75,133
-2023 IWF World Junior Championships,2023-11-15,45 kg Women,HUANG Yu Hsuan,44.60,53,56,-58,70,73,-75,56,73,129
+2023 IWF World Junior Championships,2023-11-15,45 kg Women,HUANG Yu-Hsuan,44.60,53,56,-58,70,73,-75,56,73,129
 2023 IWF World Junior Championships,2023-11-15,49 kg Women,ABE Nozomi,49.00,76,79,-83,88,91,-94,79,91,170
 2023 IWF World Junior Championships,2023-11-15,49 kg Women,MONTILLA MADRID Kerlys Maria,49.00,-74,74,76,-94,94,-97,76,94,170
 2023 IWF World Junior Championships,2023-11-15,49 kg Women,HUANG Yi-Chen,49.00,-74,74,76,93,96,-100,76,96,172
 2023 IWF World Junior Championships,2023-11-15,49 kg Women,GONZALEZ BORREGO Lucia,48.80,70,73,-75,88,91,-93,73,91,164
-2023 IWF World Junior Championships,2023-11-15,49 kg Women,BROWN Isabella,48.25,70,-73,73,81,-85,-86,73,81,154
+2023 IWF World Junior Championships,2023-11-15,49 kg Women,BROWN Isabella Janay Macmillan,48.25,70,-73,73,81,-85,-86,73,81,154
 2023 IWF World Junior Championships,2023-11-15,49 kg Women,DRZAZGA OLIWIA Weronika,49.00,70,72,-74,90,93,-95,72,93,165
 2023 IWF World Junior Championships,2023-11-15,49 kg Women,RODRIGUEZ Isabella Mia,49.00,69,-72,72,94,-97,99,72,99,171
 2023 IWF World Junior Championships,2023-11-15,49 kg Women,HATO Miyu,49.00,-71,71,-74,89,92,-95,71,92,163
@@ -145,10 +145,10 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 IWF World Junior Championships,2023-11-15,55 kg Women,KAWASAKI Nanasa,54.20,82,84,-87,101,103,-105,84,103,187
 2023 IWF World Junior Championships,2023-11-15,55 kg Women,TSUTSUMI Mao,55.00,78,81,83,98,-101,103,83,103,186
 2023 IWF World Junior Championships,2023-11-15,55 kg Women,MYJAK Malgorzata Katarzyna,54.70,80,-83,83,93,-96,96,83,96,179
-2023 IWF World Junior Championships,2023-11-15,55 kg Women,UITZIL CHUC Andrea Sak Nikte,54.05,77,81,-84,93,96,-99,81,96,177
+2023 IWF World Junior Championships,2023-11-15,55 kg Women,UITZIL CHUC Andrea Sak Nik-Te,54.05,77,81,-84,93,96,-99,81,96,177
 2023 IWF World Junior Championships,2023-11-15,55 kg Women,GRIGORYAN Aleksandra,54.10,78,81,-85,-102,102,107,81,107,188
 2023 IWF World Junior Championships,2023-11-15,55 kg Women,VANDENABEELE Annelien,54.50,76,79,-82,94,-97,-99,79,94,173
-2023 IWF World Junior Championships,2023-11-15,55 kg Women,DOMINGUEZ C Yehandry Carolina,53.70,-78,-78,78,-95,-95,95,78,95,173
+2023 IWF World Junior Championships,2023-11-15,55 kg Women,DOMINGUEZ CEDENO Yehandry Carolina,53.70,-78,-78,78,-95,-95,95,78,95,173
 2023 IWF World Junior Championships,2023-11-15,55 kg Women,THERIAULT Laurence,54.95,70,73,75,87,-90,90,75,90,165
 2023 IWF World Junior Championships,2023-11-15,55 kg Women,OLIVERA ASPAJO Katerin Tatiana,51.40,66,70,-73,83,86,-88,70,86,156
 2023 IWF World Junior Championships,2023-11-15,55 kg Women,LOPEZ GONZALEZ Joseline,49.80,65,-70,-71,-85,86,0,65,86,151
@@ -163,7 +163,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 IWF World Junior Championships,2023-11-15,59 kg Women,HARA Shiho,58.95,83,-85,-86,100,104,107,83,107,190
 2023 IWF World Junior Championships,2023-11-15,59 kg Women,OLALLA MUNOZ Maria,57.70,78,81,-83,97,-100,-101,81,97,178
 2023 IWF World Junior Championships,2023-11-15,59 kg Women,CHATKAEW Pawanrat,58.60,77,79,-81,-101,-101,-101,79,0,0
-2023 IWF World Junior Championships,2023-11-15,59 kg Women,RAMIREZ Sofia,59.00,72,-76,76,94,98,-102,76,98,174
+2023 IWF World Junior Championships,2023-11-15,59 kg Women,RAMIREZ VELASQUEZ Sofia Daniela,59.00,72,-76,76,94,98,-102,76,98,174
 2023 IWF World Junior Championships,2023-11-15,59 kg Women,GARZA Mallory Faith,59.00,-79,-79,-79,-105,105,-109,0,105,0
 2023 IWF World Junior Championships,2023-11-15,64 kg Women,YAKUSHAVA Katsiaryna,63.40,91,94,96,-113,-113,-113,96,0,0
 2023 IWF World Junior Championships,2023-11-15,64 kg Women,SIMONEAU Charlotte,63.80,90,93,95,112,116,118,95,118,213
@@ -176,7 +176,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 IWF World Junior Championships,2023-11-15,64 kg Women,SAKAMOTO Kotone,63.90,85,88,-89,104,108,110,88,110,198
 2023 IWF World Junior Championships,2023-11-15,64 kg Women,GROSU Anca Georgiana,63.65,80,85,88,-106,108,111,88,111,199
 2023 IWF World Junior Championships,2023-11-15,64 kg Women,THORNTON Tenishia,61.35,82,85,87,102,-105,-105,87,102,189
-2023 IWF World Junior Championships,2023-11-15,64 kg Women,TORRES Karina,63.85,83,-86,87,-103,103,-108,87,103,190
+2023 IWF World Junior Championships,2023-11-15,64 kg Women,TORRES RAIN Karina Elizabeth,63.85,83,-86,87,-103,103,-108,87,103,190
 2023 IWF World Junior Championships,2023-11-15,64 kg Women,LEE En Yun,63.85,80,83,86,105,108,111,86,111,197
 2023 IWF World Junior Championships,2023-11-15,64 kg Women,PAYET Loane Marie Aurelia,63.70,81,-84,84,104,107,-111,84,107,191
 2023 IWF World Junior Championships,2023-11-15,64 kg Women,GOLDMAN CALIFRER Lourdes,62.70,-83,83,-85,110,114,-116,83,114,197
@@ -190,11 +190,11 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 IWF World Junior Championships,2023-11-15,71 kg Women,WONGSING Phattharathida,70.35,90,92,-94,-116,116,-118,92,116,208
 2023 IWF World Junior Championships,2023-11-15,71 kg Women,KAROLAK Maria,70.25,87,89,-91,107,110,-112,89,110,199
 2023 IWF World Junior Championships,2023-11-15,71 kg Women,DUNCAN Rachel,70.70,83,87,-91,108,112,-116,87,112,199
-2023 IWF World Junior Championships,2023-11-15,71 kg Women,LEE Kathryn,70.10,81,85,87,104,107,-110,87,107,194
-2023 IWF World Junior Championships,2023-11-15,71 kg Women,LUSIGNAN Naomie,69.40,86,-89,-89,106,110,-112,86,110,196
+2023 IWF World Junior Championships,2023-11-15,71 kg Women,LEE Kathryn Paige,70.10,81,85,87,104,107,-110,87,107,194
+2023 IWF World Junior Championships,2023-11-15,71 kg Women,LUSIGNAN Naomie Mia,69.40,86,-89,-89,106,110,-112,86,110,196
 2023 IWF World Junior Championships,2023-11-15,71 kg Women,POWER Maddison,70.45,78,81,84,102,106,-110,84,106,190
 2023 IWF World Junior Championships,2023-11-15,71 kg Women,BLOOM Layla Leah,69.10,70,74,78,95,100,104,78,104,182
-2023 IWF World Junior Championships,2023-11-15,71 kg Women,CHEN Hsin Ning,70.85,-90,-90,-90,115,-117,-118,0,115,0
+2023 IWF World Junior Championships,2023-11-15,71 kg Women,CHEN Hsin-Ning,70.85,-90,-90,-90,115,-117,-118,0,115,0
 2023 IWF World Junior Championships,2023-11-15,76 kg Women,NICHOLSON Ella,74.80,-102,102,105,-120,122,-127,105,122,227
 2023 IWF World Junior Championships,2023-11-15,76 kg Women,JIMENEZ QUINONEZ Kelin Juliana,76.00,100,104,-106,123,126,130,104,130,234
 2023 IWF World Junior Championships,2023-11-15,76 kg Women,CRUZ HERNANDEZ Angeles,76.00,-95,95,100,115,120,123,100,123,223
@@ -214,7 +214,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 IWF World Junior Championships,2023-11-15,81 kg Women,SAFRATOVA Vendula,79.35,76,80,-83,100,105,-110,80,105,185
 2023 IWF World Junior Championships,2023-11-15,87 kg Women,MURGVLIANI Mariam,83.95,95,99,102,-119,120,123,102,123,225
 2023 IWF World Junior Championships,2023-11-15,87 kg Women,ROBLES Amanda Denise,85.55,94,98,101,114,-118,-119,101,114,215
-2023 IWF World Junior Championships,2023-11-15,87 kg Women,JONES Medea,84.25,93,98,-101,108,112,-116,98,112,210
+2023 IWF World Junior Championships,2023-11-15,87 kg Women,JONES Medea Elyse,84.25,93,98,-101,108,112,-116,98,112,210
 2023 IWF World Junior Championships,2023-11-15,87 kg Women,AHMED Fatma Mohamed Sadek,83.20,93,-97,97,118,122,-125,97,122,219
 2023 IWF World Junior Championships,2023-11-15,87 kg Women,ESPINOZA URESTI Estefany,82.20,87,90,93,118,120,-124,93,120,213
 2023 IWF World Junior Championships,2023-11-15,87 kg Women,HENRIQUEZ DIAZ Zoreannys Valeria,82.90,87,-91,-91,109,113,115,87,115,202

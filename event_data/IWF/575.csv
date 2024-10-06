@@ -10,7 +10,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 Asian Junior Championships,2023-07-28,61 kg Men,BAGTYYAROV Perhat,60.88,112,-115,-115,141,144,-146,112,144,256
 2023 Asian Junior Championships,2023-07-28,61 kg Men,DELOS SANTOS Albert Ian,59.90,105,110,-112,145,148,-150,110,148,258
 2023 Asian Junior Championships,2023-07-28,61 kg Men,DAVASARI Mehrab,60.80,102,107,-110,134,-138,138,107,138,245
-2023 Asian Junior Championships,2023-07-28,61 kg Men,MOHAMMAD Tarha,60.42,97,-102,-102,122,-127,-128,97,122,219
+2023 Asian Junior Championships,2023-07-28,61 kg Men,TARHA Mohammad,60.42,97,-102,-102,122,-127,-128,97,122,219
 2023 Asian Junior Championships,2023-07-28,61 kg Men,K Brum,57.22,-110,0,0,0,0,0,0,0,0
 2023 Asian Junior Championships,2023-07-28,67 kg Men,MATRASULOV Khusinboy,66.80,130,134,138,151,156,160,138,160,298
 2023 Asian Junior Championships,2023-07-28,67 kg Men,TRAN Minh Tri,66.42,131,-135,-135,161,168,0,131,168,299
@@ -35,6 +35,40 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 Asian Junior Championships,2023-07-28,81 kg Men,SO Jiseop,80.75,135,-139,-140,0,0,0,135,0,0
 2023 Asian Junior Championships,2023-07-28,81 kg Men,ALKATEB Mohamad,80.83,129,133,-138,156,160,-167,133,160,293
 2023 Asian Junior Championships,2023-07-28,81 kg Men,BURIKHAM Piphat,76.02,130,-137,-137,-150,150,155,130,155,285
+2023 Asian Junior Championships,2023-07-28,89 kg Men,OLIMOV Khojiakbar,88.95,150,155,-158,180,-194,-195,155,180,335
+2023 Asian Junior Championships,2023-07-28,89 kg Men,REJEPOV Resul,84.80,142,146,148,165,170,-173,148,170,318
+2023 Asian Junior Championships,2023-07-28,89 kg Men,TARMALOV Nursultan,88.20,-143,143,147,160,-166,166,147,166,313
+2023 Asian Junior Championships,2023-07-28,89 kg Men,GHOLIZADEH Farhad,87.30,136,143,-146,167,-174,174,143,174,317
+2023 Asian Junior Championships,2023-07-28,89 kg Men,BASHEER Lal Sk,88.80,129,133,-137,-159,-159,-159,133,0,0
+2023 Asian Junior Championships,2023-07-28,89 kg Men,SHAMMAA Ahmad,85.30,-130,130,133,-167,-167,-168,133,0,0
+2023 Asian Junior Championships,2023-07-28,89 kg Men,AL MALAHMA HAFEDH Alaa,88.70,131,-137,-137,-157,-157,160,131,160,291
+2023 Asian Junior Championships,2023-07-28,96 kg Men,MATYAKUBOV Shahzadbek,95.10,155,160,-165,185,191,197,160,197,357
+2023 Asian Junior Championships,2023-07-28,96 kg Men,NASIRI Alireza,94.85,146,151,156,181,190,196,156,196,352
+2023 Asian Junior Championships,2023-07-28,96 kg Men,CHA Byungjun,92.30,142,-147,147,170,-177,177,147,177,324
+2023 Asian Junior Championships,2023-07-28,96 kg Men,ALSALLAJ Asem Mousa Husam,95.70,141,145,-147,-176,176,180,145,180,325
+2023 Asian Junior Championships,2023-07-28,96 kg Men,KENESBAEV Begis,95.50,134,-140,140,168,-176,-177,140,168,308
+2023 Asian Junior Championships,2023-07-28,96 kg Men,AL LAMI ALI HAZIM Dawood,95.60,131,-134,134,-171,171,-175,134,171,305
+2023 Asian Junior Championships,2023-07-28,96 kg Men,XU Jin-Jia,94.50,125,131,-135,150,155,-160,131,155,286
+2023 Asian Junior Championships,2023-07-28,96 kg Men,ALAHMAD Abdullah Mukhtar A,95.10,118,123,129,161,166,-172,129,166,295
+2023 Asian Junior Championships,2023-07-28,96 kg Men,YADAV Alok,95.30,118,123,127,160,170,-175,127,170,297
+2023 Asian Junior Championships,2023-07-28,96 kg Men,YADAV Sanjay,94.10,90,96,-101,115,125,-130,96,125,221
+2023 Asian Junior Championships,2023-07-28,102 kg Men,ZARE Abolfazl,99.10,150,156,158,185,190,-196,158,190,348
+2023 Asian Junior Championships,2023-07-28,102 kg Men,JEONG Huijun,101.35,150,155,-157,189,195,-200,155,195,350
+2023 Asian Junior Championships,2023-07-28,102 kg Men,YUSUPOV Mirjahon,98.45,140,143,-151,170,174,-177,143,174,317
+2023 Asian Junior Championships,2023-07-28,102 kg Men,LIN Jui-Li,99.00,-135,135,142,172,-176,176,142,176,318
+2023 Asian Junior Championships,2023-07-28,109 kg Men,NOMOZOV Kurbonmurod,107.95,156,160,-164,195,200,-206,160,200,360
+2023 Asian Junior Championships,2023-07-28,109 kg Men,EMADI Hassan,107.36,152,158,-163,177,-184,185,158,185,343
+2023 Asian Junior Championships,2023-07-28,109 kg Men,ZARE Kourosh,108.33,152,157,-161,182,187,192,157,192,349
+2023 Asian Junior Championships,2023-07-28,109 kg Men,MA Ching-Chieh,107.96,-150,150,155,185,190,-195,155,190,345
+2023 Asian Junior Championships,2023-07-28,109 kg Men,ABDURASHITOV Nurbol,107.20,146,-151,153,175,183,186,153,186,339
+2023 Asian Junior Championships,2023-07-28,+109 kg Men,ESFANDIARI Alireza,163.84,168,173,177,201,207,-212,177,207,384
+2023 Asian Junior Championships,2023-07-28,+109 kg Men,NEMATI MOGHADDAM Taha,116.19,160,166,-172,190,200,-206,166,200,366
+2023 Asian Junior Championships,2023-07-28,+109 kg Men,ABDULLAEV Amir,122.87,155,157,-167,180,190,196,157,196,353
+2023 Asian Junior Championships,2023-07-28,+109 kg Men,NAM Jiyong,135.92,-156,156,-161,208,213,-229,156,213,369
+2023 Asian Junior Championships,2023-07-28,+109 kg Men,MOHAMMAD Ali,130.84,141,143,-150,161,-168,169,143,169,312
+2023 Asian Junior Championships,2023-07-28,+109 kg Men,KAO Jia-Hui,152.50,130,140,-145,185,190,-195,140,190,330
+2023 Asian Junior Championships,2023-07-28,+109 kg Men,SINGH Paramvir,119.25,-135,-135,135,158,-166,166,135,166,301
+2023 Asian Junior Championships,2023-07-28,+109 kg Men,BESSA Kesav,115.85,-125,125,131,150,156,-161,131,156,287
 2023 Asian Junior Championships,2023-07-28,45 kg Women,COLONIA Angeline,44.80,68,70,-72,80,82,-85,70,82,152
 2023 Asian Junior Championships,2023-07-28,45 kg Women,RAMOS Rose Jean,44.56,-70,70,-72,85,87,-89,70,87,157
 2023 Asian Junior Championships,2023-07-28,45 kg Women,KAMNOEDSRI Khemika,44.67,64,67,-71,84,-87,-87,67,84,151
@@ -71,3 +105,33 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 Asian Junior Championships,2023-07-28,64 kg Women,DJURAEVA Madinabonu,63.63,80,82,85,98,102,105,85,105,190
 2023 Asian Junior Championships,2023-07-28,64 kg Women,HOSSEINI Seyedehghazaleh,63.50,78,-81,81,96,101,-105,81,101,182
 2023 Asian Junior Championships,2023-07-28,64 kg Women,KAKAMYRADOVA Gulalek,61.75,76,79,-81,92,96,-99,79,96,175
+2023 Asian Junior Championships,2023-07-28,71 kg Women,SARNO Vanessa,66.82,95,-97,0,115,117,121,95,121,216
+2023 Asian Junior Championships,2023-07-28,71 kg Women,WONGSING Phattharathida,70.26,85,88,92,113,116,120,92,120,212
+2023 Asian Junior Championships,2023-07-28,71 kg Women,KOMILOVA Sevinchoy,70.70,82,85,88,105,107,110,88,110,198
+2023 Asian Junior Championships,2023-07-28,71 kg Women,RUSTAMOVA Mashkhura,70.81,80,84,87,105,107,110,87,110,197
+2023 Asian Junior Championships,2023-07-28,71 kg Women,KARIMI Laya,70.59,78,83,-86,91,-95,-95,83,91,174
+2023 Asian Junior Championships,2023-07-28,71 kg Women,NISHIO Akari,70.68,80,83,-86,100,106,-109,83,106,189
+2023 Asian Junior Championships,2023-07-28,71 kg Women,QANDEEL Weam Mahmoud Ahmad,64.74,50,-60,60,65,-70,-71,60,65,125
+2023 Asian Junior Championships,2023-07-28,76 kg Women,PARK Sumin,75.83,92,96,99,113,118,-121,99,118,217
+2023 Asian Junior Championships,2023-07-28,76 kg Women,FAYZULLAEVA Madina,75.64,86,89,-93,105,108,111,89,111,200
+2023 Asian Junior Championships,2023-07-28,76 kg Women,DADAMIRZAEVA Gulshodakhon,75.80,82,86,89,105,109,-112,89,109,198
+2023 Asian Junior Championships,2023-07-28,76 kg Women,TAINGDEE Chalida,74.48,-86,-87,87,106,-110,110,87,110,197
+2023 Asian Junior Championships,2023-07-28,76 kg Women,SANJANA,75.84,82,86,-88,107,112,-115,86,112,198
+2023 Asian Junior Championships,2023-07-28,76 kg Women,LI Xing-En,75.73,85,-88,-88,-110,110,-114,85,110,195
+2023 Asian Junior Championships,2023-07-28,76 kg Women,KADKHODAEI Asal,75.75,-78,78,-82,92,-96,96,78,96,174
+2023 Asian Junior Championships,2023-07-28,81 kg Women,RUSTAMOVA Anamjan,80.87,98,103,-107,117,125,-127,103,125,228
+2023 Asian Junior Championships,2023-07-28,81 kg Women,SUVONOVA Nigora,80.82,86,-90,90,110,116,-120,90,116,206
+2023 Asian Junior Championships,2023-07-28,81 kg Women,WANG Hsin-Hsiu,80.92,85,-89,89,105,-112,-115,89,105,194
+2023 Asian Junior Championships,2023-07-28,81 kg Women,CHUKKA Sri Lakshmi,80.92,75,79,83,100,0,0,83,100,183
+2023 Asian Junior Championships,2023-07-28,81 kg Women,SREEJITH Anjana,80.05,75,79,82,100,104,108,82,108,190
+2023 Asian Junior Championships,2023-07-28,81 kg Women,KHORMI Nujud Hussain Y,79.30,53,60,63,75,-82,-85,63,75,138
+2023 Asian Junior Championships,2023-07-28,81 kg Women,ALQURASHI Layan Hassan M,76.45,47,55,60,62,68,-72,60,68,128
+2023 Asian Junior Championships,2023-07-28,87 kg Women,KIM Sua,86.67,87,90,92,113,117,120,92,120,212
+2023 Asian Junior Championships,2023-07-28,87 kg Women,BOONCHAUY Boonyapat,85.80,85,88,91,107,-112,112,91,112,203
+2023 Asian Junior Championships,2023-07-28,87 kg Women,MAGHSOODI Kizhan,85.70,83,88,-91,105,111,116,88,116,204
+2023 Asian Junior Championships,2023-07-28,87 kg Women,NGUYEN Anh Nhu,82.95,80,84,86,-106,106,-109,86,106,192
+2023 Asian Junior Championships,2023-07-28,+87 kg Women,KIM Hyoeon,121.13,105,-109,109,136,141,-150,109,141,250
+2023 Asian Junior Championships,2023-07-28,+87 kg Women,WANG Ling Chen,106.87,103,108,-110,130,140,-143,108,140,248
+2023 Asian Junior Championships,2023-07-28,+87 kg Women,TRAN Thi Hien,117.65,94,96,100,120,124,-132,100,124,224
+2023 Asian Junior Championships,2023-07-28,+87 kg Women,MAIBAM Martina Devi,112.90,88,92,95,112,118,123,95,123,218
+2023 Asian Junior Championships,2023-07-28,+87 kg Women,ABDURASHIDOVA Lolakhona,113.23,83,-85,-87,105,-110,110,83,110,193

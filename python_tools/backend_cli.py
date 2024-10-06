@@ -70,6 +70,9 @@ class CLICommands:
             case "ffh":
                 france = FranceInterface()
                 france.new_build_database()
+            case "iwf":
+                iwf = InternationalWF("../event_data/IWF")
+                iwf.build_database()
             case _:
                 sys.exit(f"database not found: {db_name}")
 

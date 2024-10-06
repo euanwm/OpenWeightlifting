@@ -179,7 +179,7 @@ class AustraliaWeightlifting:
         pop_results = remove_unused_columns(final_results)
         gendered_results = assign_gender(pop_results)
         final_header = ['event', 'date', 'gender', 'lifter', 'body_weight_(kg)', 'snatch_lift_1',
-                        'snatch_lift_2', 'snatch_lift_3', 'c&j_lift_1', 'c&j_lift_2', 'c&j_lift_3', 
+                        'snatch_lift_2', 'snatch_lift_3', 'c&j_lift_1', 'c&j_lift_2', 'c&j_lift_3',
                         'best_snatch', 'best_c&j', 'total']
         gendered_results.insert(0, final_header)
         return gendered_results
@@ -269,6 +269,36 @@ class InternationalWF:
         if success:
             return data
         return False
+
+    def update_results(self) -> None:
+        """Looks at comp index and then updates with values not currently saved"""
+        comp_index = self.fetch_events_list()
+        result_db_ids = [int(x.split(".")[0])
+                            for x in os.listdir(self.iwf_root_dir)]
+        for comp_info in comp_index[1::]:
+            if comp_info[0] not in result_db_ids:
+                comp_results = self.get_results(comp_info[0])
+                comp_result_data = self.__convert_to_conform(
+                    comp_results, comp_info)
+                write_to_csv(self.iwf_root_dir, comp_info[0], comp_result_data)
+
+    def build_database(self) -> None:
+        all_comps = self.fetch_events_list()
+        for comp in all_comps[1::]: # skip the header line
+            result = self.get_results(comp[0])
+            result_data = self.__convert_to_conform(
+                result, comp)
+            write_to_csv(self.iwf_root_dir, comp[0], result_data)
+
+    def rebuild_single_event(self, csv_id: int) -> None:
+            """Rebuilds a single event"""
+            comp_index = self.fetch_events_list()
+            for comp_info in comp_index:
+                if comp_info[0] == csv_id:
+                    comp_results = self.get_results(comp_info[0])
+                    comp_result_data = self.__convert_to_conform(
+                        comp_results, comp_info)
+                    write_to_csv(self.iwf_root_dir, comp_info[0], comp_result_data)
 
     def __load_results_page(self, event_id: int) -> BeautifulSoup:
         """Loads the event page for the competition, new weight cats are 441 and above"""
@@ -393,18 +423,6 @@ class InternationalWF:
         ordered_results = self.__order_correctly(result_data)
         return ordered_results
 
-    def update_results(self) -> None:
-        """Looks at comp index and then updates with values not currently saved"""
-        comp_index = self.fetch_events_list()
-        result_db_ids = [int(x.split(".")[0])
-                         for x in os.listdir(self.iwf_root_dir)]
-        for comp_info in comp_index[1::]:
-            if comp_info[0] not in result_db_ids:
-                comp_results = self.get_results(comp_info[0])
-                comp_result_data = self.__convert_to_conform(
-                    comp_results, comp_info)
-                write_to_csv(self.iwf_root_dir, comp_info[0], comp_result_data)
-
     @staticmethod
     def __conform_date(old_date: str) -> str:
         new_date = datetime.strptime(old_date, "%b %d, %Y")
@@ -424,13 +442,3 @@ class InternationalWF:
         ordered_data = [list(x.values()) for x in big_data]
         ordered_data.insert(0, key_order)
         return ordered_data
-
-    def rebuild_single_event(self, csv_id: int) -> None:
-        """Rebuilds a single event"""
-        comp_index = self.fetch_events_list()
-        for comp_info in comp_index:
-            if comp_info[0] == csv_id:
-                comp_results = self.get_results(comp_info[0])
-                comp_result_data = self.__convert_to_conform(
-                    comp_results, comp_info)
-                write_to_csv(self.iwf_root_dir, comp_info[0], comp_result_data)

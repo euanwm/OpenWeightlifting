@@ -23,8 +23,8 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 IWF World Championships,2023-09-04,61 kg Men,DING Hongjie,61.00,135,-139,-139,166,-171,-171,135,166,301
 2023 IWF World Championships,2023-09-04,61 kg Men,SAPUTRA Ricko,61.00,129,-134,134,-160,-167,-167,134,0,0
 2023 IWF World Championships,2023-09-04,61 kg Men,BRANDHUBER Simon Josef,61.00,130,133,-135,149,154,-157,133,154,287
-2023 IWF World Championships,2023-09-04,61 kg Men,DIMOV Ivan,61.00,133,-136,-137,152,160,-164,133,160,293
-2023 IWF World Championships,2023-09-04,61 kg Men,CENIZA John Fabuar,60.75,128,131,-133,-165,165,-170,131,165,296
+2023 IWF World Championships,2023-09-04,61 kg Men,DIMOV Ivan Petkov,61.00,133,-136,-137,152,160,-164,133,160,293
+2023 IWF World Championships,2023-09-04,61 kg Men,CENIZA John Febuar,60.75,128,131,-133,-165,165,-170,131,165,296
 2023 IWF World Championships,2023-09-04,61 kg Men,BERDELIDZE Goderdzi,61.00,123,126,130,150,-156,-156,130,150,280
 2023 IWF World Championships,2023-09-04,61 kg Men,CHOMCHUEN Teerapat,60.57,130,-133,-133,-162,163,-167,130,163,293
 2023 IWF World Championships,2023-09-04,61 kg Men,TRINH Van Vinh,61.00,126,130,-132,162,-166,-166,130,162,292
@@ -59,7 +59,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 IWF World Championships,2023-09-04,61 kg Men,ELIS Mustafa,60.91,0,0,0,0,0,0,0,0,0
 2023 IWF World Championships,2023-09-04,61 kg Men,MORRIS Hampton Miller,60.91,-123,-123,-123,163,-168,168,0,168,0
 2023 IWF World Championships,2023-09-04,61 kg Men,LAPTSEU Henadz,60.93,-132,-132,-132,0,0,0,0,0,0
-2023 IWF World Championships,2023-09-04,61 kg Men,AL BUSAIDI Elyas Tamim Shuwaired,61.00,-118,-118,-120,-152,-152,0,0,0,0
+2023 IWF World Championships,2023-09-04,61 kg Men,AL BUSAIDI Elyas Tamim,61.00,-118,-118,-120,-152,-152,0,0,0,0
 2023 IWF World Championships,2023-09-04,61 kg Men,REISENAUER Brian James,61.00,-113,0,0,0,0,0,0,0,0
 2023 IWF World Championships,2023-09-04,67 kg Men,CHEN Lijun,67.00,145,150,153,175,180,0,153,180,333
 2023 IWF World Championships,2023-09-04,67 kg Men,IRAWAN Eko Yuli,66.93,142,146,-150,165,175,-181,146,175,321
@@ -80,12 +80,12 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 IWF World Championships,2023-09-04,67 kg Men,BIN HAJI ABU BAKAR Mohammad Nashrul,64.51,100,-103,103,125,130,-133,103,130,233
 2023 IWF World Championships,2023-09-04,67 kg Men,ABDULREDHA Mohammed Kh I E K M,66.35,91,97,101,124,128,-133,101,128,229
 2023 IWF World Championships,2023-09-04,67 kg Men,ERATI Kaimauri,64.92,90,95,-100,-115,115,-120,95,115,210
-2023 IWF World Championships,2023-09-04,67 kg Men,HERNANDEZ MENDOZA Acoran Juan,66.90,0,0,0,0,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,67 kg Men,RUSTAMOV Isa,66.81,-128,0,0,0,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,67 kg Men,RUSEV Angel Hriskov,65.32,0,0,0,0,0,0,0,0,0
 2023 IWF World Championships,2023-09-04,67 kg Men,HARDAL Ferdi,66.99,-136,-136,-137,-161,0,0,0,0,0
 2023 IWF World Championships,2023-09-04,67 kg Men,HE Yueji,67.00,-145,-145,-145,172,-178,-178,0,172,0
 2023 IWF World Championships,2023-09-04,67 kg Men,HAN Myeongmok,66.94,-140,-141,-141,-160,160,0,0,160,0
-2023 IWF World Championships,2023-09-04,67 kg Men,RUSEV Angel Hriskov,65.32,0,0,0,0,0,0,0,0,0
-2023 IWF World Championships,2023-09-04,67 kg Men,RUSTAMOV Isa,66.81,-128,0,0,0,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,67 kg Men,HERNANDEZ MENDOZA Acoran Juan,66.90,0,0,0,0,0,0,0,0,0
 2023 IWF World Championships,2023-09-04,67 kg Men,DURAK Faris,65.72,-100,0,0,-120,0,0,0,0,0
 2023 IWF World Championships,2023-09-04,73 kg Men,WEI Yinting,73.00,-155,-155,157,-180,-180,180,157,180,337
 2023 IWF World Championships,2023-09-04,73 kg Men,WICHUMA Weeraphon,72.91,145,150,154,-190,190,195,154,195,349
@@ -95,7 +95,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 IWF World Championships,2023-09-04,73 kg Men,MOSQUERA LOZANO Luis Javier,72.94,145,-150,150,-175,-175,175,150,175,325
 2023 IWF World Championships,2023-09-04,73 kg Men,MAYORA PERNA Julio Ruben,72.83,147,-150,150,183,-187,-187,150,183,333
 2023 IWF World Championships,2023-09-04,73 kg Men,SANCHEZ LOPEZ David,73.00,-145,145,148,184,-188,-188,148,184,332
-2023 IWF World Championships,2023-09-04,73 kg Men,GENC Fehmi Yusuf,71.07,145,148,-150,-185,-186,-187,148,0,0
+2023 IWF World Championships,2023-09-04,73 kg Men,GENC Yusuf Fehmi,71.07,145,148,-150,-185,-186,-187,148,0,0
 2023 IWF World Championships,2023-09-04,73 kg Men,MIYAMOTO Masanori,72.99,-147,147,-151,178,183,-188,147,183,330
 2023 IWF World Championships,2023-09-04,73 kg Men,OZBEK Muhammed Furkan,72.54,143,-146,147,185,187,-191,147,187,334
 2023 IWF World Championships,2023-09-04,73 kg Men,FARDJALLAH Samir,73.00,140,146,-148,-171,171,-176,146,171,317
@@ -122,10 +122,10 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 IWF World Championships,2023-09-04,73 kg Men,MAIA CANDEIAS Rafael Henrique,71.59,109,115,-120,133,139,145,115,145,260
 2023 IWF World Championships,2023-09-04,73 kg Men,NAZARI Zubair,72.32,100,105,-110,125,130,135,105,135,240
 2023 IWF World Championships,2023-09-04,73 kg Men,ODUOR Geoffrey Otieno,72.83,90,95,-101,-120,120,125,95,125,220
-2023 IWF World Championships,2023-09-04,73 kg Men,JUNIANSYAH Rizki,72.83,0,0,0,0,0,0,0,0,0
 2023 IWF World Championships,2023-09-04,73 kg Men,KONNAI Mitsunori,73.00,-145,-145,-145,175,-181,-187,0,175,0
-2023 IWF World Championships,2023-09-04,73 kg Men,ZANNI Mirko,70.66,0,0,0,0,0,0,0,0,0
 2023 IWF World Championships,2023-09-04,73 kg Men,REYIMOV Bektimur,72.87,-143,-145,-145,-170,-170,171,0,171,0
+2023 IWF World Championships,2023-09-04,73 kg Men,JUNIANSYAH Rizki,72.83,0,0,0,0,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,73 kg Men,ZANNI Mirko,70.66,0,0,0,0,0,0,0,0,0
 2023 IWF World Championships,2023-09-04,73 kg Men,LANG Max Richard,72.98,-145,-146,-146,-176,176,0,0,176,0
 2023 IWF World Championships,2023-09-04,73 kg Men,REYES VIDAL Jair Abimelet,70.99,0,0,0,0,0,0,0,0,0
 2023 IWF World Championships,2023-09-04,73 kg Men,JAVADOV Omar,72.90,-145,-145,-145,0,0,0,0,0,0
@@ -167,7 +167,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 IWF World Championships,2023-09-04,89 kg Men,JAVADI ALIABADI Mir Mostafa,87.73,-161,162,169,207,212,215,169,215,384
 2023 IWF World Championships,2023-09-04,89 kg Men,TIAN Tao,88.99,168,-173,-176,-209,-212,-214,168,0,0
 2023 IWF World Championships,2023-09-04,89 kg Men,PETROVICH Sergey,88.97,155,160,164,-190,190,194,164,194,358
-2023 IWF World Championships,2023-09-04,89 kg Men,MULLER Nico,89.00,157,-162,162,195,-201,201,162,201,363
+2023 IWF World Championships,2023-09-04,89 kg Men,MUELLER Nico,89.00,157,-162,162,195,-201,201,162,201,363
 2023 IWF World Championships,2023-09-04,89 kg Men,FRIEDRICH Raphael,88.94,161,-164,-164,-190,-191,-191,161,0,0
 2023 IWF World Championships,2023-09-04,89 kg Men,KENNEDY Braydon James,88.91,156,160,-163,-187,187,-193,160,187,347
 2023 IWF World Championships,2023-09-04,89 kg Men,ZAFARJONOV Sarvarbek,88.74,160,-164,-164,191,196,-203,160,196,356
@@ -193,7 +193,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 IWF World Championships,2023-09-04,89 kg Men,THARAPHAN Phacharamethi,89.00,145,-150,-150,187,-194,194,145,194,339
 2023 IWF World Championships,2023-09-04,89 kg Men,ESCUDERO ORDONEZ Ivan Andres,88.62,140,145,-150,0,0,0,145,0,0
 2023 IWF World Championships,2023-09-04,89 kg Men,CANUL FACUNDO Mauricio Cristofer,88.62,-145,-145,145,180,187,-193,145,187,332
-2023 IWF World Championships,2023-09-04,89 kg Men,TIFFANY Xavier,88.64,136,140,-144,160,166,-170,140,166,306
+2023 IWF World Championships,2023-09-04,89 kg Men,TIFFANY Xavier John,88.64,136,140,-144,160,166,-170,140,166,306
 2023 IWF World Championships,2023-09-04,89 kg Men,PAVON FUNES Axel Haun,88.75,-135,135,140,170,175,181,140,181,321
 2023 IWF World Championships,2023-09-04,89 kg Men,ALIOUA Said,89.00,140,-145,-145,180,-185,-185,140,180,320
 2023 IWF World Championships,2023-09-04,89 kg Men,ALSWYLEH Ismail Ibrahim A,87.31,135,-140,140,165,170,174,140,174,314
@@ -204,14 +204,14 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 IWF World Championships,2023-09-04,89 kg Men,DA SILVA BRAGA Bruno Daniel,87.74,120,-125,-125,135,-140,-140,120,135,255
 2023 IWF World Championships,2023-09-04,89 kg Men,AROMO Maurice Oduor,85.91,100,110,115,130,-140,140,115,140,255
 2023 IWF World Championships,2023-09-04,89 kg Men,TURA Jerome Hewett,87.47,105,110,115,145,150,-155,115,150,265
-2023 IWF World Championships,2023-09-04,89 kg Men,CHUANG Sheng-Min,82.70,-150,-150,-150,180,0,0,0,180,0
 2023 IWF World Championships,2023-09-04,89 kg Men,FICCO Cristiano Giuseppe,83.85,0,0,0,0,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,89 kg Men,PIZZOLATO Antonino,89.00,-168,-168,-168,0,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,89 kg Men,CHUANG Sheng-Min,82.70,-150,-150,-150,180,0,0,0,180,0
 2023 IWF World Championships,2023-09-04,89 kg Men,TOUAIRI Faris,85.19,0,0,0,0,0,0,0,0,0
 2023 IWF World Championships,2023-09-04,89 kg Men,ALJUMAILI Safaa Rashid Mahmood,88.95,-155,-155,0,0,0,0,0,0,0
-2023 IWF World Championships,2023-09-04,89 kg Men,RODALLEGAS CARVAJAL Brayan Santiago,89.00,0,0,0,0,0,0,0,0,0
-2023 IWF World Championships,2023-09-04,89 kg Men,NASAR Karlos May Hasan,87.38,0,0,0,0,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,89 kg Men,NASAR Karlos May,87.38,0,0,0,0,0,0,0,0,0
 2023 IWF World Championships,2023-09-04,89 kg Men,BRUCE Kyle John Ryan Christopher P,89.00,0,0,0,0,0,0,0,0,0
-2023 IWF World Championships,2023-09-04,89 kg Men,PIZZOLATO Antonino,89.00,-168,-168,-168,0,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,89 kg Men,RODALLEGAS CARVAJAL Brayan Santiago,89.00,0,0,0,0,0,0,0,0,0
 2023 IWF World Championships,2023-09-04,96 kg Men,AL-LAMI Qasim Hasan Abdulhussein,96.00,170,173,175,201,204,-206,175,204,379
 2023 IWF World Championships,2023-09-04,96 kg Men,ABOKAHLA Karim Ibrahim Ibrahim Ali,95.81,169,172,174,-208,208,213,174,213,387
 2023 IWF World Championships,2023-09-04,96 kg Men,WON Jongbeom,95.91,167,-172,172,209,-211,212,172,212,384
@@ -239,13 +239,13 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 IWF World Championships,2023-09-04,96 kg Men,ALSALLAJ Asem Mousa Husam,95.86,-137,137,-145,177,-183,-185,137,177,314
 2023 IWF World Championships,2023-09-04,96 kg Men,BIST Vishal Singh,94.59,120,126,-133,155,162,165,126,165,291
 2023 IWF World Championships,2023-09-04,96 kg Men,DALEY James Francis,95.02,104,108,-110,130,-135,135,108,135,243
-2023 IWF World Championships,2023-09-04,96 kg Men,MATYAKUBOV Shahzadbek,96.00,-163,-163,-164,187,193,-201,0,193,0
 2023 IWF World Championships,2023-09-04,96 kg Men,DAMRON Nathan Charles,93.54,0,0,0,0,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,96 kg Men,MATYAKUBOV Shahzadbek,96.00,-163,-163,-164,187,193,-201,0,193,0
 2023 IWF World Championships,2023-09-04,102 kg Men,TSIKHANTSOU Yauheni,101.51,175,179,183,211,-217,-217,183,211,394
 2023 IWF World Championships,2023-09-04,102 kg Men,KARAPETYAN Garik,102.00,175,-183,183,210,-217,-217,183,210,393
 2023 IWF World Championships,2023-09-04,102 kg Men,JANG Yeonhak,101.57,178,-182,182,210,217,-221,182,217,399
 2023 IWF World Championships,2023-09-04,102 kg Men,LIU Huanhua,98.52,171,176,180,-215,221,224,180,224,404
-2023 IWF World Championships,2023-09-04,102 kg Men,DAVRANBEK Hasanbayev,99.46,-176,178,-181,-190,195,-202,178,195,373
+2023 IWF World Championships,2023-09-04,102 kg Men,HASANBAYEV Davranbek,99.46,-176,178,-181,-190,195,-202,178,195,373
 2023 IWF World Championships,2023-09-04,102 kg Men,GASPARYAN Samvel,101.89,178,-183,-184,216,-222,-222,178,216,394
 2023 IWF World Championships,2023-09-04,102 kg Men,AMRIDDINOV Sharofiddin,100.84,-170,170,177,195,202,-206,177,202,379
 2023 IWF World Championships,2023-09-04,102 kg Men,RIVAS MOSQUERA Jhonatan,101.87,165,-175,175,200,-207,207,175,207,382
@@ -276,21 +276,84 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 IWF World Championships,2023-09-04,102 kg Men,BURGER Ruben,102.00,135,-140,-140,168,-174,175,135,175,310
 2023 IWF World Championships,2023-09-04,102 kg Men,WILBUR Thomas,101.97,-128,128,133,164,170,175,133,175,308
 2023 IWF World Championships,2023-09-04,102 kg Men,ALRUWEAI Mohammad D Z F A,101.93,115,123,-130,150,-160,-160,123,150,273
-2023 IWF World Championships,2023-09-04,102 kg Men,BRATU Tudor,100.08,0,0,0,0,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,102 kg Men,CHEN Po-Jen,100.47,-175,-175,-180,0,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,102 kg Men,LAMENZA LOPEZ Luis Armando,101.94,0,0,0,0,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,102 kg Men,SANGUINO MATAMOROS Jhohan David,101.68,-165,-165,-165,195,201,207,0,207,0
+2023 IWF World Championships,2023-09-04,102 kg Men,MARINOV Vasil Kaloyanov,101.52,0,0,0,0,0,0,0,0,0
 2023 IWF World Championships,2023-09-04,102 kg Men,BACHA Aymen,101.99,-170,-173,-176,0,0,0,0,0,0
 2023 IWF World Championships,2023-09-04,102 kg Men,JIN Yunseong,101.72,0,0,0,0,0,0,0,0,0
 2023 IWF World Championships,2023-09-04,102 kg Men,SHARANKOU Siarhei,101.60,-172,-172,-172,195,200,-208,0,200,0
 2023 IWF World Championships,2023-09-04,102 kg Men,SESTER Ryan William,101.90,-160,-160,-160,0,0,0,0,0,0
 2023 IWF World Championships,2023-09-04,102 kg Men,TOUAIRI Aymen,102.00,-170,-170,-171,0,0,0,0,0,0
-2023 IWF World Championships,2023-09-04,102 kg Men,SANGUINO MATAMOROS Jhohan David,101.68,-165,-165,-165,195,201,207,0,207,0
-2023 IWF World Championships,2023-09-04,102 kg Men,LAMENZA LOPEZ Luis Armando,101.94,0,0,0,0,0,0,0,0,0
-2023 IWF World Championships,2023-09-04,102 kg Men,CHEN Po-Jen,100.47,-175,-175,-180,0,0,0,0,0,0
 2023 IWF World Championships,2023-09-04,102 kg Men,ABUZRIBA Ahmed Mustafa Ahmed,100.88,0,0,0,0,0,0,0,0,0
 2023 IWF World Championships,2023-09-04,102 kg Men,HOFMANN Matthaeus Klaus Lorant Georg,101.86,0,0,0,0,0,0,0,0,0
-2023 IWF World Championships,2023-09-04,102 kg Men,RUIZ I VELASCO Marcos,99.72,0,0,0,0,0,0,0,0,0
-2023 IWF World Championships,2023-09-04,102 kg Men,MARINOV Vasil Kaloyanov,101.52,0,0,0,0,0,0,0,0,0
 2023 IWF World Championships,2023-09-04,102 kg Men,PAREDES MONTANO Lesman,101.33,0,0,0,0,0,0,0,0,0
-2023 IWF World Championships,2023-09-04,45 kg Women,PRAMONGKHOL Siriwimon,44.59,72,76,78,95,101,0,78,101,179
+2023 IWF World Championships,2023-09-04,102 kg Men,RUIZ I VELASCO Marcos,99.72,0,0,0,0,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,102 kg Men,BRATU Tudor,100.08,0,0,0,0,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,109 kg Men,DJURAEV Akbar,108.84,182,-189,189,220,226,-231,189,226,415
+2023 IWF World Championships,2023-09-04,109 kg Men,HRISTOV Hristo Dimitrov,108.89,176,181,-184,205,211,-215,181,211,392
+2023 IWF World Championships,2023-09-04,109 kg Men,DADASHBAYLI Dadash,109.00,175,180,-184,214,218,223,180,223,403
+2023 IWF World Championships,2023-09-04,109 kg Men,NURUDINOV Ruslan,109.00,175,180,-185,221,227,-236,180,227,407
+2023 IWF World Championships,2023-09-04,109 kg Men,ALAIFURI Salwan Jasim Abbood,109.00,175,-180,-181,-215,-216,-220,175,0,0
+2023 IWF World Championships,2023-09-04,109 kg Men,JAN Peyman,108.64,170,174,-178,211,-219,-220,174,211,385
+2023 IWF World Championships,2023-09-04,109 kg Men,KARAMI Mehdi,109.00,173,-178,-181,-214,216,-223,173,216,389
+2023 IWF World Championships,2023-09-04,109 kg Men,MARTIROSJAN Sargis,109.00,165,-170,171,180,-187,-191,171,180,351
+2023 IWF World Championships,2023-09-04,109 kg Men,KITTS Wesley Brian,108.52,160,165,170,191,200,0,170,200,370
+2023 IWF World Championships,2023-09-04,109 kg Men,MENDOZA CARABALI Yeimar,102.48,-166,166,170,202,207,-211,170,207,377
+2023 IWF World Championships,2023-09-04,109 kg Men,MEDINA ANDUEZA Josue Said,108.85,-165,165,-170,200,-206,206,165,206,371
+2023 IWF World Championships,2023-09-04,109 kg Men,GARCES FRANCO Oscar Andres,103.55,165,-170,-172,205,210,213,165,213,378
+2023 IWF World Championships,2023-09-04,109 kg Men,LOMTADZE Zaza,108.78,-160,160,165,205,214,-220,165,214,379
+2023 IWF World Championships,2023-09-04,109 kg Men,KOLAR Josef,105.56,153,159,161,182,-188,-190,161,182,343
+2023 IWF World Championships,2023-09-04,109 kg Men,DONG Bing-Cheng,108.82,160,-165,-169,-200,200,206,160,206,366
+2023 IWF World Championships,2023-09-04,109 kg Men,ADAMUS Bartlomiej Stefan,102.08,-160,160,-166,200,-206,-207,160,200,360
+2023 IWF World Championships,2023-09-04,109 kg Men,SIDISKIS Arnas,108.93,150,155,159,180,185,-190,159,185,344
+2023 IWF World Championships,2023-09-04,109 kg Men,FERNANDES VITAL E SILVA Antonio Manuel,107.21,150,-156,-156,180,-188,-191,150,180,330
+2023 IWF World Championships,2023-09-04,109 kg Men,ALKHAZAL Ali Ahmed A,105.16,145,150,0,175,181,0,150,181,331
+2023 IWF World Championships,2023-09-04,109 kg Men,ROBERTS-YOUNG Jackson George,109.00,-144,144,-152,194,-200,-207,144,194,338
+2023 IWF World Championships,2023-09-04,109 kg Men,BHANDARI Sagar,107.43,117,123,128,155,163,-167,128,163,291
+2023 IWF World Championships,2023-09-04,+109 kg Men,TALAKHADZE Lasha,177.37,208,215,220,245,253,-260,220,253,473
+2023 IWF World Championships,2023-09-04,+109 kg Men,MINASYAN Gor Tigran A.,154.04,205,213,-220,240,246,-253,213,246,459
+2023 IWF World Championships,2023-09-04,+109 kg Men,LALAYAN Varazdat,155.20,205,212,-217,242,248,-255,212,248,460
+2023 IWF World Championships,2023-09-04,+109 kg Men,DAVOUDI Ali,176.50,-195,195,203,240,249,-255,203,249,452
+2023 IWF World Championships,2023-09-04,+109 kg Men,ZIAZIULIN Eduard,144.58,-200,-201,201,230,-240,-243,201,230,431
+2023 IWF World Championships,2023-09-04,+109 kg Men,MARTIROSYAN Simon,130.21,195,200,-205,240,250,-255,200,250,450
+2023 IWF World Championships,2023-09-04,+109 kg Men,RUBAIAWI Ali Ammar Yusur,127.35,185,190,198,221,-228,-231,198,221,419
+2023 IWF World Championships,2023-09-04,+109 kg Men,SHARIFIKELARIJANI Ayat,157.12,192,-199,-202,-233,-233,-242,192,0,0
+2023 IWF World Championships,2023-09-04,+109 kg Men,JO Seongbin,139.72,180,189,191,-221,-222,-222,191,0,0
+2023 IWF World Championships,2023-09-04,+109 kg Men,TURMANIDZE Bakari,165.00,176,181,185,214,-220,-221,185,214,399
+2023 IWF World Championships,2023-09-04,+109 kg Men,MURAKAMI Eishiro,146.27,176,181,-185,220,-225,-231,181,220,401
+2023 IWF World Championships,2023-09-04,+109 kg Men,LITI David Andrew,183.71,174,178,181,-224,-224,226,181,226,407
+2023 IWF World Championships,2023-09-04,+109 kg Men,SEIM Mart,146.87,175,180,-185,-225,225,-232,180,225,405
+2023 IWF World Championships,2023-09-04,+109 kg Men,HANZENKO Oleh,157.58,173,179,-184,-210,-210,211,179,211,390
+2023 IWF World Championships,2023-09-04,+109 kg Men,MAO Sanele,132.66,170,175,-180,210,-217,-220,175,210,385
+2023 IWF World Championships,2023-09-04,+109 kg Men,WILKES Caine Morgan,156.32,165,170,175,203,211,-216,175,211,386
+2023 IWF World Championships,2023-09-04,+109 kg Men,TOYCHYYEV Hojamuhammet,151.70,175,-180,-181,-215,-215,215,175,215,390
+2023 IWF World Championships,2023-09-04,+109 kg Men,LEE Jaesang,135.80,170,-175,175,227,-241,241,175,241,416
+2023 IWF World Championships,2023-09-04,+109 kg Men,KAJDOCI Tamas,140.94,165,172,-177,0,0,0,172,0,0
+2023 IWF World Championships,2023-09-04,+109 kg Men,LEMUS CALANCHE Gilberto Antonio,128.50,160,170,-175,-190,190,-200,170,190,360
+2023 IWF World Championships,2023-09-04,+109 kg Men,MEDINA Alejandro Jose,133.06,165,170,-175,203,-210,-217,170,203,373
+2023 IWF World Championships,2023-09-04,+109 kg Men,NAGY Peter,159.96,162,-168,168,205,213,-219,168,213,381
+2023 IWF World Championships,2023-09-04,+109 kg Men,COULLET Anthony Jean Pierre,154.25,160,-165,165,205,215,222,165,222,387
+2023 IWF World Championships,2023-09-04,+109 kg Men,LITVINOV David,133.74,155,161,-166,-195,195,200,161,200,361
+2023 IWF World Championships,2023-09-04,+109 kg Men,JIN Cheng,145.62,150,160,-170,-190,-190,0,160,0,0
+2023 IWF World Championships,2023-09-04,+109 kg Men,HOLME Ragnar Gamlestoel,136.52,-157,157,-163,195,-200,0,157,195,352
+2023 IWF World Championships,2023-09-04,+109 kg Men,AL RADHI Hassan Asaad M,136.90,145,152,156,182,190,-195,156,190,346
+2023 IWF World Championships,2023-09-04,+109 kg Men,BOUAMR Bilal,126.60,150,-156,-157,180,186,-190,150,186,336
+2023 IWF World Championships,2023-09-04,+109 kg Men,RAJIC Krizan,132.50,140,145,-150,170,175,179,145,179,324
+2023 IWF World Championships,2023-09-04,+109 kg Men,TURKMEN Fazal Karim,151.72,130,135,140,170,-175,178,140,178,318
+2023 IWF World Championships,2023-09-04,+109 kg Men,KAGISO Bokang Alphius,117.16,-120,120,0,145,0,0,120,145,265
+2023 IWF World Championships,2023-09-04,+109 kg Men,MURATBYEK Bakhbyergyen,122.00,105,108,-111,133,138,-142,108,138,246
+2023 IWF World Championships,2023-09-04,+109 kg Men,ELSAYED Abdelrahman Mohamed A. A.,140.00,-180,-185,-185,0,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,+109 kg Men,KUWORGE Enzo Kofi,158.00,0,0,0,0,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,+109 kg Men,VIERA ESPINOZA Hernan Moises,115.00,0,0,0,0,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,+109 kg Men,ASAAD Man,162.90,0,0,0,0,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,+109 kg Men,MICHALSKI Arkadiusz,118.69,-168,-168,-171,0,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,+109 kg Men,DJANGABAEV Rustam,164.93,0,0,0,0,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,+109 kg Men,KUCERA Kamil,153.50,-175,-175,-176,0,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,+109 kg Men,GURDEEP Singh,165.40,0,0,0,0,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,+109 kg Men,CHINEN Kosuke,152.00,0,0,0,0,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,+109 kg Men,BIDANI Walid,144.80,0,0,0,0,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,45 kg Women,PRAMONGHKHOL Siriwimon,44.59,72,76,78,95,101,0,78,101,179
 2023 IWF World Championships,2023-09-04,45 kg Women,RANDAFIARISON Rosina,44.22,70,75,77,93,-100,-100,77,93,170
 2023 IWF World Championships,2023-09-04,45 kg Women,BEKTAS Cansu,45.00,70,72,75,87,-90,-91,75,87,162
 2023 IWF World Championships,2023-09-04,45 kg Women,GARCIA RINCON Marta,44.91,69,71,-73,81,-84,84,71,84,155
@@ -312,7 +375,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 IWF World Championships,2023-09-04,49 kg Women,REICHARDT Hayley Marie,49.00,82,-85,-85,107,-110,-110,82,107,189
 2023 IWF World Championships,2023-09-04,49 kg Women,LIN Cheng Jing,48.95,80,-82,82,101,104,-106,82,104,186
 2023 IWF World Championships,2023-09-04,49 kg Women,HERNANDEZ VIEYRA Yesica Yadira,49.00,78,80,-82,99,103,-106,80,103,183
-2023 IWF World Championships,2023-09-04,49 kg Women,FANG Wan-Ling,48.94,70,75,80,95,100,105,80,105,185
+2023 IWF World Championships,2023-09-04,49 kg Women,FANG Wan Ling,48.94,70,75,80,95,100,105,80,105,185
 2023 IWF World Championships,2023-09-04,49 kg Women,SUZUKI Rira,48.63,78,80,-82,-103,103,107,80,107,187
 2023 IWF World Championships,2023-09-04,49 kg Women,ORTIZ Dahiana,48.93,-79,79,-82,100,-105,-105,79,100,179
 2023 IWF World Championships,2023-09-04,49 kg Women,SHIN Jaegyeong,48.90,-78,-78,79,-97,-97,97,79,97,176
@@ -330,7 +393,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 IWF World Championships,2023-09-04,49 kg Women,DRZAZGA OLIWIA Weronika,48.98,70,72,-74,-93,93,-97,72,93,165
 2023 IWF World Championships,2023-09-04,49 kg Women,HARIROH Siti Nafisatul,48.40,70,-73,-74,90,-93,93,70,93,163
 2023 IWF World Championships,2023-09-04,49 kg Women,SUKCHAROEN Thanyathon,48.22,70,-75,0,0,0,0,70,0,0
-2023 IWF World Championships,2023-09-04,49 kg Women,JOMABAYEVA Yulduz,49.00,-70,70,-73,91,-94,-95,70,91,161
+2023 IWF World Championships,2023-09-04,49 kg Women,DZHUMABAYEVA Yulduz,49.00,-70,70,-73,91,-94,-95,70,91,161
 2023 IWF World Championships,2023-09-04,49 kg Women,TOUA Loa Dika,49.00,69,-71,-71,92,-95,-95,69,92,161
 2023 IWF World Championships,2023-09-04,49 kg Women,LANDEROS LOPEZ Katherine Ignacia,49.00,66,69,-71,86,89,91,69,91,160
 2023 IWF World Championships,2023-09-04,49 kg Women,ABDYKALYKOVA Ainur,49.00,62,65,68,78,83,-86,68,83,151
@@ -369,11 +432,11 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 IWF World Championships,2023-09-04,55 kg Women,PASSOS DE OLIVEIRA PONTES Margarida,54.08,60,-65,-66,80,85,-88,60,85,145
 2023 IWF World Championships,2023-09-04,55 kg Women,AAMERI Hanan Khaled S,51.52,54,-58,58,-70,70,-77,58,70,128
 2023 IWF World Championships,2023-09-04,55 kg Women,SIDEK Liyana Safiah,52.76,53,55,-58,68,-71,71,55,71,126
-2023 IWF World Championships,2023-09-04,55 kg Women,SOROKHAIBAM Bindyarani Devi,54.85,0,0,0,0,0,0,0,0,0
-2023 IWF World Championships,2023-09-04,55 kg Women,GURUNG Tika Maya,54.03,-62,-62,-62,-80,80,-86,0,80,0
-2023 IWF World Championships,2023-09-04,55 kg Women,HARVEY Rose,54.92,-81,-81,-81,100,103,-105,0,103,0
-2023 IWF World Championships,2023-09-04,55 kg Women,SANIKUN Tanasan,51.48,-85,0,0,0,0,0,0,0,0
 2023 IWF World Championships,2023-09-04,55 kg Women,YAYLYAN Izabella,55.00,-85,0,0,0,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,55 kg Women,SANIKUN Tanasan,51.48,-85,0,0,0,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,55 kg Women,HARVEY Rose,54.92,-81,-81,-81,100,103,-105,0,103,0
+2023 IWF World Championships,2023-09-04,55 kg Women,GURUNG Tika Maya,54.03,-62,-62,-62,-80,80,-86,0,80,0
+2023 IWF World Championships,2023-09-04,55 kg Women,SOROKHAIBAM Bindyarani Devi,54.85,0,0,0,0,0,0,0,0,0
 2023 IWF World Championships,2023-09-04,59 kg Women,LUO Shifang,59.00,101,104,107,128,133,136,107,136,243
 2023 IWF World Championships,2023-09-04,59 kg Women,KONOTOP Kamila,59.00,103,-106,106,126,130,-135,106,130,236
 2023 IWF World Championships,2023-09-04,59 kg Women,PEI Xinyi,59.00,98,-102,102,127,-130,130,102,130,232
@@ -391,7 +454,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 IWF World Championships,2023-09-04,59 kg Women,VENEGAS VALERA Anyelin Maria,58.91,-95,95,-98,120,124,-126,95,124,219
 2023 IWF World Championships,2023-09-04,59 kg Women,MAGISTRIS Lucrezia,59.00,95,-100,-100,-112,112,-117,95,112,207
 2023 IWF World Championships,2023-09-04,59 kg Women,MORAIS RIBEIRO DE SOUZA Eduarda,58.94,90,94,-98,-115,116,120,94,120,214
-2023 IWF World Championships,2023-09-04,59 kg Women,RIGAUD Garance Ariette Ouiza,57.82,91,94,-96,-111,111,-114,94,111,205
+2023 IWF World Championships,2023-09-04,59 kg Women,RIGAUD Garance,57.82,91,94,-96,-111,111,-114,94,111,205
 2023 IWF World Championships,2023-09-04,59 kg Women,ANDOH Mikiko,59.00,92,94,-96,122,-124,-124,94,122,216
 2023 IWF World Championships,2023-09-04,59 kg Women,SASSER Mathlynn Langtor,58.66,90,-94,94,112,-116,116,94,116,210
 2023 IWF World Championships,2023-09-04,59 kg Women,GUILLEN VAZQUEZ Daphne,59.00,92,94,-96,118,121,-124,94,121,215
@@ -419,13 +482,13 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 IWF World Championships,2023-09-04,59 kg Women,CAMACHO MONTEIRO Anabela,57.34,-70,-73,73,85,-90,-92,73,85,158
 2023 IWF World Championships,2023-09-04,59 kg Women,ALSHEHRI Alanoud Muadhah A,58.73,68,-71,-73,78,81,-84,68,81,149
 2023 IWF World Championships,2023-09-04,59 kg Women,AL KAHAWAHER Fatemah Abdulmanam A,58.57,58,-61,61,78,81,84,61,84,145
-2023 IWF World Championships,2023-09-04,59 kg Women,RODRIGUEZ GOMEZ Genesis Lourdes,57.29,-94,-94,-94,-114,114,-117,0,114,0
-2023 IWF World Championships,2023-09-04,59 kg Women,BELKHIR Ghofrane,55.71,-90,-90,-90,0,0,0,0,0,0
-2023 IWF World Championships,2023-09-04,59 kg Women,BOLDBAATAR Khongorzul,58.50,-85,-85,-85,-108,-108,-111,0,0,0
-2023 IWF World Championships,2023-09-04,59 kg Women,GEORGOPOULOU Sofia,59.00,-89,-90,-90,0,0,0,0,0,0
-2023 IWF World Championships,2023-09-04,59 kg Women,GUZMAN PEREZ Gilyeliz Saned,58.93,0,0,0,0,0,0,0,0,0
-2023 IWF World Championships,2023-09-04,59 kg Women,KARDARA Maria,59.00,0,0,0,0,0,0,0,0,0
 2023 IWF World Championships,2023-09-04,59 kg Women,CHARRON Maude G,58.91,0,0,0,0,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,59 kg Women,KARDARA Maria,59.00,0,0,0,0,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,59 kg Women,GUZMAN PEREZ Gilyeliz Saned,58.93,0,0,0,0,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,59 kg Women,GEORGOPOULOU Sofia,59.00,-89,-90,-90,0,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,59 kg Women,BOLDBAATAR Khongorzul,58.50,-85,-85,-85,-108,-108,-111,0,0,0
+2023 IWF World Championships,2023-09-04,59 kg Women,BELKHIR Ghofrane,55.71,-90,-90,-90,0,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,59 kg Women,RODRIGUEZ GOMEZ Genesis Lourdes,57.29,-94,-94,-94,-114,114,-117,0,114,0
 2023 IWF World Championships,2023-09-04,64 kg Women,LLAMOSA MOSQUERA Nathalia,63.95,99,101,-103,118,121,122,101,122,223
 2023 IWF World Championships,2023-09-04,64 kg Women,RODRIGUEZ QUINTERO Julieth Alejandra,63.67,99,101,-103,-119,119,-122,101,119,220
 2023 IWF World Championships,2023-09-04,64 kg Women,AYODELE Ruth Imoleayo,59.97,-95,95,100,-117,117,122,100,122,222
@@ -490,13 +553,13 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 IWF World Championships,2023-09-04,71 kg Women,EZE Joy Ogbonne,71.00,-100,100,-105,122,127,-132,100,127,227
 2023 IWF World Championships,2023-09-04,71 kg Women,ASHWORTH Alexis,71.00,100,-103,-103,125,-128,-128,100,125,225
 2023 IWF World Championships,2023-09-04,71 kg Women,MUN Minhee,67.57,95,100,-103,-123,123,-128,100,123,223
-2023 IWF World Championships,2023-09-04,71 kg Women,SARNO PALOMAR Vanessa,70.46,-100,100,-104,0,0,0,100,0,0
+2023 IWF World Championships,2023-09-04,71 kg Women,SARNO Vanessa,70.46,-100,100,-104,0,0,0,100,0,0
 2023 IWF World Championships,2023-09-04,71 kg Women,PEINADO MEJIAS Laura Yenireet,70.96,95,-99,99,-115,-115,-115,99,0,0
 2023 IWF World Championships,2023-09-04,71 kg Women,JARQUIN GONZALEZ Jessica,70.20,95,98,-101,122,127,-130,98,127,225
 2023 IWF World Championships,2023-09-04,71 kg Women,SEGAWA Runa,71.00,-94,94,98,-123,129,-131,98,129,227
 2023 IWF World Championships,2023-09-04,71 kg Women,DAVIES Sarah,70.90,98,-101,-101,-124,-125,-125,98,0,0
 2023 IWF World Championships,2023-09-04,71 kg Women,YLISOINI Anna Janette Tellervo,70.58,98,-101,-101,114,117,120,98,120,218
-2023 IWF World Championships,2023-09-04,71 kg Women,NICHELE Jacqueline,70.20,91,94,97,-121,-121,-121,97,0,0
+2023 IWF World Championships,2023-09-04,71 kg Women,NICHELE Jacqueline Mary,70.20,91,94,97,-121,-121,-121,97,0,0
 2023 IWF World Championships,2023-09-04,71 kg Women,GOLD Celia Henna,70.25,93,97,-100,122,-127,-128,97,122,219
 2023 IWF World Championships,2023-09-04,71 kg Women,MACROHON Kristel,70.64,97,-100,-101,123,-128,128,97,128,225
 2023 IWF World Championships,2023-09-04,71 kg Women,LENT Ketty,70.12,87,92,96,108,114,-121,96,114,210
@@ -517,13 +580,13 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 IWF World Championships,2023-09-04,71 kg Women,FATTOUH Mahassen Hala,70.08,-85,85,-90,105,110,115,85,115,200
 2023 IWF World Championships,2023-09-04,71 kg Women,GOMBOSUREN Enerel,70.91,-83,83,-86,108,-111,-112,83,108,191
 2023 IWF World Championships,2023-09-04,71 kg Women,BARRY Gillian,69.68,-80,80,-83,102,105,107,80,107,187
-2023 IWF World Championships,2023-09-04,71 kg Women,ENOCK Rachael Achieng,69.26,70,74,77,80,85,-88,77,85,162
+2023 IWF World Championships,2023-09-04,71 kg Women,ENOCK Rachel Achieng,69.26,70,74,77,80,85,-88,77,85,162
 2023 IWF World Championships,2023-09-04,71 kg Women,ALMADANI Mai Ahmad Essa Ahmad,69.18,-70,71,73,85,-88,-88,73,85,158
+2023 IWF World Championships,2023-09-04,71 kg Women,GUNGOR Nuray,71.00,-100,-100,-101,118,121,-124,0,121,0
 2023 IWF World Championships,2023-09-04,71 kg Women,ANGGI Restu,68.63,-90,-90,-90,-115,115,120,0,120,0
 2023 IWF World Championships,2023-09-04,71 kg Women,TOMA Loredana-Elena,67.14,0,0,0,0,0,0,0,0,0
 2023 IWF World Championships,2023-09-04,71 kg Women,UEPA Maximina,70.80,0,0,0,0,0,0,0,0,0
 2023 IWF World Championships,2023-09-04,71 kg Women,MARACH Monika,69.11,0,0,0,0,0,0,0,0,0
-2023 IWF World Championships,2023-09-04,71 kg Women,GUNGOR Nuray,71.00,-100,-100,-101,118,121,-124,0,121,0
 2023 IWF World Championships,2023-09-04,76 kg Women,AHMED Sara Samir Elsayed Mohamed,75.06,108,0,0,138,0,0,108,138,246
 2023 IWF World Championships,2023-09-04,76 kg Women,KIM Suhyeon,75.35,104,106,-109,-133,133,-137,106,133,239
 2023 IWF World Championships,2023-09-04,76 kg Women,ESCOBAR AGUIRRE Hellen Andrea,76.00,-103,103,106,132,136,-140,106,136,242
@@ -548,9 +611,9 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 IWF World Championships,2023-09-04,76 kg Women,ALFAHAD Abrar M A M,76.00,75,79,-82,102,-105,105,79,105,184
 2023 IWF World Championships,2023-09-04,76 kg Women,GURYEVA Polina,76.00,73,76,-79,98,-101,102,76,102,178
 2023 IWF World Championships,2023-09-04,76 kg Women,ALQURASHI Layan Hassan M,73.74,-55,55,-61,65,70,73,55,73,128
-2023 IWF World Championships,2023-09-04,76 kg Women,FEGUE Marie Josephe,72.38,0,0,0,0,0,0,0,0,0
-2023 IWF World Championships,2023-09-04,76 kg Women,KADYROVA Gulnabat,72.05,0,0,0,0,0,0,0,0,0
 2023 IWF World Championships,2023-09-04,76 kg Women,RAZZAGHI Elaheh,75.54,-90,-91,-93,113,-118,119,0,119,0
+2023 IWF World Championships,2023-09-04,76 kg Women,KADYROVA Gulnabat,72.05,0,0,0,0,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,76 kg Women,FEGUE Marie Josephe,72.38,0,0,0,0,0,0,0,0,0
 2023 IWF World Championships,2023-09-04,81 kg Women,WANG Zhouyu,81.00,117,122,-124,147,155,0,122,155,277
 2023 IWF World Championships,2023-09-04,81 kg Women,LIANG Xiaomei,81.00,115,120,122,150,156,159,122,159,281
 2023 IWF World Championships,2023-09-04,81 kg Women,DAJOMES BARRERA Neisi Patricia,79.31,115,-118,-120,0,0,0,115,0,0
@@ -574,7 +637,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 IWF World Championships,2023-09-04,81 kg Women,HOSSEINI Seyedehelham,80.18,96,-101,-103,-123,125,-130,96,125,221
 2023 IWF World Championships,2023-09-04,81 kg Women,GYURJYAN Liana,81.00,93,-96,96,127,-130,-130,96,127,223
 2023 IWF World Championships,2023-09-04,81 kg Women,YENIGUN Sara,80.94,95,-100,-100,125,-128,128,95,128,223
-2023 IWF World Championships,2023-09-04,81 kg Women,RONN Ida Ingalill,80.80,-95,-95,95,-120,-120,120,95,120,215
+2023 IWF World Championships,2023-09-04,81 kg Women,ROENN Ida Ingalill,80.80,-95,-95,95,-120,-120,120,95,120,215
 2023 IWF World Championships,2023-09-04,81 kg Women,KHAIPANDUNG Siriyakorn,77.08,93,0,0,0,0,0,93,0,0
 2023 IWF World Championships,2023-09-04,81 kg Women,PETERSON Eliise,80.80,88,91,-93,107,-111,0,91,107,198
 2023 IWF World Championships,2023-09-04,81 kg Women,MUNKHJANTSAN Ankhtsetseg,81.00,90,0,0,0,0,0,90,0,0
@@ -582,10 +645,10 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 IWF World Championships,2023-09-04,81 kg Women,CHIRINOS LEON Dayana Aracelis,80.69,75,85,-90,110,120,127,85,127,212
 2023 IWF World Championships,2023-09-04,81 kg Women,ALBULOUSHI Fatemah M A M J,80.02,61,65,67,81,-86,-88,67,81,148
 2023 IWF World Championships,2023-09-04,81 kg Women,KHORMI Nujud Hussain Y,78.50,60,-65,66,80,-85,-86,66,80,146
-2023 IWF World Championships,2023-09-04,81 kg Women,HANAN FAHD Naji,76.87,55,60,-63,70,75,78,60,78,138
-2023 IWF World Championships,2023-09-04,81 kg Women,WHITING Hayley Elizabeth,80.56,-94,-94,-94,-114,-114,115,0,115,0
+2023 IWF World Championships,2023-09-04,81 kg Women,FAHD NAJI BAQASS Hanan,76.87,55,60,-63,70,75,78,60,78,138
 2023 IWF World Championships,2023-09-04,81 kg Women,SALAZAR ARCE Tamara Yajaira,80.40,0,0,0,0,0,0,0,0,0
 2023 IWF World Championships,2023-09-04,81 kg Women,MEDINA ROCA Ayamey Damiana,80.56,0,0,0,0,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,81 kg Women,WHITING Hayley Elizabeth,80.56,-94,-94,-94,-114,-114,115,0,115,0
 2023 IWF World Championships,2023-09-04,87 kg Women,LO Ying-Yuan,84.64,108,110,112,128,-133,133,112,133,245
 2023 IWF World Championships,2023-09-04,87 kg Women,JUNG Aram,86.64,-103,103,107,-134,134,-139,107,134,241
 2023 IWF World Championships,2023-09-04,87 kg Women,MANIEVSKA Anastasiia,86.19,106,-108,-108,0,0,0,106,0,0
@@ -601,5 +664,30 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 IWF World Championships,2023-09-04,87 kg Women,ZEMBOVA Lenka,85.64,90,-93,-93,109,112,-115,90,112,202
 2023 IWF World Championships,2023-09-04,87 kg Women,PRITCHARD LOLO Ajah,86.70,85,-90,-90,105,-110,111,85,111,196
 2023 IWF World Championships,2023-09-04,87 kg Women,SMIGOVA Eliska,84.73,-83,83,-86,103,107,110,83,110,193
-2023 IWF World Championships,2023-09-04,87 kg Women,ALMEIDA DA SILVA Jessica Nanci,86.65,-88,0,0,0,0,0,0,0,0
 2023 IWF World Championships,2023-09-04,87 kg Women,KOANDA Solfrid Eila Amena,85.69,-115,-115,-115,140,150,156,0,156,0
+2023 IWF World Championships,2023-09-04,87 kg Women,ALMEIDA DA SILVA Jessica Nanci,86.65,-88,0,0,0,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,+87 kg Women,PARK Hyejeong,135.63,120,124,-131,-158,158,165,124,165,289
+2023 IWF World Championships,2023-09-04,+87 kg Women,SON Younghee,114.95,115,-121,122,-157,0,0,122,0,0
+2023 IWF World Championships,2023-09-04,+87 kg Women,AYOVI CABEZAS Lisseth Betzaida,133.76,111,116,121,146,150,155,121,155,276
+2023 IWF World Championships,2023-09-04,+87 kg Women,ABBAS Halima Abdelazim Sedky,141.13,-120,120,-123,148,152,-157,120,152,272
+2023 IWF World Championships,2023-09-04,+87 kg Women,ROBLES Sarah Elizabeth,141.77,117,-121,-123,145,-150,150,117,150,267
+2023 IWF World Championships,2023-09-04,+87 kg Women,THEISEN LAPPEN Mary Anne,132.28,-117,117,-121,156,160,-166,117,160,277
+2023 IWF World Championships,2023-09-04,+87 kg Women,SANTANA PEGUERO Crismery Dominga,106.42,110,114,-116,136,141,145,114,145,259
+2023 IWF World Championships,2023-09-04,+87 kg Women,JABBOROVA Tursunoy,103.20,110,-114,-116,-135,135,141,110,141,251
+2023 IWF World Championships,2023-09-04,+87 kg Women,WANG Ling Chen,107.78,110,-114,-114,140,-143,143,110,143,253
+2023 IWF World Championships,2023-09-04,+87 kg Women,AKMAL Nurul,125.74,-105,105,110,-145,146,-150,110,146,256
+2023 IWF World Championships,2023-09-04,+87 kg Women,SIPAIA Iuniarra,138.78,105,110,-114,150,154,-157,110,154,264
+2023 IWF World Championships,2023-09-04,+87 kg Women,SUREN Tuana,96.15,102,106,-109,134,137,-140,106,137,243
+2023 IWF World Championships,2023-09-04,+87 kg Women,PEREZ REVERON Naryury Alexandra,100.18,95,100,105,120,130,135,105,135,240
+2023 IWF World Championships,2023-09-04,+87 kg Women,JUSTINO DE LIMA Taiane,125.72,98,-102,102,132,137,-141,102,137,239
+2023 IWF World Championships,2023-09-04,+87 kg Women,NIMO Susana,100.48,93,-98,101,-115,116,-120,101,116,217
+2023 IWF World Championships,2023-09-04,+87 kg Women,UCELO MARROQUIN Scarleth Vanessa,106.40,85,90,-92,-118,-118,118,90,118,208
+2023 IWF World Championships,2023-09-04,+87 kg Women,KRALOVA Tereza,103.08,-85,85,-90,106,112,117,85,117,202
+2023 IWF World Championships,2023-09-04,+87 kg Women,AGBAH-HUGHES Marie Korkor,125.46,60,64,67,85,-91,-93,67,85,152
+2023 IWF World Championships,2023-09-04,+87 kg Women,ALHARBI Rana Mohammed S,94.09,48,52,-55,68,-72,74,52,74,126
+2023 IWF World Championships,2023-09-04,+87 kg Women,CAMPBELL Emily Jade,127.03,0,0,0,0,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,+87 kg Women,FISCHER Sarah,97.95,0,0,0,0,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,+87 kg Women,CHAIDEE Duangaksorn,113.76,0,0,0,0,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,+87 kg Women,ESPINOSA Yaniuska Isabel,107.63,-105,-105,-105,-130,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,+87 kg Women,LI Wenwen,148.90,-130,-130,0,0,0,0,0,0,0
+2023 IWF World Championships,2023-09-04,+87 kg Women,HOTFRID Anastasiia,97.68,0,0,0,0,0,0,0,0,0

@@ -23,7 +23,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 19th Asian Games,2023-09-30,67 kg Men,TAIIROV Elzar,66.91,110,-115,-115,132,137,-141,110,137,247
 19th Asian Games,2023-09-30,67 kg Men,ULAANTSETSEG Amarbayar,66.77,114,118,122,-141,141,-145,122,141,263
 19th Asian Games,2023-09-30,67 kg Men,KHREBTOV Petr,67.00,125,-130,-130,-150,150,-155,125,150,275
-19th Asian Games,2023-09-30,67 kg Men,AL BUSAIDI Elyas Tamim Shuwaired,66.27,118,-122,-122,147,152,157,118,157,275
+19th Asian Games,2023-09-30,67 kg Men,AL BUSAIDI Elyas Tamim,66.27,118,-122,-122,147,152,157,118,157,275
 19th Asian Games,2023-09-30,67 kg Men,MURATBEK UULU Ishimbek,66.79,110,115,119,150,155,158,119,158,277
 19th Asian Games,2023-09-30,67 kg Men,RASHIDOV Bunyad,66.29,140,-144,-145,158,-163,-163,140,158,298
 19th Asian Games,2023-09-30,67 kg Men,YOKUBOV Doston,67.00,133,-137,137,174,177,179,137,179,316
@@ -83,7 +83,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 19th Asian Games,2023-09-30,109 kg Men,ALAIFURI Salwan Jasim Abbood,108.00,-175,-175,175,-211,-211,-217,175,0,0
 19th Asian Games,2023-09-30,109 kg Men,DEHDAR Reza,101.00,-169,-170,-175,0,0,0,0,0,0
 19th Asian Games,2023-09-30,109 kg Men,JIN Yunseong,104.00,-170,-170,-170,0,0,0,0,0,0
-19th Asian Games,2023-09-30,109 kg Men,DAVRANBEK Hasanbayev,99.20,-175,-178,-178,0,0,0,0,0,0
+19th Asian Games,2023-09-30,109 kg Men,HASANBAYEV Davranbek,99.20,-175,-178,-178,0,0,0,0,0,0
 19th Asian Games,2023-09-30,109 kg Men,JANG Yeonhak,104.00,-175,175,180,-210,210,-216,180,210,390
 19th Asian Games,2023-09-30,109 kg Men,NURUDINOV Ruslan,109.00,-175,175,-178,216,0,0,175,216,391
 19th Asian Games,2023-09-30,109 kg Men,DJURAEV Akbar,109.00,180,184,189,-220,222,228,189,228,417
@@ -95,7 +95,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 19th Asian Games,2023-09-30,+109 kg Men,LEE Jaesang,135.25,170,177,-182,-220,223,0,177,223,400
 19th Asian Games,2023-09-30,+109 kg Men,DJANGABAEV Rustam,167.10,185,-190,190,226,233,0,190,233,423
 19th Asian Games,2023-09-30,+109 kg Men,DAVOUDI Ali,174.12,192,-200,-200,234,-246,0,192,234,426
-19th Asian Games,2023-09-30,+109 kg Men,MINASYAN Gor Tigran A,153.68,205,212,0,235,245,0,212,245,457
+19th Asian Games,2023-09-30,+109 kg Men,MINASYAN Gor Tigran A.,153.68,205,212,0,235,245,0,212,245,457
 19th Asian Games,2023-09-30,+109 kg Men,SHARIFIKELARIJANI Ayat,158.13,185,-193,-193,0,0,0,185,0,0
 19th Asian Games,2023-09-30,49 kg Women,RI Song Gum,49.00,-90,92,-95,117,122,124,92,124,216
 19th Asian Games,2023-09-30,49 kg Women,SUZUKI Rira,48.70,0,0,0,0,0,0,0,0,0
@@ -153,7 +153,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 19th Asian Games,2023-09-30,64 kg Women,RIM Un Sim,64.00,105,111,-118,135,-140,140,111,140,251
 19th Asian Games,2023-09-30,76 kg Women,MELNICHENKO Tatiana,75.19,90,95,-100,115,-121,123,95,123,218
 19th Asian Games,2023-09-30,76 kg Women,OMAROVA Aisha,75.07,93,-97,98,119,123,-126,98,123,221
-19th Asian Games,2023-09-30,76 kg Women,SARNO PALOMAR Vanessa,74.03,100,105,-108,130,-136,-136,105,130,235
+19th Asian Games,2023-09-30,76 kg Women,SARNO Vanessa,74.03,100,105,-108,130,-136,-136,105,130,235
 19th Asian Games,2023-09-30,76 kg Women,JONG Chun Hui,69.57,113,117,-119,135,143,149,117,149,266
 19th Asian Games,2023-09-30,76 kg Women,SONG Kuk Hyang,71.73,-117,117,-121,140,148,150,117,150,267
 19th Asian Games,2023-09-30,76 kg Women,NURLYBEKOVA Aray,75.87,94,-98,98,115,-123,-125,98,115,213

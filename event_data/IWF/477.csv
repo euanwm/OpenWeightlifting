@@ -29,8 +29,8 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 12th All African Games,2019-08-24,73 kg Men,NTSINYI Machachamise,72.60,90,-96,-100,-115,115,123,90,123,213
 12th All African Games,2019-08-24,73 kg Men,IBRAHIM Moustafa Wahid Shaaban,73.00,138,-141,-143,175,-187,-189,0,0,0
 12th All African Games,2019-08-24,81 kg Men,MAHMOUD Mohamed Ihab Youssef Ahmed,81.00,155,160,0,190,-201,0,160,190,350
-12th All African Games,2019-08-24,81 kg Men,BAHLOUL Ramzi,80.00,142,147,-152,176,-181,-181,147,176,323
 12th All African Games,2019-08-24,81 kg Men,SELDUM Mamdum Dickson,80.70,-140,140,146,170,-177,178,146,178,324
+12th All African Games,2019-08-24,81 kg Men,BAHLOUL Ramzi,80.00,142,147,-152,176,-181,-181,147,176,323
 12th All African Games,2019-08-24,81 kg Men,ELSAYED Ahmed Adel Mohamed,80.80,-140,140,145,180,-190,0,145,180,325
 12th All African Games,2019-08-24,81 kg Men,YANOU KETCHANKE Jean Baptiste,80.60,127,132,137,166,171,-176,137,171,308
 12th All African Games,2019-08-24,81 kg Men,NJOYA Ahmed Valdy,80.90,130,-135,136,170,175,-180,136,175,311
@@ -41,7 +41,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 12th All African Games,2019-08-24,81 kg Men,AMEUR Mohamed Amine,77.00,115,120,-125,130,140,-150,120,140,260
 12th All African Games,2019-08-24,81 kg Men,ZAID Mohamed,79.40,-95,-95,-95,-110,-110,0,0,0,0
 12th All African Games,2019-08-24,89 kg Men,ABOKAHLA Karim Ibrahim Ibrahim Ali,89.00,152,160,164,185,195,201,164,201,365
-12th All African Games,2019-08-24,89 kg Men,DESMOND Akano,88.50,145,-149,149,175,180,-182,149,180,329
+12th All African Games,2019-08-24,89 kg Men,AKANO Desmond,88.50,145,-149,149,175,180,-182,149,180,329
 12th All African Games,2019-08-24,89 kg Men,AMOAH Christian,87.90,143,148,-150,175,180,-183,148,180,328
 12th All African Games,2019-08-24,89 kg Men,ABUZRIBA Ahmed Mustafa Ahmed,88.60,147,-149,-150,178,-181,-182,147,178,325
 12th All African Games,2019-08-24,89 kg Men,TLILI Wajih,88.50,146,-149,-150,-172,-172,172,146,172,318
@@ -90,7 +90,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 12th All African Games,2019-08-24,55 kg Women,BENMILOUD Meryem Nada,55.00,62,-66,-67,82,84,86,62,86,148
 12th All African Games,2019-08-24,55 kg Women,SABIHI Maryem,51.70,50,-60,61,71,80,-85,61,80,141
 12th All African Games,2019-08-24,55 kg Women,DIK Soumia,54.70,60,-65,-65,80,83,-85,60,83,143
-12th All African Games,2019-08-24,59 kg Women,FOLASHADE LAWAL Rafiatu,57.50,90,93,-95,111,115,117,93,117,210
+12th All African Games,2019-08-24,59 kg Women,LAWAL Rafiatu Folashade,57.50,90,93,-95,111,115,117,93,117,210
 12th All African Games,2019-08-24,59 kg Women,IBRAHIM Basma Emad Gouda Mohamed,58.50,84,-88,88,110,114,-116,88,114,202
 12th All African Games,2019-08-24,59 kg Women,RAHMOUNI Chaima,58.10,83,87,-89,102,108,-112,87,108,195
 12th All African Games,2019-08-24,59 kg Women,TALJAARD Johanni,58.90,80,83,87,-101,-101,-103,87,0,0
@@ -100,7 +100,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 12th All African Games,2019-08-24,59 kg Women,LANGAT Winny Chepngeno,59.00,55,-63,64,75,80,-83,64,80,144
 12th All African Games,2019-08-24,59 kg Women,MESSOUK Khadija,58.00,55,-60,63,75,80,-85,63,80,143
 12th All African Games,2019-08-24,59 kg Women,ELBADAOUY Souad,59.00,60,-65,-66,75,82,-87,60,82,142
-12th All African Games,2019-08-24,64 kg Women,OGBONNE EZE Joy,63.50,-95,95,97,111,116,121,97,121,218
+12th All African Games,2019-08-24,64 kg Women,EZE Joy Ogbonne,63.50,-95,95,97,111,116,121,97,121,218
 12th All African Games,2019-08-24,64 kg Women,AHMED Esraa Elsayed Rashed Elsayed,63.00,94,96,-98,110,113,-118,96,113,209
 12th All African Games,2019-08-24,64 kg Women,SAID Neama Said Fahmi,62.80,90,-95,-95,110,117,-122,90,117,207
 12th All African Games,2019-08-24,64 kg Women,PRETORIUS Mona,63.50,80,83,86,103,106,-111,86,106,192
@@ -114,7 +114,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 12th All African Games,2019-08-24,71 kg Women,CHERRARA Ikram,65.00,-81,81,-83,100,-106,-106,81,100,181
 12th All African Games,2019-08-24,71 kg Women,HAMMOU Kheira,69.40,71,75,77,92,-96,-97,77,92,169
 12th All African Games,2019-08-24,71 kg Women,LARTI Hasnae,69.30,70,76,-79,83,91,-95,76,91,167
-12th All African Games,2019-08-24,71 kg Women,NYIRO Wilkister,69.80,60,65,-70,75,78,-81,65,78,143
+12th All African Games,2019-08-24,71 kg Women,NYIRO Wilkinstar Nadzuwah,69.80,60,65,-70,75,78,-81,65,78,143
 12th All African Games,2019-08-24,71 kg Women,HALBANE Zahira,65.60,56,61,-65,75,-80,-83,61,75,136
 12th All African Games,2019-08-24,71 kg Women,TSOSANE Makoena,70.40,50,-57,-60,55,60,65,50,65,115
 12th All African Games,2019-08-24,76 kg Women,EYENGA MBOOSI Jeanne Gaelle,74.70,83,86,88,102,107,-110,88,107,195
@@ -123,9 +123,9 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 12th All African Games,2019-08-24,76 kg Women,KHOJALI Zikryat,74.10,45,-50,-50,-60,-60,60,45,60,105
 12th All African Games,2019-08-24,76 kg Women,AHMED Sara Samir Elsayed Mohamed,75.00,105,-111,-115,133,-141,0,0,0,0
 12th All African Games,2019-08-24,81 kg Women,MUSA Fatima Otiameh,77.10,91,95,97,115,118,122,97,122,219
-12th All African Games,2019-08-24,81 kg Women,FARAG Salma Ahmed Mahmoud Awad,80.80,92,96,-98,112,117,120,96,120,216
 12th All African Games,2019-08-24,81 kg Women,TAIWO Liadi,77.30,90,93,95,112,117,121,95,121,216
 12th All African Games,2019-08-24,81 kg Women,DJIFACK MA-ATEMKEN ZOMGOUA Rayssa,80.20,85,90,-94,111,-116,-118,90,111,201
+12th All African Games,2019-08-24,81 kg Women,FARAG Salma Ahmed Mahmoud Awad,80.80,92,96,-98,112,117,120,0,0,0
 12th All African Games,2019-08-24,87 kg Women,MEUKEUGNI NOUMBISSI Clementine,86.00,96,101,-104,121,126,-130,101,126,227
 12th All African Games,2019-08-24,87 kg Women,HIRECH Bouchra Fatima Zohra,81.30,82,86,-90,102,107,110,86,110,196
 12th All African Games,2019-08-24,87 kg Women,OUASS Samira,81.90,75,-83,-83,-95,-95,95,75,95,170

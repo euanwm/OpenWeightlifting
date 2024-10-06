@@ -1,5 +1,5 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-Pan-American Junior Championships,2022-10-19,55 kg Men,ARRIETA Daniel,54.95,100,-104,105,125,-131,132,105,132,237
+Pan-American Junior Championships,2022-10-19,55 kg Men,ARRIETA QUEJADA Daniel Alejandro,54.95,100,-104,105,125,-131,132,105,132,237
 Pan-American Junior Championships,2022-10-19,55 kg Men,CHHUM Gabriel,54.90,100,-104,104,-130,130,134,104,134,238
 Pan-American Junior Championships,2022-10-19,55 kg Men,FUENTES Diego,54.60,93,96,99,113,116,-119,99,116,215
 Pan-American Junior Championships,2022-10-19,55 kg Men,BARCO Juan,54.60,93,97,-100,122,-127,-127,97,122,219
@@ -7,7 +7,7 @@ Pan-American Junior Championships,2022-10-19,55 kg Men,TORRES Benjamin,54.70,90,
 Pan-American Junior Championships,2022-10-19,55 kg Men,RIOS CHUMBE Nol Jermis,54.40,90,95,-98,112,117,-119,95,117,212
 Pan-American Junior Championships,2022-10-19,55 kg Men,DE LEON Emanuel,54.55,77,82,-85,103,108,-112,82,108,190
 Pan-American Junior Championships,2022-10-19,61 kg Men,MORRIS Hampton,60.15,116,120,123,150,157,163,123,163,286
-Pan-American Junior Championships,2022-10-19,61 kg Men,Daniel CAICEDO Daniel CAICEDO,60.55,116,119,122,0,0,0,122,0,0
+Pan-American Junior Championships,2022-10-19,61 kg Men,CAICEDO SOLIS Daniel Stiven,60.55,116,119,122,0,0,0,122,0,0
 Pan-American Junior Championships,2022-10-19,61 kg Men,RIVERA GAMEZ Abraham Jose,60.45,105,109,-111,134,138,-140,109,138,247
 Pan-American Junior Championships,2022-10-19,61 kg Men,CARRAZCO CETZ Herseleid Antonio,60.25,-109,109,-111,137,139,141,109,141,250
 Pan-American Junior Championships,2022-10-19,61 kg Men,ZURITA VALLEJO Benjamin Jose,60.25,105,108,-111,133,137,140,108,140,248
@@ -15,17 +15,17 @@ Pan-American Junior Championships,2022-10-19,61 kg Men,GARCIA Armando,60.50,-103
 Pan-American Junior Championships,2022-10-19,61 kg Men,ARANIS Benjamin,59.88,92,96,100,114,118,120,100,120,220
 Pan-American Junior Championships,2022-10-19,61 kg Men,CRISANTO Bray,60.50,95,98,-101,122,126,130,98,130,228
 Pan-American Junior Championships,2022-10-19,61 kg Men,TUN DZIB Adolfo Angel,56.55,-92,92,96,135,-139,-140,96,135,231
-Pan-American Junior Championships,2022-10-19,61 kg Men,MALDONADO Fabian,59.90,95,-100,-101,110,-120,-120,95,110,205
+Pan-American Junior Championships,2022-10-19,61 kg Men,MALDONADO CASTRO Fabian Edill,59.90,95,-100,-101,110,-120,-120,95,110,205
 Pan-American Junior Championships,2022-10-19,61 kg Men,ADANAQUE SANDOVAL Juan Jose,60.00,-93,-93,93,115,-119,-119,93,115,208
 Pan-American Junior Championships,2022-10-19,67 kg Men,OLIVARES Sebastian,66.35,120,125,128,146,150,154,128,154,282
 Pan-American Junior Championships,2022-10-19,67 kg Men,CANO Luis,66.45,120,-125,-125,150,155,161,120,161,281
 Pan-American Junior Championships,2022-10-19,67 kg Men,RIVAS Endy,66.10,115,-119,-119,145,150,-154,115,150,265
 Pan-American Junior Championships,2022-10-19,67 kg Men,PECH GOMEZ Darvin Ariel,66.60,115,-119,-119,138,-143,143,115,143,258
-Pan-American Junior Championships,2022-10-19,67 kg Men,MARQUEZ Mario,66.90,113,-116,-116,148,-153,-154,113,148,261
+Pan-American Junior Championships,2022-10-19,67 kg Men,MARQUEZ III Mario Antonio,66.90,113,-116,-116,148,-153,-154,113,148,261
 Pan-American Junior Championships,2022-10-19,67 kg Men,RENTERIA CAAMANO Mateo,66.60,107,111,-115,145,-149,-149,111,145,256
 Pan-American Junior Championships,2022-10-19,67 kg Men,ESTUPINAN VACACELA Erick Wellington,66.40,103,108,111,135,139,-142,111,139,250
 Pan-American Junior Championships,2022-10-19,67 kg Men,GARCIA SISO David Alejandro,65.40,110,-114,-115,135,-138,141,110,141,251
-Pan-American Junior Championships,2022-10-19,67 kg Men,PERALTA Andres,66.95,-105,-105,105,128,-132,-136,105,128,233
+Pan-American Junior Championships,2022-10-19,67 kg Men,PERALTA ROJAS Andres,66.95,-105,-105,105,128,-132,-136,105,128,233
 Pan-American Junior Championships,2022-10-19,67 kg Men,SEVERINO JIMENEZ Brayan Kenhheimer,65.50,95,99,102,122,126,-130,102,126,228
 Pan-American Junior Championships,2022-10-19,67 kg Men,TORRES VASQUEZ Sebastian Ignacio,66.70,95,-100,100,118,-125,-126,100,118,218
 Pan-American Junior Championships,2022-10-19,67 kg Men,DOYLE Cruz Gustavo,66.59,97,-102,-102,127,-131,133,97,133,230
@@ -49,7 +49,7 @@ Pan-American Junior Championships,2022-10-19,81 kg Men,PALACIOS DAJOME German En
 Pan-American Junior Championships,2022-10-19,81 kg Men,MEDINA Jorge,79.62,-124,124,128,148,153,-158,128,153,281
 Pan-American Junior Championships,2022-10-19,81 kg Men,RAMIREZ MARTINEZ Elkin Shamir,80.09,116,120,123,154,160,-165,123,160,283
 Pan-American Junior Championships,2022-10-19,81 kg Men,DIAZ SANTANA Najib Gabriel,80.30,115,120,-125,140,145,-150,120,145,265
-Pan-American Junior Championships,2022-10-19,81 kg Men,ESPINOSA Luis,79.14,112,-116,-117,-140,140,-147,112,140,252
+Pan-American Junior Championships,2022-10-19,81 kg Men,ESPINOSA Luis Alberto,79.14,112,-116,-117,-140,140,-147,112,140,252
 Pan-American Junior Championships,2022-10-19,81 kg Men,VALDIZON CRUZ Jonathan Fernando,77.53,93,98,101,120,-126,-128,101,120,221
 Pan-American Junior Championships,2022-10-19,81 kg Men,IGLESIAS Tobias,79.39,-95,95,-101,120,-126,129,95,129,224
 Pan-American Junior Championships,2022-10-19,89 kg Men,MUNOZ Juniel,83.43,141,146,151,167,173,177,151,177,328
@@ -58,7 +58,7 @@ Pan-American Junior Championships,2022-10-19,89 kg Men,DE MOURA Gabriel,82.66,13
 Pan-American Junior Championships,2022-10-19,89 kg Men,LOPEZ CAMERON Yomar Andres,83.70,130,-135,-135,145,155,-160,130,155,285
 Pan-American Junior Championships,2022-10-19,89 kg Men,MONTOYA MAYO Ronaldo Andres,81.80,113,-117,119,-140,140,-145,119,140,259
 Pan-American Junior Championships,2022-10-19,89 kg Men,ARTEAGA SARMIENTO Julio Cesar,84.06,115,118,-120,140,144,147,118,147,265
-Pan-American Junior Championships,2022-10-19,89 kg Men,LOPEZ Julio,86.95,-108,108,112,130,137,142,112,142,254
+Pan-American Junior Championships,2022-10-19,89 kg Men,LOPEZ ORDONEZ Julio Abrahan De J,86.95,-108,108,112,130,137,142,112,142,254
 Pan-American Junior Championships,2022-10-19,89 kg Men,DORAN Anellyson,83.06,-100,-100,101,119,123,128,101,128,229
 Pan-American Junior Championships,2022-10-19,89 kg Men,RAMOS Jonathan,88.64,-140,-140,-140,176,181,-190,0,181,0
 Pan-American Junior Championships,2022-10-19,96 kg Men,ATENCIA PRIOU Amel Karim,89.42,145,149,-153,-180,180,185,149,185,334
@@ -69,7 +69,7 @@ Pan-American Junior Championships,2022-10-19,96 kg Men,DIAZ CANGA Luis Alfredo,8
 Pan-American Junior Championships,2022-10-19,96 kg Men,DIAZ MERCADO Samuel De Jesus,89.66,125,-130,130,-156,157,-162,130,157,287
 Pan-American Junior Championships,2022-10-19,96 kg Men,LEON AVELLA Carlos Enrique,89.32,120,0,0,145,0,0,120,145,265
 Pan-American Junior Championships,2022-10-19,96 kg Men,REVECO MARCHANT Simon Eduardo,93.98,100,105,-110,120,128,133,105,133,238
-Pan-American Junior Championships,2022-10-19,102 kg Men,MUNOZ Sergio,101.54,145,150,152,186,193,196,152,196,348
+Pan-American Junior Championships,2022-10-19,102 kg Men,MUNOZ RIOS Sergio Alexander,101.54,145,150,152,186,193,196,152,196,348
 Pan-American Junior Championships,2022-10-19,102 kg Men,FERNANDEZ Lesther,100.60,143,148,151,-185,-185,-185,151,0,0
 Pan-American Junior Championships,2022-10-19,102 kg Men,MCCULLOUGH Morgan Dylan,100.69,-145,145,150,189,194,-199,150,194,344
 Pan-American Junior Championships,2022-10-19,102 kg Men,ALOMIA FERRIN Hans Nikolay,99.59,-125,-125,126,150,155,160,126,160,286
@@ -87,14 +87,14 @@ Pan-American Junior Championships,2022-10-19,+109 kg Men,BIZAMA Alonso,132.94,12
 Pan-American Junior Championships,2022-10-19,+109 kg Men,ASTO SAITEROS Kevin Mateo,132.08,117,122,-127,150,160,-165,122,160,282
 Pan-American Junior Championships,2022-10-19,+109 kg Men,CABRERA HERRERA Hector Enrique,126.93,100,106,110,135,140,-145,110,140,250
 Pan-American Junior Championships,2022-10-19,+109 kg Men,COPELLO Maximiliano,107.08,97,102,105,-127,127,-133,105,127,232
-Pan-American Junior Championships,2022-10-19,45 kg Women,MONTES Naomi,45.00,-60,61,63,77,-80,-81,63,77,140
+Pan-American Junior Championships,2022-10-19,45 kg Women,MONTES CORONADO Naomi,45.00,-60,61,63,77,-80,-81,63,77,140
 Pan-American Junior Championships,2022-10-19,45 kg Women,MARTINEZ ROSALES Mariangeli Irene,44.28,55,60,62,76,80,-84,62,80,142
 Pan-American Junior Championships,2022-10-19,45 kg Women,TEZEN MONTERO Shany Tabita Elena,45.00,50,53,-55,69,-72,72,53,72,125
-Pan-American Junior Championships,2022-10-19,45 kg Women,AQUINO Dulce,41.60,42,-47,-47,53,57,-60,42,57,99
+Pan-American Junior Championships,2022-10-19,45 kg Women,AQUINO JIMENEZ Dulce Anahi,41.60,42,-47,-47,53,57,-60,42,57,99
 Pan-American Junior Championships,2022-10-19,49 kg Women,MONTILLA MADRID Kerlys Maria,48.72,70,73,-75,86,89,91,73,91,164
 Pan-American Junior Championships,2022-10-19,49 kg Women,ULREY Miranda Eleanor,48.90,70,-72,73,-88,89,-92,73,89,162
 Pan-American Junior Championships,2022-10-19,49 kg Women,LOPEZ Karol,48.83,70,-74,-74,-87,87,90,70,90,160
-Pan-American Junior Championships,2022-10-19,49 kg Women,VALLEJO Allison,48.23,65,68,70,80,-83,-83,70,80,150
+Pan-American Junior Championships,2022-10-19,49 kg Women,VALLEJO ALARCON Alisson Nicole,48.23,65,68,70,80,-83,-83,70,80,150
 Pan-American Junior Championships,2022-10-19,49 kg Women,LOPEZ GONZALEZ Joseline,48.15,67,69,-71,87,-90,-91,69,87,156
 Pan-American Junior Championships,2022-10-19,49 kg Women,SALDARRIAGA YOVERA Anali Paola,48.66,64,67,-69,83,-87,-88,67,83,150
 Pan-American Junior Championships,2022-10-19,49 kg Women,VELEZ ARRIAGA Cassandra Michell,47.11,65,-68,-68,78,-81,-81,65,78,143
@@ -104,12 +104,12 @@ Pan-American Junior Championships,2022-10-19,49 kg Women,AVILA JOSEPH Valery Yel
 Pan-American Junior Championships,2022-10-19,49 kg Women,VELASQUEZ TZUL Tamara Samanta,48.79,50,-54,-54,70,-73,-73,50,70,120
 Pan-American Junior Championships,2022-10-19,55 kg Women,COOK Leila,54.77,78,80,82,104,-108,-108,82,104,186
 Pan-American Junior Championships,2022-10-19,55 kg Women,HERNANDEZ VERDIN Maria Jose,54.71,76,78,-81,93,96,0,78,96,174
-Pan-American Junior Championships,2022-10-19,55 kg Women,PERLAZA Maria,54.62,74,-77,78,93,96,-100,78,96,174
+Pan-American Junior Championships,2022-10-19,55 kg Women,PERLAZA VILLA Maria Alejandra,54.62,74,-77,78,93,96,-100,78,96,174
 Pan-American Junior Championships,2022-10-19,55 kg Women,AGRAIT CALO Issi Massei,54.32,72,-77,77,-90,-90,-90,77,0,0
 Pan-American Junior Championships,2022-10-19,55 kg Women,FERNANDEZ Violeta,53.29,70,72,74,85,-89,89,74,89,163
 Pan-American Junior Championships,2022-10-19,55 kg Women,ENRIQUEZ Amberly,54.49,-71,-71,71,-84,-84,84,71,84,155
 Pan-American Junior Championships,2022-10-19,55 kg Women,MONCAYO FUENTES Brithany Judith,54.37,67,71,-75,85,90,93,71,93,164
-Pan-American Junior Championships,2022-10-19,55 kg Women,OLIVERA Katerin,53.12,67,-70,-71,81,85,-89,67,85,152
+Pan-American Junior Championships,2022-10-19,55 kg Women,OLIVERA ASPAJO Katerin Tatiana,53.12,67,-70,-71,81,85,-89,67,85,152
 Pan-American Junior Championships,2022-10-19,55 kg Women,QUIROZ Sofia,53.65,53,57,59,70,75,77,59,77,136
 Pan-American Junior Championships,2022-10-19,55 kg Women,VELASQUEZ Sasha,54.42,52,56,58,70,74,76,58,76,134
 Pan-American Junior Championships,2022-10-19,55 kg Women,ANGULO Fresia,54.31,52,-56,-56,70,73,-75,52,73,125
@@ -129,7 +129,7 @@ Pan-American Junior Championships,2022-10-19,64 kg Women,ROJAS GONZALEZ Queysi J
 Pan-American Junior Championships,2022-10-19,64 kg Women,FRANCO Elianys,62.64,85,-89,-89,105,-110,-110,85,105,190
 Pan-American Junior Championships,2022-10-19,64 kg Women,AYALA Milena Madelein,62.21,77,80,83,-95,95,98,83,98,181
 Pan-American Junior Championships,2022-10-19,64 kg Women,CALIXTO PALACIOS Jacqueline Alexa,61.78,73,-77,80,94,-97,97,80,97,177
-Pan-American Junior Championships,2022-10-19,64 kg Women,TORRES Karina,62.01,73,76,79,97,-102,102,79,102,181
+Pan-American Junior Championships,2022-10-19,64 kg Women,TORRES RAIN Karina Elizabeth,62.01,73,76,79,97,-102,102,79,102,181
 Pan-American Junior Championships,2022-10-19,64 kg Women,VELASQUEZ SILVA Miriana Paz,63.50,74,77,-80,102,106,-111,77,106,183
 Pan-American Junior Championships,2022-10-19,64 kg Women,FERNANDEZ MORI Jamile Sofia,63.93,64,68,71,85,88,-92,71,88,159
 Pan-American Junior Championships,2022-10-19,64 kg Women,RIVERA Gianna,63.85,68,-77,-77,87,93,-97,68,93,161
@@ -138,18 +138,18 @@ Pan-American Junior Championships,2022-10-19,71 kg Women,REEVES Olivia Lynn,70.7
 Pan-American Junior Championships,2022-10-19,71 kg Women,SINISTERRA TORRES Erika,70.55,90,92,94,118,123,125,94,125,219
 Pan-American Junior Championships,2022-10-19,71 kg Women,GARCIA GOMEZ Mariana,70.43,-89,89,91,118,123,-126,91,123,214
 Pan-American Junior Championships,2022-10-19,71 kg Women,SILVA FERNANDEZ Keily Carolina,64.64,83,87,90,101,105,110,90,110,200
-Pan-American Junior Championships,2022-10-19,71 kg Women,LUSIGNAN Naomie,70.10,84,88,-91,-104,-105,106,88,106,194
+Pan-American Junior Championships,2022-10-19,71 kg Women,LUSIGNAN Naomie Mia,70.10,84,88,-91,-104,-105,106,88,106,194
 Pan-American Junior Championships,2022-10-19,71 kg Women,LIN Melissa Doreen,67.61,-84,84,87,102,105,108,87,108,195
 Pan-American Junior Championships,2022-10-19,71 kg Women,GOLDMAN CALIFRER Lourdes,64.79,-80,80,-84,105,108,111,80,111,191
 Pan-American Junior Championships,2022-10-19,71 kg Women,PAREDES VASQUEZ Jheysi Dayana,64.63,65,67,70,86,89,91,70,91,161
 Pan-American Junior Championships,2022-10-19,71 kg Women,MAYORGA IGOR Constanza Muriel A,66.32,61,-65,65,-80,80,-85,65,80,145
 Pan-American Junior Championships,2022-10-19,76 kg Women,PAREDES Bella,74.62,-100,-100,100,118,124,-130,100,124,224
-Pan-American Junior Championships,2022-10-19,76 kg Women,MENA Maria,72.05,88,92,95,110,-114,-114,95,110,205
+Pan-American Junior Championships,2022-10-19,76 kg Women,MENA MOSQUERA Maria Fernanda,72.05,88,92,95,110,-114,-114,95,110,205
 Pan-American Junior Championships,2022-10-19,76 kg Women,CRUZ HERNANDEZ Angeles,75.73,-88,88,91,108,-112,113,91,113,204
 Pan-American Junior Championships,2022-10-19,76 kg Women,REYES LOPEZ Zuleinys Yanette,73.40,90,-93,-93,-109,109,-115,90,109,199
 Pan-American Junior Championships,2022-10-19,76 kg Women,BARROWS Andrea,73.43,-84,-84,84,105,-110,-111,84,105,189
-Pan-American Junior Championships,2022-10-19,76 kg Women,BOLANOS Martha,73.59,72,76,80,90,95,-100,80,95,175
-Pan-American Junior Championships,2022-10-19,76 kg Women,SERNAQUE Ariana,75.48,72,75,78,93,97,-101,78,97,175
+Pan-American Junior Championships,2022-10-19,76 kg Women,BOLANOS GANGULA Martha Salome,73.59,72,76,80,90,95,-100,80,95,175
+Pan-American Junior Championships,2022-10-19,76 kg Women,SERNAQUE PANTA Ariana Danuska,75.48,72,75,78,93,97,-101,78,97,175
 Pan-American Junior Championships,2022-10-19,76 kg Women,CAMEY Krisell,73.01,62,65,-67,80,-85,-85,65,80,145
 Pan-American Junior Championships,2022-10-19,76 kg Women,LAGOS Isidora,71.41,55,59,61,81,85,-88,61,85,146
 Pan-American Junior Championships,2022-10-19,76 kg Women,BARTRA Nicoll,72.04,-55,55,60,73,77,-82,60,77,137
@@ -157,20 +157,20 @@ Pan-American Junior Championships,2022-10-19,81 kg Women,JIMENEZ Kelin,76.43,98,
 Pan-American Junior Championships,2022-10-19,81 kg Women,MCELDERRY Anna,80.25,96,99,102,119,-122,-125,102,119,221
 Pan-American Junior Championships,2022-10-19,81 kg Women,MONTANO GRANJA Sirley Daniela,80.93,97,101,-103,125,130,-132,101,130,231
 Pan-American Junior Championships,2022-10-19,81 kg Women,HERNANDEZ LIZARRAGA Mairyn Vanessa,78.01,90,93,97,110,115,-120,97,115,212
-Pan-American Junior Championships,2022-10-19,81 kg Women,CAICEDO Luisa,79.42,87,92,-95,110,115,-120,92,115,207
+Pan-American Junior Championships,2022-10-19,81 kg Women,CAICEDO MORENO Luisa Fernanda,79.42,87,92,-95,110,115,-120,92,115,207
 Pan-American Junior Championships,2022-10-19,87 kg Women,OWENS Avery Elizabeth,86.96,95,-98,98,121,124,128,98,128,226
 Pan-American Junior Championships,2022-10-19,87 kg Women,REYES Elizabeth,86.77,94,97,-99,123,127,-131,97,127,224
 Pan-American Junior Championships,2022-10-19,87 kg Women,ROBLES Amanda,83.66,91,94,97,110,114,117,97,117,214
 Pan-American Junior Championships,2022-10-19,87 kg Women,RUIZ CRUZ Valeria,83.47,90,93,-95,110,-113,-113,93,110,203
 Pan-American Junior Championships,2022-10-19,87 kg Women,HENRIQUEZ Zoreannys,81.45,-88,88,91,106,111,114,91,114,205
-Pan-American Junior Championships,2022-10-19,87 kg Women,RODRIGUEZ Alisson,86.66,86,89,-92,113,115,-118,89,115,204
+Pan-American Junior Championships,2022-10-19,87 kg Women,RODRIGUEZ GONZALES Allisson Samanth,86.66,86,89,-92,113,115,-118,89,115,204
 Pan-American Junior Championships,2022-10-19,87 kg Women,DE AQUINO MARTINHO Beatriz,81.95,85,-89,-90,95,100,-105,85,100,185
 Pan-American Junior Championships,2022-10-19,87 kg Women,MELLA SOTO Alexandra,86.39,65,-71,-71,88,91,-94,65,91,156
 Pan-American Junior Championships,2022-10-19,+87 kg Women,FRIESEN Emma,113.97,105,109,112,126,-131,133,112,133,245
 Pan-American Junior Championships,2022-10-19,+87 kg Women,JUSTINO DE LIMA Taiane,121.90,100,103,105,130,134,137,105,137,242
 Pan-American Junior Championships,2022-10-19,+87 kg Women,SARRIA RUIZ Marifelix,111.31,97,-102,102,127,133,137,102,137,239
 Pan-American Junior Championships,2022-10-19,+87 kg Women,PAVEZ MIRANDA Aratzazu,114.46,95,100,-102,115,120,-124,100,120,220
-Pan-American Junior Championships,2022-10-19,+87 kg Women,USCHMANN Sarah,102.97,-97,97,0,113,118,-122,97,118,215
+Pan-American Junior Championships,2022-10-19,+87 kg Women,USCHMANN Sarah Elizabeth,102.97,-97,97,0,113,118,-122,97,118,215
 Pan-American Junior Championships,2022-10-19,+87 kg Women,LOVE Etta Mae,112.74,91,94,97,116,121,131,97,131,228
 Pan-American Junior Championships,2022-10-19,+87 kg Women,TYSFOROD Yairan,114.31,95,-99,-99,115,121,-126,95,121,216
 Pan-American Junior Championships,2022-10-19,+87 kg Women,PAVON Leydi,119.48,83,87,90,108,115,-120,90,115,205

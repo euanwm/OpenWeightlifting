@@ -3,7 +3,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 Asian Youth Championships,2023-07-28,49 kg Men,BUI Minh Dao,48.63,-90,90,93,116,-118,-118,93,116,209
 2023 Asian Youth Championships,2023-07-28,49 kg Men,BORRES Eron,48.75,85,88,91,115,119,-120,91,119,210
 2023 Asian Youth Championships,2023-07-28,49 kg Men,NGUYEN Van Nam,48.63,-86,87,-89,-113,-114,-114,87,0,0
-2023 Asian Youth Championships,2023-07-28,49 kg Men,DHANUSH Loganthan,48.75,82,86,-89,100,105,-111,86,105,191
+2023 Asian Youth Championships,2023-07-28,49 kg Men,LOGANATHAN Dhanush,48.75,82,86,-89,100,105,-111,86,105,191
 2023 Asian Youth Championships,2023-07-28,49 kg Men,KISHORE V,48.75,80,84,-87,-95,-95,95,84,95,179
 2023 Asian Youth Championships,2023-07-28,49 kg Men,ODILOV Diyorbek,49.00,81,-86,-87,99,-104,-105,81,99,180
 2023 Asian Youth Championships,2023-07-28,49 kg Men,HUSSEIN KARRAR Abbas,48.90,76,-82,-82,90,-95,95,76,95,171
@@ -11,7 +11,7 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 Asian Youth Championships,2023-07-28,49 kg Men,KIJWANICHNIYOM Nathapon,48.55,71,-76,-76,91,96,101,71,101,172
 2023 Asian Youth Championships,2023-07-28,49 kg Men,WANG Yu-Chun,48.75,55,60,-63,70,75,-80,60,75,135
 2023 Asian Youth Championships,2023-07-28,55 kg Men,K Duong,54.81,105,-115,-115,135,0,0,105,135,240
-2023 Asian Youth Championships,2023-07-28,55 kg Men,SANAPATHI Guru Naidu,54.90,98,101,104,-125,125,-130,104,125,229
+2023 Asian Youth Championships,2023-07-28,55 kg Men,SANAPATHI Gurunaidu,54.90,98,101,104,-125,125,-130,104,125,229
 2023 Asian Youth Championships,2023-07-28,55 kg Men,MEETEI N. Tomchou,54.70,98,100,103,-125,125,-130,103,125,228
 2023 Asian Youth Championships,2023-07-28,55 kg Men,MIRSOBIROV Miraziz,54.95,96,99,102,115,125,-128,102,125,227
 2023 Asian Youth Championships,2023-07-28,55 kg Men,CHOMKHUNTHOD Wutthiphong,54.50,89,95,100,108,-115,115,100,115,215
@@ -23,9 +23,9 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 Asian Youth Championships,2023-07-28,61 kg Men,DELOS SANTOS Albert Ian,59.90,105,110,-112,145,148,-150,110,148,258
 2023 Asian Youth Championships,2023-07-28,61 kg Men,DAVASARI Mehrab,60.80,102,107,-110,134,-138,138,107,138,245
 2023 Asian Youth Championships,2023-07-28,61 kg Men,SIRISUK Kopkiat,59.71,96,101,106,115,122,129,106,129,235
-2023 Asian Youth Championships,2023-07-28,61 kg Men,TINKU Golom,61.00,100,-104,-105,128,135,-139,100,135,235
+2023 Asian Youth Championships,2023-07-28,61 kg Men,GOLOM Tinku,61.00,100,-104,-105,128,135,-139,100,135,235
 2023 Asian Youth Championships,2023-07-28,61 kg Men,HONG Jun-Yan,60.70,97,100,-103,120,-126,-126,100,120,220
-2023 Asian Youth Championships,2023-07-28,61 kg Men,MOHAMMAD Tarha,60.42,97,-102,-102,122,-127,-128,97,122,219
+2023 Asian Youth Championships,2023-07-28,61 kg Men,TARHA Mohammad,60.42,97,-102,-102,122,-127,-128,97,122,219
 2023 Asian Youth Championships,2023-07-28,61 kg Men,K Brum,57.22,-110,0,0,0,0,0,0,0,0
 2023 Asian Youth Championships,2023-07-28,67 kg Men,BHARALI Bedabrat,66.69,119,122,124,142,147,149,124,149,273
 2023 Asian Youth Championships,2023-07-28,67 kg Men,DAVLATBOEV Nurillo,66.98,116,120,123,141,147,149,123,149,272
@@ -44,6 +44,32 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 Asian Youth Championships,2023-07-28,81 kg Men,ALKATEB Mohamad,80.83,129,133,-138,156,160,-167,133,160,293
 2023 Asian Youth Championships,2023-07-28,81 kg Men,RAHMANOV Galkan,79.10,120,125,-128,-150,153,-157,125,153,278
 2023 Asian Youth Championships,2023-07-28,81 kg Men,LALRUATFELA,80.66,121,125,-128,150,154,157,125,157,282
+2023 Asian Youth Championships,2023-07-28,89 kg Men,SOLEIMANIHAZAN Amirmohammad,83.20,133,138,144,156,164,-167,144,164,308
+2023 Asian Youth Championships,2023-07-28,89 kg Men,GHOLIZADEH Farhad,87.30,136,143,-146,167,-174,174,143,174,317
+2023 Asian Youth Championships,2023-07-28,89 kg Men,RUSTAMBEKOV Ummatillo,86.70,132,137,-142,164,168,-172,137,168,305
+2023 Asian Youth Championships,2023-07-28,89 kg Men,SHAMMAA Ahmad,85.30,-130,130,133,-167,-167,-168,133,0,0
+2023 Asian Youth Championships,2023-07-28,89 kg Men,AL MALAHMA HAFEDH Alaa,88.70,131,-137,-137,-157,-157,160,131,160,291
+2023 Asian Youth Championships,2023-07-28,89 kg Men,KASENOV Nurmukhamed Almazbekovich,88.20,-130,130,-135,150,-157,-157,130,150,280
+2023 Asian Youth Championships,2023-07-28,89 kg Men,LIN Yen-Chih,86.30,110,115,-120,135,140,145,115,145,260
+2023 Asian Youth Championships,2023-07-28,89 kg Men,ZHOLDOSHKULOV Aitegin,84.40,105,110,-115,130,-135,-135,110,130,240
+2023 Asian Youth Championships,2023-07-28,96 kg Men,PARAKHATOV Batirbek,91.00,135,140,143,164,-170,175,143,175,318
+2023 Asian Youth Championships,2023-07-28,96 kg Men,SHOKIRZHANOV Farukh,93.34,130,135,140,160,167,-175,140,167,307
+2023 Asian Youth Championships,2023-07-28,96 kg Men,AL LAMI ALI HAZIM Dawood,95.60,131,-134,134,-171,171,-175,134,171,305
+2023 Asian Youth Championships,2023-07-28,96 kg Men,LIAO Wen-Zhe,94.72,126,130,133,156,161,165,133,165,298
+2023 Asian Youth Championships,2023-07-28,96 kg Men,ZAREI Hamidreza,91.22,122,128,132,160,174,-178,132,174,306
+2023 Asian Youth Championships,2023-07-28,96 kg Men,HABIBI Mohamadamin,90.89,120,126,130,155,-161,-162,130,155,285
+2023 Asian Youth Championships,2023-07-28,96 kg Men,ALAHMAD Abdullah Mukhtar A,95.10,118,123,129,161,166,-172,129,166,295
+2023 Asian Youth Championships,2023-07-28,96 kg Men,YADAV Sanjay,94.10,90,96,-101,115,125,-130,96,125,221
+2023 Asian Youth Championships,2023-07-28,102 kg Men,ZARE Abolfazl,99.10,150,156,158,185,190,-196,158,190,348
+2023 Asian Youth Championships,2023-07-28,102 kg Men,KIANI SHAHVANDI Abolfazl,101.20,127,135,141,158,171,177,141,177,318
+2023 Asian Youth Championships,2023-07-28,102 kg Men,KAPIL Sonowal,101.40,115,120,125,146,151,-157,125,151,276
+2023 Asian Youth Championships,2023-07-28,102 kg Men,ERMEK Uulu Erbol,98.95,114,120,-126,145,150,156,120,156,276
+2023 Asian Youth Championships,2023-07-28,+102 kg Men,NEMATI MOGHADDAM Taha,116.19,160,166,-172,190,200,-206,166,200,366
+2023 Asian Youth Championships,2023-07-28,+102 kg Men,MOHAMMADITANHA Hamidreza,162.45,147,155,158,175,187,192,158,192,350
+2023 Asian Youth Championships,2023-07-28,+102 kg Men,MOHAMMAD Ali,130.84,141,143,-150,161,-168,169,143,169,312
+2023 Asian Youth Championships,2023-07-28,+102 kg Men,WANG Yu-Cheng,114.22,130,136,142,-167,167,171,142,171,313
+2023 Asian Youth Championships,2023-07-28,+102 kg Men,PAZLITDINOV Asadbek,116.20,120,131,137,155,163,169,137,169,306
+2023 Asian Youth Championships,2023-07-28,+102 kg Men,SINGH Paramvir,119.25,-135,-135,135,158,-166,166,135,166,301
 2023 Asian Youth Championships,2023-07-28,40 kg Women,DIAZ Alexsandra Ann,39.75,52,55,57,63,66,-70,57,66,123
 2023 Asian Youth Championships,2023-07-28,40 kg Women,NGUYEN Phuong Linh,39.96,51,54,56,68,-76,-76,56,68,124
 2023 Asian Youth Championships,2023-07-28,40 kg Women,SABAR Jyoshna,39.07,50,53,55,61,64,-69,55,64,119
@@ -79,3 +105,20 @@ event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,
 2023 Asian Youth Championships,2023-07-28,64 kg Women,ZENG Jing-Chun,63.80,75,-78,-78,90,93,-97,75,93,168
 2023 Asian Youth Championships,2023-07-28,64 kg Women,HARSHIKA Carmega Vannan,60.10,66,70,73,83,87,90,73,90,163
 2023 Asian Youth Championships,2023-07-28,64 kg Women,SHARIFI SEDEH Hanieh,64.00,72,-76,-77,95,100,-104,72,100,172
+2023 Asian Youth Championships,2023-07-28,71 kg Women,WONGSING Phattharathida,70.26,85,88,92,113,116,120,92,120,212
+2023 Asian Youth Championships,2023-07-28,71 kg Women,KARIMI Laya,70.59,78,83,-86,91,-95,-95,83,91,174
+2023 Asian Youth Championships,2023-07-28,71 kg Women,FAYZULLAEVA Dilnoza,64.67,73,76,-80,85,90,93,76,93,169
+2023 Asian Youth Championships,2023-07-28,71 kg Women,CHELSI,70.72,68,71,-74,85,-91,-91,71,85,156
+2023 Asian Youth Championships,2023-07-28,71 kg Women,HARINI Ramadass,70.98,67,70,-74,88,-92,-100,70,88,158
+2023 Asian Youth Championships,2023-07-28,71 kg Women,QANDEEL Weam Mahmoud Ahmad,64.74,50,-60,60,65,-70,-71,60,65,125
+2023 Asian Youth Championships,2023-07-28,76 kg Women,FAYZULLAEVA Madina,75.64,86,89,-93,105,108,111,89,111,200
+2023 Asian Youth Championships,2023-07-28,76 kg Women,SANJANA,75.84,82,86,-88,107,112,-115,86,112,198
+2023 Asian Youth Championships,2023-07-28,76 kg Women,KADKHODAEI Asal,75.75,-78,78,-82,92,-96,96,78,96,174
+2023 Asian Youth Championships,2023-07-28,76 kg Women,CHIANG Sin-Yueh,74.25,-85,-85,-85,95,97,-112,0,97,0
+2023 Asian Youth Championships,2023-07-28,81 kg Women,RUSTAMOVA Anamjan,80.87,98,103,-107,117,125,-127,103,125,228
+2023 Asian Youth Championships,2023-07-28,81 kg Women,CHEN Ko-Ko,80.41,75,78,-83,-100,100,0,78,100,178
+2023 Asian Youth Championships,2023-07-28,81 kg Women,ALQURASHI Layan Hassan M,76.45,47,55,60,62,68,-72,60,68,128
+2023 Asian Youth Championships,2023-07-28,+81 kg Women,TRAN Thi Hien,117.65,94,96,100,120,124,-132,100,124,224
+2023 Asian Youth Championships,2023-07-28,+81 kg Women,MAIBAM Martina Devi,112.90,88,92,95,112,118,123,95,123,218
+2023 Asian Youth Championships,2023-07-28,+81 kg Women,NGUYEN Anh Nhu,82.95,80,84,86,-106,106,-109,86,106,192
+2023 Asian Youth Championships,2023-07-28,+81 kg Women,ABDURASHIDOVA Lolakhona,113.23,83,-85,-87,105,-110,110,83,110,193
