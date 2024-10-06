@@ -81,6 +81,10 @@ func RestartHandler(bot *discordbot.DiscordBot) {
 	<-signals
 	// post an update into Discord with how many bytes of data were handler
 	_, _ = bot.PostPlatformData(fmt.Sprintf("Total backend data handled today: %s", TheBank.UnitToString()))
+	err := bot.CloseConnection()
+	if err != nil {
+		log.Printf("Error when closing discord connection: %s", err)
+	}
 }
 
 // @title OpenWeightlifting API
