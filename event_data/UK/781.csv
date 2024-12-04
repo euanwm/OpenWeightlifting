@@ -1,0 +1,43 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Liverpool Autumn Open '24,2024-11-17,Men's Senior 109+Kg,Benedict Millson,121.4,150,-156,156,170,180,185,156,185,341
+Liverpool Autumn Open '24,2024-11-17,Men's Senior 81Kg,Ryan Sweetman,80.4,115,119,-122,145,150,-151,119,150,269
+Liverpool Autumn Open '24,2024-11-17,Men's Senior 96Kg,Oliver Pope,93.4,105,-110,-112,130,136,141,105,141,246
+Liverpool Autumn Open '24,2024-11-17,Men's Senior 89Kg,James Stonehewer,88.2,106,110,-114,127,132,-133,110,132,242
+Liverpool Autumn Open '24,2024-11-17,Men's Senior 89Kg,Samuel Heenan,88.2,100,105,111,120,125,-130,111,125,236
+Liverpool Autumn Open '24,2024-11-17,Men's Senior 109Kg,Jaime Abad,107,95,100,103,120,125,-130,103,125,228
+Liverpool Autumn Open '24,2024-11-17,Men's Senior 89Kg,Alex Wylie,82.2,90,93,97,117,121,125,97,125,222
+Liverpool Autumn Open '24,2024-11-17,Men's Senior 81Kg,Lewis Brooks,80,90,95,98,110,117,121,98,121,219
+Liverpool Autumn Open '24,2024-11-17,Men's Senior 81Kg,Karl Clark,80.9,85,-88,88,115,120,123,88,123,211
+Liverpool Autumn Open '24,2024-11-17,Men's Senior 89Kg,Jonathan  Davies,87.2,82,86,90,105,110,113,90,113,203
+Liverpool Autumn Open '24,2024-11-17,Men's Senior 81Kg,Michael  Murray ,80.8,87,90,-94,107,112,-117,90,112,202
+Liverpool Autumn Open '24,2024-11-17,Men's Senior 89Kg,Abdulla  Al-Nasr,87.8,80,-84,84,103,107,112,84,112,196
+Liverpool Autumn Open '24,2024-11-17,Men's Senior 81Kg,Hari Kandiah,73.7,80,85,-88,110,-115,-115,85,110,195
+Liverpool Autumn Open '24,2024-11-17,Men's Senior 81Kg,Panagiotis Yusuf,78,-77,77,82,-105,105,108,82,108,190
+Liverpool Autumn Open '24,2024-11-17,Men's Senior 89Kg,Briah Andrews,89,75,77,81,95,100,102,81,102,183
+Liverpool Autumn Open '24,2024-11-17,Men's Senior 81Kg,Bradley Westell,79.6,77,81,85,96,-100,-100,85,96,181
+Liverpool Autumn Open '24,2024-11-17,Women's Senior 71Kg,Jasmine Isoyama,70.4,73,76,80,93,97,-100,80,97,177
+Liverpool Autumn Open '24,2024-11-17,Men's Senior 81Kg,Niall Meenan,80.2,73,-76,-76,-95,95,100,73,100,173
+Liverpool Autumn Open '24,2024-11-17,Women's Senior 87+Kg,Louise Hill,118.2,54,57,60,79,83,87,60,87,147
+Liverpool Autumn Open '24,2024-11-17,Women's Senior 59Kg,Imogen Gough,57.4,-62,62,65,73,76,79,65,79,144
+Liverpool Autumn Open '24,2024-11-17,Women's Senior 59Kg,Chelsea Wilson,57.6,60,63,-65,80,-83,-84,63,80,143
+Liverpool Autumn Open '24,2024-11-17,Women's Senior 64Kg,Francesca Paolo,64,59,-62,-62,79,82,-85,59,82,141
+Liverpool Autumn Open '24,2024-11-17,Women's Senior 71Kg,Marketa  Manhart,70.4,-55,58,61,70,74,77,61,77,138
+Liverpool Autumn Open '24,2024-11-17,Women's Senior 76Kg,Emily Thompson-Chisnall,74.6,-60,60,63,75,-79,-79,63,75,138
+Liverpool Autumn Open '24,2024-11-17,Men's Senior 81Kg,Richard  Sewell,78.4,50,55,-60,-77,77,82,55,82,137
+Liverpool Autumn Open '24,2024-11-17,Women's Senior 64Kg,Bev Rothwell,63.8,-57,57,-59,68,70,72,57,72,129
+Liverpool Autumn Open '24,2024-11-17,Women's Senior 71Kg,Victoria Crawford,68.2,50,53,56,65,68,71,56,71,127
+Liverpool Autumn Open '24,2024-11-17,Men's Senior 55Kg,Harry Lee,55,48,51,55,62,66,70,55,70,125
+Liverpool Autumn Open '24,2024-11-17,Women's Senior 59Kg,Madison Gardner,57.6,47,50,53,62,65,-68,53,65,118
+Liverpool Autumn Open '24,2024-11-17,Women's Senior 71Kg,Daisy Kenworthy,68.8,45,48,-51,60,64,69,48,69,117
+Liverpool Autumn Open '24,2024-11-17,Women's Youth Under 15 71Kg,Elizabeth Sorbie,69.6,43,47,-51,64,67,70,47,70,117
+Liverpool Autumn Open '24,2024-11-17,Men's Senior 61Kg,Samuel Nazim Forshaw,57,43,47,51,55,60,66,51,66,117
+Liverpool Autumn Open '24,2024-11-17,Women's Senior 59Kg,Natalie Tunstall-Jackman,58.6,-43,45,-47,62,64,65,45,65,110
+Liverpool Autumn Open '24,2024-11-17,Women's Senior 64Kg,Jennifer Wallace,63.2,41,43,46,58,61,64,46,64,110
+Liverpool Autumn Open '24,2024-11-17,Women's Senior 64Kg,Alexandra Yarnell,63,46,-48,48,61,-63,-65,48,61,109
+Liverpool Autumn Open '24,2024-11-17,Women's Senior 64Kg,Bethan Price,62,-42,42,44,52,55,58,44,58,102
+Liverpool Autumn Open '24,2024-11-17,Women's Senior 71Kg,Sharon Kaur,68.2,40,43,-45,51,55,58,43,58,101
+Liverpool Autumn Open '24,2024-11-17,Women's Senior 87+Kg,Ellen Johnston,120.8,32,35,38,45,49,52,38,52,90
+Liverpool Autumn Open '24,2024-11-17,Women's Senior 87+Kg,Eleanor Smith,100,33,35,37,43,46,48,37,48,85
+Liverpool Autumn Open '24,2024-11-17,Women's Senior 64Kg,Sarah Chester,63.8,25,27,29,-34,34,37,29,37,66
+Liverpool Autumn Open '24,2024-11-17,Women's Senior 64Kg,Charlotte Gough,63,-61,-61,-61,73,77,-81,0,77,0
+Liverpool Autumn Open '24,2024-11-17,Women's Senior 71Kg,Morgan  Howe,69.2,-43,-45,-45,52,55,-60,0,55,0
