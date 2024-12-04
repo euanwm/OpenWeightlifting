@@ -1,0 +1,49 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Crazy Strength Winter Open,2024-10-12,Men's Senior 89Kg,Conor Lynch,88.3,110,115,120,135,140,-142,120,140,260
+Crazy Strength Winter Open,2024-10-12,Men's Senior 81Kg,Benjamin Chan,77.8,97,102,107,125,130,135,107,135,242
+Crazy Strength Winter Open,2024-10-12,Men's Senior 96Kg,Christopher Ward,93.8,100,-104,104,130,-134,0,104,130,234
+Crazy Strength Winter Open,2024-10-12,Men's Senior 102Kg,Richard Parker,97.2,93,-97,97,-133,133,137,97,137,234
+Crazy Strength Winter Open,2024-10-12,Men's Senior 96Kg,Chris Lee,94.6,93,98,101,124,128,130,101,130,231
+Crazy Strength Winter Open,2024-10-12,Men's Senior 109+Kg,Callum Bunyan,121,93,97,100,120,125,-130,100,125,225
+Crazy Strength Winter Open,2024-10-12,Men's Senior 96Kg,Ashley Walke,94.2,-91,-91,91,116,120,-125,91,120,211
+Crazy Strength Winter Open,2024-10-12,Men's Senior 81Kg,Finn Aubrey,79.5,90,95,-98,110,-115,116,95,116,211
+Crazy Strength Winter Open,2024-10-12,Men's Senior 81Kg,Jack Somerville,76.7,88,-92,92,112,117,-120,92,117,209
+Crazy Strength Winter Open,2024-10-12,Men's Senior 102Kg,Kamil Dabrowski,100.8,85,90,-93,100,105,108,90,108,198
+Crazy Strength Winter Open,2024-10-12,Men's Senior 89Kg,Jay Lacey,84.6,-84,84,88,101,104,108,88,108,196
+Crazy Strength Winter Open,2024-10-12,Men's Under 23 73Kg,Elliott Brown,72.2,70,73,75,-103,-103,105,75,105,180
+Crazy Strength Winter Open,2024-10-12,Men's Senior 102Kg,Ben Lawrence,100.9,75,-81,81,92,97,-101,81,97,178
+Crazy Strength Winter Open,2024-10-12,Men's Senior 89Kg,Jordan Page,86.9,72,76,-81,92,96,-100,76,96,172
+Crazy Strength Winter Open,2024-10-12,Men's Senior 109Kg,Scott Blackmore,103.5,70,74,76,90,-95,95,76,95,171
+Crazy Strength Winter Open,2024-10-12,Women's Senior 71Kg,Jennifer Potter,67,67,-70,70,90,93,-96,70,93,163
+Crazy Strength Winter Open,2024-10-12,Women's Senior 76Kg,Erin Cook,74.2,66,69,-72,-87,87,91,69,91,160
+Crazy Strength Winter Open,2024-10-12,Men's Masters (40-44) 89Kg,Colin Russell,88.7,-68,68,-72,88,91,-94,68,91,159
+Crazy Strength Winter Open,2024-10-12,Men's Junior Under 20 61Kg,Cian Mcgee,58.6,-70,-70,70,88,-92,-92,70,88,158
+Crazy Strength Winter Open,2024-10-12,Men's Senior 81Kg,Christopher  Macdonald ,76.5,60,65,-67,85,88,-90,65,88,153
+Crazy Strength Winter Open,2024-10-12,Women's Senior 87+Kg,Jamillah Robinson-heather,112.6,63,66,-68,80,84,86,66,86,152
+Crazy Strength Winter Open,2024-10-12,Women's Senior 71Kg,Katy Gant,70.7,61,-64,-64,78,81,-84,61,81,142
+Crazy Strength Winter Open,2024-10-12,Women's Senior 55Kg,Kate Rattley,54.8,56,59,-62,78,81,-84,59,81,140
+Crazy Strength Winter Open,2024-10-12,Women's Masters (35-39) 64Kg,Bianca Tenga,63.6,55,-58,-61,75,78,81,55,81,136
+Crazy Strength Winter Open,2024-10-12,Men's Masters (50-54) 81Kg,Karl Dyderski,76.9,53,55,-59,73,76,80,55,80,135
+Crazy Strength Winter Open,2024-10-12,Women's Senior 64Kg,Alexandra Bovey,62.8,60,63,-65,71,-74,-75,63,71,134
+Crazy Strength Winter Open,2024-10-12,Men's Masters (45-49) 89Kg,Toby Proctor,84.7,45,50,55,70,75,-80,55,75,130
+Crazy Strength Winter Open,2024-10-12,Women's Under 23 71Kg,Caitlin Robb,69.5,51,54,57,65,68,72,57,72,129
+Crazy Strength Winter Open,2024-10-12,Women's Senior 87+Kg,Beth Calder,111.3,52,55,-60,72,-76,-77,55,72,127
+Crazy Strength Winter Open,2024-10-12,Women's Under 23 71Kg,Carolina Crudele,65.9,-49,51,55,-70,70,-75,55,70,125
+Crazy Strength Winter Open,2024-10-12,Women's Senior 87+Kg,Lauren Goddard,87.9,50,55,-60,-65,68,-73,55,68,123
+Crazy Strength Winter Open,2024-10-12,Women's Senior 87Kg,Katy Storey,85.4,46,48,50,64,68,72,50,72,122
+Crazy Strength Winter Open,2024-10-12,Men's Senior 73Kg,Drew Ash,68.5,-45,-48,48,60,65,69,48,69,117
+Crazy Strength Winter Open,2024-10-12,Women's Senior 64Kg,Zoe Jones,61.4,48,50,-54,58,-63,66,50,66,116
+Crazy Strength Winter Open,2024-10-12,Women's Under 23 59Kg,Afreen Akthar,58.7,49,51,53,-63,63,-66,53,63,116
+Crazy Strength Winter Open,2024-10-12,Men's Masters (45-49) 96Kg,Rhys Gudgin,92.6,50,0,0,65,0,0,50,65,115
+Crazy Strength Winter Open,2024-10-12,Women's Masters (40-44) 64Kg,Sarah Hobby,63.9,46,49,-52,62,-65,65,49,65,114
+Crazy Strength Winter Open,2024-10-12,Men's Youth Under 17 89Kg,Jack Holden,84.2,47,50,54,-55,57,60,54,60,114
+Crazy Strength Winter Open,2024-10-12,Women's Senior 64Kg,Emily Chappell,59.8,47,-50,51,53,56,-60,51,56,107
+Crazy Strength Winter Open,2024-10-12,Women's Senior 87+Kg,Emma Whiting,122.3,45,47,-50,55,58,-60,47,58,105
+Crazy Strength Winter Open,2024-10-12,Women's Masters (40-44) 71Kg,Jenna Meigh,68.5,45,47,50,55,-61,-61,50,55,105
+Crazy Strength Winter Open,2024-10-12,Women's Masters (45-49) 71Kg,Leah Kibbey,67.6,35,-38,38,55,-60,60,38,60,98
+Crazy Strength Winter Open,2024-10-12,Women's Senior 59Kg,Philippa  Fox,57,35,38,-41,49,53,-56,38,53,91
+Crazy Strength Winter Open,2024-10-12,Women's Masters (50-54) 59Kg,Claire House-Norman,55.8,34,37,40,40,44,47,40,47,87
+Crazy Strength Winter Open,2024-10-12,Women's Youth Under 15 71Kg,Sarah Spalding,66.3,35,37,-40,43,46,-48,37,46,83
+Crazy Strength Winter Open,2024-10-12,Women's Masters (60-64) 71Kg,Rachel Diserens,65.9,32,34,-36,-42,42,-44,34,42,76
+Crazy Strength Winter Open,2024-10-12,Women's Senior 71Kg,Tessa Brice,65.7,51,54,57,-65,-68,-68,57,0,0
+Crazy Strength Winter Open,2024-10-12,Women's Senior 64Kg,Harriet Chiam,62.2,-61,-61,-61,70,75,78,0,78,0
