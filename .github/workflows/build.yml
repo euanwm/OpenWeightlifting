@@ -14,10 +14,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-    - name: Use Node.js 18.X
+    - name: Use Node.js LTS
       uses: actions/setup-node@v3
       with:
-        node-version: "18.x"
+        node-version: "22.12.0"
         cache: 'npm'
         cache-dependency-path: 'frontend/package-lock.json'
     - run: npm install
