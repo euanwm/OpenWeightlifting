@@ -19,6 +19,9 @@ jobs:
           app-name: "dev-branch-backend"
           api-key: "${{secrets.HEROKU_API_KEY}}"
           path: "./backend/"
+      - name: Build Frontend Filters
+        uses: actions/checkout@v2
+        run: make build_frontend
       - name: Deploy Development Frontend
         uses: behe/heroku-build@v1
         with:

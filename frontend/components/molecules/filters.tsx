@@ -1,11 +1,11 @@
 import { Select, SelectItem } from '@nextui-org/react'
+import years from '../../autobuild/filter_years.json'
 
 // todo: convert to enums?
 const sortByList = [
   { value: 'total', label: 'Total' },
   { value: 'sinclair', label: 'Sinclair' },
 ]
-
 const federationList = [
   { value: 'allfeds', label: 'ALL' },
   { value: 'UK', label: 'UK' },
@@ -42,19 +42,11 @@ const weightClassList = [
   { value: 'F87+', label: 'Women\'s +87kg' }
 ]
 
-const yearsList = [
-  { value: 69, label: 'All Years' },
-  { value: 2015, label: '2015' },
-  { value: 2016, label: '2016' },
-  { value: 2017, label: '2017' },
-  { value: 2018, label: '2018' },
-  { value: 2019, label: '2019' },
-  { value: 2020, label: '2020' },
-  { value: 2021, label: '2021' },
-  { value: 2022, label: '2022' },
-  { value: 2023, label: '2023' },
-  { value: 2024, label: '2024' },
-]
+const yearsList: {label: string, value: string}[] = years.years.map(year => {
+    const [label, value] = Object.entries(year)[0]
+    return { value, label }
+})
+
 export const Filters = ({ sortBy, federation, handleFilterChange, weightClass, year }: {sortBy: string, federation: string, handleFilterChange: any, weightClass: string, year: string}) => (
   <div className="flex flex-col md:flex-row space-y-1 md:space-y-0 md:space-x-4 mt-4 mx-4">
     <Select
