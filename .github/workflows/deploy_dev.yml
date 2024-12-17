@@ -20,7 +20,9 @@ jobs:
           api-key: "${{secrets.HEROKU_API_KEY}}"
           path: "./backend/"
       - name: Build Frontend Filters
-        run: make build_frontend
+        run: |
+          make python_tools
+          make install_tools
       - name: Deploy Development Frontend
         uses: behe/heroku-build@v1
         with:
