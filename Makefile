@@ -1,9 +1,17 @@
 # OpenWeightlifting Makefile
 # Shortcuts to the most common tools should be implemented here.
 
+# Builds the backend server executable
+.PHONY: build_backend
 build_backend:
 	cp -r event_data/ backend/
 	cd backend && go build -o backend
+
+# Builds the frontend files
+.PHONY: build_frontend
+build_frontend:
+	@cd python_tools && pipenv install && pipenv run python3 fe_builder.py
+	cd frontend && npm install
 
 # Installs the python tools used to update the database
 .PHONY: install_tools
