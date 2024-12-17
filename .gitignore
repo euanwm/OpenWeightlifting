@@ -7,3 +7,6 @@
 # Ignore the event_data once it's compilation spot
 /backend/event_data/
 /backend/event_data/**/*.csv
+
+# Ignore the autobuild folder
+/frontend/autobuild/
