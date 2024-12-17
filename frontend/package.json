@@ -1,6 +1,9 @@
 {
   "name": "frontend",
   "version": "0.1.0",
+  "engines": {
+      "node": ">=22.12.0"
+  },
   "private": true,
   "scripts": {
     "dev": "API=http://localhost:8080 next dev --turbo",
