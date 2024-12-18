@@ -30,7 +30,7 @@ jobs:
           pip install pipenv
           pipenv install --dev
       - name: Build Frontend Filters
-        run: make install_tools
+        run: make build_frontend
       - name: Deploy Development Frontend
         uses: behe/heroku-build@v1
         with:
