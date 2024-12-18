@@ -7,7 +7,6 @@ import {
   TableBody,
   Link,
 } from '@nextui-org/react'
-import { FaInstagram } from 'react-icons/fa'
 import { VscGraphLine } from 'react-icons/vsc'
 import { CgProfile } from 'react-icons/cg'
 

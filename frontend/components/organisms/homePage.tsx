@@ -8,6 +8,7 @@ import { Filters } from '../molecules/filters'
 import { DataTable } from '../molecules/dataTable'
 import LifterGraphModal from '../molecules/lifterGraphModal'
 import { useRouter } from 'next/router'
+import {NoResults} from "@/components/molecules/noresults";
 
 const lifterLoadMoreQty = 50
 
@@ -67,23 +68,28 @@ function HomePage() {
           year={year}
           handleFilterChange={handleFilterChange}
         />
-        {data && (
-          <DataTable
-            lifters={data}
-            openLifterGraphHandler={lifterName =>
-              setShowLifterGraph(lifterName)
-            }
-          />
+        {data && data.size > 0 && (
+          <>
+            <DataTable
+              lifters={data}
+              openLifterGraphHandler={lifterName =>
+                setShowLifterGraph(lifterName)
+              }
+            />
+            <Button
+              className={'flex justify-center'}
+              aria-label={'Load more results'}
+              color={'primary'}
+              onClick={updateLifterList}
+              isDisabled={false}
+            >
+              Showing {stop} / {data.size} lifters...
+            </Button>
+          </>
         )}
-        <Button
-          className={'flex justify-center'}
-          aria-label={'Load more results'}
-          color={'primary'}
-          onClick={updateLifterList}
-          isDisabled={false}
-        >
-          Showing {stop} / {data?.size} lifters...
-        </Button>
+        {data?.size === 0 && (
+          <NoResults />
+        )}
       </div>
       {showLifterGraph && (
         <LifterGraphModal
