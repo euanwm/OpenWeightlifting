@@ -23,14 +23,13 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: 3.11
-      - name: Install dependencies from pipfile
+      - name: Build Frontend Filters
         run: |
           cd python_tools
           python -m pip install --upgrade pip
           pip install pipenv
           pipenv install --dev
-      - name: Build Frontend Filters
-        run: make build_frontend
+          pipenv run python3 fe_builder.py
       - name: Deploy Development Frontend
         uses: behe/heroku-build@v1
         with:
