@@ -1,0 +1,55 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Nova Winter Open,2025-02-02,Men's Senior 102Kg,Khrystopher Speed,96.45,114,120,125,145,151,157,125,157,282
+Nova Winter Open,2025-02-02,Men's Senior 109Kg,George Weston,108,110,114,117,150,155,-160,117,155,272
+Nova Winter Open,2025-02-02,Men's Senior 81Kg,Tiago Costa,76.9,101,105,110,127,131,136,110,136,246
+Nova Winter Open,2025-02-02,Men's Senior 81Kg,Dave Wooding,80.4,95,100,106,116,121,127,106,127,233
+Nova Winter Open,2025-02-02,Men's Senior 81Kg,Samuel Evans,78,96,100,-103,125,-130,130,100,130,230
+Nova Winter Open,2025-02-02,Men's Masters (35-39) 81Kg,Max Southworth,75.55,90,-95,-100,120,128,135,90,135,225
+Nova Winter Open,2025-02-02,Men's Under 23 89Kg,Makoto Kimura-Phalon,87.45,96,101,-106,122,-126,-126,101,122,223
+Nova Winter Open,2025-02-02,Men's Senior 73Kg,Jack Milton,70.55,88,94,96,120,-126,-126,96,120,216
+Nova Winter Open,2025-02-02,Men's Senior 96Kg,Nick Jones,89.9,85,92,-100,100,112,121,92,121,213
+Nova Winter Open,2025-02-02,Men's Masters (40-44) 81Kg,Daniel Cumberworth,78.6,88,92,-98,-116,120,-126,92,120,212
+Nova Winter Open,2025-02-02,Men's Youth Under 17 73Kg,Elliot  Runchman,71.15,91,96,-100,110,-116,-117,96,110,206
+Nova Winter Open,2025-02-02,Men's Senior 81Kg,Tristan Wade,74.45,-75,75,80,105,110,-115,80,110,190
+Nova Winter Open,2025-02-02,Men's Masters (40-44) 81Kg,Aaron Simkin,76.4,75,77,82,95,102,-108,82,102,184
+Nova Winter Open,2025-02-02,Men's Senior 109+Kg,Stefan Norwood-Gregory-Scrivener,110.95,75,80,-87,95,102,-110,80,102,182
+Nova Winter Open,2025-02-02,Men's Senior 73Kg,Den Chaiyarat,69.4,78,81,-85,100,-105,-106,81,100,181
+Nova Winter Open,2025-02-02,Men's Senior 89Kg,Parkin Brewer,88.1,65,70,75,97,103,-108,75,103,178
+Nova Winter Open,2025-02-02,Women's Senior 71Kg,Danielle Bagacay,67.6,70,73,76,87,92,97,76,97,173
+Nova Winter Open,2025-02-02,Men's Junior Under 20 89Kg,Edward Yu,83.75,72,77,-80,95,-101,-102,77,95,172
+Nova Winter Open,2025-02-02,Men's Junior Under 20 81Kg,Luke O’connell,78.55,71,-75,-75,-94,94,100,71,100,171
+Nova Winter Open,2025-02-02,Women's Senior 71Kg,Jessica Wheeler,70.15,75,79,-82,90,-94,-96,79,90,169
+Nova Winter Open,2025-02-02,Women's Senior 55Kg,Megan Symons,54.9,67,-70,73,85,90,-95,73,90,163
+Nova Winter Open,2025-02-02,Men's Senior 96Kg,Sam Loveday,95.35,60,65,-71,85,93,-100,65,93,158
+Nova Winter Open,2025-02-02,Women's Senior 71Kg,Alessandra Gurney,70.55,64,67,-71,-84,87,-90,67,87,154
+Nova Winter Open,2025-02-02,Women's Masters (45-49) 81Kg,Alison Mallard,80.85,60,65,70,79,-84,84,70,84,154
+Nova Winter Open,2025-02-02,Women's Senior 76Kg,Hannah Jefferys,71.45,65,-68,68,80,-83,-83,68,80,148
+Nova Winter Open,2025-02-02,Men's Senior 81Kg,Joe Gent,75.05,-58,-62,62,85,-90,-90,62,85,147
+Nova Winter Open,2025-02-02,Men's Youth Under 17 73Kg,sunny mayo,69.25,55,60,65,75,-80,81,65,81,146
+Nova Winter Open,2025-02-02,Women's Senior 87+Kg,Lauren Kauffman,97.4,-58,58,62,73,77,-81,62,77,139
+Nova Winter Open,2025-02-02,Women's Senior 87Kg,Katy Storey,84.65,52,55,58,74,78,81,58,81,139
+Nova Winter Open,2025-02-02,Women's Senior 71Kg,Aleksandra Kmieciak,68.15,58,61,64,73,-77,-78,64,73,137
+Nova Winter Open,2025-02-02,Men's Masters (55-59) 89Kg,David Evans,87.7,53,-56,-56,70,75,-80,53,75,128
+Nova Winter Open,2025-02-02,Women's Masters (35-39) 76Kg,Helen Cooper,75.55,45,50,55,-68,68,-75,55,68,123
+Nova Winter Open,2025-02-02,Women's Senior 45Kg,Esme Prior,32.25,52,55,-59,65,-68,68,55,68,123
+Nova Winter Open,2025-02-02,Women's Masters (35-39) 64Kg,Kate I’Anson,63.45,46,48,50,63,66,-70,50,66,116
+Nova Winter Open,2025-02-02,Women's Under 23 64Kg,Nellie Clark,62.65,45,48,-51,60,-64,64,48,64,112
+Nova Winter Open,2025-02-02,Women's Senior 71Kg,Kim Cheng,69.9,35,39,43,55,60,65,43,65,108
+Nova Winter Open,2025-02-02,Women's Senior 87Kg,Lotte McDonald,86.2,47,50,-53,58,-64,-67,50,58,108
+Nova Winter Open,2025-02-02,Women's Senior 64Kg,Charlotte Elson,60.2,-48,48,-52,51,54,60,48,60,108
+Nova Winter Open,2025-02-02,Women's Senior 81Kg,Monika Janonyte,80.8,46,50,-52,53,55,-58,50,55,105
+Nova Winter Open,2025-02-02,Men's Masters (50-54) 81Kg,Harshitkumar Shah,77,37,40,-43,55,58,-61,40,58,98
+Nova Winter Open,2025-02-02,Women's Youth Under 17 76Kg,Sophie Crisford,74.1,35,40,43,47,52,-57,43,52,95
+Nova Winter Open,2025-02-02,Women's Senior 76Kg,Emilia Shepherd,72.8,39,42,-45,45,50,53,42,53,95
+Nova Winter Open,2025-02-02,Women's Masters (35-39) 71Kg,Monidipa  Sarkar,69.75,38,40,42,-50,50,-53,42,50,92
+Nova Winter Open,2025-02-02,Women's Senior 71Kg,Susie Beniston ,67.4,35,38,40,45,49,-53,40,49,89
+Nova Winter Open,2025-02-02,Women's Senior 87+Kg,Katie Skipper,94.55,34,-38,-40,45,52,55,34,55,89
+Nova Winter Open,2025-02-02,Women's Masters (55-59) 81Kg,Anita Pekdemir,80.35,35,37,-39,47,50,-52,37,50,87
+Nova Winter Open,2025-02-02,Men's Masters (35-39) 89Kg,Malek  Hassan ,86.1,30,34,36,40,45,50,36,50,86
+Nova Winter Open,2025-02-02,Men's Masters (60-64) 89Kg,Eifion Jenkins,86.25,30,34,-40,48,52,-56,34,52,86
+Nova Winter Open,2025-02-02,Women's Masters (55-59) 55Kg,Rebecca Pawlikiewicz-Peacock,52.55,30,33,36,40,43,46,36,46,82
+Nova Winter Open,2025-02-02,Women's Masters (40-44) 87+Kg,Helen  Morgan,111.8,28,33,35,35,-40,40,35,40,75
+Nova Winter Open,2025-02-02,Women's Under 23 59Kg,Emilija Majute,58.9,26,29,-32,37,-42,-42,29,37,66
+Nova Winter Open,2025-02-02,Men's Senior 89Kg,Archie Davison ,84.45,90,-95,-95,-105,-105,-105,90,0,0
+Nova Winter Open,2025-02-02,Men's Senior 96Kg,Izaak Heath,92.05,70,-73,73,-89,-91,-91,73,0,0
+Nova Winter Open,2025-02-02,Men's Masters (50-54) 102Kg,Davinder Reehal,100.5,62,64,-66,-75,-75,0,64,0,0
