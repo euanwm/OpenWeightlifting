@@ -283,7 +283,8 @@ func Test_loadAllFedEvents(t *testing.T) {
 		args          args
 		wantAllEvents [][]string
 	}{
-		{name: "LoadAllEvents", args: args{federation: "UK"}, wantAllEvents: nil},
+		{name: "LoadUKEvents", args: args{federation: "UK"}, wantAllEvents: nil},
+		{name: "LoadNVFEvents", args: args{federation: "NVF"}, wantAllEvents: nil},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
