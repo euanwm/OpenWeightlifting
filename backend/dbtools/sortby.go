@@ -10,15 +10,27 @@ import (
 
 // FilterLifts - Returns a slice of structs relating to the selected filter selection
 func FilterLifts(bigData []structs.Entry, filterQuery structs.LeaderboardPayload, weightCat structs.WeightClass, cache *QueryCache) (filteredData structs.LeaderboardResponse) {
-	exists, positions := cache.CheckQuery(filterQuery)
+	queryState, positions := cache.CheckQuery(filterQuery)
 
-	if exists {
+	switch queryState {
+	case None:
+		cache.InitQuery(filterQuery)
+	case Working:
+		state := cache.QueryStatus(filterQuery)
+		for state == Working {
+			time.Sleep(1 * time.Second)
+			state = cache.QueryStatus(filterQuery)
+			if state == Completed {
+				filteredData.Data, filteredData.Size = fetchLifts(&bigData, positions, &filterQuery)
+				return
+			}
+		}
+	case Completed:
 		filteredData.Data, filteredData.Size = fetchLifts(&bigData, positions, &filterQuery)
 		return
-	}
-
-	if !exists && positions != nil {
-		bigData = fetchLiftsAll(&bigData, positions)
+	default:
+		// if you hit this, fuck you
+		panic("Invalid query state")
 	}
 
 	var names []string
