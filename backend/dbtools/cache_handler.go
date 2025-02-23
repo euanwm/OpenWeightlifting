@@ -1,7 +1,6 @@
 package dbtools
 
 import (
-	"backend/enum"
 	"backend/structs"
 	"sync"
 )
@@ -11,7 +10,6 @@ type QueryState int
 const (
 	None QueryState = iota
 	Working
-	Partial
 	Completed
 )
 
@@ -26,6 +24,7 @@ type Query struct {
 
 // AddQuery - Adds a query to the cache.
 func (q *QueryCache) AddQuery(query structs.LeaderboardPayload, dataPositions []int) {
+	query.Start, query.Stop = 0, 0
 	q.HashStore.Store(query, Query{dataPositions, Completed})
 }
 
@@ -37,6 +36,7 @@ func (q *QueryCache) InitQuery(query structs.LeaderboardPayload) {
 }
 
 func (q *QueryCache) QueryStatus(query structs.LeaderboardPayload) QueryState {
+	query.Start, query.Stop = 0, 0
 	queryStuff, ok := q.HashStore.Load(query)
 	if !ok {
 		return None
@@ -50,38 +50,19 @@ func (q *QueryCache) QueryStatus(query structs.LeaderboardPayload) QueryState {
 }
 
 // CheckQuery - Checks if the query has been run before, if so, return the query state and data positions if they exist
-func (q *QueryCache) CheckQuery(query structs.LeaderboardPayload) (QueryState, []int) {
+func (q *QueryCache) CheckQuery(query structs.LeaderboardPayload) (state QueryState, positions []int) {
+	query.Start, query.Stop = 0, 0
 	loadedData, ok := q.HashStore.Load(query)
 	if ok {
 		storedQuery, ok := loadedData.(Query)
-		if ok {
-			return storedQuery.Status, storedQuery.DataPositions
+		if ok && (storedQuery.Status == Completed) || (storedQuery.Status == Working) {
+			state = storedQuery.Status
+			positions = storedQuery.DataPositions
+			return
 		}
 	}
 
-	state := None
-	var positions []int
-	q.HashStore.Range(func(key, value interface{}) bool {
-		loadedQuery, _ := value.(Query)
-		queryPayload, _ := key.(structs.LeaderboardPayload)
-		if queryPayload.SortBy == query.SortBy && queryPayload.Federation == query.Federation && queryPayload.WeightClass == query.WeightClass && queryPayload.Year == enum.AllYearsStr {
-			positions = loadedQuery.DataPositions
-			state = Partial
-			return false
-		}
-		if queryPayload.SortBy == query.SortBy && queryPayload.Federation == query.Federation && queryPayload.Year == enum.AllYearsStr {
-			if query.WeightClass[0] == 'M' && queryPayload.WeightClass == "MALL" {
-				positions = loadedQuery.DataPositions
-				state = Partial
-				return false
-			}
-			if query.WeightClass[0] == 'F' && queryPayload.WeightClass == "FALL" {
-				positions = loadedQuery.DataPositions
-				state = Partial
-				return false
-			}
-		}
-		return false
-	})
+	state = None
+	positions = []int{}
 	return state, positions
 }

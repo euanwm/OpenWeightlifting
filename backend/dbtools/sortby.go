@@ -18,7 +18,7 @@ func FilterLifts(bigData []structs.Entry, filterQuery structs.LeaderboardPayload
 	case Working:
 		state := cache.QueryStatus(filterQuery)
 		for state == Working {
-			time.Sleep(1 * time.Second)
+			time.Sleep(100 * time.Millisecond)
 			state = cache.QueryStatus(filterQuery)
 			if state == Completed {
 				filteredData.Data, filteredData.Size = fetchLifts(&bigData, positions, &filterQuery)
