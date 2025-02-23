@@ -62,6 +62,27 @@ func FilterLifts(bigData []structs.Entry, filterQuery structs.LeaderboardPayload
 }
 
 func PreCacheFilter(bigData []structs.Entry, filterQuery structs.LeaderboardPayload, weightCat structs.WeightClass, cache *QueryCache) {
+	queryState, _ := cache.CheckQuery(filterQuery)
+
+	switch queryState {
+	case None:
+		cache.InitQuery(filterQuery)
+	case Working:
+		state := cache.QueryStatus(filterQuery)
+		for state == Working {
+			time.Sleep(100 * time.Millisecond)
+			state = cache.QueryStatus(filterQuery)
+			if state == Completed {
+				return
+			}
+		}
+	case Completed:
+		return
+	default:
+		// if you hit this, fuck you
+		panic("Invalid query state")
+	}
+
 	var names []string
 	var liftPtr *structs.Entry
 	var liftPositions []int
