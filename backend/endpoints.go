@@ -175,7 +175,7 @@ func LifterHistory(c *gin.Context) {
 //		@Success		200	{object}	structs.LeaderboardResponse
 //		@Router			/leaderboard [post]
 func Leaderboard(c *gin.Context) {
-	sortby, exists := c.GetQuery("sortby")
+	sortby, exists := c.GetQuery("sortBy")
 	if !exists {
 		sortby = "total"
 	}
