@@ -117,13 +117,6 @@ func fetchLifts(bigData *[]structs.Entry, pos []int, query *structs.LeaderboardP
 	return
 }
 
-func fetchLiftsAll(bigData *[]structs.Entry, pos []int) (lifts []structs.Entry) {
-	for _, p := range pos {
-		lifts = append(lifts, (*bigData)[p])
-	}
-	return
-}
-
 // SortSinclair Descending order by entry sinclair
 func SortSinclair(sliceStructs []structs.Entry) {
 	sort.Slice(sliceStructs, func(i, j int) bool {
