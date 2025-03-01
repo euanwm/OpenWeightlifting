@@ -2,9 +2,9 @@ name: Build
 
 on:
   push:
-    branches: [ "development", "master" ]
+    branches: ["development"]
   pull_request:
-    branches: [ "development", "master" ]
+    branches: ["development"]
 
 jobs:
   build_frontend:
@@ -53,13 +53,6 @@ jobs:
         run: |
           cd backend/
           go test -coverprofile=coverage.txt ./...
-
-      - name: Upload coverage reports to Codecov
-        uses: codecov/codecov-action@v3
-        with:
-          files: /backend/coverage.txt
-          verbose: true
-          token: ${{ secrets.CODECOV_TOKEN }}
 
   build_tool:
     runs-on: ubuntu-latest
