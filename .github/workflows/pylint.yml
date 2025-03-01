@@ -2,9 +2,9 @@ name: Pylint
 
 on:
   push:
-    branches: [ "development", "master"]
+    branches: ["development"]
   pull_request:
-    branches: [ "development", "master"]
+    branches: ["development"]
 
 jobs:
   build:
