@@ -1,4 +1,5 @@
 import { Html, Head, Main, NextScript } from 'next/document'
+import Script from 'next/script'
 
 export default function Document() {
   return (
@@ -6,8 +7,8 @@ export default function Document() {
       <Head />
       <title>OpenWeightlifting</title>
         <body className="min-h-screen bg-background font-sans antialiased">
-        <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="openweightlifting" data-description="Support me on Buy me a coffee!" data-message="" data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18" async />
-      <Main />
+        <Script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="openweightlifting" data-description="Support us on Buy me a coffee!" data-message="" data-color="#00B0F0" data-position="Right" data-x_margin="18" data-y_margin="18" />
+        <Main />
       <NextScript />
       </body>
     </Html>
