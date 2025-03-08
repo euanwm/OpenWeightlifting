@@ -4,7 +4,14 @@ import sys
 from sys import argv
 from datetime import datetime
 
-from database_handler import AustraliaWeightlifting, InternationalWF, Norway, FranceInterface, DBHandler
+from database_handler import (
+    AustraliaWeightlifting,
+    InternationalWF,
+    Norway,
+    FranceInterface,
+    DBHandler,
+    write_swiss_data,
+)
 
 
 # pylint: disable=too-few-public-methods
@@ -39,6 +46,8 @@ class CLICommands:
             case "ffh":
                 france = FranceInterface()
                 france.update_results()
+            case "ch":
+                write_swiss_data("../event_data/CH")
             case "all":
                 year = datetime.now().year
                 print("Updating UK Database")
@@ -61,6 +70,8 @@ class CLICommands:
                 print("Updating France Database")
                 france = FranceInterface()
                 france.update_results()
+                print("Writing Swiss Database")
+                write_swiss_data("../event_data/CH")
             case _:
                 sys.exit(f"database not found: {db_name}")
 
