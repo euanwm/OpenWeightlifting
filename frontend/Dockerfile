@@ -1,5 +1,5 @@
 # base image
-FROM node:18.4-alpine
+FROM node:20-alpine
 ARG API
 ENV API $API
 
