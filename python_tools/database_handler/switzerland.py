@@ -203,7 +203,9 @@ def row_to_entry(row: Tag) -> Entry | None:
         return None
 
 
-def filter_map[T, U](f: Callable[[T], U | None], l: Iterable[T]) -> Iterator[U]:
+# requires python 3.12
+# def filter_map[T, U](f: Callable[[T], U | None], l: Iterable[T]) -> Iterator[U]:
+def filter_map(f, l):
     return filter(None, map(f, l))
 
 
