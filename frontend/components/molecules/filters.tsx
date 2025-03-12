@@ -14,7 +14,8 @@ const federationList = [
   { value: 'NVF', label: 'Norway' },
   { value: 'FFH', label: 'France' },
   { value: 'IWF', label: 'IWF' },
-  { value: 'OPEN', label: 'OPEN'}
+  { value: 'OPEN', label: 'OPEN'},
+  { value: 'CH', label: 'Switzerland' },
 ]
 
 const weightClassList = [
