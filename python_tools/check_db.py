@@ -3,6 +3,7 @@ matches the Result dataclass """
 import logging
 import re
 import sys
+import json
 from os import getcwd, listdir
 from os.path import join
 from typing import Optional
@@ -42,10 +43,21 @@ def __single_database() -> Optional[list[str]]:
     else:
         return None
 
+def __load_gender_cats() -> list:
+    gender_cat_fname = "database_handler/gender_categories.json"
+    with open(gender_cat_fname, 'r', encoding='utf-8') as gender_cat_file:
+        cat_dict: dict = json.load(gender_cat_file)
+    # I am aware this is lazy but oh well
+    cat_list = cat_dict["male"]
+    cat_list.append(cat_dict["female"])
+    return cat_list
+
 
 def check_files(folder_path: str) -> bool:
     """check_files() checks all CSV files within a folder and that it matches the
     Result dataclass"""""
+    valid_categories = __load_gender_cats()
+    number_of_non_conforming_categories = 0
     pass_test = True
     for file in listdir(folder_path):
         csv_filepath = join(folder_path, file)
@@ -71,9 +83,12 @@ def check_files(folder_path: str) -> bool:
                         if entry.total > 0 and entry.total != entry.best_snatch + entry.best_cj:
                             print(f"Total incorrect for {entry}\nFile: {csv_filepath}\n")
                             pass_test = False
+                    if entry.category not in valid_categories:
+                        number_of_non_conforming_categories = number_of_non_conforming_categories + 1
             except ValueError:
                 pass_test = False
                 print(f"Error in file: {csv_filepath}")
+    print("Non-conforming categories:", number_of_non_conforming_categories)
     return pass_test
 
 
