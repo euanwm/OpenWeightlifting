@@ -14,5 +14,5 @@ describe('fetchLifterData', () => {
     const result = await fetchLifterData(params);
     expect(result.size).toBeGreaterThan(40000)
     expect(result.data.length).toBe(10)
-  })
+  }, 60 * 1000)
 })
