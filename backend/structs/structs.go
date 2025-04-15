@@ -1,9 +1,11 @@
 package structs
 
 type WeightClass struct {
-	Gender string
-	Upper  float32
-	Lower  float32
+	Gender   string
+	Upper    float32
+	Lower    float32
+	DateFrom string
+	DateTo   string
 }
 
 type ContainerTime struct {
