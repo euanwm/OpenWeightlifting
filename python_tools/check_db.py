@@ -58,6 +58,7 @@ def check_files(folder_path: str) -> bool:
     Result dataclass"""""
     valid_categories = __load_gender_cats()
     number_of_non_conforming_categories = 0
+    number_of_conforming_masters_categories = 0
     pass_test = True
     for file in listdir(folder_path):
         csv_filepath = join(folder_path, file)
@@ -84,13 +85,21 @@ def check_files(folder_path: str) -> bool:
                             print(f"Total incorrect for {entry}\nFile: {csv_filepath}\n")
                             pass_test = False
                     if entry.category not in valid_categories:
+                        if "Masters" in entry.category and not partial_match(entry.category, valid_categories):
+                            number_of_non_conforming_categories += 1
                         number_of_non_conforming_categories = number_of_non_conforming_categories + 1
             except ValueError:
                 pass_test = False
                 print(f"Error in file: {csv_filepath}")
     print("Non-conforming categories:", number_of_non_conforming_categories)
+    print("Non-conforming masters categories:", number_of_conforming_masters_categories)
     return pass_test
 
+def partial_match(category: str, valid_categories: list) -> bool:
+    for cat in valid_categories:
+        if cat.find(category):
+            return True
+    return False
 
 def assign_dataclass(data: list) -> Result:
     """ Assigns the data to the Result dataclass """
