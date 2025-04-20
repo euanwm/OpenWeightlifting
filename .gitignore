@@ -9,4 +9,4 @@
 /backend/event_data/**/*.csv
 
 # Ignore the autobuild folder
-frontend/autobuild
+frontend/autobuild/
