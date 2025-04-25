@@ -14,10 +14,8 @@ import { MdOutlinePersonSearch } from 'react-icons/md'
 import { FiHome } from 'react-icons/fi'
 
 import Logo from '../../public/OWL-logo.png'
+import OPLLogo from '../../public/opl-logo.png'
 import { useState } from 'react'
-import { TbBrandPatreon } from "react-icons/tb";
-import { LuBookOpenCheck } from "react-icons/lu";
-import { BsPatchQuestion } from "react-icons/bs";
 
 const HeaderBar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
@@ -26,7 +24,7 @@ const HeaderBar = () => {
     <Navbar isBordered className="py-2">
       <NavbarBrand>
         <Link href="/">
-          <Image src={Logo} alt="OpenWeightlifting" height={70} />
+          <Image src={Logo} alt="OpenWeightlifting" height={70} priority={true}/>
         </Link>
       </NavbarBrand>
 
@@ -37,12 +35,6 @@ const HeaderBar = () => {
           <Link href="/">
             <FiHome size="30px" className="mt-2"/>
             <span className="ml-2">Home</span>
-          </Link>
-        </NavbarMenuItem>
-        <NavbarMenuItem>
-          <Link href="/about">
-            <BsPatchQuestion size="30px" className="mt-2"/>
-            <span className="ml-2">About Us</span>
           </Link>
         </NavbarMenuItem>
         <NavbarMenuItem>
@@ -58,21 +50,9 @@ const HeaderBar = () => {
           </Link>
         </NavbarMenuItem>
         <NavbarMenuItem>
-          <Link href="/rulebook">
-            <LuBookOpenCheck size="30px" />
-            <span className="ml-2">The Rulebook</span>
-          </Link>
-        </NavbarMenuItem>
-        <NavbarMenuItem>
           <Link href="/sinclair">
             <SlCalculator size="30px" />
             <span className="ml-2">Sinclair Calculator</span>
-          </Link>
-        </NavbarMenuItem>
-        <NavbarMenuItem>
-          <Link href="https://www.patreon.com/OpenWeightlifting">
-            <TbBrandPatreon size="30px" />
-            <span className="ml-2">Support Us</span>
           </Link>
         </NavbarMenuItem>
         <NavbarMenuItem>
@@ -85,6 +65,12 @@ const HeaderBar = () => {
           <Link href="https://github.com/euanwm/OpenWeightlifting">
             <FaGithub size="30px" />
             <span className="ml-2">GitHub</span>
+          </Link>
+        </NavbarMenuItem>
+        <NavbarMenuItem>
+          <Link href="https://www.openpowerlifting.org/">
+            <Image src={OPLLogo} alt="OpenPowerlifting" height={30}/>
+            <span className="ml-2">OpenPowerlifting</span>
           </Link>
         </NavbarMenuItem>
       </NavbarMenu>

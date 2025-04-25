@@ -1,0 +1,4 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Ox Weightlifting Cub comp #1,2024-01-20,female,Samantha Walker,67.30,77,81,83,92,-95,95,83,95,178
+Ox Weightlifting Cub comp #1,2024-01-20,male,Ripley Thomson,75.50,79,83,-86,100,105,-110,83,105,188
+Ox Weightlifting Cub comp #1,2024-01-20,male,Marcel Nejatian,87.50,-100,100,-105,125,130,-135,100,130,230

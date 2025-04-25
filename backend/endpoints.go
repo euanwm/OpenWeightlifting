@@ -22,14 +22,14 @@ var DiscoKaren discordbot.DiscordBot
 // LeaderboardData is a global variable that is used to hold the leaderboard data.
 var LeaderboardData structs.LeaderboardData
 
-// this is remnant of the instagram linking code
-// var lifterData = lifter.Build()
-
 // QueryCache is a global variable that is used to cache queries for the leaderboard endpoint.
 var QueryCache dbtools.QueryCache
 
 // EventsData is a global variable that is used to hold the event metadata.
 var EventsData structs.EventsMetaData
+
+// TheBank is a glorified byte counter, but it can be expanded to do more stuff
+var TheBank structs.BeanCounter
 
 // ServerTime godoc
 //
@@ -73,7 +73,16 @@ func SearchName(c *gin.Context) {
 		if len(results.Names) > maxResults {
 			results.Names = results.Names[:maxResults]
 		}
-		c.JSON(http.StatusOK, results)
+		// todo: bug here as an empty struct is returned if no results are found higher up in the stack
+		if len(results.Names) > 1 {
+			c.JSON(http.StatusOK, results)
+		} else if len(results.Names) == 1 {
+			if len(results.Names[0].Name) > 0 {
+				c.JSON(http.StatusOK, results)
+			} else {
+				c.JSON(http.StatusNoContent, nil)
+			}
+		}
 	}
 }
 
@@ -166,23 +175,65 @@ func LifterHistory(c *gin.Context) {
 //		@Success		200	{object}	structs.LeaderboardResponse
 //		@Router			/leaderboard [post]
 func Leaderboard(c *gin.Context) {
-	sortby, exists := c.GetQuery("sortby")
+	// There are 2 sorted leaderboards currently, sinclair and total. We default to total.
+	sortby, exists := c.GetQuery("sortBy")
 	if !exists {
 		sortby = "total"
 	}
+
+	// If no federation is selected then we assume all federations
 	federation, exists := c.GetQuery("federation")
 	if !exists {
 		federation = enum.ALLFEDS
 	}
+
+	// If no weight category is selected then we default to everyone
 	weightclass, exists := c.GetQuery("weightclass")
 	if !exists {
 		weightclass = "MALL"
 	}
-	year, exists := c.GetQuery("year")
-	if !exists {
-		year = strconv.Itoa(enum.AllYears)
+
+	// Filter by year or within a certain range of dates
+	year, yearExists := c.GetQuery("year") // todo: fix frontend filters and remove the 69 enum for all years
+	if len(year) == 2 {
+		year = ""
+		yearExists = false
 	}
 
+	startDate, startDateExists := c.GetQuery("startdate")
+	if !startDateExists {
+		if !yearExists {
+			startDate = enum.ZeroDate
+		}
+	}
+
+	if startDateExists && yearExists {
+		c.JSON(http.StatusBadRequest, gin.H{"error": "Year and date ranges are exclusive"})
+		return
+	}
+
+	endDate, endDateExists := c.GetQuery("enddate")
+	if !endDateExists {
+		if !yearExists {
+			endDate = enum.MaxDate
+		}
+	}
+
+	if endDateExists && yearExists {
+		c.JSON(http.StatusBadRequest, gin.H{"error": "Year and date ranges are exclusive"})
+		return
+	}
+
+	if yearExists && !startDateExists && !endDateExists {
+		oneYear, err := strconv.Atoi(year)
+		if err != nil {
+			panic(err)
+		}
+		startDate = year + "-01-01"
+		endDate = strconv.Itoa(oneYear+1) + "-01-01"
+	}
+
+	// Amount of results and positions to start at in the leaderboard
 	start, exists := c.GetQuery("start")
 	if !exists {
 		start = "0"
@@ -207,20 +258,8 @@ func Leaderboard(c *gin.Context) {
 		Federation:  federation,
 		WeightClass: weightclass,
 		Year:        year,
-	}
-
-	// todo: remove this once the frontend filters have been updated to suit
-	switch body.Year {
-	case strconv.Itoa(enum.AllYears):
-		body.StartDate = enum.ZeroDate
-		body.EndDate = enum.MaxDate
-	default:
-		body.StartDate = body.Year + "-01-01"
-		oneYear, err := strconv.Atoi(body.Year)
-		if err != nil {
-			panic(err)
-		}
-		body.EndDate = strconv.Itoa(oneYear+1) + "-01-01"
+		StartDate:   startDate,
+		EndDate:     endDate,
 	}
 
 	leaderboardData := LeaderboardData.Select(body.SortBy) // Selects either total or sinclair sorted leaderboard
@@ -259,24 +298,33 @@ func Events(c *gin.Context) {
 //		@Summary	Fetch a single event
 //		@Schemes
 //		@Description	Fetch a single event by ID and federation.
-//		@Tags			POST Requests
+//		@Tags			GET Requests
 //	 @Param federation body string true "Federation of the event"
 //	 @Param id body string true "ID of the event"
 //		@Accept			json
 //		@Produce		json
 //		@Success		200	{array}	 []structs.LeaderboardResponse
 //		@Failure		204	{object}	nil
-//		@Router			/events [post]
+//		@Router			/events [get]
 func SingleEvent(c *gin.Context) {
 	var response structs.LeaderboardResponse
-	var query structs.SingleEvent
-	if err := c.BindJSON(&query); err != nil {
-		abortErr := c.AbortWithError(http.StatusBadRequest, err)
-		log.Println(abortErr)
-		return
+	var federation, fedExists = c.GetQuery("fed")
+	var csvID, idExists = c.GetQuery("id")
+	var date, dateExists = c.GetQuery("date")
+	var eventNameReq, nameExists = c.GetQuery("name")
+	// federation and csvID are required
+	if fedExists && idExists {
+		response.Data = dbtools.LoadSingleEvent(federation, csvID)
+	} else if fedExists && nameExists {
+		// federation and event name are required
+		response.Data = LeaderboardData.FetchByEventName(eventNameReq)
+		// date is optional, but I'd recommend it because I fucking said so and I can't be bothered explaining at 2323hrs on a Tuesday-cunting-night
+		// only reason why it's even here is some federations load their multi-day events as such and not all on the same day
+		if dateExists {
+			response.Data, response.Size = response.FilterByDate(date)
+		}
 	}
 
-	response.Data = dbtools.LoadSingleEvent(query.Federation, query.ID)
 	response.Size = len(response.Data)
 	if response.Size == 0 {
 		c.JSON(http.StatusNoContent, nil)

@@ -9,12 +9,26 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - name: Move event_data
+        run: |
+          cp -r event_data/ backend/
       - name: Deploy OWL Backend
         uses: behe/heroku-build@v1
         with:
           app-name: "owl-production-backend"
           api-key: "${{secrets.HEROKU_API_KEY}}"
           path: "./backend/"
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.11
+      - name: Build Frontend Filters
+        run: |
+          cd python_tools
+          python -m pip install --upgrade pip
+          pip install pipenv
+          pipenv install --dev
+          pipenv run python3 fe_builder.py
       - name: Deploy OWL Frontend
         uses: behe/heroku-build@v1
         with:

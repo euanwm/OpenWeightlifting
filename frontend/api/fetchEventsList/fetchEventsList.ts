@@ -1,3 +1,5 @@
+"use client"
+
 import { EventsList, EventsListRequest } from "@/api/fetchEventsList/fetchEventsListTypes";
 
 export default  async function fetchEventsList(

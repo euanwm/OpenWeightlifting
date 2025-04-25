@@ -1,0 +1,42 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+West Mids Summer Open,2024-07-21,Men's Masters (35-39) 96Kg,Ben Bradford,94.8,115,120,125,145,-150,152,125,152,277
+West Mids Summer Open,2024-07-21,Men's Senior 96Kg,Jake Benson,95.55,-112,112,117,143,-148,-150,117,143,260
+West Mids Summer Open,2024-07-21,Men's Senior 96Kg,Jack Saunders,91.25,110,115,-120,135,140,-145,115,140,255
+West Mids Summer Open,2024-07-21,Men's Senior 109Kg,Dean Jones,108.3,100,-106,106,135,-143,-150,106,135,241
+West Mids Summer Open,2024-07-21,Men's Senior 89Kg,Daniel Steele,89,100,105,-110,118,123,126,105,126,231
+West Mids Summer Open,2024-07-21,Men's Senior 89Kg,Joshua Smith,84.5,102,105,107,115,120,123,107,123,230
+West Mids Summer Open,2024-07-21,Men's Junior Under 20 96Kg,Aaron Cheema,94.65,100,-105,-106,120,125,-127,100,125,225
+West Mids Summer Open,2024-07-21,Men's Senior 96Kg,James Anderson,95.95,90,97,-105,120,-125,-125,97,120,217
+West Mids Summer Open,2024-07-21,Men's Senior 67Kg,Abul Hasnath,66.25,93,-98,-98,-118,-118,118,93,118,211
+West Mids Summer Open,2024-07-21,Men's Senior 109Kg,Adam Brigham,108.3,93,98,103,105,-115,-115,103,105,208
+West Mids Summer Open,2024-07-21,Men's Junior Under 20 81Kg,Artis Vardanjans,78.5,90,-95,-98,110,115,-121,90,115,205
+West Mids Summer Open,2024-07-21,Men's Senior 67Kg,Aiman Raja,66.55,85,-88,88,105,108,-112,88,108,196
+West Mids Summer Open,2024-07-21,Men's Masters (35-39) 73Kg,Luis Ruiz,71.3,80,-86,-91,105,110,-116,80,110,190
+West Mids Summer Open,2024-07-21,Men's Senior 102Kg,James Carpenter,99.8,70,75,82,90,97,105,82,105,187
+West Mids Summer Open,2024-07-21,Men's Senior 81Kg,Diego Couto Santos,80.25,-75,75,85,90,100,-115,85,100,185
+West Mids Summer Open,2024-07-21,Men's Masters (35-39) 102Kg,Paul Walpole,98.8,75,80,85,95,100,-105,85,100,185
+West Mids Summer Open,2024-07-21,Men's Senior 89Kg,Joshua Beckett,88.35,73,76,-79,96,101,104,76,104,180
+West Mids Summer Open,2024-07-21,Women's Senior 71Kg,Jasmine Isoyama,70.6,75,78,-81,94,98,-101,78,98,176
+West Mids Summer Open,2024-07-21,Men's Youth Under 15 73Kg,Isaac Bluff,69.7,70,75,80,-93,-95,95,80,95,175
+West Mids Summer Open,2024-07-21,Men's Senior 81Kg,Jonathan Ray,80.45,60,63,67,80,86,-90,67,86,153
+West Mids Summer Open,2024-07-21,Women's Youth Under 17 64Kg,Emily Arsali,64,-63,63,-68,82,-86,86,63,86,149
+West Mids Summer Open,2024-07-21,Women's Under 23 81Kg,Lucy Castle,77.55,62,65,69,75,-78,-78,69,75,144
+West Mids Summer Open,2024-07-21,Women's Senior 59Kg,Sally Thompson-Taylor,59,63,-65,-66,78,-80,-80,63,78,141
+West Mids Summer Open,2024-07-21,Men's Youth Under 15 61Kg,Rajan Nagra,59.7,56,58,61,67,70,72,61,72,133
+West Mids Summer Open,2024-07-21,Men's Youth Under 17 55Kg,Yuvraj Hayer,55,53,55,57,-71,71,-74,57,71,128
+West Mids Summer Open,2024-07-21,Women's Masters (35-39) 76Kg,Lucy Steele,75.9,-55,57,-60,70,-74,-77,57,70,127
+West Mids Summer Open,2024-07-21,Women's Senior 76Kg,Mayari Avendaño,74.55,45,48,-51,64,-68,70,48,70,118
+West Mids Summer Open,2024-07-21,Men's Masters (40-44) 81Kg,chandan verma,76.35,51,-52,52,60,61,62,52,62,114
+West Mids Summer Open,2024-07-21,Women's Junior Under 20 64Kg,morgan harris,60.1,45,48,50,64,-68,-68,50,64,114
+West Mids Summer Open,2024-07-21,Women's Under 23 59Kg,Megan Wray,57.15,48,51,53,60,-64,-65,53,60,113
+West Mids Summer Open,2024-07-21,Women's Senior 71Kg,Harriet Wain,65.25,43,46,50,60,63,-66,50,63,113
+West Mids Summer Open,2024-07-21,Women's Junior Under 20 76Kg,Chloe Hague-Naylor,74.55,45,47,-50,60,63,-67,47,63,110
+West Mids Summer Open,2024-07-21,Women's Youth Under 15 71Kg,Elizabeth Sorbie,69.15,43,46,48,53,57,60,48,60,108
+West Mids Summer Open,2024-07-21,Women's Youth Under 15 59Kg,Amy Kplomedo,57.65,40,43,46,50,54,57,46,57,103
+West Mids Summer Open,2024-07-21,Women's Youth Under 15 71Kg,Isla Adams ,67.65,-40,40,-43,-48,48,52,40,52,92
+West Mids Summer Open,2024-07-21,Women's Youth Under 15 55Kg,Lucy Kplomedo,50.9,33,36,38,40,43,46,38,46,84
+West Mids Summer Open,2024-07-21,Women's Youth Under 15 59Kg,Ava Bluff,59,35,-37,37,44,-47,-50,37,44,81
+West Mids Summer Open,2024-07-21,Women's Youth Under 15 64Kg,Melissa Arsali,64,38,-40,-40,39,40,41,38,41,79
+West Mids Summer Open,2024-07-21,Women's Youth Under 12 59Kg,Camryn  Carter,55.7,32,34,35,36,38,40,35,40,75
+West Mids Summer Open,2024-07-21,Women's Youth Under 15 55Kg,Holly Beaumont,51.25,26,28,30,32,33,34,30,34,64
+West Mids Summer Open,2024-07-21,Women's Senior 87Kg,Heather James,81.55,-65,-65,-65,0,0,0,0,0,0

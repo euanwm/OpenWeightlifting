@@ -1,5 +1,6 @@
 FROM golang:1.21-alpine AS build
 WORKDIR /work
+COPY ../event_data ./event_data
 COPY . .
 RUN \
   --mount=type=cache,target=/root/.cache/go-build \

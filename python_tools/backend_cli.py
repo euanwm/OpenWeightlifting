@@ -4,7 +4,14 @@ import sys
 from sys import argv
 from datetime import datetime
 
-from database_handler import AustraliaWeightlifting, InternationalWF, Norway, FranceInterface, DBHandler
+from database_handler import (
+    AustraliaWeightlifting,
+    InternationalWF,
+    Norway,
+    FranceInterface,
+    DBHandler,
+    write_swiss_data,
+)
 
 
 # pylint: disable=too-few-public-methods
@@ -20,15 +27,15 @@ class CLICommands:
                 norway = Norway()
                 norway.update_results()
             case "iwf":
-                iwf_db = InternationalWF("../backend/event_data/IWF")
+                iwf_db = InternationalWF("../event_data/IWF")
                 iwf_db.update_results()
             case "uk":
                 uk_db = DBHandler("https://bwl.sport80.com/",
-                                  "../backend/event_data/UK")
+                                  "../event_data/UK")
                 uk_db.update_results(datetime.now().year)
             case "us":
                 us_db = DBHandler(
-                    "https://usaweightlifting.sport80.com/", "../backend/event_data/US")
+                    "https://usaweightlifting.sport80.com/", "../event_data/US")
                 us_db.update_results(datetime.now().year)
             case "aus":
                 aus_db = AustraliaWeightlifting()
@@ -36,24 +43,26 @@ class CLICommands:
                 # leaving these here for debugging
                 # aus_db.rebuild_db()
                 # aus_db.add_single(15)
-            case "france":
+            case "ffh":
                 france = FranceInterface()
                 france.update_results()
+            case "ch":
+                write_swiss_data("../event_data/CH")
             case "all":
                 year = datetime.now().year
                 print("Updating UK Database")
                 uk_db = DBHandler("https://bwl.sport80.com/",
-                                  "../backend/event_data/UK")
+                                  "../event_data/UK")
                 uk_db.update_results(year)
                 print("Updating US Database")
                 us_db = DBHandler(
-                    "https://usaweightlifting.sport80.com/", "../backend/event_data/US")
+                    "https://usaweightlifting.sport80.com/", "../event_data/US")
                 us_db.update_results(year)
                 print("Updating AWF Database")
                 aus_db = AustraliaWeightlifting()
                 aus_db.update_db()
                 print("Updating IWF Database")
-                iwf_db = InternationalWF("../backend/event_data/IWF")
+                iwf_db = InternationalWF("../event_data/IWF")
                 iwf_db.update_results()
                 print("Updating NVF Database")
                 norway = Norway()
@@ -61,6 +70,8 @@ class CLICommands:
                 print("Updating France Database")
                 france = FranceInterface()
                 france.update_results()
+                print("Writing Swiss Database")
+                write_swiss_data("../event_data/CH")
             case _:
                 sys.exit(f"database not found: {db_name}")
 
@@ -69,7 +80,10 @@ class CLICommands:
         match db_name:
             case "ffh":
                 france = FranceInterface()
-                france.build_database()
+                france.new_build_database()
+            case "iwf":
+                iwf = InternationalWF("../event_data/IWF")
+                iwf.build_database()
             case _:
                 sys.exit(f"database not found: {db_name}")
 

@@ -1,3 +1,5 @@
+"use client"
+
 import { LifterResult } from '@/api/fetchLifterData/fetchLifterDataTypes'
 
 

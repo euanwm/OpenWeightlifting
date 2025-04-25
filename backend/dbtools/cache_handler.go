@@ -2,28 +2,67 @@ package dbtools
 
 import (
 	"backend/structs"
+	"sync"
+)
+
+type QueryState int
+
+const (
+	None QueryState = iota
+	Working
+	Completed
 )
 
 type QueryCache struct {
-	Store []Query
+	HashStore sync.Map // [structs.LeaderboardPayload]Query
 }
 
 type Query struct {
-	Filter        structs.LeaderboardPayload
 	DataPositions []int
+	Status        QueryState
 }
 
 // AddQuery - Adds a query to the cache.
 func (q *QueryCache) AddQuery(query structs.LeaderboardPayload, dataPositions []int) {
-	q.Store = append(q.Store, Query{Filter: query, DataPositions: dataPositions})
+	query.Start, query.Stop = 0, 0
+	q.HashStore.Store(query, Query{dataPositions, Completed})
 }
 
-// CheckQuery - Checks if the query has been run before, if so, return the data positions.
-func (q *QueryCache) CheckQuery(query structs.LeaderboardPayload) (bool, []int) {
-	for _, cacheQuery := range q.Store {
-		if cacheQuery.Filter.SortBy == query.SortBy && cacheQuery.Filter.Federation == query.Federation && cacheQuery.Filter.WeightClass == query.WeightClass && cacheQuery.Filter.StartDate == query.StartDate && cacheQuery.Filter.EndDate == query.EndDate {
-			return true, cacheQuery.DataPositions
+func (q *QueryCache) InitQuery(query structs.LeaderboardPayload) {
+	q.HashStore.Store(query, Query{
+		DataPositions: nil,
+		Status:        Working,
+	})
+}
+
+func (q *QueryCache) QueryStatus(query structs.LeaderboardPayload) QueryState {
+	query.Start, query.Stop = 0, 0
+	queryStuff, ok := q.HashStore.Load(query)
+	if !ok {
+		return None
+	} else {
+		query, ok := queryStuff.(Query)
+		if !ok {
+			panic("how the fuck did you fuck this up?")
+		}
+		return query.Status
+	}
+}
+
+// CheckQuery - Checks if the query has been run before, if so, return the query state and data positions if they exist
+func (q *QueryCache) CheckQuery(query structs.LeaderboardPayload) (state QueryState, positions []int) {
+	query.Start, query.Stop = 0, 0
+	loadedData, ok := q.HashStore.Load(query)
+	if ok {
+		storedQuery, ok := loadedData.(Query)
+		if ok && (storedQuery.Status == Completed) || (storedQuery.Status == Working) {
+			state = storedQuery.Status
+			positions = storedQuery.DataPositions
+			return
 		}
 	}
-	return false, nil
+
+	state = None
+	positions = []int{}
+	return state, positions
 }

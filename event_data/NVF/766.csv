@@ -1,0 +1,4 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+Oslo AK Seriestevne,2024-09-18,Men's Masters (40-44) 96Kg,Andreas Nordmo Skauen,96,75,80,-83,90,95,100,80,100,180
+Oslo AK Seriestevne,2024-09-18,Men's Masters (55-59) 96Kg,Lars-Thomas Grønlien,96,70,-75,-80,90,-95,0,70,90,160
+Oslo AK Seriestevne,2024-09-18,Men's Masters (65-69) 102kg,Pål Andersen,102,45,50,-55,55,60,-65,50,60,110

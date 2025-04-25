@@ -1,12 +1,13 @@
 package structs
 
 type WeightClass struct {
-	Gender string
-	Upper  WeightKg
-	Lower  WeightKg
+	Gender   string
+	Upper    WeightKg
+	Lower    WeightKg
+	DateFrom string
+	DateTo   string
 }
 
-// swagger:response ContainerTime
 type ContainerTime struct {
 	Hour int `json:"hour"`
 	Min  int `json:"min"`
@@ -17,7 +18,6 @@ type AllData struct {
 	Lifts []Entry
 }
 
-// swagger:response NameSearchResults
 type NameSearchResults struct {
 	// todo: refactor this so we don't have to worry about case sensitivity on the items within the slice
 	Names []struct {
@@ -32,7 +32,6 @@ type NameSearch struct {
 	Federation string `json:"federation"`
 }
 
-// swagger:response LifterHistory
 type ChartData struct {
 	Dates   []string       `json:"labels"`
 	SubData []ChartSubData `json:"datasets"`
@@ -43,7 +42,6 @@ type ChartSubData struct {
 	DataSlice []float32 `json:"data"`
 }
 
-// swagger:response LifterHistory
 type LifterHistory struct {
 	NameStr string      `json:"name"`
 	Lifts   []Entry     `json:"lifts"`
@@ -77,7 +75,6 @@ type LeaderboardPayload struct {
 }
 
 // Entry Standard structs that we'll use for storing raw lift data
-// swagger:response Entry
 type Entry struct {
 	Event      string   `json:"event"`
 	Date       string   `json:"date"`
@@ -98,7 +95,6 @@ type Entry struct {
 	Instagram  string   `json:"instagram"`
 }
 
-// swagger:response LeaderboardResponse
 type LeaderboardResponse struct {
 	Size int     `json:"size"`
 	Data []Entry `json:"data"`
@@ -119,13 +115,11 @@ type SingleEventMetaData struct {
 	ID         string `json:"id"`
 }
 
-// swagger:request EventSearch
 type EventSearch struct {
 	StartDate string `json:"startdate"`
 	EndDate   string `json:"enddate"`
 }
 
-// swagger:request SingleEvent
 type SingleEvent struct {
 	Federation string `json:"federation"`
 	ID         string `json:"id"`
@@ -138,4 +132,8 @@ type EventsList struct {
 type LiftReport struct {
 	ReportedLift Entry  `json:"lift"`
 	Comments     string `json:"comments"`
+}
+
+type BeanCounter struct {
+	Bytes uint64
 }

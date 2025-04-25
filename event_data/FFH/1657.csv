@@ -1,0 +1,222 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Women 59,HORVATH Asya,56.95,47.0,50.0,52.0,-60.0,60.0,-64.0,52.0,60.0,112.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Women 64,GERACI Marianna,64.0,55.0,58.0,60.0,65.0,68.0,70.0,60.0,70.0,130.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Women 55,RENARD Lèa,52.77,43.0,-47.0,47.0,54.0,58.0,-60.0,47.0,58.0,105.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Women 64,VAN STRAATEN Clara,62.1,60.0,63.0,-66.0,-78.0,78.0,-81.0,63.0,78.0,141.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Women 76,LAURENT Emeline,73.85,70.0,74.0,-77.0,82.0,88.0,92.0,74.0,92.0,166.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 49,MOREL-BIRON Justine,48.9,50.0,53.0,-55.0,60.0,66.0,69.0,53.0,69.0,122.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 71,IAFRATE Sara,70.88,70.0,-75.0,76.0,95.0,100.0,102.0,76.0,102.0,178.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 76,VERCASSON Lisa,75.6,-70.0,70.0,-72.0,90.0,-105.0,-105.0,70.0,90.0,160.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 87,JUMEL Chiara,83.77,-73.0,73.0,-81.0,95.0,100.0,-104.0,73.0,100.0,173.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Men 61,SALVATICI Lucio,60.6,54.0,-57.0,-57.0,76.0,-81.0,-81.0,54.0,76.0,130.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Men 49,DELOEYERE Florian,48.78,-58.0,-58.0,-58.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Men 61,MAGGIO Aaron,60.93,90.0,-97.0,-98.0,98.0,-108.0,-112.0,90.0,98.0,188.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Men 61,REY Lucas,59.96,78.0,-82.0,82.0,98.0,-102.0,-105.0,82.0,98.0,180.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Men 61,DE HARO Sacha,60.79,72.0,-75.0,-77.0,93.0,96.0,-99.0,72.0,96.0,168.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Men 81,ANDREASIAN Agkop,77.69,90.0,95.0,98.0,111.0,116.0,-123.0,98.0,116.0,214.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Men 61,ALONSO Nicolas,60.49,70.0,74.0,76.0,89.0,-93.0,93.0,76.0,93.0,169.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Men 67,GLEYZE Alexis,64.7,81.0,-84.0,86.0,101.0,105.0,-108.0,86.0,105.0,191.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Men 73,CHANUT Leo,72.4,98.0,101.0,104.0,113.0,118.0,120.0,104.0,120.0,224.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Men 81,REY Dorian,79.64,-115.0,115.0,-120.0,-140.0,-140.0,140.0,115.0,140.0,255.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Men 81,DE BARROS Fabio,80.13,100.0,105.0,108.0,120.0,125.0,128.0,108.0,128.0,236.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Men 89,DESTEUQUE Maxime,84.1,118.0,122.0,-125.0,142.0,-145.0,145.0,122.0,145.0,267.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Men 61,SALVATICI Lucio,60.6,54.0,-57.0,-57.0,76.0,-81.0,-81.0,54.0,76.0,130.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Men 49,DELOEYERE Florian,48.78,-58.0,-58.0,-58.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Men 61,MAGGIO Aaron,60.93,90.0,-97.0,-98.0,98.0,-108.0,-112.0,90.0,98.0,188.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Men 61,REY Lucas,59.96,78.0,-82.0,82.0,98.0,-102.0,-105.0,82.0,98.0,180.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Men 61,DE HARO Sacha,60.79,72.0,-75.0,-77.0,93.0,96.0,-99.0,72.0,96.0,168.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Men 81,ANDREASIAN Agkop,77.69,90.0,95.0,98.0,111.0,116.0,-123.0,98.0,116.0,214.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Men 61,ALONSO Nicolas,60.49,70.0,74.0,76.0,89.0,-93.0,93.0,76.0,93.0,169.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Men 67,GLEYZE Alexis,64.7,81.0,-84.0,86.0,101.0,105.0,-108.0,86.0,105.0,191.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Men 73,CHANUT Leo,72.4,98.0,101.0,104.0,113.0,118.0,120.0,104.0,120.0,224.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Men 81,REY Dorian,79.64,-115.0,115.0,-120.0,-140.0,-140.0,140.0,115.0,140.0,255.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Men 81,DE BARROS Fabio,80.13,100.0,105.0,108.0,120.0,125.0,128.0,108.0,128.0,236.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Men 89,DESTEUQUE Maxime,84.1,118.0,122.0,-125.0,142.0,-145.0,145.0,122.0,145.0,267.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Men 49,DERBAS Rayan,48.45,-48.0,48.0,-52.0,60.0,67.0,-72.0,48.0,67.0,115.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Men 73,LAGARDE Paul,72.36,75.0,80.0,83.0,108.0,112.0,-119.0,83.0,112.0,195.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Men 73,HOAREAU Soann,70.54,-80.0,80.0,84.0,-100.0,100.0,-108.0,84.0,100.0,184.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Men 81,LE BOURSICAUD Adrien,79.46,95.0,100.0,105.0,115.0,120.0,-125.0,105.0,120.0,225.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Men 49,DERBAS Rayan,48.45,-48.0,48.0,-52.0,60.0,67.0,-72.0,48.0,67.0,115.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Men 73,LAGARDE Paul,72.36,75.0,80.0,83.0,108.0,112.0,-119.0,83.0,112.0,195.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Men 73,HOAREAU Soann,70.54,-80.0,80.0,84.0,-100.0,100.0,-108.0,84.0,100.0,184.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Men 81,LE BOURSICAUD Adrien,79.46,95.0,100.0,105.0,115.0,120.0,-125.0,105.0,120.0,225.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Women 40,ANGELO Jamie lynn,39.4,27.0,30.0,33.0,37.0,39.0,42.0,33.0,42.0,75.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Women 45,ALCARAZ Charlotte,44.57,33.0,36.0,38.0,47.0,50.0,53.0,38.0,53.0,91.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Women 49,DESHAIES Amandine,48.12,43.0,-45.0,45.0,52.0,54.0,-57.0,45.0,54.0,99.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Women 55,SOW Aby,53.55,34.0,37.0,-40.0,43.0,46.0,-49.0,37.0,46.0,83.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Women 55,LEROY Chloé,53.05,35.0,-38.0,-38.0,45.0,-51.0,-51.0,35.0,45.0,80.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Women 55,DEGEZ Florette,50.13,61.0,64.0,66.0,72.0,76.0,-79.0,66.0,76.0,142.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Women 64,FILMOTTE Eurydice,62.96,58.0,-60.0,-62.0,-72.0,-73.0,-75.0,58.0,0.0,0.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 49,LORET Leïlou,49.0,54.0,57.0,59.0,72.0,75.0,-78.0,59.0,75.0,134.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 59,MIQUEL Ines,59.0,64.0,-66.0,68.0,79.0,-83.0,-85.0,68.0,79.0,147.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 59,DIAW Lia,57.86,57.0,62.0,-65.0,72.0,77.0,-82.0,62.0,77.0,139.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Women 40,ANGELO Jamie lynn,39.4,27.0,30.0,33.0,37.0,39.0,42.0,33.0,42.0,75.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Women 45,ALCARAZ Charlotte,44.57,33.0,36.0,38.0,47.0,50.0,53.0,38.0,53.0,91.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Women 49,DESHAIES Amandine,48.12,43.0,-45.0,45.0,52.0,54.0,-57.0,45.0,54.0,99.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Women 55,SOW Aby,53.55,34.0,37.0,-40.0,43.0,46.0,-49.0,37.0,46.0,83.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Women 55,LEROY Chloé,53.05,35.0,-38.0,-38.0,45.0,-51.0,-51.0,35.0,45.0,80.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Women 55,DEGEZ Florette,50.13,61.0,64.0,66.0,72.0,76.0,-79.0,66.0,76.0,142.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Women 64,FILMOTTE Eurydice,62.96,58.0,-60.0,-62.0,-72.0,-73.0,-75.0,58.0,0.0,0.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 49,LORET Leïlou,49.0,54.0,57.0,59.0,72.0,75.0,-78.0,59.0,75.0,134.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 59,MIQUEL Ines,59.0,64.0,-66.0,68.0,79.0,-83.0,-85.0,68.0,79.0,147.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 59,DIAW Lia,57.86,57.0,62.0,-65.0,72.0,77.0,-82.0,62.0,77.0,139.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Women 64,MILLE Sarah,62.72,43.0,-45.0,-45.0,51.0,53.0,-56.0,43.0,53.0,96.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Women 64,GLEYZE Aurelia,61.1,-38.0,38.0,-41.0,53.0,56.0,-59.0,38.0,56.0,94.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Women 49,ACINHO Estelle,49.0,46.0,48.0,-50.0,55.0,-58.0,-60.0,48.0,55.0,103.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Women 55,BOYER Kristina,54.21,56.0,-59.0,-60.0,74.0,78.0,-81.0,56.0,78.0,134.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Women 55,YAYA Floriane,53.67,50.0,53.0,-54.0,63.0,-67.0,-67.0,53.0,63.0,116.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Women 59,TISSERAND Maëlys,58.59,53.0,-55.0,55.0,64.0,-68.0,68.0,55.0,68.0,123.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Women 64,RAYNAUD Laura,62.65,53.0,56.0,59.0,73.0,-76.0,78.0,59.0,78.0,137.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Women 64,PEREIRA Kelly,61.87,-64.0,-64.0,-64.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 55,ROUSSEAU Clementine,54.1,67.0,-70.0,-70.0,84.0,-87.0,-88.0,67.0,84.0,151.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 59,MATEOS Carla,58.2,64.0,68.0,-70.0,75.0,-78.0,-80.0,68.0,75.0,143.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 71,JABOULAY Sophie,69.95,-74.0,75.0,-79.0,-91.0,91.0,-95.0,75.0,91.0,166.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 71,MANFREDI Lesia,70.29,58.0,62.0,66.0,80.0,-83.0,84.0,66.0,84.0,150.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 71,SEGOND Oriane,69.86,63.0,67.0,-70.0,74.0,-77.0,-78.0,67.0,74.0,141.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 71,EAST Pia,69.25,52.0,56.0,-60.0,68.0,-72.0,73.0,56.0,73.0,129.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 81,BERTRAND Léna,77.8,64.0,68.0,-71.0,83.0,88.0,-90.0,68.0,88.0,156.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women >87,RIGUERA Chloe,93.6,65.0,68.0,-71.0,-75.0,75.0,79.0,68.0,79.0,147.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Women 64,MILLE Sarah,62.72,43.0,-45.0,-45.0,51.0,53.0,-56.0,43.0,53.0,96.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Women 64,GLEYZE Aurelia,61.1,-38.0,38.0,-41.0,53.0,56.0,-59.0,38.0,56.0,94.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Women 49,ACINHO Estelle,49.0,46.0,48.0,-50.0,55.0,-58.0,-60.0,48.0,55.0,103.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Women 55,BOYER Kristina,54.21,56.0,-59.0,-60.0,74.0,78.0,-81.0,56.0,78.0,134.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Women 55,YAYA Floriane,53.67,50.0,53.0,-54.0,63.0,-67.0,-67.0,53.0,63.0,116.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Women 59,TISSERAND Maëlys,58.59,53.0,-55.0,55.0,64.0,-68.0,68.0,55.0,68.0,123.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Women 64,RAYNAUD Laura,62.65,53.0,56.0,59.0,73.0,-76.0,78.0,59.0,78.0,137.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Women 64,PEREIRA Kelly,61.87,-64.0,-64.0,-64.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 55,ROUSSEAU Clementine,54.1,67.0,-70.0,-70.0,84.0,-87.0,-88.0,67.0,84.0,151.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 59,MATEOS Carla,58.2,64.0,68.0,-70.0,75.0,-78.0,-80.0,68.0,75.0,143.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 71,JABOULAY Sophie,69.95,-74.0,75.0,-79.0,-91.0,91.0,-95.0,75.0,91.0,166.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 71,MANFREDI Lesia,70.29,58.0,62.0,66.0,80.0,-83.0,84.0,66.0,84.0,150.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 71,SEGOND Oriane,69.86,63.0,67.0,-70.0,74.0,-77.0,-78.0,67.0,74.0,141.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 71,EAST Pia,69.25,52.0,56.0,-60.0,68.0,-72.0,73.0,56.0,73.0,129.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 81,BERTRAND Léna,77.8,64.0,68.0,-71.0,83.0,88.0,-90.0,68.0,88.0,156.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women >87,RIGUERA Chloe,93.6,65.0,68.0,-71.0,-75.0,75.0,79.0,68.0,79.0,147.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Women 49,GUILMAU Prune,48.9,38.0,-41.0,-41.0,-46.0,47.0,-50.0,38.0,47.0,85.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Women 59,LEON Charline,58.29,-48.0,48.0,-51.0,58.0,-62.0,-65.0,48.0,58.0,106.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Women 55,HANOCQUE Astrid,51.72,56.0,58.0,60.0,68.0,71.0,73.0,60.0,73.0,133.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Women 59,RENAULT Alice,58.54,54.0,56.0,58.0,72.0,-75.0,-75.0,58.0,72.0,130.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 55,LEMÉ Youna,54.33,70.0,-72.0,-72.0,84.0,86.0,88.0,70.0,88.0,158.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 64,MICHEL Maelyn,60.8,85.0,-88.0,88.0,98.0,102.0,-105.0,88.0,102.0,190.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 64,GODU Lou-anne,62.41,63.0,-65.0,-65.0,79.0,82.0,84.0,63.0,84.0,147.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Women 49,GUILMAU Prune,48.9,38.0,-41.0,-41.0,-46.0,47.0,-50.0,38.0,47.0,85.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Women 59,LEON Charline,58.29,-48.0,48.0,-51.0,58.0,-62.0,-65.0,48.0,58.0,106.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Women 55,HANOCQUE Astrid,51.72,56.0,58.0,60.0,68.0,71.0,73.0,60.0,73.0,133.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Women 59,RENAULT Alice,58.54,54.0,56.0,58.0,72.0,-75.0,-75.0,58.0,72.0,130.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 55,LEMÉ Youna,54.33,70.0,-72.0,-72.0,84.0,86.0,88.0,70.0,88.0,158.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 64,MICHEL Maelyn,60.8,85.0,-88.0,88.0,98.0,102.0,-105.0,88.0,102.0,190.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 64,GODU Lou-anne,62.41,63.0,-65.0,-65.0,79.0,82.0,84.0,63.0,84.0,147.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Women 45,RIGAUD Louise,44.65,42.0,45.0,-47.0,54.0,57.0,60.0,45.0,60.0,105.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Women 49,KOCHETOVA Margot,49.0,67.0,69.0,-71.0,79.0,82.0,-0.0,69.0,82.0,151.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Women 59,NEZELOF Manon,57.68,47.0,-50.0,50.0,-55.0,55.0,-58.0,50.0,55.0,105.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 55,KOUCHENSKY Darya,54.52,54.0,56.0,58.0,63.0,66.0,-70.0,58.0,66.0,124.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 59,MALNOU Fanny,57.37,52.0,-55.0,55.0,65.0,-67.0,67.0,55.0,67.0,122.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 64,CHILLARON-PEREZ Lou-anne,63.1,60.0,-64.0,-65.0,75.0,-78.0,-0.0,60.0,75.0,135.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 81,FURET Zoé,79.12,75.0,79.0,-82.0,89.0,94.0,96.0,79.0,96.0,175.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Women 45,RIGAUD Louise,44.65,42.0,45.0,-47.0,54.0,57.0,60.0,45.0,60.0,105.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Women 49,KOCHETOVA Margot,49.0,67.0,69.0,-71.0,79.0,82.0,-0.0,69.0,82.0,151.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Women 59,NEZELOF Manon,57.68,47.0,-50.0,50.0,-55.0,55.0,-58.0,50.0,55.0,105.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 55,KOUCHENSKY Darya,54.52,54.0,56.0,58.0,63.0,66.0,-70.0,58.0,66.0,124.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 59,MALNOU Fanny,57.37,52.0,-55.0,55.0,65.0,-67.0,67.0,55.0,67.0,122.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 64,CHILLARON-PEREZ Lou-anne,63.1,60.0,-64.0,-65.0,75.0,-78.0,-0.0,60.0,75.0,135.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 81,FURET Zoé,79.12,75.0,79.0,-82.0,89.0,94.0,96.0,79.0,96.0,175.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Women 59,GRANDMONTAGNE Chloé,55.67,39.0,-43.0,-43.0,-46.0,50.0,-53.0,39.0,50.0,89.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Women 55,SAOUT Ainoa,51.54,38.0,41.0,-43.0,56.0,59.0,-62.0,41.0,59.0,100.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 59,QUERE Noémie,58.95,57.0,-60.0,-60.0,61.0,64.0,-66.0,57.0,64.0,121.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 64,CONGA Eloane,62.77,58.0,61.0,-64.0,75.0,-79.0,79.0,61.0,79.0,140.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 64,QUERE Eloïse,62.25,58.0,-61.0,-61.0,73.0,-76.0,-76.0,58.0,73.0,131.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 81,SCOARNEC Ambre,79.76,72.0,-76.0,76.0,95.0,-100.0,-100.0,76.0,95.0,171.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Women 59,GRANDMONTAGNE Chloé,55.67,39.0,-43.0,-43.0,-46.0,50.0,-53.0,39.0,50.0,89.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Women 55,SAOUT Ainoa,51.54,38.0,41.0,-43.0,56.0,59.0,-62.0,41.0,59.0,100.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 59,QUERE Noémie,58.95,57.0,-60.0,-60.0,61.0,64.0,-66.0,57.0,64.0,121.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 64,CONGA Eloane,62.77,58.0,61.0,-64.0,75.0,-79.0,79.0,61.0,79.0,140.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 64,QUERE Eloïse,62.25,58.0,-61.0,-61.0,73.0,-76.0,-76.0,58.0,73.0,131.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 81,SCOARNEC Ambre,79.76,72.0,-76.0,76.0,95.0,-100.0,-100.0,76.0,95.0,171.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Women 40,KIMOUCHE Layina,39.84,30.0,-32.0,33.0,35.0,38.0,-40.0,33.0,38.0,71.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Women 49,PICOD KINANY Lila jade,48.45,32.0,34.0,-36.0,-42.0,42.0,-45.0,34.0,42.0,76.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Women 55,RICHEVAUX Jade,54.05,49.0,52.0,-54.0,60.0,-63.0,63.0,52.0,63.0,115.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Women 59,BAYKOV-SVIATOKHA Eva,55.63,43.0,-47.0,-49.0,-51.0,51.0,-54.0,43.0,51.0,94.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Women 64,LE NOC Orlane,61.04,-40.0,40.0,-43.0,52.0,55.0,-58.0,40.0,55.0,95.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Women 59,BEDEIR LARADE Safana,58.67,60.0,-65.0,66.0,-79.0,-80.0,80.0,66.0,80.0,146.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Women 64,PENCOLE Yael,63.16,-45.0,-45.0,-45.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 49,LEROY Manon,47.62,41.0,44.0,-46.0,50.0,53.0,-57.0,44.0,53.0,97.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 59,BOURGEOIS Téa,57.49,59.0,-62.0,-64.0,72.0,-76.0,-77.0,59.0,72.0,131.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Women 40,KIMOUCHE Layina,39.84,30.0,-32.0,33.0,35.0,38.0,-40.0,33.0,38.0,71.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Women 49,PICOD KINANY Lila jade,48.45,32.0,34.0,-36.0,-42.0,42.0,-45.0,34.0,42.0,76.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Women 55,RICHEVAUX Jade,54.05,49.0,52.0,-54.0,60.0,-63.0,63.0,52.0,63.0,115.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Women 59,BAYKOV-SVIATOKHA Eva,55.63,43.0,-47.0,-49.0,-51.0,51.0,-54.0,43.0,51.0,94.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Women 64,LE NOC Orlane,61.04,-40.0,40.0,-43.0,52.0,55.0,-58.0,40.0,55.0,95.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Women 59,BEDEIR LARADE Safana,58.67,60.0,-65.0,66.0,-79.0,-80.0,80.0,66.0,80.0,146.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Women 64,PENCOLE Yael,63.16,-45.0,-45.0,-45.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 49,LEROY Manon,47.62,41.0,44.0,-46.0,50.0,53.0,-57.0,44.0,53.0,97.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 59,BOURGEOIS Téa,57.49,59.0,-62.0,-64.0,72.0,-76.0,-77.0,59.0,72.0,131.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Women 59,EZZEDDINE Shada,58.21,45.0,-48.0,-48.0,55.0,58.0,-60.0,45.0,58.0,103.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 71,M'VOUMINI Jeffy,69.86,50.0,-55.0,-55.0,-65.0,-65.0,-0.0,50.0,0.0,0.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women >87,AYMES Lilou,125.34,65.0,-70.0,-70.0,-83.0,83.0,-86.0,65.0,83.0,148.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Women 59,EZZEDDINE Shada,58.21,45.0,-48.0,-48.0,55.0,58.0,-60.0,45.0,58.0,103.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women 71,M'VOUMINI Jeffy,69.86,50.0,-55.0,-55.0,-65.0,-65.0,-0.0,50.0,0.0,0.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Women >87,AYMES Lilou,125.34,65.0,-70.0,-70.0,-83.0,83.0,-86.0,65.0,83.0,148.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Men 67,RICO Maé simon,65.8,60.0,-65.0,-65.0,85.0,-90.0,-90.0,60.0,85.0,145.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Men 81,LE PIOLET Manoa,80.29,105.0,110.0,113.0,125.0,130.0,-138.0,113.0,130.0,243.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Men 89,LE PIOLET Teiva,82.5,100.0,105.0,-110.0,127.0,-132.0,132.0,105.0,132.0,237.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Men 102,NUIRO Hevy guy,100.62,115.0,122.0,-125.0,-145.0,-147.0,-147.0,122.0,0.0,0.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Men 67,RICO Maé simon,65.8,60.0,-65.0,-65.0,85.0,-90.0,-90.0,60.0,85.0,145.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Men 81,LE PIOLET Manoa,80.29,105.0,110.0,113.0,125.0,130.0,-138.0,113.0,130.0,243.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Men 89,LE PIOLET Teiva,82.5,100.0,105.0,-110.0,127.0,-132.0,132.0,105.0,132.0,237.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Men 102,NUIRO Hevy guy,100.62,115.0,122.0,-125.0,-145.0,-147.0,-147.0,122.0,0.0,0.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Men 49,MUGNIERY-SIRIEX Louis,46.85,47.0,51.0,53.0,63.0,66.0,70.0,53.0,70.0,123.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Men 61,MBENGA HARDOROCK Kylian emmanuel,60.99,-60.0,60.0,62.0,68.0,72.0,-74.0,62.0,72.0,134.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Men 73,SULEJIC Alexandre,72.0,-95.0,-95.0,-96.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Men 49,MUGNIERY-SIRIEX Louis,46.85,47.0,51.0,53.0,63.0,66.0,70.0,53.0,70.0,123.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Men 61,MBENGA HARDOROCK Kylian emmanuel,60.99,-60.0,60.0,62.0,68.0,72.0,-74.0,62.0,72.0,134.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Men 73,SULEJIC Alexandre,72.0,-95.0,-95.0,-96.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Men 67,DURIC Adis,65.37,70.0,-74.0,-75.0,-80.0,80.0,84.0,70.0,84.0,154.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Men >102,BOFFY Lucas,112.69,105.0,109.0,-113.0,-132.0,132.0,-142.0,109.0,132.0,241.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Men 67,MARTIN Gabriel,66.14,87.0,96.0,-101.0,105.0,-119.0,-119.0,96.0,105.0,201.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Men 89,KERKENI Noam,87.2,-82.0,82.0,-90.0,105.0,111.0,-117.0,82.0,111.0,193.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Men 67,VIGNERESSE Erwan,65.89,85.0,-88.0,-88.0,-103.0,-103.0,-103.0,85.0,0.0,0.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Men >109,VINCENT Gaetan,116.3,105.0,-111.0,115.0,130.0,138.0,-145.0,115.0,138.0,253.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Men 67,DURIC Adis,65.37,70.0,-74.0,-75.0,-80.0,80.0,84.0,70.0,84.0,154.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Men >102,BOFFY Lucas,112.69,105.0,109.0,-113.0,-132.0,132.0,-142.0,109.0,132.0,241.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Men 67,MARTIN Gabriel,66.14,87.0,96.0,-101.0,105.0,-119.0,-119.0,96.0,105.0,201.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Men 89,KERKENI Noam,87.2,-82.0,82.0,-90.0,105.0,111.0,-117.0,82.0,111.0,193.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Men 67,VIGNERESSE Erwan,65.89,85.0,-88.0,-88.0,-103.0,-103.0,-103.0,85.0,0.0,0.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Men >109,VINCENT Gaetan,116.3,105.0,-111.0,115.0,130.0,138.0,-145.0,115.0,138.0,253.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Men 55,DELAMOTTE Lukas,53.37,76.0,79.0,81.0,94.0,99.0,102.0,81.0,102.0,183.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Men 67,DUDOUET Joshua,66.24,-76.0,76.0,-80.0,95.0,99.0,101.0,76.0,101.0,177.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Men 67,JARDIN Lucas,66.51,79.0,-81.0,81.0,90.0,93.0,-95.0,81.0,93.0,174.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Men 73,TRIBEHOU Deven,71.5,-90.0,91.0,-96.0,-108.0,-108.0,-108.0,91.0,0.0,0.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Men 55,DELAMOTTE Lukas,53.37,76.0,79.0,81.0,94.0,99.0,102.0,81.0,102.0,183.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Men 67,DUDOUET Joshua,66.24,-76.0,76.0,-80.0,95.0,99.0,101.0,76.0,101.0,177.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Men 67,JARDIN Lucas,66.51,79.0,-81.0,81.0,90.0,93.0,-95.0,81.0,93.0,174.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Men 73,TRIBEHOU Deven,71.5,-90.0,91.0,-96.0,-108.0,-108.0,-108.0,91.0,0.0,0.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Men 81,ROUGE Hugo,74.82,90.0,94.0,97.0,113.0,118.0,-123.0,97.0,118.0,215.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Men 81,ROUGE Hugo,74.82,90.0,94.0,97.0,113.0,118.0,-123.0,97.0,118.0,215.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Men 49,PERIARD-LOHNER Thyméo,48.01,-46.0,47.0,51.0,61.0,66.0,69.0,51.0,69.0,120.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Men 61,GONDRAN Lého,59.65,63.0,66.0,69.0,-75.0,75.0,80.0,69.0,80.0,149.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Men 67,AOUNI Maxence,63.0,72.0,76.0,-80.0,90.0,95.0,-100.0,76.0,95.0,171.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Men 73,GEIGER Aymeric,72.97,83.0,88.0,-93.0,116.0,-121.0,-122.0,88.0,116.0,204.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Men 61,MOSER Léo,58.39,72.0,-75.0,-75.0,95.0,98.0,101.0,72.0,101.0,173.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Men 67,CARCANO Tom,65.79,-82.0,82.0,-85.0,-100.0,-100.0,100.0,82.0,100.0,182.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Men 73,PERIARD-LOHNER Léo,70.1,81.0,84.0,86.0,102.0,106.0,-109.0,86.0,106.0,192.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Men 73,FERRON Thomas,69.66,60.0,-0.0,-0.0,70.0,-0.0,-0.0,60.0,70.0,130.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Men 67,GACHOD Pierre,65.29,84.0,-88.0,-90.0,-102.0,-102.0,-102.0,84.0,0.0,0.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Men 73,CHRISTOPHEL Valentin,71.94,116.0,120.0,122.0,136.0,141.0,145.0,122.0,145.0,267.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Men 73,GARZANDAT Mattéo,71.97,83.0,87.0,-91.0,105.0,110.0,-115.0,87.0,110.0,197.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Men 81,GIGONDAN Matheo,80.23,-110.0,-110.0,110.0,135.0,-146.0,-146.0,110.0,135.0,245.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Men 89,SCHMIDT Théo,87.24,95.0,100.0,-104.0,128.0,-134.0,-138.0,100.0,128.0,228.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Men 96,VALENTIN Julien,89.72,92.0,-99.0,102.0,-122.0,122.0,-130.0,102.0,122.0,224.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Men 49,PERIARD-LOHNER Thyméo,48.01,-46.0,47.0,51.0,61.0,66.0,69.0,51.0,69.0,120.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Men 61,GONDRAN Lého,59.65,63.0,66.0,69.0,-75.0,75.0,80.0,69.0,80.0,149.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Men 67,AOUNI Maxence,63.0,72.0,76.0,-80.0,90.0,95.0,-100.0,76.0,95.0,171.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U15 Men 73,GEIGER Aymeric,72.97,83.0,88.0,-93.0,116.0,-121.0,-122.0,88.0,116.0,204.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Men 61,MOSER Léo,58.39,72.0,-75.0,-75.0,95.0,98.0,101.0,72.0,101.0,173.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Men 67,CARCANO Tom,65.79,-82.0,82.0,-85.0,-100.0,-100.0,100.0,82.0,100.0,182.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Men 73,PERIARD-LOHNER Léo,70.1,81.0,84.0,86.0,102.0,106.0,-109.0,86.0,106.0,192.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U17 Men 73,FERRON Thomas,69.66,60.0,-0.0,-0.0,70.0,-0.0,-0.0,60.0,70.0,130.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Men 67,GACHOD Pierre,65.29,84.0,-88.0,-90.0,-102.0,-102.0,-102.0,84.0,0.0,0.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Men 73,CHRISTOPHEL Valentin,71.94,116.0,120.0,122.0,136.0,141.0,145.0,122.0,145.0,267.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Men 73,GARZANDAT Mattéo,71.97,83.0,87.0,-91.0,105.0,110.0,-115.0,87.0,110.0,197.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Men 81,GIGONDAN Matheo,80.23,-110.0,-110.0,110.0,135.0,-146.0,-146.0,110.0,135.0,245.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Men 89,SCHMIDT Théo,87.24,95.0,100.0,-104.0,128.0,-134.0,-138.0,100.0,128.0,228.0
+AURA - Championnat de France élite jeune - Evron -  F,2024-06-01,U20 Men 96,VALENTIN Julien,89.72,92.0,-99.0,102.0,-122.0,122.0,-130.0,102.0,122.0,224.0

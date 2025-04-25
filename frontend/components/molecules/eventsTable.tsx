@@ -27,7 +27,7 @@ export const EventsListTable = ({
                 <Link href={event_page}>{name}</Link>
               </TableCell>
               <TableCell>
-                <Link href={`https://github.com/euanwm/OpenWeightlifting/tree/development/backend/event_data/${federation}/${id}`}>Data</Link>
+                <Link href={`https://github.com/euanwm/OpenWeightlifting/tree/development/event_data/${federation}/${id}`}>Data</Link>
               </TableCell>
             </TableRow>
           )

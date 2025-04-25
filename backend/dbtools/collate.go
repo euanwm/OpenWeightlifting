@@ -46,6 +46,9 @@ func loadAllFedEvents(federation string, metadata *structs.EventsMetaData) (allE
 			}(fileHandle)
 
 			eventData := utilities.LoadCsvFile(fileHandle)
+			if len(eventData) == 0 {
+				return
+			}
 			eventData = insertFederation(eventData, federation)
 			allEvents = append(allEvents, eventData...)
 

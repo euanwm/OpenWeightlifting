@@ -6,6 +6,7 @@ import (
 	"fmt"
 	"log"
 	"reflect"
+	"strings"
 )
 
 func (e LifterHistory) GenerateChartData() ChartData {
@@ -183,6 +184,15 @@ func (e LeaderboardData) Select(sortBy string) *[]Entry {
 	return &[]Entry{}
 }
 
+func (e LeaderboardData) FetchByEventName(eventName string) (eventData []Entry) {
+	for _, entry := range e.AllTotals {
+		if entry.Event == eventName || strings.Contains(entry.Event, eventName) {
+			eventData = append(eventData, entry)
+		}
+	}
+	return
+}
+
 func (e EventsMetaData) FetchEventFP(index int) (federation, filename string) {
 	return e.Federation[index], e.ID[index]
 }
@@ -194,6 +204,15 @@ func (e EventsMetaData) FetchEventByName(eventName string) (federation, filename
 		}
 	}
 	return "", ""
+}
+
+func (e LeaderboardResponse) FilterByDate(eventDate string) (newData []Entry, newSize int) {
+	for index, entry := range e.Data {
+		if entry.Date == eventDate {
+			newData = append(newData, e.Data[index])
+		}
+	}
+	return
 }
 
 func (e EventsMetaData) FetchEventWithinDate(startDate, endDate string) (events []SingleEventMetaData) {
@@ -211,4 +230,33 @@ func (e EventsMetaData) FetchEventWithinDate(startDate, endDate string) (events 
 		}
 	}
 	return
+}
+
+func (e *BeanCounter) AddBytes(bytes uint64) {
+	e.Bytes += bytes
+}
+
+func (e *BeanCounter) ByteCount() uint64 {
+	return e.Bytes
+}
+
+func (e *BeanCounter) UnitToString() string {
+	const (
+		Byte = 1 << (10 * iota)
+		KB
+		MB
+		GB
+		// extend if needed
+	)
+
+	switch {
+	case e.Bytes >= GB:
+		return fmt.Sprintf("%.2f GB", float32(e.Bytes)/GB)
+	case e.Bytes >= MB:
+		return fmt.Sprintf("%.2f MB", float32(e.Bytes)/MB)
+	case e.Bytes >= KB:
+		return fmt.Sprintf("%.2f KB", float32(e.Bytes)/KB)
+	default:
+		return fmt.Sprintf("%d bytes", e.Bytes)
+	}
 }

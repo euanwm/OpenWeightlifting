@@ -11,17 +11,6 @@ go build -o backend
 ```
 If you want to test in production mode, you'll need to set the GIN_MODE env variable to "release" as per the gin-gonic docs.
 
-## Endpoint Documentation
-The endpoint documentation is generated using Swaggo. To view the current production documentation, you can visit [this link](https://api.openweightlifting.org/swagger/index.html).
-You'll need to re-run the following command to generate the documentation:
-```bash
-swag init --parseDependency --parseInternal -g main.go
-```
-If you do not have Swaggo installed, please visit the [Swaggo GitHub page](https://github.com/swaggo/swag) for installation instructions.
-
-__All endpoints are defined in endpoints.go, and the main server is defined in  main.go.__
-
-
 ## Testing
 When implementing new features, please ensure that you write tests for them. We like to aim for 80% test coverage however, as long any PR does not negatively impact the current test coverage, it will be accepted.
 To run the tests with coverage, you can run the following command:

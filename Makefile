@@ -1,6 +1,18 @@
 # OpenWeightlifting Makefile
 # Shortcuts to the most common tools should be implemented here.
 
+# Builds the backend server executable
+.PHONY: build_backend
+build_backend:
+	cp -r event_data/ backend/
+	cd backend && go build -o backend
+
+# Builds the frontend files
+.PHONY: build_frontend
+build_frontend:
+	@cd python_tools && pipenv install && pipenv run python3 fe_builder.py
+	cd frontend && npm install
+
 # Installs the python tools used to update the database
 .PHONY: install_tools
 install_tools:
@@ -17,8 +29,8 @@ update_db:
 .PHONY: stage_csv
 stage_csv:
 	echo "Staging csv files"
-	@git add backend/event_data/\*.csv
-	@git status --p --short | grep backend/event_data
+	@git add event_data/\*.csv
+	@git status --p --short | grep event_data
 	@git commit -m "Database Update"
 
 .PHONY: check_db
@@ -35,6 +47,7 @@ generate-docs:
 .PHONY: clean
 clean:
 	rm -f backend/backend
+	rm -rf backend/event_data
 
 # Removes build files plus cached dependencies.
 .PHONY: veryclean

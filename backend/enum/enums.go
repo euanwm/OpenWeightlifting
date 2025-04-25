@@ -10,6 +10,7 @@ const (
 	ALLFEDS string = "allfeds"
 	// ALLCATS ALLWEIGHTS - Yes
 	ALLCATS           string  = "allcats"
+	AllYearsStr       string  = "69"
 	AllYears          int     = 69
 	ZeroDate          string  = "0001-01-01"
 	MaxDate           string  = "2100-00-00"

@@ -19,16 +19,10 @@ jobs:
 
       - name: Build & Run
         run: |
+          cp -r event_data/ backend/
           cd backend/
           go build -o backend
           ./backend local &
           cd ../frontend/
           npm install
           npm run test
-
-      - name: Upload coverage reports to Codecov
-        uses: codecov/codecov-action@v3
-        with:
-          files: frontend/coverage/cobertura-coverage.xml
-          verbose: true
-          token: ${{ secrets.CODECOV_TOKEN }}

@@ -236,7 +236,6 @@ func Test_assignStruct(t *testing.T) {
 			Total:      structs.NewWeightKg(330),
 			Sinclair:   0,
 			Federation: "BWL",
-			Instagram:  "",
 		},
 		}}
 	for _, tt := range tests {
@@ -253,7 +252,7 @@ func Test_getFedDirs(t *testing.T) {
 		name        string
 		wantFedDirs []string
 	}{
-		{name: "FedDirs", wantFedDirs: []string{"AUS", "FFH", "IWF", "NVF", "OPEN", "UK", "US"}},
+		{name: "FedDirs", wantFedDirs: []string{"AUS", "CH", "FFH", "IWF", "NVF", "OPEN", "UK", "US"}},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
@@ -300,7 +299,8 @@ func Test_loadAllFedEvents(t *testing.T) {
 		args          args
 		wantAllEvents [][]string
 	}{
-		{name: "LoadAllEvents", args: args{federation: "UK"}, wantAllEvents: nil},
+		{name: "LoadUKEvents", args: args{federation: "UK"}, wantAllEvents: nil},
+		{name: "LoadNVFEvents", args: args{federation: "NVF"}, wantAllEvents: nil},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {

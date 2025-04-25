@@ -11,6 +11,16 @@ import {
 import HeaderBar from '@/components/molecules/head'
 
 const Coefficients = {
+  AMale2001: 0.938573813,
+  BMale2001: 135.390,
+  AFemale2001: 1.005487664,
+  BFemale2001: 112.811,
+
+  AMale2005: 0.845716976,
+  BMale2005: 168.091,
+  AFemale2005: 1.316081431,
+  BFemale2005: 107.844,
+
   AMale2009: 0.784780654,
   BMale2009: 173.961,
   AFemale2009: 1.056683941,
@@ -66,6 +76,26 @@ const SinclairCalculator = {
 
     let coeffSettings: CoefficientSettings
     switch (year) {
+      case "2001":
+        coeffSettings = {
+          ACoefficient: isMale
+            ? Coefficients.AMale2001
+            : Coefficients.AFemale2001,
+          BCoefficient: isMale
+            ? Coefficients.BMale2001
+            : Coefficients.BFemale2001,
+        }
+        break
+      case "2005":
+        coeffSettings = {
+          ACoefficient: isMale
+            ? Coefficients.AMale2005
+            : Coefficients.AFemale2005,
+          BCoefficient: isMale
+            ? Coefficients.BMale2005
+            : Coefficients.BFemale2005,
+        }
+        break
       case "2009":
         coeffSettings = {
           ACoefficient: isMale
@@ -169,6 +199,8 @@ function SinclairPage() {
             placeholder="Sinclair Year"
             onChange={e => setSinclairYear(e.target.value)}
           >
+            <SelectItem key="2001">Jan 2001 - 2004 Dec</SelectItem>
+            <SelectItem key="2005">Jan 2005 - 2008 Dec</SelectItem>
             <SelectItem key="2009">Jan 2009 - 2012 Dec</SelectItem>
             <SelectItem key="2013">Jan 2013 - 2016 Dec</SelectItem>
             <SelectItem key="2017">Jan 2017 - 2020 Dec</SelectItem>

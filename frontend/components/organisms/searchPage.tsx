@@ -32,7 +32,7 @@ function SearchPage() {
             placeholder="Search for a lifter..."
             onChange={async e => setInputSearch(e.target.value)}
           />
-          Number of lifters found: {data?.total}, showing {data?.names.length}
+          Number of lifters found: {(data?.total) || 0}, showing {(data?.names.length) || 0}
           <br />
           {data && (
           <Listbox aria-label='Lifter search results'>

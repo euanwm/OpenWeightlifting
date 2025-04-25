@@ -2,9 +2,9 @@ name: Build
 
 on:
   push:
-    branches: [ "development", "master" ]
+    branches: ["development"]
   pull_request:
-    branches: [ "development", "master" ]
+    branches: ["development"]
 
 jobs:
   build_frontend:
@@ -14,10 +14,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-    - name: Use Node.js 18.X
+    - name: Use Node.js LTS
       uses: actions/setup-node@v3
       with:
-        node-version: "18.x"
+        node-version: "22.12.0"
         cache: 'npm'
         cache-dependency-path: 'frontend/package-lock.json'
     - run: npm install
@@ -32,6 +32,10 @@ jobs:
         uses: actions/setup-go@v3
         with:
           go-version: 1.20.2
+
+      - name: Move event_data
+        run: |
+          cp -r event_data/ backend/
 
       - name: Linting Backend
         uses: golangci/golangci-lint-action@v3
@@ -49,13 +53,6 @@ jobs:
         run: |
           cd backend/
           go test -coverprofile=coverage.txt ./...
-
-      - name: Upload coverage reports to Codecov
-        uses: codecov/codecov-action@v3
-        with:
-          files: /backend/coverage.txt
-          verbose: true
-          token: ${{ secrets.CODECOV_TOKEN }}
 
   build_tool:
     runs-on: ubuntu-latest
