@@ -4,32 +4,40 @@ import (
 	"backend/enum"
 	"backend/sinclair"
 	"backend/structs"
-	"backend/utilities"
 	"log"
 	"strings"
 )
 
 // ParseData Splits results into 3 categories, male, female, and unknown.
 func ParseData(bigData [][]string) (allLifts structs.AllData, unknown structs.AllData) {
+	max_total := structs.NewWeightKg(float64(enum.MaxTotal))
+	min_bodyweight := structs.NewWeightKg(float64(enum.MinimumBodyweight))
+
 	for _, contents := range bigData {
 		dataStruct, valid := assignStruct(contents)
-		if valid {
-			gender := getGender(&dataStruct)
-			switch gender {
-			case enum.Male:
-				if dataStruct.Total > 0 && dataStruct.Total < enum.MaxTotal && dataStruct.Bodyweight > enum.MinimumBodyweight {
-					// todo: add in error handling for CalcSinclair
-					sinclair.CalcSinclair(&dataStruct, true)
-				}
-				allLifts.Lifts = append(allLifts.Lifts, dataStruct)
-			case enum.Female:
-				if dataStruct.Total > 0 && dataStruct.Total < enum.MaxTotal && dataStruct.Bodyweight > enum.MinimumBodyweight {
-					sinclair.CalcSinclair(&dataStruct, false)
-				}
-				allLifts.Lifts = append(allLifts.Lifts, dataStruct)
-			case enum.Unknown:
-				unknown.Lifts = append(unknown.Lifts, dataStruct)
+		if !valid {
+			continue
+		}
+
+		gender := getGender(&dataStruct)
+		switch gender {
+		case enum.Male:
+			if dataStruct.Total.IsPositive() &&
+				dataStruct.Total.LessThan(max_total) &&
+				dataStruct.Bodyweight.GreaterThan(min_bodyweight) {
+				// todo: add in error handling for CalcSinclair
+				sinclair.CalcSinclair(&dataStruct, true)
 			}
+			allLifts.Lifts = append(allLifts.Lifts, dataStruct)
+		case enum.Female:
+			if dataStruct.Total.IsPositive() &&
+				dataStruct.Total.LessThan(max_total) &&
+				dataStruct.Bodyweight.GreaterThan(min_bodyweight) {
+				sinclair.CalcSinclair(&dataStruct, false)
+			}
+			allLifts.Lifts = append(allLifts.Lifts, dataStruct)
+		case enum.Unknown:
+			unknown.Lifts = append(unknown.Lifts, dataStruct)
 		}
 	}
 	return
@@ -60,16 +68,16 @@ func assignStruct(line []string) (lineStruct structs.Entry, valid bool) {
 		Date:       line[1],
 		Gender:     line[2],
 		Name:       line[3],
-		Bodyweight: utilities.Float(line[4]),
-		Sn1:        utilities.Float(line[5]),
-		Sn2:        utilities.Float(line[6]),
-		Sn3:        utilities.Float(line[7]),
-		CJ1:        utilities.Float(line[8]),
-		CJ2:        utilities.Float(line[9]),
-		CJ3:        utilities.Float(line[10]),
-		BestSn:     utilities.Float(line[11]),
-		BestCJ:     utilities.Float(line[12]),
-		Total:      utilities.Float(line[13]),
+		Bodyweight: structs.NewWeightKgFromString(line[4]),
+		Sn1:        structs.NewWeightKgFromString(line[5]),
+		Sn2:        structs.NewWeightKgFromString(line[6]),
+		Sn3:        structs.NewWeightKgFromString(line[7]),
+		CJ1:        structs.NewWeightKgFromString(line[8]),
+		CJ2:        structs.NewWeightKgFromString(line[9]),
+		CJ3:        structs.NewWeightKgFromString(line[10]),
+		BestSn:     structs.NewWeightKgFromString(line[11]),
+		BestCJ:     structs.NewWeightKgFromString(line[12]),
+		Total:      structs.NewWeightKgFromString(line[13]),
 		Sinclair:   0.0,
 		Federation: line[14],
 	}
