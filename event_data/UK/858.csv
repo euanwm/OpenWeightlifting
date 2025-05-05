@@ -1,0 +1,14 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Atlas Invitational,2025-04-19,Men's Under 23 81Kg,Samuel Ward,73.4,100,0,105,130,135,0,105,135,240
+Atlas Invitational,2025-04-19,Men's Youth Under 15 81Kg,Isaac Bluff,76.6,95,98,101,110,115,118,101,118,219
+Atlas Invitational,2025-04-19,Men's Youth Under 17 81Kg,Oscar Smith,78.9,95,0,0,120,0,0,95,120,215
+Atlas Invitational,2025-04-19,Women's Junior Under 20 76Kg,Charlize Richards,73.7,75,0,78,98,101,106,78,106,184
+Atlas Invitational,2025-04-19,Men's Youth Under 17 55Kg,Thomas Duggan,53.8,0,78,81,96,99,0,81,99,180
+Atlas Invitational,2025-04-19,Women's Youth Under 17 71Kg,Emily Arsali,69,0,73,75,91,0,94,75,94,169
+Atlas Invitational,2025-04-19,Women's Youth Under 17 76Kg,Martha Bailey,71.75,0,77,0,81,85,0,77,85,162
+Atlas Invitational,2025-04-19,Women's Junior Under 20 55Kg,Olivia Purseglove,52.65,0,59,61,73,75,0,61,75,136
+Atlas Invitational,2025-04-19,Women's Youth Under 15 76Kg,Isla Adams ,72.55,45,47,50,57,60,0,50,60,110
+Atlas Invitational,2025-04-19,Women's Youth Under 15 64Kg,Ava Bluff,62.05,0,35,38,47,50,0,38,50,88
+Atlas Invitational,2025-04-19,Women's Youth Under 12 45Kg,Iris Hawkins,41.85,17,0,19,25,28,30,19,30,49
+Atlas Invitational,2025-04-19,Men's Youth Under 10 40Kg,Oscar  Brace,25.2,11,12,13,13,14,15,13,15,28
+Atlas Invitational,2025-04-19,Men's Youth Under 10 40Kg,Henry Adams ,30.8,10,0,11,10,11,12,11,12,23
