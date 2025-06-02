@@ -1,0 +1,58 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Nova Spring Open,2025-05-18,Men's Senior 110Kg,George Weston,109,120,123,126,154,161,-166,126,161,287
+Nova Spring Open,2025-05-18,Men's Senior 110Kg,Adam Smith,101.3,120,125,-128,140,145,-150,125,145,270
+Nova Spring Open,2025-05-18,Men's Senior 98Kg,Saeed Asghari,90.75,105,110,-115,135,140,-145,110,140,250
+Nova Spring Open,2025-05-18,Men's Senior 88Kg,Joshua Seymour,85.3,102,-107,107,138,142,-146,107,142,249
+Nova Spring Open,2025-05-18,Men's Senior 79Kg,Samuel Evans,75.9,100,104,-106,133,137,-140,104,137,241
+Nova Spring Open,2025-05-18,Men's Senior 79Kg,Tiago Costa,77.95,-106,106,-111,-132,134,-138,106,134,240
+Nova Spring Open,2025-05-18,Men's Under 23 88Kg,Makoto Kimura-Phalon,86.9,98,103,106,-127,128,132,106,132,238
+Nova Spring Open,2025-05-18,Men's Senior 88Kg,Carlos Eduardo Santos Tribuna,87.35,98,101,103,-128,131,-135,103,131,234
+Nova Spring Open,2025-05-18,Men's Senior 88Kg,Dario Brown,86.2,-97,97,101,128,132,-140,101,132,233
+Nova Spring Open,2025-05-18,Men's Senior 88Kg,richard Terrington,87.7,98,-101,-102,127,130,132,98,132,230
+Nova Spring Open,2025-05-18,Men's Senior 79Kg,James Wappett,78.6,98,101,-105,120,-125,125,101,125,226
+Nova Spring Open,2025-05-18,Men's Senior 98Kg,Will Rooney,93.55,95,-102,-105,125,-130,-130,95,125,220
+Nova Spring Open,2025-05-18,Men's Senior 88Kg,Dave Wooding,81.95,95,98,103,105,110,115,103,115,218
+Nova Spring Open,2025-05-18,Men's Youth Under 17 79Kg,Elliot  Runchman,73.7,94,97,100,-113,-113,115,100,115,215
+Nova Spring Open,2025-05-18,Men's Senior 98Kg,Alexander Bristow ,96.85,80,87,95,110,-117,120,95,120,215
+Nova Spring Open,2025-05-18,Men's Senior 110Kg,Milton Sequeira,100.45,97,-100,-103,-115,117,-120,97,117,214
+Nova Spring Open,2025-05-18,Men's Senior 88Kg,Angelo Noto,86.85,80,87,-93,110,116,120,87,120,207
+Nova Spring Open,2025-05-18,Men's Senior 98Kg,Russell Turner,89.3,80,90,93,105,112,-115,93,112,205
+Nova Spring Open,2025-05-18,Men's Senior 88Kg,Liam Dunn,86.8,75,85,-90,100,115,-120,85,115,200
+Nova Spring Open,2025-05-18,Men's Senior 79Kg,Tristan Wade,72.7,80,-84,85,110,-115,-115,85,110,195
+Nova Spring Open,2025-05-18,Men's Senior 88Kg,Archie Davison ,85.75,88,-91,-91,104,-108,-108,88,104,192
+Nova Spring Open,2025-05-18,Men's Senior 98Kg,James  Shields ,96.4,79,-85,85,95,-102,105,85,105,190
+Nova Spring Open,2025-05-18,Men's Under 23 88Kg,Alvin Crittenden,87.3,77,80,-85,-100,101,105,80,105,185
+Nova Spring Open,2025-05-18,Men's Senior 60Kg,Daniel Pogmore,59.6,82,-85,-85,-102,102,-108,82,102,184
+Nova Spring Open,2025-05-18,Men's Senior 79Kg,Richard scargill,74.1,68,72,75,98,103,108,75,108,183
+Nova Spring Open,2025-05-18,Men's Senior 110Kg,James Marshall,102.5,74,78,80,86,94,100,80,100,180
+Nova Spring Open,2025-05-18,Men's Junior Under 20 79Kg,sunny mayo,75.85,73,-78,-80,90,100,106,73,106,179
+Nova Spring Open,2025-05-18,Men's Junior Under 20 88Kg,Edward Yu,82.15,-79,79,-84,94,100,-107,79,100,179
+Nova Spring Open,2025-05-18,Women's Senior 86Kg,Madeleine Lyall,79.95,72,74,77,85,90,93,77,93,170
+Nova Spring Open,2025-05-18,Women's Under 23 77Kg,Maddison Brooks,71.5,60,65,70,80,85,90,70,90,160
+Nova Spring Open,2025-05-18,Women's Senior 77Kg,Hannah Jefferys,70.95,64,67,70,80,84,-86,70,84,154
+Nova Spring Open,2025-05-18,Women's Senior 69Kg,Stevie Kuch,63.3,55,60,63,75,80,83,63,83,146
+Nova Spring Open,2025-05-18,Women's Senior 86Kg,Kit Palmer,77.2,59,-64,65,80,-85,-85,65,80,145
+Nova Spring Open,2025-05-18,Men's Senior 88Kg,David Evans,86.5,55,57,-60,75,82,-85,57,82,139
+Nova Spring Open,2025-05-18,Women's Senior +86Kg,Stephie Booth,88.05,50,53,60,65,70,-75,60,70,130
+Nova Spring Open,2025-05-18,Women's Senior 69Kg,Laura Matthews,64.2,52,56,-60,65,-68,70,56,70,126
+Nova Spring Open,2025-05-18,Women's Senior 77Kg,Helen Cooper,72.15,46,52,-57,67,72,-76,52,72,124
+Nova Spring Open,2025-05-18,Women's Senior 77Kg,Wendy Meadows-Smith,75.45,50,53,-58,70,-75,-75,53,70,123
+Nova Spring Open,2025-05-18,Women's Senior 58Kg,Veronica Whelpley,57.05,48,53,-56,-64,64,69,53,69,122
+Nova Spring Open,2025-05-18,Women's Senior 77Kg,Emma Mcgovern ,72.85,44,48,52,64,69,-73,52,69,121
+Nova Spring Open,2025-05-18,Women's Senior 63Kg,Arianna Fiorentini ,62.3,52,-55,-56,62,65,-68,52,65,117
+Nova Spring Open,2025-05-18,Women's Senior 86Kg,Jade Leatham,80.2,48,50,-53,60,65,67,50,67,117
+Nova Spring Open,2025-05-18,Women's Senior 63Kg,Louise Williams,58.75,43,45,50,58,60,62,50,62,112
+Nova Spring Open,2025-05-18,Women's Senior 86Kg,Steffie Kosta,85.1,40,44,47,53,57,60,47,60,107
+Nova Spring Open,2025-05-18,Men's Senior 98Kg,Malek  Hassan ,88.2,45,48,-51,54,58,-60,48,58,106
+Nova Spring Open,2025-05-18,Women's Senior 63Kg,Charlotte Elson,60.7,45,48,51,53,-54,54,51,54,105
+Nova Spring Open,2025-05-18,Women's Under 23 +86Kg,kara canning,90.8,40,-44,47,48,52,56,47,56,103
+Nova Spring Open,2025-05-18,Women's Senior 48Kg,Lilia Carvalho,47.7,-43,-43,43,56,58,-60,43,58,101
+Nova Spring Open,2025-05-18,Women's Senior 77Kg,Jessica Croft,69.9,35,-38,38,55,58,62,38,62,100
+Nova Spring Open,2025-05-18,Women's Senior 77Kg,Monidipa  Sarkar,70.4,40,43,-45,48,52,-56,43,52,95
+Nova Spring Open,2025-05-18,Men's Senior 88Kg,Eifion Jenkins,87,35,38,41,50,54,-60,41,54,95
+Nova Spring Open,2025-05-18,Women's Senior 69Kg,Emilia Shepherd,68.5,38,-40,40,45,50,54,40,54,94
+Nova Spring Open,2025-05-18,Women's Senior 58Kg,Alexandra Cole,56.05,35,-37,-37,45,48,-50,35,48,83
+Nova Spring Open,2025-05-18,Women's Senior 58Kg,Ceejai Marsh,55.25,25,28,-32,37,41,-44,28,41,69
+Nova Spring Open,2025-05-18,Women's Senior 86Kg,Lisa Dyson,85,25,28,30,35,39,-42,30,39,69
+Nova Spring Open,2025-05-18,Women's Senior +86Kg,Rosey Matthews,115,24,28,-32,33,36,-40,28,36,64
+Nova Spring Open,2025-05-18,Men's Senior 98Kg,James Yun-Stevens,98,-113,-116,-120,-150,-150,-155,0,0,0
