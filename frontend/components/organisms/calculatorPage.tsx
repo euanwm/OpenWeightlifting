@@ -174,15 +174,16 @@ function CalculatorPage() {
 
   function handleQPoints(masters: boolean) {
     const gender = selected === "male" ? 1 : 0
+    const totalInFunc = total ? total : 0
     setQPoints(QPointsCalculator(
       gender,
       bodyweight,
-      total,
+      totalInFunc,
     ))
     setQPointsMasters(QPointsCalculator(
       gender,
       bodyweight,
-      total,
+      totalInFunc,
       lifterAge
     ))
   }
