@@ -158,10 +158,10 @@ const SinclairCalculator = {
 function CalculatorPage() {
   const [sinclair, setSinclair] = useState<number>(0)
   const [bodyweight, setBodyweight] = useState<number>(0)
-  const [total, setTotal] = useState<number>(0)
+  const [total, setTotal] = useState<number>()
   const [selected, setSelected] = useState<string>('male')
   const [sinclairYear, setSinclairYear] = useState("2021")
-  const [lifterAge, setLifterAge] = useState<number>(25)
+  const [lifterAge, setLifterAge] = useState<number>()
   const [qPoints, setQPoints] = useState<number>(0)
   const [qPointsMasters, setQPointsMasters] = useState<number>(0)
 
@@ -182,11 +182,11 @@ function CalculatorPage() {
 
 function resetValues() {
   setBodyweight(0)
-  setTotal(0)
+  setTotal(undefined)
   setSinclair(0)
   setSelected('male')
   setSinclairYear('2021')
-  setLifterAge(25)
+  setLifterAge(undefined)
   setQPoints(0)
   setQPointsMasters(0)
 }
