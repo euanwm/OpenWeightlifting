@@ -199,6 +199,7 @@ function resetValues() {
   setQPointsMasters(0)
 }
 
+  // @ts-ignore
   return (
     <>
       <HeaderBar />
@@ -216,14 +217,14 @@ function resetValues() {
                   aria-label="Bodyweight"
                   type="number"
                   placeholder="Bodyweight"
-                  value={bodyweight ? bodyweight : "Bodyweight"}
+                  value={bodyweight === 0 ? "" : bodyweight.toString()}
                   onChange={e => setBodyweight(parseFloat(e.target.value))}
                 />
                 <Input
                   aria-label="Total"
                   type="number"
                   placeholder="Total"
-                  value={total}
+                  value={total === 0 ? "" : total?.toString()}
                   onChange={e => setTotal(parseFloat(e.target.value))}
                 />
                 <Select
@@ -261,12 +262,14 @@ function resetValues() {
                     fullWidth
                     onClick={() =>
                       setSinclair(
-                        SinclairCalculator.getSinclair(
-                          sinclairYear,
-                          selected,
-                          bodyweight,
-                          total,
-                        ),
+                        total !== undefined
+                          ? SinclairCalculator.getSinclair(
+                              sinclairYear,
+                              selected,
+                              bodyweight,
+                              total,
+                            )
+                          : 0
                       )
                     }
                   >
@@ -284,22 +287,22 @@ function resetValues() {
                 aria-label="Bodyweight"
                 type="number"
                 placeholder="Bodyweight"
-                value={bodyweight ? bodyweight : "Bodyweight"}
+                value={bodyweight === 0 ? "" : bodyweight.toString()}
                 onChange={e => setBodyweight(parseFloat(e.target.value))}
               />
               <Input
                 aria-label="Total"
                 type="number"
                 placeholder="Total"
-                value={total}
+                value={total === 0 ? "" : total?.toString()}
                 onChange={e => setTotal(parseFloat(e.target.value))}
               />
               <Input
                 aria-label="Age"
                 type="number"
                 placeholder="Age (30 and over)"
-                value={lifterAge}
-                onChange={e => setLifterAge(parseFloat(e.target.value))}
+                value={lifterAge === undefined || Number.isNaN(lifterAge) ? "" : lifterAge.toString()}
+                onChange={e => setLifterAge(e.target.value === "" ? undefined : parseFloat(e.target.value))}
               />
               <RadioGroup
                 aria-label="Gender"
@@ -337,14 +340,14 @@ function resetValues() {
                   aria-label="Bodyweight"
                   type="number"
                   placeholder="Bodyweight"
-                  value={bodyweight ? bodyweight : "Bodyweight"}
+                  value={bodyweight === 0 ? "" : bodyweight.toString()}
                   onChange={e => setBodyweight(parseFloat(e.target.value))}
                 />
                 <Input
                   aria-label="Total"
                   type="number"
                   placeholder="Total"
-                  value={total}
+                  value={total === 0 ? "" : total?.toString()}
                   onChange={e => setTotal(parseFloat(e.target.value))}
                 />
                 <RadioGroup
