@@ -1,4 +1,6 @@
 import { useState } from 'react'
+import { useSearchParams, useRouter } from "next/navigation";
+
 import {
   Input,
   Radio,
@@ -156,6 +158,11 @@ const SinclairCalculator = {
 }
 
 function CalculatorPage() {
+  const router = useRouter();
+  const searchParams = useSearchParams();
+  const option = searchParams.size === 1 ? searchParams.keys().take(1).next().value.toString() : null;
+  const pathname = option ? option : 'sinclair';
+
   const [sinclair, setSinclair] = useState<number>(0)
   const [bodyweight, setBodyweight] = useState<number>(0)
   const [total, setTotal] = useState<number>()
@@ -196,7 +203,12 @@ function resetValues() {
       <HeaderBar />
       <div className="flex justify-center mt-8">
         <div className="max-w-lg rounded-lg shadow-md p-8 space-y-8">
-          <Tabs>
+          <Tabs
+            selectedKey={pathname}
+            onSelectionChange={key => {
+              router.replace(`?${key}`)
+            }}
+          >
             <Tab key="sinclair" title="Sinclair">
               <div className="items-center space-y-2">
                 <Input
@@ -265,7 +277,7 @@ function resetValues() {
                 </h2>
               </div>
             </Tab>
-            <Tab key="masters qpoints" title="Masters QPoints">
+            <Tab key="qpointsmasters" title="Masters QPoints">
               <div className="items-center space-y-2">
               <Input
                 aria-label="Bodyweight"
