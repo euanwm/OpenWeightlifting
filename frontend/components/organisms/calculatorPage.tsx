@@ -284,7 +284,7 @@ function resetValues() {
               <Input
                 aria-label="Age"
                 type="number"
-                placeholder="Age"
+                placeholder="Age (30 and over)"
                 value={lifterAge}
                 onChange={e => setLifterAge(parseFloat(e.target.value))}
               />
