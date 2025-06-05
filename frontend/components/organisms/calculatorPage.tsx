@@ -194,70 +194,79 @@ function resetValues() {
   return (
     <>
       <HeaderBar />
-      <div className="flex justify-center mt-4">
-        <div className="max-w-lg mx-4 space-y-4">
+      <div className="flex justify-center mt-8">
+        <div className="max-w-lg rounded-lg shadow-md p-8 space-y-8">
           <Tabs>
             <Tab key="sinclair" title="Sinclair">
-              <Input
-                aria-label="Bodyweight"
-                type="number"
-                placeholder="Bodyweight"
-                value={bodyweight ? bodyweight : "Bodyweight"}
-                onChange={e => setBodyweight(parseFloat(e.target.value))}
-              />
-              <Input
-                aria-label="Total"
-                type="number"
-                placeholder="Total"
-                value={total}
-                onChange={e => setTotal(parseFloat(e.target.value))}
-              />
-              <RadioGroup
-                aria-label="Gender"
-                value={selected}
-                onValueChange={setSelected}
-              >
-                <Radio value="male" color="primary">
-                  Male
-                </Radio>
-                <Radio value="female" color="danger">
-                  Female
-                </Radio>
-              </RadioGroup>
-
-              <Select
-                aria-label="Calculator Year"
-                placeholder="Jan 2021 - 2024 Dec"
-                onChange={e => setSinclairYear(e.target.value)}
-              >
-                <SelectItem key="2001">Jan 2001 - 2004 Dec</SelectItem>
-                <SelectItem key="2005">Jan 2005 - 2008 Dec</SelectItem>
-                <SelectItem key="2009">Jan 2009 - 2012 Dec</SelectItem>
-                <SelectItem key="2013">Jan 2013 - 2016 Dec</SelectItem>
-                <SelectItem key="2017">Jan 2017 - 2020 Dec</SelectItem>
-                <SelectItem key="2021">Jan 2021 - 2024 Dec</SelectItem>
-              </Select>
-              <Button
-                onClick={resetValues}
-                color="warning"
-              >Reset</Button>
-              <Button
-                onClick={() =>
-                  setSinclair(
-                    SinclairCalculator.getSinclair(
-                      sinclairYear,
-                      selected,
-                      bodyweight,
-                      total,
-                    ),
-                  )
-                }
-              >
-                Calculate
-              </Button>
-              <h2>Calculator Score: {sinclair.toFixed(3)}</h2>
+              <div className="items-center space-y-2">
+                <Input
+                  aria-label="Bodyweight"
+                  type="number"
+                  placeholder="Bodyweight"
+                  value={bodyweight ? bodyweight : "Bodyweight"}
+                  onChange={e => setBodyweight(parseFloat(e.target.value))}
+                />
+                <Input
+                  aria-label="Total"
+                  type="number"
+                  placeholder="Total"
+                  value={total}
+                  onChange={e => setTotal(parseFloat(e.target.value))}
+                />
+                <Select
+                  aria-label="Calculator Year"
+                  placeholder="Jan 2021 - 2024 Dec"
+                  onChange={e => setSinclairYear(e.target.value)}
+                >
+                  <SelectItem key="2001">Jan 2001 - 2004 Dec</SelectItem>
+                  <SelectItem key="2005">Jan 2005 - 2008 Dec</SelectItem>
+                  <SelectItem key="2009">Jan 2009 - 2012 Dec</SelectItem>
+                  <SelectItem key="2013">Jan 2013 - 2016 Dec</SelectItem>
+                  <SelectItem key="2017">Jan 2017 - 2020 Dec</SelectItem>
+                  <SelectItem key="2021">Jan 2021 - 2024 Dec</SelectItem>
+                </Select>
+                <RadioGroup
+                  aria-label="Gender"
+                  value={selected}
+                  onValueChange={setSelected}
+                  orientation="horizontal"
+                >
+                  <Radio value="male" color="primary">
+                    Male
+                  </Radio>
+                  <Radio value="female" color="danger">
+                    Female
+                  </Radio>
+                </RadioGroup>
+                <div className="flex gap-4 mt-2">
+                  <Button
+                    onClick={resetValues}
+                    color="warning"
+                    fullWidth
+                  >Reset</Button>
+                  <Button
+                    fullWidth
+                    onClick={() =>
+                      setSinclair(
+                        SinclairCalculator.getSinclair(
+                          sinclairYear,
+                          selected,
+                          bodyweight,
+                          total,
+                        ),
+                      )
+                    }
+                  >
+                    Calculate
+                  </Button>
+                </div>
+                <h2 className="text-lg font-semibold text-center mt-4">
+                  Calculator Score: {sinclair === 0 ? 0 : sinclair.toFixed(3)}
+                </h2>
+              </div>
             </Tab>
             <Tab key="masters qpoints" title="Masters QPoints">
+              <div className="items-center space-y-2">
               <Input
                 aria-label="Bodyweight"
                 type="number"
@@ -283,6 +292,7 @@ function resetValues() {
                 aria-label="Gender"
                 value={selected}
                 onValueChange={setSelected}
+                orientation="horizontal"
               >
                 <Radio value="male" color="primary">
                   Male
@@ -291,52 +301,68 @@ function resetValues() {
                   Female
                 </Radio>
               </RadioGroup>
-              <Button
-                onClick={resetValues}
-                color="warning"
-              >Reset</Button>
-              <Button
-                onClick={() => handleQPoints(true)}>
-                Calculate
-              </Button>
-              <h2>Calculator Score: {qPointsMasters}</h2>
+              <div className="flex gap-4 mt-2">
+                <Button
+                  fullWidth
+                  onClick={resetValues}
+                  color="warning"
+                >Reset</Button>
+                <Button
+                  fullWidth
+                  onClick={() => handleQPoints(true)}>
+                  Calculate
+                </Button>
+              </div>
+              <h2 className="text-lg font-semibold text-center mt-4">
+                Calculator Score: {qPointsMasters}
+              </h2>
+              </div>
             </Tab>
             <Tab key="qpoints" title="QPoints">
-              <Input
-                aria-label="Bodyweight"
-                type="number"
-                placeholder="Bodyweight"
-                value={bodyweight ? bodyweight : "Bodyweight"}
-                onChange={e => setBodyweight(parseFloat(e.target.value))}
-              />
-              <Input
-                aria-label="Total"
-                type="number"
-                placeholder="Total"
-                value={total}
-                onChange={e => setTotal(parseFloat(e.target.value))}
-              />
-              <RadioGroup
-                aria-label="Gender"
-                value={selected}
-                onValueChange={setSelected}
-              >
-                <Radio value="male" color="primary">
-                  Male
-                </Radio>
-                <Radio value="female" color="danger">
-                  Female
-                </Radio>
-              </RadioGroup>
-              <Button
-                onClick={resetValues}
-                color="warning"
-                >Reset</Button>
-              <Button
-                onClick={() => handleQPoints(false)}>
-                Calculate
-              </Button>
-              <h2>Calculator Score: {qPoints}</h2>
+              <div className="items-center space-y-2">
+                <Input
+                  aria-label="Bodyweight"
+                  type="number"
+                  placeholder="Bodyweight"
+                  value={bodyweight ? bodyweight : "Bodyweight"}
+                  onChange={e => setBodyweight(parseFloat(e.target.value))}
+                />
+                <Input
+                  aria-label="Total"
+                  type="number"
+                  placeholder="Total"
+                  value={total}
+                  onChange={e => setTotal(parseFloat(e.target.value))}
+                />
+                <RadioGroup
+                  aria-label="Gender"
+                  value={selected}
+                  onValueChange={setSelected}
+                  orientation="horizontal"
+                >
+                  <Radio value="male" color="primary">
+                    Male
+                  </Radio>
+                  <Radio value="female" color="danger">
+                    Female
+                  </Radio>
+                </RadioGroup>
+                <div className="flex gap-4 mt-2">
+                  <Button
+                    onClick={resetValues}
+                    color="warning"
+                    fullWidth
+                  >Reset</Button>
+                  <Button
+                    fullWidth
+                    onClick={() => handleQPoints(false)}>
+                    Calculate
+                  </Button>
+                </div>
+                <h2 className="text-lg font-semibold text-center mt-4">
+                  Calculator Score: {qPoints}
+                </h2>
+              </div>
             </Tab>
           </Tabs>
         </div>
