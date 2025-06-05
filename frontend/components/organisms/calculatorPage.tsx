@@ -12,6 +12,8 @@ import {
 
 import HeaderBar from '@/components/molecules/head'
 
+import { QPointsCalculator } from '@/components/molecules/qpoints';
+
 const Coefficients = {
   AMale2001: 0.938573813,
   BMale2001: 135.390,
@@ -159,6 +161,26 @@ function CalculatorPage() {
   const [total, setTotal] = useState<number>(0)
   const [selected, setSelected] = useState<string>('male')
   const [sinclairYear, setSinclairYear] = useState("2021")
+  const [lifterAge, setLifterAge] = useState<number>(25)
+  const [qPoints, setQPoints] = useState<number>(0)
+  const [qPointsMasters, setQPointsMasters] = useState<number>(0)
+
+  function handleQPoints(masters: boolean) {
+    const gender = selected === "male" ? 1 : 0
+    setQPoints(QPointsCalculator(
+      gender,
+      bodyweight,
+      total,
+    ))
+    setQPointsMasters(QPointsCalculator(
+      gender,
+      bodyweight,
+      total,
+      lifterAge
+    ))
+  }
+
+  function resetValues() {}
 
   return (
     <>
@@ -171,12 +193,14 @@ function CalculatorPage() {
                 aria-label="Bodyweight"
                 type="number"
                 placeholder="Bodyweight"
+                value={bodyweight ? bodyweight : "Bodyweight"}
                 onChange={e => setBodyweight(parseFloat(e.target.value))}
               />
               <Input
                 aria-label="Total"
                 type="number"
                 placeholder="Total"
+                value={total}
                 onChange={e => setTotal(parseFloat(e.target.value))}
               />
               <RadioGroup
@@ -194,7 +218,7 @@ function CalculatorPage() {
 
               <Select
                 aria-label="Calculator Year"
-                placeholder="Calculator Year"
+                placeholder="Jan 2021 - 2024 Dec"
                 onChange={e => setSinclairYear(e.target.value)}
               >
                 <SelectItem key="2001">Jan 2001 - 2004 Dec</SelectItem>
@@ -220,8 +244,79 @@ function CalculatorPage() {
               </Button>
               <h2>Calculator Score: {sinclair.toFixed(3)}</h2>
             </Tab>
-            <Tab key="masters qpoints" title="Masters QPoints"></Tab>
-            <Tab key="qpoints" title="QPoints"></Tab>
+            <Tab key="masters qpoints" title="Masters QPoints">
+              <Input
+                aria-label="Bodyweight"
+                type="number"
+                placeholder="Bodyweight"
+                value={bodyweight ? bodyweight : "Bodyweight"}
+                onChange={e => setBodyweight(parseFloat(e.target.value))}
+              />
+              <Input
+                aria-label="Total"
+                type="number"
+                placeholder="Total"
+                value={total}
+                onChange={e => setTotal(parseFloat(e.target.value))}
+              />
+              <Input
+                aria-label="Age"
+                type="number"
+                placeholder="Age"
+                value={lifterAge}
+                onChange={e => setLifterAge(parseFloat(e.target.value))}
+              />
+              <RadioGroup
+                aria-label="Gender"
+                value={selected}
+                onValueChange={setSelected}
+              >
+                <Radio value="male" color="primary">
+                  Male
+                </Radio>
+                <Radio value="female" color="danger">
+                  Female
+                </Radio>
+              </RadioGroup>
+              <Button
+                onClick={() => handleQPoints(true)}>
+                Calculate
+              </Button>
+              <h2>Calculator Score: {qPointsMasters}</h2>
+            </Tab>
+            <Tab key="qpoints" title="QPoints">
+              <Input
+                aria-label="Bodyweight"
+                type="number"
+                placeholder="Bodyweight"
+                value={bodyweight ? bodyweight : "Bodyweight"}
+                onChange={e => setBodyweight(parseFloat(e.target.value))}
+              />
+              <Input
+                aria-label="Total"
+                type="number"
+                placeholder="Total"
+                value={total}
+                onChange={e => setTotal(parseFloat(e.target.value))}
+              />
+              <RadioGroup
+                aria-label="Gender"
+                value={selected}
+                onValueChange={setSelected}
+              >
+                <Radio value="male" color="primary">
+                  Male
+                </Radio>
+                <Radio value="female" color="danger">
+                  Female
+                </Radio>
+              </RadioGroup>
+              <Button
+                onClick={() => handleQPoints(false)}>
+                Calculate
+              </Button>
+              <h2>Calculator Score: {qPoints}</h2>
+            </Tab>
           </Tabs>
         </div>
       </div>
