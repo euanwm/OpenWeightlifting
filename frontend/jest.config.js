@@ -5,4 +5,7 @@ module.exports = {
   modulePaths: ["<rootDir>"],
   collectCoverage: true,
   coverageReporters: ["text", "cobertura"],
+  moduleNameMapper: {
+    '^@/(.*)$': '<rootDir>/$1'
+  },
 }

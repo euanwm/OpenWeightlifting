@@ -9,7 +9,7 @@ export const siteConfig = {
       href: "/",
     },
     {
-      label: "Sinclair Calculator",
+      label: "Calculator Calculator",
       href: "/sinclair",
     }
   ],
@@ -19,7 +19,7 @@ export const siteConfig = {
       href: "/",
     },
     {
-      label: "Sinclair Calculator",
+      label: "Calculator Calculator",
       href: "/sinclair",
     },
   ],
