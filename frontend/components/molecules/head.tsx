@@ -50,7 +50,7 @@ const HeaderBar = () => {
           </Link>
         </NavbarMenuItem>
         <NavbarMenuItem>
-          <Link href="/sinclair">
+          <Link href="/frontend/pages/calculator">
             <SlCalculator size="30px" />
             <span className="ml-2">Sinclair Calculator</span>
           </Link>

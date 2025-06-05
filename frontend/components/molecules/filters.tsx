@@ -4,7 +4,7 @@ import years from '../../autobuild/filter_years.json'
 // todo: convert to enums?
 const sortByList = [
   { value: 'total', label: 'Total' },
-  { value: 'sinclair', label: 'Sinclair' },
+  { value: 'sinclair', label: 'Calculator' },
 ]
 const federationList = [
   { value: 'allfeds', label: 'ALL' },
@@ -114,7 +114,7 @@ export const Filters = ({ sortBy, federation, handleFilterChange, weightClass, y
   <div className="flex flex-col md:flex-row space-y-1 md:space-y-0 md:space-x-4 mt-4 mx-4">
     <Select
       items={sortByList}
-      label="Total/Sinclair"
+      label="Total/Calculator"
       placeholder={sortBy.charAt(0).toUpperCase() + sortBy.slice(1)}
       fullWidth={false}
       onChange={

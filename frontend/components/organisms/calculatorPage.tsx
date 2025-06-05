@@ -6,6 +6,8 @@ import {
   RadioGroup,
   Select,
   SelectItem,
+  Tabs,
+  Tab
 } from '@nextui-org/react'
 
 import HeaderBar from '@/components/molecules/head'
@@ -151,7 +153,7 @@ const SinclairCalculator = {
   },
 }
 
-function SinclairPage() {
+function CalculatorPage() {
   const [sinclair, setSinclair] = useState<number>(0)
   const [bodyweight, setBodyweight] = useState<number>(0)
   const [total, setTotal] = useState<number>(0)
@@ -163,68 +165,68 @@ function SinclairPage() {
       <HeaderBar />
       <div className="flex justify-center mt-4">
         <div className="max-w-lg mx-4 space-y-4">
-          <p>
-            We will eventually write up a relatively short piece here explaining
-            the finer details of the Sinclair formula, but for now, here is a
-            calculator to play around with.
-          </p>
+          <Tabs>
+            <Tab key="sinclair" title="Sinclair">
+              <Input
+                aria-label="Bodyweight"
+                type="number"
+                placeholder="Bodyweight"
+                onChange={e => setBodyweight(parseFloat(e.target.value))}
+              />
+              <Input
+                aria-label="Total"
+                type="number"
+                placeholder="Total"
+                onChange={e => setTotal(parseFloat(e.target.value))}
+              />
+              <RadioGroup
+                aria-label="Gender"
+                value={selected}
+                onValueChange={setSelected}
+              >
+                <Radio value="male" color="primary">
+                  Male
+                </Radio>
+                <Radio value="female" color="danger">
+                  Female
+                </Radio>
+              </RadioGroup>
 
-          <Input
-            aria-label="Bodyweight"
-            type="number"
-            placeholder="Bodyweight"
-            onChange={e => setBodyweight(parseFloat(e.target.value))}
-          />
-          <Input
-            aria-label="Total"
-            type="number"
-            placeholder="Total"
-            onChange={e => setTotal(parseFloat(e.target.value))}
-          />
-          <RadioGroup
-            aria-label="Gender"
-            value={selected}
-            onValueChange={setSelected}
-          >
-            <Radio value="male" color="primary">
-              Male
-            </Radio>
-            <Radio value="female" color="danger">
-              Female
-            </Radio>
-          </RadioGroup>
-
-          <Select
-            aria-label="Sinclair Year"
-            placeholder="Sinclair Year"
-            onChange={e => setSinclairYear(e.target.value)}
-          >
-            <SelectItem key="2001">Jan 2001 - 2004 Dec</SelectItem>
-            <SelectItem key="2005">Jan 2005 - 2008 Dec</SelectItem>
-            <SelectItem key="2009">Jan 2009 - 2012 Dec</SelectItem>
-            <SelectItem key="2013">Jan 2013 - 2016 Dec</SelectItem>
-            <SelectItem key="2017">Jan 2017 - 2020 Dec</SelectItem>
-            <SelectItem key="2021">Jan 2021 - 2024 Dec</SelectItem>
-          </Select>
-          <Button
-            onClick={() =>
-              setSinclair(
-                SinclairCalculator.getSinclair(
-                  sinclairYear,
-                  selected,
-                  bodyweight,
-                  total,
-                ),
-              )
-            }
-          >
-            Calculate
-          </Button>
-          <h2>Sinclair Score: {sinclair.toFixed(3)}</h2>
+              <Select
+                aria-label="Calculator Year"
+                placeholder="Calculator Year"
+                onChange={e => setSinclairYear(e.target.value)}
+              >
+                <SelectItem key="2001">Jan 2001 - 2004 Dec</SelectItem>
+                <SelectItem key="2005">Jan 2005 - 2008 Dec</SelectItem>
+                <SelectItem key="2009">Jan 2009 - 2012 Dec</SelectItem>
+                <SelectItem key="2013">Jan 2013 - 2016 Dec</SelectItem>
+                <SelectItem key="2017">Jan 2017 - 2020 Dec</SelectItem>
+                <SelectItem key="2021">Jan 2021 - 2024 Dec</SelectItem>
+              </Select>
+              <Button
+                onClick={() =>
+                  setSinclair(
+                    SinclairCalculator.getSinclair(
+                      sinclairYear,
+                      selected,
+                      bodyweight,
+                      total,
+                    ),
+                  )
+                }
+              >
+                Calculate
+              </Button>
+              <h2>Calculator Score: {sinclair.toFixed(3)}</h2>
+            </Tab>
+            <Tab key="masters qpoints" title="Masters QPoints"></Tab>
+            <Tab key="qpoints" title="QPoints"></Tab>
+          </Tabs>
         </div>
       </div>
     </>
   )
 }
 
-export default SinclairPage
+export default CalculatorPage
