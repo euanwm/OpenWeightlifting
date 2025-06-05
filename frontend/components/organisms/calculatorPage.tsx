@@ -160,7 +160,7 @@ const SinclairCalculator = {
 function CalculatorPage() {
   const router = useRouter();
   const searchParams = useSearchParams();
-  const option = searchParams.size === 1 ? searchParams.keys().take(1).next().value.toString() : null;
+  const option = searchParams && searchParams.size === 1 ? Array.from(searchParams.keys())[0]?.toString() : null;
   const pathname = option ? option : 'sinclair';
 
   const [sinclair, setSinclair] = useState<number>(0)
