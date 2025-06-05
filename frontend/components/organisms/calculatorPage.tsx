@@ -180,7 +180,16 @@ function CalculatorPage() {
     ))
   }
 
-  function resetValues() {}
+function resetValues() {
+  setBodyweight(0)
+  setTotal(0)
+  setSinclair(0)
+  setSelected('male')
+  setSinclairYear('2021')
+  setLifterAge(25)
+  setQPoints(0)
+  setQPointsMasters(0)
+}
 
   return (
     <>
@@ -228,6 +237,10 @@ function CalculatorPage() {
                 <SelectItem key="2017">Jan 2017 - 2020 Dec</SelectItem>
                 <SelectItem key="2021">Jan 2021 - 2024 Dec</SelectItem>
               </Select>
+              <Button
+                onClick={resetValues}
+                color="warning"
+              >Reset</Button>
               <Button
                 onClick={() =>
                   setSinclair(
@@ -279,6 +292,10 @@ function CalculatorPage() {
                 </Radio>
               </RadioGroup>
               <Button
+                onClick={resetValues}
+                color="warning"
+              >Reset</Button>
+              <Button
                 onClick={() => handleQPoints(true)}>
                 Calculate
               </Button>
@@ -311,6 +328,10 @@ function CalculatorPage() {
                   Female
                 </Radio>
               </RadioGroup>
+              <Button
+                onClick={resetValues}
+                color="warning"
+                >Reset</Button>
               <Button
                 onClick={() => handleQPoints(false)}>
                 Calculate
