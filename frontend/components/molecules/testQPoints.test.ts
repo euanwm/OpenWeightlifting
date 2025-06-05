@@ -33,4 +33,36 @@ describe('with correct parameters', () => {
     )
     expect(returnedResult).toEqual(expectedScore)
   })
+  it('Masters Male QPoints - 3 Decimal Places', () => {
+    const testInput = {
+      gender: Gender.Male,
+      bodyweight: 80.00,
+      total: 200.00,
+      age: 35
+    }
+    const expectedScore = 275.325;
+    const returnedResult = QPointsCalculator(
+        testInput.gender,
+        testInput.bodyweight,
+        testInput.total,
+        testInput.age,
+    )
+    expect(returnedResult).toEqual(expectedScore)
+  })
+  it('Masters Male QPoints - 3 Decimal Places', () => {
+    const testInput = {
+      gender: Gender.Female,
+      bodyweight: 80.00,
+      total: 200.00,
+      age: 35
+    }
+    const expectedScore = 260.028;
+    const returnedResult = QPointsCalculator(
+      testInput.gender,
+      testInput.bodyweight,
+      testInput.total,
+      testInput.age,
+    )
+    expect(returnedResult).toEqual(expectedScore)
+  })
 })
