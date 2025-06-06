@@ -8,13 +8,34 @@ import posthog from 'posthog-js'
 
 export default function App({ Component, pageProps }: AppProps) {
   useEffect(() => {
-    //disables analytics in a local environment
     if (process.env.NODE_ENV === 'production') {
       posthog.init('phc_gi3XPh5YpNuzgy5uailSyNKuEjuwny8hu5LjK5t7AGx', {
         api_host: 'https://us.i.posthog.com',
         person_profiles: 'always', // 'identified_only' or 'always' to create profiles for anonymous users as well
       })
     }
+
+    let bmcButton: HTMLElement | null = null;
+    let interval: NodeJS.Timeout;
+
+    function handleClick() {
+      posthog.capture('buy_me_a_coffee_clicked');
+    }
+
+    interval = setInterval(() => {
+      bmcButton = document.getElementById('bmc-wbtn');
+      if (bmcButton) {
+        bmcButton.addEventListener('click', handleClick);
+        clearInterval(interval);
+      }
+    }, 500);
+
+    return () => {
+      clearInterval(interval);
+      if (bmcButton) {
+        bmcButton.removeEventListener('click', handleClick);
+      }
+    };
   }, [])
   return (
     <NextUIProvider>
