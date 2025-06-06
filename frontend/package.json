@@ -26,7 +26,7 @@
     "next": "^15.1.1",
     "next-ssl-redirect-middleware": "^0.1.5",
     "next-themes": "^0.2.1",
-    "posthog-js": "^1.202.2",
+    "posthog-js": "^1.249.4",
     "react": "^18.3.1",
     "react-chartjs-2": "^5.2.0",
     "react-dom": "^18.3.1",
