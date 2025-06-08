@@ -9,6 +9,8 @@ import { DataTable } from '../molecules/dataTable'
 import LifterGraphModal from '../molecules/lifterGraphModal'
 import { useRouter } from 'next/router'
 import {NoResults} from "@/components/molecules/noresults";
+import DonationModal from '@/components/molecules/donationModal'
+import { useFeatureFlagVariantKey } from 'posthog-js/react'
 
 const lifterLoadMoreQty = 50
 
@@ -52,6 +54,8 @@ function HomePage() {
     router.push({ query: { ...params, stop: stop + lifterLoadMoreQty } })
   }
 
+  const variant = useFeatureFlagVariantKey("donation-popup")
+
   return (
     <>
       {isLoading && (
@@ -61,6 +65,9 @@ function HomePage() {
       )}
       <div className={'flex flex-col content-center'}>
         <HeaderBar />
+        <>
+          {variant && <DonationModal />}
+        </>
         <Filters
           sortBy={sortby}
           federation={federation}
