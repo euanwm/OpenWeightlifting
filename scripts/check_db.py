@@ -44,7 +44,7 @@ def __single_database() -> Optional[list[str]]:
         return None
 
 def __load_gender_cats() -> list:
-    gender_cat_fname = "database_handler/gender_categories.json"
+    gender_cat_fname = "gender_categories.json"
     with open(gender_cat_fname, 'r', encoding='utf-8') as gender_cat_file:
         cat_dict: dict = json.load(gender_cat_file)
     # I am aware this is lazy but oh well
