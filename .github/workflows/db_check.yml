@@ -21,9 +21,11 @@ jobs:
         python-version: ${{ matrix.python-version }}
     - name: Install dependencies from pipfile
       run: |
+        cd scripts
         python -m pip install --upgrade pip
         pip install pipenv
         pipenv install --dev
     - name: Run check_db.py
       run: |
+        cd scripts
         pipenv run python check_db.py
