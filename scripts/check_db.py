@@ -4,12 +4,65 @@ import logging
 import re
 import sys
 import json
+import csv
+from dataclasses import dataclass
 from os import getcwd, listdir
 from os.path import join
 from typing import Optional
 
-from database_handler.result_dataclasses import Result
-from database_handler.static_helpers import load_result_csv_as_list
+@dataclass
+class Result:
+    """
+    UNPACK IT BRO (*)\n
+    UK and US entities use the same event result format
+    """
+    event: str
+    date: str
+    category: str
+    lifter_name: str
+    bodyweight: float
+    snatch_1: float
+    snatch_2: float
+    snatch_3: float
+    cj_1: float
+    cj_2: float
+    cj_3: float
+    best_snatch: float = 0.0
+    best_cj: float = 0.0
+    total: float = 0.0
+
+    def __post_init__(self):
+        self.__catch_nones()
+        self.best_snatch = self.__best_snatch()
+        self.best_cj = self.__best_cj()
+        self.total = self.__total()
+
+    def __best_snatch(self):
+        return max(0.0, self.snatch_1, self.snatch_2, self.snatch_3)
+
+    def __best_cj(self):
+        return max(0.0, self.cj_1, self.cj_2, self.cj_3)
+
+    def __total(self):
+        if self.best_snatch == 0.0 or self.best_cj == 0.0:
+            return 0.0
+        return self.best_snatch + self.best_cj
+
+    def __catch_nones(self):
+        for key, value in self.__dict__.items():
+            if value is None:
+                if key in ['snatch_1', 'snatch_2', 'snatch_3', 'cj_1', 'cj_2', 'cj_3']:
+                    setattr(self, key, 0)
+
+def load_result_csv_as_list(filepath: str) -> list:
+    """Stuff"""
+    results_list: list = []
+    with open(filepath, "r", encoding='utf-8') as results_file:
+        csv_read = csv.reader(results_file)
+        for lines in csv_read:
+            if lines[0][0] != "#":
+                results_list.append(lines)
+    return results_list[1::]  # Drops the header line
 
 EVENT_DATA_PATH: str = "../event_data"
 RULE_CHANGE_YEAR: int = 2005
