@@ -2,8 +2,7 @@ import json
 from os import listdir
 from os.path import join
 
-from check_db import EVENT_DATA_PATH, assign_dataclass
-from database_handler.static_helpers import load_result_csv_as_list, load_json
+from check_db import EVENT_DATA_PATH, assign_dataclass, load_result_csv_as_list
 
 AUTOBUILD_FILTERS_PATH = "../frontend/autobuild/filter_years.json"
 
@@ -19,6 +18,10 @@ def build_filters() -> None:
                 years_available.append(event_year)
     __update_filters_json(years_available)
 
+def load_json(filepath: str) -> dict:
+    with open(filepath, 'r', encoding='utf-8') as file:
+        json_data: dict = json.load(file)
+    return json_data
 
 def __get_event_year(event_result_name: str) -> int:
     single_event = load_result_csv_as_list(join(EVENT_DATA_PATH, event_result_name))
