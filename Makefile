@@ -4,13 +4,13 @@
 # Builds the backend server executable
 .PHONY: build_backend
 build_backend:
-	cp -r event_data/ backend/
+	cp -r event_data/ backend/event_data/
 	cd backend && go build -o backend
 
 # Builds the frontend files
 .PHONY: build_frontend
 build_frontend:
-	@cd python_tools && pipenv install && pipenv run python3 fe_builder.py
+	@cd scripts && pipenv install && pipenv run python3 fe_builder.py
 	cd frontend && npm install
 
 .PHONY: check_db
