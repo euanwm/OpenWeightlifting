@@ -35,7 +35,9 @@ export default function DonationModal() {
               <img
                 src="https://img.buymeacoffee.com/button-api/?text=Buy us a coffee&emoji=&slug=openweightlifting&button_colour=00B0F0&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"
                 alt="Buy us a coffee"
-                className="h-12"
+                className="h-12 w-auto"
+                width="217"
+                height="60"
               />
             </a>
           </div>
