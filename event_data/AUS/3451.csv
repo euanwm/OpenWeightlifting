@@ -1,0 +1,4 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+TWA Club Competition,2025-07-05,female,Megan Stevens,84.75,30,32,34,37,40,42,34,42,76
+TWA Club Competition,2025-07-05,male,Tait Stuart,87.55,-75,75,79,105,110,-113,79,110,189
+TWA Club Competition,2025-07-05,male,Simon Chadwick,87.56,-82,82,87,90,96,-102,87,96,183
