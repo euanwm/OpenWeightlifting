@@ -69,7 +69,7 @@ const weightClassList2 = {
     { value: 'M69', label: "Men's 69kg" },
     { value: 'M77', label: "Men's 77kg" },
     { value: 'M85', label: "Men's 85kg" },
-    { value: 'M94', label: "Men's 94kg" },
+    { value: 'M94-98', label: "Men's 94kg" },
     { value: 'M105', label: "Men's 105kg" },
     { value: 'M105+', label: "Men's +105kg" },
     { value: 'F48-98', label: "Women's 48kg" },
