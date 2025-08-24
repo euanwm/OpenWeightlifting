@@ -1,17 +1,20 @@
 FROM golang:1.21-alpine AS build
-WORKDIR /work
-COPY ../event_data ./event_data
+
+WORKDIR /app
+
+COPY go.mod go.sum ./
+RUN go mod download
+
 COPY . .
-RUN \
-  --mount=type=cache,target=/root/.cache/go-build \
-  --mount=type=cache,target=/go/pkg/mod \
-  go build -o backend
+
+RUN go build -o backend
 
 FROM alpine:3.16 AS final
-COPY --from=build /work/backend /bin/backend
+WORKDIR /app
+
+COPY --from=build /app/backend /app/backend
 
 ENV HOSTNAME backend
 EXPOSE 8080
 
-WORKDIR /
-ENTRYPOINT ["/bin/backend"]
+ENTRYPOINT ["/app/backend"]
