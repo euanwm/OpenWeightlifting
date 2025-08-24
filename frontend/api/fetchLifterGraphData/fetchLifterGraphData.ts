@@ -1,10 +1,11 @@
-"use client"
+'use client'
 
+import { getAPI } from '../loadSplitter'
 import { LifterChartData } from './fetchLifterGraphDataTypes'
 
-export default async function fetchLifterGraphData(
-  params: { [key: string]: string },
-): Promise<LifterChartData> {
+export default async function fetchLifterGraphData(params: {
+  [key: string]: string
+}): Promise<LifterChartData> {
   if (!params['name']) {
     return
   }
@@ -14,7 +15,7 @@ export default async function fetchLifterGraphData(
 
   const URLParams = new URLSearchParams(params)
 
-  const response = await fetch(`${process.env.API}/graph?${URLParams}`, {
+  const response = await fetch(`${getAPI()}/graph?${URLParams}`, {
     headers: {
       Accept: '*/*',
       'Content-Type': 'application/json',
