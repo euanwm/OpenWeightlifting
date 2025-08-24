@@ -5,10 +5,5 @@
 /.vscode
 /python_tools/database_handler/__pycache__
 
-# Ignore the event_data once it's compilation spot
-/backend/event_data/
-/backend/event_data/**/*.csv
-/backend/pkg/
-
 # Ignore the autobuild folder
 frontend/autobuild/
