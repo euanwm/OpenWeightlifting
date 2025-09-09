@@ -19,6 +19,7 @@ jobs:
         env:
           RAILWAY_TOKEN: ${{ secrets.RAILWAY_TOKEN }}
         run: |
+          cd backend
           railway up --service owl-be-alt
       - name: Setup Python 3.11
         uses: actions/setup-python@v2
