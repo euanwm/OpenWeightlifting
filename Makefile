@@ -16,7 +16,7 @@ build_frontend:
 .PHONY: check_db
 DB ?= ""
 check_db:
-	@cd python_tools && pipenv run python3 check_db.py $(DB)
+	@cd scripts && pipenv run python3 check_db.py $(DB)
 
 .PHONY: generate-docs
 generate-docs:
