@@ -5,13 +5,14 @@ import (
 	"backend/discordbot"
 	"backend/middleware"
 	"fmt"
-	"github.com/gin-contrib/cors"
-	"github.com/gin-contrib/gzip"
-	"github.com/gin-gonic/gin"
 	"log"
 	"os"
 	"os/signal"
 	"syscall"
+
+	"github.com/gin-contrib/cors"
+	"github.com/gin-contrib/gzip"
+	"github.com/gin-gonic/gin"
 )
 
 func CORSConfig() cors.Config {
@@ -20,7 +21,7 @@ func CORSConfig() cors.Config {
 		log.Println("Local mode - Disabling CORS nonsense")
 		corsConfig.AllowOrigins = []string{"https://www.openweightlifting.org", "http://localhost:3000", "http://frontend-app:3000", "*"}
 	} else {
-		corsConfig.AllowOrigins = []string{"https://www.openweightlifting.org"}
+		corsConfig.AllowOrigins = []string{"https://www.openweightlifting.org", "https://owl-v2-production.up.railway.app/"}
 	}
 	corsConfig.AllowCredentials = true
 	corsConfig.AddAllowHeaders("Access-Control-Allow-Headers", "access-control-allow-origin, access-control-allow-headers", "Content-Type", "X-XSRF-TOKEN", "Accept", "Origin", "X-Requested-With", "Authorization")
