@@ -7,29 +7,74 @@ import {
   TableBody, Link,
 } from '@nextui-org/react'
 import { LifterResult } from '@/api/fetchLifterData/fetchLifterDataTypes'
+import { useState } from 'react'
 
-export const EventTable = ({
+export const EventTable = ({ 
                                history,
-                             }: {
-  history: LifterResult[]
-}) => {
+                              }: {
+                                history: LifterResult[]
+                              }) => {
+  const [sortKey, setSortKey] = useState<'bodyweight' | 'total' | 'sinclair' | null>(null)
+  const [sortOrder, setSortOrder] = useState<'asc' | 'desc'>('asc')
+
+  const sortedHistory = [...history].sort((a, b) => {
+    if (!sortKey) return 0
+    const aValue = a[sortKey] ?? 0
+    const bValue = b[sortKey] ?? 0
+    return sortOrder === 'asc' ? aValue - bValue : bValue - aValue
+  })
+
+  const handleSort = (key: 'bodyweight' | 'total' | 'sinclair') => {
+    if (sortKey === key) {
+      setSortOrder(sortOrder === 'asc' ? 'desc' : 'asc')
+    } else {
+      setSortKey(key)
+      setSortOrder('asc')
+    }
+  }
+
+  const renderSortIcon = (key: 'bodyweight' | 'total' | 'sinclair') => {
+    if (sortKey !== key) return null
+    return sortOrder === 'asc' ? '▲' : '▼'
+  }
+  
+
+  const renderSortableHeader = (label: string, key: 'bodyweight' | 'total' | 'sinclair') => (
+    <div
+      onClick={() => handleSort(key)}
+      style={{
+        display: 'flex',
+        alignItems: 'center',
+        cursor: 'pointer',
+        userSelect: 'none',
+        fontWeight: sortKey === key ? 'bold' : 'normal',
+        backgroundColor: sortKey === key ? 'rgba(0, 123, 255, 0.1)' : 'transparent',
+        padding: '4px 8px',
+        borderRadius: 4,
+      }}
+    >
+      {label}
+      {renderSortIcon(key)}
+    </div>
+  )
+
   return (
     <Table>
       <TableHeader>
         <TableColumn>Date</TableColumn>
         <TableColumn>Name</TableColumn>
-        <TableColumn>Bodyweight</TableColumn>
+        <TableColumn>{renderSortableHeader('Bodyweight', 'bodyweight')}</TableColumn>
         <TableColumn>1st Snatch</TableColumn>
         <TableColumn>2nd Snatch</TableColumn>
         <TableColumn>3rd Snatch</TableColumn>
         <TableColumn>1st C&J</TableColumn>
         <TableColumn>2nd C&J</TableColumn>
         <TableColumn>3rd C&J</TableColumn>
-        <TableColumn>Total</TableColumn>
-        <TableColumn>Sinclair</TableColumn>
+        <TableColumn>{renderSortableHeader('Total', 'total')}</TableColumn>
+        <TableColumn>{renderSortableHeader('Sinclair', 'sinclair')}</TableColumn>
       </TableHeader>
       <TableBody>
-        {history.map((lift, index) => {
+        {sortedHistory.map((lift, index) => {
           const {
             date,
             lifter_name,
@@ -51,7 +96,7 @@ export const EventTable = ({
               <TableCell>{date}</TableCell>
               <TableCell>
                 <Link href={lifter_page}>
-                  {lifter_name}
+                {lifter_name}
                 </Link>
               </TableCell>
               <TableCell>{bodyweight}</TableCell>
