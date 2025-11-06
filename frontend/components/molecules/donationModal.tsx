@@ -3,10 +3,12 @@ import posthog from 'posthog-js'
 import { useState } from 'react'
 
 export default function DonationModal() {
-  let [modalOpen, setModalOpen] = useState(true)
+  const randomNumber = Math.floor(Math.random() * 10) + 1
+  console.log(randomNumber)
+  let [modalOpen, setModalOpen] = useState(randomNumber === 8)
 
   const handleClick = () => {
-    posthog.capture('buy_me_a_coffee_visited', { link_name: 'BMAC Link' })
+    posthog.capture('early_access_visited', { link_name: 'Alpha Site Link' })
   }
 
   return (
@@ -16,29 +18,24 @@ export default function DonationModal() {
       className="border border-[#00B0F0]"
     >
       <ModalContent>
-        <ModalHeader>
-          <h2 className="text-2xl font-bold">Support OpenWeightlifting</h2>
+        <ModalHeader className="justify-center">
+          <h2 className="text-2xl font-bold">You're an Alpha (tester)</h2>
         </ModalHeader>
         <ModalBody>
           <div className="flex flex-col items-center space-y-4">
             <p className="text-lg text-center">
-              If you find our OpenWeightlifting useful, consider supporting us
-              on Buy Me a Coffee.
+              Be among the first to break stuff on the new version of
+              OpenWeightlifting. Try our alpha version and help shape the future
+              of Olympic Weightlifting data.
             </p>
             <a
-              href="https://www.buymeacoffee.com/openweightlifting"
+              href="https://alpha.openweightlifting.org"
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-block"
+              className="inline-block bg-[#00B0F0] hover:bg-[#0099D6] text-white px-6 py-3 rounded-lg font-semibold transition-colors duration-200"
               onClick={handleClick}
             >
-              <img
-                src="https://img.buymeacoffee.com/button-api/?text=Buy us a coffee&emoji=&slug=openweightlifting&button_colour=00B0F0&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"
-                alt="Buy us a coffee"
-                className="h-12 w-auto"
-                width="217"
-                height="60"
-              />
+              Take me to the new version!
             </a>
           </div>
         </ModalBody>
