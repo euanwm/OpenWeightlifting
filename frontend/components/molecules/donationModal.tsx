@@ -19,7 +19,7 @@ export default function DonationModal() {
     >
       <ModalContent>
         <ModalHeader className="justify-center">
-          <h2 className="text-2xl font-bold">You're an Alpha (tester)</h2>
+          <h2 className="text-2xl font-bold">You&apos;re an Alpha (tester)</h2>
         </ModalHeader>
         <ModalBody>
           <div className="flex flex-col items-center space-y-4">
