@@ -21,20 +21,3 @@ jobs:
         run: |
           cd backend
           railway up --service owl-be-alt
-      - name: Setup Python 3.11
-        uses: actions/setup-python@v2
-        with:
-          python-version: 3.11
-      - name: Build Frontend Filters
-        run: |
-          cd scripts
-          python -m pip install --upgrade pip
-          pip install pipenv
-          pipenv install --dev
-          pipenv run python3 fe_builder.py
-      - name: Deploy OWL Frontend
-        uses: behe/heroku-build@v1
-        with:
-          app-name: "owl-production-frontend"
-          api-key: "${{secrets.HEROKU_API_KEY}}"
-          path: "./frontend/"
