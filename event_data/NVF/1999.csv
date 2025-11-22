@@ -1,15 +1,15 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-T&IL National Nasjonalt stevne,2024-12-30,Women's Youth Under 17 71Kg,Arwen Olea Dagsland Ravneng,71,29,31,-33,39,-42,42,31,42,73
-T&IL National Nasjonalt stevne,2024-12-30,Men's Youth Under 17 67Kg,Cornelis Belsby,67,29,31,-33,39,43,-44,31,43,74
-T&IL National Nasjonalt stevne,2024-12-30,Men's Youth Under 15 49Kg,Darian Aas,49,-19,19,21,29,31,-33,21,31,52
-T&IL National Nasjonalt stevne,2024-12-30,Women's Masters (50-54) 87+Kg,Else-Karin Aas,87,32,0,0,32,35,0,32,35,67
-T&IL National Nasjonalt stevne,2024-12-30,Women's Youth Under 15 40Kg,Emma Hundstuen,40,10,11,12,15,17,18,12,18,30
-T&IL National Nasjonalt stevne,2024-12-30,Men's Masters (35-39) 89Kg,Erlend Nordrum,89,60,65,67,80,-85,90,67,90,157
-T&IL National Nasjonalt stevne,2024-12-30,Men's Masters (35-39) 109+Kg,John Anders Terland,999,100,-105,105,115,120,-128,105,120,225
-T&IL National Nasjonalt stevne,2024-12-30,Men's Youth Under 17 73Kg,Julian Cao,73,50,-53,-53,-60,60,63,50,63,113
-T&IL National Nasjonalt stevne,2024-12-30,Men's Youth Under 17 67Kg,Jørgen Bysveen,67,70,-73,73,88,92,95,73,95,168
-T&IL National Nasjonalt stevne,2024-12-30,Women's Youth Under 15 59Kg,Luna Wangberg Møgster,59,22,23,24,30,32,33,24,33,57
-T&IL National Nasjonalt stevne,2024-12-30,Men's Youth Under 15 61Kg,Marius Lunde Karagiannis,61,-60,60,-63,-70,-70,-70,60,0.0,0.0
-T&IL National Nasjonalt stevne,2024-12-30,Men's Masters (50-54) 67kg,Roy Arne Bysveen,67,48,50,54,66,70,72,54,72,126
-T&IL National Nasjonalt stevne,2024-12-30,Women's Senior 81Kg,Sandra Daniella Aas,81,43,-45,-45,55,58,60,43,60,103
-T&IL National Nasjonalt stevne,2024-12-30,Men's Senior 109Kg,Steinar A. Aas,109,84,87,90,120,-125,125,90,125,215
+T&IL National Nasjonalt stevne,2024-12-30,female - Ungdom Kvinner,Arwen Olea Dagsland Ravneng,71,29,31,-33,39,-42,42,31,42,73
+T&IL National Nasjonalt stevne,2024-12-30,male - Ungdom Menn,Cornelis Belsby,67,29,31,-33,39,43,-44,31,43,74
+T&IL National Nasjonalt stevne,2024-12-30,male - Ungdom Menn,Darian Aas,49,-19,19,21,29,31,-33,21,31,52
+T&IL National Nasjonalt stevne,2024-12-30,female - Veteran Kvinner over 50,Else-Karin Aas,87,32,0,0,32,35,0,32,35,67
+T&IL National Nasjonalt stevne,2024-12-30,female - Ungdom Kvinner,Emma Hundstuen,40,10,11,12,15,17,18,12,18,30
+T&IL National Nasjonalt stevne,2024-12-30,male - Veteran Menn over 35,Erlend Nordrum,89,60,65,67,80,-85,90,67,90,157
+T&IL National Nasjonalt stevne,2024-12-30,male - Veteran Menn over 35,John Anders Terland,999,100,-105,105,115,120,-128,105,120,225
+T&IL National Nasjonalt stevne,2024-12-30,male - Ungdom Menn,Julian Cao,73,50,-53,-53,-60,60,63,50,63,113
+T&IL National Nasjonalt stevne,2024-12-30,male - Ungdom Menn,Jørgen Bysveen,67,70,-73,73,88,92,95,73,95,168
+T&IL National Nasjonalt stevne,2024-12-30,female - Ungdom Kvinner,Luna Wangberg Møgster,59,22,23,24,30,32,33,24,33,57
+T&IL National Nasjonalt stevne,2024-12-30,male - Ungdom Menn,Marius Lunde Karagiannis,61,-60,60,-63,-70,-70,-70,60,0.0,0.0
+T&IL National Nasjonalt stevne,2024-12-30,male - Veteran Menn over 50,Roy Arne Bysveen,67,48,50,54,66,70,72,54,72,126
+T&IL National Nasjonalt stevne,2024-12-30,female - Senior Kvinner,Sandra Daniella Aas,81,43,-45,-45,55,58,60,43,60,103
+T&IL National Nasjonalt stevne,2024-12-30,male - Senior Menn,Steinar A. Aas,109,84,87,90,120,-125,125,90,125,215

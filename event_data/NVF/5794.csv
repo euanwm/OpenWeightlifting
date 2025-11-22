@@ -1,0 +1,4 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+Spydeberg Atletene Seriestevne,2025-08-09,male - Senior Menn,Erlend Kraggerud,94,80,85,0,95,0,0,85,95,180
+Spydeberg Atletene Seriestevne,2025-08-09,male - Veteran Menn over 70,Johan Thonerud,94,46,48,0,70,0,0,48,70,118
+Spydeberg Atletene Seriestevne,2025-08-09,male - Senior Menn,Christian Lysenstøen,88,40,-45,-45,50,60,0,40,60,100

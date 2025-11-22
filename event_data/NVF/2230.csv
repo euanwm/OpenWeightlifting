@@ -1,9 +1,9 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-AK Bjørgvin Seriestevne,2025-01-09,Women's Masters (45-49) 81Kg,Ingeborg Endresen,81,-65,-66,-67,76,-79,-80,0.0,76,0.0
-AK Bjørgvin Seriestevne,2025-01-09,Women's Senior 76Kg,Kaia Arnøy Høyheim,76,55,58,60,-75,-78,-78,60,0.0,0.0
-AK Bjørgvin Seriestevne,2025-01-09,Women's Senior 71Kg,Laila Therese K. Bjørnarheim,71,76,-79,-80,95,-98,99,76,99,175
-AK Bjørgvin Seriestevne,2025-01-09,Women's Senior 76Kg,Maren Grøndahl,76,67,70,72,83,87,-90,72,87,159
-AK Bjørgvin Seriestevne,2025-01-09,Women's Senior 55Kg,Maria Sæterstøl,55,30,33,-35,46,49,-52,33,49,82
-AK Bjørgvin Seriestevne,2025-01-09,Men's Masters (45-49) 109Kg,Svein Gunnar Standnes,109,70,75,80,90,95,100,80,100,180
-AK Bjørgvin Seriestevne,2025-01-09,Women's Masters (35-39) 59Kg,Synne Kleppe Nord,59,35,38,40,50,55,-58,40,55,95
-AK Bjørgvin Seriestevne,2025-01-09,Women's Senior 81Kg,Tonje Boge-Særsten,81,-58,60,-65,-75,-79,-80,60,0.0,0.0
+AK Bjørgvin Seriestevne,2025-01-09,female - Veteran Kvinner over 45,Ingeborg Endresen,81,-65,-66,-67,76,-79,-80,0.0,76,0.0
+AK Bjørgvin Seriestevne,2025-01-09,female - Senior Kvinner,Kaia Arnøy Høyheim,76,55,58,60,-75,-78,-78,60,0.0,0.0
+AK Bjørgvin Seriestevne,2025-01-09,female - Senior Kvinner,Laila Therese K. Bjørnarheim,71,76,-79,-80,95,-98,99,76,99,175
+AK Bjørgvin Seriestevne,2025-01-09,female - Senior Kvinner,Maren Grøndahl,76,67,70,72,83,87,-90,72,87,159
+AK Bjørgvin Seriestevne,2025-01-09,female - Senior Kvinner,Maria Sæterstøl,55,30,33,-35,46,49,-52,33,49,82
+AK Bjørgvin Seriestevne,2025-01-09,male - Veteran Menn over 45,Svein Gunnar Standnes,109,70,75,80,90,95,100,80,100,180
+AK Bjørgvin Seriestevne,2025-01-09,female - Veteran Kvinner over 35,Synne Kleppe Nord,59,35,38,40,50,55,-58,40,55,95
+AK Bjørgvin Seriestevne,2025-01-09,female - Senior Kvinner,Tonje Boge-Særsten,81,-58,60,-65,-75,-79,-80,60,0.0,0.0
