@@ -41,9 +41,9 @@ func getGender(entry *structs.Entry) (gender string) {
 		return enum.Male
 	case entry.Gender == enum.Female:
 		return enum.Female
-	case strings.Contains(entry.Gender, "Men"):
+	case strings.Contains(entry.Gender, "Men") || strings.Contains(entry.Gender, "male"): // todo: this is temporary probably
 		return enum.Male
-	case strings.Contains(entry.Gender, "Women"):
+	case strings.Contains(entry.Gender, "Women") || strings.Contains(entry.Gender, "female"):
 		return enum.Female
 	default:
 		return enum.Unknown
