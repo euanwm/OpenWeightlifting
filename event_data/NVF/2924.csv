@@ -1,10 +1,10 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-Elverum AK Nasjonalt stevne,2025-02-16,Women's Youth Under 15 45Kg,Ine Falkhytten,45,11,12,13,14,17,19,13,19,32
-Elverum AK Nasjonalt stevne,2025-02-16,Women's Youth Under 15 40Kg,Nora Aas,40,10,11,12,10,11,12,12,12,24
-Elverum AK Nasjonalt stevne,2025-02-16,Women's Youth Under 15 40Kg,Victoria Skaarud,40,13,16,18,16,19,22,18,22,40
-Elverum AK Nasjonalt stevne,2025-02-16,Women's Masters (45-49) 71Kg,Hege E. Grønland,71,32,-35,35,47,-50,0,35,47,82
-Elverum AK Nasjonalt stevne,2025-02-16,Women's Masters (40-44) 59Kg,Mia S. Mobæk,59,32,35,37,48,52,-53,37,52,89
-Elverum AK Nasjonalt stevne,2025-02-16,Women's Masters (50-54) 87+Kg,Lena Haugseth,87,35,-40,40,48,-52,53,40,53,93
-Elverum AK Nasjonalt stevne,2025-02-16,Men's Masters (45-49) 102Kg,Bjørn Henning Rundberget,102,56,72,-77,90,94,97,72,97,169
-Elverum AK Nasjonalt stevne,2025-02-16,Men's Senior 81Kg,Kristian R. Norbeck,81,72,-80,-80,80,85,-90,72,85,157
-Elverum AK Nasjonalt stevne,2025-02-16,Men's Masters (45-49) 89Kg,Robert Grønland,89,78,-81,-84,-105,-111,-116,78,0.0,0.0
+Elverum AK Nasjonalt stevne,2025-02-16,female - Ungdom Kvinner,Ine Falkhytten,45,11,12,13,14,17,19,13,19,32
+Elverum AK Nasjonalt stevne,2025-02-16,female - Ungdom Kvinner,Nora Aas,40,10,11,12,10,11,12,12,12,24
+Elverum AK Nasjonalt stevne,2025-02-16,female - Ungdom Kvinner,Victoria Skaarud,40,13,16,18,16,19,22,18,22,40
+Elverum AK Nasjonalt stevne,2025-02-16,female - Veteran Kvinner over 45,Hege E. Grønland,71,32,-35,35,47,-50,0,35,47,82
+Elverum AK Nasjonalt stevne,2025-02-16,female - Veteran Kvinner over 40,Mia S. Mobæk,59,32,35,37,48,52,-53,37,52,89
+Elverum AK Nasjonalt stevne,2025-02-16,female - Veteran Kvinner over 50,Lena Haugseth,87,35,-40,40,48,-52,53,40,53,93
+Elverum AK Nasjonalt stevne,2025-02-16,male - Veteran Menn over 45,Bjørn Henning Rundberget,102,56,72,-77,90,94,97,72,97,169
+Elverum AK Nasjonalt stevne,2025-02-16,male - Senior Menn,Kristian R. Norbeck,81,72,-80,-80,80,85,-90,72,85,157
+Elverum AK Nasjonalt stevne,2025-02-16,male - Veteran Menn over 45,Robert Grønland,89,78,-81,-84,-105,-111,-116,78,0.0,0.0

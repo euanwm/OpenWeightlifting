@@ -1,18 +1,18 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-SCWC Club Challenge Round 1,2025-02-15,female,Summer Mccarthy,27.84,11,-13,-13,14,16,-18,11,16,27
-SCWC Club Challenge Round 1,2025-02-15,female,Chloe Saliba,63.00,72,75,78,94,97,100,78,100,178
-SCWC Club Challenge Round 1,2025-02-15,female,Ella Mcintyre,69.00,71,74,-78,90,94,98,74,98,172
-SCWC Club Challenge Round 1,2025-02-15,female,Jen Maarseveen,68.45,31,32,34,45,47,48,34,48,82
-SCWC Club Challenge Round 1,2025-02-15,female,Gabby Mast,75.90,52,56,-62,65,70,75,56,75,131
-SCWC Club Challenge Round 1,2025-02-15,female,Cherise Walmsley,72.70,38,39,-41,48,49,51,39,51,90
-SCWC Club Challenge Round 1,2025-02-15,female,Tiare Kami,72.15,28,31,34,32,35,40,34,40,74
-SCWC Club Challenge Round 1,2025-02-15,female,Gayle Slaughter,76.40,23,-25,-25,30,33,-38,23,33,56
-SCWC Club Challenge Round 1,2025-02-15,female,Dale Donaghue,81.95,37,40,43,55,-58,-58,43,55,98
-SCWC Club Challenge Round 1,2025-02-15,female,Jean Friend,77.15,15,16,17,15,16,17,17,17,34
-SCWC Club Challenge Round 1,2025-02-15,male,Jahn Tordal,70.50,-50,50,-57,70,75,80,50,80,130
-SCWC Club Challenge Round 1,2025-02-15,male,Jesse Saliba,76.05,78,82,-85,95,100,103,82,103,185
-SCWC Club Challenge Round 1,2025-02-15,male,Raymond Louden,74.80,32,36,38,44,48,50,38,50,88
-SCWC Club Challenge Round 1,2025-02-15,male,Daniel Gowlett,83.10,80,85,90,100,110,115,90,115,205
-SCWC Club Challenge Round 1,2025-02-15,male,Dion Walmsley,85.70,77,80,83,98,103,108,83,108,191
-SCWC Club Challenge Round 1,2025-02-15,male,Matthew Jenkinson,100.00,65,70,75,85,90,95,75,95,170
-SCWC Club Challenge Round 1,2025-02-15,male,Jakob Daniels,112.55,100,-108,110,140,150,-160,110,150,260
+SCWC Club Challenge Round 1,2025-02-15,female - F48,Summer Mccarthy,27.84,11,-13,-13,14,16,-18,11,16,27
+SCWC Club Challenge Round 1,2025-02-15,female - F63,Chloe Saliba,63.00,72,75,78,94,97,100,78,100,178
+SCWC Club Challenge Round 1,2025-02-15,female - F69,Ella Mcintyre,69.00,71,74,-78,90,94,98,74,98,172
+SCWC Club Challenge Round 1,2025-02-15,female - F69,Jen Maarseveen,68.45,31,32,34,45,47,48,34,48,82
+SCWC Club Challenge Round 1,2025-02-15,female - F77,Gabby Mast,75.90,52,56,-62,65,70,75,56,75,131
+SCWC Club Challenge Round 1,2025-02-15,female - F77,Cherise Walmsley,72.70,38,39,-41,48,49,51,39,51,90
+SCWC Club Challenge Round 1,2025-02-15,female - F77,Tiare Kami,72.15,28,31,34,32,35,40,34,40,74
+SCWC Club Challenge Round 1,2025-02-15,female - F77,Gayle Slaughter,76.40,23,-25,-25,30,33,-38,23,33,56
+SCWC Club Challenge Round 1,2025-02-15,female - F86,Dale Donaghue,81.95,37,40,43,55,-58,-58,43,55,98
+SCWC Club Challenge Round 1,2025-02-15,female - F86,Jean Friend,77.15,15,16,17,15,16,17,17,17,34
+SCWC Club Challenge Round 1,2025-02-15,male - M71,Jahn Tordal,70.50,-50,50,-57,70,75,80,50,80,130
+SCWC Club Challenge Round 1,2025-02-15,male - M79,Jesse Saliba,76.05,78,82,-85,95,100,103,82,103,185
+SCWC Club Challenge Round 1,2025-02-15,male - M79,Raymond Louden,74.80,32,36,38,44,48,50,38,50,88
+SCWC Club Challenge Round 1,2025-02-15,male - M88,Daniel Gowlett,83.10,80,85,90,100,110,115,90,115,205
+SCWC Club Challenge Round 1,2025-02-15,male - M88,Dion Walmsley,85.70,77,80,83,98,103,108,83,108,191
+SCWC Club Challenge Round 1,2025-02-15,male - M110,Matthew Jenkinson,100.00,65,70,75,85,90,95,75,95,170
+SCWC Club Challenge Round 1,2025-02-15,male - M110+,Jakob Daniels,112.55,100,-108,110,140,150,-160,110,150,260

@@ -1,7 +1,7 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-Stavanger AK Nasjonalt stevne,2024-11-28,Men's Senior 89Kg,Andreas Klinkenberg,89,93,98,-101,122,127,131,98,131,229
-Stavanger AK Nasjonalt stevne,2024-11-28,Women's Masters (40-44) 71Kg,Anna Szigeti,71,53,55,58,40,45,48,58,48,106
-Stavanger AK Nasjonalt stevne,2024-11-28,Women's Senior 81Kg,Camilla Vågan Klævold,81,25,30,-35,35,40,45,30,45,75
-Stavanger AK Nasjonalt stevne,2024-11-28,Men's Senior 96Kg,Lars Espedal,96,100,-105,-105,-120,-120,-120,100,0.0,0.0
-Stavanger AK Nasjonalt stevne,2024-11-28,Women's Masters (40-44) 64Kg,Nhu Tran,64,50,53,56,70,73,-75,56,73,129
-Stavanger AK Nasjonalt stevne,2024-11-28,Men's Masters (45-49) 89Kg,Yngve Sundt,89,65,70,75,90,-95,95,75,95,170
+Stavanger AK Nasjonalt stevne,2024-11-28,male - Senior Menn,Andreas Klinkenberg,89,93,98,-101,122,127,131,98,131,229
+Stavanger AK Nasjonalt stevne,2024-11-28,female - Veteran Kvinner over 40,Anna Szigeti,71,53,55,58,40,45,48,58,48,106
+Stavanger AK Nasjonalt stevne,2024-11-28,female - Senior Kvinner,Camilla Vågan Klævold,81,25,30,-35,35,40,45,30,45,75
+Stavanger AK Nasjonalt stevne,2024-11-28,male - Senior Menn,Lars Espedal,96,100,-105,-105,-120,-120,-120,100,0.0,0.0
+Stavanger AK Nasjonalt stevne,2024-11-28,female - Veteran Kvinner over 40,Nhu Tran,64,50,53,56,70,73,-75,56,73,129
+Stavanger AK Nasjonalt stevne,2024-11-28,male - Veteran Menn over 45,Yngve Sundt,89,65,70,75,90,-95,95,75,95,170

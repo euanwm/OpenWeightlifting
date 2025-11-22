@@ -1,9 +1,9 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-LiFT Brisbane Club Challenge Round 1,2025-02-22,female,Madison Stone,59.50,20,22,25,30,34,40,25,40,65
-LiFT Brisbane Club Challenge Round 1,2025-02-22,female,Olivia Forrest,85.70,43,47,-50,63,67,70,47,70,117
-LiFT Brisbane Club Challenge Round 1,2025-02-22,female,Melissa Hitchcock,85.20,30,-32,-34,40,43,45,30,45,75
-LiFT Brisbane Club Challenge Round 1,2025-02-22,female,Kara-Mea Jo Thompson,110.60,52,55,57,70,73,77,57,77,134
-LiFT Brisbane Club Challenge Round 1,2025-02-22,female,Isabel O'Callaghan,93.00,44,47,52,62,67,-71,52,67,119
-LiFT Brisbane Club Challenge Round 1,2025-02-22,male,Jacob Stone,57.10,20,22,25,30,34,40,25,40,65
-LiFT Brisbane Club Challenge Round 1,2025-02-22,male,Connor Tonkin,67.90,28,32,36,37,42,45,36,45,81
-LiFT Brisbane Club Challenge Round 1,2025-02-22,male,Ben Trousdell,96.00,101,106,-110,115,-121,121,106,121,227
+LiFT Brisbane Club Challenge Round 1,2025-02-22,female - F63,Madison Stone,59.50,20,22,25,30,34,40,25,40,65
+LiFT Brisbane Club Challenge Round 1,2025-02-22,female - F86,Olivia Forrest,85.70,43,47,-50,63,67,70,47,70,117
+LiFT Brisbane Club Challenge Round 1,2025-02-22,female - F86,Melissa Hitchcock,85.20,30,-32,-34,40,43,45,30,45,75
+LiFT Brisbane Club Challenge Round 1,2025-02-22,female - F86+,Kara-Mea Jo Thompson,110.60,52,55,57,70,73,77,57,77,134
+LiFT Brisbane Club Challenge Round 1,2025-02-22,female - F86+,Isabel O'Callaghan,93.00,44,47,52,62,67,-71,52,67,119
+LiFT Brisbane Club Challenge Round 1,2025-02-22,male - M60,Jacob Stone,57.10,20,22,25,30,34,40,25,40,65
+LiFT Brisbane Club Challenge Round 1,2025-02-22,male - M71,Connor Tonkin,67.90,28,32,36,37,42,45,36,45,81
+LiFT Brisbane Club Challenge Round 1,2025-02-22,male - M98,Ben Trousdell,96.00,101,106,-110,115,-121,121,106,121,227

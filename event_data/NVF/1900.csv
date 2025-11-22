@@ -1,9 +1,9 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-Larvik AK Nasjonalt stevne,2024-12-19,Men's Youth Under 15 61Kg,Jacob T. Sverdrup,61,44,46,47,52,55,58,47,58,105
-Larvik AK Nasjonalt stevne,2024-12-19,Women's Youth Under 17 71Kg,Julie Rahbeck Eriksen,71,39,41,43,47,50,52,43,52,95
-Larvik AK Nasjonalt stevne,2024-12-19,Men's Youth Under 17 81Kg,Leonardo Bjerkholt Løvenfalck,81,48,52,55,58,62,-65,55,62,117
-Larvik AK Nasjonalt stevne,2024-12-19,Men's Youth Under 17 67Kg,Mikkel Lynum Refsdal,67,35,38,40,43,47,51,40,51,91
-Larvik AK Nasjonalt stevne,2024-12-19,Women's Senior 76Kg,Nadine Ohla,76,65,68,-70,-86,-86,-86,68,0.0,0.0
-Larvik AK Nasjonalt stevne,2024-12-19,Women's Senior 64Kg,Oda Wiig,64,64,-67,68,82,85,88,68,88,156
-Larvik AK Nasjonalt stevne,2024-12-19,Men's Youth Under 17 73Kg,Theo Braadland Toivonen,73,32,34,36,38,41,44,36,44,80
-Larvik AK Nasjonalt stevne,2024-12-19,Men's Youth Under 15 49Kg,Troy Aleksander Paulsen,49,15,17,18,19,21,23,18,23,41
+Larvik AK Nasjonalt stevne,2024-12-19,male - Ungdom Menn,Jacob T. Sverdrup,61,44,46,47,52,55,58,47,58,105
+Larvik AK Nasjonalt stevne,2024-12-19,female - Ungdom Kvinner,Julie Rahbeck Eriksen,71,39,41,43,47,50,52,43,52,95
+Larvik AK Nasjonalt stevne,2024-12-19,male - Ungdom Menn,Leonardo Bjerkholt Løvenfalck,81,48,52,55,58,62,-65,55,62,117
+Larvik AK Nasjonalt stevne,2024-12-19,male - Ungdom Menn,Mikkel Lynum Refsdal,67,35,38,40,43,47,51,40,51,91
+Larvik AK Nasjonalt stevne,2024-12-19,female - Senior Kvinner,Nadine Ohla,76,65,68,-70,-86,-86,-86,68,0.0,0.0
+Larvik AK Nasjonalt stevne,2024-12-19,female - Senior Kvinner,Oda Wiig,64,64,-67,68,82,85,88,68,88,156
+Larvik AK Nasjonalt stevne,2024-12-19,male - Ungdom Menn,Theo Braadland Toivonen,73,32,34,36,38,41,44,36,44,80
+Larvik AK Nasjonalt stevne,2024-12-19,male - Ungdom Menn,Troy Aleksander Paulsen,49,15,17,18,19,21,23,18,23,41

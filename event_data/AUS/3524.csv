@@ -1,12 +1,12 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Chris Chugg Memorial and PC1,2025-02-01,female,Stacy Koh,77.00,57,60,63,78,82,-86,63,82,145
-Chris Chugg Memorial and PC1,2025-02-01,female,Leah Williams,74.95,50,54,-58,68,72,76,54,76,130
-Chris Chugg Memorial and PC1,2025-02-01,female,Thandiwe Chirobo,70.95,32,35,37,39,42,45,37,45,82
-Chris Chugg Memorial and PC1,2025-02-01,female,Gaylene Pickrell,78.25,35,38,41,50,55,60,41,60,101
-Chris Chugg Memorial and PC1,2025-02-01,female,Tina Hall,86.00,30,32,34,40,43,45,34,45,79
-Chris Chugg Memorial and PC1,2025-02-01,female,Tegan Knee,83.75,66,-71,-71,-80,-80,-80,66,0,0
-Chris Chugg Memorial and PC1,2025-02-01,female,Annaliese Elliott,108.45,-65,65,-68,83,-86,-86,65,83,148
-Chris Chugg Memorial and PC1,2025-02-01,female,Danielle Pickrell,89.25,53,56,59,69,73,76,59,76,135
-Chris Chugg Memorial and PC1,2025-02-01,male,Sam Eiszele,85.95,85,90,-95,105,110,115,90,115,205
-Chris Chugg Memorial and PC1,2025-02-01,male,Leonard Lee,87.30,32,36,38,45,49,52,38,52,90
-Chris Chugg Memorial and PC1,2025-02-01,male,Lewis Laycock,94.80,103,-107,-107,120,0,0,103,120,223
+Chris Chugg Memorial and PC1,2025-02-01,female - F77,Stacy Koh,77.00,57,60,63,78,82,-86,63,82,145
+Chris Chugg Memorial and PC1,2025-02-01,female - F77,Leah Williams,74.95,50,54,-58,68,72,76,54,76,130
+Chris Chugg Memorial and PC1,2025-02-01,female - F77,Thandiwe Chirobo,70.95,32,35,37,39,42,45,37,45,82
+Chris Chugg Memorial and PC1,2025-02-01,female - F86,Gaylene Pickrell,78.25,35,38,41,50,55,60,41,60,101
+Chris Chugg Memorial and PC1,2025-02-01,female - F86,Tina Hall,86.00,30,32,34,40,43,45,34,45,79
+Chris Chugg Memorial and PC1,2025-02-01,female - F86,Tegan Knee,83.75,66,-71,-71,-80,-80,-80,66,0,0
+Chris Chugg Memorial and PC1,2025-02-01,female - F86+,Annaliese Elliott,108.45,-65,65,-68,83,-86,-86,65,83,148
+Chris Chugg Memorial and PC1,2025-02-01,female - F86+,Danielle Pickrell,89.25,53,56,59,69,73,76,59,76,135
+Chris Chugg Memorial and PC1,2025-02-01,male - M88,Sam Eiszele,85.95,85,90,-95,105,110,115,90,115,205
+Chris Chugg Memorial and PC1,2025-02-01,male - M88,Leonard Lee,87.30,32,36,38,45,49,52,38,52,90
+Chris Chugg Memorial and PC1,2025-02-01,male - M98,Lewis Laycock,94.80,103,-107,-107,120,0,0,103,120,223

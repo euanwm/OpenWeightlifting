@@ -1,17 +1,17 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-Tambarskjelvar IL Seriestevne,2025-02-27,Women's Youth Under 15 45Kg,Lisa Nøstdal Lending,45,23,25,26,32,-36,36,26,36,62
-Tambarskjelvar IL Seriestevne,2025-02-27,Women's Youth Under 17 76Kg,Thea Sofie Veiesund,76,23,25,26,32,36,-38,26,36,62
-Tambarskjelvar IL Seriestevne,2025-02-27,Women's Youth Under 15 49Kg,Emine Tefre Grønnevik,49,45,-48,-48,55,59,-61,45,59,104
-Tambarskjelvar IL Seriestevne,2025-02-27,Women's Youth Under 17 55Kg,Olea Savland,55,37,-39,39,48,51,-53,39,51,90
-Tambarskjelvar IL Seriestevne,2025-02-27,Women's Youth Under 17 81Kg,Kristina Haugsbø Smådal,81,42,45,48,53,56,-59,48,56,104
-Tambarskjelvar IL Seriestevne,2025-02-27,Men's Masters (70-74) 102kg,Odd Hammarseth,102,45,50,54,55,60,65,54,65,119
-Tambarskjelvar IL Seriestevne,2025-02-27,Men's Masters (65-69) 96kg,Arne Larsen,96,50,55,60,65,70,75,60,75,135
-Tambarskjelvar IL Seriestevne,2025-02-27,Men's Masters (60-64) 89Kg,Jørn Helgheim,89,50,54,56,60,65,70,56,70,126
-Tambarskjelvar IL Seriestevne,2025-02-27,Men's Junior Under 20 96Kg,Jakub Karol Kudyba,96,70,80,90,100,110,116,90,116,206
-Tambarskjelvar IL Seriestevne,2025-02-27,Men's Youth Under 17 67Kg,Andreas Kvame,67,60,63,-65,76,-79,79,63,79,142
-Tambarskjelvar IL Seriestevne,2025-02-27,Men's Youth Under 17 81Kg,Lyder Slagstad Aamot,81,67,70,-72,87,91,-94,70,91,161
-Tambarskjelvar IL Seriestevne,2025-02-27,Men's Youth Under 17 81Kg,Andreas Kvamsås Savland,81,79,82,-85,87,91,-94,82,91,173
-Tambarskjelvar IL Seriestevne,2025-02-27,Men's Junior Under 20 73Kg,Erik Orasmäe,73,-78,78,81,90,-95,-95,81,90,171
-Tambarskjelvar IL Seriestevne,2025-02-27,Men's Youth Under 17 102+Kg,Albert Jonas Midtbø-Figueroa,998,-67,-67,67,80,85,88,67,88,155
-Tambarskjelvar IL Seriestevne,2025-02-27,Men's Youth Under 17 89Kg,Olai Slagstad Aamot,89,-80,80,85,107,115,117,85,117,202
-Tambarskjelvar IL Seriestevne,2025-02-27,Men's Senior 89Kg,Kristen Røyseth,89,95,100,105,130,0,0,105,130,235
+Tambarskjelvar IL Seriestevne,2025-02-27,female - Ungdom Kvinner,Lisa Nøstdal Lending,45,23,25,26,32,-36,36,26,36,62
+Tambarskjelvar IL Seriestevne,2025-02-27,female - Ungdom Kvinner,Thea Sofie Veiesund,76,23,25,26,32,36,-38,26,36,62
+Tambarskjelvar IL Seriestevne,2025-02-27,female - Ungdom Kvinner,Emine Tefre Grønnevik,49,45,-48,-48,55,59,-61,45,59,104
+Tambarskjelvar IL Seriestevne,2025-02-27,female - Ungdom Kvinner,Olea Savland,55,37,-39,39,48,51,-53,39,51,90
+Tambarskjelvar IL Seriestevne,2025-02-27,female - Ungdom Kvinner,Kristina Haugsbø Smådal,81,42,45,48,53,56,-59,48,56,104
+Tambarskjelvar IL Seriestevne,2025-02-27,male - Veteran Menn over 70,Odd Hammarseth,102,45,50,54,55,60,65,54,65,119
+Tambarskjelvar IL Seriestevne,2025-02-27,male - Veteran Menn over 65,Arne Larsen,96,50,55,60,65,70,75,60,75,135
+Tambarskjelvar IL Seriestevne,2025-02-27,male - Veteran Menn over 60,Jørn Helgheim,89,50,54,56,60,65,70,56,70,126
+Tambarskjelvar IL Seriestevne,2025-02-27,male - Junior Menn,Jakub Karol Kudyba,96,70,80,90,100,110,116,90,116,206
+Tambarskjelvar IL Seriestevne,2025-02-27,male - Ungdom Menn,Andreas Kvame,67,60,63,-65,76,-79,79,63,79,142
+Tambarskjelvar IL Seriestevne,2025-02-27,male - Ungdom Menn,Lyder Slagstad Aamot,81,67,70,-72,87,91,-94,70,91,161
+Tambarskjelvar IL Seriestevne,2025-02-27,male - Ungdom Menn,Andreas Kvamsås Savland,81,79,82,-85,87,91,-94,82,91,173
+Tambarskjelvar IL Seriestevne,2025-02-27,male - Junior Menn,Erik Orasmäe,73,-78,78,81,90,-95,-95,81,90,171
+Tambarskjelvar IL Seriestevne,2025-02-27,male - Ungdom Menn,Albert Jonas Midtbø-Figueroa,998,-67,-67,67,80,85,88,67,88,155
+Tambarskjelvar IL Seriestevne,2025-02-27,male - Ungdom Menn,Olai Slagstad Aamot,89,-80,80,85,107,115,117,85,117,202
+Tambarskjelvar IL Seriestevne,2025-02-27,male - Senior Menn,Kristen Røyseth,89,95,100,105,130,0,0,105,130,235

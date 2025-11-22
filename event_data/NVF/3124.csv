@@ -1,11 +1,11 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-Nidelv IL Seriestevne,2025-02-26,Women's Senior 71Kg,Hanna Sletvold,71,54,57,60,70,-75,75,60,75,135
-Nidelv IL Seriestevne,2025-02-26,Women's Masters (35-39) 76Kg,Elisabeth Settem,76,54,57,60,72,76,80,60,80,140
-Nidelv IL Seriestevne,2025-02-26,Women's Masters (45-49) 76Kg,Lill-Beate Søttar Unhjem,76,35,36,37,42,45,47,37,47,84
-Nidelv IL Seriestevne,2025-02-26,Men's Youth Under 15 55Kg,Naser Mohammed,55,25,29,-31,35,38,-40,29,38,67
-Nidelv IL Seriestevne,2025-02-26,Men's Masters (65-69) 81kg,Trond Kvilhaug,81,50,-55,55,60,65,-70,55,65,120
-Nidelv IL Seriestevne,2025-02-26,Men's Junior Under 20 96Kg,Adrian Rosmæl Skauge,96,87,93,97,110,117,122,97,122,219
-Nidelv IL Seriestevne,2025-02-26,Men's Senior 96Kg,Ragnar Dreier,96,95,0,0,115,120,0,95,120,215
-Nidelv IL Seriestevne,2025-02-26,Men's Masters (60-64) 102kg,Iver Klingenberg,102,50,55,-58,70,-73,0,55,70,125
-Nidelv IL Seriestevne,2025-02-26,Men's Masters (80+) 109Kg,Jan Olav Nystrøm,109,45,-48,-48,60,63,65,45,65,110
-Nidelv IL Seriestevne,2025-02-26,Men's Masters (35-39) 109+Kg,Jørgen Johnsen,109,65,70,75,85,95,105,75,105,180
+Nidelv IL Seriestevne,2025-02-26,female - Senior Kvinner,Hanna Sletvold,71,54,57,60,70,-75,75,60,75,135
+Nidelv IL Seriestevne,2025-02-26,female - Veteran Kvinner over 35,Elisabeth Settem,76,54,57,60,72,76,80,60,80,140
+Nidelv IL Seriestevne,2025-02-26,female - Veteran Kvinner over 45,Lill-Beate Søttar Unhjem,76,35,36,37,42,45,47,37,47,84
+Nidelv IL Seriestevne,2025-02-26,male - Ungdom Menn,Naser Mohammed,55,25,29,-31,35,38,-40,29,38,67
+Nidelv IL Seriestevne,2025-02-26,male - Veteran Menn over 65,Trond Kvilhaug,81,50,-55,55,60,65,-70,55,65,120
+Nidelv IL Seriestevne,2025-02-26,male - Junior Menn,Adrian Rosmæl Skauge,96,87,93,97,110,117,122,97,122,219
+Nidelv IL Seriestevne,2025-02-26,male - Senior Menn,Ragnar Dreier,96,95,0,0,115,120,0,95,120,215
+Nidelv IL Seriestevne,2025-02-26,male - Veteran Menn over 60,Iver Klingenberg,102,50,55,-58,70,-73,0,55,70,125
+Nidelv IL Seriestevne,2025-02-26,male - Veteran Menn over 80,Jan Olav Nystrøm,109,45,-48,-48,60,63,65,45,65,110
+Nidelv IL Seriestevne,2025-02-26,male - Veteran Menn over 35,Jørgen Johnsen,109,65,70,75,85,95,105,75,105,180
