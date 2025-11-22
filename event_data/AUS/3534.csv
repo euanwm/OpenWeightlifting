@@ -1,31 +1,31 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-Geelong Championships,2025-05-31,female,Denese Billings,41.65,30,31,-33,38,-40,40,31,40,71
-Geelong Championships,2025-05-31,female,Audrey Naumoski,52.65,50,54,57,65,-69,-69,57,65,122
-Geelong Championships,2025-05-31,female,Norah Alrowitea,52.85,47,50,53,60,64,-67,53,64,117
-Geelong Championships,2025-05-31,female,Valerie Toh,56.75,59,62,-65,80,-83,83,62,83,145
-Geelong Championships,2025-05-31,female,Christine Huynh,57.95,35,40,-45,45,48,51,40,51,91
-Geelong Championships,2025-05-31,female,Laurie Anne Mckenna,62.05,58,62,66,85,91,-95,66,91,157
-Geelong Championships,2025-05-31,female,Amelia Reyes,60.95,45,48,51,65,69,73,51,73,124
-Geelong Championships,2025-05-31,female,Monika Endres,61.45,48,50,52,58,61,64,52,64,116
-Geelong Championships,2025-05-31,female,Erin Keegan,67.15,30,33,-36,40,43,46,33,46,79
-Geelong Championships,2025-05-31,female,Emma Lapierre,68.95,-63,-63,-63,72,-76,-80,0,72,0
-Geelong Championships,2025-05-31,female,Louise Chau,72.55,60,65,-70,80,85,90,65,90,155
-Geelong Championships,2025-05-31,female,Tish Tambakau,74.95,50,53,-56,63,-67,-67,53,63,116
-Geelong Championships,2025-05-31,female,Simone Gardner,82.25,42,44,46,54,-57,57,46,57,103
-Geelong Championships,2025-05-31,female,Jayde Priestley,113.55,58,61,-64,81,85,90,61,90,151
-Geelong Championships,2025-05-31,male,Darcy Smith,62.15,47,50,-55,68,-74,74,50,74,124
-Geelong Championships,2025-05-31,male,Blair Buttigieg,70.25,-70,70,-73,95,99,103,70,103,173
-Geelong Championships,2025-05-31,male,James Marciniak,77.35,85,-90,-90,115,120,125,85,125,210
-Geelong Championships,2025-05-31,male,Benjamin Taggart,87.85,-105,107,110,137,141,147,110,147,257
-Geelong Championships,2025-05-31,male,Keenan Boon,86.05,91,96,-100,122,127,132,96,132,228
-Geelong Championships,2025-05-31,male,Ayden Veit,79.95,87,91,-95,115,120,-125,91,120,211
-Geelong Championships,2025-05-31,male,Luke Barker,85.15,83,87,-93,115,-120,120,87,120,207
-Geelong Championships,2025-05-31,male,Maurice Mills-Rolfe,87.25,80,84,87,100,105,110,87,110,197
-Geelong Championships,2025-05-31,male,Joshua Cox,102.05,95,102,110,125,133,140,110,140,250
-Geelong Championships,2025-05-31,male,Hendrick Manullang,99.55,-95,95,100,117,121,126,100,126,226
-Geelong Championships,2025-05-31,male,Marcus Tan,96.65,-93,93,98,110,115,120,98,120,218
-Geelong Championships,2025-05-31,male,Kurt Elstone,106.00,93,98,-103,110,-115,-115,98,110,208
-Geelong Championships,2025-05-31,male,Sam Newbury,97.05,83,-87,-90,110,116,120,83,120,203
-Geelong Championships,2025-05-31,male,Suleiman Halabi,96.85,75,82,87,-108,108,112,87,112,199
-Geelong Championships,2025-05-31,male,William Brown,127.85,115,122,130,170,-191,0,130,170,300
-Geelong Championships,2025-05-31,male,James Antony Posco Danujan,130.85,95,105,111,133,-141,147,111,147,258
+Geelong Championships,2025-05-31,female - F48,Denese Billings,41.65,30,31,-33,38,-40,40,31,40,71
+Geelong Championships,2025-05-31,female - F53,Audrey Naumoski,52.65,50,54,57,65,-69,-69,57,65,122
+Geelong Championships,2025-05-31,female - F53,Norah Alrowitea,52.85,47,50,53,60,64,-67,53,64,117
+Geelong Championships,2025-05-31,female - F58,Valerie Toh,56.75,59,62,-65,80,-83,83,62,83,145
+Geelong Championships,2025-05-31,female - F58,Christine Huynh,57.95,35,40,-45,45,48,51,40,51,91
+Geelong Championships,2025-05-31,female - F63,Laurie Anne Mckenna,62.05,58,62,66,85,91,-95,66,91,157
+Geelong Championships,2025-05-31,female - F63,Amelia Reyes,60.95,45,48,51,65,69,73,51,73,124
+Geelong Championships,2025-05-31,female - F63,Monika Endres,61.45,48,50,52,58,61,64,52,64,116
+Geelong Championships,2025-05-31,female - F69,Erin Keegan,67.15,30,33,-36,40,43,46,33,46,79
+Geelong Championships,2025-05-31,female - F69,Emma Lapierre,68.95,-63,-63,-63,72,-76,-80,0,72,0
+Geelong Championships,2025-05-31,female - F77,Louise Chau,72.55,60,65,-70,80,85,90,65,90,155
+Geelong Championships,2025-05-31,female - F77,Tish Tambakau,74.95,50,53,-56,63,-67,-67,53,63,116
+Geelong Championships,2025-05-31,female - F86,Simone Gardner,82.25,42,44,46,54,-57,57,46,57,103
+Geelong Championships,2025-05-31,female - F86+,Jayde Priestley,113.55,58,61,-64,81,85,90,61,90,151
+Geelong Championships,2025-05-31,male - M65,Darcy Smith,62.15,47,50,-55,68,-74,74,50,74,124
+Geelong Championships,2025-05-31,male - M71,Blair Buttigieg,70.25,-70,70,-73,95,99,103,70,103,173
+Geelong Championships,2025-05-31,male - M79,James Marciniak,77.35,85,-90,-90,115,120,125,85,125,210
+Geelong Championships,2025-05-31,male - M88,Benjamin Taggart,87.85,-105,107,110,137,141,147,110,147,257
+Geelong Championships,2025-05-31,male - M88,Keenan Boon,86.05,91,96,-100,122,127,132,96,132,228
+Geelong Championships,2025-05-31,male - M88,Ayden Veit,79.95,87,91,-95,115,120,-125,91,120,211
+Geelong Championships,2025-05-31,male - M88,Luke Barker,85.15,83,87,-93,115,-120,120,87,120,207
+Geelong Championships,2025-05-31,male - M88,Maurice Mills-Rolfe,87.25,80,84,87,100,105,110,87,110,197
+Geelong Championships,2025-05-31,male - M110,Joshua Cox,102.05,95,102,110,125,133,140,110,140,250
+Geelong Championships,2025-05-31,male - M110,Hendrick Manullang,99.55,-95,95,100,117,121,126,100,126,226
+Geelong Championships,2025-05-31,male - M110,Marcus Tan,96.65,-93,93,98,110,115,120,98,120,218
+Geelong Championships,2025-05-31,male - M110,Kurt Elstone,106.00,93,98,-103,110,-115,-115,98,110,208
+Geelong Championships,2025-05-31,male - M110,Sam Newbury,97.05,83,-87,-90,110,116,120,83,120,203
+Geelong Championships,2025-05-31,male - M110,Suleiman Halabi,96.85,75,82,87,-108,108,112,87,112,199
+Geelong Championships,2025-05-31,male - M110+,William Brown,127.85,115,122,130,170,-191,0,130,170,300
+Geelong Championships,2025-05-31,male - M110+,James Antony Posco Danujan,130.85,95,105,111,133,-141,147,111,147,258

@@ -1,0 +1,20 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Surge Barbell Club Open,2025-09-27,female - F53,Allison Lindley,51.47,25,27,30,30,35,40,30,40,70
+Surge Barbell Club Open,2025-09-27,female - F58,Sam Fletcher,56.13,40,45,-50,-58,60,-65,45,60,105
+Surge Barbell Club Open,2025-09-27,female - F69,Erin Laas,68.99,75,78,-81,96,100,-102,78,100,178
+Surge Barbell Club Open,2025-09-27,female - F69,Ashleigh Draffen,67.51,32,-35,35,40,43,-46,35,43,78
+Surge Barbell Club Open,2025-09-27,female - F69,Danielle Senior,68.61,-80,-80,-80,96,100,103,0,103,0
+Surge Barbell Club Open,2025-09-27,female - F77,Chelsea Pace,76.15,78,81,-85,95,-100,-105,81,95,176
+Surge Barbell Club Open,2025-09-27,female - F77,Bianca Jones,73.89,55,61,66,85,-92,-92,66,85,151
+Surge Barbell Club Open,2025-09-27,female - F77,Jessica Brogan,75.75,54,57,61,72,75,-80,61,75,136
+Surge Barbell Club Open,2025-09-27,female - F86,Carly Smit,83.77,76,79,82,96,-99,100,82,100,182
+Surge Barbell Club Open,2025-09-27,female - F86+,Danielle Robinson,112.01,43,45,47,62,66,70,47,70,117
+Surge Barbell Club Open,2025-09-27,male - M65,Dongjae Ryoo,64.67,-73,-75,-77,90,-95,-100,0,90,0
+Surge Barbell Club Open,2025-09-27,male - M71,Phillip Nguyen,67.17,93,97,-105,-100,105,115,97,115,212
+Surge Barbell Club Open,2025-09-27,male - M71,Benjamin Schofield,69.29,80,84,90,101,106,110,90,110,200
+Surge Barbell Club Open,2025-09-27,male - M79,Stanley Cheung,77.05,70,73,-76,80,85,90,73,90,163
+Surge Barbell Club Open,2025-09-27,male - M88,Oli Patterson,87.79,90,100,105,130,-140,-140,105,130,235
+Surge Barbell Club Open,2025-09-27,male - M88,Jake Roberts,86.59,90,95,98,110,-117,-117,98,110,208
+Surge Barbell Club Open,2025-09-27,male - M110,Rodrigo Cezario Tirapele,102.91,95,102,-111,130,-135,136,102,136,238
+Surge Barbell Club Open,2025-09-27,male - M110,Sreten Radusin,104.15,95,-100,-100,130,135,-140,95,135,230
+Surge Barbell Club Open,2025-09-27,male - M110,Jamal Rankine,102.25,-83,83,-85,101,105,110,83,110,193

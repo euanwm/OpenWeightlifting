@@ -1,0 +1,12 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Mid-Year Comp,2025-06-15,female - F58,Lianna Li,54.20,15,-17,17,15,20,-25,17,20,37
+Mid-Year Comp,2025-06-15,female - F86,Sarah Colomb,79.70,15,20,25,25,30,35,25,30,55
+Mid-Year Comp,2025-06-15,male - M60,Usaia Ratuvili,50.30,15,-20,20,15,20,25,20,25,45
+Mid-Year Comp,2025-06-15,male - M60,Nathan Franks-Watts,38.60,-15,15,16,15,20,-25,16,20,36
+Mid-Year Comp,2025-06-15,male - M65,Izak Sutton,64.20,-15,15,20,20,30,35,20,35,55
+Mid-Year Comp,2025-06-15,male - M71,Julian Davidson,69.60,25,30,35,-30,30,-35,35,30,65
+Mid-Year Comp,2025-06-15,male - M88,Darcy Mckinnon,87.60,35,40,45,55,-60,60,45,60,105
+Mid-Year Comp,2025-06-15,male - M94,Andrew Lonergan,91.50,100,105,110,125,130,135,110,135,245
+Mid-Year Comp,2025-06-15,male - M94,Brayden Molloy,93.90,-15,-15,-15,-20,-20,-20,0,0,0
+Mid-Year Comp,2025-06-15,male - M110,Callum Downie,98.50,100,106,110,140,-146,-146,110,140,250
+Mid-Year Comp,2025-06-15,male - M110,Liam Parkinson,109.30,25,30,-35,30,35,40,30,40,70

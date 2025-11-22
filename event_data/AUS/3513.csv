@@ -1,26 +1,26 @@
 event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
-OX WLC #2,2025-06-14,female,Evelyn-Faith Rhodes,52.40,25,28,-30,32,35,38,28,38,66
-OX WLC #2,2025-06-14,female,Tahlia Jordan,61.20,67,72,77,85,90,-95,77,90,167
-OX WLC #2,2025-06-14,female,Lexie O'Dea,62.15,48,51,-53,67,70,-73,51,70,121
-OX WLC #2,2025-06-14,female,Gracie Chong,62.75,50,55,-58,60,-63,-63,55,60,115
-OX WLC #2,2025-06-14,female,India Plant,62.95,26,-30,30,35,40,44,30,44,74
-OX WLC #2,2025-06-14,female,Christina Correia,68.40,75,80,-84,95,100,-105,80,100,180
-OX WLC #2,2025-06-14,female,Amelie Uren,69.00,70,75,78,90,95,100,78,100,178
-OX WLC #2,2025-06-14,female,Charlotte Saxton,68.75,65,68,-71,85,90,-93,68,90,158
-OX WLC #2,2025-06-14,female,Ciara Quinsee,68.35,65,68,71,76,80,83,71,83,154
-OX WLC #2,2025-06-14,female,Sharni Quinsee,68.70,65,68,71,76,80,83,71,83,154
-OX WLC #2,2025-06-14,female,Chloe Caston,67.55,62,65,68,77,80,-83,68,80,148
-OX WLC #2,2025-06-14,female,Joanne Chong,76.75,65,69,-71,80,-85,-85,69,80,149
-OX WLC #2,2025-06-14,female,Filipa Coucelo Pestana,75.35,60,-65,65,-73,-73,73,65,73,138
-OX WLC #2,2025-06-14,female,Sabrina Merlini,70.85,47,50,-53,55,59,-62,50,59,109
-OX WLC #2,2025-06-14,female,Imogen Cann,72.20,38,40,-42,50,53,55,40,55,95
-OX WLC #2,2025-06-14,female,Karlien Van Wyk,141.40,80,85,90,100,105,107,90,107,197
-OX WLC #2,2025-06-14,female,Stephanie Meredith,89.45,65,68,70,80,83,85,70,85,155
-OX WLC #2,2025-06-14,male,Dylan Tay,38.10,32,35,38,40,45,48,38,48,86
-OX WLC #2,2025-06-14,male,Gregory Chong,61.80,55,-60,-60,65,70,75,55,75,130
-OX WLC #2,2025-06-14,male,Aedam Quinn,70.20,104,108,111,120,125,-130,111,125,236
-OX WLC #2,2025-06-14,male,Isaac Burgis,77.00,95,100,-105,123,133,-138,100,133,233
-OX WLC #2,2025-06-14,male,Ripley Thomson,76.25,85,90,95,110,117,-122,95,117,212
-OX WLC #2,2025-06-14,male,Oliver Saxton,93.85,-155,155,160,180,-190,0,160,180,340
-OX WLC #2,2025-06-14,male,Catalin Milea,91.10,55,60,65,70,75,-80,65,75,140
-OX WLC #2,2025-06-14,male,Victor Caulton,97.85,115,122,-127,145,155,-160,122,155,277
+OX WLC #2,2025-06-14,female - F53,Evelyn-Faith Rhodes,52.40,25,28,-30,32,35,38,28,38,66
+OX WLC #2,2025-06-14,female - F63,Tahlia Jordan,61.20,67,72,77,85,90,-95,77,90,167
+OX WLC #2,2025-06-14,female - F63,Lexie O'Dea,62.15,48,51,-53,67,70,-73,51,70,121
+OX WLC #2,2025-06-14,female - F63,Gracie Chong,62.75,50,55,-58,60,-63,-63,55,60,115
+OX WLC #2,2025-06-14,female - F63,India Plant,62.95,26,-30,30,35,40,44,30,44,74
+OX WLC #2,2025-06-14,female - F69,Christina Correia,68.40,75,80,-84,95,100,-105,80,100,180
+OX WLC #2,2025-06-14,female - F69,Amelie Uren,69.00,70,75,78,90,95,100,78,100,178
+OX WLC #2,2025-06-14,female - F69,Charlotte Saxton,68.75,65,68,-71,85,90,-93,68,90,158
+OX WLC #2,2025-06-14,female - F69,Ciara Quinsee,68.35,65,68,71,76,80,83,71,83,154
+OX WLC #2,2025-06-14,female - F69,Sharni Quinsee,68.70,65,68,71,76,80,83,71,83,154
+OX WLC #2,2025-06-14,female - F69,Chloe Caston,67.55,62,65,68,77,80,-83,68,80,148
+OX WLC #2,2025-06-14,female - F77,Joanne Chong,76.75,65,69,-71,80,-85,-85,69,80,149
+OX WLC #2,2025-06-14,female - F77,Filipa Coucelo Pestana,75.35,60,-65,65,-73,-73,73,65,73,138
+OX WLC #2,2025-06-14,female - F77,Sabrina Merlini,70.85,47,50,-53,55,59,-62,50,59,109
+OX WLC #2,2025-06-14,female - F77,Imogen Cann,72.20,38,40,-42,50,53,55,40,55,95
+OX WLC #2,2025-06-14,female - F86+,Karlien Van Wyk,141.40,80,85,90,100,105,107,90,107,197
+OX WLC #2,2025-06-14,female - F86+,Stephanie Meredith,89.45,65,68,70,80,83,85,70,85,155
+OX WLC #2,2025-06-14,male - M60,Dylan Tay,38.10,32,35,38,40,45,48,38,48,86
+OX WLC #2,2025-06-14,male - M65,Gregory Chong,61.80,55,-60,-60,65,70,75,55,75,130
+OX WLC #2,2025-06-14,male - M71,Aedam Quinn,70.20,104,108,111,120,125,-130,111,125,236
+OX WLC #2,2025-06-14,male - M79,Isaac Burgis,77.00,95,100,-105,123,133,-138,100,133,233
+OX WLC #2,2025-06-14,male - M79,Ripley Thomson,76.25,85,90,95,110,117,-122,95,117,212
+OX WLC #2,2025-06-14,male - M94,Oliver Saxton,93.85,-155,155,160,180,-190,0,160,180,340
+OX WLC #2,2025-06-14,male - M94,Catalin Milea,91.10,55,60,65,70,75,-80,65,75,140
+OX WLC #2,2025-06-14,male - M110,Victor Caulton,97.85,115,122,-127,145,155,-160,122,155,277
