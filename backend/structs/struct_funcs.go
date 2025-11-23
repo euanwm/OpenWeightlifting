@@ -50,31 +50,31 @@ func (e LifterHistory) MakeRates(lift string) (makeRates []int) {
 	switch lift {
 	case enum.Snatch:
 		for _, entry := range e.Lifts {
-			if entry.Sn1 > 0 {
+			if entry.Sn1.IsPositive() {
 				makemiss[0]++
 			}
-			if entry.Sn2 > 0 {
+			if entry.Sn2.IsPositive() {
 				makemiss[1]++
 			}
-			if entry.Sn3 > 0 {
+			if entry.Sn3.IsPositive() {
 				makemiss[2]++
 			}
-			if entry.Sn1 != 0 || entry.Sn2 != 0 || entry.Sn3 != 0 {
+			if !entry.Sn1.IsZero() || !entry.Sn2.IsZero() || !entry.Sn3.IsZero() {
 				numberOfLifts++
 			}
 		}
 	case enum.CleanAndJerk:
 		for _, entry := range e.Lifts {
-			if entry.CJ1 > 0 {
+			if entry.CJ1.IsPositive() {
 				makemiss[0]++
 			}
-			if entry.CJ2 > 0 {
+			if entry.CJ2.IsPositive() {
 				makemiss[1]++
 			}
-			if entry.CJ3 > 0 {
+			if entry.CJ3.IsPositive() {
 				makemiss[2]++
 			}
-			if entry.CJ1 != 0 || entry.CJ2 != 0 || entry.CJ3 != 0 {
+			if !entry.CJ1.IsZero() || !entry.CJ2.IsZero() || !entry.CJ3.IsZero() {
 				numberOfLifts++
 			}
 		}
@@ -86,26 +86,20 @@ func (e LifterHistory) MakeRates(lift string) (makeRates []int) {
 	return
 }
 
-func (e LifterHistory) BestLift(lift string) float32 {
-	var bestLift float32
+func (e LifterHistory) BestLift(lift string) WeightKg {
+	var bestLift WeightKg
 	switch lift {
 	case enum.Snatch:
 		for _, entry := range e.Lifts {
-			if entry.BestSn > bestLift {
-				bestLift = entry.BestSn
-			}
+			bestLift = bestLift.Max(entry.BestSn)
 		}
 	case enum.CleanAndJerk:
 		for _, entry := range e.Lifts {
-			if entry.BestCJ > bestLift {
-				bestLift = entry.BestCJ
-			}
+			bestLift = bestLift.Max(entry.BestCJ)
 		}
 	case enum.Total:
 		for _, entry := range e.Lifts {
-			if entry.Total > bestLift {
-				bestLift = entry.Total
-			}
+			bestLift = bestLift.Max(entry.Total)
 		}
 	}
 	return bestLift
@@ -115,7 +109,7 @@ func (e Entry) WithinWeightClass(gender string, catData WeightClass) bool {
 	if catData.Gender == enum.ALLCATS {
 		return true
 	}
-	if catData.Gender == gender && catData.Upper >= e.Bodyweight && catData.Lower <= e.Bodyweight {
+	if catData.Gender == gender && catData.Upper.GreaterThanOrEqual(e.Bodyweight) && catData.Lower.LessThanOrEqual(e.Bodyweight) {
 		return true
 	}
 	return false

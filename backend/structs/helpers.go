@@ -7,19 +7,19 @@ func IterateFloatSlice(data []Entry, item string) (floatSl []float32) {
 	switch item {
 	case enum.Total:
 		for _, lift := range data {
-			floatSl = append(floatSl, lift.Total)
+			floatSl = append(floatSl, lift.Total.Float32())
 		}
 	case enum.BestSnatch:
 		for _, lift := range data {
-			floatSl = append(floatSl, lift.BestSn)
+			floatSl = append(floatSl, lift.BestSn.Float32())
 		}
 	case enum.BestCJ:
 		for _, lift := range data {
-			floatSl = append(floatSl, lift.BestCJ)
+			floatSl = append(floatSl, lift.BestCJ.Float32())
 		}
 	case enum.Bodyweight:
 		for _, lift := range data {
-			floatSl = append(floatSl, lift.Bodyweight)
+			floatSl = append(floatSl, lift.Bodyweight.Float32())
 		}
 	}
 	return

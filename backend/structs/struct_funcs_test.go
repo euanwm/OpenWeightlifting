@@ -28,7 +28,7 @@ func TestAllData_ProcessNames(t *testing.T) {
 func TestEntry_WithinWeightClass(t *testing.T) {
 	sampleEntry := Entry{
 		Gender:     enum.Male,
-		Bodyweight: 100,
+		Bodyweight: NewWeightKg(100),
 	}
 	type args struct {
 		gender  string
@@ -43,8 +43,8 @@ func TestEntry_WithinWeightClass(t *testing.T) {
 			gender: enum.Male,
 			catData: WeightClass{
 				Gender: enum.Male,
-				Upper:  101,
-				Lower:  99,
+				Upper:  NewWeightKg(101),
+				Lower:  NewWeightKg(99),
 			}},
 			want: true,
 		},
@@ -52,8 +52,8 @@ func TestEntry_WithinWeightClass(t *testing.T) {
 			gender: enum.Male,
 			catData: WeightClass{
 				Gender: enum.ALLCATS,
-				Upper:  101,
-				Lower:  99,
+				Upper:  NewWeightKg(101),
+				Lower:  NewWeightKg(99),
 			}},
 			want: true,
 		},
@@ -61,8 +61,8 @@ func TestEntry_WithinWeightClass(t *testing.T) {
 			gender: enum.Male,
 			catData: WeightClass{
 				Gender: enum.Male,
-				Upper:  99,
-				Lower:  98,
+				Upper:  NewWeightKg(99),
+				Lower:  NewWeightKg(98),
 			}},
 			want: false,
 		},
@@ -218,24 +218,24 @@ func TestLifterHistory_GenerateChartData(t *testing.T) {
 		Lifts: []Entry{
 			{
 				Date:       "2020-01-01",
-				Total:      100,
-				BestSn:     40,
-				BestCJ:     60,
-				Bodyweight: 50,
+				Total:      NewWeightKg(100),
+				BestSn:     NewWeightKg(40),
+				BestCJ:     NewWeightKg(60),
+				Bodyweight: NewWeightKg(50),
 			},
 			{
 				Date:       "2020-01-02",
-				Total:      200,
-				BestSn:     80,
-				BestCJ:     120,
-				Bodyweight: 100,
+				Total:      NewWeightKg(200),
+				BestSn:     NewWeightKg(80),
+				BestCJ:     NewWeightKg(120),
+				Bodyweight: NewWeightKg(100),
 			},
 			{
 				Date:       "2020-01-03",
-				Total:      300,
-				BestSn:     120,
-				BestCJ:     180,
-				Bodyweight: 150,
+				Total:      NewWeightKg(300),
+				BestSn:     NewWeightKg(120),
+				BestCJ:     NewWeightKg(180),
+				Bodyweight: NewWeightKg(150),
 			},
 		},
 	}
@@ -277,11 +277,11 @@ func TestLifterHistory_GenerateChartData(t *testing.T) {
 func TestLifterHistory_MakeRates(t *testing.T) {
 	sampleLifterHistory := LifterHistory{
 		Lifts: []Entry{
-			{Sn1: 55, Sn2: 60, Sn3: 70, CJ1: 80, CJ2: -85, CJ3: -85, BestSn: 70, BestCJ: 80},
-			{Sn1: -55, Sn2: 55, Sn3: -60, CJ1: 80, CJ2: -85, CJ3: 85, BestSn: 55, BestCJ: 85},
-			{Sn1: -60, Sn2: 61, Sn3: -65, CJ1: 80, CJ2: -85, CJ3: -85, BestSn: 61, BestCJ: 80},
-			{Sn1: 58, Sn2: 61, Sn3: -63, CJ1: 80, CJ2: -85, CJ3: 90, BestSn: 61, BestCJ: 90},
-			{Sn1: 0, Sn2: 0, Sn3: 0, CJ1: 0, CJ2: 0, CJ3: 0, BestSn: 0, BestCJ: 0},
+			{Sn1: NewWeightKg(55), Sn2: NewWeightKg(60), Sn3: NewWeightKg(70), CJ1: NewWeightKg(80), CJ2: NewWeightKg(-85), CJ3: NewWeightKg(-85), BestSn: NewWeightKg(70), BestCJ: NewWeightKg(80)},
+			{Sn1: NewWeightKg(-55), Sn2: NewWeightKg(55), Sn3: NewWeightKg(-60), CJ1: NewWeightKg(80), CJ2: NewWeightKg(-85), CJ3: NewWeightKg(85), BestSn: NewWeightKg(55), BestCJ: NewWeightKg(85)},
+			{Sn1: NewWeightKg(-60), Sn2: NewWeightKg(61), Sn3: NewWeightKg(-65), CJ1: NewWeightKg(80), CJ2: NewWeightKg(-85), CJ3: NewWeightKg(-85), BestSn: NewWeightKg(61), BestCJ: NewWeightKg(80)},
+			{Sn1: NewWeightKg(58), Sn2: NewWeightKg(61), Sn3: NewWeightKg(-63), CJ1: NewWeightKg(80), CJ2: NewWeightKg(-85), CJ3: NewWeightKg(90), BestSn: NewWeightKg(61), BestCJ: NewWeightKg(90)},
+			{Sn1: NewWeightKg(0), Sn2: NewWeightKg(0), Sn3: NewWeightKg(0), CJ1: NewWeightKg(0), CJ2: NewWeightKg(0), CJ3: NewWeightKg(0), BestSn: NewWeightKg(0), BestCJ: NewWeightKg(0)},
 		},
 	}
 	tests := []struct {
@@ -303,19 +303,19 @@ func TestLifterHistory_MakeRates(t *testing.T) {
 func TestLifterHistory_BestLift(t *testing.T) {
 	sampleLifterHistory := LifterHistory{
 		Lifts: []Entry{
-			{Sn1: 55, Sn2: 60, Sn3: 70, CJ1: 80, CJ2: -85, CJ3: -85, BestSn: 70, BestCJ: 80, Total: 150},
-			{Sn1: -55, Sn2: 55, Sn3: -60, CJ1: 80, CJ2: -85, CJ3: 85, BestSn: 55, BestCJ: 85, Total: 140},
-			{Sn1: -60, Sn2: 61, Sn3: -65, CJ1: 80, CJ2: -85, CJ3: -85, BestSn: 61, BestCJ: 80, Total: 141},
-			{Sn1: 58, Sn2: 61, Sn3: -63, CJ1: 80, CJ2: -85, CJ3: 90, BestSn: 61, BestCJ: 90, Total: 151},
+			{Sn1: NewWeightKg(55), Sn2: NewWeightKg(60), Sn3: NewWeightKg(70), CJ1: NewWeightKg(80), CJ2: NewWeightKg(-85), CJ3: NewWeightKg(-85), BestSn: NewWeightKg(70), BestCJ: NewWeightKg(80), Total: NewWeightKg(150)},
+			{Sn1: NewWeightKg(-55), Sn2: NewWeightKg(55), Sn3: NewWeightKg(-60), CJ1: NewWeightKg(80), CJ2: NewWeightKg(-85), CJ3: NewWeightKg(85), BestSn: NewWeightKg(55), BestCJ: NewWeightKg(85), Total: NewWeightKg(140)},
+			{Sn1: NewWeightKg(-60), Sn2: NewWeightKg(61), Sn3: NewWeightKg(-65), CJ1: NewWeightKg(80), CJ2: NewWeightKg(-85), CJ3: NewWeightKg(-85), BestSn: NewWeightKg(61), BestCJ: NewWeightKg(80), Total: NewWeightKg(141)},
+			{Sn1: NewWeightKg(58), Sn2: NewWeightKg(61), Sn3: NewWeightKg(-63), CJ1: NewWeightKg(80), CJ2: NewWeightKg(-85), CJ3: NewWeightKg(90), BestSn: NewWeightKg(61), BestCJ: NewWeightKg(90), Total: NewWeightKg(151)},
 		},
 	}
 	tests := []struct {
 		name string
-		want float32
+		want WeightKg
 	}{
-		{name: enum.Snatch, want: 70},
-		{name: enum.CleanAndJerk, want: 90},
-		{name: enum.Total, want: 151},
+		{name: enum.Snatch, want: NewWeightKg(70)},
+		{name: enum.CleanAndJerk, want: NewWeightKg(90)},
+		{name: enum.Total, want: NewWeightKg(151)},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
