@@ -1,8 +1,8 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-Stavanger AK Seriestevne,2025-02-22,Women's Masters (40-44) 71Kg,Inger Marie Godeseth,71,31,32,33,40,42,45,33,45,78
-Stavanger AK Seriestevne,2025-02-22,Women's Masters (45-49) 76Kg,Andrea Wensberg,76,35,37,39,-52,52,-55,39,52,91
-Stavanger AK Seriestevne,2025-02-22,Women's Junior Under 20 64Kg,Mia Wensberg,64,42,45,47,58,60,0,47,60,107
-Stavanger AK Seriestevne,2025-02-22,Women's Masters (40-44) 71Kg,Anna Szigeti,71,60,63,65,68,70,73,65,73,138
-Stavanger AK Seriestevne,2025-02-22,Women's Masters (40-44) 64Kg,Nhu Tran,64,53,-56,-56,70,73,76,53,76,129
-Stavanger AK Seriestevne,2025-02-22,Men's Masters (45-49) 96Kg,Juraj Szigeti,96,-88,90,-93,-100,102,-107,90,102,192
-Stavanger AK Seriestevne,2025-02-22,Men's Senior 109+Kg,Michael Guan Aarøy,999,-80,-80,80,105,110,115,80,115,195
+Stavanger AK Seriestevne,2025-02-22,female - Veteran Kvinner over 40,Inger Marie Godeseth,71,31,32,33,40,42,45,33,45,78
+Stavanger AK Seriestevne,2025-02-22,female - Veteran Kvinner over 45,Andrea Wensberg,76,35,37,39,-52,52,-55,39,52,91
+Stavanger AK Seriestevne,2025-02-22,female - Junior Kvinner,Mia Wensberg,64,42,45,47,58,60,0,47,60,107
+Stavanger AK Seriestevne,2025-02-22,female - Veteran Kvinner over 40,Anna Szigeti,71,60,63,65,68,70,73,65,73,138
+Stavanger AK Seriestevne,2025-02-22,female - Veteran Kvinner over 40,Nhu Tran,64,53,-56,-56,70,73,76,53,76,129
+Stavanger AK Seriestevne,2025-02-22,male - Veteran Menn over 45,Juraj Szigeti,96,-88,90,-93,-100,102,-107,90,102,192
+Stavanger AK Seriestevne,2025-02-22,male - Senior Menn,Michael Guan Aarøy,999,-80,-80,80,105,110,115,80,115,195

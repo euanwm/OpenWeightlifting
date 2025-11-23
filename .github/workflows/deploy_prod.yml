@@ -12,26 +12,12 @@ jobs:
       - name: Move event_data
         run: |
           cp -r event_data/ backend/
-      - name: Deploy OWL Backend
-        uses: behe/heroku-build@v1
-        with:
-          app-name: "owl-production-backend"
-          api-key: "${{secrets.HEROKU_API_KEY}}"
-          path: "./backend/"
-      - name: Setup Python 3.11
-        uses: actions/setup-python@v2
-        with:
-          python-version: 3.11
-      - name: Build Frontend Filters
+      - name: Install Railway CLI
         run: |
-          cd python_tools
-          python -m pip install --upgrade pip
-          pip install pipenv
-          pipenv install --dev
-          pipenv run python3 fe_builder.py
-      - name: Deploy OWL Frontend
-        uses: behe/heroku-build@v1
-        with:
-          app-name: "owl-production-frontend"
-          api-key: "${{secrets.HEROKU_API_KEY}}"
-          path: "./frontend/"
+          curl -fsSL https://railway.app/install.sh | sh
+      - name: Deploy to Railway
+        env:
+          RAILWAY_TOKEN: ${{ secrets.RAILWAY_TOKEN }}
+        run: |
+          cd backend
+          railway up --service owl-be-alt

@@ -19,7 +19,7 @@ func PreCacheQuery() (permutation []structs.LeaderboardPayload) {
 					SortBy:      s,
 					Federation:  f,
 					WeightClass: w,
-					Year:        enum.AllYearsStr,
+					Year:        "",
 					StartDate:   enum.ZeroDate,
 					EndDate:     enum.MaxDate,
 					Start:       0,

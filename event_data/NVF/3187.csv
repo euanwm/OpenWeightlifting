@@ -1,9 +1,9 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-Stavanger AK Seriestevne,2025-02-27,Men's Senior 102Kg,Lars Espedal,102,104,107,-110,120,-126,-126,107,120,227
-Stavanger AK Seriestevne,2025-02-27,Men's Masters (65-69) 109+Kg,Bernt Petter Andersen,109,60,70,-72,80,90,0,70,90,160
-Stavanger AK Seriestevne,2025-02-27,Men's Masters (45-49) 89Kg,Yngve Sundt,89,70,75,80,90,95,-104,80,95,175
-Stavanger AK Seriestevne,2025-02-27,Men's Masters (60-64) 89Kg,Dag A Klinkenberg,89,65,70,73,83,87,-90,73,87,160
-Stavanger AK Seriestevne,2025-02-27,Men's Masters (50-54) 96Kg,John Kåre Monsen,96,73,78,-81,80,86,0,78,86,164
-Stavanger AK Seriestevne,2025-02-27,Men's Senior 96Kg,Joachim Meling Monsen,96,55,-60,-62,70,75,78,55,78,133
-Stavanger AK Seriestevne,2025-02-27,Men's Senior 96Kg,Sondre Andersen Gysland,96,90,95,-100,115,121,-126,95,121,216
-Stavanger AK Seriestevne,2025-02-27,Women's Masters (50-54) 64Kg,Anita Kristoffersen,64,30,35,-38,40,45,47,35,47,82
+Stavanger AK Seriestevne,2025-02-27,male - Senior Menn,Lars Espedal,102,104,107,-110,120,-126,-126,107,120,227
+Stavanger AK Seriestevne,2025-02-27,male - Veteran Menn over 65,Bernt Petter Andersen,109,60,70,-72,80,90,0,70,90,160
+Stavanger AK Seriestevne,2025-02-27,male - Veteran Menn over 45,Yngve Sundt,89,70,75,80,90,95,-104,80,95,175
+Stavanger AK Seriestevne,2025-02-27,male - Veteran Menn over 60,Dag A Klinkenberg,89,65,70,73,83,87,-90,73,87,160
+Stavanger AK Seriestevne,2025-02-27,male - Veteran Menn over 50,John Kåre Monsen,96,73,78,-81,80,86,0,78,86,164
+Stavanger AK Seriestevne,2025-02-27,male - Senior Menn,Joachim Meling Monsen,96,55,-60,-62,70,75,78,55,78,133
+Stavanger AK Seriestevne,2025-02-27,male - Senior Menn,Sondre Andersen Gysland,96,90,95,-100,115,121,-126,95,121,216
+Stavanger AK Seriestevne,2025-02-27,female - Veteran Kvinner over 50,Anita Kristoffersen,64,30,35,-38,40,45,47,35,47,82

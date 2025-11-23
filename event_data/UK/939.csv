@@ -1,0 +1,56 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Scottish Classic 2025,2025-09-21,Men's Junior Under 20 110Kg,Jake Dickie,104.3,115,119,-122,142,151,0,119,151,270
+Scottish Classic 2025,2025-09-21,Men's Senior 110Kg,Jason Hagart,107.15,115,-120,120,140,145,-149,120,145,265
+Scottish Classic 2025,2025-09-20,Men's Under 23 88Kg,Callum Holland,86.4,113,-118,-118,140,-145,145,113,145,258
+Scottish Classic 2025,2025-09-21,Men's Junior Under 20 110Kg,Angus Robertson,106.6,105,110,115,130,135,140,115,140,255
+Scottish Classic 2025,2025-09-20,Men's Senior 88Kg,Rudy de Lange,87.9,-108,108,114,138,-143,-145,114,138,252
+Scottish Classic 2025,2025-09-21,Men's Junior Under 20 110Kg,Dylan Dickie,95.75,110,-115,-116,132,-137,-141,110,132,242
+Scottish Classic 2025,2025-09-20,Men's Junior Under 20 94Kg,Charlie Farndon,92.25,100,-105,-105,130,-136,-136,100,130,230
+Scottish Classic 2025,2025-09-21,Men's Masters (35-39) 110Kg,Thomas Walton,105.5,95,-101,-103,125,131,-135,95,131,226
+Scottish Classic 2025,2025-09-20,Men's Senior 71Kg,Gilbert North,70.05,-95,-95,95,123,-127,127,95,127,222
+Scottish Classic 2025,2025-09-20,Men's Senior 94Kg,Scott Worthing,91.1,86,90,94,118,123,127,94,127,221
+Scottish Classic 2025,2025-09-20,Men's Under 23 79Kg,Hampus Fischerstrom,78,94,-97,-98,117,122,-125,94,122,216
+Scottish Classic 2025,2025-09-21,Women's Masters (35-39) 86Kg,Agata Herbert,77.1,-87,87,91,106,110,114,91,114,205
+Scottish Classic 2025,2025-09-20,Men's Masters (40-44) 88Kg,Scott Chapman,86.6,-88,88,-90,110,111,115,88,115,203
+Scottish Classic 2025,2025-09-20,Men's Junior Under 20 79Kg,Ashton Bayliss,78.35,78,-82,82,105,-110,110,82,110,192
+Scottish Classic 2025,2025-09-20,Men's Senior 79Kg,David Shorter,77.6,78,82,-85,-104,104,-110,82,104,186
+Scottish Classic 2025,2025-09-21,Women's Senior 86Kg,Sarah Frobisher,84.9,70,75,80,90,95,-100,80,95,175
+Scottish Classic 2025,2025-09-20,Men's Senior 71Kg,Marcel Dutu,65.95,68,-71,72,98,-101,101,72,101,173
+Scottish Classic 2025,2025-09-20,Women's Masters (35-39) 63Kg,Joanne Mcgurk,62.1,70,73,-75,85,88,90,73,90,163
+Scottish Classic 2025,2025-09-20,Men's Under 23 65Kg,Jack Fernando,61.2,60,-66,-68,95,100,-102,60,100,160
+Scottish Classic 2025,2025-09-20,Women's Senior 63Kg,Eilidh MacInnes-Devine ,62.6,71,73,-75,-86,-86,86,73,86,159
+Scottish Classic 2025,2025-09-21,Women's Senior 69Kg,Niamh Summers,68.5,62,65,-68,83,86,90,65,90,155
+Scottish Classic 2025,2025-09-21,Women's Masters (40-44) 86Kg,Janine Slaven,84.6,-64,64,67,82,86,-90,67,86,153
+Scottish Classic 2025,2025-09-20,Women's Senior 63Kg,Beata Korba,62.65,63,66,-70,80,-84,85,66,85,151
+Scottish Classic 2025,2025-09-21,Women's Senior +86Kg,Denise Clark-brown,110.05,65,68,-71,78,82,-85,68,82,150
+Scottish Classic 2025,2025-09-20,Women's Senior 58Kg,Katarzyna Moszyk,57.25,60,63,65,75,79,82,65,82,147
+Scottish Classic 2025,2025-09-21,Women's Senior 69Kg,Chloe Kynoch,68.4,60,-63,63,76,80,0,63,80,143
+Scottish Classic 2025,2025-09-20,Women's Youth Under 17 63Kg,Nicola Beaumont ,61.6,59,62,-65,72,76,80,62,80,142
+Scottish Classic 2025,2025-09-20,Women's Senior 58Kg,Hannah Rutherford,57.2,60,-62,-63,75,78,80,60,80,140
+Scottish Classic 2025,2025-09-21,Women's Senior 69Kg,Chantelle  Soojeri ,63.75,-54,54,58,-77,77,80,58,80,138
+Scottish Classic 2025,2025-09-21,Women's Under 23 69Kg,Erin Gallacher,64.35,-64,-64,65,-72,72,-75,65,72,137
+Scottish Classic 2025,2025-09-20,Women's Youth Under 17 58Kg,Phoebe  Cameron,56.75,-59,59,-65,73,77,-81,59,77,136
+Scottish Classic 2025,2025-09-21,Women's Senior +86Kg,Iona Gibson,103.15,53,56,58,73,77,-80,58,77,135
+Scottish Classic 2025,2025-09-21,Women's Senior +86Kg,Kenna Gibson,100.1,54,56,-58,74,76,-80,56,76,132
+Scottish Classic 2025,2025-09-21,Women's Senior 69Kg,Elizabeth Simmonds,68,51,53,-55,72,75,78,53,78,131
+Scottish Classic 2025,2025-09-21,Women's Senior 77Kg,Charlotte Worthing,75.85,51,54,57,68,-71,71,57,71,128
+Scottish Classic 2025,2025-09-20,Women's Under 23 58Kg,Laura Willey,57.5,-56,-56,56,67,-70,70,56,70,126
+Scottish Classic 2025,2025-09-21,Women's Masters (35-39) 77Kg,Gillian De Boer,76.1,54,57,-60,-64,64,68,57,68,125
+Scottish Classic 2025,2025-09-21,Women's Masters (35-39) 69Kg,Dawn Chessor,68.3,50,53,-58,68,71,-74,53,71,124
+Scottish Classic 2025,2025-09-21,Women's Senior +86Kg,Michaela Rogers,94.65,53,55,-57,-68,-68,68,55,68,123
+Scottish Classic 2025,2025-09-20,Women's Masters (40-44) 63Kg,Rebecca James,61.25,50,52,54,65,-68,68,54,68,122
+Scottish Classic 2025,2025-09-20,Women's Senior 63Kg,Manon Miny,62.2,53,-56,-56,65,68,-70,53,68,121
+Scottish Classic 2025,2025-09-20,Women's Youth Under 17 53Kg,Robyn Harris,50.85,-49,50,-52,63,-67,67,50,67,117
+Scottish Classic 2025,2025-09-21,Women's Senior 69Kg,Lauren Bennett,67.85,47,50,-54,63,67,-70,50,67,117
+Scottish Classic 2025,2025-09-21,Women's Senior 69Kg,Heather Mcilraith,68.95,50,52,-54,-60,60,-63,52,60,112
+Scottish Classic 2025,2025-09-20,Women's Senior 53Kg,Klaudia Zbikowska,51.65,45,-48,-48,60,63,65,45,65,110
+Scottish Classic 2025,2025-09-21,Women's Masters (35-39) 69Kg,Lyndsey  Roberts ,67.35,40,43,-46,60,63,-66,43,63,106
+Scottish Classic 2025,2025-09-20,Women's Masters (35-39) 58Kg,Rachel Cunningham,54.95,40,-43,44,-57,57,-60,44,57,101
+Scottish Classic 2025,2025-09-20,Women's Senior 53Kg,Marie  McLaughlin ,52.2,-42,-42,42,52,-55,55,42,55,97
+Scottish Classic 2025,2025-09-20,Women's Senior 58Kg,Katie Fitzpatrick,56.05,38,40,42,50,53,55,42,55,97
+Scottish Classic 2025,2025-09-20,Women's Senior 63Kg,Wednesday McIntosh,61.2,47,-51,51,-63,-63,-63,51,0,0
+Scottish Classic 2025,2025-09-21,Women's Senior 77Kg,Hayleigh Wishart,71.65,-67,67,-70,-91,-91,-91,67,0,0
+Scottish Classic 2025,2025-09-20,Men's Senior 71Kg,Chris Reeves,69.65,73,76,80,-93,-95,-98,80,0,0
+Scottish Classic 2025,2025-09-20,Men's Under 23 79Kg,Lorne Barnaby,75.55,103,-106,-107,-115,-115,-115,103,0,0
+Scottish Classic 2025,2025-09-20,Men's Masters (40-44) 79Kg,John Forsyth,78.45,77,80,-84,-95,-95,-95,80,0,0
+Scottish Classic 2025,2025-09-21,Men's Under 23 +110Kg,Euan Mclauchlan,118.65,120,-125,-125,0,0,0,120,0,0

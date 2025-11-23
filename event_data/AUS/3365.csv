@@ -1,0 +1,44 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Marrickville Open Competition,2025-05-04,female - F48,Soni (Noah) Lama,45.45,30,32,35,35,37,40,35,40,75
+Marrickville Open Competition,2025-05-04,female - F53,Aliya Rajab,50.50,36,39,42,47,52,56,42,56,98
+Marrickville Open Competition,2025-05-04,female - F58,Natalya Ghetto,56.80,67,70,72,87,-90,-93,72,87,159
+Marrickville Open Competition,2025-05-04,female - F58,Betania Ramos Costa,56.80,-47,-47,47,61,-64,64,47,64,111
+Marrickville Open Competition,2025-05-04,female - F63,Fatima Yakubu,62.45,84,88,90,110,114,117,90,117,207
+Marrickville Open Competition,2025-05-04,female - F63,Brenna Kean,60.20,71,73,75,92,96,100,75,100,175
+Marrickville Open Competition,2025-05-04,female - F63,Rachel Harvey,61.45,50,54,-57,60,63,67,54,67,121
+Marrickville Open Competition,2025-05-04,female - F63,Alexandra Jenkins,60.55,-40,40,-44,-50,0,0,40,0,0
+Marrickville Open Competition,2025-05-04,female - F69,Saffron Howard,67.75,65,69,72,89,94,0,72,94,166
+Marrickville Open Competition,2025-05-04,female - F69,Olivia Hicks,67.10,50,55,-58,65,70,73,55,73,128
+Marrickville Open Competition,2025-05-04,female - F69,Jemimah Ramos,66.00,43,47,50,-60,60,65,50,65,115
+Marrickville Open Competition,2025-05-04,female - F69,Louise Peacock,68.50,40,43,-46,54,57,-60,43,57,100
+Marrickville Open Competition,2025-05-04,female - F69,Aimy Le,63.30,32,35,37,42,-46,46,37,46,83
+Marrickville Open Competition,2025-05-04,female - F77,Rebecca Mckay,76.65,80,84,87,-100,-102,102,87,102,189
+Marrickville Open Competition,2025-05-04,female - F77,Indianna Wilson,76.15,83,85,87,95,-98,-98,87,95,182
+Marrickville Open Competition,2025-05-04,female - F77,Evie Kennedy,73.85,-65,65,70,85,89,-91,70,89,159
+Marrickville Open Competition,2025-05-04,female - F86+,Lauryna Malaesilia,106.85,55,58,62,68,72,76,62,76,138
+Marrickville Open Competition,2025-05-04,female - F86+,Emma Lonsdale,112.15,-45,45,50,70,74,78,50,78,128
+Marrickville Open Competition,2025-05-04,male - M60,Chong-Wei Liang,58.30,60,64,-68,-80,80,-85,64,80,144
+Marrickville Open Competition,2025-05-04,male - M65,Michael Nguyen,64.25,90,93,-96,107,-113,-113,93,107,200
+Marrickville Open Competition,2025-05-04,male - M65,Jeremy Nguyen,64.95,-104,105,-110,-136,-140,-145,105,0,0
+Marrickville Open Competition,2025-05-04,male - M71,Joshua Wu,70.30,110,-114,117,143,148,-153,117,148,265
+Marrickville Open Competition,2025-05-04,male - M71,Robert Mclaren,69.80,78,83,88,100,107,-113,88,107,195
+Marrickville Open Competition,2025-05-04,male - M71,Tasman Sutton,70.50,83,-87,-87,-110,110,-117,83,110,193
+Marrickville Open Competition,2025-05-04,male - M71,Toni Sassine,70.50,78,83,-88,101,106,110,83,110,193
+Marrickville Open Competition,2025-05-04,male - M71,Rafael Iii Carabana,70.75,75,80,-85,-101,101,106,80,106,186
+Marrickville Open Competition,2025-05-04,male - M71,Danny Doan,70.95,75,-80,80,100,-110,0,80,100,180
+Marrickville Open Competition,2025-05-04,male - M71,Owen Calima,70.55,65,-67,68,93,97,101,68,101,169
+Marrickville Open Competition,2025-05-04,male - M71,Andrew Wang,70.70,-93,-94,-94,0,0,0,0,0,0
+Marrickville Open Competition,2025-05-04,male - M79,Louis Long,73.75,83,87,92,103,108,113,92,113,205
+Marrickville Open Competition,2025-05-04,male - M79,Joshua Castro,77.60,75,80,83,110,115,120,83,120,203
+Marrickville Open Competition,2025-05-04,male - M79,Michael Cruz,78.55,75,-79,-80,-100,-103,103,75,103,178
+Marrickville Open Competition,2025-05-04,male - M79,Matt Porteous,73.95,-70,70,-77,95,100,-107,70,100,170
+Marrickville Open Competition,2025-05-04,male - M79,Carlos Nino,75.20,58,60,65,70,75,80,65,80,145
+Marrickville Open Competition,2025-05-04,male - M88,Aidan Maughan,81.40,105,108,-111,131,-139,-139,108,131,239
+Marrickville Open Competition,2025-05-04,male - M88,Vianni Tolaram,84.55,77,82,86,-115,115,124,86,124,210
+Marrickville Open Competition,2025-05-04,male - M88,Maxim Vassiliev,86.60,85,88,92,108,113,-120,92,113,205
+Marrickville Open Competition,2025-05-04,male - M98,David Brain,96.30,95,100,-105,119,124,132,100,132,232
+Marrickville Open Competition,2025-05-04,male - M98,Jozoe Fajardo,95.85,93,97,100,110,116,-120,100,116,216
+Marrickville Open Competition,2025-05-04,male - M110+,George Senico,119.30,100,105,110,125,135,0,110,135,245
+Marrickville Open Competition,2025-05-04,male - M110+,Ben Doherty,117.80,85,90,-95,110,-116,118,90,118,208
+Marrickville Open Competition,2025-05-04,male - M110+,Kieran Nevins,111.65,-87,-87,87,110,117,-123,87,117,204
+Marrickville Open Competition,2025-05-04,male - M110+,Russell Miles,130.45,80,85,91,-105,105,-111,91,105,196

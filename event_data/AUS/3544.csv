@@ -1,0 +1,80 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+OWF International Elite Tournament,2025-04-12,female - F48,Jianne Gungon,47.80,66,-69,-70,81,-84,-87,66,81,147
+OWF International Elite Tournament,2025-04-12,female - F48,Kate Armstrong,47.80,60,63,66,-79,79,-84,66,79,145
+OWF International Elite Tournament,2025-04-12,female - F48,Michaela Warwick,48.00,-66,66,68,-80,-82,-82,68,0,0
+OWF International Elite Tournament,2025-04-12,female - F53,Mia Gainsmith,53.00,64,67,70,82,86,-90,70,86,156
+OWF International Elite Tournament,2025-04-12,female - F53,Liyana Safiah Sidek,53.00,55,57,-59,70,-73,-73,57,70,127
+OWF International Elite Tournament,2025-04-12,female - F58,Jenly Wini,57.50,75,80,-85,95,100,-105,80,100,180
+OWF International Elite Tournament,2025-04-12,female - F58,Tessa Rim,58.00,77,-80,-80,97,-101,-104,77,97,174
+OWF International Elite Tournament,2025-04-12,female - F58,Isabella Lowe King,55.40,-62,62,65,78,-81,-81,65,78,143
+OWF International Elite Tournament,2025-04-12,female - F58,Brenna Kean,57.90,-78,-79,-79,100,103,-105,0,103,0
+OWF International Elite Tournament,2025-04-12,female - F63,Zoe Pukekura,62.70,87,90,92,110,115,118,92,118,210
+OWF International Elite Tournament,2025-04-12,female - F63,Kiana Elliott,61.55,-93,93,95,105,108,111,95,111,206
+OWF International Elite Tournament,2025-04-12,female - F63,Hidilyn Diaz,62.95,85,-90,90,110,114,-118,90,114,204
+OWF International Elite Tournament,2025-04-12,female - F63,Darcy Kay,63.00,88,91,-93,105,-112,-112,91,105,196
+OWF International Elite Tournament,2025-04-12,female - F63,Lily Strange,61.90,71,74,-77,85,88,92,74,92,166
+OWF International Elite Tournament,2025-04-12,female - F63,Bonnie Grylls-Graham,61.25,68,-71,-71,85,-90,0,68,85,153
+OWF International Elite Tournament,2025-04-12,female - F63,Ruoni Chen,58.25,66,-69,71,75,79,-82,71,79,150
+OWF International Elite Tournament,2025-04-12,female - F69,Ebony Gorincu,68.90,81,-85,-85,102,-106,-109,81,102,183
+OWF International Elite Tournament,2025-04-12,female - F69,Jessica Berry,69.00,63,65,-67,82,-86,-87,65,82,147
+OWF International Elite Tournament,2025-04-12,female - F77,Avatu Opeloge,77.00,92,96,-99,-121,121,0,96,121,217
+OWF International Elite Tournament,2025-04-12,female - F77,Olivia Kelly,76.55,93,-96,-98,119,-123,-123,93,119,212
+OWF International Elite Tournament,2025-04-12,female - F77,Madison Farley,71.90,87,90,92,114,-118,-118,92,114,206
+OWF International Elite Tournament,2025-04-12,female - F77,Teagan Newman,75.15,90,93,-96,106,110,-113,93,110,203
+OWF International Elite Tournament,2025-04-12,female - F77,Jae Daly,75.35,88,90,93,103,-107,110,93,110,203
+OWF International Elite Tournament,2025-04-12,female - F77,Estelle Tilley,76.20,87,90,-93,106,110,-114,90,110,200
+OWF International Elite Tournament,2025-04-12,female - F77,Holly Drain,76.75,86,-89,-90,105,-111,-112,86,105,191
+OWF International Elite Tournament,2025-04-12,female - F77,Elise Schack,75.15,78,81,85,100,-104,105,85,105,190
+OWF International Elite Tournament,2025-04-12,female - F77,Skye Harrison,75.15,-65,65,-71,85,-89,91,65,91,156
+OWF International Elite Tournament,2025-04-12,female - F86,Eileen Cikamatana,86.00,106,112,-117,143,148,-151,112,148,260
+OWF International Elite Tournament,2025-04-12,female - F86,Ajah Pritchard-Lolo,85.50,90,95,97,105,-110,113,97,113,210
+OWF International Elite Tournament,2025-04-12,female - F86+,Lesila Fiapule,128.25,101,106,111,141,146,-150,111,146,257
+OWF International Elite Tournament,2025-04-12,female - F86+,Iuniarra Sipaia,139.80,101,106,-112,145,150,-154,106,150,256
+OWF International Elite Tournament,2025-04-12,female - F86+,Medea Jones,89.20,100,-104,-104,114,119,123,100,123,223
+OWF International Elite Tournament,2025-04-12,female - F86+,Litia Nacagilevu,87.15,90,-95,95,110,115,-120,95,115,210
+OWF International Elite Tournament,2025-04-12,female - F86+,Villani Hiram,108.80,70,-73,74,105,-110,110,74,110,184
+OWF International Elite Tournament,2025-04-12,male - M60,Miguel Meza,59.85,95,-100,100,125,130,135,100,135,235
+OWF International Elite Tournament,2025-04-12,male - M65,Morea Baru,65.00,115,120,124,-150,150,156,124,156,280
+OWF International Elite Tournament,2025-04-12,male - M65,Nashrul Abu Bakar,62.40,95,-98,98,117,121,-125,98,121,219
+OWF International Elite Tournament,2025-04-12,male - M71,John Tafi,70.55,130,135,-140,160,166,-175,135,166,301
+OWF International Elite Tournament,2025-04-12,male - M71,Brayden Williams,70.95,115,-119,119,135,-141,141,119,141,260
+OWF International Elite Tournament,2025-04-12,male - M71,Jack Yang,71.00,113,-117,-117,138,143,-146,113,143,256
+OWF International Elite Tournament,2025-04-12,male - M71,Vincent Dang,70.65,-97,97,-101,117,122,-128,97,122,219
+OWF International Elite Tournament,2025-04-12,male - M71,Jacob Sanderson,69.35,-83,83,87,110,115,-118,87,115,202
+OWF International Elite Tournament,2025-04-12,male - M79,Ezekiel Moses,73.95,130,-140,-140,165,-175,175,130,175,305
+OWF International Elite Tournament,2025-04-12,male - M79,Sylvain Duclos,78.85,-105,105,-110,-140,-140,140,105,140,245
+OWF International Elite Tournament,2025-04-12,male - M79,Liam Wright,77.65,104,-108,108,-125,125,-134,108,125,233
+OWF International Elite Tournament,2025-04-12,male - M79,Minh Vu,76.25,95,-100,103,125,-130,-134,103,125,228
+OWF International Elite Tournament,2025-04-12,male - M79,Nicholas Heng,78.60,95,-100,-100,128,-133,-134,95,128,223
+OWF International Elite Tournament,2025-04-12,male - M79,Tim Fitzpatrick,78.45,93,-97,-97,123,128,-132,93,128,221
+OWF International Elite Tournament,2025-04-12,male - M79,Purna Kahingala,74.45,-56,56,59,-77,-78,-82,59,0,0
+OWF International Elite Tournament,2025-04-12,male - M79,Rory Scott,78.80,-129,-130,130,-171,-172,0,130,0,0
+OWF International Elite Tournament,2025-04-12,male - M88,Lim Kang Yin,86.15,125,130,133,160,167,-171,133,167,300
+OWF International Elite Tournament,2025-04-12,male - M88,Sean Erb,87.45,120,125,130,160,-170,-170,130,160,290
+OWF International Elite Tournament,2025-04-12,male - M88,Frank Elliott,88.00,117,122,-128,150,-155,155,122,155,277
+OWF International Elite Tournament,2025-04-12,male - M88,Marcus Disipio,87.20,115,120,-124,135,-140,141,120,141,261
+OWF International Elite Tournament,2025-04-12,male - M88,Bevishan Jith Wijewickrama,85.85,105,-110,-113,142,150,-157,105,150,255
+OWF International Elite Tournament,2025-04-12,male - M88,Vlad Panoschi,83.30,102,-108,-110,130,138,-145,102,138,240
+OWF International Elite Tournament,2025-04-12,male - M88,Marcus Moss,86.40,100,105,-110,120,125,-130,105,125,230
+OWF International Elite Tournament,2025-04-12,male - M98,Oliver Saxton,97.75,150,160,-165,180,185,190,160,190,350
+OWF International Elite Tournament,2025-04-12,male - M98,Myren Madden,96.25,140,144,-148,175,-180,183,144,183,327
+OWF International Elite Tournament,2025-04-12,male - M98,Uaealesi Funaki,88.20,-120,120,125,150,155,160,125,160,285
+OWF International Elite Tournament,2025-04-12,male - M98,Ahrie Jerred,97.70,-125,125,-130,150,155,-160,125,155,280
+OWF International Elite Tournament,2025-04-12,male - M98,Nicodemus Scheelings,97.65,-122,122,-127,-152,152,-160,122,152,274
+OWF International Elite Tournament,2025-04-12,male - M98,Michael Censori,97.50,110,-115,115,150,155,-158,115,155,270
+OWF International Elite Tournament,2025-04-12,male - M98,Nicholas Da Cruz,96.25,112,116,120,136,142,-145,120,142,262
+OWF International Elite Tournament,2025-04-12,male - M98,Jake Le Cerf,96.75,110,115,-120,145,-150,-150,115,145,260
+OWF International Elite Tournament,2025-04-12,male - M98,Hugh Whalen,97.45,105,110,115,140,144,-150,115,144,259
+OWF International Elite Tournament,2025-04-12,male - M98,Karol Strus,97.10,110,115,-120,141,-145,-145,115,141,256
+OWF International Elite Tournament,2025-04-12,male - M98,Sione Tatu,96.50,105,110,0,-145,145,0,110,145,255
+OWF International Elite Tournament,2025-04-12,male - M98,Clint Iacuone,92.60,90,-95,95,-120,120,125,95,125,220
+OWF International Elite Tournament,2025-04-12,male - M98,Noah Milford,96.15,-136,-136,-136,0,0,0,0,0,0
+OWF International Elite Tournament,2025-04-12,male - M110,Jack Opeloge,107.80,-160,-160,160,200,207,-215,160,207,367
+OWF International Elite Tournament,2025-04-12,male - M110,Maeu Nanai Livi,109.60,161,166,-170,190,200,-205,166,200,366
+OWF International Elite Tournament,2025-04-12,male - M110,Jackson Roberts-Young,109.95,-140,140,145,185,192,200,145,200,345
+OWF International Elite Tournament,2025-04-12,male - M110,Thomas Wilbur,107.35,-150,150,155,180,-190,-195,155,180,335
+OWF International Elite Tournament,2025-04-12,male - M110,Taniela Tuisuva Rainibogi,108.25,160,-165,-165,-200,-200,-200,160,0,0
+OWF International Elite Tournament,2025-04-12,male - M110+,Sanele Mao,137.50,-180,180,-190,-220,-220,220,180,220,400
+OWF International Elite Tournament,2025-04-12,male - M110+,Suamili Nanai,154.45,160,170,-180,190,-205,215,170,215,385
+OWF International Elite Tournament,2025-04-12,male - M110+,Nick Dyson,120.55,115,120,125,140,150,-157,125,150,275
+OWF International Elite Tournament,2025-04-12,male - M110+,Ryan Barnard,136.20,117,121,-125,143,148,152,121,152,273

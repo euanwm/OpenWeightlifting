@@ -8,7 +8,8 @@ import { Filters } from '../molecules/filters'
 import { DataTable } from '../molecules/dataTable'
 import LifterGraphModal from '../molecules/lifterGraphModal'
 import { useRouter } from 'next/router'
-import {NoResults} from "@/components/molecules/noresults";
+import { NoResults } from '@/components/molecules/noresults'
+import DonationModal from '@/components/molecules/donationModal'
 
 const lifterLoadMoreQty = 50
 
@@ -26,8 +27,9 @@ function HomePage() {
   const [stop, setStop] = useState(parseInt(params.stop) || lifterLoadMoreQty)
   const [showLifterGraph, setShowLifterGraph] = useState('')
 
-
-  const { data, isLoading } = useSWR(params, fetchLifterData, { keepPreviousData: true })
+  const { data, isLoading } = useSWR(params, fetchLifterData, {
+    keepPreviousData: true,
+  })
 
   function handleFilterChange(newFilter: any) {
     const { type, value } = newFilter
@@ -61,6 +63,7 @@ function HomePage() {
       )}
       <div className={'flex flex-col content-center'}>
         <HeaderBar />
+        <DonationModal />
         <Filters
           sortBy={sortby}
           federation={federation}
@@ -87,9 +90,7 @@ function HomePage() {
             </Button>
           </>
         )}
-        {data?.size === 0 && (
-          <NoResults />
-        )}
+        {data?.size === 0 && <NoResults />}
       </div>
       {showLifterGraph && (
         <LifterGraphModal

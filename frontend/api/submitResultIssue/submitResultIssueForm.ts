@@ -1,16 +1,14 @@
-"use client"
+'use client'
 
 import { LifterResult } from '@/api/fetchLifterData/fetchLifterDataTypes'
+import { getAPI } from '../loadSplitter'
 
-
-export default async function submitResultIssue(
-  data: {
-    lift_data: LifterResult
-    description: string
-  },
-): Promise<{ success: boolean; message: string }> {
+export default async function submitResultIssue(data: {
+  lift_data: LifterResult
+  description: string
+}): Promise<{ success: boolean; message: string }> {
   try {
-    const response = await fetch(`${process.env.API}/issue`, {
+    const response = await fetch(`${getAPI()}/issue`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
