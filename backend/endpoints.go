@@ -267,6 +267,14 @@ func Leaderboard(c *gin.Context) {
 	c.JSON(http.StatusOK, fedData)
 }
 
+func Rival(c *gin.Context) {
+	nameStr := c.Query("name")
+	sexStr := c.Query("sex")
+	leaderboardData := LeaderboardData.Select(enum.Total)
+	results := lifter.Rivals(nameStr, sexStr, *leaderboardData)
+	c.JSON(http.StatusOK, results)
+}
+
 // Events godoc
 //
 //		@Summary	Fetch available event metadata within a set date range

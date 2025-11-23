@@ -1,6 +1,7 @@
 package lifter
 
 import (
+	"backend/dbtools"
 	"backend/structs"
 	"backend/utilities"
 	"strings"
@@ -45,6 +46,62 @@ func NewNameSearch(nameStr string, nameList *[]structs.Entry) (nameResults struc
 				nameResults.Names = append(nameResults.Names[:j], nameResults.Names[j+1:]...)
 				j--
 			}
+		}
+	}
+
+	return
+}
+
+func Rivals(nameStr string, sex string, bigData []structs.Entry) (rivalResults structs.RivalsResult) {
+	const WINDOW_SIZE = 3
+	const CURRENT_YEAR = 2025
+
+	var names []string
+	var liftPtr *structs.Entry
+	var liftPos []int
+	var targetIndex int = -1
+
+	// First pass: collect all same-gender lifters from current year and find target
+	for idx, lift := range bigData {
+		liftPtr = &bigData[idx]
+		if dbtools.GetGender(liftPtr) == sex && lift.WithinYear(CURRENT_YEAR) {
+			names = append(names, lift.Name)
+			liftPos = append(liftPos, idx)
+			if lift.Name == nameStr {
+				targetIndex = len(names) - 1
+			}
+			rivalResults.Total++
+		}
+	}
+
+	// If target found, create window of rivals
+	if targetIndex != -1 {
+		start := targetIndex - WINDOW_SIZE
+		if start < 0 {
+			start = 0
+		}
+		end := targetIndex + WINDOW_SIZE + 1
+		if end > len(liftPos) {
+			end = len(liftPos)
+		}
+
+		// Add rivals in the window
+		for i := start; i < end; i++ {
+			originalIdx := liftPos[i]
+			rival := bigData[originalIdx]
+			rivalResults.Rivals = append(rivalResults.Rivals, struct {
+				Position   int
+				Total      structs.WeightKg
+				Gender     string
+				Name       string
+				Federation string
+			}{
+				Position:   i + 1,
+				Total:      rival.Total,
+				Gender:     rival.Gender,
+				Name:       rival.Name,
+				Federation: rival.Federation,
+			})
 		}
 	}
 

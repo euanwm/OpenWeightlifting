@@ -19,7 +19,7 @@ func ParseData(bigData [][]string) (allLifts structs.AllData, unknown structs.Al
 			continue
 		}
 
-		gender := getGender(&dataStruct)
+		gender := GetGender(&dataStruct)
 		switch gender {
 		case enum.Male:
 			if dataStruct.Total.IsPositive() &&
@@ -43,7 +43,7 @@ func ParseData(bigData [][]string) (allLifts structs.AllData, unknown structs.Al
 	return
 }
 
-func getGender(entry *structs.Entry) (gender string) {
+func GetGender(entry *structs.Entry) (gender string) {
 	switch {
 	case entry.Gender == enum.Male:
 		return enum.Male
