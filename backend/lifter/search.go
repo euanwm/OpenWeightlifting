@@ -52,9 +52,8 @@ func NewNameSearch(nameStr string, nameList *[]structs.Entry) (nameResults struc
 	return
 }
 
-func Rivals(nameStr string, sex string, bigData []structs.Entry) (rivalResults structs.RivalsResult) {
+func Rivals(nameStr string, sex string, fed string, year int, bigData []structs.Entry) (rivalResults structs.RivalsResult) {
 	const WINDOW_SIZE = 3
-	const CURRENT_YEAR = 2025
 
 	var names []string
 	var liftPtr *structs.Entry
@@ -66,7 +65,7 @@ func Rivals(nameStr string, sex string, bigData []structs.Entry) (rivalResults s
 
 	for idx, lift := range bigData {
 		liftPtr = &bigData[idx]
-		if dbtools.GetGender(liftPtr) == sex && lift.WithinYear(CURRENT_YEAR) {
+		if dbtools.GetGender(liftPtr) == sex && lift.WithinYear(year) && lift.SelectedFederation(fed) {
 			if !seenNames[lift.Name] {
 				seenNames[lift.Name] = true
 				names = append(names, lift.Name)
