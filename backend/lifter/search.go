@@ -61,16 +61,21 @@ func Rivals(nameStr string, sex string, bigData []structs.Entry) (rivalResults s
 	var liftPos []int
 	var targetIndex int = -1
 
-	// First pass: collect all same-gender lifters from current year and find target
+	// First pass: collect first occurrence of each lifter (best performance since data is pre-sorted)
+	seenNames := make(map[string]bool)
+
 	for idx, lift := range bigData {
 		liftPtr = &bigData[idx]
 		if dbtools.GetGender(liftPtr) == sex && lift.WithinYear(CURRENT_YEAR) {
-			names = append(names, lift.Name)
-			liftPos = append(liftPos, idx)
-			if lift.Name == nameStr {
-				targetIndex = len(names) - 1
+			if !seenNames[lift.Name] {
+				seenNames[lift.Name] = true
+				names = append(names, lift.Name)
+				liftPos = append(liftPos, idx)
+				if lift.Name == nameStr {
+					targetIndex = len(names) - 1
+				}
+				rivalResults.Total++
 			}
-			rivalResults.Total++
 		}
 	}
 
