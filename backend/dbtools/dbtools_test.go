@@ -329,8 +329,8 @@ func Test_setGender(t *testing.T) {
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			if gotGender := getGender(tt.args.entry); gotGender != tt.wantGender {
-				t.Errorf("getGender() = %v, want %v", gotGender, tt.wantGender)
+			if gotGender := GetGender(tt.args.entry); gotGender != tt.wantGender {
+				t.Errorf("GetGender() = %v, want %v", gotGender, tt.wantGender)
 			}
 		})
 	}

@@ -60,6 +60,7 @@ func buildServer() *gin.Engine {
 	r.POST("events/list", Events)
 	r.GET("events", SingleEvent)
 	r.POST("issue", IssueReport)
+	r.GET("rivals", Rival)
 	return r
 }
 

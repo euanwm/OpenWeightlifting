@@ -38,7 +38,7 @@ func FilterLifts(bigData []structs.Entry, filterQuery structs.LeaderboardPayload
 	var liftPositions []int
 	for idx, lift := range bigData {
 		liftPtr = &bigData[idx]
-		if getGender(liftPtr) == weightCat.Gender && !utilities.Contains(names, lift.Name) {
+		if GetGender(liftPtr) == weightCat.Gender && !utilities.Contains(names, lift.Name) {
 			if lift.SelectedFederation(filterQuery.Federation) && lift.WithinWeightClass(WeightClassList[filterQuery.WeightClass].Gender, weightCat) && lift.WithinDates(filterQuery.StartDate, filterQuery.EndDate) {
 				liftPositions = append(liftPositions, idx)
 				names = append(names, lift.Name)
@@ -88,7 +88,7 @@ func PreCacheFilter(bigData []structs.Entry, filterQuery structs.LeaderboardPayl
 	var liftPositions []int
 	for idx, lift := range bigData {
 		liftPtr = &bigData[idx]
-		if getGender(liftPtr) == weightCat.Gender && !utilities.Contains(names, lift.Name) {
+		if GetGender(liftPtr) == weightCat.Gender && !utilities.Contains(names, lift.Name) {
 			if lift.SelectedFederation(filterQuery.Federation) && lift.WithinWeightClass(WeightClassList[filterQuery.WeightClass].Gender, weightCat) && lift.WithinDates(filterQuery.StartDate, filterQuery.EndDate) {
 				liftPositions = append(liftPositions, idx)
 				names = append(names, lift.Name)

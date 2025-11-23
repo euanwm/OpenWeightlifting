@@ -27,6 +27,17 @@ type NameSearchResults struct {
 	Total int `json:"total"`
 }
 
+type RivalsResult struct {
+	Rivals []struct {
+		Position   int
+		Total      WeightKg
+		Gender     string
+		Name       string
+		Federation string
+	} `json:"rivals"`
+	Total int `json:"total"`
+}
+
 type NameSearch struct {
 	NameStr    string `json:"name"`
 	Federation string `json:"federation"`
