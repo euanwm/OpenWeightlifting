@@ -1,0 +1,153 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+3rd Asian Youth Games,2025-10-26,56 kg Men,PAK Kyong Song,55.77,108,112,-115,-130,130,136,112,136,248
+3rd Asian Youth Games,2025-10-26,56 kg Men,AMEKU Hoshina,55.73,105,-110,112,123,128,-131,112,128,240
+3rd Asian Youth Games,2025-10-26,56 kg Men,HUNG Van The,55.81,107,111,-114,132,-137,-139,111,132,243
+3rd Asian Youth Games,2025-10-26,56 kg Men,COLONIA Jay R,55.41,101,106,111,133,137,-142,111,137,248
+3rd Asian Youth Games,2025-10-26,56 kg Men,JIANG Jinfu,54.91,103,110,-114,135,141,-143,110,141,251
+3rd Asian Youth Games,2025-10-26,56 kg Men,AL OJAIAN Mohammed Nawaf,55.45,106,110,-113,134,138,-142,110,138,248
+3rd Asian Youth Games,2025-10-26,56 kg Men,RAMADHAN Kevin Andrian,55.77,103,108,-113,130,-135,-139,108,130,238
+3rd Asian Youth Games,2025-10-26,56 kg Men,AL-MASOODI Ali Ghanim Shakir,55.75,-99,99,102,120,124,-127,102,124,226
+3rd Asian Youth Games,2025-10-26,56 kg Men,KALYBEKOV Turdubek,55.81,95,99,-102,-120,120,125,99,125,224
+3rd Asian Youth Games,2025-10-26,56 kg Men,DEWGARHIYA Dharmajyoti,55.67,98,-102,-102,-125,125,133,98,133,231
+3rd Asian Youth Games,2025-10-26,56 kg Men,BIN HASRUL Muhammad Haris,55.35,95,-98,-98,-113,-115,-115,95,0,0
+3rd Asian Youth Games,2025-10-26,56 kg Men,ALSADI Saleh Yaser Saleh Mohamme,49.75,55,-60,60,70,77,84,60,84,144
+3rd Asian Youth Games,2025-10-26,56 kg Men,ROEUN Rady,53.77,-50,50,51,70,75,-82,51,75,126
+3rd Asian Youth Games,2025-10-26,56 kg Men,CHADCHAY Nutchanon,55.25,-98,-98,-98,-118,118,121,0,121,0
+3rd Asian Youth Games,2025-10-26,60 kg Men,CHEN Xunfa,57.29,115,120,-123,136,141,-144,120,141,261
+3rd Asian Youth Games,2025-10-26,60 kg Men,MAHARAJAN A,59.59,114,-118,-121,-141,142,-144,114,142,256
+3rd Asian Youth Games,2025-10-26,60 kg Men,HIGA Ayu,59.85,106,110,-116,115,116,-123,110,116,226
+3rd Asian Youth Games,2025-10-26,60 kg Men,ABDILAH Muhamad Rijal,59.41,100,107,-111,136,139,143,107,143,250
+3rd Asian Youth Games,2025-10-26,60 kg Men,CASTRO Jerick Icon,58.63,105,-110,-111,133,137,-140,105,137,242
+3rd Asian Youth Games,2025-10-26,60 kg Men,AZAMATOV Atabek,58.05,95,98,100,111,115,118,100,118,218
+3rd Asian Youth Games,2025-10-26,60 kg Men,BOLTAEV Asilbek,59.91,100,-104,-104,123,127,131,100,131,231
+3rd Asian Youth Games,2025-10-26,60 kg Men,RAKJAN Thanodom,58.19,93,96,99,122,-127,-127,99,122,221
+3rd Asian Youth Games,2025-10-26,60 kg Men,ALZAWRI Rida Mohammed A,59.67,99,-103,-103,-118,118,-124,99,118,217
+3rd Asian Youth Games,2025-10-26,60 kg Men,ESENKELDIEV Nurmamat Kumarbekovich,59.85,98,-103,-103,120,126,130,98,130,228
+3rd Asian Youth Games,2025-10-26,60 kg Men,WANG Yu-Chun,59.47,94,-97,97,115,122,-126,97,122,219
+3rd Asian Youth Games,2025-10-26,60 kg Men,HAK Somnangrithy,58.93,75,80,82,100,103,108,82,108,190
+3rd Asian Youth Games,2025-10-26,60 kg Men,KHATTAB Najm Eddin,59.39,-80,-80,80,100,107,111,80,111,191
+3rd Asian Youth Games,2025-10-26,60 kg Men,AHMAD Darwisy Zharfan,59.49,-105,-105,-106,135,-138,-138,0,135,0
+3rd Asian Youth Games,2025-10-26,65 kg Men,CHOE Jin Myong,64.79,121,-123,124,150,-153,-154,124,150,274
+3rd Asian Youth Games,2025-10-26,65 kg Men,YERSEIT Beibarys,64.73,-118,119,123,147,-152,152,123,152,275
+3rd Asian Youth Games,2025-10-26,65 kg Men,ALMOHAIMEED Abdullah Abrahim A,64.31,118,122,-124,147,-151,-152,122,147,269
+3rd Asian Youth Games,2025-10-26,65 kg Men,NGUYEN Thanh Duy,64.69,-118,120,-124,-152,153,156,120,156,276
+3rd Asian Youth Games,2025-10-26,65 kg Men,SUABEY Leonard Imanuel Aipassa,64.37,110,116,-120,140,146,-151,116,146,262
+3rd Asian Youth Games,2025-10-26,65 kg Men,PACALDO Dave Angelo,63.79,108,-113,113,130,-140,140,113,140,253
+3rd Asian Youth Games,2025-10-26,65 kg Men,BIN ZAKI YAMANI Ahmad Wazif Zafran,64.35,108,-111,112,-139,-139,140,112,140,252
+3rd Asian Youth Games,2025-10-26,65 kg Men,QITI Mohammed Riyadh Subhi,64.25,-105,105,108,-123,124,-130,108,124,232
+3rd Asian Youth Games,2025-10-26,65 kg Men,SHARIPOV Arsen,64.73,108,-112,-115,127,-132,132,108,132,240
+3rd Asian Youth Games,2025-10-26,65 kg Men,MODI Anik,62.45,101,106,-110,135,140,-143,106,140,246
+3rd Asian Youth Games,2025-10-26,65 kg Men,KARIYAWASAM BOVITHANTHRI Venura,63.71,-100,100,-107,135,-140,-140,100,135,235
+3rd Asian Youth Games,2025-10-26,65 kg Men,HOSSEN Md Maruf,63.75,90,95,-100,115,-118,118,95,118,213
+3rd Asian Youth Games,2025-10-26,65 kg Men,ABDULLA Hussain Dawood,62.13,62,67,72,-85,-85,85,72,85,157
+3rd Asian Youth Games,2025-10-26,65 kg Men,WANG Bohang,64.61,-116,-116,-116,151,155,-157,0,155,0
+3rd Asian Youth Games,2025-10-26,71 kg Men,ASKERBAY Alikhan,70.73,137,142,144,166,170,172,144,172,316
+3rd Asian Youth Games,2025-10-26,71 kg Men,CHEN Xingxing,70.13,136,-141,143,-167,-168,171,143,171,314
+3rd Asian Youth Games,2025-10-26,71 kg Men,ERMATOV Hayotbek,70.59,126,131,-136,146,-150,-152,131,146,277
+3rd Asian Youth Games,2025-10-26,71 kg Men,ANNAMYRADOV Kakamyrat,70.09,130,-133,-135,160,-165,166,130,166,296
+3rd Asian Youth Games,2025-10-26,71 kg Men,ALHAWAR Ali Hussin M,69.97,-128,128,-132,-161,161,-166,128,161,289
+3rd Asian Youth Games,2025-10-26,71 kg Men,GOGOI Abhinob,70.51,120,125,-128,147,-152,152,125,152,277
+3rd Asian Youth Games,2025-10-26,71 kg Men,PROMDUANGSRI Kongla,70.31,-121,122,-127,145,150,-155,122,150,272
+3rd Asian Youth Games,2025-10-26,71 kg Men,KIM Hajun,70.45,110,121,-126,160,165,167,121,167,288
+3rd Asian Youth Games,2025-10-26,71 kg Men,HIGA Ko,70.99,115,-120,120,130,-135,-135,120,130,250
+3rd Asian Youth Games,2025-10-26,71 kg Men,TAZHIDINOV Akmatbek Abdirashitovich,70.73,110,-115,-115,130,135,-140,110,135,245
+3rd Asian Youth Games,2025-10-26,71 kg Men,DABOOL Ali,69.67,85,90,95,107,-115,115,95,115,210
+3rd Asian Youth Games,2025-10-26,79 kg Men,ZHUMABAY Nurzhan,78.96,140,144,146,171,176,-179,146,176,322
+3rd Asian Youth Games,2025-10-26,79 kg Men,GRANJA Adrian,78.30,133,137,142,162,167,-172,142,167,309
+3rd Asian Youth Games,2025-10-26,79 kg Men,JUMABAYEV Didarbek,76.42,134,138,-143,172,177,-180,138,177,315
+3rd Asian Youth Games,2025-10-26,79 kg Men,XIAO Ao,76.42,126,132,136,164,-171,172,136,172,308
+3rd Asian Youth Games,2025-10-26,79 kg Men,YUSUBBOEV Sanatbek,78.80,131,135,-139,163,-168,171,135,171,306
+3rd Asian Youth Games,2025-10-26,79 kg Men,WANG Guan-Xin,78.66,125,-131,-132,155,160,-165,125,160,285
+3rd Asian Youth Games,2025-10-26,79 kg Men,ZHAKYPBEKOV Temirlan Nurbekovich,78.26,117,-121,-121,143,-148,-148,117,143,260
+3rd Asian Youth Games,2025-10-26,79 kg Men,SAPTHOMMA Chutiphon,78.10,115,-121,-121,-145,145,-151,115,145,260
+3rd Asian Youth Games,2025-10-26,79 kg Men,ALSAAGH Mohammed Adel Abdulqawi,77.69,95,105,-110,110,120,0,105,120,225
+3rd Asian Youth Games,2025-10-26,79 kg Men,ALHAJERI Saeed,77.66,60,-65,65,-76,77,-85,65,77,142
+3rd Asian Youth Games,2025-10-26,79 kg Men,RAHIM Md,79.00,-120,-120,-120,-146,146,151,0,151,0
+3rd Asian Youth Games,2025-10-26,79 kg Men,POURGHASEMI KHIAVI Mahdi,78.70,-128,-133,-136,-150,-155,0,0,0,0
+3rd Asian Youth Games,2025-10-26,88 kg Men,DAVLETOV Munisbek,87.41,143,146,0,177,179,-193,146,179,325
+3rd Asian Youth Games,2025-10-26,88 kg Men,QAITI MOUSA Khuthair Subhi,87.23,145,-148,-148,-174,174,178,145,178,323
+3rd Asian Youth Games,2025-10-26,88 kg Men,WANG Jianghao,86.73,-143,-144,144,166,-171,172,144,172,316
+3rd Asian Youth Games,2025-10-26,88 kg Men,KIM Taeyang,86.23,130,136,143,160,168,-172,143,168,311
+3rd Asian Youth Games,2025-10-26,88 kg Men,MYRZAKHMET Yernur,80.75,135,-140,-140,-161,161,-170,135,161,296
+3rd Asian Youth Games,2025-10-26,88 kg Men,NITHIKA Thlakshana Weerasinghe Vidanage,87.05,108,114,-118,140,-150,-150,114,140,254
+3rd Asian Youth Games,2025-10-26,88 kg Men,ALAJMI Faisal,85.11,-45,-45,47,-65,65,-70,47,65,112
+3rd Asian Youth Games,2025-10-26,88 kg Men,GYLYCHMYRADOV Hajymyrat,82.95,-133,-135,-136,165,-171,-172,0,165,0
+3rd Asian Youth Games,2025-10-26,88 kg Men,NOSRATI Behnoud,85.81,-145,-147,-147,-169,-172,173,0,173,0
+3rd Asian Youth Games,2025-10-26,94 kg Men,LOPEZ Jhon,93.05,150,156,160,-180,181,186,160,186,346
+3rd Asian Youth Games,2025-10-26,94 kg Men,AKHROLOV Abbosbek,93.81,-144,144,147,-170,170,-182,147,170,317
+3rd Asian Youth Games,2025-10-26,94 kg Men,AKMYRADOV Yslam,93.07,143,146,-148,-180,180,185,146,185,331
+3rd Asian Youth Games,2025-10-26,94 kg Men,ADIBI SEDEH Amin,92.77,-136,136,141,165,172,-177,141,172,313
+3rd Asian Youth Games,2025-10-26,94 kg Men,MA Jun-Wei,93.03,110,115,-122,145,-151,-151,115,145,260
+3rd Asian Youth Games,2025-10-26,94 kg Men,CHAUDHARY Parv,93.31,-144,-145,-145,176,181,-186,0,181,0
+3rd Asian Youth Games,2025-10-26,+94 kg Men,KHOLMURATOV Khasanboy,117.06,-148,148,153,-178,-180,-180,153,0,0
+3rd Asian Youth Games,2025-10-26,+94 kg Men,LEE Donghoon,133.70,140,147,152,185,194,200,152,200,352
+3rd Asian Youth Games,2025-10-26,+94 kg Men,YAZDANI Parikhan Hossein,132.38,143,-149,151,186,195,201,151,201,352
+3rd Asian Youth Games,2025-10-26,+94 kg Men,ATAJANOV Saparbay,119.72,135,141,145,175,-180,-181,145,175,320
+3rd Asian Youth Games,2025-10-26,+94 kg Men,AL MAHDI Ahmed Fadhel A,135.90,-140,142,-146,-176,-180,-180,142,0,0
+3rd Asian Youth Games,2025-10-26,+94 kg Men,FENG Chia-Le,102.22,120,125,128,140,150,-160,128,150,278
+3rd Asian Youth Games,2025-10-26,+94 kg Men,ZEITOUN Mohammad,115.50,121,-126,-127,151,157,-161,121,157,278
+3rd Asian Youth Games,2025-10-26,+94 kg Men,ALHEMEIRI Ali,116.10,45,48,-50,50,55,60,48,60,108
+3rd Asian Youth Games,2025-10-26,44 kg Women,WU Jihong,43.59,62,65,68,82,88,-91,68,88,156
+3rd Asian Youth Games,2025-10-26,44 kg Women,BHOI Preetismita,43.65,66,-68,-69,87,90,92,66,92,158
+3rd Asian Youth Games,2025-10-26,44 kg Women,DAO Thi Yen,43.91,-64,64,-67,-77,-77,77,64,77,141
+3rd Asian Youth Games,2025-10-26,44 kg Women,DIAZ Princess Jay Ann N.,42.99,-62,-63,63,78,-83,-83,63,78,141
+3rd Asian Youth Games,2025-10-26,44 kg Women,JIN Yeonji,43.69,-57,57,-63,65,71,-76,57,71,128
+3rd Asian Youth Games,2025-10-26,44 kg Women,MAENPUEN Phatcharapha,42.73,50,-55,-55,65,70,-72,50,70,120
+3rd Asian Youth Games,2025-10-26,44 kg Women,ABDYGAZIEVA Begimai Almazbekovna,43.57,45,-47,47,52,53,-54,47,53,100
+3rd Asian Youth Games,2025-10-26,48 kg Women,LAN Xinyi,47.51,71,75,77,90,93,0,77,93,170
+3rd Asian Youth Games,2025-10-26,48 kg Women,KIM Ju Gyong,47.85,-73,73,76,-92,92,-95,76,92,168
+3rd Asian Youth Games,2025-10-26,48 kg Women,ODILOVA Munisa,47.43,69,72,-74,-88,89,-92,72,89,161
+3rd Asian Youth Games,2025-10-26,48 kg Women,DIAZ Alexsandra Ann,47.17,70,-73,-73,88,90,92,70,92,162
+3rd Asian Youth Games,2025-10-26,48 kg Women,KASHKAROVA Snezhana,47.97,-69,70,-73,86,-90,91,70,91,161
+3rd Asian Youth Games,2025-10-26,48 kg Women,PORMCHAT Panadda,47.25,-65,-65,69,86,89,-91,69,89,158
+3rd Asian Youth Games,2025-10-26,48 kg Women,PAYAL,47.29,68,-71,-72,0,0,0,68,0,0
+3rd Asian Youth Games,2025-10-26,48 kg Women,NASUTION Absyah Ramadhani,47.35,-65,-65,68,80,-86,-91,68,80,148
+3rd Asian Youth Games,2025-10-26,48 kg Women,POURAMIN Zahra,47.61,60,64,-68,78,81,-85,64,81,145
+3rd Asian Youth Games,2025-10-26,48 kg Women,ROY Sumona,47.25,55,57,-58,65,68,-70,57,68,125
+3rd Asian Youth Games,2025-10-26,48 kg Women,ZHAPAROVA Tumara,47.97,46,48,-50,-57,-57,57,48,57,105
+3rd Asian Youth Games,2025-10-26,53 kg Women,PAK Hae Yon,52.79,84,86,88,-105,-107,107,88,107,195
+3rd Asian Youth Games,2025-10-26,53 kg Women,PERALTA Jhodie,52.35,82,85,87,100,-105,-107,87,100,187
+3rd Asian Youth Games,2025-10-26,53 kg Women,LIEN Y,52.59,-78,79,82,-106,-106,106,82,106,188
+3rd Asian Youth Games,2025-10-26,53 kg Women,AMANOVA Ogulshat,52.13,78,-81,81,-95,95,-101,81,95,176
+3rd Asian Youth Games,2025-10-26,53 kg Women,PHAKDIHAN Waraphon,51.58,73,-76,-79,88,-92,-92,73,88,161
+3rd Asian Youth Games,2025-10-26,53 kg Women,AMANGELDIEVA Aidai,52.43,55,58,60,65,-68,-68,60,65,125
+3rd Asian Youth Games,2025-10-26,53 kg Women,HUSAIN Zainab Mahmood,52.89,45,50,52,55,60,65,52,65,117
+3rd Asian Youth Games,2025-10-26,58 kg Women,ABDUMUTALOVA Marjona,57.39,85,88,0,102,108,111,88,111,199
+3rd Asian Youth Games,2025-10-26,58 kg Women,SAETANG Kanittha,57.33,81,84,86,-100,-100,-101,86,0,0
+3rd Asian Youth Games,2025-10-26,58 kg Women,ZHANG Xinyi,55.23,83,-86,-89,107,110,-112,83,110,193
+3rd Asian Youth Games,2025-10-26,58 kg Women,BERIKBOL Nursuila,57.59,-77,77,80,95,-101,101,80,101,181
+3rd Asian Youth Games,2025-10-26,58 kg Women,SUKMADEWI Brilianti Chandrika,56.85,-74,-74,75,-77,77,-82,75,77,152
+3rd Asian Youth Games,2025-10-26,58 kg Women,ZARKA Ghazal,55.11,65,70,-75,75,80,-85,70,80,150
+3rd Asian Youth Games,2025-10-26,58 kg Women,KESHTKAR Maryam,57.61,-80,-80,-83,96,-101,-102,0,96,0
+3rd Asian Youth Games,2025-10-26,63 kg Women,ZHU Caiyun,61.99,90,93,95,106,111,-115,95,111,206
+3rd Asian Youth Games,2025-10-26,63 kg Women,PROZOROVA Xeniya,61.59,88,91,94,108,-112,-112,94,108,202
+3rd Asian Youth Games,2025-10-26,63 kg Women,KUPAYSINOVA Sarvinoz,62.03,81,84,-89,101,-105,-106,84,101,185
+3rd Asian Youth Games,2025-10-26,63 kg Women,LEE Dayeon,62.67,-79,79,-82,-100,102,-106,79,102,181
+3rd Asian Youth Games,2025-10-26,63 kg Women,SEDIGHI MOURNANI Hasti,62.45,78,-81,-82,-104,105,-107,78,105,183
+3rd Asian Youth Games,2025-10-26,63 kg Women,MALLIK Tikimohini,62.15,70,73,75,90,95,98,75,98,173
+3rd Asian Youth Games,2025-10-26,63 kg Women,SASAKI Runa,61.91,74,-78,-79,96,101,105,74,105,179
+3rd Asian Youth Games,2025-10-26,63 kg Women,VICHA Kun Thea,59.49,40,-43,-44,50,53,55,40,55,95
+3rd Asian Youth Games,2025-10-26,63 kg Women,SOYMUSHEVA Zybagul,59.57,-78,-78,-82,100,-104,-106,0,100,0
+3rd Asian Youth Games,2025-10-26,63 kg Women,SULTANA Shammi,60.19,-60,-60,-60,68,71,-74,0,71,0
+3rd Asian Youth Games,2025-10-26,63 kg Women,SAMSUR Nurul Syasya Khairina,62.29,-75,-75,-75,0,0,0,0,0,0
+3rd Asian Youth Games,2025-10-26,69 kg Women,RI Sae Byol,68.37,-93,95,98,124,127,-130,98,127,225
+3rd Asian Youth Games,2025-10-26,69 kg Women,KHAYDAROVA Shakhnoza,67.63,93,-96,97,-120,120,-126,97,120,217
+3rd Asian Youth Games,2025-10-26,69 kg Women,HOSSEINI Seyedeh Zahra,67.93,88,92,-96,115,121,-126,92,121,213
+3rd Asian Youth Games,2025-10-26,69 kg Women,MENG Sitong,68.47,87,-91,-94,115,120,125,87,125,212
+3rd Asian Youth Games,2025-10-26,69 kg Women,HURMENOVA Mayagozel,63.13,-76,76,-79,95,98,100,76,100,176
+3rd Asian Youth Games,2025-10-26,69 kg Women,SANTIRA Votcha Lintang,66.99,75,-79,-79,95,99,101,75,101,176
+3rd Asian Youth Games,2025-10-26,69 kg Women,YERMAKOVA Margarita,64.41,-70,71,74,86,91,-96,74,91,165
+3rd Asian Youth Games,2025-10-26,69 kg Women,YU Pei-Ying,68.67,-70,70,-73,-95,95,-99,70,95,165
+3rd Asian Youth Games,2025-10-26,69 kg Women,SIET Reksa,66.59,43,46,-50,-63,-63,63,46,63,109
+3rd Asian Youth Games,2025-10-26,77 kg Women,KHOLDOROVA Dilnura,76.07,89,93,95,112,115,118,95,118,213
+3rd Asian Youth Games,2025-10-26,77 kg Women,GHASEMI Nasim,75.31,89,92,94,111,114,-118,94,114,208
+3rd Asian Youth Games,2025-10-26,77 kg Women,PERTIWI ALYAMAULIDA Kartika,75.54,-90,90,-94,110,113,-116,90,113,203
+3rd Asian Youth Games,2025-10-26,77 kg Women,KERIMBAYEVA Asal,73.17,-88,88,-91,107,-111,-111,88,107,195
+3rd Asian Youth Games,2025-10-26,77 kg Women,LIAN Pei-Yu,76.63,80,84,88,100,105,-111,88,105,193
+3rd Asian Youth Games,2025-10-26,77 kg Women,THORAT Grishma,76.93,72,77,80,95,100,-103,80,100,180
+3rd Asian Youth Games,2025-10-26,77 kg Women,RILLA GODAGE Samadhi Pabasara,75.53,65,70,71,85,-91,-95,71,85,156
+3rd Asian Youth Games,2025-10-26,+77 kg Women,HU Wenxun,117.63,110,-115,115,142,152,0,115,152,267
+3rd Asian Youth Games,2025-10-26,+77 kg Women,KIM Cheryang,124.65,100,104,106,141,-146,151,106,151,257
+3rd Asian Youth Games,2025-10-26,+77 kg Women,BEHESHTY Mahsa,86.91,97,102,105,128,133,136,105,136,241
+3rd Asian Youth Games,2025-10-26,+77 kg Women,ESONBOEVA Mohinur,110.27,-101,101,103,129,-134,137,103,137,240
+3rd Asian Youth Games,2025-10-26,+77 kg Women,SU Sheng-Ci,119.69,90,94,97,116,-123,123,97,123,220
