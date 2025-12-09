@@ -1,0 +1,49 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Stone Strength Winter Open 2025,2025-11-16,Men's Senior 88Kg,Lewis Thomas,86.75,105,110,115,135,142,-147,115,142,257
+Stone Strength Winter Open 2025,2025-11-16,Men's Senior 94Kg,Harry Maund,91.95,90,95,100,122,126,131,100,131,231
+Stone Strength Winter Open 2025,2025-11-16,Men's Senior 94Kg,William Turville,92.55,97,100,-103,120,125,130,100,130,230
+Stone Strength Winter Open 2025,2025-11-16,Men's Senior 110Kg,Harry Davies,102.85,-90,90,95,115,121,126,95,126,221
+Stone Strength Winter Open 2025,2025-11-16,Men's Senior 110Kg,Christopher Brown,98.85,86,-89,89,124,-128,-128,89,124,213
+Stone Strength Winter Open 2025,2025-11-16,Men's Senior 94Kg,Ian Forsyth,91.55,92,-96,-96,115,120,-125,92,120,212
+Stone Strength Winter Open 2025,2025-11-16,Men's Senior 110Kg,August Kindel,100.35,93,97,-101,105,110,115,97,115,212
+Stone Strength Winter Open 2025,2025-11-16,Men's Senior 110Kg,Alex Elliott,101.45,92,96,-100,111,116,-120,96,116,212
+Stone Strength Winter Open 2025,2025-11-16,Men's Senior 110Kg,Eugene  Beckinsale ,104.55,95,-100,-100,115,-120,-120,95,115,210
+Stone Strength Winter Open 2025,2025-11-16,Men's Senior 110Kg,Lou Bichard,103.25,87,-91,-91,118,-122,122,87,122,209
+Stone Strength Winter Open 2025,2025-11-16,Men's Senior 79Kg,Jack Somerville,76.55,89,-93,-96,108,113,-118,89,113,202
+Stone Strength Winter Open 2025,2025-11-16,Women's Senior 77Kg,Ellen willard,76.05,86,-89,-89,105,-109,110,86,110,196
+Stone Strength Winter Open 2025,2025-11-16,Men's Senior 79Kg,Nicholas Baker,73.05,81,84,87,98,-103,103,87,103,190
+Stone Strength Winter Open 2025,2025-11-16,Men's Senior 88Kg,Tom Hampshire,85.35,73,76,78,100,105,109,78,109,187
+Stone Strength Winter Open 2025,2025-11-16,Men's Senior 88Kg,blake belcher,82.85,67,71,-78,100,106,112,71,112,183
+Stone Strength Winter Open 2025,2025-11-16,Men's Senior 94Kg,Samuel Evans,88.75,-73,73,76,102,-106,106,76,106,182
+Stone Strength Winter Open 2025,2025-11-16,Men's Senior 71Kg,arfon roberts,70.55,75,77,-80,85,90,-95,77,90,167
+Stone Strength Winter Open 2025,2025-11-16,Women's Senior 77Kg,Eleanor Jenkinson,76.85,71,-74,74,-91,91,-95,74,91,165
+Stone Strength Winter Open 2025,2025-11-16,Men's Senior 71Kg,harry jones,69.35,65,69,73,-92,92,-100,73,92,165
+Stone Strength Winter Open 2025,2025-11-16,Men's Senior 110Kg,Peter Bradley,94.85,-65,65,68,94,-98,-100,68,94,162
+Stone Strength Winter Open 2025,2025-11-16,Women's Senior 58Kg,Natalie  Bonser ,57.95,-70,70,-74,-86,86,90,70,90,160
+Stone Strength Winter Open 2025,2025-11-16,Women's Senior 69Kg,Sophie Wheater,68.35,-65,65,-68,84,88,-91,65,88,153
+Stone Strength Winter Open 2025,2025-11-16,Women's Senior 77Kg,Hannah Jefferys,73.55,-68,68,-71,-81,81,85,68,85,153
+Stone Strength Winter Open 2025,2025-11-16,Men's Senior 94Kg,Nathan Andrews,92.05,65,-68,68,75,80,84,68,84,152
+Stone Strength Winter Open 2025,2025-11-16,Men's Senior 71Kg,Ben Gallaway,69.95,65,-67,-68,85,-87,-88,65,85,150
+Stone Strength Winter Open 2025,2025-11-16,Men's Senior 71Kg,Dean Cook,70.85,60,-63,63,80,83,85,63,85,148
+Stone Strength Winter Open 2025,2025-11-16,Women's Senior 86Kg,Danielle Caprice,84.55,53,57,61,72,77,80,61,80,141
+Stone Strength Winter Open 2025,2025-11-16,Women's Senior 63Kg,Claudia Holliday-Williams,61.25,54,58,62,72,75,-78,62,75,137
+Stone Strength Winter Open 2025,2025-11-16,Women's Senior 69Kg,natasha phillips,66.05,-59,-59,59,73,-76,76,59,76,135
+Stone Strength Winter Open 2025,2025-11-16,Women's Senior 58Kg,Jennifer Cooper,57.05,55,59,62,67,71,-74,62,71,133
+Stone Strength Winter Open 2025,2025-11-16,Men's Senior 79Kg,Andrew Taylor,77.15,50,55,60,65,68,-71,60,68,128
+Stone Strength Winter Open 2025,2025-11-16,Women's Senior 69Kg,Sarah Spalding,68.55,55,-58,-60,65,-67,68,55,68,123
+Stone Strength Winter Open 2025,2025-11-16,Women's Senior 69Kg,Gemma  Daniels ,67.05,44,47,50,60,65,70,50,70,120
+Stone Strength Winter Open 2025,2025-11-16,Women's Senior 77Kg,Kate Cooper,73.55,50,-53,53,62,65,-68,53,65,118
+Stone Strength Winter Open 2025,2025-11-16,Women's Senior +86Kg,Paris Millmow,107.65,42,-45,45,-61,61,64,45,64,109
+Stone Strength Winter Open 2025,2025-11-16,Women's Senior +86Kg,lynsey davis,120.45,43,-46,47,53,57,61,47,61,108
+Stone Strength Winter Open 2025,2025-11-16,Women's Senior 86Kg,Sophia Maynell,85.05,-45,45,-50,60,-63,-63,45,60,105
+Stone Strength Winter Open 2025,2025-11-16,Men's Senior 79Kg,Michael Holt,71.25,40,43,46,48,56,-60,46,56,102
+Stone Strength Winter Open 2025,2025-11-16,Women's Senior 58Kg,Patricia Tenn,57.65,-42,42,44,48,50,52,44,52,96
+Stone Strength Winter Open 2025,2025-11-16,Women's Senior 53Kg,Yasmin Rashid,51.95,38,40,42,50,52,-53,42,52,94
+Stone Strength Winter Open 2025,2025-11-16,Women's Senior 77Kg,Cindy  Lister,70.95,37,-40,-40,47,50,54,37,54,91
+Stone Strength Winter Open 2025,2025-11-16,Women's Senior +86Kg,Emily Williams,102.15,28,30,32,45,48,50,32,50,82
+Stone Strength Winter Open 2025,2025-11-16,Women's Senior 48Kg,Leanne Fowler,47.55,26,28,-30,30,31,-34,28,31,59
+Stone Strength Winter Open 2025,2025-11-16,Women's Youth Under 15 53Kg,Adanna Ranson,50.95,-40,-42,-42,50,53,-55,0,53,0
+Stone Strength Winter Open 2025,2025-11-16,Women's Senior 58Kg,Veronica Whelpley,56.35,-57,-57,-57,68,73,77,0,77,0
+Stone Strength Winter Open 2025,2025-11-16,Women's Senior 69Kg,Tara Holmes,66.55,37,39,-41,-55,-55,-55,39,0,0
+Stone Strength Winter Open 2025,2025-11-16,Women's Senior 69Kg,Amelia Heaman,68.65,-65,-65,-65,80,-84,84,0,84,0
+Stone Strength Winter Open 2025,2025-11-16,Men's Senior 88Kg,Lukas Lakin,87.15,0,0,0,0,0,0,0,0,0
