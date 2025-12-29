@@ -1,0 +1,4 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+Elverum AK Nasjonalt stevne,2025-12-27,female - Ungdom Kvinner,Vilde D. Sandvik,44,10,11,12,12,14,16,12,16,28
+Elverum AK Nasjonalt stevne,2025-12-27,male - Veteran Menn over 45,Bjørn Henning Rundberget,110,65,70,74,90,-100,-100,74,90,164
+Elverum AK Nasjonalt stevne,2025-12-27,male - Veteran Menn over 45,Robert Grønland,88,-78,-78,-78,105,-110,0,0.0,105,0.0
