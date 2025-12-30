@@ -1,0 +1,41 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+National Senior Championships,2025-06-28,male - M 65,Harrison MCGROGAN,64.5,108.0,112.0,-115.0,-140.0,140.0,-147.0,112.0,140.0,252.0
+National Senior Championships,2025-06-28,male - M 65,Ben BRENNAN,61.75,-102.0,104.0,107.0,132.0,136.0,-140.0,107.0,136.0,243.0
+National Senior Championships,2025-06-28,male - M 71,Karl MCCLEAN,70.7,101.0,105.0,108.0,-140.0,140.0,-143.0,108.0,140.0,248.0
+National Senior Championships,2025-06-28,male - M 79,Tadhg DOWNEY,78.3,110.0,115.0,-118.0,-145.0,148.0,-153.0,115.0,148.0,263.0
+National Senior Championships,2025-06-28,male - M 79,Tadhg JOYCE,78.7,117.0,120.0,-123.0,136.0,141.0,-145.0,120.0,141.0,261.0
+National Senior Championships,2025-06-28,male - M 79,James KNOX,77.2,115.0,-120.0,-120.0,144.0,-149.0,-149.0,115.0,144.0,259.0
+National Senior Championships,2025-06-28,male - M 79,Lorcan O'DONOVAN,72.1,-98.0,98.0,-101.0,126.0,130.0,132.0,98.0,132.0,230.0
+National Senior Championships,2025-06-28,male - M 79,Alex CREEDON,77.5,98.0,-102.0,-102.0,-127.0,-127.0,127.0,98.0,127.0,225.0
+National Senior Championships,2025-06-28,male - M 79,Liam MCGUINNESS,78.3,97.0,-101.0,-101.0,123.0,-128.0,-128.0,97.0,123.0,220.0
+National Senior Championships,2025-06-28,male - M 79,Eoin KEALY,78.2,128.0,-132.0,-133.0,152.0,156.0,-160.0,128.0,156.0,284.0
+National Senior Championships,2025-06-28,male - M 88,Seán BROWN,87.4,-133.0,133.0,137.0,160.0,165.0,-171.0,137.0,165.0,302.0
+National Senior Championships,2025-06-28,male - M 88,Zak TAGGART,84.0,-117.0,117.0,121.0,145.0,149.0,152.0,121.0,152.0,273.0
+National Senior Championships,2025-06-28,male - M 88,Ilir SURDULLI,85.7,104.0,108.0,-112.0,135.0,139.0,-142.0,108.0,139.0,247.0
+National Senior Championships,2025-06-28,male - M 88,Tom SHANNON,87.3,98.0,101.0,104.0,137.0,-141.0,143.0,104.0,143.0,247.0
+National Senior Championships,2025-06-28,male - M 88,Stephen BEASANT,87.4,99.0,103.0,-107.0,-135.0,136.0,-140.0,103.0,136.0,239.0
+National Senior Championships,2025-06-28,male - M 88,James SWAN,87.4,105.0,109.0,-113.0,127.0,-132.0,-135.0,109.0,127.0,236.0
+National Senior Championships,2025-06-28,male - M 88,Lee MURPHY,86.4,-104.0,104.0,-106.0,125.0,130.0,-135.0,104.0,130.0,234.0
+National Senior Championships,2025-06-28,male - M 88,Eoin O'FLAHERTY,86.6,100.0,103.0,-107.0,-127.0,127.0,-131.0,103.0,127.0,230.0
+National Senior Championships,2025-06-28,male - M 88,Evan VINES,86.7,97.0,100.0,-103.0,-127.0,-127.0,128.0,100.0,128.0,228.0
+National Senior Championships,2025-06-28,male - M 88,Laszlo KOVES,83.0,85.0,100.0,-111.0,120.0,0.0,0.0,100.0,120.0,220.0
+National Senior Championships,2025-06-28,male - M 88,Gavin BROWN,81.1,93.0,-97.0,-100.0,123.0,127.0,-130.0,93.0,127.0,220.0
+National Senior Championships,2025-06-28,male - M 88,Sean SWEENEY,85.8,96.0,100.0,-104.0,115.0,-119.0,-121.0,100.0,115.0,215.0
+National Senior Championships,2025-06-28,male - M 88,Micheál FITZPATRICK,82.2,-90.0,91.0,-97.0,115.0,120.0,-123.0,91.0,120.0,211.0
+National Senior Championships,2025-06-28,male - M 88,Joe O'HARA,80.9,70.0,77.0,85.0,96.0,101.0,105.0,85.0,105.0,190.0
+National Senior Championships,2025-06-28,male - M 88,Nathan SLOSS,86.0,106.0,111.0,-115.0,-139.0,-142.0,-142.0,111.0,0.0,0.0
+National Senior Championships,2025-06-28,male - M 88,Bobby QUINN,86.7,110.0,-114.0,-116.0,-145.0,-145.0,-145.0,110.0,0.0,0.0
+National Senior Championships,2025-06-28,male - M 94,Jonathan HEALY,91.3,120.0,-124.0,125.0,150.0,154.0,-157.0,125.0,154.0,279.0
+National Senior Championships,2025-06-28,male - M 94,Finn CONROY,92.5,122.0,-127.0,-127.0,145.0,152.0,-157.0,122.0,152.0,274.0
+National Senior Championships,2025-06-28,male - M 94,Matthew MCKEE,93.5,114.0,118.0,120.0,135.0,-140.0,140.0,120.0,140.0,260.0
+National Senior Championships,2025-06-28,male - M 94,Callum QUINN,92.2,115.0,118.0,-121.0,-135.0,-135.0,135.0,118.0,135.0,253.0
+National Senior Championships,2025-06-28,male - M 94,Jack KEARNEY,92.6,80.0,85.0,90.0,90.0,96.0,101.0,90.0,101.0,191.0
+National Senior Championships,2025-06-28,male - M 94,Cormac Mac GRORY,89.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+National Senior Championships,2025-06-28,male - M 110,Seamus O'CONCHUBHAIR,109.3,133.0,138.0,-143.0,172.0,177.0,-183.0,138.0,177.0,315.0
+National Senior Championships,2025-06-28,male - M 110,Simon KEARTLAND,103.7,117.0,120.0,125.0,144.0,150.0,155.0,125.0,155.0,280.0
+National Senior Championships,2025-06-28,male - M 110,Lewis KNOX,101.1,115.0,-120.0,124.0,154.0,-160.0,-160.0,124.0,154.0,278.0
+National Senior Championships,2025-06-28,male - M 110,Yan LEYDON,105.7,120.0,-124.0,-125.0,-145.0,145.0,152.0,120.0,152.0,272.0
+National Senior Championships,2025-06-28,male - M 110,Philip O'CONNOR,98.4,-115.0,115.0,-119.0,145.0,149.0,-151.0,115.0,149.0,264.0
+National Senior Championships,2025-06-28,male - M 110,Cian CORRIGAN,100.9,116.0,120.0,-124.0,138.0,143.0,-145.0,120.0,143.0,263.0
+National Senior Championships,2025-06-28,male - M 110,Tomás BROE-BRADY,100.25,102.0,105.0,-107.0,125.0,-130.0,-130.0,105.0,125.0,230.0
+National Senior Championships,2025-06-28,male - M >110,Cian Nowlan ROONEY,152.6,-141.0,141.0,144.0,-185.0,185.0,-190.0,144.0,185.0,329.0

@@ -9,7 +9,7 @@ import (
 // I mean, you could literally pre-cache the whole fucking thing but as we all know from the previous sentence...I'm lazy.
 func PreCacheQuery() (permutation []structs.LeaderboardPayload) {
 	sortBy := []string{"total", "sinclair"}
-	federation := []string{"allfeds", "UK", "US", "NVF", "AUS", "FFH", "IWF", "OPEN", "CH"}
+	federation := []string{"allfeds", "UK", "US", "NVF", "AUS", "FFH", "IWF", "IRE", "OPEN", "CH"}
 	weightClass := []string{"MALL", "FALL"}
 	// create all permutations and add them to the list
 	for _, s := range sortBy {
