@@ -1,0 +1,88 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U10 Men ,BAECHLER LE PANSE Jules,33.1,14.0,16.0,18.0,20.0,22.0,-24.0,18.0,22.0,40.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U13 Men 35,GOMBERT Elio,34.5,14.0,16.0,18.0,20.0,-22.0,22.0,18.0,22.0,40.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U13 Men 40,GOMBERT Paolo,36.6,18.0,20.0,22.0,23.0,25.0,-27.0,22.0,25.0,47.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U10 Women ,AUGER Ambre,31.6,11.0,13.0,15.0,13.0,15.0,-17.0,15.0,15.0,30.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U10 Women ,MAGNAN Jade,28.5,8.0,10.0,11.0,10.0,12.0,-13.0,11.0,12.0,23.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U15 Men 61,AUGER Louis-alexandre,55.4,25.0,28.0,-30.0,25.0,30.0,32.0,28.0,32.0,60.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U15 Men >102,DEFIOBANA Ange,140.0,40.0,45.0,-48.0,50.0,55.0,61.0,45.0,61.0,106.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U15 Men 61,AUGER Louis-alexandre,55.4,25.0,28.0,-30.0,25.0,30.0,32.0,28.0,32.0,60.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U15 Men >102,DEFIOBANA Ange,140.0,40.0,45.0,-48.0,50.0,55.0,61.0,45.0,61.0,106.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U15 Women 49,THILLOY Eva,48.0,18.0,-20.0,20.0,22.0,25.0,-27.0,20.0,25.0,45.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U20 Women 59,HOYON Marie,58.7,38.0,43.0,45.0,40.0,47.0,53.0,45.0,53.0,98.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U20 Women 76,POSE Célia,73.9,52.0,55.0,58.0,62.0,65.0,-0.0,58.0,65.0,123.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,SEN Women 55,LAVOLÉ Marie,51.55,35.0,40.0,-43.0,47.0,50.0,-53.0,40.0,50.0,90.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,SEN Women 76,GIOT Claire marie,71.2,40.0,43.0,45.0,57.0,60.0,63.0,45.0,63.0,108.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U15 Women 49,THILLOY Eva,48.0,18.0,-20.0,20.0,22.0,25.0,-27.0,20.0,25.0,45.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U20 Women 59,HOYON Marie,58.7,38.0,43.0,45.0,40.0,47.0,53.0,45.0,53.0,98.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U20 Women 76,POSE Célia,73.9,52.0,55.0,58.0,62.0,65.0,-0.0,58.0,65.0,123.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,SEN Women 55,LAVOLÉ Marie,51.55,35.0,40.0,-43.0,47.0,50.0,-53.0,40.0,50.0,90.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,SEN Women 76,GIOT Claire marie,71.2,40.0,43.0,45.0,57.0,60.0,63.0,45.0,63.0,108.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U15 Women 55,LAMBOLEY Amélia,50.1,21.0,-23.0,23.0,30.0,32.0,-34.0,23.0,32.0,55.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U15 Women 64,GUCCIARDI Clara,59.2,35.0,37.0,-39.0,45.0,47.0,49.0,37.0,49.0,86.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U17 Women 49,GROSJEAN Maëlys,47.8,40.0,43.0,45.0,50.0,53.0,56.0,45.0,56.0,101.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U17 Women 55,LITZLER Servane,52.75,48.0,-51.0,-52.0,61.0,65.0,-67.0,48.0,65.0,113.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U17 Women 55,LOIGEROT Elisa,53.85,36.0,-39.0,-40.0,47.0,50.0,53.0,36.0,53.0,89.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U17 Women 59,PY Maelys,55.15,44.0,47.0,50.0,54.0,57.0,60.0,50.0,60.0,110.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U17 Women >81,POIROT-LAIR Lou-anne,84.9,47.0,51.0,-55.0,60.0,-64.0,67.0,51.0,67.0,118.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,SEN Women 76,LITZLER Jennifer,75.1,53.0,55.0,-60.0,67.0,70.0,73.0,55.0,73.0,128.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U15 Women 55,LAMBOLEY Amélia,50.1,21.0,-23.0,23.0,30.0,32.0,-34.0,23.0,32.0,55.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U15 Women 64,GUCCIARDI Clara,59.2,35.0,37.0,-39.0,45.0,47.0,49.0,37.0,49.0,86.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U17 Women 49,GROSJEAN Maëlys,47.8,40.0,43.0,45.0,50.0,53.0,56.0,45.0,56.0,101.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U17 Women 55,LITZLER Servane,52.75,48.0,-51.0,-52.0,61.0,65.0,-67.0,48.0,65.0,113.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U17 Women 55,LOIGEROT Elisa,53.85,36.0,-39.0,-40.0,47.0,50.0,53.0,36.0,53.0,89.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U17 Women 59,PY Maelys,55.15,44.0,47.0,50.0,54.0,57.0,60.0,50.0,60.0,110.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U17 Women >81,POIROT-LAIR Lou-anne,84.9,47.0,51.0,-55.0,60.0,-64.0,67.0,51.0,67.0,118.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,SEN Women 76,LITZLER Jennifer,75.1,53.0,55.0,-60.0,67.0,70.0,73.0,55.0,73.0,128.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U10 Women ,GONZALEZ BURCEA Mélanie,24.2,10.0,11.0,-12.0,14.0,15.0,16.0,11.0,16.0,27.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U13 Women 40,LITZLER Luna,38.1,33.0,-35.0,35.0,44.0,46.0,-48.0,35.0,46.0,81.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U13 Women 40,BLAIZE Elésia,39.9,26.0,27.0,-28.0,33.0,35.0,37.0,27.0,37.0,64.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U13 Women 45,AUBRY Leena,44.8,29.0,31.0,-32.0,37.0,39.0,-41.0,31.0,39.0,70.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U13 Women 55,DURIC Ema,51.1,-46.0,-46.0,46.0,56.0,58.0,60.0,46.0,60.0,106.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U13 Men 49,REUCHET Gabin,47.6,22.0,-24.0,24.0,31.0,-33.0,33.0,24.0,33.0,57.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U13 Men 49,GONZALEZ BURCEA Eduardo,46.4,15.0,-17.0,17.0,23.0,25.0,27.0,17.0,27.0,44.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U13 Men 67,TARBY Mathéo,65.3,36.0,38.0,-40.0,41.0,-43.0,43.0,38.0,43.0,81.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U10 Women ,GONZALEZ BURCEA Mélanie,24.2,10.0,11.0,-12.0,14.0,15.0,16.0,11.0,16.0,27.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U13 Women 40,LITZLER Luna,38.1,33.0,-35.0,35.0,44.0,46.0,-48.0,35.0,46.0,81.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U13 Women 40,BLAIZE Elésia,39.9,26.0,27.0,-28.0,33.0,35.0,37.0,27.0,37.0,64.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U13 Women 45,AUBRY Leena,44.8,29.0,31.0,-32.0,37.0,39.0,-41.0,31.0,39.0,70.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U13 Women 55,DURIC Ema,51.1,-46.0,-46.0,46.0,56.0,58.0,60.0,46.0,60.0,106.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U13 Men 49,REUCHET Gabin,47.6,22.0,-24.0,24.0,31.0,-33.0,33.0,24.0,33.0,57.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U13 Men 49,GONZALEZ BURCEA Eduardo,46.4,15.0,-17.0,17.0,23.0,25.0,27.0,17.0,27.0,44.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U13 Men 67,TARBY Mathéo,65.3,36.0,38.0,-40.0,41.0,-43.0,43.0,38.0,43.0,81.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U17 Men 67,DURIC Adis,65.7,68.0,72.0,76.0,81.0,86.0,-91.0,76.0,86.0,162.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U17 Men 67,MAUGE--GRAFF Paul,65.8,50.0,53.0,56.0,-64.0,64.0,67.0,56.0,67.0,123.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U17 Men 89,SCHNEIDER Jacques,86.5,82.0,-86.0,86.0,100.0,105.0,-110.0,86.0,105.0,191.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U20 Men 67,DOILLON Ulrik,64.6,62.0,66.0,70.0,82.0,86.0,90.0,70.0,90.0,160.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U20 Men 73,BOUCHER Nathan,72.2,60.0,-64.0,-64.0,72.0,75.0,77.0,60.0,77.0,137.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,SEN Men 81,LEDUC Cedric,73.7,90.0,95.0,100.0,110.0,115.0,120.0,100.0,120.0,220.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,SEN Men 102,GEORGES Willy,96.6,100.0,105.0,110.0,120.0,125.0,130.0,110.0,130.0,240.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U17 Men 67,DURIC Adis,65.7,68.0,72.0,76.0,81.0,86.0,-91.0,76.0,86.0,162.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U17 Men 67,MAUGE--GRAFF Paul,65.8,50.0,53.0,56.0,-64.0,64.0,67.0,56.0,67.0,123.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U17 Men 89,SCHNEIDER Jacques,86.5,82.0,-86.0,86.0,100.0,105.0,-110.0,86.0,105.0,191.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U20 Men 67,DOILLON Ulrik,64.6,62.0,66.0,70.0,82.0,86.0,90.0,70.0,90.0,160.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U20 Men 73,BOUCHER Nathan,72.2,60.0,-64.0,-64.0,72.0,75.0,77.0,60.0,77.0,137.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,SEN Men 81,LEDUC Cedric,73.7,90.0,95.0,100.0,110.0,115.0,120.0,100.0,120.0,220.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,SEN Men 102,GEORGES Willy,96.6,100.0,105.0,110.0,120.0,125.0,130.0,110.0,130.0,240.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U17 Women 55,MROZKOWIAK Maelys,51.57,42.0,45.0,-47.0,56.0,60.0,-63.0,45.0,60.0,105.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U17 Women 55,BEGIN Ombeline,50.85,35.0,37.0,-40.0,47.0,-50.0,50.0,37.0,50.0,87.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U20 Women 76,HAUDRECHY Chloé,72.0,-55.0,55.0,60.0,75.0,79.0,-81.0,60.0,79.0,139.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,SEN Women 81,BOSVY Laureen,79.1,33.0,35.0,37.0,47.0,-50.0,52.0,37.0,52.0,89.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,SEN Women >87,SLOMA Chloé,98.1,50.0,-55.0,-55.0,60.0,65.0,-70.0,50.0,65.0,115.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U17 Women 55,MROZKOWIAK Maelys,51.57,42.0,45.0,-47.0,56.0,60.0,-63.0,45.0,60.0,105.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U17 Women 55,BEGIN Ombeline,50.85,35.0,37.0,-40.0,47.0,-50.0,50.0,37.0,50.0,87.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U20 Women 76,HAUDRECHY Chloé,72.0,-55.0,55.0,60.0,75.0,79.0,-81.0,60.0,79.0,139.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,SEN Women 81,BOSVY Laureen,79.1,33.0,35.0,37.0,47.0,-50.0,52.0,37.0,52.0,89.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,SEN Women >87,SLOMA Chloé,98.1,50.0,-55.0,-55.0,60.0,65.0,-70.0,50.0,65.0,115.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,SEN Men 67,GAUTHIER Romain,61.65,38.0,40.0,45.0,53.0,55.0,-60.0,45.0,55.0,100.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,SEN Men 73,VUILLERMET Ilia,72.4,75.0,80.0,84.0,101.0,-103.0,103.0,84.0,103.0,187.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,SEN Men 73,MARGUERITAT John,69.73,60.0,63.0,66.0,90.0,95.0,-100.0,66.0,95.0,161.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,SEN Men 96,PARISS Alexandre,93.9,65.0,70.0,75.0,-105.0,105.0,-110.0,75.0,105.0,180.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,SEN Men 67,GAUTHIER Romain,61.65,38.0,40.0,45.0,53.0,55.0,-60.0,45.0,55.0,100.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,SEN Men 73,VUILLERMET Ilia,72.4,75.0,80.0,84.0,101.0,-103.0,103.0,84.0,103.0,187.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,SEN Men 73,MARGUERITAT John,69.73,60.0,63.0,66.0,90.0,95.0,-100.0,66.0,95.0,161.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,SEN Men 96,PARISS Alexandre,93.9,65.0,70.0,75.0,-105.0,105.0,-110.0,75.0,105.0,180.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U17 Women 55,BERCHE Agathe,52.5,16.0,-20.0,20.0,22.0,25.0,28.0,20.0,28.0,48.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,SEN Women 71,BELLEVILLE Apolline,67.5,60.0,63.0,-65.0,68.0,73.0,76.0,63.0,76.0,139.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,U17 Women 55,BERCHE Agathe,52.5,16.0,-20.0,20.0,22.0,25.0,28.0,20.0,28.0,48.0
+GE - Challenge Avenir - Reims - AV3,2025-02-19,SEN Women 71,BELLEVILLE Apolline,67.5,60.0,63.0,-65.0,68.0,73.0,76.0,63.0,76.0,139.0

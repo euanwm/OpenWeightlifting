@@ -1,0 +1,57 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U15 Women 48,BOUDINOT Lola,45.2,21.0,-23.0,23.0,27.0,29.0,-30.0,23.0,29.0,52.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U15 Women 53,LUBIN Colyne,49.9,26.0,28.0,30.0,36.0,38.0,40.0,30.0,40.0,70.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U15 Men 56,DOPP Léandre,52.8,27.0,30.0,32.0,39.0,41.0,42.0,32.0,42.0,74.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U15 Men 56,GODE Antoine,53.6,25.0,27.0,29.0,38.0,41.0,-44.0,29.0,41.0,70.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U15 Men 65,FANTINO Leopaul,63.7,60.0,-63.0,63.0,75.0,78.0,-80.0,63.0,78.0,141.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U15 Men 71,CHIPEAUX Elliot,66.7,37.0,40.0,-42.0,50.0,-55.0,55.0,40.0,55.0,95.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U15 Men 88,QUESADA Malo,80.9,37.0,40.0,42.0,45.0,50.0,-55.0,42.0,50.0,92.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U15 Men >88,PLANES Antonin,109.8,25.0,27.0,29.0,30.0,-32.0,32.0,29.0,32.0,61.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U17 Men 56,DRAGOMIR David,53.7,27.0,-30.0,30.0,35.0,-38.0,38.0,30.0,38.0,68.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U17 Men 71,LAMBOLEY Noah,71.0,60.0,63.0,-65.0,78.0,80.0,83.0,63.0,83.0,146.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U15 Men 56,DOPP Léandre,52.8,27.0,30.0,32.0,39.0,41.0,42.0,32.0,42.0,74.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U15 Men 56,GODE Antoine,53.6,25.0,27.0,29.0,38.0,41.0,-44.0,29.0,41.0,70.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U15 Men 65,FANTINO Leopaul,63.7,60.0,-63.0,63.0,75.0,78.0,-80.0,63.0,78.0,141.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U15 Men 71,CHIPEAUX Elliot,66.7,37.0,40.0,-42.0,50.0,-55.0,55.0,40.0,55.0,95.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U15 Men 88,QUESADA Malo,80.9,37.0,40.0,42.0,45.0,50.0,-55.0,42.0,50.0,92.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U15 Men >88,PLANES Antonin,109.8,25.0,27.0,29.0,30.0,-32.0,32.0,29.0,32.0,61.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U17 Men 56,DRAGOMIR David,53.7,27.0,-30.0,30.0,35.0,-38.0,38.0,30.0,38.0,68.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U17 Men 71,LAMBOLEY Noah,71.0,60.0,63.0,-65.0,78.0,80.0,83.0,63.0,83.0,146.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U17 Men 56,HUET Tom,53.8,27.0,29.0,32.0,45.0,47.0,-51.0,32.0,47.0,79.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U17 Men 60,CHAPEAU Nathan,57.1,36.0,39.0,-42.0,45.0,48.0,49.0,39.0,49.0,88.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U17 Men 60,LEDUC AGLAOR Clement,57.1,27.0,30.0,-33.0,-35.0,35.0,39.0,30.0,39.0,69.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U17 Men 65,GUERIN Denovan,63.4,34.0,37.0,-40.0,41.0,44.0,48.0,37.0,48.0,85.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U17 Men 71,GILARDEAU Florian,68.8,30.0,34.0,38.0,40.0,43.0,-47.0,38.0,43.0,81.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U17 Men 71,FLEURY Arthur,67.1,27.0,-29.0,29.0,27.0,29.0,32.0,29.0,32.0,61.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U17 Men 79,FOUARGE Killian,71.9,35.0,42.0,50.0,50.0,57.0,-62.0,50.0,57.0,107.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U17 Men 79,ARCHAMBAULT Noah,74.1,40.0,44.0,-49.0,48.0,51.0,55.0,44.0,55.0,99.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U17 Men 79,GUINEHUT Jessy,78.1,30.0,34.0,-38.0,34.0,-38.0,38.0,34.0,38.0,72.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U20 Men 60,VIAUX Lilan,54.1,-40.0,42.0,43.0,45.0,48.0,51.0,43.0,51.0,94.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U20 Men 65,RUILLE Corentin,61.1,35.0,39.0,-41.0,43.0,46.0,49.0,39.0,49.0,88.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U20 Men 71,LARDEUX Symmon,65.3,35.0,38.0,-43.0,50.0,52.0,56.0,38.0,56.0,94.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U20 Men 79,BAUDRY Leonard,73.5,33.0,35.0,39.0,-45.0,45.0,49.0,39.0,49.0,88.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U17 Men 56,HUET Tom,53.8,27.0,29.0,32.0,45.0,47.0,-51.0,32.0,47.0,79.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U17 Men 60,CHAPEAU Nathan,57.1,36.0,39.0,-42.0,45.0,48.0,49.0,39.0,49.0,88.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U17 Men 60,LEDUC AGLAOR Clement,57.1,27.0,30.0,-33.0,-35.0,35.0,39.0,30.0,39.0,69.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U17 Men 65,GUERIN Denovan,63.4,34.0,37.0,-40.0,41.0,44.0,48.0,37.0,48.0,85.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U17 Men 71,GILARDEAU Florian,68.8,30.0,34.0,38.0,40.0,43.0,-47.0,38.0,43.0,81.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U17 Men 71,FLEURY Arthur,67.1,27.0,-29.0,29.0,27.0,29.0,32.0,29.0,32.0,61.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U17 Men 79,FOUARGE Killian,71.9,35.0,42.0,50.0,50.0,57.0,-62.0,50.0,57.0,107.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U17 Men 79,ARCHAMBAULT Noah,74.1,40.0,44.0,-49.0,48.0,51.0,55.0,44.0,55.0,99.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U17 Men 79,GUINEHUT Jessy,78.1,30.0,34.0,-38.0,34.0,-38.0,38.0,34.0,38.0,72.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U20 Men 60,VIAUX Lilan,54.1,-40.0,42.0,43.0,45.0,48.0,51.0,43.0,51.0,94.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U20 Men 65,RUILLE Corentin,61.1,35.0,39.0,-41.0,43.0,46.0,49.0,39.0,49.0,88.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U20 Men 71,LARDEUX Symmon,65.3,35.0,38.0,-43.0,50.0,52.0,56.0,38.0,56.0,94.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U20 Men 79,BAUDRY Leonard,73.5,33.0,35.0,39.0,-45.0,45.0,49.0,39.0,49.0,88.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U17 Women 44,GOURBILLEAU Emma,40.7,13.0,15.0,-18.0,20.0,-23.0,-23.0,15.0,20.0,35.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U20 Women 53,DBOUSS Asma,52.7,15.0,18.0,20.0,20.0,23.0,25.0,20.0,25.0,45.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U20 Women 53,KONDUA Christelle,48.5,15.0,-16.0,-16.0,20.0,-21.0,-21.0,15.0,20.0,35.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U20 Women 58,SILVA DE OLIVIERA Emilly,53.3,-15.0,15.0,-18.0,20.0,-23.0,23.0,15.0,23.0,38.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U20 Women 63,RICOULT Coline,58.6,15.0,16.0,17.0,17.0,20.0,22.0,17.0,22.0,39.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,SEN Women 77,ROUSSEAUX Manon,76.6,15.0,17.0,20.0,21.0,24.0,-26.0,20.0,24.0,44.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U17 Women 44,GOURBILLEAU Emma,40.7,13.0,15.0,-18.0,20.0,-23.0,-23.0,15.0,20.0,35.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U20 Women 53,DBOUSS Asma,52.7,15.0,18.0,20.0,20.0,23.0,25.0,20.0,25.0,45.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U20 Women 53,KONDUA Christelle,48.5,15.0,-16.0,-16.0,20.0,-21.0,-21.0,15.0,20.0,35.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U20 Women 58,SILVA DE OLIVIERA Emilly,53.3,-15.0,15.0,-18.0,20.0,-23.0,23.0,15.0,23.0,38.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,U20 Women 63,RICOULT Coline,58.6,15.0,16.0,17.0,17.0,20.0,22.0,17.0,22.0,39.0
+BFC - Challenge Avenir - Luxeuil-les-bains - 2,2025-12-17,SEN Women 77,ROUSSEAUX Manon,76.6,15.0,17.0,20.0,21.0,24.0,-26.0,20.0,24.0,44.0

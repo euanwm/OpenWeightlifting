@@ -1,0 +1,20 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+GE - Challenge Avenir - Reims - U10,2024-11-08,U10 Men ,BAECHLER LE PANSE Jules,33.0,13.0,14.0,15.0,16.0,18.0,20.0,15.0,20.0,35.0
+GE - Challenge Avenir - Reims - U10,2024-11-08,SEN Women 55,AUDIBERT Coralie,54.5,42.0,45.0,47.0,60.0,63.0,-65.0,47.0,63.0,110.0
+GE - Challenge Avenir - Reims - U10,2024-11-08,SEN Women 64,FOSSARD Jade,61.0,30.0,34.0,-37.0,43.0,46.0,48.0,34.0,48.0,82.0
+GE - Challenge Avenir - Reims - U10,2024-11-08,SEN Women 71,ROTELLI Astrid,70.5,20.0,25.0,30.0,35.0,40.0,-45.0,30.0,40.0,70.0
+GE - Challenge Avenir - Reims - U10,2024-11-08,SEN Women 55,AUDIBERT Coralie,54.5,42.0,45.0,47.0,60.0,63.0,-65.0,47.0,63.0,110.0
+GE - Challenge Avenir - Reims - U10,2024-11-08,SEN Women 64,FOSSARD Jade,61.0,30.0,34.0,-37.0,43.0,46.0,48.0,34.0,48.0,82.0
+GE - Challenge Avenir - Reims - U10,2024-11-08,SEN Women 71,ROTELLI Astrid,70.5,20.0,25.0,30.0,35.0,40.0,-45.0,30.0,40.0,70.0
+GE - Challenge Avenir - Reims - U10,2024-11-08,U15 Men >102,DEFIOBANA Ange,137.0,35.0,40.0,43.0,45.0,48.0,52.0,43.0,52.0,95.0
+GE - Challenge Avenir - Reims - U10,2024-11-08,U20 Men 81,BEY Killian,75.6,55.0,60.0,65.0,70.0,75.0,80.0,65.0,80.0,145.0
+GE - Challenge Avenir - Reims - U10,2024-11-08,SEN Men 67,LEFEVRE Théotime,66.0,30.0,35.0,40.0,45.0,48.0,52.0,40.0,52.0,92.0
+GE - Challenge Avenir - Reims - U10,2024-11-08,SEN Men 81,HASSAN Najitoufic,77.0,75.0,80.0,83.0,90.0,95.0,100.0,83.0,100.0,183.0
+GE - Challenge Avenir - Reims - U10,2024-11-08,SEN Men 81,CRESPIN Thomas,77.6,63.0,66.0,-70.0,87.0,91.0,97.0,66.0,97.0,163.0
+GE - Challenge Avenir - Reims - U10,2024-11-08,SEN Men 89,GUERREIRO Michaël,88.0,40.0,47.0,52.0,60.0,65.0,70.0,52.0,70.0,122.0
+GE - Challenge Avenir - Reims - U10,2024-11-08,U15 Men >102,DEFIOBANA Ange,137.0,35.0,40.0,43.0,45.0,48.0,52.0,43.0,52.0,95.0
+GE - Challenge Avenir - Reims - U10,2024-11-08,U20 Men 81,BEY Killian,75.6,55.0,60.0,65.0,70.0,75.0,80.0,65.0,80.0,145.0
+GE - Challenge Avenir - Reims - U10,2024-11-08,SEN Men 67,LEFEVRE Théotime,66.0,30.0,35.0,40.0,45.0,48.0,52.0,40.0,52.0,92.0
+GE - Challenge Avenir - Reims - U10,2024-11-08,SEN Men 81,HASSAN Najitoufic,77.0,75.0,80.0,83.0,90.0,95.0,100.0,83.0,100.0,183.0
+GE - Challenge Avenir - Reims - U10,2024-11-08,SEN Men 81,CRESPIN Thomas,77.6,63.0,66.0,-70.0,87.0,91.0,97.0,66.0,97.0,163.0
+GE - Challenge Avenir - Reims - U10,2024-11-08,SEN Men 89,GUERREIRO Michaël,88.0,40.0,47.0,52.0,60.0,65.0,70.0,52.0,70.0,122.0
