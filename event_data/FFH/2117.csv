@@ -1,0 +1,520 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,FRANCOIS Fedisson dylan,72.7,55.0,60.0,-65.0,75.0,-80.0,-80.0,60.0,75.0,135.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,DALOUR Killian,78.0,88.0,92.0,97.0,117.0,122.0,127.0,97.0,127.0,224.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,HELLARD Timothé,79.8,70.0,-75.0,75.0,85.0,90.0,95.0,75.0,95.0,170.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 89,MEHAULT Federic,88.7,100.0,107.0,112.0,125.0,130.0,138.0,112.0,138.0,250.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 89,HIPPOLYTE Fanfan,84.2,65.0,70.0,-77.0,95.0,100.0,-105.0,70.0,100.0,170.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Women 45,KIMOUCHE Layina,43.4,30.0,-33.0,-34.0,38.0,40.0,42.0,30.0,42.0,72.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Women 87,TATI Ayah,82.0,43.0,47.0,50.0,57.0,63.0,65.0,50.0,65.0,115.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 55,BRECE Julie,49.2,32.0,-35.0,-37.0,48.0,52.0,55.0,32.0,55.0,87.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 55,DELMER Marine,50.4,22.0,25.0,-28.0,28.0,32.0,-35.0,25.0,32.0,57.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 55,BOUYER-DUBUC Véronique,53.8,20.0,-22.0,22.0,28.0,-32.0,32.0,22.0,32.0,54.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 64,AMATO Maelys,63.2,38.0,-40.0,-42.0,53.0,55.0,-58.0,38.0,55.0,93.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 71,ALMEIDA Lea,65.7,50.0,55.0,60.0,64.0,-67.0,-68.0,60.0,64.0,124.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 71,BENLALA Messad,65.7,28.0,30.0,-32.0,37.0,40.0,-45.0,30.0,40.0,70.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women >87,GATEAU Emma,97.1,57.0,-61.0,-63.0,72.0,-76.0,-76.0,57.0,72.0,129.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Women 45,KIMOUCHE Layina,43.4,30.0,-33.0,-34.0,38.0,40.0,42.0,30.0,42.0,72.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Women 87,TATI Ayah,82.0,43.0,47.0,50.0,57.0,63.0,65.0,50.0,65.0,115.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 55,BRECE Julie,49.2,32.0,-35.0,-37.0,48.0,52.0,55.0,32.0,55.0,87.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 55,DELMER Marine,50.4,22.0,25.0,-28.0,28.0,32.0,-35.0,25.0,32.0,57.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 55,BOUYER-DUBUC Véronique,53.8,20.0,-22.0,22.0,28.0,-32.0,32.0,22.0,32.0,54.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 64,AMATO Maelys,63.2,38.0,-40.0,-42.0,53.0,55.0,-58.0,38.0,55.0,93.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 71,ALMEIDA Lea,65.7,50.0,55.0,60.0,64.0,-67.0,-68.0,60.0,64.0,124.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 71,BENLALA Messad,65.7,28.0,30.0,-32.0,37.0,40.0,-45.0,30.0,40.0,70.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women >87,GATEAU Emma,97.1,57.0,-61.0,-63.0,72.0,-76.0,-76.0,57.0,72.0,129.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Women >81,PANNECOUCKE Sofia,84.5,27.0,29.0,30.0,34.0,36.0,38.0,30.0,38.0,68.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Women 55,LARUE Nina,52.55,16.0,18.0,-20.0,26.0,28.0,-30.0,18.0,28.0,46.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Women 59,LOIRE Angèle,58.8,30.0,-33.0,-33.0,40.0,43.0,-45.0,30.0,43.0,73.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Women 59,GUINET Romane,58.0,25.0,27.0,30.0,36.0,-38.0,38.0,30.0,38.0,68.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Women 71,"NSEGMA Danielle, maelle",70.8,50.0,55.0,-58.0,-65.0,65.0,-70.0,55.0,65.0,120.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Women >81,PANNECOUCKE Inès,82.8,25.0,27.0,-30.0,33.0,35.0,-37.0,27.0,35.0,62.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Women 59,DECORTE Naomie,58.3,27.0,29.0,-31.0,38.0,41.0,43.0,29.0,43.0,72.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 59,BAERT Blandine,57.4,43.0,46.0,-48.0,55.0,59.0,-61.0,46.0,59.0,105.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 59,NAMPOOTHIRI Sreekala,56.0,31.0,-34.0,35.0,43.0,46.0,48.0,35.0,48.0,83.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 64,REYNDERS Jessica,61.6,43.0,-46.0,46.0,54.0,57.0,-61.0,46.0,57.0,103.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 64,BRUNEAU Julie,63.8,30.0,34.0,37.0,45.0,49.0,53.0,37.0,53.0,90.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 71,VERVAECKE Camille,67.4,15.0,-17.0,17.0,20.0,22.0,24.0,17.0,24.0,41.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 87,AIT LAHYANE Maroua,83.8,43.0,-45.0,-45.0,-61.0,-61.0,-61.0,43.0,0.0,0.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Women >81,PANNECOUCKE Sofia,84.5,27.0,29.0,30.0,34.0,36.0,38.0,30.0,38.0,68.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Women 55,LARUE Nina,52.55,16.0,18.0,-20.0,26.0,28.0,-30.0,18.0,28.0,46.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Women 59,LOIRE Angèle,58.8,30.0,-33.0,-33.0,40.0,43.0,-45.0,30.0,43.0,73.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Women 59,GUINET Romane,58.0,25.0,27.0,30.0,36.0,-38.0,38.0,30.0,38.0,68.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Women 71,"NSEGMA Danielle, maelle",70.8,50.0,55.0,-58.0,-65.0,65.0,-70.0,55.0,65.0,120.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Women >81,PANNECOUCKE Inès,82.8,25.0,27.0,-30.0,33.0,35.0,-37.0,27.0,35.0,62.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Women 59,DECORTE Naomie,58.3,27.0,29.0,-31.0,38.0,41.0,43.0,29.0,43.0,72.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 59,BAERT Blandine,57.4,43.0,46.0,-48.0,55.0,59.0,-61.0,46.0,59.0,105.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 59,NAMPOOTHIRI Sreekala,56.0,31.0,-34.0,35.0,43.0,46.0,48.0,35.0,48.0,83.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 64,REYNDERS Jessica,61.6,43.0,-46.0,46.0,54.0,57.0,-61.0,46.0,57.0,103.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 64,BRUNEAU Julie,63.8,30.0,34.0,37.0,45.0,49.0,53.0,37.0,53.0,90.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 71,VERVAECKE Camille,67.4,15.0,-17.0,17.0,20.0,22.0,24.0,17.0,24.0,41.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 87,AIT LAHYANE Maroua,83.8,43.0,-45.0,-45.0,-61.0,-61.0,-61.0,43.0,0.0,0.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,BEYER Antoine,72.1,86.0,-89.0,90.0,107.0,111.0,-113.0,90.0,111.0,201.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,RIQUIER Daniel,73.0,78.0,82.0,85.0,98.0,-102.0,102.0,85.0,102.0,187.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,KOUTSOGIANNOPOULOS Antoine,70.9,75.0,80.0,-83.0,96.0,101.0,-105.0,80.0,101.0,181.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,FONTENELLE Ludovic,71.0,75.0,80.0,83.0,85.0,90.0,-95.0,83.0,90.0,173.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,VAN GORP Peter,74.3,64.0,67.0,70.0,94.0,100.0,-102.0,70.0,100.0,170.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 89,GARNIER Nathanael,85.1,88.0,92.0,96.0,110.0,115.0,-125.0,96.0,115.0,211.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 89,HUART Alexandre,85.9,70.0,75.0,80.0,90.0,95.0,101.0,80.0,101.0,181.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 89,MARCHAND Luca,86.9,-75.0,-75.0,75.0,-95.0,95.0,100.0,75.0,100.0,175.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 89,BEYER Jean-christophe,83.8,70.0,73.0,-77.0,84.0,90.0,92.0,73.0,92.0,165.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 89,FORREST Xavier,88.3,50.0,54.0,-57.0,65.0,73.0,78.0,54.0,78.0,132.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 89,LEHAQUE Herve,86.6,42.0,-45.0,45.0,55.0,58.0,61.0,45.0,61.0,106.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 89,THIRY Jean-marc,83.3,37.0,-40.0,40.0,45.0,48.0,52.0,40.0,52.0,92.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 96,DECOSTER Alexian,95.6,65.0,70.0,75.0,95.0,100.0,103.0,75.0,103.0,178.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,BEYER Antoine,72.1,86.0,-89.0,90.0,107.0,111.0,-113.0,90.0,111.0,201.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,RIQUIER Daniel,73.0,78.0,82.0,85.0,98.0,-102.0,102.0,85.0,102.0,187.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,KOUTSOGIANNOPOULOS Antoine,70.9,75.0,80.0,-83.0,96.0,101.0,-105.0,80.0,101.0,181.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,FONTENELLE Ludovic,71.0,75.0,80.0,83.0,85.0,90.0,-95.0,83.0,90.0,173.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,VAN GORP Peter,74.3,64.0,67.0,70.0,94.0,100.0,-102.0,70.0,100.0,170.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 89,GARNIER Nathanael,85.1,88.0,92.0,96.0,110.0,115.0,-125.0,96.0,115.0,211.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 89,HUART Alexandre,85.9,70.0,75.0,80.0,90.0,95.0,101.0,80.0,101.0,181.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 89,MARCHAND Luca,86.9,-75.0,-75.0,75.0,-95.0,95.0,100.0,75.0,100.0,175.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 89,BEYER Jean-christophe,83.8,70.0,73.0,-77.0,84.0,90.0,92.0,73.0,92.0,165.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 89,FORREST Xavier,88.3,50.0,54.0,-57.0,65.0,73.0,78.0,54.0,78.0,132.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 89,LEHAQUE Herve,86.6,42.0,-45.0,45.0,55.0,58.0,61.0,45.0,61.0,106.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 89,THIRY Jean-marc,83.3,37.0,-40.0,40.0,45.0,48.0,52.0,40.0,52.0,92.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 96,DECOSTER Alexian,95.6,65.0,70.0,75.0,95.0,100.0,103.0,75.0,103.0,178.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Men 55,MARLOT-NIZET Lucas,54.8,-33.0,33.0,-36.0,50.0,-53.0,-53.0,33.0,50.0,83.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Men 61,BOUKHARTA Zakaria,55.8,48.0,52.0,-55.0,63.0,-67.0,-67.0,52.0,63.0,115.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Men 61,LAHOUEL Noah,56.6,29.0,31.0,-34.0,-35.0,35.0,40.0,31.0,40.0,71.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Men 67,"NSEGMA Daniel, yvanov",65.5,75.0,-80.0,80.0,85.0,90.0,-95.0,80.0,90.0,170.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Men 73,BOUCKÉ Jean,70.6,-39.0,39.0,43.0,50.0,54.0,57.0,43.0,57.0,100.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Men 55,MASSON Iliane,51.0,-33.0,33.0,36.0,44.0,48.0,50.0,36.0,50.0,86.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Men 61,FAUCON Maxime,58.1,28.0,31.0,33.0,37.0,40.0,41.0,33.0,41.0,74.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Men 67,ISSAM AIDOUDI Anis,63.5,34.0,36.0,-38.0,45.0,48.0,-49.0,36.0,48.0,84.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 61,DEHANE Raphael,57.2,-58.0,58.0,62.0,78.0,-82.0,83.0,62.0,83.0,145.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 61,RIQUIER Alexis,57.2,43.0,-45.0,-45.0,53.0,57.0,-59.0,43.0,57.0,100.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 81,COUTTEURE Lucas,75.9,50.0,54.0,-58.0,-65.0,65.0,-70.0,54.0,65.0,119.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Men 55,MARLOT-NIZET Lucas,54.8,-33.0,33.0,-36.0,50.0,-53.0,-53.0,33.0,50.0,83.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Men 61,BOUKHARTA Zakaria,55.8,48.0,52.0,-55.0,63.0,-67.0,-67.0,52.0,63.0,115.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Men 61,LAHOUEL Noah,56.6,29.0,31.0,-34.0,-35.0,35.0,40.0,31.0,40.0,71.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Men 67,"NSEGMA Daniel, yvanov",65.5,75.0,-80.0,80.0,85.0,90.0,-95.0,80.0,90.0,170.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Men 73,BOUCKÉ Jean,70.6,-39.0,39.0,43.0,50.0,54.0,57.0,43.0,57.0,100.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Men 55,MASSON Iliane,51.0,-33.0,33.0,36.0,44.0,48.0,50.0,36.0,50.0,86.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Men 61,FAUCON Maxime,58.1,28.0,31.0,33.0,37.0,40.0,41.0,33.0,41.0,74.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Men 67,ISSAM AIDOUDI Anis,63.5,34.0,36.0,-38.0,45.0,48.0,-49.0,36.0,48.0,84.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 61,DEHANE Raphael,57.2,-58.0,58.0,62.0,78.0,-82.0,83.0,62.0,83.0,145.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 61,RIQUIER Alexis,57.2,43.0,-45.0,-45.0,53.0,57.0,-59.0,43.0,57.0,100.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 81,COUTTEURE Lucas,75.9,50.0,54.0,-58.0,-65.0,65.0,-70.0,54.0,65.0,119.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Women 64,LOUAHEB Selma,63.6,-27.0,27.0,31.0,35.0,38.0,40.0,31.0,40.0,71.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Women 49,SALLES Lea,47.4,30.0,33.0,-36.0,43.0,47.0,-50.0,33.0,47.0,80.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 59,AUSSEL Frederique,57.0,45.0,50.0,-52.0,52.0,-55.0,-62.0,50.0,52.0,102.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 59,BLANCHARD Isabelle,57.1,38.0,40.0,43.0,48.0,52.0,-55.0,43.0,52.0,95.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 64,EVANO Marine,61.9,30.0,-33.0,-33.0,43.0,-47.0,-47.0,30.0,43.0,73.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 71,BADOCCHI Ada,67.8,45.0,50.0,54.0,-70.0,70.0,-74.0,54.0,70.0,124.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 71,BESBAS Saida,64.5,38.0,41.0,43.0,-50.0,50.0,-55.0,43.0,50.0,93.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 81,SISSOKO Tiguida,80.0,48.0,-52.0,-52.0,61.0,64.0,-66.0,48.0,64.0,112.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 81,MOUCHARD Elisabeth,79.0,40.0,-42.0,42.0,50.0,-52.0,52.0,42.0,52.0,94.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 87,GUERRERO Leslie,82.9,43.0,46.0,48.0,60.0,-64.0,-64.0,48.0,60.0,108.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women >87,ABBE Kelly,90.3,51.0,54.0,56.0,68.0,71.0,75.0,56.0,75.0,131.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women >87,ZALLOT Sabrina,98.8,-40.0,40.0,42.0,50.0,55.0,-58.0,42.0,55.0,97.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Women 64,LOUAHEB Selma,63.6,-27.0,27.0,31.0,35.0,38.0,40.0,31.0,40.0,71.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Women 49,SALLES Lea,47.4,30.0,33.0,-36.0,43.0,47.0,-50.0,33.0,47.0,80.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 59,AUSSEL Frederique,57.0,45.0,50.0,-52.0,52.0,-55.0,-62.0,50.0,52.0,102.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 59,BLANCHARD Isabelle,57.1,38.0,40.0,43.0,48.0,52.0,-55.0,43.0,52.0,95.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 64,EVANO Marine,61.9,30.0,-33.0,-33.0,43.0,-47.0,-47.0,30.0,43.0,73.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 71,BADOCCHI Ada,67.8,45.0,50.0,54.0,-70.0,70.0,-74.0,54.0,70.0,124.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 71,BESBAS Saida,64.5,38.0,41.0,43.0,-50.0,50.0,-55.0,43.0,50.0,93.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 81,SISSOKO Tiguida,80.0,48.0,-52.0,-52.0,61.0,64.0,-66.0,48.0,64.0,112.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 81,MOUCHARD Elisabeth,79.0,40.0,-42.0,42.0,50.0,-52.0,52.0,42.0,52.0,94.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 87,GUERRERO Leslie,82.9,43.0,46.0,48.0,60.0,-64.0,-64.0,48.0,60.0,108.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women >87,ABBE Kelly,90.3,51.0,54.0,56.0,68.0,71.0,75.0,56.0,75.0,131.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women >87,ZALLOT Sabrina,98.8,-40.0,40.0,42.0,50.0,55.0,-58.0,42.0,55.0,97.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 61,ALAOUI BENZAKROUM Ismail,59.8,50.0,55.0,58.0,65.0,70.0,-72.0,58.0,70.0,128.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 67,DAVEAU Quentin,65.7,65.0,-70.0,72.0,85.0,-90.0,-91.0,72.0,85.0,157.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 67,ISHIBASHI Hideo,66.3,65.0,-70.0,70.0,75.0,80.0,-83.0,70.0,80.0,150.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,MOREL Kenzo,69.0,80.0,-86.0,86.0,100.0,-106.0,106.0,86.0,106.0,192.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,BOCHEW William,72.4,69.0,71.0,73.0,85.0,88.0,90.0,73.0,90.0,163.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,VENARD Thomas,71.7,60.0,63.0,-65.0,-80.0,80.0,85.0,63.0,85.0,148.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,LEE Jung ho,80.7,95.0,100.0,-105.0,115.0,-120.0,-120.0,100.0,115.0,215.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 96,MESOGNON Benoit,89.7,63.0,67.0,-70.0,95.0,-100.0,-100.0,67.0,95.0,162.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 61,ALAOUI BENZAKROUM Ismail,59.8,50.0,55.0,58.0,65.0,70.0,-72.0,58.0,70.0,128.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 67,DAVEAU Quentin,65.7,65.0,-70.0,72.0,85.0,-90.0,-91.0,72.0,85.0,157.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 67,ISHIBASHI Hideo,66.3,65.0,-70.0,70.0,75.0,80.0,-83.0,70.0,80.0,150.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,MOREL Kenzo,69.0,80.0,-86.0,86.0,100.0,-106.0,106.0,86.0,106.0,192.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,BOCHEW William,72.4,69.0,71.0,73.0,85.0,88.0,90.0,73.0,90.0,163.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,VENARD Thomas,71.7,60.0,63.0,-65.0,-80.0,80.0,85.0,63.0,85.0,148.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,LEE Jung ho,80.7,95.0,100.0,-105.0,115.0,-120.0,-120.0,100.0,115.0,215.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 96,MESOGNON Benoit,89.7,63.0,67.0,-70.0,95.0,-100.0,-100.0,67.0,95.0,162.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 55,BONNET Claire,55.0,35.0,38.0,41.0,55.0,60.0,-63.0,41.0,60.0,101.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 59,ADAMKIEWICZ Nastasia,58.8,33.0,35.0,-38.0,50.0,53.0,-55.0,35.0,53.0,88.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 64,JUMET Chloé,63.0,32.0,35.0,-38.0,45.0,48.0,-50.0,35.0,48.0,83.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 64,BAZARD Samantha,63.7,27.0,30.0,32.0,38.0,42.0,-45.0,32.0,42.0,74.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 71,LEMOYNE Nadji,64.2,50.0,53.0,55.0,65.0,70.0,-73.0,55.0,70.0,125.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 71,JACQUET Johanna,69.3,50.0,53.0,-55.0,65.0,70.0,-75.0,53.0,70.0,123.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 76,MERRIFIELD Alice,76.0,48.0,52.0,-55.0,65.0,70.0,-73.0,52.0,70.0,122.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 76,CLEDE Melissa,75.0,48.0,50.0,-51.0,60.0,65.0,-68.0,50.0,65.0,115.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women >87,AVIDOR Rebecca,94.2,45.0,50.0,-53.0,55.0,60.0,-65.0,50.0,60.0,110.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women >87,CORALIE Anne-marina,111.0,45.0,48.0,-50.0,55.0,60.0,-65.0,48.0,60.0,108.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 55,BONNET Claire,55.0,35.0,38.0,41.0,55.0,60.0,-63.0,41.0,60.0,101.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 59,ADAMKIEWICZ Nastasia,58.8,33.0,35.0,-38.0,50.0,53.0,-55.0,35.0,53.0,88.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 64,JUMET Chloé,63.0,32.0,35.0,-38.0,45.0,48.0,-50.0,35.0,48.0,83.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 64,BAZARD Samantha,63.7,27.0,30.0,32.0,38.0,42.0,-45.0,32.0,42.0,74.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 71,LEMOYNE Nadji,64.2,50.0,53.0,55.0,65.0,70.0,-73.0,55.0,70.0,125.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 71,JACQUET Johanna,69.3,50.0,53.0,-55.0,65.0,70.0,-75.0,53.0,70.0,123.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 76,MERRIFIELD Alice,76.0,48.0,52.0,-55.0,65.0,70.0,-73.0,52.0,70.0,122.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 76,CLEDE Melissa,75.0,48.0,50.0,-51.0,60.0,65.0,-68.0,50.0,65.0,115.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women >87,AVIDOR Rebecca,94.2,45.0,50.0,-53.0,55.0,60.0,-65.0,50.0,60.0,110.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women >87,CORALIE Anne-marina,111.0,45.0,48.0,-50.0,55.0,60.0,-65.0,48.0,60.0,108.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,PIERRE Phil,72.7,65.0,70.0,-73.0,90.0,-95.0,-95.0,70.0,90.0,160.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,BOITTIN Natymael,78.0,95.0,100.0,-102.0,115.0,120.0,-125.0,100.0,120.0,220.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,FRANCILETTE Valery,81.0,90.0,95.0,-100.0,105.0,-110.0,110.0,95.0,110.0,205.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,PAISLEY-GILLANT Bastien,81.0,80.0,85.0,-90.0,100.0,105.0,-110.0,85.0,105.0,190.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,ETCHEVERS Lucas,75.8,73.0,76.0,-80.0,85.0,90.0,92.0,76.0,92.0,168.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,COQUIN Patrice,80.0,60.0,65.0,70.0,75.0,80.0,85.0,70.0,85.0,155.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,RE Jean luc,74.7,45.0,50.0,-55.0,65.0,70.0,-75.0,50.0,70.0,120.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 89,BIBRAC Teddy,85.0,60.0,65.0,-68.0,80.0,85.0,-90.0,65.0,85.0,150.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 89,SUEDOIS David,81.5,55.0,-60.0,-60.0,65.0,70.0,-75.0,55.0,70.0,125.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 89,LE PIOLET Vétéa,85.0,50.0,53.0,-55.0,60.0,65.0,-70.0,53.0,65.0,118.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 102,AUROQUE Samuel,101.5,90.0,95.0,-100.0,120.0,125.0,-130.0,95.0,125.0,220.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 102,BENJAMIN Gregory,101.5,90.0,95.0,-100.0,110.0,115.0,-120.0,95.0,115.0,210.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men >109,NAJOS Christophe,121.0,100.0,105.0,-110.0,125.0,130.0,-135.0,105.0,130.0,235.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,PIERRE Phil,72.7,65.0,70.0,-73.0,90.0,-95.0,-95.0,70.0,90.0,160.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,BOITTIN Natymael,78.0,95.0,100.0,-102.0,115.0,120.0,-125.0,100.0,120.0,220.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,FRANCILETTE Valery,81.0,90.0,95.0,-100.0,105.0,-110.0,110.0,95.0,110.0,205.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,PAISLEY-GILLANT Bastien,81.0,80.0,85.0,-90.0,100.0,105.0,-110.0,85.0,105.0,190.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,ETCHEVERS Lucas,75.8,73.0,76.0,-80.0,85.0,90.0,92.0,76.0,92.0,168.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,COQUIN Patrice,80.0,60.0,65.0,70.0,75.0,80.0,85.0,70.0,85.0,155.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,RE Jean luc,74.7,45.0,50.0,-55.0,65.0,70.0,-75.0,50.0,70.0,120.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 89,BIBRAC Teddy,85.0,60.0,65.0,-68.0,80.0,85.0,-90.0,65.0,85.0,150.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 89,SUEDOIS David,81.5,55.0,-60.0,-60.0,65.0,70.0,-75.0,55.0,70.0,125.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 89,LE PIOLET Vétéa,85.0,50.0,53.0,-55.0,60.0,65.0,-70.0,53.0,65.0,118.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 102,AUROQUE Samuel,101.5,90.0,95.0,-100.0,120.0,125.0,-130.0,95.0,125.0,220.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 102,BENJAMIN Gregory,101.5,90.0,95.0,-100.0,110.0,115.0,-120.0,95.0,115.0,210.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men >109,NAJOS Christophe,121.0,100.0,105.0,-110.0,125.0,130.0,-135.0,105.0,130.0,235.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Men 73,ALBOUY Florent,69.3,63.0,-67.0,-67.0,83.0,-87.0,-87.0,63.0,83.0,146.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 73,GENTIL Louison,70.4,85.0,-91.0,-91.0,105.0,110.0,115.0,85.0,115.0,200.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 73,GAIGEOT Nicolas,73.0,-65.0,65.0,70.0,85.0,-90.0,-90.0,70.0,85.0,155.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 81,CHAUDUN Antoine,74.3,67.0,71.0,-75.0,84.0,88.0,-92.0,71.0,88.0,159.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 67,VIAUD Guillaume,62.9,60.0,65.0,71.0,85.0,-90.0,-90.0,71.0,85.0,156.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 67,MERCIER Nicolas,63.0,55.0,58.0,-63.0,75.0,78.0,-81.0,58.0,78.0,136.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,NDICKA MATAM Samson,73.0,100.0,105.0,-110.0,105.0,115.0,121.0,105.0,121.0,226.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,ANTON Basile,73.0,60.0,65.0,-70.0,85.0,90.0,-95.0,65.0,90.0,155.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,LORION Louis,69.3,32.0,35.0,-40.0,45.0,50.0,-60.0,35.0,50.0,85.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,LORE Morgan,81.0,105.0,-109.0,109.0,120.0,-123.0,-123.0,109.0,120.0,229.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,NGUYEN Minh,80.7,92.0,96.0,98.0,113.0,118.0,122.0,98.0,122.0,220.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,PRIGENT Maxime,81.0,83.0,88.0,91.0,-100.0,100.0,106.0,91.0,106.0,197.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,EHRLACHER Denis,78.9,76.0,80.0,83.0,-104.0,104.0,-108.0,83.0,104.0,187.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,RAFFAILLAC Romain,80.18,65.0,70.0,-72.0,90.0,95.0,-100.0,70.0,95.0,165.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,CORDONNIER Nicolas,76.5,-63.0,63.0,66.0,75.0,80.0,-85.0,66.0,80.0,146.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,OGER Dorian,75.2,-55.0,-55.0,55.0,70.0,73.0,76.0,55.0,76.0,131.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 89,NASRI Nima,88.6,75.0,80.0,-85.0,95.0,100.0,-105.0,80.0,100.0,180.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 89,DADOU Eric,86.6,45.0,50.0,55.0,55.0,60.0,65.0,55.0,65.0,120.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men >109,ROSET Julien,109.7,85.0,90.0,-95.0,110.0,115.0,-120.0,90.0,115.0,205.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men >109,BELOTTI Stephane,110.9,60.0,65.0,70.0,70.0,75.0,-78.0,70.0,75.0,145.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Men 73,ALBOUY Florent,69.3,63.0,-67.0,-67.0,83.0,-87.0,-87.0,63.0,83.0,146.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 73,GENTIL Louison,70.4,85.0,-91.0,-91.0,105.0,110.0,115.0,85.0,115.0,200.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 73,GAIGEOT Nicolas,73.0,-65.0,65.0,70.0,85.0,-90.0,-90.0,70.0,85.0,155.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 81,CHAUDUN Antoine,74.3,67.0,71.0,-75.0,84.0,88.0,-92.0,71.0,88.0,159.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 67,VIAUD Guillaume,62.9,60.0,65.0,71.0,85.0,-90.0,-90.0,71.0,85.0,156.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 67,MERCIER Nicolas,63.0,55.0,58.0,-63.0,75.0,78.0,-81.0,58.0,78.0,136.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,NDICKA MATAM Samson,73.0,100.0,105.0,-110.0,105.0,115.0,121.0,105.0,121.0,226.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,ANTON Basile,73.0,60.0,65.0,-70.0,85.0,90.0,-95.0,65.0,90.0,155.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,LORION Louis,69.3,32.0,35.0,-40.0,45.0,50.0,-60.0,35.0,50.0,85.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,LORE Morgan,81.0,105.0,-109.0,109.0,120.0,-123.0,-123.0,109.0,120.0,229.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,NGUYEN Minh,80.7,92.0,96.0,98.0,113.0,118.0,122.0,98.0,122.0,220.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,PRIGENT Maxime,81.0,83.0,88.0,91.0,-100.0,100.0,106.0,91.0,106.0,197.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,EHRLACHER Denis,78.9,76.0,80.0,83.0,-104.0,104.0,-108.0,83.0,104.0,187.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,RAFFAILLAC Romain,80.18,65.0,70.0,-72.0,90.0,95.0,-100.0,70.0,95.0,165.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,CORDONNIER Nicolas,76.5,-63.0,63.0,66.0,75.0,80.0,-85.0,66.0,80.0,146.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,OGER Dorian,75.2,-55.0,-55.0,55.0,70.0,73.0,76.0,55.0,76.0,131.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 89,NASRI Nima,88.6,75.0,80.0,-85.0,95.0,100.0,-105.0,80.0,100.0,180.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 89,DADOU Eric,86.6,45.0,50.0,55.0,55.0,60.0,65.0,55.0,65.0,120.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men >109,ROSET Julien,109.7,85.0,90.0,-95.0,110.0,115.0,-120.0,90.0,115.0,205.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men >109,BELOTTI Stephane,110.9,60.0,65.0,70.0,70.0,75.0,-78.0,70.0,75.0,145.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Women 49,DEFOUR-COCHET Heloise,47.1,23.0,25.0,26.0,33.0,35.0,37.0,26.0,37.0,63.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Women 55,PICOD KINANY Lila jade,50.1,30.0,32.0,34.0,40.0,42.0,43.0,34.0,43.0,77.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Women 64,MONTORIER Juliette,63.6,35.0,38.0,-41.0,42.0,45.0,47.0,38.0,47.0,85.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Women 71,PENCOLE Yael,64.7,43.0,46.0,-50.0,64.0,-67.0,-67.0,46.0,64.0,110.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Women 81,BAUDOUIN Marjane,80.8,48.0,50.0,-52.0,55.0,58.0,60.0,50.0,60.0,110.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 55,PICOD Aurelia,53.9,32.0,-34.0,34.0,43.0,-46.0,-46.0,34.0,43.0,77.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 55,RIBOULET Antoinette,54.0,25.0,28.0,30.0,35.0,38.0,41.0,30.0,41.0,71.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 59,COCHET Marjorie,59.0,30.0,35.0,37.0,43.0,46.0,48.0,37.0,48.0,85.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 64,THORY Marion,63.1,45.0,-47.0,-47.0,55.0,58.0,60.0,45.0,60.0,105.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 64,KUSMERUCK Elsa,63.4,36.0,40.0,45.0,46.0,50.0,54.0,45.0,54.0,99.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 64,FERRAZ Maryline,60.7,36.0,40.0,44.0,46.0,-50.0,-53.0,44.0,46.0,90.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 71,GAIGEOT Erinn,67.2,45.0,48.0,50.0,56.0,59.0,-61.0,50.0,59.0,109.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 71,BOUTATA Melissa,65.5,33.0,37.0,-40.0,43.0,50.0,-55.0,37.0,50.0,87.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 71,WALUS Julie,67.0,30.0,33.0,-36.0,45.0,50.0,55.0,33.0,55.0,88.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 76,BELLAOUI Yousra,74.3,25.0,28.0,30.0,35.0,40.0,43.0,30.0,43.0,73.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 81,GERMAIN Juliette,78.8,35.0,40.0,45.0,50.0,55.0,-60.0,45.0,55.0,100.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Women 49,DEFOUR-COCHET Heloise,47.1,23.0,25.0,26.0,33.0,35.0,37.0,26.0,37.0,63.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Women 55,PICOD KINANY Lila jade,50.1,30.0,32.0,34.0,40.0,42.0,43.0,34.0,43.0,77.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Women 64,MONTORIER Juliette,63.6,35.0,38.0,-41.0,42.0,45.0,47.0,38.0,47.0,85.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Women 71,PENCOLE Yael,64.7,43.0,46.0,-50.0,64.0,-67.0,-67.0,46.0,64.0,110.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Women 81,BAUDOUIN Marjane,80.8,48.0,50.0,-52.0,55.0,58.0,60.0,50.0,60.0,110.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 55,PICOD Aurelia,53.9,32.0,-34.0,34.0,43.0,-46.0,-46.0,34.0,43.0,77.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 55,RIBOULET Antoinette,54.0,25.0,28.0,30.0,35.0,38.0,41.0,30.0,41.0,71.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 59,COCHET Marjorie,59.0,30.0,35.0,37.0,43.0,46.0,48.0,37.0,48.0,85.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 64,THORY Marion,63.1,45.0,-47.0,-47.0,55.0,58.0,60.0,45.0,60.0,105.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 64,KUSMERUCK Elsa,63.4,36.0,40.0,45.0,46.0,50.0,54.0,45.0,54.0,99.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 64,FERRAZ Maryline,60.7,36.0,40.0,44.0,46.0,-50.0,-53.0,44.0,46.0,90.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 71,GAIGEOT Erinn,67.2,45.0,48.0,50.0,56.0,59.0,-61.0,50.0,59.0,109.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 71,BOUTATA Melissa,65.5,33.0,37.0,-40.0,43.0,50.0,-55.0,37.0,50.0,87.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 71,WALUS Julie,67.0,30.0,33.0,-36.0,45.0,50.0,55.0,33.0,55.0,88.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 76,BELLAOUI Yousra,74.3,25.0,28.0,30.0,35.0,40.0,43.0,30.0,43.0,73.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 81,GERMAIN Juliette,78.8,35.0,40.0,45.0,50.0,55.0,-60.0,45.0,55.0,100.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U13 Men 40,DENIS-CLEMENT Haroun,38.55,13.0,15.0,17.0,18.0,-20.0,20.0,17.0,20.0,37.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U13 Women 71,ADELAIDE Aelia,69.0,26.0,28.0,30.0,33.0,35.0,-37.0,30.0,35.0,65.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U13 Men 40,DENIS-CLEMENT Haroun,38.55,13.0,15.0,17.0,18.0,-20.0,20.0,17.0,20.0,37.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U13 Women 71,ADELAIDE Aelia,69.0,26.0,28.0,30.0,33.0,35.0,-37.0,30.0,35.0,65.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 64,SCIASCIA Bobbi lee,63.85,55.0,58.0,60.0,65.0,69.0,-73.0,60.0,69.0,129.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 71,RAZBORSEK Clémence,66.15,40.0,-44.0,44.0,55.0,59.0,63.0,44.0,63.0,107.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 71,ENDERS Amelie,70.55,36.0,-39.0,-39.0,53.0,-56.0,-56.0,36.0,53.0,89.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 64,SCIASCIA Bobbi lee,63.85,55.0,58.0,60.0,65.0,69.0,-73.0,60.0,69.0,129.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 71,RAZBORSEK Clémence,66.15,40.0,-44.0,44.0,55.0,59.0,63.0,44.0,63.0,107.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 71,ENDERS Amelie,70.55,36.0,-39.0,-39.0,53.0,-56.0,-56.0,36.0,53.0,89.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Men 73,VERCOUTRE Hans,71.15,48.0,51.0,53.0,74.0,76.0,77.0,53.0,77.0,130.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 81,FAUVARQUE Kiliane,74.7,75.0,79.0,83.0,97.0,102.0,105.0,83.0,105.0,188.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 102,SOKOLOWSKI Sullivan,98.15,69.0,73.0,-76.0,80.0,85.0,-88.0,73.0,85.0,158.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,MATHE Mathieu,68.15,66.0,70.0,-74.0,92.0,97.0,-101.0,70.0,97.0,167.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,HORTEMEL Anthony,70.45,-66.0,66.0,70.0,94.0,98.0,100.0,70.0,100.0,170.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,DAHMANI Alexandre,72.75,57.0,60.0,63.0,80.0,85.0,88.0,63.0,88.0,151.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,OLLEON Fabrice,75.4,-70.0,70.0,74.0,95.0,100.0,102.0,74.0,102.0,176.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,CHARLES Roger,81.0,55.0,60.0,-62.0,70.0,-75.0,-75.0,60.0,70.0,130.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 89,PERIN Geoffrey,86.7,78.0,83.0,86.0,116.0,119.0,-123.0,86.0,119.0,205.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 89,LEDEZ Loic,88.95,80.0,85.0,87.0,100.0,107.0,110.0,87.0,110.0,197.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 109,GUILBERT Hugo,106.45,101.0,-105.0,105.0,117.0,122.0,-126.0,105.0,122.0,227.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men >109,DEPRET Johann,147.5,65.0,70.0,75.0,75.0,80.0,85.0,75.0,85.0,160.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Men 73,VERCOUTRE Hans,71.15,48.0,51.0,53.0,74.0,76.0,77.0,53.0,77.0,130.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 81,FAUVARQUE Kiliane,74.7,75.0,79.0,83.0,97.0,102.0,105.0,83.0,105.0,188.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 102,SOKOLOWSKI Sullivan,98.15,69.0,73.0,-76.0,80.0,85.0,-88.0,73.0,85.0,158.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,MATHE Mathieu,68.15,66.0,70.0,-74.0,92.0,97.0,-101.0,70.0,97.0,167.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,HORTEMEL Anthony,70.45,-66.0,66.0,70.0,94.0,98.0,100.0,70.0,100.0,170.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,DAHMANI Alexandre,72.75,57.0,60.0,63.0,80.0,85.0,88.0,63.0,88.0,151.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,OLLEON Fabrice,75.4,-70.0,70.0,74.0,95.0,100.0,102.0,74.0,102.0,176.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,CHARLES Roger,81.0,55.0,60.0,-62.0,70.0,-75.0,-75.0,60.0,70.0,130.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 89,PERIN Geoffrey,86.7,78.0,83.0,86.0,116.0,119.0,-123.0,86.0,119.0,205.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 89,LEDEZ Loic,88.95,80.0,85.0,87.0,100.0,107.0,110.0,87.0,110.0,197.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 109,GUILBERT Hugo,106.45,101.0,-105.0,105.0,117.0,122.0,-126.0,105.0,122.0,227.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men >109,DEPRET Johann,147.5,65.0,70.0,75.0,75.0,80.0,85.0,75.0,85.0,160.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U10 Men ,WARNET Auguste,48.0,7.0,8.0,9.0,8.0,9.0,10.0,9.0,10.0,19.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U13 Men 35,BEAURAIN Isaac,35.0,28.0,30.0,32.0,38.0,40.0,-42.0,32.0,40.0,72.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U13 Men 35,DECRAENE Mael,26.6,14.0,16.0,18.0,18.0,20.0,22.0,18.0,22.0,40.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U13 Men 40,DUCHOCHOY Evan,39.16,28.0,30.0,32.0,-41.0,41.0,43.0,32.0,43.0,75.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U13 Men 40,BOULMONT DUBOIS Jules,37.12,11.0,-13.0,13.0,14.0,16.0,18.0,13.0,18.0,31.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U13 Men 49,BERGER MARLIOT Mao,49.0,18.0,20.0,-22.0,24.0,-26.0,26.0,20.0,26.0,46.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U10 Women ,VASSAUX Syriane,27.12,8.0,10.0,-12.0,12.0,14.0,16.0,10.0,16.0,26.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U13 Women 35,HORN Ines,30.6,19.0,21.0,23.0,29.0,31.0,-33.0,23.0,31.0,54.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U13 Women 35,SAID Sara,33.86,21.0,23.0,25.0,-31.0,31.0,33.0,25.0,33.0,58.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U13 Women 35,BILLON Cléa,32.94,4.0,5.0,6.0,5.0,6.0,7.0,6.0,7.0,13.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U13 Women 55,EVEILLARD Gabrielle,54.18,-15.0,15.0,16.0,19.0,21.0,22.0,16.0,22.0,38.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U13 Women 59,WARNET Louise,55.9,17.0,19.0,-21.0,21.0,-23.0,23.0,19.0,23.0,42.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U10 Men ,WARNET Auguste,48.0,7.0,8.0,9.0,8.0,9.0,10.0,9.0,10.0,19.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U13 Men 35,BEAURAIN Isaac,35.0,28.0,30.0,32.0,38.0,40.0,-42.0,32.0,40.0,72.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U13 Men 35,DECRAENE Mael,26.6,14.0,16.0,18.0,18.0,20.0,22.0,18.0,22.0,40.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U13 Men 40,DUCHOCHOY Evan,39.16,28.0,30.0,32.0,-41.0,41.0,43.0,32.0,43.0,75.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U13 Men 40,BOULMONT DUBOIS Jules,37.12,11.0,-13.0,13.0,14.0,16.0,18.0,13.0,18.0,31.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U13 Men 49,BERGER MARLIOT Mao,49.0,18.0,20.0,-22.0,24.0,-26.0,26.0,20.0,26.0,46.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U10 Women ,VASSAUX Syriane,27.12,8.0,10.0,-12.0,12.0,14.0,16.0,10.0,16.0,26.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U13 Women 35,HORN Ines,30.6,19.0,21.0,23.0,29.0,31.0,-33.0,23.0,31.0,54.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U13 Women 35,SAID Sara,33.86,21.0,23.0,25.0,-31.0,31.0,33.0,25.0,33.0,58.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U13 Women 35,BILLON Cléa,32.94,4.0,5.0,6.0,5.0,6.0,7.0,6.0,7.0,13.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U13 Women 55,EVEILLARD Gabrielle,54.18,-15.0,15.0,16.0,19.0,21.0,22.0,16.0,22.0,38.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U13 Women 59,WARNET Louise,55.9,17.0,19.0,-21.0,21.0,-23.0,23.0,19.0,23.0,42.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Women 40,VANDEWIELE Léonie,33.4,12.0,-14.0,-14.0,15.0,17.0,19.0,12.0,19.0,31.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Women 45,ROUSSILLAT Klea,42.3,25.0,27.0,29.0,35.0,38.0,40.0,29.0,40.0,69.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Women 55,DUFRANNE Leya,54.7,27.0,30.0,33.0,37.0,40.0,44.0,33.0,44.0,77.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Women 55,BACHELET Louna,53.1,29.0,31.0,-33.0,-39.0,39.0,41.0,31.0,41.0,72.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Women 55,LE MOAL Cylene,52.4,24.0,26.0,28.0,34.0,-37.0,37.0,28.0,37.0,65.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Women 55,DINOUARD Louison,52.6,23.0,26.0,-27.0,27.0,30.0,-32.0,26.0,30.0,56.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Women 59,BOUCHEZ Clarys,56.6,32.0,34.0,-36.0,41.0,44.0,-46.0,34.0,44.0,78.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Women 64,QUINET Esther,62.0,33.0,36.0,38.0,45.0,47.0,49.0,38.0,49.0,87.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Women 81,BERZIN Zoé,76.3,28.0,31.0,-33.0,41.0,44.0,-46.0,31.0,44.0,75.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Women 55,CARON Amandine,53.0,27.0,29.0,-31.0,34.0,37.0,40.0,29.0,40.0,69.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Women 40,VANDEWIELE Léonie,33.4,12.0,-14.0,-14.0,15.0,17.0,19.0,12.0,19.0,31.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Women 45,ROUSSILLAT Klea,42.3,25.0,27.0,29.0,35.0,38.0,40.0,29.0,40.0,69.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Women 55,DUFRANNE Leya,54.7,27.0,30.0,33.0,37.0,40.0,44.0,33.0,44.0,77.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Women 55,BACHELET Louna,53.1,29.0,31.0,-33.0,-39.0,39.0,41.0,31.0,41.0,72.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Women 55,LE MOAL Cylene,52.4,24.0,26.0,28.0,34.0,-37.0,37.0,28.0,37.0,65.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Women 55,DINOUARD Louison,52.6,23.0,26.0,-27.0,27.0,30.0,-32.0,26.0,30.0,56.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Women 59,BOUCHEZ Clarys,56.6,32.0,34.0,-36.0,41.0,44.0,-46.0,34.0,44.0,78.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Women 64,QUINET Esther,62.0,33.0,36.0,38.0,45.0,47.0,49.0,38.0,49.0,87.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Women 81,BERZIN Zoé,76.3,28.0,31.0,-33.0,41.0,44.0,-46.0,31.0,44.0,75.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Women 55,CARON Amandine,53.0,27.0,29.0,-31.0,34.0,37.0,40.0,29.0,40.0,69.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Women 64,VASSAUX Cassandre,60.46,27.0,30.0,-33.0,-37.0,37.0,-40.0,30.0,37.0,67.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Women >87,CAMACHO GONZALEZ Helena,96.14,50.0,54.0,-56.0,65.0,71.0,-0.0,54.0,71.0,125.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 59,CARRIER Aude,57.28,39.0,41.0,-43.0,49.0,-52.0,54.0,41.0,54.0,95.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 59,GOSSEAU Tiffany,58.78,-43.0,43.0,-45.0,53.0,-55.0,-55.0,43.0,53.0,96.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 71,BAULOT Alison,69.66,48.0,51.0,53.0,58.0,61.0,-63.0,53.0,61.0,114.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 71,PAILLART Shirley,69.12,-47.0,47.0,50.0,58.0,63.0,-65.0,50.0,63.0,113.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 71,SANIEZ Adeline,69.98,40.0,43.0,45.0,58.0,-62.0,-62.0,45.0,58.0,103.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 76,THIEBAULT Constance,72.58,35.0,38.0,41.0,48.0,-51.0,51.0,41.0,51.0,92.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women >87,ROUSSEAU Gwendoline,103.2,29.0,32.0,-35.0,41.0,45.0,49.0,32.0,49.0,81.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Women 64,VASSAUX Cassandre,60.46,27.0,30.0,-33.0,-37.0,37.0,-40.0,30.0,37.0,67.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Women >87,CAMACHO GONZALEZ Helena,96.14,50.0,54.0,-56.0,65.0,71.0,-0.0,54.0,71.0,125.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 59,CARRIER Aude,57.28,39.0,41.0,-43.0,49.0,-52.0,54.0,41.0,54.0,95.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 59,GOSSEAU Tiffany,58.78,-43.0,43.0,-45.0,53.0,-55.0,-55.0,43.0,53.0,96.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 71,BAULOT Alison,69.66,48.0,51.0,53.0,58.0,61.0,-63.0,53.0,61.0,114.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 71,PAILLART Shirley,69.12,-47.0,47.0,50.0,58.0,63.0,-65.0,50.0,63.0,113.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 71,SANIEZ Adeline,69.98,40.0,43.0,45.0,58.0,-62.0,-62.0,45.0,58.0,103.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 76,THIEBAULT Constance,72.58,35.0,38.0,41.0,48.0,-51.0,51.0,41.0,51.0,92.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women >87,ROUSSEAU Gwendoline,103.2,29.0,32.0,-35.0,41.0,45.0,49.0,32.0,49.0,81.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Men 55,HOUPE Melvin,54.82,43.0,47.0,-51.0,55.0,-60.0,60.0,47.0,60.0,107.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Men 67,GARBE Tom,63.52,30.0,34.0,-36.0,40.0,45.0,50.0,34.0,50.0,84.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 67,BEAURAIN Noah,61.76,59.0,62.0,-64.0,74.0,77.0,-80.0,62.0,77.0,139.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 73,BAUMGARTNER Nohan,70.74,60.0,64.0,68.0,87.0,92.0,95.0,68.0,95.0,163.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 73,DUMEIGE Rémy,68.78,60.0,65.0,69.0,85.0,-90.0,-92.0,69.0,85.0,154.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 89,FERREIRA LIMA Pablo,81.74,60.0,64.0,67.0,85.0,90.0,93.0,67.0,93.0,160.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 102,MONNEREAU Julien,101.1,77.0,81.0,84.0,107.0,112.0,115.0,84.0,115.0,199.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 109,SOMBRET Raphael,103.2,54.0,-59.0,-59.0,-75.0,75.0,-78.0,54.0,75.0,129.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men >109,HERLEMME Esteban,128.64,50.0,55.0,-60.0,65.0,70.0,75.0,55.0,75.0,130.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,HOTIER Thierry,72.66,-50.0,50.0,-52.0,60.0,67.0,-0.0,50.0,67.0,117.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,DUMEIGE Christophe,73.44,61.0,-64.0,64.0,81.0,-86.0,-86.0,64.0,81.0,145.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,PIVAIN Romaric,77.96,58.0,61.0,65.0,77.0,-80.0,-80.0,65.0,77.0,142.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 89,BERGER Emerick,87.76,102.0,106.0,110.0,120.0,125.0,-0.0,110.0,125.0,235.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 96,MARCHAL Julien,90.5,40.0,-43.0,-43.0,45.0,50.0,-53.0,40.0,50.0,90.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men >109,RATSIMBA Harry,119.7,80.0,85.0,90.0,106.0,112.0,-120.0,90.0,112.0,202.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men >109,DAUSSIN Frédéric,111.68,45.0,-48.0,48.0,60.0,-65.0,65.0,48.0,65.0,113.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Men 55,HOUPE Melvin,54.82,43.0,47.0,-51.0,55.0,-60.0,60.0,47.0,60.0,107.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Men 67,GARBE Tom,63.52,30.0,34.0,-36.0,40.0,45.0,50.0,34.0,50.0,84.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 67,BEAURAIN Noah,61.76,59.0,62.0,-64.0,74.0,77.0,-80.0,62.0,77.0,139.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 73,BAUMGARTNER Nohan,70.74,60.0,64.0,68.0,87.0,92.0,95.0,68.0,95.0,163.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 73,DUMEIGE Rémy,68.78,60.0,65.0,69.0,85.0,-90.0,-92.0,69.0,85.0,154.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 89,FERREIRA LIMA Pablo,81.74,60.0,64.0,67.0,85.0,90.0,93.0,67.0,93.0,160.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 102,MONNEREAU Julien,101.1,77.0,81.0,84.0,107.0,112.0,115.0,84.0,115.0,199.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 109,SOMBRET Raphael,103.2,54.0,-59.0,-59.0,-75.0,75.0,-78.0,54.0,75.0,129.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men >109,HERLEMME Esteban,128.64,50.0,55.0,-60.0,65.0,70.0,75.0,55.0,75.0,130.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,HOTIER Thierry,72.66,-50.0,50.0,-52.0,60.0,67.0,-0.0,50.0,67.0,117.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,DUMEIGE Christophe,73.44,61.0,-64.0,64.0,81.0,-86.0,-86.0,64.0,81.0,145.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,PIVAIN Romaric,77.96,58.0,61.0,65.0,77.0,-80.0,-80.0,65.0,77.0,142.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 89,BERGER Emerick,87.76,102.0,106.0,110.0,120.0,125.0,-0.0,110.0,125.0,235.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 96,MARCHAL Julien,90.5,40.0,-43.0,-43.0,45.0,50.0,-53.0,40.0,50.0,90.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men >109,RATSIMBA Harry,119.7,80.0,85.0,90.0,106.0,112.0,-120.0,90.0,112.0,202.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men >109,DAUSSIN Frédéric,111.68,45.0,-48.0,48.0,60.0,-65.0,65.0,48.0,65.0,113.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U10 Men ,CAUPENNE GRZESIAK Constant,24.2,10.0,12.0,14.0,17.0,19.0,20.0,14.0,20.0,34.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U10 Men ,CAUPENNE GRZESIAK Constant,24.2,10.0,12.0,14.0,17.0,19.0,20.0,14.0,20.0,34.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Men 61,POTISLAVOWSKI Pierre,58.7,35.0,-38.0,38.0,43.0,45.0,-48.0,38.0,45.0,83.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 73,FAELENS Noah,67.5,65.0,70.0,75.0,85.0,90.0,95.0,75.0,95.0,170.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 89,NGUYEN Sylvain,83.9,90.0,95.0,-100.0,105.0,110.0,-115.0,95.0,110.0,205.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Men 61,POTISLAVOWSKI Pierre,58.7,35.0,-38.0,38.0,43.0,45.0,-48.0,38.0,45.0,83.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 73,FAELENS Noah,67.5,65.0,70.0,75.0,85.0,90.0,95.0,75.0,95.0,170.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 89,NGUYEN Sylvain,83.9,90.0,95.0,-100.0,105.0,110.0,-115.0,95.0,110.0,205.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Women 49,DAVID Lou ann,49.0,20.0,22.0,23.0,30.0,32.0,33.0,23.0,33.0,56.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Women 55,RADAMA Shaina,52.8,43.0,45.0,47.0,55.0,58.0,60.0,47.0,60.0,107.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Women 55,ARAB Aliyah,50.69,30.0,34.0,36.0,40.0,44.0,-46.0,36.0,44.0,80.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Women 59,PERROUAULT Calie,57.49,27.0,30.0,32.0,40.0,-43.0,43.0,32.0,43.0,75.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Women 59,FOUCKE Zoe,57.4,-25.0,-25.0,25.0,30.0,35.0,-38.0,25.0,35.0,60.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Women 55,BECQUET Morgane,50.94,20.0,22.0,23.0,28.0,-30.0,30.0,23.0,30.0,53.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Women 64,JANSEN Zoe,62.78,24.0,26.0,-28.0,35.0,38.0,-41.0,26.0,38.0,64.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Women 71,RICHEZ Albane,64.45,40.0,42.0,-45.0,50.0,-54.0,-54.0,42.0,50.0,92.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Women 71,ALARD Bryana,64.6,-40.0,40.0,-48.0,50.0,-55.0,-58.0,40.0,50.0,90.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Women 76,PAUCHET Marine,75.45,33.0,36.0,39.0,43.0,47.0,-50.0,39.0,47.0,86.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Women 81,SAMAALI Rania,80.45,74.0,78.0,80.0,95.0,100.0,103.0,80.0,103.0,183.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 71,GROSJEAN Caroline,69.4,60.0,65.0,-70.0,75.0,80.0,85.0,65.0,85.0,150.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Women 49,DAVID Lou ann,49.0,20.0,22.0,23.0,30.0,32.0,33.0,23.0,33.0,56.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Women 55,RADAMA Shaina,52.8,43.0,45.0,47.0,55.0,58.0,60.0,47.0,60.0,107.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Women 55,ARAB Aliyah,50.69,30.0,34.0,36.0,40.0,44.0,-46.0,36.0,44.0,80.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Women 59,PERROUAULT Calie,57.49,27.0,30.0,32.0,40.0,-43.0,43.0,32.0,43.0,75.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Women 59,FOUCKE Zoe,57.4,-25.0,-25.0,25.0,30.0,35.0,-38.0,25.0,35.0,60.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Women 55,BECQUET Morgane,50.94,20.0,22.0,23.0,28.0,-30.0,30.0,23.0,30.0,53.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Women 64,JANSEN Zoe,62.78,24.0,26.0,-28.0,35.0,38.0,-41.0,26.0,38.0,64.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Women 71,RICHEZ Albane,64.45,40.0,42.0,-45.0,50.0,-54.0,-54.0,42.0,50.0,92.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Women 71,ALARD Bryana,64.6,-40.0,40.0,-48.0,50.0,-55.0,-58.0,40.0,50.0,90.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Women 76,PAUCHET Marine,75.45,33.0,36.0,39.0,43.0,47.0,-50.0,39.0,47.0,86.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Women 81,SAMAALI Rania,80.45,74.0,78.0,80.0,95.0,100.0,103.0,80.0,103.0,183.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 71,GROSJEAN Caroline,69.4,60.0,65.0,-70.0,75.0,80.0,85.0,65.0,85.0,150.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Men 49,BAILLEUL Damien,47.3,22.0,-24.0,24.0,30.0,32.0,34.0,24.0,34.0,58.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Men 55,MONIER Thibaut,52.4,34.0,38.0,40.0,45.0,50.0,53.0,40.0,53.0,93.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Men 55,DESCHRYVER Oscar,50.3,32.0,34.0,37.0,42.0,45.0,48.0,37.0,48.0,85.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Men 61,ALLAYS RAMACKERS Enguerrand,60.1,58.0,62.0,65.0,68.0,72.0,75.0,65.0,75.0,140.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Men 61,HUYGHE Clément,57.6,42.0,45.0,47.0,58.0,61.0,63.0,47.0,63.0,110.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Men 96,DUPON Leny,91.2,48.0,53.0,57.0,65.0,70.0,73.0,57.0,73.0,130.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Men 67,BUKHAROV Daniil,64.8,35.0,38.0,-40.0,45.0,48.0,50.0,38.0,50.0,88.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Men 73,DESCHRYVER Arthur,69.1,70.0,-75.0,-77.0,90.0,100.0,-105.0,70.0,100.0,170.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 61,DESCHILDRE Enzo,60.4,55.0,60.0,-63.0,73.0,-77.0,-80.0,60.0,73.0,133.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 73,MOULRONT Simon,73.0,60.0,65.0,70.0,85.0,90.0,-95.0,70.0,90.0,160.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,MOULRONT Hugo,69.1,75.0,80.0,83.0,95.0,100.0,103.0,83.0,103.0,186.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Men 49,BAILLEUL Damien,47.3,22.0,-24.0,24.0,30.0,32.0,34.0,24.0,34.0,58.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Men 55,MONIER Thibaut,52.4,34.0,38.0,40.0,45.0,50.0,53.0,40.0,53.0,93.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Men 55,DESCHRYVER Oscar,50.3,32.0,34.0,37.0,42.0,45.0,48.0,37.0,48.0,85.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Men 61,ALLAYS RAMACKERS Enguerrand,60.1,58.0,62.0,65.0,68.0,72.0,75.0,65.0,75.0,140.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Men 61,HUYGHE Clément,57.6,42.0,45.0,47.0,58.0,61.0,63.0,47.0,63.0,110.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U15 Men 96,DUPON Leny,91.2,48.0,53.0,57.0,65.0,70.0,73.0,57.0,73.0,130.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Men 67,BUKHAROV Daniil,64.8,35.0,38.0,-40.0,45.0,48.0,50.0,38.0,50.0,88.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U17 Men 73,DESCHRYVER Arthur,69.1,70.0,-75.0,-77.0,90.0,100.0,-105.0,70.0,100.0,170.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 61,DESCHILDRE Enzo,60.4,55.0,60.0,-63.0,73.0,-77.0,-80.0,60.0,73.0,133.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 73,MOULRONT Simon,73.0,60.0,65.0,70.0,85.0,90.0,-95.0,70.0,90.0,160.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,MOULRONT Hugo,69.1,75.0,80.0,83.0,95.0,100.0,103.0,83.0,103.0,186.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 55,BONNEVILLE Gabrielle,53.9,38.0,40.0,43.0,49.0,52.0,55.0,43.0,55.0,98.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 55,GLAIZE Aurore,53.7,37.0,40.0,43.0,48.0,52.0,54.0,43.0,54.0,97.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 64,HERPSONT HORRILLO Louise,62.3,50.0,55.0,-60.0,71.0,-74.0,-74.0,55.0,71.0,126.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 64,FERNANDES DA COSTA Laetitia,63.2,37.0,39.0,-41.0,50.0,53.0,55.0,39.0,55.0,94.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 64,ORTS-FRIDBERG Olivia,60.8,-40.0,-40.0,40.0,50.0,-55.0,-55.0,40.0,50.0,90.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 76,BARDAIEVA Eva,71.8,35.0,38.0,40.0,53.0,56.0,60.0,40.0,60.0,100.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 76,EL MEHRAJI Houda,74.7,35.0,-38.0,40.0,48.0,52.0,-55.0,40.0,52.0,92.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 76,VEGA Lasly,71.7,35.0,38.0,-40.0,40.0,43.0,45.0,38.0,45.0,83.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 55,BONNEVILLE Gabrielle,53.9,38.0,40.0,43.0,49.0,52.0,55.0,43.0,55.0,98.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 55,GLAIZE Aurore,53.7,37.0,40.0,43.0,48.0,52.0,54.0,43.0,54.0,97.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 64,HERPSONT HORRILLO Louise,62.3,50.0,55.0,-60.0,71.0,-74.0,-74.0,55.0,71.0,126.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 64,FERNANDES DA COSTA Laetitia,63.2,37.0,39.0,-41.0,50.0,53.0,55.0,39.0,55.0,94.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 64,ORTS-FRIDBERG Olivia,60.8,-40.0,-40.0,40.0,50.0,-55.0,-55.0,40.0,50.0,90.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 76,BARDAIEVA Eva,71.8,35.0,38.0,40.0,53.0,56.0,60.0,40.0,60.0,100.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 76,EL MEHRAJI Houda,74.7,35.0,-38.0,40.0,48.0,52.0,-55.0,40.0,52.0,92.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 76,VEGA Lasly,71.7,35.0,38.0,-40.0,40.0,43.0,45.0,38.0,45.0,83.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,ROUXEL Sacha,71.2,-60.0,60.0,67.0,80.0,85.0,-90.0,67.0,85.0,152.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,DEKNUYDT Maxime,69.5,60.0,64.0,-66.0,78.0,83.0,-85.0,64.0,83.0,147.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,HILGER Loic,68.5,45.0,-55.0,55.0,70.0,75.0,80.0,55.0,80.0,135.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,FRERET Stephane,67.8,50.0,53.0,56.0,60.0,65.0,70.0,56.0,70.0,126.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,LULLIEN Ronan,72.4,45.0,50.0,53.0,65.0,70.0,-74.0,53.0,70.0,123.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,MASCLEF Franck,72.3,-42.0,42.0,45.0,55.0,-60.0,60.0,45.0,60.0,105.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,JANMOT Thomas,78.5,60.0,-65.0,65.0,80.0,85.0,90.0,65.0,90.0,155.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,AROCHA Alexandre,78.4,43.0,46.0,50.0,62.0,65.0,68.0,50.0,68.0,118.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 89,DOGU Dylan,87.6,80.0,85.0,-90.0,105.0,-110.0,-110.0,85.0,105.0,190.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men >109,ROBLEH Abass,139.0,50.0,55.0,61.0,90.0,95.0,96.0,61.0,96.0,157.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,ROUXEL Sacha,71.2,-60.0,60.0,67.0,80.0,85.0,-90.0,67.0,85.0,152.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,DEKNUYDT Maxime,69.5,60.0,64.0,-66.0,78.0,83.0,-85.0,64.0,83.0,147.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,HILGER Loic,68.5,45.0,-55.0,55.0,70.0,75.0,80.0,55.0,80.0,135.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,FRERET Stephane,67.8,50.0,53.0,56.0,60.0,65.0,70.0,56.0,70.0,126.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,LULLIEN Ronan,72.4,45.0,50.0,53.0,65.0,70.0,-74.0,53.0,70.0,123.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,MASCLEF Franck,72.3,-42.0,42.0,45.0,55.0,-60.0,60.0,45.0,60.0,105.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,JANMOT Thomas,78.5,60.0,-65.0,65.0,80.0,85.0,90.0,65.0,90.0,155.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,AROCHA Alexandre,78.4,43.0,46.0,50.0,62.0,65.0,68.0,50.0,68.0,118.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 89,DOGU Dylan,87.6,80.0,85.0,-90.0,105.0,-110.0,-110.0,85.0,105.0,190.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men >109,ROBLEH Abass,139.0,50.0,55.0,61.0,90.0,95.0,96.0,61.0,96.0,157.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U10 Men ,CAUPENNE GRZESIAK Constant,24.2,10.0,12.0,14.0,17.0,19.0,20.0,14.0,20.0,34.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U10 Men ,CAUPENNE GRZESIAK Constant,24.2,10.0,12.0,14.0,17.0,19.0,20.0,14.0,20.0,34.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U13 Men 40,CALANDRE CONSOLO Ryan,35.7,12.0,-13.0,13.0,15.0,17.0,19.0,13.0,19.0,32.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U13 Women 49,PONTANI Calypso,47.6,8.0,10.0,-12.0,10.0,12.0,-14.0,10.0,12.0,22.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U13 Men 40,CALANDRE CONSOLO Ryan,35.7,12.0,-13.0,13.0,15.0,17.0,19.0,13.0,19.0,32.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U13 Women 49,PONTANI Calypso,47.6,8.0,10.0,-12.0,10.0,12.0,-14.0,10.0,12.0,22.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,DEBUT Lysandre,71.8,75.0,82.0,-87.0,103.0,-110.0,-110.0,82.0,103.0,185.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,DEJEU Mathieu,71.2,55.0,60.0,-65.0,70.0,75.0,-78.0,60.0,75.0,135.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,DALBERA Adrien,76.9,73.0,-77.0,-80.0,95.0,-100.0,100.0,73.0,100.0,173.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,BINET Simon,75.4,-60.0,63.0,-67.0,80.0,-85.0,-85.0,63.0,80.0,143.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 89,BOU SLEIMAN Tarek,88.3,80.0,-85.0,85.0,114.0,118.0,-122.0,85.0,118.0,203.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 96,BANDET Alexandre,95.4,87.0,92.0,-97.0,113.0,118.0,-123.0,92.0,118.0,210.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,DEBUT Lysandre,71.8,75.0,82.0,-87.0,103.0,-110.0,-110.0,82.0,103.0,185.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,DEJEU Mathieu,71.2,55.0,60.0,-65.0,70.0,75.0,-78.0,60.0,75.0,135.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,DALBERA Adrien,76.9,73.0,-77.0,-80.0,95.0,-100.0,100.0,73.0,100.0,173.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 81,BINET Simon,75.4,-60.0,63.0,-67.0,80.0,-85.0,-85.0,63.0,80.0,143.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 89,BOU SLEIMAN Tarek,88.3,80.0,-85.0,85.0,114.0,118.0,-122.0,85.0,118.0,203.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 96,BANDET Alexandre,95.4,87.0,92.0,-97.0,113.0,118.0,-123.0,92.0,118.0,210.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 55,MINGOUTAUD Lucie,54.6,38.0,41.0,-43.0,46.0,-50.0,50.0,41.0,50.0,91.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 64,BOHNERT Sophie,62.9,52.0,-56.0,-56.0,63.0,66.0,-69.0,52.0,66.0,118.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 64,GUITON Zoé,63.9,30.0,33.0,35.0,38.0,-41.0,41.0,35.0,41.0,76.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 71,PRASZEZYNKI Louisa,65.1,54.0,57.0,60.0,70.0,75.0,-80.0,60.0,75.0,135.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 71,PERIER Marie,67.9,50.0,54.0,-58.0,64.0,68.0,72.0,54.0,72.0,126.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women >87,TUERNAL Floriane,119.2,-48.0,51.0,-56.0,62.0,67.0,-70.0,51.0,67.0,118.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 55,MINGOUTAUD Lucie,54.6,38.0,41.0,-43.0,46.0,-50.0,50.0,41.0,50.0,91.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 64,BOHNERT Sophie,62.9,52.0,-56.0,-56.0,63.0,66.0,-69.0,52.0,66.0,118.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 64,GUITON Zoé,63.9,30.0,33.0,35.0,38.0,-41.0,41.0,35.0,41.0,76.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 71,PRASZEZYNKI Louisa,65.1,54.0,57.0,60.0,70.0,75.0,-80.0,60.0,75.0,135.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women 71,PERIER Marie,67.9,50.0,54.0,-58.0,64.0,68.0,72.0,54.0,72.0,126.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Women >87,TUERNAL Floriane,119.2,-48.0,51.0,-56.0,62.0,67.0,-70.0,51.0,67.0,118.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U13 Men 45,LUNGU Darius,43.0,17.0,19.0,20.0,24.0,26.0,27.0,20.0,27.0,47.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U13 Men 45,LUNGU Darius,43.0,17.0,19.0,20.0,24.0,26.0,27.0,20.0,27.0,47.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U10 Men ,PERRIN Yael,36.8,12.0,14.0,-15.0,16.0,18.0,20.0,14.0,20.0,34.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U10 Men ,PERRIN Yael,36.8,12.0,14.0,-15.0,16.0,18.0,20.0,14.0,20.0,34.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 67,MARIE BACKIT BESLU Kenji,66.9,63.0,67.0,71.0,94.0,98.0,-101.0,71.0,98.0,169.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 73,BERNARD Jules,72.2,78.0,80.0,82.0,88.0,93.0,95.0,82.0,95.0,177.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 89,LOUSSERT Mathéo,84.0,78.0,-81.0,81.0,-100.0,-100.0,100.0,81.0,100.0,181.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,MEYNIEL Bastien,72.9,76.0,80.0,85.0,105.0,110.0,115.0,85.0,115.0,200.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,SORGNIARD Christopher,72.9,56.0,58.0,60.0,72.0,75.0,-77.0,60.0,75.0,135.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 109,VERDIER Mathieu,108.5,80.0,-83.0,85.0,98.0,103.0,-106.0,85.0,103.0,188.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 67,MARIE BACKIT BESLU Kenji,66.9,63.0,67.0,71.0,94.0,98.0,-101.0,71.0,98.0,169.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 73,BERNARD Jules,72.2,78.0,80.0,82.0,88.0,93.0,95.0,82.0,95.0,177.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,U20 Men 89,LOUSSERT Mathéo,84.0,78.0,-81.0,81.0,-100.0,-100.0,100.0,81.0,100.0,181.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,MEYNIEL Bastien,72.9,76.0,80.0,85.0,105.0,110.0,115.0,85.0,115.0,200.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 73,SORGNIARD Christopher,72.9,56.0,58.0,60.0,72.0,75.0,-77.0,60.0,75.0,135.0
+"IDF - Challenge Avenir - Méré (78490) - clubs de Mantes, Requins SCY78 et Franconville",2024-11-30,SEN Men 109,VERDIER Mathieu,108.5,80.0,-83.0,85.0,98.0,103.0,-106.0,85.0,103.0,188.0

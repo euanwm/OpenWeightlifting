@@ -1,0 +1,552 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 71,VITAL Gharfill,68.3,55.0,60.0,-63.0,75.0,-80.0,80.0,60.0,80.0,140.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,LESADE Jules,75.9,90.0,-95.0,95.0,-112.0,112.0,116.0,95.0,116.0,211.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,LORE Morgan,85.5,-102.0,102.0,-105.0,118.0,-122.0,122.0,102.0,122.0,224.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,BOU SLEIMAN Tarek,87.1,92.0,-95.0,-95.0,124.0,-128.0,-128.0,92.0,124.0,216.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,TCHINDA Noa,85.8,85.0,90.0,-95.0,105.0,110.0,-115.0,90.0,110.0,200.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,LE VIENNESSE Stephane,83.28,-80.0,80.0,-87.0,90.0,100.0,-111.0,80.0,100.0,180.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,DEBRET Anthony,85.4,70.0,-100.0,-100.0,90.0,100.0,-111.0,70.0,100.0,170.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,VOTINOV Pavel,93.0,105.0,110.0,115.0,131.0,140.0,-150.0,115.0,140.0,255.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,COSTA Mickael,90.5,103.0,-110.0,110.0,132.0,-136.0,-140.0,110.0,132.0,242.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,VERGNE Antoine,89.16,-95.0,95.0,-102.0,118.0,-122.0,122.0,95.0,122.0,217.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,WELKIE Allen,89.9,90.0,-95.0,95.0,110.0,115.0,-120.0,95.0,115.0,210.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,NSOGA Kevin,90.96,85.0,-90.0,-90.0,105.0,112.0,-115.0,85.0,112.0,197.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,MILORD Benjamin,89.4,-82.0,-82.0,82.0,-108.0,-108.0,108.0,82.0,108.0,190.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 110,DELIVRY Marc,95.4,100.0,107.0,116.0,128.0,135.0,-142.0,116.0,135.0,251.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 110,BANDET Alexandre,96.1,102.0,-107.0,-110.0,122.0,127.0,-130.0,102.0,127.0,229.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 110,VIAUD Georges,95.8,60.0,66.0,-67.0,105.0,110.0,-112.0,66.0,110.0,176.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men >110,KILIC Adem,114.0,95.0,100.0,-105.0,-122.0,122.0,-126.0,100.0,122.0,222.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 53,MARTINELLI Laetitia,53.0,48.0,51.0,53.0,60.0,-64.0,-65.0,53.0,60.0,113.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 58,CONSOLO Celia,56.9,47.0,-50.0,50.0,68.0,72.0,-75.0,50.0,72.0,122.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 58,FIORENTINA Alice,56.9,32.0,35.0,-38.0,33.0,-36.0,-36.0,35.0,33.0,68.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,PERIER Marie,61.1,57.0,60.0,63.0,74.0,77.0,-80.0,63.0,77.0,140.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,LAMDAHBIN Zahra,61.9,56.0,-60.0,-60.0,70.0,74.0,77.0,56.0,77.0,133.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,SEJALON Laura,62.5,-50.0,-50.0,50.0,64.0,-68.0,69.0,50.0,69.0,119.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,THORY Marion,62.8,50.0,53.0,-55.0,60.0,64.0,66.0,53.0,66.0,119.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,PETIOT Luna,62.2,-60.0,-60.0,-60.0,75.0,-80.0,-80.0,0.0,75.0,0.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,TURPIN Aurelia,65.2,60.0,64.0,-67.0,70.0,75.0,-78.0,64.0,75.0,139.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,BOUTATA Melissa,63.7,50.0,54.0,-57.0,68.0,-72.0,75.0,54.0,75.0,129.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,BESBAS Nawel,65.2,48.0,-51.0,-53.0,65.0,-70.0,-72.0,48.0,65.0,113.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 77,MBOULE Clarisse,77.0,48.0,53.0,-56.0,-68.0,68.0,74.0,53.0,74.0,127.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 86,CHAUVIN Selma,84.7,-50.0,50.0,53.0,68.0,72.0,-74.0,53.0,72.0,125.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 53,MARTINELLI Laetitia,53.0,48.0,51.0,53.0,60.0,-64.0,-65.0,53.0,60.0,113.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 58,CONSOLO Celia,56.9,47.0,-50.0,50.0,68.0,72.0,-75.0,50.0,72.0,122.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 58,FIORENTINA Alice,56.9,32.0,35.0,-38.0,33.0,-36.0,-36.0,35.0,33.0,68.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,PERIER Marie,61.1,57.0,60.0,63.0,74.0,77.0,-80.0,63.0,77.0,140.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,LAMDAHBIN Zahra,61.9,56.0,-60.0,-60.0,70.0,74.0,77.0,56.0,77.0,133.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,SEJALON Laura,62.5,-50.0,-50.0,50.0,64.0,-68.0,69.0,50.0,69.0,119.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,THORY Marion,62.8,50.0,53.0,-55.0,60.0,64.0,66.0,53.0,66.0,119.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,PETIOT Luna,62.2,-60.0,-60.0,-60.0,75.0,-80.0,-80.0,0.0,75.0,0.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,TURPIN Aurelia,65.2,60.0,64.0,-67.0,70.0,75.0,-78.0,64.0,75.0,139.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,BOUTATA Melissa,63.7,50.0,54.0,-57.0,68.0,-72.0,75.0,54.0,75.0,129.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,BESBAS Nawel,65.2,48.0,-51.0,-53.0,65.0,-70.0,-72.0,48.0,65.0,113.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 77,MBOULE Clarisse,77.0,48.0,53.0,-56.0,-68.0,68.0,74.0,53.0,74.0,127.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 86,CHAUVIN Selma,84.7,-50.0,50.0,53.0,68.0,72.0,-74.0,53.0,72.0,125.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U17 Women 63,LOUAHEB Selma,62.9,37.0,39.0,-41.0,46.0,49.0,-51.0,39.0,49.0,88.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Women 58,SALLES Lea,53.5,-44.0,-44.0,-44.0,58.0,-61.0,-61.0,0.0,58.0,0.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 48,FERENBACH Elsa,46.5,-42.0,-42.0,42.0,53.0,56.0,59.0,42.0,59.0,101.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 58,BLANCHET Esther,57.2,43.0,45.0,49.0,55.0,60.0,63.0,49.0,63.0,112.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,FRILLEY Brenda,61.8,50.0,-53.0,53.0,68.0,71.0,73.0,53.0,73.0,126.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,CHAGNON Elodie,61.6,42.0,46.0,-50.0,60.0,65.0,68.0,46.0,68.0,114.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,DUDICOURT Marie,60.6,40.0,43.0,46.0,55.0,-58.0,58.0,46.0,58.0,104.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,VICAINNE Marion,60.3,30.0,32.0,-35.0,40.0,43.0,46.0,32.0,46.0,78.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,LOISNARD Alissia,66.1,62.0,-66.0,-66.0,78.0,81.0,83.0,62.0,83.0,145.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,CAMILLE Chuathong,65.7,-50.0,50.0,-55.0,68.0,72.0,-76.0,50.0,72.0,122.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,BRAESCH Laura,68.9,35.0,38.0,40.0,50.0,54.0,-60.0,40.0,54.0,94.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,DIAKITE Dieneba,66.6,33.0,35.0,37.0,45.0,48.0,52.0,37.0,52.0,89.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 77,AJIMI Nadra,70.0,42.0,-45.0,47.0,-60.0,-62.0,62.0,47.0,62.0,109.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 77,GUNARATNAM Sangavi,70.5,45.0,-48.0,-50.0,55.0,58.0,-61.0,45.0,58.0,103.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 77,MAZEAUD Justine,74.2,-37.0,-37.0,38.0,43.0,47.0,-50.0,38.0,47.0,85.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women >86,BEN HASSI Nawel,94.3,-55.0,55.0,62.0,77.0,80.0,82.0,62.0,82.0,144.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U17 Women 63,LOUAHEB Selma,62.9,37.0,39.0,-41.0,46.0,49.0,-51.0,39.0,49.0,88.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Women 58,SALLES Lea,53.5,-44.0,-44.0,-44.0,58.0,-61.0,-61.0,0.0,58.0,0.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 48,FERENBACH Elsa,46.5,-42.0,-42.0,42.0,53.0,56.0,59.0,42.0,59.0,101.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 58,BLANCHET Esther,57.2,43.0,45.0,49.0,55.0,60.0,63.0,49.0,63.0,112.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,FRILLEY Brenda,61.8,50.0,-53.0,53.0,68.0,71.0,73.0,53.0,73.0,126.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,CHAGNON Elodie,61.6,42.0,46.0,-50.0,60.0,65.0,68.0,46.0,68.0,114.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,DUDICOURT Marie,60.6,40.0,43.0,46.0,55.0,-58.0,58.0,46.0,58.0,104.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,VICAINNE Marion,60.3,30.0,32.0,-35.0,40.0,43.0,46.0,32.0,46.0,78.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,LOISNARD Alissia,66.1,62.0,-66.0,-66.0,78.0,81.0,83.0,62.0,83.0,145.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,CAMILLE Chuathong,65.7,-50.0,50.0,-55.0,68.0,72.0,-76.0,50.0,72.0,122.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,BRAESCH Laura,68.9,35.0,38.0,40.0,50.0,54.0,-60.0,40.0,54.0,94.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,DIAKITE Dieneba,66.6,33.0,35.0,37.0,45.0,48.0,52.0,37.0,52.0,89.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 77,AJIMI Nadra,70.0,42.0,-45.0,47.0,-60.0,-62.0,62.0,47.0,62.0,109.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 77,GUNARATNAM Sangavi,70.5,45.0,-48.0,-50.0,55.0,58.0,-61.0,45.0,58.0,103.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 77,MAZEAUD Justine,74.2,-37.0,-37.0,38.0,43.0,47.0,-50.0,38.0,47.0,85.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women >86,BEN HASSI Nawel,94.3,-55.0,55.0,62.0,77.0,80.0,82.0,62.0,82.0,144.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Women 58,BOYER Kristina,57.5,60.0,-64.0,-0.0,50.0,-80.0,-83.0,60.0,50.0,110.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 58,ROUSSEAU Clementine,54.0,60.0,64.0,-66.0,78.0,-82.0,-83.0,64.0,78.0,142.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 58,RAPHANEL Maelys,56.3,33.0,36.0,40.0,43.0,46.0,-50.0,40.0,46.0,86.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 58,BOYER Noemie,57.7,33.0,35.0,37.0,43.0,45.0,47.0,37.0,47.0,84.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,ADRIEN Priscilla,59.2,45.0,-48.0,50.0,63.0,67.0,-70.0,50.0,67.0,117.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,DA SILVA Mathilde,59.5,-40.0,40.0,-45.0,51.0,55.0,-60.0,40.0,55.0,95.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,AUTILLO Clara,63.7,73.0,76.0,-80.0,90.0,-94.0,95.0,76.0,95.0,171.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,SOURY Victoire,67.0,-66.0,66.0,70.0,-88.0,-88.0,88.0,70.0,88.0,158.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,DESBOS Laura,65.0,57.0,-60.0,-62.0,70.0,75.0,-78.0,57.0,75.0,132.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,PANDO Maelys,68.5,38.0,40.0,42.0,-53.0,53.0,-60.0,42.0,53.0,95.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Women 58,BOYER Kristina,57.5,60.0,-64.0,-0.0,50.0,-80.0,-83.0,60.0,50.0,110.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 58,ROUSSEAU Clementine,54.0,60.0,64.0,-66.0,78.0,-82.0,-83.0,64.0,78.0,142.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 58,RAPHANEL Maelys,56.3,33.0,36.0,40.0,43.0,46.0,-50.0,40.0,46.0,86.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 58,BOYER Noemie,57.7,33.0,35.0,37.0,43.0,45.0,47.0,37.0,47.0,84.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,ADRIEN Priscilla,59.2,45.0,-48.0,50.0,63.0,67.0,-70.0,50.0,67.0,117.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,DA SILVA Mathilde,59.5,-40.0,40.0,-45.0,51.0,55.0,-60.0,40.0,55.0,95.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,AUTILLO Clara,63.7,73.0,76.0,-80.0,90.0,-94.0,95.0,76.0,95.0,171.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,SOURY Victoire,67.0,-66.0,66.0,70.0,-88.0,-88.0,88.0,70.0,88.0,158.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,DESBOS Laura,65.0,57.0,-60.0,-62.0,70.0,75.0,-78.0,57.0,75.0,132.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,PANDO Maelys,68.5,38.0,40.0,42.0,-53.0,53.0,-60.0,42.0,53.0,95.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Men 71,GLEYZE Alexis,68.6,-93.0,93.0,-98.0,110.0,-115.0,-115.0,93.0,110.0,203.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Men 88,ANDREASIAN Agkop,80.9,100.0,-105.0,-105.0,115.0,120.0,125.0,100.0,125.0,225.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 60,ALONSO Nicolas,57.7,60.0,65.0,-70.0,70.0,75.0,78.0,65.0,78.0,143.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 65,BAILLIEUX Cyril,62.5,75.0,79.0,-82.0,95.0,-100.0,101.0,79.0,101.0,180.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,BASSI Grégory,77.7,98.0,103.0,-107.0,130.0,-140.0,-145.0,103.0,130.0,233.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,BENOIT Joan,78.9,100.0,105.0,110.0,120.0,125.0,-130.0,110.0,125.0,235.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,CHIARISOLO Jimmy,78.3,85.0,90.0,95.0,112.0,-118.0,-119.0,95.0,112.0,207.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,LOUPIAC Quentin,73.3,76.0,80.0,-83.0,-96.0,96.0,100.0,80.0,100.0,180.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,BOY Léo,75.8,70.0,75.0,-81.0,90.0,95.0,-100.0,75.0,95.0,170.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,JEANMAIRE Erwan,82.7,100.0,106.0,112.0,120.0,-128.0,131.0,112.0,131.0,243.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,ZAPHIRATO Dimitri,84.8,83.0,87.0,90.0,105.0,-110.0,115.0,90.0,115.0,205.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,VERGNE Emile,93.9,105.0,-112.0,-115.0,130.0,140.0,145.0,105.0,145.0,250.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,MOUREAU Axel,89.0,95.0,100.0,-106.0,118.0,124.0,131.0,100.0,131.0,231.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 110,MARIN Clément,96.6,110.0,116.0,121.0,125.0,132.0,-136.0,121.0,132.0,253.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 110,RAMUS Jerome,99.5,83.0,88.0,93.0,104.0,-110.0,-112.0,93.0,104.0,197.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Men 71,GLEYZE Alexis,68.6,-93.0,93.0,-98.0,110.0,-115.0,-115.0,93.0,110.0,203.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Men 88,ANDREASIAN Agkop,80.9,100.0,-105.0,-105.0,115.0,120.0,125.0,100.0,125.0,225.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 60,ALONSO Nicolas,57.7,60.0,65.0,-70.0,70.0,75.0,78.0,65.0,78.0,143.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 65,BAILLIEUX Cyril,62.5,75.0,79.0,-82.0,95.0,-100.0,101.0,79.0,101.0,180.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,BASSI Grégory,77.7,98.0,103.0,-107.0,130.0,-140.0,-145.0,103.0,130.0,233.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,BENOIT Joan,78.9,100.0,105.0,110.0,120.0,125.0,-130.0,110.0,125.0,235.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,CHIARISOLO Jimmy,78.3,85.0,90.0,95.0,112.0,-118.0,-119.0,95.0,112.0,207.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,LOUPIAC Quentin,73.3,76.0,80.0,-83.0,-96.0,96.0,100.0,80.0,100.0,180.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,BOY Léo,75.8,70.0,75.0,-81.0,90.0,95.0,-100.0,75.0,95.0,170.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,JEANMAIRE Erwan,82.7,100.0,106.0,112.0,120.0,-128.0,131.0,112.0,131.0,243.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,ZAPHIRATO Dimitri,84.8,83.0,87.0,90.0,105.0,-110.0,115.0,90.0,115.0,205.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,VERGNE Emile,93.9,105.0,-112.0,-115.0,130.0,140.0,145.0,105.0,145.0,250.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,MOUREAU Axel,89.0,95.0,100.0,-106.0,118.0,124.0,131.0,100.0,131.0,231.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 110,MARIN Clément,96.6,110.0,116.0,121.0,125.0,132.0,-136.0,121.0,132.0,253.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 110,RAMUS Jerome,99.5,83.0,88.0,93.0,104.0,-110.0,-112.0,93.0,104.0,197.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U15 Women 48,LE VIENNESSE - BOHER Melany,45.3,30.0,32.0,35.0,40.0,-43.0,-45.0,35.0,40.0,75.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U15 Women 53,DEMEULEMEESTER Kalyah,48.3,30.0,33.0,-35.0,38.0,-41.0,41.0,33.0,41.0,74.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U17 Women 44,VIAUD Victoria,43.6,22.0,-24.0,-24.0,28.0,30.0,-34.0,22.0,30.0,52.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U17 Women 58,DEMEULEMEESTER Larina,55.7,33.0,36.0,-39.0,45.0,-50.0,50.0,36.0,50.0,86.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 53,MUNTEANU Louise,52.7,38.0,41.0,-45.0,-51.0,51.0,-60.0,41.0,51.0,92.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 53,RIBOULET Antoinette,52.8,36.0,40.0,42.0,45.0,-50.0,-53.0,42.0,45.0,87.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,EL AMRI Sarah,59.6,40.0,43.0,-46.0,55.0,60.0,-63.0,43.0,60.0,103.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,PFOHL Anais,60.9,38.0,41.0,44.0,45.0,-50.0,52.0,44.0,52.0,96.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,HAMMACHE Lydia,63.3,45.0,-50.0,-52.0,-55.0,58.0,-61.0,45.0,58.0,103.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 86,LE VIENNESSE Marjorie,81.1,45.0,48.0,50.0,63.0,67.0,-70.0,50.0,67.0,117.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women >86,ROUEK Rachel,90.3,51.0,56.0,-60.0,65.0,-73.0,77.0,56.0,77.0,133.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women >86,CRISTINA Aurelie,113.4,53.0,-57.0,-60.0,-60.0,60.0,-65.0,53.0,60.0,113.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U15 Women 48,LE VIENNESSE - BOHER Melany,45.3,30.0,32.0,35.0,40.0,-43.0,-45.0,35.0,40.0,75.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U15 Women 53,DEMEULEMEESTER Kalyah,48.3,30.0,33.0,-35.0,38.0,-41.0,41.0,33.0,41.0,74.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U17 Women 44,VIAUD Victoria,43.6,22.0,-24.0,-24.0,28.0,30.0,-34.0,22.0,30.0,52.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U17 Women 58,DEMEULEMEESTER Larina,55.7,33.0,36.0,-39.0,45.0,-50.0,50.0,36.0,50.0,86.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 53,MUNTEANU Louise,52.7,38.0,41.0,-45.0,-51.0,51.0,-60.0,41.0,51.0,92.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 53,RIBOULET Antoinette,52.8,36.0,40.0,42.0,45.0,-50.0,-53.0,42.0,45.0,87.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,EL AMRI Sarah,59.6,40.0,43.0,-46.0,55.0,60.0,-63.0,43.0,60.0,103.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,PFOHL Anais,60.9,38.0,41.0,44.0,45.0,-50.0,52.0,44.0,52.0,96.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,HAMMACHE Lydia,63.3,45.0,-50.0,-52.0,-55.0,58.0,-61.0,45.0,58.0,103.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 86,LE VIENNESSE Marjorie,81.1,45.0,48.0,50.0,63.0,67.0,-70.0,50.0,67.0,117.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women >86,ROUEK Rachel,90.3,51.0,56.0,-60.0,65.0,-73.0,77.0,56.0,77.0,133.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women >86,CRISTINA Aurelie,113.4,53.0,-57.0,-60.0,-60.0,60.0,-65.0,53.0,60.0,113.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,LORION Louis,72.8,52.0,57.0,-62.0,65.0,72.0,77.0,57.0,77.0,134.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,BEAUDELOT Nicolas,83.7,70.0,75.0,-80.0,95.0,100.0,-105.0,75.0,100.0,175.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 110,LEANDRI Guillaume,100.0,85.0,90.0,-95.0,100.0,105.0,110.0,90.0,110.0,200.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,LORION Louis,72.8,52.0,57.0,-62.0,65.0,72.0,77.0,57.0,77.0,134.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,BEAUDELOT Nicolas,83.7,70.0,75.0,-80.0,95.0,100.0,-105.0,75.0,100.0,175.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 110,LEANDRI Guillaume,100.0,85.0,90.0,-95.0,100.0,105.0,110.0,90.0,110.0,200.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U17 Men 60,GRANGER Lucas,56.4,75.0,-80.0,80.0,85.0,90.0,96.0,80.0,96.0,176.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U17 Men 71,ROQUET Noe,69.6,54.0,57.0,-60.0,63.0,66.0,-68.0,57.0,66.0,123.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Men 88,ROGUET Thomas,87.62,95.0,100.0,-102.0,118.0,-122.0,-0.0,100.0,118.0,218.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Men 88,HUBERT JOUBERT Arthur,80.22,72.0,75.0,78.0,90.0,95.0,100.0,78.0,100.0,178.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Men 110,BIANCO Loucas,108.1,70.0,73.0,75.0,95.0,-0.0,-0.0,75.0,95.0,170.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 71,MELLIER Romain,67.17,73.0,-77.0,78.0,92.0,96.0,99.0,78.0,99.0,177.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,MIEGEBIELLE Victor,73.98,105.0,110.0,-112.0,133.0,-136.0,-140.0,110.0,133.0,243.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,LAFAGNE Cédric,78.0,-95.0,95.0,-102.0,115.0,120.0,123.0,95.0,123.0,218.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,MEZIERE Benjamin,74.84,80.0,84.0,-87.0,90.0,95.0,98.0,84.0,98.0,182.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,COGNON Jonathan,80.52,80.0,87.0,93.0,120.0,130.0,133.0,93.0,133.0,226.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,REBOUX Mathys,81.11,-85.0,95.0,-100.0,113.0,117.0,121.0,95.0,121.0,216.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,REDON Antonin,83.19,85.0,90.0,93.0,110.0,-115.0,115.0,93.0,115.0,208.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,NAUDIN Maxime,83.48,-83.0,83.0,90.0,-103.0,103.0,-110.0,90.0,103.0,193.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,BOUCHARD Mavrick,92.55,68.0,-72.0,72.0,80.0,85.0,-90.0,72.0,85.0,157.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 110,JAMOIS Florian,103.94,82.0,-86.0,87.0,100.0,105.0,-108.0,87.0,105.0,192.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U17 Men 60,GRANGER Lucas,56.4,75.0,-80.0,80.0,85.0,90.0,96.0,80.0,96.0,176.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U17 Men 71,ROQUET Noe,69.6,54.0,57.0,-60.0,63.0,66.0,-68.0,57.0,66.0,123.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Men 88,ROGUET Thomas,87.62,95.0,100.0,-102.0,118.0,-122.0,-0.0,100.0,118.0,218.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Men 88,HUBERT JOUBERT Arthur,80.22,72.0,75.0,78.0,90.0,95.0,100.0,78.0,100.0,178.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Men 110,BIANCO Loucas,108.1,70.0,73.0,75.0,95.0,-0.0,-0.0,75.0,95.0,170.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 71,MELLIER Romain,67.17,73.0,-77.0,78.0,92.0,96.0,99.0,78.0,99.0,177.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,MIEGEBIELLE Victor,73.98,105.0,110.0,-112.0,133.0,-136.0,-140.0,110.0,133.0,243.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,LAFAGNE Cédric,78.0,-95.0,95.0,-102.0,115.0,120.0,123.0,95.0,123.0,218.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,MEZIERE Benjamin,74.84,80.0,84.0,-87.0,90.0,95.0,98.0,84.0,98.0,182.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,COGNON Jonathan,80.52,80.0,87.0,93.0,120.0,130.0,133.0,93.0,133.0,226.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,REBOUX Mathys,81.11,-85.0,95.0,-100.0,113.0,117.0,121.0,95.0,121.0,216.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,REDON Antonin,83.19,85.0,90.0,93.0,110.0,-115.0,115.0,93.0,115.0,208.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,NAUDIN Maxime,83.48,-83.0,83.0,90.0,-103.0,103.0,-110.0,90.0,103.0,193.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,BOUCHARD Mavrick,92.55,68.0,-72.0,72.0,80.0,85.0,-90.0,72.0,85.0,157.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 110,JAMOIS Florian,103.94,82.0,-86.0,87.0,100.0,105.0,-108.0,87.0,105.0,192.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U17 Women 53,FERRAND COGNON Lyna,48.08,34.0,-36.0,-36.0,40.0,43.0,-46.0,34.0,43.0,77.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Women >86,COGNON Loubna,99.62,63.0,69.0,72.0,85.0,90.0,-95.0,72.0,90.0,162.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 48,ROUSSEL Mylène,47.9,36.0,38.0,-40.0,52.0,55.0,-57.0,38.0,55.0,93.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 58,HERVAULT Jeanne,57.29,-67.0,67.0,70.0,83.0,87.0,-90.0,70.0,87.0,157.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 58,SADOUN Eglantine,56.22,48.0,51.0,-53.0,65.0,-69.0,-69.0,51.0,65.0,116.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,BARROCHE Clemence,61.39,52.0,56.0,58.0,73.0,76.0,78.0,58.0,78.0,136.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,BILLON Anaelle,60.85,-63.0,-63.0,-63.0,83.0,-86.0,87.0,0.0,87.0,0.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,MUNIER Katline,65.98,55.0,60.0,63.0,76.0,79.0,-81.0,63.0,79.0,142.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,COGNON Sonia,67.46,50.0,54.0,56.0,-69.0,69.0,71.0,56.0,71.0,127.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,CADYCK Alexandra,63.45,42.0,45.0,48.0,54.0,57.0,60.0,48.0,60.0,108.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 77,IZMAR Océane,74.33,54.0,58.0,61.0,78.0,-82.0,-85.0,61.0,78.0,139.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 77,CHOYER Anissa,71.52,64.0,-66.0,-67.0,-83.0,-83.0,-83.0,64.0,0.0,0.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 86,SUBIL Lucie,78.49,38.0,41.0,-43.0,47.0,-50.0,50.0,41.0,50.0,91.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women >86,COGNON Alexia,100.48,52.0,55.0,-57.0,60.0,63.0,-65.0,55.0,63.0,118.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women >86,RIVEROS Yoana,93.31,-45.0,45.0,48.0,53.0,57.0,-60.0,48.0,57.0,105.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U17 Women 53,FERRAND COGNON Lyna,48.08,34.0,-36.0,-36.0,40.0,43.0,-46.0,34.0,43.0,77.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Women >86,COGNON Loubna,99.62,63.0,69.0,72.0,85.0,90.0,-95.0,72.0,90.0,162.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 48,ROUSSEL Mylène,47.9,36.0,38.0,-40.0,52.0,55.0,-57.0,38.0,55.0,93.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 58,HERVAULT Jeanne,57.29,-67.0,67.0,70.0,83.0,87.0,-90.0,70.0,87.0,157.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 58,SADOUN Eglantine,56.22,48.0,51.0,-53.0,65.0,-69.0,-69.0,51.0,65.0,116.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,BARROCHE Clemence,61.39,52.0,56.0,58.0,73.0,76.0,78.0,58.0,78.0,136.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,BILLON Anaelle,60.85,-63.0,-63.0,-63.0,83.0,-86.0,87.0,0.0,87.0,0.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,MUNIER Katline,65.98,55.0,60.0,63.0,76.0,79.0,-81.0,63.0,79.0,142.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,COGNON Sonia,67.46,50.0,54.0,56.0,-69.0,69.0,71.0,56.0,71.0,127.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,CADYCK Alexandra,63.45,42.0,45.0,48.0,54.0,57.0,60.0,48.0,60.0,108.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 77,IZMAR Océane,74.33,54.0,58.0,61.0,78.0,-82.0,-85.0,61.0,78.0,139.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 77,CHOYER Anissa,71.52,64.0,-66.0,-67.0,-83.0,-83.0,-83.0,64.0,0.0,0.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 86,SUBIL Lucie,78.49,38.0,41.0,-43.0,47.0,-50.0,50.0,41.0,50.0,91.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women >86,COGNON Alexia,100.48,52.0,55.0,-57.0,60.0,63.0,-65.0,55.0,63.0,118.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women >86,RIVEROS Yoana,93.31,-45.0,45.0,48.0,53.0,57.0,-60.0,48.0,57.0,105.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 53,PANSERAT Emma,52.42,48.0,51.0,-54.0,60.0,-63.0,-65.0,51.0,60.0,111.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 58,DESBOIS Laura,53.38,40.0,44.0,-48.0,58.0,62.0,-66.0,44.0,62.0,106.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,TRIMECH Nourhene,58.58,58.0,63.0,66.0,80.0,-85.0,85.0,66.0,85.0,151.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,STEPHAN Marie,62.49,35.0,37.0,40.0,50.0,-53.0,55.0,40.0,55.0,95.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,LE MALEFANT Samantha,65.33,80.0,-84.0,-86.0,95.0,101.0,-104.0,80.0,101.0,181.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,ILCHUK Kateryna,68.29,60.0,64.0,-67.0,65.0,70.0,-0.0,64.0,70.0,134.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,PLAINFOSSÉ Helene,64.01,35.0,-40.0,43.0,55.0,60.0,65.0,43.0,65.0,108.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,FOUET Audrey,64.25,43.0,46.0,-50.0,58.0,62.0,-66.0,46.0,62.0,108.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,GOHEL Helene,63.7,37.0,-41.0,41.0,62.0,-65.0,-65.0,41.0,62.0,103.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 53,PANSERAT Emma,52.42,48.0,51.0,-54.0,60.0,-63.0,-65.0,51.0,60.0,111.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 58,DESBOIS Laura,53.38,40.0,44.0,-48.0,58.0,62.0,-66.0,44.0,62.0,106.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,TRIMECH Nourhene,58.58,58.0,63.0,66.0,80.0,-85.0,85.0,66.0,85.0,151.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,STEPHAN Marie,62.49,35.0,37.0,40.0,50.0,-53.0,55.0,40.0,55.0,95.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,LE MALEFANT Samantha,65.33,80.0,-84.0,-86.0,95.0,101.0,-104.0,80.0,101.0,181.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,ILCHUK Kateryna,68.29,60.0,64.0,-67.0,65.0,70.0,-0.0,64.0,70.0,134.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,PLAINFOSSÉ Helene,64.01,35.0,-40.0,43.0,55.0,60.0,65.0,43.0,65.0,108.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,FOUET Audrey,64.25,43.0,46.0,-50.0,58.0,62.0,-66.0,46.0,62.0,108.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,GOHEL Helene,63.7,37.0,-41.0,41.0,62.0,-65.0,-65.0,41.0,62.0,103.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,DUPONT Tom,77.1,82.0,-86.0,88.0,105.0,112.0,-116.0,88.0,112.0,200.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,CROSNIER Adrien,81.36,100.0,105.0,109.0,125.0,131.0,-135.0,109.0,131.0,240.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,ALIX Clément,80.65,75.0,80.0,-83.0,-105.0,-105.0,105.0,80.0,105.0,185.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,PITON Brice,86.68,-82.0,82.0,-88.0,105.0,-112.0,-112.0,82.0,105.0,187.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,VAUTRIN Léo,92.98,75.0,82.0,88.0,85.0,-92.0,98.0,88.0,98.0,186.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,THOMAS Delahaye,90.1,65.0,-75.0,75.0,90.0,95.0,100.0,75.0,100.0,175.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 110,HAISSANT Alexandre,105.38,110.0,115.0,122.0,138.0,145.0,-150.0,122.0,145.0,267.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 110,DUMONT Fabien,104.08,105.0,110.0,-113.0,-135.0,135.0,140.0,110.0,140.0,250.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 110,NICOT Anthony,94.5,86.0,-90.0,-92.0,105.0,112.0,-116.0,86.0,112.0,198.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 110,PINCHAULT Mael,96.86,75.0,80.0,85.0,90.0,100.0,105.0,85.0,105.0,190.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,DUPONT Tom,77.1,82.0,-86.0,88.0,105.0,112.0,-116.0,88.0,112.0,200.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,CROSNIER Adrien,81.36,100.0,105.0,109.0,125.0,131.0,-135.0,109.0,131.0,240.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,ALIX Clément,80.65,75.0,80.0,-83.0,-105.0,-105.0,105.0,80.0,105.0,185.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,PITON Brice,86.68,-82.0,82.0,-88.0,105.0,-112.0,-112.0,82.0,105.0,187.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,VAUTRIN Léo,92.98,75.0,82.0,88.0,85.0,-92.0,98.0,88.0,98.0,186.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,THOMAS Delahaye,90.1,65.0,-75.0,75.0,90.0,95.0,100.0,75.0,100.0,175.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 110,HAISSANT Alexandre,105.38,110.0,115.0,122.0,138.0,145.0,-150.0,122.0,145.0,267.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 110,DUMONT Fabien,104.08,105.0,110.0,-113.0,-135.0,135.0,140.0,110.0,140.0,250.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 110,NICOT Anthony,94.5,86.0,-90.0,-92.0,105.0,112.0,-116.0,86.0,112.0,198.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 110,PINCHAULT Mael,96.86,75.0,80.0,85.0,90.0,100.0,105.0,85.0,105.0,190.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Men 65,JACOBACCI Marvin,63.6,-65.0,65.0,68.0,70.0,75.0,80.0,68.0,80.0,148.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 71,CIEZADLIK Maxime,70.55,-75.0,75.0,80.0,107.0,112.0,117.0,80.0,117.0,197.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 71,ROUXEL Sacha,70.6,60.0,65.0,-71.0,80.0,85.0,-90.0,65.0,85.0,150.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,EL-HADI Yanis,86.8,110.0,120.0,-125.0,130.0,-135.0,140.0,120.0,140.0,260.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,KAUFMANN Nicolas,83.6,100.0,-105.0,105.0,125.0,130.0,-135.0,105.0,130.0,235.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,JAROSZ Quentin,79.45,80.0,85.0,-90.0,110.0,115.0,120.0,85.0,120.0,205.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,MARTIN Vincent,82.15,85.0,-90.0,-92.0,110.0,115.0,-120.0,85.0,115.0,200.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,GIORDANO Lukas,81.35,40.0,45.0,51.0,55.0,60.0,66.0,51.0,66.0,117.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,CARLIER Vincent,93.2,100.0,105.0,-109.0,126.0,131.0,-134.0,105.0,131.0,236.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,SERRA Romain,92.2,90.0,-95.0,-100.0,120.0,125.0,-130.0,90.0,125.0,215.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,DESCHAMPS Johan,91.6,73.0,-77.0,-78.0,93.0,100.0,-105.0,73.0,100.0,173.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 110,PANNEKOUCKE Youri,97.65,70.0,75.0,80.0,105.0,-110.0,110.0,80.0,110.0,190.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 110,VALLANCE Anthony,96.15,65.0,-75.0,-75.0,90.0,100.0,-107.0,65.0,100.0,165.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 110,MEBALET Rodrigue,107.1,70.0,-75.0,-75.0,-90.0,90.0,95.0,70.0,95.0,165.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men >110,UTIA Kutea,141.7,111.0,116.0,-120.0,-130.0,130.0,136.0,116.0,136.0,252.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men >110,THERAUD CANALE Gaby,112.95,60.0,69.0,-72.0,80.0,85.0,-88.0,69.0,85.0,154.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Men 65,JACOBACCI Marvin,63.6,-65.0,65.0,68.0,70.0,75.0,80.0,68.0,80.0,148.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 71,CIEZADLIK Maxime,70.55,-75.0,75.0,80.0,107.0,112.0,117.0,80.0,117.0,197.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 71,ROUXEL Sacha,70.6,60.0,65.0,-71.0,80.0,85.0,-90.0,65.0,85.0,150.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,EL-HADI Yanis,86.8,110.0,120.0,-125.0,130.0,-135.0,140.0,120.0,140.0,260.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,KAUFMANN Nicolas,83.6,100.0,-105.0,105.0,125.0,130.0,-135.0,105.0,130.0,235.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,JAROSZ Quentin,79.45,80.0,85.0,-90.0,110.0,115.0,120.0,85.0,120.0,205.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,MARTIN Vincent,82.15,85.0,-90.0,-92.0,110.0,115.0,-120.0,85.0,115.0,200.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,GIORDANO Lukas,81.35,40.0,45.0,51.0,55.0,60.0,66.0,51.0,66.0,117.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,CARLIER Vincent,93.2,100.0,105.0,-109.0,126.0,131.0,-134.0,105.0,131.0,236.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,SERRA Romain,92.2,90.0,-95.0,-100.0,120.0,125.0,-130.0,90.0,125.0,215.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,DESCHAMPS Johan,91.6,73.0,-77.0,-78.0,93.0,100.0,-105.0,73.0,100.0,173.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 110,PANNEKOUCKE Youri,97.65,70.0,75.0,80.0,105.0,-110.0,110.0,80.0,110.0,190.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 110,VALLANCE Anthony,96.15,65.0,-75.0,-75.0,90.0,100.0,-107.0,65.0,100.0,165.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 110,MEBALET Rodrigue,107.1,70.0,-75.0,-75.0,-90.0,90.0,95.0,70.0,95.0,165.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men >110,UTIA Kutea,141.7,111.0,116.0,-120.0,-130.0,130.0,136.0,116.0,136.0,252.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men >110,THERAUD CANALE Gaby,112.95,60.0,69.0,-72.0,80.0,85.0,-88.0,69.0,85.0,154.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Men 88,LAMLICHE Amine,87.4,80.0,90.0,-95.0,105.0,115.0,-124.0,90.0,115.0,205.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 71,DEKNUYDT Maxime,70.9,70.0,75.0,-80.0,85.0,90.0,96.0,75.0,96.0,171.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,BOUELLE Théo,74.4,90.0,95.0,-98.0,-120.0,120.0,-130.0,95.0,120.0,215.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,AKBARY Mujtaba,75.3,80.0,85.0,88.0,100.0,105.0,110.0,88.0,110.0,198.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,ASRI Walid,75.2,-85.0,85.0,-92.0,110.0,-115.0,-115.0,85.0,110.0,195.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,AW Emerys,78.3,75.0,80.0,-84.0,95.0,100.0,-106.0,80.0,100.0,180.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,XIONG Chonghan,86.2,93.0,96.0,98.0,115.0,120.0,128.0,98.0,128.0,226.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,CHIV Tyaw-beau,84.9,85.0,89.0,93.0,110.0,-115.0,118.0,93.0,118.0,211.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,HAMANT Alexandre,88.2,85.0,-90.0,-92.0,105.0,-110.0,-110.0,85.0,105.0,190.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 58,MORIN Pauline,56.2,48.0,-52.0,52.0,-57.0,58.0,64.0,52.0,64.0,116.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,BADOCCHI Ada,67.4,52.0,56.0,-60.0,70.0,74.0,-76.0,56.0,74.0,130.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,PELLETIER Jade,67.6,51.0,-54.0,-54.0,64.0,69.0,-71.0,51.0,69.0,120.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,BESBAS Saida,63.3,43.0,46.0,50.0,58.0,-61.0,61.0,50.0,61.0,111.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,BOURROUILH Anne-laure,64.5,50.0,-53.0,-53.0,60.0,-64.0,-64.0,50.0,60.0,110.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,ROBERT Marie prune,66.3,50.0,-55.0,-55.0,61.0,-63.0,-65.0,50.0,61.0,111.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,DUGUET Julie,63.4,38.0,42.0,45.0,50.0,54.0,56.0,45.0,56.0,101.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 77,MOUCHET Alix,71.3,57.0,-61.0,-61.0,67.0,-71.0,-73.0,57.0,67.0,124.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women >86,ABBE Kelly,96.1,-55.0,55.0,57.0,72.0,74.0,-79.0,57.0,74.0,131.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Men 88,LAMLICHE Amine,87.4,80.0,90.0,-95.0,105.0,115.0,-124.0,90.0,115.0,205.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 71,DEKNUYDT Maxime,70.9,70.0,75.0,-80.0,85.0,90.0,96.0,75.0,96.0,171.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,BOUELLE Théo,74.4,90.0,95.0,-98.0,-120.0,120.0,-130.0,95.0,120.0,215.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,AKBARY Mujtaba,75.3,80.0,85.0,88.0,100.0,105.0,110.0,88.0,110.0,198.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,ASRI Walid,75.2,-85.0,85.0,-92.0,110.0,-115.0,-115.0,85.0,110.0,195.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,AW Emerys,78.3,75.0,80.0,-84.0,95.0,100.0,-106.0,80.0,100.0,180.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,XIONG Chonghan,86.2,93.0,96.0,98.0,115.0,120.0,128.0,98.0,128.0,226.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,CHIV Tyaw-beau,84.9,85.0,89.0,93.0,110.0,-115.0,118.0,93.0,118.0,211.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,HAMANT Alexandre,88.2,85.0,-90.0,-92.0,105.0,-110.0,-110.0,85.0,105.0,190.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 58,MORIN Pauline,56.2,48.0,-52.0,52.0,-57.0,58.0,64.0,52.0,64.0,116.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,BADOCCHI Ada,67.4,52.0,56.0,-60.0,70.0,74.0,-76.0,56.0,74.0,130.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,PELLETIER Jade,67.6,51.0,-54.0,-54.0,64.0,69.0,-71.0,51.0,69.0,120.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,BESBAS Saida,63.3,43.0,46.0,50.0,58.0,-61.0,61.0,50.0,61.0,111.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,BOURROUILH Anne-laure,64.5,50.0,-53.0,-53.0,60.0,-64.0,-64.0,50.0,60.0,110.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,ROBERT Marie prune,66.3,50.0,-55.0,-55.0,61.0,-63.0,-65.0,50.0,61.0,111.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,DUGUET Julie,63.4,38.0,42.0,45.0,50.0,54.0,56.0,45.0,56.0,101.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 77,MOUCHET Alix,71.3,57.0,-61.0,-61.0,67.0,-71.0,-73.0,57.0,67.0,124.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women >86,ABBE Kelly,96.1,-55.0,55.0,57.0,72.0,74.0,-79.0,57.0,74.0,131.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Men 88,ARIHIR Sofian,85.2,60.0,-65.0,-65.0,75.0,80.0,-83.0,60.0,80.0,140.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 65,MEY Sovannarith,64.32,83.0,87.0,-93.0,94.0,100.0,105.0,87.0,105.0,192.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 71,CHAPUIS Christopher,70.87,60.0,65.0,70.0,80.0,90.0,-95.0,70.0,90.0,160.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,GUOI Olivier,76.18,83.0,-87.0,-87.0,100.0,105.0,-108.0,83.0,105.0,188.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,JANMOT Thomas,75.17,-80.0,80.0,-90.0,100.0,105.0,-110.0,80.0,105.0,185.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,SELTANI Hicham,76.84,-70.0,70.0,-75.0,90.0,-100.0,-100.0,70.0,90.0,160.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,MANGHETTI Jean,73.49,-90.0,-90.0,-90.0,105.0,110.0,-113.0,0.0,110.0,0.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,SALMON Albin,82.0,-85.0,85.0,-88.0,103.0,-106.0,-108.0,85.0,103.0,188.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,ETTALEB Elmahdi,81.09,65.0,70.0,-73.0,85.0,90.0,95.0,70.0,95.0,165.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,DOGU Dylan,86.45,80.0,-85.0,-85.0,90.0,-91.0,-91.0,80.0,90.0,170.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,LE MÉTAYER Thomas,86.27,65.0,70.0,73.0,85.0,90.0,95.0,73.0,95.0,168.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,LECOINTE Maxime,93.98,-75.0,-75.0,75.0,100.0,-110.0,-110.0,75.0,100.0,175.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,TURRI Céline,59.7,50.0,53.0,-55.0,62.0,64.0,-66.0,53.0,64.0,117.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Men 88,ARIHIR Sofian,85.2,60.0,-65.0,-65.0,75.0,80.0,-83.0,60.0,80.0,140.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 65,MEY Sovannarith,64.32,83.0,87.0,-93.0,94.0,100.0,105.0,87.0,105.0,192.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 71,CHAPUIS Christopher,70.87,60.0,65.0,70.0,80.0,90.0,-95.0,70.0,90.0,160.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,GUOI Olivier,76.18,83.0,-87.0,-87.0,100.0,105.0,-108.0,83.0,105.0,188.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,JANMOT Thomas,75.17,-80.0,80.0,-90.0,100.0,105.0,-110.0,80.0,105.0,185.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,SELTANI Hicham,76.84,-70.0,70.0,-75.0,90.0,-100.0,-100.0,70.0,90.0,160.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,MANGHETTI Jean,73.49,-90.0,-90.0,-90.0,105.0,110.0,-113.0,0.0,110.0,0.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,SALMON Albin,82.0,-85.0,85.0,-88.0,103.0,-106.0,-108.0,85.0,103.0,188.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,ETTALEB Elmahdi,81.09,65.0,70.0,-73.0,85.0,90.0,95.0,70.0,95.0,165.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,DOGU Dylan,86.45,80.0,-85.0,-85.0,90.0,-91.0,-91.0,80.0,90.0,170.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,LE MÉTAYER Thomas,86.27,65.0,70.0,73.0,85.0,90.0,95.0,73.0,95.0,168.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,LECOINTE Maxime,93.98,-75.0,-75.0,75.0,100.0,-110.0,-110.0,75.0,100.0,175.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,TURRI Céline,59.7,50.0,53.0,-55.0,62.0,64.0,-66.0,53.0,64.0,117.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Women 69,JEBRAK Andréa,67.9,35.0,40.0,-43.0,43.0,46.0,49.0,40.0,49.0,89.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 58,ZHENG Noëlle,57.4,60.0,62.0,-64.0,75.0,-78.0,-78.0,62.0,75.0,137.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,ZHENG Axelle,60.29,52.0,54.0,-56.0,69.0,71.0,-73.0,54.0,71.0,125.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,BALAY Maeva,65.3,40.0,-43.0,43.0,50.0,53.0,-55.0,43.0,53.0,96.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 77,PEREIRA Camille,71.05,69.0,71.0,-73.0,-86.0,-86.0,-86.0,71.0,0.0,0.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Women 69,JEBRAK Andréa,67.9,35.0,40.0,-43.0,43.0,46.0,49.0,40.0,49.0,89.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 58,ZHENG Noëlle,57.4,60.0,62.0,-64.0,75.0,-78.0,-78.0,62.0,75.0,137.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,ZHENG Axelle,60.29,52.0,54.0,-56.0,69.0,71.0,-73.0,54.0,71.0,125.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,BALAY Maeva,65.3,40.0,-43.0,43.0,50.0,53.0,-55.0,43.0,53.0,96.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 77,PEREIRA Camille,71.05,69.0,71.0,-73.0,-86.0,-86.0,-86.0,71.0,0.0,0.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U15 Women 58,DURIC Ema,53.1,56.0,59.0,-62.0,-66.0,-67.0,-67.0,59.0,0.0,0.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U15 Women 69,SIGUST DUQUESNOY Lya,67.6,26.0,29.0,-31.0,36.0,39.0,42.0,29.0,42.0,71.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U17 Women 53,PY Maelys,51.7,40.0,-43.0,-43.0,50.0,-0.0,-0.0,40.0,50.0,90.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U17 Women 58,LOIGEROT Elisa,53.9,37.0,40.0,-42.0,49.0,52.0,55.0,40.0,55.0,95.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U17 Women 77,POIROT-LAIR Lou-anne,72.3,55.0,-59.0,-61.0,-67.0,67.0,-73.0,55.0,67.0,122.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 58,SANAVAY Anita,57.6,45.0,48.0,-50.0,55.0,58.0,61.0,48.0,61.0,109.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,SIMS Erin,59.5,55.0,60.0,62.0,65.0,70.0,78.0,62.0,78.0,140.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,METTER Laurie,64.3,38.0,42.0,-45.0,50.0,55.0,60.0,42.0,60.0,102.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 77,PRAK Maëva,70.7,45.0,-50.0,51.0,70.0,-74.0,75.0,51.0,75.0,126.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 77,ZAHNER Fany,75.3,52.0,55.0,58.0,63.0,67.0,71.0,58.0,71.0,129.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 77,PARADIS Charlotte - julie,71.9,45.0,48.0,-50.0,62.0,64.0,66.0,48.0,66.0,114.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U15 Women 58,DURIC Ema,53.1,56.0,59.0,-62.0,-66.0,-67.0,-67.0,59.0,0.0,0.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U15 Women 69,SIGUST DUQUESNOY Lya,67.6,26.0,29.0,-31.0,36.0,39.0,42.0,29.0,42.0,71.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U17 Women 53,PY Maelys,51.7,40.0,-43.0,-43.0,50.0,-0.0,-0.0,40.0,50.0,90.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U17 Women 58,LOIGEROT Elisa,53.9,37.0,40.0,-42.0,49.0,52.0,55.0,40.0,55.0,95.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U17 Women 77,POIROT-LAIR Lou-anne,72.3,55.0,-59.0,-61.0,-67.0,67.0,-73.0,55.0,67.0,122.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 58,SANAVAY Anita,57.6,45.0,48.0,-50.0,55.0,58.0,61.0,48.0,61.0,109.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,SIMS Erin,59.5,55.0,60.0,62.0,65.0,70.0,78.0,62.0,78.0,140.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,METTER Laurie,64.3,38.0,42.0,-45.0,50.0,55.0,60.0,42.0,60.0,102.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 77,PRAK Maëva,70.7,45.0,-50.0,51.0,70.0,-74.0,75.0,51.0,75.0,126.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 77,ZAHNER Fany,75.3,52.0,55.0,58.0,63.0,67.0,71.0,58.0,71.0,129.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 77,PARADIS Charlotte - julie,71.9,45.0,48.0,-50.0,62.0,64.0,66.0,48.0,66.0,114.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U17 Women 58,RICHEVAUX Jade,56.5,53.0,56.0,-59.0,65.0,-69.0,69.0,56.0,69.0,125.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U17 Women 58,BAYKOV-SVIATOKHA Eva,56.8,47.0,-50.0,-50.0,55.0,59.0,-61.0,47.0,59.0,106.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Women 69,BEDEIR LARADE Safana,68.6,70.0,75.0,-78.0,86.0,-90.0,-92.0,75.0,86.0,161.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 58,HOLZ Nathalie,54.1,45.0,50.0,-52.0,-66.0,66.0,-70.0,50.0,66.0,116.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,GHILBERT Lisa,62.2,-70.0,-70.0,70.0,80.0,85.0,-88.0,70.0,85.0,155.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,GAUSSON Laurie,61.0,61.0,-64.0,-65.0,75.0,-80.0,80.0,61.0,80.0,141.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,DELACHAT Mathilde,64.3,60.0,65.0,70.0,82.0,87.0,-91.0,70.0,87.0,157.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,HERPSONT HORRILLO Louise,65.6,63.0,-66.0,66.0,85.0,-90.0,-90.0,66.0,85.0,151.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,SIVASOTHEY Eunice agnes,66.3,-60.0,60.0,63.0,75.0,-79.0,-80.0,63.0,75.0,138.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,LEVRERO Camille,65.6,50.0,55.0,58.0,70.0,75.0,-80.0,58.0,75.0,133.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 77,AIT SI AMER Nora,71.5,65.0,-69.0,-69.0,75.0,-80.0,-80.0,65.0,75.0,140.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women >86,LUBIN Darnley,90.8,68.0,72.0,-75.0,-84.0,84.0,90.0,72.0,90.0,162.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,DOUCET Sébastien,79.7,-80.0,80.0,85.0,100.0,110.0,115.0,85.0,115.0,200.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 110,ORTUNEZ Lionel,97.2,50.0,55.0,-58.0,65.0,-70.0,70.0,55.0,70.0,125.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U17 Women 58,RICHEVAUX Jade,56.5,53.0,56.0,-59.0,65.0,-69.0,69.0,56.0,69.0,125.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U17 Women 58,BAYKOV-SVIATOKHA Eva,56.8,47.0,-50.0,-50.0,55.0,59.0,-61.0,47.0,59.0,106.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Women 69,BEDEIR LARADE Safana,68.6,70.0,75.0,-78.0,86.0,-90.0,-92.0,75.0,86.0,161.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 58,HOLZ Nathalie,54.1,45.0,50.0,-52.0,-66.0,66.0,-70.0,50.0,66.0,116.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,GHILBERT Lisa,62.2,-70.0,-70.0,70.0,80.0,85.0,-88.0,70.0,85.0,155.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,GAUSSON Laurie,61.0,61.0,-64.0,-65.0,75.0,-80.0,80.0,61.0,80.0,141.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,DELACHAT Mathilde,64.3,60.0,65.0,70.0,82.0,87.0,-91.0,70.0,87.0,157.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,HERPSONT HORRILLO Louise,65.6,63.0,-66.0,66.0,85.0,-90.0,-90.0,66.0,85.0,151.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,SIVASOTHEY Eunice agnes,66.3,-60.0,60.0,63.0,75.0,-79.0,-80.0,63.0,75.0,138.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,LEVRERO Camille,65.6,50.0,55.0,58.0,70.0,75.0,-80.0,58.0,75.0,133.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 77,AIT SI AMER Nora,71.5,65.0,-69.0,-69.0,75.0,-80.0,-80.0,65.0,75.0,140.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women >86,LUBIN Darnley,90.8,68.0,72.0,-75.0,-84.0,84.0,90.0,72.0,90.0,162.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,DOUCET Sébastien,79.7,-80.0,80.0,85.0,100.0,110.0,115.0,85.0,115.0,200.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 110,ORTUNEZ Lionel,97.2,50.0,55.0,-58.0,65.0,-70.0,70.0,55.0,70.0,125.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U17 Men 71,YODER Ruben,67.7,37.0,40.0,-42.0,48.0,52.0,55.0,40.0,55.0,95.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U17 Men 71,DURIC Adis,69.3,-74.0,-74.0,-74.0,85.0,-90.0,-95.0,0.0,85.0,0.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U17 Men 79,MAUGE--GRAFF Paul,71.6,-54.0,54.0,58.0,69.0,73.0,-77.0,58.0,73.0,131.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,GRENOT Matthieu,77.2,98.0,103.0,-106.0,120.0,127.0,-132.0,103.0,127.0,230.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,BULLE William,78.3,92.0,97.0,-102.0,115.0,120.0,125.0,97.0,125.0,222.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,CHATEAU Yoann,75.2,60.0,65.0,-70.0,80.0,-85.0,-91.0,65.0,80.0,145.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,NICOLLE Anthony,85.9,85.0,93.0,100.0,90.0,100.0,-110.0,100.0,100.0,200.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,AUDINOT Valentin,88.2,98.0,-102.0,-105.0,130.0,-135.0,-138.0,98.0,130.0,228.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U17 Men 71,YODER Ruben,67.7,37.0,40.0,-42.0,48.0,52.0,55.0,40.0,55.0,95.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U17 Men 71,DURIC Adis,69.3,-74.0,-74.0,-74.0,85.0,-90.0,-95.0,0.0,85.0,0.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U17 Men 79,MAUGE--GRAFF Paul,71.6,-54.0,54.0,58.0,69.0,73.0,-77.0,58.0,73.0,131.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,GRENOT Matthieu,77.2,98.0,103.0,-106.0,120.0,127.0,-132.0,103.0,127.0,230.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,BULLE William,78.3,92.0,97.0,-102.0,115.0,120.0,125.0,97.0,125.0,222.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,CHATEAU Yoann,75.2,60.0,65.0,-70.0,80.0,-85.0,-91.0,65.0,80.0,145.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,NICOLLE Anthony,85.9,85.0,93.0,100.0,90.0,100.0,-110.0,100.0,100.0,200.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,AUDINOT Valentin,88.2,98.0,-102.0,-105.0,130.0,-135.0,-138.0,98.0,130.0,228.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,FREYLING Mathieu,78.6,100.0,-107.0,107.0,120.0,-130.0,-131.0,107.0,120.0,227.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,SEL Xavier,76.8,95.0,103.0,-107.0,110.0,118.0,-123.0,103.0,118.0,221.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,MICHELET Nicolas,73.8,90.0,96.0,100.0,110.0,-116.0,-118.0,100.0,110.0,210.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,DALOUR Killian,80.8,95.0,100.0,-103.0,120.0,125.0,130.0,100.0,130.0,230.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,CAUPENNE Carl,82.1,95.0,-100.0,-100.0,125.0,-128.0,128.0,95.0,128.0,223.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,DEROUET Romain,86.3,92.0,97.0,-102.0,115.0,-123.0,123.0,97.0,123.0,220.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,LEE Jung ho,84.1,95.0,98.0,-100.0,110.0,115.0,-120.0,98.0,115.0,213.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,LEQUETTE Valentin,86.3,95.0,100.0,-103.0,-115.0,115.0,-120.0,100.0,115.0,215.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,DE WATAZZI Darrell,82.3,75.0,78.0,81.0,90.0,95.0,100.0,81.0,100.0,181.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,LOMBART Gauthier,82.8,65.0,70.0,72.0,-90.0,90.0,-92.0,72.0,90.0,162.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,NGOUANOM NZALI Jeremie junior,93.1,140.0,150.0,-0.0,180.0,190.0,-0.0,150.0,190.0,340.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,LARROQUE Jeremy,92.8,103.0,-108.0,108.0,145.0,150.0,-152.0,108.0,150.0,258.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,MEHAULT Federic,88.3,110.0,112.0,-117.0,130.0,135.0,-140.0,112.0,135.0,247.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 110,GLEVAREC Maxence,97.2,100.0,-105.0,105.0,-125.0,125.0,130.0,105.0,130.0,235.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 110,MAUMAIRE Loïc,105.1,105.0,110.0,-115.0,125.0,-131.0,-131.0,110.0,125.0,235.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,FREYLING Mathieu,78.6,100.0,-107.0,107.0,120.0,-130.0,-131.0,107.0,120.0,227.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,SEL Xavier,76.8,95.0,103.0,-107.0,110.0,118.0,-123.0,103.0,118.0,221.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,MICHELET Nicolas,73.8,90.0,96.0,100.0,110.0,-116.0,-118.0,100.0,110.0,210.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,DALOUR Killian,80.8,95.0,100.0,-103.0,120.0,125.0,130.0,100.0,130.0,230.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,CAUPENNE Carl,82.1,95.0,-100.0,-100.0,125.0,-128.0,128.0,95.0,128.0,223.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,DEROUET Romain,86.3,92.0,97.0,-102.0,115.0,-123.0,123.0,97.0,123.0,220.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,LEE Jung ho,84.1,95.0,98.0,-100.0,110.0,115.0,-120.0,98.0,115.0,213.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,LEQUETTE Valentin,86.3,95.0,100.0,-103.0,-115.0,115.0,-120.0,100.0,115.0,215.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,DE WATAZZI Darrell,82.3,75.0,78.0,81.0,90.0,95.0,100.0,81.0,100.0,181.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,LOMBART Gauthier,82.8,65.0,70.0,72.0,-90.0,90.0,-92.0,72.0,90.0,162.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,NGOUANOM NZALI Jeremie junior,93.1,140.0,150.0,-0.0,180.0,190.0,-0.0,150.0,190.0,340.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,LARROQUE Jeremy,92.8,103.0,-108.0,108.0,145.0,150.0,-152.0,108.0,150.0,258.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,MEHAULT Federic,88.3,110.0,112.0,-117.0,130.0,135.0,-140.0,112.0,135.0,247.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 110,GLEVAREC Maxence,97.2,100.0,-105.0,105.0,-125.0,125.0,130.0,105.0,130.0,235.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 110,MAUMAIRE Loïc,105.1,105.0,110.0,-115.0,125.0,-131.0,-131.0,110.0,125.0,235.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Women 69,RAYNAUD Laura,63.71,65.0,-68.0,68.0,83.0,86.0,89.0,68.0,89.0,157.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Women 69,EYMERY Margot,63.9,55.0,58.0,-60.0,66.0,69.0,72.0,58.0,72.0,130.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Women 77,MASSON Lilou,69.26,63.0,65.0,-67.0,-81.0,82.0,84.0,65.0,84.0,149.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Women 77,CAVALLINI Marie,71.4,64.0,67.0,-70.0,79.0,-82.0,82.0,67.0,82.0,149.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 53,GAUTIER Manon,49.16,36.0,38.0,-40.0,45.0,48.0,-50.0,38.0,48.0,86.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 58,LYCETT Johanna,53.3,-45.0,-45.0,45.0,55.0,59.0,61.0,45.0,61.0,106.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,VAILLES Shirley,60.54,-60.0,-60.0,60.0,75.0,78.0,-81.0,60.0,78.0,138.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,JOUGLA Amelie,58.85,-59.0,59.0,-61.0,72.0,75.0,-78.0,59.0,75.0,134.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,POULAIN Chloé,62.39,-43.0,43.0,46.0,53.0,56.0,58.0,46.0,58.0,104.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 77,VAN MEERBECK Amelie,76.9,83.0,87.0,90.0,103.0,-106.0,-106.0,90.0,103.0,193.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Women 69,RAYNAUD Laura,63.71,65.0,-68.0,68.0,83.0,86.0,89.0,68.0,89.0,157.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Women 69,EYMERY Margot,63.9,55.0,58.0,-60.0,66.0,69.0,72.0,58.0,72.0,130.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Women 77,MASSON Lilou,69.26,63.0,65.0,-67.0,-81.0,82.0,84.0,65.0,84.0,149.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Women 77,CAVALLINI Marie,71.4,64.0,67.0,-70.0,79.0,-82.0,82.0,67.0,82.0,149.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 53,GAUTIER Manon,49.16,36.0,38.0,-40.0,45.0,48.0,-50.0,38.0,48.0,86.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 58,LYCETT Johanna,53.3,-45.0,-45.0,45.0,55.0,59.0,61.0,45.0,61.0,106.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,VAILLES Shirley,60.54,-60.0,-60.0,60.0,75.0,78.0,-81.0,60.0,78.0,138.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,JOUGLA Amelie,58.85,-59.0,59.0,-61.0,72.0,75.0,-78.0,59.0,75.0,134.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,POULAIN Chloé,62.39,-43.0,43.0,46.0,53.0,56.0,58.0,46.0,58.0,104.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 77,VAN MEERBECK Amelie,76.9,83.0,87.0,90.0,103.0,-106.0,-106.0,90.0,103.0,193.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Men 71,HENNEUSE Mathias,68.15,81.0,85.0,-88.0,105.0,110.0,115.0,85.0,115.0,200.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Men 88,ANDRIEU Oscar,80.75,75.0,78.0,81.0,86.0,90.0,93.0,81.0,93.0,174.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Men >110,FERRON Rudy,111.0,90.0,95.0,100.0,110.0,115.0,120.0,100.0,120.0,220.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 71,VELIA Timothee,67.3,73.0,76.0,-81.0,84.0,88.0,91.0,76.0,91.0,167.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,SCHEIT Romain,75.0,-75.0,77.0,-81.0,100.0,105.0,110.0,77.0,110.0,187.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,HAMELIN Thibault,79.4,86.0,89.0,-92.0,102.0,106.0,110.0,89.0,110.0,199.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,LE DISSEZ Rayan,83.2,-85.0,85.0,-90.0,103.0,107.0,-110.0,85.0,107.0,192.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,ALBENGA Nicolas,84.5,-73.0,76.0,80.0,93.0,97.0,100.0,80.0,100.0,180.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,KIEFFER Guillaume,90.0,107.0,112.0,-117.0,130.0,136.0,142.0,112.0,142.0,254.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 110,NONNIS Kilian,100.0,73.0,78.0,-81.0,94.0,98.0,102.0,78.0,102.0,180.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Men 71,HENNEUSE Mathias,68.15,81.0,85.0,-88.0,105.0,110.0,115.0,85.0,115.0,200.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Men 88,ANDRIEU Oscar,80.75,75.0,78.0,81.0,86.0,90.0,93.0,81.0,93.0,174.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Men >110,FERRON Rudy,111.0,90.0,95.0,100.0,110.0,115.0,120.0,100.0,120.0,220.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 71,VELIA Timothee,67.3,73.0,76.0,-81.0,84.0,88.0,91.0,76.0,91.0,167.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,SCHEIT Romain,75.0,-75.0,77.0,-81.0,100.0,105.0,110.0,77.0,110.0,187.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,HAMELIN Thibault,79.4,86.0,89.0,-92.0,102.0,106.0,110.0,89.0,110.0,199.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,LE DISSEZ Rayan,83.2,-85.0,85.0,-90.0,103.0,107.0,-110.0,85.0,107.0,192.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,ALBENGA Nicolas,84.5,-73.0,76.0,80.0,93.0,97.0,100.0,80.0,100.0,180.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,KIEFFER Guillaume,90.0,107.0,112.0,-117.0,130.0,136.0,142.0,112.0,142.0,254.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 110,NONNIS Kilian,100.0,73.0,78.0,-81.0,94.0,98.0,102.0,78.0,102.0,180.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U15 Women 48,DEFOUR-COCHET Heloise,47.9,30.0,35.0,-40.0,40.0,45.0,-49.0,35.0,45.0,80.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U17 Women 53,LE CARRE MERCKEL Lina,52.6,40.0,44.0,48.0,53.0,56.0,58.0,48.0,58.0,106.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Women 86,BAUDOUIN Marjane,80.4,43.0,46.0,48.0,53.0,55.0,-58.0,48.0,55.0,103.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 53,CORONEL Lorine,51.4,40.0,-42.0,-42.0,50.0,-54.0,54.0,40.0,54.0,94.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 58,LAVILLAUGOUET Morgane,55.7,48.0,52.0,56.0,68.0,72.0,-76.0,56.0,72.0,128.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 58,LE CORRE Estelle,56.6,43.0,46.0,48.0,60.0,64.0,68.0,48.0,68.0,116.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,MAINCENT Laetitia,60.3,-66.0,66.0,69.0,75.0,80.0,82.0,69.0,82.0,151.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,RAHMANI Aciyah,67.8,67.0,70.0,-73.0,86.0,-89.0,-91.0,70.0,86.0,156.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,FERNANDES Liliane,65.8,-55.0,55.0,58.0,72.0,76.0,80.0,58.0,80.0,138.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,AZAGOURY Sephora,67.3,44.0,47.0,-49.0,63.0,66.0,-68.0,47.0,66.0,113.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,GAIGEOT Erinn,66.7,43.0,-48.0,-48.0,55.0,58.0,-61.0,43.0,58.0,101.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,BELKHIRIA Soraya,63.4,-43.0,-43.0,-43.0,55.0,58.0,-61.0,0.0,58.0,0.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 86,SAICIC Sonia,77.3,81.0,84.0,-87.0,91.0,-95.0,96.0,84.0,96.0,180.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women >86,MARTINE Alexandrine,95.8,-53.0,53.0,56.0,70.0,74.0,-78.0,56.0,74.0,130.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U15 Women 48,DEFOUR-COCHET Heloise,47.9,30.0,35.0,-40.0,40.0,45.0,-49.0,35.0,45.0,80.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U17 Women 53,LE CARRE MERCKEL Lina,52.6,40.0,44.0,48.0,53.0,56.0,58.0,48.0,58.0,106.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Women 86,BAUDOUIN Marjane,80.4,43.0,46.0,48.0,53.0,55.0,-58.0,48.0,55.0,103.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 53,CORONEL Lorine,51.4,40.0,-42.0,-42.0,50.0,-54.0,54.0,40.0,54.0,94.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 58,LAVILLAUGOUET Morgane,55.7,48.0,52.0,56.0,68.0,72.0,-76.0,56.0,72.0,128.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 58,LE CORRE Estelle,56.6,43.0,46.0,48.0,60.0,64.0,68.0,48.0,68.0,116.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 63,MAINCENT Laetitia,60.3,-66.0,66.0,69.0,75.0,80.0,82.0,69.0,82.0,151.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,RAHMANI Aciyah,67.8,67.0,70.0,-73.0,86.0,-89.0,-91.0,70.0,86.0,156.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,FERNANDES Liliane,65.8,-55.0,55.0,58.0,72.0,76.0,80.0,58.0,80.0,138.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,AZAGOURY Sephora,67.3,44.0,47.0,-49.0,63.0,66.0,-68.0,47.0,66.0,113.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,GAIGEOT Erinn,66.7,43.0,-48.0,-48.0,55.0,58.0,-61.0,43.0,58.0,101.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 69,BELKHIRIA Soraya,63.4,-43.0,-43.0,-43.0,55.0,58.0,-61.0,0.0,58.0,0.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women 86,SAICIC Sonia,77.3,81.0,84.0,-87.0,91.0,-95.0,96.0,84.0,96.0,180.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Women >86,MARTINE Alexandrine,95.8,-53.0,53.0,56.0,70.0,74.0,-78.0,56.0,74.0,130.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U17 Men 79,ALBOUY Florent,75.7,80.0,84.0,-87.0,108.0,-112.0,112.0,84.0,112.0,196.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Men 79,GAIGEOT Nicolas,76.4,74.0,78.0,-81.0,95.0,102.0,-105.0,78.0,102.0,180.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 65,PECHARD Antoine,61.8,-85.0,85.0,-92.0,107.0,112.0,-115.0,85.0,112.0,197.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 65,MERCIER Nicolas,63.3,62.0,67.0,69.0,82.0,-86.0,-86.0,69.0,82.0,151.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,BRETON Michael,74.3,80.0,84.0,-87.0,100.0,105.0,-108.0,84.0,105.0,189.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,OTHMANI Maher,76.1,75.0,-80.0,80.0,98.0,102.0,-105.0,80.0,102.0,182.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,DE CARVALHO Jonathan,78.7,55.0,60.0,-65.0,80.0,85.0,-88.0,60.0,85.0,145.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,DORSEY Oscar,79.4,110.0,-115.0,115.0,136.0,140.0,145.0,115.0,145.0,260.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,PRIGENT Maxime,84.9,85.0,92.0,98.0,114.0,120.0,125.0,98.0,125.0,223.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,MARLE Stephan,83.8,92.0,-96.0,97.0,112.0,-120.0,120.0,97.0,120.0,217.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,SONDEREGGER Lucas,81.7,-87.0,91.0,-97.0,108.0,-112.0,-112.0,91.0,108.0,199.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,AURIFEILLE Aurelien,80.0,-84.0,84.0,89.0,100.0,105.0,-109.0,89.0,105.0,194.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,HENAULT Thomas,81.4,80.0,84.0,-88.0,98.0,-105.0,-105.0,84.0,98.0,182.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,ANGOUNDOU Jean jacques,92.4,100.0,104.0,-108.0,120.0,125.0,-130.0,104.0,125.0,229.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,MULLER Max,93.4,-95.0,95.0,100.0,115.0,123.0,-130.0,100.0,123.0,223.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U17 Men 79,ALBOUY Florent,75.7,80.0,84.0,-87.0,108.0,-112.0,112.0,84.0,112.0,196.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,U20 Men 79,GAIGEOT Nicolas,76.4,74.0,78.0,-81.0,95.0,102.0,-105.0,78.0,102.0,180.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 65,PECHARD Antoine,61.8,-85.0,85.0,-92.0,107.0,112.0,-115.0,85.0,112.0,197.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 65,MERCIER Nicolas,63.3,62.0,67.0,69.0,82.0,-86.0,-86.0,69.0,82.0,151.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,BRETON Michael,74.3,80.0,84.0,-87.0,100.0,105.0,-108.0,84.0,105.0,189.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,OTHMANI Maher,76.1,75.0,-80.0,80.0,98.0,102.0,-105.0,80.0,102.0,182.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 79,DE CARVALHO Jonathan,78.7,55.0,60.0,-65.0,80.0,85.0,-88.0,60.0,85.0,145.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,DORSEY Oscar,79.4,110.0,-115.0,115.0,136.0,140.0,145.0,115.0,145.0,260.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,PRIGENT Maxime,84.9,85.0,92.0,98.0,114.0,120.0,125.0,98.0,125.0,223.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,MARLE Stephan,83.8,92.0,-96.0,97.0,112.0,-120.0,120.0,97.0,120.0,217.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,SONDEREGGER Lucas,81.7,-87.0,91.0,-97.0,108.0,-112.0,-112.0,91.0,108.0,199.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,AURIFEILLE Aurelien,80.0,-84.0,84.0,89.0,100.0,105.0,-109.0,89.0,105.0,194.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 88,HENAULT Thomas,81.4,80.0,84.0,-88.0,98.0,-105.0,-105.0,84.0,98.0,182.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,ANGOUNDOU Jean jacques,92.4,100.0,104.0,-108.0,120.0,125.0,-130.0,104.0,125.0,229.0
+IDF - REG 1 - Cachan - 3e tour SAM Chelles 2 Cachan 1 plateau 3,2026-01-10,SEN Men 94,MULLER Max,93.4,-95.0,95.0,100.0,115.0,123.0,-130.0,100.0,123.0,223.0

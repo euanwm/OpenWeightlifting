@@ -1,0 +1,475 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U17 Women 58,RICHEVAUX Jade,56.1,56.0,-59.0,59.0,65.0,70.0,-75.0,59.0,70.0,129.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U17 Women 58,BAYKOV-SVIATOKHA Eva,55.5,48.0,-51.0,-51.0,55.0,59.0,62.0,48.0,62.0,110.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 58,BLANCHET Esther,55.64,-38.0,38.0,-42.0,53.0,-58.0,58.0,38.0,58.0,96.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 63,FRILLEY Brenda,60.6,-50.0,-50.0,50.0,68.0,-70.0,-70.0,50.0,68.0,118.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 63,SROUJI Julia,58.2,-48.0,-50.0,50.0,-62.0,-64.0,64.0,50.0,64.0,114.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 63,DUDICOURT Marie,60.9,38.0,41.0,43.0,55.0,-58.0,-58.0,43.0,55.0,98.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 63,VICAINNE Marion,59.8,34.0,-36.0,-36.0,-45.0,-45.0,-45.0,34.0,0.0,0.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,DELACHAT Mathilde,63.5,-65.0,65.0,70.0,80.0,87.0,-91.0,70.0,87.0,157.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,LOISNARD Alissia,65.3,60.0,64.0,68.0,77.0,81.0,-83.0,68.0,81.0,149.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 77,REZZAK Amelle,73.2,65.0,68.0,-70.0,75.0,79.0,82.0,68.0,82.0,150.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 77,BORGHI Mathilde,72.3,46.0,49.0,50.0,63.0,66.0,-69.0,50.0,66.0,116.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 77,MAZEAUD Justine,71.7,38.0,41.0,43.0,43.0,45.0,-47.0,43.0,45.0,88.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women >86,LUBIN Darnley,90.1,-65.0,65.0,-75.0,85.0,90.0,95.0,65.0,95.0,160.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women >86,BEN HASSI Nawel,95.2,58.0,61.0,63.0,-75.0,75.0,80.0,63.0,80.0,143.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U17 Men 71,MBENGA HARDOROCK Kylian emmanuel,70.6,80.0,87.0,-90.0,95.0,-103.0,-0.0,87.0,95.0,182.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,DEROUET Romain,86.6,90.0,96.0,100.0,110.0,116.0,122.0,100.0,122.0,222.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U20 Women 53,LEROY Cathie,52.5,-40.0,40.0,-45.0,55.0,-59.0,-61.0,40.0,55.0,95.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,PELLETIER Jade,66.1,50.0,54.0,-57.0,65.0,69.0,-71.0,54.0,69.0,123.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U17 Men 71,MBENGA HARDOROCK Kylian emmanuel,70.6,80.0,87.0,-90.0,95.0,-103.0,-0.0,87.0,95.0,182.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,DEROUET Romain,86.6,90.0,96.0,100.0,110.0,116.0,122.0,100.0,122.0,222.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U20 Women 53,LEROY Cathie,52.5,-40.0,40.0,-45.0,55.0,-59.0,-61.0,40.0,55.0,95.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,PELLETIER Jade,66.1,50.0,54.0,-57.0,65.0,69.0,-71.0,54.0,69.0,123.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U17 Women 63,LOUAHEB Selma,62.3,35.0,38.0,40.0,45.0,48.0,50.0,40.0,50.0,90.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U20 Women 53,SALLES Lea,52.5,-42.0,42.0,45.0,56.0,59.0,-62.0,45.0,59.0,104.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 48,FERENBACH Elsa,46.6,40.0,43.0,-46.0,50.0,53.0,-56.0,43.0,53.0,96.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 48,MA Cécile,47.5,35.0,37.0,39.0,43.0,46.0,-50.0,39.0,46.0,85.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 58,ZHENG Noëlle,57.5,59.0,-62.0,62.0,73.0,-76.0,-77.0,62.0,73.0,135.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 58,LAMBERT Lise,56.85,50.0,53.0,56.0,73.0,76.0,-78.0,56.0,76.0,132.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 58,HOLZ Nathalie,54.1,45.0,50.0,-53.0,65.0,70.0,-73.0,50.0,70.0,120.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 58,GLAIZE Aurore,55.7,46.0,48.0,-52.0,56.0,59.0,63.0,48.0,63.0,111.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 63,ZHENG Axelle,59.1,52.0,54.0,56.0,70.0,-72.0,-72.0,56.0,70.0,126.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,HERPSONT HORRILLO Louise,67.45,65.0,-70.0,-70.0,85.0,-88.0,90.0,65.0,90.0,155.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,LEVRERO Camille,65.2,50.0,54.0,56.0,70.0,75.0,78.0,56.0,78.0,134.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,BALAY Maeva,65.8,42.0,44.0,-46.0,51.0,53.0,-55.0,44.0,53.0,97.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 77,PEREIRA Camille,70.5,69.0,71.0,-73.0,83.0,87.0,-90.0,71.0,87.0,158.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 77,MAKOWSKI Eugénie,75.1,65.0,-68.0,68.0,80.0,85.0,-0.0,68.0,85.0,153.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 77,AIT SI AMER Nora,73.1,64.0,-68.0,68.0,75.0,80.0,-82.0,68.0,80.0,148.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 77,GUNARATNAM Sangavi,73.0,43.0,46.0,-49.0,54.0,57.0,-60.0,46.0,57.0,103.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U17 Women 63,LOUAHEB Selma,62.3,35.0,38.0,40.0,45.0,48.0,50.0,40.0,50.0,90.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U20 Women 53,SALLES Lea,52.5,-42.0,42.0,45.0,56.0,59.0,-62.0,45.0,59.0,104.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 48,FERENBACH Elsa,46.6,40.0,43.0,-46.0,50.0,53.0,-56.0,43.0,53.0,96.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 48,MA Cécile,47.5,35.0,37.0,39.0,43.0,46.0,-50.0,39.0,46.0,85.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 58,ZHENG Noëlle,57.5,59.0,-62.0,62.0,73.0,-76.0,-77.0,62.0,73.0,135.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 58,LAMBERT Lise,56.85,50.0,53.0,56.0,73.0,76.0,-78.0,56.0,76.0,132.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 58,HOLZ Nathalie,54.1,45.0,50.0,-53.0,65.0,70.0,-73.0,50.0,70.0,120.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 58,GLAIZE Aurore,55.7,46.0,48.0,-52.0,56.0,59.0,63.0,48.0,63.0,111.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 63,ZHENG Axelle,59.1,52.0,54.0,56.0,70.0,-72.0,-72.0,56.0,70.0,126.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,HERPSONT HORRILLO Louise,67.45,65.0,-70.0,-70.0,85.0,-88.0,90.0,65.0,90.0,155.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,LEVRERO Camille,65.2,50.0,54.0,56.0,70.0,75.0,78.0,56.0,78.0,134.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,BALAY Maeva,65.8,42.0,44.0,-46.0,51.0,53.0,-55.0,44.0,53.0,97.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 77,PEREIRA Camille,70.5,69.0,71.0,-73.0,83.0,87.0,-90.0,71.0,87.0,158.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 77,MAKOWSKI Eugénie,75.1,65.0,-68.0,68.0,80.0,85.0,-0.0,68.0,85.0,153.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 77,AIT SI AMER Nora,73.1,64.0,-68.0,68.0,75.0,80.0,-82.0,68.0,80.0,148.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 77,GUNARATNAM Sangavi,73.0,43.0,46.0,-49.0,54.0,57.0,-60.0,46.0,57.0,103.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U20 Men 88,ARIHIR Sofian,85.3,60.0,-65.0,65.0,-75.0,-75.0,75.0,65.0,75.0,140.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 71,CIEZADLIK Maxime,69.8,75.0,-80.0,-80.0,105.0,-110.0,110.0,75.0,110.0,185.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,SAADI Tiseme,77.9,90.0,95.0,-100.0,110.0,-115.0,-120.0,95.0,110.0,205.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,ASRI Walid,76.0,-88.0,88.0,-92.0,110.0,-115.0,-115.0,88.0,110.0,198.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,GUOI Olivier,76.3,-82.0,82.0,-85.0,100.0,105.0,-111.0,82.0,105.0,187.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,MAVIEL Clément,77.6,75.0,80.0,-85.0,100.0,105.0,-110.0,80.0,105.0,185.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,TORREZ DAURA Miguel adolfo,83.8,95.0,103.0,-107.0,125.0,133.0,-137.0,103.0,133.0,236.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,JAROSZ Quentin,79.4,80.0,85.0,90.0,115.0,-120.0,-121.0,90.0,115.0,205.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,SALMON Albin,83.1,85.0,88.0,-94.0,100.0,105.0,-110.0,88.0,105.0,193.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,HAMANT Alexandre,87.0,80.0,85.0,-90.0,-95.0,-95.0,95.0,85.0,95.0,180.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,LE MÉTAYER Thomas,86.7,71.0,76.0,80.0,90.0,-95.0,-95.0,80.0,90.0,170.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,SZLACHTER Jeremy,85.1,70.0,-75.0,-75.0,90.0,95.0,-100.0,70.0,95.0,165.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,NGOUANOM NZALI Jeremie junior,90.2,121.0,130.0,-0.0,155.0,165.0,-0.0,130.0,165.0,295.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,LARROQUE Jeremy,92.0,105.0,110.0,113.0,-145.0,147.0,153.0,113.0,153.0,266.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,CARLIER Vincent,92.6,100.0,105.0,108.0,123.0,128.0,-133.0,108.0,128.0,236.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,LAMOTHE Francois,89.1,80.0,85.0,-90.0,105.0,-110.0,-110.0,85.0,105.0,190.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 110,VEJUX Gianni,104.2,105.0,113.0,-120.0,140.0,147.0,-152.0,113.0,147.0,260.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U20 Men 88,ARIHIR Sofian,85.3,60.0,-65.0,65.0,-75.0,-75.0,75.0,65.0,75.0,140.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 71,CIEZADLIK Maxime,69.8,75.0,-80.0,-80.0,105.0,-110.0,110.0,75.0,110.0,185.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,SAADI Tiseme,77.9,90.0,95.0,-100.0,110.0,-115.0,-120.0,95.0,110.0,205.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,ASRI Walid,76.0,-88.0,88.0,-92.0,110.0,-115.0,-115.0,88.0,110.0,198.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,GUOI Olivier,76.3,-82.0,82.0,-85.0,100.0,105.0,-111.0,82.0,105.0,187.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,MAVIEL Clément,77.6,75.0,80.0,-85.0,100.0,105.0,-110.0,80.0,105.0,185.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,TORREZ DAURA Miguel adolfo,83.8,95.0,103.0,-107.0,125.0,133.0,-137.0,103.0,133.0,236.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,JAROSZ Quentin,79.4,80.0,85.0,90.0,115.0,-120.0,-121.0,90.0,115.0,205.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,SALMON Albin,83.1,85.0,88.0,-94.0,100.0,105.0,-110.0,88.0,105.0,193.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,HAMANT Alexandre,87.0,80.0,85.0,-90.0,-95.0,-95.0,95.0,85.0,95.0,180.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,LE MÉTAYER Thomas,86.7,71.0,76.0,80.0,90.0,-95.0,-95.0,80.0,90.0,170.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,SZLACHTER Jeremy,85.1,70.0,-75.0,-75.0,90.0,95.0,-100.0,70.0,95.0,165.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,NGOUANOM NZALI Jeremie junior,90.2,121.0,130.0,-0.0,155.0,165.0,-0.0,130.0,165.0,295.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,LARROQUE Jeremy,92.0,105.0,110.0,113.0,-145.0,147.0,153.0,113.0,153.0,266.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,CARLIER Vincent,92.6,100.0,105.0,108.0,123.0,128.0,-133.0,108.0,128.0,236.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,LAMOTHE Francois,89.1,80.0,85.0,-90.0,105.0,-110.0,-110.0,85.0,105.0,190.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 110,VEJUX Gianni,104.2,105.0,113.0,-120.0,140.0,147.0,-152.0,113.0,147.0,260.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,MAVIEL Clément,77.6,75.0,80.0,-85.0,100.0,105.0,-110.0,80.0,105.0,185.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,TORREZ DAURA Miguel adolfo,83.8,95.0,103.0,-107.0,125.0,133.0,-137.0,103.0,133.0,236.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 58,GLAIZE Aurore,55.7,46.0,48.0,-52.0,56.0,59.0,63.0,48.0,63.0,111.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,LEVRERO Camille,65.2,50.0,54.0,56.0,70.0,75.0,78.0,56.0,78.0,134.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,MAVIEL Clément,77.6,75.0,80.0,-85.0,100.0,105.0,-110.0,80.0,105.0,185.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,TORREZ DAURA Miguel adolfo,83.8,95.0,103.0,-107.0,125.0,133.0,-137.0,103.0,133.0,236.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 58,GLAIZE Aurore,55.7,46.0,48.0,-52.0,56.0,59.0,63.0,48.0,63.0,111.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,LEVRERO Camille,65.2,50.0,54.0,56.0,70.0,75.0,78.0,56.0,78.0,134.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,DUPONT Tom,77.0,78.0,82.0,86.0,102.0,108.0,113.0,86.0,113.0,199.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,BIGOT Aurelien,74.1,70.0,-75.0,-75.0,90.0,100.0,-105.0,70.0,100.0,170.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,ALIX Clément,81.8,-80.0,80.0,-82.0,106.0,-112.0,-115.0,80.0,106.0,186.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,PITON Brice,85.5,75.0,-80.0,82.0,100.0,105.0,-110.0,82.0,105.0,187.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,ROBIN Damien,90.1,108.0,112.0,117.0,135.0,-140.0,-142.0,117.0,135.0,252.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,TONDEUX Vianney,90.3,95.0,101.0,106.0,134.0,-139.0,-139.0,106.0,134.0,240.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,CHAUVIN Timothé,91.6,98.0,102.0,108.0,115.0,121.0,127.0,108.0,127.0,235.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,NICOT Anthony,92.1,82.0,86.0,90.0,102.0,110.0,-115.0,90.0,110.0,200.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 110,DUMONT Fabien,100.5,-105.0,105.0,-108.0,-131.0,-136.0,136.0,105.0,136.0,241.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,DUPONT Tom,77.0,78.0,82.0,86.0,102.0,108.0,113.0,86.0,113.0,199.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,BIGOT Aurelien,74.1,70.0,-75.0,-75.0,90.0,100.0,-105.0,70.0,100.0,170.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,ALIX Clément,81.8,-80.0,80.0,-82.0,106.0,-112.0,-115.0,80.0,106.0,186.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,PITON Brice,85.5,75.0,-80.0,82.0,100.0,105.0,-110.0,82.0,105.0,187.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,ROBIN Damien,90.1,108.0,112.0,117.0,135.0,-140.0,-142.0,117.0,135.0,252.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,TONDEUX Vianney,90.3,95.0,101.0,106.0,134.0,-139.0,-139.0,106.0,134.0,240.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,CHAUVIN Timothé,91.6,98.0,102.0,108.0,115.0,121.0,127.0,108.0,127.0,235.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,NICOT Anthony,92.1,82.0,86.0,90.0,102.0,110.0,-115.0,90.0,110.0,200.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 110,DUMONT Fabien,100.5,-105.0,105.0,-108.0,-131.0,-136.0,136.0,105.0,136.0,241.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 53,PANSERAT Emma,52.0,45.0,48.0,-51.0,53.0,56.0,60.0,48.0,60.0,108.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 63,MAZIGHI Leïla,58.2,45.0,48.0,-51.0,60.0,-64.0,65.0,48.0,65.0,113.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,LE MALEFANT Samantha,65.8,74.0,79.0,82.0,95.0,98.0,102.0,82.0,102.0,184.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,ILCHUK Kateryna,67.7,60.0,64.0,-68.0,68.0,70.0,74.0,64.0,74.0,138.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,CHAMPENOIS Morgane,68.7,45.0,-48.0,50.0,65.0,69.0,-72.0,50.0,69.0,119.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,CHANTEUX Mélissa,64.2,49.0,52.0,-55.0,-58.0,61.0,-65.0,52.0,61.0,113.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,OTOCKI Edwige,68.0,43.0,46.0,-49.0,62.0,65.0,-68.0,46.0,65.0,111.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,FOUET Audrey,65.7,40.0,45.0,-48.0,55.0,-60.0,62.0,45.0,62.0,107.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,STEPHAN Marie,63.2,-35.0,35.0,-40.0,48.0,52.0,-55.0,35.0,52.0,87.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 77,GOURAUD Blandine,72.1,65.0,-70.0,-70.0,78.0,83.0,-90.0,65.0,83.0,148.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 53,PANSERAT Emma,52.0,45.0,48.0,-51.0,53.0,56.0,60.0,48.0,60.0,108.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 63,MAZIGHI Leïla,58.2,45.0,48.0,-51.0,60.0,-64.0,65.0,48.0,65.0,113.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,LE MALEFANT Samantha,65.8,74.0,79.0,82.0,95.0,98.0,102.0,82.0,102.0,184.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,ILCHUK Kateryna,67.7,60.0,64.0,-68.0,68.0,70.0,74.0,64.0,74.0,138.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,CHAMPENOIS Morgane,68.7,45.0,-48.0,50.0,65.0,69.0,-72.0,50.0,69.0,119.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,CHANTEUX Mélissa,64.2,49.0,52.0,-55.0,-58.0,61.0,-65.0,52.0,61.0,113.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,OTOCKI Edwige,68.0,43.0,46.0,-49.0,62.0,65.0,-68.0,46.0,65.0,111.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,FOUET Audrey,65.7,40.0,45.0,-48.0,55.0,-60.0,62.0,45.0,62.0,107.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,STEPHAN Marie,63.2,-35.0,35.0,-40.0,48.0,52.0,-55.0,35.0,52.0,87.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 77,GOURAUD Blandine,72.1,65.0,-70.0,-70.0,78.0,83.0,-90.0,65.0,83.0,148.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U17 Men 60,GRANGER Lucas,56.2,77.0,81.0,-84.0,90.0,93.0,95.0,81.0,95.0,176.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U17 Men 71,ROQUET Noe,68.5,53.0,56.0,58.0,61.0,64.0,-66.0,58.0,64.0,122.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U17 Men 79,DORIDOT Mathis,77.3,73.0,75.0,-77.0,97.0,-100.0,-100.0,75.0,97.0,172.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U20 Men 79,HUBERT JOUBERT Arthur,78.5,75.0,78.0,80.0,-95.0,95.0,100.0,80.0,100.0,180.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U20 Men 88,ROGUET Thomas,87.1,100.0,-103.0,-105.0,120.0,-0.0,-0.0,100.0,120.0,220.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U20 Men 110,BIANCO Loucas,103.6,70.0,73.0,75.0,93.0,98.0,102.0,75.0,102.0,177.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 71,MELLIER Romain,67.2,75.0,-80.0,80.0,95.0,100.0,-104.0,80.0,100.0,180.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,MIEGEBIELLE Victor,73.3,105.0,-110.0,110.0,133.0,136.0,140.0,110.0,140.0,250.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,LAFAGNE Cédric,78.9,95.0,100.0,-105.0,115.0,122.0,-128.0,100.0,122.0,222.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,MEZIERE Benjamin,73.8,80.0,85.0,88.0,100.0,104.0,-0.0,88.0,104.0,192.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,REBOUX Mathys,80.6,85.0,90.0,95.0,110.0,115.0,120.0,95.0,120.0,215.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,REDON Antonin,81.0,-84.0,84.0,88.0,105.0,-110.0,110.0,88.0,110.0,198.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,NAUDIN Maxime,84.8,80.0,85.0,-90.0,100.0,-105.0,105.0,85.0,105.0,190.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,BOUCHARD Mavrick,93.0,65.0,68.0,-71.0,80.0,85.0,-90.0,68.0,85.0,153.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 110,JAMOIS Florian,103.6,80.0,-85.0,-85.0,-100.0,100.0,-104.0,80.0,100.0,180.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U17 Men 60,GRANGER Lucas,56.2,77.0,81.0,-84.0,90.0,93.0,95.0,81.0,95.0,176.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U17 Men 71,ROQUET Noe,68.5,53.0,56.0,58.0,61.0,64.0,-66.0,58.0,64.0,122.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U17 Men 79,DORIDOT Mathis,77.3,73.0,75.0,-77.0,97.0,-100.0,-100.0,75.0,97.0,172.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U20 Men 79,HUBERT JOUBERT Arthur,78.5,75.0,78.0,80.0,-95.0,95.0,100.0,80.0,100.0,180.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U20 Men 88,ROGUET Thomas,87.1,100.0,-103.0,-105.0,120.0,-0.0,-0.0,100.0,120.0,220.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U20 Men 110,BIANCO Loucas,103.6,70.0,73.0,75.0,93.0,98.0,102.0,75.0,102.0,177.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 71,MELLIER Romain,67.2,75.0,-80.0,80.0,95.0,100.0,-104.0,80.0,100.0,180.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,MIEGEBIELLE Victor,73.3,105.0,-110.0,110.0,133.0,136.0,140.0,110.0,140.0,250.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,LAFAGNE Cédric,78.9,95.0,100.0,-105.0,115.0,122.0,-128.0,100.0,122.0,222.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,MEZIERE Benjamin,73.8,80.0,85.0,88.0,100.0,104.0,-0.0,88.0,104.0,192.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,REBOUX Mathys,80.6,85.0,90.0,95.0,110.0,115.0,120.0,95.0,120.0,215.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,REDON Antonin,81.0,-84.0,84.0,88.0,105.0,-110.0,110.0,88.0,110.0,198.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,NAUDIN Maxime,84.8,80.0,85.0,-90.0,100.0,-105.0,105.0,85.0,105.0,190.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,BOUCHARD Mavrick,93.0,65.0,68.0,-71.0,80.0,85.0,-90.0,68.0,85.0,153.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 110,JAMOIS Florian,103.6,80.0,-85.0,-85.0,-100.0,100.0,-104.0,80.0,100.0,180.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U17 Women 53,FERRAND COGNON Lyna,48.1,33.0,36.0,-38.0,43.0,46.0,-49.0,36.0,46.0,82.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U20 Women >86,COGNON Loubna,98.8,62.0,66.0,70.0,80.0,85.0,90.0,70.0,90.0,160.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 48,ROUSSEL Mylène,47.7,37.0,39.0,41.0,54.0,57.0,59.0,41.0,59.0,100.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 58,HERVAULT Jeanne,57.2,68.0,71.0,-73.0,83.0,86.0,-88.0,71.0,86.0,157.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 58,SADOUN Eglantine,56.8,47.0,50.0,52.0,65.0,68.0,-70.0,52.0,68.0,120.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 58,CADIEU Anais,58.0,52.0,-55.0,-55.0,55.0,60.0,63.0,52.0,63.0,115.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 63,BILLON Anaelle,60.9,-63.0,63.0,65.0,80.0,83.0,86.0,65.0,86.0,151.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 63,BARROCHE Clemence,59.9,-53.0,53.0,56.0,70.0,74.0,76.0,56.0,76.0,132.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,MUNIER Katline,65.0,59.0,62.0,65.0,75.0,79.0,-82.0,65.0,79.0,144.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,COGNON Sonia,67.3,52.0,55.0,57.0,65.0,70.0,73.0,57.0,73.0,130.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,CADYCK Alexandra,63.4,47.0,50.0,52.0,58.0,-61.0,62.0,52.0,62.0,114.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 77,CHOYER Anissa,72.5,63.0,65.0,68.0,82.0,85.0,-88.0,68.0,85.0,153.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 77,IZMAR Océane,75.1,53.0,-57.0,58.0,-75.0,76.0,80.0,58.0,80.0,138.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 77,SUBIL Lucie,76.8,37.0,40.0,-42.0,47.0,-50.0,-50.0,40.0,47.0,87.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women >86,RIVEROS Yoana,92.0,42.0,46.0,-50.0,53.0,57.0,-60.0,46.0,57.0,103.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U17 Women 53,FERRAND COGNON Lyna,48.1,33.0,36.0,-38.0,43.0,46.0,-49.0,36.0,46.0,82.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U20 Women >86,COGNON Loubna,98.8,62.0,66.0,70.0,80.0,85.0,90.0,70.0,90.0,160.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 48,ROUSSEL Mylène,47.7,37.0,39.0,41.0,54.0,57.0,59.0,41.0,59.0,100.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 58,HERVAULT Jeanne,57.2,68.0,71.0,-73.0,83.0,86.0,-88.0,71.0,86.0,157.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 58,SADOUN Eglantine,56.8,47.0,50.0,52.0,65.0,68.0,-70.0,52.0,68.0,120.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 58,CADIEU Anais,58.0,52.0,-55.0,-55.0,55.0,60.0,63.0,52.0,63.0,115.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 63,BILLON Anaelle,60.9,-63.0,63.0,65.0,80.0,83.0,86.0,65.0,86.0,151.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 63,BARROCHE Clemence,59.9,-53.0,53.0,56.0,70.0,74.0,76.0,56.0,76.0,132.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,MUNIER Katline,65.0,59.0,62.0,65.0,75.0,79.0,-82.0,65.0,79.0,144.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,COGNON Sonia,67.3,52.0,55.0,57.0,65.0,70.0,73.0,57.0,73.0,130.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,CADYCK Alexandra,63.4,47.0,50.0,52.0,58.0,-61.0,62.0,52.0,62.0,114.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 77,CHOYER Anissa,72.5,63.0,65.0,68.0,82.0,85.0,-88.0,68.0,85.0,153.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 77,IZMAR Océane,75.1,53.0,-57.0,58.0,-75.0,76.0,80.0,58.0,80.0,138.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 77,SUBIL Lucie,76.8,37.0,40.0,-42.0,47.0,-50.0,-50.0,40.0,47.0,87.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women >86,RIVEROS Yoana,92.0,42.0,46.0,-50.0,53.0,57.0,-60.0,46.0,57.0,103.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U20 Men 88,LAMLICHE Amine,84.2,-93.0,-93.0,93.0,115.0,120.0,-125.0,93.0,120.0,213.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,FREYLING Mathieu,77.6,95.0,100.0,105.0,115.0,123.0,-130.0,105.0,123.0,228.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,BOUELLE Théo,72.0,90.0,95.0,-100.0,-115.0,115.0,123.0,95.0,123.0,218.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,MICHELET Nicolas,74.2,90.0,-95.0,95.0,110.0,-115.0,115.0,95.0,115.0,210.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,AMPOUTA Julien,77.7,72.0,-76.0,76.0,95.0,100.0,-105.0,76.0,100.0,176.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,GIORDANO Lukas,78.2,30.0,37.0,42.0,55.0,-59.0,-59.0,42.0,55.0,97.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,GRAVOIS Ugo,83.5,105.0,-110.0,110.0,135.0,-145.0,-145.0,110.0,135.0,245.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,KAUFMANN Nicolas,82.9,102.0,-106.0,-106.0,124.0,128.0,132.0,102.0,132.0,234.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 110,MEBALET Rodrigue,108.2,75.0,-78.0,78.0,-86.0,86.0,90.0,78.0,90.0,168.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men >110,UTIA Kutea,140.7,115.0,-120.0,-120.0,135.0,-140.0,-140.0,115.0,135.0,250.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U20 Men 88,LAMLICHE Amine,84.2,-93.0,-93.0,93.0,115.0,120.0,-125.0,93.0,120.0,213.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,FREYLING Mathieu,77.6,95.0,100.0,105.0,115.0,123.0,-130.0,105.0,123.0,228.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,BOUELLE Théo,72.0,90.0,95.0,-100.0,-115.0,115.0,123.0,95.0,123.0,218.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,MICHELET Nicolas,74.2,90.0,-95.0,95.0,110.0,-115.0,115.0,95.0,115.0,210.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,AMPOUTA Julien,77.7,72.0,-76.0,76.0,95.0,100.0,-105.0,76.0,100.0,176.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,GIORDANO Lukas,78.2,30.0,37.0,42.0,55.0,-59.0,-59.0,42.0,55.0,97.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,GRAVOIS Ugo,83.5,105.0,-110.0,110.0,135.0,-145.0,-145.0,110.0,135.0,245.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,KAUFMANN Nicolas,82.9,102.0,-106.0,-106.0,124.0,128.0,132.0,102.0,132.0,234.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 110,MEBALET Rodrigue,108.2,75.0,-78.0,78.0,-86.0,86.0,90.0,78.0,90.0,168.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men >110,UTIA Kutea,140.7,115.0,-120.0,-120.0,135.0,-140.0,-140.0,115.0,135.0,250.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 65,TODARO Vincent,63.0,65.0,-68.0,68.0,85.0,90.0,-95.0,68.0,90.0,158.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,RODRIGUEZ Killian,77.9,103.0,107.0,110.0,125.0,130.0,133.0,110.0,133.0,243.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,TREHET BONCOMPAGNE Cedric,77.2,-88.0,88.0,-90.0,106.0,-112.0,116.0,88.0,116.0,204.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,NGUYEN Minh,83.8,97.0,102.0,-105.0,120.0,-128.0,128.0,102.0,128.0,230.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,LORE Morgan,84.0,-100.0,-100.0,100.0,115.0,120.0,-127.0,100.0,120.0,220.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,MARLE Stephan,83.6,92.0,-96.0,96.0,112.0,120.0,-124.0,96.0,120.0,216.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,DEBRET Anthony,86.6,89.0,93.0,-96.0,115.0,120.0,-125.0,93.0,120.0,213.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,PRIGENT Maxime,84.0,-90.0,90.0,95.0,112.0,-120.0,-120.0,95.0,112.0,207.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,TCHINDA Noa,85.5,85.0,90.0,95.0,105.0,110.0,-116.0,95.0,110.0,205.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,DELIVRY Marc,92.7,107.0,115.0,-125.0,130.0,138.0,-145.0,115.0,138.0,253.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,COSTA Mickael,90.3,107.0,-112.0,-112.0,130.0,-138.0,-140.0,107.0,130.0,237.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,VERGNE Antoine,89.7,90.0,-100.0,-100.0,115.0,120.0,125.0,90.0,125.0,215.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,NSOGA Kevin,89.2,85.0,90.0,-93.0,105.0,110.0,-115.0,90.0,110.0,200.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,ANGOUNDOU Jean jacques,92.0,-105.0,-105.0,-105.0,125.0,-130.0,130.0,0.0,130.0,0.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 110,ABDEBREIMAN Jordan,103.3,90.0,-95.0,95.0,110.0,118.0,125.0,95.0,125.0,220.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 65,TODARO Vincent,63.0,65.0,-68.0,68.0,85.0,90.0,-95.0,68.0,90.0,158.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,RODRIGUEZ Killian,77.9,103.0,107.0,110.0,125.0,130.0,133.0,110.0,133.0,243.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,TREHET BONCOMPAGNE Cedric,77.2,-88.0,88.0,-90.0,106.0,-112.0,116.0,88.0,116.0,204.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,NGUYEN Minh,83.8,97.0,102.0,-105.0,120.0,-128.0,128.0,102.0,128.0,230.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,LORE Morgan,84.0,-100.0,-100.0,100.0,115.0,120.0,-127.0,100.0,120.0,220.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,MARLE Stephan,83.6,92.0,-96.0,96.0,112.0,120.0,-124.0,96.0,120.0,216.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,DEBRET Anthony,86.6,89.0,93.0,-96.0,115.0,120.0,-125.0,93.0,120.0,213.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,PRIGENT Maxime,84.0,-90.0,90.0,95.0,112.0,-120.0,-120.0,95.0,112.0,207.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,TCHINDA Noa,85.5,85.0,90.0,95.0,105.0,110.0,-116.0,95.0,110.0,205.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,DELIVRY Marc,92.7,107.0,115.0,-125.0,130.0,138.0,-145.0,115.0,138.0,253.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,COSTA Mickael,90.3,107.0,-112.0,-112.0,130.0,-138.0,-140.0,107.0,130.0,237.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,VERGNE Antoine,89.7,90.0,-100.0,-100.0,115.0,120.0,125.0,90.0,125.0,215.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,NSOGA Kevin,89.2,85.0,90.0,-93.0,105.0,110.0,-115.0,90.0,110.0,200.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,ANGOUNDOU Jean jacques,92.0,-105.0,-105.0,-105.0,125.0,-130.0,130.0,0.0,130.0,0.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 110,ABDEBREIMAN Jordan,103.3,90.0,-95.0,95.0,110.0,118.0,125.0,95.0,125.0,220.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 71,DEBUT Lysandre,70.46,80.0,85.0,-90.0,105.0,113.0,-120.0,85.0,113.0,198.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 71,DEJEU Mathieu,68.98,60.0,-62.0,62.0,77.0,-80.0,-80.0,62.0,77.0,139.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,DORSEY Oscar,77.34,-105.0,105.0,110.0,130.0,134.0,140.0,110.0,140.0,250.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,MARTINE Fabrice,78.65,80.0,85.0,-88.0,100.0,-105.0,-105.0,85.0,100.0,185.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,DE CARVALHO Jonathan,77.06,50.0,55.0,-60.0,78.0,81.0,-86.0,55.0,81.0,136.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,HENAULT Thomas,78.5,80.0,84.0,-88.0,-100.0,-100.0,-100.0,84.0,0.0,0.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,SONDEREGGER Lucas,80.3,80.0,86.0,91.0,103.0,107.0,112.0,91.0,112.0,203.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,BOU SLEIMAN Tarek,87.88,90.0,-93.0,-93.0,122.0,-127.0,-133.0,90.0,122.0,212.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,BANDET Alexandre,92.86,102.0,106.0,109.0,122.0,127.0,-131.0,109.0,127.0,236.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men >110,KILIC Adem,115.6,92.0,96.0,-100.0,120.0,126.0,-132.0,96.0,126.0,222.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 71,DEBUT Lysandre,70.46,80.0,85.0,-90.0,105.0,113.0,-120.0,85.0,113.0,198.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 71,DEJEU Mathieu,68.98,60.0,-62.0,62.0,77.0,-80.0,-80.0,62.0,77.0,139.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,DORSEY Oscar,77.34,-105.0,105.0,110.0,130.0,134.0,140.0,110.0,140.0,250.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,MARTINE Fabrice,78.65,80.0,85.0,-88.0,100.0,-105.0,-105.0,85.0,100.0,185.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,DE CARVALHO Jonathan,77.06,50.0,55.0,-60.0,78.0,81.0,-86.0,55.0,81.0,136.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,HENAULT Thomas,78.5,80.0,84.0,-88.0,-100.0,-100.0,-100.0,84.0,0.0,0.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,SONDEREGGER Lucas,80.3,80.0,86.0,91.0,103.0,107.0,112.0,91.0,112.0,203.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,BOU SLEIMAN Tarek,87.88,90.0,-93.0,-93.0,122.0,-127.0,-133.0,90.0,122.0,212.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,BANDET Alexandre,92.86,102.0,106.0,109.0,122.0,127.0,-131.0,109.0,127.0,236.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men >110,KILIC Adem,115.6,92.0,96.0,-100.0,120.0,126.0,-132.0,96.0,126.0,222.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U15 Women 63,KNOEPFFLER Lexie,61.45,37.0,39.0,41.0,47.0,50.0,-54.0,41.0,50.0,91.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 53,AUBIN Elodie,52.85,37.0,39.0,-42.0,48.0,52.0,-55.0,39.0,52.0,91.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 63,IMGHARN Fanny,60.45,65.0,70.0,-74.0,77.0,82.0,-85.0,70.0,82.0,152.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 63,RANC Fanny,59.65,-60.0,60.0,65.0,75.0,80.0,-85.0,65.0,80.0,145.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 63,INTHAVONG Vanessa,62.65,63.0,67.0,-70.0,75.0,-80.0,-80.0,67.0,75.0,142.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,DORIATH Alexia,67.65,60.0,64.0,67.0,83.0,86.0,-90.0,67.0,86.0,153.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,ROSTOUCHER Mathilde,66.26,60.0,63.0,-65.0,73.0,76.0,-79.0,63.0,76.0,139.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,RAA Fanny,67.85,55.0,60.0,-65.0,70.0,75.0,-82.0,60.0,75.0,135.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,PAUGER Samantha,68.55,47.0,50.0,55.0,68.0,73.0,76.0,55.0,76.0,131.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,HOMINAL Tory,65.7,57.0,59.0,-61.0,63.0,-67.0,-67.0,59.0,63.0,122.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,GRIMAL Anna,63.65,45.0,50.0,-55.0,55.0,60.0,65.0,50.0,65.0,115.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 77,BUTSCH Barbara,74.65,-53.0,-57.0,57.0,70.0,75.0,-78.0,57.0,75.0,132.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 86,REY Amelie,81.75,40.0,43.0,-45.0,55.0,60.0,-65.0,43.0,60.0,103.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 71,BONDIL Serge,71.0,80.0,85.0,-95.0,95.0,100.0,105.0,85.0,105.0,190.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 71,PECHOUX Killian,71.0,65.0,-70.0,75.0,85.0,93.0,-100.0,75.0,93.0,168.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 71,AUBRY Ronan,66.0,62.0,66.0,-68.0,82.0,85.0,-90.0,66.0,85.0,151.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 71,BOUNEMOURA Zakaria,68.85,-55.0,55.0,58.0,75.0,80.0,86.0,58.0,86.0,144.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,BAILLET Valentin,78.0,100.0,104.0,-106.0,115.0,120.0,125.0,104.0,125.0,229.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,PETIT Kéo,86.55,105.0,110.0,116.0,125.0,133.0,140.0,116.0,140.0,256.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,COMBE Damien,91.75,70.0,75.0,77.0,103.0,106.0,-108.0,77.0,106.0,183.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 110,RAMAYE Quentin,99.45,-95.0,97.0,102.0,120.0,125.0,-130.0,102.0,125.0,227.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 110,BOULET Tristan,110.0,70.0,75.0,83.0,-94.0,94.0,-103.0,83.0,94.0,177.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U15 Women 63,KNOEPFFLER Lexie,61.45,37.0,39.0,41.0,47.0,50.0,-54.0,41.0,50.0,91.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 53,AUBIN Elodie,52.85,37.0,39.0,-42.0,48.0,52.0,-55.0,39.0,52.0,91.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 63,IMGHARN Fanny,60.45,65.0,70.0,-74.0,77.0,82.0,-85.0,70.0,82.0,152.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 63,RANC Fanny,59.65,-60.0,60.0,65.0,75.0,80.0,-85.0,65.0,80.0,145.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 63,INTHAVONG Vanessa,62.65,63.0,67.0,-70.0,75.0,-80.0,-80.0,67.0,75.0,142.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,DORIATH Alexia,67.65,60.0,64.0,67.0,83.0,86.0,-90.0,67.0,86.0,153.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,ROSTOUCHER Mathilde,66.26,60.0,63.0,-65.0,73.0,76.0,-79.0,63.0,76.0,139.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,RAA Fanny,67.85,55.0,60.0,-65.0,70.0,75.0,-82.0,60.0,75.0,135.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,PAUGER Samantha,68.55,47.0,50.0,55.0,68.0,73.0,76.0,55.0,76.0,131.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,HOMINAL Tory,65.7,57.0,59.0,-61.0,63.0,-67.0,-67.0,59.0,63.0,122.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,GRIMAL Anna,63.65,45.0,50.0,-55.0,55.0,60.0,65.0,50.0,65.0,115.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 77,BUTSCH Barbara,74.65,-53.0,-57.0,57.0,70.0,75.0,-78.0,57.0,75.0,132.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 86,REY Amelie,81.75,40.0,43.0,-45.0,55.0,60.0,-65.0,43.0,60.0,103.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 71,BONDIL Serge,71.0,80.0,85.0,-95.0,95.0,100.0,105.0,85.0,105.0,190.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 71,PECHOUX Killian,71.0,65.0,-70.0,75.0,85.0,93.0,-100.0,75.0,93.0,168.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 71,AUBRY Ronan,66.0,62.0,66.0,-68.0,82.0,85.0,-90.0,66.0,85.0,151.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 71,BOUNEMOURA Zakaria,68.85,-55.0,55.0,58.0,75.0,80.0,86.0,58.0,86.0,144.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,BAILLET Valentin,78.0,100.0,104.0,-106.0,115.0,120.0,125.0,104.0,125.0,229.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,PETIT Kéo,86.55,105.0,110.0,116.0,125.0,133.0,140.0,116.0,140.0,256.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,COMBE Damien,91.75,70.0,75.0,77.0,103.0,106.0,-108.0,77.0,106.0,183.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 110,RAMAYE Quentin,99.45,-95.0,97.0,102.0,120.0,125.0,-130.0,102.0,125.0,227.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 110,BOULET Tristan,110.0,70.0,75.0,83.0,-94.0,94.0,-103.0,83.0,94.0,177.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 71,JAFFAR Hussein,70.3,73.0,-76.0,76.0,88.0,91.0,-93.0,76.0,91.0,167.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,AKBARY Mujtaba,75.8,75.0,80.0,85.0,95.0,100.0,106.0,85.0,106.0,191.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,CHIV Tyaw-beau,85.0,80.0,85.0,90.0,100.0,-110.0,115.0,90.0,115.0,205.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,OWONA Hugo,90.9,-80.0,80.0,83.0,90.0,95.0,100.0,83.0,100.0,183.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 63,BESBAS Saida,62.85,-43.0,-43.0,43.0,55.0,58.0,62.0,43.0,62.0,105.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,BADOCCHI Ada,68.85,52.0,55.0,59.0,72.0,76.0,-78.0,59.0,76.0,135.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,ROBERT Marie prune,65.0,50.0,55.0,57.0,-65.0,65.0,-70.0,57.0,65.0,122.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 77,MOUCHET Alix,71.45,-60.0,60.0,-66.0,68.0,73.0,-76.0,60.0,73.0,133.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women >86,ABBE Kelly,95.75,55.0,58.0,60.0,75.0,-79.0,-79.0,60.0,75.0,135.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 71,JAFFAR Hussein,70.3,73.0,-76.0,76.0,88.0,91.0,-93.0,76.0,91.0,167.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,AKBARY Mujtaba,75.8,75.0,80.0,85.0,95.0,100.0,106.0,85.0,106.0,191.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,CHIV Tyaw-beau,85.0,80.0,85.0,90.0,100.0,-110.0,115.0,90.0,115.0,205.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,OWONA Hugo,90.9,-80.0,80.0,83.0,90.0,95.0,100.0,83.0,100.0,183.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 63,BESBAS Saida,62.85,-43.0,-43.0,43.0,55.0,58.0,62.0,43.0,62.0,105.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,BADOCCHI Ada,68.85,52.0,55.0,59.0,72.0,76.0,-78.0,59.0,76.0,135.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,ROBERT Marie prune,65.0,50.0,55.0,57.0,-65.0,65.0,-70.0,57.0,65.0,122.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 77,MOUCHET Alix,71.45,-60.0,60.0,-66.0,68.0,73.0,-76.0,60.0,73.0,133.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women >86,ABBE Kelly,95.75,55.0,58.0,60.0,75.0,-79.0,-79.0,60.0,75.0,135.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 71,VITAL Gharfill,68.84,50.0,55.0,-60.0,70.0,75.0,-80.0,55.0,75.0,130.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,MAURICE Wandrille,81.88,77.0,81.0,-84.0,102.0,106.0,110.0,81.0,110.0,191.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 77,BIENAIMÉ Cassandra,70.0,65.0,-68.0,-69.0,74.0,-77.0,77.0,65.0,77.0,142.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 71,VITAL Gharfill,68.84,50.0,55.0,-60.0,70.0,75.0,-80.0,55.0,75.0,130.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,MAURICE Wandrille,81.88,77.0,81.0,-84.0,102.0,106.0,110.0,81.0,110.0,191.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 77,BIENAIMÉ Cassandra,70.0,65.0,-68.0,-69.0,74.0,-77.0,77.0,65.0,77.0,142.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U20 Women >86,MARTIAL Mayleen,92.2,-35.0,35.0,38.0,40.0,45.0,50.0,38.0,50.0,88.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 63,GAUSSON Laurie,59.9,-60.0,60.0,64.0,75.0,80.0,86.0,64.0,86.0,150.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 63,TURRI Céline,60.7,53.0,55.0,-57.0,62.0,-65.0,66.0,55.0,66.0,121.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,SIVASOTHEY Eunice agnes,63.5,58.0,61.0,63.0,73.0,77.0,80.0,63.0,80.0,143.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,BENLALA Messad,66.3,28.0,30.0,33.0,38.0,42.0,-46.0,33.0,42.0,75.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 77,AJIMI Nadra,69.8,42.0,-46.0,47.0,58.0,-63.0,-63.0,47.0,58.0,105.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,DOUCET Sébastien,80.7,92.0,98.0,103.0,-120.0,125.0,-132.0,103.0,125.0,228.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,SELTANI Hicham,79.5,65.0,70.0,75.0,-95.0,95.0,103.0,75.0,103.0,178.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,CAYRON Nicolas,89.0,92.0,-95.0,96.0,-115.0,-118.0,118.0,96.0,118.0,214.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,SERRA Romain,92.6,85.0,-95.0,95.0,120.0,-125.0,-130.0,95.0,120.0,215.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,LECOINTE Maxime,93.5,70.0,-80.0,-80.0,100.0,105.0,-110.0,70.0,105.0,175.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 110,BENMECHICHE Sid ali,105.6,77.0,82.0,86.0,95.0,-105.0,-105.0,86.0,95.0,181.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U20 Women >86,MARTIAL Mayleen,92.2,-35.0,35.0,38.0,40.0,45.0,50.0,38.0,50.0,88.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 63,GAUSSON Laurie,59.9,-60.0,60.0,64.0,75.0,80.0,86.0,64.0,86.0,150.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 63,TURRI Céline,60.7,53.0,55.0,-57.0,62.0,-65.0,66.0,55.0,66.0,121.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,SIVASOTHEY Eunice agnes,63.5,58.0,61.0,63.0,73.0,77.0,80.0,63.0,80.0,143.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,BENLALA Messad,66.3,28.0,30.0,33.0,38.0,42.0,-46.0,33.0,42.0,75.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 77,AJIMI Nadra,69.8,42.0,-46.0,47.0,58.0,-63.0,-63.0,47.0,58.0,105.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,DOUCET Sébastien,80.7,92.0,98.0,103.0,-120.0,125.0,-132.0,103.0,125.0,228.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,SELTANI Hicham,79.5,65.0,70.0,75.0,-95.0,95.0,103.0,75.0,103.0,178.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,CAYRON Nicolas,89.0,92.0,-95.0,96.0,-115.0,-118.0,118.0,96.0,118.0,214.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,SERRA Romain,92.6,85.0,-95.0,95.0,120.0,-125.0,-130.0,95.0,120.0,215.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,LECOINTE Maxime,93.5,70.0,-80.0,-80.0,100.0,105.0,-110.0,70.0,105.0,175.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 110,BENMECHICHE Sid ali,105.6,77.0,82.0,86.0,95.0,-105.0,-105.0,86.0,95.0,181.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U15 Women 48,LE VIENNESSE - BOHER Melany,44.2,32.0,34.0,-36.0,42.0,-45.0,-46.0,34.0,42.0,76.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U15 Women 53,DEFOUR-COCHET Heloise,48.2,38.0,40.0,42.0,45.0,-48.0,-48.0,42.0,45.0,87.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U15 Women 53,DEMEULEMEESTER Kalyah,48.3,32.0,34.0,-36.0,40.0,-43.0,-43.0,34.0,40.0,74.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U15 Women 58,BRETON Aurelie,54.1,33.0,34.0,-35.0,40.0,-41.0,-41.0,34.0,40.0,74.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U17 Women 58,DEMEULEMEESTER Larina,55.5,32.0,34.0,-37.0,43.0,46.0,-50.0,34.0,46.0,80.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 58,COCHET Anne,57.4,42.0,45.0,-47.0,-55.0,55.0,57.0,45.0,57.0,102.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,VATON Juliette,66.0,45.0,-48.0,-50.0,58.0,62.0,65.0,45.0,65.0,110.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,AZAGOURY Sephora,67.1,42.0,46.0,48.0,62.0,-65.0,-65.0,48.0,62.0,110.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,GHARBI Amira,65.4,38.0,42.0,-46.0,-53.0,53.0,-58.0,42.0,53.0,95.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 77,MARTINEZ Marie,72.5,37.0,41.0,45.0,53.0,-55.0,55.0,45.0,55.0,100.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 86,LE VIENNESSE Marjorie,79.9,47.0,50.0,-52.0,63.0,66.0,-68.0,50.0,66.0,116.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U15 Women 48,LE VIENNESSE - BOHER Melany,44.2,32.0,34.0,-36.0,42.0,-45.0,-46.0,34.0,42.0,76.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U15 Women 53,DEFOUR-COCHET Heloise,48.2,38.0,40.0,42.0,45.0,-48.0,-48.0,42.0,45.0,87.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U15 Women 53,DEMEULEMEESTER Kalyah,48.3,32.0,34.0,-36.0,40.0,-43.0,-43.0,34.0,40.0,74.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U15 Women 58,BRETON Aurelie,54.1,33.0,34.0,-35.0,40.0,-41.0,-41.0,34.0,40.0,74.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U17 Women 58,DEMEULEMEESTER Larina,55.5,32.0,34.0,-37.0,43.0,46.0,-50.0,34.0,46.0,80.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 58,COCHET Anne,57.4,42.0,45.0,-47.0,-55.0,55.0,57.0,45.0,57.0,102.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,VATON Juliette,66.0,45.0,-48.0,-50.0,58.0,62.0,65.0,45.0,65.0,110.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,AZAGOURY Sephora,67.1,42.0,46.0,48.0,62.0,-65.0,-65.0,48.0,62.0,110.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,GHARBI Amira,65.4,38.0,42.0,-46.0,-53.0,53.0,-58.0,42.0,53.0,95.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 77,MARTINEZ Marie,72.5,37.0,41.0,45.0,53.0,-55.0,55.0,45.0,55.0,100.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 86,LE VIENNESSE Marjorie,79.9,47.0,50.0,-52.0,63.0,66.0,-68.0,50.0,66.0,116.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U17 Women 44,VIAUD Victoria,43.6,20.0,-22.0,-22.0,25.0,28.0,31.0,20.0,31.0,51.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U17 Women 53,LE CARRE MERCKEL Lina,52.6,45.0,48.0,-50.0,-57.0,-57.0,57.0,48.0,57.0,105.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 53,MUNTEANU Louise,52.7,37.0,40.0,43.0,51.0,-55.0,58.0,43.0,58.0,101.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 58,MARTINELLI Laetitia,53.7,-48.0,48.0,50.0,60.0,-62.0,62.0,50.0,62.0,112.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 58,CALLOUD Marion,55.6,45.0,-48.0,-48.0,60.0,64.0,-66.0,45.0,64.0,109.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 63,MAINCENT Laetitia,59.4,65.0,-68.0,-70.0,77.0,81.0,-83.0,65.0,81.0,146.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 63,THORY Marion,61.9,50.0,53.0,-55.0,60.0,-64.0,65.0,53.0,65.0,118.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 63,BOUTATA Melissa,63.0,48.0,-52.0,-55.0,65.0,70.0,-75.0,48.0,70.0,118.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 63,EL AMRI Sarah,59.7,43.0,46.0,-48.0,54.0,58.0,60.0,46.0,60.0,106.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,TURPIN Aurelia,63.3,61.0,-64.0,65.0,72.0,76.0,-81.0,65.0,76.0,141.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,FERNANDES Liliane,68.4,-58.0,58.0,63.0,76.0,79.0,83.0,63.0,83.0,146.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,PETIOT Luna,63.2,53.0,-56.0,58.0,72.0,76.0,81.0,58.0,81.0,139.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,SEJALON Laura,63.4,50.0,53.0,-56.0,63.0,66.0,69.0,53.0,69.0,122.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,GAIGEOT Erinn,67.6,-45.0,45.0,49.0,57.0,60.0,62.0,49.0,62.0,111.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,KUSMERUCK Elsa,63.8,43.0,-45.0,-47.0,53.0,56.0,-58.0,43.0,56.0,99.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 86,MBOULE Clarisse,79.2,50.0,-53.0,53.0,-67.0,67.0,70.0,53.0,70.0,123.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women >86,CRISTINA Aurelie,111.8,53.0,56.0,-60.0,63.0,66.0,-71.0,56.0,66.0,122.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U17 Women 44,VIAUD Victoria,43.6,20.0,-22.0,-22.0,25.0,28.0,31.0,20.0,31.0,51.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U17 Women 53,LE CARRE MERCKEL Lina,52.6,45.0,48.0,-50.0,-57.0,-57.0,57.0,48.0,57.0,105.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 53,MUNTEANU Louise,52.7,37.0,40.0,43.0,51.0,-55.0,58.0,43.0,58.0,101.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 58,MARTINELLI Laetitia,53.7,-48.0,48.0,50.0,60.0,-62.0,62.0,50.0,62.0,112.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 58,CALLOUD Marion,55.6,45.0,-48.0,-48.0,60.0,64.0,-66.0,45.0,64.0,109.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 63,MAINCENT Laetitia,59.4,65.0,-68.0,-70.0,77.0,81.0,-83.0,65.0,81.0,146.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 63,THORY Marion,61.9,50.0,53.0,-55.0,60.0,-64.0,65.0,53.0,65.0,118.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 63,BOUTATA Melissa,63.0,48.0,-52.0,-55.0,65.0,70.0,-75.0,48.0,70.0,118.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 63,EL AMRI Sarah,59.7,43.0,46.0,-48.0,54.0,58.0,60.0,46.0,60.0,106.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,TURPIN Aurelia,63.3,61.0,-64.0,65.0,72.0,76.0,-81.0,65.0,76.0,141.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,FERNANDES Liliane,68.4,-58.0,58.0,63.0,76.0,79.0,83.0,63.0,83.0,146.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,PETIOT Luna,63.2,53.0,-56.0,58.0,72.0,76.0,81.0,58.0,81.0,139.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,SEJALON Laura,63.4,50.0,53.0,-56.0,63.0,66.0,69.0,53.0,69.0,122.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,GAIGEOT Erinn,67.6,-45.0,45.0,49.0,57.0,60.0,62.0,49.0,62.0,111.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,KUSMERUCK Elsa,63.8,43.0,-45.0,-47.0,53.0,56.0,-58.0,43.0,56.0,99.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 86,MBOULE Clarisse,79.2,50.0,-53.0,53.0,-67.0,67.0,70.0,53.0,70.0,123.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women >86,CRISTINA Aurelie,111.8,53.0,56.0,-60.0,63.0,66.0,-71.0,56.0,66.0,122.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U20 Men 79,GAIGEOT Nicolas,75.2,74.0,78.0,-82.0,96.0,-101.0,-101.0,78.0,96.0,174.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U20 Men 88,URSU Alexandru,79.1,100.0,-105.0,-108.0,120.0,125.0,-129.0,100.0,125.0,225.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 65,VIAUD Guillaume,64.2,65.0,72.0,75.0,-95.0,95.0,-100.0,75.0,95.0,170.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,EHRLACHER Denis,77.6,-78.0,78.0,82.0,98.0,106.0,-110.0,82.0,106.0,188.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,OTHMANI Maher,77.2,75.0,-80.0,-82.0,95.0,98.0,102.0,75.0,102.0,177.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,RAFFAILLAC Romain,77.7,70.0,74.0,-78.0,90.0,-95.0,100.0,74.0,100.0,174.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,AURIFEILLE Aurelien,80.3,80.0,-85.0,88.0,100.0,-105.0,-105.0,88.0,100.0,188.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,BOUQUET Nicola,84.4,80.0,-85.0,87.0,100.0,105.0,-110.0,87.0,105.0,192.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,XU Cheng,80.2,50.0,-53.0,-53.0,-66.0,66.0,70.0,50.0,70.0,120.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,NASRI Nima,92.9,80.0,-86.0,86.0,-105.0,-105.0,105.0,86.0,105.0,191.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 110,LEANDRI Guillaume,99.7,85.0,90.0,-93.0,-105.0,105.0,110.0,90.0,110.0,200.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 110,VIAUD Georges,97.5,50.0,55.0,60.0,90.0,100.0,105.0,60.0,105.0,165.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U20 Men 79,GAIGEOT Nicolas,75.2,74.0,78.0,-82.0,96.0,-101.0,-101.0,78.0,96.0,174.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,U20 Men 88,URSU Alexandru,79.1,100.0,-105.0,-108.0,120.0,125.0,-129.0,100.0,125.0,225.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 65,VIAUD Guillaume,64.2,65.0,72.0,75.0,-95.0,95.0,-100.0,75.0,95.0,170.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,EHRLACHER Denis,77.6,-78.0,78.0,82.0,98.0,106.0,-110.0,82.0,106.0,188.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,OTHMANI Maher,77.2,75.0,-80.0,-82.0,95.0,98.0,102.0,75.0,102.0,177.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,RAFFAILLAC Romain,77.7,70.0,74.0,-78.0,90.0,-95.0,100.0,74.0,100.0,174.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,AURIFEILLE Aurelien,80.3,80.0,-85.0,88.0,100.0,-105.0,-105.0,88.0,100.0,188.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,BOUQUET Nicola,84.4,80.0,-85.0,87.0,100.0,105.0,-110.0,87.0,105.0,192.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,XU Cheng,80.2,50.0,-53.0,-53.0,-66.0,66.0,70.0,50.0,70.0,120.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,NASRI Nima,92.9,80.0,-86.0,86.0,-105.0,-105.0,105.0,86.0,105.0,191.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 110,LEANDRI Guillaume,99.7,85.0,90.0,-93.0,-105.0,105.0,110.0,90.0,110.0,200.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 110,VIAUD Georges,97.5,50.0,55.0,60.0,90.0,100.0,105.0,60.0,105.0,165.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 58,FIORENTINA Alice,57.95,27.0,29.0,31.0,30.0,33.0,-35.0,31.0,33.0,64.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 63,BOHNERT Sophie,61.9,54.0,56.0,-58.0,65.0,67.0,69.0,56.0,69.0,125.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 63,CHASSIN Cécilia,62.55,-55.0,-56.0,56.0,65.0,69.0,-72.0,56.0,69.0,125.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 63,ULM Petra,61.8,42.0,-45.0,45.0,62.0,66.0,-70.0,45.0,66.0,111.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,TIBO Valérie,67.6,40.0,42.0,-45.0,58.0,61.0,-65.0,42.0,61.0,103.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,BELKHIRIA Soraya,66.7,43.0,-45.0,-45.0,-55.0,55.0,-57.0,43.0,55.0,98.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,KELLER Heloise,67.5,30.0,32.0,34.0,37.0,40.0,43.0,34.0,43.0,77.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women >86,MARTINE Alexandrine,94.1,53.0,56.0,-60.0,68.0,72.0,76.0,56.0,76.0,132.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women >86,TUERNAL Floriane,120.0,-54.0,-55.0,55.0,67.0,70.0,-73.0,55.0,70.0,125.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 58,FIORENTINA Alice,57.95,27.0,29.0,31.0,30.0,33.0,-35.0,31.0,33.0,64.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 63,BOHNERT Sophie,61.9,54.0,56.0,-58.0,65.0,67.0,69.0,56.0,69.0,125.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 63,CHASSIN Cécilia,62.55,-55.0,-56.0,56.0,65.0,69.0,-72.0,56.0,69.0,125.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 63,ULM Petra,61.8,42.0,-45.0,45.0,62.0,66.0,-70.0,45.0,66.0,111.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,TIBO Valérie,67.6,40.0,42.0,-45.0,58.0,61.0,-65.0,42.0,61.0,103.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,BELKHIRIA Soraya,66.7,43.0,-45.0,-45.0,-55.0,55.0,-57.0,43.0,55.0,98.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women 69,KELLER Heloise,67.5,30.0,32.0,34.0,37.0,40.0,43.0,34.0,43.0,77.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women >86,MARTINE Alexandrine,94.1,53.0,56.0,-60.0,68.0,72.0,76.0,56.0,76.0,132.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Women >86,TUERNAL Floriane,120.0,-54.0,-55.0,55.0,67.0,70.0,-73.0,55.0,70.0,125.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 65,MEY Sovannarith,64.4,82.0,86.0,92.0,-108.0,108.0,114.0,92.0,114.0,206.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,MANGHETTI Jean,74.7,90.0,95.0,-97.0,-110.0,-110.0,110.0,95.0,110.0,205.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,VALNAIS Quentin,76.1,86.0,91.0,-95.0,96.0,101.0,105.0,91.0,105.0,196.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,BOURRUT LACOUTURE Damien,74.7,-70.0,70.0,-75.0,90.0,95.0,-100.0,70.0,95.0,165.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,JANMOT Thomas,77.5,85.0,90.0,-95.0,-105.0,-105.0,-105.0,90.0,0.0,0.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,DALOUR Killian,79.8,94.0,100.0,-105.0,125.0,131.0,-133.0,100.0,131.0,231.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,HELLARD Timothé,80.0,75.0,80.0,85.0,105.0,-110.0,110.0,85.0,110.0,195.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,DE WATAZZI Darrell,79.1,70.0,75.0,-78.0,90.0,95.0,-98.0,75.0,95.0,170.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,MEHAULT Federic,89.6,115.0,-120.0,-120.0,132.0,138.0,145.0,115.0,145.0,260.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 110,ORTUNEZ Lionel,94.5,50.0,55.0,58.0,-65.0,65.0,-71.0,58.0,65.0,123.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 65,MEY Sovannarith,64.4,82.0,86.0,92.0,-108.0,108.0,114.0,92.0,114.0,206.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,MANGHETTI Jean,74.7,90.0,95.0,-97.0,-110.0,-110.0,110.0,95.0,110.0,205.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,VALNAIS Quentin,76.1,86.0,91.0,-95.0,96.0,101.0,105.0,91.0,105.0,196.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,BOURRUT LACOUTURE Damien,74.7,-70.0,70.0,-75.0,90.0,95.0,-100.0,70.0,95.0,165.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 79,JANMOT Thomas,77.5,85.0,90.0,-95.0,-105.0,-105.0,-105.0,90.0,0.0,0.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,DALOUR Killian,79.8,94.0,100.0,-105.0,125.0,131.0,-133.0,100.0,131.0,231.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,HELLARD Timothé,80.0,75.0,80.0,85.0,105.0,-110.0,110.0,85.0,110.0,195.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 88,DE WATAZZI Darrell,79.1,70.0,75.0,-78.0,90.0,95.0,-98.0,75.0,95.0,170.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 94,MEHAULT Federic,89.6,115.0,-120.0,-120.0,132.0,138.0,145.0,115.0,145.0,260.0
+IDF - REG 1 - Franconville - 2e Tour Regional Femme - Franconville,2025-12-06,SEN Men 110,ORTUNEZ Lionel,94.5,50.0,55.0,58.0,-65.0,65.0,-71.0,58.0,65.0,123.0

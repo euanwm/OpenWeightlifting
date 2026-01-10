@@ -1,0 +1,147 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U10 Men ,LEPINAY BARET Gabriel,23.04,11.0,-12.0,12.0,13.0,14.0,16.0,12.0,16.0,28.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U10 Men ,TELISMART Alexandre,53.74,25.0,26.0,-27.0,-31.0,31.0,32.0,26.0,32.0,58.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U10 Men ,RICHARD Noah,34.34,12.0,14.0,16.0,18.0,-20.0,20.0,16.0,20.0,36.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U10 Men ,RIVIERE Filaoi,28.94,8.0,10.0,12.0,12.0,14.0,16.0,12.0,16.0,28.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U10 Men ,DOUYERE Estéban,29.03,10.0,-12.0,-12.0,12.0,-13.0,13.0,10.0,13.0,23.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U13 Men 35,LEPINAY BARET Raphaël,33.69,22.0,23.0,25.0,30.0,31.0,33.0,25.0,33.0,58.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U13 Men 35,RENAUD Zyad,30.45,13.0,15.0,-17.0,15.0,17.0,19.0,15.0,19.0,34.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U13 Men 40,GARLOPEAU Loris,38.04,23.0,-25.0,25.0,28.0,30.0,32.0,25.0,32.0,57.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U13 Men 67,FOUREZ Killian,66.25,-27.0,27.0,29.0,33.0,35.0,-37.0,29.0,35.0,64.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U13 Men >73,GABRIEL David,82.4,31.0,33.0,35.0,44.0,-46.0,46.0,35.0,46.0,81.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U10 Women ,BALLANT Mei,26.32,-14.0,14.0,15.0,17.0,18.0,20.0,15.0,20.0,35.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U10 Women ,LOUIS Maëlya,45.47,20.0,22.0,24.0,-28.0,28.0,30.0,24.0,30.0,54.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U10 Women ,PELOPS Ophelie,30.3,10.0,12.0,13.0,15.0,16.0,18.0,13.0,18.0,31.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U10 Women ,GUILLON Sidonie,28.17,10.0,-12.0,12.0,13.0,15.0,17.0,12.0,17.0,29.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U10 Women ,DUTOIT Théa,39.96,13.0,14.0,-15.0,16.0,18.0,20.0,14.0,20.0,34.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U10 Women ,FONTAINE Joy,36.69,10.0,-12.0,-12.0,13.0,-15.0,15.0,10.0,15.0,25.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U13 Women 40,FLECHAUD Elena,37.82,18.0,20.0,-22.0,20.0,22.0,24.0,20.0,24.0,44.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U13 Women 71,TREPORT Inaya,69.84,27.0,29.0,30.0,34.0,36.0,37.0,30.0,37.0,67.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U15 Men 49,MOULS Paul-maxime,48.1,28.0,29.0,31.0,37.0,39.0,41.0,31.0,41.0,72.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 61,DELMOTTE Nathan,58.8,63.0,67.0,-0.0,-0.0,-0.0,-0.0,67.0,0.0,0.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 67,AUGEREAU Vincent,66.3,52.0,54.0,57.0,71.0,74.0,76.0,57.0,76.0,133.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 73,DOUYERE Stéphane,71.81,78.0,81.0,83.0,98.0,101.0,-104.0,83.0,101.0,184.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 73,GAILLAC Eric,71.8,77.0,82.0,85.0,90.0,95.0,-100.0,85.0,95.0,180.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 73,MAHAUT Patrice,70.0,60.0,63.0,65.0,70.0,73.0,75.0,65.0,75.0,140.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 73,LALLEMAND Julien,69.0,45.0,47.0,-50.0,50.0,55.0,-58.0,47.0,55.0,102.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 81,JEAN MARIE Franck,78.03,85.0,90.0,-0.0,106.0,117.0,-0.0,90.0,117.0,207.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 81,TÉLISMART Jérome,74.5,46.0,48.0,50.0,60.0,64.0,68.0,50.0,68.0,118.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 89,HOAREAU Patrice,88.4,-85.0,85.0,-90.0,105.0,-110.0,-110.0,85.0,105.0,190.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 96,TECHER Hans,93.2,85.0,88.0,91.0,105.0,110.0,114.0,91.0,114.0,205.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 96,ROSET Jérémy,91.7,60.0,-65.0,-65.0,83.0,85.0,-90.0,60.0,85.0,145.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 102,FLECHAUD Romaric,101.5,-50.0,50.0,56.0,80.0,85.0,90.0,56.0,90.0,146.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U15 Men 49,MOULS Paul-maxime,48.1,28.0,29.0,31.0,37.0,39.0,41.0,31.0,41.0,72.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 61,DELMOTTE Nathan,58.8,63.0,67.0,-0.0,-0.0,-0.0,-0.0,67.0,0.0,0.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 67,AUGEREAU Vincent,66.3,52.0,54.0,57.0,71.0,74.0,76.0,57.0,76.0,133.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 73,DOUYERE Stéphane,71.81,78.0,81.0,83.0,98.0,101.0,-104.0,83.0,101.0,184.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 73,GAILLAC Eric,71.8,77.0,82.0,85.0,90.0,95.0,-100.0,85.0,95.0,180.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 73,MAHAUT Patrice,70.0,60.0,63.0,65.0,70.0,73.0,75.0,65.0,75.0,140.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 73,LALLEMAND Julien,69.0,45.0,47.0,-50.0,50.0,55.0,-58.0,47.0,55.0,102.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 81,JEAN MARIE Franck,78.03,85.0,90.0,-0.0,106.0,117.0,-0.0,90.0,117.0,207.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 81,TÉLISMART Jérome,74.5,46.0,48.0,50.0,60.0,64.0,68.0,50.0,68.0,118.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 89,HOAREAU Patrice,88.4,-85.0,85.0,-90.0,105.0,-110.0,-110.0,85.0,105.0,190.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 96,TECHER Hans,93.2,85.0,88.0,91.0,105.0,110.0,114.0,91.0,114.0,205.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 96,ROSET Jérémy,91.7,60.0,-65.0,-65.0,83.0,85.0,-90.0,60.0,85.0,145.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 102,FLECHAUD Romaric,101.5,-50.0,50.0,56.0,80.0,85.0,90.0,56.0,90.0,146.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U10 Men ,REZZAK Farès,22.1,4.0,5.0,6.0,6.0,7.0,8.0,6.0,8.0,14.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U13 Men 40,CAULIER Timéo,35.6,16.0,18.0,20.0,18.0,20.0,22.0,20.0,22.0,42.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U13 Men 55,JAMANN Gabin,53.3,18.0,20.0,-22.0,20.0,22.0,24.0,20.0,24.0,44.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U10 Men ,REZZAK Farès,22.1,4.0,5.0,6.0,6.0,7.0,8.0,6.0,8.0,14.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U13 Men 40,CAULIER Timéo,35.6,16.0,18.0,20.0,18.0,20.0,22.0,20.0,22.0,42.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U13 Men 55,JAMANN Gabin,53.3,18.0,20.0,-22.0,20.0,22.0,24.0,20.0,24.0,44.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 81,PALAMARA Mikaël,79.6,85.0,-90.0,-90.0,105.0,110.0,115.0,85.0,115.0,200.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 81,BOURADI Naïm,79.8,67.0,-70.0,70.0,87.0,93.0,-96.0,70.0,93.0,163.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 89,POLO Niccolo,81.3,62.0,66.0,68.0,82.0,86.0,90.0,68.0,90.0,158.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 81,PALAMARA Mikaël,79.6,85.0,-90.0,-90.0,105.0,110.0,115.0,85.0,115.0,200.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 81,BOURADI Naïm,79.8,67.0,-70.0,70.0,87.0,93.0,-96.0,70.0,93.0,163.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 89,POLO Niccolo,81.3,62.0,66.0,68.0,82.0,86.0,90.0,68.0,90.0,158.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U20 Women 87,DESBLEDS Camille,81.3,42.0,45.0,47.0,52.0,56.0,60.0,47.0,60.0,107.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Women 49,VIGNEAU Hélène,47.9,24.0,26.0,28.0,30.0,34.0,-36.0,28.0,34.0,62.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Women 71,CHAABANE Inès,66.9,43.0,47.0,50.0,57.0,62.0,65.0,50.0,65.0,115.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U20 Women 87,DESBLEDS Camille,81.3,42.0,45.0,47.0,52.0,56.0,60.0,47.0,60.0,107.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Women 49,VIGNEAU Hélène,47.9,24.0,26.0,28.0,30.0,34.0,-36.0,28.0,34.0,62.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Women 71,CHAABANE Inès,66.9,43.0,47.0,50.0,57.0,62.0,65.0,50.0,65.0,115.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U15 Women 45,BARET Lola,43.7,32.0,-35.0,-37.0,40.0,-42.0,43.0,32.0,43.0,75.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U15 Women 76,DESBOIS VITRY Léna,73.0,20.0,22.0,24.0,30.0,32.0,34.0,24.0,34.0,58.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U17 Women 64,FONTAINE Maelle,64.0,23.0,25.0,28.0,35.0,40.0,43.0,28.0,43.0,71.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U20 Women 64,PAYET Mathilde,63.4,40.0,43.0,46.0,45.0,48.0,50.0,46.0,50.0,96.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U20 Women 71,TACITE Laïssa,66.15,-22.0,22.0,25.0,32.0,-34.0,-34.0,25.0,32.0,57.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U20 Women 81,LEBON Leane,79.0,40.0,43.0,46.0,50.0,55.0,60.0,46.0,60.0,106.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Women 55,SEIGNE Pauline,54.0,47.0,-50.0,-52.0,52.0,55.0,-60.0,47.0,55.0,102.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Women 55,GABRIEL Pauline,54.6,41.0,43.0,-45.0,50.0,53.0,56.0,43.0,56.0,99.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Women 55,GABRIEL Mathilde,54.0,-42.0,42.0,-47.0,50.0,53.0,-56.0,42.0,53.0,95.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Women 59,BRUNEL Anais,56.6,41.0,44.0,-46.0,50.0,-53.0,56.0,44.0,56.0,100.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Women 59,ALAGUIRY PAJANIAYE Marie-edith,55.39,38.0,41.0,44.0,45.0,48.0,51.0,44.0,51.0,95.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Women 59,FLECHAUD Mariette,58.0,25.0,28.0,30.0,40.0,44.0,-47.0,30.0,44.0,74.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Women 71,EXILE Aurelie,69.7,42.0,45.0,48.0,52.0,55.0,61.0,48.0,61.0,109.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Women 71,BACHELIER Kelly,67.4,34.0,37.0,-40.0,40.0,43.0,49.0,37.0,49.0,86.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Women 76,CUPIDON Emilie,75.0,-36.0,36.0,39.0,42.0,-45.0,-46.0,39.0,42.0,81.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Women >87,DESBOIS VITRY Aurélie,89.49,20.0,-23.0,24.0,28.0,30.0,33.0,24.0,33.0,57.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U15 Women 45,BARET Lola,43.7,32.0,-35.0,-37.0,40.0,-42.0,43.0,32.0,43.0,75.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U15 Women 76,DESBOIS VITRY Léna,73.0,20.0,22.0,24.0,30.0,32.0,34.0,24.0,34.0,58.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U17 Women 64,FONTAINE Maelle,64.0,23.0,25.0,28.0,35.0,40.0,43.0,28.0,43.0,71.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U20 Women 64,PAYET Mathilde,63.4,40.0,43.0,46.0,45.0,48.0,50.0,46.0,50.0,96.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U20 Women 71,TACITE Laïssa,66.15,-22.0,22.0,25.0,32.0,-34.0,-34.0,25.0,32.0,57.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,U20 Women 81,LEBON Leane,79.0,40.0,43.0,46.0,50.0,55.0,60.0,46.0,60.0,106.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Women 55,SEIGNE Pauline,54.0,47.0,-50.0,-52.0,52.0,55.0,-60.0,47.0,55.0,102.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Women 55,GABRIEL Pauline,54.6,41.0,43.0,-45.0,50.0,53.0,56.0,43.0,56.0,99.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Women 55,GABRIEL Mathilde,54.0,-42.0,42.0,-47.0,50.0,53.0,-56.0,42.0,53.0,95.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Women 59,BRUNEL Anais,56.6,41.0,44.0,-46.0,50.0,-53.0,56.0,44.0,56.0,100.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Women 59,ALAGUIRY PAJANIAYE Marie-edith,55.39,38.0,41.0,44.0,45.0,48.0,51.0,44.0,51.0,95.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Women 59,FLECHAUD Mariette,58.0,25.0,28.0,30.0,40.0,44.0,-47.0,30.0,44.0,74.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Women 71,EXILE Aurelie,69.7,42.0,45.0,48.0,52.0,55.0,61.0,48.0,61.0,109.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Women 71,BACHELIER Kelly,67.4,34.0,37.0,-40.0,40.0,43.0,49.0,37.0,49.0,86.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Women 76,CUPIDON Emilie,75.0,-36.0,36.0,39.0,42.0,-45.0,-46.0,39.0,42.0,81.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Women >87,DESBOIS VITRY Aurélie,89.49,20.0,-23.0,24.0,28.0,30.0,33.0,24.0,33.0,57.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Women 55,LAFITTAU Coralie,53.1,28.0,32.0,-36.0,40.0,44.0,-47.0,32.0,44.0,76.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Women 64,JOUNIAUX Alexane,63.4,48.0,52.0,55.0,-60.0,60.0,65.0,55.0,65.0,120.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Women 64,MARIE ROSE Michelle,63.8,50.0,53.0,56.0,60.0,-63.0,-66.0,56.0,60.0,116.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Women 64,ZAMPROGNA Alicia,62.9,-35.0,35.0,40.0,55.0,-58.0,-58.0,40.0,55.0,95.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Women 64,OUSTRIC Adeline,61.2,36.0,38.0,-41.0,-47.0,-47.0,47.0,38.0,47.0,85.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Women 76,KERNEIS Marine,75.1,-43.0,43.0,-46.0,45.0,48.0,-51.0,43.0,48.0,91.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Women >87,CARRAT DE BLUZE Maelis,107.8,61.0,64.0,67.0,76.0,80.0,83.0,67.0,83.0,150.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Women 55,LAFITTAU Coralie,53.1,28.0,32.0,-36.0,40.0,44.0,-47.0,32.0,44.0,76.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Women 64,JOUNIAUX Alexane,63.4,48.0,52.0,55.0,-60.0,60.0,65.0,55.0,65.0,120.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Women 64,MARIE ROSE Michelle,63.8,50.0,53.0,56.0,60.0,-63.0,-66.0,56.0,60.0,116.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Women 64,ZAMPROGNA Alicia,62.9,-35.0,35.0,40.0,55.0,-58.0,-58.0,40.0,55.0,95.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Women 64,OUSTRIC Adeline,61.2,36.0,38.0,-41.0,-47.0,-47.0,47.0,38.0,47.0,85.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Women 76,KERNEIS Marine,75.1,-43.0,43.0,-46.0,45.0,48.0,-51.0,43.0,48.0,91.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Women >87,CARRAT DE BLUZE Maelis,107.8,61.0,64.0,67.0,76.0,80.0,83.0,67.0,83.0,150.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 81,ANDRIAMIRADO Jérome,80.9,87.0,91.0,95.0,120.0,-125.0,-125.0,95.0,120.0,215.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 81,VALLEIX Fabrice,78.0,-90.0,90.0,-94.0,120.0,-126.0,-130.0,90.0,120.0,210.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 81,DAGUZAN Joris,80.1,-90.0,90.0,95.0,110.0,115.0,-120.0,95.0,115.0,210.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 81,LAMY Thomas,73.6,80.0,84.0,88.0,105.0,-110.0,-112.0,88.0,105.0,193.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 81,SOUMEILHAN Corentin,75.9,80.0,85.0,-88.0,107.0,110.0,-112.0,85.0,110.0,195.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 81,GELASSE Kevin,76.2,85.0,88.0,92.0,95.0,98.0,102.0,92.0,102.0,194.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 81,PAGANIN Antoine,79.2,-64.0,65.0,67.0,93.0,97.0,-100.0,67.0,97.0,164.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 81,SAINTIGNAN Matthieu,74.9,60.0,65.0,-68.0,-80.0,-80.0,80.0,65.0,80.0,145.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 81,RECIZAC Arnaud,76.2,40.0,50.0,60.0,50.0,65.0,-70.0,60.0,65.0,125.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 81,ANDRIAMIRADO Jérome,80.9,87.0,91.0,95.0,120.0,-125.0,-125.0,95.0,120.0,215.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 81,VALLEIX Fabrice,78.0,-90.0,90.0,-94.0,120.0,-126.0,-130.0,90.0,120.0,210.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 81,DAGUZAN Joris,80.1,-90.0,90.0,95.0,110.0,115.0,-120.0,95.0,115.0,210.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 81,LAMY Thomas,73.6,80.0,84.0,88.0,105.0,-110.0,-112.0,88.0,105.0,193.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 81,SOUMEILHAN Corentin,75.9,80.0,85.0,-88.0,107.0,110.0,-112.0,85.0,110.0,195.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 81,GELASSE Kevin,76.2,85.0,88.0,92.0,95.0,98.0,102.0,92.0,102.0,194.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 81,PAGANIN Antoine,79.2,-64.0,65.0,67.0,93.0,97.0,-100.0,67.0,97.0,164.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 81,SAINTIGNAN Matthieu,74.9,60.0,65.0,-68.0,-80.0,-80.0,80.0,65.0,80.0,145.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 81,RECIZAC Arnaud,76.2,40.0,50.0,60.0,50.0,65.0,-70.0,60.0,65.0,125.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 67,DELAVAL Adrien,62.5,61.0,64.0,67.0,75.0,80.0,84.0,67.0,84.0,151.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 73,ARRAGON Axel,71.3,77.0,-80.0,81.0,95.0,-100.0,100.0,81.0,100.0,181.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 73,LE GUEN François,71.3,-75.0,75.0,-80.0,101.0,105.0,-110.0,75.0,105.0,180.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 73,PENCRANE Alexandre,72.3,47.0,-51.0,51.0,65.0,67.0,71.0,51.0,71.0,122.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 89,JOUANNEAU Ryan,82.6,93.0,96.0,-100.0,123.0,-128.0,-129.0,96.0,123.0,219.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 89,DU MOULIN DE LA BRETECHE Arnaud,85.5,76.0,-79.0,80.0,95.0,-100.0,100.0,80.0,100.0,180.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 89,DEVAY  TAUSTE Adrian,82.8,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 96,ORTIZ Kevin,90.6,95.0,-100.0,-104.0,123.0,128.0,-131.0,95.0,128.0,223.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 96,LENERAND Yann,95.7,70.0,-75.0,-75.0,100.0,-110.0,-110.0,70.0,100.0,170.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 96,ANES Gabriel,92.3,40.0,60.0,65.0,60.0,90.0,95.0,65.0,95.0,160.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 67,DELAVAL Adrien,62.5,61.0,64.0,67.0,75.0,80.0,84.0,67.0,84.0,151.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 73,ARRAGON Axel,71.3,77.0,-80.0,81.0,95.0,-100.0,100.0,81.0,100.0,181.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 73,LE GUEN François,71.3,-75.0,75.0,-80.0,101.0,105.0,-110.0,75.0,105.0,180.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 73,PENCRANE Alexandre,72.3,47.0,-51.0,51.0,65.0,67.0,71.0,51.0,71.0,122.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 89,JOUANNEAU Ryan,82.6,93.0,96.0,-100.0,123.0,-128.0,-129.0,96.0,123.0,219.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 89,DU MOULIN DE LA BRETECHE Arnaud,85.5,76.0,-79.0,80.0,95.0,-100.0,100.0,80.0,100.0,180.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 89,DEVAY  TAUSTE Adrian,82.8,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 96,ORTIZ Kevin,90.6,95.0,-100.0,-104.0,123.0,128.0,-131.0,95.0,128.0,223.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 96,LENERAND Yann,95.7,70.0,-75.0,-75.0,100.0,-110.0,-110.0,70.0,100.0,170.0
+REU - Challenge Avenir - Saint-paul - U10-13,2025-04-19,SEN Men 96,ANES Gabriel,92.3,40.0,60.0,65.0,60.0,90.0,95.0,65.0,95.0,160.0

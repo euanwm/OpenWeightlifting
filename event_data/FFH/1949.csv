@@ -1,0 +1,151 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W35 Women 55,AUDIBERT Coralie,53.7,42.0,44.0,-46.0,60.0,62.0,-64.0,44.0,62.0,106.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W35 Women 55,HERZIG Marion,54.3,32.0,-35.0,-35.0,43.0,46.0,-49.0,32.0,46.0,78.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W35 Women 59,LANDRY Aurelie,57.65,48.0,-51.0,51.0,58.0,-61.0,62.0,51.0,62.0,113.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W35 Women 59,TOUTI Abyr,59.0,-47.0,47.0,-49.0,58.0,62.0,66.0,47.0,66.0,113.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W35 Women 59,ARRIVET Melanie,57.95,43.0,45.0,-47.0,64.0,66.0,-68.0,45.0,66.0,111.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W40 Women 55,OHREL Julie,52.65,-35.0,35.0,-37.0,40.0,42.0,44.0,35.0,44.0,79.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W40 Women 59,GROBOTEK MOUROT Delphine,58.05,50.0,55.0,60.0,70.0,75.0,80.0,60.0,80.0,140.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W40 Women 87,CRISTOFOLI Adeline,81.9,55.0,60.0,62.0,70.0,76.0,80.0,62.0,80.0,142.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W45 Women 49,LE PANSE Benedicte,48.6,28.0,30.0,-32.0,42.0,-50.0,50.0,30.0,50.0,80.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W45 Women 76,GIOT Claire marie,71.15,43.0,45.0,47.0,60.0,-63.0,64.0,47.0,64.0,111.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W50 Women 49,MARTINEAU Gwenaele,48.55,28.0,30.0,31.0,37.0,-39.0,-39.0,31.0,37.0,68.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W65 Women 59,WITKOWSKI Dagmar,55.4,40.0,-42.0,-42.0,41.0,-43.0,44.0,40.0,44.0,84.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M35 Men 73,LABONDE Romain,71.8,90.0,93.0,96.0,-113.0,-115.0,115.0,96.0,115.0,211.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M35 Men 89,BUREAU Steven,85.7,112.0,117.0,121.0,137.0,142.0,148.0,121.0,148.0,269.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M35 Men 89,HORAITIS Dimitri,83.0,-110.0,110.0,115.0,130.0,134.0,-136.0,115.0,134.0,249.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M40 Men 89,MARCHAND Antoine,88.35,100.0,-105.0,-105.0,-118.0,-120.0,-120.0,100.0,0.0,0.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M40 Men 96,POIRIER Mathieu,94.8,105.0,110.0,-115.0,136.0,-142.0,-146.0,110.0,136.0,246.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M40 Men 109,JANNEKEYN Romain,104.7,106.0,111.0,-114.0,125.0,-129.0,-131.0,111.0,125.0,236.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M55 Men 96,CHEVILLOT Emmanuel,94.65,72.0,76.0,-80.0,97.0,103.0,105.0,76.0,105.0,181.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M55 Men >109,DIAS OLIVEIRA Vitor manuel,111.2,72.0,76.0,-78.0,-92.0,92.0,96.0,76.0,96.0,172.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M65 Men 73,BABIN Patrick,72.5,48.0,52.0,55.0,60.0,-65.0,-66.0,55.0,60.0,115.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M35 Men 73,LABONDE Romain,71.8,90.0,93.0,96.0,-113.0,-115.0,115.0,96.0,115.0,211.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M35 Men 89,BUREAU Steven,85.7,112.0,117.0,121.0,137.0,142.0,148.0,121.0,148.0,269.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M35 Men 89,HORAITIS Dimitri,83.0,-110.0,110.0,115.0,130.0,134.0,-136.0,115.0,134.0,249.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M40 Men 89,MARCHAND Antoine,88.35,100.0,-105.0,-105.0,-118.0,-120.0,-120.0,100.0,0.0,0.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M40 Men 96,POIRIER Mathieu,94.8,105.0,110.0,-115.0,136.0,-142.0,-146.0,110.0,136.0,246.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M40 Men 109,JANNEKEYN Romain,104.7,106.0,111.0,-114.0,125.0,-129.0,-131.0,111.0,125.0,236.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M55 Men 96,CHEVILLOT Emmanuel,94.65,72.0,76.0,-80.0,97.0,103.0,105.0,76.0,105.0,181.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M55 Men >109,DIAS OLIVEIRA Vitor manuel,111.2,72.0,76.0,-78.0,-92.0,92.0,96.0,76.0,96.0,172.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M65 Men 73,BABIN Patrick,72.5,48.0,52.0,55.0,60.0,-65.0,-66.0,55.0,60.0,115.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W35 Women 45,PRIMEL Laetitia,42.6,40.0,43.0,-45.0,55.0,-57.0,-57.0,43.0,55.0,98.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W35 Women 55,RODRIGUEZ Alexandra,54.7,55.0,60.0,-65.0,65.0,75.0,80.0,60.0,80.0,140.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W35 Women 55,GARCIA Clemence,54.55,42.0,43.0,44.0,59.0,-61.0,-61.0,44.0,59.0,103.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W35 Women 64,LANCIER Amélie,63.2,60.0,65.0,68.0,67.0,72.0,76.0,68.0,76.0,144.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W35 Women 71,COMBELLES Laetitia,68.75,-75.0,-75.0,75.0,90.0,95.0,-100.0,75.0,95.0,170.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W35 Women 71,MOKHLESS Nadia,67.55,57.0,-60.0,-60.0,70.0,74.0,-76.0,57.0,74.0,131.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W35 Women 76,NOE Jennifer,74.5,-57.0,-57.0,-58.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W40 Women 64,SUEUR Hélène,63.8,-60.0,63.0,-66.0,77.0,81.0,-88.0,63.0,81.0,144.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W40 Women 71,LAMBERT Joy,67.85,60.0,-62.0,-64.0,70.0,75.0,-80.0,60.0,75.0,135.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W40 Women 76,ARENA Perrine,73.4,40.0,-43.0,-44.0,54.0,-56.0,-57.0,40.0,54.0,94.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W40 Women 81,REY Amelie,78.7,43.0,-46.0,-46.0,58.0,60.0,62.0,43.0,62.0,105.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W45 Women 64,PLOUSEY Estelle,63.9,40.0,-43.0,-43.0,50.0,-53.0,-53.0,40.0,50.0,90.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W45 Women 71,GRIVOLAT Nathanaelle,68.4,45.0,48.0,-51.0,68.0,71.0,75.0,48.0,75.0,123.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W50 Women 55,YU HING Clodyne,54.0,43.0,46.0,-51.0,53.0,-56.0,-56.0,46.0,53.0,99.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W50 Women 59,LYAUDET INABNIT Chrystel,56.25,37.0,-39.0,-39.0,48.0,50.0,52.0,37.0,52.0,89.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W55 Women 64,LECOEUR Michelle,60.6,42.0,-44.0,-44.0,50.0,-53.0,53.0,42.0,53.0,95.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W35 Women 45,PRIMEL Laetitia,42.6,40.0,43.0,-45.0,55.0,-57.0,-57.0,43.0,55.0,98.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W35 Women 55,RODRIGUEZ Alexandra,54.7,55.0,60.0,-65.0,65.0,75.0,80.0,60.0,80.0,140.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W35 Women 55,GARCIA Clemence,54.55,42.0,43.0,44.0,59.0,-61.0,-61.0,44.0,59.0,103.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W35 Women 64,LANCIER Amélie,63.2,60.0,65.0,68.0,67.0,72.0,76.0,68.0,76.0,144.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W35 Women 71,COMBELLES Laetitia,68.75,-75.0,-75.0,75.0,90.0,95.0,-100.0,75.0,95.0,170.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W35 Women 71,MOKHLESS Nadia,67.55,57.0,-60.0,-60.0,70.0,74.0,-76.0,57.0,74.0,131.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W35 Women 76,NOE Jennifer,74.5,-57.0,-57.0,-58.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W40 Women 64,SUEUR Hélène,63.8,-60.0,63.0,-66.0,77.0,81.0,-88.0,63.0,81.0,144.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W40 Women 71,LAMBERT Joy,67.85,60.0,-62.0,-64.0,70.0,75.0,-80.0,60.0,75.0,135.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W40 Women 76,ARENA Perrine,73.4,40.0,-43.0,-44.0,54.0,-56.0,-57.0,40.0,54.0,94.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W40 Women 81,REY Amelie,78.7,43.0,-46.0,-46.0,58.0,60.0,62.0,43.0,62.0,105.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W45 Women 64,PLOUSEY Estelle,63.9,40.0,-43.0,-43.0,50.0,-53.0,-53.0,40.0,50.0,90.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W45 Women 71,GRIVOLAT Nathanaelle,68.4,45.0,48.0,-51.0,68.0,71.0,75.0,48.0,75.0,123.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W50 Women 55,YU HING Clodyne,54.0,43.0,46.0,-51.0,53.0,-56.0,-56.0,46.0,53.0,99.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W50 Women 59,LYAUDET INABNIT Chrystel,56.25,37.0,-39.0,-39.0,48.0,50.0,52.0,37.0,52.0,89.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W55 Women 64,LECOEUR Michelle,60.6,42.0,-44.0,-44.0,50.0,-53.0,53.0,42.0,53.0,95.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W35 Women 64,BACQUAERT Marie,62.25,56.0,59.0,-63.0,-73.0,73.0,-78.0,59.0,73.0,132.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W35 Women 71,BAULOT Alison,68.9,55.0,-58.0,59.0,65.0,-68.0,-71.0,59.0,65.0,124.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W35 Women 71,ENDERS Amelie,70.25,40.0,42.0,-44.0,55.0,58.0,-60.0,42.0,58.0,100.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W35 Women 81,DEGRANDE Eloïse,77.7,39.0,-43.0,-43.0,50.0,55.0,-59.0,39.0,55.0,94.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W40 Women 49,SITTER Cécile,47.25,41.0,-43.0,44.0,50.0,-53.0,-54.0,44.0,50.0,94.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W40 Women 59,FAYOLLE YAZICI Emilie,58.8,-39.0,39.0,41.0,53.0,-56.0,57.0,41.0,57.0,98.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W40 Women 64,LANOY Laetitia,64.0,60.0,64.0,-67.0,77.0,81.0,86.0,64.0,86.0,150.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W40 Women 64,SCIASCIA Bobbi lee,63.65,61.0,-63.0,-64.0,-76.0,-78.0,-78.0,61.0,0.0,0.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W45 Women 49,NGUYEN Coralie,47.4,31.0,33.0,-35.0,42.0,-46.0,46.0,33.0,46.0,79.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W45 Women 59,CARRIER Aude,57.45,35.0,-37.0,-37.0,50.0,52.0,-58.0,35.0,52.0,87.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W45 Women 64,DIMPRE Sophie,62.05,-50.0,50.0,-52.0,-65.0,65.0,-70.0,50.0,65.0,115.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W50 Women 55,KOCSIS Anita,52.6,35.0,37.0,-39.0,43.0,-46.0,-46.0,37.0,43.0,80.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W65 Women 64,BEYER Nadège,60.55,15.0,18.0,20.0,15.0,20.0,25.0,20.0,25.0,45.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W35 Women 64,BACQUAERT Marie,62.25,56.0,59.0,-63.0,-73.0,73.0,-78.0,59.0,73.0,132.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W35 Women 71,BAULOT Alison,68.9,55.0,-58.0,59.0,65.0,-68.0,-71.0,59.0,65.0,124.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W35 Women 71,ENDERS Amelie,70.25,40.0,42.0,-44.0,55.0,58.0,-60.0,42.0,58.0,100.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W35 Women 81,DEGRANDE Eloïse,77.7,39.0,-43.0,-43.0,50.0,55.0,-59.0,39.0,55.0,94.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W40 Women 49,SITTER Cécile,47.25,41.0,-43.0,44.0,50.0,-53.0,-54.0,44.0,50.0,94.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W40 Women 59,FAYOLLE YAZICI Emilie,58.8,-39.0,39.0,41.0,53.0,-56.0,57.0,41.0,57.0,98.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W40 Women 64,LANOY Laetitia,64.0,60.0,64.0,-67.0,77.0,81.0,86.0,64.0,86.0,150.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W40 Women 64,SCIASCIA Bobbi lee,63.65,61.0,-63.0,-64.0,-76.0,-78.0,-78.0,61.0,0.0,0.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W45 Women 49,NGUYEN Coralie,47.4,31.0,33.0,-35.0,42.0,-46.0,46.0,33.0,46.0,79.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W45 Women 59,CARRIER Aude,57.45,35.0,-37.0,-37.0,50.0,52.0,-58.0,35.0,52.0,87.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W45 Women 64,DIMPRE Sophie,62.05,-50.0,50.0,-52.0,-65.0,65.0,-70.0,50.0,65.0,115.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W50 Women 55,KOCSIS Anita,52.6,35.0,37.0,-39.0,43.0,-46.0,-46.0,37.0,43.0,80.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,W65 Women 64,BEYER Nadège,60.55,15.0,18.0,20.0,15.0,20.0,25.0,20.0,25.0,45.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M35 Men 89,BOUFFARTIGUE Sylvain,83.25,-98.0,98.0,101.0,120.0,125.0,-130.0,101.0,125.0,226.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M35 Men 89,HAREL Allan,81.15,90.0,93.0,-96.0,115.0,119.0,123.0,93.0,123.0,216.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M35 Men 89,MARCHAND Pierre yves,86.8,98.0,101.0,-102.0,115.0,120.0,-123.0,101.0,120.0,221.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M40 Men 96,BUCAILLE Olivier,91.6,77.0,-82.0,-82.0,-103.0,103.0,-0.0,77.0,103.0,180.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M40 Men 102,VALLET Richard,100.9,83.0,86.0,90.0,118.0,-122.0,-122.0,90.0,118.0,208.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M50 Men 102,ANNE Cyrille,98.65,80.0,-85.0,-85.0,101.0,106.0,111.0,80.0,111.0,191.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M55 Men 81,BELINY Christophe,80.45,57.0,60.0,-62.0,75.0,78.0,82.0,60.0,82.0,142.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M75 Men 55,CORNEILLET Jacques,54.5,30.0,33.0,-34.0,40.0,43.0,-44.0,33.0,43.0,76.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M35 Men 89,BOUFFARTIGUE Sylvain,83.25,-98.0,98.0,101.0,120.0,125.0,-130.0,101.0,125.0,226.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M35 Men 89,HAREL Allan,81.15,90.0,93.0,-96.0,115.0,119.0,123.0,93.0,123.0,216.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M35 Men 89,MARCHAND Pierre yves,86.8,98.0,101.0,-102.0,115.0,120.0,-123.0,101.0,120.0,221.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M40 Men 96,BUCAILLE Olivier,91.6,77.0,-82.0,-82.0,-103.0,103.0,-0.0,77.0,103.0,180.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M40 Men 102,VALLET Richard,100.9,83.0,86.0,90.0,118.0,-122.0,-122.0,90.0,118.0,208.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M50 Men 102,ANNE Cyrille,98.65,80.0,-85.0,-85.0,101.0,106.0,111.0,80.0,111.0,191.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M55 Men 81,BELINY Christophe,80.45,57.0,60.0,-62.0,75.0,78.0,82.0,60.0,82.0,142.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M75 Men 55,CORNEILLET Jacques,54.5,30.0,33.0,-34.0,40.0,43.0,-44.0,33.0,43.0,76.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M35 Men 81,LAUGIER Jonathan,80.3,100.0,105.0,-108.0,117.0,123.0,-160.0,105.0,123.0,228.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M35 Men 81,RODOLFO Kevin,80.55,95.0,-100.0,-100.0,123.0,-128.0,128.0,95.0,128.0,223.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M35 Men 96,FLOTAT Gareth,91.0,-102.0,102.0,-107.0,128.0,-133.0,135.0,102.0,135.0,237.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M35 Men 96,KOSCIELNY Thomas,94.8,107.0,-110.0,-111.0,130.0,-139.0,-139.0,107.0,130.0,237.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M35 Men 96,ROYER SYLVESTRE BRU Carl,95.95,95.0,-102.0,-103.0,-126.0,126.0,-143.0,95.0,126.0,221.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M40 Men 67,WARTELLE Edmond,67.0,82.0,-87.0,-91.0,105.0,110.0,-113.0,82.0,110.0,192.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M40 Men 73,BAUDRY Marc,72.65,75.0,80.0,-82.0,-100.0,100.0,105.0,80.0,105.0,185.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M40 Men 81,FERRANDO Gaetan,77.25,92.0,-96.0,-96.0,-110.0,110.0,120.0,92.0,120.0,212.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M40 Men 81,MALFROY Jean philippe,80.0,-82.0,-83.0,-83.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M40 Men 89,MOULIS Franck,85.35,87.0,90.0,-95.0,106.0,-110.0,113.0,90.0,113.0,203.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M45 Men 67,BOCHEW Jérôme,64.7,63.0,68.0,73.0,83.0,-92.0,-92.0,73.0,83.0,156.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M45 Men 89,CAMPS Sebastien,81.2,-90.0,-90.0,95.0,100.0,110.0,-113.0,95.0,110.0,205.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M45 Men 96,TERRIER Sebatien,95.0,95.0,-102.0,-107.0,115.0,-120.0,-125.0,95.0,115.0,210.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M45 Men 109,EMMANUEL Ange,105.55,85.0,-89.0,-90.0,111.0,-117.0,120.0,85.0,120.0,205.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M50 Men 89,MILLE Frederic,88.3,75.0,-81.0,83.0,85.0,91.0,97.0,83.0,97.0,180.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M55 Men 73,CANESTRIER Jean,72.7,70.0,76.0,78.0,90.0,95.0,100.0,78.0,100.0,178.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M60 Men 102,BATTAGLIA Eric,99.7,60.0,64.0,67.0,73.0,77.0,-82.0,67.0,77.0,144.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M65 Men 61,PEDROLA Jean marc,60.1,42.0,-45.0,-45.0,52.0,55.0,58.0,42.0,58.0,100.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M65 Men 81,ESPINOLA Manuel,78.7,60.0,65.0,66.0,80.0,85.0,86.0,66.0,86.0,152.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M65 Men >109,MANFRIN Igor,113.3,62.0,65.0,67.0,86.0,-90.0,90.0,67.0,90.0,157.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M70 Men 55,VICENTE Francois,54.45,37.0,39.0,41.0,47.0,50.0,53.0,41.0,53.0,94.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M75 Men 109,BELMAS Jean paul,103.2,40.0,43.0,45.0,50.0,55.0,60.0,45.0,60.0,105.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M80 Men 96,LEBAILLY Pierre,91.8,42.0,45.0,46.0,52.0,56.0,-60.0,46.0,56.0,102.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M35 Men 81,LAUGIER Jonathan,80.3,100.0,105.0,-108.0,117.0,123.0,-160.0,105.0,123.0,228.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M35 Men 81,RODOLFO Kevin,80.55,95.0,-100.0,-100.0,123.0,-128.0,128.0,95.0,128.0,223.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M35 Men 96,FLOTAT Gareth,91.0,-102.0,102.0,-107.0,128.0,-133.0,135.0,102.0,135.0,237.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M35 Men 96,KOSCIELNY Thomas,94.8,107.0,-110.0,-111.0,130.0,-139.0,-139.0,107.0,130.0,237.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M35 Men 96,ROYER SYLVESTRE BRU Carl,95.95,95.0,-102.0,-103.0,-126.0,126.0,-143.0,95.0,126.0,221.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M40 Men 67,WARTELLE Edmond,67.0,82.0,-87.0,-91.0,105.0,110.0,-113.0,82.0,110.0,192.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M40 Men 73,BAUDRY Marc,72.65,75.0,80.0,-82.0,-100.0,100.0,105.0,80.0,105.0,185.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M40 Men 81,FERRANDO Gaetan,77.25,92.0,-96.0,-96.0,-110.0,110.0,120.0,92.0,120.0,212.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M40 Men 81,MALFROY Jean philippe,80.0,-82.0,-83.0,-83.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M40 Men 89,MOULIS Franck,85.35,87.0,90.0,-95.0,106.0,-110.0,113.0,90.0,113.0,203.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M45 Men 67,BOCHEW Jérôme,64.7,63.0,68.0,73.0,83.0,-92.0,-92.0,73.0,83.0,156.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M45 Men 89,CAMPS Sebastien,81.2,-90.0,-90.0,95.0,100.0,110.0,-113.0,95.0,110.0,205.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M45 Men 96,TERRIER Sebatien,95.0,95.0,-102.0,-107.0,115.0,-120.0,-125.0,95.0,115.0,210.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M45 Men 109,EMMANUEL Ange,105.55,85.0,-89.0,-90.0,111.0,-117.0,120.0,85.0,120.0,205.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M50 Men 89,MILLE Frederic,88.3,75.0,-81.0,83.0,85.0,91.0,97.0,83.0,97.0,180.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M55 Men 73,CANESTRIER Jean,72.7,70.0,76.0,78.0,90.0,95.0,100.0,78.0,100.0,178.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M60 Men 102,BATTAGLIA Eric,99.7,60.0,64.0,67.0,73.0,77.0,-82.0,67.0,77.0,144.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M65 Men 61,PEDROLA Jean marc,60.1,42.0,-45.0,-45.0,52.0,55.0,58.0,42.0,58.0,100.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M65 Men 81,ESPINOLA Manuel,78.7,60.0,65.0,66.0,80.0,85.0,86.0,66.0,86.0,152.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M65 Men >109,MANFRIN Igor,113.3,62.0,65.0,67.0,86.0,-90.0,90.0,67.0,90.0,157.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M70 Men 55,VICENTE Francois,54.45,37.0,39.0,41.0,47.0,50.0,53.0,41.0,53.0,94.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M75 Men 109,BELMAS Jean paul,103.2,40.0,43.0,45.0,50.0,55.0,60.0,45.0,60.0,105.0
+GE - Championnat de France Masters 2025 - Besançon - W,2025-04-21,M80 Men 96,LEBAILLY Pierre,91.8,42.0,45.0,46.0,52.0,56.0,-60.0,46.0,56.0,102.0
