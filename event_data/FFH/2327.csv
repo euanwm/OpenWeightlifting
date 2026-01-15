@@ -1,0 +1,295 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 48,MOULS Pryanka,47.82,35.0,37.0,40.0,40.0,43.0,45.0,40.0,45.0,85.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 53,NATIVEL Laure,49.04,-50.0,51.0,-53.0,-62.0,64.0,-67.0,51.0,64.0,115.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 58,VERMONT Morgane,57.79,72.0,76.0,80.0,85.0,90.0,-95.0,80.0,90.0,170.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 58,RAKOTOMALALA Emma,57.88,-70.0,70.0,73.0,89.0,96.0,-100.0,73.0,96.0,169.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 58,SEIGNE Pauline,55.07,48.0,-51.0,-53.0,58.0,-62.0,-64.0,48.0,58.0,106.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 63,CADET Auberi,59.75,58.0,60.0,-62.0,76.0,-80.0,80.0,60.0,80.0,140.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 63,RAZAKARIA Glena,60.24,45.0,-49.0,-52.0,55.0,60.0,65.0,45.0,65.0,110.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 69,BAISSE Chloé,68.36,60.0,-64.0,-66.0,72.0,76.0,-79.0,60.0,76.0,136.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 77,TISSOT Clarisse,74.43,70.0,74.0,-77.0,88.0,92.0,95.0,74.0,95.0,169.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 86,PROUET Caroline,84.17,72.0,74.0,76.0,90.0,-93.0,-93.0,76.0,90.0,166.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U20 Women 53,BEGIN Ombeline,50.6,39.0,-42.0,-43.0,51.0,54.0,-57.0,39.0,54.0,93.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 63,JULLIEN Marine,62.55,62.0,65.0,-68.0,77.0,80.0,-83.0,65.0,80.0,145.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 77,MORIN Cecile,71.3,68.0,71.0,73.0,79.0,84.0,87.0,73.0,87.0,160.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U20 Women 53,BEGIN Ombeline,50.6,39.0,-42.0,-43.0,51.0,54.0,-57.0,39.0,54.0,93.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 63,JULLIEN Marine,62.55,62.0,65.0,-68.0,77.0,80.0,-83.0,65.0,80.0,145.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 77,MORIN Cecile,71.3,68.0,71.0,73.0,79.0,84.0,87.0,73.0,87.0,160.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 65,CAMBON Tanguy,64.0,88.0,91.0,-94.0,-114.0,-118.0,118.0,91.0,118.0,209.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 71,VIGNERESSE Erwan,70.8,90.0,95.0,100.0,116.0,121.0,-126.0,100.0,121.0,221.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 79,MONGEY Dylan,72.5,78.0,82.0,86.0,90.0,96.0,-101.0,86.0,96.0,182.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 88,LANGE Jérémy,87.4,105.0,110.0,-115.0,120.0,125.0,-130.0,110.0,125.0,235.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 65,CAMBON Tanguy,64.0,88.0,91.0,-94.0,-114.0,-118.0,118.0,91.0,118.0,209.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 71,VIGNERESSE Erwan,70.8,90.0,95.0,100.0,116.0,121.0,-126.0,100.0,121.0,221.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 79,MONGEY Dylan,72.5,78.0,82.0,86.0,90.0,96.0,-101.0,86.0,96.0,182.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 88,LANGE Jérémy,87.4,105.0,110.0,-115.0,120.0,125.0,-130.0,110.0,125.0,235.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U10 Men ,VEFOUR Raphael,27.32,16.0,18.0,20.0,23.0,-25.0,25.0,20.0,25.0,45.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U10 Men ,GRONDIN Elias,24.3,-10.0,10.0,11.0,15.0,16.0,18.0,11.0,18.0,29.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U10 Men ,LEPINAY BARET Gabriel,25.27,-12.0,12.0,13.0,15.0,17.0,-19.0,13.0,17.0,30.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U10 Men ,BIJOUX Mehran,29.49,10.0,12.0,14.0,15.0,-17.0,17.0,14.0,17.0,31.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U10 Men ,NAHIK Marwan,50.93,12.0,13.0,15.0,18.0,-20.0,20.0,15.0,20.0,35.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U13 Men 36,LEPINAY BARET Raphaël,35.09,26.0,27.0,-29.0,36.0,37.0,39.0,27.0,39.0,66.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U13 Men 36,MUSSARD Leo,35.99,-13.0,13.0,14.0,19.0,20.0,-22.0,14.0,20.0,34.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U13 Men 42,GARLOPEAU Loris,40.8,28.0,-30.0,30.0,38.0,-40.0,40.0,30.0,40.0,70.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U13 Men 47,"RAMDAS RIVIÈRE Jayden, andrew",42.53,-10.0,10.0,12.0,15.0,17.0,-19.0,12.0,17.0,29.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U13 Men 60,TELISMART Alexandre,60.0,28.0,29.0,31.0,35.0,36.0,38.0,31.0,38.0,69.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U13 Men 65,ST MART Lyam,61.04,32.0,34.0,-36.0,38.0,40.0,42.0,34.0,42.0,76.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U10 Women ,CORREIA Andreia,26.85,10.0,11.0,12.0,13.0,14.0,15.0,12.0,15.0,27.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U10 Women ,FONTAINE Joy,42.03,13.0,14.0,15.0,17.0,19.0,21.0,15.0,21.0,36.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U13 Women 35,BALLANT Mei,28.48,14.0,16.0,18.0,18.0,20.0,22.0,18.0,22.0,40.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U13 Women 35,PELOPS Ophelie,33.33,15.0,17.0,19.0,23.0,25.0,27.0,19.0,27.0,46.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U13 Women 35,VITRY Naïely,26.94,10.0,12.0,14.0,15.0,17.0,-19.0,14.0,17.0,31.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U13 Women 35,LADOUCH Orane,31.23,8.0,10.0,12.0,12.0,14.0,16.0,12.0,16.0,28.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U13 Women 40,JACQUEMIN Pauline,37.26,22.0,23.0,24.0,27.0,29.0,31.0,24.0,31.0,55.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U13 Women 44,FLECHAUD Elena,41.87,23.0,24.0,26.0,27.0,28.0,30.0,26.0,30.0,56.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U13 Women 44,DUTOIT Théa,41.45,17.0,18.0,20.0,22.0,-23.0,23.0,20.0,23.0,43.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U13 Women >63,TREPORT Inaya,70.39,36.0,38.0,39.0,44.0,46.0,48.0,39.0,48.0,87.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U13 Women >63,BEURARD Meylane,66.34,26.0,28.0,30.0,35.0,37.0,39.0,30.0,39.0,69.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U10 Men ,VEFOUR Raphael,27.32,16.0,18.0,20.0,23.0,-25.0,25.0,20.0,25.0,45.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U10 Men ,GRONDIN Elias,24.3,-10.0,10.0,11.0,15.0,16.0,18.0,11.0,18.0,29.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U10 Men ,LEPINAY BARET Gabriel,25.27,-12.0,12.0,13.0,15.0,17.0,-19.0,13.0,17.0,30.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U10 Men ,BIJOUX Mehran,29.49,10.0,12.0,14.0,15.0,-17.0,17.0,14.0,17.0,31.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U10 Men ,NAHIK Marwan,50.93,12.0,13.0,15.0,18.0,-20.0,20.0,15.0,20.0,35.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U13 Men 36,LEPINAY BARET Raphaël,35.09,26.0,27.0,-29.0,36.0,37.0,39.0,27.0,39.0,66.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U13 Men 36,MUSSARD Leo,35.99,-13.0,13.0,14.0,19.0,20.0,-22.0,14.0,20.0,34.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U13 Men 42,GARLOPEAU Loris,40.8,28.0,-30.0,30.0,38.0,-40.0,40.0,30.0,40.0,70.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U13 Men 47,"RAMDAS RIVIÈRE Jayden, andrew",42.53,-10.0,10.0,12.0,15.0,17.0,-19.0,12.0,17.0,29.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U13 Men 60,TELISMART Alexandre,60.0,28.0,29.0,31.0,35.0,36.0,38.0,31.0,38.0,69.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U13 Men 65,ST MART Lyam,61.04,32.0,34.0,-36.0,38.0,40.0,42.0,34.0,42.0,76.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U10 Women ,CORREIA Andreia,26.85,10.0,11.0,12.0,13.0,14.0,15.0,12.0,15.0,27.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U10 Women ,FONTAINE Joy,42.03,13.0,14.0,15.0,17.0,19.0,21.0,15.0,21.0,36.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U13 Women 35,BALLANT Mei,28.48,14.0,16.0,18.0,18.0,20.0,22.0,18.0,22.0,40.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U13 Women 35,PELOPS Ophelie,33.33,15.0,17.0,19.0,23.0,25.0,27.0,19.0,27.0,46.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U13 Women 35,VITRY Naïely,26.94,10.0,12.0,14.0,15.0,17.0,-19.0,14.0,17.0,31.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U13 Women 35,LADOUCH Orane,31.23,8.0,10.0,12.0,12.0,14.0,16.0,12.0,16.0,28.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U13 Women 40,JACQUEMIN Pauline,37.26,22.0,23.0,24.0,27.0,29.0,31.0,24.0,31.0,55.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U13 Women 44,FLECHAUD Elena,41.87,23.0,24.0,26.0,27.0,28.0,30.0,26.0,30.0,56.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U13 Women 44,DUTOIT Théa,41.45,17.0,18.0,20.0,22.0,-23.0,23.0,20.0,23.0,43.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U13 Women >63,TREPORT Inaya,70.39,36.0,38.0,39.0,44.0,46.0,48.0,39.0,48.0,87.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U13 Women >63,BEURARD Meylane,66.34,26.0,28.0,30.0,35.0,37.0,39.0,30.0,39.0,69.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U17 Men 65,MUGNIERY-SIRIEX Louis,62.3,75.0,-80.0,80.0,95.0,101.0,-106.0,80.0,101.0,181.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U17 Men 71,MBENGA HARDOROCK Kylian emmanuel,70.5,80.0,85.0,-90.0,90.0,95.0,-101.0,85.0,95.0,180.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U17 Men 79,ALBOUY Florent,73.8,75.0,79.0,82.0,97.0,105.0,108.0,82.0,108.0,190.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U20 Men 88,LAMLICHE Amine,84.6,95.0,-100.0,-100.0,125.0,-133.0,-133.0,95.0,125.0,220.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 71,BOUELLE Théo,70.7,-93.0,95.0,-100.0,120.0,-126.0,-131.0,95.0,120.0,215.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 88,GRAVOIS Ugo,82.8,110.0,115.0,-119.0,139.0,141.0,-150.0,115.0,141.0,256.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 88,LORE Morgan,84.3,103.0,-110.0,111.0,117.0,120.0,125.0,111.0,125.0,236.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 88,NGUYEN Minh,83.0,97.0,102.0,-105.0,120.0,127.0,-131.0,102.0,127.0,229.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 94,PONTET Mathias,92.3,125.0,-130.0,132.0,160.0,170.0,-178.0,132.0,170.0,302.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 94,VOTINOV Pavel,93.5,120.0,-124.0,-125.0,140.0,145.0,-150.0,120.0,145.0,265.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men >110,UTIA Kutea,141.2,115.0,-120.0,120.0,135.0,-140.0,-145.0,120.0,135.0,255.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U17 Men 65,MUGNIERY-SIRIEX Louis,62.3,75.0,-80.0,80.0,95.0,101.0,-106.0,80.0,101.0,181.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U17 Men 71,MBENGA HARDOROCK Kylian emmanuel,70.5,80.0,85.0,-90.0,90.0,95.0,-101.0,85.0,95.0,180.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U17 Men 79,ALBOUY Florent,73.8,75.0,79.0,82.0,97.0,105.0,108.0,82.0,108.0,190.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U20 Men 88,LAMLICHE Amine,84.6,95.0,-100.0,-100.0,125.0,-133.0,-133.0,95.0,125.0,220.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 71,BOUELLE Théo,70.7,-93.0,95.0,-100.0,120.0,-126.0,-131.0,95.0,120.0,215.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 88,GRAVOIS Ugo,82.8,110.0,115.0,-119.0,139.0,141.0,-150.0,115.0,141.0,256.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 88,LORE Morgan,84.3,103.0,-110.0,111.0,117.0,120.0,125.0,111.0,125.0,236.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 88,NGUYEN Minh,83.0,97.0,102.0,-105.0,120.0,127.0,-131.0,102.0,127.0,229.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 94,PONTET Mathias,92.3,125.0,-130.0,132.0,160.0,170.0,-178.0,132.0,170.0,302.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 94,VOTINOV Pavel,93.5,120.0,-124.0,-125.0,140.0,145.0,-150.0,120.0,145.0,265.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men >110,UTIA Kutea,141.2,115.0,-120.0,120.0,135.0,-140.0,-145.0,120.0,135.0,255.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U15 Men 47,VEFOUR Noah,34.0,40.0,42.0,44.0,50.0,54.0,-56.0,44.0,54.0,98.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U15 Men 52,MOULS Paul-maxime,50.91,32.0,34.0,-36.0,42.0,44.0,46.0,34.0,46.0,80.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U15 Men 56,TÉLISMART Maxime,53.68,-54.0,54.0,-57.0,65.0,67.0,-70.0,54.0,67.0,121.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U15 Men 65,TAÏLÉ Soan,61.91,41.0,-44.0,-45.0,-51.0,55.0,60.0,41.0,60.0,101.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U17 Men 65,FLECHAUD Mateo,63.81,53.0,58.0,61.0,74.0,78.0,-80.0,61.0,78.0,139.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U20 Men 79,LEBON Louis,77.32,87.0,91.0,-96.0,115.0,120.0,-125.0,91.0,120.0,211.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U20 Men 79,GONNEAU Nathan,77.66,74.0,78.0,81.0,100.0,105.0,110.0,81.0,110.0,191.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 65,MARKA Erwan,64.5,85.0,90.0,-94.0,105.0,110.0,-115.0,90.0,110.0,200.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 71,LEFEVRE Jérome,69.93,105.0,110.0,112.0,130.0,135.0,140.0,112.0,140.0,252.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 79,FUTOL Jean daniel,77.74,-103.0,-105.0,105.0,-132.0,132.0,-140.0,105.0,132.0,237.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 79,BUCHET Sébastien,77.75,92.0,97.0,-100.0,117.0,-123.0,-125.0,97.0,117.0,214.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 79,MOKTAR Kalil,75.0,90.0,96.0,-102.0,-113.0,113.0,-126.0,96.0,113.0,209.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 88,BEVILACQUA Hugo,83.02,120.0,124.0,-127.0,156.0,-160.0,160.0,124.0,160.0,284.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 88,KHOON-YAM Brice,84.91,102.0,-107.0,-107.0,130.0,-135.0,-135.0,102.0,130.0,232.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 94,CADET Jerome,93.53,-118.0,-120.0,-122.0,-156.0,-160.0,-162.0,0.0,0.0,0.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 110,PRUGNIERES Jean philippe,98.74,110.0,116.0,-121.0,-150.0,-150.0,156.0,116.0,156.0,272.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U15 Men 47,VEFOUR Noah,34.0,40.0,42.0,44.0,50.0,54.0,-56.0,44.0,54.0,98.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U15 Men 52,MOULS Paul-maxime,50.91,32.0,34.0,-36.0,42.0,44.0,46.0,34.0,46.0,80.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U15 Men 56,TÉLISMART Maxime,53.68,-54.0,54.0,-57.0,65.0,67.0,-70.0,54.0,67.0,121.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U15 Men 65,TAÏLÉ Soan,61.91,41.0,-44.0,-45.0,-51.0,55.0,60.0,41.0,60.0,101.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U17 Men 65,FLECHAUD Mateo,63.81,53.0,58.0,61.0,74.0,78.0,-80.0,61.0,78.0,139.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U20 Men 79,LEBON Louis,77.32,87.0,91.0,-96.0,115.0,120.0,-125.0,91.0,120.0,211.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U20 Men 79,GONNEAU Nathan,77.66,74.0,78.0,81.0,100.0,105.0,110.0,81.0,110.0,191.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 65,MARKA Erwan,64.5,85.0,90.0,-94.0,105.0,110.0,-115.0,90.0,110.0,200.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 71,LEFEVRE Jérome,69.93,105.0,110.0,112.0,130.0,135.0,140.0,112.0,140.0,252.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 79,FUTOL Jean daniel,77.74,-103.0,-105.0,105.0,-132.0,132.0,-140.0,105.0,132.0,237.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 79,BUCHET Sébastien,77.75,92.0,97.0,-100.0,117.0,-123.0,-125.0,97.0,117.0,214.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 79,MOKTAR Kalil,75.0,90.0,96.0,-102.0,-113.0,113.0,-126.0,96.0,113.0,209.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 88,BEVILACQUA Hugo,83.02,120.0,124.0,-127.0,156.0,-160.0,160.0,124.0,160.0,284.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 88,KHOON-YAM Brice,84.91,102.0,-107.0,-107.0,130.0,-135.0,-135.0,102.0,130.0,232.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 94,CADET Jerome,93.53,-118.0,-120.0,-122.0,-156.0,-160.0,-162.0,0.0,0.0,0.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 110,PRUGNIERES Jean philippe,98.74,110.0,116.0,-121.0,-150.0,-150.0,156.0,116.0,156.0,272.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U15 Women 40,SAUTRON Marion,34.8,32.0,34.0,36.0,39.0,41.0,-43.0,36.0,41.0,77.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U15 Women 44,ONEZIME Mya,42.51,38.0,41.0,-43.0,50.0,-53.0,-55.0,41.0,50.0,91.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U15 Women 53,RICHARD Maelys,52.53,42.0,-45.0,-45.0,53.0,57.0,60.0,42.0,60.0,102.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U15 Women 58,ADOLPHE Alya maïwenn,54.56,39.0,41.0,-42.0,49.0,52.0,-54.0,41.0,52.0,93.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U15 Women 63,ST MART Kia,63.0,44.0,47.0,49.0,55.0,58.0,-62.0,49.0,58.0,107.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U15 Women 69,THIBAUDEAU Chloé,67.9,40.0,42.0,-43.0,54.0,57.0,-59.0,42.0,57.0,99.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U17 Women 44,VEFOUR Adèle,43.34,38.0,41.0,44.0,52.0,55.0,-60.0,44.0,55.0,99.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U17 Women 48,BARET Lola,46.13,42.0,45.0,47.0,49.0,-53.0,53.0,47.0,53.0,100.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U17 Women 58,RICHARD Kéllia,55.97,55.0,58.0,60.0,73.0,76.0,80.0,60.0,80.0,140.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U17 Women 58,DOUYERE Solene,55.4,49.0,52.0,54.0,58.0,61.0,64.0,54.0,64.0,118.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U17 Women 69,PAYET Amy,63.5,36.0,39.0,-42.0,50.0,-55.0,55.0,39.0,55.0,94.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U17 Women 69,SMITH Gabrielle,66.4,-53.0,-53.0,-53.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U17 Women >77,MAILLOT Indira,80.48,57.0,-61.0,61.0,72.0,76.0,-80.0,61.0,76.0,137.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U20 Women 69,ROBERT Célia,67.4,54.0,57.0,60.0,65.0,68.0,71.0,60.0,71.0,131.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U20 Women 77,FIRENZULA Maya charlotte,74.51,70.0,73.0,75.0,80.0,84.0,88.0,75.0,88.0,163.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U20 Women 86,LEBON Leane,80.18,53.0,-55.0,55.0,67.0,-70.0,70.0,55.0,70.0,125.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U15 Women 40,SAUTRON Marion,34.8,32.0,34.0,36.0,39.0,41.0,-43.0,36.0,41.0,77.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U15 Women 44,ONEZIME Mya,42.51,38.0,41.0,-43.0,50.0,-53.0,-55.0,41.0,50.0,91.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U15 Women 53,RICHARD Maelys,52.53,42.0,-45.0,-45.0,53.0,57.0,60.0,42.0,60.0,102.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U15 Women 58,ADOLPHE Alya maïwenn,54.56,39.0,41.0,-42.0,49.0,52.0,-54.0,41.0,52.0,93.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U15 Women 63,ST MART Kia,63.0,44.0,47.0,49.0,55.0,58.0,-62.0,49.0,58.0,107.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U15 Women 69,THIBAUDEAU Chloé,67.9,40.0,42.0,-43.0,54.0,57.0,-59.0,42.0,57.0,99.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U17 Women 44,VEFOUR Adèle,43.34,38.0,41.0,44.0,52.0,55.0,-60.0,44.0,55.0,99.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U17 Women 48,BARET Lola,46.13,42.0,45.0,47.0,49.0,-53.0,53.0,47.0,53.0,100.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U17 Women 58,RICHARD Kéllia,55.97,55.0,58.0,60.0,73.0,76.0,80.0,60.0,80.0,140.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U17 Women 58,DOUYERE Solene,55.4,49.0,52.0,54.0,58.0,61.0,64.0,54.0,64.0,118.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U17 Women 69,PAYET Amy,63.5,36.0,39.0,-42.0,50.0,-55.0,55.0,39.0,55.0,94.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U17 Women 69,SMITH Gabrielle,66.4,-53.0,-53.0,-53.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U17 Women >77,MAILLOT Indira,80.48,57.0,-61.0,61.0,72.0,76.0,-80.0,61.0,76.0,137.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U20 Women 69,ROBERT Célia,67.4,54.0,57.0,60.0,65.0,68.0,71.0,60.0,71.0,131.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U20 Women 77,FIRENZULA Maya charlotte,74.51,70.0,73.0,75.0,80.0,84.0,88.0,75.0,88.0,163.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U20 Women 86,LEBON Leane,80.18,53.0,-55.0,55.0,67.0,-70.0,70.0,55.0,70.0,125.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U20 Women 63,SAYER Eline,61.1,60.0,63.0,66.0,79.0,82.0,85.0,66.0,85.0,151.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U20 Women 63,SAYER Eline,61.1,60.0,63.0,66.0,79.0,82.0,85.0,66.0,85.0,151.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U20 Women 58,MC ALLISTER Mélinda,57.0,42.0,46.0,-48.0,52.0,55.0,58.0,46.0,58.0,104.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U20 Women 58,MC ALLISTER Mélinda,57.0,42.0,46.0,-48.0,52.0,55.0,58.0,46.0,58.0,104.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,W35 Women 58,STOKLOSA Alysée,55.0,50.0,53.0,-55.0,70.0,74.0,-78.0,53.0,74.0,127.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,W35 Women 77,JACQUET Johanna,72.3,48.0,50.0,52.0,63.0,65.0,68.0,52.0,68.0,120.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,W40 Women 77,MERRIFIELD Alice,76.7,50.0,54.0,56.0,65.0,-70.0,70.0,56.0,70.0,126.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,W45 Women 63,BOSQUE Corinne,59.2,45.0,-55.0,58.0,65.0,75.0,-80.0,58.0,75.0,133.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,W35 Women 58,STOKLOSA Alysée,55.0,50.0,53.0,-55.0,70.0,74.0,-78.0,53.0,74.0,127.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,W35 Women 77,JACQUET Johanna,72.3,48.0,50.0,52.0,63.0,65.0,68.0,52.0,68.0,120.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,W40 Women 77,MERRIFIELD Alice,76.7,50.0,54.0,56.0,65.0,-70.0,70.0,56.0,70.0,126.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,W45 Women 63,BOSQUE Corinne,59.2,45.0,-55.0,58.0,65.0,75.0,-80.0,58.0,75.0,133.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U15 Men 65,ROULLET Tony,60.5,46.0,49.0,51.0,58.0,62.0,-65.0,51.0,62.0,113.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U15 Men 65,ROULLET Tony,60.5,46.0,49.0,51.0,58.0,62.0,-65.0,51.0,62.0,113.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 88,DA SILVA Romain,86.9,124.0,128.0,-132.0,149.0,154.0,-0.0,128.0,154.0,282.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 88,RAMBELO MANGA Alexandre lala,87.6,-120.0,123.0,125.0,155.0,-160.0,-163.0,125.0,155.0,280.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 88,PETIT Kéo,86.6,110.0,-115.0,115.0,141.0,146.0,-150.0,115.0,146.0,261.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 94,MASSE Samuel,94.0,118.0,122.0,125.0,143.0,-148.0,149.0,125.0,149.0,274.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 94,ABADIE Benoit,94.0,100.0,105.0,-107.0,128.0,135.0,-140.0,105.0,135.0,240.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 94,SAINT PIERRE Quentin,91.9,98.0,-102.0,-105.0,120.0,-125.0,-128.0,98.0,120.0,218.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 110,KENGNE LONGIN Junior,99.9,122.0,130.0,-133.0,-150.0,150.0,-167.0,130.0,150.0,280.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 110,DAWID Joris,107.4,108.0,113.0,-117.0,135.0,140.0,145.0,113.0,145.0,258.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men >110,COUSSEE Tristan,110.8,110.0,117.0,-121.0,152.0,163.0,-167.0,117.0,163.0,280.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 88,DA SILVA Romain,86.9,124.0,128.0,-132.0,149.0,154.0,-0.0,128.0,154.0,282.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 88,RAMBELO MANGA Alexandre lala,87.6,-120.0,123.0,125.0,155.0,-160.0,-163.0,125.0,155.0,280.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 88,PETIT Kéo,86.6,110.0,-115.0,115.0,141.0,146.0,-150.0,115.0,146.0,261.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 94,MASSE Samuel,94.0,118.0,122.0,125.0,143.0,-148.0,149.0,125.0,149.0,274.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 94,ABADIE Benoit,94.0,100.0,105.0,-107.0,128.0,135.0,-140.0,105.0,135.0,240.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 94,SAINT PIERRE Quentin,91.9,98.0,-102.0,-105.0,120.0,-125.0,-128.0,98.0,120.0,218.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 110,KENGNE LONGIN Junior,99.9,122.0,130.0,-133.0,-150.0,150.0,-167.0,130.0,150.0,280.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 110,DAWID Joris,107.4,108.0,113.0,-117.0,135.0,140.0,145.0,113.0,145.0,258.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men >110,COUSSEE Tristan,110.8,110.0,117.0,-121.0,152.0,163.0,-167.0,117.0,163.0,280.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,M40 Men 71,PIERRE Phil,70.3,-75.0,-75.0,-77.0,-91.0,-91.0,-91.0,0.0,0.0,0.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,M40 Men 79,PINEAU Aschkenaz,73.9,87.0,-92.0,-92.0,117.0,-120.0,-120.0,87.0,117.0,204.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,M40 Men 88,EREMBERT Teddy,87.8,90.0,95.0,100.0,117.0,-120.0,-120.0,100.0,117.0,217.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,M45 Men 88,LE PIOLET Vétéa,88.0,58.0,62.0,-65.0,70.0,-75.0,75.0,62.0,75.0,137.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,M50 Men 79,VIGNAU Laurent,78.0,65.0,70.0,75.0,85.0,90.0,95.0,75.0,95.0,170.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,M40 Men 71,PIERRE Phil,70.3,-75.0,-75.0,-77.0,-91.0,-91.0,-91.0,0.0,0.0,0.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,M40 Men 79,PINEAU Aschkenaz,73.9,87.0,-92.0,-92.0,117.0,-120.0,-120.0,87.0,117.0,204.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,M40 Men 88,EREMBERT Teddy,87.8,90.0,95.0,100.0,117.0,-120.0,-120.0,100.0,117.0,217.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,M45 Men 88,LE PIOLET Vétéa,88.0,58.0,62.0,-65.0,70.0,-75.0,75.0,62.0,75.0,137.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,M50 Men 79,VIGNAU Laurent,78.0,65.0,70.0,75.0,85.0,90.0,95.0,75.0,95.0,170.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U13 Women 44,SUEDOIS Kimi,43.7,12.0,14.0,16.0,18.0,20.0,22.0,16.0,22.0,38.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U13 Women 48,LE PIOLET Mia,45.8,31.0,33.0,35.0,38.0,40.0,-42.0,35.0,40.0,75.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U13 Women 63,RICO Steffy,61.8,25.0,-27.0,27.0,-32.0,32.0,-34.0,27.0,32.0,59.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U13 Men 56,SIDAMBAROM Djahel,55.4,20.0,22.0,-24.0,25.0,27.0,-29.0,22.0,27.0,49.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U13 Women 44,SUEDOIS Kimi,43.7,12.0,14.0,16.0,18.0,20.0,22.0,16.0,22.0,38.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U13 Women 48,LE PIOLET Mia,45.8,31.0,33.0,35.0,38.0,40.0,-42.0,35.0,40.0,75.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U13 Women 63,RICO Steffy,61.8,25.0,-27.0,27.0,-32.0,32.0,-34.0,27.0,32.0,59.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U13 Men 56,SIDAMBAROM Djahel,55.4,20.0,22.0,-24.0,25.0,27.0,-29.0,22.0,27.0,49.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U15 Men 52,PETRELLUZZI Victor,48.6,32.0,35.0,36.0,40.0,43.0,46.0,36.0,46.0,82.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U15 Men 60,CHOULET Noël,57.6,38.0,42.0,-45.0,50.0,55.0,-58.0,42.0,55.0,97.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U15 Men 65,JENASTE MOZAR Jamie,64.8,47.0,52.0,-55.0,55.0,60.0,-65.0,52.0,60.0,112.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U15 Men 79,SHERRER SALMERON Marius,76.2,55.0,60.0,62.0,75.0,78.0,-80.0,62.0,78.0,140.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U17 Men 65,RICO Maé simon,64.8,75.0,-80.0,-80.0,102.0,107.0,111.0,75.0,111.0,186.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U17 Men >94,CINNA Sohann,112.6,30.0,33.0,36.0,-35.0,38.0,42.0,36.0,42.0,78.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 79,BOITTIN Natymael,77.0,95.0,100.0,-107.0,115.0,122.0,-127.0,100.0,122.0,222.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 79,TEULE Keïnoa,72.3,60.0,62.0,70.0,70.0,80.0,-85.0,70.0,80.0,150.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 88,DERRICK Yannis,85.8,115.0,120.0,123.0,160.0,166.0,170.0,123.0,170.0,293.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 88,LE PIOLET Teiva,86.6,115.0,120.0,125.0,-140.0,140.0,-141.0,125.0,140.0,265.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 88,COQUIN Patrice,81.6,60.0,-62.0,62.0,80.0,-83.0,-83.0,62.0,80.0,142.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 94,PAISLEY-GILLANT Bastien,88.5,80.0,90.0,-100.0,105.0,115.0,-120.0,90.0,115.0,205.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 110,BENJAMIN Gregory,103.4,100.0,110.0,-115.0,120.0,-130.0,-130.0,110.0,120.0,230.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men >110,RESON Nicolas,116.0,63.0,68.0,75.0,80.0,85.0,-93.0,75.0,85.0,160.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U15 Men 52,PETRELLUZZI Victor,48.6,32.0,35.0,36.0,40.0,43.0,46.0,36.0,46.0,82.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U15 Men 60,CHOULET Noël,57.6,38.0,42.0,-45.0,50.0,55.0,-58.0,42.0,55.0,97.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U15 Men 65,JENASTE MOZAR Jamie,64.8,47.0,52.0,-55.0,55.0,60.0,-65.0,52.0,60.0,112.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U15 Men 79,SHERRER SALMERON Marius,76.2,55.0,60.0,62.0,75.0,78.0,-80.0,62.0,78.0,140.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U17 Men 65,RICO Maé simon,64.8,75.0,-80.0,-80.0,102.0,107.0,111.0,75.0,111.0,186.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U17 Men >94,CINNA Sohann,112.6,30.0,33.0,36.0,-35.0,38.0,42.0,36.0,42.0,78.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 79,BOITTIN Natymael,77.0,95.0,100.0,-107.0,115.0,122.0,-127.0,100.0,122.0,222.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 79,TEULE Keïnoa,72.3,60.0,62.0,70.0,70.0,80.0,-85.0,70.0,80.0,150.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 88,DERRICK Yannis,85.8,115.0,120.0,123.0,160.0,166.0,170.0,123.0,170.0,293.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 88,LE PIOLET Teiva,86.6,115.0,120.0,125.0,-140.0,140.0,-141.0,125.0,140.0,265.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 88,COQUIN Patrice,81.6,60.0,-62.0,62.0,80.0,-83.0,-83.0,62.0,80.0,142.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 94,PAISLEY-GILLANT Bastien,88.5,80.0,90.0,-100.0,105.0,115.0,-120.0,90.0,115.0,205.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 110,BENJAMIN Gregory,103.4,100.0,110.0,-115.0,120.0,-130.0,-130.0,110.0,120.0,230.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men >110,RESON Nicolas,116.0,63.0,68.0,75.0,80.0,85.0,-93.0,75.0,85.0,160.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 65,RENARD Benjamin,64.5,89.0,93.0,-96.0,110.0,-116.0,116.0,93.0,116.0,209.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 65,LEJAS Mathieu,64.9,-85.0,-85.0,-85.0,-100.0,-100.0,-0.0,0.0,0.0,0.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 71,APRAHAMIAN Antranig,70.5,110.0,-115.0,-120.0,137.0,-143.0,143.0,110.0,143.0,253.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 79,LABERTRANDIE Lilian,78.7,-115.0,115.0,118.0,142.0,145.0,148.0,118.0,148.0,266.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 79,MECHELAERE Simon,78.9,-104.0,-104.0,104.0,133.0,-138.0,138.0,104.0,138.0,242.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 79,PARIZET Rémi,78.2,92.0,96.0,100.0,112.0,116.0,120.0,100.0,120.0,220.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 79,CALLE Rodrigue,78.8,92.0,-96.0,-97.0,-117.0,117.0,-123.0,92.0,117.0,209.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 65,RENARD Benjamin,64.5,89.0,93.0,-96.0,110.0,-116.0,116.0,93.0,116.0,209.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 65,LEJAS Mathieu,64.9,-85.0,-85.0,-85.0,-100.0,-100.0,-0.0,0.0,0.0,0.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 71,APRAHAMIAN Antranig,70.5,110.0,-115.0,-120.0,137.0,-143.0,143.0,110.0,143.0,253.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 79,LABERTRANDIE Lilian,78.7,-115.0,115.0,118.0,142.0,145.0,148.0,118.0,148.0,266.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 79,MECHELAERE Simon,78.9,-104.0,-104.0,104.0,133.0,-138.0,138.0,104.0,138.0,242.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 79,PARIZET Rémi,78.2,92.0,96.0,100.0,112.0,116.0,120.0,100.0,120.0,220.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Men 79,CALLE Rodrigue,78.8,92.0,-96.0,-97.0,-117.0,117.0,-123.0,92.0,117.0,209.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 69,SAINT AIME Sarah,64.3,80.0,84.0,-86.0,102.0,-106.0,-108.0,84.0,102.0,186.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 69,RECH Charline,67.1,75.0,77.0,79.0,97.0,-101.0,-0.0,79.0,97.0,176.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 69,LACROIX Evelyne,64.3,74.0,-77.0,-80.0,86.0,90.0,93.0,74.0,93.0,167.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 69,ARMSTRONG Victoria,67.1,75.0,-78.0,-80.0,96.0,-101.0,-101.0,75.0,96.0,171.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 69,COMBELLES Laetitia,68.7,72.0,-75.0,-77.0,90.0,-95.0,-95.0,72.0,90.0,162.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 69,LAUBIER Rachel,64.1,63.0,67.0,-70.0,73.0,77.0,-80.0,67.0,77.0,144.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 77,LUGUIN Annabelle,72.6,72.0,-74.0,-74.0,-91.0,94.0,-96.0,72.0,94.0,166.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 77,CHASSIGNOLE Cassandre,73.8,70.0,-73.0,-75.0,92.0,-96.0,-96.0,70.0,92.0,162.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 69,SAINT AIME Sarah,64.3,80.0,84.0,-86.0,102.0,-106.0,-108.0,84.0,102.0,186.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 69,RECH Charline,67.1,75.0,77.0,79.0,97.0,-101.0,-0.0,79.0,97.0,176.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 69,LACROIX Evelyne,64.3,74.0,-77.0,-80.0,86.0,90.0,93.0,74.0,93.0,167.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 69,ARMSTRONG Victoria,67.1,75.0,-78.0,-80.0,96.0,-101.0,-101.0,75.0,96.0,171.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 69,COMBELLES Laetitia,68.7,72.0,-75.0,-77.0,90.0,-95.0,-95.0,72.0,90.0,162.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 69,LAUBIER Rachel,64.1,63.0,67.0,-70.0,73.0,77.0,-80.0,67.0,77.0,144.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 77,LUGUIN Annabelle,72.6,72.0,-74.0,-74.0,-91.0,94.0,-96.0,72.0,94.0,166.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 77,CHASSIGNOLE Cassandre,73.8,70.0,-73.0,-75.0,92.0,-96.0,-96.0,70.0,92.0,162.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 53,PERRET Pauline,52.5,65.0,70.0,73.0,80.0,-88.0,-90.0,73.0,80.0,153.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 53,RODRIGUEZ Alexandra,53.0,60.0,63.0,-67.0,71.0,78.0,81.0,63.0,81.0,144.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 53,SCHILLACI Emmanuelle,53.0,-57.0,57.0,60.0,74.0,76.0,-78.0,60.0,76.0,136.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 53,PAYRARD Mathilde,52.3,49.0,53.0,56.0,64.0,-69.0,71.0,56.0,71.0,127.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 58,MOUNIER Camille,58.0,-67.0,67.0,-71.0,85.0,88.0,-91.0,67.0,88.0,155.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 58,VALLUCHE Sandra,53.7,72.0,-75.0,-75.0,-90.0,-91.0,-93.0,72.0,0.0,0.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 63,MAURO Rachel,60.9,60.0,63.0,66.0,-75.0,75.0,79.0,66.0,79.0,145.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 63,ELBLIDI Selsebil,61.1,61.0,-63.0,-63.0,76.0,79.0,-81.0,61.0,79.0,140.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 53,PERRET Pauline,52.5,65.0,70.0,73.0,80.0,-88.0,-90.0,73.0,80.0,153.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 53,RODRIGUEZ Alexandra,53.0,60.0,63.0,-67.0,71.0,78.0,81.0,63.0,81.0,144.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 53,SCHILLACI Emmanuelle,53.0,-57.0,57.0,60.0,74.0,76.0,-78.0,60.0,76.0,136.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 53,PAYRARD Mathilde,52.3,49.0,53.0,56.0,64.0,-69.0,71.0,56.0,71.0,127.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 58,MOUNIER Camille,58.0,-67.0,67.0,-71.0,85.0,88.0,-91.0,67.0,88.0,155.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 58,VALLUCHE Sandra,53.7,72.0,-75.0,-75.0,-90.0,-91.0,-93.0,72.0,0.0,0.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 63,MAURO Rachel,60.9,60.0,63.0,66.0,-75.0,75.0,79.0,66.0,79.0,145.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 63,ELBLIDI Selsebil,61.1,61.0,-63.0,-63.0,76.0,79.0,-81.0,61.0,79.0,140.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U15 Women 44,BOUSSARD Eléa,42.0,25.0,28.0,-30.0,30.0,34.0,36.0,28.0,36.0,64.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U15 Women 48,BOUSSARD Ainhoa,45.0,30.0,33.0,-35.0,35.0,37.0,-39.0,33.0,37.0,70.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U15 Women 53,DUCHEMIN Axelle,51.8,34.0,36.0,-38.0,46.0,48.0,-50.0,36.0,48.0,84.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U15 Women 53,POÏTE GABY Lauriana,53.0,32.0,34.0,36.0,42.0,47.0,-50.0,36.0,47.0,83.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U17 Women 53,SIDAMBAROM Leilanie,50.9,25.0,-30.0,30.0,-32.0,-32.0,-32.0,30.0,0.0,0.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U20 Women 77,IRENEE Maelle,74.9,50.0,55.0,58.0,70.0,-75.0,-75.0,58.0,70.0,128.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 77,FELIX BRUN Eloa,72.6,35.0,38.0,40.0,50.0,55.0,58.0,40.0,58.0,98.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women >86,AVIDOR Rebecca,95.2,55.0,59.0,-61.0,-65.0,65.0,-70.0,59.0,65.0,124.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U15 Women 44,BOUSSARD Eléa,42.0,25.0,28.0,-30.0,30.0,34.0,36.0,28.0,36.0,64.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U15 Women 48,BOUSSARD Ainhoa,45.0,30.0,33.0,-35.0,35.0,37.0,-39.0,33.0,37.0,70.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U15 Women 53,DUCHEMIN Axelle,51.8,34.0,36.0,-38.0,46.0,48.0,-50.0,36.0,48.0,84.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U15 Women 53,POÏTE GABY Lauriana,53.0,32.0,34.0,36.0,42.0,47.0,-50.0,36.0,47.0,83.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U17 Women 53,SIDAMBAROM Leilanie,50.9,25.0,-30.0,30.0,-32.0,-32.0,-32.0,30.0,0.0,0.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,U20 Women 77,IRENEE Maelle,74.9,50.0,55.0,58.0,70.0,-75.0,-75.0,58.0,70.0,128.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women 77,FELIX BRUN Eloa,72.6,35.0,38.0,40.0,50.0,55.0,58.0,40.0,58.0,98.0
+REU - Critérium National - Saint-denis - SENIORE-FEMME,2025-11-30,SEN Women >86,AVIDOR Rebecca,95.2,55.0,59.0,-61.0,-65.0,65.0,-70.0,59.0,65.0,124.0
