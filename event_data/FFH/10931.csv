@@ -1,0 +1,30 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+BFC - Challenge Avenir - Epinac - EPINAC 3,2025-04-02,U13 Men 35,BLONDEAU Maé,29.8,12.0,13.0,14.0,22.0,23.0,24.0,14.0,24.0,38.0
+BFC - Challenge Avenir - Epinac - EPINAC 3,2025-04-02,U13 Men 35,POULLEAU Valentin,32.3,12.0,13.0,14.0,14.0,15.0,16.0,14.0,16.0,30.0
+BFC - Challenge Avenir - Epinac - EPINAC 3,2025-04-02,U13 Men 35,BENNACER Yazid,34.6,12.0,13.0,14.0,-12.0,12.0,-13.0,14.0,12.0,26.0
+BFC - Challenge Avenir - Epinac - EPINAC 3,2025-04-02,U13 Men 40,ROSSIGNOL Bastien,36.6,12.0,13.0,14.0,14.0,15.0,16.0,14.0,16.0,30.0
+BFC - Challenge Avenir - Epinac - EPINAC 3,2025-04-02,U13 Men 40,FAVERIAC Johan,40.0,10.0,11.0,-12.0,-12.0,12.0,13.0,11.0,13.0,24.0
+BFC - Challenge Avenir - Epinac - EPINAC 3,2025-04-02,U13 Men 45,PROMONET Nael,42.7,25.0,26.0,27.0,26.0,27.0,28.0,27.0,28.0,55.0
+BFC - Challenge Avenir - Epinac - EPINAC 3,2025-04-02,U13 Men 45,LUNEAU Rafael,44.4,18.0,-19.0,19.0,18.0,19.0,20.0,19.0,20.0,39.0
+BFC - Challenge Avenir - Epinac - EPINAC 3,2025-04-02,U13 Men 45,CHAGNY LEVY Noan,42.1,12.0,13.0,-14.0,14.0,15.0,16.0,13.0,16.0,29.0
+BFC - Challenge Avenir - Epinac - EPINAC 3,2025-04-02,U13 Men 45,FOURTI Adom,44.6,10.0,11.0,-12.0,12.0,13.0,14.0,11.0,14.0,25.0
+BFC - Challenge Avenir - Epinac - EPINAC 3,2025-04-02,U13 Men 49,KASPRRIK Valentin,47.8,28.0,29.0,30.0,30.0,31.0,32.0,30.0,32.0,62.0
+BFC - Challenge Avenir - Epinac - EPINAC 3,2025-04-02,U13 Men 49,CHEVELOT Erwan,47.8,16.0,17.0,18.0,26.0,27.0,28.0,18.0,28.0,46.0
+BFC - Challenge Avenir - Epinac - EPINAC 3,2025-04-02,U13 Men 49,BONNEAU Lucas,45.5,20.0,21.0,22.0,20.0,21.0,22.0,22.0,22.0,44.0
+BFC - Challenge Avenir - Epinac - EPINAC 3,2025-04-02,U13 Men 49,VAN HANDEL César,47.2,18.0,19.0,20.0,16.0,17.0,18.0,20.0,18.0,38.0
+BFC - Challenge Avenir - Epinac - EPINAC 3,2025-04-02,U13 Men 49,BELIN MORIVAL Joshua,48.8,12.0,13.0,14.0,16.0,17.0,-18.0,14.0,17.0,31.0
+BFC - Challenge Avenir - Epinac - EPINAC 3,2025-04-02,U13 Men 49,VOURIOT THUZET Amaury,47.0,12.0,13.0,14.0,12.0,13.0,-14.0,14.0,13.0,27.0
+BFC - Challenge Avenir - Epinac - EPINAC 3,2025-04-02,U13 Men 55,HERIT Julien,49.2,23.0,25.0,27.0,33.0,34.0,35.0,27.0,35.0,62.0
+BFC - Challenge Avenir - Epinac - EPINAC 3,2025-04-02,U13 Men 61,LAMBERT Jules,55.5,20.0,21.0,22.0,25.0,26.0,27.0,22.0,27.0,49.0
+BFC - Challenge Avenir - Epinac - EPINAC 3,2025-04-02,U13 Men 61,LANDRE FIXARI Shawn,56.1,20.0,21.0,22.0,16.0,17.0,18.0,22.0,18.0,40.0
+BFC - Challenge Avenir - Epinac - EPINAC 3,2025-04-02,U13 Men 61,BROCHOT Samuel,55.3,10.0,-11.0,11.0,10.0,11.0,-12.0,11.0,11.0,22.0
+BFC - Challenge Avenir - Epinac - EPINAC 3,2025-04-02,U13 Men 67,PILOT Antoine,62.1,20.0,22.0,23.0,31.0,32.0,33.0,23.0,33.0,56.0
+BFC - Challenge Avenir - Epinac - EPINAC 3,2025-04-02,U13 Women 35,ROLAND Kenza,34.7,16.0,17.0,18.0,16.0,17.0,18.0,18.0,18.0,36.0
+BFC - Challenge Avenir - Epinac - EPINAC 3,2025-04-02,U13 Women 45,NOUILLOT Louiza,43.7,18.0,19.0,20.0,20.0,21.0,22.0,20.0,22.0,42.0
+BFC - Challenge Avenir - Epinac - EPINAC 3,2025-04-02,U13 Women 45,FOURNIER Serena,42.4,14.0,-15.0,15.0,16.0,17.0,18.0,15.0,18.0,33.0
+BFC - Challenge Avenir - Epinac - EPINAC 3,2025-04-02,U13 Women 49,LEBEAULT Julie,45.8,24.0,25.0,26.0,28.0,29.0,30.0,26.0,30.0,56.0
+BFC - Challenge Avenir - Epinac - EPINAC 3,2025-04-02,U13 Women 49,GAUCHE Lola,47.3,13.0,14.0,15.0,17.0,18.0,19.0,15.0,19.0,34.0
+BFC - Challenge Avenir - Epinac - EPINAC 3,2025-04-02,U13 Women 49,VIEL Shana,48.6,10.0,-11.0,11.0,-11.0,11.0,12.0,11.0,12.0,23.0
+BFC - Challenge Avenir - Epinac - EPINAC 3,2025-04-02,U13 Women 55,MASSON Coline,52.7,12.0,13.0,14.0,14.0,15.0,16.0,14.0,16.0,30.0
+BFC - Challenge Avenir - Epinac - EPINAC 3,2025-04-02,U13 Women 64,NICOLAS Julie,62.3,30.0,31.0,32.0,36.0,37.0,38.0,32.0,38.0,70.0
+BFC - Challenge Avenir - Epinac - EPINAC 3,2025-04-02,U13 Women 64,DESCHAMPS Aurore,62.5,14.0,15.0,16.0,17.0,18.0,-19.0,16.0,18.0,34.0

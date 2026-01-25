@@ -1,0 +1,14 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+BRE - Challenge Avenir - Lorient - Plateau 1 - Masters,2024-04-06,M35 Men 73,ORTICAT Sébastien,71.5,70.0,75.0,78.0,85.0,89.0,93.0,78.0,93.0,171.0
+BRE - Challenge Avenir - Lorient - Plateau 1 - Masters,2024-04-06,M40 Men 81,DELOUVEE Johan,76.3,-88.0,88.0,-92.0,100.0,105.0,-110.0,88.0,105.0,193.0
+BRE - Challenge Avenir - Lorient - Plateau 1 - Masters,2024-04-06,M40 Men 81,LE ROUSSEAU Guillaume,79.3,75.0,-79.0,79.0,95.0,-98.0,100.0,79.0,100.0,179.0
+BRE - Challenge Avenir - Lorient - Plateau 1 - Masters,2024-04-06,M40 Men 81,YVENOU Jerome,79.5,70.0,75.0,-78.0,88.0,92.0,96.0,75.0,96.0,171.0
+BRE - Challenge Avenir - Lorient - Plateau 1 - Masters,2024-04-06,M40 Men 89,TROUILLE Julien,84.2,75.0,79.0,82.0,97.0,101.0,105.0,82.0,105.0,187.0
+BRE - Challenge Avenir - Lorient - Plateau 1 - Masters,2024-04-06,M50 Men 89,COHU Emanuel,86.2,55.0,58.0,-60.0,75.0,-78.0,-78.0,58.0,75.0,133.0
+BRE - Challenge Avenir - Lorient - Plateau 1 - Masters,2024-04-06,M50 Men 96,CASSAN Laurent,93.5,82.0,-85.0,-85.0,100.0,-105.0,-105.0,82.0,100.0,182.0
+BRE - Challenge Avenir - Lorient - Plateau 1 - Masters,2024-04-06,M55 Men 73,LE RUYET Patrice,72.4,83.0,-86.0,86.0,105.0,110.0,-115.0,86.0,110.0,196.0
+BRE - Challenge Avenir - Lorient - Plateau 1 - Masters,2024-04-06,M60 Men 73,GUILLEMOT Christian,69.7,49.0,52.0,55.0,64.0,69.0,-71.0,55.0,69.0,124.0
+BRE - Challenge Avenir - Lorient - Plateau 1 - Masters,2024-04-06,M60 Men 81,BURBAN Didier,76.7,55.0,60.0,63.0,75.0,80.0,-85.0,63.0,80.0,143.0
+BRE - Challenge Avenir - Lorient - Plateau 1 - Masters,2024-04-06,M60 Men 89,VAN-LANDSCHOOT Philippe,83.5,49.0,52.0,-55.0,69.0,72.0,75.0,52.0,75.0,127.0
+BRE - Challenge Avenir - Lorient - Plateau 1 - Masters,2024-04-06,M65 Men 73,RODET Philippe,72.8,45.0,48.0,51.0,60.0,-62.0,62.0,51.0,62.0,113.0
+BRE - Challenge Avenir - Lorient - Plateau 1 - Masters,2024-04-06,M75 Men 89,HOUET Bernard,81.6,37.0,40.0,42.0,45.0,48.0,-50.0,42.0,48.0,90.0
