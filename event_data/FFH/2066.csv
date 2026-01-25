@@ -1,53 +1,13 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,U20 Women 76,LAURENT Emeline,73.0,56.0,61.0,66.0,72.0,77.0,80.0,66.0,80.0,146.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Women 55,TOUZAIN Anouk,53.8,35.0,38.0,40.0,45.0,48.0,-51.0,40.0,48.0,88.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Women 64,BARBIER Clarisse,60.7,45.0,50.0,-55.0,55.0,60.0,65.0,50.0,65.0,115.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Women 64,SANTOS MOTA Maria joao,63.2,35.0,38.0,-40.0,50.0,-52.0,52.0,38.0,52.0,90.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Women 64,DUBOEUF Caroline,63.8,30.0,-33.0,33.0,40.0,45.0,-48.0,33.0,45.0,78.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Women 64,COURRIER Fanny,62.7,-35.0,-35.0,-35.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Women 71,CHOFFEL Eléona,68.3,40.0,45.0,50.0,75.0,83.0,-90.0,50.0,83.0,133.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Women 71,CASTEX Eloïse,66.5,30.0,-35.0,35.0,40.0,45.0,-50.0,35.0,45.0,80.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,U20 Men 67,YENGOYAN Rafayel,61.7,70.0,-74.0,-74.0,85.0,-90.0,-90.0,70.0,85.0,155.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 61,GAUFFIER Antoine,60.4,-50.0,50.0,-55.0,68.0,-75.0,-75.0,50.0,68.0,118.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 67,LEJAS Mathieu,66.1,70.0,75.0,80.0,90.0,-96.0,97.0,80.0,97.0,177.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 67,CHAPUIS Jérémy,65.6,58.0,-63.0,63.0,80.0,-87.0,-87.0,63.0,80.0,143.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 67,LARGERON Hugo,66.1,56.0,-60.0,-61.0,80.0,-85.0,85.0,56.0,85.0,141.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 67,KAZUBEK Tibaut,65.6,-40.0,40.0,46.0,59.0,-0.0,-0.0,46.0,59.0,105.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 67,ARRAULT Corentin,62.9,-40.0,40.0,45.0,-65.0,-65.0,-65.0,45.0,0.0,0.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 73,MAVET Aurelien,72.0,50.0,55.0,60.0,-70.0,70.0,80.0,60.0,80.0,140.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 73,COLON Benjamin,68.7,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 81,MANLHIOT Adrien,78.9,73.0,80.0,86.0,87.0,94.0,105.0,86.0,105.0,191.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 81,LOVERINI Lorenzo,78.4,60.0,65.0,-70.0,70.0,77.0,85.0,65.0,85.0,150.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 81,BERTRAND Thomas,78.2,55.0,-62.0,62.0,70.0,75.0,-82.0,62.0,75.0,137.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 81,ARNAUDIN Maxence,78.6,50.0,55.0,-60.0,70.0,75.0,-80.0,55.0,75.0,130.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 81,LEPINARD Hugo,73.9,40.0,-50.0,55.0,60.0,-75.0,-75.0,55.0,60.0,115.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 89,GARNIER Nathanael,87.4,90.0,95.0,100.0,-110.0,110.0,-120.0,100.0,110.0,210.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 89,ESTEVES Guillaume,83.0,75.0,81.0,-84.0,-95.0,95.0,-99.0,81.0,95.0,176.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 89,FRIMAULT Jérome,87.8,70.0,78.0,83.0,-90.0,95.0,-101.0,83.0,95.0,178.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 89,PINEAU Jules,81.2,65.0,70.0,-73.0,80.0,85.0,-90.0,70.0,85.0,155.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 89,NICOLAS Rance,85.2,-70.0,70.0,-75.0,85.0,-90.0,-100.0,70.0,85.0,155.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 89,PERRETTE-BENMOUSSA Raphael,82.5,67.0,-70.0,70.0,77.0,82.0,-90.0,70.0,82.0,152.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 96,MULLER Max,94.0,85.0,90.0,100.0,-110.0,110.0,-120.0,100.0,110.0,210.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,U20 Men 67,YENGOYAN Rafayel,61.7,70.0,-74.0,-74.0,85.0,-90.0,-90.0,70.0,85.0,155.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 61,GAUFFIER Antoine,60.4,-50.0,50.0,-55.0,68.0,-75.0,-75.0,50.0,68.0,118.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 67,LEJAS Mathieu,66.1,70.0,75.0,80.0,90.0,-96.0,97.0,80.0,97.0,177.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 67,CHAPUIS Jérémy,65.6,58.0,-63.0,63.0,80.0,-87.0,-87.0,63.0,80.0,143.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 67,LARGERON Hugo,66.1,56.0,-60.0,-61.0,80.0,-85.0,85.0,56.0,85.0,141.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 67,KAZUBEK Tibaut,65.6,-40.0,40.0,46.0,59.0,-0.0,-0.0,46.0,59.0,105.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 67,ARRAULT Corentin,62.9,-40.0,40.0,45.0,-65.0,-65.0,-65.0,45.0,0.0,0.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 73,MAVET Aurelien,72.0,50.0,55.0,60.0,-70.0,70.0,80.0,60.0,80.0,140.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 73,COLON Benjamin,68.7,-0.0,-0.0,-0.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 81,MANLHIOT Adrien,78.9,73.0,80.0,86.0,87.0,94.0,105.0,86.0,105.0,191.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 81,LOVERINI Lorenzo,78.4,60.0,65.0,-70.0,70.0,77.0,85.0,65.0,85.0,150.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 81,BERTRAND Thomas,78.2,55.0,-62.0,62.0,70.0,75.0,-82.0,62.0,75.0,137.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 81,ARNAUDIN Maxence,78.6,50.0,55.0,-60.0,70.0,75.0,-80.0,55.0,75.0,130.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 81,LEPINARD Hugo,73.9,40.0,-50.0,55.0,60.0,-75.0,-75.0,55.0,60.0,115.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 89,GARNIER Nathanael,87.4,90.0,95.0,100.0,-110.0,110.0,-120.0,100.0,110.0,210.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 89,ESTEVES Guillaume,83.0,75.0,81.0,-84.0,-95.0,95.0,-99.0,81.0,95.0,176.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 89,FRIMAULT Jérome,87.8,70.0,78.0,83.0,-90.0,95.0,-101.0,83.0,95.0,178.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 89,PINEAU Jules,81.2,65.0,70.0,-73.0,80.0,85.0,-90.0,70.0,85.0,155.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 89,NICOLAS Rance,85.2,-70.0,70.0,-75.0,85.0,-90.0,-100.0,70.0,85.0,155.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 89,PERRETTE-BENMOUSSA Raphael,82.5,67.0,-70.0,70.0,77.0,82.0,-90.0,70.0,82.0,152.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 96,MULLER Max,94.0,85.0,90.0,100.0,-110.0,110.0,-120.0,100.0,110.0,210.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 89,BARKAT Mohamed,87.35,90.0,-0.0,-0.0,120.0,-0.0,-0.0,90.0,120.0,210.0
-AURA - Challenge Avenir - Clermont-ferrand - Challenge Féminin Stade Clermontois Haltérophilie,2025-01-18,SEN Men 89,BARKAT Mohamed,87.35,90.0,-0.0,-0.0,120.0,-0.0,-0.0,90.0,120.0,210.0
+CVL - 2e Challenge Avenir (Chateauroux),2021-12-19,SEN Women 55,SALIN Noémie,52.6,28.0,31.0,33.0,45.0,48.0,-51.0,33.0,48.0,81.0
+CVL - 2e Challenge Avenir (Chateauroux),2021-12-19,SEN Women 55,PIFFAULT Virginie,54.1,-37.0,37.0,-39.0,42.0,-44.0,44.0,37.0,44.0,81.0
+CVL - 2e Challenge Avenir (Chateauroux),2021-12-19,SEN Women 59,BERTAUD Camille,57.9,42.0,45.0,47.0,57.0,60.0,64.0,47.0,64.0,111.0
+CVL - 2e Challenge Avenir (Chateauroux),2021-12-19,SEN Women 59,MICHEL Juliette,55.8,41.0,-43.0,43.0,50.0,-53.0,-53.0,43.0,50.0,93.0
+CVL - 2e Challenge Avenir (Chateauroux),2021-12-19,SEN Women 59,VERDY Laeticia,57.1,30.0,34.0,36.0,42.0,45.0,48.0,36.0,48.0,84.0
+CVL - 2e Challenge Avenir (Chateauroux),2021-12-19,SEN Women 64,BENNEVEAU Marion,63.6,45.0,48.0,51.0,58.0,62.0,66.0,51.0,66.0,117.0
+CVL - 2e Challenge Avenir (Chateauroux),2021-12-19,SEN Women 64,BASTIE Marie,62.6,35.0,40.0,43.0,55.0,58.0,61.0,43.0,61.0,104.0
+CVL - 2e Challenge Avenir (Chateauroux),2021-12-19,SEN Women 64,DAUTRY Amandine,61.5,33.0,35.0,-37.0,-42.0,-42.0,42.0,35.0,42.0,77.0
+CVL - 2e Challenge Avenir (Chateauroux),2021-12-19,SEN Women 71,MORIN Estelle,67.1,42.0,44.0,46.0,50.0,53.0,55.0,46.0,55.0,101.0
+CVL - 2e Challenge Avenir (Chateauroux),2021-12-19,SEN Women 76,PIJULET Lisa,74.9,35.0,37.0,39.0,45.0,47.0,-50.0,39.0,47.0,86.0
+CVL - 2e Challenge Avenir (Chateauroux),2021-12-19,SEN Women 76,EVRARD Blandine,73.9,25.0,28.0,32.0,35.0,-38.0,40.0,32.0,40.0,72.0
+CVL - 2e Challenge Avenir (Chateauroux),2021-12-19,SEN Women >87,LINGUET Ingrid,94.4,-60.0,60.0,-63.0,76.0,80.0,-82.0,60.0,80.0,140.0

@@ -1,11 +1,8 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-LRNCHM -  Critérium National de Nouvelle-Calédonie d’Haltérophilie jeunes / juniors / seniors 2025,2025-12-14,U15 Men 65,SADIMAN Warren,63.2,63.0,68.0,-71.0,78.0,81.0,-83.0,68.0,81.0,149.0
-LRNCHM -  Critérium National de Nouvelle-Calédonie d’Haltérophilie jeunes / juniors / seniors 2025,2025-12-14,U15 Men >88,TITIO Dimitri,94.4,58.0,63.0,66.0,68.0,72.0,77.0,66.0,77.0,143.0
-LRNCHM -  Critérium National de Nouvelle-Calédonie d’Haltérophilie jeunes / juniors / seniors 2025,2025-12-14,U15 Men >88,SIVI Loris,95.0,43.0,-48.0,-50.0,70.0,-75.0,77.0,43.0,77.0,120.0
-LRNCHM -  Critérium National de Nouvelle-Calédonie d’Haltérophilie jeunes / juniors / seniors 2025,2025-12-14,U17 Men 79,EATENE Henri,77.8,73.0,77.0,79.0,102.0,109.0,-111.0,79.0,109.0,188.0
-LRNCHM -  Critérium National de Nouvelle-Calédonie d’Haltérophilie jeunes / juniors / seniors 2025,2025-12-14,U17 Men 79,SADIMAN Gabriel,78.7,68.0,-71.0,72.0,77.0,81.0,-84.0,72.0,81.0,153.0
-LRNCHM -  Critérium National de Nouvelle-Calédonie d’Haltérophilie jeunes / juniors / seniors 2025,2025-12-14,U17 Men >94,SAKO Mathys,120.9,-105.0,106.0,110.0,131.0,-137.0,140.0,110.0,140.0,250.0
-LRNCHM -  Critérium National de Nouvelle-Calédonie d’Haltérophilie jeunes / juniors / seniors 2025,2025-12-14,SEN Men 79,DIEP Valentin,73.8,100.0,-105.0,108.0,125.0,-135.0,142.0,108.0,142.0,250.0
-LRNCHM -  Critérium National de Nouvelle-Calédonie d’Haltérophilie jeunes / juniors / seniors 2025,2025-12-14,SEN Men 88,DUCLOS Sylvain,85.9,113.0,118.0,-121.0,147.0,155.0,-160.0,118.0,155.0,273.0
-LRNCHM -  Critérium National de Nouvelle-Calédonie d’Haltérophilie jeunes / juniors / seniors 2025,2025-12-14,SEN Men 88,FAURE Jean-nicolas,86.3,72.0,76.0,80.0,131.0,136.0,-140.0,80.0,136.0,216.0
-LRNCHM -  Critérium National de Nouvelle-Calédonie d’Haltérophilie jeunes / juniors / seniors 2025,2025-12-14,SEN Men 110,TUTAGATA Yvan,108.4,-107.0,108.0,110.0,-128.0,-128.0,128.0,110.0,128.0,238.0
+HDF - 2° Challenge Avenir (Villers Btx),2022-01-08,U15 Men 55,DUMEIGE Rémy,50.72,32.0,35.0,37.0,42.0,45.0,47.0,37.0,47.0,84.0
+HDF - 2° Challenge Avenir (Villers Btx),2022-01-08,U15 Men 89,EVENEPOEL Paul,83.92,51.0,-54.0,54.0,64.0,68.0,71.0,54.0,71.0,125.0
+HDF - 2° Challenge Avenir (Villers Btx),2022-01-08,U17 Men 81,LEBLOND Amaury,76.8,46.0,49.0,51.0,61.0,65.0,-68.0,51.0,65.0,116.0
+HDF - 2° Challenge Avenir (Villers Btx),2022-01-08,SEN Men 61,CANUT Timothe,59.84,68.0,-72.0,72.0,85.0,90.0,95.0,72.0,95.0,167.0
+HDF - 2° Challenge Avenir (Villers Btx),2022-01-08,SEN Men 81,DUMEIGE Christophe,75.0,55.0,60.0,64.0,78.0,83.0,-90.0,64.0,83.0,147.0
+HDF - 2° Challenge Avenir (Villers Btx),2022-01-08,SEN Men 96,NOURTIER Bertrand,93.16,48.0,-51.0,-51.0,65.0,70.0,75.0,48.0,75.0,123.0
+HDF - 2° Challenge Avenir (Villers Btx),2022-01-08,SEN Men >109,BRIAND Antoine,114.74,-85.0,85.0,90.0,115.0,-125.0,-125.0,90.0,115.0,205.0

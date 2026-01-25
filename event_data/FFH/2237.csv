@@ -1,51 +1,11 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U15 Men 47,BLONDEAU Maé,32.8,16.0,18.0,20.0,23.0,25.0,27.0,20.0,27.0,47.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U15 Men 52,PROMONET Nael,50.7,29.0,31.0,33.0,32.0,34.0,36.0,33.0,36.0,69.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U15 Men 52,VAN HAENDEL Cesar,52.0,16.0,18.0,-20.0,20.0,-22.0,22.0,18.0,22.0,40.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U15 Men 60,HERIT Julien,58.1,32.0,-34.0,34.0,36.0,38.0,40.0,34.0,40.0,74.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U15 Men 60,REGNIER Louis,56.1,18.0,20.0,-22.0,24.0,26.0,-28.0,20.0,26.0,46.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U15 Men 71,CELESTIN Melvin,65.5,36.0,38.0,40.0,56.0,58.0,-60.0,40.0,58.0,98.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U15 Women 48,ELHADRI Farah,44.7,16.0,18.0,20.0,26.0,28.0,30.0,20.0,30.0,50.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U15 Women 69,NICOLAS Julie,64.8,28.0,30.0,32.0,36.0,38.0,40.0,32.0,40.0,72.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Women 35,GIRARD Bérénice,29.0,11.0,13.0,15.0,18.0,20.0,-21.0,15.0,20.0,35.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Women 40,BONNARDOT Andréa,38.4,8.0,10.0,12.0,10.0,11.0,12.0,12.0,12.0,24.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Women 44,ROLAND Kenza,43.0,12.0,14.0,16.0,14.0,-15.0,15.0,16.0,15.0,31.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Women 48,FOURNIER Serena,45.9,11.0,13.0,15.0,18.0,20.0,22.0,15.0,22.0,37.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Women 53,LEBEAULT Julie,51.0,30.0,32.0,34.0,40.0,42.0,43.0,34.0,43.0,77.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Women 53,BERRARD Sixtine,50.9,11.0,13.0,15.0,11.0,13.0,15.0,15.0,15.0,30.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Men 36,HAESAERTS Nils,24.8,8.0,10.0,-12.0,8.0,10.0,12.0,10.0,12.0,22.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Men 36,POULLEAU Valentin,34.9,8.0,10.0,12.0,-13.0,13.0,14.0,12.0,14.0,26.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Men 36,PUILIPPOT PERCETTI Emilio,29.9,8.0,9.0,-10.0,10.0,11.0,12.0,9.0,12.0,21.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Men 36,RENAULT Henry,36.0,8.0,9.0,10.0,12.0,13.0,14.0,10.0,14.0,24.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Men 36,MESTRE Vincent,31.4,8.0,-9.0,9.0,8.0,-9.0,9.0,9.0,9.0,18.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Men 42,ROSSIGNOL Jean paul,41.2,10.0,-12.0,12.0,12.0,13.0,14.0,12.0,14.0,26.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Men 42,BENNACER Yazid,38.8,8.0,10.0,-11.0,12.0,13.0,-14.0,10.0,13.0,23.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Men 47,DKHILI Matéo,43.0,11.0,13.0,15.0,21.0,23.0,25.0,15.0,25.0,40.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Men 47,BÉLORGÉ Timéo,46.9,8.0,10.0,-11.0,-8.0,8.0,9.0,10.0,9.0,19.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Men 52,KASPRIK Valentin,51.2,24.0,26.0,28.0,28.0,30.0,32.0,28.0,32.0,60.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Men 56,LAMBERT Jules,56.0,16.0,18.0,20.0,24.0,26.0,28.0,20.0,28.0,48.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Men 56,GUILLAUDIN Louis,54.5,13.0,15.0,17.0,21.0,23.0,25.0,17.0,25.0,42.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Men 56,BONNEAU Lucas,54.0,12.0,-13.0,13.0,-14.0,14.0,15.0,13.0,15.0,28.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Men 60,LANDRE FIXARI Shawn,59.4,16.0,18.0,20.0,24.0,26.0,28.0,20.0,28.0,48.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Men 65,BAGOT Enzo,60.5,8.0,-9.0,9.0,8.0,9.0,-10.0,9.0,9.0,18.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Women 35,GIRARD Bérénice,29.0,11.0,13.0,15.0,18.0,20.0,-21.0,15.0,20.0,35.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Women 40,BONNARDOT Andréa,38.4,8.0,10.0,12.0,10.0,11.0,12.0,12.0,12.0,24.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Women 44,ROLAND Kenza,43.0,12.0,14.0,16.0,14.0,-15.0,15.0,16.0,15.0,31.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Women 48,FOURNIER Serena,45.9,11.0,13.0,15.0,18.0,20.0,22.0,15.0,22.0,37.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Women 53,LEBEAULT Julie,51.0,30.0,32.0,34.0,40.0,42.0,43.0,34.0,43.0,77.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Women 53,BERRARD Sixtine,50.9,11.0,13.0,15.0,11.0,13.0,15.0,15.0,15.0,30.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Men 36,HAESAERTS Nils,24.8,8.0,10.0,-12.0,8.0,10.0,12.0,10.0,12.0,22.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Men 36,POULLEAU Valentin,34.9,8.0,10.0,12.0,-13.0,13.0,14.0,12.0,14.0,26.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Men 36,PUILIPPOT PERCETTI Emilio,29.9,8.0,9.0,-10.0,10.0,11.0,12.0,9.0,12.0,21.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Men 36,RENAULT Henry,36.0,8.0,9.0,10.0,12.0,13.0,14.0,10.0,14.0,24.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Men 36,MESTRE Vincent,31.4,8.0,-9.0,9.0,8.0,-9.0,9.0,9.0,9.0,18.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Men 42,ROSSIGNOL Jean paul,41.2,10.0,-12.0,12.0,12.0,13.0,14.0,12.0,14.0,26.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Men 42,BENNACER Yazid,38.8,8.0,10.0,-11.0,12.0,13.0,-14.0,10.0,13.0,23.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Men 47,DKHILI Matéo,43.0,11.0,13.0,15.0,21.0,23.0,25.0,15.0,25.0,40.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Men 47,BÉLORGÉ Timéo,46.9,8.0,10.0,-11.0,-8.0,8.0,9.0,10.0,9.0,19.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Men 52,KASPRIK Valentin,51.2,24.0,26.0,28.0,28.0,30.0,32.0,28.0,32.0,60.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Men 56,LAMBERT Jules,56.0,16.0,18.0,20.0,24.0,26.0,28.0,20.0,28.0,48.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Men 56,GUILLAUDIN Louis,54.5,13.0,15.0,17.0,21.0,23.0,25.0,17.0,25.0,42.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Men 56,BONNEAU Lucas,54.0,12.0,-13.0,13.0,-14.0,14.0,15.0,13.0,15.0,28.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Men 60,LANDRE FIXARI Shawn,59.4,16.0,18.0,20.0,24.0,26.0,28.0,20.0,28.0,48.0
-BFC - Challenge Avenir - Epinac - 1er challenge avenir as mont reme epinac 2011 2012,2025-12-03,U13 Men 65,BAGOT Enzo,60.5,8.0,-9.0,9.0,8.0,9.0,-10.0,9.0,9.0,18.0
+AURA - 3°J N3 (Anse),2022-01-15,U20 Men 89,SCHIARI Florian,88.95,80.0,85.0,88.0,-100.0,100.0,-106.0,88.0,100.0,188.0
+AURA - 3°J N3 (Anse),2022-01-15,SEN Men 67,CHAPUIS Mathieu,62.6,65.0,-70.0,70.0,85.0,90.0,-95.0,70.0,90.0,160.0
+AURA - 3°J N3 (Anse),2022-01-15,SEN Men 73,VAILLOUD Fabien,68.3,78.0,82.0,85.0,97.0,102.0,105.0,85.0,105.0,190.0
+AURA - 3°J N3 (Anse),2022-01-15,SEN Men 73,CHAUTAIN Emeric,69.9,63.0,68.0,-75.0,85.0,89.0,-95.0,68.0,89.0,157.0
+AURA - 3°J N3 (Anse),2022-01-15,SEN Men 81,SEIGNEMARTIN Loic,77.55,90.0,94.0,96.0,105.0,110.0,113.0,96.0,113.0,209.0
+AURA - 3°J N3 (Anse),2022-01-15,SEN Men 81,PRADA PRADA Jonathan,79.65,75.0,80.0,85.0,90.0,95.0,-100.0,85.0,95.0,180.0
+AURA - 3°J N3 (Anse),2022-01-15,SEN Men 89,LEVRAT Jordan,87.3,-100.0,100.0,-105.0,120.0,125.0,-130.0,100.0,125.0,225.0
+AURA - 3°J N3 (Anse),2022-01-15,SEN Men 89,CAUMONT Christophe,86.15,-95.0,-98.0,98.0,110.0,116.0,-120.0,98.0,116.0,214.0
+AURA - 3°J N3 (Anse),2022-01-15,SEN Men 89,FREITAS Lionel,84.95,70.0,74.0,77.0,92.0,-96.0,96.0,77.0,96.0,173.0
+AURA - 3°J N3 (Anse),2022-01-15,SEN Men 89,MOINE Maxence,85.05,60.0,65.0,-70.0,92.0,96.0,-100.0,65.0,96.0,161.0

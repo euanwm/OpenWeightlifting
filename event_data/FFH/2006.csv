@@ -1,16 +1,17 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-HDF - Chpt  de Province - Grande-Synthe - HDF -  U13 F 45 et +,2025-03-02,U13 Women 45,RIQUIER Marie,42.0,15.0,17.0,19.0,24.0,26.0,28.0,19.0,28.0,47.0
-HDF - Chpt  de Province - Grande-Synthe - HDF -  U13 F 45 et +,2025-03-02,U13 Women 45,PEREIRA Amalia,44.6,-27.0,-27.0,27.0,41.0,43.0,45.0,27.0,45.0,72.0
-HDF - Chpt  de Province - Grande-Synthe - HDF -  U13 F 45 et +,2025-03-02,U13 Women 49,GEERAERT Emmy,47.0,22.0,24.0,25.0,32.0,34.0,35.0,25.0,35.0,60.0
-HDF - Chpt  de Province - Grande-Synthe - HDF -  U13 F 45 et +,2025-03-02,U13 Women 49,DECORTE-DELHAIE Leonie,45.9,16.0,18.0,20.0,29.0,31.0,-33.0,20.0,31.0,51.0
-HDF - Chpt  de Province - Grande-Synthe - HDF -  U13 F 45 et +,2025-03-02,U13 Women 49,BUTTEZ DECRAMP Louise,46.0,15.0,17.0,19.0,23.0,25.0,27.0,19.0,27.0,46.0
-HDF - Chpt  de Province - Grande-Synthe - HDF -  U13 F 45 et +,2025-03-02,U13 Women 49,NOYELLE Victoire,46.4,15.0,17.0,19.0,23.0,25.0,27.0,19.0,27.0,46.0
-HDF - Chpt  de Province - Grande-Synthe - HDF -  U13 F 45 et +,2025-03-02,U13 Women 55,VASSEUR Victoria,52.6,14.0,16.0,18.0,24.0,25.0,27.0,18.0,27.0,45.0
-HDF - Chpt  de Province - Grande-Synthe - HDF -  U13 F 45 et +,2025-03-02,U13 Women 55,CATEZ Samia,51.0,15.0,17.0,19.0,22.0,23.0,-24.0,19.0,23.0,42.0
-HDF - Chpt  de Province - Grande-Synthe - HDF -  U13 F 45 et +,2025-03-02,U13 Women 59,THOORIS Hylana,56.5,16.0,18.0,20.0,20.0,22.0,24.0,20.0,24.0,44.0
-HDF - Chpt  de Province - Grande-Synthe - HDF -  U13 F 45 et +,2025-03-02,U13 Women 64,OPIGEZ Lena,64.0,21.0,23.0,25.0,30.0,32.0,33.0,25.0,33.0,58.0
-HDF - Chpt  de Province - Grande-Synthe - HDF -  U13 F 45 et +,2025-03-02,U13 Women 71,ADELAIDE Aelia,68.8,30.0,32.0,34.0,36.0,38.0,-39.0,34.0,38.0,72.0
-HDF - Chpt  de Province - Grande-Synthe - HDF -  U13 F 45 et +,2025-03-02,U13 Women >71,NAKOULMA Mounira,117.3,42.0,44.0,46.0,54.0,56.0,58.0,46.0,58.0,104.0
-HDF - Chpt  de Province - Grande-Synthe - HDF -  U13 F 45 et +,2025-03-02,U13 Women >71,DEVYNCK Lyna,79.9,30.0,32.0,33.0,35.0,37.0,39.0,33.0,39.0,72.0
-HDF - Chpt  de Province - Grande-Synthe - HDF -  U13 F 45 et +,2025-03-02,U13 Women >71,DUCLERMORTIER Ismerie,86.9,23.0,25.0,26.0,30.0,31.0,-32.0,26.0,31.0,57.0
-HDF - Chpt  de Province - Grande-Synthe - HDF -  U13 F 45 et +,2025-03-02,U13 Women >71,THIRY Cheyenne,72.9,32.0,34.0,36.0,40.0,-42.0,-42.0,36.0,40.0,76.0
+IDF - 2° J REG (Franconville),2021-12-11,U20 Men 81,PETRATOS Soren,78.8,75.0,80.0,-85.0,100.0,105.0,110.0,80.0,110.0,190.0
+IDF - 2° J REG (Franconville),2021-12-11,SEN Men 73,RAFFAILLAC Romain,72.2,65.0,70.0,-75.0,90.0,95.0,-100.0,70.0,95.0,165.0
+IDF - 2° J REG (Franconville),2021-12-11,SEN Men 81,DARCHEN Johann,77.2,-100.0,100.0,-110.0,120.0,125.0,128.0,100.0,128.0,228.0
+IDF - 2° J REG (Franconville),2021-12-11,SEN Men 81,MARQUEZ Octavio,79.7,95.0,-98.0,98.0,-125.0,130.0,133.0,98.0,133.0,231.0
+IDF - 2° J REG (Franconville),2021-12-11,SEN Men 81,SOULAS Thomas,80.1,80.0,90.0,95.0,110.0,120.0,-130.0,95.0,120.0,215.0
+IDF - 2° J REG (Franconville),2021-12-11,SEN Men 81,BRET Xan,76.7,-87.0,87.0,90.0,96.0,-102.0,103.0,90.0,103.0,193.0
+IDF - 2° J REG (Franconville),2021-12-11,SEN Men 81,JUMEL Christophe,80.6,88.0,93.0,-95.0,-103.0,103.0,-112.0,93.0,103.0,196.0
+IDF - 2° J REG (Franconville),2021-12-11,SEN Men 81,SKALINSKI Julian,76.7,78.0,-82.0,-82.0,102.0,107.0,-111.0,78.0,107.0,185.0
+IDF - 2° J REG (Franconville),2021-12-11,SEN Men 81,WEINER Enrique,73.3,75.0,80.0,-85.0,95.0,-98.0,98.0,80.0,98.0,178.0
+IDF - 2° J REG (Franconville),2021-12-11,SEN Men 89,ANGOT Alexis,84.8,100.0,107.0,111.0,119.0,125.0,130.0,111.0,130.0,241.0
+IDF - 2° J REG (Franconville),2021-12-11,SEN Men 89,BENHAMOU Sacha,85.6,90.0,100.0,-105.0,115.0,120.0,-0.0,100.0,120.0,220.0
+IDF - 2° J REG (Franconville),2021-12-11,SEN Men 96,LEAL PILLOT Ludvi oscar,95.3,110.0,-115.0,120.0,130.0,140.0,150.0,120.0,150.0,270.0
+IDF - 2° J REG (Franconville),2021-12-11,SEN Men 96,VITAL Jules,94.7,90.0,98.0,103.0,125.0,132.0,-140.0,103.0,132.0,235.0
+IDF - 2° J REG (Franconville),2021-12-11,SEN Men 96,BIDELOGNE Didier,93.0,-90.0,90.0,-95.0,110.0,-118.0,-120.0,90.0,110.0,200.0
+IDF - 2° J REG (Franconville),2021-12-11,SEN Men 102,TSHILENGE Kamba,101.9,85.0,-95.0,-100.0,100.0,-115.0,-115.0,85.0,100.0,185.0
+IDF - 2° J REG (Franconville),2021-12-11,SEN Men >109,BETTIOL Giordano,109.3,90.0,96.0,101.0,110.0,120.0,130.0,101.0,130.0,231.0

@@ -1,67 +1,9 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Men 81,BILLON Thomas,77.2,95.0,-100.0,-100.0,115.0,-125.0,-125.0,95.0,115.0,210.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Men 81,MUSTIÈRE Frédéric,80.3,-95.0,-95.0,-96.0,115.0,-120.0,-125.0,0.0,115.0,0.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Men 102,POULET Vivien,101.4,90.0,95.0,98.0,110.0,116.0,123.0,98.0,123.0,221.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Men 102,CANTUEL Sebastien,97.3,85.0,-90.0,-90.0,105.0,110.0,-111.0,85.0,110.0,195.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Women 59,MAURO Rachel,58.3,57.0,60.0,62.0,-74.0,76.0,-78.0,62.0,76.0,138.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Women 71,CORMARY Mathilde,64.9,53.0,56.0,59.0,72.0,75.0,78.0,59.0,78.0,137.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Women 71,TEYSSIER Emma,69.3,53.0,56.0,-60.0,64.0,67.0,-70.0,56.0,67.0,123.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Women 59,MAURO Rachel,58.3,57.0,60.0,62.0,-74.0,76.0,-78.0,62.0,76.0,138.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Women 71,CORMARY Mathilde,64.9,53.0,56.0,59.0,72.0,75.0,78.0,59.0,78.0,137.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Women 71,TEYSSIER Emma,69.3,53.0,56.0,-60.0,64.0,67.0,-70.0,56.0,67.0,123.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,U13 Men 49,CHOURRET Camille,48.4,26.0,-28.0,28.0,-34.0,34.0,36.0,28.0,36.0,64.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,U13 Men 67,FRAZEY Alistair,64.1,23.0,25.0,-27.0,30.0,-32.0,-32.0,25.0,30.0,55.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,U13 Men 49,CHOURRET Camille,48.4,26.0,-28.0,28.0,-34.0,34.0,36.0,28.0,36.0,64.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,U13 Men 67,FRAZEY Alistair,64.1,23.0,25.0,-27.0,30.0,-32.0,-32.0,25.0,30.0,55.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,U15 Men 55,BRUGERRE Elouan,54.2,39.0,41.0,-43.0,51.0,53.0,55.0,41.0,55.0,96.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Men 61,DIALLO M.sita,60.8,70.0,-73.0,-73.0,80.0,83.0,85.0,70.0,85.0,155.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Men 67,PAVIOT Fabien,67.0,77.0,81.0,84.0,107.0,111.0,-113.0,84.0,111.0,195.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Men 67,MAGNIER Romain,66.5,75.0,80.0,-83.0,85.0,90.0,95.0,80.0,95.0,175.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Men 67,RAGOT Mael,66.1,62.0,65.0,-68.0,88.0,-93.0,-93.0,65.0,88.0,153.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Men 73,RODRIGUEZ Nicolas,72.2,80.0,85.0,-90.0,108.0,112.0,115.0,85.0,115.0,200.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,U15 Men 55,BRUGERRE Elouan,54.2,39.0,41.0,-43.0,51.0,53.0,55.0,41.0,55.0,96.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Men 61,DIALLO M.sita,60.8,70.0,-73.0,-73.0,80.0,83.0,85.0,70.0,85.0,155.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Men 67,PAVIOT Fabien,67.0,77.0,81.0,84.0,107.0,111.0,-113.0,84.0,111.0,195.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Men 67,MAGNIER Romain,66.5,75.0,80.0,-83.0,85.0,90.0,95.0,80.0,95.0,175.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Men 67,RAGOT Mael,66.1,62.0,65.0,-68.0,88.0,-93.0,-93.0,65.0,88.0,153.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Men 73,RODRIGUEZ Nicolas,72.2,80.0,85.0,-90.0,108.0,112.0,115.0,85.0,115.0,200.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Men 81,MEUNIER Robin,81.0,90.0,95.0,-100.0,120.0,125.0,-130.0,95.0,125.0,220.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Men 81,COELHO Quentin,74.9,77.0,80.0,83.0,91.0,95.0,-100.0,83.0,95.0,178.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Men 89,LELIEVRE Robin,87.4,93.0,-97.0,-100.0,120.0,125.0,-130.0,93.0,125.0,218.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Men 89,COSTENOBLE Thadde,87.1,93.0,97.0,102.0,115.0,-120.0,-120.0,102.0,115.0,217.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Men 96,AISSA Loesha,91.2,-100.0,100.0,-104.0,120.0,126.0,-0.0,100.0,126.0,226.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Men 96,HUTEAU Rudolphe,93.2,90.0,94.0,97.0,-115.0,115.0,118.0,97.0,118.0,215.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Men 96,GALLAND Joey,95.6,95.0,-100.0,-100.0,115.0,120.0,-123.0,95.0,120.0,215.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Men 96,REILLER Loic,92.6,83.0,88.0,-90.0,-101.0,106.0,-0.0,88.0,106.0,194.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Men 81,MEUNIER Robin,81.0,90.0,95.0,-100.0,120.0,125.0,-130.0,95.0,125.0,220.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Men 81,COELHO Quentin,74.9,77.0,80.0,83.0,91.0,95.0,-100.0,83.0,95.0,178.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Men 89,LELIEVRE Robin,87.4,93.0,-97.0,-100.0,120.0,125.0,-130.0,93.0,125.0,218.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Men 89,COSTENOBLE Thadde,87.1,93.0,97.0,102.0,115.0,-120.0,-120.0,102.0,115.0,217.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Men 96,AISSA Loesha,91.2,-100.0,100.0,-104.0,120.0,126.0,-0.0,100.0,126.0,226.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Men 96,HUTEAU Rudolphe,93.2,90.0,94.0,97.0,-115.0,115.0,118.0,97.0,118.0,215.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Men 96,GALLAND Joey,95.6,95.0,-100.0,-100.0,115.0,120.0,-123.0,95.0,120.0,215.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Men 96,REILLER Loic,92.6,83.0,88.0,-90.0,-101.0,106.0,-0.0,88.0,106.0,194.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,U15 Women 55,PEUGNET Noémie,52.8,25.0,28.0,30.0,35.0,38.0,40.0,30.0,40.0,70.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,U20 Women 64,LALLIER Célia,62.9,45.0,48.0,-50.0,55.0,58.0,60.0,48.0,60.0,108.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,U20 Women 71,M'VOUMINI Jeffy,67.5,50.0,53.0,-56.0,63.0,-66.0,-66.0,53.0,63.0,116.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Women 55,ETIENNE Morgane,55.0,45.0,47.0,-49.0,55.0,58.0,-61.0,47.0,58.0,105.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Women 55,ANOUAR Yasmine,53.3,43.0,45.0,47.0,47.0,-49.0,50.0,47.0,50.0,97.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Women 55,PIFFAULT Virginie,54.9,37.0,-38.0,38.0,40.0,45.0,-48.0,38.0,45.0,83.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Women 64,MENON Felicia,60.7,43.0,46.0,-50.0,60.0,-64.0,64.0,46.0,64.0,110.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Women 64,PACCOT Pauline,60.7,-40.0,40.0,43.0,50.0,54.0,56.0,43.0,56.0,99.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Women 64,VERDY Leatitia,61.0,40.0,-42.0,42.0,52.0,57.0,-60.0,42.0,57.0,99.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Women 71,GUILLOT Joana,69.6,53.0,55.0,-57.0,74.0,78.0,79.0,55.0,79.0,134.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Women 71,GORCE Jordane,64.6,50.0,53.0,-55.0,-60.0,-60.0,60.0,53.0,60.0,113.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Women 71,LANGLOIS Joana,71.0,40.0,43.0,-45.0,50.0,55.0,-58.0,43.0,55.0,98.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,U15 Women 55,PEUGNET Noémie,52.8,25.0,28.0,30.0,35.0,38.0,40.0,30.0,40.0,70.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,U20 Women 64,LALLIER Célia,62.9,45.0,48.0,-50.0,55.0,58.0,60.0,48.0,60.0,108.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,U20 Women 71,M'VOUMINI Jeffy,67.5,50.0,53.0,-56.0,63.0,-66.0,-66.0,53.0,63.0,116.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Women 55,ETIENNE Morgane,55.0,45.0,47.0,-49.0,55.0,58.0,-61.0,47.0,58.0,105.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Women 55,ANOUAR Yasmine,53.3,43.0,45.0,47.0,47.0,-49.0,50.0,47.0,50.0,97.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Women 55,PIFFAULT Virginie,54.9,37.0,-38.0,38.0,40.0,45.0,-48.0,38.0,45.0,83.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Women 64,MENON Felicia,60.7,43.0,46.0,-50.0,60.0,-64.0,64.0,46.0,64.0,110.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Women 64,PACCOT Pauline,60.7,-40.0,40.0,43.0,50.0,54.0,56.0,43.0,56.0,99.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Women 64,VERDY Leatitia,61.0,40.0,-42.0,42.0,52.0,57.0,-60.0,42.0,57.0,99.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Women 71,GUILLOT Joana,69.6,53.0,55.0,-57.0,74.0,78.0,79.0,55.0,79.0,134.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Women 71,GORCE Jordane,64.6,50.0,53.0,-55.0,-60.0,-60.0,60.0,53.0,60.0,113.0
-AURA - Chpt Départemental - Issoire - .,2025-02-09,SEN Women 71,LANGLOIS Joana,71.0,40.0,43.0,-45.0,50.0,55.0,-58.0,43.0,55.0,98.0
+PDL - Critérium National (Evron),2021-12-18,U15 Men 49,COTTEREAU Hugo,44.65,38.0,40.0,-42.0,48.0,50.0,-52.0,40.0,50.0,90.0
+PDL - Critérium National (Evron),2021-12-18,U17 Men 81,ROGUET Thomas,78.93,75.0,80.0,-82.0,95.0,100.0,-102.0,80.0,100.0,180.0
+PDL - Critérium National (Evron),2021-12-18,U20 Men 55,CADIEU Clement,54.7,77.0,-79.0,-79.0,88.0,93.0,-99.0,77.0,93.0,170.0
+PDL - Critérium National (Evron),2021-12-18,U20 Men 81,COGNON Theo,75.25,85.0,92.0,97.0,118.0,-121.0,-121.0,97.0,118.0,215.0
+PDL - Critérium National (Evron),2021-12-18,SEN Men 73,LEBOUCHER Léo,71.86,-92.0,-92.0,92.0,110.0,115.0,-120.0,92.0,115.0,207.0
+PDL - Critérium National (Evron),2021-12-18,SEN Men 81,COGNON Jonathan,75.87,105.0,-110.0,-110.0,130.0,135.0,-140.0,105.0,135.0,240.0
+PDL - Critérium National (Evron),2021-12-18,SEN Men 89,JOUANNE Alexandre,86.5,100.0,105.0,110.0,-125.0,-125.0,125.0,110.0,125.0,235.0
+PDL - Critérium National (Evron),2021-12-18,SEN Men 96,BROTEL Jocelyn,93.8,100.0,105.0,110.0,135.0,140.0,-145.0,110.0,140.0,250.0

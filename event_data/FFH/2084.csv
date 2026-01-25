@@ -1,16 +1,11 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-NAQ -NAT 2 - Bordeaux power camp - 3éme journée,2025-01-11,U20 Men 61,RIGAUD Gabriel,59.8,65.0,70.0,73.0,72.0,77.0,-81.0,73.0,77.0,150.0
-NAQ -NAT 2 - Bordeaux power camp - 3éme journée,2025-01-11,SEN Men 67,MEDARD Hugo,65.05,88.0,93.0,-97.0,110.0,115.0,-120.0,93.0,115.0,208.0
-NAQ -NAT 2 - Bordeaux power camp - 3éme journée,2025-01-11,SEN Men 73,BARDEL Thibaut,67.3,84.0,89.0,92.0,113.0,120.0,-125.0,92.0,120.0,212.0
-NAQ -NAT 2 - Bordeaux power camp - 3éme journée,2025-01-11,SEN Men 73,LECOMTE Ewen,71.1,101.0,-105.0,-105.0,100.0,108.0,-115.0,101.0,108.0,209.0
-NAQ -NAT 2 - Bordeaux power camp - 3éme journée,2025-01-11,SEN Men 73,RICHEBOIS Edouard,71.8,60.0,65.0,-66.0,85.0,-86.0,-86.0,65.0,85.0,150.0
-NAQ -NAT 2 - Bordeaux power camp - 3éme journée,2025-01-11,SEN Men 81,BREAUX Nicolas,78.4,100.0,107.0,111.0,125.0,132.0,136.0,111.0,136.0,247.0
-NAQ -NAT 2 - Bordeaux power camp - 3éme journée,2025-01-11,SEN Men 89,DESACHY Tom,88.2,120.0,125.0,-130.0,150.0,155.0,-162.0,125.0,155.0,280.0
-NAQ -NAT 2 - Bordeaux power camp - 3éme journée,2025-01-11,SEN Men 89,PETIT Victor,87.5,108.0,114.0,-120.0,137.0,143.0,-148.0,114.0,143.0,257.0
-NAQ -NAT 2 - Bordeaux power camp - 3éme journée,2025-01-11,SEN Men 89,BUREAU Steven,86.9,-108.0,108.0,113.0,135.0,140.0,-144.0,113.0,140.0,253.0
-NAQ -NAT 2 - Bordeaux power camp - 3éme journée,2025-01-11,SEN Men 89,HORAITIS Dimitri,85.2,107.0,-111.0,-111.0,125.0,131.0,-136.0,107.0,131.0,238.0
-NAQ -NAT 2 - Bordeaux power camp - 3éme journée,2025-01-11,SEN Men 96,LEVEQUE Léonard,89.5,120.0,-125.0,126.0,144.0,-152.0,156.0,126.0,156.0,282.0
-NAQ -NAT 2 - Bordeaux power camp - 3éme journée,2025-01-11,SEN Men 96,BOIS Armand,91.9,111.0,-116.0,116.0,141.0,146.0,150.0,116.0,150.0,266.0
-NAQ -NAT 2 - Bordeaux power camp - 3éme journée,2025-01-11,SEN Men 96,SEMIROT Clement,93.3,108.0,-118.0,119.0,133.0,141.0,-147.0,119.0,141.0,260.0
-NAQ -NAT 2 - Bordeaux power camp - 3éme journée,2025-01-11,SEN Men 96,BRIANT Guillaume,92.65,112.0,116.0,-120.0,131.0,-0.0,-0.0,116.0,131.0,247.0
-NAQ -NAT 2 - Bordeaux power camp - 3éme journée,2025-01-11,SEN Men 96,BORDES Simon,91.5,103.0,107.0,110.0,125.0,130.0,135.0,110.0,135.0,245.0
+HDF - Critérium National (Lille),2021-12-18,U15 Women 40,DIOGUARDI Nina,39.6,30.0,33.0,35.0,42.0,45.0,48.0,35.0,48.0,83.0
+HDF - Critérium National (Lille),2021-12-18,U17 Women 59,FRANCHOIS Shawna,58.5,38.0,41.0,43.0,48.0,52.0,54.0,43.0,54.0,97.0
+HDF - Critérium National (Lille),2021-12-18,U20 Women 59,MAAFI Meissane,56.2,50.0,53.0,55.0,65.0,70.0,-73.0,55.0,70.0,125.0
+HDF - Critérium National (Lille),2021-12-18,U20 Women 59,DELVAR Lucie,58.95,48.0,-51.0,51.0,53.0,55.0,-57.0,51.0,55.0,106.0
+HDF - Critérium National (Lille),2021-12-18,SEN Women 59,BOURGEOIS Lola,59.0,56.0,60.0,-62.0,-78.0,79.0,-85.0,60.0,79.0,139.0
+HDF - Critérium National (Lille),2021-12-18,SEN Women 59,GRIFFON Laurie,57.2,55.0,58.0,-61.0,-74.0,74.0,78.0,58.0,78.0,136.0
+HDF - Critérium National (Lille),2021-12-18,SEN Women 59,COURTOIS Alexandra,58.2,58.0,-63.0,63.0,67.0,72.0,-75.0,63.0,72.0,135.0
+HDF - Critérium National (Lille),2021-12-18,SEN Women 59,ORTIBUS Nieke,58.2,57.0,-60.0,60.0,67.0,70.0,-0.0,60.0,70.0,130.0
+HDF - Critérium National (Lille),2021-12-18,SEN Women 59,JAM Margaux,58.0,48.0,-51.0,-53.0,65.0,68.0,-71.0,48.0,68.0,116.0
+HDF - Critérium National (Lille),2021-12-18,SEN Women 59,BOCQUET Ambre,58.5,52.0,-55.0,-55.0,-73.0,-75.0,-78.0,52.0,0.0,0.0

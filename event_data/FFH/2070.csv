@@ -1,18 +1,9 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-GE - Chpt Départemental - Langres - Langres,2025-01-17,U13 Men 40,BONNENFANT Marlon,40.0,32.0,-34.0,-34.0,34.0,36.0,38.0,32.0,38.0,70.0
-GE - Chpt Départemental - Langres - Langres,2025-01-17,U13 Men 73,SIMONET Arthur,69.7,20.0,22.0,24.0,26.0,28.0,30.0,24.0,30.0,54.0
-GE - Chpt Départemental - Langres - Langres,2025-01-17,U13 Women 64,VENTUROLI Caly,59.3,13.0,-15.0,15.0,18.0,20.0,22.0,15.0,22.0,37.0
-GE - Chpt Départemental - Langres - Langres,2025-01-17,U15 Women 40,VACHEY Louise,31.0,10.0,-15.0,-15.0,12.0,15.0,18.0,10.0,18.0,28.0
-GE - Chpt Départemental - Langres - Langres,2025-01-17,U15 Women 76,KOCH Melody,72.7,30.0,-34.0,34.0,40.0,43.0,45.0,34.0,45.0,79.0
-GE - Chpt Départemental - Langres - Langres,2025-01-17,U17 Women 81,MORIZOT-MUNSCHI Morgane,76.5,15.0,18.0,-20.0,18.0,22.0,25.0,18.0,25.0,43.0
-GE - Chpt Départemental - Langres - Langres,2025-01-17,U15 Women 40,VACHEY Louise,31.0,10.0,-15.0,-15.0,12.0,15.0,18.0,10.0,18.0,28.0
-GE - Chpt Départemental - Langres - Langres,2025-01-17,U15 Women 76,KOCH Melody,72.7,30.0,-34.0,34.0,40.0,43.0,45.0,34.0,45.0,79.0
-GE - Chpt Départemental - Langres - Langres,2025-01-17,U17 Women 81,MORIZOT-MUNSCHI Morgane,76.5,15.0,18.0,-20.0,18.0,22.0,25.0,18.0,25.0,43.0
-GE - Chpt Départemental - Langres - Langres,2025-01-17,U15 Men 49,DOS SANTOS Paolo,41.4,-37.0,37.0,40.0,45.0,-48.0,-48.0,40.0,45.0,85.0
-GE - Chpt Départemental - Langres - Langres,2025-01-17,U15 Men 55,LEGOUX Jules,50.2,40.0,44.0,47.0,50.0,55.0,-58.0,47.0,55.0,102.0
-GE - Chpt Départemental - Langres - Langres,2025-01-17,U15 Men 55,PRETET Victor,53.4,30.0,32.0,35.0,42.0,45.0,47.0,35.0,47.0,82.0
-GE - Chpt Départemental - Langres - Langres,2025-01-17,U15 Men 55,COLLIN-MAILLARD Enzo,54.0,32.0,35.0,-38.0,42.0,-45.0,45.0,35.0,45.0,80.0
-GE - Chpt Départemental - Langres - Langres,2025-01-17,U15 Men 49,DOS SANTOS Paolo,41.4,-37.0,37.0,40.0,45.0,-48.0,-48.0,40.0,45.0,85.0
-GE - Chpt Départemental - Langres - Langres,2025-01-17,U15 Men 55,LEGOUX Jules,50.2,40.0,44.0,47.0,50.0,55.0,-58.0,47.0,55.0,102.0
-GE - Chpt Départemental - Langres - Langres,2025-01-17,U15 Men 55,PRETET Victor,53.4,30.0,32.0,35.0,42.0,45.0,47.0,35.0,47.0,82.0
-GE - Chpt Départemental - Langres - Langres,2025-01-17,U15 Men 55,COLLIN-MAILLARD Enzo,54.0,32.0,35.0,-38.0,42.0,-45.0,45.0,35.0,45.0,80.0
+CVL - Critérium National (Chateauroux),2021-12-19,SEN Women 49,KONIG Astrid,49.0,53.0,58.0,-62.0,65.0,75.0,-82.0,58.0,75.0,133.0
+CVL - Critérium National (Chateauroux),2021-12-19,SEN Women 49,ETIENNE Morgane,48.6,-38.0,-38.0,-38.0,46.0,-50.0,50.0,0.0,50.0,0.0
+CVL - Critérium National (Chateauroux),2021-12-19,SEN Women 55,VALERI Lea,54.4,55.0,60.0,63.0,67.0,-70.0,70.0,63.0,70.0,133.0
+CVL - Critérium National (Chateauroux),2021-12-19,SEN Women 55,TRAN Thanh-lan,53.4,-55.0,-55.0,55.0,68.0,71.0,74.0,55.0,74.0,129.0
+CVL - Critérium National (Chateauroux),2021-12-19,SEN Women 55,ALCANIZ PLAZA Blandine,52.1,50.0,54.0,56.0,64.0,-67.0,67.0,56.0,67.0,123.0
+CVL - Critérium National (Chateauroux),2021-12-19,SEN Women 55,RICHARD Charlene,54.4,50.0,-54.0,-54.0,66.0,70.0,-73.0,50.0,70.0,120.0
+CVL - Critérium National (Chateauroux),2021-12-19,SEN Women 64,SOUCHU Chloe,62.7,47.0,-50.0,50.0,65.0,-70.0,-70.0,50.0,65.0,115.0
+CVL - Critérium National (Chateauroux),2021-12-19,SEN Women 81,MIZSER Bertille,80.9,63.0,67.0,70.0,75.0,80.0,85.0,70.0,85.0,155.0

@@ -1,38 +1,12 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-PACA - 3ème Challenge Avenir - Noves - U15 à U20 Masculins,2025-03-16,U15 Men 49,ARMAND Benjamin,41.3,-18.0,18.0,20.0,22.0,24.0,-26.0,20.0,24.0,44.0
-PACA - 3ème Challenge Avenir - Noves - U15 à U20 Masculins,2025-03-16,U15 Men 55,XAVIER DO CARMO Michel,55.0,30.0,-35.0,36.0,41.0,45.0,-49.0,36.0,45.0,81.0
-PACA - 3ème Challenge Avenir - Noves - U15 à U20 Masculins,2025-03-16,U15 Men 61,CARRETTA Austin,60.9,30.0,34.0,-40.0,40.0,-44.0,44.0,34.0,44.0,78.0
-PACA - 3ème Challenge Avenir - Noves - U15 à U20 Masculins,2025-03-16,U15 Men 61,GIANNOTTI Leo,56.6,22.0,25.0,28.0,26.0,30.0,33.0,28.0,33.0,61.0
-PACA - 3ème Challenge Avenir - Noves - U15 à U20 Masculins,2025-03-16,U15 Men 67,LANGLOIS Emeryck,64.9,30.0,33.0,36.0,40.0,44.0,-47.0,36.0,44.0,80.0
-PACA - 3ème Challenge Avenir - Noves - U15 à U20 Masculins,2025-03-16,U15 Men 102,QUINTON Mathis,96.9,30.0,34.0,40.0,37.0,40.0,43.0,40.0,43.0,83.0
-PACA - 3ème Challenge Avenir - Noves - U15 à U20 Masculins,2025-03-16,U17 Men 55,AGUERRI Lenny,50.9,-25.0,25.0,-29.0,30.0,33.0,36.0,25.0,36.0,61.0
-PACA - 3ème Challenge Avenir - Noves - U15 à U20 Masculins,2025-03-16,U17 Men 61,MARTIN Sam,56.3,30.0,34.0,36.0,40.0,45.0,48.0,36.0,48.0,84.0
-PACA - 3ème Challenge Avenir - Noves - U15 à U20 Masculins,2025-03-16,U17 Men 96,GARCIA Théo,95.2,30.0,34.0,40.0,35.0,-38.0,38.0,40.0,38.0,78.0
-PACA - 3ème Challenge Avenir - Noves - U15 à U20 Masculins,2025-03-16,U20 Men 73,ZIANI Anas,72.7,62.0,-67.0,-67.0,75.0,-82.0,-82.0,62.0,75.0,137.0
-PACA - 3ème Challenge Avenir - Noves - U15 à U20 Masculins,2025-03-16,U20 Men 73,CAULAVIER BAILLON Ludovic,70.0,50.0,54.0,-57.0,62.0,67.0,72.0,54.0,72.0,126.0
-PACA - 3ème Challenge Avenir - Noves - U15 à U20 Masculins,2025-03-16,U20 Men 73,GAZAN Nolan,71.3,50.0,55.0,-60.0,65.0,70.0,-75.0,55.0,70.0,125.0
-PACA - 3ème Challenge Avenir - Noves - U15 à U20 Masculins,2025-03-16,U20 Men 73,RUSENESCU Radu mihai,73.0,45.0,50.0,-53.0,50.0,55.0,60.0,50.0,60.0,110.0
-PACA - 3ème Challenge Avenir - Noves - U15 à U20 Masculins,2025-03-16,U20 Men 73,GANIEUX Tristan,72.25,50.0,55.0,61.0,77.0,80.0,83.0,61.0,83.0,144.0
-PACA - 3ème Challenge Avenir - Noves - U15 à U20 Masculins,2025-03-16,SEN Men 73,TUDELLA-CARLI Simon,72.6,78.0,82.0,85.0,95.0,100.0,105.0,85.0,105.0,190.0
-PACA - 3ème Challenge Avenir - Noves - U15 à U20 Masculins,2025-03-16,SEN Men 73,XENOFONTOS Georges,67.5,70.0,75.0,78.0,76.0,80.0,-84.0,78.0,80.0,158.0
-PACA - 3ème Challenge Avenir - Noves - U15 à U20 Masculins,2025-03-16,SEN Men 73,MARGUIER Bastien,73.0,60.0,65.0,68.0,90.0,-95.0,95.0,68.0,95.0,163.0
-PACA - 3ème Challenge Avenir - Noves - U15 à U20 Masculins,2025-03-16,SEN Men 73,GUERIN Claude,73.0,56.0,60.0,62.0,76.0,80.0,-85.0,62.0,80.0,142.0
-PACA - 3ème Challenge Avenir - Noves - U15 à U20 Masculins,2025-03-16,SEN Men 81,BOLUDA Thomas,79.15,80.0,85.0,-88.0,102.0,106.0,-110.0,85.0,106.0,191.0
-PACA - 3ème Challenge Avenir - Noves - U15 à U20 Masculins,2025-03-16,SEN Men 81,FAVRO BERTRANDO Ludovic,80.4,82.0,-87.0,87.0,92.0,96.0,100.0,87.0,100.0,187.0
-PACA - 3ème Challenge Avenir - Noves - U15 à U20 Masculins,2025-03-16,SEN Men 81,ESPINOLA Manuel,78.6,60.0,63.0,65.0,80.0,82.0,84.0,65.0,84.0,149.0
-PACA - 3ème Challenge Avenir - Noves - U15 à U20 Masculins,2025-03-16,SEN Men 81,HADDADI Camil,77.05,52.0,-55.0,55.0,65.0,70.0,75.0,55.0,75.0,130.0
-PACA - 3ème Challenge Avenir - Noves - U15 à U20 Masculins,2025-03-16,SEN Men 89,BONICI MORENO Sebastien,87.35,67.0,72.0,-75.0,77.0,82.0,-85.0,72.0,82.0,154.0
-PACA - 3ème Challenge Avenir - Noves - U15 à U20 Masculins,2025-03-16,SEN Men 102,RAMUS Jerome,100.75,75.0,80.0,83.0,105.0,110.0,112.0,83.0,112.0,195.0
-PACA - 3ème Challenge Avenir - Noves - U15 à U20 Masculins,2025-03-16,SEN Men 102,BOLUDA Maxime,102.0,50.0,55.0,58.0,75.0,80.0,-85.0,58.0,80.0,138.0
-PACA - 3ème Challenge Avenir - Noves - U15 à U20 Masculins,2025-03-16,U20 Men 73,GANIEUX Tristan,72.25,50.0,55.0,61.0,77.0,80.0,83.0,61.0,83.0,144.0
-PACA - 3ème Challenge Avenir - Noves - U15 à U20 Masculins,2025-03-16,SEN Men 73,TUDELLA-CARLI Simon,72.6,78.0,82.0,85.0,95.0,100.0,105.0,85.0,105.0,190.0
-PACA - 3ème Challenge Avenir - Noves - U15 à U20 Masculins,2025-03-16,SEN Men 73,XENOFONTOS Georges,67.5,70.0,75.0,78.0,76.0,80.0,-84.0,78.0,80.0,158.0
-PACA - 3ème Challenge Avenir - Noves - U15 à U20 Masculins,2025-03-16,SEN Men 73,MARGUIER Bastien,73.0,60.0,65.0,68.0,90.0,-95.0,95.0,68.0,95.0,163.0
-PACA - 3ème Challenge Avenir - Noves - U15 à U20 Masculins,2025-03-16,SEN Men 73,GUERIN Claude,73.0,56.0,60.0,62.0,76.0,80.0,-85.0,62.0,80.0,142.0
-PACA - 3ème Challenge Avenir - Noves - U15 à U20 Masculins,2025-03-16,SEN Men 81,BOLUDA Thomas,79.15,80.0,85.0,-88.0,102.0,106.0,-110.0,85.0,106.0,191.0
-PACA - 3ème Challenge Avenir - Noves - U15 à U20 Masculins,2025-03-16,SEN Men 81,FAVRO BERTRANDO Ludovic,80.4,82.0,-87.0,87.0,92.0,96.0,100.0,87.0,100.0,187.0
-PACA - 3ème Challenge Avenir - Noves - U15 à U20 Masculins,2025-03-16,SEN Men 81,ESPINOLA Manuel,78.6,60.0,63.0,65.0,80.0,82.0,84.0,65.0,84.0,149.0
-PACA - 3ème Challenge Avenir - Noves - U15 à U20 Masculins,2025-03-16,SEN Men 81,HADDADI Camil,77.05,52.0,-55.0,55.0,65.0,70.0,75.0,55.0,75.0,130.0
-PACA - 3ème Challenge Avenir - Noves - U15 à U20 Masculins,2025-03-16,SEN Men 89,BONICI MORENO Sebastien,87.35,67.0,72.0,-75.0,77.0,82.0,-85.0,72.0,82.0,154.0
-PACA - 3ème Challenge Avenir - Noves - U15 à U20 Masculins,2025-03-16,SEN Men 102,RAMUS Jerome,100.75,75.0,80.0,83.0,105.0,110.0,112.0,83.0,112.0,195.0
-PACA - 3ème Challenge Avenir - Noves - U15 à U20 Masculins,2025-03-16,SEN Men 102,BOLUDA Maxime,102.0,50.0,55.0,58.0,75.0,80.0,-85.0,58.0,80.0,138.0
+HDF - Challenge Avenir 2 (Rosendael),2021-12-11,U10 Men ,ARAB Nahil,23.0,6.0,8.0,10.0,10.0,12.0,14.0,10.0,14.0,24.0
+HDF - Challenge Avenir 2 (Rosendael),2021-12-11,U13 Men 35,DELAROQUE Alexandre,31.0,14.0,16.0,-17.0,18.0,20.0,22.0,16.0,22.0,38.0
+HDF - Challenge Avenir 2 (Rosendael),2021-12-11,U13 Men 35,HOUSET Matys,33.4,10.0,12.0,-14.0,13.0,15.0,-17.0,12.0,15.0,27.0
+HDF - Challenge Avenir 2 (Rosendael),2021-12-11,U13 Men 40,DUVET Evan,35.7,-16.0,16.0,17.0,18.0,20.0,22.0,17.0,22.0,39.0
+HDF - Challenge Avenir 2 (Rosendael),2021-12-11,U13 Men 45,MONIER Thibaut,42.5,25.0,27.0,29.0,35.0,37.0,39.0,29.0,39.0,68.0
+HDF - Challenge Avenir 2 (Rosendael),2021-12-11,U13 Men 45,MACRELLE Jessy,41.4,12.0,-13.0,13.0,15.0,16.0,17.0,13.0,17.0,30.0
+HDF - Challenge Avenir 2 (Rosendael),2021-12-11,U13 Men 49,ALLAYS RAMACKERS Enguerrand,46.7,22.0,24.0,-26.0,26.0,28.0,30.0,24.0,30.0,54.0
+HDF - Challenge Avenir 2 (Rosendael),2021-12-11,U13 Men 55,CUVELIER Nolan,50.2,12.0,14.0,16.0,23.0,-25.0,25.0,16.0,25.0,41.0
+HDF - Challenge Avenir 2 (Rosendael),2021-12-11,U13 Men 55,SMEECKAERT Antoine,53.7,14.0,16.0,17.0,18.0,20.0,22.0,17.0,22.0,39.0
+HDF - Challenge Avenir 2 (Rosendael),2021-12-11,U13 Men 61,GRARD BEAUDET Yves,59.0,14.0,16.0,-17.0,20.0,22.0,-23.0,16.0,22.0,38.0
+HDF - Challenge Avenir 2 (Rosendael),2021-12-11,U13 Men 67,WAHL Timeo,61.7,22.0,24.0,-26.0,30.0,32.0,34.0,24.0,34.0,58.0

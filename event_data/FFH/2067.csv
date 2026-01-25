@@ -1,14 +1,16 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-PDL - autre - Angers - 3ème J Chpt Rég mixte  Sgt Angers,2025-01-18,SEN Men 73,PASCAL Eric,67.44,58.0,60.0,62.0,75.0,79.0,82.0,62.0,82.0,144.0
-PDL - autre - Angers - 3ème J Chpt Rég mixte  Sgt Angers,2025-01-18,SEN Men 89,FORT Alexis,83.77,85.0,-88.0,-90.0,-115.0,115.0,-0.0,85.0,115.0,200.0
-PDL - autre - Angers - 3ème J Chpt Rég mixte  Sgt Angers,2025-01-18,SEN Men 89,PITON Brice,88.23,77.0,80.0,85.0,105.0,108.0,111.0,85.0,111.0,196.0
-PDL - autre - Angers - 3ème J Chpt Rég mixte  Sgt Angers,2025-01-18,SEN Men 89,L HERMIER Joel,88.4,63.0,66.0,69.0,80.0,83.0,86.0,69.0,86.0,155.0
-PDL - autre - Angers - 3ème J Chpt Rég mixte  Sgt Angers,2025-01-18,SEN Men 89,BUHL Florian,85.12,48.0,51.0,-54.0,65.0,70.0,-74.0,51.0,70.0,121.0
-PDL - autre - Angers - 3ème J Chpt Rég mixte  Sgt Angers,2025-01-18,SEN Men 89,DETRAIN Emmanuel,87.67,-53.0,53.0,55.0,60.0,63.0,65.0,55.0,65.0,120.0
-PDL - autre - Angers - 3ème J Chpt Rég mixte  Sgt Angers,2025-01-18,SEN Men 96,MELISSE Jules,91.34,95.0,98.0,-101.0,-115.0,115.0,120.0,98.0,120.0,218.0
-PDL - autre - Angers - 3ème J Chpt Rég mixte  Sgt Angers,2025-01-18,SEN Men 96,DORIDOT Fabrice,90.33,65.0,67.0,-69.0,84.0,87.0,90.0,67.0,90.0,157.0
-PDL - autre - Angers - 3ème J Chpt Rég mixte  Sgt Angers,2025-01-18,SEN Men 102,DUMONT Fabien,102.0,103.0,108.0,113.0,132.0,-137.0,-140.0,113.0,132.0,245.0
-PDL - autre - Angers - 3ème J Chpt Rég mixte  Sgt Angers,2025-01-18,SEN Men 102,JAMOIS Florian,98.5,-86.0,86.0,-89.0,100.0,105.0,-110.0,86.0,105.0,191.0
-PDL - autre - Angers - 3ème J Chpt Rég mixte  Sgt Angers,2025-01-18,SEN Women 49,ROUSSEL Mylène,46.78,38.0,-40.0,-40.0,48.0,-52.0,-55.0,38.0,48.0,86.0
-PDL - autre - Angers - 3ème J Chpt Rég mixte  Sgt Angers,2025-01-18,SEN Women 71,MUNIER Katline,64.94,55.0,60.0,-62.0,-74.0,74.0,78.0,60.0,78.0,138.0
-PDL - autre - Angers - 3ème J Chpt Rég mixte  Sgt Angers,2025-01-18,SEN Women 71,CADYCK Alexandra,64.46,47.0,-50.0,51.0,-58.0,-58.0,-60.0,51.0,0.0,0.0
+CVL - 2e Challenge Avenir (Chateauroux),2021-12-19,U20 Men 73,SOUTENAIN Thomas,70.4,60.0,65.0,68.0,85.0,92.0,-95.0,68.0,92.0,160.0
+CVL - 2e Challenge Avenir (Chateauroux),2021-12-19,SEN Men 73,CHAVIGNY Germain,71.5,67.0,70.0,-72.0,73.0,-77.0,81.0,70.0,81.0,151.0
+CVL - 2e Challenge Avenir (Chateauroux),2021-12-19,SEN Men 73,HUET Michaël,71.6,50.0,53.0,55.0,65.0,70.0,-73.0,55.0,70.0,125.0
+CVL - 2e Challenge Avenir (Chateauroux),2021-12-19,SEN Men 73,MICHEL Anthony,67.8,43.0,46.0,49.0,60.0,65.0,68.0,49.0,68.0,117.0
+CVL - 2e Challenge Avenir (Chateauroux),2021-12-19,SEN Men 81,GAY Kevin,80.4,90.0,100.0,106.0,-120.0,-120.0,120.0,106.0,120.0,226.0
+CVL - 2e Challenge Avenir (Chateauroux),2021-12-19,SEN Men 81,ROUGE Cedrick,73.5,55.0,58.0,62.0,78.0,81.0,83.0,62.0,83.0,145.0
+CVL - 2e Challenge Avenir (Chateauroux),2021-12-19,SEN Men 89,DELASSE Sylvio,81.7,-85.0,90.0,93.0,105.0,110.0,115.0,93.0,115.0,208.0
+CVL - 2e Challenge Avenir (Chateauroux),2021-12-19,SEN Men 89,DUFOUR Hugo,88.1,75.0,-80.0,-80.0,93.0,-97.0,100.0,75.0,100.0,175.0
+CVL - 2e Challenge Avenir (Chateauroux),2021-12-19,SEN Men 89,DJALAB Brahim,82.7,60.0,65.0,68.0,85.0,90.0,92.0,68.0,92.0,160.0
+CVL - 2e Challenge Avenir (Chateauroux),2021-12-19,SEN Men 89,LERAY Paul,87.2,-53.0,53.0,-55.0,70.0,-75.0,75.0,53.0,75.0,128.0
+CVL - 2e Challenge Avenir (Chateauroux),2021-12-19,SEN Men 89,MICHAUD Maxime,84.5,43.0,46.0,49.0,60.0,65.0,-68.0,49.0,65.0,114.0
+CVL - 2e Challenge Avenir (Chateauroux),2021-12-19,SEN Men 89,SORGNIARD Christopher,89.0,35.0,37.0,39.0,53.0,57.0,-60.0,39.0,57.0,96.0
+CVL - 2e Challenge Avenir (Chateauroux),2021-12-19,SEN Men 96,ROHEE Etienne,92.3,95.0,100.0,-105.0,120.0,126.0,-130.0,100.0,126.0,226.0
+CVL - 2e Challenge Avenir (Chateauroux),2021-12-19,SEN Men 96,JUGIAU Benjamin,94.4,90.0,94.0,98.0,108.0,113.0,118.0,98.0,118.0,216.0
+CVL - 2e Challenge Avenir (Chateauroux),2021-12-19,SEN Men 96,ERARD Nicolas,90.3,60.0,-63.0,64.0,70.0,75.0,-80.0,64.0,75.0,139.0

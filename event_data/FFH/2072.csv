@@ -1,11 +1,7 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-AURA - Challenge Avenir - Saint marcellin - U10 - U13,2025-01-12,U10 Men ,GALINDO Malo,29.6,9.0,11.0,-12.0,13.0,15.0,-17.0,11.0,15.0,26.0
-AURA - Challenge Avenir - Saint marcellin - U10 - U13,2025-01-12,U10 Men ,GAHAM Eden,20.9,4.0,5.0,6.0,-7.0,7.0,9.0,6.0,9.0,15.0
-AURA - Challenge Avenir - Saint marcellin - U10 - U13,2025-01-12,U10 Men ,MENONI Eden,25.55,13.0,15.0,-16.0,17.0,-19.0,-19.0,15.0,17.0,32.0
-AURA - Challenge Avenir - Saint marcellin - U10 - U13,2025-01-12,U13 Men 45,GAHAM Lenny,40.05,13.0,15.0,17.0,21.0,23.0,25.0,17.0,25.0,42.0
-AURA - Challenge Avenir - Saint marcellin - U10 - U13,2025-01-12,U13 Men 49,BODA Ilyes,47.8,30.0,32.0,-34.0,40.0,42.0,44.0,32.0,44.0,76.0
-AURA - Challenge Avenir - Saint marcellin - U10 - U13,2025-01-12,U13 Men 61,BLANC Anton,56.8,12.0,14.0,16.0,17.0,19.0,21.0,16.0,21.0,37.0
-AURA - Challenge Avenir - Saint marcellin - U10 - U13,2025-01-12,U13 Women 35,SIMIAN-MERMIER Judy,30.6,10.0,12.0,13.0,16.0,18.0,20.0,13.0,20.0,33.0
-AURA - Challenge Avenir - Saint marcellin - U10 - U13,2025-01-12,U13 Women 40,LOPEZ Maymouna,38.8,13.0,15.0,17.0,16.0,18.0,20.0,17.0,20.0,37.0
-AURA - Challenge Avenir - Saint marcellin - U10 - U13,2025-01-12,U13 Women 49,JAUNE Anna,46.2,26.0,28.0,30.0,36.0,38.0,-40.0,30.0,38.0,68.0
-AURA - Challenge Avenir - Saint marcellin - U10 - U13,2025-01-12,U13 Women 55,DECARPIGNY Louise,50.0,21.0,-23.0,-23.0,28.0,30.0,32.0,21.0,32.0,53.0
+PACA - Critérium National - (Istres),2021-12-18,U17 Men 55,BAILLIEUX Cyril,50.8,58.0,61.0,63.0,74.0,78.0,82.0,63.0,82.0,145.0
+PACA - Critérium National - (Istres),2021-12-18,U20 Men 73,DE BARROS Fabio,71.4,95.0,100.0,105.0,115.0,120.0,-125.0,105.0,120.0,225.0
+PACA - Critérium National - (Istres),2021-12-18,U20 Men 81,MARIN Clément,78.4,100.0,105.0,-110.0,115.0,-123.0,-123.0,105.0,115.0,220.0
+PACA - Critérium National - (Istres),2021-12-18,SEN Men 67,CLAUX Anthony,66.2,107.0,110.0,-113.0,125.0,-130.0,-130.0,110.0,125.0,235.0
+PACA - Critérium National - (Istres),2021-12-18,SEN Men 81,LAUGIER Jonathan,80.8,-100.0,100.0,-110.0,120.0,125.0,-133.0,100.0,125.0,225.0
+PACA - Critérium National - (Istres),2021-12-18,SEN Men 109,HUGUENIN Matthieu,103.8,112.0,117.0,122.0,135.0,140.0,-145.0,122.0,140.0,262.0

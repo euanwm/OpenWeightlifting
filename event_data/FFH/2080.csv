@@ -1,16 +1,5 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-AURA - autre - Lempdes - 2e Tour Équipe honneur - L'arbresle3 - L'arbresle2 - Summum Crossfit,2025-01-11,SEN Men 67,LELIE Cédric,64.6,60.0,65.0,-70.0,80.0,85.0,90.0,65.0,90.0,155.0
-AURA - autre - Lempdes - 2e Tour Équipe honneur - L'arbresle3 - L'arbresle2 - Summum Crossfit,2025-01-11,SEN Men 73,PARIZET Rémi,72.0,80.0,85.0,-90.0,100.0,-106.0,-110.0,85.0,100.0,185.0
-AURA - autre - Lempdes - 2e Tour Équipe honneur - L'arbresle3 - L'arbresle2 - Summum Crossfit,2025-01-11,SEN Men 73,FAURE Richard,72.4,70.0,75.0,-80.0,86.0,91.0,96.0,75.0,96.0,171.0
-AURA - autre - Lempdes - 2e Tour Équipe honneur - L'arbresle3 - L'arbresle2 - Summum Crossfit,2025-01-11,SEN Men 81,DELARBRE Loic,74.6,70.0,75.0,80.0,85.0,90.0,-96.0,80.0,90.0,170.0
-AURA - autre - Lempdes - 2e Tour Équipe honneur - L'arbresle3 - L'arbresle2 - Summum Crossfit,2025-01-11,SEN Men 81,CAVAILLES Arnaud,76.65,68.0,70.0,-73.0,-85.0,85.0,-88.0,70.0,85.0,155.0
-AURA - autre - Lempdes - 2e Tour Équipe honneur - L'arbresle3 - L'arbresle2 - Summum Crossfit,2025-01-11,SEN Men 81,CROS Alexandre,79.6,64.0,68.0,72.0,75.0,-80.0,80.0,72.0,80.0,152.0
-AURA - autre - Lempdes - 2e Tour Équipe honneur - L'arbresle3 - L'arbresle2 - Summum Crossfit,2025-01-11,SEN Men 81,PATRIGEON Valentin,80.2,65.0,69.0,-72.0,78.0,82.0,-86.0,69.0,82.0,151.0
-AURA - autre - Lempdes - 2e Tour Équipe honneur - L'arbresle3 - L'arbresle2 - Summum Crossfit,2025-01-11,SEN Men 89,GUEDJ Nathan,85.2,85.0,-88.0,88.0,105.0,110.0,-113.0,88.0,110.0,198.0
-AURA - autre - Lempdes - 2e Tour Équipe honneur - L'arbresle3 - L'arbresle2 - Summum Crossfit,2025-01-11,SEN Men 109,ZINS Axel,103.8,75.0,85.0,95.0,100.0,110.0,120.0,95.0,120.0,215.0
-AURA - autre - Lempdes - 2e Tour Équipe honneur - L'arbresle3 - L'arbresle2 - Summum Crossfit,2025-01-11,SEN Men >109,RAMOS Guillaume,115.55,72.0,80.0,85.0,100.0,107.0,114.0,85.0,114.0,199.0
-AURA - autre - Lempdes - 2e Tour Équipe honneur - L'arbresle3 - L'arbresle2 - Summum Crossfit,2025-01-11,SEN Men >109,ANGELINI Nicolas,124.2,75.0,-80.0,81.0,105.0,110.0,115.0,81.0,115.0,196.0
-AURA - autre - Lempdes - 2e Tour Équipe honneur - L'arbresle3 - L'arbresle2 - Summum Crossfit,2025-01-11,SEN Women 64,DA SILVA Maeva,59.6,37.0,-40.0,-40.0,45.0,48.0,51.0,37.0,51.0,88.0
-AURA - autre - Lempdes - 2e Tour Équipe honneur - L'arbresle3 - L'arbresle2 - Summum Crossfit,2025-01-11,SEN Women 71,MORIN Estelle,66.8,50.0,54.0,-56.0,63.0,67.0,-70.0,54.0,67.0,121.0
-AURA - autre - Lempdes - 2e Tour Équipe honneur - L'arbresle3 - L'arbresle2 - Summum Crossfit,2025-01-11,SEN Women 71,HUGUET Elisa,65.1,47.0,-50.0,-51.0,60.0,-63.0,-65.0,47.0,60.0,107.0
-AURA - autre - Lempdes - 2e Tour Équipe honneur - L'arbresle3 - L'arbresle2 - Summum Crossfit,2025-01-11,SEN Women >87,HAINON Marina,89.0,38.0,-42.0,-42.0,45.0,48.0,50.0,38.0,50.0,88.0
+BRE - Critérium National (Plouhinec),2021-12-18,U20 Men 73,LEDURE David,71.9,78.0,82.0,-90.0,-95.0,95.0,-110.0,82.0,95.0,177.0
+BRE - Critérium National (Plouhinec),2021-12-18,SEN Men 81,JACQUART Vincent,78.6,92.0,-96.0,-98.0,118.0,124.0,-128.0,92.0,124.0,216.0
+BRE - Critérium National (Plouhinec),2021-12-18,SEN Men 96,TRAVERSE Alexander,92.0,100.0,106.0,-111.0,115.0,-120.0,120.0,106.0,120.0,226.0
+BRE - Critérium National (Plouhinec),2021-12-18,SEN Men >109,LEMO Tamiano,111.4,125.0,135.0,-145.0,160.0,176.0,-180.0,135.0,176.0,311.0

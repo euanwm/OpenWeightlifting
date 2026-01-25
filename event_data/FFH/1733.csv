@@ -1,15 +1,10 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-"PACA - Challenge Avenir 2 - Menton - CHALLENGE AVENIR 4, Grand prix de Menton, compétition en extérieur",2024-06-09,SEN Men 67,BOCHEW Jérôme,67.0,-67.0,-67.0,67.0,78.0,-82.0,82.0,67.0,82.0,149.0
-"PACA - Challenge Avenir 2 - Menton - CHALLENGE AVENIR 4, Grand prix de Menton, compétition en extérieur",2024-06-09,SEN Men 73,CLAUX Anthony,70.0,83.0,-88.0,88.0,100.0,105.0,110.0,88.0,110.0,198.0
-"PACA - Challenge Avenir 2 - Menton - CHALLENGE AVENIR 4, Grand prix de Menton, compétition en extérieur",2024-06-09,SEN Men 81,DETOEUF François,78.0,85.0,90.0,95.0,110.0,115.0,120.0,95.0,120.0,215.0
-"PACA - Challenge Avenir 2 - Menton - CHALLENGE AVENIR 4, Grand prix de Menton, compétition en extérieur",2024-06-09,SEN Men 81,BATTAGLIA Nicolas,73.8,-85.0,85.0,88.0,110.0,115.0,120.0,88.0,120.0,208.0
-"PACA - Challenge Avenir 2 - Menton - CHALLENGE AVENIR 4, Grand prix de Menton, compétition en extérieur",2024-06-09,SEN Men 81,CAMPS Sebastien,80.7,-90.0,-95.0,-95.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
-"PACA - Challenge Avenir 2 - Menton - CHALLENGE AVENIR 4, Grand prix de Menton, compétition en extérieur",2024-06-09,SEN Men 81,RODOLFO Kevin,81.0,-90.0,-0.0,-0.0,-0.0,-0.0,-0.0,0.0,0.0,0.0
-"PACA - Challenge Avenir 2 - Menton - CHALLENGE AVENIR 4, Grand prix de Menton, compétition en extérieur",2024-06-09,SEN Men 89,DUFOSSE Romain,83.2,66.0,-70.0,73.0,90.0,-95.0,-95.0,73.0,90.0,163.0
-"PACA - Challenge Avenir 2 - Menton - CHALLENGE AVENIR 4, Grand prix de Menton, compétition en extérieur",2024-06-09,SEN Men 89,FELKAR Maxime,83.9,-65.0,65.0,-70.0,80.0,85.0,-90.0,65.0,85.0,150.0
-"PACA - Challenge Avenir 2 - Menton - CHALLENGE AVENIR 4, Grand prix de Menton, compétition en extérieur",2024-06-09,SEN Men 89,LANDRAIN Nicolas,89.0,-65.0,65.0,-70.0,80.0,-85.0,85.0,65.0,85.0,150.0
-"PACA - Challenge Avenir 2 - Menton - CHALLENGE AVENIR 4, Grand prix de Menton, compétition en extérieur",2024-06-09,SEN Men 96,TERRIER Sebatien,90.3,90.0,100.0,-105.0,115.0,120.0,-125.0,100.0,120.0,220.0
-"PACA - Challenge Avenir 2 - Menton - CHALLENGE AVENIR 4, Grand prix de Menton, compétition en extérieur",2024-06-09,SEN Men 96,SINAMA VALLIAMEE Laurent,91.0,70.0,-75.0,75.0,95.0,102.0,-105.0,75.0,102.0,177.0
-"PACA - Challenge Avenir 2 - Menton - CHALLENGE AVENIR 4, Grand prix de Menton, compétition en extérieur",2024-06-09,SEN Men 102,NONNIS Dario,100.4,-86.0,-86.0,86.0,110.0,-115.0,-115.0,86.0,110.0,196.0
-"PACA - Challenge Avenir 2 - Menton - CHALLENGE AVENIR 4, Grand prix de Menton, compétition en extérieur",2024-06-09,SEN Men 102,NONNIS Kilian,99.7,70.0,75.0,78.0,93.0,100.0,-102.0,78.0,100.0,178.0
-"PACA - Challenge Avenir 2 - Menton - CHALLENGE AVENIR 4, Grand prix de Menton, compétition en extérieur",2024-06-09,SEN Men 109,DESRUMEAUX Nicolas,104.7,-70.0,-70.0,70.0,90.0,93.0,-0.0,70.0,93.0,163.0
+HDF - 1er Challenge Avenir Dép02 Femmes,2021-11-13,U15 Women 40,BIZEAU Alexine,39.49,16.0,19.0,21.0,20.0,23.0,26.0,21.0,26.0,47.0
+HDF - 1er Challenge Avenir Dép02 Femmes,2021-11-13,U15 Women 49,ROUSSEAU Nathanaelle,48.3,22.0,24.0,26.0,33.0,36.0,-38.0,26.0,36.0,62.0
+HDF - 1er Challenge Avenir Dép02 Femmes,2021-11-13,U15 Women 64,ALONSO Maelys,62.0,-35.0,36.0,40.0,42.0,46.0,50.0,40.0,50.0,90.0
+HDF - 1er Challenge Avenir Dép02 Femmes,2021-11-13,U17 Women 55,HOET Mathilde,53.6,30.0,33.0,-35.0,39.0,42.0,-44.0,33.0,42.0,75.0
+HDF - 1er Challenge Avenir Dép02 Femmes,2021-11-13,U17 Women >81,BIZEAU Romarine,84.98,23.0,26.0,29.0,30.0,35.0,38.0,29.0,38.0,67.0
+HDF - 1er Challenge Avenir Dép02 Femmes,2021-11-13,U20 Women 59,POSTEL Clara,55.7,28.0,31.0,33.0,47.0,-51.0,-51.0,33.0,47.0,80.0
+HDF - 1er Challenge Avenir Dép02 Femmes,2021-11-13,U20 Women 64,RAVENAUX Lauriane,61.73,23.0,26.0,-29.0,30.0,-33.0,33.0,26.0,33.0,59.0
+HDF - 1er Challenge Avenir Dép02 Femmes,2021-11-13,SEN Women 64,PATAILLE Mathilde,63.3,40.0,45.0,-50.0,60.0,65.0,70.0,45.0,70.0,115.0
+HDF - 1er Challenge Avenir Dép02 Femmes,2021-11-13,SEN Women 64,MARAGE Lucine,63.9,30.0,33.0,36.0,43.0,46.0,49.0,36.0,49.0,85.0

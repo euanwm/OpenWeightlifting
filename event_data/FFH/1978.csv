@@ -1,187 +1,26 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U17 Women 55,KOESSLER Noéline,54.5,30.0,33.0,35.0,34.0,36.0,-39.0,35.0,36.0,71.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U17 Women 59,SGIR Malak,58.8,25.0,-28.0,28.0,34.0,36.0,39.0,28.0,39.0,67.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U17 Women 71,VERCOUTTER Lounya,70.9,23.0,26.0,28.0,34.0,37.0,-40.0,28.0,37.0,65.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U20 Women 55,PETREMANN Lili,51.98,36.0,-39.0,39.0,43.0,46.0,49.0,39.0,49.0,88.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U20 Women 55,STEINER REHEISSER Charline,54.24,34.0,37.0,40.0,38.0,42.0,45.0,40.0,45.0,85.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U20 Women 55,THIRIET Cecile,51.3,28.0,30.0,32.0,36.0,39.0,41.0,32.0,41.0,73.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U20 Women 59,BEAUBOIS Pauline,56.78,-30.0,30.0,33.0,40.0,42.0,44.0,33.0,44.0,77.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U20 Women 64,GOERKE Amélie,64.0,37.0,40.0,42.0,50.0,53.0,56.0,42.0,56.0,98.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U15 Men 49,JUNG Eugène,47.1,32.0,35.0,-37.0,43.0,46.0,-50.0,35.0,46.0,81.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U15 Men 61,SARGSYAN Roberto,57.2,48.0,-50.0,50.0,62.0,65.0,-67.0,50.0,65.0,115.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U15 Men 61,SOUMANN Nathan,56.3,14.0,17.0,20.0,14.0,17.0,20.0,20.0,20.0,40.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U17 Men 61,CARMANS Victor,57.8,30.0,33.0,-35.0,35.0,40.0,45.0,33.0,45.0,78.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U20 Men 67,SIMON Justin,65.7,52.0,56.0,-60.0,76.0,80.0,84.0,56.0,84.0,140.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U20 Men 73,SCHOHN Yanis,67.5,63.0,66.0,70.0,80.0,-85.0,-85.0,70.0,80.0,150.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U20 Men 81,PRIMOT Paul,76.7,44.0,48.0,52.0,47.0,50.0,58.0,52.0,58.0,110.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U20 Men 89,RUOCCO Thomas,81.3,75.0,79.0,83.0,106.0,110.0,113.0,83.0,113.0,196.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U20 Men 89,SPAGNULO Tommaso,85.9,63.0,66.0,69.0,92.0,95.0,97.0,69.0,97.0,166.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U20 Men 89,WERNBERG Tristan,84.6,60.0,64.0,68.0,85.0,90.0,-95.0,68.0,90.0,158.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U15 Men 49,JUNG Eugène,47.1,32.0,35.0,-37.0,43.0,46.0,-50.0,35.0,46.0,81.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U15 Men 61,SARGSYAN Roberto,57.2,48.0,-50.0,50.0,62.0,65.0,-67.0,50.0,65.0,115.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U15 Men 61,SOUMANN Nathan,56.3,14.0,17.0,20.0,14.0,17.0,20.0,20.0,20.0,40.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U17 Men 61,CARMANS Victor,57.8,30.0,33.0,-35.0,35.0,40.0,45.0,33.0,45.0,78.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U20 Men 67,SIMON Justin,65.7,52.0,56.0,-60.0,76.0,80.0,84.0,56.0,84.0,140.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U20 Men 73,SCHOHN Yanis,67.5,63.0,66.0,70.0,80.0,-85.0,-85.0,70.0,80.0,150.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U20 Men 81,PRIMOT Paul,76.7,44.0,48.0,52.0,47.0,50.0,58.0,52.0,58.0,110.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U20 Men 89,RUOCCO Thomas,81.3,75.0,79.0,83.0,106.0,110.0,113.0,83.0,113.0,196.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U20 Men 89,SPAGNULO Tommaso,85.9,63.0,66.0,69.0,92.0,95.0,97.0,69.0,97.0,166.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U20 Men 89,WERNBERG Tristan,84.6,60.0,64.0,68.0,85.0,90.0,-95.0,68.0,90.0,158.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U17 Women 59,SEGAUX Oriane,55.6,35.0,40.0,45.0,45.0,50.0,55.0,45.0,55.0,100.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U20 Women 59,BIANCHI Clara,57.2,51.0,55.0,59.0,68.0,71.0,-74.0,59.0,71.0,130.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Women 49,VOISIN Inès,48.0,27.0,29.0,-31.0,32.0,35.0,38.0,29.0,38.0,67.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Women 64,CORLOBE Melanie,63.1,48.0,-51.0,-51.0,62.0,-65.0,-66.0,48.0,62.0,110.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Women 64,ROTH Louna,59.7,40.0,-42.0,-42.0,43.0,45.0,48.0,40.0,48.0,88.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Women 64,SCHRENCK Maryline,63.1,39.0,-41.0,-41.0,42.0,-45.0,-47.0,39.0,42.0,81.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Women 71,MARANGOS Catarina,64.6,27.0,29.0,32.0,40.0,-45.0,-47.0,32.0,40.0,72.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U17 Women 59,SEGAUX Oriane,55.6,35.0,40.0,45.0,45.0,50.0,55.0,45.0,55.0,100.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U20 Women 59,BIANCHI Clara,57.2,51.0,55.0,59.0,68.0,71.0,-74.0,59.0,71.0,130.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Women 49,VOISIN Inès,48.0,27.0,29.0,-31.0,32.0,35.0,38.0,29.0,38.0,67.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Women 64,CORLOBE Melanie,63.1,48.0,-51.0,-51.0,62.0,-65.0,-66.0,48.0,62.0,110.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Women 64,ROTH Louna,59.7,40.0,-42.0,-42.0,43.0,45.0,48.0,40.0,48.0,88.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Women 64,SCHRENCK Maryline,63.1,39.0,-41.0,-41.0,42.0,-45.0,-47.0,39.0,42.0,81.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Women 71,MARANGOS Catarina,64.6,27.0,29.0,32.0,40.0,-45.0,-47.0,32.0,40.0,72.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U17 Men 73,GEIGER Aymeric,71.9,91.0,95.0,-100.0,123.0,-127.0,127.0,95.0,127.0,222.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men 81,NOE Romain,81.0,85.0,90.0,95.0,115.0,120.0,-125.0,95.0,120.0,215.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men 81,DREHER Yann,79.72,75.0,80.0,85.0,100.0,105.0,110.0,85.0,110.0,195.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men 81,WOESSNER Cyprien,78.66,50.0,-54.0,-54.0,68.0,71.0,75.0,50.0,75.0,125.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men 89,MULLER Maxime,81.32,45.0,50.0,55.0,70.0,78.0,90.0,55.0,90.0,145.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men 96,DUBOIS Mathieu,91.72,60.0,64.0,-70.0,70.0,75.0,82.0,64.0,82.0,146.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men 96,VERGNAUD Jarod,93.86,53.0,56.0,-59.0,70.0,75.0,79.0,56.0,79.0,135.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U17 Men 73,GEIGER Aymeric,71.9,91.0,95.0,-100.0,123.0,-127.0,127.0,95.0,127.0,222.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men 81,NOE Romain,81.0,85.0,90.0,95.0,115.0,120.0,-125.0,95.0,120.0,215.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men 81,DREHER Yann,79.72,75.0,80.0,85.0,100.0,105.0,110.0,85.0,110.0,195.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men 81,WOESSNER Cyprien,78.66,50.0,-54.0,-54.0,68.0,71.0,75.0,50.0,75.0,125.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men 89,MULLER Maxime,81.32,45.0,50.0,55.0,70.0,78.0,90.0,55.0,90.0,145.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men 96,DUBOIS Mathieu,91.72,60.0,64.0,-70.0,70.0,75.0,82.0,64.0,82.0,146.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men 96,VERGNAUD Jarod,93.86,53.0,56.0,-59.0,70.0,75.0,79.0,56.0,79.0,135.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U10 Men ,BRUNNERT Loris,29.26,7.0,9.0,11.0,8.0,10.0,12.0,11.0,12.0,23.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Men 40,DISBEAUX Gaspard,36.9,11.0,13.0,14.0,14.0,16.0,18.0,14.0,18.0,32.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Men 45,THOMAS Briac,42.2,34.0,36.0,38.0,44.0,-46.0,46.0,38.0,46.0,84.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Men 55,SGIR Soufiane,52.34,18.0,20.0,22.0,20.0,22.0,24.0,22.0,24.0,46.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Women 40,GUTHMULLER Charline,35.88,16.0,18.0,20.0,22.0,24.0,26.0,20.0,26.0,46.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U10 Men ,BRUNNERT Loris,29.26,7.0,9.0,11.0,8.0,10.0,12.0,11.0,12.0,23.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Men 40,DISBEAUX Gaspard,36.9,11.0,13.0,14.0,14.0,16.0,18.0,14.0,18.0,32.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Men 45,THOMAS Briac,42.2,34.0,36.0,38.0,44.0,-46.0,46.0,38.0,46.0,84.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Men 55,SGIR Soufiane,52.34,18.0,20.0,22.0,20.0,22.0,24.0,22.0,24.0,46.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Women 40,GUTHMULLER Charline,35.88,16.0,18.0,20.0,22.0,24.0,26.0,20.0,26.0,46.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U10 Men ,MENONI Eden,26.35,18.0,20.0,21.0,21.0,22.0,-24.0,21.0,22.0,43.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U10 Men ,GAHAM Eden,20.95,10.0,12.0,13.0,12.0,14.0,15.0,13.0,15.0,28.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U10 Men ,GALINDO Malo,30.5,12.0,13.0,-14.0,15.0,17.0,19.0,13.0,19.0,32.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U10 Men ,TARANTO Benoit,28.55,7.0,9.0,10.0,11.0,-12.0,12.0,10.0,12.0,22.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Men 45,GAHAM Lenny,41.2,19.0,21.0,22.0,28.0,-30.0,30.0,22.0,30.0,52.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Men 55,FILZ-FOURNIER Valentin,54.85,11.0,12.0,13.0,20.0,-22.0,22.0,13.0,22.0,35.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U10 Women ,JAUNE Apolline,43.5,18.0,19.0,-21.0,27.0,29.0,30.0,19.0,30.0,49.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Women 49,JAUNE Anna,48.5,32.0,34.0,36.0,38.0,40.0,42.0,36.0,42.0,78.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Women 55,PARISI Amelia,52.8,-13.0,13.0,14.0,19.0,21.0,-22.0,14.0,21.0,35.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Women 71,FILZ-FOURNIER Julia,64.8,14.0,15.0,17.0,20.0,-22.0,22.0,17.0,22.0,39.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U10 Men ,MENONI Eden,26.35,18.0,20.0,21.0,21.0,22.0,-24.0,21.0,22.0,43.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U10 Men ,GAHAM Eden,20.95,10.0,12.0,13.0,12.0,14.0,15.0,13.0,15.0,28.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U10 Men ,GALINDO Malo,30.5,12.0,13.0,-14.0,15.0,17.0,19.0,13.0,19.0,32.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U10 Men ,TARANTO Benoit,28.55,7.0,9.0,10.0,11.0,-12.0,12.0,10.0,12.0,22.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Men 45,GAHAM Lenny,41.2,19.0,21.0,22.0,28.0,-30.0,30.0,22.0,30.0,52.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Men 55,FILZ-FOURNIER Valentin,54.85,11.0,12.0,13.0,20.0,-22.0,22.0,13.0,22.0,35.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U10 Women ,JAUNE Apolline,43.5,18.0,19.0,-21.0,27.0,29.0,30.0,19.0,30.0,49.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Women 49,JAUNE Anna,48.5,32.0,34.0,36.0,38.0,40.0,42.0,36.0,42.0,78.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Women 55,PARISI Amelia,52.8,-13.0,13.0,14.0,19.0,21.0,-22.0,14.0,21.0,35.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Women 71,FILZ-FOURNIER Julia,64.8,14.0,15.0,17.0,20.0,-22.0,22.0,17.0,22.0,39.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Women 71,BELIA Margherita,64.6,38.0,40.0,45.0,60.0,63.0,65.0,45.0,65.0,110.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Women 71,BELIA Margherita,64.6,38.0,40.0,45.0,60.0,63.0,65.0,45.0,65.0,110.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men 73,TRUMET Jonathan,70.5,75.0,80.0,-85.0,95.0,-100.0,102.0,80.0,102.0,182.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men 81,CARRE Emmanuel,76.1,-62.0,62.0,67.0,75.0,80.0,-83.0,67.0,80.0,147.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men 81,MONTORIER Philippe,78.6,55.0,60.0,-63.0,70.0,75.0,-78.0,60.0,75.0,135.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men 109,NICOLLET Pierre,106.8,86.0,90.0,-93.0,-112.0,-114.0,-114.0,90.0,0.0,0.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men 73,TRUMET Jonathan,70.5,75.0,80.0,-85.0,95.0,-100.0,102.0,80.0,102.0,182.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men 81,CARRE Emmanuel,76.1,-62.0,62.0,67.0,75.0,80.0,-83.0,67.0,80.0,147.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men 81,MONTORIER Philippe,78.6,55.0,60.0,-63.0,70.0,75.0,-78.0,60.0,75.0,135.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men 109,NICOLLET Pierre,106.8,86.0,90.0,-93.0,-112.0,-114.0,-114.0,90.0,0.0,0.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Women 35,GACOIN Lucie,28.8,8.0,10.0,-12.0,11.0,13.0,15.0,10.0,15.0,25.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Women 40,DAILLY Athénaïse,37.4,14.0,16.0,18.0,19.0,21.0,23.0,18.0,23.0,41.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Women 59,REVILION Juliette,55.5,8.0,9.0,-11.0,11.0,12.0,14.0,9.0,14.0,23.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Women 35,GACOIN Lucie,28.8,8.0,10.0,-12.0,11.0,13.0,15.0,10.0,15.0,25.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Women 40,DAILLY Athénaïse,37.4,14.0,16.0,18.0,19.0,21.0,23.0,18.0,23.0,41.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Women 59,REVILION Juliette,55.5,8.0,9.0,-11.0,11.0,12.0,14.0,9.0,14.0,23.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U20 Women 55,ERHART Sarah,51.7,40.0,-43.0,43.0,58.0,62.0,65.0,43.0,65.0,108.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Women 49,SCHMITZ Pattayaporn,48.8,20.0,-23.0,-23.0,25.0,-30.0,30.0,20.0,30.0,50.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Women 55,HERZIG Marion,55.0,32.0,-35.0,35.0,45.0,48.0,50.0,35.0,50.0,85.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Women 87,ARTUÇ Santana,85.8,55.0,60.0,63.0,77.0,-80.0,80.0,63.0,80.0,143.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U20 Women 55,ERHART Sarah,51.7,40.0,-43.0,43.0,58.0,62.0,65.0,43.0,65.0,108.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Women 49,SCHMITZ Pattayaporn,48.8,20.0,-23.0,-23.0,25.0,-30.0,30.0,20.0,30.0,50.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Women 55,HERZIG Marion,55.0,32.0,-35.0,35.0,45.0,48.0,50.0,35.0,50.0,85.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Women 87,ARTUÇ Santana,85.8,55.0,60.0,63.0,77.0,-80.0,80.0,63.0,80.0,143.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U15 Men 81,COROVIC Daris,75.7,21.0,23.0,26.0,21.0,23.0,-25.0,26.0,23.0,49.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U15 Men 96,SIMLER Jules,89.1,-20.0,-20.0,20.0,23.0,25.0,28.0,20.0,28.0,48.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U20 Men 67,RIAULT Maxime,64.75,61.0,66.0,-71.0,81.0,-86.0,-86.0,66.0,81.0,147.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U20 Men 81,ROUSSEAU Théo,79.0,40.0,43.0,46.0,45.0,50.0,53.0,46.0,53.0,99.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men 73,RITZENTHALER Frederic,71.5,82.0,85.0,-88.0,105.0,110.0,-125.0,85.0,110.0,195.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men 73,HEINFLING Lucas,71.9,60.0,-62.0,-62.0,-80.0,80.0,-82.0,60.0,80.0,140.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men 73,GROFF René,69.0,55.0,-60.0,60.0,65.0,70.0,75.0,60.0,75.0,135.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men 81,MANRY Kevin,74.75,55.0,60.0,-63.0,75.0,80.0,-83.0,60.0,80.0,140.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men 81,STILL Nicolas,76.0,55.0,-60.0,60.0,60.0,65.0,-70.0,60.0,65.0,125.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men 89,AUBERTIN Gregoire,87.55,115.0,-122.0,-125.0,145.0,153.0,-160.0,115.0,153.0,268.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U15 Men 81,COROVIC Daris,75.7,21.0,23.0,26.0,21.0,23.0,-25.0,26.0,23.0,49.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U15 Men 96,SIMLER Jules,89.1,-20.0,-20.0,20.0,23.0,25.0,28.0,20.0,28.0,48.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U20 Men 67,RIAULT Maxime,64.75,61.0,66.0,-71.0,81.0,-86.0,-86.0,66.0,81.0,147.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U20 Men 81,ROUSSEAU Théo,79.0,40.0,43.0,46.0,45.0,50.0,53.0,46.0,53.0,99.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men 73,RITZENTHALER Frederic,71.5,82.0,85.0,-88.0,105.0,110.0,-125.0,85.0,110.0,195.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men 73,HEINFLING Lucas,71.9,60.0,-62.0,-62.0,-80.0,80.0,-82.0,60.0,80.0,140.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men 73,GROFF René,69.0,55.0,-60.0,60.0,65.0,70.0,75.0,60.0,75.0,135.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men 81,MANRY Kevin,74.75,55.0,60.0,-63.0,75.0,80.0,-83.0,60.0,80.0,140.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men 81,STILL Nicolas,76.0,55.0,-60.0,60.0,60.0,65.0,-70.0,60.0,65.0,125.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men 89,AUBERTIN Gregoire,87.55,115.0,-122.0,-125.0,145.0,153.0,-160.0,115.0,153.0,268.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Men 35,THUILLIER Arthur,34.7,10.0,-12.0,12.0,12.0,14.0,16.0,12.0,16.0,28.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Men 45,BONNENFANT Marlon,42.5,31.0,33.0,35.0,38.0,40.0,42.0,35.0,42.0,77.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Men 73,SIMONET Arthur,70.5,21.0,-23.0,23.0,25.0,27.0,29.0,23.0,29.0,52.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Women 59,VENTUROLI Caly,58.0,17.0,19.0,-21.0,21.0,23.0,25.0,19.0,25.0,44.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Men 35,THUILLIER Arthur,34.7,10.0,-12.0,12.0,12.0,14.0,16.0,12.0,16.0,28.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Men 45,BONNENFANT Marlon,42.5,31.0,33.0,35.0,38.0,40.0,42.0,35.0,42.0,77.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Men 73,SIMONET Arthur,70.5,21.0,-23.0,23.0,25.0,27.0,29.0,23.0,29.0,52.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Women 59,VENTUROLI Caly,58.0,17.0,19.0,-21.0,21.0,23.0,25.0,19.0,25.0,44.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U15 Men 49,DOS SANTOS Paolo,43.4,41.0,-44.0,-45.0,50.0,54.0,-56.0,41.0,54.0,95.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U15 Men 55,LEGOUX Jules,51.8,44.0,47.0,-50.0,55.0,57.0,60.0,47.0,60.0,107.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U15 Men 61,PRETET Victor,56.3,44.0,-47.0,-47.0,54.0,57.0,60.0,44.0,60.0,104.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U17 Men 49,VAUTHRIN Matheo,45.9,18.0,21.0,25.0,23.0,25.0,30.0,25.0,30.0,55.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U17 Men 67,STERLE Enzo,66.9,66.0,70.0,-73.0,-76.0,80.0,-82.0,70.0,80.0,150.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U20 Men 81,FERRON Thomas,75.5,83.0,-86.0,86.0,100.0,104.0,-106.0,86.0,104.0,190.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U15 Men 49,DOS SANTOS Paolo,43.4,41.0,-44.0,-45.0,50.0,54.0,-56.0,41.0,54.0,95.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U15 Men 55,LEGOUX Jules,51.8,44.0,47.0,-50.0,55.0,57.0,60.0,47.0,60.0,107.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U15 Men 61,PRETET Victor,56.3,44.0,-47.0,-47.0,54.0,57.0,60.0,44.0,60.0,104.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U17 Men 49,VAUTHRIN Matheo,45.9,18.0,21.0,25.0,23.0,25.0,30.0,25.0,30.0,55.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U17 Men 67,STERLE Enzo,66.9,66.0,70.0,-73.0,-76.0,80.0,-82.0,70.0,80.0,150.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U20 Men 81,FERRON Thomas,75.5,83.0,-86.0,86.0,100.0,104.0,-106.0,86.0,104.0,190.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U15 Women 40,VACHEY Louise,32.9,10.0,13.0,16.0,13.0,16.0,19.0,16.0,19.0,35.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U17 Women 81,BOSSOU Inessa,80.3,22.0,26.0,28.0,25.0,30.0,33.0,28.0,33.0,61.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U17 Women 81,MORIZOT-MUNSCHI Morgane,77.0,20.0,-23.0,-23.0,25.0,30.0,-33.0,20.0,30.0,50.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U15 Women 40,VACHEY Louise,32.9,10.0,13.0,16.0,13.0,16.0,19.0,16.0,19.0,35.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U17 Women 81,BOSSOU Inessa,80.3,22.0,26.0,28.0,25.0,30.0,33.0,28.0,33.0,61.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U17 Women 81,MORIZOT-MUNSCHI Morgane,77.0,20.0,-23.0,-23.0,25.0,30.0,-33.0,20.0,30.0,50.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U15 Women 55,STATTNER Léa,52.28,31.0,33.0,35.0,42.0,45.0,47.0,35.0,47.0,82.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U20 Women 55,NOÉ Maya,51.6,22.0,25.0,-28.0,31.0,34.0,37.0,25.0,37.0,62.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U20 Women 59,MARGUERAT Lola,58.16,41.0,44.0,-46.0,53.0,55.0,58.0,44.0,58.0,102.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U15 Women 55,STATTNER Léa,52.28,31.0,33.0,35.0,42.0,45.0,47.0,35.0,47.0,82.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U20 Women 55,NOÉ Maya,51.6,22.0,25.0,-28.0,31.0,34.0,37.0,25.0,37.0,62.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U20 Women 59,MARGUERAT Lola,58.16,41.0,44.0,-46.0,53.0,55.0,58.0,44.0,58.0,102.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Women 71,BOUKO Oceane,66.34,36.0,38.0,40.0,48.0,50.0,52.0,40.0,52.0,92.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Women 71,BOUKO Oceane,66.34,36.0,38.0,40.0,48.0,50.0,52.0,40.0,52.0,92.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U17 Men 81,SARLI Anthony,74.7,-37.0,37.0,-41.0,-47.0,47.0,-55.0,37.0,47.0,84.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U17 Men 81,SARLI Anthony,74.7,-37.0,37.0,-41.0,-47.0,47.0,-55.0,37.0,47.0,84.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men 81,MARIE-JOSEPH Patrick,76.0,70.0,75.0,80.0,90.0,-97.0,-100.0,80.0,90.0,170.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men 81,GUIGNARD Alexandre,77.2,-60.0,62.0,67.0,82.0,-90.0,-90.0,67.0,82.0,149.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men 89,KOSMAL Julien,81.7,62.0,-65.0,67.0,85.0,-90.0,92.0,67.0,92.0,159.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men >109,ZANATTA Jerome,114.6,-75.0,75.0,-80.0,105.0,-110.0,-110.0,75.0,105.0,180.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men >109,MAHDI Haroune,122.4,57.0,60.0,65.0,75.0,-82.0,-87.0,65.0,75.0,140.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men 81,MARIE-JOSEPH Patrick,76.0,70.0,75.0,80.0,90.0,-97.0,-100.0,80.0,90.0,170.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men 81,GUIGNARD Alexandre,77.2,-60.0,62.0,67.0,82.0,-90.0,-90.0,67.0,82.0,149.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men 89,KOSMAL Julien,81.7,62.0,-65.0,67.0,85.0,-90.0,92.0,67.0,92.0,159.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men >109,ZANATTA Jerome,114.6,-75.0,75.0,-80.0,105.0,-110.0,-110.0,75.0,105.0,180.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,SEN Men >109,MAHDI Haroune,122.4,57.0,60.0,65.0,75.0,-82.0,-87.0,65.0,75.0,140.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U10 Women ,RIF Lya,29.06,7.0,9.0,10.0,10.0,12.0,14.0,10.0,14.0,24.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Women 35,RIF Lou,33.06,10.0,12.0,14.0,18.0,20.0,22.0,14.0,22.0,36.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Women 49,MARGUERAT Mila,45.56,29.0,31.0,33.0,39.0,41.0,43.0,33.0,43.0,76.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Women 49,ALVES Susie,47.08,15.0,17.0,19.0,19.0,21.0,23.0,19.0,23.0,42.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Men 35,KOSMAL Stanislas,29.2,12.0,14.0,16.0,16.0,18.0,-20.0,16.0,18.0,34.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U10 Women ,RIF Lya,29.06,7.0,9.0,10.0,10.0,12.0,14.0,10.0,14.0,24.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Women 35,RIF Lou,33.06,10.0,12.0,14.0,18.0,20.0,22.0,14.0,22.0,36.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Women 49,MARGUERAT Mila,45.56,29.0,31.0,33.0,39.0,41.0,43.0,33.0,43.0,76.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Women 49,ALVES Susie,47.08,15.0,17.0,19.0,19.0,21.0,23.0,19.0,23.0,42.0
-GE - Challenge Avenir - Haguenau - Bas-Rhin - U15-U17-U20 FEM,2025-03-22,U13 Men 35,KOSMAL Stanislas,29.2,12.0,14.0,16.0,16.0,18.0,-20.0,16.0,18.0,34.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U10 Men ,BEAURAIN Isaac,26.8,12.0,14.0,15.0,17.0,19.0,21.0,15.0,21.0,36.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U10 Men ,LEFEBVRE Antonin,34.72,7.0,8.0,-9.0,9.0,10.0,11.0,8.0,11.0,19.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 35,VERECQUE Charles,29.72,13.0,-15.0,15.0,16.0,18.0,19.0,15.0,19.0,34.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 35,MOREAU Axel,31.1,12.0,14.0,16.0,16.0,18.0,20.0,16.0,20.0,36.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 35,DOPIERALSKI Noam,25.84,9.0,11.0,-13.0,11.0,13.0,15.0,11.0,15.0,26.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 35,ALLOUIT Augustin,33.74,11.0,13.0,-15.0,13.0,15.0,17.0,13.0,17.0,30.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 35,BRUYELLE Jonathan,33.76,9.0,11.0,13.0,13.0,15.0,16.0,13.0,16.0,29.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 35,FORESTIER Gaspard,32.78,7.0,8.0,9.0,9.0,10.0,11.0,9.0,11.0,20.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 40,DEWALLY Enzo,35.9,12.0,14.0,16.0,17.0,19.0,21.0,16.0,21.0,37.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 40,DELATTRE Axel,35.16,-8.0,8.0,10.0,10.0,12.0,13.0,10.0,13.0,23.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 40,DESVIGNES Ilan,38.72,7.0,8.0,9.0,9.0,10.0,11.0,9.0,11.0,20.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 40,LECOMTE Noa,39.7,7.0,8.0,-9.0,9.0,10.0,11.0,8.0,11.0,19.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 45,HOUPE Melvin,42.62,9.0,11.0,13.0,13.0,15.0,17.0,13.0,17.0,30.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 45,BERTRAND Jean,40.76,8.0,10.0,12.0,12.0,14.0,16.0,12.0,16.0,28.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 49,AGNOLETTI Max,45.74,20.0,22.0,24.0,24.0,26.0,28.0,24.0,28.0,52.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 49,PIVAIN Eliot,47.22,17.0,19.0,-21.0,22.0,24.0,26.0,19.0,26.0,45.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 55,THIEFFRY Nathanael,49.72,7.0,8.0,9.0,9.0,10.0,11.0,9.0,11.0,20.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 55,M'BASSE Noam,50.7,7.0,8.0,9.0,9.0,10.0,11.0,9.0,11.0,20.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 55,FLUTEAUX Marcus,51.62,7.0,8.0,9.0,9.0,10.0,11.0,9.0,11.0,20.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 55,M'BASSE Eloa,51.7,7.0,8.0,9.0,9.0,10.0,11.0,9.0,11.0,20.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 55,DAVID Ethan,54.74,7.0,8.0,9.0,9.0,10.0,11.0,9.0,11.0,20.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 61,GOURGUECHON ALLART Elie,59.7,26.0,28.0,29.0,30.0,32.0,34.0,29.0,34.0,63.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 67,BOVAL Adam,66.0,20.0,22.0,24.0,26.0,28.0,30.0,24.0,30.0,54.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men 67,CORONADO Timael,63.22,10.0,11.0,12.0,18.0,19.0,20.0,12.0,20.0,32.0
+HDF - Challenge Avenir 2 (St Quentin),2021-12-11,U13 Men >73,CAIEZ Kenzo,74.2,18.0,19.0,20.0,22.0,24.0,26.0,20.0,26.0,46.0

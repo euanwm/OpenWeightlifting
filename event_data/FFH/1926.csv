@@ -1,105 +1,19 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,U15 Men 49,CRAND Owen,36.02,17.0,19.0,-21.0,22.0,24.0,26.0,19.0,26.0,45.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,U15 Men 67,DALLOIS Timael,63.0,53.0,57.0,-60.0,65.0,-70.0,-70.0,57.0,65.0,122.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,U15 Men 89,FOURNIER Maxime,84.5,58.0,61.0,64.0,73.0,77.0,-80.0,64.0,77.0,141.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,U17 Men 61,EVEN Joakim,59.02,50.0,-53.0,53.0,63.0,68.0,-72.0,53.0,68.0,121.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,U17 Men 61,GOUPRY Valentin,55.32,43.0,46.0,51.0,55.0,58.0,63.0,51.0,63.0,114.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,U17 Men 67,BELLIER--BARREAU Mathis,61.2,68.0,71.0,-74.0,78.0,82.0,-85.0,71.0,82.0,153.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,U17 Men 67,PACAUD Emilien,64.5,53.0,57.0,-60.0,70.0,74.0,76.0,57.0,76.0,133.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,U17 Men 81,DORIDOT Mathis,77.05,67.0,70.0,72.0,88.0,-90.0,90.0,72.0,90.0,162.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,U17 Men 89,LEGEAY Jean,82.0,68.0,71.0,74.0,88.0,-92.0,92.0,74.0,92.0,166.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,U20 Men 102,BIANCO Loucas,101.2,72.0,-77.0,-77.0,98.0,103.0,107.0,72.0,107.0,179.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,U15 Women 49,FERRAND COGNON Lyna,47.88,33.0,35.0,-37.0,43.0,45.0,-47.0,35.0,45.0,80.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,U15 Women 76,ROGUET Lylou,72.25,40.0,42.0,44.0,51.0,54.0,-56.0,44.0,54.0,98.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,U15 Men 49,ADAMY Timéo,35.54,18.0,20.0,22.0,22.0,24.0,26.0,22.0,26.0,48.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,U15 Men 49,GUITTIERE Timothé,45.62,17.0,19.0,-21.0,22.0,24.0,25.0,19.0,25.0,44.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,U15 Men 55,ALLA Bilal,50.18,32.0,35.0,-37.0,42.0,44.0,46.0,35.0,46.0,81.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,U15 Men 55,COLLET Romain,49.86,-25.0,25.0,-28.0,30.0,-35.0,35.0,25.0,35.0,60.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,U15 Men 55,BOILEAU Manolis,52.4,18.0,20.0,23.0,-22.0,22.0,25.0,23.0,25.0,48.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,U15 Men 61,BURON Evan,57.9,25.0,28.0,-30.0,35.0,40.0,-43.0,28.0,40.0,68.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,U17 Men 67,ROQUET Noe,65.4,45.0,47.0,-49.0,55.0,-58.0,60.0,47.0,60.0,107.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,U15 Women 64,FERRE Roxane,61.25,32.0,-35.0,-35.0,38.0,40.0,42.0,32.0,42.0,74.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,U15 Women 64,GEORGES Lylou,61.5,26.0,28.0,30.0,38.0,41.0,43.0,30.0,43.0,73.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,U15 Men 49,ADAMY Timéo,35.54,18.0,20.0,22.0,22.0,24.0,26.0,22.0,26.0,48.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,U15 Men 49,GUITTIERE Timothé,45.62,17.0,19.0,-21.0,22.0,24.0,25.0,19.0,25.0,44.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,U15 Men 55,ALLA Bilal,50.18,32.0,35.0,-37.0,42.0,44.0,46.0,35.0,46.0,81.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,U15 Men 55,COLLET Romain,49.86,-25.0,25.0,-28.0,30.0,-35.0,35.0,25.0,35.0,60.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,U15 Men 55,BOILEAU Manolis,52.4,18.0,20.0,23.0,-22.0,22.0,25.0,23.0,25.0,48.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,U15 Men 61,BURON Evan,57.9,25.0,28.0,-30.0,35.0,40.0,-43.0,28.0,40.0,68.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,U17 Men 67,ROQUET Noe,65.4,45.0,47.0,-49.0,55.0,-58.0,60.0,47.0,60.0,107.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,U15 Women 64,FERRE Roxane,61.25,32.0,-35.0,-35.0,38.0,40.0,42.0,32.0,42.0,74.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,U15 Women 64,GEORGES Lylou,61.5,26.0,28.0,30.0,38.0,41.0,43.0,30.0,43.0,73.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Men 73,BOUELLE Théo,71.5,85.0,-92.0,92.0,115.0,-123.0,-123.0,92.0,115.0,207.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Men 81,DALOUR Killian,80.0,96.0,102.0,-105.0,123.0,128.0,130.0,102.0,130.0,232.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Men 81,SUPPLY Joanin,77.7,100.0,-105.0,-105.0,123.0,-128.0,-128.0,100.0,123.0,223.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Men 89,FERRU Quentin,86.3,96.0,102.0,105.0,125.0,130.0,-135.0,105.0,130.0,235.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Men 89,GONZAGUE-MOLONGO Elisée,86.3,90.0,97.0,101.0,118.0,126.0,-130.0,101.0,126.0,227.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Men 96,COSTA Mickael,90.6,-110.0,110.0,-117.0,-140.0,140.0,-145.0,110.0,140.0,250.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Men 73,BOUELLE Théo,71.5,85.0,-92.0,92.0,115.0,-123.0,-123.0,92.0,115.0,207.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Men 81,DALOUR Killian,80.0,96.0,102.0,-105.0,123.0,128.0,130.0,102.0,130.0,232.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Men 81,SUPPLY Joanin,77.7,100.0,-105.0,-105.0,123.0,-128.0,-128.0,100.0,123.0,223.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Men 89,FERRU Quentin,86.3,96.0,102.0,105.0,125.0,130.0,-135.0,105.0,130.0,235.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Men 89,GONZAGUE-MOLONGO Elisée,86.3,90.0,97.0,101.0,118.0,126.0,-130.0,101.0,126.0,227.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Men 96,COSTA Mickael,90.6,-110.0,110.0,-117.0,-140.0,140.0,-145.0,110.0,140.0,250.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,U20 Women 64,HERBIN Vinciane,61.3,50.0,-53.0,-55.0,58.0,62.0,-65.0,50.0,62.0,112.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,U20 Women 87,ROBIN Maeline,84.3,-57.0,57.0,-60.0,62.0,65.0,-70.0,57.0,65.0,122.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 55,AMRANE Hayate,54.2,-50.0,-50.0,50.0,-65.0,-65.0,65.0,50.0,65.0,115.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 59,ZHENG Axelle,58.3,52.0,-54.0,-54.0,67.0,-70.0,-70.0,52.0,67.0,119.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 59,TURRI Céline,58.8,50.0,52.0,-54.0,-60.0,61.0,63.0,52.0,63.0,115.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 59,BARNAT Nawel,55.6,35.0,38.0,-40.0,45.0,-48.0,-50.0,38.0,45.0,83.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 59,TAIMOURI Sara,58.6,-60.0,-60.0,-60.0,70.0,-73.0,-73.0,0.0,70.0,0.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 64,PERIER Marie,63.9,-53.0,53.0,56.0,70.0,74.0,77.0,56.0,77.0,133.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 64,ROBERT Marie prune,62.1,47.0,-51.0,51.0,55.0,63.0,65.0,51.0,65.0,116.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 71,BIENAIMÉ Cassandra,70.5,60.0,63.0,-66.0,71.0,74.0,77.0,63.0,77.0,140.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women >87,GATEAU Emma,96.5,60.0,65.0,-68.0,80.0,-84.0,-85.0,65.0,80.0,145.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women >87,CRISTINA Aurelie,107.3,-57.0,57.0,-60.0,-75.0,75.0,-78.0,57.0,75.0,132.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,U20 Women 64,HERBIN Vinciane,61.3,50.0,-53.0,-55.0,58.0,62.0,-65.0,50.0,62.0,112.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,U20 Women 87,ROBIN Maeline,84.3,-57.0,57.0,-60.0,62.0,65.0,-70.0,57.0,65.0,122.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 55,AMRANE Hayate,54.2,-50.0,-50.0,50.0,-65.0,-65.0,65.0,50.0,65.0,115.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 59,ZHENG Axelle,58.3,52.0,-54.0,-54.0,67.0,-70.0,-70.0,52.0,67.0,119.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 59,TURRI Céline,58.8,50.0,52.0,-54.0,-60.0,61.0,63.0,52.0,63.0,115.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 59,BARNAT Nawel,55.6,35.0,38.0,-40.0,45.0,-48.0,-50.0,38.0,45.0,83.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 59,TAIMOURI Sara,58.6,-60.0,-60.0,-60.0,70.0,-73.0,-73.0,0.0,70.0,0.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 64,PERIER Marie,63.9,-53.0,53.0,56.0,70.0,74.0,77.0,56.0,77.0,133.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 64,ROBERT Marie prune,62.1,47.0,-51.0,51.0,55.0,63.0,65.0,51.0,65.0,116.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 71,BIENAIMÉ Cassandra,70.5,60.0,63.0,-66.0,71.0,74.0,77.0,63.0,77.0,140.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women >87,GATEAU Emma,96.5,60.0,65.0,-68.0,80.0,-84.0,-85.0,65.0,80.0,145.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women >87,CRISTINA Aurelie,107.3,-57.0,57.0,-60.0,-75.0,75.0,-78.0,57.0,75.0,132.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,U17 Women 59,DOUYERE Solene,55.93,44.0,47.0,-51.0,54.0,57.0,-60.0,47.0,57.0,104.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,U20 Women 59,PAYET Mathilde,58.85,50.0,-53.0,53.0,60.0,64.0,-66.0,53.0,64.0,117.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 55,DESBOIS VITRY Aurélie,50.58,47.0,-50.0,-50.0,60.0,63.0,-66.0,47.0,63.0,110.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 64,ASSING Evelyne,60.33,-45.0,45.0,48.0,63.0,-66.0,-66.0,48.0,63.0,111.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 71,VIRAPIN-APOU Maya,66.46,49.0,-52.0,52.0,70.0,75.0,-80.0,52.0,75.0,127.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 71,PAUSE Patricia,64.88,40.0,43.0,-45.0,55.0,60.0,-64.0,43.0,60.0,103.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 76,MANIECA Christelle,71.02,50.0,53.0,55.0,-64.0,64.0,67.0,55.0,67.0,122.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,U17 Women 59,DOUYERE Solene,55.93,44.0,47.0,-51.0,54.0,57.0,-60.0,47.0,57.0,104.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,U20 Women 59,PAYET Mathilde,58.85,50.0,-53.0,53.0,60.0,64.0,-66.0,53.0,64.0,117.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 55,DESBOIS VITRY Aurélie,50.58,47.0,-50.0,-50.0,60.0,63.0,-66.0,47.0,63.0,110.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 64,ASSING Evelyne,60.33,-45.0,45.0,48.0,63.0,-66.0,-66.0,48.0,63.0,111.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 71,VIRAPIN-APOU Maya,66.46,49.0,-52.0,52.0,70.0,75.0,-80.0,52.0,75.0,127.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 71,PAUSE Patricia,64.88,40.0,43.0,-45.0,55.0,60.0,-64.0,43.0,60.0,103.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 76,MANIECA Christelle,71.02,50.0,53.0,55.0,-64.0,64.0,67.0,55.0,67.0,122.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 55,THIERRY Elsa,55.0,60.0,64.0,67.0,72.0,76.0,-79.0,67.0,76.0,143.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 59,VERMONT Morgane,58.0,70.0,74.0,78.0,90.0,94.0,97.0,78.0,97.0,175.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 59,TORNEY Constance,59.0,55.0,60.0,63.0,75.0,-80.0,80.0,63.0,80.0,143.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 59,LÉPINAY Marie amélie,56.0,-56.0,56.0,-58.0,70.0,-72.0,-72.0,56.0,70.0,126.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 59,HOAREAU Marjorie,59.0,53.0,56.0,60.0,65.0,68.0,-72.0,60.0,68.0,128.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 64,CAPITAINE Nina,62.0,-68.0,70.0,-73.0,85.0,90.0,94.0,70.0,94.0,164.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 76,TISSOT Clarisse,75.8,66.0,70.0,73.0,78.0,82.0,-86.0,73.0,82.0,155.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 55,THIERRY Elsa,55.0,60.0,64.0,67.0,72.0,76.0,-79.0,67.0,76.0,143.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 59,VERMONT Morgane,58.0,70.0,74.0,78.0,90.0,94.0,97.0,78.0,97.0,175.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 59,TORNEY Constance,59.0,55.0,60.0,63.0,75.0,-80.0,80.0,63.0,80.0,143.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 59,LÉPINAY Marie amélie,56.0,-56.0,56.0,-58.0,70.0,-72.0,-72.0,56.0,70.0,126.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 59,HOAREAU Marjorie,59.0,53.0,56.0,60.0,65.0,68.0,-72.0,60.0,68.0,128.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 64,CAPITAINE Nina,62.0,-68.0,70.0,-73.0,85.0,90.0,94.0,70.0,94.0,164.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Women 76,TISSOT Clarisse,75.8,66.0,70.0,73.0,78.0,82.0,-86.0,73.0,82.0,155.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Men 67,TAYER Kenzie,66.9,-103.0,104.0,109.0,130.0,-135.0,-140.0,109.0,130.0,239.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Men 73,ARNOU MEUNIER Killiann,71.3,112.0,-115.0,-115.0,148.0,153.0,-156.0,112.0,153.0,265.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Men 73,LEFEVRE Jérome,67.7,102.0,110.0,114.0,136.0,141.0,-144.0,114.0,141.0,255.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Men 89,KHOON-YAM Brice,84.6,104.0,108.0,-113.0,127.0,133.0,-136.0,108.0,133.0,241.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Men 67,TAYER Kenzie,66.9,-103.0,104.0,109.0,130.0,-135.0,-140.0,109.0,130.0,239.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Men 73,ARNOU MEUNIER Killiann,71.3,112.0,-115.0,-115.0,148.0,153.0,-156.0,112.0,153.0,265.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Men 73,LEFEVRE Jérome,67.7,102.0,110.0,114.0,136.0,141.0,-144.0,114.0,141.0,255.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Men 89,KHOON-YAM Brice,84.6,104.0,108.0,-113.0,127.0,133.0,-136.0,108.0,133.0,241.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Men 96,GRUSS Carlos martin,94.75,115.0,-120.0,125.0,135.0,140.0,145.0,125.0,145.0,270.0
-PDL - autre - Savenay - 4 journées chpt Rég jeunes A,2025-05-10,SEN Men 96,GRUSS Carlos martin,94.75,115.0,-120.0,125.0,135.0,140.0,145.0,125.0,145.0,270.0
+IDF - 1° J REG (St Maur),2021-11-27,SEN Men 67,THAN Yves olivier,66.1,80.0,83.0,-86.0,95.0,100.0,-105.0,83.0,100.0,183.0
+IDF - 1° J REG (St Maur),2021-11-27,SEN Men 67,GURUNG Subrat,65.4,52.0,55.0,58.0,70.0,74.0,77.0,58.0,77.0,135.0
+IDF - 1° J REG (St Maur),2021-11-27,SEN Men 73,WEINER Enrique,72.6,82.0,86.0,90.0,100.0,-105.0,-105.0,90.0,100.0,190.0
+IDF - 1° J REG (St Maur),2021-11-27,SEN Men 96,CHELALI Zakaria,90.8,90.0,95.0,100.0,110.0,-120.0,125.0,100.0,125.0,225.0
+IDF - 1° J REG (St Maur),2021-11-27,SEN Men 96,BIDELOGNE Didier,93.5,85.0,93.0,-97.0,105.0,112.0,120.0,93.0,120.0,213.0
+IDF - 1° J REG (St Maur),2021-11-27,SEN Men 96,COSTA Mickael,92.4,-70.0,-70.0,72.0,95.0,-100.0,-105.0,72.0,95.0,167.0
+IDF - 1° J REG (St Maur),2021-11-27,SEN Women 49,RESTREPO Luna,48.49,38.0,41.0,-44.0,54.0,56.0,-58.0,41.0,56.0,97.0
+IDF - 1° J REG (St Maur),2021-11-27,SEN Women 59,COCHET Anne,58.16,35.0,38.0,40.0,50.0,-55.0,55.0,40.0,55.0,95.0
+IDF - 1° J REG (St Maur),2021-11-27,SEN Women 59,DOS SANTOS COELHO Elisabeth,56.06,33.0,36.0,-40.0,35.0,-40.0,42.0,36.0,42.0,78.0
+IDF - 1° J REG (St Maur),2021-11-27,SEN Women 64,PAILLARD Mailys,61.32,48.0,52.0,-55.0,67.0,70.0,73.0,52.0,73.0,125.0
+IDF - 1° J REG (St Maur),2021-11-27,SEN Women 64,GIRARD Ophelie,63.72,37.0,40.0,42.0,50.0,-55.0,55.0,42.0,55.0,97.0
+IDF - 1° J REG (St Maur),2021-11-27,SEN Women 64,BRANCHI Camille,62.9,37.0,40.0,42.0,50.0,-55.0,-55.0,42.0,50.0,92.0
+IDF - 1° J REG (St Maur),2021-11-27,SEN Women 71,DE MAGALHAES ESTEVES Océana,69.66,50.0,55.0,57.0,60.0,65.0,70.0,57.0,70.0,127.0
+IDF - 1° J REG (St Maur),2021-11-27,SEN Women 71,MORIZOT Aude,70.86,42.0,-47.0,50.0,62.0,-67.0,68.0,50.0,68.0,118.0
+IDF - 1° J REG (St Maur),2021-11-27,SEN Women 71,BIFANO Elena,68.52,48.0,52.0,-55.0,55.0,60.0,63.0,52.0,63.0,115.0
+IDF - 1° J REG (St Maur),2021-11-27,SEN Women 71,BLUCKTOR Ericka,67.66,35.0,-42.0,-42.0,45.0,-56.0,-61.0,35.0,45.0,80.0
+IDF - 1° J REG (St Maur),2021-11-27,SEN Women 71,GAMEIRO Eva,66.2,30.0,33.0,-36.0,38.0,42.0,-46.0,33.0,42.0,75.0
+IDF - 1° J REG (St Maur),2021-11-27,SEN Women >87,DORLEANS Helene,103.52,30.0,33.0,-36.0,35.0,40.0,-45.0,33.0,40.0,73.0

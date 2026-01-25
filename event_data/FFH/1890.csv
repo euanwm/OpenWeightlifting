@@ -1,61 +1,9 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Men 35,DUCHAUFFOUR Louis,32.6,20.0,22.0,-24.0,-28.0,28.0,29.0,22.0,29.0,51.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Men 45,THOMAS Briac,43.5,36.0,38.0,40.0,46.0,48.0,50.0,40.0,50.0,90.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Men 49,DUVAL Alaric,49.0,22.0,24.0,26.0,30.0,32.0,34.0,26.0,34.0,60.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Men 61,HUBER Nathan,59.4,37.0,39.0,41.0,49.0,51.0,-53.0,41.0,51.0,92.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Men 73,KLOCK Janis,72.75,38.0,40.0,-42.0,47.0,49.0,51.0,40.0,51.0,91.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Men 73,SIMONET Arthur,70.65,23.0,25.0,27.0,-28.0,-28.0,28.0,27.0,28.0,55.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Women 40,GUTHMULLER Charline,36.0,20.0,22.0,24.0,30.0,32.0,-33.0,24.0,32.0,56.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Women 40,TOURNY Loréline,37.2,16.0,-18.0,18.0,23.0,-25.0,25.0,18.0,25.0,43.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Women 49,MARGUERAT Mila,47.55,35.0,37.0,-38.0,45.0,46.0,48.0,37.0,48.0,85.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Women 59,VENTUROLI Caly,55.7,20.0,-22.0,22.0,24.0,26.0,-28.0,22.0,26.0,48.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Men 35,ARIAS Louis,32.6,20.0,22.0,24.0,29.0,-31.0,31.0,24.0,31.0,55.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Men 35,MOLENAAR Gabriel,33.55,13.0,15.0,17.0,19.0,21.0,-23.0,17.0,21.0,38.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Men 45,GAHAM Lenny,41.7,21.0,23.0,-25.0,30.0,32.0,34.0,23.0,34.0,57.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Men 49,BODA Ilyes,47.65,34.0,35.0,37.0,44.0,45.0,47.0,37.0,47.0,84.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Men 55,WIEDER Lenny,52.7,37.0,-39.0,39.0,46.0,48.0,50.0,39.0,50.0,89.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Men 55,CHAUTAIN Simon,55.0,26.0,28.0,30.0,27.0,29.0,-31.0,30.0,29.0,59.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Men 61,BLANC Anton,59.6,22.0,23.0,25.0,30.0,32.0,34.0,25.0,34.0,59.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Men 67,SCHIARI Simon,65.65,28.0,30.0,32.0,-37.0,37.0,-39.0,32.0,37.0,69.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Women 35,SIMIAN-MERMIER Judy,33.5,-16.0,16.0,17.0,21.0,23.0,25.0,17.0,25.0,42.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Women 35,CHAUTAIN Alice,34.35,14.0,15.0,17.0,20.0,22.0,24.0,17.0,24.0,41.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Women 35,ARENA Léonie,33.75,15.0,16.0,18.0,19.0,20.0,-22.0,18.0,20.0,38.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Women 45,MONNET-BESSON Emilie,42.95,23.0,25.0,27.0,33.0,35.0,37.0,27.0,37.0,64.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Women 45,LOPEZ Maymouna,43.0,18.0,-20.0,-20.0,22.0,24.0,26.0,18.0,26.0,44.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Women 49,JAUNE Anna,48.45,36.0,38.0,-40.0,46.0,48.0,50.0,38.0,50.0,88.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Women 49,HUMBRECHT Camille,48.35,23.0,25.0,-27.0,31.0,-33.0,33.0,25.0,33.0,58.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Women 55,DECARPIGNY Louise,53.05,26.0,28.0,30.0,35.0,37.0,39.0,30.0,39.0,69.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Women 55,MARTIN Clemence,50.55,26.0,28.0,-30.0,30.0,32.0,-34.0,28.0,32.0,60.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Women 55,GODELLE Elise,53.4,19.0,21.0,23.0,23.0,-25.0,25.0,23.0,25.0,48.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Men 35,ARIAS Louis,32.6,20.0,22.0,24.0,29.0,-31.0,31.0,24.0,31.0,55.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Men 35,MOLENAAR Gabriel,33.55,13.0,15.0,17.0,19.0,21.0,-23.0,17.0,21.0,38.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Men 45,GAHAM Lenny,41.7,21.0,23.0,-25.0,30.0,32.0,34.0,23.0,34.0,57.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Men 49,BODA Ilyes,47.65,34.0,35.0,37.0,44.0,45.0,47.0,37.0,47.0,84.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Men 55,WIEDER Lenny,52.7,37.0,-39.0,39.0,46.0,48.0,50.0,39.0,50.0,89.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Men 55,CHAUTAIN Simon,55.0,26.0,28.0,30.0,27.0,29.0,-31.0,30.0,29.0,59.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Men 61,BLANC Anton,59.6,22.0,23.0,25.0,30.0,32.0,34.0,25.0,34.0,59.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Men 67,SCHIARI Simon,65.65,28.0,30.0,32.0,-37.0,37.0,-39.0,32.0,37.0,69.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Women 35,SIMIAN-MERMIER Judy,33.5,-16.0,16.0,17.0,21.0,23.0,25.0,17.0,25.0,42.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Women 35,CHAUTAIN Alice,34.35,14.0,15.0,17.0,20.0,22.0,24.0,17.0,24.0,41.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Women 35,ARENA Léonie,33.75,15.0,16.0,18.0,19.0,20.0,-22.0,18.0,20.0,38.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Women 45,MONNET-BESSON Emilie,42.95,23.0,25.0,27.0,33.0,35.0,37.0,27.0,37.0,64.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Women 45,LOPEZ Maymouna,43.0,18.0,-20.0,-20.0,22.0,24.0,26.0,18.0,26.0,44.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Women 49,JAUNE Anna,48.45,36.0,38.0,-40.0,46.0,48.0,50.0,38.0,50.0,88.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Women 49,HUMBRECHT Camille,48.35,23.0,25.0,-27.0,31.0,-33.0,33.0,25.0,33.0,58.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Women 55,DECARPIGNY Louise,53.05,26.0,28.0,30.0,35.0,37.0,39.0,30.0,39.0,69.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Women 55,MARTIN Clemence,50.55,26.0,28.0,-30.0,30.0,32.0,-34.0,28.0,32.0,60.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Women 55,GODELLE Elise,53.4,19.0,21.0,23.0,23.0,-25.0,25.0,23.0,25.0,48.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Men 35,GRIGORIAN Alen,33.4,25.0,-27.0,27.0,32.0,34.0,36.0,27.0,36.0,63.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Men 73,ROBIN Raphael,72.55,36.0,38.0,40.0,42.0,44.0,46.0,40.0,46.0,86.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Women 49,THOMARAT Juliette,47.2,33.0,35.0,-37.0,38.0,39.0,41.0,35.0,41.0,76.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Men 35,GRIGORIAN Alen,33.4,25.0,-27.0,27.0,32.0,34.0,36.0,27.0,36.0,63.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Men 73,ROBIN Raphael,72.55,36.0,38.0,40.0,42.0,44.0,46.0,40.0,46.0,86.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Women 49,THOMARAT Juliette,47.2,33.0,35.0,-37.0,38.0,39.0,41.0,35.0,41.0,76.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Men 55,CHOURRET Camille,54.2,31.0,33.0,35.0,37.0,-38.0,38.0,35.0,38.0,73.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Men 67,FRAZEY Alistair,63.8,29.0,31.0,-33.0,-38.0,38.0,39.0,31.0,39.0,70.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Women 49,FOUGERON Marie mai,45.4,21.0,23.0,-25.0,26.0,-28.0,28.0,23.0,28.0,51.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Men 55,CHOURRET Camille,54.2,31.0,33.0,35.0,37.0,-38.0,38.0,35.0,38.0,73.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Men 67,FRAZEY Alistair,63.8,29.0,31.0,-33.0,-38.0,38.0,39.0,31.0,39.0,70.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Women 49,FOUGERON Marie mai,45.4,21.0,23.0,-25.0,26.0,-28.0,28.0,23.0,28.0,51.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Men 61,POLINTSOV German,60.25,42.0,43.0,45.0,55.0,56.0,57.0,45.0,57.0,102.0
-GE - Trophée National U13 - Grande synthe -,2025-06-28,U13 Men 61,POLINTSOV German,60.25,42.0,43.0,45.0,55.0,56.0,57.0,45.0,57.0,102.0
+OCC - 2° Challenge Avenir U10/U13 - Frontignan,2021-12-04,U10 Men ,BARDIS Enzo,34.9,9.0,10.0,11.0,11.0,12.0,13.0,11.0,13.0,24.0
+OCC - 2° Challenge Avenir U10/U13 - Frontignan,2021-12-04,U10 Men ,SAINT POINT Nelson,26.2,4.0,5.0,6.0,5.0,6.0,7.0,6.0,7.0,13.0
+OCC - 2° Challenge Avenir U10/U13 - Frontignan,2021-12-04,U10 Men ,JAMANN Gabin,27.6,4.0,5.0,6.0,5.0,6.0,7.0,6.0,7.0,13.0
+OCC - 2° Challenge Avenir U10/U13 - Frontignan,2021-12-04,U13 Men 40,CAMPOS Gabriel,36.6,4.0,5.0,6.0,5.0,6.0,7.0,6.0,7.0,13.0
+OCC - 2° Challenge Avenir U10/U13 - Frontignan,2021-12-04,U13 Men 45,ALCARAZ Thomas,43.8,20.0,22.0,23.0,30.0,32.0,33.0,23.0,33.0,56.0
+OCC - 2° Challenge Avenir U10/U13 - Frontignan,2021-12-04,U13 Men 45,ROSS Clément,43.5,16.0,17.0,18.0,26.0,28.0,-30.0,18.0,28.0,46.0
+OCC - 2° Challenge Avenir U10/U13 - Frontignan,2021-12-04,U13 Men 45,GARCIA-DUHAMEL Jullian,44.0,13.0,14.0,15.0,18.0,20.0,21.0,15.0,21.0,36.0
+OCC - 2° Challenge Avenir U10/U13 - Frontignan,2021-12-04,U13 Women 45,ALCARAZ Charlotte,43.9,20.0,22.0,24.0,30.0,32.0,33.0,24.0,33.0,57.0
