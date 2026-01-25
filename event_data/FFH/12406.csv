@@ -1,0 +1,25 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+NDIE - REG 1 - Caen - 3ème journée,2025-12-13,U15 Men 56,DEVILLIEZ Valentin,55.9,35.0,39.0,42.0,47.0,50.0,-54.0,42.0,50.0,92.0
+NDIE - REG 1 - Caen - 3ème journée,2025-12-13,U17 Men 65,BARBEY Tim,62.0,50.0,54.0,-57.0,70.0,73.0,76.0,54.0,76.0,130.0
+NDIE - REG 1 - Caen - 3ème journée,2025-12-13,U20 Men 60,DELAMOTTE Lukas,59.4,90.0,-0.0,-0.0,115.0,120.0,-123.0,90.0,120.0,210.0
+NDIE - REG 1 - Caen - 3ème journée,2025-12-13,U20 Men 65,LEURY Timothee,61.9,68.0,71.0,-73.0,-97.0,97.0,102.0,71.0,102.0,173.0
+NDIE - REG 1 - Caen - 3ème journée,2025-12-13,U20 Men 79,MARIE Tom,72.5,80.0,-83.0,85.0,99.0,-103.0,-105.0,85.0,99.0,184.0
+NDIE - REG 1 - Caen - 3ème journée,2025-12-13,U20 Men 79,VARLET Luka,77.6,75.0,78.0,-81.0,98.0,102.0,-105.0,78.0,102.0,180.0
+NDIE - REG 1 - Caen - 3ème journée,2025-12-13,U20 Men 79,VEDEAU Thomas,76.3,70.0,75.0,-80.0,93.0,-97.0,-97.0,75.0,93.0,168.0
+NDIE - REG 1 - Caen - 3ème journée,2025-12-13,U20 Men 88,BERTRAND Ethan,80.3,75.0,80.0,82.0,88.0,92.0,-95.0,82.0,92.0,174.0
+NDIE - REG 1 - Caen - 3ème journée,2025-12-13,SEN Men 65,CAHIERC Gaby,63.1,-67.0,70.0,-73.0,85.0,87.0,-90.0,70.0,87.0,157.0
+NDIE - REG 1 - Caen - 3ème journée,2025-12-13,SEN Men 71,SAUCEY Thomas,70.7,64.0,-67.0,67.0,-83.0,83.0,86.0,67.0,86.0,153.0
+NDIE - REG 1 - Caen - 3ème journée,2025-12-13,SEN Men 79,COMBEAU Victor,76.3,90.0,95.0,100.0,130.0,135.0,-140.0,100.0,135.0,235.0
+NDIE - REG 1 - Caen - 3ème journée,2025-12-13,SEN Men 79,SAUVOUREL Elian,76.0,85.0,89.0,-93.0,108.0,112.0,115.0,89.0,115.0,204.0
+NDIE - REG 1 - Caen - 3ème journée,2025-12-13,SEN Men 79,PETEL Jonathan,72.7,70.0,73.0,-76.0,95.0,100.0,-105.0,73.0,100.0,173.0
+NDIE - REG 1 - Caen - 3ème journée,2025-12-13,SEN Men 79,VERNY Jeremy,73.9,48.0,51.0,54.0,68.0,71.0,-76.0,54.0,71.0,125.0
+NDIE - REG 1 - Caen - 3ème journée,2025-12-13,SEN Men 88,MARCHAND Pierre yves,86.5,97.0,-102.0,-103.0,118.0,-123.0,123.0,97.0,123.0,220.0
+NDIE - REG 1 - Caen - 3ème journée,2025-12-13,SEN Men 88,JULIENNE Romain,79.1,83.0,-88.0,89.0,110.0,115.0,120.0,89.0,120.0,209.0
+NDIE - REG 1 - Caen - 3ème journée,2025-12-13,SEN Men 88,LETALLEUR Ugo,81.4,70.0,73.0,-76.0,90.0,94.0,100.0,73.0,100.0,173.0
+NDIE - REG 1 - Caen - 3ème journée,2025-12-13,SEN Men 94,NEMERY Lylian,93.8,90.0,96.0,101.0,125.0,130.0,136.0,101.0,136.0,237.0
+NDIE - REG 1 - Caen - 3ème journée,2025-12-13,SEN Men 94,BRIENS Charles,90.5,96.0,100.0,103.0,114.0,-118.0,118.0,103.0,118.0,221.0
+NDIE - REG 1 - Caen - 3ème journée,2025-12-13,SEN Men 94,MARIE Matis,92.8,80.0,85.0,-90.0,105.0,110.0,115.0,85.0,115.0,200.0
+NDIE - REG 1 - Caen - 3ème journée,2025-12-13,SEN Men 94,FERNAND Sébastien,88.8,-78.0,-78.0,78.0,102.0,-106.0,-108.0,78.0,102.0,180.0
+NDIE - REG 1 - Caen - 3ème journée,2025-12-13,SEN Men 94,MALFILATRE Anthony,94.0,55.0,-60.0,-60.0,70.0,75.0,80.0,55.0,80.0,135.0
+NDIE - REG 1 - Caen - 3ème journée,2025-12-13,SEN Men 110,FRIBOULET Léo,100.8,80.0,85.0,-90.0,105.0,110.0,-115.0,85.0,110.0,195.0
+NDIE - REG 1 - Caen - 3ème journée,2025-12-13,SEN Men >110,GAMBU Maxime,110.6,70.0,75.0,-80.0,100.0,105.0,-108.0,75.0,105.0,180.0

@@ -1,0 +1,26 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+NDIE - REG 1 - Caen - 1ère Journée Normandie,2025-10-18,U15 Men 56,DEVILLIEZ Valentin,53.8,29.0,31.0,35.0,38.0,41.0,-46.0,35.0,41.0,76.0
+NDIE - REG 1 - Caen - 1ère Journée Normandie,2025-10-18,U17 Men 60,BARBEY Tim,59.5,47.0,50.0,-54.0,67.0,-70.0,-71.0,50.0,67.0,117.0
+NDIE - REG 1 - Caen - 1ère Journée Normandie,2025-10-18,U17 Men 60,LEJEUNE Nathan,58.8,-47.0,47.0,-50.0,60.0,-65.0,-65.0,47.0,60.0,107.0
+NDIE - REG 1 - Caen - 1ère Journée Normandie,2025-10-18,U20 Men 60,DELAMOTTE Lukas,59.1,90.0,95.0,-100.0,110.0,115.0,-120.0,95.0,115.0,210.0
+NDIE - REG 1 - Caen - 1ère Journée Normandie,2025-10-18,U20 Men 65,LEURY Timothee,62.6,60.0,64.0,67.0,90.0,95.0,-100.0,67.0,95.0,162.0
+NDIE - REG 1 - Caen - 1ère Journée Normandie,2025-10-18,U20 Men 79,VEDEAU Thomas,76.05,60.0,65.0,68.0,-80.0,80.0,-83.0,68.0,80.0,148.0
+NDIE - REG 1 - Caen - 1ère Journée Normandie,2025-10-18,U20 Men 88,BERTRAND Ethan,80.1,70.0,73.0,77.0,-88.0,88.0,-92.0,77.0,88.0,165.0
+NDIE - REG 1 - Caen - 1ère Journée Normandie,2025-10-18,U20 Men 94,DUVAL Lilian,93.55,75.0,80.0,-85.0,-105.0,105.0,-108.0,80.0,105.0,185.0
+NDIE - REG 1 - Caen - 1ère Journée Normandie,2025-10-18,SEN Men 65,CAHIERC Gaby,63.1,65.0,-68.0,70.0,80.0,-84.0,85.0,70.0,85.0,155.0
+NDIE - REG 1 - Caen - 1ère Journée Normandie,2025-10-18,SEN Men 65,SCIPION Charles gauthier,62.2,57.0,60.0,-63.0,77.0,-80.0,-80.0,60.0,77.0,137.0
+NDIE - REG 1 - Caen - 1ère Journée Normandie,2025-10-18,SEN Men 71,LEURY Tony,69.45,50.0,-55.0,55.0,65.0,70.0,-75.0,55.0,70.0,125.0
+NDIE - REG 1 - Caen - 1ère Journée Normandie,2025-10-18,SEN Men 79,LEVALLOIS Corentin,76.9,74.0,78.0,-80.0,95.0,100.0,-105.0,78.0,100.0,178.0
+NDIE - REG 1 - Caen - 1ère Journée Normandie,2025-10-18,SEN Men 79,PETEL Jonathan,74.1,73.0,-76.0,-76.0,93.0,-96.0,-96.0,73.0,93.0,166.0
+NDIE - REG 1 - Caen - 1ère Journée Normandie,2025-10-18,SEN Men 79,VERNY Jeremy,74.95,46.0,50.0,-55.0,-65.0,65.0,70.0,50.0,70.0,120.0
+NDIE - REG 1 - Caen - 1ère Journée Normandie,2025-10-18,SEN Men 88,MARCHAND Pierre yves,87.45,95.0,100.0,-104.0,115.0,120.0,-125.0,100.0,120.0,220.0
+NDIE - REG 1 - Caen - 1ère Journée Normandie,2025-10-18,SEN Men 88,MAILLE David,84.1,60.0,-63.0,-63.0,75.0,80.0,83.0,60.0,83.0,143.0
+NDIE - REG 1 - Caen - 1ère Journée Normandie,2025-10-18,SEN Men 94,TRUSSART Benjamin,88.6,95.0,-98.0,-98.0,130.0,135.0,-140.0,95.0,135.0,230.0
+NDIE - REG 1 - Caen - 1ère Journée Normandie,2025-10-18,SEN Men 94,BRIENS Charles,90.0,94.0,98.0,-102.0,107.0,112.0,-117.0,98.0,112.0,210.0
+NDIE - REG 1 - Caen - 1ère Journée Normandie,2025-10-18,SEN Men 94,FERNAND Sébastien,88.8,78.0,82.0,-86.0,102.0,-106.0,-108.0,82.0,102.0,184.0
+NDIE - REG 1 - Caen - 1ère Journée Normandie,2025-10-18,SEN Men 94,OZDEMIR Mickael,88.8,70.0,75.0,80.0,95.0,-100.0,102.0,80.0,102.0,182.0
+NDIE - REG 1 - Caen - 1ère Journée Normandie,2025-10-18,SEN Men 110,NEMERY Lylian,94.3,100.0,110.0,115.0,135.0,140.0,145.0,115.0,145.0,260.0
+NDIE - REG 1 - Caen - 1ère Journée Normandie,2025-10-18,SEN Men 110,FRIBOULET Léo,102.3,80.0,-85.0,-85.0,100.0,108.0,-115.0,80.0,108.0,188.0
+NDIE - REG 1 - Caen - 1ère Journée Normandie,2025-10-18,SEN Men 110,MALFILATRE Anthony,94.7,-53.0,53.0,57.0,65.0,68.0,71.0,57.0,71.0,128.0
+NDIE - REG 1 - Caen - 1ère Journée Normandie,2025-10-18,SEN Men 110,LEFRANCOIS Julien,103.6,56.0,60.0,-63.0,65.0,68.0,71.0,60.0,71.0,131.0
+NDIE - REG 1 - Caen - 1ère Journée Normandie,2025-10-18,SEN Men >110,SAINT -MARTIN Antoine,142.0,85.0,90.0,-95.0,105.0,112.0,-117.0,90.0,112.0,202.0

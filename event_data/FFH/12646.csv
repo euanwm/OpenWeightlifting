@@ -1,0 +1,25 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+NDIE - REG 1 - Caen (014) - 4ème Journée,2026-01-24,U15 Men 60,DEVILLIEZ Valentin,56.3,40.0,-43.0,-44.0,46.0,50.0,53.0,40.0,53.0,93.0
+NDIE - REG 1 - Caen (014) - 4ème Journée,2026-01-24,U17 Men 65,BARBEY Tim,63.5,53.0,56.0,-59.0,71.0,74.0,77.0,56.0,77.0,133.0
+NDIE - REG 1 - Caen (014) - 4ème Journée,2026-01-24,U20 Men 65,LEURY Timothee,61.2,56.0,58.0,60.0,82.0,85.0,-87.0,60.0,85.0,145.0
+NDIE - REG 1 - Caen (014) - 4ème Journée,2026-01-24,U20 Men 79,VARLET Luka,79.0,75.0,-80.0,80.0,100.0,-105.0,105.0,80.0,105.0,185.0
+NDIE - REG 1 - Caen (014) - 4ème Journée,2026-01-24,U20 Men 94,DUVAL Lilian,92.1,80.0,85.0,-90.0,-105.0,105.0,110.0,85.0,110.0,195.0
+NDIE - REG 1 - Caen (014) - 4ème Journée,2026-01-24,SEN Men 65,SCIPION Charles gauthier,62.5,55.0,58.0,-60.0,77.0,-80.0,80.0,58.0,80.0,138.0
+NDIE - REG 1 - Caen (014) - 4ème Journée,2026-01-24,SEN Men 71,FREBOURG Guillaume,70.5,64.0,67.0,69.0,82.0,87.0,-89.0,69.0,87.0,156.0
+NDIE - REG 1 - Caen (014) - 4ème Journée,2026-01-24,SEN Men 71,SAUCEY Thomas,70.9,65.0,68.0,-71.0,-81.0,81.0,-83.0,68.0,81.0,149.0
+NDIE - REG 1 - Caen (014) - 4ème Journée,2026-01-24,SEN Men 71,LEURY Tony,71.0,56.0,-60.0,60.0,80.0,84.0,-87.0,60.0,84.0,144.0
+NDIE - REG 1 - Caen (014) - 4ème Journée,2026-01-24,SEN Men 71,FERNAND Yannis,68.4,54.0,58.0,-61.0,67.0,70.0,-73.0,58.0,70.0,128.0
+NDIE - REG 1 - Caen (014) - 4ème Journée,2026-01-24,SEN Men 79,COMBEAU Victor,77.4,100.0,-104.0,-106.0,133.0,137.0,140.0,100.0,140.0,240.0
+NDIE - REG 1 - Caen (014) - 4ème Journée,2026-01-24,SEN Men 79,SAUVOUREL Elian,76.0,80.0,85.0,90.0,105.0,-110.0,-110.0,90.0,105.0,195.0
+NDIE - REG 1 - Caen (014) - 4ème Journée,2026-01-24,SEN Men 79,LEVALLOIS Corentin,77.7,75.0,80.0,-83.0,100.0,-105.0,-105.0,80.0,100.0,180.0
+NDIE - REG 1 - Caen (014) - 4ème Journée,2026-01-24,SEN Men 88,TRUSSART Benjamin,85.3,90.0,-95.0,95.0,130.0,135.0,140.0,95.0,140.0,235.0
+NDIE - REG 1 - Caen (014) - 4ème Journée,2026-01-24,SEN Men 88,MARCHAND Pierre yves,86.1,-97.0,97.0,102.0,118.0,-122.0,125.0,102.0,125.0,227.0
+NDIE - REG 1 - Caen (014) - 4ème Journée,2026-01-24,SEN Men 88,JULIENNE Romain,80.2,83.0,88.0,93.0,115.0,-120.0,120.0,93.0,120.0,213.0
+NDIE - REG 1 - Caen (014) - 4ème Journée,2026-01-24,SEN Men 88,BRIENS Charles,87.5,95.0,-100.0,-101.0,110.0,115.0,-120.0,95.0,115.0,210.0
+NDIE - REG 1 - Caen (014) - 4ème Journée,2026-01-24,SEN Men 88,LETALLEUR Ugo,82.4,70.0,73.0,76.0,95.0,100.0,103.0,76.0,103.0,179.0
+NDIE - REG 1 - Caen (014) - 4ème Journée,2026-01-24,SEN Men 94,NEMERY Lylian,93.9,85.0,92.0,97.0,115.0,122.0,127.0,97.0,127.0,224.0
+NDIE - REG 1 - Caen (014) - 4ème Journée,2026-01-24,SEN Men 94,FERNAND Sébastien,89.7,-78.0,78.0,-81.0,-101.0,102.0,-106.0,78.0,102.0,180.0
+NDIE - REG 1 - Caen (014) - 4ème Journée,2026-01-24,SEN Men 110,VALLET Richard,108.85,75.0,80.0,85.0,103.0,112.0,115.0,85.0,115.0,200.0
+NDIE - REG 1 - Caen (014) - 4ème Journée,2026-01-24,SEN Men 110,MALFILATRE Anthony,96.0,50.0,-55.0,-55.0,73.0,78.0,-83.0,50.0,78.0,128.0
+NDIE - REG 1 - Caen (014) - 4ème Journée,2026-01-24,SEN Men >110,SAINT -MARTIN Antoine,142.0,90.0,-95.0,-95.0,110.0,-0.0,-0.0,90.0,110.0,200.0
+NDIE - REG 1 - Caen (014) - 4ème Journée,2026-01-24,SEN Men >110,SAVARY Fabien,131.6,68.0,-72.0,-72.0,86.0,-90.0,90.0,68.0,90.0,158.0
