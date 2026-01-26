@@ -76,7 +76,11 @@ func CacheMeOutsideHowBoutDat() {
 		dbtools.PreCacheFilter(*liftdata, query, dbtools.WeightClassList[query.WeightClass], &QueryCache)
 	}
 	log.Println("Caching complete")
-	backendAlive()
+
+	err := backendAlive()
+	if err != nil {
+		log.Println("Error notifying frontend: ", err)
+	}
 }
 
 func backendAlive() error {
