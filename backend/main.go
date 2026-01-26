@@ -4,8 +4,10 @@ import (
 	"backend/dbtools"
 	"backend/discordbot"
 	"backend/middleware"
+	"bytes"
 	"fmt"
 	"log"
+	"net/http"
 	"os"
 	"os/signal"
 	"syscall"
@@ -74,6 +76,44 @@ func CacheMeOutsideHowBoutDat() {
 		dbtools.PreCacheFilter(*liftdata, query, dbtools.WeightClassList[query.WeightClass], &QueryCache)
 	}
 	log.Println("Caching complete")
+	backendAlive()
+}
+
+func backendAlive() error {
+	version := os.Getenv("RELEASE_VERSION")
+	endpoint := os.Getenv("FRONTEND_ENDPOINT")
+
+	if endpoint == "" {
+		return fmt.Errorf("FRONTEND_ENDPOINT environment variable not set")
+	}
+
+	if version == "" {
+		return fmt.Errorf("RELEASE_VERSION environment variable not set")
+	}
+
+	log.Println("Pushing version to frontend: ", version)
+	jsonBody := []byte(fmt.Sprintf(`{"version": "%s"}`, version))
+	bodyReader := bytes.NewReader(jsonBody)
+	req, err := http.NewRequest(http.MethodPut, endpoint, bodyReader)
+	if err != nil {
+		log.Println("big err: ", err)
+	}
+	req.Header.Set("Content-Type", "application/json")
+
+	client := &http.Client{}
+	resp, err := client.Do(req)
+	if err != nil {
+		log.Fatal(err)
+	}
+	defer resp.Body.Close()
+
+	log.Println("Response Status:", resp.Status)
+	if resp.StatusCode != http.StatusOK {
+		return fmt.Errorf("unexpected status code: %d", resp.StatusCode)
+	}
+
+	return nil
+
 }
 
 func RestartHandler(bot *discordbot.DiscordBot) {
