@@ -267,6 +267,11 @@ func Leaderboard(c *gin.Context) {
 	c.JSON(http.StatusOK, fedData)
 }
 
+type RivalsCombined struct {
+	FederationRivals structs.RivalsResult `json:"federationrivals"`
+	CombinedRivals   structs.RivalsResult `json:"combinedrivals"`
+}
+
 func Rival(c *gin.Context) {
 	nameStr := c.Query("name")
 	sexStr := c.Query("sex")
@@ -277,9 +282,15 @@ func Rival(c *gin.Context) {
 	if len(fedStr) == 0 {
 		fedStr = enum.ALLFEDS
 	}
+
 	leaderboardData := LeaderboardData.Select(enum.Total)
-	results := lifter.Rivals(nameStr, sexStr, fedStr, CURRENT_YEAR, *leaderboardData)
-	c.JSON(http.StatusOK, results)
+
+	response := RivalsCombined{
+		FederationRivals: lifter.Rivals(nameStr, sexStr, fedStr, CURRENT_YEAR, *leaderboardData),
+		CombinedRivals:   lifter.Rivals(nameStr, sexStr, enum.ALLFEDS, CURRENT_YEAR, *leaderboardData),
+	}
+
+	c.JSON(http.StatusOK, response)
 }
 
 // Events godoc
