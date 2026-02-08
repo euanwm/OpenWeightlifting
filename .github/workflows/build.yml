@@ -7,22 +7,6 @@ on:
     branches: ["development"]
 
 jobs:
-  build_frontend:
-    defaults:
-      run:
-        working-directory: ./frontend/
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v3
-    - name: Use Node.js LTS
-      uses: actions/setup-node@v3
-      with:
-        node-version: "22.12.0"
-        cache: 'npm'
-        cache-dependency-path: 'frontend/package-lock.json'
-    - run: npm install
-    - run: npm run build --if-present
-
   build_backend:
     runs-on: ubuntu-latest
     steps:
@@ -53,4 +37,3 @@ jobs:
         run: |
           cd backend/
           go test -coverprofile=coverage.txt ./...
-
