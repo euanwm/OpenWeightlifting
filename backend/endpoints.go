@@ -272,7 +272,7 @@ func Rival(c *gin.Context) {
 	sexStr := c.Query("sex")
 	fedStr := c.Query("fed")
 
-	const CURRENT_YEAR = 2025
+	const CURRENT_YEAR = 2026
 
 	if len(fedStr) == 0 {
 		fedStr = enum.ALLFEDS
