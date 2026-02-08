@@ -77,9 +77,12 @@ func CacheMeOutsideHowBoutDat() {
 	}
 	log.Println("Caching complete")
 
-	err := backendAlive()
-	if err != nil {
-		log.Println("Error notifying frontend: ", err)
+	if os.Getenv("GIN_MODE") == gin.ReleaseMode {
+		log.Println("Syncíng frontend")
+		err := backendAlive()
+		if err != nil {
+			log.Println("Error notifying frontend: ", err)
+		}
 	}
 }
 
