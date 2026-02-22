@@ -6,7 +6,10 @@ import (
 	"fmt"
 	"log"
 	"reflect"
+	"strconv"
 	"strings"
+
+	"github.com/gin-gonic/gin"
 )
 
 func (e LifterHistory) GenerateChartData() ChartData {
@@ -204,6 +207,45 @@ func (e EventsMetaData) FetchEventByName(eventName string) (federation, filename
 		}
 	}
 	return "", ""
+}
+
+func (c *LeaderboardPayload) SetDefaults(gin *gin.Context) (err error) {
+	if c.SortBy == "" {
+		c.SortBy = "total"
+	}
+	if c.Federation == "" {
+		c.Federation = enum.ALLFEDS
+	}
+	if c.WeightClass == "" {
+		c.WeightClass = "MALL"
+	}
+	var yearExists bool
+	if len(c.Year) == 2 {
+		c.Year = ""
+		yearExists = false
+	}
+	if c.StartDate == "" {
+		if !yearExists {
+			c.StartDate = enum.ZeroDate
+		}
+	}
+	if c.StartDate == "" && yearExists {
+		return fmt.Errorf("Year and date ranges are exclusive")
+	}
+	if c.EndDate == "" && !yearExists {
+		c.EndDate = enum.MaxDate
+	}
+	if yearExists && c.StartDate == "" && c.EndDate == "" {
+		oneYear, err := strconv.Atoi(c.Year)
+		if err != nil {
+			return err
+		}
+		c.StartDate = c.Year + "-01-01"
+		c.EndDate = strconv.Itoa(oneYear+1) + "-01-01"
+	}
+	c.Start = 0
+	c.Stop = 0
+	return nil
 }
 
 func (e LeaderboardResponse) FilterByDate(eventDate string) (newData []Entry, newSize int) {

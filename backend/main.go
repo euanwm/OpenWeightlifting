@@ -56,6 +56,7 @@ func buildServer() *gin.Engine {
 	r.Use(middleware.PayloadSizer(&TheBank))
 	r.GET("time", ServerTime)
 	r.GET("leaderboard", Leaderboard)
+	r.POST("leaderboard/search", LeaderboardSearch)
 	r.GET("search", SearchName)
 	r.GET("graph", LifterGraph)
 	r.GET("history", LifterHistory)

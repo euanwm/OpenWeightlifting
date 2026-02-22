@@ -77,7 +77,7 @@ func SearchName(c *gin.Context) {
 		if len(results.Names) > 1 {
 			c.JSON(http.StatusOK, results)
 		} else if len(results.Names) == 1 {
-			if len(results.Names[0].Name) > 0 {
+			if len(results.Names[0].NameStr) > 0 {
 				c.JSON(http.StatusOK, results)
 			} else {
 				c.JSON(http.StatusNoContent, nil)
@@ -265,6 +265,47 @@ func Leaderboard(c *gin.Context) {
 	leaderboardData := LeaderboardData.Select(body.SortBy) // Selects either total or sinclair sorted leaderboard
 	fedData := dbtools.FilterLifts(*leaderboardData, body, dbtools.WeightClassList[body.WeightClass], &QueryCache)
 	c.JSON(http.StatusOK, fedData)
+}
+
+func LeaderboardSearch(c *gin.Context) {
+	var body structs.SearchLeaderboardRequest
+	if err := c.ShouldBindJSON(&body); err != nil {
+		c.JSON(http.StatusBadRequest, gin.H{"error": err.Error()})
+		return
+	}
+	body.ActiveQuery.SetDefaults(c)
+
+	// Check that the lifter exists
+	validLifterName := lifter.NewNameSearch(body.LifterData.NameStr, &LeaderboardData.AllTotals)
+
+	if validLifterName.Total == 0 {
+		c.JSON(http.StatusOK, gin.H{"error": "Name not in database"})
+		return
+	}
+
+	// Filter by federation if required
+	var filterByFed []structs.NameSearch
+	if validLifterName.Total > 1 && body.LifterData.Federation != "" {
+		filterByFed = append(filterByFed, utilities.Filter(validLifterName.Names, func(m structs.NameSearch) bool {
+			return m.Federation == body.LifterData.Federation
+		})...)
+	} else if validLifterName.Total > 1 {
+		log.Println("Multiple lifter names found, but no federation specified")
+		filterByFed = validLifterName.Names
+	}
+
+	finalLifter := filterByFed[0]
+
+	leaderboardData := LeaderboardData.Select(body.ActiveQuery.SortBy)
+
+	// Now we see if the name appears in the query
+	leaderboardResult := structs.SearchLeaderboardResult{
+		LifterData: body.LifterData,
+		Position:   dbtools.LeaderboardPosition(*leaderboardData, body.ActiveQuery, &QueryCache, finalLifter),
+		Query:      body.ActiveQuery,
+	}
+
+	c.JSON(http.StatusOK, leaderboardResult)
 }
 
 func Rival(c *gin.Context) {

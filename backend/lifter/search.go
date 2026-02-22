@@ -26,25 +26,21 @@ func NewNameSearch(nameStr string, nameList *[]structs.Entry) (nameResults struc
 	nameStr = strings.ToLower(nameStr)
 	for _, lift := range *nameList {
 		if strings.Contains(strings.ToLower(lift.Name), nameStr) {
-			nameResults.Names = append(nameResults.Names, []struct {
-				Name       string
-				Federation string
-			}{{Name: lift.Name, Federation: lift.Federation}}...)
+			nameResults.Names = append(nameResults.Names, []structs.NameSearch{{NameStr: lift.Name, Federation: lift.Federation}}...)
+			nameResults.Total++
 		}
 	}
 	if len(nameResults.Names) == 0 {
-		nameResults.Names = append(nameResults.Names, struct {
-			Name       string
-			Federation string
-		}{Name: "", Federation: ""})
+		nameResults.Names = append(nameResults.Names, structs.NameSearch{NameStr: "", Federation: ""})
 	}
 
 	// drop duplicates if the federation AND name match - it's messy but it works
 	for i := 0; i < len(nameResults.Names); i++ {
 		for j := i + 1; j < len(nameResults.Names); j++ {
-			if nameResults.Names[i].Name == nameResults.Names[j].Name && nameResults.Names[i].Federation == nameResults.Names[j].Federation {
+			if nameResults.Names[i].NameStr == nameResults.Names[j].NameStr && nameResults.Names[i].Federation == nameResults.Names[j].Federation {
 				nameResults.Names = append(nameResults.Names[:j], nameResults.Names[j+1:]...)
 				j--
+				nameResults.Total--
 			}
 		}
 	}
