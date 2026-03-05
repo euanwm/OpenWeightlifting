@@ -232,7 +232,7 @@ func (c *LeaderboardPayload) SetDefaults(gin *gin.Context) (err error) {
 	if c.StartDate != "" && yearExists {
 		return fmt.Errorf("Year and date ranges are exclusive")
 	}
-	if c.EndDate != "" && !yearExists {
+	if c.EndDate == "" && !yearExists {
 		c.EndDate = enum.MaxDate
 	}
 	if yearExists && c.StartDate == "" && c.EndDate == "" {
