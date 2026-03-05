@@ -219,7 +219,7 @@ func (c *LeaderboardPayload) SetDefaults(gin *gin.Context) (err error) {
 	if c.WeightClass == "" {
 		c.WeightClass = "MALL"
 	}
-	var yearExists bool
+	var yearExists bool = len(c.Year) != 0
 	if len(c.Year) == 2 {
 		c.Year = ""
 		yearExists = false
@@ -229,10 +229,10 @@ func (c *LeaderboardPayload) SetDefaults(gin *gin.Context) (err error) {
 			c.StartDate = enum.ZeroDate
 		}
 	}
-	if c.StartDate == "" && yearExists {
+	if c.StartDate != "" && yearExists {
 		return fmt.Errorf("Year and date ranges are exclusive")
 	}
-	if c.EndDate == "" && !yearExists {
+	if c.EndDate != "" && !yearExists {
 		c.EndDate = enum.MaxDate
 	}
 	if yearExists && c.StartDate == "" && c.EndDate == "" {

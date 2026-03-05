@@ -285,7 +285,7 @@ func LeaderboardSearch(c *gin.Context) {
 
 	// Filter by federation if required
 	var filterByFed []structs.NameSearch
-	if validLifterName.Total > 1 && body.LifterData.Federation != "" {
+	if validLifterName.Total >= 1 && body.LifterData.Federation != "" {
 		filterByFed = append(filterByFed, utilities.Filter(validLifterName.Names, func(m structs.NameSearch) bool {
 			return m.Federation == body.LifterData.Federation
 		})...)

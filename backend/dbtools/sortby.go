@@ -127,7 +127,7 @@ func lifterPosition(bigData []structs.Entry, pos []int, lifter structs.NameSearc
 	for i, d := range pos {
 		liftData := bigData[d]
 		if liftData.Name == lifter.NameStr && liftData.Federation == lifter.Federation {
-			return i
+			return i+1
 		}
 	}
 	return 0
