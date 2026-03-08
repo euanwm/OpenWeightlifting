@@ -1,0 +1,21 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Summit Open,2026-03-01,female - F53,Lily Plass,52.75,40,43,-45,57,-60,-61,43,57,100
+Summit Open,2026-03-01,female - F63,Taylor Callum Lucas-Meads,60.55,48,53,-56,70,74,78,53,78,131
+Summit Open,2026-03-01,female - F63,Louise Vause,59.15,-40,40,-43,-50,50,53,40,53,93
+Summit Open,2026-03-01,female - F69,Marilyn Dobe,68.30,47,50,-53,64,67,-70,50,67,117
+Summit Open,2026-03-01,female - F69,Apsar Shaik,63.05,36,-38,-40,47,50,-54,36,50,86
+Summit Open,2026-03-01,female - F69,Bronwyn Cook,67.45,30,33,35,35,38,41,35,41,76
+Summit Open,2026-03-01,female - F77,Ella Clarke,75.15,48,51,53,68,71,74,53,74,127
+Summit Open,2026-03-01,female - F77,Christi Land,75.95,47,49,-52,64,67,71,49,71,120
+Summit Open,2026-03-01,female - F86,Layla Irving,80.70,61,64,68,81,-84,85,68,85,153
+Summit Open,2026-03-01,female - F86,Brittany Stait,81.45,60,63,65,80,84,88,65,88,153
+Summit Open,2026-03-01,female - F86,Chelsea Nia Nia-Edwards,82.10,46,49,51,59,63,67,51,67,118
+Summit Open,2026-03-01,female - F86,Stephanie Paul,82.55,32,35,37,45,48,52,37,52,89
+Summit Open,2026-03-01,female - F86+,Jessica Allan,86.50,37,39,-41,50,53,56,39,56,95
+Summit Open,2026-03-01,male - M88,Hudson Miiller,85.20,75,80,-86,-105,105,110,80,110,190
+Summit Open,2026-03-01,male - M88,Joseph Little,85.85,68,72,75,93,97,101,75,101,176
+Summit Open,2026-03-01,male - M94,Mathew Leahy,93.70,85,90,-101,115,120,-125,90,120,210
+Summit Open,2026-03-01,male - M94,Cameron Forbes,93.25,35,-38,-40,-55,55,61,35,61,96
+Summit Open,2026-03-01,male - M110,Adrian Carey,97.60,-107,107,115,125,137,145,115,145,260
+Summit Open,2026-03-01,male - M110,Carl Manning,96.00,53,56,-60,75,-80,-82,56,75,131
+Summit Open,2026-03-01,male - M110,Peter Ticehurst,98.60,35,-38,40,55,60,63,40,63,103
