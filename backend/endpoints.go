@@ -273,7 +273,12 @@ func LeaderboardSearch(c *gin.Context) {
 		c.JSON(http.StatusBadRequest, gin.H{"error": err.Error()})
 		return
 	}
-	body.ActiveQuery.SetDefaults(c)
+	err := body.ActiveQuery.SetDefaults(c)
+	if err != nil {
+		log.Println("Error setting defaults for active query: ", err)
+		c.JSON(http.StatusBadRequest, gin.H{"error": "Broken query"})
+		return
+	}
 
 	// Check that the lifter exists
 	validLifterName := lifter.NewNameSearch(body.LifterData.NameStr, &LeaderboardData.AllTotals)
