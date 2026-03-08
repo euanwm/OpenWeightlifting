@@ -67,3 +67,12 @@ func ReverseSlice[S any](liftResults []S) (reversedSlice []S) {
 	}
 	return
 }
+
+func Filter[T any](slice []T, predicate func(T) bool) (result []T) {
+	for _, val := range slice {
+		if predicate(val) {
+			result = append(result, val)
+		}
+	}
+	return
+}

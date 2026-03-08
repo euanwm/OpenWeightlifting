@@ -20,11 +20,8 @@ type AllData struct {
 
 type NameSearchResults struct {
 	// todo: refactor this so we don't have to worry about case sensitivity on the items within the slice
-	Names []struct {
-		Name       string
-		Federation string
-	} `json:"names"`
-	Total int `json:"total"`
+	Names []NameSearch `json:"names"`
+	Total int          `json:"total"`
 }
 
 type RivalsResult struct {
@@ -36,6 +33,11 @@ type RivalsResult struct {
 		Federation string
 	} `json:"rivals"`
 	Total int `json:"total"`
+}
+
+type RivalsCombined struct {
+	FederationRivals RivalsResult `json:"federationrivals"`
+	CombinedRivals   RivalsResult `json:"combinedrivals"`
 }
 
 type NameSearch struct {
@@ -85,6 +87,17 @@ type LeaderboardPayload struct {
 	EndDate     string `form:"enddate"`
 }
 
+type SearchLeaderboardRequest struct {
+	ActiveQuery LeaderboardPayload `json:"active_query"`
+	LifterData  NameSearch         `json:"lifter_data"`
+}
+
+type SearchLeaderboardResult struct {
+	LifterData NameSearch         `json:"lifter_data"`
+	Position   int                `json:"position"`
+	Query      LeaderboardPayload `json:"query"`
+}
+
 // Entry Standard structs that we'll use for storing raw lift data
 type Entry struct {
 	Event      string   `json:"event"`
@@ -103,7 +116,6 @@ type Entry struct {
 	Total      WeightKg `json:"total"`
 	Sinclair   float32  `json:"sinclair"`
 	Federation string   `json:"country"`
-	Instagram  string   `json:"instagram"`
 }
 
 type LeaderboardResponse struct {

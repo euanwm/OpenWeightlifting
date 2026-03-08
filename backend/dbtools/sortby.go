@@ -98,6 +98,41 @@ func PreCacheFilter(bigData []structs.Entry, filterQuery structs.LeaderboardPayl
 	cache.AddQuery(filterQuery, liftPositions)
 }
 
+func LeaderboardPosition(bigData []structs.Entry, filterQuery structs.LeaderboardPayload, cache *QueryCache, lifterQuery structs.NameSearch) int {
+	queryState, positions := cache.CheckQuery(filterQuery)
+
+	switch queryState {
+	case None:
+		// cache.InitQuery(filterQuery)
+		panic("Fuck you")
+	case Working:
+		state := cache.QueryStatus(filterQuery)
+		for state == Working {
+			time.Sleep(100 * time.Millisecond)
+			state = cache.QueryStatus(filterQuery)
+			if state == Completed {
+				return lifterPosition(bigData, positions, lifterQuery)
+			}
+		}
+	case Completed:
+		return lifterPosition(bigData, positions, lifterQuery)
+	default:
+		// if you hit this, fuck you
+		panic("Invalid query state")
+	}
+	return 0
+}
+
+func lifterPosition(bigData []structs.Entry, pos []int, lifter structs.NameSearch) int {
+	for i, d := range pos {
+		liftData := bigData[d]
+		if liftData.Name == lifter.NameStr && liftData.Federation == lifter.Federation {
+			return i+1
+		}
+	}
+	return 0
+}
+
 // fetchLifts - Returns a slice of structs relating to the selected filter selection, it will also remove any duplicate entries.
 func fetchLifts(bigData *[]structs.Entry, pos []int, query *structs.LeaderboardPayload) (lifts []structs.Entry, size int) {
 	for _, p := range pos {
