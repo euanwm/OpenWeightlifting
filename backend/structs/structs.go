@@ -35,6 +35,11 @@ type RivalsResult struct {
 	Total int `json:"total"`
 }
 
+type RivalsCombined struct {
+	FederationRivals RivalsResult `json:"federationrivals"`
+	CombinedRivals   RivalsResult `json:"combinedrivals"`
+}
+
 type NameSearch struct {
 	NameStr    string `json:"name"`
 	Federation string `json:"federation"`

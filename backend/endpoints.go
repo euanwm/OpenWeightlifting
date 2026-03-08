@@ -321,7 +321,7 @@ func Rival(c *gin.Context) {
 
 	leaderboardData := LeaderboardData.Select(enum.Total)
 
-	response := RivalsCombined{
+	response := structs.RivalsCombined{
 		FederationRivals: lifter.Rivals(nameStr, sexStr, fedStr, CURRENT_YEAR, *leaderboardData),
 		CombinedRivals:   lifter.Rivals(nameStr, sexStr, enum.ALLFEDS, CURRENT_YEAR, *leaderboardData),
 	}
