@@ -4,6 +4,7 @@ import (
 	"backend/dbtools"
 	"backend/structs"
 	"backend/utilities"
+	"sort"
 	"strings"
 )
 
@@ -44,6 +45,39 @@ func NewNameSearch(nameStr string, nameList *[]structs.Entry) (nameResults struc
 			}
 		}
 	}
+
+	return
+}
+
+// SimilarNames returns entries whose names are fuzzy-similar to nameDetails.NameStr.
+// It uses token sort ratio (handles IWF "LASTNAME Firstname" vs "Firstname Lastname" format)
+// combined with token-level Jaro-Winkler (typo tolerance and partial matches like Chris/Christopher)
+// and Soundex phonetic boosting for varied spellings of the same sound.
+// Results are sorted by descending score.
+func SimilarNames(nameDetails structs.NameSearch, nameList *[]structs.Entry) (similarNames structs.NameSimilarityResults) {
+	seen := make(map[string]bool)
+
+	for _, entry := range *nameList {
+		key := entry.Name + "|" + entry.Federation
+		if seen[key] {
+			continue
+		}
+		seen[key] = true
+
+		score := combinedNameScore(nameDetails.NameStr, entry.Name)
+		if score >= similarityThreshold {
+			similarNames.Names = append(similarNames.Names, structs.NameSimilarity{
+				NameStr:    entry.Name,
+				Federation: entry.Federation,
+				Score:      float32(score),
+			})
+			similarNames.Total++
+		}
+	}
+
+	sort.SliceStable(similarNames.Names, func(i, j int) bool {
+		return similarNames.Names[i].Score > similarNames.Names[j].Score
+	})
 
 	return
 }

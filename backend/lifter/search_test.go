@@ -106,3 +106,67 @@ func TestNameSearch(t *testing.T) {
 		})
 	}
 }
+
+func TestSimilarNames(t *testing.T) {
+	type args struct {
+		nameSearch structs.NameSearch
+		nameList   []structs.Entry
+	}
+	tests := []struct {
+		name                string
+		args                args
+		wantSimilaritySlice structs.NameSimilarityResults
+	}{
+		{name: "Single Match", args: args{
+			nameSearch: structs.NameSearch{NameStr: "Chris Murray", Federation: "UK"},
+			nameList: []structs.Entry{
+				{Name: "Frankie Murray", Federation: "US"},
+				{Name: "Chris Murray", Federation: "UK"},
+				{Name: "MURRAY Chris", Federation: "IWF"},
+				{Name: "MURRAY Christopher John", Federation: "IWF"},
+			}},
+			// Expected: all 4 entries score above the threshold (0.6).
+			// Sorted by descending score:
+			//   "Chris Murray" UK  → 1.0  (exact)
+			//   "MURRAY Chris" IWF → 1.0  (token sort neutralises format flip)
+			//   "MURRAY Christopher John" IWF → ~0.78 (token JW: "Chris"≈"Christopher")
+			//   "Frankie Murray" US → ~0.70 (shared surname)
+			wantSimilaritySlice: structs.NameSimilarityResults{
+				Names: []structs.NameSimilarity{
+					{NameStr: "Chris Murray", Federation: "UK", Score: 1},
+					{NameStr: "MURRAY Chris", Federation: "IWF", Score: 1},
+					{NameStr: "MURRAY Christopher John", Federation: "IWF", Score: 0.7759684},
+					{NameStr: "Frankie Murray", Federation: "US", Score: 0.69714284},
+				},
+				Total: 4,
+			},
+		},
+	}
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			got := SimilarNames(tt.args.nameSearch, &tt.args.nameList)
+
+			if got.Total != tt.wantSimilaritySlice.Total {
+				t.Errorf("SimilarNames() Total = %d, want %d", got.Total, tt.wantSimilaritySlice.Total)
+			}
+			if len(got.Names) != len(tt.wantSimilaritySlice.Names) {
+				t.Fatalf("SimilarNames() len(Names) = %d, want %d", len(got.Names), len(tt.wantSimilaritySlice.Names))
+			}
+			for i, want := range tt.wantSimilaritySlice.Names {
+				g := got.Names[i]
+				if g.NameStr != want.NameStr || g.Federation != want.Federation || g.Score != want.Score {
+					t.Errorf("SimilarNames() Names[%d] = {%q, %q, %v}, want {%q, %q, %v}",
+						i, g.NameStr, g.Federation, g.Score,
+						want.NameStr, want.Federation, want.Score)
+				}
+			}
+			// Verify results are in descending score order.
+			for i := 1; i < len(got.Names); i++ {
+				if got.Names[i].Score > got.Names[i-1].Score {
+					t.Errorf("SimilarNames() scores not descending at index %d: %v > %v",
+						i, got.Names[i].Score, got.Names[i-1].Score)
+				}
+			}
+		})
+	}
+}
