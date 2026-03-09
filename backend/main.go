@@ -58,6 +58,7 @@ func buildServer() *gin.Engine {
 	r.GET("leaderboard", Leaderboard)
 	r.POST("leaderboard/search", LeaderboardSearch)
 	r.GET("search", SearchName)
+	r.GET("search/similarity", SimilarNameSearch)
 	r.GET("graph", LifterGraph)
 	r.GET("history", LifterHistory)
 	r.POST("events/list", Events)

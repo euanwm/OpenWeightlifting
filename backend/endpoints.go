@@ -313,6 +313,35 @@ func LeaderboardSearch(c *gin.Context) {
 	c.JSON(http.StatusOK, leaderboardResult)
 }
 
+// SimilarNameSearch godoc
+//
+//	@Summary	Fuzzy search for similar lifter names
+//	@Schemes
+//	@Description	Returns lifter names that are phonetically or typographically similar to the query. Handles IWF "LASTNAME Firstname" format automatically.
+//	@Tags			GET Requests
+//	@Param name query string true "Name to search for"
+//	@Param federation query string true "Federation the lifter competes in"
+//	@Accept			json
+//	@Produce		json
+//	@Success		200	{object}	structs.NameSimilarityResults
+//	@Failure		204	{object}	nil
+//	@Router			/search/similarity [get]
+func SimilarNameSearch(c *gin.Context) {
+	name := c.Query("name")
+	federation := c.Query("federation")
+	if len(name) == 0 {
+		c.JSON(http.StatusBadRequest, gin.H{"error": "name parameter is required"})
+		return
+	}
+	nameSearch := structs.NameSearch{NameStr: name, Federation: federation}
+	results := lifter.SimilarNames(nameSearch, &LeaderboardData.AllTotals)
+	if results.Total == 0 {
+		c.JSON(http.StatusNoContent, nil)
+		return
+	}
+	c.JSON(http.StatusOK, results)
+}
+
 func Rival(c *gin.Context) {
 	nameStr := c.Query("name")
 	sexStr := c.Query("sex")

@@ -24,6 +24,17 @@ type NameSearchResults struct {
 	Total int          `json:"total"`
 }
 
+type NameSimilarity struct {
+	NameStr    string  `json:"name"`
+	Federation string  `json:"federation"`
+	Score      float32 `json:"score"`
+}
+
+type NameSimilarityResults struct {
+	Names []NameSimilarity `json:"names"`
+	Total int              `json:"total"`
+}
+
 type RivalsResult struct {
 	Rivals []struct {
 		Position   int
