@@ -1,0 +1,76 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+1st VWA Tournament,2026-03-14,female - F48,Celia Iao,47.60,45,48,-50,60,63,-66,48,63,111
+1st VWA Tournament,2026-03-14,female - F53,Julie Nguyen,50.30,25,28,31,38,40,43,31,43,74
+1st VWA Tournament,2026-03-14,female - F58,Tessa Rim,57.65,75,-78,-81,95,100,106,75,106,181
+1st VWA Tournament,2026-03-14,female - F58,Erja Mohd Suhaimy,55.90,53,-56,-57,65,68,71,53,71,124
+1st VWA Tournament,2026-03-14,female - F58,Sherilyn Moffitt,57.45,35,38,-40,52,55,-58,38,55,93
+1st VWA Tournament,2026-03-14,female - F58,Melissa Van,54.95,33,35,-38,43,46,49,35,49,84
+1st VWA Tournament,2026-03-14,female - F63,Bonnie Grylls-Graham,60.25,67,70,-73,84,-87,-88,70,84,154
+1st VWA Tournament,2026-03-14,female - F63,Ruoni Chen,60.35,64,67,70,76,80,-83,70,80,150
+1st VWA Tournament,2026-03-14,female - F63,Rhiannon Graves,60.60,-63,63,-66,76,80,-83,63,80,143
+1st VWA Tournament,2026-03-14,female - F63,Ashleigh Huggins,61.10,53,57,-59,68,-71,71,57,71,128
+1st VWA Tournament,2026-03-14,female - F63,Tracy Hui Qing Heng,62.80,45,48,51,53,56,60,51,60,111
+1st VWA Tournament,2026-03-14,female - F63,Dove Allen,61.35,40,43,-45,-55,55,60,43,60,103
+1st VWA Tournament,2026-03-14,female - F63,Catherine Osmond,60.05,38,41,44,50,54,58,44,58,102
+1st VWA Tournament,2026-03-14,female - F63,Natalie Wohlers,61.45,37,39,-41,48,50,-52,39,50,89
+1st VWA Tournament,2026-03-14,female - F69,Skye Harrison,67.20,67,-70,-70,-88,88,-93,67,88,155
+1st VWA Tournament,2026-03-14,female - F69,Alice Masman,68.35,66,-69,-69,86,-90,0,66,86,152
+1st VWA Tournament,2026-03-14,female - F69,Rebecca Mcconnell,66.10,67,-70,70,78,81,-84,70,81,151
+1st VWA Tournament,2026-03-14,female - F69,Jesse Bliss,66.25,62,66,-70,78,81,84,66,84,150
+1st VWA Tournament,2026-03-14,female - F69,Kirsten Bolton,63.35,49,52,55,65,70,72,55,72,127
+1st VWA Tournament,2026-03-14,female - F69,Alex Anh Thu Pham,67.95,45,-47,-47,61,64,-68,45,64,109
+1st VWA Tournament,2026-03-14,female - F69,Rebecca Lim,67.15,36,40,44,50,55,58,44,58,102
+1st VWA Tournament,2026-03-14,female - F69,Katelyn Utai,65.25,40,-45,-45,45,48,50,40,50,90
+1st VWA Tournament,2026-03-14,female - F77,Fang-Ling Liu,73.25,70,75,80,95,100,105,80,105,185
+1st VWA Tournament,2026-03-14,female - F77,Kate Sznyta,75.65,56,60,63,74,78,-82,63,78,141
+1st VWA Tournament,2026-03-14,female - F77,Jessica Dudgeon,72.25,53,-56,-56,73,-76,0,53,73,126
+1st VWA Tournament,2026-03-14,female - F77,Marcelle Teycheney,74.45,49,52,55,55,59,-63,55,59,114
+1st VWA Tournament,2026-03-14,female - F86,Bianca Hansen,81.25,-90,90,-95,105,110,115,90,115,205
+1st VWA Tournament,2026-03-14,female - F86,Emily Robinson,78.10,45,48,50,62,65,68,50,68,118
+1st VWA Tournament,2026-03-14,female - F86,Magda Andrzejewski,84.00,45,49,53,57,-62,63,53,63,116
+1st VWA Tournament,2026-03-14,female - F86,Farzana Amat Sanusi,82.25,48,50,-52,60,-63,-65,50,60,110
+1st VWA Tournament,2026-03-14,female - F86,Suzette Cole,79.95,41,-44,-44,55,59,-60,41,59,100
+1st VWA Tournament,2026-03-14,female - F86,Sonja Terpstra,77.85,28,31,33,45,49,-53,33,49,82
+1st VWA Tournament,2026-03-14,female - F86+,Tali Pitt,98.85,48,-51,-53,67,72,75,48,75,123
+1st VWA Tournament,2026-03-14,female - F86+,Eva-Soul Faatoe,115.75,40,45,50,50,55,60,50,60,110
+1st VWA Tournament,2026-03-14,female - F86+,Diane Christou,106.85,45,49,-51,-55,55,60,49,60,109
+1st VWA Tournament,2026-03-14,female - F86+,Virginia Mcleod,110.50,39,-43,-44,60,65,-70,39,65,104
+1st VWA Tournament,2026-03-14,female - F86+,Leora Pitt,106.90,-39,41,43,-50,52,-56,43,52,95
+1st VWA Tournament,2026-03-14,male - M65,Phil Tran,64.20,65,68,70,85,-90,90,70,90,160
+1st VWA Tournament,2026-03-14,male - M71,Jacob Sanderson,69.95,-87,87,90,110,115,-120,90,115,205
+1st VWA Tournament,2026-03-14,male - M71,Shannon Koliba,68.85,25,30,-35,30,-35,35,30,35,65
+1st VWA Tournament,2026-03-14,male - M79,Elijah Alvarez,72.25,95,100,-103,-115,115,-120,100,115,215
+1st VWA Tournament,2026-03-14,male - M79,Kuan-Yu Shih,76.30,85,90,-95,110,115,-120,90,115,205
+1st VWA Tournament,2026-03-14,male - M79,Chris Ackland,73.05,84,88,92,105,110,-116,92,110,202
+1st VWA Tournament,2026-03-14,male - M79,Dhananjay Katre,73.40,-75,75,80,110,116,122,80,122,202
+1st VWA Tournament,2026-03-14,male - M79,Sam Storer,77.35,75,80,85,110,115,-120,85,115,200
+1st VWA Tournament,2026-03-14,male - M79,Jinyuan Liu,74.05,75,81,-85,95,100,103,81,103,184
+1st VWA Tournament,2026-03-14,male - M79,Joshua Gunaseelan,77.20,65,-69,70,96,100,-105,70,100,170
+1st VWA Tournament,2026-03-14,male - M79,Wes Cassidy,74.25,73,77,-80,90,-95,-96,77,90,167
+1st VWA Tournament,2026-03-14,male - M79,Christos Christou,74.75,60,-65,65,75,80,-87,65,80,145
+1st VWA Tournament,2026-03-14,male - M88,Dean Kearney Devlin,80.80,108,109,115,140,145,-150,115,145,260
+1st VWA Tournament,2026-03-14,male - M88,An-Ti Hsu,84.45,100,-106,-106,-120,120,-125,100,120,220
+1st VWA Tournament,2026-03-14,male - M88,Ethan Correa,86.30,90,95,-100,-120,120,125,95,125,220
+1st VWA Tournament,2026-03-14,male - M88,Jay Molesi,85.95,87,92,-100,-123,123,-131,92,123,215
+1st VWA Tournament,2026-03-14,male - M88,Petr Kolar,83.00,78,80,82,102,105,108,82,108,190
+1st VWA Tournament,2026-03-14,male - M88,David Rowe,84.45,75,-80,-82,100,-105,-108,75,100,175
+1st VWA Tournament,2026-03-14,male - M88,Jason Bi,86.35,72,-77,80,88,93,-100,80,93,173
+1st VWA Tournament,2026-03-14,male - M88,David Cannon,84.50,65,71,-78,95,101,-108,71,101,172
+1st VWA Tournament,2026-03-14,male - M88,Gilbert Siahaan,82.25,58,60,61,75,-80,81,61,81,142
+1st VWA Tournament,2026-03-14,male - M88,Kwan Hon Yiu,87.40,55,60,65,70,75,-80,65,75,140
+1st VWA Tournament,2026-03-14,male - M88,Brett Jacobi,80.15,45,48,51,63,67,70,51,70,121
+1st VWA Tournament,2026-03-14,male - M88,James Clark,84.20,42,45,47,45,49,53,47,53,100
+1st VWA Tournament,2026-03-14,male - M94,Jacob Tout,94.00,115,-120,-120,-140,140,-147,115,140,255
+1st VWA Tournament,2026-03-14,male - M94,Jason Tang,90.15,-95,95,-105,125,130,135,95,135,230
+1st VWA Tournament,2026-03-14,male - M94,Joshua Williams,93.60,58,63,-66,74,-77,77,63,77,140
+1st VWA Tournament,2026-03-14,male - M110,Caleb Davison,97.15,-115,115,-120,135,140,145,115,145,260
+1st VWA Tournament,2026-03-14,male - M110,Ryan Whitlock,94.95,95,-100,100,118,124,130,100,130,230
+1st VWA Tournament,2026-03-14,male - M110,Eden Smith,102.15,95,100,-105,120,125,-130,100,125,225
+1st VWA Tournament,2026-03-14,male - M110,Anthony Schultz,103.35,90,94,-98,-115,115,-121,94,115,209
+1st VWA Tournament,2026-03-14,male - M110,Kurt Elstone,105.60,90,95,-98,105,-110,110,95,110,205
+1st VWA Tournament,2026-03-14,male - M110,Evri Katsavos,108.15,85,90,-95,-115,-115,115,90,115,205
+1st VWA Tournament,2026-03-14,male - M110,Luke Ryley,107.65,87,90,-93,110,0,0,90,110,200
+1st VWA Tournament,2026-03-14,male - M110,Caleb North,103.15,85,90,-95,100,105,110,90,110,200
+1st VWA Tournament,2026-03-14,male - M110,Hayden Buckworth,100.55,63,67,-70,85,90,-95,67,90,157
+1st VWA Tournament,2026-03-14,male - M110,Andrew Thomas,94.15,-57,60,64,85,90,-95,64,90,154
+1st VWA Tournament,2026-03-14,male - M110+,William Brown,129.35,125,133,-137,171,-181,-181,133,171,304
