@@ -44,11 +44,14 @@ func Contains(sl []string, name string) bool {
 	return false
 }
 
-// LoadCsvFile Returns the contents of a CSV file as a nested slice minus the header line
-func LoadCsvFile(file io.Reader) (csvContents [][]string) {
+// LoadCsvFile Returns the header row and data rows of a CSV file as separate slices.
+func LoadCsvFile(file io.Reader) (header []string, csvContents [][]string) {
 	reader := csv.NewReader(file)
-	csvContents, _ = reader.ReadAll()
-	return csvContents[1:]
+	all, _ := reader.ReadAll()
+	if len(all) == 0 {
+		return nil, nil
+	}
+	return all[0], all[1:]
 }
 
 func StringToDate(dateString string) (date time.Time, borkt error) {
