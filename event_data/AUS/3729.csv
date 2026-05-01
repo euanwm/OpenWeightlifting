@@ -1,0 +1,31 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+CrossFit Fallen Open,2026-04-11,female - F53,Linh Nguyen,49.72,35,40,45,45,-50,50,45,50,95
+CrossFit Fallen Open,2026-04-11,female - F63,Madison Davies,61.94,40,45,50,72,77,81,50,81,131
+CrossFit Fallen Open,2026-04-11,female - F69,Bianca Peppas,68.20,32,35,38,42,47,52,38,52,90
+CrossFit Fallen Open,2026-04-11,female - F77,Chelsea Pace,75.08,82,-85,-85,102,-104,0,82,102,184
+CrossFit Fallen Open,2026-04-11,female - F77,Mia Hoff,76.90,40,43,46,55,61,-66,46,61,107
+CrossFit Fallen Open,2026-04-11,female - F77,Sharika Ahad,69.66,35,40,-45,42,47,-53,40,47,87
+CrossFit Fallen Open,2026-04-11,female - F86,Cath Costello,80.06,27,32,37,50,55,-60,37,55,92
+CrossFit Fallen Open,2026-04-11,female - F86+,Jennifer Zeven,118.08,35,40,45,45,50,60,45,60,105
+CrossFit Fallen Open,2026-04-11,male - M60,Tim Dinh,50.89,42,47,50,61,66,69,50,69,119
+CrossFit Fallen Open,2026-04-11,male - M65,Isaac Do,63.88,95,-99,-100,115,120,-123,95,120,215
+CrossFit Fallen Open,2026-04-11,male - M65,Nelson Nunes Junior,64.62,70,80,-90,105,115,120,80,120,200
+CrossFit Fallen Open,2026-04-11,male - M65,Tyson Dinh,64.54,85,91,-94,95,100,106,91,106,197
+CrossFit Fallen Open,2026-04-11,male - M65,Dan Hood,63.34,80,84,88,97,-102,-107,88,97,185
+CrossFit Fallen Open,2026-04-11,male - M65,Francisco Jr Dullona,64.33,40,45,-50,55,60,65,45,65,110
+CrossFit Fallen Open,2026-04-11,male - M71,Phillip Nguyen,70.84,93,98,-105,120,-130,130,98,130,228
+CrossFit Fallen Open,2026-04-11,male - M71,Lenin Pichiayan,69.73,55,-60,61,70,75,80,61,80,141
+CrossFit Fallen Open,2026-04-11,male - M79,Byron Gronning,77.74,85,90,-100,110,115,121,90,121,211
+CrossFit Fallen Open,2026-04-11,male - M79,Hezekiah Hudson,78.83,75,80,-90,100,106,-112,80,106,186
+CrossFit Fallen Open,2026-04-11,male - M79,Steven Manuel,72.19,42,52,60,72,77,-80,60,77,137
+CrossFit Fallen Open,2026-04-11,male - M79,Arjun Tokhi,78.19,45,50,53,55,60,65,53,65,118
+CrossFit Fallen Open,2026-04-11,male - M79,Rainer Stranz,76.23,47,52,-60,62,-67,-67,52,62,114
+CrossFit Fallen Open,2026-04-11,male - M88,Wilbur Glaetzer,82.72,105,110,115,135,138,-141,115,138,253
+CrossFit Fallen Open,2026-04-11,male - M88,Jake Roberts,86.64,100,-105,-107,-131,136,-143,100,136,236
+CrossFit Fallen Open,2026-04-11,male - M94,Trung Le,93.64,65,-73,75,90,-98,100,75,100,175
+CrossFit Fallen Open,2026-04-11,male - M94,Almir Zivalj,93.50,55,63,-70,70,75,85,63,85,148
+CrossFit Fallen Open,2026-04-11,male - M110,Ben Mulder,94.92,110,115,117,140,150,0,117,150,267
+CrossFit Fallen Open,2026-04-11,male - M110,Sreten Radusin,105.74,95,100,-105,130,-135,0,100,130,230
+CrossFit Fallen Open,2026-04-11,male - M110,Stuart Zanotti,101.15,60,-66,66,80,85,90,66,90,156
+CrossFit Fallen Open,2026-04-11,male - M110,Peter Duggan,100.75,50,-55,55,70,-75,81,55,81,136
+CrossFit Fallen Open,2026-04-11,male - M110+,Zhi Yong Wong,124.63,45,48,-52,55,60,-65,48,60,108
