@@ -1,0 +1,14 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+HDF - Challenge Avenir - Comines - 3ème - Hommes,2026-04-25,U17 Men 56,BRUNET Esteban,55.0,34.0,37.0,39.0,43.0,47.0,-48.0,39.0,47.0,86.0
+HDF - Challenge Avenir - Comines - 3ème - Hommes,2026-04-25,U17 Men 60,MARLOT-NIZET Lucas,60.0,-52.0,-53.0,-53.0,60.0,64.0,-68.0,0.0,64.0,0.0
+HDF - Challenge Avenir - Comines - 3ème - Hommes,2026-04-25,U17 Men 65,FAUCON Maxime,64.0,43.0,46.0,-48.0,56.0,60.0,62.0,46.0,62.0,108.0
+HDF - Challenge Avenir - Comines - 3ème - Hommes,2026-04-25,U17 Men 71,LAHOUEL Noah,69.0,50.0,53.0,-56.0,66.0,70.0,-72.0,53.0,70.0,123.0
+HDF - Challenge Avenir - Comines - 3ème - Hommes,2026-04-25,U20 Men 60,MASSON Iliane,52.4,-50.0,50.0,54.0,66.0,-70.0,-70.0,54.0,66.0,120.0
+HDF - Challenge Avenir - Comines - 3ème - Hommes,2026-04-25,U20 Men 60,RIQUIER Alexis,59.3,45.0,48.0,-50.0,68.0,70.0,71.0,48.0,71.0,119.0
+HDF - Challenge Avenir - Comines - 3ème - Hommes,2026-04-25,SEN Men 79,BRESSON Antoine,75.5,92.0,96.0,-100.0,110.0,115.0,119.0,96.0,119.0,215.0
+HDF - Challenge Avenir - Comines - 3ème - Hommes,2026-04-25,SEN Men 79,BOULINIER Dorian,77.0,92.0,-96.0,100.0,-110.0,110.0,-115.0,100.0,110.0,210.0
+HDF - Challenge Avenir - Comines - 3ème - Hommes,2026-04-25,SEN Men 79,VAN GORP Peter,75.6,67.0,-72.0,-72.0,-93.0,93.0,-96.0,67.0,93.0,160.0
+HDF - Challenge Avenir - Comines - 3ème - Hommes,2026-04-25,SEN Men 79,LEHAQUE Herve,79.0,35.0,37.0,-40.0,43.0,46.0,-50.0,37.0,46.0,83.0
+HDF - Challenge Avenir - Comines - 3ème - Hommes,2026-04-25,SEN Men 88,BEYER Jean-christophe,81.0,-66.0,67.0,-72.0,-85.0,85.0,-93.0,67.0,85.0,152.0
+HDF - Challenge Avenir - Comines - 3ème - Hommes,2026-04-25,SEN Men 88,ROCHE Matthieu,79.4,55.0,59.0,63.0,70.0,76.0,80.0,63.0,80.0,143.0
+HDF - Challenge Avenir - Comines - 3ème - Hommes,2026-04-25,SEN Men 88,THIRY Jean-marc,83.5,40.0,43.0,-46.0,45.0,47.0,50.0,43.0,50.0,93.0

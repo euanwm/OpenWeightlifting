@@ -1,0 +1,14 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+PDL - Chpt Départemental - Évron - U10-U13,2026-04-25,U10 Men ,MEZIERE Angel,30.25,12.0,14.0,15.0,19.0,21.0,-23.0,15.0,21.0,36.0
+PDL - Chpt Départemental - Évron - U10-U13,2026-04-25,U10 Men ,PRUDHOMME Simeon,38.9,16.0,18.0,-20.0,22.0,24.0,26.0,18.0,26.0,44.0
+PDL - Chpt Départemental - Évron - U10-U13,2026-04-25,U10 Men ,THOMAIN Calixte,31.65,10.0,11.0,-12.0,12.0,14.0,-16.0,11.0,14.0,25.0
+PDL - Chpt Départemental - Évron - U10-U13,2026-04-25,U10 Men ,MEKELLECHE Adem,27.17,5.0,6.0,-7.0,-9.0,-9.0,-0.0,6.0,0.0,0.0
+PDL - Chpt Départemental - Évron - U10-U13,2026-04-25,U13 Men 36,DAMENE Nadir,32.39,15.0,17.0,-18.0,17.0,19.0,21.0,17.0,21.0,38.0
+PDL - Chpt Départemental - Évron - U10-U13,2026-04-25,U13 Men 42,LECHAT Thibaut,41.12,20.0,22.0,23.0,27.0,29.0,31.0,23.0,31.0,54.0
+PDL - Chpt Départemental - Évron - U10-U13,2026-04-25,U13 Men 60,LAPIERRE Robin,57.69,33.0,35.0,-37.0,43.0,45.0,47.0,35.0,47.0,82.0
+PDL - Chpt Départemental - Évron - U10-U13,2026-04-25,U13 Men 65,MEDARD Lorenzo,63.1,29.0,31.0,33.0,39.0,40.0,42.0,33.0,42.0,75.0
+PDL - Chpt Départemental - Évron - U10-U13,2026-04-25,U13 Women 35,FERRAND COGNON Kali,32.09,17.0,19.0,21.0,24.0,26.0,27.0,21.0,27.0,48.0
+PDL - Chpt Départemental - Évron - U10-U13,2026-04-25,U13 Women 53,ROQUET Luce,48.5,30.0,32.0,34.0,39.0,41.0,43.0,34.0,43.0,77.0
+PDL - Chpt Départemental - Évron - U10-U13,2026-04-25,U13 Women 63,GLASSIER Maude,62.13,30.0,32.0,33.0,40.0,42.0,44.0,33.0,44.0,77.0
+PDL - Chpt Départemental - Évron - U10-U13,2026-04-25,U13 Women >63,LOMBARD Elodie,73.21,30.0,32.0,-33.0,35.0,37.0,-39.0,32.0,37.0,69.0
+PDL - Chpt Départemental - Évron - U10-U13,2026-04-25,U13 Women >63,FOURNIER Alice,67.46,38.0,40.0,42.0,47.0,-49.0,-49.0,42.0,47.0,89.0
