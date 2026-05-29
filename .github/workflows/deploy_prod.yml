@@ -14,7 +14,7 @@ jobs:
           cp -r event_data/ backend/
       - name: Install Railway CLI
         run: |
-          curl -fsSL https://railway.app/install.sh | sh
+          curl -fsSL https://railway.app/install.sh | bash
       - name: Deploy to Railway
         env:
           RAILWAY_TOKEN: ${{ secrets.RAILWAY_TOKEN }}
