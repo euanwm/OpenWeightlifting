@@ -1,0 +1,40 @@
+event,date,age_category,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Europa Spring Open,2026-05-22,Men's Senior 110Kg,James Yun-Stevens,102.6,-120,120,-125,160,-165,165,120,165,285
+Europa Spring Open,2026-05-18,Men's Senior 88Kg,Emil Stewart-Nerona,84.25,120,123,-125,157,-162,-162,123,157,280
+Europa Spring Open,2026-06-10,Men's Youth Under 17 +94Kg,Samu Kulcsar,95.4,115,-118,-118,140,145,0,115,145,260
+Europa Spring Open,2026-06-15,Men's Under 23 88Kg,Mackenzie Clark,81.65,105,109,-113,140,145,-150,109,145,254
+Europa Spring Open,2026-05-19,Men's Senior 88Kg,Johnny Adams,79.85,100,104,108,128,132,0,108,132,240
+Europa Spring Open,2026-06-11,Men's Youth Under 17 +94Kg,Alex Brooks,103.8,101,-104,105,122,126,130,105,130,235
+Europa Spring Open,2026-05-23,Men's Senior 110Kg,Sam Youseman,98.85,92,96,-102,125,131,136,96,136,232
+Europa Spring Open,2026-05-24,Men's Senior +110Kg,David  Woodhouse,114,87,92,97,-120,121,125,97,125,222
+Europa Spring Open,2026-06-16,Men's Under 23 94Kg,Jack Webb,88.25,88,92,-96,120,125,130,92,130,222
+Europa Spring Open,2026-06-17,Men's Under 23 94Kg,Alex hewitt,94.05,-90,95,100,115,-120,-125,100,115,215
+Europa Spring Open,2026-05-21,Men's Senior 88Kg,Aaron Brown,82.6,83,86,-90,101,104,-106,86,104,190
+Europa Spring Open,2026-06-07,Men's Youth Under 15 +88Kg,Archie Robinson,106.45,71,76,80,96,102,107,80,107,187
+Europa Spring Open,2026-06-03,Men's Youth Under 15 60Kg,Noah Castro,59.7,80,-85,-85,102,-110,-110,80,102,182
+Europa Spring Open,2026-05-16,Men's Senior 60Kg,Daniel Pogmore,59.15,75,-80,-80,90,95,102,75,102,177
+Europa Spring Open,2026-06-09,Men's Youth Under 17 60Kg,Stuart Moore,59.7,-75,-75,76,-100,100,-105,76,100,176
+Europa Spring Open,2026-06-05,Men's Youth Under 15 65Kg,Oliver Brooks,62.25,74,-78,-80,95,-100,-101,74,95,169
+Europa Spring Open,2026-05-14,Women's Senior 77Kg,Grace Thomas,74.15,63,68,-72,90,95,100,68,100,168
+Europa Spring Open,2026-05-11,Women's Senior 69Kg,Michaela Forgacova,67.55,65,71,73,84,87,-90,73,87,160
+Europa Spring Open,2026-05-20,Men's Senior 88Kg,Javid Nadirov,83.4,67,70,72,-85,85,-88,72,85,157
+Europa Spring Open,2026-05-30,Men's Youth Under 15 +88Kg,Jack  Perry,95.5,65,68,-70,80,85,-90,68,85,153
+Europa Spring Open,2026-05-12,Women's Senior 77Kg,Samantha Bunker,74.35,63,65,67,77,80,0,67,80,147
+Europa Spring Open,2026-06-12,Women's Junior Under 20 69Kg,Lucy Sheridan-White,64,-63,63,68,78,-82,-82,68,78,146
+Europa Spring Open,2026-05-17,Men's Senior 65Kg,Matthew Rafferty-Clarke,63.6,50,54,57,-78,80,83,57,83,140
+Europa Spring Open,2026-06-13,Women's Junior Under 20 77Kg,Alice Phoenix,76,54,-58,60,68,73,75,60,75,135
+Europa Spring Open,2026-05-10,Women's Senior 63Kg,Becky Roberts,62.4,48,-51,51,68,71,-73,51,71,122
+Europa Spring Open,2026-05-09,Women's Senior 58Kg,Imola Butyan,57.6,47,50,-52,57,60,63,50,63,113
+Europa Spring Open,2026-05-13,Women's Senior 77Kg,Carys Harper,72.05,45,47,-52,-63,63,-65,47,63,110
+Europa Spring Open,2026-06-08,Women's Youth Under 17 58Kg,Ophelia Harrison,58.05,43,47,50,55,-60,-60,50,55,105
+Europa Spring Open,2026-06-04,Men's Youth Under 15 65Kg,Monty Moore,63.65,35,40,44,52,56,-60,44,56,100
+Europa Spring Open,2026-05-29,Men's Youth Under 15 60Kg,Reginald Harding,59.7,30,35,40,45,50,55,40,55,95
+Europa Spring Open,2026-05-15,Women's Senior 86Kg,Claire barclay,83.5,35,37,38,51,53,55,38,55,93
+Europa Spring Open,2026-06-01,Women's Youth Under 15 63Kg,Selsey  Brunton ,61.15,30,33,-36,40,45,-50,33,45,78
+Europa Spring Open,2026-05-31,Women's Youth Under 15 58Kg,Freya Haynes ,54.75,25,27,29,37,40,42,29,42,71
+Europa Spring Open,2026-06-02,Women's Youth Under 15 +69Kg,Isla Ball,86.05,23,25,-28,40,43,-45,25,43,68
+Europa Spring Open,2026-06-06,Men's Youth Under 15 71Kg,Arthur Nicholls-Smith,66.1,25,27,29,30,34,37,29,37,66
+Europa Spring Open,2026-05-28,Boy's Development Under 12 44Kg,Miguel Castro,43.8,23,27,-30,30,34,37,27,37,64
+Europa Spring Open,2026-05-27,Boy's Development Under 12 44Kg,Thomas Wieczorek ,26.7,10,12,14,15,17,19,14,19,33
+Europa Spring Open,2026-05-25,Girl's Development Under 10 30Kg,Ellis Underdown,27.63,8,10,12,11,13,16,12,16,28
+Europa Spring Open,2026-05-26,Girl's Development Under 10 44Kg,Luna Ball,42.05,6,7,8,10,11,12,8,12,20
