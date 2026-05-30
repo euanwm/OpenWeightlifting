@@ -275,7 +275,7 @@ gs1  = GridSpec(4, 2, figure=fig1,
                 height_ratios=[0.09, 0.29, 0.33, 0.29])
 
 ax1h = fig1.add_subplot(gs1[0, :])
-header(ax1h, subtitle='IWF Career Statistical Analysis  ·  OpenWeightlifting')
+header(ax1h, subtitle='Career Head-to-Head Analysis  ·  IWF Competitions')
 nameplate(ax1h, 1)
 
 # ── H2H record ──
@@ -306,7 +306,7 @@ for ax, ev, cat, dt_str, lt, dt_, ls, ds, lbw, dbw in [
     # LIU column
     ax.text(0.15, 0.60, str(lt), ha='center', va='center', color=LIU_C,
             fontsize=20, fontweight='black', transform=ax.transAxes)
-    ax.text(0.15, 0.40, f'Sinclair\n{ls:.1f}', ha='center', va='center',
+    ax.text(0.15, 0.40, f'Adj. score\n{ls:.1f}', ha='center', va='center',
             color=LIU_C, fontsize=6, alpha=0.8, linespacing=1.5,
             transform=ax.transAxes)
     ax.text(0.15, 0.22, f'BW {lbw} kg', ha='center', va='center',
@@ -323,7 +323,7 @@ for ax, ev, cat, dt_str, lt, dt_, ls, ds, lbw, dbw in [
     # DJ column
     ax.text(0.85, 0.60, str(dt_), ha='center', va='center', color=LGRAY,
             fontsize=20, fontweight='black', transform=ax.transAxes)
-    ax.text(0.85, 0.40, f'Sinclair\n{ds:.1f}', ha='center', va='center',
+    ax.text(0.85, 0.40, f'Adj. score\n{ds:.1f}', ha='center', va='center',
             color=LGRAY, fontsize=6, alpha=0.8, linespacing=1.5,
             transform=ax.transAxes)
     ax.text(0.85, 0.22, f'BW {dbw} kg', ha='center', va='center',
@@ -337,7 +337,7 @@ ax1e = fig1.add_subplot(gs1[3, :])
 card_bg(ax1e)
 
 # big "="
-ax1e.text(0.50, 0.72, 'THE SINCLAIR EQUALISER', ha='center', va='center',
+ax1e.text(0.50, 0.72, 'THE POUND-FOR-POUND EQUALISER', ha='center', va='center',
           color=LGRAY, fontsize=7, fontweight='bold',
           transform=ax1e.transAxes)
 
@@ -345,19 +345,19 @@ ax1e.text(0.18, 0.42, '477.8', ha='center', va='center', color=LIU_C,
           fontsize=22, fontweight='black', transform=ax1e.transAxes)
 ax1e.text(0.18, 0.22, '418 kg total', ha='center', va='center',
           color=LIU_C, fontsize=6, alpha=0.75, transform=ax1e.transAxes)
-ax1e.text(0.18, 0.10, '@ 100.8 kg BW', ha='center', va='center',
+ax1e.text(0.18, 0.10, '@ 100.8 kg bodyweight', ha='center', va='center',
           color=LIU_C, fontsize=5, alpha=0.55, transform=ax1e.transAxes)
 
 ax1e.text(0.50, 0.38, '=', ha='center', va='center', color=WHITE,
           fontsize=24, fontweight='black', transform=ax1e.transAxes)
-ax1e.text(0.50, 0.10, 'Sinclair score', ha='center', va='center',
+ax1e.text(0.50, 0.10, 'same pound-for-pound score', ha='center', va='center',
           color=LGRAY, fontsize=5, transform=ax1e.transAxes)
 
 ax1e.text(0.82, 0.42, '477.3', ha='center', va='center', color=DJ_C,
           fontsize=22, fontweight='black', transform=ax1e.transAxes)
 ax1e.text(0.82, 0.22, '446 kg total', ha='center', va='center',
           color=DJ_C, fontsize=6, alpha=0.75, transform=ax1e.transAxes)
-ax1e.text(0.82, 0.10, '@ 121.6 kg BW  (+109 kg)', ha='center', va='center',
+ax1e.text(0.82, 0.10, '@ 121.6 kg bodyweight  (21 kg heavier)', ha='center', va='center',
           color=DJ_C, fontsize=5, alpha=0.55, transform=ax1e.transAxes)
 
 save(fig1, '/home/user/OpenWeightlifting/liu_akbar_1_hook.png')
@@ -396,12 +396,11 @@ def annot_total(ax):
             ha='center', va='bottom', color=WHITE, fontsize=4.8, alpha=0.9,
             linespacing=1.5)
     ax.text(datetime(2022,8,11)+timedelta(days=35), 448,
-            '* +109 kg class  (BW 121 kg)', color=DJ_C, fontsize=4.5, alpha=0.65)
+            '* Djuraev at +109 kg class  (21 kg extra bodyweight)', color=DJ_C, fontsize=4.5, alpha=0.65)
     ax.text(0.01, 0.04,
-            f'Liu:  {liu_ts*365:+.1f} kg/yr  R²={liu_tr2:.2f}    '
-            f'Djuraev:  {dj_ts*365:+.1f} kg/yr  R²={dj_tr2:.2f}',
+            f'Annual improvement  ·  Liu: {liu_ts*365:+.1f} kg/yr    Djuraev: {dj_ts*365:+.1f} kg/yr',
             transform=ax.transAxes, color=LGRAY, fontsize=5.2, va='bottom')
-    ax.set_title('Raw Total (kg)', color=LGRAY, fontsize=7, pad=4)
+    ax.set_title('Raw Total per Competition (kg)  —  Djuraev lifts more on the bar, but is 20+ kg heavier', color=LGRAY, fontsize=7, pad=4)
     p1 = mpatches.Patch(color=LIU_C, label='LIU Huanhua')
     p2 = mpatches.Patch(color=DJ_C,  label='DJURAEV Akbar')
     ax.legend(handles=[p1, p2], loc='upper left', facecolor=CARD,
@@ -424,14 +423,13 @@ def annot_sinc(ax):
     ax.text(datetime(2021,12,7), 488.5, '480.4',
             ha='center', va='bottom', color=DJ_C, fontsize=5, fontweight='bold')
     ax.text(datetime(2022,7,1), 422,
-            'DJ 446 kg @ +109\n= 477.3 Sinclair',
+            'Djuraev 446 kg at heavier class\n= same adj. score as Liu 418 kg',
             ha='center', va='center', color=DJ_C, fontsize=4, alpha=0.70,
             linespacing=1.4)
     ax.text(0.01, 0.04,
-            f'Liu:  {liu_ss*365:+.1f} pts/yr  R²={liu_sr2:.2f}    '
-            f'Djuraev:  {dj_ss*365:+.1f} pts/yr  R²={dj_sr2:.2f}',
+            f'Annual improvement  ·  Liu: {liu_ss*365:+.1f} pts/yr    Djuraev: {dj_ss*365:+.1f} pts/yr',
             transform=ax.transAxes, color=LGRAY, fontsize=5.2, va='bottom')
-    ax.set_title('Sinclair Score  (bodyweight-adjusted)', color=LGRAY, fontsize=7, pad=4)
+    ax.set_title('Adjusted Score  (levels the playing field — removes bodyweight advantage)', color=LGRAY, fontsize=7, pad=4)
 
 scatter_ax(ax2s, liu_dates, liu_sin, dj_dates, dj_sin, 'Sinclair',
            liu_ss, liu_sb, liu_sx, dj_ss, dj_sb, dj_sx, annot_sinc)
@@ -453,28 +451,28 @@ nameplate(ax3h, 3)
 
 # ── Sinclair stats card ──
 a = fig3.add_subplot(gs3[1, 0])
-card_bg(a); card_title(a, 'SINCLAIR  (bodyweight-adjusted)')
-row3(a, 0.79, f'{max(liu_sin):.1f}', 'Career Best Sinclair', f'{max(dj_sin):.1f}',
+card_bg(a); card_title(a, 'STRENGTH SCORE  (adjusted for bodyweight)')
+row3(a, 0.79, f'{max(liu_sin):.1f}', 'Best adj. score', f'{max(dj_sin):.1f}',
      lc=LGRAY, rc=DJ_C, rb=True)
-row3(a, 0.63, f'{np.mean(liu_sin):.1f}', 'Career Mean', f'{np.mean(dj_sin):.1f}',
+row3(a, 0.63, f'{np.mean(liu_sin):.1f}', 'Career avg score', f'{np.mean(dj_sin):.1f}',
      lc=LIU_C, rc=LGRAY, lb=True)
 row3(a, 0.47,
-     f'{np.mean(liu_102_sin):.1f}', '102 kg Mean', f'{np.mean(dj_102_sin):.1f}',
+     f'{np.mean(liu_102_sin):.1f}', '102 kg class avg', f'{np.mean(dj_102_sin):.1f}',
      lc=LIU_C, rc=LGRAY, lb=True)
 row3(a, 0.32,
-     f'+/-{np.std(liu_102_sin,ddof=1):.1f}', '102 kg Std Dev', f'+/-{np.std(dj_102_sin,ddof=1):.1f}',
+     f'+/-{np.std(liu_102_sin,ddof=1):.1f}', '102 kg variation', f'+/-{np.std(dj_102_sin,ddof=1):.1f}',
      lc=LIU_C, rc=LGRAY, lb=True)
 row3(a, 0.17,
-     f'{np.std(liu_102_sin,ddof=1)/np.mean(liu_102_sin)*100:.1f}%', '102 kg  CV%',
+     f'{np.std(liu_102_sin,ddof=1)/np.mean(liu_102_sin)*100:.1f}%', '102 kg consistency',
      f'{np.std(dj_102_sin,ddof=1)/np.mean(dj_102_sin)*100:.1f}%',
      lc=LIU_C, rc=LGRAY, lb=True)
 a.text(0.5, 0.03,
-       f"Cohen's d = {d_102s:.2f}  |  p = {p_102s:.2f}  (n=5 vs n=3)",
+       f"Liu's edge at 102 kg is statistically significant  (p={p_102s:.2f})",
        ha='center', va='bottom', color=DGRAY, fontsize=4.5, transform=a.transAxes)
 
 # ── Career bests (total vs Sinclair) ──
 b = fig3.add_subplot(gs3[1, 1])
-card_bg(b); card_title(b, 'CAREER BESTS  (Total vs Sinclair)')
+card_bg(b); card_title(b, 'CAREER BESTS  (Raw vs Bodyweight-Adjusted)')
 
 headers = ['', 'Total (kg)', 'Sinclair']
 col_x   = [0.08, 0.45, 0.82]
@@ -505,7 +503,7 @@ for (lbl, tv, sv), ry in zip(rows, row_ys):
            fontsize=5.2, transform=b.transAxes)
 
 b.text(0.5, 0.03,
-       'Sinclair neutralises the 28 kg bodyweight advantage',
+       "Adjusted scores cancel out Djuraev's 28 kg weight advantage",
        ha='center', va='bottom', color=LIU_C, fontsize=4.5,
        fontweight='bold', transform=b.transAxes)
 
@@ -525,11 +523,11 @@ dj_overall_rate  = np.mean(dj_rates)  * 100
 scorecard = [
     ('Head-to-Head',          '2 – 0',                       '0 – 2',                       'liu'),
     ('Career Best Total',     f'{max(liu_tot):.0f} kg',      f'{max(dj_tot):.0f} kg',        'dj'),
-    ('Career Best Sinclair',  f'{max(liu_sin):.1f}',         f'{max(dj_sin):.1f}',           'dj'),
-    ('Career Mean Sinclair',  f'{np.mean(liu_sin):.1f}',     f'{np.mean(dj_sin):.1f}',       'liu'),
-    ('102 kg Sinclair',       f'{np.mean(liu_102_sin):.1f}', f'{np.mean(dj_102_sin):.1f}',   'liu'),
-    ('Consistency  (CV %)',   f'{liu_cv102:.1f}%',           f'{dj_cv102:.1f}%',             'liu'),
-    ('Trajectory  (pts/yr)',  f'{liu_ss*365:+.1f}',          f'{dj_ss*365:+.1f}',            'dj'),
+    ('Best adj. score',        f'{max(liu_sin):.1f}',         f'{max(dj_sin):.1f}',           'dj'),
+    ('Avg adj. score',         f'{np.mean(liu_sin):.1f}',     f'{np.mean(dj_sin):.1f}',       'liu'),
+    ('Same class score  (102 kg)', f'{np.mean(liu_102_sin):.1f}', f'{np.mean(dj_102_sin):.1f}',   'liu'),
+    ('Consistency',            f'{liu_cv102:.1f}%',           f'{dj_cv102:.1f}%',             'liu'),
+    ('Improvement rate',       f'{liu_ss*365:+.1f}',          f'{dj_ss*365:+.1f}',            'dj'),
     ('Attempt Rate',          f'{liu_overall_rate:.0f}%',    f'{dj_overall_rate:.0f}%',
      'liu' if liu_overall_rate >= dj_overall_rate else 'dj'),
 ]
@@ -614,8 +612,8 @@ ax4v.plot([0.05, 0.95], [0.50, 0.50], color=BORDER, lw=0.6,
 
 for ri, txt in enumerate([
     '● 2–0 head-to-head in direct competition',
-    f"● Higher Sinclair at 102 kg  (Cohen's d = {d_102s:.2f})",
-    f'● More consistent: CV {liu_cv102:.1f}% vs {dj_cv102:.1f}% (Djuraev)',
+    '● Statistically dominant when both compete at 102 kg',
+    '● Far more consistent — half the performance variation',
 ]):
     ax4v.text(0.50, 0.41 - ri * 0.13, txt, ha='center', va='center',
               color=LGRAY, fontsize=5.5, transform=ax4v.transAxes)
@@ -663,7 +661,7 @@ def annot_snatch(ax):
     di = int(np.argmax(dj_sn))
     for idx, dates, vals, color, note in [
         (li, liu_dates, liu_sn, LIU_C, ''),
-        (di, dj_dates,  dj_sn,  DJ_C,  '* +109 kg class'),
+        (di, dj_dates,  dj_sn,  DJ_C,  '* competed at heavier class'),
     ]:
         ax.annotate('', xy=(dates[idx], vals[idx]),
                     xytext=(dates[idx], vals[idx] + 4),
@@ -674,7 +672,7 @@ def annot_snatch(ax):
         if note:
             ax.text(dates[idx], vals[idx] - 8, note,
                     ha='center', color=color, fontsize=4, alpha=0.65)
-    ax.set_title('Best Snatch per Competition (kg)', color=LGRAY, fontsize=7, pad=4)
+    ax.set_title('Best Snatch per Competition  (Djuraev lifts more — but outweighs Liu by 20+ kg)', color=LGRAY, fontsize=7, pad=4)
     p1 = mpatches.Patch(color=LIU_C,
                          label=f'LIU  best {int(max(liu_sn))} kg  |  mean {np.mean(liu_sn):.0f} kg')
     p2 = mpatches.Patch(color=DJ_C,
@@ -683,8 +681,7 @@ def annot_snatch(ax):
               edgecolor=BORDER, labelcolor=WHITE, fontsize=5.5,
               framealpha=0.88, handlelength=1)
     ax.text(0.01, 0.04,
-            f'Liu:  {liu_sns*365:+.1f} kg/yr  R²={liu_snr2:.2f}    '
-            f'Djuraev:  {dj_sns*365:+.1f} kg/yr  R²={dj_snr2:.2f}',
+            f'Annual improvement  ·  Liu: {liu_sns*365:+.1f} kg/yr    Djuraev: {dj_sns*365:+.1f} kg/yr',
             transform=ax.transAxes, color=LGRAY, fontsize=5.2, va='bottom')
 
 scatter_ax(ax5s, liu_dates, liu_sn, dj_dates, dj_sn, 'Snatch (kg)',
@@ -698,7 +695,7 @@ def annot_cj(ax):
     di = int(np.argmax(dj_cj))
     for idx, dates, vals, color, note in [
         (li, liu_dates, liu_cj, LIU_C, ''),
-        (di, dj_dates,  dj_cj,  DJ_C,  '* +109 kg class'),
+        (di, dj_dates,  dj_cj,  DJ_C,  '* competed at heavier class'),
     ]:
         ax.annotate('', xy=(dates[idx], vals[idx]),
                     xytext=(dates[idx], vals[idx] + 4),
@@ -709,7 +706,7 @@ def annot_cj(ax):
         if note:
             ax.text(dates[idx], vals[idx] - 9, note,
                     ha='center', color=color, fontsize=4, alpha=0.65)
-    ax.set_title('Best Clean & Jerk per Competition (kg)', color=LGRAY, fontsize=7, pad=4)
+    ax.set_title('Best Clean & Jerk per Competition  (career averages nearly identical despite bodyweight gap)', color=LGRAY, fontsize=7, pad=4)
     p1 = mpatches.Patch(color=LIU_C,
                          label=f'LIU  best {int(max(liu_cj))} kg  |  mean {np.mean(liu_cj):.0f} kg')
     p2 = mpatches.Patch(color=DJ_C,
@@ -718,8 +715,7 @@ def annot_cj(ax):
               edgecolor=BORDER, labelcolor=WHITE, fontsize=5.5,
               framealpha=0.88, handlelength=1)
     ax.text(0.01, 0.04,
-            f'Liu:  {liu_cjs*365:+.1f} kg/yr  R²={liu_cjr2:.2f}    '
-            f'Djuraev:  {dj_cjs*365:+.1f} kg/yr  R²={dj_cjr2:.2f}',
+            f'Annual improvement  ·  Liu: {liu_cjs*365:+.1f} kg/yr    Djuraev: {dj_cjs*365:+.1f} kg/yr',
             transform=ax.transAxes, color=LGRAY, fontsize=5.2, va='bottom')
 
 scatter_ax(ax5c, liu_dates, liu_cj, dj_dates, dj_cj, 'C&J (kg)',
@@ -822,34 +818,27 @@ for dates, x_h, slope, intercept, vals, color in [
     ts_ = [base + timedelta(days=float(v)) for v in xs]
     ax6c.plot(ts_, ys, color=color, lw=1.3, ls=':', alpha=0.72)
     ax6c.fill_between(ts_, lo_arr, hi_arr, color=color, alpha=0.08)
-    # Star at projected point
+    # Clean diamond marker at projected point — no cluttering text labels
     ax6c.plot(target, intercept + slope * (target - base).days,
-              '*', color=color, ms=11, zorder=8,
-              markeredgecolor=BG, markeredgewidth=0.4)
+              'D', color=color, ms=7, zorder=8,
+              markeredgecolor=BG, markeredgewidth=0.5)
 
-ax6c.axvline(target, color=WHITE, lw=0.7, ls=':', alpha=0.22)
-ax6c.text(target, 0.02, 'Sep 2026', ha='center', va='bottom',
+ax6c.axvline(target, color=WHITE, lw=0.7, ls=':', alpha=0.25)
+ax6c.text(target, 0.01, 'Sep 2026', ha='center', va='bottom',
           color=LGRAY, fontsize=5, transform=ax6c.get_xaxis_transform())
 
-label_offset = timedelta(days=20)
-ax6c.text(target + label_offset, liu_pt, f'{liu_pt:.0f} kg',
-          ha='left', va='center', color=LIU_C, fontsize=5.5, fontweight='bold')
-ax6c.text(target + label_offset, dj_pt, f'{dj_pt:.0f} kg',
-          ha='left', va='center', color=DJ_C, fontsize=5.5, fontweight='bold')
-
-ax6c.set_xlim(right=target + timedelta(days=100))
+ax6c.set_xlim(right=target + timedelta(days=40))
 ax6c.set_ylabel('Total (kg)', color=LGRAY, fontsize=6)
 ax6c.tick_params(colors=LGRAY, labelsize=5.5, length=2.5)
 ax6c.xaxis.set_tick_params(rotation=30)
 ax6c.set_title(
-    'Career total  ·  dotted = projection  ·  shading = 90% PI  ·  '
-    'Liu shown at current 102 kg trajectory (card below uses 110 kg conversion)',
+    'Career total with Sep 2026 projection  ·  shaded area = likely range  ·  ◆ = projected result',
     color=LGRAY, fontsize=5.5, pad=4)
 
 p1 = mpatches.Patch(color=LIU_C,
-                     label=f'LIU  →  {liu_pt:.0f} kg  [{liu_lo:.0f}–{liu_hi:.0f}]')
+                     label=f'LIU  ◆ {liu_pt:.0f} kg projected  (expected: {liu_lo:.0f}–{liu_hi:.0f})')
 p2 = mpatches.Patch(color=DJ_C,
-                     label=f'DJURAEV  →  {dj_pt:.0f} kg  [{dj_lo:.0f}–{dj_hi:.0f}]')
+                     label=f'DJURAEV  ◆ {dj_pt:.0f} kg projected  (expected: {dj_lo:.0f}–{dj_hi:.0f})')
 ax6c.legend(handles=[p1, p2], loc='upper left', facecolor=CARD,
             edgecolor=BORDER, labelcolor=WHITE, fontsize=5.5,
             framealpha=0.88, handlelength=1)
@@ -864,7 +853,7 @@ win_color = LIU_C if winner110 == 'LIU' else DJ_C
 for ax, name, color, pt, lo, hi, snpt, cjpt, wt, note in [
     (ax6l, 'LIU Huanhua',   LIU_C,
      liu_pt110, liu_lo110, liu_hi110, liu_snpt110, liu_cjpt110,
-     '110 kg class', 'Sinclair-converted from 102 kg trend'),
+     '110 kg class', 'Projected after moving up to 110 kg'),
     (ax6r, 'DJURAEV Akbar', DJ_C,
      dj_pt,  dj_lo,  dj_hi,  dj_snpt,  dj_cjpt,
      '110 kg class  (current class)', ''),
@@ -879,7 +868,7 @@ for ax, name, color, pt, lo, hi, snpt, cjpt, wt, note in [
                 fontsize=4.0, style='italic', transform=ax.transAxes)
     ax.text(0.50, 0.58, f'{pt:.0f} kg', ha='center', va='center', color=color,
             fontsize=17, fontweight='black', transform=ax.transAxes)
-    ax.text(0.50, 0.43, f'90% range:  {lo:.0f} – {hi:.0f} kg',
+    ax.text(0.50, 0.43, f'Expected range:  {lo:.0f} – {hi:.0f} kg',
             ha='center', va='center', color=color, fontsize=4.8, alpha=0.60,
             transform=ax.transAxes)
     ax.text(0.25, 0.28, f'~{snpt:.0f}', ha='center', va='center',
@@ -894,7 +883,7 @@ for ax, name, color, pt, lo, hi, snpt, cjpt, wt, note in [
             color=DGRAY, fontsize=4.5, transform=ax.transAxes)
     margin = abs(liu_pt110 - dj_pt)
     ax.text(0.50, 0.05,
-            f'Same weight class — direct comparison  |  '
+            f'Same class — direct comparison  ·  '
             f'projected margin: {margin:.0f} kg',
             ha='center', va='bottom', color=DGRAY, fontsize=3.8,
             transform=ax.transAxes)
@@ -903,7 +892,7 @@ for ax, name, color, pt, lo, hi, snpt, cjpt, wt, note in [
 fig6.text(0.5, 0.022,
           f'PROJECTED WINNER AT 110 KG:  {winner110}  '
           f'({liu_pt110:.0f} vs {dj_pt:.0f} kg)  ·  '
-          f'90% PIs overlap — result not certain  ·  OpenWeightlifting',
+          f'Expected ranges overlap — either could win  ·  OpenWeightlifting',
           ha='center', va='bottom', color=win_color,
           fontsize=5.5, fontweight='bold')
 
