@@ -627,3 +627,102 @@ ax4v.text(0.50, 0.04,
           transform=ax4v.transAxes)
 
 save(fig4, '/home/user/OpenWeightlifting/liu_akbar_4_verdict.png')
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# IMAGE 5 — DISCIPLINES: Snatch & Clean and Jerk career progressions
+# ═══════════════════════════════════════════════════════════════════════════════
+def best_s(r): return max((a for a in r[4] if a > 0), default=0)
+def best_c(r): return max((a for a in r[5] if a > 0), default=0)
+
+liu_sn = np.array([best_s(r) for r in LIU_RAW], dtype=float)
+liu_cj = np.array([best_c(r) for r in LIU_RAW], dtype=float)
+dj_sn  = np.array([best_s(r) for r in DJ_RAW],  dtype=float)
+dj_cj  = np.array([best_c(r) for r in DJ_RAW],  dtype=float)
+
+liu_sns, liu_snb, liu_snr2, liu_snx = linreg(liu_dates, liu_sn)
+dj_sns,  dj_snb,  dj_snr2,  dj_snx  = linreg(dj_dates,  dj_sn)
+liu_cjs, liu_cjb, liu_cjr2, liu_cjx = linreg(liu_dates, liu_cj)
+dj_cjs,  dj_cjb,  dj_cjr2,  dj_cjx  = linreg(dj_dates,  dj_cj)
+
+fig5 = plt.figure(figsize=(INCH, INCH), dpi=DPI, facecolor=BG)
+gs5  = GridSpec(3, 1, figure=fig5,
+                left=0.08, right=0.97, top=0.975, bottom=0.02,
+                hspace=0.40,
+                height_ratios=[0.07, 0.455, 0.455])
+
+ax5h = fig5.add_subplot(gs5[0])
+header(ax5h, subtitle='Snatch & Clean and Jerk  ·  Career Progression')
+ax5h.text(0.97, 0.97, '5 / 5', ha='right', va='top', color=DGRAY,
+          fontsize=6, transform=ax5h.transAxes)
+
+# ── Snatch chart ──
+ax5s = fig5.add_subplot(gs5[1])
+
+def annot_snatch(ax):
+    li = int(np.argmax(liu_sn))
+    di = int(np.argmax(dj_sn))
+    for idx, dates, vals, color, note in [
+        (li, liu_dates, liu_sn, LIU_C, ''),
+        (di, dj_dates,  dj_sn,  DJ_C,  '* +109 kg class'),
+    ]:
+        ax.annotate('', xy=(dates[idx], vals[idx]),
+                    xytext=(dates[idx], vals[idx] + 4),
+                    arrowprops=dict(arrowstyle='->', color=color, lw=1.0))
+        ax.text(dates[idx], vals[idx] + 5.5,
+                f'{int(vals[idx])} kg',
+                ha='center', va='bottom', color=color, fontsize=5, fontweight='bold')
+        if note:
+            ax.text(dates[idx], vals[idx] - 8, note,
+                    ha='center', color=color, fontsize=4, alpha=0.65)
+    ax.set_title('Best Snatch per Competition (kg)', color=LGRAY, fontsize=7, pad=4)
+    p1 = mpatches.Patch(color=LIU_C,
+                         label=f'LIU  best {int(max(liu_sn))} kg  |  mean {np.mean(liu_sn):.0f} kg')
+    p2 = mpatches.Patch(color=DJ_C,
+                         label=f'DJURAEV  best {int(max(dj_sn))} kg  |  mean {np.mean(dj_sn):.0f} kg')
+    ax.legend(handles=[p1, p2], loc='upper left', facecolor=CARD,
+              edgecolor=BORDER, labelcolor=WHITE, fontsize=5.5,
+              framealpha=0.88, handlelength=1)
+    ax.text(0.01, 0.04,
+            f'Liu:  {liu_sns*365:+.1f} kg/yr  R²={liu_snr2:.2f}    '
+            f'Djuraev:  {dj_sns*365:+.1f} kg/yr  R²={dj_snr2:.2f}',
+            transform=ax.transAxes, color=LGRAY, fontsize=5.2, va='bottom')
+
+scatter_ax(ax5s, liu_dates, liu_sn, dj_dates, dj_sn, 'Snatch (kg)',
+           liu_sns, liu_snb, liu_snx, dj_sns, dj_snb, dj_snx, annot_snatch)
+
+# ── C&J chart ──
+ax5c = fig5.add_subplot(gs5[2])
+
+def annot_cj(ax):
+    li = int(np.argmax(liu_cj))
+    di = int(np.argmax(dj_cj))
+    for idx, dates, vals, color, note in [
+        (li, liu_dates, liu_cj, LIU_C, ''),
+        (di, dj_dates,  dj_cj,  DJ_C,  '* +109 kg class'),
+    ]:
+        ax.annotate('', xy=(dates[idx], vals[idx]),
+                    xytext=(dates[idx], vals[idx] + 4),
+                    arrowprops=dict(arrowstyle='->', color=color, lw=1.0))
+        ax.text(dates[idx], vals[idx] + 5.5,
+                f'{int(vals[idx])} kg',
+                ha='center', va='bottom', color=color, fontsize=5, fontweight='bold')
+        if note:
+            ax.text(dates[idx], vals[idx] - 9, note,
+                    ha='center', color=color, fontsize=4, alpha=0.65)
+    ax.set_title('Best Clean & Jerk per Competition (kg)', color=LGRAY, fontsize=7, pad=4)
+    p1 = mpatches.Patch(color=LIU_C,
+                         label=f'LIU  best {int(max(liu_cj))} kg  |  mean {np.mean(liu_cj):.0f} kg')
+    p2 = mpatches.Patch(color=DJ_C,
+                         label=f'DJURAEV  best {int(max(dj_cj))} kg  |  mean {np.mean(dj_cj):.0f} kg')
+    ax.legend(handles=[p1, p2], loc='upper left', facecolor=CARD,
+              edgecolor=BORDER, labelcolor=WHITE, fontsize=5.5,
+              framealpha=0.88, handlelength=1)
+    ax.text(0.01, 0.04,
+            f'Liu:  {liu_cjs*365:+.1f} kg/yr  R²={liu_cjr2:.2f}    '
+            f'Djuraev:  {dj_cjs*365:+.1f} kg/yr  R²={dj_cjr2:.2f}',
+            transform=ax.transAxes, color=LGRAY, fontsize=5.2, va='bottom')
+
+scatter_ax(ax5c, liu_dates, liu_cj, dj_dates, dj_cj, 'C&J (kg)',
+           liu_cjs, liu_cjb, liu_cjx, dj_cjs, dj_cjb, dj_cjx, annot_cj)
+
+save(fig5, '/home/user/OpenWeightlifting/liu_akbar_5_disciplines.png')
