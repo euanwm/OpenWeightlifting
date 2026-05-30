@@ -726,3 +726,185 @@ scatter_ax(ax5c, liu_dates, liu_cj, dj_dates, dj_cj, 'C&J (kg)',
            liu_cjs, liu_cjb, liu_cjx, dj_cjs, dj_cjb, dj_cjx, annot_cj)
 
 save(fig5, '/home/user/OpenWeightlifting/liu_akbar_5_disciplines.png')
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# IMAGE 6 — PROJECTION: Who wins in September 2026?
+# ═══════════════════════════════════════════════════════════════════════════════
+target = datetime(2026, 9, 30)
+
+def project(dates, vals, slope, intercept, x_hist, target_dt, ci=0.90):
+    """Point estimate + symmetric prediction interval at target_dt."""
+    x_pred = float((target_dt - dates[0]).days)
+    n      = len(x_hist)
+    y_fit  = intercept + slope * x_hist
+    s_err  = np.sqrt(np.sum((vals - y_fit) ** 2) / (n - 2))
+    x_mean = np.mean(x_hist)
+    se     = s_err * np.sqrt(1 + 1/n + (x_pred - x_mean)**2
+                             / np.sum((x_hist - x_mean)**2))
+    t_val  = stats.t.ppf((1 + ci) / 2, df=n - 2)
+    y_pred = intercept + slope * x_pred
+    return y_pred, y_pred - t_val * se, y_pred + t_val * se
+
+def proj_band(vals, slope, intercept, x_hist, x0, x1, ci=0.90, n_pts=60):
+    """Arrays for plotting the expanding prediction cone."""
+    xs     = np.linspace(x0, x1, n_pts)
+    n      = len(x_hist)
+    y_fit  = intercept + slope * x_hist
+    s_err  = np.sqrt(np.sum((vals - y_fit) ** 2) / (n - 2))
+    x_mean = np.mean(x_hist)
+    se     = s_err * np.sqrt(1 + 1/n + (xs - x_mean)**2
+                             / np.sum((x_hist - x_mean)**2))
+    t_val  = stats.t.ppf((1 + ci) / 2, df=n - 2)
+    y_mid  = intercept + slope * xs
+    return xs, y_mid, y_mid - t_val * se, y_mid + t_val * se
+
+liu_pt,  liu_lo,  liu_hi  = project(liu_dates, liu_tot, liu_ts, liu_tb, liu_tx, target)
+dj_pt,   dj_lo,   dj_hi   = project(dj_dates,  dj_tot,  dj_ts,  dj_tb,  dj_tx,  target)
+liu_spt, liu_slo, liu_shi  = project(liu_dates, liu_sin, liu_ss, liu_sb, liu_sx, target)
+dj_spt,  dj_slo,  dj_shi   = project(dj_dates,  dj_sin,  dj_ss,  dj_sb,  dj_sx, target)
+liu_snpt, *_ = project(liu_dates, liu_sn, liu_sns, liu_snb, liu_snx, target)
+liu_cjpt, *_ = project(liu_dates, liu_cj, liu_cjs, liu_cjb, liu_cjx, target)
+dj_snpt,  *_ = project(dj_dates,  dj_sn,  dj_sns,  dj_snb,  dj_snx,  target)
+dj_cjpt,  *_ = project(dj_dates,  dj_cj,  dj_cjs,  dj_cjb,  dj_cjx,  target)
+
+# Both compete at 110 kg — Liu's total projected via Sinclair conversion.
+# We project Liu's future Sinclair, then back-calculate what that equates to
+# at 110 kg BW using the same IWF formula. Djuraev already trains at ~110 kg
+# so his raw-total regression is used directly.
+def sinc_factor(bw, year):
+    A, b = _coeff(year)
+    if bw < b:
+        X = math.log10(bw / b)
+        return 10 ** (A * X ** 2)
+    return 1.0
+
+sf110       = sinc_factor(110.0, 2026)
+liu_pt110   = liu_spt / sf110          # projected total at 110 kg BW
+liu_lo110   = liu_slo / sf110
+liu_hi110   = liu_shi / sf110
+# Scale snatch / C&J breakdown by the same ratio
+_scale      = liu_pt110 / liu_pt
+liu_snpt110 = liu_snpt * _scale
+liu_cjpt110 = liu_cjpt * _scale
+
+fig6 = plt.figure(figsize=(INCH, INCH), dpi=DPI, facecolor=BG)
+gs6  = GridSpec(3, 2, figure=fig6,
+                left=0.08, right=0.95, top=0.975, bottom=0.02,
+                hspace=0.32, wspace=0.22,
+                height_ratios=[0.07, 0.50, 0.43])
+
+ax6h = fig6.add_subplot(gs6[0, :])
+header(ax6h, subtitle='Who wins the next major?  ·  September 2026 projection')
+ax6h.text(0.97, 0.97, '6 / 6', ha='right', va='top', color=DGRAY,
+          fontsize=6, transform=ax6h.transAxes)
+
+# ── Projection chart ──
+ax6c = fig6.add_subplot(gs6[1, :])
+ax6c.set_facecolor(CARD)
+for sp in ax6c.spines.values(): sp.set_edgecolor(BORDER)
+
+ax6c.scatter(liu_dates, liu_tot, color=LIU_C, s=22, zorder=5, alpha=0.85)
+ax6c.scatter(dj_dates,  dj_tot,  color=DJ_C,  s=22, zorder=5, alpha=0.85)
+
+for dates, x_h, slope, intercept, vals, color in [
+    (liu_dates, liu_tx, liu_ts, liu_tb, liu_tot, LIU_C),
+    (dj_dates,  dj_tx,  dj_ts,  dj_tb,  dj_tot,  DJ_C),
+]:
+    base = dates[0]
+    # Historical trend (dashed)
+    x_e = np.array([0., float(x_h[-1])])
+    ax6c.plot([base + timedelta(days=v) for v in x_e],
+              intercept + slope * x_e, color=color, lw=1.1, ls='--', alpha=0.35)
+    # Projection cone
+    xs, ys, lo_arr, hi_arr = proj_band(
+        vals, slope, intercept, x_h,
+        float(x_h[-1]), (target - base).days)
+    ts_ = [base + timedelta(days=float(v)) for v in xs]
+    ax6c.plot(ts_, ys, color=color, lw=1.3, ls=':', alpha=0.72)
+    ax6c.fill_between(ts_, lo_arr, hi_arr, color=color, alpha=0.08)
+    # Star at projected point
+    ax6c.plot(target, intercept + slope * (target - base).days,
+              '*', color=color, ms=11, zorder=8,
+              markeredgecolor=BG, markeredgewidth=0.4)
+
+ax6c.axvline(target, color=WHITE, lw=0.7, ls=':', alpha=0.22)
+ax6c.text(target, 0.02, 'Sep 2026', ha='center', va='bottom',
+          color=LGRAY, fontsize=5, transform=ax6c.get_xaxis_transform())
+
+label_offset = timedelta(days=20)
+ax6c.text(target + label_offset, liu_pt, f'{liu_pt:.0f} kg',
+          ha='left', va='center', color=LIU_C, fontsize=5.5, fontweight='bold')
+ax6c.text(target + label_offset, dj_pt, f'{dj_pt:.0f} kg',
+          ha='left', va='center', color=DJ_C, fontsize=5.5, fontweight='bold')
+
+ax6c.set_xlim(right=target + timedelta(days=100))
+ax6c.set_ylabel('Total (kg)', color=LGRAY, fontsize=6)
+ax6c.tick_params(colors=LGRAY, labelsize=5.5, length=2.5)
+ax6c.xaxis.set_tick_params(rotation=30)
+ax6c.set_title(
+    'Career total  ·  dotted = projection  ·  shading = 90% PI  ·  '
+    'Liu shown at current 102 kg trajectory (card below uses 110 kg conversion)',
+    color=LGRAY, fontsize=5.5, pad=4)
+
+p1 = mpatches.Patch(color=LIU_C,
+                     label=f'LIU  →  {liu_pt:.0f} kg  [{liu_lo:.0f}–{liu_hi:.0f}]')
+p2 = mpatches.Patch(color=DJ_C,
+                     label=f'DJURAEV  →  {dj_pt:.0f} kg  [{dj_lo:.0f}–{dj_hi:.0f}]')
+ax6c.legend(handles=[p1, p2], loc='upper left', facecolor=CARD,
+            edgecolor=BORDER, labelcolor=WHITE, fontsize=5.5,
+            framealpha=0.88, handlelength=1)
+
+# ── Prediction cards ──
+ax6l = fig6.add_subplot(gs6[2, 0])
+ax6r = fig6.add_subplot(gs6[2, 1])
+
+winner110 = 'LIU' if liu_pt110 > dj_pt else 'DJURAEV'
+win_color = LIU_C if winner110 == 'LIU' else DJ_C
+
+for ax, name, color, pt, lo, hi, snpt, cjpt, wt, note in [
+    (ax6l, 'LIU Huanhua',   LIU_C,
+     liu_pt110, liu_lo110, liu_hi110, liu_snpt110, liu_cjpt110,
+     '110 kg class', 'Sinclair-converted from 102 kg trend'),
+    (ax6r, 'DJURAEV Akbar', DJ_C,
+     dj_pt,  dj_lo,  dj_hi,  dj_snpt,  dj_cjpt,
+     '110 kg class  (current class)', ''),
+]:
+    card_bg(ax)
+    ax.text(0.50, 0.97, name, ha='center', va='top', color=color,
+            fontsize=8.5, fontweight='black', transform=ax.transAxes)
+    ax.text(0.50, 0.83, wt, ha='center', va='center', color=LGRAY,
+            fontsize=4.8, transform=ax.transAxes)
+    if note:
+        ax.text(0.50, 0.73, note, ha='center', va='center', color=DGRAY,
+                fontsize=4.0, style='italic', transform=ax.transAxes)
+    ax.text(0.50, 0.58, f'{pt:.0f} kg', ha='center', va='center', color=color,
+            fontsize=17, fontweight='black', transform=ax.transAxes)
+    ax.text(0.50, 0.43, f'90% range:  {lo:.0f} – {hi:.0f} kg',
+            ha='center', va='center', color=color, fontsize=4.8, alpha=0.60,
+            transform=ax.transAxes)
+    ax.text(0.25, 0.28, f'~{snpt:.0f}', ha='center', va='center',
+            color=LGRAY, fontsize=7, fontweight='bold', transform=ax.transAxes)
+    ax.text(0.25, 0.16, 'Snatch', ha='center', va='center',
+            color=DGRAY, fontsize=4.5, transform=ax.transAxes)
+    ax.text(0.50, 0.28, '+', ha='center', va='center',
+            color=DGRAY, fontsize=6, transform=ax.transAxes)
+    ax.text(0.75, 0.28, f'~{cjpt:.0f}', ha='center', va='center',
+            color=LGRAY, fontsize=7, fontweight='bold', transform=ax.transAxes)
+    ax.text(0.75, 0.16, 'C&J', ha='center', va='center',
+            color=DGRAY, fontsize=4.5, transform=ax.transAxes)
+    margin = abs(liu_pt110 - dj_pt)
+    ax.text(0.50, 0.05,
+            f'Same weight class — direct comparison  |  '
+            f'projected margin: {margin:.0f} kg',
+            ha='center', va='bottom', color=DGRAY, fontsize=3.8,
+            transform=ax.transAxes)
+
+# Verdict strip along bottom
+fig6.text(0.5, 0.022,
+          f'PROJECTED WINNER AT 110 KG:  {winner110}  '
+          f'({liu_pt110:.0f} vs {dj_pt:.0f} kg)  ·  '
+          f'90% PIs overlap — result not certain  ·  OpenWeightlifting',
+          ha='center', va='bottom', color=win_color,
+          fontsize=5.5, fontweight='bold')
+
+save(fig6, '/home/user/OpenWeightlifting/liu_akbar_6_projection.png')
