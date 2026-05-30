@@ -341,20 +341,24 @@ ax1e.text(0.50, 0.72, 'THE SINCLAIR EQUALISER', ha='center', va='center',
           color=LGRAY, fontsize=7, fontweight='bold',
           transform=ax1e.transAxes)
 
-ax1e.text(0.18, 0.38, '418 kg', ha='center', va='center', color=LIU_C,
-          fontsize=20, fontweight='black', transform=ax1e.transAxes)
-ax1e.text(0.18, 0.15, '@ 100.8 kg BW', ha='center', va='center',
-          color=LIU_C, fontsize=5.5, transform=ax1e.transAxes)
+ax1e.text(0.18, 0.42, '477.8', ha='center', va='center', color=LIU_C,
+          fontsize=22, fontweight='black', transform=ax1e.transAxes)
+ax1e.text(0.18, 0.22, '418 kg total', ha='center', va='center',
+          color=LIU_C, fontsize=6, alpha=0.75, transform=ax1e.transAxes)
+ax1e.text(0.18, 0.10, '@ 100.8 kg BW', ha='center', va='center',
+          color=LIU_C, fontsize=5, alpha=0.55, transform=ax1e.transAxes)
 
 ax1e.text(0.50, 0.38, '=', ha='center', va='center', color=WHITE,
           fontsize=24, fontweight='black', transform=ax1e.transAxes)
-ax1e.text(0.50, 0.12, 'Sinclair  477.8 vs 477.3', ha='center', va='center',
+ax1e.text(0.50, 0.10, 'Sinclair score', ha='center', va='center',
           color=LGRAY, fontsize=5, transform=ax1e.transAxes)
 
-ax1e.text(0.82, 0.38, '446 kg', ha='center', va='center', color=DJ_C,
-          fontsize=20, fontweight='black', transform=ax1e.transAxes)
-ax1e.text(0.82, 0.15, '@ 121.6 kg BW  (+109 kg)', ha='center', va='center',
-          color=DJ_C, fontsize=5.5, transform=ax1e.transAxes)
+ax1e.text(0.82, 0.42, '477.3', ha='center', va='center', color=DJ_C,
+          fontsize=22, fontweight='black', transform=ax1e.transAxes)
+ax1e.text(0.82, 0.22, '446 kg total', ha='center', va='center',
+          color=DJ_C, fontsize=6, alpha=0.75, transform=ax1e.transAxes)
+ax1e.text(0.82, 0.10, '@ 121.6 kg BW  (+109 kg)', ha='center', va='center',
+          color=DJ_C, fontsize=5, alpha=0.55, transform=ax1e.transAxes)
 
 save(fig1, '/home/user/OpenWeightlifting/liu_akbar_1_hook.png')
 
