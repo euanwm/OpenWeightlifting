@@ -513,3 +513,117 @@ b.text(0.5, 0.03,
 bars_section(fig3, gs3[2, :], top=0.97)
 
 save(fig3, '/home/user/OpenWeightlifting/liu_akbar_3_stats.png')
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# IMAGE 4 — VERDICT: Who is the better lifter?
+# ═══════════════════════════════════════════════════════════════════════════════
+liu_cv102        = np.std(liu_102_sin, ddof=1) / np.mean(liu_102_sin) * 100
+dj_cv102         = np.std(dj_102_sin,  ddof=1) / np.mean(dj_102_sin)  * 100
+liu_overall_rate = np.mean(liu_rates) * 100
+dj_overall_rate  = np.mean(dj_rates)  * 100
+
+scorecard = [
+    ('Head-to-Head',          '2 – 0',                       '0 – 2',                       'liu'),
+    ('Career Best Total',     f'{max(liu_tot):.0f} kg',      f'{max(dj_tot):.0f} kg',        'dj'),
+    ('Career Best Sinclair',  f'{max(liu_sin):.1f}',         f'{max(dj_sin):.1f}',           'dj'),
+    ('Career Mean Sinclair',  f'{np.mean(liu_sin):.1f}',     f'{np.mean(dj_sin):.1f}',       'liu'),
+    ('102 kg Sinclair',       f'{np.mean(liu_102_sin):.1f}', f'{np.mean(dj_102_sin):.1f}',   'liu'),
+    ('Consistency  (CV %)',   f'{liu_cv102:.1f}%',           f'{dj_cv102:.1f}%',             'liu'),
+    ('Trajectory  (pts/yr)',  f'{liu_ss*365:+.1f}',          f'{dj_ss*365:+.1f}',            'dj'),
+    ('Attempt Rate',          f'{liu_overall_rate:.0f}%',    f'{dj_overall_rate:.0f}%',
+     'liu' if liu_overall_rate >= dj_overall_rate else 'dj'),
+]
+
+liu_score = sum(1 for *_, w in scorecard if w == 'liu')
+dj_score  = sum(1 for *_, w in scorecard if w == 'dj')
+
+fig4 = plt.figure(figsize=(INCH, INCH), dpi=DPI, facecolor=BG)
+gs4  = GridSpec(3, 1, figure=fig4,
+                left=0.05, right=0.97, top=0.975, bottom=0.02,
+                hspace=0.22,
+                height_ratios=[0.08, 0.55, 0.37])
+
+ax4h = fig4.add_subplot(gs4[0])
+header(ax4h, subtitle='Data-driven verdict  ·  Who is the better lifter?')
+ax4h.text(0.97, 0.97, '4 / 4', ha='right', va='top', color=DGRAY,
+          fontsize=6, transform=ax4h.transAxes)
+
+# ── Scorecard ──
+ax4s = fig4.add_subplot(gs4[1])
+card_bg(ax4s)
+ax4s.text(0.5, 0.97, 'METRIC SCORECARD', ha='center', va='top', color=WHITE,
+          fontsize=7.5, fontweight='bold', transform=ax4s.transAxes)
+
+ax4s.text(0.38, 0.89, str(liu_score), ha='center', va='center', color=LIU_C,
+          fontsize=20, fontweight='black', transform=ax4s.transAxes)
+ax4s.text(0.50, 0.89, '–', ha='center', va='center', color=LGRAY,
+          fontsize=14, transform=ax4s.transAxes)
+ax4s.text(0.62, 0.89, str(dj_score), ha='center', va='center', color=DJ_C,
+          fontsize=20, fontweight='black', transform=ax4s.transAxes)
+ax4s.text(0.38, 0.79, 'LIU', ha='center', va='center', color=LIU_C,
+          fontsize=5, alpha=0.7, transform=ax4s.transAxes)
+ax4s.text(0.62, 0.79, 'DJURAEV', ha='center', va='center', color=DJ_C,
+          fontsize=5, alpha=0.7, transform=ax4s.transAxes)
+
+ax4s.plot([0.03, 0.97], [0.745, 0.745], color=BORDER, lw=0.8,
+          transform=ax4s.transAxes)
+
+n_rows = len(scorecard)
+y0     = 0.700
+dy     = y0 / (n_rows + 0.5)
+
+for i, (label, lv, dv, winner) in enumerate(scorecard):
+    y = y0 - i * dy - dy * 0.4
+
+    ax4s.add_patch(FancyBboxPatch(
+        (0.03, y - dy * 0.44), 0.94, dy * 0.86,
+        boxstyle='round,pad=0.003',
+        facecolor=LIU_C if winner == 'liu' else DJ_C,
+        alpha=0.07, transform=ax4s.transAxes, zorder=1))
+
+    lc = LIU_C if winner == 'liu' else DGRAY
+    dc = DJ_C  if winner == 'dj'  else DGRAY
+    lw = 'bold' if winner == 'liu' else 'normal'
+    dw = 'bold' if winner == 'dj'  else 'normal'
+
+    ax4s.text(0.31, y, lv, ha='right', va='center', color=lc,
+              fontsize=6.5, fontweight=lw, transform=ax4s.transAxes, zorder=2)
+    ax4s.text(0.50, y, label, ha='center', va='center', color=LGRAY,
+              fontsize=5.0, transform=ax4s.transAxes, zorder=2)
+    ax4s.text(0.69, y, dv, ha='left', va='center', color=dc,
+              fontsize=6.5, fontweight=dw, transform=ax4s.transAxes, zorder=2)
+
+    dot_x = 0.09 if winner == 'liu' else 0.91
+    ax4s.plot(dot_x, y, 'o', color=LIU_C if winner == 'liu' else DJ_C,
+              ms=3.5, transform=ax4s.transAxes, zorder=3, clip_on=False)
+
+# ── Verdict ──
+ax4v = fig4.add_subplot(gs4[2])
+card_bg(ax4v)
+ax4v.text(0.50, 0.96, 'THE VERDICT', ha='center', va='top', color=LGRAY,
+          fontsize=7, fontweight='bold', transform=ax4v.transAxes)
+ax4v.plot([0.05, 0.95], [0.87, 0.87], color=BORDER, lw=0.6,
+          transform=ax4v.transAxes)
+ax4v.text(0.50, 0.76, 'LIU Huanhua', ha='center', va='center', color=LIU_C,
+          fontsize=22, fontweight='black', transform=ax4v.transAxes)
+ax4v.text(0.50, 0.58, 'POUND-FOR-POUND CHAMPION', ha='center', va='center',
+          color=LIU_C, fontsize=8, fontweight='bold', alpha=0.80,
+          transform=ax4v.transAxes)
+ax4v.plot([0.05, 0.95], [0.50, 0.50], color=BORDER, lw=0.6,
+          transform=ax4v.transAxes)
+
+for ri, txt in enumerate([
+    '● 2–0 head-to-head in direct competition',
+    f"● Higher Sinclair at 102 kg  (Cohen's d = {d_102s:.2f})",
+    f'● More consistent: CV {liu_cv102:.1f}% vs {dj_cv102:.1f}% (Djuraev)',
+]):
+    ax4v.text(0.50, 0.41 - ri * 0.13, txt, ha='center', va='center',
+              color=LGRAY, fontsize=5.5, transform=ax4v.transAxes)
+
+ax4v.text(0.50, 0.04,
+          f"Djuraev's bigger total (+{int(max(dj_tot) - max(liu_tot))} kg) "
+          'reflects bodyweight advantage  ·  OpenWeightlifting',
+          ha='center', va='bottom', color=DGRAY, fontsize=4.2,
+          transform=ax4v.transAxes)
+
+save(fig4, '/home/user/OpenWeightlifting/liu_akbar_4_verdict.png')
