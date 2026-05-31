@@ -12,14 +12,15 @@ jobs:
       - name: Move event_data
         run: |
           cp -r event_data/ backend/
+      - name: Install & Configure Railway CLI
+        shell: bash
+        run: |
+          curl -fsSL https://railway.app/install.sh | bash
+          echo "$HOME/.railway/bin" >> $GITHUB_PATH
       - name: Deploy to Railway
-        uses: railwayapp/deploy-action@v1
-        with:
-          token: ${{ secrets.RAILWAY_TOKEN }}
-          service: owl-be-alt
-          environment: production
-      - name: Set release version
-        uses: railwayapp/deploy-action@v1
-        with:
-          token: ${{ secrets.RAILWAY_TOKEN }}
-          command: variables --set RELEASE_VERSION=${{ github.event.release.tag_name }} --service owl-be-alt --skip-deploys
+        env:
+          RAILWAY_TOKEN: ${{ secrets.RAILWAY_TOKEN }}
+        run: |
+          cd backend
+          railway variables --set RELEASE_VERSION=${{ github.event.release.tag_name }} --service owl-be-alt --skip-deploys
+          railway up --service owl-be-alt
