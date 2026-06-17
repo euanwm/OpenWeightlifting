@@ -1,23 +1,24 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-Finale Coupe Suisse 2025,2025-05-03,Women's Senior 64kg,Rahel Güntert,60.35,66,-70,-70,86,-90,-90,66,86,152
-Finale Coupe Suisse 2025,2025-05-03,Women's Senior 64kg,Scheila Meister,59.7,75,80,85,94,98,102,85,102,187
-Finale Coupe Suisse 2025,2025-05-03,Women's Senior 71kg,Laila Miarelli,64.75,65,70,72,87,92,96,72,96,168
-Finale Coupe Suisse 2025,2025-05-03,Women's Senior 81kg,Angela Wyss,76.35,81,85,-90,102,106,110,85,110,195
-Finale Coupe Suisse 2025,2025-05-03,Women's Senior 55kg,Lea Inglin-Pessina,53.85,60,63,66,75,78,80,66,80,146
-Finale Coupe Suisse 2025,2025-05-03,Women's Senior 59kg,Celina Wolfisberg,59.0,59,64,66,78,83,-90,66,83,149
-Finale Coupe Suisse 2025,2025-05-03,Women's Senior 71kg,Nicole Straessle,64.2,68,72,-75,80,83,-86,72,83,155
-Finale Coupe Suisse 2025,2025-05-03,Women's Senior 76kg,Tina Tursic,72.4,63,67,-70,75,78,81,67,81,148
-Finale Coupe Suisse 2025,2025-05-03,Women's Senior 64kg,Emma Trujillo Fernández,62.15,-69,-70,70,85,90,-94,70,90,160
-Finale Coupe Suisse 2025,2025-05-03,Men's Senior 67kg,GERINGER SAMUEL,61.55,79,86,-89,102,110,114,86,114,200
-Finale Coupe Suisse 2025,2025-05-03,Men's Senior 73kg,ROMARIO AVDIRAJ,67.65,85,91,95,111,117,122,95,122,217
-Finale Coupe Suisse 2025,2025-05-03,Men's Senior 81kg,CRISTHIAN GEREDA,80.8,105,110,-113,133,-140,-141,110,133,243
-Finale Coupe Suisse 2025,2025-05-03,Men's Senior 102kg,ROLANDO SIMON ARZOLA,97.1,127,-132,-135,160,167,173,127,173,300
-Finale Coupe Suisse 2025,2025-05-03,Men's Senior 102kg,YANNICK TSCHAN,97.15,148,152,-155,182,188,-192,152,188,340
-Finale Coupe Suisse 2025,2025-05-03,Men's Senior 89kg,Oliver Rickert,88.15,102,106,110,134,138,-140,110,138,248
-Finale Coupe Suisse 2025,2025-05-03,Men's Senior 89kg,Marc Vöge,87.8,100,103,-105,-125,125,-130,103,125,228
-Finale Coupe Suisse 2025,2025-05-03,Men's Senior 96kg,Simon Scherzinger,91.6,110,115,-119,134,139,142,115,142,257
-Finale Coupe Suisse 2025,2025-05-03,Men's Senior 96kg,Tom Schwander,92.9,118,123,127,138,-143,144,127,144,271
-Finale Coupe Suisse 2025,2025-05-03,Men's Senior 102kg,Leonardo Bucci,98.75,122,-126,130,155,160,165,130,165,295
-Finale Coupe Suisse 2025,2025-05-03,Men's Senior 81kg,Thierry Fragnière,80.25,90,0,0,-110,112,0,90,112,202
-Finale Coupe Suisse 2025,2025-05-03,Men's Senior 89kg,Antonio Alonso Mallén,82.0,105,111,116,131,136,-141,116,136,252
-Finale Coupe Suisse 2025,2025-05-03,Men's Senior 89kg,Patrick Cornes,82.15,106,110,115,138,-144,-150,115,138,253
+Championnat Suisse Junior 2025,2025-04-12,female F40,Yara Falfoul,23.8,10,13,-16,16,18,20,13,20,33
+Championnat Suisse Junior 2025,2025-04-12,female F40,Luna Litzler,39.8,35,37,39,46,49,51,39,51,90
+Championnat Suisse Junior 2025,2025-04-12,female F40,Alexandra Grünenfelder,37.0,13,-16,16,15,17,-20,16,17,33
+Championnat Suisse Junior 2025,2025-04-12,female F49,Anouk Wütrich,47.2,25,27,29,36,39,41,29,41,70
+Championnat Suisse Junior 2025,2025-04-12,female F55,Shanilla Boldini,50.0,25,28,32,28,32,37,32,37,69
+Championnat Suisse Junior 2025,2025-04-12,female F64,Laura Wüthrich,59.9,26,30,32,-39,39,41,32,41,73
+Championnat Suisse Junior 2025,2025-04-12,female F49,Lilly Kurth,46.3,26,29,32,40,43,48,32,48,80
+Championnat Suisse Junior 2025,2025-04-12,female F55,Servane Litzler,52.1,45,48,-50,59,-62,-62,48,59,107
+Championnat Suisse Junior 2025,2025-04-12,female F81+,Joevine Zmoss,92.5,-42,42,-46,45,50,55,42,55,97
+Championnat Suisse Junior 2025,2025-04-12,female F49,Alicia Potenza,47.8,25,-28,28,40,43,44,28,44,72
+Championnat Suisse Junior 2025,2025-04-12,female F55,Marion Mueller,53.8,47,50,-53,67,70,73,50,73,123
+Championnat Suisse Junior 2025,2025-04-12,female F55,Sahar Algburi,53.5,57,60,63,70,73,76,63,76,139
+Championnat Suisse Junior 2025,2025-04-12,female F64,Anja Leuenberger,62.5,62,65,67,73,76,79,67,79,146
+Championnat Suisse Junior 2025,2025-04-12,female F64,Lucie Stritt,60.4,52,56,-58,-71,71,-75,56,71,127
+Championnat Suisse Junior 2025,2025-04-12,female F71,Livia Noyer,69.2,53,57,61,73,76,-80,61,76,137
+Championnat Suisse Junior 2025,2025-04-12,male - M49,Rayan Falfoul,19.3,6,7,8,7,9,10,8,10,18
+Championnat Suisse Junior 2025,2025-04-12,male - M49,Niklaus Graber,46.75,25,28,-31,30,34,37,28,37,65
+Championnat Suisse Junior 2025,2025-04-12,male - M73,Neo Keller,72.7,72,76,-83,97,103,-108,76,103,179
+Championnat Suisse Junior 2025,2025-04-12,male - M73,Ivo Zürcher,68.65,43,46,48,60,-64,64,48,64,112
+Championnat Suisse Junior 2025,2025-04-12,male - M67,Samuel Geringer,61.1,78,84,87,98,108,-113,87,108,195
+Championnat Suisse Junior 2025,2025-04-12,male - M61,Dorian Vaucher,57.3,50,53,-56,56,-60,-60,53,56,109
+Championnat Suisse Junior 2025,2025-04-12,male - M67,Luca Bützberger,66.55,90,94,101,117,123,-124,101,123,224
+Championnat Suisse Junior 2025,2025-04-12,male - M73,Dylan Sautebin,70.85,84,87,92,105,110,112,92,112,204

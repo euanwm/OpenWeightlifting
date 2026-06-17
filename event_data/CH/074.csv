@@ -1,12 +1,11 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-2025/26 - R - Z2 - 3 - L1F,2026-03-28,Women's Senior 71kg,Kimy Tschan,65.4,59,62,65,67,70,75,65,75,140
-2025/26 - R - Z2 - 3 - L1F,2026-03-28,Women's Senior 76kg,Jennifer Litzler,75.95,-62,64,-67,81,-85,85,64,85,149
-2025/26 - R - Z2 - 3 - L1F,2026-03-28,Women's Senior 64kg,Sarah Pitteloud,62.2,55,58,-60,-74,75,-79,58,75,133
-2025/26 - R - Z2 - 3 - L1F,2026-03-28,Women's Senior 55kg,Pauline Durry,52.7,47,-50,51,57,60,64,51,64,115
-2025/26 - R - Z2 - 3 - L1F,2026-03-28,Women's Senior 49kg,Luna Litzler,46.9,-42,42,45,56,59,-62,45,59,104
-2025/26 - R - Z2 - 3 - L1F,2026-03-28,Women's Senior 76kg,Céline Farey,71.25,58,-61,-62,67,72,75,58,75,133
-2025/26 - R - Z2 - 3 - L1F,2026-03-28,Women's Senior 64kg,Sandra Müller-Jennings,61.95,50,53,55,60,64,66,55,66,121
-2025/26 - R - Z2 - 3 - L1F,2026-03-28,Women's Senior 55kg,Shanilla Boldini,54.15,44,48,50,50,53,-58,50,53,103
-2025/26 - R - Z2 - 3 - L1F,2026-03-28,Women's Senior 71kg,Rana Musa,69.45,42,45,-48,58,62,65,45,65,110
-2025/26 - R - Z2 - 3 - L1F,2026-03-28,Women's Senior 87kg,dalila Maggini,84.25,46,49,51,67,-72,-73,51,67,118
-2025/26 - R - Z2 - 3 - L1F,2026-03-28,Women's Senior 71kg,Libânia Wirz,70.55,-51,-51,-51,58,63,-66,0.0,63,0.0
+2025/26 - R - Z2 - 3 - L1M,2026-03-28,male - M 94,Yannick Sautebin,91.2,115,120,-125,133,-136,0,120,133,253
+2025/26 - R - Z2 - 3 - L1M,2026-03-28,male - M 79,Dylan Sautebin,74.75,93,97,102,120,125,-128,102,125,227
+2025/26 - R - Z2 - 3 - L1M,2026-03-28,male - M 71,Grigory Baker,70.3,82,86,-89,103,-108,108,86,108,194
+2025/26 - R - Z2 - 3 - L1M,2026-03-28,male - M 110,Emanuel Castelletto,101.25,96,100,104,115,120,125,104,125,229
+2025/26 - R - Z2 - 3 - L1M,2026-03-28,male - M 65,Jonathan Court,61.65,71,73,-76,86,90,-94,73,90,163
+2025/26 - R - Z2 - 3 - L1M,2026-03-28,male - M 88,Victor Viccaro,79.15,74,79,-83,102,107,-117,79,107,186
+2025/26 - R - Z2 - 3 - L1M,2026-03-28,male - M 110,Laurent Hayez,101.35,80,85,-90,108,113,-117,85,113,198
+2025/26 - R - Z2 - 3 - L1M,2026-03-28,male - M 88,Michael Stöckli,86.3,75,82,-86,100,-102,-102,82,100,182
+2025/26 - R - Z2 - 3 - L1M,2026-03-28,male - M 79,Marco Pegas,77.4,75,-79,-80,90,92,-96,75,92,167
+2025/26 - R - Z2 - 3 - L1M,2026-03-28,male - M 88,Damien Wirz,87.9,65,68,-71,88,91,96,68,96,164

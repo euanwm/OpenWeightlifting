@@ -1,11 +1,9 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-2025/26 - N - LN - 2 - LBF,2026-01-31,Women's Senior 71kg,Anja Leuenberger,64.1,68,-71,-71,85,91,93,68,93,161
-2025/26 - N - LN - 2 - LBF,2026-01-31,Women's Senior 64kg,Mathilde GAMBIEZ,62.4,60,64,66,77,81,-85,66,81,147
-2025/26 - N - LN - 2 - LBF,2026-01-31,Women's Senior 81kg,Mélanie Wolf,76.2,70,76,79,85,-91,-92,79,85,164
-2025/26 - N - LN - 2 - LBF,2026-01-31,Women's Senior 59kg,Sahar Algburi,55.8,54,57,60,69,74,-77,60,74,134
-2025/26 - N - LN - 2 - LBF,2026-01-31,Women's Senior 59kg,Marion Mueller,55.4,54,57,-60,72,76,-80,57,76,133
-2025/26 - N - LN - 2 - LBF,2026-01-31,Women's Senior 64kg,Claudia Rodriguez Iturrino,61.5,57,-60,60,75,80,-85,60,80,140
-2025/26 - N - LN - 2 - LBF,2026-01-31,Women's Senior 64kg,Lucie Stritt,60.7,52,56,60,70,74,77,60,77,137
-2025/26 - N - LN - 2 - LBF,2026-01-31,Women's Senior 55kg,Estée Werro,53.9,53,-56,-57,64,68,-71,53,68,121
-2025/26 - N - LN - 2 - LBF,2026-01-31,Women's Senior 71kg,Livia Noyer,68.4,57,60,62,77,-81,-81,62,77,139
-2025/26 - N - LN - 2 - LBF,2026-01-31,Women's Senior 71kg,Katrin Luethy,67.2,62,64,65,71,0,0,65,71,136
+2025/26 - R - Z3 - 2 - L2M,2026-01-24,male - M 79,Arthur Loos,75.35,77,81,-84,95,101,103,81,103,184
+2025/26 - R - Z3 - 2 - L2M,2026-01-24,male - M 88,Cédric Stoll,85.45,70,75,-80,90,95,100,75,100,175
+2025/26 - R - Z3 - 2 - L2M,2026-01-24,male - M 110,Jesus Alejandro Palencia,105.35,70,75,-82,95,-101,105,75,105,180
+2025/26 - R - Z3 - 2 - L2M,2026-01-24,male - M 88,Peter Straub,82.25,57,60,62,82,86,89,62,89,151
+2025/26 - R - Z3 - 2 - L2M,2026-01-24,male - M 88,Bledar Aga,81.95,58,-61,62,78,82,86,62,86,148
+2025/26 - R - Z3 - 2 - L2M,2026-01-24,male - M >110,Olivier Sutter,122.45,68,74,80,85,94,-101,80,94,174
+2025/26 - R - Z3 - 2 - L2M,2026-01-24,male - M 110,Gianluigi Potenza,95.15,55,58,-60,-77,77,80,58,80,138
+2025/26 - R - Z3 - 2 - L2M,2026-01-24,male - M 94,Nicola Mauri,90.05,40,45,-50,50,55,61,45,61,106
