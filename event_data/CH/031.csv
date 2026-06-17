@@ -1,17 +1,10 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-2025/26 - R - Z1 - 1 - L2F,2025-11-08,Women's Senior 59kg,Tania Miguel Trabajo,58.75,48,52,57,60,-65,65,57,65,122
-2025/26 - R - Z1 - 1 - L2F,2025-11-08,Women's Senior 71kg,Mary RUFFET,70.85,50,55,58,70,74,-76,58,74,132
-2025/26 - R - Z1 - 1 - L2F,2025-11-08,Women's Senior 55kg,Raquel Dominguez,52.55,44,46,48,55,59,-62,48,59,107
-2025/26 - R - Z1 - 1 - L2F,2025-11-08,Women's Senior 59kg,Silvia Lujan Bernal Iglesias,56.75,-45,48,-51,60,-63,63,48,63,111
-2025/26 - R - Z1 - 1 - L2F,2025-11-08,Women's Senior 76kg,Sandra CARRERA,71.15,50,54,-57,64,67,70,54,70,124
-2025/26 - R - Z1 - 1 - L2F,2025-11-08,Women's Senior 81kg,Joelle RADFORD,80.05,54,57,-60,67,71,74,57,74,131
-2025/26 - R - Z1 - 1 - L2F,2025-11-08,Women's Senior 55kg,Noémie De Schoulepnikoff,54.35,42,47,-51,48,54,57,47,57,104
-2025/26 - R - Z1 - 1 - L2F,2025-11-08,Women's Senior 64kg,Bruchez Josie,61.75,41,46,-52,54,60,-63,46,60,106
-2025/26 - R - Z1 - 1 - L2F,2025-11-08,Women's Senior 87+kg,Maud BOREL,90.95,48,51,-53,70,74,-77,51,74,125
-2025/26 - R - Z1 - 1 - L2F,2025-11-08,Women's Senior 81kg,Marie Schoone,80.95,42,47,-50,65,69,72,47,72,119
-2025/26 - R - Z1 - 1 - L2F,2025-11-08,Women's Senior 87kg,Eulalie Schwendenmann,83.05,40,44,-46,55,-60,62,44,62,106
-2025/26 - R - Z1 - 1 - L2F,2025-11-08,Women's Senior 76kg,Larissa Strasser,71.75,41,45,-48,52,-56,-59,45,52,97
-2025/26 - R - Z1 - 1 - L2F,2025-11-08,Women's Senior 76kg,Widad LAHBICHI,74.95,38,-41,41,48,51,-52,41,51,92
-2025/26 - R - Z1 - 1 - L2F,2025-11-08,Women's Senior 55kg,Clara RITTINER,50.75,25,27,-30,35,38,41,27,41,68
-2025/26 - R - Z1 - 1 - L2F,2025-11-08,Women's Senior 59kg,Olivia Bonasia,57.55,21,23,25,29,-32,33,25,33,58
-2025/26 - R - Z1 - 1 - L2F,2025-11-08,Women's Senior 71kg,Tania Pedro Manuel,64.85,48,52,-55,-60,-62,-65,52,0.0,0.0
+2025/26 - R - Z1 - 1 - L1M,2025-11-08,male - M,Cankut MUTLUER,93.95,95,103,-110,130,138,147,103,147,250
+2025/26 - R - Z1 - 1 - L1M,2025-11-08,male - M,Alexandre FORFER,79.15,-95,95,-101,125,130,-135,95,130,225
+2025/26 - R - Z1 - 1 - L1M,2025-11-08,male - M,Steve MONGINY,72.35,90,95,-100,109,-114,116,95,116,211
+2025/26 - R - Z1 - 1 - L1M,2025-11-08,male - M,Hernan Lavanchy,69.65,85,90,-95,105,110,115,90,115,205
+2025/26 - R - Z1 - 1 - L1M,2025-11-08,male - M,David Cervini,83.45,95,-100,102,115,-120,125,102,125,227
+2025/26 - R - Z1 - 1 - L1M,2025-11-08,male - M,Sylvain Lachat,105.25,112,117,-121,-127,130,-135,117,130,247
+2025/26 - R - Z1 - 1 - L1M,2025-11-08,male - M,Félix Jaques,75.15,82,-87,-87,100,105,110,82,110,192
+2025/26 - R - Z1 - 1 - L1M,2025-11-08,male - M,Ulrich Rabenstein,76.25,80,85,-90,100,-105,107,85,107,192
+2025/26 - R - Z1 - 1 - L1M,2025-11-08,male - M,Colin Allaz,84.85,82,87,90,105,110,-115,90,110,200

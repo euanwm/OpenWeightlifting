@@ -1,14 +1,10 @@
 event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
-2025/26 - N - LN - 3 - LAM,2026-03-29,Men's Senior 102kg,Ramiro Mora Romero,96.45,147,152,160,186,190,196,160,196,356
-2025/26 - N - LN - 3 - LAM,2026-03-29,Men's Senior 96kg,Yannick Tschan,94.65,145,149,-153,183,188,-191,149,188,337
-2025/26 - N - LN - 3 - LAM,2026-03-29,Men's Senior 96kg,Marco Schwendimann,93.45,125,132,-137,155,162,168,132,168,300
-2025/26 - N - LN - 3 - LAM,2026-03-29,Men's Senior 73kg,Titouan Verloes,71.75,110,-115,117,130,135,-140,117,135,252
-2025/26 - N - LN - 3 - LAM,2026-03-29,Men's Senior 102kg,Rolando Simon Arzola,96.8,121,126,130,146,153,161,130,161,291
-2025/26 - N - LN - 3 - LAM,2026-03-29,Men's Senior 81kg,Patrick Cornes,80.95,115,-120,120,145,-150,-150,120,145,265
-2025/26 - N - LN - 3 - LAM,2026-03-29,Men's Senior 96kg,Sacha Sperka,91.95,-120,-122,122,150,160,-170,122,160,282
-2025/26 - N - LN - 3 - LAM,2026-03-29,Men's Senior 102kg,Leonardo Bucci,96.1,120,124,-127,155,-160,-165,124,155,279
-2025/26 - N - LN - 3 - LAM,2026-03-29,Men's Senior 89kg,Tom Witzig,87.25,107,112,-117,135,143,147,112,147,259
-2025/26 - N - LN - 3 - LAM,2026-03-29,Men's Senior 81kg,Antonio Alonso Mallén,80.75,108,-114,-116,130,135,-140,108,135,243
-2025/26 - N - LN - 3 - LAM,2026-03-29,Men's Senior 67kg,Samuel Geringer,63.05,89,94,-97,-110,110,-122,94,110,204
-2025/26 - N - LN - 3 - LAM,2026-03-29,Men's Senior 89kg,Oliver Rickert,87.85,108,-112,-112,-140,140,-144,108,140,248
-2025/26 - N - LN - 3 - LAM,2026-03-29,Men's Senior 73kg,Avdiraj Romario,69.6,85,90,95,110,115,120,95,120,215
+2025/26 - R - Z1 - 3 - L2M,2026-03-28,male - M 110,Kevin Schuerch,94.35,87,-90,92,115,119,-122,92,119,211
+2025/26 - R - Z1 - 3 - L2M,2026-03-28,male - M 94,Clovis Besnard,90.75,80,-83,-86,100,105,-110,80,105,185
+2025/26 - R - Z1 - 3 - L2M,2026-03-28,male - M 79,David Memmi,87.45,72,-76,-77,90,95,-100,72,95,167
+2025/26 - R - Z1 - 3 - L2M,2026-03-28,male - M 79,Christophe Jacot,78.55,62,66,-70,77,82,87,66,87,153
+2025/26 - R - Z1 - 3 - L2M,2026-03-28,male - M 88,Eddy Verloes,84.15,55,58,-61,77,81,85,58,85,143
+2025/26 - R - Z1 - 3 - L2M,2026-03-28,male - M 94,Valentin Henry,88.85,52,56,60,70,80,-90,60,80,140
+2025/26 - R - Z1 - 3 - L2M,2026-03-28,male - M 110,Fabio Pardo,94.85,55,-59,-60,76,83,-87,55,83,138
+2025/26 - R - Z1 - 3 - L2M,2026-03-28,male - M 42,Raffael Calderara,25.35,8,9,10,10,-11,11,10,11,21
+2025/26 - R - Z1 - 3 - L2M,2026-03-28,male - M 88,Benjamin Progin,79.35,90,96,-101,-110,-114,-114,96,0.0,0.0
