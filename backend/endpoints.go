@@ -51,11 +51,12 @@ func ServerTime(c *gin.Context) {
 //		@Schemes
 //		@Description	Looks up a lifter by name and returns a list of possible matches. Requires a minimum of 3 characters.
 //		@Tags			GET Requests
-//	 @Param name query string true "Name to search for"
-//	 @Param limit query int false "Limit the number of results"
+//	 @Param name query string true "Name to search for, minimum 3 characters"
+//	 @Param limit query int false "Limit the number of results" default(50)
 //		@Accept			json
 //		@Produce		json
 //		@Success		200	{object}	structs.NameSearchResults
+//		@Failure		204	{object}	nil
 //		@Router			/search [get]
 func SearchName(c *gin.Context) {
 	maxResults, err := strconv.Atoi(c.Query("limit"))
@@ -92,12 +93,13 @@ func SearchName(c *gin.Context) {
 //		@Schemes
 //		@Description	This is used within the lifter page to display a lifter's record. It returns a JSON object that can be used with ChartJS without having to do any additional processing.
 //		@Tags			GET Requests
-//	 @Param name body string true "name"
+//	 @Param name query string true "Name of the lifter, must be an exact match"
+//	 @Param federation query string false "Federation to filter lifts by"
 //		@Accept			json
 //		@Produce		json
 //		@Success		200	{object}	structs.ChartData
 //	 @Failure		204	{object}	nil
-//		@Router			/lifter [post]
+//		@Router			/graph [get]
 func LifterGraph(c *gin.Context) {
 	name := c.Query("name")
 	federation := c.Query("federation")
@@ -125,7 +127,8 @@ func LifterGraph(c *gin.Context) {
 //		@Schemes
 //		@Description	Pull a lifter's history by name. The name must be an exact match and can be checked using the search endpoint.
 //		@Tags			GET Requests
-//	 @Param name body string true "name"
+//	 @Param name query string true "Name of the lifter, must be an exact match"
+//	 @Param federation query string false "Federation to filter lifts by"
 //		@Accept			json
 //		@Produce		json
 //		@Success		200	{object}	structs.LifterHistory
@@ -161,19 +164,20 @@ func LifterHistory(c *gin.Context) {
 //		@Description	This is the used on the index page of the website and pulls the highest single lift for a lifter within the selected filter.
 //		@Tags			GET Requests
 //
-//	 @Param start query int false "Position to begin from within the full query"
-//	 @Param stop query int false "Position to stop at within the full query"
-//	 @Param sortby query string false "Sort by either total or sinclair"
+//	 @Param start query int false "Position to begin from within the full query" default(0)
+//	 @Param stop query int false "Position to stop at within the full query" default(50)
+//	 @Param sortBy query string false "Sort by either total or sinclair" default(total)
 //	 @Param federation query string false "Federation or country to filter by"
-//	 @Param weightclass query string false "Weightclass to filter by"
-//	 @Param year query int false "Year to filter by"
-//	 @Param startdate query string false "Not currently used"
-//	 @Param enddate query string false "Not currently used"
+//	 @Param weightclass query string false "Weightclass to filter by" default(MALL)
+//	 @Param year query int false "Year to filter by, mutually exclusive with startdate/enddate"
+//	 @Param startdate query string false "Start date to filter from, mutually exclusive with year"
+//	 @Param enddate query string false "End date to filter to, mutually exclusive with year"
 //
 //		@Accept			json
 //		@Produce		json
 //		@Success		200	{object}	structs.LeaderboardResponse
-//		@Router			/leaderboard [post]
+//		@Failure		400	{object}	nil
+//		@Router			/leaderboard [get]
 func Leaderboard(c *gin.Context) {
 	// There are 2 sorted leaderboards currently, sinclair and total. We default to total.
 	sortby, exists := c.GetQuery("sortBy")
@@ -267,6 +271,18 @@ func Leaderboard(c *gin.Context) {
 	c.JSON(http.StatusOK, fedData)
 }
 
+// LeaderboardSearch godoc
+//
+//	@Summary	Find a lifter's position within the leaderboard
+//	@Schemes
+//	@Description	Checks whether a lifter appears within the results of a given leaderboard query and returns their position.
+//	@Tags			POST Requests
+//	@Param			request	body	structs.SearchLeaderboardRequest	true	"Lifter to search for and the leaderboard query to search within"
+//	@Accept			json
+//	@Produce		json
+//	@Success		200	{object}	structs.SearchLeaderboardResult
+//	@Failure		400	{object}	nil
+//	@Router			/leaderboard/search [post]
 func LeaderboardSearch(c *gin.Context) {
 	var body structs.SearchLeaderboardRequest
 	if err := c.ShouldBindJSON(&body); err != nil {
@@ -342,6 +358,19 @@ func SimilarNameSearch(c *gin.Context) {
 	c.JSON(http.StatusOK, results)
 }
 
+// Rival godoc
+//
+//	@Summary	Find a lifter's closest rivals by total
+//	@Schemes
+//	@Description	Returns the lifters ranked immediately around the given lifter, both within their federation (or country) and across all federations combined, for the current competition year.
+//	@Tags			GET Requests
+//	@Param			name	query	string	true	"Name of the lifter, must be an exact match"
+//	@Param			sex		query	string	true	"Gender to filter by"
+//	@Param			fed		query	string	false	"Federation or country to filter by, defaults to all federations"
+//	@Accept			json
+//	@Produce		json
+//	@Success		200	{object}	structs.RivalsCombined
+//	@Router			/rivals [get]
 func Rival(c *gin.Context) {
 	nameStr := c.Query("name")
 	sexStr := c.Query("sex")
@@ -368,14 +397,13 @@ func Rival(c *gin.Context) {
 //		@Summary	Fetch available event metadata within a set date range
 //		@Schemes
 //		@Description	Metadata shows the name, federation and date of the event along with the filename in the event_data folder.
-//		@Tags			OPTIONS Requests
-//	 @Param startdate query string false "Start date to filter from"
-//	 @Param enddate query string false "End date to filter to"
+//		@Tags			POST Requests
+//	 @Param request body structs.EventSearch true "Date range to filter events by"
 //		@Accept			json
 //		@Produce		json
-//		@Success		200	{array}	 structs.EventsList
-//		@Failure		204	{object}	nil
-//		@Router			/events/list [options]
+//		@Success		200	{object}	structs.EventsList
+//		@Failure		400	{object}	nil
+//		@Router			/events/list [post]
 func Events(c *gin.Context) {
 	var response structs.EventsList
 	var query structs.EventSearch
@@ -393,13 +421,15 @@ func Events(c *gin.Context) {
 //
 //		@Summary	Fetch a single event
 //		@Schemes
-//		@Description	Fetch a single event by ID and federation.
+//		@Description	Fetch a single event, either by federation and event ID, or by federation and event name. When looking up by name, an optional date can be supplied to filter multi-day events loaded under a single event name.
 //		@Tags			GET Requests
-//	 @Param federation body string true "Federation of the event"
-//	 @Param id body string true "ID of the event"
+//	 @Param fed query string true "Federation of the event"
+//	 @Param id query string false "ID of the event, required if name is not provided"
+//	 @Param name query string false "Name of the event, required if id is not provided"
+//	 @Param date query string false "Date to filter results by, only applicable when looking up by name"
 //		@Accept			json
 //		@Produce		json
-//		@Success		200	{array}	 []structs.LeaderboardResponse
+//		@Success		200	{object}	structs.LeaderboardResponse
 //		@Failure		204	{object}	nil
 //		@Router			/events [get]
 func SingleEvent(c *gin.Context) {
@@ -435,11 +465,11 @@ func SingleEvent(c *gin.Context) {
 //		@Schemes
 //		@Description	Report an issue with a lift to the discord server
 //		@Tags			POST Requests
-//	 @Param reportedLift body structs.LiftReport true "Lift to report"
-//	 @Param comments body string true "Comments"
+//	 @Param report body structs.LiftReport true "Lift to report, along with comments describing the issue"
 //		@Accept			json
 //		@Produce		json
 //		@Success		200	{object}	nil
+//		@Failure		400	{object}	nil
 //		@Router			/issue [post]
 func IssueReport(c *gin.Context) {
 	var report structs.LiftReport
