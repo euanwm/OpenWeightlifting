@@ -1,8 +1,6 @@
 module backend
 
-go 1.23.0
-
-toolchain go1.24.4
+go 1.26.5
 
 require (
 	github.com/bwmarrin/discordgo v0.27.1
