@@ -3,6 +3,7 @@ package main
 import (
 	"backend/dbtools"
 	"backend/discordbot"
+	_ "backend/docs"
 	"backend/middleware"
 	"bytes"
 	"fmt"
@@ -15,6 +16,8 @@ import (
 	"github.com/gin-contrib/cors"
 	"github.com/gin-contrib/gzip"
 	"github.com/gin-gonic/gin"
+	swaggerFiles "github.com/swaggo/files"
+	ginSwagger "github.com/swaggo/gin-swagger"
 )
 
 func CORSConfig() cors.Config {
@@ -65,6 +68,7 @@ func buildServer() *gin.Engine {
 	r.GET("events", SingleEvent)
 	r.POST("issue", IssueReport)
 	r.GET("rivals", Rival)
+	r.GET("swagger/*any", ginSwagger.WrapHandler(swaggerFiles.Handler))
 	return r
 }
 
