@@ -113,7 +113,7 @@ func CalcSinclair(result *structs.Entry, male bool) {
 	// todo: add in error handling
 	if bodyweight <= coEffB {
 		var X = math.Log10(bodyweight / coEffB)
-		var expX = math.Pow(X, 2)
+		var expX = X * X
 		var coEffExp = coEffA * expX
 		var expSum = math.Pow(10, coEffExp)
 		var sinclair = float32(total * expSum)
