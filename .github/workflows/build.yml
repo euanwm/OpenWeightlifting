@@ -22,7 +22,7 @@ jobs:
           cp -r event_data/ backend/
 
       - name: Linting Backend
-        uses: golangci/golangci-lint-action@v3
+        uses: golangci/golangci-lint-action@v9
         with:
           version: v2.12.2
           working-directory: ./backend
