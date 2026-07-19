@@ -118,7 +118,9 @@ func backendAlive() error {
 	if err != nil {
 		log.Fatal(err)
 	}
-	defer resp.Body.Close()
+	defer func() {
+		_ = resp.Body.Close()
+	}()
 
 	log.Println("Response Status:", resp.Status)
 	if resp.StatusCode != http.StatusOK {

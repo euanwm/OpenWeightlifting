@@ -88,7 +88,7 @@ func Rivals(nameStr string, sex string, fed string, year int, bigData []structs.
 	var names []string
 	var liftPtr *structs.Entry
 	var liftPos []int
-	var targetIndex int = -1
+	var targetIndex = -1
 
 	// First pass: collect first occurrence of each lifter (best performance since data is pre-sorted)
 	seenNames := make(map[string]bool)
