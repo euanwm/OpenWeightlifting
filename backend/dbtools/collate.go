@@ -151,9 +151,10 @@ func createSingleEvent(federation, filename string, eventsData *structs.EventsDa
 			BestCJ:     structs.NewWeightKgFromString(row[12]),
 			Total:      structs.NewWeightKgFromString(row[13]),
 			Sinclair:   0.0,
+			Category:   row[2],
 			Event:      event,
-			Lifter:     lifterRoster.Add(row[3], row[2], federation), // lifter association will be done later
 		}
+		lift.Lifter = lifterRoster.Add(row[3], row[2], federation, lift)
 		event.Name = row[0]
 		event.Date = row[1]
 		liftPtrSlice = append(liftPtrSlice, lift)

@@ -142,7 +142,8 @@ type Event struct {
 }
 
 type LifterRoster struct {
-	Lifters []Lifter `json:"lifters"`
+	Lifters []*Lifter `json:"lifters"`
+	index   map[string]*Lifter
 }
 
 type Lifter struct {
@@ -205,7 +206,7 @@ type SingleEvent struct {
 }
 
 type EventsList struct {
-	Events []SingleEventMetaData `json:"events"`
+	Events []Event `json:"events"`
 }
 
 type LiftReport struct {

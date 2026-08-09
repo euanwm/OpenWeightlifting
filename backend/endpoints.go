@@ -24,11 +24,8 @@ var LeaderboardData structs.LeaderboardData
 // QueryCache is a global variable that is used to cache queries for the leaderboard endpoint.
 var QueryCache dbtools.QueryCache
 
-// EventsData is a global variable that is used to hold the event metadata.
-var EventsData structs.EventsMetaData
-
 // kinda self-explanatory
-var NewEventsData structs.EventsData
+var EventsData structs.EventsData
 
 // LifterRoster is a global variable that is used to hold the lifter roster.
 var LifterRoster structs.LifterRoster

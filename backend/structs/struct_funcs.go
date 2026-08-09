@@ -209,6 +209,35 @@ func (e EventsMetaData) FetchEventByName(eventName string) (federation, filename
 	return "", ""
 }
 
+func (e EventsMetaData) FetchEventWithinDate(startDate, endDate string) (events []SingleEventMetaData) {
+	startDateTime, _ := utilities.StringToDate(startDate)
+	endDateTime, _ := utilities.StringToDate(endDate)
+	for index, date := range e.Date {
+		eventDateTime, _ := utilities.StringToDate(date)
+		if eventDateTime.After(startDateTime) && eventDateTime.Before(endDateTime) {
+			events = append(events, SingleEventMetaData{
+				Name:       e.Name[index],
+				Federation: e.Federation[index],
+				Date:       e.Date[index],
+				ID:         e.ID[index],
+			})
+		}
+	}
+	return
+}
+
+func (e EventsData) FetchEventWithinDate(startDate, endDate string) (events []Event) {
+	startDateTime, _ := utilities.StringToDate(startDate)
+	endDateTime, _ := utilities.StringToDate(endDate)
+	for _, event := range e.Events {
+		eventDateTime, _ := utilities.StringToDate(event.Date)
+		if eventDateTime.After(startDateTime) && eventDateTime.Before(endDateTime) {
+			events = append(events, *event)
+		}
+	}
+	return
+}
+
 func (c *LeaderboardPayload) SetDefaults(gin *gin.Context) (err error) {
 	if c.SortBy == "" {
 		c.SortBy = "total"
@@ -257,23 +286,6 @@ func (e LeaderboardResponse) FilterByDate(eventDate string) (newData []Entry, ne
 	return
 }
 
-func (e EventsMetaData) FetchEventWithinDate(startDate, endDate string) (events []SingleEventMetaData) {
-	startDateTime, _ := utilities.StringToDate(startDate)
-	endDateTime, _ := utilities.StringToDate(endDate)
-	for index, date := range e.Date {
-		eventDateTime, _ := utilities.StringToDate(date)
-		if eventDateTime.After(startDateTime) && eventDateTime.Before(endDateTime) {
-			events = append(events, SingleEventMetaData{
-				Name:       e.Name[index],
-				Federation: e.Federation[index],
-				Date:       e.Date[index],
-				ID:         e.ID[index],
-			})
-		}
-	}
-	return
-}
-
 func (e *BeanCounter) AddBytes(bytes uint64) {
 	e.Bytes += bytes
 }
@@ -303,7 +315,24 @@ func (e *BeanCounter) UnitToString() string {
 	}
 }
 
+// Add finds or creates the Lifter matching name+category+federation, attaches
+// lift to it, and returns the Lifter pointer to store on lift.Lifter.
 func (e *LifterRoster) Add(name, category, federation string, lift *Lift) *Lifter {
-	// adds a lifters, checks that a lifter does not already exist
-	return nil
+	if e.index == nil {
+		e.index = make(map[string]*Lifter)
+	}
+	gender := enum.ClassifyGender(category)
+	key := name + "|" + gender + "|" + federation
+	if lifter, ok := e.index[key]; ok {
+		lifter.Lifts = append(lifter.Lifts, lift)
+		return lifter
+	}
+	lifter := &Lifter{
+		Name:   name,
+		Gender: gender,
+		Lifts:  []*Lift{lift},
+	}
+	e.index[key] = lifter
+	e.Lifters = append(e.Lifters, lifter)
+	return lifter
 }

@@ -5,7 +5,6 @@ import (
 	"backend/sinclair"
 	"backend/structs"
 	"log"
-	"strings"
 )
 
 // ParseData Splits results into 3 categories, male, female, and unknown.
@@ -44,18 +43,7 @@ func ParseData(bigData [][]string) (allLifts structs.AllData, unknown structs.Al
 }
 
 func GetGender(entry *structs.Entry) (gender string) {
-	switch {
-	case entry.Gender == enum.Male:
-		return enum.Male
-	case entry.Gender == enum.Female:
-		return enum.Female
-	case strings.Contains(entry.Gender, "Women") || strings.Contains(entry.Gender, "female"):
-		return enum.Female
-	case strings.Contains(entry.Gender, "Men") || strings.Contains(entry.Gender, "male"): // todo: this is temporary probably
-		return enum.Male
-	default:
-		return enum.Unknown
-	}
+	return enum.ClassifyGender(entry.Gender)
 }
 
 func assignStruct(line []string) (lineStruct structs.Entry, valid bool) {
