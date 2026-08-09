@@ -52,7 +52,7 @@ func setupDiscordBot(bot *discordbot.DiscordBot) {
 
 func buildServer() *gin.Engine {
 	log.Println("Starting server...")
-	dbtools.BuildDatabase(&LeaderboardData, &EventsData)
+	dbtools.BuildDatabase(&LeaderboardData, &EventsData, &LifterRoster)
 	r := gin.Default()
 	r.Use(cors.New(CORSConfig()))
 	r.Use(gzip.Gzip(gzip.DefaultCompression))

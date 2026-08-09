@@ -160,9 +160,33 @@ func (e Entry) DiscordPrint() (rawString string) {
 	return
 }
 
+// ToEntry flattens a Lift (plus its linked Event/Lifter) into the legacy Entry
+// shape, for consumers (leaderboard filtering, event-by-name lookup) not yet
+// migrated to the Lift/Event/Lifter model.
+func (l *Lift) ToEntry() Entry {
+	return Entry{
+		Event:      l.Event.Name,
+		Date:       l.Event.Date,
+		Gender:     l.Lifter.Gender,
+		Name:       l.Lifter.Name,
+		Bodyweight: l.Bodyweight,
+		Sn1:        l.Sn1,
+		Sn2:        l.Sn2,
+		Sn3:        l.Sn3,
+		CJ1:        l.CJ1,
+		CJ2:        l.CJ2,
+		CJ3:        l.CJ3,
+		BestSn:     l.BestSn,
+		BestCJ:     l.BestCJ,
+		Total:      l.Total,
+		Sinclair:   float32(l.Sinclair),
+		Federation: l.Event.Federation,
+	}
+}
+
 func (e LeaderboardData) FetchNames(posSlice []int) (names []string) {
 	for _, position := range posSlice {
-		names = append(names, e.AllTotals[position].Name)
+		names = append(names, e.AllTotals[position].Lifter.Name)
 	}
 	return
 }
@@ -177,50 +201,27 @@ func (e AllData) ProcessNames() (names []string) {
 }
 
 func (e LeaderboardData) Select(sortBy string) *[]Entry {
+	var lifts []*Lift
 	switch sortBy {
 	case enum.Total:
-		return &e.AllTotals
+		lifts = e.AllTotals
 	case enum.Sinclair:
-		return &e.AllSinclairs
+		lifts = e.AllSinclairs
+	default:
+		log.Println("LeaderboardData: Select - Error in selecting sinclair/total")
+		return &[]Entry{}
 	}
-	log.Println("LeaderboardData: Select - Error in selecting sinclair/total")
-	return &[]Entry{}
+	entries := make([]Entry, len(lifts))
+	for i, lift := range lifts {
+		entries[i] = lift.ToEntry()
+	}
+	return &entries
 }
 
 func (e LeaderboardData) FetchByEventName(eventName string) (eventData []Entry) {
-	for _, entry := range e.AllTotals {
-		if entry.Event == eventName || strings.Contains(entry.Event, eventName) {
-			eventData = append(eventData, entry)
-		}
-	}
-	return
-}
-
-func (e EventsMetaData) FetchEventFP(index int) (federation, filename string) {
-	return e.Federation[index], e.ID[index]
-}
-
-func (e EventsMetaData) FetchEventByName(eventName string) (federation, filename string) {
-	for index, name := range e.Name {
-		if name == eventName {
-			return e.Federation[index], e.ID[index]
-		}
-	}
-	return "", ""
-}
-
-func (e EventsMetaData) FetchEventWithinDate(startDate, endDate string) (events []SingleEventMetaData) {
-	startDateTime, _ := utilities.StringToDate(startDate)
-	endDateTime, _ := utilities.StringToDate(endDate)
-	for index, date := range e.Date {
-		eventDateTime, _ := utilities.StringToDate(date)
-		if eventDateTime.After(startDateTime) && eventDateTime.Before(endDateTime) {
-			events = append(events, SingleEventMetaData{
-				Name:       e.Name[index],
-				Federation: e.Federation[index],
-				Date:       e.Date[index],
-				ID:         e.ID[index],
-			})
+	for _, lift := range e.AllTotals {
+		if lift.Event.Name == eventName || strings.Contains(lift.Event.Name, eventName) {
+			eventData = append(eventData, lift.ToEntry())
 		}
 	}
 	return

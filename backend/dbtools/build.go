@@ -6,11 +6,11 @@ import (
 	"log"
 )
 
-func BuildDatabase(leaderboardTotal *structs.LeaderboardData, eventmetadata *structs.EventsMetaData) {
+func BuildDatabase(leaderboardTotal *structs.LeaderboardData, eventmetadata *structs.EventsData, lifterRoster *structs.LifterRoster) {
 	log.Println("buildDatabase called...")
-	bigData := CollateAll(eventmetadata)
-	allLifts, badLifts := ParseData(bigData)
-	log.Println("Unable to parse ", len(badLifts.Lifts), " lifts")
+	allLifts := CollateAll(eventmetadata, lifterRoster)
+	// allLifts, badLifts := ParseData(bigData)
+	// log.Println("Unable to parse ", len(badLifts.Lifts), " lifts")
 	*leaderboardTotal = structs.LeaderboardData{
 		AllTotals:    SortLiftsBy(allLifts.Lifts, enum.Total),
 		AllSinclairs: SortLiftsBy(allLifts.Lifts, enum.Sinclair),

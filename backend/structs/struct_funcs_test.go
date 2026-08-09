@@ -152,17 +152,17 @@ func TestEntry_SelectedFederation(t *testing.T) {
 
 func TestLeaderboardData_FetchNames(t *testing.T) {
 	sampleLeaderboard := LeaderboardData{
-		AllTotals: []Entry{
-			{Name: "A"},
-			{Name: "B"},
-			{Name: "C"},
-			{Name: "D"},
-			{Name: "E"},
-			{Name: "F"},
-			{Name: "G"},
-			{Name: "H"},
-			{Name: "I"},
-			{Name: "J"},
+		AllTotals: []*Lift{
+			{Lifter: &Lifter{Name: "A"}},
+			{Lifter: &Lifter{Name: "B"}},
+			{Lifter: &Lifter{Name: "C"}},
+			{Lifter: &Lifter{Name: "D"}},
+			{Lifter: &Lifter{Name: "E"}},
+			{Lifter: &Lifter{Name: "F"}},
+			{Lifter: &Lifter{Name: "G"}},
+			{Lifter: &Lifter{Name: "H"}},
+			{Lifter: &Lifter{Name: "I"}},
+			{Lifter: &Lifter{Name: "J"}},
 		},
 	}
 	type args struct {
@@ -188,8 +188,8 @@ func TestLeaderboardData_FetchNames(t *testing.T) {
 
 func TestLeaderboardData_Select(t *testing.T) {
 	sampleLeaderboard := LeaderboardData{
-		AllTotals:    []Entry{},
-		AllSinclairs: []Entry{},
+		AllTotals:    []*Lift{},
+		AllSinclairs: []*Lift{},
 	}
 	type args struct {
 		sortBy string
@@ -199,8 +199,8 @@ func TestLeaderboardData_Select(t *testing.T) {
 		args args
 		want []Entry
 	}{
-		{name: "SelectTotal", args: args{sortBy: enum.Total}, want: sampleLeaderboard.AllTotals},
-		{name: "SelectSinclair", args: args{sortBy: enum.Sinclair}, want: sampleLeaderboard.AllSinclairs},
+		{name: "SelectTotal", args: args{sortBy: enum.Total}, want: []Entry{}},
+		{name: "SelectSinclair", args: args{sortBy: enum.Sinclair}, want: []Entry{}},
 		{name: "NeitherMale", args: args{sortBy: "neither"}, want: []Entry{}},
 	}
 	for _, tt := range tests {

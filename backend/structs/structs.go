@@ -82,8 +82,8 @@ type LifterStats struct {
 }
 
 type LeaderboardData struct {
-	AllTotals    []Entry
-	AllSinclairs []Entry
+	AllTotals    []*Lift
+	AllSinclairs []*Lift
 }
 
 // LeaderboardPayload Incoming request payload
@@ -178,21 +178,6 @@ type Lift struct {
 type LeaderboardResponse struct {
 	Size int     `json:"size"`
 	Data []Entry `json:"data"`
-}
-
-// EventsMetaData Internal struct for storing event metadata
-type EventsMetaData struct {
-	Name       []string
-	Federation []string
-	Date       []string
-	ID         []string
-}
-
-type SingleEventMetaData struct {
-	Name       string `json:"name"`
-	Federation string `json:"federation"`
-	Date       string `json:"date"`
-	ID         string `json:"id"`
 }
 
 type EventSearch struct {

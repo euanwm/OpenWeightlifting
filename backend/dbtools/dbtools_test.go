@@ -10,16 +10,18 @@ import (
 func BenchmarkBuildDatabase(b *testing.B) {
 	for i := 0; i < b.N; i++ {
 		dbBuild := structs.LeaderboardData{}
-		var eventmetadata structs.EventsMetaData
-		BuildDatabase(&dbBuild, &eventmetadata)
+		var eventsData structs.EventsData
+		var roster structs.LifterRoster
+		BuildDatabase(&dbBuild, &eventsData, &roster)
 	}
 }
 
 func TestBuildDatabase(t *testing.T) {
 	t.Run("BuildDatabase", func(t *testing.T) {
 		dbBuild := structs.LeaderboardData{}
-		var EventsData structs.EventsMetaData
-		BuildDatabase(&dbBuild, &EventsData)
+		var eventsData structs.EventsData
+		var roster structs.LifterRoster
+		BuildDatabase(&dbBuild, &eventsData, &roster)
 		if len(dbBuild.AllTotals) == 0 {
 			t.Errorf("BuildDatabase() = %v, want greater than 0", len(dbBuild.AllTotals))
 		}
@@ -28,16 +30,17 @@ func TestBuildDatabase(t *testing.T) {
 
 func TestCollateAll(t *testing.T) {
 	tests := []struct {
-		name        string
-		wantAllData [][]string
+		name         string
+		wantAllLifts structs.AllLifts
 	}{
-		{name: "CollateAll", wantAllData: [][]string{}},
+		{name: "CollateAll", wantAllLifts: structs.AllLifts{}},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			var eventmetadata structs.EventsMetaData
-			if gotAllData := CollateAll(&eventmetadata); !reflect.DeepEqual(reflect.TypeOf(gotAllData), reflect.TypeOf(tt.wantAllData)) {
-				t.Errorf("CollateAll() = %v, want %v", reflect.TypeOf(gotAllData), reflect.TypeOf(tt.wantAllData))
+			var eventsData structs.EventsData
+			var roster structs.LifterRoster
+			if gotAllLifts := CollateAll(&eventsData, &roster); !reflect.DeepEqual(reflect.TypeOf(gotAllLifts), reflect.TypeOf(tt.wantAllLifts)) {
+				t.Errorf("CollateAll() = %v, want %v", reflect.TypeOf(gotAllLifts), reflect.TypeOf(tt.wantAllLifts))
 			}
 		})
 	}
@@ -143,16 +146,16 @@ func TestParseData(t *testing.T) {
 
 func TestSortLiftsBy(t *testing.T) {
 	type args struct {
-		bigData []structs.Entry
+		bigData []*structs.Lift
 		sortBy  string
 	}
 	tests := []struct {
 		name          string
 		args          args
-		wantFinalData []structs.Entry
+		wantFinalData []*structs.Lift
 	}{
-		{name: "SortBySinclair", args: args{bigData: []structs.Entry{{Sinclair: 300}, {Sinclair: 100}, {Sinclair: 200}}, sortBy: enum.Sinclair}, wantFinalData: []structs.Entry{{Sinclair: 300}, {Sinclair: 200}, {Sinclair: 100}}},
-		{name: "SortByTotal", args: args{bigData: []structs.Entry{{Total: structs.NewWeightKg(300)}, {Total: structs.NewWeightKg(100)}, {Total: structs.NewWeightKg(200)}}, sortBy: enum.Total}, wantFinalData: []structs.Entry{{Total: structs.NewWeightKg(300)}, {Total: structs.NewWeightKg(200)}, {Total: structs.NewWeightKg(100)}}},
+		{name: "SortBySinclair", args: args{bigData: []*structs.Lift{{Sinclair: 300}, {Sinclair: 100}, {Sinclair: 200}}, sortBy: enum.Sinclair}, wantFinalData: []*structs.Lift{{Sinclair: 300}, {Sinclair: 200}, {Sinclair: 100}}},
+		{name: "SortByTotal", args: args{bigData: []*structs.Lift{{Total: structs.NewWeightKg(300)}, {Total: structs.NewWeightKg(100)}, {Total: structs.NewWeightKg(200)}}, sortBy: enum.Total}, wantFinalData: []*structs.Lift{{Total: structs.NewWeightKg(300)}, {Total: structs.NewWeightKg(200)}, {Total: structs.NewWeightKg(100)}}},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
@@ -165,14 +168,14 @@ func TestSortLiftsBy(t *testing.T) {
 
 func TestSortSinclair(t *testing.T) {
 	type args struct {
-		sliceStructs []structs.Entry
-		wantedSlice  []structs.Entry
+		sliceStructs []*structs.Lift
+		wantedSlice  []*structs.Lift
 	}
 	tests := []struct {
 		name string
 		args args
 	}{
-		{name: "NormalSort", args: args{sliceStructs: []structs.Entry{{Sinclair: 300}, {Sinclair: 100}, {Sinclair: 200}}, wantedSlice: []structs.Entry{{Sinclair: 100}, {Sinclair: 200}, {Sinclair: 300}}}},
+		{name: "NormalSort", args: args{sliceStructs: []*structs.Lift{{Sinclair: 300}, {Sinclair: 100}, {Sinclair: 200}}, wantedSlice: []*structs.Lift{{Sinclair: 100}, {Sinclair: 200}, {Sinclair: 300}}}},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
@@ -183,18 +186,18 @@ func TestSortSinclair(t *testing.T) {
 
 func TestSortTotal(t *testing.T) {
 	type args struct {
-		sliceStructs []structs.Entry
-		wantedSlice  []structs.Entry
+		sliceStructs []*structs.Lift
+		wantedSlice  []*structs.Lift
 	}
 	tests := []struct {
 		name string
 		args args
 	}{
-		{name: "NormalSort", args: args{sliceStructs: []structs.Entry{
+		{name: "NormalSort", args: args{sliceStructs: []*structs.Lift{
 			{Total: structs.NewWeightKg(300)},
 			{Total: structs.NewWeightKg(100)},
 			{Total: structs.NewWeightKg(200)},
-		}, wantedSlice: []structs.Entry{
+		}, wantedSlice: []*structs.Lift{
 			{Total: structs.NewWeightKg(100)},
 			{Total: structs.NewWeightKg(200)},
 			{Total: structs.NewWeightKg(300)},
@@ -295,19 +298,18 @@ func Test_loadAllFedEvents(t *testing.T) {
 		federation string
 	}
 	tests := []struct {
-		name          string
-		args          args
-		wantAllEvents [][]string
+		name string
+		args args
 	}{
-		{name: "LoadUKEvents", args: args{federation: "UK"}, wantAllEvents: nil},
-		{name: "LoadNVFEvents", args: args{federation: "NVF"}, wantAllEvents: nil},
+		{name: "LoadUKEvents", args: args{federation: "UK"}},
+		{name: "LoadNVFEvents", args: args{federation: "NVF"}},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			var eventmetadata structs.EventsMetaData
-			if gotAllEvents := loadAllFedEvents(tt.args.federation, &eventmetadata); !reflect.DeepEqual(reflect.TypeOf(gotAllEvents), reflect.TypeOf(tt.wantAllEvents)) {
-				t.Errorf("loadAllFedEvents() = %v, want %v", gotAllEvents, reflect.TypeOf(tt.wantAllEvents))
-			}
+			var eventsData structs.EventsData
+			var allLifts structs.AllLifts
+			var roster structs.LifterRoster
+			loadAllFedEvents(tt.args.federation, &eventsData, &allLifts, &roster)
 		})
 	}
 }
@@ -334,14 +336,6 @@ func Test_setGender(t *testing.T) {
 			}
 		})
 	}
-}
-
-func Test_EventsMetaData_FetchEvent(t *testing.T) {
-	var eventmetadata structs.EventsMetaData
-	var leaderboarddata structs.LeaderboardData
-	BuildDatabase(&leaderboarddata, &eventmetadata)
-	federation, eventID := eventmetadata.FetchEventFP(0)
-	println(federation, eventID)
 }
 
 func TestLoadSingleEvent(t *testing.T) {
@@ -386,11 +380,3 @@ func Test_CreateSingleEvent(t *testing.T) {
 	})
 }
 
-func Test_EventsMetaData_FetchEventWithinDate(t *testing.T) {
-	var eventmetadata structs.EventsMetaData
-	var leaderboarddata structs.LeaderboardData
-	BuildDatabase(&leaderboarddata, &eventmetadata)
-	// expecting 368 events between the dates 2023-01-01 and 2023-05-01
-	events := eventmetadata.FetchEventWithinDate("2023-01-01", "2023-05-01")
-	reflect.DeepEqual(len(events), 368)
-}

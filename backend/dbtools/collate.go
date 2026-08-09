@@ -9,13 +9,12 @@ import (
 	"path"
 )
 
-func CollateAll(eventmetadata *structs.EventsMetaData) (allData [][]string) {
+func CollateAll(eventsData *structs.EventsData, lifterRoster *structs.LifterRoster) (allLifts structs.AllLifts) {
 	dirs := getFedDirs()
 	for _, fed := range dirs {
-		allResults := loadAllFedEvents(fed, eventmetadata)
-		allData = append(allData, allResults...)
+		loadAllFedEvents(fed, eventsData, &allLifts, lifterRoster)
 	}
-	return allData
+	return allLifts
 }
 
 // columnAliases maps each canonical column position (consumed by assignStruct) to
@@ -78,40 +77,15 @@ func insertFederation(event [][]string, federation string) [][]string {
 	return event
 }
 
-// Returns an unsorted nested slice of all events from a single federation/organiser
-func loadAllFedEvents(federation string, metadata *structs.EventsMetaData) (allEvents [][]string) {
+// Populates the metadata, lifts, and lifters
+func loadAllFedEvents(federation string, eventsData *structs.EventsData, allLifts *structs.AllLifts, lifterRoster *structs.LifterRoster) {
 	allFiles, err := database.Database.ReadDir(federation)
 	if err != nil {
 		log.Fatal(err)
 	}
 	for _, file := range allFiles {
-		func() {
-			fileHandle, err := database.Database.Open(path.Join(federation, file.Name()))
-			if err != nil {
-				log.Fatal(err)
-			}
-			defer func(fileHandle fs.File) {
-				err := fileHandle.Close()
-				if err != nil {
-					log.Fatal(err)
-				}
-			}(fileHandle)
-
-			header, eventData := utilities.LoadCsvFile(fileHandle)
-			if len(eventData) == 0 {
-				return
-			}
-			eventData = normalizeColumns(header, eventData)
-			eventData = insertFederation(eventData, federation)
-			allEvents = append(allEvents, eventData...)
-
-			metadata.Name = append(metadata.Name, eventData[0][0])
-			metadata.Federation = append(metadata.Federation, federation)
-			metadata.Date = append(metadata.Date, eventData[0][1])
-			metadata.ID = append(metadata.ID, file.Name())
-		}()
+		createSingleEvent(federation, file.Name(), eventsData, allLifts, lifterRoster)
 	}
-	return
 }
 
 func createSingleEvent(federation, filename string, eventsData *structs.EventsData, allLifts *structs.AllLifts, lifterRoster *structs.LifterRoster) {

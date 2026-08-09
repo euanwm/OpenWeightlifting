@@ -127,7 +127,7 @@ func lifterPosition(bigData []structs.Entry, pos []int, lifter structs.NameSearc
 	for i, d := range pos {
 		liftData := bigData[d]
 		if liftData.Name == lifter.NameStr && liftData.Federation == lifter.Federation {
-			return i+1
+			return i + 1
 		}
 	}
 	return 0
@@ -152,21 +152,21 @@ func fetchLifts(bigData *[]structs.Entry, pos []int, query *structs.LeaderboardP
 	return
 }
 
-// SortSinclair Descending order by entry sinclair
-func SortSinclair(sliceStructs []structs.Entry) {
+// SortSinclair Descending order by lift sinclair
+func SortSinclair(sliceStructs []*structs.Lift) {
 	sort.Slice(sliceStructs, func(i, j int) bool {
 		return sliceStructs[i].Sinclair > sliceStructs[j].Sinclair
 	})
 }
 
-// SortTotal Descending order by entry total
-func SortTotal(sliceStructs []structs.Entry) {
+// SortTotal Descending order by lift total
+func SortTotal(sliceStructs []*structs.Lift) {
 	sort.Slice(sliceStructs, func(i, j int) bool {
 		return sliceStructs[i].Total.GreaterThan(sliceStructs[j].Total)
 	})
 }
 
-// SortDate Ascending order by lift date
+// SortDate Ascending order by entry date
 func SortDate(liftData []structs.Entry) []structs.Entry {
 	const rfc3339partial string = "T15:04:05Z" // todo - manually subscribe to the RFC3339 string instead (?)
 	sort.Slice(liftData, func(i, j int) bool {
@@ -177,14 +177,17 @@ func SortDate(liftData []structs.Entry) []structs.Entry {
 	return liftData
 }
 
-func SortLiftsBy(bigData []structs.Entry, sortBy string) (sortedData []structs.Entry) {
+// SortLiftsBy sorts a copy of bigData so callers using the same underlying
+// slice for multiple sort orders (e.g. Total then Sinclair) don't clobber
+// each other's already-returned results.
+func SortLiftsBy(bigData []*structs.Lift, sortBy string) (sortedData []*structs.Lift) {
+	sortedData = append(sortedData, bigData...)
 	switch sortBy {
 	case enum.Total:
-		SortTotal(bigData)
+		SortTotal(sortedData)
 	case enum.Sinclair:
-		SortSinclair(bigData)
+		SortSinclair(sortedData)
 	}
-	sortedData = append(sortedData, bigData...)
 	return
 }
 

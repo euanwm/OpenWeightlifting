@@ -146,8 +146,8 @@ func Rivals(nameStr string, sex string, fed string, year int, bigData []structs.
 func FetchLifts(name structs.NameSearch, leaderboard *structs.LeaderboardData) (lifterData structs.LifterHistory) {
 	lifterData.NameStr = name.NameStr
 	for _, lift := range leaderboard.AllTotals {
-		if lift.Name == name.NameStr {
-			lifterData.Lifts = append(lifterData.Lifts, lift)
+		if lift.Lifter.Name == name.NameStr {
+			lifterData.Lifts = append(lifterData.Lifts, lift.ToEntry())
 		}
 	}
 	return

@@ -68,7 +68,7 @@ func SearchName(c *gin.Context) {
 	}
 	if len(c.Query("name")) >= 3 {
 		nameStr := c.Query("name")
-		results := lifter.NewNameSearch(nameStr, &LeaderboardData.AllTotals)
+		results := lifter.NewNameSearch(nameStr, LeaderboardData.Select(enum.Total))
 
 		results.Total = len(results.Names)
 
@@ -299,7 +299,7 @@ func LeaderboardSearch(c *gin.Context) {
 	}
 
 	// Check that the lifter exists
-	validLifterName := lifter.NewNameSearch(body.LifterData.NameStr, &LeaderboardData.AllTotals)
+	validLifterName := lifter.NewNameSearch(body.LifterData.NameStr, LeaderboardData.Select(enum.Total))
 
 	if validLifterName.Total == 0 {
 		c.JSON(http.StatusOK, gin.H{"error": "Name not in database"})
@@ -352,7 +352,7 @@ func SimilarNameSearch(c *gin.Context) {
 		return
 	}
 	nameSearch := structs.NameSearch{NameStr: name, Federation: federation}
-	results := lifter.SimilarNames(nameSearch, &LeaderboardData.AllTotals)
+	results := lifter.SimilarNames(nameSearch, LeaderboardData.Select(enum.Total))
 	if results.Total == 0 {
 		c.JSON(http.StatusNoContent, nil)
 		return
