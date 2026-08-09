@@ -129,6 +129,51 @@ type Entry struct {
 	Federation string   `json:"country"`
 }
 
+type EventsData struct {
+	Events []*Event `json:"events"`
+}
+
+type Event struct {
+	Name       string  `json:"name"`
+	Date       string  `json:"date"`
+	Federation string  `json:"federation"`
+	CSVID      string  `json:"event_id"`
+	Results    []*Lift `json:"-"`
+}
+
+type LifterRoster struct {
+	Lifters []Lifter `json:"lifters"`
+}
+
+type Lifter struct {
+	Gender     string  `json:"gender"`
+	Name       string  `json:"name"`
+	CurrentAge uint8   `json:"age"` // 0 if not known
+	Lifts      []*Lift `json:"lifts"`
+}
+
+type AllLifts struct {
+	Lifts []*Lift `json:"lifts"`
+}
+
+type Lift struct {
+	Event      *Event   `json:"-"`
+	Lifter     *Lifter  `json:"-"`
+	AgeOnDay   uint8    `json:"age_on_day"` // 0 if not known
+	Category   string   `json:"category"`
+	Bodyweight WeightKg `json:"bodyweight"`
+	Sn1        WeightKg `json:"snatch_1"`
+	Sn2        WeightKg `json:"snatch_2"`
+	Sn3        WeightKg `json:"snatch_3"`
+	CJ1        WeightKg `json:"cj_1"`
+	CJ2        WeightKg `json:"cj_2"`
+	CJ3        WeightKg `json:"cj_3"`
+	BestSn     WeightKg `json:"best_snatch"`
+	BestCJ     WeightKg `json:"best_cj"`
+	Total      WeightKg `json:"total"`
+	Sinclair   float64  `json:"sinclair"` // todo: change this to a key:value so we can differentiate between qpoints, sinclair etc.
+}
+
 type LeaderboardResponse struct {
 	Size int     `json:"size"`
 	Data []Entry `json:"data"`

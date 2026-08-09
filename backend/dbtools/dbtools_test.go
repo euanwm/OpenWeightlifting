@@ -365,6 +365,27 @@ func TestLoadSingleEvent(t *testing.T) {
 	}
 }
 
+func Test_CreateSingleEvent(t *testing.T) {
+	var events structs.EventsData
+	var roster structs.LifterRoster
+	var lifts structs.AllLifts
+	t.Run("CreateSingleEvent", func(t *testing.T) {
+		createSingleEvent("AUS", "1000.csv", &events, &lifts, &roster)
+		if len(events.Events) != 1 {
+			t.Errorf("CreateSingleEvent() = %v, want 1", len(events.Events))
+		}
+		if len(lifts.Lifts) != 18 {
+			t.Errorf("CreateSingleEvent() = %v, want 18", len(lifts.Lifts))
+		}
+		// check that the lifts have referenced lifters
+		for _, lift := range lifts.Lifts {
+			if lift.Lifter == nil {
+				t.Errorf("CreateSingleEvent() = %v, want referenced lifter", lift.Lifter)
+			}
+		}
+	})
+}
+
 func Test_EventsMetaData_FetchEventWithinDate(t *testing.T) {
 	var eventmetadata structs.EventsMetaData
 	var leaderboarddata structs.LeaderboardData

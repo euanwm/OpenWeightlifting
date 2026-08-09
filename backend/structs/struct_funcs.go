@@ -302,3 +302,8 @@ func (e *BeanCounter) UnitToString() string {
 		return fmt.Sprintf("%d bytes", e.Bytes)
 	}
 }
+
+func (e *LifterRoster) Add(name, category, federation string, lift *Lift) *Lifter {
+	// adds a lifters, checks that a lifter does not already exist
+	return nil
+}
