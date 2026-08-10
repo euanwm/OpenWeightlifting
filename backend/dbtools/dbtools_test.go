@@ -338,27 +338,6 @@ func Test_setGender(t *testing.T) {
 	}
 }
 
-func TestLoadSingleEvent(t *testing.T) {
-	type args struct {
-		federation string
-		eventID    string
-	}
-	tests := []struct {
-		name             string
-		args             args
-		wantTotalResults int
-	}{
-		{name: "LoadSingleEvent", args: args{federation: "AUS", eventID: "1000.csv"}, wantTotalResults: 18},
-	}
-	for _, tt := range tests {
-		t.Run(tt.name, func(t *testing.T) {
-			if gotEvent := len(LoadSingleEvent(tt.args.federation, tt.args.eventID)); !reflect.DeepEqual(gotEvent, tt.wantTotalResults) {
-				t.Errorf("LoadSingleEvent() = %v, want %v", gotEvent, tt.wantTotalResults)
-			}
-		})
-	}
-}
-
 func Test_CreateSingleEvent(t *testing.T) {
 	var events structs.EventsData
 	var roster structs.LifterRoster

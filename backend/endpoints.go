@@ -30,9 +30,6 @@ var EventsData structs.EventsData
 // LifterRoster is a global variable that is used to hold the lifter roster.
 var LifterRoster structs.LifterRoster
 
-// TheBank is a glorified byte counter, but it can be expanded to do more stuff
-var TheBank structs.BeanCounter
-
 // ServerTime godoc
 //
 //	@Summary	Checking the servers localtime
@@ -458,31 +455,4 @@ func SingleEvent(c *gin.Context) {
 		return
 	}
 	c.JSON(http.StatusOK, response)
-}
-
-// IssueReport godoc
-//
-//		@Summary	Report an issue with a lift
-//		@Schemes
-//		@Description	Report an issue with a lift to the discord server
-//		@Tags			POST Requests
-//	 @Param report body structs.LiftReport true "Lift to report, along with comments describing the issue"
-//		@Accept			json
-//		@Produce		json
-//		@Success		200	{object}	nil
-//		@Failure		400	{object}	nil
-//		@Router			/issue [post]
-func IssueReport(c *gin.Context) {
-	var report structs.LiftReport
-	if err := c.BindJSON(&report); err != nil {
-		abortErr := c.AbortWithError(http.StatusBadRequest, err)
-		log.Println(abortErr)
-		return
-	}
-	log.Printf("Issue report received: %s\n", report.Comments)
-	_, err := DiscoKaren.PostMessage(report.ReportedLift.DiscordPrint() + "\nReport Comments: *" + report.Comments + "*")
-	if err != nil {
-		log.Println("Failed to post message to discord")
-	}
-	c.JSON(http.StatusOK, nil)
 }

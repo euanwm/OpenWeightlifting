@@ -2,16 +2,12 @@ package main
 
 import (
 	"backend/dbtools"
-	"backend/discordbot"
 	_ "backend/docs"
-	"backend/middleware"
 	"bytes"
 	"fmt"
 	"log"
 	"net/http"
 	"os"
-	"os/signal"
-	"syscall"
 
 	"github.com/gin-contrib/cors"
 	"github.com/gin-contrib/gzip"
@@ -34,29 +30,12 @@ func CORSConfig() cors.Config {
 	return corsConfig
 }
 
-func setupDiscordBot(bot *discordbot.DiscordBot) {
-	token := os.Getenv("DISCORD_TOKEN")
-	*bot, _ = discordbot.New(token)
-	err := bot.OpenConnection()
-	if err != nil {
-		log.Println("Failed to open discord connection")
-	}
-	bot.Channel = os.Getenv("ISSUES_CHANNEL")
-	bot.PlatformChannel = os.Getenv("PLATFORM_CHANNEL")
-	if err != nil {
-		log.Println("Failed to post message to discord")
-		return
-	}
-	log.Println("Discord bot started")
-}
-
 func buildServer() *gin.Engine {
 	log.Println("Starting server...")
 	dbtools.BuildDatabase(&LeaderboardData, &EventsData, &LifterRoster)
 	r := gin.Default()
 	r.Use(cors.New(CORSConfig()))
 	r.Use(gzip.Gzip(gzip.DefaultCompression))
-	r.Use(middleware.PayloadSizer(&TheBank))
 	r.GET("time", ServerTime)
 	r.GET("leaderboard", Leaderboard)
 	r.POST("leaderboard/search", LeaderboardSearch)
@@ -66,7 +45,6 @@ func buildServer() *gin.Engine {
 	r.GET("history", LifterHistory)
 	r.POST("events/list", Events)
 	r.GET("events", SingleEvent)
-	r.POST("issue", IssueReport)
 	r.GET("rivals", Rival)
 	r.GET("swagger/*any", ginSwagger.WrapHandler(swaggerFiles.Handler))
 	return r
@@ -131,19 +109,6 @@ func backendAlive() error {
 
 }
 
-func RestartHandler(bot *discordbot.DiscordBot) {
-	// This could likely be moved into middleware
-	signals := make(chan os.Signal, 1)
-	signal.Notify(signals, syscall.SIGINT, syscall.SIGTERM)
-	<-signals
-	// post an update into Discord with how many bytes of data were handler
-	_, _ = bot.PostPlatformData(fmt.Sprintf("Total backend data handled today: %s", TheBank.UnitToString()))
-	err := bot.CloseConnection()
-	if err != nil {
-		log.Printf("Error when closing discord connection: %s", err)
-	}
-}
-
 // @title OpenWeightlifting API
 // @description This is the API for OpenWeightlifting.org
 // @BasePath /
@@ -153,10 +118,8 @@ func RestartHandler(bot *discordbot.DiscordBot) {
 // @host api.openweightlifting.org
 // @schemes https
 func main() {
-	setupDiscordBot(&DiscoKaren)
 	apiServer := buildServer()
 	go CacheMeOutsideHowBoutDat()
-	go RestartHandler(&DiscoKaren)
 	err := apiServer.Run() // listen and serve on
 	if err != nil {
 		log.Fatal("Failed to run server")
