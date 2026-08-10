@@ -431,30 +431,29 @@ func Events(c *gin.Context) {
 //	 @Param date query string false "Date to filter results by, only applicable when looking up by name"
 //		@Accept			json
 //		@Produce		json
-//		@Success		200	{object}	structs.LeaderboardResponse
+//		@Success		200	{object}	structs.EventResponse
 //		@Failure		204	{object}	nil
 //		@Router			/events [get]
 func SingleEvent(c *gin.Context) {
-	var response structs.LeaderboardResponse
+	var response structs.EventResponse
 	var federation, fedExists = c.GetQuery("fed")
 	var csvID, idExists = c.GetQuery("id")
 	var date, dateExists = c.GetQuery("date")
 	var eventNameReq, nameExists = c.GetQuery("name")
 	// federation and csvID are required
 	if fedExists && idExists {
-		response.Data = dbtools.LoadSingleEvent(federation, csvID)
+		response = EventsData.FetchEventByID(federation, csvID)
 	} else if fedExists && nameExists {
 		// federation and event name are required
-		response.Data = LeaderboardData.FetchByEventName(eventNameReq)
+		response = EventsData.FetchByEventName(eventNameReq)
 		// date is optional, but I'd recommend it because I fucking said so and I can't be bothered explaining at 2323hrs on a Tuesday-cunting-night
 		// only reason why it's even here is some federations load their multi-day events as such and not all on the same day
 		if dateExists {
-			response.Data, response.Size = response.FilterByDate(date)
+			response = response.FilterByDate(date)
 		}
 	}
 
-	response.Size = len(response.Data)
-	if response.Size == 0 {
+	if len(response.Lifts) == 0 {
 		c.JSON(http.StatusNoContent, nil)
 		return
 	}

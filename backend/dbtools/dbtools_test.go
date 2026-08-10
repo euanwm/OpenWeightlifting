@@ -379,4 +379,3 @@ func Test_CreateSingleEvent(t *testing.T) {
 		}
 	})
 }
-

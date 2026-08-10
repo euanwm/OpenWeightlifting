@@ -239,6 +239,48 @@ func (e EventsData) FetchEventWithinDate(startDate, endDate string) (events []Ev
 	return
 }
 
+func (e EventsData) FetchEventByID(federation, csvID string) (response EventResponse) {
+	for _, event := range e.Events {
+		if event.Federation == federation && event.CSVID == csvID {
+			response.Event = *event
+			for _, lift := range event.Results {
+				response.Lifts = append(response.Lifts, *lift)
+			}
+			return
+		}
+	}
+	return
+}
+
+// FetchByEventName combines lifts from every event whose name matches (exact
+// or substring), since some federations split one event across multiple
+// per-day CSV files that share a name. Event metadata comes from the first match.
+func (e EventsData) FetchByEventName(eventName string) (response EventResponse) {
+	for _, event := range e.Events {
+		if event.Name == eventName || strings.Contains(event.Name, eventName) {
+			if response.Event.Name == "" {
+				response.Event = *event
+			}
+			for _, lift := range event.Results {
+				response.Lifts = append(response.Lifts, *lift)
+			}
+		}
+	}
+	return
+}
+
+// FilterByDate narrows an already-fetched EventResponse down to lifts from a
+// single day, for the multi-day-event-under-one-name case.
+func (e EventResponse) FilterByDate(singleDate string) (response EventResponse) {
+	response.Event = e.Event
+	for _, lift := range e.Lifts {
+		if lift.Event.Date == singleDate {
+			response.Lifts = append(response.Lifts, lift)
+		}
+	}
+	return
+}
+
 func (c *LeaderboardPayload) SetDefaults(gin *gin.Context) (err error) {
 	if c.SortBy == "" {
 		c.SortBy = "total"

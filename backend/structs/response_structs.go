@@ -1,9 +1,6 @@
 package structs
 
-type FullEvent struct {
+type EventResponse struct {
 	Event Event  `json:"event"`
 	Lifts []Lift `json:"lifts"`
-}
-
-type LiftResponse struct {
 }
