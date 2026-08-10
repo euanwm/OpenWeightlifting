@@ -150,7 +150,7 @@ type Lifter struct {
 	Gender     string  `json:"gender"`
 	Name       string  `json:"name"`
 	CurrentAge uint8   `json:"age"` // 0 if not known
-	Lifts      []*Lift `json:"lifts"`
+	Lifts      []*Lift `json:"-"`  // back-reference; excluded to avoid Lift<->Lifter JSON cycles
 }
 
 type AllLifts struct {
@@ -158,8 +158,8 @@ type AllLifts struct {
 }
 
 type Lift struct {
-	Event      *Event   `json:"-"`
-	Lifter     *Lifter  `json:"-"`
+	Event      *Event   `json:"-"` // parent; already the context when nested under Event.Results/EventResponse
+	Lifter     *Lifter  `json:"lifter"`
 	AgeOnDay   uint8    `json:"age_on_day"` // 0 if not known
 	Category   string   `json:"category"`
 	Bodyweight WeightKg `json:"bodyweight"`
