@@ -20,10 +20,6 @@ func ClassifyGender(raw string) string {
 	}
 }
 
-// max bodyweight will be 250
-// max snatch will be 240
-// max clean and jerk will be 280
-
 const (
 	Male     string = "male"
 	Female   string = "female"

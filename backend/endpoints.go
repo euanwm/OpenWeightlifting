@@ -2,7 +2,6 @@ package main //nolint:typecheck
 
 import (
 	"backend/dbtools"
-	"backend/discordbot"
 	"backend/enum"
 	"backend/lifter"
 	"backend/structs"
@@ -14,9 +13,6 @@ import (
 
 	"github.com/gin-gonic/gin"
 )
-
-// DiscoKaren is a global variable that is used to hold the discord bot session.
-var DiscoKaren discordbot.DiscordBot
 
 // LeaderboardData is a global variable that is used to hold the leaderboard data.
 var LeaderboardData structs.LeaderboardData
