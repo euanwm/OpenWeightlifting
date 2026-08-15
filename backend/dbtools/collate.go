@@ -110,6 +110,9 @@ func createSingleEvent(federation, filename string, eventsData *structs.EventsDa
 		CSVID:      filename,
 	}
 
+	// load rules
+	rules := LoadRules()
+
 	// process all lifts
 	liftPtrSlice := make([]*structs.Lift, 0, len(eventData))
 	for _, row := range eventData {
@@ -127,6 +130,9 @@ func createSingleEvent(federation, filename string, eventsData *structs.EventsDa
 			Sinclair:   0.0,
 			Category:   row[2],
 			Event:      event,
+		}
+		if !rules.PassesRules(lift) {
+			continue
 		}
 		lift.Lifter = lifterRoster.Add(row[3], row[2], federation, lift)
 		event.Name = row[0]

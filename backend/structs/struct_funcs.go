@@ -218,15 +218,6 @@ func (e LeaderboardData) Select(sortBy string) *[]Entry {
 	return &entries
 }
 
-func (e LeaderboardData) FetchByEventName(eventName string) (eventData []Entry) {
-	for _, lift := range e.AllTotals {
-		if lift.Event.Name == eventName || strings.Contains(lift.Event.Name, eventName) {
-			eventData = append(eventData, lift.ToEntry())
-		}
-	}
-	return
-}
-
 func (e EventsData) FetchEventWithinDate(startDate, endDate string) (events []Event) {
 	startDateTime, _ := utilities.StringToDate(startDate)
 	endDateTime, _ := utilities.StringToDate(endDate)
