@@ -108,7 +108,7 @@ func (e LifterHistory) BestLift(lift string) WeightKg {
 	return bestLift
 }
 
-func (e Entry) WithinWeightClass(gender string, catData WeightClass) bool {
+func (e Lift) WithinWeightClass(gender string, catData WeightClass) bool {
 	if catData.Gender == enum.ALLCATS {
 		return true
 	}
@@ -118,20 +118,20 @@ func (e Entry) WithinWeightClass(gender string, catData WeightClass) bool {
 	return false
 }
 
-func (e Entry) WithinYear(year int) bool {
+func (e Lift) WithinYear(year int) bool {
 	if year == enum.AllYears {
 		return true
 	}
-	datetime, _ := utilities.StringToDate(e.Date)
+	datetime, _ := utilities.StringToDate(e.Event.Date)
 	eventYear, _, _ := datetime.Date()
 	return eventYear == year
 }
 
-func (e Entry) WithinDates(startDate, endDate string) bool {
+func (e Lift) WithinDates(startDate, endDate string) bool {
 	if startDate == enum.ZeroDate && endDate == enum.MaxDate {
 		return true
 	}
-	datetime, _ := utilities.StringToDate(e.Date)
+	datetime, _ := utilities.StringToDate(e.Event.Date)
 	startDateTime, _ := utilities.StringToDate(startDate)
 	endDateTime, _ := utilities.StringToDate(endDate)
 	if datetime.After(startDateTime) && datetime.Before(endDateTime) {
@@ -200,7 +200,7 @@ func (e AllData) ProcessNames() (names []string) {
 	return
 }
 
-func (e LeaderboardData) Select(sortBy string) *[]Entry {
+func (e LeaderboardData) Select(sortBy string) []*Lift {
 	var lifts []*Lift
 	switch sortBy {
 	case enum.Total:
@@ -209,13 +209,10 @@ func (e LeaderboardData) Select(sortBy string) *[]Entry {
 		lifts = e.AllSinclairs
 	default:
 		log.Println("LeaderboardData: Select - Error in selecting sinclair/total")
-		return &[]Entry{}
+		return []*Lift{}
 	}
-	entries := make([]Entry, len(lifts))
-	for i, lift := range lifts {
-		entries[i] = lift.ToEntry()
-	}
-	return &entries
+
+	return lifts
 }
 
 func (e EventsData) FetchEventWithinDate(startDate, endDate string) (events []Event) {
@@ -311,9 +308,9 @@ func (c *LeaderboardPayload) SetDefaults(gin *gin.Context) (err error) {
 	return nil
 }
 
-func (e LeaderboardResponse) FilterByDate(eventDate string) (newData []Entry, newSize int) {
+func (e LeaderboardResponse) FilterByDate(eventDate string) (newData []Lift, newSize int) {
 	for index, entry := range e.Data {
-		if entry.Date == eventDate {
+		if entry.Event.Date == eventDate {
 			newData = append(newData, e.Data[index])
 		}
 	}

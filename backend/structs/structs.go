@@ -150,7 +150,7 @@ type Lifter struct {
 	Gender     string  `json:"gender"`
 	Name       string  `json:"name"`
 	CurrentAge uint8   `json:"age"` // 0 if not known
-	Lifts      []*Lift `json:"-"`  // back-reference; excluded to avoid Lift<->Lifter JSON cycles
+	Lifts      []*Lift `json:"lifts"`
 }
 
 type AllLifts struct {
@@ -176,8 +176,8 @@ type Lift struct {
 }
 
 type LeaderboardResponse struct {
-	Size int     `json:"size"`
-	Data []Entry `json:"data"`
+	Size int    `json:"size"`
+	Data []Lift `json:"data"`
 }
 
 type EventSearch struct {
@@ -192,9 +192,4 @@ type SingleEvent struct {
 
 type EventsList struct {
 	Events []Event `json:"events"`
-}
-
-type LiftReport struct {
-	ReportedLift Entry  `json:"lift"`
-	Comments     string `json:"comments"`
 }

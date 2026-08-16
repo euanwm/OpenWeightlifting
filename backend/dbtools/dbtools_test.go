@@ -118,32 +118,6 @@ func TestSortDate(t *testing.T) {
 	}
 }
 
-func TestParseData(t *testing.T) {
-	type args struct {
-		bigData [][]string
-	}
-	tests := []struct {
-		name        string
-		args        args
-		wantLifts   structs.AllData
-		wantUnknown structs.AllData
-	}{
-		// todo: add test cases
-		{},
-	}
-	for _, tt := range tests {
-		t.Run(tt.name, func(t *testing.T) {
-			gotLifts, gotUnknown := ParseData(tt.args.bigData)
-			if !reflect.DeepEqual(gotLifts, tt.wantLifts) {
-				t.Errorf("ParseData() gotMale = %v, want %v", gotLifts, tt.wantLifts)
-			}
-			if !reflect.DeepEqual(gotUnknown, tt.wantUnknown) {
-				t.Errorf("ParseData() gotUnknown = %v, want %v", gotLifts, tt.wantUnknown)
-			}
-		})
-	}
-}
-
 func TestSortLiftsBy(t *testing.T) {
 	type args struct {
 		bigData []*structs.Lift
@@ -206,46 +180,6 @@ func TestSortTotal(t *testing.T) {
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
 			SortTotal(tt.args.sliceStructs)
-		})
-	}
-}
-
-func Test_assignStruct(t *testing.T) {
-	var lineRaw = []string{
-		"British U20 & U23 Weightlifting Championships 2017", "2017-10-01", "Men's Under 23 94Kg", "Edmon avetisyan", "93.8", "-146", "150", "-156", "180", "-190", "-192", "150", "180", "330", "BWL",
-	}
-	type args struct {
-		line []string
-	}
-	tests := []struct {
-		name           string
-		args           args
-		wantLineStruct structs.Entry
-	}{
-		{name: "AssignExpected", args: args{line: lineRaw}, wantLineStruct: structs.Entry{
-			Event:      "British U20 & U23 Weightlifting Championships 2017",
-			Date:       "2017-10-01",
-			Gender:     "Men's Under 23 94Kg",
-			Name:       "Edmon avetisyan",
-			Bodyweight: structs.NewWeightKg(93.8),
-			Sn1:        structs.NewWeightKg(-146),
-			Sn2:        structs.NewWeightKg(150),
-			Sn3:        structs.NewWeightKg(-156),
-			CJ1:        structs.NewWeightKg(180),
-			CJ2:        structs.NewWeightKg(-190),
-			CJ3:        structs.NewWeightKg(-192),
-			BestSn:     structs.NewWeightKg(150),
-			BestCJ:     structs.NewWeightKg(180),
-			Total:      structs.NewWeightKg(330),
-			Sinclair:   0,
-			Federation: "BWL",
-		},
-		}}
-	for _, tt := range tests {
-		t.Run(tt.name, func(t *testing.T) {
-			if gotLineStruct, _ := assignStruct(tt.args.line); !reflect.DeepEqual(gotLineStruct, tt.wantLineStruct) {
-				t.Errorf("assignStruct() = %v, want %v", gotLineStruct, tt.wantLineStruct)
-			}
 		})
 	}
 }
