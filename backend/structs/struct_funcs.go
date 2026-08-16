@@ -341,3 +341,7 @@ func (e *LifterRoster) Add(name, category, federation string, lift *Lift) *Lifte
 	e.Lifters = append(e.Lifters, lifter)
 	return lifter
 }
+
+func (e Lifter) IsMale() bool {
+	return e.Gender == enum.Male
+}

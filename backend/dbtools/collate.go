@@ -2,6 +2,7 @@ package dbtools
 
 import (
 	database "backend/event_data"
+	"backend/sinclair"
 	"backend/structs"
 	"backend/utilities"
 	"io/fs"
@@ -134,6 +135,7 @@ func createSingleEvent(federation, filename string, eventsData *structs.EventsDa
 		if !rules.PassesRules(lift) {
 			continue
 		}
+		sinclair.CalcSinclair(lift)
 		lift.Lifter = lifterRoster.Add(row[3], row[2], federation, lift)
 		event.Name = row[0]
 		event.Date = row[1]
