@@ -16,7 +16,7 @@ func (e LifterHistory) GenerateChartData() ChartData {
 	// todo: implement DRY principle
 	var data ChartData
 	for _, lift := range e.Lifts {
-		data.Dates = append(data.Dates, lift.Date)
+		data.Dates = append(data.Dates, lift.Event.Date)
 	}
 	data.SubData = append(data.SubData, ChartSubData{
 		Title:     "Competition Total",
@@ -140,7 +140,7 @@ func (e Lift) WithinDates(startDate, endDate string) bool {
 	return false
 }
 
-func (e Entry) SelectedFederation(federation string) bool {
+func (e Event) SelectedFederation(federation string) bool {
 	if federation == enum.ALLFEDS {
 		return true
 	}
@@ -308,7 +308,7 @@ func (c *LeaderboardPayload) SetDefaults(gin *gin.Context) (err error) {
 	return nil
 }
 
-func (e LeaderboardResponse) FilterByDate(eventDate string) (newData []Lift, newSize int) {
+func (e LeaderboardResponse) FilterByDate(eventDate string) (newData []*Lift, newSize int) {
 	for index, entry := range e.Data {
 		if entry.Event.Date == eventDate {
 			newData = append(newData, e.Data[index])
@@ -330,9 +330,10 @@ func (e *LifterRoster) Add(name, category, federation string, lift *Lift) *Lifte
 		return lifter
 	}
 	lifter := &Lifter{
-		Name:   name,
-		Gender: gender,
-		Lifts:  []*Lift{lift},
+		Name:              name,
+		Gender:            gender,
+		PrimaryFederation: federation,
+		Lifts:             []*Lift{lift},
 	}
 	e.index[key] = lifter
 	e.Lifters = append(e.Lifters, lifter)
@@ -341,4 +342,14 @@ func (e *LifterRoster) Add(name, category, federation string, lift *Lift) *Lifte
 
 func (e Lifter) IsMale() bool {
 	return e.Gender == enum.Male
+}
+
+func (e LifterRoster) Search(nameStr string) (lifters NameSearchResults) {
+	for _, lifter := range e.Lifters {
+		if strings.Contains(strings.ToLower(lifter.Name), strings.ToLower(nameStr)) {
+			lifters.Names = append(lifters.Names, NameSearch{NameStr: lifter.Name, Gender: lifter.Gender, Federation: lifter.PrimaryFederation})
+			lifters.Total++
+		}
+	}
+	return
 }

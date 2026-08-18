@@ -61,7 +61,7 @@ func SearchName(c *gin.Context) {
 	}
 	if len(c.Query("name")) >= 3 {
 		nameStr := c.Query("name")
-		results := lifter.NewNameSearch(nameStr, LeaderboardData.Select(enum.Total))
+		results := lifter.NameSearch(nameStr, LifterRoster)
 
 		results.Total = len(results.Names)
 
@@ -262,7 +262,7 @@ func Leaderboard(c *gin.Context) {
 	}
 
 	leaderboardData := LeaderboardData.Select(body.SortBy) // Selects either total or sinclair sorted leaderboard
-	fedData := dbtools.FilterLifts(*leaderboardData, body, dbtools.WeightClassList[body.WeightClass], &QueryCache)
+	fedData := dbtools.FilterLifts(leaderboardData, body, dbtools.WeightClassList[body.WeightClass], &QueryCache)
 	c.JSON(http.StatusOK, fedData)
 }
 
@@ -292,7 +292,7 @@ func LeaderboardSearch(c *gin.Context) {
 	}
 
 	// Check that the lifter exists
-	validLifterName := lifter.NewNameSearch(body.LifterData.NameStr, LeaderboardData.Select(enum.Total))
+	validLifterName := lifter.NameSearch(body.LifterData.NameStr, LifterRoster)
 
 	if validLifterName.Total == 0 {
 		c.JSON(http.StatusOK, gin.H{"error": "Name not in database"})
@@ -317,7 +317,7 @@ func LeaderboardSearch(c *gin.Context) {
 	// Now we see if the name appears in the query
 	leaderboardResult := structs.SearchLeaderboardResult{
 		LifterData: body.LifterData,
-		Position:   dbtools.LeaderboardPosition(*leaderboardData, body.ActiveQuery, &QueryCache, finalLifter),
+		Position:   dbtools.LeaderboardPosition(leaderboardData, body.ActiveQuery, &QueryCache, finalLifter),
 		Query:      body.ActiveQuery,
 	}
 
@@ -345,7 +345,7 @@ func SimilarNameSearch(c *gin.Context) {
 		return
 	}
 	nameSearch := structs.NameSearch{NameStr: name, Federation: federation}
-	results := lifter.SimilarNames(nameSearch, LeaderboardData.Select(enum.Total))
+	results := lifter.SimilarNames(nameSearch, &LifterRoster)
 	if results.Total == 0 {
 		c.JSON(http.StatusNoContent, nil)
 		return
@@ -380,8 +380,8 @@ func Rival(c *gin.Context) {
 	leaderboardData := LeaderboardData.Select(enum.Total)
 
 	response := structs.RivalsCombined{
-		FederationRivals: lifter.Rivals(nameStr, sexStr, fedStr, CURRENT_YEAR, *leaderboardData),
-		CombinedRivals:   lifter.Rivals(nameStr, sexStr, enum.ALLFEDS, CURRENT_YEAR, *leaderboardData),
+		FederationRivals: lifter.Rivals(nameStr, sexStr, fedStr, CURRENT_YEAR, leaderboardData),
+		CombinedRivals:   lifter.Rivals(nameStr, sexStr, enum.ALLFEDS, CURRENT_YEAR, leaderboardData),
 	}
 
 	c.JSON(http.StatusOK, response)

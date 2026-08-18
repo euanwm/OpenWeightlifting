@@ -57,7 +57,7 @@ func CacheMeOutsideHowBoutDat() {
 		log.Println("Caching query: ", n)
 		_, _ = QueryCache.CheckQuery(query)
 		liftdata := LeaderboardData.Select(query.SortBy)
-		dbtools.PreCacheFilter(*liftdata, query, dbtools.WeightClassList[query.WeightClass], &QueryCache)
+		dbtools.PreCacheFilter(liftdata, query, dbtools.WeightClassList[query.WeightClass], &QueryCache)
 	}
 	log.Println("Caching complete")
 

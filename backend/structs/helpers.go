@@ -2,7 +2,7 @@ package structs
 
 import "backend/enum"
 
-func IterateFloatSlice(data []Entry, item string) (floatSl []float32) {
+func IterateFloatSlice(data []*Lift, item string) (floatSl []float32) {
 	// todo: implement DRY principle
 	switch item {
 	case enum.Total:

@@ -53,6 +53,7 @@ type RivalsCombined struct {
 
 type NameSearch struct {
 	NameStr    string `json:"name"`
+	Gender     string `json:"gender"`
 	Federation string `json:"federation"`
 }
 
@@ -68,7 +69,7 @@ type ChartSubData struct {
 
 type LifterHistory struct {
 	NameStr string      `json:"name"`
-	Lifts   []Entry     `json:"lifts"`
+	Lifts   []*Lift     `json:"lifts"`
 	Graph   ChartData   `json:"graph"`
 	Stats   LifterStats `json:"stats"`
 }
@@ -147,10 +148,11 @@ type LifterRoster struct {
 }
 
 type Lifter struct {
-	Gender     string  `json:"gender"`
-	Name       string  `json:"name"`
-	CurrentAge uint8   `json:"age"` // 0 if not known
-	Lifts      []*Lift `json:"lifts"`
+	Gender            string  `json:"gender"`
+	Name              string  `json:"name"`
+	CurrentAge        uint8   `json:"age"` // 0 if not known
+	PrimaryFederation string  `json:"federation"`
+	Lifts             []*Lift `json:"lifts"`
 }
 
 type AllLifts struct {
@@ -176,8 +178,8 @@ type Lift struct {
 }
 
 type LeaderboardResponse struct {
-	Size int    `json:"size"`
-	Data []Lift `json:"data"`
+	Size int     `json:"size"`
+	Data []*Lift `json:"data"`
 }
 
 type EventSearch struct {

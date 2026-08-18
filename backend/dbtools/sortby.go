@@ -37,11 +37,11 @@ func FilterLifts(bigData []*structs.Lift, filterQuery structs.LeaderboardPayload
 	var liftPtr *structs.Lift
 	var liftPositions []int
 	for idx, lift := range bigData {
-		liftPtr = &bigData[idx]
-		if GetGender(liftPtr) == weightCat.Gender && !utilities.Contains(names, lift.Name) {
-			if lift.SelectedFederation(filterQuery.Federation) && lift.WithinWeightClass(WeightClassList[filterQuery.WeightClass].Gender, weightCat) && lift.WithinDates(filterQuery.StartDate, filterQuery.EndDate) {
+		liftPtr = bigData[idx]
+		if liftPtr.Lifter.Gender == weightCat.Gender && !utilities.Contains(names, lift.Lifter.Name) {
+			if lift.Event.SelectedFederation(filterQuery.Federation) && lift.WithinWeightClass(WeightClassList[filterQuery.WeightClass].Gender, weightCat) && lift.WithinDates(filterQuery.StartDate, filterQuery.EndDate) {
 				liftPositions = append(liftPositions, idx)
-				names = append(names, lift.Name)
+				names = append(names, lift.Lifter.Name)
 				filteredData.Data = append(filteredData.Data, lift)
 			}
 		}
@@ -84,12 +84,12 @@ func PreCacheFilter(bigData []*structs.Lift, filterQuery structs.LeaderboardPayl
 	}
 
 	var names []string
-	var liftPtr *structs.Entry
+	var liftPtr *structs.Lift
 	var liftPositions []int
 	for idx, lift := range bigData {
-		liftPtr = &bigData[idx]
-		if GetGender(liftPtr) == weightCat.Gender && !utilities.Contains(names, lift.Name) {
-			if lift.Event.Federation == filterQuery.Federation && lift.WithinWeightClass(WeightClassList[filterQuery.WeightClass].Gender, weightCat) && lift.WithinDates(filterQuery.StartDate, filterQuery.EndDate) {
+		liftPtr = bigData[idx]
+		if liftPtr.Lifter.Gender == weightCat.Gender && !utilities.Contains(names, lift.Lifter.Name) {
+			if lift.Event.SelectedFederation(filterQuery.Federation) && lift.WithinWeightClass(WeightClassList[filterQuery.WeightClass].Gender, weightCat) && lift.WithinDates(filterQuery.StartDate, filterQuery.EndDate) {
 				liftPositions = append(liftPositions, idx)
 				names = append(names, lift.Lifter.Name)
 			}
