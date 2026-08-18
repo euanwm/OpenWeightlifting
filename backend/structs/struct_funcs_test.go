@@ -6,28 +6,8 @@ import (
 	"testing"
 )
 
-func TestAllData_ProcessNames(t *testing.T) {
-	sampleAllData := AllData{
-		Lifts: []Entry{{Name: "A"}, {Name: "B"}, {Name: "C"}, {Name: "D"}, {Name: "E"}},
-	}
-	tests := []struct {
-		name      string
-		wantNames []string
-	}{
-		{"Test ProcessNames", []string{"A", "B", "C", "D", "E"}},
-	}
-	for _, tt := range tests {
-		t.Run(tt.name, func(t *testing.T) {
-			if gotNames := sampleAllData.ProcessNames(); !reflect.DeepEqual(gotNames, tt.wantNames) {
-				t.Errorf("ProcessNames() = %v, want %v", gotNames, tt.wantNames)
-			}
-		})
-	}
-}
-
-func TestEntry_WithinWeightClass(t *testing.T) {
-	sampleEntry := Entry{
-		Gender:     enum.Male,
+func TestLift_WithinWeightClass(t *testing.T) {
+	sampleLift := Lift{
 		Bodyweight: NewWeightKg(100),
 	}
 	type args struct {
@@ -69,16 +49,16 @@ func TestEntry_WithinWeightClass(t *testing.T) {
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			if got := sampleEntry.WithinWeightClass(tt.args.gender, tt.args.catData); got != tt.want {
+			if got := sampleLift.WithinWeightClass(tt.args.gender, tt.args.catData); got != tt.want {
 				t.Errorf("WithinWeightClass() = %v, want %v", got, tt.want)
 			}
 		})
 	}
 }
 
-func TestEntry_WithinYear(t *testing.T) {
-	sampleEntry := Entry{
-		Date: "2020-01-01",
+func TestLift_WithinYear(t *testing.T) {
+	sampleLift := Lift{
+		Event: &Event{Date: "2020-01-01"},
 	}
 	type args struct {
 		year int
@@ -94,15 +74,15 @@ func TestEntry_WithinYear(t *testing.T) {
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			if got := sampleEntry.WithinYear(tt.args.year); got != tt.want {
+			if got := sampleLift.WithinYear(tt.args.year); got != tt.want {
 				t.Errorf("WithinYear() = %v, want %v", got, tt.want)
 			}
 		})
 	}
 }
 
-func TestEntry_WithinDates(t *testing.T) {
-	sampleEntry := Entry{Date: "2021-02-16"}
+func TestLift_WithinDates(t *testing.T) {
+	sampleLift := Lift{Event: &Event{Date: "2021-02-16"}}
 	type args struct {
 		startDate string
 		endDate   string
@@ -118,15 +98,15 @@ func TestEntry_WithinDates(t *testing.T) {
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			if got := sampleEntry.WithinDates(tt.args.startDate, tt.args.endDate); got != tt.want {
+			if got := sampleLift.WithinDates(tt.args.startDate, tt.args.endDate); got != tt.want {
 				t.Errorf("WithinYear() = %v, want %v", got, tt.want)
 			}
 		})
 	}
 }
 
-func TestEntry_SelectedFederation(t *testing.T) {
-	sampleEntry := Entry{
+func TestEvent_SelectedFederation(t *testing.T) {
+	sampleEvent := Event{
 		Federation: "BWL",
 	}
 	type args struct {
@@ -143,7 +123,7 @@ func TestEntry_SelectedFederation(t *testing.T) {
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			if got := sampleEntry.SelectedFederation(tt.args.fed); got != tt.want {
+			if got := sampleEvent.SelectedFederation(tt.args.fed); got != tt.want {
 				t.Errorf("SelectedFederation() = %v, want %v", got, tt.want)
 			}
 		})
@@ -197,15 +177,15 @@ func TestLeaderboardData_Select(t *testing.T) {
 	tests := []struct {
 		name string
 		args args
-		want []Entry
+		want []*Lift
 	}{
-		{name: "SelectTotal", args: args{sortBy: enum.Total}, want: []Entry{}},
-		{name: "SelectSinclair", args: args{sortBy: enum.Sinclair}, want: []Entry{}},
-		{name: "NeitherMale", args: args{sortBy: "neither"}, want: []Entry{}},
+		{name: "SelectTotal", args: args{sortBy: enum.Total}, want: []*Lift{}},
+		{name: "SelectSinclair", args: args{sortBy: enum.Sinclair}, want: []*Lift{}},
+		{name: "NeitherMale", args: args{sortBy: "neither"}, want: []*Lift{}},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			if got := sampleLeaderboard.Select(tt.args.sortBy); !reflect.DeepEqual(got, &tt.want) {
+			if got := sampleLeaderboard.Select(tt.args.sortBy); !reflect.DeepEqual(got, tt.want) {
 				t.Errorf("Select() = %v, want %v", got, tt.want)
 			}
 		})
@@ -215,23 +195,23 @@ func TestLeaderboardData_Select(t *testing.T) {
 func TestLifterHistory_GenerateChartData(t *testing.T) {
 	sampleLifterHistory := LifterHistory{
 		NameStr: "A",
-		Lifts: []Entry{
+		Lifts: []*Lift{
 			{
-				Date:       "2020-01-01",
+				Event:      &Event{Date: "2020-01-01"},
 				Total:      NewWeightKg(100),
 				BestSn:     NewWeightKg(40),
 				BestCJ:     NewWeightKg(60),
 				Bodyweight: NewWeightKg(50),
 			},
 			{
-				Date:       "2020-01-02",
+				Event:      &Event{Date: "2020-01-02"},
 				Total:      NewWeightKg(200),
 				BestSn:     NewWeightKg(80),
 				BestCJ:     NewWeightKg(120),
 				Bodyweight: NewWeightKg(100),
 			},
 			{
-				Date:       "2020-01-03",
+				Event:      &Event{Date: "2020-01-03"},
 				Total:      NewWeightKg(300),
 				BestSn:     NewWeightKg(120),
 				BestCJ:     NewWeightKg(180),
@@ -276,7 +256,7 @@ func TestLifterHistory_GenerateChartData(t *testing.T) {
 
 func TestLifterHistory_MakeRates(t *testing.T) {
 	sampleLifterHistory := LifterHistory{
-		Lifts: []Entry{
+		Lifts: []*Lift{
 			{Sn1: NewWeightKg(55), Sn2: NewWeightKg(60), Sn3: NewWeightKg(70), CJ1: NewWeightKg(80), CJ2: NewWeightKg(-85), CJ3: NewWeightKg(-85), BestSn: NewWeightKg(70), BestCJ: NewWeightKg(80)},
 			{Sn1: NewWeightKg(-55), Sn2: NewWeightKg(55), Sn3: NewWeightKg(-60), CJ1: NewWeightKg(80), CJ2: NewWeightKg(-85), CJ3: NewWeightKg(85), BestSn: NewWeightKg(55), BestCJ: NewWeightKg(85)},
 			{Sn1: NewWeightKg(-60), Sn2: NewWeightKg(61), Sn3: NewWeightKg(-65), CJ1: NewWeightKg(80), CJ2: NewWeightKg(-85), CJ3: NewWeightKg(-85), BestSn: NewWeightKg(61), BestCJ: NewWeightKg(80)},
@@ -302,7 +282,7 @@ func TestLifterHistory_MakeRates(t *testing.T) {
 
 func TestLifterHistory_BestLift(t *testing.T) {
 	sampleLifterHistory := LifterHistory{
-		Lifts: []Entry{
+		Lifts: []*Lift{
 			{Sn1: NewWeightKg(55), Sn2: NewWeightKg(60), Sn3: NewWeightKg(70), CJ1: NewWeightKg(80), CJ2: NewWeightKg(-85), CJ3: NewWeightKg(-85), BestSn: NewWeightKg(70), BestCJ: NewWeightKg(80), Total: NewWeightKg(150)},
 			{Sn1: NewWeightKg(-55), Sn2: NewWeightKg(55), Sn3: NewWeightKg(-60), CJ1: NewWeightKg(80), CJ2: NewWeightKg(-85), CJ3: NewWeightKg(85), BestSn: NewWeightKg(55), BestCJ: NewWeightKg(85), Total: NewWeightKg(140)},
 			{Sn1: NewWeightKg(-60), Sn2: NewWeightKg(61), Sn3: NewWeightKg(-65), CJ1: NewWeightKg(80), CJ2: NewWeightKg(-85), CJ3: NewWeightKg(-85), BestSn: NewWeightKg(61), BestCJ: NewWeightKg(80), Total: NewWeightKg(141)},

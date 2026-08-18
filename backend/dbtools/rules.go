@@ -14,7 +14,7 @@ type RulesChecker struct {
 }
 
 func (e *RulesChecker) PassesRules(lift *structs.Lift) bool {
-	if !lift.Total.GreaterThan(structs.NewWeightKg(0)) {
+	if !lift.Total.GreaterThanOrEqual(structs.NewWeightKg(0)) {
 		return false
 	}
 	return lift.Total.LessThan(e.MaxTotal) && lift.Bodyweight.GreaterThan(e.MinBodyweight)

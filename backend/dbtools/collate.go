@@ -109,6 +109,8 @@ func createSingleEvent(federation, filename string, eventsData *structs.EventsDa
 	event := &structs.Event{
 		Federation: federation,
 		CSVID:      filename,
+		Name:       eventData[0][0],
+		Date:       eventData[0][1],
 	}
 
 	// load rules
@@ -135,10 +137,8 @@ func createSingleEvent(federation, filename string, eventsData *structs.EventsDa
 		if !rules.PassesRules(lift) {
 			continue
 		}
-		sinclair.CalcSinclair(lift)
 		lift.Lifter = lifterRoster.Add(row[3], row[2], federation, lift)
-		event.Name = row[0]
-		event.Date = row[1]
+		sinclair.CalcSinclair(lift)
 		liftPtrSlice = append(liftPtrSlice, lift)
 	}
 	event.Results = liftPtrSlice

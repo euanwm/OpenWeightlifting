@@ -48,7 +48,7 @@ func TestCollateAll(t *testing.T) {
 
 func TestFilter(t *testing.T) {
 	type args struct {
-		bigData     []structs.Entry
+		bigData     []*structs.Lift
 		filterQuery structs.LeaderboardPayload
 		weightCat   string
 	}
@@ -60,10 +60,10 @@ func TestFilter(t *testing.T) {
 		{
 			name: "FilterByFederation",
 			args: args{
-				bigData: []structs.Entry{
-					{Date: "2023-06-01", Name: "John Smith", Total: structs.NewWeightKg(100), Federation: "BWL", Gender: enum.Male, Bodyweight: structs.NewWeightKg(109.00)},
-					{Date: "2023-06-01", Name: "Dave Smith", Total: structs.NewWeightKg(200), Federation: "BWL", Gender: enum.Male, Bodyweight: structs.NewWeightKg(109.00)},
-					{Date: "2023-06-01", Name: "Ethan Smith", Total: structs.NewWeightKg(300), Federation: "BWL", Gender: enum.Male, Bodyweight: structs.NewWeightKg(109.00)},
+				bigData: []*structs.Lift{
+					{Event: &structs.Event{Date: "2023-06-01", Federation: "BWL"}, Lifter: &structs.Lifter{Name: "John Smith", Gender: enum.Male}, Total: structs.NewWeightKg(100), Bodyweight: structs.NewWeightKg(109.00)},
+					{Event: &structs.Event{Date: "2023-06-01", Federation: "BWL"}, Lifter: &structs.Lifter{Name: "Dave Smith", Gender: enum.Male}, Total: structs.NewWeightKg(200), Bodyweight: structs.NewWeightKg(109.00)},
+					{Event: &structs.Event{Date: "2023-06-01", Federation: "BWL"}, Lifter: &structs.Lifter{Name: "Ethan Smith", Gender: enum.Male}, Total: structs.NewWeightKg(300), Bodyweight: structs.NewWeightKg(109.00)},
 				},
 				filterQuery: structs.LeaderboardPayload{
 					Start:       0,
@@ -79,10 +79,10 @@ func TestFilter(t *testing.T) {
 			},
 			wantFilteredData: structs.LeaderboardResponse{
 				Size: 3,
-				Data: []structs.Entry{
-					{Date: "2023-06-01", Name: "John Smith", Total: structs.NewWeightKg(100), Federation: "BWL", Gender: enum.Male, Bodyweight: structs.NewWeightKg(109.00)},
-					{Date: "2023-06-01", Name: "Dave Smith", Total: structs.NewWeightKg(200), Federation: "BWL", Gender: enum.Male, Bodyweight: structs.NewWeightKg(109.00)},
-					{Date: "2023-06-01", Name: "Ethan Smith", Total: structs.NewWeightKg(300), Federation: "BWL", Gender: enum.Male, Bodyweight: structs.NewWeightKg(109.00)},
+				Data: []*structs.Lift{
+					{Event: &structs.Event{Date: "2023-06-01", Federation: "BWL"}, Lifter: &structs.Lifter{Name: "John Smith", Gender: enum.Male}, Total: structs.NewWeightKg(100), Bodyweight: structs.NewWeightKg(109.00)},
+					{Event: &structs.Event{Date: "2023-06-01", Federation: "BWL"}, Lifter: &structs.Lifter{Name: "Dave Smith", Gender: enum.Male}, Total: structs.NewWeightKg(200), Bodyweight: structs.NewWeightKg(109.00)},
+					{Event: &structs.Event{Date: "2023-06-01", Federation: "BWL"}, Lifter: &structs.Lifter{Name: "Ethan Smith", Gender: enum.Male}, Total: structs.NewWeightKg(300), Bodyweight: structs.NewWeightKg(109.00)},
 				},
 			},
 		},
@@ -99,14 +99,17 @@ func TestFilter(t *testing.T) {
 
 func TestSortDate(t *testing.T) {
 	type args struct {
-		sliceStructs []structs.Entry
-		wantedSlice  []structs.Entry
+		sliceStructs []*structs.Lift
+		wantedSlice  []*structs.Lift
 	}
 	tests := []struct {
 		name string
 		args args
 	}{
-		{name: "NormalSort", args: args{sliceStructs: []structs.Entry{{Date: "2020-04-16"}, {Date: "2021-03-18"}, {Date: "2019-08-24"}}, wantedSlice: []structs.Entry{{Date: "2019-08-24"}, {Date: "2020-04-16"}, {Date: "2021-03-18"}}}},
+		{name: "NormalSort", args: args{
+			sliceStructs: []*structs.Lift{{Event: &structs.Event{Date: "2020-04-16"}}, {Event: &structs.Event{Date: "2021-03-18"}}, {Event: &structs.Event{Date: "2019-08-24"}}},
+			wantedSlice:  []*structs.Lift{{Event: &structs.Event{Date: "2019-08-24"}}, {Event: &structs.Event{Date: "2020-04-16"}}, {Event: &structs.Event{Date: "2021-03-18"}}},
+		}},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
@@ -244,30 +247,6 @@ func Test_loadAllFedEvents(t *testing.T) {
 			var allLifts structs.AllLifts
 			var roster structs.LifterRoster
 			loadAllFedEvents(tt.args.federation, &eventsData, &allLifts, &roster)
-		})
-	}
-}
-
-func Test_setGender(t *testing.T) {
-	type args struct {
-		entry *structs.Entry
-	}
-	tests := []struct {
-		name       string
-		args       args
-		wantGender string
-	}{
-		{name: "DirectMatchMale", args: args{entry: &structs.Entry{Gender: enum.Male}}, wantGender: enum.Male},
-		{name: "DirectMatchFemale", args: args{entry: &structs.Entry{Gender: enum.Female}}, wantGender: enum.Female},
-		{name: "ContainsMen", args: args{entry: &structs.Entry{Gender: "Men's"}}, wantGender: enum.Male},
-		{name: "ContainsWomen", args: args{entry: &structs.Entry{Gender: "Women's"}}, wantGender: enum.Female},
-		{name: "CatchUnknown", args: args{entry: &structs.Entry{Gender: "something else"}}, wantGender: enum.Unknown},
-	}
-	for _, tt := range tests {
-		t.Run(tt.name, func(t *testing.T) {
-			if gotGender := GetGender(tt.args.entry); gotGender != tt.wantGender {
-				t.Errorf("GetGender() = %v, want %v", gotGender, tt.wantGender)
-			}
 		})
 	}
 }
