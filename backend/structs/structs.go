@@ -152,7 +152,7 @@ type Lifter struct {
 	Name              string  `json:"name"`
 	CurrentAge        uint8   `json:"age"` // 0 if not known
 	PrimaryFederation string  `json:"federation"`
-	Lifts             []*Lift `json:"lifts"`
+	Lifts             []*Lift `json:"-"` // back-reference; would cycle through Lift.Lifter
 }
 
 type AllLifts struct {
