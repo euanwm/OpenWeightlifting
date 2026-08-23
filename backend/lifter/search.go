@@ -1,7 +1,6 @@
 package lifter
 
 import (
-	"backend/enum"
 	"backend/structs"
 	"sort"
 	"strings"
@@ -54,54 +53,43 @@ func SimilarNames(nameDetails structs.NameSearch, lifterRoster *structs.LifterRo
 	return
 }
 
-func Rivals(nameStr string, sex string, fed string, bigData []*structs.Lift) (rivalResults structs.RivalsResult) {
+// Rivals expects bigData to already be filtered (gender, federation, year) and
+// deduped to one entry per lifter, ranked descending by total - the shape
+// dbtools.FilterLifts's cache already produces. It just windows around nameStr.
+func Rivals(nameStr string, bigData []*structs.Lift) (rivalResults structs.RivalsResult) {
 	const WINDOW_SIZE = 3
 
-	var names []string
-	var liftPtr *structs.Lift
-	var liftPos []int
-	var targetIndex = -1
+	rivalResults.Total = len(bigData)
 
-	// First pass: collect first occurrence of each lifter (best performance since data is pre-sorted)
-	seenNames := make(map[string]bool)
-
+	targetIndex := -1
 	for idx, lift := range bigData {
-		liftPtr = bigData[idx]
-		if liftPtr.Lifter.Gender == sex && lift.WithinYear(enum.CurrentYearInt()) && lift.Event.SelectedFederation(fed) {
-			if !seenNames[lift.Lifter.Name] {
-				seenNames[lift.Lifter.Name] = true
-				names = append(names, lift.Lifter.Name)
-				liftPos = append(liftPos, idx)
-				if lift.Lifter.Name == nameStr {
-					targetIndex = len(names) - 1
-				}
-				rivalResults.Total++
-			}
+		if lift.Lifter.Name == nameStr {
+			targetIndex = idx
+			break
 		}
 	}
 
-	// If target found, create window of rivals
-	if targetIndex != -1 {
-		start := targetIndex - WINDOW_SIZE
-		if start < 0 {
-			start = 0
-		}
-		end := targetIndex + WINDOW_SIZE + 1
-		if end > len(liftPos) {
-			end = len(liftPos)
-		}
+	if targetIndex == -1 {
+		return
+	}
 
-		// Add rivals in the window
-		for i := start; i < end; i++ {
-			originalIdx := liftPos[i]
-			rival := bigData[originalIdx]
-			rivalResults.Rivals = append(rivalResults.Rivals, structs.Rival{
-				Position:   i + 1,
-				Total:      rival.Total,
-				Lifter:     rival.Lifter.Name,
-				Federation: rival.Event.Federation,
-			})
-		}
+	start := targetIndex - WINDOW_SIZE
+	if start < 0 {
+		start = 0
+	}
+	end := targetIndex + WINDOW_SIZE + 1
+	if end > len(bigData) {
+		end = len(bigData)
+	}
+
+	for i := start; i < end; i++ {
+		rival := bigData[i]
+		rivalResults.Rivals = append(rivalResults.Rivals, structs.Rival{
+			Position:   i + 1,
+			Total:      rival.Total,
+			Lifter:     rival.Lifter.Name,
+			Federation: rival.Event.Federation,
+		})
 	}
 
 	return

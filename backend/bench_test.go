@@ -99,6 +99,15 @@ func BenchmarkSearchName(b *testing.B) {
 	}
 }
 
+func BenchmarkSimilarNameSearch(b *testing.B) {
+	engine := setupBenchmark(b)
+	target := withQuery("/search/similarity", map[string]string{"name": benchLifter.NameStr, "federation": benchLifter.Federation})
+	b.ResetTimer()
+	for i := 0; i < b.N; i++ {
+		doRequest(engine, http.MethodGet, target, nil)
+	}
+}
+
 func BenchmarkLifterGraph(b *testing.B) {
 	engine := setupBenchmark(b)
 	target := withQuery("/graph", map[string]string{"name": benchLifter.NameStr, "federation": benchLifter.Federation})

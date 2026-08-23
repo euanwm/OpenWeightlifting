@@ -384,23 +384,23 @@ func Rival(c *gin.Context) {
 		catStr = "FALL"
 	}
 
-	log.Println("catStr", catStr)
-
 	query := structs.LeaderboardPayload{
 		SortBy:      enum.Total,
-		Federation:  fedStr,
 		WeightClass: catStr,
 		StartDate:   enum.CurrentYearFilter(),
 		EndDate:     enum.NextYearFitler(),
+		Stop:        len(leaderboardData),
 	}
-	queryState, _ := QueryCache.CheckQuery(query)
 
-	log.Println("query", query)
-	log.Println("queryState", queryState)
+	query.Federation = fedStr
+	fedFiltered := dbtools.FilterLifts(leaderboardData, query, dbtools.WeightClassList[catStr], &QueryCache)
+
+	query.Federation = enum.ALLFEDS
+	allFiltered := dbtools.FilterLifts(leaderboardData, query, dbtools.WeightClassList[catStr], &QueryCache)
 
 	response := structs.RivalsCombined{
-		FederationRivals: lifter.Rivals(nameStr, sexStr, fedStr, leaderboardData),
-		CombinedRivals:   lifter.Rivals(nameStr, sexStr, enum.ALLFEDS, leaderboardData),
+		FederationRivals: lifter.Rivals(nameStr, fedFiltered.Data),
+		CombinedRivals:   lifter.Rivals(nameStr, allFiltered.Data),
 	}
 
 	c.JSON(http.StatusOK, response)
