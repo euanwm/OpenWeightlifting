@@ -36,14 +36,15 @@ type NameSimilarityResults struct {
 }
 
 type RivalsResult struct {
-	Rivals []struct {
-		Position   int
-		Total      WeightKg
-		Gender     string
-		Name       string
-		Federation string
-	} `json:"rivals"`
-	Total int `json:"total"`
+	Rivals []Rival `json:"rivals"`
+	Total  int     `json:"total"`
+}
+
+type Rival struct {
+	Position   int      `json:"position"`
+	Total      WeightKg `json:"total"`
+	Lifter     string   `json:"lifter"`
+	Federation string   `json:"federation"`
 }
 
 type RivalsCombined struct {
@@ -157,6 +158,10 @@ type Lifter struct {
 
 type AllLifts struct {
 	Lifts []*Lift `json:"lifts"`
+}
+
+type LiftPositions struct {
+	positions []int
 }
 
 type Lift struct {

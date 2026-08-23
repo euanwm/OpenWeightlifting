@@ -371,17 +371,36 @@ func Rival(c *gin.Context) {
 	sexStr := c.Query("sex")
 	fedStr := c.Query("fed")
 
-	const CURRENT_YEAR = 2026
-
 	if len(fedStr) == 0 {
 		fedStr = enum.ALLFEDS
 	}
 
 	leaderboardData := LeaderboardData.Select(enum.Total)
 
+	var catStr string
+	if sexStr == enum.Male {
+		catStr = "MALL"
+	} else if sexStr == enum.Female {
+		catStr = "FALL"
+	}
+
+	log.Println("catStr", catStr)
+
+	query := structs.LeaderboardPayload{
+		SortBy:      enum.Total,
+		Federation:  fedStr,
+		WeightClass: catStr,
+		StartDate:   enum.CurrentYearFilter(),
+		EndDate:     enum.NextYearFitler(),
+	}
+	queryState, _ := QueryCache.CheckQuery(query)
+
+	log.Println("query", query)
+	log.Println("queryState", queryState)
+
 	response := structs.RivalsCombined{
-		FederationRivals: lifter.Rivals(nameStr, sexStr, fedStr, CURRENT_YEAR, leaderboardData),
-		CombinedRivals:   lifter.Rivals(nameStr, sexStr, enum.ALLFEDS, CURRENT_YEAR, leaderboardData),
+		FederationRivals: lifter.Rivals(nameStr, sexStr, fedStr, leaderboardData),
+		CombinedRivals:   lifter.Rivals(nameStr, sexStr, enum.ALLFEDS, leaderboardData),
 	}
 
 	c.JSON(http.StatusOK, response)

@@ -1,6 +1,7 @@
 package lifter
 
 import (
+	"backend/enum"
 	"backend/structs"
 	"sort"
 	"strings"
@@ -53,7 +54,7 @@ func SimilarNames(nameDetails structs.NameSearch, lifterRoster *structs.LifterRo
 	return
 }
 
-func Rivals(nameStr string, sex string, fed string, year int, bigData []*structs.Lift) (rivalResults structs.RivalsResult) {
+func Rivals(nameStr string, sex string, fed string, bigData []*structs.Lift) (rivalResults structs.RivalsResult) {
 	const WINDOW_SIZE = 3
 
 	var names []string
@@ -66,7 +67,7 @@ func Rivals(nameStr string, sex string, fed string, year int, bigData []*structs
 
 	for idx, lift := range bigData {
 		liftPtr = bigData[idx]
-		if liftPtr.Lifter.Gender == sex && lift.WithinYear(year) && lift.Event.SelectedFederation(fed) {
+		if liftPtr.Lifter.Gender == sex && lift.WithinYear(enum.CurrentYearInt()) && lift.Event.SelectedFederation(fed) {
 			if !seenNames[lift.Lifter.Name] {
 				seenNames[lift.Lifter.Name] = true
 				names = append(names, lift.Lifter.Name)
@@ -94,17 +95,10 @@ func Rivals(nameStr string, sex string, fed string, year int, bigData []*structs
 		for i := start; i < end; i++ {
 			originalIdx := liftPos[i]
 			rival := bigData[originalIdx]
-			rivalResults.Rivals = append(rivalResults.Rivals, struct {
-				Position   int
-				Total      structs.WeightKg
-				Gender     string
-				Name       string
-				Federation string
-			}{
+			rivalResults.Rivals = append(rivalResults.Rivals, structs.Rival{
 				Position:   i + 1,
 				Total:      rival.Total,
-				Gender:     rival.Lifter.Gender,
-				Name:       rival.Lifter.Name,
+				Lifter:     rival.Lifter.Name,
 				Federation: rival.Event.Federation,
 			})
 		}

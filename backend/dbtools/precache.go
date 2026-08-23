@@ -11,20 +11,26 @@ func PreCacheQuery() (permutation []structs.LeaderboardPayload) {
 	sortBy := []string{"total", "sinclair"}
 	federation := []string{"allfeds", "UK", "US", "NVF", "AUS", "FFH", "IWF", "IRE", "OPEN", "CH"}
 	weightClass := []string{"MALL", "FALL"}
+	yearDates := [][2]string{
+		{enum.ZeroDate, enum.MaxDate},
+		{enum.CurrentYearFilter(), enum.NextYearFitler()},
+	}
 	// create all permutations and add them to the list
 	for _, s := range sortBy {
 		for _, f := range federation {
 			for _, w := range weightClass {
-				permutation = append(permutation, structs.LeaderboardPayload{
-					SortBy:      s,
-					Federation:  f,
-					WeightClass: w,
-					Year:        "",
-					StartDate:   enum.ZeroDate,
-					EndDate:     enum.MaxDate,
-					Start:       0,
-					Stop:        50,
-				})
+				for _, y := range yearDates {
+					permutation = append(permutation, structs.LeaderboardPayload{
+						SortBy:      s,
+						Federation:  f,
+						WeightClass: w,
+						Year:        "",
+						StartDate:   y[0],
+						EndDate:     y[1],
+						Start:       0,
+						Stop:        50,
+					})
+				}
 			}
 		}
 	}

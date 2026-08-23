@@ -140,6 +140,10 @@ func (e Lift) WithinDates(startDate, endDate string) bool {
 	return false
 }
 
+func (e LiftPositions) Fetch() (lifts []*Lift) {
+	return lifts
+}
+
 func (e Event) SelectedFederation(federation string) bool {
 	if federation == enum.ALLFEDS {
 		return true

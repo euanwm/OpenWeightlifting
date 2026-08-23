@@ -1,6 +1,10 @@
 package enum
 
-import "strings"
+import (
+	"strconv"
+	"strings"
+	"time"
+)
 
 // ClassifyGender reduces a raw CSV gender/category string (which may carry
 // weight-class/age info too, e.g. "Women Juniors 59kg") down to a stable
@@ -18,6 +22,20 @@ func ClassifyGender(raw string) string {
 	default:
 		return Unknown
 	}
+}
+
+func CurrentYearString() string {
+	return strconv.Itoa(time.Now().Year())
+}
+func CurrentYearInt() int {
+	return time.Now().Year()
+}
+
+func CurrentYearFilter() string {
+	return CurrentYearString() + "-01-01"
+}
+func NextYearFitler() string {
+	return strconv.Itoa(CurrentYearInt()+1) + "-01-01"
 }
 
 const (
