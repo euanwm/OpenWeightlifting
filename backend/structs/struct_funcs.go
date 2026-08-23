@@ -53,13 +53,6 @@ func (e Event) SelectedFederation(federation string) bool {
 	return false
 }
 
-func (e LeaderboardData) FetchNames(posSlice []int) (names []string) {
-	for _, position := range posSlice {
-		names = append(names, e.AllTotals[position].Lifter.Name)
-	}
-	return
-}
-
 func (e LeaderboardData) Select(sortBy string) []*Lift {
 	var lifts []*Lift
 	switch sortBy {

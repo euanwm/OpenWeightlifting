@@ -1,25 +1,5 @@
 basePath: /
 definitions:
-  structs.ChartData:
-    properties:
-      datasets:
-        items:
-          $ref: '#/definitions/structs.ChartSubData'
-        type: array
-      labels:
-        items:
-          type: string
-        type: array
-    type: object
-  structs.ChartSubData:
-    properties:
-      data:
-        items:
-          type: number
-        type: array
-      label:
-        type: string
-    type: object
   structs.ContainerTime:
     properties:
       hour:
@@ -29,53 +9,31 @@ definitions:
       sec:
         type: integer
     type: object
-  structs.Entry:
+  structs.Event:
     properties:
-      best_cj:
-        $ref: '#/definitions/structs.WeightKg'
-      best_snatch:
-        $ref: '#/definitions/structs.WeightKg'
-      bodyweight:
-        $ref: '#/definitions/structs.WeightKg'
-      cj_1:
-        $ref: '#/definitions/structs.WeightKg'
-      cj_2:
-        $ref: '#/definitions/structs.WeightKg'
-      cj_3:
-        $ref: '#/definitions/structs.WeightKg'
-      country:
-        type: string
       date:
         type: string
-      event:
+      federation:
         type: string
-      gender:
+      id:
         type: string
-      lifter_name:
+      name:
         type: string
-      sinclair:
-        type: number
-      snatch_1:
-        $ref: '#/definitions/structs.WeightKg'
-      snatch_2:
-        $ref: '#/definitions/structs.WeightKg'
-      snatch_3:
-        $ref: '#/definitions/structs.WeightKg'
-      total:
-        $ref: '#/definitions/structs.WeightKg'
     type: object
-  structs.EventSearch:
+  structs.EventResponse:
     properties:
-      enddate:
-        type: string
-      startdate:
-        type: string
+      event:
+        $ref: '#/definitions/structs.Event'
+      lifts:
+        items:
+          $ref: '#/definitions/structs.Lift'
+        type: array
     type: object
   structs.EventsList:
     properties:
       events:
         items:
-          $ref: '#/definitions/structs.SingleEventMetaData'
+          $ref: '#/definitions/structs.Event'
         type: array
     type: object
   structs.LeaderboardPayload:
@@ -101,51 +59,69 @@ definitions:
     properties:
       data:
         items:
-          $ref: '#/definitions/structs.Entry'
+          $ref: '#/definitions/structs.Lift'
         type: array
       size:
         type: integer
     type: object
-  structs.LiftReport:
-    properties:
-      comments:
-        type: string
-      lift:
-        $ref: '#/definitions/structs.Entry'
-    type: object
-  structs.LifterHistory:
-    properties:
-      graph:
-        $ref: '#/definitions/structs.ChartData'
-      lifts:
-        items:
-          $ref: '#/definitions/structs.Entry'
-        type: array
-      name:
-        type: string
-      stats:
-        $ref: '#/definitions/structs.LifterStats'
-    type: object
-  structs.LifterStats:
+  structs.Lift:
     properties:
       best_cj:
         $ref: '#/definitions/structs.WeightKg'
       best_snatch:
         $ref: '#/definitions/structs.WeightKg'
-      best_total:
+      bodyweight:
         $ref: '#/definitions/structs.WeightKg'
-      make_rate_cj:
+      category:
+        type: string
+      cj_1:
+        $ref: '#/definitions/structs.WeightKg'
+      cj_2:
+        $ref: '#/definitions/structs.WeightKg'
+      cj_3:
+        $ref: '#/definitions/structs.WeightKg'
+      event:
+        allOf:
+        - $ref: '#/definitions/structs.Event'
+        description: parent; already the context when nested under Event.Results/EventResponse
+      lifter:
+        $ref: '#/definitions/structs.Lifter'
+      sinclair:
+        description: 'todo: change this to a key:value so we can differentiate between
+          qpoints, sinclair etc.'
+        type: number
+      snatch_1:
+        $ref: '#/definitions/structs.WeightKg'
+      snatch_2:
+        $ref: '#/definitions/structs.WeightKg'
+      snatch_3:
+        $ref: '#/definitions/structs.WeightKg'
+      total:
+        $ref: '#/definitions/structs.WeightKg'
+    type: object
+  structs.Lifter:
+    properties:
+      federation:
+        type: string
+      gender:
+        type: string
+      name:
+        type: string
+    type: object
+  structs.LifterHistory:
+    properties:
+      lifts:
         items:
-          type: integer
+          $ref: '#/definitions/structs.Lift'
         type: array
-      make_rate_snatches:
-        items:
-          type: integer
-        type: array
+      name:
+        type: string
     type: object
   structs.NameSearch:
     properties:
       federation:
+        type: string
+      gender:
         type: string
       name:
         type: string
@@ -179,6 +155,17 @@ definitions:
       total:
         type: integer
     type: object
+  structs.Rival:
+    properties:
+      federation:
+        type: string
+      lifter:
+        type: string
+      position:
+        type: integer
+      total:
+        $ref: '#/definitions/structs.WeightKg'
+    type: object
   structs.RivalsCombined:
     properties:
       combinedrivals:
@@ -190,18 +177,7 @@ definitions:
     properties:
       rivals:
         items:
-          properties:
-            federation:
-              type: string
-            gender:
-              type: string
-            name:
-              type: string
-            position:
-              type: integer
-            total:
-              $ref: '#/definitions/structs.WeightKg'
-          type: object
+          $ref: '#/definitions/structs.Rival'
         type: array
       total:
         type: integer
@@ -221,17 +197,6 @@ definitions:
         type: integer
       query:
         $ref: '#/definitions/structs.LeaderboardPayload'
-    type: object
-  structs.SingleEventMetaData:
-    properties:
-      date:
-        type: string
-      federation:
-        type: string
-      id:
-        type: string
-      name:
-        type: string
     type: object
   structs.WeightKg:
     type: object
@@ -276,25 +241,28 @@ paths:
         "200":
           description: OK
           schema:
-            $ref: '#/definitions/structs.LeaderboardResponse'
+            $ref: '#/definitions/structs.EventResponse'
         "204":
           description: No Content
       summary: Fetch a single event
       tags:
       - GET Requests
   /events/list:
-    post:
+    get:
       consumes:
       - application/json
       description: Metadata shows the name, federation and date of the event along
         with the filename in the event_data folder.
       parameters:
-      - description: Date range to filter events by
-        in: body
-        name: request
-        required: true
-        schema:
-          $ref: '#/definitions/structs.EventSearch'
+      - description: Start of the date range to filter events by, defaults to 60 days
+          ago
+        in: query
+        name: startdate
+        type: string
+      - description: End of the date range to filter events by, defaults to today
+        in: query
+        name: enddate
+        type: string
       produces:
       - application/json
       responses:
@@ -302,39 +270,7 @@ paths:
           description: OK
           schema:
             $ref: '#/definitions/structs.EventsList'
-        "400":
-          description: Bad Request
       summary: Fetch available event metadata within a set date range
-      tags:
-      - POST Requests
-  /graph:
-    get:
-      consumes:
-      - application/json
-      description: This is used within the lifter page to display a lifter's record.
-        It returns a JSON object that can be used with ChartJS without having to do
-        any additional processing.
-      parameters:
-      - description: Name of the lifter, must be an exact match
-        in: query
-        name: name
-        required: true
-        type: string
-      - description: Federation to filter lifts by
-        in: query
-        name: federation
-        type: string
-      produces:
-      - application/json
-      responses:
-        "200":
-          description: OK
-          schema:
-            $ref: '#/definitions/structs.ChartData'
-        "204":
-          description: No Content
-      summary: Retrieve a lifter's record for use with ChartJS on the leaderboard
-        page
       tags:
       - GET Requests
   /history:
@@ -365,28 +301,6 @@ paths:
       summary: Retrieve a lifter's history
       tags:
       - GET Requests
-  /issue:
-    post:
-      consumes:
-      - application/json
-      description: Report an issue with a lift to the discord server
-      parameters:
-      - description: Lift to report, along with comments describing the issue
-        in: body
-        name: report
-        required: true
-        schema:
-          $ref: '#/definitions/structs.LiftReport'
-      produces:
-      - application/json
-      responses:
-        "200":
-          description: OK
-        "400":
-          description: Bad Request
-      summary: Report an issue with a lift
-      tags:
-      - POST Requests
   /leaderboard:
     get:
       consumes:

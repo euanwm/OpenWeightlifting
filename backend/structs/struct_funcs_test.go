@@ -130,42 +130,6 @@ func TestEvent_SelectedFederation(t *testing.T) {
 	}
 }
 
-func TestLeaderboardData_FetchNames(t *testing.T) {
-	sampleLeaderboard := LeaderboardData{
-		AllTotals: []*Lift{
-			{Lifter: &Lifter{Name: "A"}},
-			{Lifter: &Lifter{Name: "B"}},
-			{Lifter: &Lifter{Name: "C"}},
-			{Lifter: &Lifter{Name: "D"}},
-			{Lifter: &Lifter{Name: "E"}},
-			{Lifter: &Lifter{Name: "F"}},
-			{Lifter: &Lifter{Name: "G"}},
-			{Lifter: &Lifter{Name: "H"}},
-			{Lifter: &Lifter{Name: "I"}},
-			{Lifter: &Lifter{Name: "J"}},
-		},
-	}
-	type args struct {
-		posSlice []int
-	}
-	tests := []struct {
-		name      string
-		args      args
-		wantNames []string
-	}{
-		{name: "FetchNamesMultiple", args: args{posSlice: []int{0, 1, 2, 3, 4}}, wantNames: []string{"A", "B", "C", "D", "E"}},
-		{name: "FetchNamesSingle", args: args{posSlice: []int{0}}, wantNames: []string{"A"}},
-		{name: "FetchNamesEmpty", args: args{posSlice: []int{}}, wantNames: nil},
-	}
-	for _, tt := range tests {
-		t.Run(tt.name, func(t *testing.T) {
-			if gotNames := sampleLeaderboard.FetchNames(tt.args.posSlice); !reflect.DeepEqual(gotNames, tt.wantNames) {
-				t.Errorf("FetchNames() = %v, want %v", gotNames, tt.wantNames)
-			}
-		})
-	}
-}
-
 func TestLeaderboardData_Select(t *testing.T) {
 	sampleLeaderboard := LeaderboardData{
 		AllTotals:    []*Lift{},

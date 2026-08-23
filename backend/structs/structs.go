@@ -95,26 +95,6 @@ type SearchLeaderboardResult struct {
 	Query      LeaderboardPayload `json:"query"`
 }
 
-// Entry Standard structs that we'll use for storing raw lift data
-type Entry struct {
-	Event      string   `json:"event"`
-	Date       string   `json:"date"`
-	Gender     string   `json:"gender"`
-	Name       string   `json:"lifter_name"`
-	Bodyweight WeightKg `json:"bodyweight"`
-	Sn1        WeightKg `json:"snatch_1"`
-	Sn2        WeightKg `json:"snatch_2"`
-	Sn3        WeightKg `json:"snatch_3"`
-	CJ1        WeightKg `json:"cj_1"`
-	CJ2        WeightKg `json:"cj_2"`
-	CJ3        WeightKg `json:"cj_3"`
-	BestSn     WeightKg `json:"best_snatch"`
-	BestCJ     WeightKg `json:"best_cj"`
-	Total      WeightKg `json:"total"`
-	Sinclair   float32  `json:"sinclair"`
-	Federation string   `json:"country"`
-}
-
 type EventsData struct {
 	Events []*Event `json:"events"`
 }
@@ -142,10 +122,6 @@ type Lifter struct {
 
 type AllLifts struct {
 	Lifts []*Lift `json:"lifts"`
-}
-
-type LiftPositions struct {
-	positions []int
 }
 
 type Lift struct {
