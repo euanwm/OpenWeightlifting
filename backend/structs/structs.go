@@ -14,10 +14,6 @@ type ContainerTime struct {
 	Sec  int `json:"sec"`
 }
 
-type AllData struct {
-	Lifts []Entry
-}
-
 type NameSearchResults struct {
 	// todo: refactor this so we don't have to worry about case sensitivity on the items within the slice
 	Names []NameSearch `json:"names"`
@@ -58,21 +54,9 @@ type NameSearch struct {
 	Federation string `json:"federation"`
 }
 
-type ChartData struct {
-	Dates   []string       `json:"labels"`
-	SubData []ChartSubData `json:"datasets"`
-}
-
-type ChartSubData struct {
-	Title     string    `json:"label"`
-	DataSlice []float32 `json:"data"`
-}
-
 type LifterHistory struct {
-	NameStr string      `json:"name"`
-	Lifts   []*Lift     `json:"lifts"`
-	Graph   ChartData   `json:"graph"`
-	Stats   LifterStats `json:"stats"`
+	NameStr string  `json:"name"`
+	Lifts   []*Lift `json:"lifts"`
 }
 
 type LifterStats struct {

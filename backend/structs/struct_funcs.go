@@ -5,108 +5,11 @@ import (
 	"backend/utilities"
 	"fmt"
 	"log"
-	"reflect"
 	"strconv"
 	"strings"
 
 	"github.com/gin-gonic/gin"
 )
-
-func (e LifterHistory) GenerateChartData() ChartData {
-	// todo: implement DRY principle
-	var data ChartData
-	for _, lift := range e.Lifts {
-		data.Dates = append(data.Dates, lift.Event.Date)
-	}
-	data.SubData = append(data.SubData, ChartSubData{
-		Title:     "Competition Total",
-		DataSlice: IterateFloatSlice(e.Lifts, enum.Total),
-	})
-	data.SubData = append(data.SubData, ChartSubData{
-		Title:     "Best Snatch",
-		DataSlice: IterateFloatSlice(e.Lifts, enum.BestSnatch),
-	})
-	data.SubData = append(data.SubData, ChartSubData{
-		Title:     "Best C&J",
-		DataSlice: IterateFloatSlice(e.Lifts, enum.BestCJ),
-	})
-	data.SubData = append(data.SubData, ChartSubData{
-		Title:     "Bodyweight",
-		DataSlice: IterateFloatSlice(e.Lifts, enum.Bodyweight),
-	})
-	return data
-}
-
-func (e LifterHistory) GenerateStats() LifterStats {
-	var stats LifterStats
-	stats.BestSnatch = e.BestLift(enum.Snatch)
-	stats.BestCJ = e.BestLift(enum.CleanAndJerk)
-	stats.BestTotal = e.BestLift(enum.Total)
-	stats.MakeRateSnatches = e.MakeRates(enum.Snatch)
-	stats.MakeRateCJ = e.MakeRates(enum.CleanAndJerk)
-	return stats
-}
-
-func (e LifterHistory) MakeRates(lift string) (makeRates []int) {
-	makemiss := []int{0, 0, 0}
-	numberOfLifts := 0
-	switch lift {
-	case enum.Snatch:
-		for _, entry := range e.Lifts {
-			if entry.Sn1.IsPositive() {
-				makemiss[0]++
-			}
-			if entry.Sn2.IsPositive() {
-				makemiss[1]++
-			}
-			if entry.Sn3.IsPositive() {
-				makemiss[2]++
-			}
-			if !entry.Sn1.IsZero() || !entry.Sn2.IsZero() || !entry.Sn3.IsZero() {
-				numberOfLifts++
-			}
-		}
-	case enum.CleanAndJerk:
-		for _, entry := range e.Lifts {
-			if entry.CJ1.IsPositive() {
-				makemiss[0]++
-			}
-			if entry.CJ2.IsPositive() {
-				makemiss[1]++
-			}
-			if entry.CJ3.IsPositive() {
-				makemiss[2]++
-			}
-			if !entry.CJ1.IsZero() || !entry.CJ2.IsZero() || !entry.CJ3.IsZero() {
-				numberOfLifts++
-			}
-		}
-	}
-
-	for _, lift := range makemiss {
-		makeRates = append(makeRates, int(float32(lift)/float32(numberOfLifts)*100))
-	}
-	return
-}
-
-func (e LifterHistory) BestLift(lift string) WeightKg {
-	var bestLift WeightKg
-	switch lift {
-	case enum.Snatch:
-		for _, entry := range e.Lifts {
-			bestLift = bestLift.Max(entry.BestSn)
-		}
-	case enum.CleanAndJerk:
-		for _, entry := range e.Lifts {
-			bestLift = bestLift.Max(entry.BestCJ)
-		}
-	case enum.Total:
-		for _, entry := range e.Lifts {
-			bestLift = bestLift.Max(entry.Total)
-		}
-	}
-	return bestLift
-}
 
 func (e Lift) WithinWeightClass(gender string, catData WeightClass) bool {
 	if catData.Gender == enum.ALLCATS {
@@ -140,10 +43,6 @@ func (e Lift) WithinDates(startDate, endDate string) bool {
 	return false
 }
 
-func (e LiftPositions) Fetch() (lifts []*Lift) {
-	return lifts
-}
-
 func (e Event) SelectedFederation(federation string) bool {
 	if federation == enum.ALLFEDS {
 		return true
@@ -154,52 +53,9 @@ func (e Event) SelectedFederation(federation string) bool {
 	return false
 }
 
-func (e Entry) DiscordPrint() (rawString string) {
-	rawString += "```"
-	keys := reflect.ValueOf(e)
-	for i := 0; i < keys.NumField(); i++ {
-		rawString += keys.Type().Field(i).Name + ": " + fmt.Sprintf("%v", keys.Field(i).Interface()) + "\n"
-	}
-	rawString += "```"
-	return
-}
-
-// ToEntry flattens a Lift (plus its linked Event/Lifter) into the legacy Entry
-// shape, for consumers (leaderboard filtering, event-by-name lookup) not yet
-// migrated to the Lift/Event/Lifter model.
-func (l *Lift) ToEntry() Entry {
-	return Entry{
-		Event:      l.Event.Name,
-		Date:       l.Event.Date,
-		Gender:     l.Lifter.Gender,
-		Name:       l.Lifter.Name,
-		Bodyweight: l.Bodyweight,
-		Sn1:        l.Sn1,
-		Sn2:        l.Sn2,
-		Sn3:        l.Sn3,
-		CJ1:        l.CJ1,
-		CJ2:        l.CJ2,
-		CJ3:        l.CJ3,
-		BestSn:     l.BestSn,
-		BestCJ:     l.BestCJ,
-		Total:      l.Total,
-		Sinclair:   float32(l.Sinclair),
-		Federation: l.Event.Federation,
-	}
-}
-
 func (e LeaderboardData) FetchNames(posSlice []int) (names []string) {
 	for _, position := range posSlice {
 		names = append(names, e.AllTotals[position].Lifter.Name)
-	}
-	return
-}
-
-func (e AllData) ProcessNames() (names []string) {
-	for _, lift := range e.Lifts {
-		if !utilities.Contains(names, lift.Name) {
-			names = append(names, lift.Name)
-		}
 	}
 	return
 }

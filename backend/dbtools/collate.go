@@ -70,14 +70,6 @@ func normalizeColumns(header []string, rows [][]string) [][]string {
 	return normalized
 }
 
-// insertFederation Inserts federation to each event line prior as it's required for the frontend discrimination.
-func insertFederation(event [][]string, federation string) [][]string {
-	for i := range event {
-		event[i] = append(event[i], federation)
-	}
-	return event
-}
-
 // Populates the metadata, lifts, and lifters
 func loadAllFedEvents(federation string, eventsData *structs.EventsData, allLifts *structs.AllLifts, lifterRoster *structs.LifterRoster) {
 	allFiles, err := database.Database.ReadDir(federation)
