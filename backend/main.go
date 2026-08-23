@@ -43,7 +43,7 @@ func buildServer() *gin.Engine {
 	r.GET("search/similarity", SimilarNameSearch)
 	r.GET("graph", LifterGraph)
 	r.GET("history", LifterHistory)
-	r.POST("events/list", Events)
+	r.GET("events/list", Events)
 	r.GET("events", SingleEvent)
 	r.GET("rivals", Rival)
 	r.GET("swagger/*any", ginSwagger.WrapHandler(swaggerFiles.Handler))

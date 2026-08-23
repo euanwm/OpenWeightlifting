@@ -411,23 +411,21 @@ func Rival(c *gin.Context) {
 //		@Summary	Fetch available event metadata within a set date range
 //		@Schemes
 //		@Description	Metadata shows the name, federation and date of the event along with the filename in the event_data folder.
-//		@Tags			POST Requests
-//	 @Param request body structs.EventSearch true "Date range to filter events by"
+//		@Tags			GET Requests
+//	 @Param startdate query string false "Start of the date range to filter events by, defaults to 60 days ago"
+//	 @Param enddate query string false "End of the date range to filter events by, defaults to today"
 //		@Accept			json
 //		@Produce		json
 //		@Success		200	{object}	structs.EventsList
-//		@Failure		400	{object}	nil
-//		@Router			/events/list [post]
+//		@Router			/events/list [get]
 func Events(c *gin.Context) {
 	var response structs.EventsList
-	var query structs.EventSearch
-	if err := c.BindJSON(&query); err != nil {
-		abortErr := c.AbortWithError(http.StatusBadRequest, err)
-		log.Println(abortErr)
-		return
-	}
+	const dateFormat = "2006-01-02"
+	now := time.Now()
+	startDate := c.DefaultQuery("startdate", now.AddDate(0, 0, -60).Format(dateFormat))
+	endDate := c.DefaultQuery("enddate", now.Format(dateFormat))
 
-	response.Events = EventsData.FetchEventWithinDate(query.StartDate, query.EndDate)
+	response.Events = EventsData.FetchEventWithinDate(startDate, endDate)
 	c.JSON(http.StatusOK, response)
 }
 

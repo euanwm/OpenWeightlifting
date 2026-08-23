@@ -5,6 +5,7 @@
 /.vscode
 /python_tools/database_handler/__pycache__
 /.DS_Store
+/.zed
 
 # Ignore the autobuild folder
 frontend/autobuild/

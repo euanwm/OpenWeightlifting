@@ -61,9 +61,9 @@ func TestFilter(t *testing.T) {
 			name: "FilterByFederation",
 			args: args{
 				bigData: []*structs.Lift{
-					{Event: &structs.Event{Date: "2023-06-01", Federation: "BWL"}, Lifter: &structs.Lifter{Name: "John Smith", Gender: enum.Male}, Total: structs.NewWeightKg(100), Bodyweight: structs.NewWeightKg(109.00)},
-					{Event: &structs.Event{Date: "2023-06-01", Federation: "BWL"}, Lifter: &structs.Lifter{Name: "Dave Smith", Gender: enum.Male}, Total: structs.NewWeightKg(200), Bodyweight: structs.NewWeightKg(109.00)},
-					{Event: &structs.Event{Date: "2023-06-01", Federation: "BWL"}, Lifter: &structs.Lifter{Name: "Ethan Smith", Gender: enum.Male}, Total: structs.NewWeightKg(300), Bodyweight: structs.NewWeightKg(109.00)},
+					{Event: &structs.Event{Date: "2023-06-01", Federation: "UK"}, Lifter: &structs.Lifter{Name: "John Smith", Gender: enum.Male}, Total: structs.NewWeightKg(100), Bodyweight: structs.NewWeightKg(109.00)},
+					{Event: &structs.Event{Date: "2023-06-01", Federation: "UK"}, Lifter: &structs.Lifter{Name: "Dave Smith", Gender: enum.Male}, Total: structs.NewWeightKg(200), Bodyweight: structs.NewWeightKg(109.00)},
+					{Event: &structs.Event{Date: "2023-06-01", Federation: "UK"}, Lifter: &structs.Lifter{Name: "Ethan Smith", Gender: enum.Male}, Total: structs.NewWeightKg(300), Bodyweight: structs.NewWeightKg(109.00)},
 				},
 				filterQuery: structs.LeaderboardPayload{
 					Start:       0,
@@ -80,9 +80,9 @@ func TestFilter(t *testing.T) {
 			wantFilteredData: structs.LeaderboardResponse{
 				Size: 3,
 				Data: []*structs.Lift{
-					{Event: &structs.Event{Date: "2023-06-01", Federation: "BWL"}, Lifter: &structs.Lifter{Name: "John Smith", Gender: enum.Male}, Total: structs.NewWeightKg(100), Bodyweight: structs.NewWeightKg(109.00)},
-					{Event: &structs.Event{Date: "2023-06-01", Federation: "BWL"}, Lifter: &structs.Lifter{Name: "Dave Smith", Gender: enum.Male}, Total: structs.NewWeightKg(200), Bodyweight: structs.NewWeightKg(109.00)},
-					{Event: &structs.Event{Date: "2023-06-01", Federation: "BWL"}, Lifter: &structs.Lifter{Name: "Ethan Smith", Gender: enum.Male}, Total: structs.NewWeightKg(300), Bodyweight: structs.NewWeightKg(109.00)},
+					{Event: &structs.Event{Date: "2023-06-01", Federation: "UK"}, Lifter: &structs.Lifter{Name: "John Smith", Gender: enum.Male}, Total: structs.NewWeightKg(100), Bodyweight: structs.NewWeightKg(109.00)},
+					{Event: &structs.Event{Date: "2023-06-01", Federation: "UK"}, Lifter: &structs.Lifter{Name: "Dave Smith", Gender: enum.Male}, Total: structs.NewWeightKg(200), Bodyweight: structs.NewWeightKg(109.00)},
+					{Event: &structs.Event{Date: "2023-06-01", Federation: "UK"}, Lifter: &structs.Lifter{Name: "Ethan Smith", Gender: enum.Male}, Total: structs.NewWeightKg(300), Bodyweight: structs.NewWeightKg(109.00)},
 				},
 			},
 		},

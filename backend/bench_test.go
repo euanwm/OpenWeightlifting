@@ -137,10 +137,10 @@ func BenchmarkRival(b *testing.B) {
 
 func BenchmarkEventsList(b *testing.B) {
 	engine := setupBenchmark(b)
-	body, _ := json.Marshal(structs.EventSearch{StartDate: enum.ZeroDate, EndDate: enum.MaxDate})
+	target := withQuery("/events/list", map[string]string{"startdate": enum.ZeroDate, "enddate": enum.MaxDate})
 	b.ResetTimer()
 	for i := 0; i < b.N; i++ {
-		doRequest(engine, http.MethodPost, "/events/list", body)
+		doRequest(engine, http.MethodGet, target, nil)
 	}
 }
 

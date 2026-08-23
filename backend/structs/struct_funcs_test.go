@@ -107,7 +107,7 @@ func TestLift_WithinDates(t *testing.T) {
 
 func TestEvent_SelectedFederation(t *testing.T) {
 	sampleEvent := Event{
-		Federation: "BWL",
+		Federation: "UK",
 	}
 	type args struct {
 		fed string
@@ -117,7 +117,7 @@ func TestEvent_SelectedFederation(t *testing.T) {
 		args args
 		want bool
 	}{
-		{name: "SelectedFed", args: args{fed: "BWL"}, want: true},
+		{name: "SelectedFed", args: args{fed: "UK"}, want: true},
 		{name: "NotSelectedFed", args: args{fed: "DrugsDrugsDrugs"}, want: false},
 		{name: "AllFeds", args: args{fed: enum.ALLFEDS}, want: true},
 	}
