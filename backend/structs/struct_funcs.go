@@ -5,110 +5,13 @@ import (
 	"backend/utilities"
 	"fmt"
 	"log"
-	"reflect"
 	"strconv"
 	"strings"
 
 	"github.com/gin-gonic/gin"
 )
 
-func (e LifterHistory) GenerateChartData() ChartData {
-	// todo: implement DRY principle
-	var data ChartData
-	for _, lift := range e.Lifts {
-		data.Dates = append(data.Dates, lift.Date)
-	}
-	data.SubData = append(data.SubData, ChartSubData{
-		Title:     "Competition Total",
-		DataSlice: IterateFloatSlice(e.Lifts, enum.Total),
-	})
-	data.SubData = append(data.SubData, ChartSubData{
-		Title:     "Best Snatch",
-		DataSlice: IterateFloatSlice(e.Lifts, enum.BestSnatch),
-	})
-	data.SubData = append(data.SubData, ChartSubData{
-		Title:     "Best C&J",
-		DataSlice: IterateFloatSlice(e.Lifts, enum.BestCJ),
-	})
-	data.SubData = append(data.SubData, ChartSubData{
-		Title:     "Bodyweight",
-		DataSlice: IterateFloatSlice(e.Lifts, enum.Bodyweight),
-	})
-	return data
-}
-
-func (e LifterHistory) GenerateStats() LifterStats {
-	var stats LifterStats
-	stats.BestSnatch = e.BestLift(enum.Snatch)
-	stats.BestCJ = e.BestLift(enum.CleanAndJerk)
-	stats.BestTotal = e.BestLift(enum.Total)
-	stats.MakeRateSnatches = e.MakeRates(enum.Snatch)
-	stats.MakeRateCJ = e.MakeRates(enum.CleanAndJerk)
-	return stats
-}
-
-func (e LifterHistory) MakeRates(lift string) (makeRates []int) {
-	makemiss := []int{0, 0, 0}
-	numberOfLifts := 0
-	switch lift {
-	case enum.Snatch:
-		for _, entry := range e.Lifts {
-			if entry.Sn1.IsPositive() {
-				makemiss[0]++
-			}
-			if entry.Sn2.IsPositive() {
-				makemiss[1]++
-			}
-			if entry.Sn3.IsPositive() {
-				makemiss[2]++
-			}
-			if !entry.Sn1.IsZero() || !entry.Sn2.IsZero() || !entry.Sn3.IsZero() {
-				numberOfLifts++
-			}
-		}
-	case enum.CleanAndJerk:
-		for _, entry := range e.Lifts {
-			if entry.CJ1.IsPositive() {
-				makemiss[0]++
-			}
-			if entry.CJ2.IsPositive() {
-				makemiss[1]++
-			}
-			if entry.CJ3.IsPositive() {
-				makemiss[2]++
-			}
-			if !entry.CJ1.IsZero() || !entry.CJ2.IsZero() || !entry.CJ3.IsZero() {
-				numberOfLifts++
-			}
-		}
-	}
-
-	for _, lift := range makemiss {
-		makeRates = append(makeRates, int(float32(lift)/float32(numberOfLifts)*100))
-	}
-	return
-}
-
-func (e LifterHistory) BestLift(lift string) WeightKg {
-	var bestLift WeightKg
-	switch lift {
-	case enum.Snatch:
-		for _, entry := range e.Lifts {
-			bestLift = bestLift.Max(entry.BestSn)
-		}
-	case enum.CleanAndJerk:
-		for _, entry := range e.Lifts {
-			bestLift = bestLift.Max(entry.BestCJ)
-		}
-	case enum.Total:
-		for _, entry := range e.Lifts {
-			bestLift = bestLift.Max(entry.Total)
-		}
-	}
-	return bestLift
-}
-
-func (e Entry) WithinWeightClass(gender string, catData WeightClass) bool {
+func (e Lift) WithinWeightClass(gender string, catData WeightClass) bool {
 	if catData.Gender == enum.ALLCATS {
 		return true
 	}
@@ -118,20 +21,20 @@ func (e Entry) WithinWeightClass(gender string, catData WeightClass) bool {
 	return false
 }
 
-func (e Entry) WithinYear(year int) bool {
+func (e Lift) WithinYear(year int) bool {
 	if year == enum.AllYears {
 		return true
 	}
-	datetime, _ := utilities.StringToDate(e.Date)
+	datetime, _ := utilities.StringToDate(e.Event.Date)
 	eventYear, _, _ := datetime.Date()
 	return eventYear == year
 }
 
-func (e Entry) WithinDates(startDate, endDate string) bool {
+func (e Lift) WithinDates(startDate, endDate string) bool {
 	if startDate == enum.ZeroDate && endDate == enum.MaxDate {
 		return true
 	}
-	datetime, _ := utilities.StringToDate(e.Date)
+	datetime, _ := utilities.StringToDate(e.Event.Date)
 	startDateTime, _ := utilities.StringToDate(startDate)
 	endDateTime, _ := utilities.StringToDate(endDate)
 	if datetime.After(startDateTime) && datetime.Before(endDateTime) {
@@ -140,7 +43,7 @@ func (e Entry) WithinDates(startDate, endDate string) bool {
 	return false
 }
 
-func (e Entry) SelectedFederation(federation string) bool {
+func (e Event) SelectedFederation(federation string) bool {
 	if federation == enum.ALLFEDS {
 		return true
 	}
@@ -150,63 +53,73 @@ func (e Entry) SelectedFederation(federation string) bool {
 	return false
 }
 
-func (e Entry) DiscordPrint() (rawString string) {
-	rawString += "```"
-	keys := reflect.ValueOf(e)
-	for i := 0; i < keys.NumField(); i++ {
-		rawString += keys.Type().Field(i).Name + ": " + fmt.Sprintf("%v", keys.Field(i).Interface()) + "\n"
-	}
-	rawString += "```"
-	return
-}
-
-func (e LeaderboardData) FetchNames(posSlice []int) (names []string) {
-	for _, position := range posSlice {
-		names = append(names, e.AllTotals[position].Name)
-	}
-	return
-}
-
-func (e AllData) ProcessNames() (names []string) {
-	for _, lift := range e.Lifts {
-		if !utilities.Contains(names, lift.Name) {
-			names = append(names, lift.Name)
-		}
-	}
-	return
-}
-
-func (e LeaderboardData) Select(sortBy string) *[]Entry {
+func (e LeaderboardData) Select(sortBy string) []*Lift {
+	var lifts []*Lift
 	switch sortBy {
 	case enum.Total:
-		return &e.AllTotals
+		lifts = e.AllTotals
 	case enum.Sinclair:
-		return &e.AllSinclairs
+		lifts = e.AllSinclairs
+	default:
+		log.Println("LeaderboardData: Select - Error in selecting sinclair/total")
+		return []*Lift{}
 	}
-	log.Println("LeaderboardData: Select - Error in selecting sinclair/total")
-	return &[]Entry{}
+
+	return lifts
 }
 
-func (e LeaderboardData) FetchByEventName(eventName string) (eventData []Entry) {
-	for _, entry := range e.AllTotals {
-		if entry.Event == eventName || strings.Contains(entry.Event, eventName) {
-			eventData = append(eventData, entry)
+func (e EventsData) FetchEventWithinDate(startDate, endDate string) (events []Event) {
+	startDateTime, _ := utilities.StringToDate(startDate)
+	endDateTime, _ := utilities.StringToDate(endDate)
+	for _, event := range e.Events {
+		eventDateTime, _ := utilities.StringToDate(event.Date)
+		if eventDateTime.After(startDateTime) && eventDateTime.Before(endDateTime) {
+			events = append(events, *event)
 		}
 	}
 	return
 }
 
-func (e EventsMetaData) FetchEventFP(index int) (federation, filename string) {
-	return e.Federation[index], e.ID[index]
-}
-
-func (e EventsMetaData) FetchEventByName(eventName string) (federation, filename string) {
-	for index, name := range e.Name {
-		if name == eventName {
-			return e.Federation[index], e.ID[index]
+func (e EventsData) FetchEventByID(federation, csvID string) (response EventResponse) {
+	for _, event := range e.Events {
+		if event.Federation == federation && event.CSVID == csvID {
+			response.Event = *event
+			for _, lift := range event.Results {
+				response.Lifts = append(response.Lifts, *lift)
+			}
+			return
 		}
 	}
-	return "", ""
+	return
+}
+
+// FetchByEventName combines lifts from every event whose name matches (exact
+// or substring), since some federations split one event across multiple
+// per-day CSV files that share a name. Event metadata comes from the first match.
+func (e EventsData) FetchByEventName(eventName string) (response EventResponse) {
+	for _, event := range e.Events {
+		if event.Name == eventName || strings.Contains(event.Name, eventName) {
+			if response.Event.Name == "" {
+				response.Event = *event
+			}
+			for _, lift := range event.Results {
+				response.Lifts = append(response.Lifts, *lift)
+			}
+		}
+	}
+	return
+}
+
+// FilterByDate narrows an already-fetched EventResponse down to lifts from a
+// single day, for the multi-day-event-under-one-name case.
+func (e EventResponse) FilterByDate(singleDate string) (response EventResponse) {
+	response.Event = e.Event
+	for _, lift := range e.Lifts {
+		if lift.Event.Date == singleDate {
+			response.Lifts = append(response.Lifts, lift)
+		}
+	}
+	return
 }
 
 func (c *LeaderboardPayload) SetDefaults(gin *gin.Context) (err error) {
@@ -248,57 +161,48 @@ func (c *LeaderboardPayload) SetDefaults(gin *gin.Context) (err error) {
 	return nil
 }
 
-func (e LeaderboardResponse) FilterByDate(eventDate string) (newData []Entry, newSize int) {
+func (e LeaderboardResponse) FilterByDate(eventDate string) (newData []*Lift, newSize int) {
 	for index, entry := range e.Data {
-		if entry.Date == eventDate {
+		if entry.Event.Date == eventDate {
 			newData = append(newData, e.Data[index])
 		}
 	}
 	return
 }
 
-func (e EventsMetaData) FetchEventWithinDate(startDate, endDate string) (events []SingleEventMetaData) {
-	startDateTime, _ := utilities.StringToDate(startDate)
-	endDateTime, _ := utilities.StringToDate(endDate)
-	for index, date := range e.Date {
-		eventDateTime, _ := utilities.StringToDate(date)
-		if eventDateTime.After(startDateTime) && eventDateTime.Before(endDateTime) {
-			events = append(events, SingleEventMetaData{
-				Name:       e.Name[index],
-				Federation: e.Federation[index],
-				Date:       e.Date[index],
-				ID:         e.ID[index],
-			})
+// Add finds or creates the Lifter matching name+category+federation, attaches
+// lift to it, and returns the Lifter pointer to store on lift.Lifter.
+func (e *LifterRoster) Add(name, category, federation string, lift *Lift) *Lifter {
+	if e.index == nil {
+		e.index = make(map[string]*Lifter)
+	}
+	gender := enum.ClassifyGender(category)
+	key := name + "|" + gender + "|" + federation
+	if lifter, ok := e.index[key]; ok {
+		lifter.Lifts = append(lifter.Lifts, lift)
+		return lifter
+	}
+	lifter := &Lifter{
+		Name:              name,
+		Gender:            gender,
+		PrimaryFederation: federation,
+		Lifts:             []*Lift{lift},
+	}
+	e.index[key] = lifter
+	e.Lifters = append(e.Lifters, lifter)
+	return lifter
+}
+
+func (e Lifter) IsMale() bool {
+	return e.Gender == enum.Male
+}
+
+func (e LifterRoster) Search(nameStr string) (lifters NameSearchResults) {
+	for _, lifter := range e.Lifters {
+		if strings.Contains(strings.ToLower(lifter.Name), strings.ToLower(nameStr)) {
+			lifters.Names = append(lifters.Names, NameSearch{NameStr: lifter.Name, Gender: lifter.Gender, Federation: lifter.PrimaryFederation})
+			lifters.Total++
 		}
 	}
 	return
-}
-
-func (e *BeanCounter) AddBytes(bytes uint64) {
-	e.Bytes += bytes
-}
-
-func (e *BeanCounter) ByteCount() uint64 {
-	return e.Bytes
-}
-
-func (e *BeanCounter) UnitToString() string {
-	const (
-		Byte = 1 << (10 * iota)
-		KB
-		MB
-		GB
-		// extend if needed
-	)
-
-	switch {
-	case e.Bytes >= GB:
-		return fmt.Sprintf("%.2f GB", float32(e.Bytes)/GB)
-	case e.Bytes >= MB:
-		return fmt.Sprintf("%.2f MB", float32(e.Bytes)/MB)
-	case e.Bytes >= KB:
-		return fmt.Sprintf("%.2f KB", float32(e.Bytes)/KB)
-	default:
-		return fmt.Sprintf("%d bytes", e.Bytes)
-	}
 }

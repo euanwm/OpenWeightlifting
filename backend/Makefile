@@ -11,3 +11,8 @@ run:
 .PHONY: test
 test:
 	go test ./...
+
+# Regenerate Swaggo docs from endpoint annotations.
+.PHONY: docs
+docs:
+	swag init --parseDependency --parseInternal -g main.go

@@ -59,8 +59,9 @@ var CoefficientsByYear = map[Year]Coefficients{
 	},
 }
 
-func assignCoefficients(isMale bool, entry *structs.Entry) (float64, float64) {
-	var entryYear, err = strconv.Atoi(entry.Date[:4])
+func assignCoefficients(entry *structs.Lift) (float64, float64) {
+
+	var entryYear, err = strconv.Atoi(entry.Event.Date[:4])
 	var coefficients Coefficients
 	if err != nil {
 		panic("coefficients year conversion failed")
@@ -83,7 +84,7 @@ func assignCoefficients(isMale bool, entry *structs.Entry) (float64, float64) {
 	case entryYear >= 2025:
 		coefficients = CoefficientsByYear[Year(2021)]
 	}
-	if !isMale {
+	if !entry.Lifter.IsMale() {
 		return coefficients.aFemale, coefficients.bFemale
 	}
 	return coefficients.aMale, coefficients.bMale
@@ -92,20 +93,8 @@ func assignCoefficients(isMale bool, entry *structs.Entry) (float64, float64) {
 // CalcSinclair Calculates the sinclair of a result passed to it. We are using ONLY the Senior coefficient because
 // the Masters coefficient is absolute nonsense. You'll see there's a lot of switching between float types.
 // It's frustrating but it serves a purpose.
-func CalcSinclair(result *structs.Entry, male bool) {
-	// Fast path: a zero or negative total has a zero Sinclair.
-	if !result.Total.IsPositive() {
-		result.Sinclair = 0
-		return
-	}
-
-	// A bodyweight below the cutoff also receives a zero score.
-	if result.Bodyweight.LessThanOrEqual(structs.NewWeightKgFromInt32(minBW)) {
-		result.Sinclair = 0
-		return
-	}
-
-  var coEffA, coEffB = assignCoefficients(male, result)
+func CalcSinclair(result *structs.Lift) {
+	var coEffA, coEffB = assignCoefficients(result)
 
 	total := result.Total.Float64()
 	bodyweight := result.Bodyweight.Float64()
@@ -116,11 +105,11 @@ func CalcSinclair(result *structs.Entry, male bool) {
 		var expX = X * X
 		var coEffExp = coEffA * expX
 		var expSum = math.Pow(10, coEffExp)
-		var sinclair = float32(total * expSum)
+		var sinclair = total * expSum
 		if sinclair <= naimSinclair {
 			result.Sinclair = sinclair
 		}
 	} else if total <= naimSinclair {
-		result.Sinclair = float32(total)
+		result.Sinclair = total
 	}
 }

@@ -8,14 +8,14 @@ import (
 
 // todo: add more details to allow more strict testing
 var sampleLeaderboardData = &structs.LeaderboardData{
-	AllTotals: []structs.Entry{
-		{Name: "John Smith", Total: structs.NewWeightKg(123)},
-		{Name: "john smith", Total: structs.NewWeightKg(234)},
-		{Name: "John smoth", Total: structs.NewWeightKg(345)},
-		{Name: "Joanne Smith", Total: structs.NewWeightKg(123)},
-		{Name: "joanne smith", Total: structs.NewWeightKg(234)},
-		{Name: "joanne smith", Total: structs.NewWeightKg(235)},
-		{Name: "joanne Smoth", Total: structs.NewWeightKg(345)},
+	AllTotals: []*structs.Lift{
+		{Lifter: &structs.Lifter{Name: "John Smith"}, Event: &structs.Event{}, Total: structs.NewWeightKg(123)},
+		{Lifter: &structs.Lifter{Name: "john smith"}, Event: &structs.Event{}, Total: structs.NewWeightKg(234)},
+		{Lifter: &structs.Lifter{Name: "John smoth"}, Event: &structs.Event{}, Total: structs.NewWeightKg(345)},
+		{Lifter: &structs.Lifter{Name: "Joanne Smith"}, Event: &structs.Event{}, Total: structs.NewWeightKg(123)},
+		{Lifter: &structs.Lifter{Name: "joanne smith"}, Event: &structs.Event{}, Total: structs.NewWeightKg(234)},
+		{Lifter: &structs.Lifter{Name: "joanne smith"}, Event: &structs.Event{}, Total: structs.NewWeightKg(235)},
+		{Lifter: &structs.Lifter{Name: "joanne Smoth"}, Event: &structs.Event{}, Total: structs.NewWeightKg(345)},
 	},
 }
 
@@ -60,48 +60,57 @@ func TestFetchLifts(t *testing.T) {
 
 func TestNameSearch(t *testing.T) {
 	type args struct {
-		nameStr  string
-		nameList []structs.Entry
+		nameStr string
+		roster  structs.LifterRoster
 	}
 	tests := []struct {
-		name          string
-		args          args
-		wantNameSlice []string
+		name string
+		args args
+		want structs.NameSearchResults
 	}{
 		{name: "Single Match", args: args{
 			nameStr: "Dave Smith",
-			nameList: []structs.Entry{
+			roster: structs.LifterRoster{Lifters: []*structs.Lifter{
 				{Name: "andrew smith"},
 				{Name: "Dave Smith"},
 				{Name: "John Smith"},
 				{Name: "maybe john smith"},
-			}},
-			wantNameSlice: []string{"Dave Smith"},
+			}}},
+			want: structs.NameSearchResults{
+				Names: []structs.NameSearch{{NameStr: "Dave Smith"}},
+				Total: 1,
+			},
 		},
 		{name: "Multiple Match (case insensitive)", args: args{
 			nameStr: "John Smith",
-			nameList: []structs.Entry{
+			roster: structs.LifterRoster{Lifters: []*structs.Lifter{
 				{Name: "john smith"},
 				{Name: "john not smith"},
 				{Name: "John Smith"},
 				{Name: "john Smith"},
-			}},
-			wantNameSlice: []string{"john smith", "John Smith", "john Smith"},
+			}}},
+			want: structs.NameSearchResults{
+				Names: []structs.NameSearch{{NameStr: "john smith"}, {NameStr: "John Smith"}, {NameStr: "john Smith"}},
+				Total: 3,
+			},
 		},
 		{name: "No Match on Spelling", args: args{
 			nameStr: "John Smith",
-			nameList: []structs.Entry{
+			roster: structs.LifterRoster{Lifters: []*structs.Lifter{
 				{Name: "jim smof"},
 				{Name: "dof smith"},
 				{Name: "john smof"},
-			}},
-			wantNameSlice: []string{""},
+			}}},
+			want: structs.NameSearchResults{
+				Names: []structs.NameSearch{{NameStr: ""}},
+				Total: 0,
+			},
 		},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			if gotNamePositions := NameSearch(tt.args.nameStr, &tt.args.nameList); !reflect.DeepEqual(gotNamePositions, tt.wantNameSlice) {
-				t.Errorf("NameSearch() = %v, want %v", gotNamePositions, tt.wantNameSlice)
+			if got := NameSearch(tt.args.nameStr, tt.args.roster); !reflect.DeepEqual(got, tt.want) {
+				t.Errorf("NameSearch() = %v, want %v", got, tt.want)
 			}
 		})
 	}
@@ -110,7 +119,7 @@ func TestNameSearch(t *testing.T) {
 func TestSimilarNames(t *testing.T) {
 	type args struct {
 		nameSearch structs.NameSearch
-		nameList   []structs.Entry
+		roster     structs.LifterRoster
 	}
 	tests := []struct {
 		name                string
@@ -119,12 +128,12 @@ func TestSimilarNames(t *testing.T) {
 	}{
 		{name: "Single Match", args: args{
 			nameSearch: structs.NameSearch{NameStr: "Chris Murray", Federation: "UK"},
-			nameList: []structs.Entry{
-				{Name: "Frankie Murray", Federation: "US"},
-				{Name: "Chris Murray", Federation: "UK"},
-				{Name: "MURRAY Chris", Federation: "IWF"},
-				{Name: "MURRAY Christopher John", Federation: "IWF"},
-			}},
+			roster: structs.LifterRoster{Lifters: []*structs.Lifter{
+				{Name: "Frankie Murray", PrimaryFederation: "US"},
+				{Name: "Chris Murray", PrimaryFederation: "UK"},
+				{Name: "MURRAY Chris", PrimaryFederation: "IWF"},
+				{Name: "MURRAY Christopher John", PrimaryFederation: "IWF"},
+			}}},
 			// Expected: all 4 entries score above the threshold (0.6).
 			// Sorted by descending score:
 			//   "Chris Murray" UK  → 1.0  (exact)
@@ -144,7 +153,7 @@ func TestSimilarNames(t *testing.T) {
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			got := SimilarNames(tt.args.nameSearch, &tt.args.nameList)
+			got := SimilarNames(tt.args.nameSearch, &tt.args.roster)
 
 			if got.Total != tt.wantSimilaritySlice.Total {
 				t.Errorf("SimilarNames() Total = %d, want %d", got.Total, tt.wantSimilaritySlice.Total)

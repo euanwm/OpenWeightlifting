@@ -14,10 +14,6 @@ type ContainerTime struct {
 	Sec  int `json:"sec"`
 }
 
-type AllData struct {
-	Lifts []Entry
-}
-
 type NameSearchResults struct {
 	// todo: refactor this so we don't have to worry about case sensitivity on the items within the slice
 	Names []NameSearch `json:"names"`
@@ -36,14 +32,15 @@ type NameSimilarityResults struct {
 }
 
 type RivalsResult struct {
-	Rivals []struct {
-		Position   int
-		Total      WeightKg
-		Gender     string
-		Name       string
-		Federation string
-	} `json:"rivals"`
-	Total int `json:"total"`
+	Rivals []Rival `json:"rivals"`
+	Total  int     `json:"total"`
+}
+
+type Rival struct {
+	Position   int      `json:"position"`
+	Total      WeightKg `json:"total"`
+	Lifter     string   `json:"lifter"`
+	Federation string   `json:"federation"`
 }
 
 type RivalsCombined struct {
@@ -53,24 +50,13 @@ type RivalsCombined struct {
 
 type NameSearch struct {
 	NameStr    string `json:"name"`
+	Gender     string `json:"gender"`
 	Federation string `json:"federation"`
 }
 
-type ChartData struct {
-	Dates   []string       `json:"labels"`
-	SubData []ChartSubData `json:"datasets"`
-}
-
-type ChartSubData struct {
-	Title     string    `json:"label"`
-	DataSlice []float32 `json:"data"`
-}
-
 type LifterHistory struct {
-	NameStr string      `json:"name"`
-	Lifts   []Entry     `json:"lifts"`
-	Graph   ChartData   `json:"graph"`
-	Stats   LifterStats `json:"stats"`
+	NameStr string  `json:"name"`
+	Lifts   []*Lift `json:"lifts"`
 }
 
 type LifterStats struct {
@@ -82,8 +68,8 @@ type LifterStats struct {
 }
 
 type LeaderboardData struct {
-	AllTotals    []Entry
-	AllSinclairs []Entry
+	AllTotals    []*Lift
+	AllSinclairs []*Lift
 }
 
 // LeaderboardPayload Incoming request payload
@@ -109,12 +95,40 @@ type SearchLeaderboardResult struct {
 	Query      LeaderboardPayload `json:"query"`
 }
 
-// Entry Standard structs that we'll use for storing raw lift data
-type Entry struct {
-	Event      string   `json:"event"`
-	Date       string   `json:"date"`
-	Gender     string   `json:"gender"`
-	Name       string   `json:"lifter_name"`
+type EventsData struct {
+	Events []*Event `json:"events"`
+}
+
+type Event struct {
+	Name       string  `json:"name"`
+	Date       string  `json:"date"`
+	Federation string  `json:"federation"`
+	CSVID      string  `json:"id"`
+	Results    []*Lift `json:"-"`
+}
+
+type LifterRoster struct {
+	Lifters []*Lifter `json:"lifters"`
+	index   map[string]*Lifter
+}
+
+type Lifter struct {
+	Gender            string  `json:"gender"`
+	Name              string  `json:"name"`
+	currentAge        uint8   //nolint:unused // todo: implement age calculation & linking
+	PrimaryFederation string  `json:"federation"`
+	Lifts             []*Lift `json:"-"` // back-reference; would cycle through Lift.Lifter
+}
+
+type AllLifts struct {
+	Lifts []*Lift `json:"lifts"`
+}
+
+type Lift struct {
+	Event      *Event   `json:"event"` // parent; already the context when nested under Event.Results/EventResponse
+	Lifter     *Lifter  `json:"lifter"`
+	ageOnDay   uint8    //nolint:unused // todo: implement age calculation & linking
+	Category   string   `json:"category"`
 	Bodyweight WeightKg `json:"bodyweight"`
 	Sn1        WeightKg `json:"snatch_1"`
 	Sn2        WeightKg `json:"snatch_2"`
@@ -125,28 +139,12 @@ type Entry struct {
 	BestSn     WeightKg `json:"best_snatch"`
 	BestCJ     WeightKg `json:"best_cj"`
 	Total      WeightKg `json:"total"`
-	Sinclair   float32  `json:"sinclair"`
-	Federation string   `json:"country"`
+	Sinclair   float64  `json:"sinclair"` // todo: change this to a key:value so we can differentiate between qpoints, sinclair etc.
 }
 
 type LeaderboardResponse struct {
 	Size int     `json:"size"`
-	Data []Entry `json:"data"`
-}
-
-// EventsMetaData Internal struct for storing event metadata
-type EventsMetaData struct {
-	Name       []string
-	Federation []string
-	Date       []string
-	ID         []string
-}
-
-type SingleEventMetaData struct {
-	Name       string `json:"name"`
-	Federation string `json:"federation"`
-	Date       string `json:"date"`
-	ID         string `json:"id"`
+	Data []*Lift `json:"data"`
 }
 
 type EventSearch struct {
@@ -160,14 +158,5 @@ type SingleEvent struct {
 }
 
 type EventsList struct {
-	Events []SingleEventMetaData `json:"events"`
-}
-
-type LiftReport struct {
-	ReportedLift Entry  `json:"lift"`
-	Comments     string `json:"comments"`
-}
-
-type BeanCounter struct {
-	Bytes uint64
+	Events []Event `json:"events"`
 }

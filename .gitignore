@@ -4,6 +4,12 @@
 /.idea
 /.vscode
 /python_tools/database_handler/__pycache__
+/.DS_Store
+/.zed
 
 # Ignore the autobuild folder
 frontend/autobuild/
+
+# Backend stuff to Ignore
+/backend/event_data/
+/backend/.DS_Store

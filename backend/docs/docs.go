@@ -62,7 +62,7 @@ const docTemplate = `{
                     "200": {
                         "description": "OK",
                         "schema": {
-                            "$ref": "#/definitions/structs.LeaderboardResponse"
+                            "$ref": "#/definitions/structs.EventResponse"
                         }
                     },
                     "204": {
@@ -72,45 +72,8 @@ const docTemplate = `{
             }
         },
         "/events/list": {
-            "post": {
-                "description": "Metadata shows the name, federation and date of the event along with the filename in the event_data folder.",
-                "consumes": [
-                    "application/json"
-                ],
-                "produces": [
-                    "application/json"
-                ],
-                "tags": [
-                    "POST Requests"
-                ],
-                "summary": "Fetch available event metadata within a set date range",
-                "parameters": [
-                    {
-                        "description": "Date range to filter events by",
-                        "name": "request",
-                        "in": "body",
-                        "required": true,
-                        "schema": {
-                            "$ref": "#/definitions/structs.EventSearch"
-                        }
-                    }
-                ],
-                "responses": {
-                    "200": {
-                        "description": "OK",
-                        "schema": {
-                            "$ref": "#/definitions/structs.EventsList"
-                        }
-                    },
-                    "400": {
-                        "description": "Bad Request"
-                    }
-                }
-            }
-        },
-        "/graph": {
             "get": {
-                "description": "This is used within the lifter page to display a lifter's record. It returns a JSON object that can be used with ChartJS without having to do any additional processing.",
+                "description": "Metadata shows the name, federation and date of the event along with the filename in the event_data folder.",
                 "consumes": [
                     "application/json"
                 ],
@@ -120,19 +83,18 @@ const docTemplate = `{
                 "tags": [
                     "GET Requests"
                 ],
-                "summary": "Retrieve a lifter's record for use with ChartJS on the leaderboard page",
+                "summary": "Fetch available event metadata within a set date range",
                 "parameters": [
                     {
                         "type": "string",
-                        "description": "Name of the lifter, must be an exact match",
-                        "name": "name",
-                        "in": "query",
-                        "required": true
+                        "description": "Start of the date range to filter events by, defaults to 60 days ago",
+                        "name": "startdate",
+                        "in": "query"
                     },
                     {
                         "type": "string",
-                        "description": "Federation to filter lifts by",
-                        "name": "federation",
+                        "description": "End of the date range to filter events by, defaults to today",
+                        "name": "enddate",
                         "in": "query"
                     }
                 ],
@@ -140,11 +102,8 @@ const docTemplate = `{
                     "200": {
                         "description": "OK",
                         "schema": {
-                            "$ref": "#/definitions/structs.ChartData"
+                            "$ref": "#/definitions/structs.EventsList"
                         }
-                    },
-                    "204": {
-                        "description": "No Content"
                     }
                 }
             }
@@ -186,40 +145,6 @@ const docTemplate = `{
                     },
                     "204": {
                         "description": "No Content"
-                    }
-                }
-            }
-        },
-        "/issue": {
-            "post": {
-                "description": "Report an issue with a lift to the discord server",
-                "consumes": [
-                    "application/json"
-                ],
-                "produces": [
-                    "application/json"
-                ],
-                "tags": [
-                    "POST Requests"
-                ],
-                "summary": "Report an issue with a lift",
-                "parameters": [
-                    {
-                        "description": "Lift to report, along with comments describing the issue",
-                        "name": "report",
-                        "in": "body",
-                        "required": true,
-                        "schema": {
-                            "$ref": "#/definitions/structs.LiftReport"
-                        }
-                    }
-                ],
-                "responses": {
-                    "200": {
-                        "description": "OK"
-                    },
-                    "400": {
-                        "description": "Bad Request"
                     }
                 }
             }
@@ -492,37 +417,6 @@ const docTemplate = `{
         }
     },
     "definitions": {
-        "structs.ChartData": {
-            "type": "object",
-            "properties": {
-                "datasets": {
-                    "type": "array",
-                    "items": {
-                        "$ref": "#/definitions/structs.ChartSubData"
-                    }
-                },
-                "labels": {
-                    "type": "array",
-                    "items": {
-                        "type": "string"
-                    }
-                }
-            }
-        },
-        "structs.ChartSubData": {
-            "type": "object",
-            "properties": {
-                "data": {
-                    "type": "array",
-                    "items": {
-                        "type": "number"
-                    }
-                },
-                "label": {
-                    "type": "string"
-                }
-            }
-        },
         "structs.ContainerTime": {
             "type": "object",
             "properties": {
@@ -537,67 +431,34 @@ const docTemplate = `{
                 }
             }
         },
-        "structs.Entry": {
+        "structs.Event": {
             "type": "object",
             "properties": {
-                "best_cj": {
-                    "$ref": "#/definitions/structs.WeightKg"
-                },
-                "best_snatch": {
-                    "$ref": "#/definitions/structs.WeightKg"
-                },
-                "bodyweight": {
-                    "$ref": "#/definitions/structs.WeightKg"
-                },
-                "cj_1": {
-                    "$ref": "#/definitions/structs.WeightKg"
-                },
-                "cj_2": {
-                    "$ref": "#/definitions/structs.WeightKg"
-                },
-                "cj_3": {
-                    "$ref": "#/definitions/structs.WeightKg"
-                },
-                "country": {
-                    "type": "string"
-                },
                 "date": {
                     "type": "string"
                 },
-                "event": {
+                "federation": {
                     "type": "string"
                 },
-                "gender": {
+                "id": {
                     "type": "string"
                 },
-                "lifter_name": {
+                "name": {
                     "type": "string"
-                },
-                "sinclair": {
-                    "type": "number"
-                },
-                "snatch_1": {
-                    "$ref": "#/definitions/structs.WeightKg"
-                },
-                "snatch_2": {
-                    "$ref": "#/definitions/structs.WeightKg"
-                },
-                "snatch_3": {
-                    "$ref": "#/definitions/structs.WeightKg"
-                },
-                "total": {
-                    "$ref": "#/definitions/structs.WeightKg"
                 }
             }
         },
-        "structs.EventSearch": {
+        "structs.EventResponse": {
             "type": "object",
             "properties": {
-                "enddate": {
-                    "type": "string"
+                "event": {
+                    "$ref": "#/definitions/structs.Event"
                 },
-                "startdate": {
-                    "type": "string"
+                "lifts": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/structs.Lift"
+                    }
                 }
             }
         },
@@ -607,7 +468,7 @@ const docTemplate = `{
                 "events": {
                     "type": "array",
                     "items": {
-                        "$ref": "#/definitions/structs.SingleEventMetaData"
+                        "$ref": "#/definitions/structs.Event"
                     }
                 }
             }
@@ -647,7 +508,7 @@ const docTemplate = `{
                 "data": {
                     "type": "array",
                     "items": {
-                        "$ref": "#/definitions/structs.Entry"
+                        "$ref": "#/definitions/structs.Lift"
                     }
                 },
                 "size": {
@@ -655,38 +516,7 @@ const docTemplate = `{
                 }
             }
         },
-        "structs.LiftReport": {
-            "type": "object",
-            "properties": {
-                "comments": {
-                    "type": "string"
-                },
-                "lift": {
-                    "$ref": "#/definitions/structs.Entry"
-                }
-            }
-        },
-        "structs.LifterHistory": {
-            "type": "object",
-            "properties": {
-                "graph": {
-                    "$ref": "#/definitions/structs.ChartData"
-                },
-                "lifts": {
-                    "type": "array",
-                    "items": {
-                        "$ref": "#/definitions/structs.Entry"
-                    }
-                },
-                "name": {
-                    "type": "string"
-                },
-                "stats": {
-                    "$ref": "#/definitions/structs.LifterStats"
-                }
-            }
-        },
-        "structs.LifterStats": {
+        "structs.Lift": {
             "type": "object",
             "properties": {
                 "best_cj": {
@@ -695,20 +525,75 @@ const docTemplate = `{
                 "best_snatch": {
                     "$ref": "#/definitions/structs.WeightKg"
                 },
-                "best_total": {
+                "bodyweight": {
                     "$ref": "#/definitions/structs.WeightKg"
                 },
-                "make_rate_cj": {
+                "category": {
+                    "type": "string"
+                },
+                "cj_1": {
+                    "$ref": "#/definitions/structs.WeightKg"
+                },
+                "cj_2": {
+                    "$ref": "#/definitions/structs.WeightKg"
+                },
+                "cj_3": {
+                    "$ref": "#/definitions/structs.WeightKg"
+                },
+                "event": {
+                    "description": "parent; already the context when nested under Event.Results/EventResponse",
+                    "allOf": [
+                        {
+                            "$ref": "#/definitions/structs.Event"
+                        }
+                    ]
+                },
+                "lifter": {
+                    "$ref": "#/definitions/structs.Lifter"
+                },
+                "sinclair": {
+                    "description": "todo: change this to a key:value so we can differentiate between qpoints, sinclair etc.",
+                    "type": "number"
+                },
+                "snatch_1": {
+                    "$ref": "#/definitions/structs.WeightKg"
+                },
+                "snatch_2": {
+                    "$ref": "#/definitions/structs.WeightKg"
+                },
+                "snatch_3": {
+                    "$ref": "#/definitions/structs.WeightKg"
+                },
+                "total": {
+                    "$ref": "#/definitions/structs.WeightKg"
+                }
+            }
+        },
+        "structs.Lifter": {
+            "type": "object",
+            "properties": {
+                "federation": {
+                    "type": "string"
+                },
+                "gender": {
+                    "type": "string"
+                },
+                "name": {
+                    "type": "string"
+                }
+            }
+        },
+        "structs.LifterHistory": {
+            "type": "object",
+            "properties": {
+                "lifts": {
                     "type": "array",
                     "items": {
-                        "type": "integer"
+                        "$ref": "#/definitions/structs.Lift"
                     }
                 },
-                "make_rate_snatches": {
-                    "type": "array",
-                    "items": {
-                        "type": "integer"
-                    }
+                "name": {
+                    "type": "string"
                 }
             }
         },
@@ -716,6 +601,9 @@ const docTemplate = `{
             "type": "object",
             "properties": {
                 "federation": {
+                    "type": "string"
+                },
+                "gender": {
                     "type": "string"
                 },
                 "name": {
@@ -766,6 +654,23 @@ const docTemplate = `{
                 }
             }
         },
+        "structs.Rival": {
+            "type": "object",
+            "properties": {
+                "federation": {
+                    "type": "string"
+                },
+                "lifter": {
+                    "type": "string"
+                },
+                "position": {
+                    "type": "integer"
+                },
+                "total": {
+                    "$ref": "#/definitions/structs.WeightKg"
+                }
+            }
+        },
         "structs.RivalsCombined": {
             "type": "object",
             "properties": {
@@ -783,24 +688,7 @@ const docTemplate = `{
                 "rivals": {
                     "type": "array",
                     "items": {
-                        "type": "object",
-                        "properties": {
-                            "federation": {
-                                "type": "string"
-                            },
-                            "gender": {
-                                "type": "string"
-                            },
-                            "name": {
-                                "type": "string"
-                            },
-                            "position": {
-                                "type": "integer"
-                            },
-                            "total": {
-                                "$ref": "#/definitions/structs.WeightKg"
-                            }
-                        }
+                        "$ref": "#/definitions/structs.Rival"
                     }
                 },
                 "total": {
@@ -830,23 +718,6 @@ const docTemplate = `{
                 },
                 "query": {
                     "$ref": "#/definitions/structs.LeaderboardPayload"
-                }
-            }
-        },
-        "structs.SingleEventMetaData": {
-            "type": "object",
-            "properties": {
-                "date": {
-                    "type": "string"
-                },
-                "federation": {
-                    "type": "string"
-                },
-                "id": {
-                    "type": "string"
-                },
-                "name": {
-                    "type": "string"
                 }
             }
         },

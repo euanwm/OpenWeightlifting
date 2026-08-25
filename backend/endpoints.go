@@ -2,7 +2,6 @@ package main //nolint:typecheck
 
 import (
 	"backend/dbtools"
-	"backend/discordbot"
 	"backend/enum"
 	"backend/lifter"
 	"backend/structs"
@@ -13,11 +12,7 @@ import (
 	"time"
 
 	"github.com/gin-gonic/gin"
-	_ "github.com/heroku/x/hmetrics/onload"
 )
-
-// DiscoKaren is a global variable that is used to hold the discord bot session.
-var DiscoKaren discordbot.DiscordBot
 
 // LeaderboardData is a global variable that is used to hold the leaderboard data.
 var LeaderboardData structs.LeaderboardData
@@ -25,11 +20,11 @@ var LeaderboardData structs.LeaderboardData
 // QueryCache is a global variable that is used to cache queries for the leaderboard endpoint.
 var QueryCache dbtools.QueryCache
 
-// EventsData is a global variable that is used to hold the event metadata.
-var EventsData structs.EventsMetaData
+// kinda self-explanatory
+var EventsData structs.EventsData
 
-// TheBank is a glorified byte counter, but it can be expanded to do more stuff
-var TheBank structs.BeanCounter
+// LifterRoster is a global variable that is used to hold the lifter roster.
+var LifterRoster structs.LifterRoster
 
 // ServerTime godoc
 //
@@ -66,7 +61,7 @@ func SearchName(c *gin.Context) {
 	}
 	if len(c.Query("name")) >= 3 {
 		nameStr := c.Query("name")
-		results := lifter.NewNameSearch(nameStr, &LeaderboardData.AllTotals)
+		results := lifter.NameSearch(nameStr, LifterRoster)
 
 		results.Total = len(results.Names)
 
@@ -84,40 +79,6 @@ func SearchName(c *gin.Context) {
 				c.JSON(http.StatusNoContent, nil)
 			}
 		}
-	}
-}
-
-// LifterGraph godoc
-//
-//		@Summary	Retrieve a lifter's record for use with ChartJS on the leaderboard page
-//		@Schemes
-//		@Description	This is used within the lifter page to display a lifter's record. It returns a JSON object that can be used with ChartJS without having to do any additional processing.
-//		@Tags			GET Requests
-//	 @Param name query string true "Name of the lifter, must be an exact match"
-//	 @Param federation query string false "Federation to filter lifts by"
-//		@Accept			json
-//		@Produce		json
-//		@Success		200	{object}	structs.ChartData
-//	 @Failure		204	{object}	nil
-//		@Router			/graph [get]
-func LifterGraph(c *gin.Context) {
-	name := c.Query("name")
-	federation := c.Query("federation")
-	lifterSearch := structs.NameSearch{NameStr: name, Federation: federation}
-
-	lifterDetails := lifter.FetchLifts(lifterSearch, &LeaderboardData)
-
-	// todo: maybe refactor this to use a query struct, but I think a larger scale refactor is in order
-	if len(federation) > 0 {
-		lifterDetails.Lifts = dbtools.KeepFederationLifts(lifterDetails.Lifts, federation)
-	}
-
-	lifterDetails.Lifts = dbtools.SortDate(lifterDetails.Lifts)
-	finalPayload := lifterDetails.GenerateChartData()
-	if len(lifterDetails.Lifts) != 0 {
-		c.JSON(http.StatusOK, finalPayload)
-	} else if len(lifterDetails.Lifts) == 0 {
-		c.JSON(http.StatusNoContent, nil)
 	}
 }
 
@@ -147,9 +108,7 @@ func LifterHistory(c *gin.Context) {
 	}
 
 	lifterDetails.Lifts = dbtools.SortDate(lifterDetails.Lifts)
-	lifterDetails.Graph = lifterDetails.GenerateChartData()
 	lifterDetails.Lifts = utilities.ReverseSlice(lifterDetails.Lifts)
-	lifterDetails.Stats = lifterDetails.GenerateStats()
 
 	if len(lifterDetails.Lifts) != 0 {
 		c.JSON(http.StatusOK, lifterDetails)
@@ -267,7 +226,7 @@ func Leaderboard(c *gin.Context) {
 	}
 
 	leaderboardData := LeaderboardData.Select(body.SortBy) // Selects either total or sinclair sorted leaderboard
-	fedData := dbtools.FilterLifts(*leaderboardData, body, dbtools.WeightClassList[body.WeightClass], &QueryCache)
+	fedData := dbtools.FilterLifts(leaderboardData, body, dbtools.WeightClassList[body.WeightClass], &QueryCache)
 	c.JSON(http.StatusOK, fedData)
 }
 
@@ -297,7 +256,7 @@ func LeaderboardSearch(c *gin.Context) {
 	}
 
 	// Check that the lifter exists
-	validLifterName := lifter.NewNameSearch(body.LifterData.NameStr, &LeaderboardData.AllTotals)
+	validLifterName := lifter.NameSearch(body.LifterData.NameStr, LifterRoster)
 
 	if validLifterName.Total == 0 {
 		c.JSON(http.StatusOK, gin.H{"error": "Name not in database"})
@@ -322,7 +281,7 @@ func LeaderboardSearch(c *gin.Context) {
 	// Now we see if the name appears in the query
 	leaderboardResult := structs.SearchLeaderboardResult{
 		LifterData: body.LifterData,
-		Position:   dbtools.LeaderboardPosition(*leaderboardData, body.ActiveQuery, &QueryCache, finalLifter),
+		Position:   dbtools.LeaderboardPosition(leaderboardData, body.ActiveQuery, &QueryCache, finalLifter),
 		Query:      body.ActiveQuery,
 	}
 
@@ -350,7 +309,7 @@ func SimilarNameSearch(c *gin.Context) {
 		return
 	}
 	nameSearch := structs.NameSearch{NameStr: name, Federation: federation}
-	results := lifter.SimilarNames(nameSearch, &LeaderboardData.AllTotals)
+	results := lifter.SimilarNames(nameSearch, &LifterRoster)
 	if results.Total == 0 {
 		c.JSON(http.StatusNoContent, nil)
 		return
@@ -376,17 +335,41 @@ func Rival(c *gin.Context) {
 	sexStr := c.Query("sex")
 	fedStr := c.Query("fed")
 
-	const CURRENT_YEAR = 2026
-
 	if len(fedStr) == 0 {
 		fedStr = enum.ALLFEDS
 	}
 
 	leaderboardData := LeaderboardData.Select(enum.Total)
 
+	var catStr string
+
+	switch sexStr {
+	case enum.Male:
+		catStr = "MALL"
+	case enum.Female:
+		catStr = "FALL"
+	default:
+		log.Println("rivals:invalid sex:", sexStr)
+		catStr = ""
+	}
+
+	query := structs.LeaderboardPayload{
+		SortBy:      enum.Total,
+		WeightClass: catStr,
+		StartDate:   enum.CurrentYearFilter(),
+		EndDate:     enum.NextYearFitler(),
+		Stop:        len(leaderboardData),
+	}
+
+	query.Federation = fedStr
+	fedFiltered := dbtools.FilterLifts(leaderboardData, query, dbtools.WeightClassList[catStr], &QueryCache)
+
+	query.Federation = enum.ALLFEDS
+	allFiltered := dbtools.FilterLifts(leaderboardData, query, dbtools.WeightClassList[catStr], &QueryCache)
+
 	response := structs.RivalsCombined{
-		FederationRivals: lifter.Rivals(nameStr, sexStr, fedStr, CURRENT_YEAR, *leaderboardData),
-		CombinedRivals:   lifter.Rivals(nameStr, sexStr, enum.ALLFEDS, CURRENT_YEAR, *leaderboardData),
+		FederationRivals: lifter.Rivals(nameStr, fedFiltered.Data),
+		CombinedRivals:   lifter.Rivals(nameStr, allFiltered.Data),
 	}
 
 	c.JSON(http.StatusOK, response)
@@ -397,23 +380,21 @@ func Rival(c *gin.Context) {
 //		@Summary	Fetch available event metadata within a set date range
 //		@Schemes
 //		@Description	Metadata shows the name, federation and date of the event along with the filename in the event_data folder.
-//		@Tags			POST Requests
-//	 @Param request body structs.EventSearch true "Date range to filter events by"
+//		@Tags			GET Requests
+//	 @Param startdate query string false "Start of the date range to filter events by, defaults to 60 days ago"
+//	 @Param enddate query string false "End of the date range to filter events by, defaults to today"
 //		@Accept			json
 //		@Produce		json
 //		@Success		200	{object}	structs.EventsList
-//		@Failure		400	{object}	nil
-//		@Router			/events/list [post]
+//		@Router			/events/list [get]
 func Events(c *gin.Context) {
 	var response structs.EventsList
-	var query structs.EventSearch
-	if err := c.BindJSON(&query); err != nil {
-		abortErr := c.AbortWithError(http.StatusBadRequest, err)
-		log.Println(abortErr)
-		return
-	}
+	const dateFormat = "2006-01-02"
+	now := time.Now()
+	startDate := c.DefaultQuery("startdate", now.AddDate(0, 0, -60).Format(dateFormat))
+	endDate := c.DefaultQuery("enddate", now.Format(dateFormat))
 
-	response.Events = EventsData.FetchEventWithinDate(query.StartDate, query.EndDate)
+	response.Events = EventsData.FetchEventWithinDate(startDate, endDate)
 	c.JSON(http.StatusOK, response)
 }
 
@@ -429,59 +410,31 @@ func Events(c *gin.Context) {
 //	 @Param date query string false "Date to filter results by, only applicable when looking up by name"
 //		@Accept			json
 //		@Produce		json
-//		@Success		200	{object}	structs.LeaderboardResponse
+//		@Success		200	{object}	structs.EventResponse
 //		@Failure		204	{object}	nil
 //		@Router			/events [get]
 func SingleEvent(c *gin.Context) {
-	var response structs.LeaderboardResponse
+	var response structs.EventResponse
 	var federation, fedExists = c.GetQuery("fed")
 	var csvID, idExists = c.GetQuery("id")
 	var date, dateExists = c.GetQuery("date")
 	var eventNameReq, nameExists = c.GetQuery("name")
 	// federation and csvID are required
 	if fedExists && idExists {
-		response.Data = dbtools.LoadSingleEvent(federation, csvID)
+		response = EventsData.FetchEventByID(federation, csvID)
 	} else if fedExists && nameExists {
 		// federation and event name are required
-		response.Data = LeaderboardData.FetchByEventName(eventNameReq)
+		response = EventsData.FetchByEventName(eventNameReq)
 		// date is optional, but I'd recommend it because I fucking said so and I can't be bothered explaining at 2323hrs on a Tuesday-cunting-night
 		// only reason why it's even here is some federations load their multi-day events as such and not all on the same day
 		if dateExists {
-			response.Data, response.Size = response.FilterByDate(date)
+			response = response.FilterByDate(date)
 		}
 	}
 
-	response.Size = len(response.Data)
-	if response.Size == 0 {
+	if len(response.Lifts) == 0 {
 		c.JSON(http.StatusNoContent, nil)
 		return
 	}
 	c.JSON(http.StatusOK, response)
-}
-
-// IssueReport godoc
-//
-//		@Summary	Report an issue with a lift
-//		@Schemes
-//		@Description	Report an issue with a lift to the discord server
-//		@Tags			POST Requests
-//	 @Param report body structs.LiftReport true "Lift to report, along with comments describing the issue"
-//		@Accept			json
-//		@Produce		json
-//		@Success		200	{object}	nil
-//		@Failure		400	{object}	nil
-//		@Router			/issue [post]
-func IssueReport(c *gin.Context) {
-	var report structs.LiftReport
-	if err := c.BindJSON(&report); err != nil {
-		abortErr := c.AbortWithError(http.StatusBadRequest, err)
-		log.Println(abortErr)
-		return
-	}
-	log.Printf("Issue report received: %s\n", report.Comments)
-	_, err := DiscoKaren.PostMessage(report.ReportedLift.DiscordPrint() + "\nReport Comments: *" + report.Comments + "*")
-	if err != nil {
-		log.Println("Failed to post message to discord")
-	}
-	c.JSON(http.StatusOK, nil)
 }

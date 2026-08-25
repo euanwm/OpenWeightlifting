@@ -9,7 +9,7 @@ import (
 )
 
 // FilterLifts - Returns a slice of structs relating to the selected filter selection
-func FilterLifts(bigData []structs.Entry, filterQuery structs.LeaderboardPayload, weightCat structs.WeightClass, cache *QueryCache) (filteredData structs.LeaderboardResponse) {
+func FilterLifts(bigData []*structs.Lift, filterQuery structs.LeaderboardPayload, weightCat structs.WeightClass, cache *QueryCache) (filteredData structs.LeaderboardResponse) {
 	queryState, positions := cache.CheckQuery(filterQuery)
 
 	switch queryState {
@@ -21,12 +21,12 @@ func FilterLifts(bigData []structs.Entry, filterQuery structs.LeaderboardPayload
 			time.Sleep(100 * time.Millisecond)
 			state = cache.QueryStatus(filterQuery)
 			if state == Completed {
-				filteredData.Data, filteredData.Size = fetchLifts(&bigData, positions, &filterQuery)
+				filteredData.Data, filteredData.Size = fetchLifts(bigData, positions, &filterQuery)
 				return
 			}
 		}
 	case Completed:
-		filteredData.Data, filteredData.Size = fetchLifts(&bigData, positions, &filterQuery)
+		filteredData.Data, filteredData.Size = fetchLifts(bigData, positions, &filterQuery)
 		return
 	default:
 		// if you hit this, fuck you
@@ -34,14 +34,14 @@ func FilterLifts(bigData []structs.Entry, filterQuery structs.LeaderboardPayload
 	}
 
 	var names []string
-	var liftPtr *structs.Entry
+	var liftPtr *structs.Lift
 	var liftPositions []int
 	for idx, lift := range bigData {
-		liftPtr = &bigData[idx]
-		if GetGender(liftPtr) == weightCat.Gender && !utilities.Contains(names, lift.Name) {
-			if lift.SelectedFederation(filterQuery.Federation) && lift.WithinWeightClass(WeightClassList[filterQuery.WeightClass].Gender, weightCat) && lift.WithinDates(filterQuery.StartDate, filterQuery.EndDate) {
+		liftPtr = bigData[idx]
+		if liftPtr.Lifter.Gender == weightCat.Gender && !utilities.Contains(names, lift.Lifter.Name) {
+			if lift.Event.SelectedFederation(filterQuery.Federation) && lift.WithinWeightClass(WeightClassList[filterQuery.WeightClass].Gender, weightCat) && lift.WithinDates(filterQuery.StartDate, filterQuery.EndDate) {
 				liftPositions = append(liftPositions, idx)
-				names = append(names, lift.Name)
+				names = append(names, lift.Lifter.Name)
 				filteredData.Data = append(filteredData.Data, lift)
 			}
 		}
@@ -61,7 +61,7 @@ func FilterLifts(bigData []structs.Entry, filterQuery structs.LeaderboardPayload
 	return
 }
 
-func PreCacheFilter(bigData []structs.Entry, filterQuery structs.LeaderboardPayload, weightCat structs.WeightClass, cache *QueryCache) {
+func PreCacheFilter(bigData []*structs.Lift, filterQuery structs.LeaderboardPayload, weightCat structs.WeightClass, cache *QueryCache) {
 	queryState, _ := cache.CheckQuery(filterQuery)
 
 	switch queryState {
@@ -84,21 +84,21 @@ func PreCacheFilter(bigData []structs.Entry, filterQuery structs.LeaderboardPayl
 	}
 
 	var names []string
-	var liftPtr *structs.Entry
+	var liftPtr *structs.Lift
 	var liftPositions []int
 	for idx, lift := range bigData {
-		liftPtr = &bigData[idx]
-		if GetGender(liftPtr) == weightCat.Gender && !utilities.Contains(names, lift.Name) {
-			if lift.SelectedFederation(filterQuery.Federation) && lift.WithinWeightClass(WeightClassList[filterQuery.WeightClass].Gender, weightCat) && lift.WithinDates(filterQuery.StartDate, filterQuery.EndDate) {
+		liftPtr = bigData[idx]
+		if liftPtr.Lifter.Gender == weightCat.Gender && !utilities.Contains(names, lift.Lifter.Name) {
+			if lift.Event.SelectedFederation(filterQuery.Federation) && lift.WithinWeightClass(WeightClassList[filterQuery.WeightClass].Gender, weightCat) && lift.WithinDates(filterQuery.StartDate, filterQuery.EndDate) {
 				liftPositions = append(liftPositions, idx)
-				names = append(names, lift.Name)
+				names = append(names, lift.Lifter.Name)
 			}
 		}
 	}
 	cache.AddQuery(filterQuery, liftPositions)
 }
 
-func LeaderboardPosition(bigData []structs.Entry, filterQuery structs.LeaderboardPayload, cache *QueryCache, lifterQuery structs.NameSearch) int {
+func LeaderboardPosition(bigData []*structs.Lift, filterQuery structs.LeaderboardPayload, cache *QueryCache, lifterQuery structs.NameSearch) int {
 	queryState, positions := cache.CheckQuery(filterQuery)
 
 	switch queryState {
@@ -123,20 +123,20 @@ func LeaderboardPosition(bigData []structs.Entry, filterQuery structs.Leaderboar
 	return 0
 }
 
-func lifterPosition(bigData []structs.Entry, pos []int, lifter structs.NameSearch) int {
+func lifterPosition(bigData []*structs.Lift, pos []int, lifter structs.NameSearch) int {
 	for i, d := range pos {
 		liftData := bigData[d]
-		if liftData.Name == lifter.NameStr && liftData.Federation == lifter.Federation {
-			return i+1
+		if liftData.Lifter.Name == lifter.NameStr && liftData.Event.Federation == lifter.Federation {
+			return i + 1
 		}
 	}
 	return 0
 }
 
 // fetchLifts - Returns a slice of structs relating to the selected filter selection, it will also remove any duplicate entries.
-func fetchLifts(bigData *[]structs.Entry, pos []int, query *structs.LeaderboardPayload) (lifts []structs.Entry, size int) {
+func fetchLifts(bigData []*structs.Lift, pos []int, query *structs.LeaderboardPayload) (lifts []*structs.Lift, size int) {
 	for _, p := range pos {
-		lifts = append(lifts, (*bigData)[p])
+		lifts = append(lifts, bigData[p])
 	}
 
 	if query.Stop > len(lifts) {
@@ -152,45 +152,48 @@ func fetchLifts(bigData *[]structs.Entry, pos []int, query *structs.LeaderboardP
 	return
 }
 
-// SortSinclair Descending order by entry sinclair
-func SortSinclair(sliceStructs []structs.Entry) {
+// SortSinclair Descending order by lift sinclair
+func SortSinclair(sliceStructs []*structs.Lift) {
 	sort.Slice(sliceStructs, func(i, j int) bool {
 		return sliceStructs[i].Sinclair > sliceStructs[j].Sinclair
 	})
 }
 
-// SortTotal Descending order by entry total
-func SortTotal(sliceStructs []structs.Entry) {
+// SortTotal Descending order by lift total
+func SortTotal(sliceStructs []*structs.Lift) {
 	sort.Slice(sliceStructs, func(i, j int) bool {
 		return sliceStructs[i].Total.GreaterThan(sliceStructs[j].Total)
 	})
 }
 
-// SortDate Ascending order by lift date
-func SortDate(liftData []structs.Entry) []structs.Entry {
+// SortDate Ascending order by entry date
+func SortDate(liftData []*structs.Lift) []*structs.Lift {
 	const rfc3339partial string = "T15:04:05Z" // todo - manually subscribe to the RFC3339 string instead (?)
 	sort.Slice(liftData, func(i, j int) bool {
-		liftI, _ := time.Parse(time.RFC3339, liftData[i].Date+rfc3339partial)
-		liftJ, _ := time.Parse(time.RFC3339, liftData[j].Date+rfc3339partial)
+		liftI, _ := time.Parse(time.RFC3339, liftData[i].Event.Date+rfc3339partial)
+		liftJ, _ := time.Parse(time.RFC3339, liftData[j].Event.Date+rfc3339partial)
 		return liftI.Before(liftJ)
 	})
 	return liftData
 }
 
-func SortLiftsBy(bigData []structs.Entry, sortBy string) (sortedData []structs.Entry) {
+// SortLiftsBy sorts a copy of bigData so callers using the same underlying
+// slice for multiple sort orders (e.g. Total then Sinclair) don't clobber
+// each other's already-returned results.
+func SortLiftsBy(bigData []*structs.Lift, sortBy string) (sortedData []*structs.Lift) {
+	sortedData = append(sortedData, bigData...)
 	switch sortBy {
 	case enum.Total:
-		SortTotal(bigData)
+		SortTotal(sortedData)
 	case enum.Sinclair:
-		SortSinclair(bigData)
+		SortSinclair(sortedData)
 	}
-	sortedData = append(sortedData, bigData...)
 	return
 }
 
-func KeepFederationLifts(bigData []structs.Entry, federation string) (filteredData []structs.Entry) {
+func KeepFederationLifts(bigData []*structs.Lift, federation string) (filteredData []*structs.Lift) {
 	for _, lift := range bigData {
-		if lift.Federation == federation {
+		if lift.Event.Federation == federation {
 			filteredData = append(filteredData, lift)
 		}
 	}

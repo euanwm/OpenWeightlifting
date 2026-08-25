@@ -1,49 +1,18 @@
 package lifter
 
 import (
-	"backend/dbtools"
 	"backend/structs"
-	"backend/utilities"
 	"sort"
 	"strings"
 )
 
-// NameSearch takes a partial string and returns a slice of positions within the AllNames slice that could be a match
-func NameSearch(nameStr string, nameList *[]structs.Entry) (names []string) {
+// NameSearch is similar to NameSearch but will also return names with their federation
+func NameSearch(nameStr string, lifterRoster structs.LifterRoster) (nameResults structs.NameSearchResults) {
 	nameStr = strings.ToLower(nameStr)
-	for _, lift := range *nameList {
-		if strings.Contains(strings.ToLower(lift.Name), nameStr) && !utilities.SliceContains(lift.Name, names) {
-			names = append(names, lift.Name)
-		}
-	}
-	if len(names) == 0 {
-		names = append(names, "")
-	}
-	return
-}
+	nameResults = lifterRoster.Search(nameStr)
 
-// NewNameSearch is similar to NameSearch but will also return names with their federation
-func NewNameSearch(nameStr string, nameList *[]structs.Entry) (nameResults structs.NameSearchResults) {
-	nameStr = strings.ToLower(nameStr)
-	for _, lift := range *nameList {
-		if strings.Contains(strings.ToLower(lift.Name), nameStr) {
-			nameResults.Names = append(nameResults.Names, []structs.NameSearch{{NameStr: lift.Name, Federation: lift.Federation}}...)
-			nameResults.Total++
-		}
-	}
 	if len(nameResults.Names) == 0 {
 		nameResults.Names = append(nameResults.Names, structs.NameSearch{NameStr: "", Federation: ""})
-	}
-
-	// drop duplicates if the federation AND name match - it's messy but it works
-	for i := 0; i < len(nameResults.Names); i++ {
-		for j := i + 1; j < len(nameResults.Names); j++ {
-			if nameResults.Names[i].NameStr == nameResults.Names[j].NameStr && nameResults.Names[i].Federation == nameResults.Names[j].Federation {
-				nameResults.Names = append(nameResults.Names[:j], nameResults.Names[j+1:]...)
-				j--
-				nameResults.Total--
-			}
-		}
 	}
 
 	return
@@ -54,11 +23,13 @@ func NewNameSearch(nameStr string, nameList *[]structs.Entry) (nameResults struc
 // combined with token-level Jaro-Winkler (typo tolerance and partial matches like Chris/Christopher)
 // and Soundex phonetic boosting for varied spellings of the same sound.
 // Results are sorted by descending score.
-func SimilarNames(nameDetails structs.NameSearch, nameList *[]structs.Entry) (similarNames structs.NameSimilarityResults) {
+func SimilarNames(nameDetails structs.NameSearch, lifterRoster *structs.LifterRoster) (similarNames structs.NameSimilarityResults) {
 	seen := make(map[string]bool)
 
-	for _, entry := range *nameList {
-		key := entry.Name + "|" + entry.Federation
+	for _, entry := range lifterRoster.Lifters {
+		// todo: gender is part of the Add() function for the LifterRoster struct
+		// so we should probably run through that index map instead of this
+		key := entry.Name + "|" + entry.PrimaryFederation
 		if seen[key] {
 			continue
 		}
@@ -68,7 +39,7 @@ func SimilarNames(nameDetails structs.NameSearch, nameList *[]structs.Entry) (si
 		if score >= similarityThreshold {
 			similarNames.Names = append(similarNames.Names, structs.NameSimilarity{
 				NameStr:    entry.Name,
-				Federation: entry.Federation,
+				Federation: entry.PrimaryFederation,
 				Score:      float32(score),
 			})
 			similarNames.Total++
@@ -82,61 +53,43 @@ func SimilarNames(nameDetails structs.NameSearch, nameList *[]structs.Entry) (si
 	return
 }
 
-func Rivals(nameStr string, sex string, fed string, year int, bigData []structs.Entry) (rivalResults structs.RivalsResult) {
+// Rivals expects bigData to already be filtered (gender, federation, year) and
+// deduped to one entry per lifter, ranked descending by total - the shape
+// dbtools.FilterLifts's cache already produces. It just windows around nameStr.
+func Rivals(nameStr string, bigData []*structs.Lift) (rivalResults structs.RivalsResult) {
 	const WINDOW_SIZE = 3
 
-	var names []string
-	var liftPtr *structs.Entry
-	var liftPos []int
-	var targetIndex = -1
+	rivalResults.Total = len(bigData)
 
-	// First pass: collect first occurrence of each lifter (best performance since data is pre-sorted)
-	seenNames := make(map[string]bool)
-
+	targetIndex := -1
 	for idx, lift := range bigData {
-		liftPtr = &bigData[idx]
-		if dbtools.GetGender(liftPtr) == sex && lift.WithinYear(year) && lift.SelectedFederation(fed) {
-			if !seenNames[lift.Name] {
-				seenNames[lift.Name] = true
-				names = append(names, lift.Name)
-				liftPos = append(liftPos, idx)
-				if lift.Name == nameStr {
-					targetIndex = len(names) - 1
-				}
-				rivalResults.Total++
-			}
+		if lift.Lifter.Name == nameStr {
+			targetIndex = idx
+			break
 		}
 	}
 
-	// If target found, create window of rivals
-	if targetIndex != -1 {
-		start := targetIndex - WINDOW_SIZE
-		if start < 0 {
-			start = 0
-		}
-		end := targetIndex + WINDOW_SIZE + 1
-		if end > len(liftPos) {
-			end = len(liftPos)
-		}
+	if targetIndex == -1 {
+		return
+	}
 
-		// Add rivals in the window
-		for i := start; i < end; i++ {
-			originalIdx := liftPos[i]
-			rival := bigData[originalIdx]
-			rivalResults.Rivals = append(rivalResults.Rivals, struct {
-				Position   int
-				Total      structs.WeightKg
-				Gender     string
-				Name       string
-				Federation string
-			}{
-				Position:   i + 1,
-				Total:      rival.Total,
-				Gender:     rival.Gender,
-				Name:       rival.Name,
-				Federation: rival.Federation,
-			})
-		}
+	start := targetIndex - WINDOW_SIZE
+	if start < 0 {
+		start = 0
+	}
+	end := targetIndex + WINDOW_SIZE + 1
+	if end > len(bigData) {
+		end = len(bigData)
+	}
+
+	for i := start; i < end; i++ {
+		rival := bigData[i]
+		rivalResults.Rivals = append(rivalResults.Rivals, structs.Rival{
+			Position:   i + 1,
+			Total:      rival.Total,
+			Lifter:     rival.Lifter.Name,
+			Federation: rival.Event.Federation,
+		})
 	}
 
 	return
@@ -146,7 +99,7 @@ func Rivals(nameStr string, sex string, fed string, year int, bigData []structs.
 func FetchLifts(name structs.NameSearch, leaderboard *structs.LeaderboardData) (lifterData structs.LifterHistory) {
 	lifterData.NameStr = name.NameStr
 	for _, lift := range leaderboard.AllTotals {
-		if lift.Name == name.NameStr {
+		if lift.Lifter.Name == name.NameStr {
 			lifterData.Lifts = append(lifterData.Lifts, lift)
 		}
 	}
