@@ -115,7 +115,7 @@ type LifterRoster struct {
 type Lifter struct {
 	Gender            string  `json:"gender"`
 	Name              string  `json:"name"`
-	currentAge        uint8   // todo: implement age calculation & linking
+	currentAge        uint8   //nolint:unused // todo: implement age calculation & linking
 	PrimaryFederation string  `json:"federation"`
 	Lifts             []*Lift `json:"-"` // back-reference; would cycle through Lift.Lifter
 }
@@ -127,7 +127,7 @@ type AllLifts struct {
 type Lift struct {
 	Event      *Event   `json:"event"` // parent; already the context when nested under Event.Results/EventResponse
 	Lifter     *Lifter  `json:"lifter"`
-	ageOnDay   uint8    // todo: implement age calculation & linking
+	ageOnDay   uint8    //nolint:unused // todo: implement age calculation & linking
 	Category   string   `json:"category"`
 	Bodyweight WeightKg `json:"bodyweight"`
 	Sn1        WeightKg `json:"snatch_1"`

@@ -342,10 +342,15 @@ func Rival(c *gin.Context) {
 	leaderboardData := LeaderboardData.Select(enum.Total)
 
 	var catStr string
-	if sexStr == enum.Male {
+
+	switch sexStr {
+	case enum.Male:
 		catStr = "MALL"
-	} else if sexStr == enum.Female {
+	case enum.Female:
 		catStr = "FALL"
+	default:
+		log.Println("rivals:invalid sex:", sexStr)
+		catStr = ""
 	}
 
 	query := structs.LeaderboardPayload{
