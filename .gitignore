@@ -11,5 +11,4 @@
 frontend/autobuild/
 
 # Backend stuff to Ignore
-/backend/event_data/
 /backend/.DS_Store
