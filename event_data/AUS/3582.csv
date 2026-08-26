@@ -1,0 +1,23 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+WACT Open Competition,2026-08-08,female - F61,Elleny Zontanos,60.45,21,-23,25,30,33,-35,25,33,58
+WACT Open Competition,2026-08-08,female - F69,Tayah Boyd,68.50,70,-74,-76,87,-91,-93,70,87,157
+WACT Open Competition,2026-08-08,female - F69,Dani Simeoni,62.55,45,48,-51,57,60,62,48,62,110
+WACT Open Competition,2026-08-08,female - F77,Frida Ferraro,73.95,48,52,55,57,62,65,55,65,120
+WACT Open Competition,2026-08-08,female - F77,Annie Viccars,76.15,45,50,53,53,58,63,53,63,116
+WACT Open Competition,2026-08-08,female - F86,Jessica Berry,79.10,64,67,-69,84,-88,88,67,88,155
+WACT Open Competition,2026-08-08,female - F86,Claire Gray,79.55,35,42,47,50,55,60,47,60,107
+WACT Open Competition,2026-08-08,female - F86,Joanne Morriss,80.75,-27,27,29,40,-42,42,29,42,71
+WACT Open Competition,2026-08-08,female - F86+,Ashleigh Maliukaetau,124.75,65,68,72,95,99,103,72,103,175
+WACT Open Competition,2026-08-08,female - F86+,Vahri Fotheringham,91.50,37,41,-45,57,60,63,41,63,104
+WACT Open Competition,2026-08-08,female - F86+,Daria Lawson,90.40,32,37,42,47,52,57,42,57,99
+WACT Open Competition,2026-08-08,male - M65,Tom Mclaren,64.35,26,28,30,28,30,-32,30,30,60
+WACT Open Competition,2026-08-08,male - M75,Jacob Kael,74.85,100,-103,-104,129,-136,-136,100,129,229
+WACT Open Competition,2026-08-08,male - M75,Wes Cassidy,74.45,73,78,-82,-95,95,100,78,100,178
+WACT Open Competition,2026-08-08,male - M85,Bill Porter,78.75,99,104,107,-125,130,-136,107,130,237
+WACT Open Competition,2026-08-08,male - M95,Tiago Hallen,85.05,115,118,121,140,146,151,121,151,272
+WACT Open Competition,2026-08-08,male - M95,Gaius Frezza,90.25,109,113,117,140,145,150,117,150,267
+WACT Open Competition,2026-08-08,male - M95,Jacob Osborne,93.30,93,97,101,119,123,-128,101,123,224
+WACT Open Competition,2026-08-08,male - M95,Peter Howard,93.75,75,80,86,-107,107,-111,86,107,193
+WACT Open Competition,2026-08-08,male - M110,Nicolas Warren,97.05,-105,105,-110,120,125,130,105,130,235
+WACT Open Competition,2026-08-08,male - M110,Thomas Drake,109.30,-92,92,-97,112,-117,117,92,117,209
+WACT Open Competition,2026-08-08,male - M110,David Thompson,100.00,60,65,-70,-90,-90,-90,65,0,0
