@@ -8,7 +8,7 @@ import (
 )
 
 func BenchmarkBuildDatabase(b *testing.B) {
-	for i := 0; i < b.N; i++ {
+	for i := 0; b.Loop(); i++ {
 		dbBuild := structs.LeaderboardData{}
 		var eventsData structs.EventsData
 		var roster structs.LifterRoster
@@ -61,9 +61,9 @@ func TestFilter(t *testing.T) {
 			name: "FilterByFederation",
 			args: args{
 				bigData: []*structs.Lift{
-					{Event: &structs.Event{Date: "2023-06-01", Federation: "UK"}, Lifter: &structs.Lifter{Name: "John Smith", Gender: enum.Male}, Total: structs.NewWeightKg(100), Bodyweight: structs.NewWeightKg(109.00)},
-					{Event: &structs.Event{Date: "2023-06-01", Federation: "UK"}, Lifter: &structs.Lifter{Name: "Dave Smith", Gender: enum.Male}, Total: structs.NewWeightKg(200), Bodyweight: structs.NewWeightKg(109.00)},
-					{Event: &structs.Event{Date: "2023-06-01", Federation: "UK"}, Lifter: &structs.Lifter{Name: "Ethan Smith", Gender: enum.Male}, Total: structs.NewWeightKg(300), Bodyweight: structs.NewWeightKg(109.00)},
+					{Event: &structs.Event{Date: "2023-06-01", Federation: "UK"}, Lifter: &structs.Lifter{Name: "John Smith", Gender: enum.Male}, Total: structs.NewFixedFloat(100), Bodyweight: structs.NewFixedFloat(109.00)},
+					{Event: &structs.Event{Date: "2023-06-01", Federation: "UK"}, Lifter: &structs.Lifter{Name: "Dave Smith", Gender: enum.Male}, Total: structs.NewFixedFloat(200), Bodyweight: structs.NewFixedFloat(109.00)},
+					{Event: &structs.Event{Date: "2023-06-01", Federation: "UK"}, Lifter: &structs.Lifter{Name: "Ethan Smith", Gender: enum.Male}, Total: structs.NewFixedFloat(300), Bodyweight: structs.NewFixedFloat(109.00)},
 				},
 				filterQuery: structs.LeaderboardPayload{
 					Start:       0,
@@ -80,9 +80,9 @@ func TestFilter(t *testing.T) {
 			wantFilteredData: structs.LeaderboardResponse{
 				Size: 3,
 				Data: []*structs.Lift{
-					{Event: &structs.Event{Date: "2023-06-01", Federation: "UK"}, Lifter: &structs.Lifter{Name: "John Smith", Gender: enum.Male}, Total: structs.NewWeightKg(100), Bodyweight: structs.NewWeightKg(109.00)},
-					{Event: &structs.Event{Date: "2023-06-01", Federation: "UK"}, Lifter: &structs.Lifter{Name: "Dave Smith", Gender: enum.Male}, Total: structs.NewWeightKg(200), Bodyweight: structs.NewWeightKg(109.00)},
-					{Event: &structs.Event{Date: "2023-06-01", Federation: "UK"}, Lifter: &structs.Lifter{Name: "Ethan Smith", Gender: enum.Male}, Total: structs.NewWeightKg(300), Bodyweight: structs.NewWeightKg(109.00)},
+					{Event: &structs.Event{Date: "2023-06-01", Federation: "UK"}, Lifter: &structs.Lifter{Name: "John Smith", Gender: enum.Male}, Total: structs.NewFixedFloat(100), Bodyweight: structs.NewFixedFloat(109.00)},
+					{Event: &structs.Event{Date: "2023-06-01", Federation: "UK"}, Lifter: &structs.Lifter{Name: "Dave Smith", Gender: enum.Male}, Total: structs.NewFixedFloat(200), Bodyweight: structs.NewFixedFloat(109.00)},
+					{Event: &structs.Event{Date: "2023-06-01", Federation: "UK"}, Lifter: &structs.Lifter{Name: "Ethan Smith", Gender: enum.Male}, Total: structs.NewFixedFloat(300), Bodyweight: structs.NewFixedFloat(109.00)},
 				},
 			},
 		},
@@ -131,8 +131,8 @@ func TestSortLiftsBy(t *testing.T) {
 		args          args
 		wantFinalData []*structs.Lift
 	}{
-		{name: "SortBySinclair", args: args{bigData: []*structs.Lift{{Sinclair: 300}, {Sinclair: 100}, {Sinclair: 200}}, sortBy: enum.Sinclair}, wantFinalData: []*structs.Lift{{Sinclair: 300}, {Sinclair: 200}, {Sinclair: 100}}},
-		{name: "SortByTotal", args: args{bigData: []*structs.Lift{{Total: structs.NewWeightKg(300)}, {Total: structs.NewWeightKg(100)}, {Total: structs.NewWeightKg(200)}}, sortBy: enum.Total}, wantFinalData: []*structs.Lift{{Total: structs.NewWeightKg(300)}, {Total: structs.NewWeightKg(200)}, {Total: structs.NewWeightKg(100)}}},
+		{name: "SortBySinclair", args: args{bigData: []*structs.Lift{{Sinclair: structs.NewFixedFloat(300)}, {Sinclair: structs.NewFixedFloat(100)}, {Sinclair: structs.NewFixedFloat(200)}}, sortBy: enum.Sinclair}, wantFinalData: []*structs.Lift{{Sinclair: structs.NewFixedFloat(300)}, {Sinclair: structs.NewFixedFloat(200)}, {Sinclair: structs.NewFixedFloat(100)}}},
+		{name: "SortByTotal", args: args{bigData: []*structs.Lift{{Total: structs.NewFixedFloat(300)}, {Total: structs.NewFixedFloat(100)}, {Total: structs.NewFixedFloat(200)}}, sortBy: enum.Total}, wantFinalData: []*structs.Lift{{Total: structs.NewFixedFloat(300)}, {Total: structs.NewFixedFloat(200)}, {Total: structs.NewFixedFloat(100)}}},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
@@ -152,7 +152,7 @@ func TestSortSinclair(t *testing.T) {
 		name string
 		args args
 	}{
-		{name: "NormalSort", args: args{sliceStructs: []*structs.Lift{{Sinclair: 300}, {Sinclair: 100}, {Sinclair: 200}}, wantedSlice: []*structs.Lift{{Sinclair: 100}, {Sinclair: 200}, {Sinclair: 300}}}},
+		{name: "NormalSort", args: args{sliceStructs: []*structs.Lift{{Sinclair: structs.NewFixedFloat(300)}, {Sinclair: structs.NewFixedFloat(100)}, {Sinclair: structs.NewFixedFloat(200)}}, wantedSlice: []*structs.Lift{{Sinclair: structs.NewFixedFloat(100)}, {Sinclair: structs.NewFixedFloat(200)}, {Sinclair: structs.NewFixedFloat(300)}}}},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
@@ -171,13 +171,13 @@ func TestSortTotal(t *testing.T) {
 		args args
 	}{
 		{name: "NormalSort", args: args{sliceStructs: []*structs.Lift{
-			{Total: structs.NewWeightKg(300)},
-			{Total: structs.NewWeightKg(100)},
-			{Total: structs.NewWeightKg(200)},
+			{Total: structs.NewFixedFloat(300)},
+			{Total: structs.NewFixedFloat(100)},
+			{Total: structs.NewFixedFloat(200)},
 		}, wantedSlice: []*structs.Lift{
-			{Total: structs.NewWeightKg(100)},
-			{Total: structs.NewWeightKg(200)},
-			{Total: structs.NewWeightKg(300)},
+			{Total: structs.NewFixedFloat(100)},
+			{Total: structs.NewFixedFloat(200)},
+			{Total: structs.NewFixedFloat(300)},
 		}}},
 	}
 	for _, tt := range tests {

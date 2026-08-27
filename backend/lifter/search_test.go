@@ -9,13 +9,13 @@ import (
 // todo: add more details to allow more strict testing
 var sampleLeaderboardData = &structs.LeaderboardData{
 	AllTotals: []*structs.Lift{
-		{Lifter: &structs.Lifter{Name: "John Smith"}, Event: &structs.Event{}, Total: structs.NewWeightKg(123)},
-		{Lifter: &structs.Lifter{Name: "john smith"}, Event: &structs.Event{}, Total: structs.NewWeightKg(234)},
-		{Lifter: &structs.Lifter{Name: "John smoth"}, Event: &structs.Event{}, Total: structs.NewWeightKg(345)},
-		{Lifter: &structs.Lifter{Name: "Joanne Smith"}, Event: &structs.Event{}, Total: structs.NewWeightKg(123)},
-		{Lifter: &structs.Lifter{Name: "joanne smith"}, Event: &structs.Event{}, Total: structs.NewWeightKg(234)},
-		{Lifter: &structs.Lifter{Name: "joanne smith"}, Event: &structs.Event{}, Total: structs.NewWeightKg(235)},
-		{Lifter: &structs.Lifter{Name: "joanne Smoth"}, Event: &structs.Event{}, Total: structs.NewWeightKg(345)},
+		{Lifter: &structs.Lifter{Name: "John Smith"}, Event: &structs.Event{}, Total: structs.NewFixedFloat(123)},
+		{Lifter: &structs.Lifter{Name: "john smith"}, Event: &structs.Event{}, Total: structs.NewFixedFloat(234)},
+		{Lifter: &structs.Lifter{Name: "John smoth"}, Event: &structs.Event{}, Total: structs.NewFixedFloat(345)},
+		{Lifter: &structs.Lifter{Name: "Joanne Smith"}, Event: &structs.Event{}, Total: structs.NewFixedFloat(123)},
+		{Lifter: &structs.Lifter{Name: "joanne smith"}, Event: &structs.Event{}, Total: structs.NewFixedFloat(234)},
+		{Lifter: &structs.Lifter{Name: "joanne smith"}, Event: &structs.Event{}, Total: structs.NewFixedFloat(235)},
+		{Lifter: &structs.Lifter{Name: "joanne Smoth"}, Event: &structs.Event{}, Total: structs.NewFixedFloat(345)},
 	},
 }
 

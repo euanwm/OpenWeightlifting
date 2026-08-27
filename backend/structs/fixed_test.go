@@ -11,8 +11,8 @@ type newCase struct {
 	expected int32   // The expected internal representation after conversion.
 }
 
-// Tests that WeightKgNew properly converts float64 input values.
-func TestWeightKg_New(t *testing.T) {
+// Tests that FixedFloatNew properly converts float64 input values.
+func TestFixedFloat_New(t *testing.T) {
 	cases := []newCase{
 		// Sanity checking.
 		{input: 0.0, expected: 0},
@@ -32,7 +32,7 @@ func TestWeightKg_New(t *testing.T) {
 		{input: math.Inf(-1), expected: 0},
 	}
 	for _, c := range cases {
-		result := NewWeightKg(c.input).value
+		result := NewFixedFloat(c.input).value
 		if result != c.expected {
 			t.Errorf("expected %d, got %d with input %f", c.expected, result, c.input)
 		}
@@ -40,12 +40,12 @@ func TestWeightKg_New(t *testing.T) {
 }
 
 type stringCase struct {
-	input    int32  // The internal representation held in WeightKg.value.
-	expected string // The expected output of WeightKg.String().
+	input    int32  // The internal representation held in FixedFloat.value.
+	expected string // The expected output of FixedFloat.String().
 }
 
-// Tests that WeightKg.String formats strings according to spec.
-func TestWeightKg_String(t *testing.T) {
+// Tests that FixedFloat.String formats strings according to spec.
+func TestFixedFloat_String(t *testing.T) {
 	cases := []stringCase{
 		{input: 0, expected: "0"},
 
@@ -64,7 +64,7 @@ func TestWeightKg_String(t *testing.T) {
 		{input: -12005, expected: "-120.05"},
 	}
 	for _, c := range cases {
-		kg := WeightKg{c.input}
+		kg := FixedFloat{c.input}
 		result := kg.String()
 		if result != c.expected {
 			t.Errorf("expected %s, got %s with input %d", c.expected, result, c.input)
@@ -73,17 +73,17 @@ func TestWeightKg_String(t *testing.T) {
 }
 
 type jsonTest struct {
-	MyKg WeightKg `json:"mykg"`
+	MyKg FixedFloat `json:"mykg"`
 }
 
-// Tests that WeightKg behaves like a float64 when serialized/deserialized to/from JSON.
-func TestWeightKg_Json(t *testing.T) {
-	data := jsonTest{NewWeightKg(123.45)}
+// Tests that FixedFloat behaves like a float64 when serialized/deserialized to/from JSON.
+func TestFixedFloat_Json(t *testing.T) {
+	data := jsonTest{NewFixedFloat(123.45)}
 
 	// Serialize to JSON. It should serialize as a float64.
 	jsonData, err := json.Marshal(&data)
 	if err != nil {
-		t.Fatalf("Failed marshaling WeightKg to JSON: %v", err)
+		t.Fatalf("Failed marshaling FixedFloat to JSON: %v", err)
 	}
 
 	expected := `{"mykg":123.45}`
@@ -95,7 +95,7 @@ func TestWeightKg_Json(t *testing.T) {
 	var parsed jsonTest
 	err = json.Unmarshal(jsonData, &parsed)
 	if err != nil {
-		t.Fatalf("Failed unmarshaling WeightKg from JSON: %v", err)
+		t.Fatalf("Failed unmarshaling FixedFloat from JSON: %v", err)
 	}
 
 	if data != parsed {

@@ -112,17 +112,17 @@ func createSingleEvent(federation, filename string, eventsData *structs.EventsDa
 	liftPtrSlice := make([]*structs.Lift, 0, len(eventData))
 	for _, row := range eventData {
 		lift := &structs.Lift{
-			Bodyweight: structs.NewWeightKgFromString(row[4]),
-			Sn1:        structs.NewWeightKgFromString(row[5]),
-			Sn2:        structs.NewWeightKgFromString(row[6]),
-			Sn3:        structs.NewWeightKgFromString(row[7]),
-			CJ1:        structs.NewWeightKgFromString(row[8]),
-			CJ2:        structs.NewWeightKgFromString(row[9]),
-			CJ3:        structs.NewWeightKgFromString(row[10]),
-			BestSn:     structs.NewWeightKgFromString(row[11]),
-			BestCJ:     structs.NewWeightKgFromString(row[12]),
-			Total:      structs.NewWeightKgFromString(row[13]),
-			Sinclair:   0.0,
+			Bodyweight: structs.NewFixedFloatFromString(row[4]),
+			Sn1:        structs.NewFixedFloatFromString(row[5]),
+			Sn2:        structs.NewFixedFloatFromString(row[6]),
+			Sn3:        structs.NewFixedFloatFromString(row[7]),
+			CJ1:        structs.NewFixedFloatFromString(row[8]),
+			CJ2:        structs.NewFixedFloatFromString(row[9]),
+			CJ3:        structs.NewFixedFloatFromString(row[10]),
+			BestSn:     structs.NewFixedFloatFromString(row[11]),
+			BestCJ:     structs.NewFixedFloatFromString(row[12]),
+			Total:      structs.NewFixedFloatFromString(row[13]),
+			Sinclair:   structs.NewFixedFloatFromInt32(0),
 			Category:   row[2],
 			Event:      event,
 		}
