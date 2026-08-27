@@ -1,0 +1,168 @@
+event,date,category,lifter_name,bodyweight,snatch_1,snatch_2,snatch_3,cj_1,cj_2,cj_3,best_snatch,best_cj,total
+XXIII Commonwealth Games,2026-07-23,60 kg Men,CHANAMBAM Rishikanta Singh,59.75,116,119,121,143,-148,-151,121,143,264
+XXIII Commonwealth Games,2026-07-23,60 kg Men,MOHAMAD ANIQ Bin Kasdan,59.75,116,119,121,145,149,152,121,152,273
+XXIII Commonwealth Games,2026-07-23,60 kg Men,MBOYA Joshua Amunga,59.15,108,110,115,136,140,145,115,145,260
+XXIII Commonwealth Games,2026-07-23,60 kg Men,WIRIDUWALAGE-KA Supun Dilhara Somathilaka Sinhala,59.55,-105,105,109,135,-144,-152,109,135,244
+XXIII Commonwealth Games,2026-07-23,60 kg Men,LANOUE Antonin,58.85,101,-105,-105,-132,132,-137,101,132,233
+XXIII Commonwealth Games,2026-07-23,60 kg Men,ZAIDI Hafiz Bin,59.35,100,-103,-105,110,117,-125,100,117,217
+XXIII Commonwealth Games,2026-07-23,60 kg Men,BARU Kevau,59.95,90,95,98,121,-126,127,98,127,225
+XXIII Commonwealth Games,2026-07-23,60 kg Men,STILES Kieran,59.65,95,-98,-98,118,123,126,95,126,221
+XXIII Commonwealth Games,2026-07-23,60 kg Men,NIYOYITA Davis,58.45,-105,-105,105,-135,-135,-135,105,0,0
+XXIII Commonwealth Games,2026-07-23,60 kg Men,ADAM Johannes,59.95,-100,-100,100,-130,0,0,100,0,0
+XXIII Commonwealth Games,2026-07-23,60 kg Men,TAKENTEITI Reinataake,59.55,85,-90,-90,0,0,0,85,0,0
+XXIII Commonwealth Games,2026-07-23,65 kg Men,MUHAMAD Aznil Bin Bidin,64.95,130,133,-135,162,166,-170,133,166,299
+XXIII Commonwealth Games,2026-07-23,65 kg Men,MUTHUPANDI Raja,64.85,-126,126,-129,-158,160,-170,126,160,286
+XXIII Commonwealth Games,2026-07-23,65 kg Men,BARU Morea,64.75,120,-124,125,157,-162,-162,125,157,282
+XXIII Commonwealth Games,2026-07-23,65 kg Men,A KRUNARATHNA C Sandu Duthshan Jayawardhana,64.65,120,124,-127,151,-156,-159,124,151,275
+XXIII Commonwealth Games,2026-07-23,65 kg Men,AGBORO Favour Omovigho,64.85,-122,122,-126,153,157,-160,122,157,279
+XXIII Commonwealth Games,2026-07-23,65 kg Men,BIN HAJI ABU BAKAR Mohammad Nashrul,64.75,-110,110,-115,140,143,-146,110,143,253
+XXIII Commonwealth Games,2026-07-23,65 kg Men,TAFI Felevaa,63.95,-108,108,-111,130,-135,-135,108,130,238
+XXIII Commonwealth Games,2026-07-23,65 kg Men,ERATI Kaimauri,64.65,90,95,100,-115,115,-121,100,115,215
+XXIII Commonwealth Games,2026-07-23,65 kg Men,WAKANIBUA Apakuki Tabuwaiwai,63.15,86,91,95,110,-120,120,95,120,215
+XXIII Commonwealth Games,2026-07-23,65 kg Men,SNYMAN Zach,64.75,-105,105,-110,0,0,0,105,0,0
+XXIII Commonwealth Games,2026-07-23,65 kg Men,MINASIDIS Dimitris,64.85,0,0,0,0,0,0,0,0,0
+XXIII Commonwealth Games,2026-07-23,71 kg Men,UMOAFIA Edidiong Joseph,69.95,145,147,-150,168,172,-175,147,172,319
+XXIII Commonwealth Games,2026-07-23,71 kg Men,TAFI John Lautafi,70.35,138,142,-146,172,-178,-178,142,172,314
+XXIII Commonwealth Games,2026-07-23,71 kg Men,MOSES Ezekiel,70.85,135,138,140,163,170,-175,140,170,310
+XXIII Commonwealth Games,2026-07-23,71 kg Men,DARSIGNY Matt Joseph Alec,70.65,125,-130,130,155,-160,-160,130,155,285
+XXIII Commonwealth Games,2026-07-23,71 kg Men,CHIN Jonathan Andrew Keir,70.25,126,129,-133,165,170,-175,129,170,299
+XXIII Commonwealth Games,2026-07-23,71 kg Men,MCGROGAN Harrison,70.45,128,-133,-133,160,-167,-172,128,160,288
+XXIII Commonwealth Games,2026-07-23,71 kg Men,BOATENG Emmanuel Amo,69.75,120,124,127,150,-155,155,127,155,282
+XXIII Commonwealth Games,2026-07-23,71 kg Men,LOY Kester Yi Liang,70.35,115,120,-123,145,-150,-150,120,145,265
+XXIII Commonwealth Games,2026-07-23,71 kg Men,DUNCAN Corey,70.65,-130,-130,-130,0,0,0,0,0,0
+XXIII Commonwealth Games,2026-07-23,71 kg Men,DISSANAYAKE MUDIYANSELAGE Indika C D,70.85,-130,-130,-133,0,0,0,0,0,0
+XXIII Commonwealth Games,2026-07-23,79 kg Men,BABU Valluri Ajaya,78.65,145,-149,149,174,178,181,149,181,330
+XXIII Commonwealth Games,2026-07-23,79 kg Men,MURRAY Chris,78.75,141,145,148,169,-174,177,148,177,325
+XXIII Commonwealth Games,2026-07-23,79 kg Men,MUHAMMAD Erry Hidayat,78.25,-147,-147,147,177,181,184,147,184,331
+XXIII Commonwealth Games,2026-07-23,79 kg Men,DARSIGNY Shad,78.55,-140,140,-145,-167,167,175,140,175,315
+XXIII Commonwealth Games,2026-07-23,79 kg Men,LOH Yuan Yee,78.65,-136,136,-140,-167,167,-172,136,167,303
+XXIII Commonwealth Games,2026-07-23,79 kg Men,SCOTT Rory,78.65,130,135,-140,165,-170,-170,135,165,300
+XXIII Commonwealth Games,2026-07-23,79 kg Men,MOLLO Marco,78.65,129,133,-137,165,-170,-170,133,165,298
+XXIII Commonwealth Games,2026-07-23,79 kg Men,WILSON Iain,77.85,-120,120,125,150,-155,156,125,156,281
+XXIII Commonwealth Games,2026-07-23,79 kg Men,OPADEJI Adedapo Adeleke,75.95,-135,135,-140,0,0,0,135,0,0
+XXIII Commonwealth Games,2026-07-23,79 kg Men,KATOATAU Ruben,78.85,122,129,-134,-165,-165,-165,129,0,0
+XXIII Commonwealth Games,2026-07-23,79 kg Men,PHILLIPS Jon Antohein,78.55,119,-124,-124,-166,-167,-167,119,0,0
+XXIII Commonwealth Games,2026-07-23,88 kg Men,MUHAMMAD Hafizuddin Bin Roslin,87.95,-160,160,162,180,183,-185,162,183,345
+XXIII Commonwealth Games,2026-07-23,88 kg Men,MCTAGGART Cameron David,85.45,150,154,-157,180,184,-192,154,184,338
+XXIII Commonwealth Games,2026-07-23,88 kg Men,RUSS Christopher,87.75,139,-142,-143,165,169,-173,139,169,308
+XXIII Commonwealth Games,2026-07-23,88 kg Men,EWING Ryven,86.65,-132,132,136,-170,170,-175,136,170,306
+XXIII Commonwealth Games,2026-07-23,88 kg Men,DOIG Angus,87.15,135,-140,-142,165,170,174,135,174,309
+XXIII Commonwealth Games,2026-07-23,88 kg Men,PANDOO Dinesh Jevin,87.15,-130,130,133,171,-175,-177,133,171,304
+XXIII Commonwealth Games,2026-07-23,88 kg Men,LIM Kang Yin,87.45,130,-136,-142,165,-172,-172,130,165,295
+XXIII Commonwealth Games,2026-07-23,88 kg Men,COOK Marcincy,86.45,-125,125,130,155,160,-165,130,160,290
+XXIII Commonwealth Games,2026-07-23,88 kg Men,BORG Rylee,87.55,125,129,-132,-166,166,-171,129,166,295
+XXIII Commonwealth Games,2026-07-23,88 kg Men,SWART William James,87.65,-148,148,-153,-181,-182,-183,148,0,0
+XXIII Commonwealth Games,2026-07-23,88 kg Men,KENNEDY Braydon James,87.65,155,-160,161,-182,-182,-182,161,0,0
+XXIII Commonwealth Games,2026-07-23,94 kg Men,BELLEMARRE Alex,93.25,155,159,-162,187,-192,-192,159,187,346
+XXIII Commonwealth Games,2026-07-23,94 kg Men,SAXTON Oliver Riley,93.45,150,156,-160,-180,180,-191,156,180,336
+XXIII Commonwealth Games,2026-07-23,94 kg Men,NOR-GHAZALI Mohamad Syahmi Bin,92.75,-150,150,-153,197,-205,-205,150,197,347
+XXIII Commonwealth Games,2026-07-23,94 kg Men,OSEI Forrester Christopher,93.35,145,148,-153,180,-185,-185,148,180,328
+XXIII Commonwealth Games,2026-07-23,94 kg Men,ONANA TANGA Daniel,91.35,140,-147,147,-180,180,187,147,187,334
+XXIII Commonwealth Games,2026-07-23,94 kg Men,PALOTA ULIMASAO Emmanuel Shalom,93.15,140,144,-148,-175,175,180,144,180,324
+XXIII Commonwealth Games,2026-07-23,94 kg Men,GRIFFITH Daniel Christopher,92.25,118,124,131,158,165,-171,131,165,296
+XXIII Commonwealth Games,2026-07-23,94 kg Men,DU PLOOY Nicolaas Jacobus,92.95,-132,-132,-132,0,0,0,0,0,0
+XXIII Commonwealth Games,2026-07-23,94 kg Men,HUTTON Josh,93.45,149,-153,153,-173,0,0,153,0,0
+XXIII Commonwealth Games,2026-07-23,94 kg Men,WRIGHT Tom,92.35,140,144,-146,-166,-166,-166,144,0,0
+XXIII Commonwealth Games,2026-07-23,110 kg Men,RAINIBOGI Taniela Tuisuva,109.15,165,-170,170,-203,203,208,170,208,378
+XXIII Commonwealth Games,2026-07-23,110 kg Men,TCHATCHET II Cyrille Fagat,109.55,158,162,166,198,204,208,166,208,374
+XXIII Commonwealth Games,2026-07-23,110 kg Men,LUSIGNAN Xavier Martin Alexandre,105.05,159,-163,-165,197,-206,-209,159,197,356
+XXIII Commonwealth Games,2026-07-23,110 kg Men,BURNS Drew,98.15,140,143,146,168,173,-176,146,173,319
+XXIII Commonwealth Games,2026-07-23,110 kg Men,UIKILIFI JR Joshua Makafana,106.95,141,-146,146,175,180,185,146,185,331
+XXIII Commonwealth Games,2026-07-23,110 kg Men,ADJEI Abdul Salim Adjetey,98.85,-133,-133,133,-160,160,165,133,165,298
+XXIII Commonwealth Games,2026-07-23,110 kg Men,DODDS Oliver,103.25,-115,115,120,-140,140,-145,120,140,260
+XXIII Commonwealth Games,2026-07-23,110 kg Men,BARREDO Ridge Nathan Richard,109.65,-155,155,-162,-190,-190,-190,155,0,0
+XXIII Commonwealth Games,2026-07-23,110 kg Men,NGADJA NYABEYEU Junior Periclex,107.35,-156,-156,-156,0,0,0,0,0,0
+XXIII Commonwealth Games,2026-07-23,110 kg Men,WILBUR Thomas,109.65,-150,-150,-150,0,0,0,0,0,0
+XXIII Commonwealth Games,2026-07-23,110 kg Men,HITILA OPELOGE Jack,107.45,-159,159,-165,-210,-210,-210,159,0,0
+XXIII Commonwealth Games,2026-07-23,+110 kg Men,LOVEPREET Singh,129.15,168,173,176,205,212,-217,176,212,388
+XXIII Commonwealth Games,2026-07-23,+110 kg Men,LITI David Andrew,176.85,156,166,-176,207,223,0,166,223,389
+XXIII Commonwealth Games,2026-07-23,+110 kg Men,GRIFFITHS Andy,127.65,160,165,-170,186,191,-196,165,191,356
+XXIII Commonwealth Games,2026-07-23,+110 kg Men,MANUMUA Sikoti Jr,144.65,140,145,-150,-175,177,185,145,185,330
+XXIII Commonwealth Games,2026-07-23,+110 kg Men,WALES James William,115.25,140,145,-150,-190,-191,191,145,191,336
+XXIII Commonwealth Games,2026-07-23,+110 kg Men,KESHTA Omar,114.35,137,142,-145,177,-183,-183,142,177,319
+XXIII Commonwealth Games,2026-07-23,+110 kg Men,KAMARUL Muhammad Farris Haikal Bin,115.65,-140,-140,142,180,-186,0,142,180,322
+XXIII Commonwealth Games,2026-07-23,+110 kg Men,REEDERS Christoffel Frederik,110.25,135,140,-145,163,-168,-170,140,163,303
+XXIII Commonwealth Games,2026-07-23,+110 kg Men,MAO Sanele,144.65,-175,-175,-175,0,0,0,0,0,0
+XXIII Commonwealth Games,2026-07-23,48 kg Women,MIRABAI Chanu Saikhom,47.95,-82,82,85,-105,105,0,85,105,190
+XXIII Commonwealth Games,2026-07-23,48 kg Women,HENRY Irene Jane,46.95,72,75,77,-90,90,-93,77,90,167
+XXIII Commonwealth Games,2026-07-23,48 kg Women,NYONG Ruth Asouquo,47.45,71,75,-77,-93,-93,93,75,93,168
+XXIII Commonwealth Games,2026-07-23,48 kg Women,WONG Tammy,47.95,68,71,-73,89,-92,-93,71,89,160
+XXIII Commonwealth Games,2026-07-23,48 kg Women,ROBERTS Nikole,47.85,67,70,-73,80,84,-88,70,84,154
+XXIII Commonwealth Games,2026-07-23,48 kg Women,DEIRERAGEA Jo-Beth,47.45,68,70,-72,86,-89,91,70,91,161
+XXIII Commonwealth Games,2026-07-23,48 kg Women,MACKAY Alex,46.55,58,61,-63,78,81,-84,61,81,142
+XXIII Commonwealth Games,2026-07-23,48 kg Women,ODUOR Janet Atieno,46.35,-58,-58,58,-75,-75,75,58,75,133
+XXIII Commonwealth Games,2026-07-23,48 kg Women,JAMBULLIYE GAMLADDALAGE Upamalika R.G.,47.75,-70,-70,-70,0,0,0,0,0,0
+XXIII Commonwealth Games,2026-07-23,48 kg Women,TOUA Thelma Mea,47.55,-62,-63,-63,0,0,0,0,0,0
+XXIII Commonwealth Games,2026-07-23,53 kg Women,DIDIH Onome Omolola,52.25,85,90,93,105,110,113,93,113,206
+XXIII Commonwealth Games,2026-07-23,53 kg Women,YADAV Gyaneshwari,52.35,82,85,88,103,107,111,88,111,199
+XXIII Commonwealth Games,2026-07-23,53 kg Women,GROULX Rebeka,52.45,78,81,83,95,-99,-99,83,95,178
+XXIII Commonwealth Games,2026-07-23,53 kg Women,TALJAARD Johanni,52.75,-75,75,78,-97,97,-101,78,97,175
+XXIII Commonwealth Games,2026-07-23,53 kg Women,GULAM Noorin Mahomed Rafik,52.75,73,75,-77,92,-95,-95,75,92,167
+XXIII Commonwealth Games,2026-07-23,53 kg Women,WINI Jenly Tegu,52.45,-74,74,-77,95,-98,98,74,98,172
+XXIII Commonwealth Games,2026-07-23,53 kg Women,CHUA Jiin Linn,52.95,71,-74,74,-93,94,-96,74,94,168
+XXIII Commonwealth Games,2026-07-23,53 kg Women,CAMILLERI LAGANA Kim,52.85,70,-72,73,90,93,-96,73,93,166
+XXIII Commonwealth Games,2026-07-23,53 kg Women,TOUA Loa Dika,52.75,-73,-73,-73,0,0,0,0,0,0
+XXIII Commonwealth Games,2026-07-23,53 kg Women,KEAN Brenna Mae,52.65,-73,73,-75,0,0,0,73,0,0
+XXIII Commonwealth Games,2026-07-23,58 kg Women,LAWAL Rafiatu Folashade,57.55,95,100,103,117,122,126,103,126,229
+XXIII Commonwealth Games,2026-07-23,58 kg Women,TASCHEREAU Ann Sophie,57.95,-94,-94,94,111,115,121,94,121,215
+XXIII Commonwealth Games,2026-07-23,58 kg Women,PRATT Eliza,57.55,-84,84,87,106,109,-113,87,109,196
+XXIII Commonwealth Games,2026-07-23,58 kg Women,SOROKHAIBAM Bindyarani Devi,55.45,83,85,87,-110,112,-116,87,112,199
+XXIII Commonwealth Games,2026-07-23,58 kg Women,KOLOMOISKY Ashley,57.55,78,81,84,100,104,-108,84,104,188
+XXIII Commonwealth Games,2026-07-23,58 kg Women,JONES Catrin Haf,57.15,-82,82,-84,106,-109,-115,82,106,188
+XXIII Commonwealth Games,2026-07-23,58 kg Women,FAUMUI Anoni,57.65,75,79,82,-95,-95,95,82,95,177
+XXIII Commonwealth Games,2026-07-23,58 kg Women,SPIES BURGER Anneke,57.75,77,-80,-80,98,101,-103,77,101,178
+XXIII Commonwealth Games,2026-07-23,58 kg Women,IOANNOU Dimitra,57.45,65,70,-75,85,90,-95,70,90,160
+XXIII Commonwealth Games,2026-07-23,58 kg Women,HARRIS Bless-Margaret,57.35,-60,65,-70,75,-80,-80,65,75,140
+XXIII Commonwealth Games,2026-07-23,63 kg Women,CHARRON Maude G,61.80,99,102,-105,124,-130,130,102,130,232
+XXIII Commonwealth Games,2026-07-23,63 kg Women,NOTTE Femily-Crystie,62.75,97,-100,100,113,116,-117,100,116,216
+XXIII Commonwealth Games,2026-07-23,63 kg Women,ELLIOTT Kiana Rose,62.05,-95,95,99,112,115,-118,99,115,214
+XXIII Commonwealth Games,2026-07-23,63 kg Women,SMALE Sarah Davies,62.85,-95,-95,95,-122,122,-138,95,122,217
+XXIII Commonwealth Games,2026-07-23,63 kg Women,TABONE Roberta,62.55,86,89,-91,111,-115,115,89,115,204
+XXIII Commonwealth Games,2026-07-23,63 kg Women,AYODELE Ruth Imoleayo,61.45,85,88,-91,105,-110,-110,88,105,193
+XXIII Commonwealth Games,2026-07-23,63 kg Women,NURUL SYAZWANI Binti Radzi,62.45,-87,-88,88,110,115,-117,88,115,203
+XXIII Commonwealth Games,2026-07-23,63 kg Women,ASHBEE Beth,61.75,-85,-85,85,95,100,-104,85,100,185
+XXIII Commonwealth Games,2026-07-23,63 kg Women,WHALLEY Charlotte Constance,61.35,-82,82,-86,100,104,-106,82,104,186
+XXIII Commonwealth Games,2026-07-23,63 kg Women,CRYMBLE Hannah,61.75,-84,-84,-84,0,0,0,0,0,0
+XXIII Commonwealth Games,2026-07-23,63 kg Women,SERAM Nirupama Devi,62.75,-93,93,-95,-123,-123,-123,93,0,0
+XXIII Commonwealth Games,2026-07-23,69 kg Women,SIMONEAU Charlotte,68.95,104,108,-111,127,132,-135,108,132,240
+XXIII Commonwealth Games,2026-07-23,69 kg Women,KAUR Harjinder,68.25,96,99,101,120,123,126,101,126,227
+XXIII Commonwealth Games,2026-07-23,69 kg Women,HAYMAN Nya Phebe,68.75,97,-100,-100,118,121,-124,97,121,218
+XXIII Commonwealth Games,2026-07-23,69 kg Women,LENT Ketty,68.95,92,95,97,115,120,-123,97,120,217
+XXIII Commonwealth Games,2026-07-23,69 kg Women,ROSHER Madeline,68.55,-97,-97,97,117,-120,-120,97,117,214
+XXIII Commonwealth Games,2026-07-23,69 kg Women,THORNTON Tenishia,67.65,90,-93,93,114,-117,-117,93,114,207
+XXIII Commonwealth Games,2026-07-23,69 kg Women,BARTON Erin,68.85,-91,91,-95,119,-124,-128,91,119,210
+XXIII Commonwealth Games,2026-07-23,69 kg Women,JEFFERIES Laryne,68.55,90,-93,-93,-106,106,-111,90,106,196
+XXIII Commonwealth Games,2026-07-23,69 kg Women,HOOD Chloe Jennifer Gillian,68.55,75,80,85,100,105,-110,85,105,190
+XXIII Commonwealth Games,2026-07-23,69 kg Women,HOLLY O Shea,67.65,74,77,80,93,96,100,80,100,180
+XXIII Commonwealth Games,2026-07-23,69 kg Women,SELEMAIA Olivia Shalom,67.65,-100,-100,-100,0,0,0,0,0,0
+XXIII Commonwealth Games,2026-07-23,77 kg Women,STOWERS Seine,75.75,101,104,107,125,130,-133,107,130,237
+XXIII Commonwealth Games,2026-07-23,77 kg Women,DUMAS Rosalie,76.35,96,100,102,116,-120,-121,102,116,218
+XXIII Commonwealth Games,2026-07-23,77 kg Women,THERON Georgia,69.75,95,98,100,117,120,123,100,123,223
+XXIII Commonwealth Games,2026-07-23,77 kg Women,BROWN Isabella Beatrice,76.65,-97,-97,97,124,127,132,97,132,229
+XXIII Commonwealth Games,2026-07-23,77 kg Women,HUGHES Laura Bethany,76.75,95,-98,-99,-124,124,129,95,129,224
+XXIII Commonwealth Games,2026-07-23,77 kg Women,HERBERT Agata,76.25,87,91,-94,107,-111,114,91,114,205
+XXIII Commonwealth Games,2026-07-23,77 kg Women,SANJANA,71.55,-94,-94,-94,0,0,0,0,0,0
+XXIII Commonwealth Games,2026-07-23,77 kg Women,SAUNDERS Kaitlin,75.15,82,-85,-85,-106,-106,-106,82,0,0
+XXIII Commonwealth Games,2026-07-23,77 kg Women,ANDUEZA Isabella,76.45,-89,-89,-89,0,0,0,0,0,0
+XXIII Commonwealth Games,2026-07-23,77 kg Women,ENOCK Rachel Achieng,76.65,90,-93,-93,-108,0,0,90,0,0
+XXIII Commonwealth Games,2026-07-23,86 kg Women,NGAKE Madias Dodo Nzesso,85.15,108,-111,111,128,-133,-135,111,128,239
+XXIII Commonwealth Games,2026-07-23,86 kg Women,CIKAMATANA Eileen Floanna Maria,85.55,-108,108,-112,134,140,-146,108,140,248
+XXIII Commonwealth Games,2026-07-23,86 kg Women,BEAOUDIN Rose,80.15,99,103,-106,124,-127,127,103,127,230
+XXIII Commonwealth Games,2026-07-23,86 kg Women,NACAGILEVU Litia Sipola,85.25,-103,103,-106,-121,122,-125,103,122,225
+XXIII Commonwealth Games,2026-07-23,86 kg Women,PRITCHARD LOLO Ajah Matagi Elizabeth,85.75,-94,94,100,113,117,-120,100,117,217
+XXIII Commonwealth Games,2026-07-23,86 kg Women,OSIJO Mary Taiwo,84.35,-95,95,100,120,125,-131,100,125,225
+XXIII Commonwealth Games,2026-07-23,86 kg Women,SEUAO Sefulu,78.25,-96,96,-101,123,-130,-131,96,123,219
+XXIII Commonwealth Games,2026-07-23,86 kg Women,SMITH Cheyenne Lee Maria,80.85,82,86,-90,96,100,-102,86,100,186
+XXIII Commonwealth Games,2026-07-23,86 kg Women,ONGONGA Juliana Anyango,83.55,-85,85,-88,105,108,-111,85,108,193
+XXIII Commonwealth Games,2026-07-23,86 kg Women,BALAGE Chathurika Priyanthi,85.85,80,-84,-85,101,107,-110,80,107,187
+XXIII Commonwealth Games,2026-07-23,+86 kg Women,PATOLO Tui-Alofa,130.45,109,112,115,130,-135,-136,115,130,245
+XXIII Commonwealth Games,2026-07-23,+86 kg Women,CAMPBELL Emily,123.35,110,-114,115,148,155,163,115,163,278
+XXIII Commonwealth Games,2026-07-23,+86 kg Women,DRAMAN Siti Aqilah Farhana,113.05,107,110,113,135,138,140,113,140,253
+XXIII Commonwealth Games,2026-07-23,+86 kg Women,LOVE Etta Mae,135.55,102,106,-109,136,140,144,106,144,250
+XXIII Commonwealth Games,2026-07-23,+86 kg Women,MAIBAM Martina Devi,117.65,-103,-103,105,140,-144,-146,105,140,245
+XXIII Commonwealth Games,2026-07-23,+86 kg Women,YEE Wai Teng Melissa,109.85,87,91,95,110,115,-120,95,115,210
+XXIII Commonwealth Games,2026-07-23,+86 kg Women,MCDONALD Mata Noko,102.25,85,-89,89,107,113,-118,89,113,202
+XXIII Commonwealth Games,2026-07-23,+86 kg Women,TAUNIKARAWA Tenganga,99.95,81,86,-91,99,-105,105,86,105,191
+XXIII Commonwealth Games,2026-07-23,+86 kg Women,TIMO Malia,105.15,84,-89,-92,107,110,-114,84,110,194
+XXIII Commonwealth Games,2026-07-23,+86 kg Women,CAMPBELL Krystal,110.15,73,76,-81,-98,-100,100,76,100,176
+XXIII Commonwealth Games,2026-07-23,+86 kg Women,SIPAIA Iuniarra,137.35,-100,100,-105,-136,-136,0,100,0,0
