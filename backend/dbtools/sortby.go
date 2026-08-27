@@ -155,7 +155,7 @@ func fetchLifts(bigData []*structs.Lift, pos []int, query *structs.LeaderboardPa
 // SortSinclair Descending order by lift sinclair
 func SortSinclair(sliceStructs []*structs.Lift) {
 	sort.Slice(sliceStructs, func(i, j int) bool {
-		return sliceStructs[i].Sinclair > sliceStructs[j].Sinclair
+		return sliceStructs[i].Sinclair.GreaterThan(sliceStructs[j].Sinclair)
 	})
 }
 

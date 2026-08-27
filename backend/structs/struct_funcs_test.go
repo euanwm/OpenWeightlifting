@@ -8,7 +8,7 @@ import (
 
 func TestLift_WithinWeightClass(t *testing.T) {
 	sampleLift := Lift{
-		Bodyweight: NewWeightKg(100),
+		Bodyweight: NewFixedFloat(100),
 	}
 	type args struct {
 		gender  string
@@ -23,8 +23,8 @@ func TestLift_WithinWeightClass(t *testing.T) {
 			gender: enum.Male,
 			catData: WeightClass{
 				Gender: enum.Male,
-				Upper:  NewWeightKg(101),
-				Lower:  NewWeightKg(99),
+				Upper:  NewFixedFloat(101),
+				Lower:  NewFixedFloat(99),
 			}},
 			want: true,
 		},
@@ -32,8 +32,8 @@ func TestLift_WithinWeightClass(t *testing.T) {
 			gender: enum.Male,
 			catData: WeightClass{
 				Gender: enum.ALLCATS,
-				Upper:  NewWeightKg(101),
-				Lower:  NewWeightKg(99),
+				Upper:  NewFixedFloat(101),
+				Lower:  NewFixedFloat(99),
 			}},
 			want: true,
 		},
@@ -41,8 +41,8 @@ func TestLift_WithinWeightClass(t *testing.T) {
 			gender: enum.Male,
 			catData: WeightClass{
 				Gender: enum.Male,
-				Upper:  NewWeightKg(99),
-				Lower:  NewWeightKg(98),
+				Upper:  NewFixedFloat(99),
+				Lower:  NewFixedFloat(98),
 			}},
 			want: false,
 		},

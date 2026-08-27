@@ -6,15 +6,15 @@ import (
 )
 
 type RulesChecker struct {
-	MaxSnatch       structs.WeightKg
-	MaxCleanAndJerk structs.WeightKg
-	MaxTotal        structs.WeightKg
-	MaxBodyweight   structs.WeightKg
-	MinBodyweight   structs.WeightKg
+	MaxSnatch       structs.FixedFloat
+	MaxCleanAndJerk structs.FixedFloat
+	MaxTotal        structs.FixedFloat
+	MaxBodyweight   structs.FixedFloat
+	MinBodyweight   structs.FixedFloat
 }
 
 func (e *RulesChecker) PassesRules(lift *structs.Lift) bool {
-	if !lift.Total.GreaterThanOrEqual(structs.NewWeightKg(0)) {
+	if !lift.Total.GreaterThanOrEqual(structs.NewFixedFloat(0)) {
 		return false
 	}
 	return lift.Total.LessThan(e.MaxTotal) && lift.Bodyweight.GreaterThan(e.MinBodyweight)
@@ -22,10 +22,10 @@ func (e *RulesChecker) PassesRules(lift *structs.Lift) bool {
 
 func LoadRules() *RulesChecker {
 	return &RulesChecker{
-		MaxSnatch:       structs.NewWeightKg(enum.MaxSnatch),
-		MaxCleanAndJerk: structs.NewWeightKg(enum.MaxCleanAndJerk),
-		MaxTotal:        structs.NewWeightKg(enum.MaxTotal),
-		MaxBodyweight:   structs.NewWeightKg(enum.MaximumBodyweight),
-		MinBodyweight:   structs.NewWeightKg(enum.MinimumBodyweight),
+		MaxSnatch:       structs.NewFixedFloat(enum.MaxSnatch),
+		MaxCleanAndJerk: structs.NewFixedFloat(enum.MaxCleanAndJerk),
+		MaxTotal:        structs.NewFixedFloat(enum.MaxTotal),
+		MaxBodyweight:   structs.NewFixedFloat(enum.MaximumBodyweight),
+		MinBodyweight:   structs.NewFixedFloat(enum.MinimumBodyweight),
 	}
 }

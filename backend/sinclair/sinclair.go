@@ -107,9 +107,9 @@ func CalcSinclair(result *structs.Lift) {
 		var expSum = math.Pow(10, coEffExp)
 		var sinclair = total * expSum
 		if sinclair <= naimSinclair {
-			result.Sinclair = sinclair
+			result.Sinclair = structs.NewFixedFloat(sinclair)
 		}
 	} else if total <= naimSinclair {
-		result.Sinclair = total
+		result.Sinclair = structs.NewFixedFloat(total)
 	}
 }

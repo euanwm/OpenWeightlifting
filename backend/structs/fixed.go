@@ -1,4 +1,5 @@
 // A Go port of OpenPowerlifting's WeightKg type.
+// Later converted to a more generic fixed point integer (2 decimals)
 
 package structs
 
@@ -8,20 +9,20 @@ import (
 	"strconv"
 )
 
-// WeightKg is a weight in kilograms represented as a fixed-point integer.
+// Fixed is represented as a fixed-point integer.
 // The integer representation holds two decimal places, such that
 // the floating-point value "123.45" is stored as `12345`. Values
 // that cannot be exactly represented round toward zero.
-type WeightKg struct {
+type FixedFloat struct {
 	value int32
 }
 
-// NewWeightKg returns a new WeightKg from a floating-point value.
+// NewFixedFloat returns a new FixedFloat from a floating-point value.
 // Values that cannot be exactly represented round toward zero.
 // Infinite or NaN inputs are treated as zero.
-func NewWeightKg(v float64) WeightKg {
+func NewFixedFloat(v float64) FixedFloat {
 	if math.IsInf(v, 0) || math.IsNaN(v) {
-		return WeightKg{value: 0}
+		return FixedFloat{value: 0}
 	}
 
 	isSigned := v < 0                   // -0 is treated identically to 0.
@@ -31,58 +32,58 @@ func NewWeightKg(v float64) WeightKg {
 	if isSigned {
 		i = -i
 	}
-	return WeightKg{value: i}
+	return FixedFloat{value: i}
 }
 
-// NewWeightKgFromString returns a new WeightKg from a string value.
+// NewFixedFloatFromString returns a new FixedFloat from a string value.
 // Values that cannot be parsed return zero.
-func NewWeightKgFromString(s string) WeightKg {
+func NewFixedFloatFromString(s string) FixedFloat {
 	// Explicitly allow writing the empty string instead of zero.
 	if len(s) == 0 {
-		return WeightKg{0}
+		return FixedFloat{0}
 	}
 
 	// Otherwise, expect a floating-point value.
 	float, err := strconv.ParseFloat(s, 64)
 	if err != nil {
-		return WeightKg{0}
+		return FixedFloat{0}
 	}
-	return NewWeightKg(float)
+	return NewFixedFloat(float)
 }
 
-// NewWeightKgFromInt32 returns a new WeightKg from an integer weight.
+// NewFixedFloatFromInt32 returns a new FixedFloat from an integer weight.
 // This is mostly useful for values that are derived from enums.
-func NewWeightKgFromInt32(i int32) WeightKg {
-	return WeightKg{i * 100}
+func NewFixedFloatFromInt32(i int32) FixedFloat {
+	return FixedFloat{i * 100}
 }
 
 // Equal returns whether both weights are equal.
-func (kg WeightKg) Equal(other WeightKg) bool {
+func (kg FixedFloat) Equal(other FixedFloat) bool {
 	return kg.value == other.value
 }
 
 // GreaterThan returns whether kg > other.
-func (kg WeightKg) GreaterThan(other WeightKg) bool {
+func (kg FixedFloat) GreaterThan(other FixedFloat) bool {
 	return kg.value > other.value
 }
 
 // GreaterThanOrEqual returns whether kg >= other.
-func (kg WeightKg) GreaterThanOrEqual(other WeightKg) bool {
+func (kg FixedFloat) GreaterThanOrEqual(other FixedFloat) bool {
 	return kg.value >= other.value
 }
 
 // LessThan returns whether kg < other.
-func (kg WeightKg) LessThan(other WeightKg) bool {
+func (kg FixedFloat) LessThan(other FixedFloat) bool {
 	return kg.value < other.value
 }
 
 // LessThanOrEqual returns whether kg <= other.
-func (kg WeightKg) LessThanOrEqual(other WeightKg) bool {
+func (kg FixedFloat) LessThanOrEqual(other FixedFloat) bool {
 	return kg.value <= other.value
 }
 
 // Sign returns -1 if negative, 0 if zero, +1 if positive.
-func (kg WeightKg) Sign() int {
+func (kg FixedFloat) Sign() int {
 	if kg.value > 0 {
 		return 1
 	}
@@ -93,30 +94,30 @@ func (kg WeightKg) Sign() int {
 }
 
 // IsPositive returns whether the weight is a positive number.
-func (kg WeightKg) IsPositive() bool {
+func (kg FixedFloat) IsPositive() bool {
 	return kg.value > 0
 }
 
 // IsNegative returns whether the weight is a negative number.
-func (kg WeightKg) IsNegative() bool {
+func (kg FixedFloat) IsNegative() bool {
 	return kg.value < 0
 }
 
 // IsZero returns whether the weight is the zero value.
-func (kg WeightKg) IsZero() bool {
+func (kg FixedFloat) IsZero() bool {
 	return kg.value == 0
 }
 
-// Min returns the minimum of the two WeightKgs.
-func (kg WeightKg) Min(other WeightKg) WeightKg {
+// Min returns the minimum of the two FixedFloats.
+func (kg FixedFloat) Min(other FixedFloat) FixedFloat {
 	if kg.LessThan(other) {
 		return kg
 	}
 	return other
 }
 
-// Max returns the maximum of the two WeightKgs.
-func (kg WeightKg) Max(other WeightKg) WeightKg {
+// Max returns the maximum of the two FixedFloats.
+func (kg FixedFloat) Max(other FixedFloat) FixedFloat {
 	if kg.GreaterThan(other) {
 		return kg
 	}
@@ -124,23 +125,23 @@ func (kg WeightKg) Max(other WeightKg) WeightKg {
 }
 
 // Float32 returns the nearest float32 value.
-func (kg WeightKg) Float32() float32 {
+func (kg FixedFloat) Float32() float32 {
 	return float32(kg.value) / 100
 }
 
 // Float64 returns the nearest float64 value.
-func (kg WeightKg) Float64() float64 {
+func (kg FixedFloat) Float64() float64 {
 	return float64(kg.value) / 100
 }
 
-// String renders the WeightKg as a string, looking like a floating-point number.
+// String renders the FixedFloat as a string, looking like a floating-point number.
 // Decimal places are rendered with as few zeros as possible.
 //
 // Examples:
 // - input 123.00 returns "123".
 // - input 123.40 returns "123.4".
 // - input 123.45 returns "123.45"
-func (kg WeightKg) String() string {
+func (kg FixedFloat) String() string {
 	// Fast path for the common zero value.
 	if kg.value == 0 {
 		return "0"
@@ -169,16 +170,16 @@ func (kg WeightKg) String() string {
 }
 
 // UnmarshalJSON implements JSON deserialization.
-func (kg *WeightKg) UnmarshalJSON(bytes []byte) error {
+func (kg *FixedFloat) UnmarshalJSON(bytes []byte) error {
 	if string(bytes) == "null" {
 		return nil
 	}
-	*kg = NewWeightKgFromString(string(bytes))
+	*kg = NewFixedFloatFromString(string(bytes))
 	return nil
 }
 
 // MarshalJSON implements JSON serialization.
 // Weights are serialized as floating-point values.
-func (kg WeightKg) MarshalJSON() ([]byte, error) {
+func (kg FixedFloat) MarshalJSON() ([]byte, error) {
 	return []byte(kg.String()), nil
 }

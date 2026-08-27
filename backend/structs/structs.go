@@ -2,8 +2,8 @@ package structs
 
 type WeightClass struct {
 	Gender   string
-	Upper    WeightKg
-	Lower    WeightKg
+	Upper    FixedFloat
+	Lower    FixedFloat
 	DateFrom string
 	DateTo   string
 }
@@ -37,10 +37,10 @@ type RivalsResult struct {
 }
 
 type Rival struct {
-	Position   int      `json:"position"`
-	Total      WeightKg `json:"total"`
-	Lifter     string   `json:"lifter"`
-	Federation string   `json:"federation"`
+	Position   int        `json:"position"`
+	Total      FixedFloat `json:"total"`
+	Lifter     string     `json:"lifter"`
+	Federation string     `json:"federation"`
 }
 
 type RivalsCombined struct {
@@ -60,11 +60,11 @@ type LifterHistory struct {
 }
 
 type LifterStats struct {
-	BestSnatch       WeightKg `json:"best_snatch"`
-	BestCJ           WeightKg `json:"best_cj"`
-	BestTotal        WeightKg `json:"best_total"`
-	MakeRateSnatches []int    `json:"make_rate_snatches"`
-	MakeRateCJ       []int    `json:"make_rate_cj"`
+	BestSnatch       FixedFloat `json:"best_snatch"`
+	BestCJ           FixedFloat `json:"best_cj"`
+	BestTotal        FixedFloat `json:"best_total"`
+	MakeRateSnatches []int      `json:"make_rate_snatches"`
+	MakeRateCJ       []int      `json:"make_rate_cj"`
 }
 
 type LeaderboardData struct {
@@ -125,21 +125,21 @@ type AllLifts struct {
 }
 
 type Lift struct {
-	Event      *Event   `json:"event"` // parent; already the context when nested under Event.Results/EventResponse
-	Lifter     *Lifter  `json:"lifter"`
-	ageOnDay   uint8    //nolint:unused // todo: implement age calculation & linking
-	Category   string   `json:"category"`
-	Bodyweight WeightKg `json:"bodyweight"`
-	Sn1        WeightKg `json:"snatch_1"`
-	Sn2        WeightKg `json:"snatch_2"`
-	Sn3        WeightKg `json:"snatch_3"`
-	CJ1        WeightKg `json:"cj_1"`
-	CJ2        WeightKg `json:"cj_2"`
-	CJ3        WeightKg `json:"cj_3"`
-	BestSn     WeightKg `json:"best_snatch"`
-	BestCJ     WeightKg `json:"best_cj"`
-	Total      WeightKg `json:"total"`
-	Sinclair   float64  `json:"sinclair"` // todo: change this to a key:value so we can differentiate between qpoints, sinclair etc.
+	Event      *Event     `json:"event"` // parent; already the context when nested under Event.Results/EventResponse
+	Lifter     *Lifter    `json:"lifter"`
+	ageOnDay   uint8      //nolint:unused // todo: implement age calculation & linking
+	Category   string     `json:"category"`
+	Bodyweight FixedFloat `json:"bodyweight"`
+	Sn1        FixedFloat `json:"snatch_1"`
+	Sn2        FixedFloat `json:"snatch_2"`
+	Sn3        FixedFloat `json:"snatch_3"`
+	CJ1        FixedFloat `json:"cj_1"`
+	CJ2        FixedFloat `json:"cj_2"`
+	CJ3        FixedFloat `json:"cj_3"`
+	BestSn     FixedFloat `json:"best_snatch"`
+	BestCJ     FixedFloat `json:"best_cj"`
+	Total      FixedFloat `json:"total"`
+	Sinclair   FixedFloat `json:"sinclair"` // todo: change this to a key:value so we can differentiate between qpoints, sinclair etc.
 }
 
 type LeaderboardResponse struct {
