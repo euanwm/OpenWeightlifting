@@ -7,6 +7,7 @@ import (
 	"log"
 	"strconv"
 	"strings"
+	"time"
 
 	"github.com/gin-gonic/gin"
 )
@@ -25,9 +26,21 @@ func (e Lift) WithinYear(year int) bool {
 	if year == enum.AllYears {
 		return true
 	}
+	return e.Year() == year
+}
+
+func (e Lift) Year() int {
 	datetime, _ := utilities.StringToDate(e.Event.Date)
 	eventYear, _, _ := datetime.Date()
-	return eventYear == year
+	return eventYear
+}
+
+func (e Lift) CurrentAge() int {
+	if e.ageOnDay == 0 {
+		return 0
+	}
+	currentYear := time.Now().Year()
+	return currentYear - e.Year() + e.ageOnDay
 }
 
 func (e Lift) WithinDates(startDate, endDate string) bool {
@@ -41,6 +54,10 @@ func (e Lift) WithinDates(startDate, endDate string) bool {
 		return true
 	}
 	return false
+}
+
+func (e *Lift) SetAgeOnDay(ageOnDay int) {
+	e.ageOnDay = ageOnDay
 }
 
 func (e Event) SelectedFederation(federation string) bool {
@@ -177,7 +194,7 @@ func (e *LifterRoster) Add(name, category, federation string, lift *Lift) *Lifte
 		e.index = make(map[string]*Lifter)
 	}
 	gender := enum.ClassifyGender(category)
-	key := name + "|" + gender + "|" + federation
+	key := name + "|" + gender + "|" + federation + "|" + strconv.Itoa(lift.CurrentAge())
 	if lifter, ok := e.index[key]; ok {
 		lifter.Lifts = append(lifter.Lifts, lift)
 		return lifter
@@ -185,6 +202,7 @@ func (e *LifterRoster) Add(name, category, federation string, lift *Lift) *Lifte
 	lifter := &Lifter{
 		Name:              name,
 		Gender:            gender,
+		CurrentAge:        lift.CurrentAge(),
 		PrimaryFederation: federation,
 		Lifts:             []*Lift{lift},
 	}
@@ -200,7 +218,7 @@ func (e Lifter) IsMale() bool {
 func (e LifterRoster) Search(nameStr string) (lifters NameSearchResults) {
 	for _, lifter := range e.Lifters {
 		if strings.Contains(strings.ToLower(lifter.Name), strings.ToLower(nameStr)) {
-			lifters.Names = append(lifters.Names, NameSearch{NameStr: lifter.Name, Gender: lifter.Gender, Federation: lifter.PrimaryFederation})
+			lifters.Names = append(lifters.Names, NameSearch{NameStr: lifter.Name, Gender: lifter.Gender, CurrentAge: lifter.CurrentAge, Federation: lifter.PrimaryFederation})
 			lifters.Total++
 		}
 	}

@@ -51,6 +51,7 @@ type RivalsCombined struct {
 type NameSearch struct {
 	NameStr    string `json:"name"`
 	Gender     string `json:"gender"`
+	CurrentAge int    `json:"current_age"`
 	Federation string `json:"federation"`
 }
 
@@ -115,7 +116,7 @@ type LifterRoster struct {
 type Lifter struct {
 	Gender            string  `json:"gender"`
 	Name              string  `json:"name"`
-	currentAge        uint8   //nolint:unused // todo: implement age calculation & linking
+	CurrentAge        int     `json:"current_age"`
 	PrimaryFederation string  `json:"federation"`
 	Lifts             []*Lift `json:"-"` // back-reference; would cycle through Lift.Lifter
 }
@@ -127,7 +128,7 @@ type AllLifts struct {
 type Lift struct {
 	Event      *Event     `json:"event"` // parent; already the context when nested under Event.Results/EventResponse
 	Lifter     *Lifter    `json:"lifter"`
-	ageOnDay   uint8      //nolint:unused // todo: implement age calculation & linking
+	ageOnDay   int        //nolint:unused // todo: implement age calculation & linking
 	Category   string     `json:"category"`
 	Bodyweight FixedFloat `json:"bodyweight"`
 	Sn1        FixedFloat `json:"snatch_1"`
