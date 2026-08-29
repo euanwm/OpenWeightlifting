@@ -215,10 +215,17 @@ func (e Lifter) IsMale() bool {
 	return e.Gender == enum.Male
 }
 
+func (e Lifter) LastEventDate() string {
+	if len(e.Lifts) == 0 {
+		return ""
+	}
+	return e.Lifts[len(e.Lifts)-1].Event.Date
+}
+
 func (e LifterRoster) Search(nameStr string) (lifters NameSearchResults) {
 	for _, lifter := range e.Lifters {
 		if strings.Contains(strings.ToLower(lifter.Name), strings.ToLower(nameStr)) {
-			lifters.Names = append(lifters.Names, NameSearch{NameStr: lifter.Name, Gender: lifter.Gender, CurrentAge: lifter.CurrentAge, Federation: lifter.PrimaryFederation})
+			lifters.Names = append(lifters.Names, NameSearch{NameStr: lifter.Name, Gender: lifter.Gender, LastActive: lifter.LastEventDate(), Federation: lifter.PrimaryFederation})
 			lifters.Total++
 		}
 	}

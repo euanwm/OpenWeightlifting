@@ -51,8 +51,8 @@ type RivalsCombined struct {
 type NameSearch struct {
 	NameStr    string `json:"name"`
 	Gender     string `json:"gender"`
-	CurrentAge int    `json:"current_age"`
 	Federation string `json:"federation"`
+	LastActive string `json:"last_active"`
 }
 
 type LifterHistory struct {
@@ -114,9 +114,9 @@ type LifterRoster struct {
 }
 
 type Lifter struct {
-	Gender            string  `json:"gender"`
-	Name              string  `json:"name"`
-	CurrentAge        int     `json:"current_age"`
+	Gender            string `json:"gender"`
+	Name              string `json:"name"`
+	CurrentAge        int
 	PrimaryFederation string  `json:"federation"`
 	Lifts             []*Lift `json:"-"` // back-reference; would cycle through Lift.Lifter
 }
