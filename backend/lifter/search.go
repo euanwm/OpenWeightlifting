@@ -95,13 +95,20 @@ func Rivals(nameStr string, bigData []*structs.Lift) (rivalResults structs.Rival
 	return
 }
 
-// FetchLifts should use the exact string provided (case-sensitive) by NameSearch
+// FetchLifts should use the exact string provided (case-sensitive) by NameSearch.
+// If name.Disambiguation is set, only the matching lifter (by that stable index,
+// see LifterRoster.AssignDisambiguation) is returned rather than every lifter
+// who ever shared this name.
 func FetchLifts(name structs.NameSearch, leaderboard *structs.LeaderboardData) (lifterData structs.LifterHistory) {
 	lifterData.NameStr = name.NameStr
 	for _, lift := range leaderboard.AllTotals {
-		if lift.Lifter.Name == name.NameStr {
-			lifterData.Lifts = append(lifterData.Lifts, lift)
+		if lift.Lifter.Name != name.NameStr {
+			continue
 		}
+		if name.Disambiguation != nil && lift.Lifter.Disambiguation != *name.Disambiguation {
+			continue
+		}
+		lifterData.Lifts = append(lifterData.Lifts, lift)
 	}
 	return
 }

@@ -90,15 +90,26 @@ func SearchName(c *gin.Context) {
 //		@Tags			GET Requests
 //	 @Param name query string true "Name of the lifter, must be an exact match"
 //	 @Param federation query string false "Federation to filter lifts by"
+//	 @Param disamb query int false "Disambiguation index from the search endpoint, for names shared by multiple lifters"
 //		@Accept			json
 //		@Produce		json
 //		@Success		200	{object}	structs.LifterHistory
 //	 @Failure		204	{object}	nil
+//	 @Failure		400	{object}	nil
 //		@Router			/history [get]
 func LifterHistory(c *gin.Context) {
 	name := c.Query("name")
 	federation := c.Query("federation")
 	lifterSearch := structs.NameSearch{NameStr: name, Federation: federation}
+
+	if disambStr := c.Query("disamb"); disambStr != "" {
+		disamb, err := strconv.Atoi(disambStr)
+		if err != nil {
+			c.JSON(http.StatusBadRequest, gin.H{"error": "disamb must be an integer"})
+			return
+		}
+		lifterSearch.Disambiguation = &disamb
+	}
 
 	lifterDetails := lifter.FetchLifts(lifterSearch, &LeaderboardData)
 

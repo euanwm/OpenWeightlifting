@@ -5,6 +5,7 @@ import (
 	"backend/utilities"
 	"fmt"
 	"log"
+	"sort"
 	"strconv"
 	"strings"
 	"time"
@@ -202,10 +203,10 @@ func (e *LifterRoster) Add(name, category, federation string, lift *Lift) *Lifte
 	lifter := &Lifter{
 		Name:              name,
 		Gender:            gender,
-		CurrentAge:        lift.CurrentAge(),
 		PrimaryFederation: federation,
 		Lifts:             []*Lift{lift},
 	}
+	lifter.SetAge(lift.CurrentAge())
 	e.index[key] = lifter
 	e.Lifters = append(e.Lifters, lifter)
 	return lifter
@@ -215,17 +216,65 @@ func (e Lifter) IsMale() bool {
 	return e.Gender == enum.Male
 }
 
+func (e *Lifter) SetAge(age int) {
+	e.currentAge = age
+}
+
 func (e Lifter) LastEventDate() string {
 	if len(e.Lifts) == 0 {
 		return ""
 	}
-	return e.Lifts[len(e.Lifts)-1].Event.Date
+	latest := e.Lifts[0].Event.Date
+	for _, lift := range e.Lifts[1:] {
+		if lift.Event.Date > latest {
+			latest = lift.Event.Date
+		}
+	}
+	return latest
+}
+
+func (e Lifter) FirstEventDate() string {
+	if len(e.Lifts) == 0 {
+		return ""
+	}
+	earliest := e.Lifts[0].Event.Date
+	for _, lift := range e.Lifts[1:] {
+		if lift.Event.Date < earliest {
+			earliest = lift.Event.Date
+		}
+	}
+	return earliest
+}
+
+func (e *Lifter) SetDisambiguation(disambiguation int) {
+	e.Disambiguation = disambiguation
+}
+
+// AssignDisambiguation stamps each Lifter with a stable index among others
+// sharing its name/gender/federation, ordered by earliest competition date
+// (0 = earliest). Must run once after the roster is fully built, since it
+// needs every Lifter's complete Lifts slice to order groups correctly.
+func (e *LifterRoster) AssignDisambiguation() {
+	groups := make(map[string][]*Lifter)
+	for _, lifter := range e.Lifters {
+		key := lifter.Name + "|" + lifter.Gender + "|" + lifter.PrimaryFederation
+		groups[key] = append(groups[key], lifter)
+	}
+	for _, group := range groups {
+		sort.SliceStable(group, func(i, j int) bool {
+			return group[i].FirstEventDate() < group[j].FirstEventDate()
+		})
+		for i, lifter := range group {
+			lifter.SetDisambiguation(i)
+		}
+	}
 }
 
 func (e LifterRoster) Search(nameStr string) (lifters NameSearchResults) {
 	for _, lifter := range e.Lifters {
 		if strings.Contains(strings.ToLower(lifter.Name), strings.ToLower(nameStr)) {
-			lifters.Names = append(lifters.Names, NameSearch{NameStr: lifter.Name, Gender: lifter.Gender, LastActive: lifter.LastEventDate(), Federation: lifter.PrimaryFederation})
+			disambiguation := lifter.Disambiguation
+			lifters.Names = append(lifters.Names, NameSearch{NameStr: lifter.Name, Gender: lifter.Gender, LastActive: lifter.LastEventDate(), Federation: lifter.PrimaryFederation, Disambiguation: &disambiguation})
 			lifters.Total++
 		}
 	}
