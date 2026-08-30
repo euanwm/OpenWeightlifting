@@ -8,6 +8,7 @@ import (
 	"io/fs"
 	"log"
 	"path"
+	"strconv"
 )
 
 func CollateAll(eventsData *structs.EventsData, lifterRoster *structs.LifterRoster) (allLifts structs.AllLifts) {
@@ -36,6 +37,7 @@ var columnAliases = [][]string{
 	{"best_snatch"},                        // 11: BestSn
 	{"best_c&j", "best_cj"},                // 12: BestCJ
 	{"total"},                              // 13: Total
+	{"age_on_day"},                         // 14: AgeOnDay
 }
 
 // normalizeColumns reorders rows to match columnAliases order using the CSV header,
@@ -129,6 +131,16 @@ func createSingleEvent(federation, filename string, eventsData *structs.EventsDa
 		if !rules.PassesRules(lift) {
 			continue
 		}
+
+		if len(row[14]) > 0 {
+			ageOnDay, err := strconv.Atoi(row[14])
+			if err != nil {
+				log.Println("err checking age", err)
+				ageOnDay = 0
+			}
+			lift.SetAgeOnDay(ageOnDay)
+		}
+
 		lift.Lifter = lifterRoster.Add(row[3], row[2], federation, lift)
 		sinclair.CalcSinclair(lift)
 		liftPtrSlice = append(liftPtrSlice, lift)

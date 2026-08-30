@@ -5,8 +5,10 @@ import (
 	"backend/utilities"
 	"fmt"
 	"log"
+	"sort"
 	"strconv"
 	"strings"
+	"time"
 
 	"github.com/gin-gonic/gin"
 )
@@ -25,9 +27,21 @@ func (e Lift) WithinYear(year int) bool {
 	if year == enum.AllYears {
 		return true
 	}
+	return e.Year() == year
+}
+
+func (e Lift) Year() int {
 	datetime, _ := utilities.StringToDate(e.Event.Date)
 	eventYear, _, _ := datetime.Date()
-	return eventYear == year
+	return eventYear
+}
+
+func (e Lift) CurrentAge() int {
+	if e.ageOnDay == 0 {
+		return 0
+	}
+	currentYear := time.Now().Year()
+	return currentYear - e.Year() + e.ageOnDay
 }
 
 func (e Lift) WithinDates(startDate, endDate string) bool {
@@ -41,6 +55,10 @@ func (e Lift) WithinDates(startDate, endDate string) bool {
 		return true
 	}
 	return false
+}
+
+func (e *Lift) SetAgeOnDay(ageOnDay int) {
+	e.ageOnDay = ageOnDay
 }
 
 func (e Event) SelectedFederation(federation string) bool {
@@ -177,7 +195,7 @@ func (e *LifterRoster) Add(name, category, federation string, lift *Lift) *Lifte
 		e.index = make(map[string]*Lifter)
 	}
 	gender := enum.ClassifyGender(category)
-	key := name + "|" + gender + "|" + federation
+	key := name + "|" + gender + "|" + federation + "|" + strconv.Itoa(lift.CurrentAge())
 	if lifter, ok := e.index[key]; ok {
 		lifter.Lifts = append(lifter.Lifts, lift)
 		return lifter
@@ -188,6 +206,7 @@ func (e *LifterRoster) Add(name, category, federation string, lift *Lift) *Lifte
 		PrimaryFederation: federation,
 		Lifts:             []*Lift{lift},
 	}
+	lifter.SetAge(lift.CurrentAge())
 	e.index[key] = lifter
 	e.Lifters = append(e.Lifters, lifter)
 	return lifter
@@ -197,10 +216,65 @@ func (e Lifter) IsMale() bool {
 	return e.Gender == enum.Male
 }
 
+func (e *Lifter) SetAge(age int) {
+	e.currentAge = age
+}
+
+func (e Lifter) LastEventDate() string {
+	if len(e.Lifts) == 0 {
+		return ""
+	}
+	latest := e.Lifts[0].Event.Date
+	for _, lift := range e.Lifts[1:] {
+		if lift.Event.Date > latest {
+			latest = lift.Event.Date
+		}
+	}
+	return latest
+}
+
+func (e Lifter) FirstEventDate() string {
+	if len(e.Lifts) == 0 {
+		return ""
+	}
+	earliest := e.Lifts[0].Event.Date
+	for _, lift := range e.Lifts[1:] {
+		if lift.Event.Date < earliest {
+			earliest = lift.Event.Date
+		}
+	}
+	return earliest
+}
+
+func (e *Lifter) SetDisambiguation(disambiguation int) {
+	e.Disambiguation = disambiguation
+}
+
+// AssignDisambiguation stamps each Lifter with a stable index among others
+// sharing its name/gender/federation, ordered by earliest competition date
+// (0 = earliest). Must run once after the roster is fully built, since it
+// needs every Lifter's complete Lifts slice to order groups correctly.
+func (e *LifterRoster) AssignDisambiguation() {
+	groups := make(map[string][]*Lifter)
+	for _, lifter := range e.Lifters {
+		key := lifter.Name + "|" + lifter.Gender + "|" + lifter.PrimaryFederation
+		groups[key] = append(groups[key], lifter)
+	}
+	for _, group := range groups {
+		sort.SliceStable(group, func(i, j int) bool {
+			return group[i].FirstEventDate() < group[j].FirstEventDate()
+		})
+		for i, lifter := range group {
+			lifter.SetDisambiguation(i)
+		}
+	}
+}
+
 func (e LifterRoster) Search(nameStr string) (lifters NameSearchResults) {
 	for _, lifter := range e.Lifters {
 		if strings.Contains(strings.ToLower(lifter.Name), strings.ToLower(nameStr)) {
-			lifters.Names = append(lifters.Names, NameSearch{NameStr: lifter.Name, Gender: lifter.Gender, Federation: lifter.PrimaryFederation})
+			disambiguation := lifter.Disambiguation
+			lifters.Names = append(lifters.Names, NameSearch{NameStr: lifter.Name, Gender: lifter.Gender, LastActive: lifter.LastEventDate(), Federation: lifter.PrimaryFederation, Disambiguation: &disambiguation})
 			lifters.Total++
 		}
 	}

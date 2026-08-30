@@ -59,6 +59,7 @@ func TestFetchLifts(t *testing.T) {
 }
 
 func TestNameSearch(t *testing.T) {
+	zero := 0
 	type args struct {
 		nameStr string
 		roster  structs.LifterRoster
@@ -77,7 +78,7 @@ func TestNameSearch(t *testing.T) {
 				{Name: "maybe john smith"},
 			}}},
 			want: structs.NameSearchResults{
-				Names: []structs.NameSearch{{NameStr: "Dave Smith"}},
+				Names: []structs.NameSearch{{NameStr: "Dave Smith", Disambiguation: &zero}},
 				Total: 1,
 			},
 		},
@@ -90,7 +91,7 @@ func TestNameSearch(t *testing.T) {
 				{Name: "john Smith"},
 			}}},
 			want: structs.NameSearchResults{
-				Names: []structs.NameSearch{{NameStr: "john smith"}, {NameStr: "John Smith"}, {NameStr: "john Smith"}},
+				Names: []structs.NameSearch{{NameStr: "john smith", Disambiguation: &zero}, {NameStr: "John Smith", Disambiguation: &zero}, {NameStr: "john Smith", Disambiguation: &zero}},
 				Total: 3,
 			},
 		},
