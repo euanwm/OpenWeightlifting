@@ -9,7 +9,10 @@ const docTemplate = `{
     "info": {
         "description": "{{escape .Description}}",
         "title": "{{.Title}}",
-        "contact": {},
+        "contact": {
+            "name": "Euan Meston",
+            "email": "euan@openweightlifting.org"
+        },
         "version": "{{.Version}}"
     },
     "host": "{{.Host}}",
@@ -762,12 +765,12 @@ const docTemplate = `{
 
 // SwaggerInfo holds exported Swagger Info so clients can modify it
 var SwaggerInfo = &swag.Spec{
-	Version:          "",
-	Host:             "",
-	BasePath:         "",
-	Schemes:          []string{},
-	Title:            "",
-	Description:      "",
+	Version:          "1.0",
+	Host:             "api.openweightlifting.org",
+	BasePath:         "/",
+	Schemes:          []string{"https"},
+	Title:            "OpenWeightlifting API",
+	Description:      "This is the API for OpenWeightlifting.org",
 	InfoInstanceName: "swagger",
 	SwaggerTemplate:  docTemplate,
 	LeftDelim:        "{{",

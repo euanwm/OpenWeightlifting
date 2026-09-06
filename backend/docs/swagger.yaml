@@ -1,3 +1,4 @@
+basePath: /
 definitions:
   structs.ContainerTime:
     properties:
@@ -215,8 +216,14 @@ definitions:
       name:
         type: string
     type: object
+host: api.openweightlifting.org
 info:
-  contact: {}
+  contact:
+    email: euan@openweightlifting.org
+    name: Euan Meston
+  description: This is the API for OpenWeightlifting.org
+  title: OpenWeightlifting API
+  version: "1.0"
 paths:
   /events:
     get:
@@ -500,4 +507,6 @@ paths:
       summary: Checking the servers localtime
       tags:
       - Utilities and Testing
+schemes:
+- https
 swagger: "2.0"

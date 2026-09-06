@@ -1,8 +1,19 @@
 {
+    "schemes": [
+        "https"
+    ],
     "swagger": "2.0",
     "info": {
-        "contact": {}
+        "description": "This is the API for OpenWeightlifting.org",
+        "title": "OpenWeightlifting API",
+        "contact": {
+            "name": "Euan Meston",
+            "email": "euan@openweightlifting.org"
+        },
+        "version": "1.0"
     },
+    "host": "api.openweightlifting.org",
+    "basePath": "/",
     "paths": {
         "/events": {
             "get": {
