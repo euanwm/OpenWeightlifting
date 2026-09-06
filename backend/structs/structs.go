@@ -88,13 +88,17 @@ type LeaderboardPayload struct {
 
 type SearchLeaderboardRequest struct {
 	ActiveQuery LeaderboardPayload `json:"active_query"`
-	LifterData  NameSearch         `json:"lifter_data"`
+	LifterData  []NameSearch       `json:"lifter_data"`
+}
+
+type SearchResult struct {
+	Name       string `json:"name"`
+	Federation string `json:"federation"`
 }
 
 type SearchLeaderboardResult struct {
-	LifterData NameSearch         `json:"lifter_data"`
-	Position   int                `json:"position"`
-	Query      LeaderboardPayload `json:"query"`
+	LifterData map[int]SearchResult `json:"lifter_data"`
+	Query      LeaderboardPayload   `json:"query"`
 }
 
 type EventsData struct {

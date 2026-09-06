@@ -184,7 +184,7 @@ func BenchmarkLeaderboardSearchWarmCache(b *testing.B) {
 
 	body, _ := json.Marshal(structs.SearchLeaderboardRequest{
 		ActiveQuery: structs.LeaderboardPayload{SortBy: enum.Total, Federation: enum.ALLFEDS, WeightClass: "MALL"},
-		LifterData:  benchLifter,
+		LifterData:  []structs.NameSearch{benchLifter},
 	})
 	b.ResetTimer()
 	for i := 0; i < b.N; i++ {
