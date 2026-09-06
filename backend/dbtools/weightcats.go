@@ -6,8 +6,9 @@ import (
 )
 
 var WeightClassList = map[string]structs.WeightClass{
-	"MALL": {Gender: enum.Male, Upper: structs.NewFixedFloat(float64(enum.MaximumBodyweight)), Lower: structs.NewFixedFloat(0)},
-	"FALL": {Gender: enum.Female, Upper: structs.NewFixedFloat(float64(enum.MaximumBodyweight)), Lower: structs.NewFixedFloat(0)},
+	"MALL":  {Gender: enum.Male, Upper: structs.NewFixedFloat(float64(enum.MaximumBodyweight)), Lower: structs.NewFixedFloat(0)},
+	"FALL":  {Gender: enum.Female, Upper: structs.NewFixedFloat(float64(enum.MaximumBodyweight)), Lower: structs.NewFixedFloat(0)},
+	"MFALL": {Gender: enum.ALLGENDERS, Upper: structs.NewFixedFloat(float64(enum.MaximumBodyweight)), Lower: structs.NewFixedFloat(0)},
 	// 1993 February - 1998 April
 	"M54":    {Gender: enum.Male, Upper: structs.NewFixedFloat(54.00), Lower: structs.NewFixedFloat(0), DateFrom: enum.ZeroDate, DateTo: "1998-04-23"},
 	"M59":    {Gender: enum.Male, Upper: structs.NewFixedFloat(59.00), Lower: structs.NewFixedFloat(54.01), DateFrom: enum.ZeroDate, DateTo: "1998-04-23"},

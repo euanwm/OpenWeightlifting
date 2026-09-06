@@ -10,7 +10,7 @@ import (
 func PreCacheQuery() (permutation []structs.LeaderboardPayload) {
 	sortBy := []string{"total", "sinclair"}
 	federation := []string{"allfeds", "UK", "US", "NVF", "AUS", "FFH", "IWF", "IRE", "OPEN", "CH"}
-	weightClass := []string{"MALL", "FALL"}
+	weightClass := []string{"MALL", "FALL", "MFALL"}
 	yearDates := [][2]string{
 		{enum.ZeroDate, enum.MaxDate},
 		{enum.CurrentYearFilter(), enum.NextYearFitler()},

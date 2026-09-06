@@ -47,7 +47,9 @@ const (
 	// ALLFEDS - Pretty self-explanatory
 	ALLFEDS string = "allfeds"
 	// ALLCATS ALLWEIGHTS - Yes
-	ALLCATS     string = "allcats"
+	ALLCATS string = "allcats"
+	// ALLGENDERS - combined men's + women's leaderboard
+	ALLGENDERS  string = "allgenders"
 	AllYearsStr string = "69"
 	AllYears    int    = 69
 	ZeroDate    string = "0001-01-01"
