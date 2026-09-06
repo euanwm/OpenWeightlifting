@@ -36,6 +36,8 @@ definitions:
           $ref: '#/definitions/structs.Event'
         type: array
     type: object
+  structs.FixedFloat:
+    type: object
   structs.LeaderboardPayload:
     properties:
       enddate:
@@ -67,19 +69,19 @@ definitions:
   structs.Lift:
     properties:
       best_cj:
-        $ref: '#/definitions/structs.WeightKg'
+        $ref: '#/definitions/structs.FixedFloat'
       best_snatch:
-        $ref: '#/definitions/structs.WeightKg'
+        $ref: '#/definitions/structs.FixedFloat'
       bodyweight:
-        $ref: '#/definitions/structs.WeightKg'
+        $ref: '#/definitions/structs.FixedFloat'
       category:
         type: string
       cj_1:
-        $ref: '#/definitions/structs.WeightKg'
+        $ref: '#/definitions/structs.FixedFloat'
       cj_2:
-        $ref: '#/definitions/structs.WeightKg'
+        $ref: '#/definitions/structs.FixedFloat'
       cj_3:
-        $ref: '#/definitions/structs.WeightKg'
+        $ref: '#/definitions/structs.FixedFloat'
       event:
         allOf:
         - $ref: '#/definitions/structs.Event'
@@ -87,20 +89,23 @@ definitions:
       lifter:
         $ref: '#/definitions/structs.Lifter'
       sinclair:
+        allOf:
+        - $ref: '#/definitions/structs.FixedFloat'
         description: 'todo: change this to a key:value so we can differentiate between
           qpoints, sinclair etc.'
-        type: number
       snatch_1:
-        $ref: '#/definitions/structs.WeightKg'
+        $ref: '#/definitions/structs.FixedFloat'
       snatch_2:
-        $ref: '#/definitions/structs.WeightKg'
+        $ref: '#/definitions/structs.FixedFloat'
       snatch_3:
-        $ref: '#/definitions/structs.WeightKg'
+        $ref: '#/definitions/structs.FixedFloat'
       total:
-        $ref: '#/definitions/structs.WeightKg'
+        $ref: '#/definitions/structs.FixedFloat'
     type: object
   structs.Lifter:
     properties:
+      disambiguation:
+        type: integer
       federation:
         type: string
       gender:
@@ -119,9 +124,13 @@ definitions:
     type: object
   structs.NameSearch:
     properties:
+      disambiguation:
+        type: integer
       federation:
         type: string
       gender:
+        type: string
+      last_active:
         type: string
       name:
         type: string
@@ -164,7 +173,7 @@ definitions:
       position:
         type: integer
       total:
-        $ref: '#/definitions/structs.WeightKg'
+        $ref: '#/definitions/structs.FixedFloat'
     type: object
   structs.RivalsCombined:
     properties:
@@ -187,18 +196,25 @@ definitions:
       active_query:
         $ref: '#/definitions/structs.LeaderboardPayload'
       lifter_data:
-        $ref: '#/definitions/structs.NameSearch'
+        items:
+          $ref: '#/definitions/structs.NameSearch'
+        type: array
     type: object
   structs.SearchLeaderboardResult:
     properties:
       lifter_data:
-        $ref: '#/definitions/structs.NameSearch'
-      position:
-        type: integer
+        additionalProperties:
+          $ref: '#/definitions/structs.SearchResult'
+        type: object
       query:
         $ref: '#/definitions/structs.LeaderboardPayload'
     type: object
-  structs.WeightKg:
+  structs.SearchResult:
+    properties:
+      federation:
+        type: string
+      name:
+        type: string
     type: object
 host: api.openweightlifting.org
 info:
@@ -289,6 +305,11 @@ paths:
         in: query
         name: federation
         type: string
+      - description: Disambiguation index from the search endpoint, for names shared
+          by multiple lifters
+        in: query
+        name: disamb
+        type: integer
       produces:
       - application/json
       responses:
@@ -298,6 +319,8 @@ paths:
             $ref: '#/definitions/structs.LifterHistory'
         "204":
           description: No Content
+        "400":
+          description: Bad Request
       summary: Retrieve a lifter's history
       tags:
       - GET Requests

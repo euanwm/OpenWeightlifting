@@ -266,33 +266,40 @@ func LeaderboardSearch(c *gin.Context) {
 		return
 	}
 
-	// Check that the lifter exists
-	validLifterName := lifter.NameSearch(body.LifterData.NameStr, LifterRoster)
-
-	if validLifterName.Total == 0 {
-		c.JSON(http.StatusOK, gin.H{"error": "Name not in database"})
-		return
-	}
-
-	// Filter by federation if required
-	var filterByFed []structs.NameSearch
-	if validLifterName.Total >= 1 && body.LifterData.Federation != "" {
-		filterByFed = append(filterByFed, utilities.Filter(validLifterName.Names, func(m structs.NameSearch) bool {
-			return m.Federation == body.LifterData.Federation
-		})...)
-	} else if validLifterName.Total > 1 {
-		log.Println("Multiple lifter names found, but no federation specified")
-		filterByFed = validLifterName.Names
-	}
-
-	finalLifter := filterByFed[0]
-
 	leaderboardData := LeaderboardData.Select(body.ActiveQuery.SortBy)
 
-	// Now we see if the name appears in the query
+	results := make(map[int]structs.SearchResult)
+	for _, query := range body.LifterData {
+		// Check that the lifter exists
+		validLifterName := lifter.NameSearch(query.NameStr, LifterRoster)
+		if validLifterName.Total == 0 {
+			continue
+		}
+
+		// Filter by federation if required
+		var filterByFed []structs.NameSearch
+		if query.Federation != "" {
+			filterByFed = utilities.Filter(validLifterName.Names, func(m structs.NameSearch) bool {
+				return m.Federation == query.Federation
+			})
+		} else {
+			if validLifterName.Total > 1 {
+				log.Println("Multiple lifter names found, but no federation specified: ", query.NameStr)
+			}
+			filterByFed = validLifterName.Names
+		}
+		if len(filterByFed) == 0 {
+			continue
+		}
+		finalLifter := filterByFed[0]
+
+		// Now we see if the name appears in the query
+		position := dbtools.LeaderboardPosition(leaderboardData, body.ActiveQuery, &QueryCache, finalLifter)
+		results[position] = structs.SearchResult{Name: finalLifter.NameStr, Federation: finalLifter.Federation}
+	}
+
 	leaderboardResult := structs.SearchLeaderboardResult{
-		LifterData: body.LifterData,
-		Position:   dbtools.LeaderboardPosition(leaderboardData, body.ActiveQuery, &QueryCache, finalLifter),
+		LifterData: results,
 		Query:      body.ActiveQuery,
 	}
 

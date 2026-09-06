@@ -134,6 +134,12 @@ const docTemplate = `{
                         "description": "Federation to filter lifts by",
                         "name": "federation",
                         "in": "query"
+                    },
+                    {
+                        "type": "integer",
+                        "description": "Disambiguation index from the search endpoint, for names shared by multiple lifters",
+                        "name": "disamb",
+                        "in": "query"
                     }
                 ],
                 "responses": {
@@ -145,6 +151,9 @@ const docTemplate = `{
                     },
                     "204": {
                         "description": "No Content"
+                    },
+                    "400": {
+                        "description": "Bad Request"
                     }
                 }
             }
@@ -473,6 +482,9 @@ const docTemplate = `{
                 }
             }
         },
+        "structs.FixedFloat": {
+            "type": "object"
+        },
         "structs.LeaderboardPayload": {
             "type": "object",
             "properties": {
@@ -520,25 +532,25 @@ const docTemplate = `{
             "type": "object",
             "properties": {
                 "best_cj": {
-                    "$ref": "#/definitions/structs.WeightKg"
+                    "$ref": "#/definitions/structs.FixedFloat"
                 },
                 "best_snatch": {
-                    "$ref": "#/definitions/structs.WeightKg"
+                    "$ref": "#/definitions/structs.FixedFloat"
                 },
                 "bodyweight": {
-                    "$ref": "#/definitions/structs.WeightKg"
+                    "$ref": "#/definitions/structs.FixedFloat"
                 },
                 "category": {
                     "type": "string"
                 },
                 "cj_1": {
-                    "$ref": "#/definitions/structs.WeightKg"
+                    "$ref": "#/definitions/structs.FixedFloat"
                 },
                 "cj_2": {
-                    "$ref": "#/definitions/structs.WeightKg"
+                    "$ref": "#/definitions/structs.FixedFloat"
                 },
                 "cj_3": {
-                    "$ref": "#/definitions/structs.WeightKg"
+                    "$ref": "#/definitions/structs.FixedFloat"
                 },
                 "event": {
                     "description": "parent; already the context when nested under Event.Results/EventResponse",
@@ -553,25 +565,32 @@ const docTemplate = `{
                 },
                 "sinclair": {
                     "description": "todo: change this to a key:value so we can differentiate between qpoints, sinclair etc.",
-                    "type": "number"
+                    "allOf": [
+                        {
+                            "$ref": "#/definitions/structs.FixedFloat"
+                        }
+                    ]
                 },
                 "snatch_1": {
-                    "$ref": "#/definitions/structs.WeightKg"
+                    "$ref": "#/definitions/structs.FixedFloat"
                 },
                 "snatch_2": {
-                    "$ref": "#/definitions/structs.WeightKg"
+                    "$ref": "#/definitions/structs.FixedFloat"
                 },
                 "snatch_3": {
-                    "$ref": "#/definitions/structs.WeightKg"
+                    "$ref": "#/definitions/structs.FixedFloat"
                 },
                 "total": {
-                    "$ref": "#/definitions/structs.WeightKg"
+                    "$ref": "#/definitions/structs.FixedFloat"
                 }
             }
         },
         "structs.Lifter": {
             "type": "object",
             "properties": {
+                "disambiguation": {
+                    "type": "integer"
+                },
                 "federation": {
                     "type": "string"
                 },
@@ -600,10 +619,16 @@ const docTemplate = `{
         "structs.NameSearch": {
             "type": "object",
             "properties": {
+                "disambiguation": {
+                    "type": "integer"
+                },
                 "federation": {
                     "type": "string"
                 },
                 "gender": {
+                    "type": "string"
+                },
+                "last_active": {
                     "type": "string"
                 },
                 "name": {
@@ -667,7 +692,7 @@ const docTemplate = `{
                     "type": "integer"
                 },
                 "total": {
-                    "$ref": "#/definitions/structs.WeightKg"
+                    "$ref": "#/definitions/structs.FixedFloat"
                 }
             }
         },
@@ -703,7 +728,10 @@ const docTemplate = `{
                     "$ref": "#/definitions/structs.LeaderboardPayload"
                 },
                 "lifter_data": {
-                    "$ref": "#/definitions/structs.NameSearch"
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/structs.NameSearch"
+                    }
                 }
             }
         },
@@ -711,18 +739,26 @@ const docTemplate = `{
             "type": "object",
             "properties": {
                 "lifter_data": {
-                    "$ref": "#/definitions/structs.NameSearch"
-                },
-                "position": {
-                    "type": "integer"
+                    "type": "object",
+                    "additionalProperties": {
+                        "$ref": "#/definitions/structs.SearchResult"
+                    }
                 },
                 "query": {
                     "$ref": "#/definitions/structs.LeaderboardPayload"
                 }
             }
         },
-        "structs.WeightKg": {
-            "type": "object"
+        "structs.SearchResult": {
+            "type": "object",
+            "properties": {
+                "federation": {
+                    "type": "string"
+                },
+                "name": {
+                    "type": "string"
+                }
+            }
         }
     }
 }`
