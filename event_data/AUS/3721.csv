@@ -1,0 +1,11 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+Commonwealth Games,2026-07-26,female - F53,Brenna Kean,52.65,-73,73,-75,0,0,0,73,0,0
+Commonwealth Games,2026-07-26,female - F58,Ashley Kolomoisky,57.55,78,81,84,100,104,-108,84,104,188
+Commonwealth Games,2026-07-26,female - F63,Kiana Elliott,62.05,-95,95,99,112,115,-118,99,115,214
+Commonwealth Games,2026-07-26,female - F69,Nya Hayman,68.75,97,-100,-100,118,121,-124,97,121,218
+Commonwealth Games,2026-07-26,female - F77,Isabella Andueza,76.45,-89,-89,-89,0,0,0,0,0,0
+Commonwealth Games,2026-07-26,female - F86,Eileen Cikamatana,85.55,-108,108,-112,134,140,-146,108,140,248
+Commonwealth Games,2026-07-26,male - M79,Rory Scott,78.65,130,135,-140,165,-170,-170,135,165,300
+Commonwealth Games,2026-07-26,male - M88,Ryven Ewing,86.65,-132,132,136,-170,170,-175,136,170,306
+Commonwealth Games,2026-07-26,male - M94,Oliver Saxton,93.45,150,156,-160,-180,180,-191,156,180,336
+Commonwealth Games,2026-07-26,male - M110,Ridge Barredo,109.65,-155,155,-162,-190,-190,-190,155,0,0
