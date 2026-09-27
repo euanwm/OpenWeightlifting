@@ -128,7 +128,7 @@ func BenchmarkRival(b *testing.B) {
 
 func BenchmarkEventsList(b *testing.B) {
 	engine := setupBenchmark(b)
-	target := withQuery("/events/list", map[string]string{"startdate": enum.ZeroDate, "enddate": enum.MaxDate})
+	target := withQuery("/events/list", map[string]string{"startdate": enum.ZeroDate, "enddate": "2099-12-31"}) // enum.MaxDate's month 00 fails to parse and matches nothing
 	b.ResetTimer()
 	for i := 0; i < b.N; i++ {
 		doRequest(engine, http.MethodGet, target, nil)
