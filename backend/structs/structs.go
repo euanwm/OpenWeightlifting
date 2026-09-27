@@ -38,6 +38,8 @@ type RivalsResult struct {
 
 type Rival struct {
 	Position   int        `json:"position"`
+	BestSnatch FixedFloat `json:"best_snatch"`
+	BestCJ     FixedFloat `json:"best_cj"`
 	Total      FixedFloat `json:"total"`
 	Lifter     string     `json:"lifter"`
 	Federation string     `json:"federation"`

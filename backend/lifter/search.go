@@ -86,6 +86,8 @@ func Rivals(nameStr string, bigData []*structs.Lift) (rivalResults structs.Rival
 		rival := bigData[i]
 		rivalResults.Rivals = append(rivalResults.Rivals, structs.Rival{
 			Position:   i + 1,
+			BestSnatch: rival.BestSn,
+			BestCJ:     rival.BestCJ,
 			Total:      rival.Total,
 			Lifter:     rival.Lifter.Name,
 			Federation: rival.Event.Federation,
