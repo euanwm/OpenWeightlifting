@@ -1,0 +1,10 @@
+event,date,gender,lifter,body_weight_(kg),snatch_lift_1,snatch_lift_2,snatch_lift_3,c&j_lift_1,c&j_lift_2,c&j_lift_3,best_snatch,best_c&j,total
+CrossFit Darwin Open,2026-09-27,female - F53,Emily Tjung,52.94,28,30,32,37,41,43,32,43,75
+CrossFit Darwin Open,2026-09-27,female - F61,Veronika Lower,59.80,43,44,45,60,63,65,45,65,110
+CrossFit Darwin Open,2026-09-27,female - F69,Deanne Alvarez,68.30,52,57,62,70,75,80,62,80,142
+CrossFit Darwin Open,2026-09-27,female - F86,Marcelle Teycheney,80.10,47,50,-52,58,62,-66,50,62,112
+CrossFit Darwin Open,2026-09-27,male - M65,Rohit Kansra,63.60,50,52,55,68,72,75,55,75,130
+CrossFit Darwin Open,2026-09-27,male - M95,Ben Fuller,90.60,70,75,80,105,110,0,80,110,190
+CrossFit Darwin Open,2026-09-27,male - M95,Jeremy Wong,90.55,73,77,82,90,95,100,82,100,182
+CrossFit Darwin Open,2026-09-27,male - M110,Rit Coomber,109.60,63,67,70,78,-83,-90,70,78,148
+CrossFit Darwin Open,2026-09-27,male - M110,Sean Parkes,97.50,45,49,53,0,0,0,53,0,0
