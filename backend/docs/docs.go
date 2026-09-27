@@ -702,6 +702,12 @@ const docTemplate = `{
         "structs.Rival": {
             "type": "object",
             "properties": {
+                "best_cj": {
+                    "$ref": "#/definitions/structs.FixedFloat"
+                },
+                "best_snatch": {
+                    "$ref": "#/definitions/structs.FixedFloat"
+                },
                 "federation": {
                     "type": "string"
                 },
