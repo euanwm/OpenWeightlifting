@@ -165,5 +165,10 @@ type SingleEvent struct {
 }
 
 type EventsList struct {
-	Events []Event `json:"events"`
+	Events []EventListItem `json:"events"`
+}
+
+type EventListItem struct {
+	*Event
+	Participants int `json:"participants"`
 }

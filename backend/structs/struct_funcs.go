@@ -86,13 +86,13 @@ func (e LeaderboardData) Select(sortBy string) []*Lift {
 	return lifts
 }
 
-func (e EventsData) FetchEventWithinDate(startDate, endDate string) (events []Event) {
+func (e EventsData) FetchEventWithinDate(startDate, endDate string) (events []EventListItem) {
 	startDateTime, _ := utilities.StringToDate(startDate)
 	endDateTime, _ := utilities.StringToDate(endDate)
 	for _, event := range e.Events {
 		eventDateTime, _ := utilities.StringToDate(event.Date)
 		if eventDateTime.After(startDateTime) && eventDateTime.Before(endDateTime) {
-			events = append(events, *event)
+			events = append(events, EventListItem{Event: event, Participants: len(event.Results)})
 		}
 	}
 	return
