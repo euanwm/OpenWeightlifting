@@ -20,6 +20,19 @@ definitions:
       name:
         type: string
     type: object
+  structs.EventListItem:
+    properties:
+      date:
+        type: string
+      federation:
+        type: string
+      id:
+        type: string
+      name:
+        type: string
+      participants:
+        type: integer
+    type: object
   structs.EventResponse:
     properties:
       event:
@@ -33,7 +46,7 @@ definitions:
     properties:
       events:
         items:
-          $ref: '#/definitions/structs.Event'
+          $ref: '#/definitions/structs.EventListItem'
         type: array
     type: object
   structs.FixedFloat:

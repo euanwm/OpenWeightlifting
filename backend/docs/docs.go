@@ -457,6 +457,26 @@ const docTemplate = `{
                 }
             }
         },
+        "structs.EventListItem": {
+            "type": "object",
+            "properties": {
+                "date": {
+                    "type": "string"
+                },
+                "federation": {
+                    "type": "string"
+                },
+                "id": {
+                    "type": "string"
+                },
+                "name": {
+                    "type": "string"
+                },
+                "participants": {
+                    "type": "integer"
+                }
+            }
+        },
         "structs.EventResponse": {
             "type": "object",
             "properties": {
@@ -477,7 +497,7 @@ const docTemplate = `{
                 "events": {
                     "type": "array",
                     "items": {
-                        "$ref": "#/definitions/structs.Event"
+                        "$ref": "#/definitions/structs.EventListItem"
                     }
                 }
             }
